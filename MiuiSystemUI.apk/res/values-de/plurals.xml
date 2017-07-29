@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="status_bar_accessibility_recent_apps">
+     <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Öffnet kürzlich verfügbare Apps: %d.</item>
+        <item quantity="one">Öffnet kürzlich verfügbare App: 1.</item>
+     </plurals>
+     <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Öffnet kürzlich verfügbare Apps: %d. Wischen Sie nach oben um zu entfernen, wischen Sie nach unten um zu sperren.</item>
+        <item quantity="one">Öffnet kürzlich verfügbare App: 1. Wischen Sie nach oben um zu entfernen, wischen Sie nach unten um zu sperren.</item>
+     </plurals>
+     <plurals name="block_record_notification_more_text">
+        <item quantity="other">Ausblenden von Benachrichtigungen aus %1$s &amp; %2$d Apps.</item>
+        <item quantity="one">Ausblenden der Benachrichtigung aus %1$s &amp; 1 App.</item>
+     </plurals>
+     <plurals name="disable_notification_confirm_title">
+        <item quantity="other">"Verberge %d App Benachrichtigungen?"</item>
+        <item quantity="one">"Verberge Benachrichtigungen dieser App?"</item>
+     </plurals>
+     <plurals name="fold_tips_title">
+        <item quantity="other">%d Benachrichtigungen sind aufgeklappt</item>
+        <item quantity="one">%d Benachrichtigung ist aufgeklappt</item>
+     </plurals>
+     <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d Umschalter über diese Bar sind aktiv</item>
+        <item quantity="one">1 Umschalter über diese Bar ist aktiv</item>
+     </plurals>
+     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d letzten Apps</item>
         <item quantity="one">1 letzte App</item>
-    </plurals>
-    <plurals name="disable_notification_confirm_title">
-        <item quantity="other">"Verberge %d apps' Benachrichtigungen?"</item>
-        <item quantity="one">"Verberge Benachrichtigungen dieser App?"</item>
-    </plurals>
-    <plurals name="view_realtime_clear">
+     </plurals>
+     <plurals name="view_realtime_clear">
         <item quantity="other">Klar</item>
         <item quantity="one">Sonnig</item>
-    </plurals>
-</resources>
+     </plurals>
