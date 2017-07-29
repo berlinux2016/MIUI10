@@ -1,5 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
   <string name="accessibility_enter_lock_wallpaper">Klicken Sie auf die Bildschirmsperre</string>
   <string name="click_to_enter_text">Zum Anzeigen antippen</string>
   <string name="confirm_pin_msg">PIN erneut eingeben</string>
@@ -20,12 +18,12 @@
   <string name="fingerprint_add_title">Fingerabdruck hinzufügen</string>
   <string name="fingerprint_again_identified_msg">Ihr Fingerabdruck ist jetzt aktiv. Verwenden Sie diesen oder ein Passwort, um Ihr Gerät zu entsperren</string>
   <string name="fingerprint_enter_second_psw_msg">Geben Sie nach dem Neustart Ihr Zweitprofilpasswort ein, um die Fingerabdruckerkennung verwenden zu können</string>
-    <string name="fingerprint_enter_second_psw_msg_oldman">Im Lightmodus kann nicht auf das Zweitprofil zugegriffen werden</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">Im Lightmodus kann nicht auf das Zweitprofil zugegriffen werden</string>
   <string name="fingerprint_enter_second_psw_title">Zweitprofilpasswort eingeben</string>
   <string name="fingerprint_lockout_msg">Warten Sie eine Minute. Versuchen Sie es danach nochmals, per Fingerabdruck zu entsperren</string>
   <string name="fingerprint_not_identified_msg">Um Ihr Gerät zu entsperren, geben Sie Ihr Passwort ein.</string>
   <string name="fingerprint_not_identified_title">"Fingerabdruck konnte nicht erkannt werden"</string>
-    <string name="fingerprint_try_again_msg">Fingerabruck konnte nicht überprüft werden</string>
+  <string name="fingerprint_try_again_msg">Fingerabruck konnte nicht überprüft werden</string>
   <string name="fingerprint_try_again_text">Erneut versuchen</string>
   <string name="forget_password_string">Kennwort vergessen</string>
   <string name="incorrect_pincode">Falscher PIN-Code</string>
@@ -34,7 +32,7 @@
   <string name="incorrect_pukcode_remaining_attempts">Falscher PUK-Code, %d Versuche verbleibend</string>
   <string name="input_password_after_boot_msg">"Sie müssen das Kennwort eingeben, nachdem das Gerät neu gestartet wurde"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Während eines Gesprächs kann nicht zwischen den Profilen gewechselt werden</string>
-    <string name="input_password_after_boot_msg_must_enter_owner_space">Sie müssen nach dem Neustart des Geräts das Hauptprofil betreten</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">Sie müssen nach dem Neustart des Geräts das Hauptprofil betreten</string>
   <string name="input_password_hint_text">Kennwort eingeben</string>
   <string name="input_pattern_hint_text">Zeichnen Sie Ihr Entsperrmuster</string>
   <string name="input_pin_code">PIN eingeben</string>
@@ -42,39 +40,43 @@
   <string name="invalid_confirm_pin_hint">PIN-Codes stimmen nicht überein</string>
   <string name="invalid_sim_pin_hint">Geben Sie eine PIN mit 4 bis 8 Zahlen ein</string>
   <string name="invalid_sim_puk_hint">Der PUK-Code sollte aus 8 Zahlen oder mehr bestehen</string>
-    <string name="keyguard_charging_info_battery_temperature_text">Akkutemperatur</string>
-    <string name="keyguard_charging_info_battery_used_time_text">Akkubetrieb</string>
-    <string name="keyguard_charging_info_charging_full_need_hour_time__text">Etwa %d Std bis voll</string>
-    <string name="keyguard_charging_info_charging_full_need_min_time__text">Etwa %d Min bis voll​</string>
-    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Etwa %d Std %d Min bis voll</string>
-    <string name="keyguard_charging_info_charging_text">Aufladen</string>
-    <string name="keyguard_charging_info_charging_voltage_text">Spannung</string>
-    <string name="keyguard_charging_info_click_to_detail">Details anzeigen</string>
-    <string name="keyguard_charging_info_could_use_hour_time_text">Etwa %d Std verbleiben</string>
-    <string name="keyguard_charging_info_could_use_min_time_text">Etwa %d Min verbleiben</string>
-    <string name="keyguard_charging_info_could_use_time_text" formatted="false">Etwa %d Std %d Min verbleiben</string>
-    <string name="keyguard_charging_info_current_now_text">Echtzeit-Monitoring</string>
-    <string name="keyguard_charging_info_data_c">%s℃</string>
-    <string name="keyguard_charging_info_data_ma">%smA</string>
-    <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_charging_info_data_v">%sV</string>
-    <string name="keyguard_charging_info_drained_hour_time_format">%d Std</string>
-    <string name="keyguard_charging_info_drained_min_time_format">%d Min</string>
-    <string name="keyguard_charging_info_drained_power_percent_text">Entladen</string>
-    <string name="keyguard_charging_info_drained_time_format" formatted="false">%d Std %d Min</string>
-    <string name="keyguard_charging_info_finished_charging_text">Voll aufgeladen</string>
-    <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
-    <string name="keyguard_charging_info_last_charge_today_time">Heute %s</string>
-    <string name="keyguard_charging_info_last_charge_yesterday_time">Gestern %s</string>
-    <string name="keyguard_charging_info_last_charged_time_text">Letztes Aufladen</string>
-    <string name="keyguard_charging_info_tip_text1">Entladen Sie Ihr Akku nicht unter 10%, um die Akkulebensdauer zu verlängern.</string>
-    <string name="keyguard_charging_info_tip_text2">Überladen Sie Ihr Gerät nicht. Mehrere kürzere Ladungen sind besser als eine Übernachtladung.</string>
-    <string name="keyguard_charging_info_tip_text3">Laden Ihr Gerät nicht auf, wenn die Umgebungstemperatur niedriger als 0 ℃ ist.</string>
-    <string name="keyguard_charging_info_tip_text4">Verwenden Sie Ihr Gerät nicht beim Aufladen, um eine Überhitzung zu vermeiden.</string>
-    <string name="keyguard_charging_info_tip_text5">Akkus müssen länger aufgeladen werden, wenn sie heißer als üblich sind.</string>
-    <string name="keyguard_charging_info_tip_text6">Schalten Sie den Bildschirm aus und legen Sie Ihr Gerät hin, um es abzukühlen.</string>
-    <string name="keyguard_quick_charging_info_click_to_detail">Schnellladung , klicken Sie für Details</string>
-    <string name="keyguard_quickly_charging_info_charging_text">Schnellladung</string>
+  <string name="keyguard_charging_info_battery_temperature_text">Akkutemperatur</string>
+  <string name="keyguard_charging_info_battery_used_time_text">Akkubetrieb</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Etwa %d Std bis voll</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">Etwa %d Min bis voll​</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Etwa %d Std %d Min bis voll</string>
+  <string name="keyguard_charging_info_charging_text">Aufladen</string>
+  <string name="keyguard_charging_info_charging_voltage_text">Spannung</string>
+  <string name="keyguard_charging_info_click_to_detail">Details anzeigen</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Etwa %d Std verbleiben</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Etwa %d Min verbleiben</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Etwa %d Std %d Min verbleiben</string>
+  <string name="keyguard_charging_info_current_now_text">Echtzeit-Monitoring</string>
+  <string name="keyguard_charging_info_data_c">%s℃</string>
+  <string name="keyguard_charging_info_data_ma">%smA</string>
+  <string name="keyguard_charging_info_data_percent">%s%%</string>
+  <string name="keyguard_charging_info_data_v">%sV</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">%d Std</string>
+  <string name="keyguard_charging_info_drained_min_time_format">%d Min</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Entladen</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d Std %d Min</string>
+  <string name="keyguard_charging_info_finished_charging_text">Voll aufgeladen</string>
+  <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
+  <string name="keyguard_charging_info_last_charge_today_time">Heute %s</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">Gestern %s</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Letztes Aufladen</string>
+  <string name="keyguard_charging_info_tip_text1">Entladen Sie Ihr Akku nicht unter 10%, um die Akkulebensdauer zu verlängern.</string>
+  <string name="keyguard_charging_info_tip_text2">Überladen Sie Ihr Gerät nicht. Mehrere kürzere Ladungen sind besser als eine Übernachtladung.</string>
+  <string name="keyguard_charging_info_tip_text3">Laden Ihr Gerät nicht auf, wenn die Umgebungstemperatur niedriger als 0 ℃ ist.</string>
+  <string name="keyguard_charging_info_tip_text4">Verwenden Sie Ihr Gerät nicht beim Aufladen, um eine Überhitzung zu vermeiden.</string>
+  <string name="keyguard_charging_info_tip_text5">Akkus müssen länger aufgeladen werden, wenn sie heißer als üblich sind.</string>
+  <string name="keyguard_charging_info_tip_text6">Schalten Sie den Bildschirm aus und legen Sie Ihr Gerät hin, um es abzukühlen.</string>
+  <string name="keyguard_left_bankcard">Mi Pay</string>
+  <string name="keyguard_left_buscard">Transport card</string>
+  <string name="keyguard_left_remotecentral">Mi Remote</string>
+  <string name="keyguard_left_smarthome">Mi Home</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Schnellladung , klicken Sie für Details</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Schnellladung</string>
   <string name="keyguard_torch_cover_text">Halten Sie die Einschalttaste gedrückt, um die Lampe dauerhaft einzuschalten</string>
   <string name="left_action_default_hint_text">Telefon</string>
   <string name="lock_screen_date">EEEE, dd. MMMM</string>
@@ -99,12 +101,12 @@
   <string name="login_website_in_case_forget_password">Besuchen Sie www.mi.com/micloud, um das Kennwort zurückzusetzen</string>
   <string name="missed_call_text">%d entgangene Anrufe</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Mit Bluetoothgerät entsperrt</string>
-  <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
-  <string name="notification_missedCallTitle">Entgangener Anruf</string>
   <string name="notification_missedCall_call_back">Zurückrufen</string>
   <string name="notification_missedCall_message">Nachricht</string>
   <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
   <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
+  <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
+  <string name="notification_missedCallTitle">Entgangener Anruf</string>
   <string name="notification_network_selection_text">Ausgewähltes Netzwerk (%s) nicht verfügbar</string>
   <string name="notification_network_selection_title">Kein Dienst</string>
   <string name="notification_voicemail_no_vm_number">Nachricht von Unbekannt</string>
@@ -115,10 +117,14 @@
   <string name="open_remote_center_hint_text">Zum Telefonieren nach rechts wischen</string>
   <string name="open_wifi_settings">Netzwerkverbindung öffnen</string>
   <string name="phone_locked_foget_password">Passwort vergessen?</string>
+  <string name="phone_locked_foget_password_content">"Sie können sich bei i.mi.com mit dem Mi-Konto anmelden, das mit diesem Gerät verknüpft ist, und löschen Sie alle Daten. Dadurch werden alle auf diesem Gerät gespeicherten persönlichen Daten gelöscht. Danach können Sie das Gerät neu starten und Kontakte, Nachrichten, Fotos und andere Elemente von Mi Cloud wiederherstellen. Sie können das nicht tun, es sei denn, Sie haben sich in Ihrem Mi-Konto auf diesem Gerät angemeldet. Ansonsten musst Du das Gerät wieder löschen."</string>
+  <string name="phone_locked_foget_password_footer">"Schritte: Melden Sie sich bei i.mi.com an, gehen Sie auf "Gerät suchen", wählen Sie das Gerät aus und drücken Sie auf Gerät löschen."</string>
+  <string name="phone_locked_foget_password_header">Was soll ich tun, wenn ich mein Passwort vergessen habe?</string>
   <string name="phone_locked_foget_password_ok">Ich habs</string>
   <string name="phone_locked_string">Gerät ist gesperrt</string>
   <string name="phone_locked_timeout_minutes_string">Nach %s Minuten erneut versuchen</string>
   <string name="phone_locked_timeout_seconds_string">Nach %s Sekunden erneut versuchen</string>
+  <string name="symbol_colon">:</string>
   <string name="unlock_sim_string">OK</string>
   <string name="unlock_string">Entsperren</string>
   <string name="unlocking_sim_card">SIM-Karte wird entsperrt</string>
@@ -127,4 +133,4 @@
   <string name="unlockscreen_recharge_completed">Aufgeladen</string>
   <string name="unlockscreen_recharging_message">Wird geladen %d%%</string>
   <string name="wrong_password">Ungültiges Passwort</string>
-</resources>
+ 
