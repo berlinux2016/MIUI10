@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="stat_volume_button_behaviors">
+       <item>Keine</item>
+       <item>Schlummern</item>
+       <item>Beenden</item>
+   </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Wecker klingelt in weniger als 1 Minute</item>
+        <item>Wecker klingelt in %1$s</item>
+        <item>Wecker klingelt in %2$s</item>
+        <item>Wecker klingelt in %1$s %2$s</item>
+        <item>Wecker klingelt in %3$s</item>
+        <item>Wecker klingelt in %1$s %3$s</item>
+        <item>Wecker klingelt in %2$s %3$s</item>
+        <item>Wecker klingelt in %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Gestern</item>
+        <item>Heute</item>
+        <item>Morgen</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Einmalig</item>
+        <item>Täglich</item>
+        <item>an Werktagen</item>
+	<item>an freien Tagen</item>
+        <item>Mo bis Fr</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Einmalig</item>
+        <item>Täglich</item>
+        <item>Mo bis Fr</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Der Wecker klingelt in weniger als 1 Minute</item>
+        <item>Der Wecker klingelt in %1$s</item>
+        <item>Der Wecker klingelt in %2$s</item>
+        <item>Der Wecker klingelt in %1$s und %2$s</item>
+        <item>Der Wecker klingelt in %3$s</item>
+        <item>Der Wecker klingelt in %1$s und %3$s</item>
+        <item>Der Wecker klingelt in %2$s und %3$s</item>
+        <item>Der Wecker klingelt in %1$s, %2$s, und %3$s</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 Minute</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>20 Minuten</item>
+        <item>25 Minuten</item>
+        <item>30 Minuten</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Nie</item>
+        <item>1 Minute</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>20 Minuten</item>
+        <item>25 Minuten</item>
+        <item>30 Minuten</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Keine Aktion</item>
+        <item>Schlummern</item>
+        <item>Beenden</item>
+    </string-array>
+</resources>
