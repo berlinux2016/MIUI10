@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="transformation_entries">
-        <item>Schieben</item>
-        <item>Überblendung</item>
-        <item>Umfallen</item>
-        <item>Seite</item>
-        <item>Kaskada</item>
-        <item>Drehen</item>
-        <item>Würfel</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>Theme (Standard)</item>
-        <item>Zentriert</item>
-        <item>Links</item>
-        <item>Rechts</item>
-    </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>Standard</item>
-        <item>Classic</item>
-    </string-array>
-    <string-array name="gadget_weather_image">
+     <string-array name="editing_mode_entries">
+        <item>Wallpaper</item>
+        <item>Widgets</item>
+        <item>Setting</item>
+     </string-array>
+     <string-array name="gadget_weather_image">
         <item>Klar</item>
         <item>Bewölkt</item>
         <item>Bedeckt</item>
@@ -45,12 +31,27 @@
         <item>Hagel</item>
         <item>Feinstaub</item>
         <item>Dunst</item>
-    </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Themen</item>
-        <item>Widgets</item>
-        <item>Hintergrund</item>
-        <item>Effekte</item>
-        <item>Positionen</item>
-    </string-array>
+     </string-array>
+     <string-array name="gadget_weather_theme_type_entries">
+        <item>Standard</item>
+        <item>Classic</item>
+     </string-array>
+     <string-array name="quality_business_devices">
+        <item>lithium</item>
+     </string-array>
+     <string-array name="transformation_entries">
+        <item>Schieben</item>
+        <item>Überblendung</item>
+        <item>Umfallen</item>
+        <item>Seite</item>
+        <item>Kaskada</item>
+        <item>Drehen</item>
+        <item>Würfel</item>
+     </string-array>
+     <string-array name="wallpaper_scroll_entries">
+        <item>Theme (Standard)</item>
+        <item>Zentriert</item>
+        <item>Links</item>
+        <item>Rechts</item>
+     </string-array>
 </resources>
