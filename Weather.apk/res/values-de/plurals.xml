@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">%1$s Tage Vorhersage</item>
+        <item quantity="one">%1$s Tag Vorhersage</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">vor %d Minuten</item>
+        <item quantity="one">vor %d Minute</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">vor %d Stunden</item>
+        <item quantity="one">vor %d Stunde</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">vor %d Tagen</item>
+        <item quantity="one">vor %d Tag</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Klar</item>
+        <item quantity="one">Sonnig</item>
+    </plurals>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">"<font color='#20a7ff'>%1$s</font> Personen haben abgestimmt"</item>
+        <item quantity="one">"<font color='#20a7ff'>%1$s</font> Person hat abgestimmt"</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s Personen</item>
+        <item quantity="one"> | %1$s Person</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s Personen | </item>
+        <item quantity="one">%1$s Person | </item>
+    </plurals>
+</resources>
