@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_memory_clean">
+        <item>In 1 Minute</item>
+        <item>In 5 Minuten</item>
+        <item>In 10 Minuten</item>
+        <item>In 30 Minuten</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Diese Woche "</item>
+        <item>"Heute "</item>
+        <item>"Diesen Monat "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Gestern "</item>
+        <item>"Heute "</item>
+        <item>"Diesen Monat "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Diese Woche: "</item>
+        <item>"Heute: "</item>
+        <item>"Diesen Monat: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Gestern: "</item>
+        <item>"Heute: "</item>
+        <item>"Diesen Monat: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Mobile Daten gestern</item>
+        <item>Mobile Daten heute</item>
+        <item>Mobile Daten diesen Monat</item>
+        <item>WLAN gestern WLAN</item>
+        <item>WLAN heute</item>
+        <item>WLAN diesen Monat</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Mobile Daten gestern</item>
+        <item>Mobile Daten heute</item>
+        <item>Mobile Daten diesen Monat</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 Sek.</item>
+        <item>4 Sek.</item>
+        <item>5 Sek.</item>
+        <item>6 Sek.</item>
+        <item>7 Sek.</item>
+        <item>8 Sek.</item>
+        <item>9 Sek.</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobile Daten "</item>
+        <item>"WLAN "</item>
+        <item>"Daten gespeichert "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobile Daten "</item>
+        <item>"WLAN "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Mobile Daten "</item>
+        <item>"WLAN "</item>
+        <item>"Daten gespeichert "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Automatisch beziehen</item>
+        <item>Manuell einstellen</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Warnung anzeigen</item>
+        <item>Warnen und mobile Daten ausschalten</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Am häufigsten verwendet</item>
+        <item>Name</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Immer</item>
+        <item>Nur Ausnahmen</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Aus</item>
+        <item>Niedrig</item>
+        <item>Mittel</item>
+        <item>Hoch</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Wenn der Bildschirm gesperrt wird</item>
+        <item>Nach dem Beenden der App sperren</item>
+        <item>1 Minute nach dem Beenden der App sperren</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Nach 1 Minute</item>
+        <item>Nach 5 Minuten</item>
+        <item>Nach 10 Minuten</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 Sekunden</item>
+        <item>30 Sekunden</item>
+        <item>1 Minute</item>
+        <item>2 Minuten</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Hohe Leistung</item>
+        <item>Ausgeglichen</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Ausschalten</item>
+        <item>Einschalten</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nie vibrieren</item>
+        <item>Vibrieren, wenn stumm geschaltet</item>
+        <item>Immer vibrieren</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Einmal</item>
+        <item>Täglich</item>
+        <item>Werktags</item>
+        <item>Wochenende</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Einmal</item>
+        <item>Täglich</item>
+        <item>Wochentags</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+</resources>

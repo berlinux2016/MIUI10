@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wild_msg_sync_options">
+        <item>Synchronisieren Sie alle Nachrichten</item>
+        <item>Synchronisierungsnachrichten von ausgewählten SIM-Karten</item>
+     </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 Mal</item>
+        <item>2 Mal</item>
+        <item>3 Mal</item>
+        <item>5 Mal</item>
+        <item>10 Mal</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Name</item>
+        <item>Nickname</item>
+        <item>Telefon</item>
+        <item>Email</item>
+        <item>Organisation</item>
+        <item>IM</item>
+        <item>SIP Phone</item>
+        <item>Geburtstag</item>
+        <item>Website</item>
+        <item>Adresse</item>
+        <item>Notiz</item>
+        <item>Beziehung</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi Nachricht</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi Nachricht</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Nicht festgelegt</item>
+        <item>1 Stunde</item>
+        <item>6 Stunden</item>
+        <item>12 Stunden</item>
+        <item>1 Tag</item>
+        <item>Maximum</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Maximum</item>
+        <item>2 Tage</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 Sekunde</item>
+        <item>2 Sekunden</item>
+        <item>3 Sekunden</item>
+        <item>4 Sekunden</item>
+        <item>5 Sekunden</item>
+        <item>6 Sekunden</item>
+        <item>7 Sekunden</item>
+        <item>8 Sekunden</item>
+        <item>9 Sekunden</item>
+        <item>10 Sekunden</item>
+        <item>Sonstige</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Immer</item>
+        <item>Nur wenn stumm geschaltet</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>Xiaomi Smart SMS</item>
+        <item>CMCC Smart SMS</item>
+    </string-array>
+</resources>
