@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="otherLabels">
+     <string-array name="auto_answer_phone_operator_bluetooth_select">
+        <item>@string/my_phone_provider_bluetooth</item>
+        <item>@string/my_phone_not_provider_bluetooth</item>
+     </string-array>
+     <string-array name="otherLabels">
         <item>Organisation</item>
         <item>Notiz</item>
-    </string-array>
+     </string-array>
 </resources>
+
