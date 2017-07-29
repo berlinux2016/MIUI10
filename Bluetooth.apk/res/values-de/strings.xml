@@ -9,6 +9,9 @@
   <string name="auth_notif_message">Sitzungsschlüssel eingeben für %1$s</string>
   <string name="auth_notif_ticker">OBEX-Authentifizierungsanfrage</string>
   <string name="auth_notif_title">Sitzungsschlüssel</string>
+  <string name="bluetooth_connected">Bluetooth Audio verbunden</string>  
+  <string name="defaultname">Carkit/KFZ</string>
+  <string name="bluetooth_disconnected">Bluetooth Audio getrennt</string>
   <string name="bluetooth_dun_authorize_allow">Erlauben</string>
   <string name="bluetooth_dun_authorize_decline">Verweigern</string>
   <string name="bluetooth_dun_authorize_message">DFÜ-Verbindungsanfrage von %1$s erlauben?</string>
@@ -74,6 +77,7 @@
   <string name="incoming_file_confirm_Notification_title">Bluetooth: Eingehende Datei</string>
   <string name="incoming_file_confirm_cancel">Ablehnen</string>
   <string name="incoming_file_confirm_content">Eingehende Datei akzeptieren?</string>
+  <string name="incoming_file_confirm_Notification_content">%1$s ist bereit zum Senden %2$s</string>  
   <string name="incoming_file_confirm_ok">Akzeptieren</string>
   <string name="incoming_file_confirm_timeout_content">Die Zeit zum Empfang der eingehenden Datei von \"%1$s\" ist abgelaufen.</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
@@ -103,15 +107,18 @@
   <string name="outbound_history_title">Ausgehende Übertragung</string>
   <string name="outbound_noti_title">Bluetooth: Gesendete Dateien</string>
   <string name="pbap_acceptance_timeout_message">Zeitüberschreitung beim Verbindungsaufbau mit %1$s.</string>
+  <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
   <string name="pbap_authentication_timeout_message">Zeitüberschreitung bei Eingabe des Sitzungsschlüssels bei %1$s.</string>
   <string name="pbap_session_key_dialog_header">Bluetooth-Sitzungsschlüssel erforderlich</string>
   <string name="pbap_session_key_dialog_title">Sitzungsschlüssel für %1$s eingeben</string>
   <string name="permdesc_bluetoothAvrcpDataManager">Erlaubt der App auf den BluetoothAvrcpData Manager zuzugreifen und Daten auf dem UI anzuzeigen.</string>
   <string name="permdesc_bluetoothShareManager">Ermöglicht der App auf den Bluetooth-Download-Manager zuzugreifen und diesen für die Übertragung von Dateien zu verwenden.</string>
   <string name="permdesc_bluetoothWhitelist">Ermöglicht der App ein Bluetooth-Gerät vorübergehend zur Whitelist hinzuzufügen, sodass es ohne Bestätigung des Nutzers Dateien an dieses Gerät senden kann</string>
+  <string name="permdesc_handoverStatus">Ermöglicht das Empfangen übertagener Statusinformationen von Bluetooth.</string>  
   <string name="permlab_bluetoothAvrcpDataManager">Auf avrcp Metadaten zugreifen.</string>
   <string name="permlab_bluetoothShareManager">Auf Downloadmanager zugreifen</string>
   <string name="permlab_bluetoothWhitelist">Bluetooth-Gerät für Zugriff zur weissen Liste hinzufügen</string>
+  <string name="permlab_handoverStatus">Empfangen von BT Broadcast Sendungen </string>
   <string name="process"/>
   <string name="sharedUserId"/>
   <string name="start_server">TCP-Server ausführen</string>
