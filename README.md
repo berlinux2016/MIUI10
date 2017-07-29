@@ -1,4 +1,4 @@
-# ![logo](http://imgur.com/afIWtxO)
+# ![logo](http://i.imgur.com/afIWtxO.jpg)
 # MIUI V9 German Translation
 
 
