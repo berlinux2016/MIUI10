@@ -1406,9 +1406,9 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="dirac_mode_general_inear">Universeller Kopfhörer</string>
   <string name="dirac_mode_in_ear">Spirit Yue Kopfhörer</string>
   <string name="dirac_mode_off">Ausschalten</string>
-  <string name="dirac_mode_piston_1">Millet 1</string>
-  <string name="dirac_mode_piston_100">Millet Kolben Kopfhörer</string>
-  <string name="dirac_mode_piston_2">Millet 2</string>
+  <string name="dirac_mode_piston_1">Mi Piston 1</string>
+  <string name="dirac_mode_piston_100">Mi Piston</string>
+  <string name="dirac_mode_piston_2">Piston 2</string>
   <string name="dirac_mode_piston_youth">Version der Jugend</string>
   <string name="disable_data_string">Datenverbindung deaktivieren</string>
   <string name="disable_encrypt_title">Verschlüsselung ausschalten</string>
@@ -1637,28 +1637,14 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="encrypt_talkback_dialog_require_pin">PIN erforderlich?</string>
   <string name="encryption_continue_button">Weiter</string>
   <string name="encryption_interstitial_header">Verschlüsselung</string>
-  <string name="encryption_interstitial_message_password">"Sie können Ihr Gerät zusätzlich durch Abfrage eines Passworts schützen 
-
-Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_password_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entperren des Geräts, können Sie es durch Abfrage eines Passworts schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen.
-
-Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pattern">"Sie können dieses Gerät zusätzlich durch Abfrage Ihres Entsperrmusters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen. 
-
-Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entperren des Geräts, können Sie es durch Abfrage eines Musters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen.
-
-Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pin">"Sie können dieses Gerät zusätzlich durch Abfrage Ihrer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen. 
-
-Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pin_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entperren des Geräts, können Sie es durch Abfrage einer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen.
-
-Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_interstitial_message_password">"Sie können Ihr Gerät zusätzlich durch Abfrage eines Passworts schützen. Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_interstitial_message_password_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entperren des Geräts, können Sie es durch Abfrage eines Passworts schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen. Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_interstitial_message_pattern">"Sie können dieses Gerät zusätzlich durch Abfrage Ihres Entsperrmusters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen. Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entperren des Geräts, können Sie es durch Abfrage eines Musters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen. Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_interstitial_message_pin">"Sie können dieses Gerät zusätzlich durch Abfrage Ihrer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen. Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_interstitial_message_pin_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entperren des Geräts, können Sie es durch Abfrage einer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen. Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="encryption_progress_summary">"Verschlüsseln, starten Sie Ihr Gerät nicht neu."</string>
-  <string name="enforce_read_external_confirm_message">"Bei geschütztem USB-Speicher müssen Apps die Berechtigung erhalten, um Daten vom externen Speicher lesen zu dürfen.
-
-Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler aktualisiert wurden."</string>
+  <string name="enforce_read_external_confirm_message">"Bei geschütztem USB-Speicher müssen Apps die Berechtigung erhalten, um Daten vom externen Speicher lesen zu dürfen. Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler aktualisiert wurden."</string>
   <string name="enforce_read_external_confirm_title">USB-Speicher schützen?</string>
   <string name="enforce_read_external_summary">Apps benötigen die Berechtigung zum Lesen des USB-Speichers</string>
   <string name="enforce_read_external_title">USB-Speicher schützen</string>
@@ -1694,10 +1680,10 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="error_mcc_not3">Das MCC-Feld muss 3 Zeichen enthalten.</string>
   <string name="error_mnc_not23">Das MNC-Feld muss 2 oder 3 Zeichen enthalten.</string>
   <string name="error_name_empty">Das Namensfeld darf nicht leer sein.</string>
-    <string name="error_title" />
-    <string name="ethernet">Ethernet</string>
-    <string name="ethernet_data_template">%1$s ethernet data</string>
-    <string name="ethernet_data_usage">Ethernet data usage</string>
+  <string name="error_title" />
+  <string name="ethernet">Ethernet</string>
+  <string name="ethernet_data_template">%1$s ethernet Daten</string>
+  <string name="ethernet_data_usage">Ethernet data usage</string>
   <string name="every_day">Täglich</string>
   <string name="exchange_account">Konto ändern</string>
   <string name="experience_optimization_category">Experience Optimierung</string>
@@ -1858,9 +1844,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="frequently_fragment_delete">Löschen</string>
   <string name="frequently_fragment_tempty">Oft genutzte Inhalte werden hier aufgelistet</string>
   <string name="full_transparent_smarrcover_title">Transparente Frontabdeckung</string>
-  <string name="fullbackup_data_summary">"Gerätedaten (wie WLAN Passwörter und Gesprächsverlauf) und Anwendungsdaten (wie Einstellungen und Daten von Apps) automatisch sichern.
-
-Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten periodisch in der Cloud gespeichert. Dies können beliebige Daten, auch persönliche Daten wie Kontakte, Nachrichten und Fotos sein."</string>
+  <string name="fullbackup_data_summary">"Gerätedaten (wie WLAN Passwörter und Gesprächsverlauf) und Anwendungsdaten (wie Einstellungen und Daten von Apps) automatisch sichern. Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten periodisch in der Cloud gespeichert. Dies können beliebige Daten, auch persönliche Daten wie Kontakte, Nachrichten und Fotos sein."</string>
   <string name="fullbackup_erase_dialog_message">Automatische Backups ausschalten und alle Kopien von Google Drive löschen?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automatisch</string>
@@ -1887,7 +1871,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="global_change_warning">Diese Einstellung betrifft alle Nutzer auf diesem Telefon.</string>
   <string name="global_font_change_title">Schriftgröße ändern</string>
   <string name="global_locale_change_title">Sprache ändern</string>
-    <string name="go_back_button_label">Zurück</string>
+  <string name="go_back_button_label">Zurück</string>
   <string name="google_backup_enable">Sicherung aktivieren</string>
   <string name="google_backup_section_title">Google Backup &amp; Wiederherstellung</string>
   <string name="google_wallet">Google Wallet</string>
@@ -1984,10 +1968,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="imei_information_title">IMEI-Informationen</string>
   <string name="immediately_destroy_activities">Aktionen nicht speichern</string>
   <string name="immediately_destroy_activities_summary">Aktivität löschen, sobald der Nutzer diese beendet</string>
-  <string name="import_from_xiaomi_account_hint1">"1. Mi Talk herunterladen und anmelden.
-    http://www.miliao.com
-
-2.	In die MiTalk-Einstellungen wechseln und \"Kontakte im Mi Konto sichern\" wählen."</string>
+  <string name="import_from_xiaomi_account_hint1">"1. Mi Talk herunterladen und anmelden, http://www.miliao.com 2.	In die MiTalk-Einstellungen wechseln und \"Kontakte im Mi Konto sichern\" wählen."</string>
   <string name="import_from_xiaomi_account_hint2">Falls Sicherung bereits vorhanden ist, weiter drücken</string>
   <string name="import_from_xiaomi_account_hint_title">Mi Talk verwenden, um Kontakte auf anderen Geräten wiederherzustellen</string>
   <string name="importance_reset">Zurücksetzen</string>
@@ -2275,16 +2256,14 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="lockpassword_choose_for_second_user">Passwort für Zweitprofil festlegen</string>
   <string name="lockpassword_choose_lock_generic_header">Sperre einrichten</string>
   <string name="lockpassword_choose_your_password_header">Passwort festlegen</string>
-  <string name="lockpassword_choose_your_password_second_space">"Passwort 
- für Zweitprofil"</string>
+  <string name="lockpassword_choose_your_password_second_space">"Passwort für Zweitprofil"</string>
   <string name="lockpassword_choose_your_pattern_header">Muster wählen</string>
   <string name="lockpassword_choose_your_pin_header">PIN festlegen</string>
-  <string name="lockpassword_choose_your_pin_header_second_space">"PIN 
- für Zweitprofil"</string>
+  <string name="lockpassword_choose_your_pin_header_second_space">"PIN für Zweitprofil"</string>
   <string name="lockpassword_confirm_for_second_user">Passwort für Zweitprofil bestätigen</string>
   <string name="lockpassword_confirm_passwords_dont_match">Die Passwörter stimmen nicht überein.</string>
   <string name="lockpassword_confirm_pins_dont_match">Die PINs stimmen nicht überein.</string>
-    <string name="lockpassword_confirm_workspace_password">Arbeitsraumkennwort überprüfen</string>
+  <string name="lockpassword_confirm_workspace_password">Arbeitsraumkennwort überprüfen</string>
   <string name="lockpassword_confirm_your_lock_password_header">Passwort bestätigen</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Muster bestätigen</string>
   <string name="lockpassword_confirm_your_password_generic">Geben Sie Ihr Gerätepasswort ein um fortzufahren.</string>
@@ -2393,10 +2372,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="managed_user_title">Arbeitsprofil</string>
   <string name="managing_admin">Verwaltet von %s</string>
   <string name="manually_add_network">Netzwerk hinzufügen</string>
-  <string name="master_clear_accounts">"
-
-Sie sind zurzeit in folgenden Konten angemeldet:
-"</string>
+  <string name="master_clear_accounts">"Sie sind zurzeit in folgenden Konten angemeldet: "</string>
   <string name="master_clear_all">"Alle Daten vom internen Telefonspeicher löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
   <string name="master_clear_apply_step_1"><b>“Werksreset” löscht alle Daten auf Ihrem Telefon</b>, inkl. Fotos, Musik, Notizen und andere persönliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
   <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden währen dem Rücksetzen von Ihrem Gerät gelöscht. <b>Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.</b></string>
@@ -2411,9 +2387,7 @@ Sie sind zurzeit in folgenden Konten angemeldet:
   <string name="master_clear_desc_also_erases_external">" "&lt;li&gt;Musik&lt;/li&gt;"
 "&lt;li&gt;Fotos&lt;/li&gt;"
 "&lt;li&gt;und andere Benutzerdaten&lt;/li&gt;" "</string>
-  <string name="master_clear_desc_erase_external_storage">"
-
-Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Speicher</b> gelöscht werden.</string>
+  <string name="master_clear_desc_erase_external_storage">"Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Speicher</b> gelöscht werden.</string>
   <string name="master_clear_erase_application_progress">Lösche Anwendungen...</string>
   <string name="master_clear_failed">Die Zurücksetzung konnte nicht durchgeführt werden, weil der Dienst zur Systembereinigung nicht verfügbar ist.</string>
   <string name="master_clear_final_button_text">Alles löschen</string>
@@ -2421,10 +2395,7 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Spe
   <string name="master_clear_gesture_explanation">Sie müssen Ihr Entsperrungsmuster eingeben, um das Zurücksetzen auf die Werkseinstellungen zu bestätigen.</string>
   <string name="master_clear_gesture_prompt">Bitte zeichnen Sie Ihr Entsperrungsmuster.</string>
   <string name="master_clear_not_available">Auf Werkseinstellungen zurücksetzen ist für diesen Nutzer nicht verfügbar</string>
-  <string name="master_clear_other_users_present">"
-
-Es sind andere Benutzer an diesem System angemeldet.
-"</string>
+  <string name="master_clear_other_users_present">"Es sind andere Benutzer an diesem System angemeldet."</string>
   <string name="master_clear_personal_data">"Alle persönlichen Daten löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
   <string name="master_clear_personal_data_application">"Alle Ihre persönlichen Daten und runtergeladenen Anwendungen löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
   <string name="master_clear_personal_data_sdcard">"Alle Ihre persönlichen Daten löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
@@ -2529,13 +2500,13 @@ Es sind andere Benutzer an diesem System angemeldet.
   <string name="miracast_cancelconnect_dialog">Trennen</string>
   <string name="miracast_connection_failed_generic">"Verbindung konnte nicht hergestellt werden."</string>
   <string name="miracast_dialog_title">%1$s</string>
-  <string name="miracast_disable_dhcp">不檢查 HDCP</string>
+  <string name="miracast_disable_dhcp">HDCP deaktivieren</string>
   <string name="miracast_disconnect_dialog">Von %1$s trennen?</string>
   <string name="miracast_display_category">Anzeigen</string>
   <string name="miracast_empty_list">Suche nach kabellosen Anzeigen…</string>
-  <string name="miracast_enable_dhcp">檢查 HDCP</string>
+  <string name="miracast_enable_dhcp">HDCP aktiviren</string>
   <string name="miracast_error_already_streaming">Es wird bereits auf ein anderes Gerät gestreamt</string>
-  <string name="miracast_error_cancelconnect">連線正忙</string>
+  <string name="miracast_error_cancelconnect">Der Anschluss ist besetzt</string>
   <string name="miracast_error_connection_in_progress">Verbinden…</string>
   <string name="miracast_error_unknown_sink">Syncfehler</string>
   <string name="miracast_error_wifi_is_off">WLAN ist aus</string>
@@ -2552,7 +2523,7 @@ Es sind andere Benutzer an diesem System angemeldet.
   <string name="miracast_menu_rename">Anzeige umbenennen</string>
   <string name="miracast_menu_search">Suchen</string>
   <string name="miracast_menu_searching">Suche läuft…</string>
-  <string name="miracast_menu_teardown">中斷服務</string>
+  <string name="miracast_menu_teardown">Interrupt Service</string>
   <string name="miracast_menu_title_refreshing">Aktualisieren…</string>
   <string name="miracast_nickname">Spitzname</string>
   <string name="miracast_no_sinks_found">Keine kabellose Anzeige verfügbar.</string>
@@ -2653,8 +2624,7 @@ Es sind andere Benutzer an diesem System angemeldet.
   <string name="msd_driver_download_mac_url">Laden Sie den Treiber von http://www.android.com/filetransfer/ herunter.</string>
   <string name="msd_driver_download_xp">Windows: Laden Sie den Mi Phone Manager herunter, um Ihr Gerät als USB Speicher zu nutzen.</string>
   <string name="msd_driver_download_xp_url">Laden Sie den Phone Manager von http://zhushou.mi.com/ herunter.</string>
-  <string name="msd_help_summary">"Verbindung zum Gerät nicht möglich?
-Betriebssystem auswählen:"</string>
+  <string name="msd_help_summary">"Verbindung zum Gerät nicht möglich? Betriebssystem auswählen: "</string>
   <string name="msd_help_title">Hilfe</string>
   <string name="msd_install">Treiber neu installieren?</string>
   <string name="msd_install_download_zhushou">"Ich habe den Mi Phonemanager heruntergeladen."</string>
@@ -2687,7 +2657,7 @@ Betriebssystem auswählen:"</string>
   <string name="music_audio_effect_settings">Toneinstellungen</string>
   <string name="music_dirac_control">Tonqualität optimieren</string>
   <string name="music_dirac_mode_capsule">Mi-Kapsel</string>
-  <string name="music_dirac_mode_earbuds">Mi-Ohrhörer</string>
+  <string name="music_dirac_mode_earbuds">Mi-Kopfhörer</string>
   <string name="music_dirac_mode_general">Allgemein</string>
   <string name="music_dirac_mode_general_earbuds">Allgemeine Köpfhörer</string>
   <string name="music_dirac_mode_general_inear">Allgemein In-Ear</string>
@@ -2696,17 +2666,17 @@ Betriebssystem auswählen:"</string>
   <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac aus</string>
-  <string name="music_dirac_mode_piston">小米活塞</string>
+  <string name="music_dirac_mode_piston">Piston</string>
   <string name="music_dirac_mode_piston_1">Mi Piston 1</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
   <string name="music_dirac_mode_piston_2">Mi Piston 2</string>
   <string name="music_dirac_mode_piston_basic">Basic Edition</string>
-  <string name="music_dirac_mode_piston_color">Color Edition</string>
+  <string name="music_dirac_mode_piston_color">Farb Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
-  <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-  <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
-  <string name="music_dolby_effects">Dolby effects</string>
-  <string name="music_dolby_eq_enter_alert_msg">You can only use the equalizer in Dolby music mode. Enable it now?</string>
+  <string name="music_dirac_mode_piston_youth">Jugend Edition</string>
+  <string name="music_dolby_dialogue_enhancer">Dialog Enhancer</string>
+  <string name="music_dolby_effects">Dolby Effekte</string>
+  <string name="music_dolby_eq_enter_alert_msg">Sie können den Equalizer nur im Dolby Musik-Modus verwenden. Jetzt aktivieren?</string>
   <string name="music_dolby_eq_enter_alert_title">Turn on Dolby music</string>
   <string name="music_dolby_ieq_flat">Off</string>
   <string name="music_dolby_ieq_focused">Focused</string>
