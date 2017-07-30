@@ -1121,25 +1121,19 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="crypt_keeper_content">Sie können Konten, Einstellungen, Apps und deren Daten, Medien und andere Dateien verschlüsseln.</string>
   <string name="crypt_keeper_content_title">Gerät verschlüsseln</string>
   <string name="crypt_keeper_cooldown">Versuchen Sie es in ^1 Sekunden erneut.</string>
-  <string name="crypt_keeper_data_corrupt_summary">"Das eingegebene Passwort ist korrekt, aber leider sind Ihre Daten beschädigt. 
-
-Um Ihr Telefon wieder nutzen zu können, müssen Sie es auf den Werkszustand zurücksetzen. Wenn Sie Ihr Telefon nach dem Reset eingestellt haben, haben Sie die Möglichkeit, alle Daten, die auf Ihr Google-Konto gesichert wurden, wiederherzustellen."</string>
+  <string name="crypt_keeper_data_corrupt_summary">"Das eingegebene Passwort ist korrekt, aber leider sind Ihre Daten beschädigt. Um Ihr Telefon wieder nutzen zu können, müssen Sie es auf den Werkszustand zurücksetzen. Wenn Sie Ihr Telefon nach dem Reset eingestellt haben, haben Sie die Möglichkeit, alle Daten, die auf Ihr Google-Konto gesichert wurden, wiederherzustellen."</string>
   <string name="crypt_keeper_data_corrupt_title">Entschlüsselung fehlgeschlagen</string>
   <string name="crypt_keeper_decrypt_methods">Nachdem Sie ihr Gerät verschlüsselt haben, vorausgesetzt Sie haben eine Bildschirmsperre eingerichtet (ein Muster, eine numerische PIN oder ein Passwort), müssen Sie nach jedem Einschalten den Bildschirm entsperren, um das Telefon zu entschlüsseln. Die einzige andere Möglichkeit zu entschlüsseln ist, das Gerät auf Werkseinstellungen zurückzusetzen und dabei alle Ihre Daten zu löschen.</string>
   <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Wenn Sie Ihr Telefon verschlüsseln, müssen Sie Ihr Passwort, PIN oder Muster nach dem Neustart des Gerätes jedes Mal eingeben, um es zu entschlüsseln.</string>
   <string name="crypt_keeper_decrypt_methods_title">Gerät entschlüsseln</string>
-  <string name="crypt_keeper_desc">"Sie können Ihre Konten, Einstellungen, heruntergeladene Apps mit den dazugehörigen Daten sowie Multimedia- und andere Dateien verschlüsseln. Nach der Verschlüsselung Ihres Geräts ist bei jedem Einschalten die Eingabe einer PIN-Nummer oder eines Passworts erforderlich. Sie können die Verschlüsselung Ihres Geräts nur aufheben, indem Sie das Gerät auf die Werkseinstellungen zurücksetzen. Dabei werden alle Ihre Daten gelöscht.
-
-Die Verschlüsselung dauert mindestens eine Stunde. Vergewissern Sie sich zu Beginn, dass Ihr Akku vollständig geladen ist, und lassen Sie Ihr Gerät angeschlossen, bis die Verschlüsselung abgeschlossen ist. Eine Unterbrechung dieses Vorgangs kann zu teilweisem oder vollständigem Datenverlust führen."</string>
+  <string name="crypt_keeper_desc">"Sie können Ihre Konten, Einstellungen, heruntergeladene Apps mit den dazugehörigen Daten sowie Multimedia- und andere Dateien verschlüsseln. Nach der Verschlüsselung Ihres Geräts ist bei jedem Einschalten die Eingabe einer PIN-Nummer oder eines Passworts erforderlich. Sie können die Verschlüsselung Ihres Geräts nur aufheben, indem Sie das Gerät auf die Werkseinstellungen zurücksetzen. Dabei werden alle Ihre Daten gelöscht. Die Verschlüsselung dauert mindestens eine Stunde. Vergewissern Sie sich zu Beginn, dass Ihr Akku vollständig geladen ist, und lassen Sie Ihr Gerät angeschlossen, bis die Verschlüsselung abgeschlossen ist. Eine Unterbrechung dieses Vorgangs kann zu teilweisem oder vollständigem Datenverlust führen."</string>
   <string name="crypt_keeper_dialog_need_password_message">Sie müssen eine PIN oder ein Passwort für die Bildschirmsperre festlegen, bevor Sie die Verschlüsselung starten können.</string>
   <string name="crypt_keeper_dialog_need_password_title">Keine PIN oder kein Passwort für Bildschirmsperre</string>
-  <string name="crypt_keeper_encrypt_summary">您每次開機時都需要輸入數位密碼或混合密碼才能解鎖手機</string>
+      <string name="crypt_keeper_encrypt_summary">您每次開機時都需要輸入數位密碼或混合密碼才能解鎖手機</string>
   <string name="crypt_keeper_encrypt_title">Gerät verschlüsseln</string>
   <string name="crypt_keeper_encrypted_summary">Verschlüsselt</string>
   <string name="crypt_keeper_enter_password">Passwort eingeben</string>
-  <string name="crypt_keeper_failed_summary">"Die Verschlüsselung wurde unterbrochen und kann nicht abgeschlossen werden. Daher ist der Zugriff auf die Daten des Geräts nicht mehr möglich.
-
-Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinstellungen zurücksetzen. Wenn Sie Ihr Gerät nach dem Zurücksetzen wieder einrichten, können Sie gegebenenfalls Daten, die gesichert wurden, von Ihrem Google-Konto wiederherstellen."</string>
+  <string name="crypt_keeper_failed_summary">"Die Verschlüsselung wurde unterbrochen und kann nicht abgeschlossen werden. Daher ist der Zugriff auf die Daten des Geräts nicht mehr möglich. Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinstellungen zurücksetzen. Wenn Sie Ihr Gerät nach dem Zurücksetzen wieder einrichten, können Sie gegebenenfalls Daten, die gesichert wurden, von Ihrem Google-Konto wiederherstellen."</string>
   <string name="crypt_keeper_failed_title">Verschlüsselung fehlgeschlagen</string>
   <string name="crypt_keeper_final_desc">"Dieser Vorgang ist nicht umkehrbar und jede Unterbrechung ist mit einem Datenverlust verbunden. Die Verschlüsselung dauert mindestens eine Stunde. In dieser Zeit wird das Telefon mehrfach neu gestartet."</string>
   <string name="crypt_keeper_force_power_cycle">Um Ihr Gerät zu entsperren, schalten Sie es aus und wieder ein.</string>
@@ -1192,20 +1186,14 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinst
   <string name="data_usage_app_restrict_background">Hintergrunddaten beschränken</string>
   <string name="data_usage_app_restrict_background_summary">Hintergrunddaten in Mobilfunknetzen ausschalten. WLAN verwenden wenn es verfügbar ist.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Legen Sie zur Beschränkung der Apphintergrunddaten zuerst ein Mobildatenlimit fest.</string>
-  <string name="data_usage_app_restrict_dialog">"Diese Funktion könnte dazu führen, dass Anwendungen, die mit Hintergrunddaten arbeiten, nicht mehr funktionieren wenn kein WLAN-Netzwerk verfügbar ist.
-
-Geeignetere Kontrollmechanismen für den Datenverbrauch finden Sie in den Einstellungen der App."</string>
+  <string name="data_usage_app_restrict_dialog">"Diese Funktion könnte dazu führen, dass Anwendungen, die mit Hintergrunddaten arbeiten, nicht mehr funktionieren wenn kein WLAN-Netzwerk verfügbar ist. Geeignetere Kontrollmechanismen für den Datenverbrauch finden Sie in den Einstellungen der App."</string>
   <string name="data_usage_app_restrict_dialog_title">Hintergrunddaten beschränken?</string>
   <string name="data_usage_app_restricted">Eingeschränkt</string>
   <string name="data_usage_app_settings">Appeinstellungen anzeigen</string>
   <string name="data_usage_app_summary_title">Datennutzung der App</string>
   <string name="data_usage_auto_sync_off_dialog">"Der Daten und Akkuverbrauch wird reduziert, aber Sie müssen für aktuelle Informationen jedes Konto manuell synchronisieren. Sie werden auch keine Benachrichtigung bei Updates bekommen."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Autom. Datensync deaktivieren?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Änderungen, die Sie im Web an Ihren Konten vornehmen, werden automatisch auf Ihrem Telefon übernommen.
-
-Für einige Konten werden eventuell auch Änderungen, die Sie auf Ihrem Telefon vornehmen, im Web übernommen. Dies ist die Funktionsweise von Google Konten.
-
-Unter \"Einstellungen &gt; Konten\" können Sie auswählen, welche Informationen in den einzelnen Konten synchronisiert werden sollen."</string>
+  <string name="data_usage_auto_sync_on_dialog">"Änderungen, die Sie im Web an Ihren Konten vornehmen, werden automatisch auf Ihrem Telefon übernommen. Für einige Konten werden eventuell auch Änderungen, die Sie auf Ihrem Telefon vornehmen, im Web übernommen. Dies ist die Funktionsweise von Google Konten. Unter \"Einstellungen &gt; Konten\" können Sie auswählen, welche Informationen in den einzelnen Konten synchronisiert werden sollen."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Autom. Datensync aktivieren?</string>
   <string name="data_usage_background_label">Hintergrund:</string>
   <string name="data_usage_cellular_data">Mobile Daten</string>
@@ -1229,9 +1217,7 @@ Unter \"Einstellungen &gt; Konten\" können Sie auswählen, welche Informationen
   <string name="data_usage_forground_label">Vordergrund:</string>
   <string name="data_usage_label_background">Hintergrund</string>
   <string name="data_usage_label_foreground">Vordergrund</string>
-  <string name="data_usage_limit_dialog_mobile">"Ihre Datenverbindung wird ausgeschaltet, sobald das angegebene Limit erreicht ist.
-
-Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung Ihres Mobilfunkanbieters abweichen. Ziehen Sie deshalb die Verwendung eines niedrigen Limits in Betracht."</string>
+  <string name="data_usage_limit_dialog_mobile">"Ihre Datenverbindung wird ausgeschaltet, sobald das angegebene Limit erreicht ist. Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung Ihres Mobilfunkanbieters abweichen. Ziehen Sie deshalb die Verwendung eines niedrigen Limits in Betracht."</string>
   <string name="data_usage_limit_dialog_title">Datenverbrauch begrenzen</string>
   <string name="data_usage_limit_editor_title">Limit festlegen</string>
   <string name="data_usage_list_mobile">Mobil</string>
@@ -1253,21 +1239,17 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
   <string name="data_usage_metered_title">Mobile Hotspots</string>
   <string name="data_usage_metered_wifi">WLAN-Netzwerke</string>
   <string name="data_usage_metered_wifi_disabled">WLAN einschalten, um Mobile Hotspots auszuwählen.</string>
-    <string name="data_usage_other_apps">Other apps included in usage</string>
+  <string name="data_usage_other_apps">Andere Anwendungen in Nutzung inbegriffen</string>
   <string name="data_usage_pick_cycle_day">Tag, an dem Datenverbrauchszyklus zurückgesetzt wird:</string>
   <string name="data_usage_received_sent">%1$s erhalten, %2$s gesendet</string>
   <string name="data_usage_restrict_background">Wenn Sie die mobilen Hintergrunddaten beschränken, funktionieren einige Apps und Dienste nur bei verfügbarer WLAN-Verbindung.</string>
-  <string name="data_usage_restrict_background_multiuser">"Wenn Sie die mobilen Hintergrunddaten beschränken, funktionieren einige Apps und Dienste nur bei verfügbarer WLAN-Verbindung.
-
-Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
+  <string name="data_usage_restrict_background_multiuser">"Wenn Sie die mobilen Hintergrunddaten beschränken, funktionieren einige Apps und Dienste nur bei verfügbarer WLAN-Verbindung. Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="data_usage_restrict_background_title">Hintergrunddaten beschränken?</string>
   <string name="data_usage_restrict_denied_dialog">Hintergrunddaten können nur beschränkt werden, wenn Sie ein Limit für mobile Daten festgelegt haben.</string>
-    <string name="data_usage_summary_format">%1$s der Daten verwendet</string>
+  <string name="data_usage_summary_format">%1$s der Daten verwendet</string>
   <string name="data_usage_summary_title">Datenverbrauch</string>
-  <string name="data_usage_sweep_limit">" "<font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">Limit</font>" "</string>
-  <string name="data_usage_sweep_warning">" "<font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">Warnung</font>" "</string>
+  <string name="data_usage_sweep_limit">" "<font size="21">^1</font> <font size="9">^2</font>" "<font size="12">Limit</font>" "</string>
+  <string name="data_usage_sweep_warning">" "<font size="21">^1</font> <font size="9">^2</font>" "<font size="12">Warnung</font>" "</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
   <string name="data_usage_tab_mobile">Mobil</string>
   <string name="data_usage_tab_slot">SIM</string>
@@ -1279,7 +1261,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="data_usage_uninstalled_apps_users">Entfernte Apps und Nutzer</string>
   <string name="data_usage_warning_editor_title">Warnung für Datenverbrauch festlegen</string>
   <string name="data_used_template">%1$s verwendet</string>
-    <string name="data_warning">Datenwarnung</string>
+  <string name="data_warning">Datenwarnung</string>
   <string name="date_and_time">Zeit- &amp; Datumseinstellungen</string>
   <string name="date_and_time_settings_summary">Datum, Uhrzeit, Zeitzone und Formate festlegen</string>
   <string name="date_and_time_settings_title">Datum &amp; Uhrzeit</string>
@@ -1352,10 +1334,10 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dev_settings_warning_message">Diese Einstellungen sind ausschließlich für Entwicklungszwecke geeignet. Sie können Ihr Gerät und die darauf installierten Apps beschädigen oder zu unerwünschtem Verhalten führen.</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="developer_build">" | Beta"</string>
-    <string name="developer_density_summary">%d dp</string>
-    <string name="developer_smallest_width">Kleinste Breite</string>
+  <string name="developer_density_summary">%d DPI</string>
+  <string name="developer_smallest_width">Kleinste Breite</string>
   <string name="development_enable">Entwickleroptionen</string>
-    <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
+  <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar.</string>
   <string name="development_settings_summary">Optionen zur Appentwicklung festlegen</string>
   <string name="development_settings_title">Entwickleroptionen</string>
@@ -1367,9 +1349,9 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_admin_status">Dieser Administrator ist aktiv und ermöglicht der App %1$s, folgende Vorgänge auszuführen:</string>
   <string name="device_admin_title">Geräteverwaltung</string>
   <string name="device_admin_warning">Die Aktivierung dieses Administrators ermöglicht der App %1$s, folgende Vorgänge auszuführen:</string>
-    <string name="device_available_memory">Speicherplatz verfügbar</string>
-    <string name="device_battery">Akku</string>
-    <string name="device_build_id">Versionsnummer</string>
+  <string name="device_available_memory">Speicherplatz verfügbar</string>
+  <string name="device_battery">Akku</string>
+  <string name="device_build_id">Versionsnummer</string>
   <string name="device_complete_parameters">Vollständig</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deca-core</string>
@@ -1380,7 +1362,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_display_layout_title">Funktionen</string>
   <string name="device_edit_title">Gerätename ändern</string>
   <string name="device_feedback">Feedback zu diesem Gerät senden</string>
-    <string name="device_info_default">Unbekannt</string>
+  <string name="device_info_default">Unbekannt</string>
   <string name="device_info_label">Geräteinfo</string>
   <string name="device_info_not_available">Nicht verfügbar</string>
   <string name="device_info_settings">Telefonstatus</string>
@@ -1416,10 +1398,10 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dialog_title_login">An Ihrem MI-Konto anmelden</string>
   <string name="dialog_yes">Ja</string>
   <string name="digit_percent">%</string>
-  <string name="dir_date_format">yyyyMMdd_HHmmss</string>
-  <string name="dirac_control">米音</string>
-  <string name="dirac_mode_earbuds">灵动耳塞式</string>
-  <string name="dirac_mode_general">通用</string>
+  <string name="dir_date_format">ddMMyyyy_HHmmss</string>
+      <string name="dirac_control">Sound Meter</string>
+  <string name="dirac_mode_earbuds">Intelligenter Ohrhörer</string>
+  <string name="dirac_mode_general">Gemeinsam</string>
   <string name="dirac_mode_general_earbuds">通用耳塞式</string>
   <string name="dirac_mode_general_inear">通用入耳式</string>
   <string name="dirac_mode_in_ear">灵悦入耳式</string>
