@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="apk_clean_menu">
+        <item>Bereinigen</item>
+        <item>Installieren</item>
+        <item>In Ordner anzeigen</item>
+     </string-array>
     <string-array name="cache_sort_type">
         <item>Größe</item>
         <item>Name</item>
@@ -43,19 +48,14 @@
     <string-array name="empty_floder_clean_menu">
         <item>Bereinigen</item>
     </string-array>
-    <string-array name="apk_clean_menu">
-        <item>Bereinigen</item>
-        <item>Installieren</item>
-        <item>In Ordner anzeigen</item>
+    <string-array name="app_clean_menu">
+        <item>Entfernen</item>
     </string-array>
     <string-array name="long_add_menu">
         <item>Zu Ausnahmen hinzufügen</item>
     </string-array>
     <string-array name="long_add_app_menu">
         <item>App zu den Ausnahmen hinzufügen</item>
-    </string-array>
-    <string-array name="app_clean_menu">
-        <item>Entfernen</item>
     </string-array>
     <string-array name="auto_alert_apps_time">
         <item>Alle 7 Tage</item>
@@ -65,6 +65,10 @@
     <string-array name="low_memory_clean_menu">
         <item>Bereinigen</item>
     </string-array>
+     <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
+     </string-array>    
     <string-array name="wechat_menu_delete">
         <item>Löschen</item>
     </string-array>
