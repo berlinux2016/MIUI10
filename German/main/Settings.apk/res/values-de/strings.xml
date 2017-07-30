@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Konten</string>
-  <string name="aaid_info">"
-Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende verwenden diese, um Ihnen auf Sie zugeschnittene Werbung anbieten zu können.
-
-Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessante Werbung wird deutlich sinken."</string>
+  <string name="aaid_info">" Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende verwenden diese, um Ihnen auf Sie zugeschnittene Werbung anbieten zu können. Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessante Werbung wird deutlich sinken."</string>
   <string name="abc_action_bar_home_description">Zum Hauptbildschirm navigieren</string>
   <string name="abc_action_bar_home_description_format" formatted="false">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format" formatted="false">%1$s, %2$s, %3$s</string>
@@ -63,13 +60,7 @@ Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Wer
   <string name="accessibility_feature_or_input_method_not_allowed">Von Ihrer Organisation nicht erlaubt</string>
   <string name="accessibility_feature_state_off">Aus</string>
   <string name="accessibility_feature_state_on">An</string>
-  <string name="accessibility_global_gesture_preference_description">"Wenn diese Funktion aktiviert ist, können Sie Bedienungshilfen schnell in zwei Schritten aktivieren:
-
-1. Schritt: Drücken und halten Sie die Ein/Aus-Taste, bis Sie einen Ton hören oder eine Vibration spüren.
-
-2. Schritt: Berühren und halten Sie mit zwei Fingern, bis Sie eine Audiobestätigung hören.
-
-Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendung dieser Verknüpfung in der Bildschirmsperre solange aktiviert, bis das Gerät entsperrt ist."</string>
+  <string name="accessibility_global_gesture_preference_description">"Wenn diese Funktion aktiviert ist, können Sie Bedienungshilfen schnell in zwei Schritten aktivieren: 1. Schritt: Drücken und halten Sie die Ein/Aus-Taste, bis Sie einen Ton hören oder eine Vibration spüren. 2. Schritt: Berühren und halten Sie mit zwei Fingern, bis Sie eine Audiobestätigung hören. Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendung dieser Verknüpfung in der Bildschirmsperre solange aktiviert, bis das Gerät entsperrt ist."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Aus</string>
   <string name="accessibility_global_gesture_preference_summary_on">An</string>
   <string name="accessibility_global_gesture_preference_title">Bedienungshilfenverknüpfung</string>
@@ -82,17 +73,9 @@ Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendun
   <string name="accessibility_power_button_ends_call_prerefence_title">Ein/Aus-Taste beendet Anruf</string>
   <string name="accessibility_screen_magnification_enable">Vergrößerungsgesten</string>
   <string name="accessibility_screen_magnification_short_summary">3 Mal tippen, um zu vergrößern</string>
-  <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/rauszoomen, indem Sie drei Mal auf den Bildschirm tippen.
-
-Wenn Sie reingezoomt haben, können Sie:
-<li><ul>"Verschieben: Ziehen Sie zwei oder mehr Finger über den Bildschirm.
-<li>Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.</li></ul></li>
-
-Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifaches Antippen und Halten vergrössern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren.
-
-Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für die Tastatur und Navigationsleiste."</string>
+  <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/rauszoomen, indem Sie drei Mal auf den Bildschirm tippen. Wenn Sie reingezoomt haben, können Sie: <li><ul>"Verschieben: Ziehen Sie zwei oder mehr Finger über den Bildschirm. <li>Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.</li></ul></li> Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifaches Antippen und Halten vergrössern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren. Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für die Tastatur und Navigationsleiste."</string>
   <string name="accessibility_screen_magnification_title">Vergrößerungsgesten</string>
-    <string name="accessibility_service_default_description">Keine Beschreibung verfügbar.</string>
+  <string name="accessibility_service_default_description">Keine Beschreibung verfügbar.</string>
   <string name="accessibility_service_no_apps_message">TalkBack bietet blinden und sehbehinderten Benutzern gesprochenes Feedback. Möchten Sie diese Funktion kostenlos aus dem Playstore installieren?</string>
   <string name="accessibility_service_no_apps_title">Benötigen Sie eine Bildschirmlupe?</string>
   <string name="accessibility_services_title">Dienste</string>
@@ -154,8 +137,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="add_fingerprint_done_title">Fertig</string>
   <string name="add_fingerprint_failed_retry_text">Fingerabdruck konnte nicht hinzugefügt werden, versuchen Sie es noch einmal</string>
   <string name="add_fingerprint_finished_button_text">Fertig</string>
-  <string name="add_fingerprint_instruction_dialog_msg">"Um Ihre Fingerabdruckdetails hinzuzufügen, legen Sie Ihren Finger auf den Sensor.
-Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"Um Ihre Fingerabdruckdetails hinzuzufügen, legen Sie Ihren Finger auf den Sensor. Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
   <string name="add_fingerprint_instruction_msg">Entsperren Sie Ihr Gerät oder bestätigen Sie Ihre Bezahlung mit Ihrem Fingerabdruck</string>
   <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf den Scanner</string>
   <string name="add_fingerprint_name_suggest_text">Fingerabdruckbezeichnung</string>
@@ -167,9 +149,7 @@ Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
   <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
   <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Scanner</string>
   <string name="add_virtual_keyboard">Tastaturen verwalten</string>
-  <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr Benutzerkonto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann.
-
-Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu überwachen und verwalten, die mit diesem Benutzerkonto, einschließlich Netzwerkaktivität und Standortinformationen Ihres Geräts, verbunden sind."</string>
+  <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr Benutzerkonto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann. Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu überwachen und verwalten, die mit diesem Benutzerkonto, einschließlich Netzwerkaktivität und Standortinformationen Ihres Geräts, verbunden sind."</string>
   <string name="additional_permissions">Weitere Berechtigungen</string>
   <string name="additional_permissions_more">%1$d weitere</string>
   <string name="additional_system_update" />
@@ -267,10 +247,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_factory_reset">Updates entfernen</string>
   <string name="app_factory_reset_dlg_text">Alle Updates für diese Androidsystemapp werden entfernt.</string>
   <string name="app_factory_reset_dlg_title">Updates entfernen?</string>
-  <string name="app_floating_window_dlg_disable">"Ausschalten von %1$s's Popupeinstellungen wird die App beenden.
- Möchten Sie es wirklich ausschalten?"</string>
-  <string name="app_floating_window_dlg_enable">"Einschalten von %1$s's Popupeinstellungen erfordert einen Neustart der App. Sie können die Anwendung auch manuell neustarten.
- Möchten Sie es wirklich einschalten?"</string>
+  <string name="app_floating_window_dlg_disable">"Ausschalten von %1$s's Popupeinstellungen wird die App beenden.  Möchten Sie es wirklich ausschalten?"</string>
+  <string name="app_floating_window_dlg_enable">"Einschalten von %1$s's Popupeinstellungen erfordert einen Neustart der App. Sie können die Anwendung auch manuell neustarten.  Möchten Sie es wirklich einschalten?"</string>
   <string name="app_forget_pattern"><u>Muster vergessen?</u></string>
   <string name="app_forward_locked">Diese App ist kopiergeschützt.</string>
   <string name="app_install_details_group_title">Market</string>
@@ -949,15 +927,15 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="cdma_security_settings_summary">Meinen Standort, Bildschirmsperre, SIM-Kartensperrung und Sperrung des Anmeldeinformationsspeichers festlegen</string>
   <string name="cell_broadcast_settings">Notfallbenachrichtigung</string>
   <string name="cell_broadcast_settings_summary">Wählen Sie die Art der Anzeige für Notfallbenachrichtigung</string>
-    <string name="cell_data_template">%1$s cellular data</string>
-    <string name="cell_warning_and_limit">%1$s Data warning / %2$s Data limit</string>
-    <string name="cell_warning_only">%1$s Data warning</string>
+  <string name="cell_data_template">%1$s Mobilfunkdaten</string>
+    <string name="cell_warning_and_limit">%1$s Datenwarnung / %2$s Datengrenze</string>
+    <string name="cell_warning_only">%1$s Datenwarnung</string>
   <string name="cellular_data_summary">Datennutzung über Mobilfunknetz zulassen</string>
   <string name="cellular_data_title">Mobile Daten</string>
-    <string name="cellular_data_usage">Cellular data usage</string>
-    <string name="cellular_to_wlan_hint_summary">Allow hint when choose manually or always ask in Cellular-&gt;WLAN</string>
+    <string name="cellular_data_usage">Zelluläre Datenverwendung</string>
+    <string name="cellular_to_wlan_hint_summary">Lassen Sie den Hinweis, wenn Sie manuell wählen oder immer in Cellular fragen-&gt;WLAN</string>
     <string name="cellular_to_wlan_hint_title">Cellular-&gt;WLAN hint</string>
-    <string name="cellular_to_wlan_hint_toast">Cellular-&gt;WLAN connection may be affected</string>
+    <string name="cellular_to_wlan_hint_toast">Cellular-&gt;WLAN Verbindung kann betroffen sein</string>
     <string name="cellular_to_wlan_title">Cellular-&gt;WLAN</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Ändern</string>
@@ -5555,9 +5533,7 @@ WLAN Assistent"</string>
   <string name="wifi_scan_always_confirm_allow">Erlauben</string>
   <string name="wifi_scan_always_confirm_deny">Verweigern</string>
   <string name="wifi_scan_always_turnoff_message">Um dies zu deaktivieren, gehen Sie auf Erweitert im Überlaufmenü.</string>
-  <string name="wifi_scan_always_turnon_message">"Zur Verbesserung der Ortungsgenauigkeit und für andere Zwecke, möchte %1$s die Netzwerksuche einschalten, auch wenn WLAN ausgeschaltet ist.
-
-Für alle Apps die scannen möchten erlauben?"</string>
+  <string name="wifi_scan_always_turnon_message">"Zur Verbesserung der Ortungsgenauigkeit und für andere Zwecke, möchte %1$s die Netzwerksuche einschalten, auch wenn WLAN ausgeschaltet ist. Für alle Apps die scannen möchten erlauben?"</string>
   <string name="wifi_scan_notify_remember_choice">"Nicht mehr anzeigen"</string>
   <string name="wifi_scan_notify_text">Zur Erhöhung der Standortgenauigkeit und aus anderen Gründen können Google und andere Apps auch bei deaktiviertem WLAN nach Netzwerken in der Nähe suchen. Wenn Sie das nicht möchten, können Sie dies unter \"Erweitert\" &gt; \"Scannen immer verfügbar\" ändern.</string>
   <string name="wifi_scan_notify_text_location_off">应用可扫描附近的网络（在关闭了 WLAN 时也可进行扫描）。如果您不希望应用这么做，请进入“高级”&gt;“随时都可扫描”进行设置。</string>
@@ -5584,9 +5560,7 @@ Für alle Apps die scannen möchten erlauben?"</string>
   <string name="wifi_setup_back">Zurück</string>
   <string name="wifi_setup_cancel">Abbrechen</string>
   <string name="wifi_setup_connect">Verbinden</string>
-  <string name="wifi_setup_description_connected">Drücken Sie <b>Weiter</b>", um mit der Einrichtung fortzufahren.
-
-Drücken Sie "<b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
+  <string name="wifi_setup_description_connected">Drücken Sie <b>Weiter</b>", um mit der Einrichtung fortzufahren. Drücken Sie "<b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
   <string name="wifi_setup_description_connecting">Der Verbindungsaufbau kann einige Minuten dauern...</string>
   <string name="wifi_setup_detail">Netzwerkdetails</string>
   <string name="wifi_setup_eap_not_supported">Während der Einrichtung können Sie keine EAP-WLAN-Verbindung konfigurieren. Sie können dies anschließend in den Einstellungen unter \"Drahtlos &amp;amp Netzwerke\" vornehmen.</string>
@@ -5617,8 +5591,7 @@ Drücken Sie "<b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk 
   <string name="wifi_share_action_turn_on">WLAN teilen</string>
   <string name="wifi_share_action_turn_on_summary">Zum Teilen, bitte mit Ihrem Mi Konto anmelden.</string>
   <string name="wifi_share_add">Mein öffentliches WLAN teilen.</string>
-  <string name="wifi_share_add_summary">"Wenn Sie Ihr öffentliches WLAN teilen,
- können Sie auch auf das WLAN von anderen Benutzern zugreifen."</string>
+  <string name="wifi_share_add_summary">"Wenn Sie Ihr öffentliches WLAN teilen,  können Sie auch auf das WLAN von anderen Benutzern zugreifen."</string>
   <string name="wifi_share_connect">Verbinden</string>
   <string name="wifi_share_connected_summary">"Sie sind mit einem öffenlichen WLAN verbunden, das von einem anderen Benutzer bereitgestellt wurde."</string>
   <string name="wifi_share_connected_title">MIUI geteiltes WLAN</string>
