@@ -1771,9 +1771,9 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="fingerprint_not_identified_msg">Fingerabdruck konnte nicht erkannt werden. Geben Sie Ihr Passwort ein.</string>
   <string name="fingerprint_not_recognized">Nicht erkannt</string>
   <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht entfernt werden</string>
-    <string name="fingerprint_unlock_set_unlock_password">Fingerprint + Password</string>
-    <string name="fingerprint_unlock_set_unlock_pattern">Fingerprint + Pattern</string>
-    <string name="fingerprint_unlock_set_unlock_pin">Fingerprint + PIN</string>
+  <string name="fingerprint_unlock_set_unlock_password">Fingerprint + Password</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Fingerprint + Pattern</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Fingerprint + PIN</string>
   <string name="fingerprint_usage_category_title">Fingerabdruck verwenden für</string>
   <string name="finish_application">Beenden</string>
   <string name="finish_button_label">Fertigstellen</string>
@@ -3264,8 +3264,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="print_failed_state_title_template">Druckerfehler %1$s</string>
   <string name="print_feature_state_off">Aus</string>
   <string name="print_feature_state_on">An</string>
-  <string name="print_job_summary">"%1$s
-%2$s"</string>
+  <string name="print_job_summary">"%1$s%2$s"</string>
   <string name="print_menu_item_add_printer">Drucker hinzufügen</string>
   <string name="print_menu_item_add_printers">Drucker hinzufügen</string>
   <string name="print_menu_item_add_service">Dienst hinzufügen</string>
@@ -3585,9 +3584,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="roaming_reenable_title">Datenroaming zulassen?</string>
   <string name="roaming_turn_it_on_button">Aktivieren</string>
   <string name="roaming_warning">Wenn Sie Datenroaming zulassen, können hohe Roaminggebühren anfallen!</string>
-  <string name="roaming_warning_multiuser">"Wenn Sie Datenroaming zulassen, können erhebliche Roaminggebühren entstehen.
-
-Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
+  <string name="roaming_warning_multiuser">"Wenn Sie Datenroaming zulassen, können erhebliche Roaminggebühren entstehen. Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="router_backup_hint">Lassen Sie Ihr Gerät eingeschaltet</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_frequency">Frequenz</string>
@@ -3646,7 +3643,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="screen_key_press">Kurzer Tastendruck</string>
   <string name="screen_key_press_action">Auslösefunktion</string>
   <string name="screen_locking_sounds_title">Bildschirmsperrentöne</string>
-    <string name="screen_monochrome_mode_apps_loading">Einen Moment…</string>
+  <string name="screen_monochrome_mode_apps_loading">Einen Moment…</string>
   <string name="screen_monochrome_mode_apps_title">Monochrom-Modus verwenden</string>
   <string name="screen_monochrome_mode_global_summary">Monochrom-Modus für alle Apps verwenden</string>
   <string name="screen_monochrome_mode_global_title">Alle Apps</string>
@@ -3682,17 +3679,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internetverbindung</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Liste der Apps, die den Lesemodus verwenden können aktualisieren</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Automatisch aktualisieren</string>
-  <string name="screen_pinning_description">"Wenn eingeschaltet, können Sie Screenpinning verwenden, um den aktuellen Bildschirm im Blick zu behalten, bis Sie ihn entfernen.
-
-Um Screenpinning zu nutzen:
-
-1. Gehen Sie sicher, dass Screenpinning eingeschaltet ist.
-
-2. Öffnen Sie den Bildschirm, den Sie anheften möchten.
-
-3. Overview berühren.
-
-4. Berühren Sie das Pinicon."</string>
+  <string name="screen_pinning_description">"Wenn eingeschaltet, können Sie Screenpinning verwenden, um den aktuellen Bildschirm im Blick zu behalten, bis Sie ihn entfernen. Um Screenpinning zu nutzen: 1. Gehen Sie sicher, dass Screenpinning eingeschaltet ist. 2. Öffnen Sie den Bildschirm, den Sie anheften möchten. 3. Overview berühren. 4. Berühren Sie das Pinicon."</string>
   <string name="screen_pinning_title">Screenpinning</string>
   <string name="screen_pinning_unlock_none">Gerät beim Unpinning sperren</string>
   <string name="screen_pinning_unlock_password">Beim Unpinning nach dem Passwort fragen</string>
@@ -3853,7 +3840,7 @@ Um Screenpinning zu nutzen:
   <string name="search_master_clear_title">Auf Werkseinstellungen zurücksetzen</string>
   <string name="search_menu">Suche</string>
   <string name="search_menu_title">Suche</string>
-  <string name="search_micloud">Synchronisation;Mi Cloud</string>
+  <string name="search_micloud">Synchronisation; Mi Cloud</string>
   <string name="search_music_audio_effect_optimize">Audioeinstellungen</string>
   <string name="search_music_equalizer">Equalizer</string>
   <string name="search_music_headset_calibrate">Tasten zuweisen</string>
@@ -3866,125 +3853,125 @@ Um Screenpinning zu nutzen:
   <string name="search_nfc_se_route_title">Sichere Elemente</string>
   <string name="search_notification_app_list_settings">Appbenachrichtigungen</string>
   <string name="search_notification_sound_title">Standardbenachrichtigungston</string>
-  <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
+  <string name="search_ntts_settings_title">tts_settings_title; TTS</string>
   <string name="search_oldman_mode">Lite mode;Oldman mode</string>
-  <string name="search_oldman_mode_entry_name">Light-Modus;Seniorenmodus;Lightmodus</string>
-  <string name="search_onekey_migrate">Transfer;Ein-Tasten-Migration</string>
-  <string name="search_other_advanced_settings">Weitere Einstellungen;Privatsphäreeinstellungen;Datum &amp; Uhrzeit;Sprache &amp; Eingabe;Einhandmodus;Akku;Speicher;Benachrichtigungs-LED;LED;Kopfhörer &amp; Audioeffekte;Tasten;Schlüssel;Bedienungshilfen;Betafunktionen;Laborfunktionen;Entwicklereinstellungen;Sichern &amp; Wiederherstellen;Transfer;Ein-Tasten-Migration</string>
+  <string name="search_oldman_mode_entry_name">Light-Modus; Seniorenmodus; Lightmodus</string>
+  <string name="search_onekey_migrate">Transfer; Ein-Tasten-Migration</string>
+  <string name="search_other_advanced_settings">Weitere Einstellungen; Privatsphäreeinstellungen; Datum &amp; Uhrzeit; Sprache &amp; Eingabe; Einhandmodus; Akku; Speicher; Benachrichtigungs-LED; LED; Kopfhörer &amp; Audioeffekte; Tasten; Schlüssel; Bedienungshilfen; Betafunktionen; Laborfunktionen; Entwicklereinstellungen; Sichern &amp; Wiederherstellen; Transfer; Ein-Tasten-Migration</string>
   <string name="search_owner_info_settings">Eigentümerinfo</string>
   <string name="search_owner_info_settings_title">Eigentümerinfo</string>
   <string name="search_page_layout_settings">Textgröße</string>
-  <string name="search_permission_manager">Berechtigungen;Rootzugriff</string>
+  <string name="search_permission_manager">Berechtigungen; Rootzugriff</string>
   <string name="search_permission_settings_title">App-Berechtigungen</string>
   <string name="search_pointer_speed">Zeigergeschwindigkeit</string>
   <string name="search_power_checker">Akku überprüfen</string>
   <string name="search_power_hide_mode_title">Akkuverbrauch von Apps verwalten</string>
   <string name="search_power_mode">Leistungsmodus</string>
   <string name="search_power_optimize">Energie sparen</string>
-  <string name="search_power_usage_summary_title">Akku &amp; Leistung;Akku und Leistung;Akku;Leistung;Akku sparen;Energie sparen</string>
+  <string name="search_power_usage_summary_title">Akku &amp; Leistung; Akku und Leistung; Akku; Leistung; Akku sparen; Energie sparen</string>
   <string name="search_pref_edge_handgrip">Kantensteuerung</string>
   <string name="search_pref_volume_wake_title">Mit Lautstärketasten aufwecken</string>
   <string name="search_preferred_network_type_title">Bevorzugter Netzwerktyp</string>
   <string name="search_privacy">Sichern &amp; Wiederherstellen</string>
   <string name="search_privacy_policy">Datenschutzerklärung</string>
-  <string name="search_privacy_settings">Sichern &amp; Zurücksetzen;Sichern und Zurücksetzen;Sicherung;Sichern;Reset;Zurücksetzen</string>
-  <string name="search_radio_controls_title">Mehr;Kabellos</string>
+  <string name="search_privacy_settings">Sichern &amp; Zurücksetzen; Sichern und Zurücksetzen; Sicherung; Sichern; Reset; Zurücksetzen</string>
+  <string name="search_radio_controls_title">Mehr; Kabellos</string>
   <string name="search_recents_queries_label">Letzte Suchergebnisse</string>
   <string name="search_restriction_nfc_enable_title">NFC</string>
   <string name="search_results_label">Ergebnisse</string>
   <string name="search_results_title">Einstellungen</string>
   <string name="search_ring_volume">Ruftonlautstärke</string>
-  <string name="search_ring_volume_option_title">Lautstärke;Klingelton &amp; Benachrichtigung;Klingelton;Klingeltöne;Wecker;Musik</string>
+  <string name="search_ring_volume_option_title">Lautstärke; Klingelton &amp; Benachrichtigung; Klingelton; Klingeltöne; Wecker; Musik</string>
   <string name="search_ringtone">Klingelton</string>
-  <string name="search_ringtone_title">Klingelton;Rufton;Klingeltöne</string>
+  <string name="search_ringtone_title">Klingelton; Rufton; Klingeltöne</string>
   <string name="search_safe_result_header_title_system">Privatsphäre</string>
   <string name="search_screen_effect">Farben &amp; Sättigung</string>
   <string name="search_screen_key_long_press_timeout">Zeit für langes Drücken</string>
   <string name="search_screen_on_proximity_sensor_title">Wählen in der Tasche verhindern</string>
   <string name="search_screen_paper_mode">Lesemodus</string>
-  <string name="search_screen_paper_mode_title">Lesemodus;Lesen;Blaulicht;Gelblicht;Nachtmodus</string>
+  <string name="search_screen_paper_mode_title">Lesemodus; Lesen; Blaulicht; Gelblicht; Nachtmodus</string>
   <string name="search_screen_saver_settings">Screensaver</string>
   <string name="search_screen_timeout">Bildschirmtimeout</string>
   <string name="search_screenshot">Screenshot</string>
   <string name="search_second_space">Zweitprofil</string>
   <string name="search_security_encryption_title">Gerät mit Sperrbildschirmpasswort verschlüsseln</string>
   <string name="search_security_passwords_title">Passwort</string>
-  <string name="search_security_privacy_settings_title">Privatsphäre;Sicherheit;Unbekannte Quellen;Passwort anzeigen;Appsignatur;Logindaten löschen</string>
+  <string name="search_security_privacy_settings_title">Privatsphäre; Sicherheit; Unbekannte Quellen; Passwort anzeigen; Appsignatur; Logindaten löschen</string>
   <string name="search_security_settings">Privatsphäreeinstellungen</string>
   <string name="search_settings">Suche</string>
   <string name="search_settings_summary">Sucheinstellungen und Suchverlauf verwalten</string>
   <string name="search_silent">Lautlos</string>
   <string name="search_silent_mode_title">Ruhemodus;Stumm;Still;Stummschalten</string>
-  <string name="search_sim_management_title">Mobile Netzwerke;Mobile Daten;Daten;Übersee-Roaming;Roaming;MMS empfangen;Mobilnetz;Mobile Netze;Auslandsroaming</string>
-  <string name="search_sim_status_title">SIM-Status;SIM</string>
+  <string name="search_sim_management_title">Mobile Netzwerke; Mobile Daten; Daten; Übersee-Roaming; Roaming; MMS empfangen; Mobilnetz; Mobile Netze; Auslandsroaming</string>
+  <string name="search_sim_status_title">SIM-Status; SIM</string>
   <string name="search_slot_status_title">IMEI-Information</string>
   <string name="search_sms_delivered_sound_title">Nachricht zugestellt</string>
   <string name="search_sms_received">SMS empfangen</string>
-  <string name="search_sms_received_sound_title">Nachricht empfangen;Nachrichtenton;empfangene Nachrichten;Benachrichtigungston</string>
+  <string name="search_sms_received_sound_title">Nachricht empfangen; Nachrichtenton; empfangene Nachrichten; Benachrichtigungston</string>
   <string name="search_sound_effects_enable_title">Berührungstöne</string>
-  <string name="search_sound_settings">Ton;Lautstärke;Lautlosmodus;Alarm;Musik;Vibration;Klingelton;Standardbenachrichtigungston;Nachricht empfangen;Nachricht zugestellt;Berührung;Bildschirmsperrton;Audioeinstellungen;Rauschunterdrückung</string>
+  <string name="search_sound_settings">Ton; Lautstärke; Lautlosmodus; Alarm; Musik; Vibration; Klingelton; Standardbenachrichtigungston; Nachricht empfangen; Nachricht zugestellt; Berührung; Bildschirmsperrton; Audioeinstellungen; Rauschunterdrückung</string>
   <string name="search_status_bar">Statusleiste</string>
   <string name="search_status_bar_settings">Benachrichtigungen &amp; Statusleiste;Benachrichtigungen;Statusleiste</string>
   <string name="search_status_bar_settings_custom_carrier">Netzbetreibernamen ändern</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Am Sperrbildschirm anzeigen</string>
-  <string name="search_status_bar_settings_manage_notification">Appbenachrichtigungen;App-Benachrichtigungen;Benachrichtigungen</string>
+  <string name="search_status_bar_settings_manage_notification">Appbenachrichtigungen; App-Benachrichtigungen; Benachrichtigungen</string>
   <string name="search_status_bar_settings_show_carrier">Netzbetreibernamen anzeigen</string>
   <string name="search_status_bar_settings_show_network_speed">Verbindungsgeschwindigkeit anzeigen</string>
   <string name="search_status_bar_settings_show_notification_icon">Benachrichtigungsicons anzeigen</string>
   <string name="search_status_bar_settings_show_screenshot_notification">Screenshotbenachrichtigung anzeigen</string>
   <string name="search_status_bar_settings_style">Statusleistenstil</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Nach dem Berühren einklappen</string>
-  <string name="search_status_bar_settings_toggle_position">Schalterpositionen;Schalter;Toggle;Schalter ändern</string>
+  <string name="search_status_bar_settings_toggle_position">Schalterpositionen; Schalter; Toggle; Schalter ändern</string>
   <string name="search_status_sim">SIM-Status</string>
   <string name="search_storage">Speicher</string>
   <string name="search_storage_settings">Bereinigung</string>
   <string name="search_sync">Synchronisation</string>
-  <string name="search_sync_settings">Sanchronisation;Automatisch;nur WLAN</string>
+  <string name="search_sync_settings">Sanchronisation; Automatisch; nur WLAN</string>
   <string name="search_system_app_settings">Systemanwendungen</string>
   <string name="search_tether">Tether</string>
   <string name="search_tether_settings_title_bluetooth">Bluetooth-Tethering</string>
   <string name="search_tether_settings_title_usb">USB-Tethering</string>
   <string name="search_theme_settings">Themen</string>
-  <string name="search_theme_settings_title">Themen;Thema;Personalisierung;Personalisieren</string>
+  <string name="search_theme_settings_title">Themen; Thema; Personalisierung; Personalisieren</string>
   <string name="search_toggle_position">Schalteranordnung</string>
   <string name="search_touch_assistant">Berührungsassistent</string>
   <string name="search_touch_sensitive_title">Handschuhmodus</string>
-  <string name="search_trusted_credentials">Trusted credentials</string>
+  <string name="search_trusted_credentials">Vertrauenswürdige Anmeldeinformationen</string>
   <string name="search_tts_settings_title">Text-in-Sprache-Ausgabe</string>
   <string name="search_turn_on_security_lock">Bildschirmsperre ändern</string>
   <string name="search_unlock_set">Entsprerren</string>
-  <string name="search_usb_tethering_button_text">USB Tethering;USB-Tethering;Tethering;USB</string>
+  <string name="search_usb_tethering_button_text">USB Tethering; USB-Tethering; Tethering; USB</string>
   <string name="search_user_agreement">Terms of Service</string>
   <string name="search_user_dict_settings_title">Persönliches Wörterbuch</string>
-  <string name="search_vibrate_in_silent_title">Vibrate wenn lautlos</string>
-  <string name="search_vibrate_on_touch_title">Vibrate bei Berührung</string>
-  <string name="search_vibrate_when_ringing_title">Auch bei ANrufen vibrieren</string>
+  <string name="search_vibrate_in_silent_title">Vibrieren wenn Lautlos</string>
+  <string name="search_vibrate_on_touch_title">Vibrieren bei Berührung</string>
+  <string name="search_vibrate_when_ringing_title">Auch bei Anrufen vibrieren</string>
   <string name="search_virtual_sim">Virtuelle SIM-Karte</string>
   <string name="search_vpn">VPN</string>
   <string name="search_vpn_enable">VPN</string>
   <string name="search_vpn_settings_password">VPN-Passwort</string>
-  <string name="search_vpn_settings_title">VPN;VPN hinzufügen;VPN einschalten</string>
-  <string name="search_wakeup_for_keyguard_notification_title">Bei Benachrichtigungen auwecken</string>
+  <string name="search_vpn_settings_title">VPN; VPN hinzufügen; VPN einschalten</string>
+  <string name="search_wakeup_for_keyguard_notification_title">Bei Benachrichtigungen aufwecken</string>
   <string name="search_wallpaper">Hintergrund</string>
-  <string name="search_wallpaper_settings_title">Hintergrund;Startbildschirm;Sperrbildschirm</string>
-  <string name="search_wfd_settings_title">Wireless Display;Drahtlosdisplay;Bildschirmübertragung</string>
+  <string name="search_wallpaper_settings_title">Hintergrund; Startbildschirm; Sperrbildschirm</string>
+  <string name="search_wfd_settings_title">Wireless Display; Drahtlos Display; Bildschirmübertragung</string>
   <string name="search_wifi">WLAN</string>
   <string name="search_wifi_advanced_ip_address_title">IP-Adressen</string>
   <string name="search_wifi_advanced_mac_address_title">WLAN-MAC-Adressen</string>
   <string name="search_wifi_advanced_settings">Erweiterte Einstellungen;WLAN</string>
   <string name="search_wifi_display">Drahtlosanzeige</string>
-  <string name="search_wifi_enable">WLAN;WLAN</string>
+  <string name="search_wifi_enable">WLAN; WLAN</string>
   <string name="search_wifi_install_credentials">Zertifikate installieren</string>
   <string name="search_wifi_menu_p2p">WLAN Direct</string>
   <string name="search_wifi_menu_wps_pin">WPS PIN-Eingabe</string>
-  <string name="search_wifi_more_settings">Mehr;Flugmodus;VPN;Tethering &amp; WLAN-Hotspot;Drahtlosanzeige;Internationale mobile Daten;NFC;Android Beam;Sichere Elemente</string>
+  <string name="search_wifi_more_settings">Mehr; Flugmodus; VPN;Tethering &amp; WLAN-Hotspot; Drahtlosanzeige; Internationale mobile Daten; NFC; Android Beam; Sichere Elemente</string>
   <string name="search_wifi_scan_always_available">Scannen immer verfügbar</string>
   <string name="search_wifi_setting_frequency_band_title">WLAN-Frequenzband</string>
   <string name="search_wifi_setting_sleep_policy_title">WLAN während dem Sleep aktiv lassen</string>
-  <string name="search_wifi_settings_title">WLAN;Weitere Einstellungen;Drahtlosnetzwerke;Kabellos;Kabellose Netzwerke</string>
+  <string name="search_wifi_settings_title">WLAN; Weitere Einstellungen; Drahtlosnetzwerke; Kabellos; Kabellose Netzwerke</string>
   <string name="search_wifi_tether_checkbox">Mobiler Hotspot</string>
   <string name="search_wifi_tether_configure_ap_text">WLAN-Hotspot einrichten</string>
-  <string name="search_wifi_tether_settings_title">Tethering &amp; mobiler Hotspot;Tether;Internet teilen;WLAN Hotspot;WLAN-Hotspot</string>
+  <string name="search_wifi_tether_settings_title">Tethering &amp; mobiler Hotspot; Tether; Internet teilen; WLAN Hotspot; WLAN-Hotspot</string>
   <string name="search_wifi_wapi_cert_install">WAPI-Zertifikat installieren</string>
   <string name="search_wifi_wapi_cert_uninstall">WAPI-Zertifika löschen</string>
   <string name="search_wps_connect_title">WPS-Push-Taste</string>
@@ -4063,9 +4050,9 @@ Um Screenpinning zu nutzen:
   <string name="select_device_admin_msg">Geräteadministratoren</string>
   <string name="select_logd_size_dialog_title">Loggergrößen pro Logpuffer auswählen</string>
   <string name="select_logd_size_title">Loggerpuffergrößen</string>
-  <string name="select_runtime_dialog_title">Select runtime</string>
-  <string name="select_runtime_title">Select runtime</string>
-  <string name="select_runtime_warning_message">Reboot to change runtime from %1$s to %2$s?</string>
+  <string name="select_runtime_dialog_title">Laufzeit auswählen</string>
+  <string name="select_runtime_title">Laufzeit auswählen</string>
+  <string name="select_runtime_warning_message">Neustart zum Ändern der Laufzeit von %1$s an %2$s?</string>
   <string name="select_sim_for_calls">Anrufen mit</string>
   <string name="select_sim_for_data">SIM für Daten auswählen</string>
   <string name="select_ssid_type_title">SSID auswählen</string>
@@ -4170,8 +4157,7 @@ Um Screenpinning zu nutzen:
   <string name="sim_cellular_data_unavailable_summary">Berühren um eine Daten-SIM zu wählen</string>
   <string name="sim_change_data_message">%1$s anstelle von %2$s für mobile Daten verwenden?</string>
   <string name="sim_change_data_title">Daten-SIM ändern?</string>
-  <string name="sim_change_failed">"PIN kann nicht geändert werden.
-Möglicherweise ist die PIN falsch."</string>
+  <string name="sim_change_failed">"PIN kann nicht geändert werden. Möglicherweise ist die PIN falsch."</string>
   <string name="sim_change_failed_enable_sim_lock">SIM-Sperre einschalten</string>
   <string name="sim_change_pin">PIN für SIM-Karte</string>
   <string name="sim_change_succeeded">SIM-PIN erfolgreich geändert</string>
@@ -4183,8 +4169,7 @@ Möglicherweise ist die PIN falsch."</string>
   <string name="sim_editor_num_format">Zahlen anzeigen</string>
   <string name="sim_editor_number">Zahl</string>
   <string name="sim_editor_title">SIM-Karte</string>
-  <string name="sim_enable_disable_lock_not_supported">"Kann nicht SIM/RUIM Sperre ändern.
- SIM/RUIM unterstützt dies nicht."</string>
+  <string name="sim_enable_disable_lock_not_supported">"Kann SIM/RUIM Sperre nicht ändern. SIM/RUIM unterstützt dies nicht."</string>
   <string name="sim_enable_sim_lock">SIM-Karte sperren</string>
   <string name="sim_enabled">Aktiviert</string>
   <string name="sim_enabler_airplane_on">Fehler, Flugmodus ist an!</string>
@@ -4202,8 +4187,7 @@ Möglicherweise ist die PIN falsch."</string>
   <string name="sim_enter_old">Alte PIN der SIM-Karte</string>
   <string name="sim_enter_pin">PIN für SIM-Karte</string>
   <string name="sim_lock_change_not_supported">"Kann SIM-Sperre nicht ändern."</string>
-  <string name="sim_lock_failed">"Status der SIM-Kartensperrung kann nicht geändert werden.
-Möglicherweise falsche PIN."</string>
+  <string name="sim_lock_failed">"Status der SIM-Kartensperrung kann nicht geändert werden. Möglicherweise falsche PIN."</string>
   <string name="sim_lock_off">PIN zur Verwendung des Telefons erforderlich</string>
   <string name="sim_lock_on">PIN zur Verwendung des Telefons erforderlich</string>
   <string name="sim_lock_settings">Einstellungen für SIM-Sperre</string>
@@ -4220,11 +4204,9 @@ Möglicherweise falsche PIN."</string>
   <string name="sim_notification_title">SIM-Karten getauscht.</string>
   <string name="sim_other_call_settings">Andere Anrufeinstellungen</string>
   <string name="sim_outgoing_call_title">SIM-Karte für ausgehende Anrufe</string>
-  <string name="sim_pin_attempts">"
-Verbleibende Versuche :"</string>
+  <string name="sim_pin_attempts">"Verbleibende Versuche :"</string>
   <string name="sim_pin_change">SIM-PIN ändern</string>
-  <string name="sim_pin_change_failed_enable_sim_lock">"Kann die SIM/RUIM PIN nicht ändern.
- Aktiviere SIM/RUIM-Sperre."</string>
+  <string name="sim_pin_change_failed_enable_sim_lock">"Kann die SIM/RUIM PIN nicht ändern.  Aktiviere SIM/RUIM-Sperre."</string>
   <string name="sim_pin_disable_failed">"Kann die PIN nicht deaktivieren."</string>
   <string name="sim_pin_disabled">PIN1 deaktiviert!</string>
   <string name="sim_pin_enable_failed">"Kann die PIN nicht aktivieren."</string>
@@ -4266,9 +4248,9 @@ Verbleibende Versuche :"</string>
   <string name="smartcover_sensitive_summary">Telefon mit Smart Cover einfach sperren oder entsperren</string>
   <string name="smartcover_sensitive_title">Smartcovermodus</string>
   <string name="sms_application_title">Standard-SMS-App</string>
-    <string name="sms_change_default_dialog_text">Verwende %1$s anstelle von %2$s als Ihre SMS-App?</string>
-    <string name="sms_change_default_dialog_title">SMS-App wechseln?</string>
-    <string name="sms_change_default_no_previous_dialog_text">%s als SMS-App verwenden?</string>
+  <string name="sms_change_default_dialog_text">Verwende %1$s anstelle von %2$s als Ihre SMS-App?</string>
+  <string name="sms_change_default_dialog_title">SMS-App wechseln?</string>
+  <string name="sms_change_default_no_previous_dialog_text">%s als SMS-App verwenden?</string>
   <string name="sms_delivered_sound_dialog_title">Ton für gesendete SMS auswählen</string>
   <string name="sms_delivered_sound_title">Nachricht zugestellt</string>
   <string name="sms_messages_title">SMS Nachrichten</string>
@@ -4296,17 +4278,10 @@ Verbleibende Versuche :"</string>
   <string name="spellcheckers_settings_title">Rechtschreibprüfung</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Netzwerküberwachung</string>
-  <string name="ssl_ca_cert_info_message">"Dieses Gerät wird verwaltet von:
-%s
-
-Ihr Administrator kann Ihre Netzwerkaktivitäten überwachen, einschließlich den E-Mails, Apps und sicheren Websites.
-
-Wenden Sie sich für weitere Informationen an Ihren Administrator."</string>
+  <string name="ssl_ca_cert_info_message">"Dieses Gerät wird verwaltet von: %s Ihr Administrator kann Ihre Netzwerkaktivitäten überwachen, einschließlich den E-Mails, Apps und sicheren Websites. Wenden Sie sich für weitere Informationen an Ihren Administrator."</string>
   <string name="ssl_ca_cert_settings_button">Vertrauenswürdige Anmeldedaten überprüfen</string>
   <string name="ssl_ca_cert_warning">Das Netzwerk wird möglicherweise überwacht.</string>
-  <string name="ssl_ca_cert_warning_message">"Dritte können Ihre Netzwerkaktivitäten überwachen, einschließlich den E-Mails, Apps und sicheren Websites.
-
-Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerät installiert sind."</string>
+  <string name="ssl_ca_cert_warning_message">"Dritte können Ihre Netzwerkaktivitäten überwachen, einschließlich den E-Mails, Apps und sicheren Websites. Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerät installiert sind."</string>
   <string name="stable_build">" | Stable"</string>
   <string name="standard_configuration_version_rear_camera">1300 Mpx</string>
   <string name="standard_configuration_version_screen_resolution">1920 x 1080 Pixel</string>
@@ -4399,51 +4374,25 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="storage_detail_apps">Apps</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Daten im Cache</string>
-  <string name="storage_detail_dialog_other">"Andere beinhaltete von Apps gespeicherte Dateien, Downloads, Androiddateien, etc. 
-
-Um den gesamten Inhalt von ^1 anzuzeigen, tippen Sie auf Erkunden."</string>
-  <string name="storage_detail_dialog_user">"^1 hat möglicherweise, Musik, Videos, Apps oder andere Dateien gespeichert, die ^2 im Speicher belegen. 
-
-Um Details anzuschauen, wechseln Sie zu ^1."</string>
+  <string name="storage_detail_dialog_other">"Andere beinhaltete von Apps gespeicherte Dateien, Downloads, Androiddateien, etc. Um den gesamten Inhalt von ^1 anzuzeigen, tippen Sie auf Erkunden."</string>
+  <string name="storage_detail_dialog_user">"^1 hat möglicherweise, Musik, Videos, Apps oder andere Dateien gespeichert, die ^2 im Speicher belegen. Um Details anzuschauen, wechseln Sie zu ^1."</string>
   <string name="storage_detail_explore">Erkunden ^1</string>
   <string name="storage_detail_images">Bilder</string>
   <string name="storage_detail_other">Andere</string>
   <string name="storage_detail_videos">Videos</string>
-  <string name="storage_dialog_unmountable">"Dieses ^1 ist beschädigt. 
-
-Um dieses ^1 zu verwenden, müssen Sie es zuerst einrichten."</string>
-  <string name="storage_dialog_unmounted">"Dieses ^1 wurde sicher ausgeworfen, ist aber noch verfügbar. 
-
-Um dieses ^1 zu verwenden, müssen Sie es zuerst einbinden."</string>
-  <string name="storage_dialog_unsupported">"Dieses Gerät unterstützt dieses ^1 nicht. 
-
-Um dieses ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten."</string>
+  <string name="storage_dialog_unmountable">"Dieses ^1 ist beschädigt. Um dieses ^1 zu verwenden, müssen Sie es zuerst einrichten."</string>
+  <string name="storage_dialog_unmounted">"Dieses ^1 wurde sicher ausgeworfen, ist aber noch verfügbar. Um dieses ^1 zu verwenden, müssen Sie es zuerst einbinden."</string>
+  <string name="storage_dialog_unsupported">"Dieses Gerät unterstützt dieses ^1 nicht. Um dieses ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten."</string>
   <string name="storage_external_title">Tragbares Speichermedium</string>
   <string name="storage_format">Formatierung</string>
   <string name="storage_format_failure">%1$s konnte nicht formatiert werden</string>
   <string name="storage_format_success">%1$s ist formatiert</string>
   <string name="storage_internal_forget_confirm">Alle Apps, Fotos und Daten, die dieser ^1 enthält, gehen für immer verloren.</string>
   <string name="storage_internal_forget_confirm_title">^1 vergessen?</string>
-  <string name="storage_internal_forget_details">"Um Apps, Fotos und Daten, die dieser ^1 enthält, zu nutzen, legen Sie Ihn wieder ein. 
-
-Alternativ können Sie den Speicher vergessen, wenn das Gerät nicht verfügbar ist. 
-
-Wenn Sie den Speicher vergessen, gehen alle Daten darauf verloren. 
-
-Sie können Apps später wieder installieren, aber deren Daten sind für immer verloren."</string>
-  <string name="storage_internal_format_details">"Nach dem Formatieren können Sie diesen ^1 in anderen Geräten verwenden. 
-
-Alle Daten auf diesem ^1 werden gelöscht. Erwägen Sie eine Sicherung. 
-
-"<b>Fotos &amp; andere Medien sichern</b>" 
-Verschieben Sie Ihre Medien auf einen anderen Speicher in diesem Gerät oder kopieren Sie sie über USB auf einen PC. 
-
-"<b>Apps sichern</b>" 
-Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie sie auf einen anderen Speicher auf diesem Gerät."</string>
+  <string name="storage_internal_forget_details">"Um Apps, Fotos und Daten, die dieser ^1 enthält, zu nutzen, legen Sie Ihn wieder ein. Alternativ können Sie den Speicher vergessen, wenn das Gerät nicht verfügbar ist. Wenn Sie den Speicher vergessen, gehen alle Daten darauf verloren. Sie können Apps später wieder installieren, aber deren Daten sind für immer verloren."</string>
+  <string name="storage_internal_format_details">"Nach dem Formatieren können Sie diesen ^1 in anderen Geräten verwenden. Alle Daten auf diesem ^1 werden gelöscht. Erwägen Sie eine Sicherung. "<b>Fotos &amp; andere Medien sichern</b>" Verschieben Sie Ihre Medien auf einen anderen Speicher in diesem Gerät oder kopieren Sie sie über USB auf einen PC. "<b>Apps sichern</b>" Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie sie auf einen anderen Speicher auf diesem Gerät."</string>
   <string name="storage_internal_title">Interner Speicher</string>
-  <string name="storage_internal_unmount_details"><b>Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein.</b>" 
-
-Dieser ^1 ist fomratiert, um nur auf diesem Gerät zu funktionieren. Er wird auf andern Geräten nicht funktionieren."</string>
+  <string name="storage_internal_unmount_details"><b>Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein.</b>" Dieser ^1 ist fomratiert, um nur auf diesem Gerät zu funktionieren. Er wird auf andern Geräten nicht funktionieren."</string>
   <string name="storage_label">Speicher</string>
   <string name="storage_low_summary">Einige Systemfunktionen wie die Synchronisierung funktionieren möglicherweise nicht richtig. Versuchen Sie Speicher freizugeben, indem Sie Apps oder Medieninhalte löschen.</string>
   <string name="storage_low_title">Der Speicherplatz wird knapp</string>
@@ -4479,58 +4428,37 @@ Dieser ^1 ist fomratiert, um nur auf diesem Gerät zu funktionieren. Er wird auf
   <string name="storage_volume_summary">%1$s used of %2$s</string>
   <string name="storage_volume_used">Verwendet von %1$s</string>
   <string name="storage_volume_used_total">Gesamt verwendet von %1$s</string>
-  <string name="storage_wizard_format_confirm_body">"Es ist erforderlich, ^1 zu formatieren, um es sicher zu machen. 
-
-Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren. 
-
-"<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b>" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
+  <string name="storage_wizard_format_confirm_body">"Es ist erforderlich, ^1 zu formatieren, um es sicher zu machen. Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren. "<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b>" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
   <string name="storage_wizard_format_confirm_next">Löschen &amp; Formatieren</string>
-  <string name="storage_wizard_format_confirm_public_body">"Es ist erforderlich, ^1 zu formatieren.
-
-"<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b>" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
+  <string name="storage_wizard_format_confirm_public_body">"Es ist erforderlich, ^1 zu formatieren. "<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b>" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
   <string name="storage_wizard_format_confirm_public_title">Als tragbaren Speicher formatieren</string>
   <string name="storage_wizard_format_confirm_third_body">wird formatiert</string>
   <string name="storage_wizard_format_confirm_title">Als internen Speicher formatieren</string>
   <string name="storage_wizard_format_progress_body">Entfernen Sie ^1 nicht während die Formatierung läuft</string>
   <string name="storage_wizard_format_progress_title">^1 wird formatiert…</string>
-  <string name="storage_wizard_init_external_summary">For moving photos and other media between devices.</string>
+  <string name="storage_wizard_init_external_summary">Zum Verschieben von Fotos und anderen Medien zwischen Geräten.</string>
   <string name="storage_wizard_init_external_title">Als tragbaren Speicher verwenden</string>
-  <string name="storage_wizard_init_internal_summary">For storing anything on this device only, including apps and photos. Requires formatting that prevents it from working with other devices.</string>
+  <string name="storage_wizard_init_internal_summary">Um alles auf diesem Gerät zu speichern, einschließlich Apps und Fotos. Erfordert Formatierungen, die verhindert, dass Sie mit anderen Geräten arbeiten.</string>
   <string name="storage_wizard_init_internal_title">Als internen Speicher verwenden</string>
   <string name="storage_wizard_init_title">Richten Sie ^1 ein</string>
-  <string name="storage_wizard_migrate_body">"Sie können Fotos, Dateien und einige Apps auf diesen neuen ^1 verschieben. 
-
-Das Verschieben dauert etwa ^2 und wird ^3 auf dem internen Speicher freigeben. Einige Apps werden während diesem Vorgang nicht funktionieren."</string>
+  <string name="storage_wizard_migrate_body">"Sie können Fotos, Dateien und einige Apps auf diesen neuen ^1 verschieben. Das Verschieben dauert etwa ^2 und wird ^3 auf dem internen Speicher freigeben. Einige Apps werden während diesem Vorgang nicht funktionieren."</string>
   <string name="storage_wizard_migrate_confirm_body"><b>Das Verschieben dauert etwa ^1 und wird ^2 auf dem ^3 freigeben.</b></string>
   <string name="storage_wizard_migrate_confirm_next">Verschieben</string>
   <string name="storage_wizard_migrate_confirm_title">Jetzt verschieben</string>
-  <string name="storage_wizard_migrate_details">"Während dem Verschieben: 
-• Entefernen Sie nicht ^1. 
-• Einige Apps funktionieren nicht. 
-• Lassen Sie Ihr Gerät aufgeladen."</string>
+  <string name="storage_wizard_migrate_details">"Während dem Verschieben: • Entefernen Sie nicht ^1. • Einige Apps funktionieren nicht. • Lassen Sie Ihr Gerät aufgeladen."</string>
   <string name="storage_wizard_migrate_later">Später verschieben</string>
   <string name="storage_wizard_migrate_now">Jetzt verschieben</string>
   <string name="storage_wizard_migrate_progress_title">Daten werden verschoben…</string>
   <string name="storage_wizard_migrate_title">Daten auf neuen Speicher verschieben</string>
-  <string name="storage_wizard_move_confirm_body">"^1 und dessen Daten auf ^2 zu verschieben dauert nur einen Moment. Bis der Vorgang abgeschlossen ist, können Sie die App nicht verwenden. 
-
-Entfernen Sie ^2 während dem Vorgang nicht."</string>
+  <string name="storage_wizard_move_confirm_body">"^1 und dessen Daten auf ^2 zu verschieben dauert nur einen Moment. Bis der Vorgang abgeschlossen ist, können Sie die App nicht verwenden. Entfernen Sie ^2 während dem Vorgang nicht."</string>
   <string name="storage_wizard_move_confirm_title">^1 verschieben</string>
-  <string name="storage_wizard_move_progress_body">"Entfernen Sie ^1 während dem Vorgang nicht. 
-
-^2 wird auf diesem Gerät nicht verfügbar sein bis der Vorgang abgeschlossen ist."</string>
+  <string name="storage_wizard_move_progress_body">"Entfernen Sie ^1 während dem Vorgang nicht. ^2 wird auf diesem Gerät nicht verfügbar sein bis der Vorgang abgeschlossen ist."</string>
   <string name="storage_wizard_move_progress_cancel">Verschieben abbrechen</string>
   <string name="storage_wizard_move_progress_title">^1 wird verschoben…</string>
   <string name="storage_wizard_ready_external_body">Ihr ^1 ist bereit zur Nutzung für Fotos und andere Medien.</string>
-  <string name="storage_wizard_ready_internal_body">"Ihr neuer ^1 ist funktionsbereit. 
-
-Um Fotos, Dateien und Apps zu verschieben, gehen Sie zu Einstellungen > Speicher."</string>
+  <string name="storage_wizard_ready_internal_body">"Ihr neuer ^1 ist funktionsbereit. Um Fotos, Dateien und Apps zu verschieben, gehen Sie zu Einstellungen > Speicher."</string>
   <string name="storage_wizard_ready_title">^1 ist bereit</string>
-  <string name="storage_wizard_slow_body">"Dieser ^1 scheint langsam zu sein. 
-
-Sie können fortfahren, aber Apps, die Sie dorthin verschieben, könnten ruckeln und der Datentransfer dauert sehr lange. 
-
-Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string>
+  <string name="storage_wizard_slow_body">"Dieser ^1 scheint langsam zu sein. Sie können fortfahren, aber Apps, die Sie dorthin verschieben, könnten ruckeln und der Datentransfer dauert sehr lange. Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string>
   <string name="storageuse_settings_summary">Von Apps verwendeten Speicher anzeigen</string>
   <string name="storageuse_settings_title">Speichernutzung</string>
   <string name="strict_mode">Strikter Modus aktiviert</string>
@@ -4579,10 +4507,8 @@ Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string
   <string name="sync_menu_sync_cancel">Synchronisierung abbrechen</string>
   <string name="sync_menu_sync_now">Jetzt synchronisieren</string>
   <string name="sync_now">Synchronisieren</string>
-  <string name="sync_one_time_sync">"Zum sofortigen Synchronisieren berühren
-%1$s"</string>
-  <string name="sync_plug">" "<font fgcolor="#ffffffff">Willkommen bei Google Sync!</font>" 
-Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von überall auf Ihre Kontakte, Termine und vieles mehr zugreifen zu können!"</string>
+  <string name="sync_one_time_sync">"Zum sofortigen Synchronisieren berühren %1$s"</string>
+  <string name="sync_plug">" "<font fgcolor="#ffffffff">Willkommen bei Google Sync!</font>" Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von überall auf Ihre Kontakte, Termine und vieles mehr zugreifen zu können!"</string>
   <string name="sync_settings">Synchronisierung</string>
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Nur über WLAN</string>
@@ -4658,8 +4584,8 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="timezone_settings">Zeitzone</string>
   <string name="title_color_calibration">Farbkorrekturvoreinstellung</string>
   <string name="title_dolby_control">Dolby-Sound</string>
-  <string name="title_font">Font</string>
-  <string name="title_font2">Font</string>
+  <string name="title_font">Schrift</string>
+  <string name="title_font2">Schrift</string>
   <string name="title_font_current">Systemschriftart</string>
   <string name="title_font_current2">Systemschriftart</string>
   <string name="title_font_size">Schriftgröße</string>
@@ -4695,9 +4621,9 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="trans_calculating">Wird berechnet…</string>
   <string name="trans_calculating_app_sd_size">Datengröße wird berechnet, %s gescannt</string>
   <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
-  <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
+  <string name="trans_cancel_confirm">Transfer läuft, jetzt stoppen?</string>
   <string name="trans_cancelling">Abbrechen…</string>
-    <string name="trans_connect_failed_message">Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen > Weitere Einstellungen > Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut.</string>
+  <string name="trans_connect_failed_message">Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen > Weitere Einstellungen > Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut.</string>
   <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
   <string name="trans_connect_failed_toast">Verbindung fehlgeschlagen</string>
   <string name="trans_connecting_toast">Verbinden…</string>
@@ -4710,17 +4636,13 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="trans_generate_qr_code_failed">"QR Code konnte nicht erstellt werden"</string>
   <string name="trans_main_tutor">Kontakte, Anrufverlauf, Nachrichten, Bildschirmlayout, Apps, Einstellungen, usw. auf eine neues Gerät verschieben</string>
   <string name="trans_my_device">Mein Gerät</string>
-  <string name="trans_native_no_space">"Dieses Gerät hat nicht genügend Speicherplatz zur Verfügung 
-Bitte bereinigen Sie mindestens %s"</string>
+  <string name="trans_native_no_space">"Dieses Gerät hat nicht genügend Speicherplatz zur Verfügung Bitte bereinigen Sie mindestens %s"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Methode A</string>
   <string name="trans_operate_func_two">Methode B</string>
-    <string name="trans_operate_new_phone_tips">"Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover
- [Ich bin der Empfänger] antippen, um QR Code zu erstellen"</string>
-  <string name="trans_operate_old_phone_tips1">1. Installieren Sie Mi Mover Auf dem alten Gerät
-2. Öffnen Sie die App und tippen Sie Start
-3. Scannen Sie den QR Code auf Ihrem alten Gerät</string>
-    <string name="trans_operate_old_phone_tips2">Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover [Ich bin der Sender] antippen</string>
+  <string name="trans_operate_new_phone_tips">"Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover [Ich bin der Empfänger] antippen, um QR Code zu erstellen"</string>
+  <string name="trans_operate_old_phone_tips1">1. Installieren Sie Mi Mover Auf dem alten Gerät 2. Öffnen Sie die App und tippen Sie Start 3. Scannen Sie den QR Code auf Ihrem alten Gerät</string>
+  <string name="trans_operate_old_phone_tips2">Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover [Ich bin der Sender] antippen</string>
   <string name="trans_please_waiting">Einen Moment…</string>
   <string name="trans_progress_subdescript_br_receiver">Wiederherstellung von %1$s, %2$s abgeschlossen</string>
   <string name="trans_progress_subdescript_br_sender">Sicherung von %1$s, %2$s abgeschlossen</string>
@@ -4734,9 +4656,7 @@ Bitte bereinigen Sie mindestens %s"</string>
   <string name="trans_progress_subdescript_transingsddata_sender">Sende %1$s Dateien von der SD-Karte, %2$s abgeschlossen</string>
   <string name="trans_progress_subdescript_waiting">Warten auf Empgang von %s</string>
   <string name="trans_receiver">Ich bin der Empfänger</string>
-  <string name="trans_receiver_time_remained">"Noch %s. Das Gerät muss aufgeladen sein.
-  Schalten Sie den WLAN Hotspot nicht aus. 
-  Halten Sie beide Geräte in der Nähe."</string>
+  <string name="trans_receiver_time_remained">"Noch %s. Das Gerät muss aufgeladen sein. Schalten Sie den WLAN Hotspot nicht aus. Halten Sie beide Geräte in der Nähe."</string>
   <string name="trans_receiving_completed">Empfang erfolgreich</string>
   <string name="trans_restoring">Wiederherstellen…</string>
   <string name="trans_restoring_no_items">Elemente synchronisieren</string>
@@ -4744,32 +4664,24 @@ Bitte bereinigen Sie mindestens %s"</string>
   <string name="trans_scan_invalid_qrcode">QR-Code ungültig</string>
   <string name="trans_scan_qr_code_tips">Scannen Sie den QR-Code mit dem neuen Gerät</string>
   <string name="trans_select_data">Zu sendende Dateien auswählen</string>
-  <string name="trans_select_data_no_space">"%s auf neuem Gerät verfügbar
-  Erneut auswählen oder zusätzlichen Speicher frei machen"</string>
-  <string name="trans_select_data_tips">"Dateien zur Übertragung auswählen
-  Dateien mit identischem Namen werden überschrieben"</string>
+  <string name="trans_select_data_no_space">"%s auf neuem Gerät verfügbar Erneut auswählen oder zusätzlichen Speicher frei machen"</string>
+  <string name="trans_select_data_tips">"Dateien zur Übertragung auswählen Dateien mit identischem Namen werden überschrieben"</string>
   <string name="trans_select_device_receive">Gerät zum Datenempfang auswählen</string>
   <string name="trans_select_device_send">Wählen Sie ein Gerät um Daten zu senden</string>
   <string name="trans_sender">Ich bin der Sender</string>
   <string name="trans_sender_connectting">Auf neuem Gerät bestätigen</string>
   <string name="trans_sender_searching">Nach neuen Geräten suchen</string>
-  <string name="trans_sender_searching_ensurance">"Das alte Gerät muß eingeschaltet sein.
-    Warten auf Verbindung mit dem alten Gerät…"</string>
-  <string name="trans_sender_time_remained">"Noch %s.
-  Schalten Sie den WLAN Hotspot nicht aus. 
-  Halten Sie beide Geräte in der Nähe."</string>
+  <string name="trans_sender_searching_ensurance">"Das alte Gerät muß eingeschaltet sein. Warten auf Verbindung mit dem alten Gerät…"</string>
+  <string name="trans_sender_time_remained">"Noch %s. Schalten Sie den WLAN Hotspot nicht aus. Halten Sie beide Geräte in der Nähe."</string>
   <string name="trans_sending_completed">Senden erfolgreich</string>
   <string name="trans_show_qr_code_label">Altes Gerät verbinden</string>
   <string name="trans_show_qr_code_tips">QR Code mit Ihrem alten Gerät scannen</string>
   <string name="trans_start_failed_message">Start der Übertragung fehlgeschlagen, bitte erneut versuchen oder neu starten</string>
   <string name="trans_start_failed_title">Start der Übertragung fehlgeschlagen</string>
   <string name="trans_time_format_second">Weniger 1 Minute</string>
-  <string name="trans_time_spent">"
-  Zeit bisher: %s"</string>
-  <string name="trans_wait_trans_data">"Mit altem Gerät verbunden.
-  Warten auf Übertragung…"</string>
-  <string name="trans_waiting_ensurance">"Das alte Gerät muß eingeschaltet und
-  Mi Mover aktiviert sein"</string>
+  <string name="trans_time_spent">"Zeit bisher: %s"</string>
+  <string name="trans_wait_trans_data">"Mit altem Gerät verbunden. Warten auf Übertragung…"</string>
+  <string name="trans_waiting_ensurance">"Das alte Gerät muß eingeschaltet und Mi Mover aktiviert sein"</string>
   <string name="trans_waiting_for_sender">Warte auf Verbindung mit dem alten Gerät…</string>
   <string name="transition_animation_scale_title">Übergangsanimation</string>
   <string name="translation_contributors_title">Mitwirkende</string>
@@ -4835,7 +4747,7 @@ Bitte bereinigen Sie mindestens %s"</string>
   <string name="turn_off_keyguard_password_alert_title">Einschalten</string>
   <string name="turn_off_keyguard_password_confirm_msg">Sperrbildschirmpasswort deaktivieren?</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nchdem Sie das Sperrbildschirmpasswort deaktiviert haben, können Sie Ihren Fingerabdruck zum Entsperren nicht mehr verwenden</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Nachdem Deaktivieren des Passworts, werden gespeicherte Fingerabdrücke gelöscht. Sie werden Ihr Gerät nicht mehr mit dem Fingerabdruck entsperren können.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Nachdem Deaktivieren des Passworts, werden gespeicherte Fingerabdrücke gelöscht. Sie werden Ihr Gerät nicht mehr mit dem Fingerabdruck entsperren können.</string>
   <string name="turn_off_radio">Mobilfunkverbindung ausschalten</string>
   <string name="turn_off_security_lock">Sperre ausschalten</string>
   <string name="turn_on_keyguard_password">Sperrbildschirmpasswort aktivieren</string>
@@ -4875,21 +4787,13 @@ Bitte bereinigen Sie mindestens %s"</string>
   <string name="unlock_change_lock_pattern_title">Entsperrmuster ändern</string>
   <string name="unlock_change_lock_pin_title">PIN ändern</string>
   <string name="unlock_disable_frp_warning_content_password">Geräteschutz funktioniert ohne ein Passwort nicht.</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Geräteschutzfunktionen werden ohne ein Passwort nicht funktionieren.
-
-Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, ein Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Geräteschutzfunktionen werden ohne ein Passwort nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, ein Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_pattern">Geräteschutz funktioniert ohne ein Entsperrmuster nicht.</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren.
-
-Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_pin">Geräteschutz funktioniert nicht ohne eine PIN.</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Geräteschutzfunktionen werden ohne eine PIN nicht funktionieren.
-
-Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Geräteschutzfunktionen werden ohne eine PIN nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_unknown">Geräteschutz funktioniert nicht ohne eine Bildschirmsperre.</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Geräteschutzfunktionen werden ohne eine Bildschirmsperre nicht funktionieren.
-
-Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Geräteschutzfunktionen werden ohne eine Bildschirmsperre nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_ok">Ja, löschen</string>
   <string name="unlock_disable_frp_warning_title">Geräteschutz löschen?</string>
   <string name="unlock_disable_lock_password_summary">Entsperrpasswort entfernen</string>
@@ -5021,14 +4925,8 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
   <string name="user_add_user_item_summary">Die Benutzer haben eigene Apps und Inhalte.</string>
   <string name="user_add_user_item_title">Benutzer</string>
   <string name="user_add_user_menu">Benutzer hinzufügen</string>
-  <string name="user_add_user_message_long">"Sie können dieses Gerät mit anderen Personen teilen und dazu zusätzliche Nutzer erstellen. Jeder Nutzer hat seinen eigenen Bereich, in dem er unter anderem eigene Apps oder Hintergründe installieren kann. Nutzer können auch Tablet-Einstellungen wie WLAN anpassen, die jeden Nutzer betreffen.
-
-Nachdem Sie einen neuen Nutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen.
-
-Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer akzeptieren."</string>
-  <string name="user_add_user_message_short">"Nachdem Sie einen neuen Nutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen.
-
-Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer akzeptieren."</string>
+  <string name="user_add_user_message_long">"Sie können dieses Gerät mit anderen Personen teilen und dazu zusätzliche Nutzer erstellen. Jeder Nutzer hat seinen eigenen Bereich, in dem er unter anderem eigene Apps oder Hintergründe installieren kann. Nutzer können auch Tablet-Einstellungen wie WLAN anpassen, die jeden Nutzer betreffen. Nachdem Sie einen neuen Nutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen. Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer akzeptieren."</string>
+  <string name="user_add_user_message_short">"Nachdem Sie einen neuen Nutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen. Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer akzeptieren."</string>
   <string name="user_add_user_or_profile_menu">Nutzerprofile hinzufügen</string>
   <string name="user_add_user_title">Neuen Nutzer hinzufügen</string>
   <string name="user_add_user_type_title">Hinzufügen</string>
@@ -5055,8 +4953,7 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="user_dict_settings_context_menu_delete_title">Löschen</string>
   <string name="user_dict_settings_context_menu_edit_title">Bearbeiten</string>
   <string name="user_dict_settings_edit_dialog_title">Wort bearbeiten</string>
-  <string name="user_dict_settings_empty_text">"Es sind keine Wörterbücher vorhanden.
- Durch Berühren der Schaltfläche \"+\" ein Wort hinzufügen."</string>
+  <string name="user_dict_settings_empty_text">"Es sind keine Wörterbücher vorhanden. Durch Berühren der Schaltfläche \"+\" ein Wort hinzufügen."</string>
   <string name="user_dict_settings_more_languages">Weitere Sprachen...</string>
   <string name="user_dict_settings_summary" />
   <string name="user_dict_settings_title">Mein Wörterbuch</string>
@@ -5128,9 +5025,9 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="virtual_sim_description">Zuverlässiger internationaler Roamingdienst</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
   <string name="virtual_sim_global_description">Es ist keine Sim-Karte erforderlich, um sich mit einem mobilen Netzwerk zu verbinden</string>
-  <string name="virtual_sim_global_title">Dataverkehrsservice</string>
+  <string name="virtual_sim_global_title">Daten Verkehrs-Service</string>
   <string name="virtual_sim_search_title">Virtuelle SIM-Karte</string>
-  <string name="virtual_sim_title">Roamingdatennetzwerk</string>
+  <string name="virtual_sim_title">Roaming Datennetzwerk</string>
   <string name="virus_scan">Antivirus</string>
   <string name="virus_scan_app_continue">Suche fortsetzen</string>
   <string name="virus_scan_app_find_risk">%d potenzielle Bedrohungen gefunden.</string>
@@ -5290,8 +5187,7 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="wifi_assistant_card_message">Verbinde automatisch mit verfügbaren Netzwerken mit einem WLAN-Assistenten.</string>
   <string name="wifi_assistant_dialog_message">WLAN-Assistent möchte eine VPN-Verbindung einrichten, die es ermöglicht den Netzwerkverkehr zu überwachen. Stimmen Sie nur dann zu, wenn Sie der Quelle vertrauen.</string>
   <string name="wifi_assistant_explanation_message">Google WLAN-Assistent erkennt für Sie verfügbaren Netzwerke und verbindet Ihr Gerät mit einem zuverlässigen Netzwerk, das die beste Geschwindigkeit hat.</string>
-  <string name="wifi_assistant_intro_setup">"Stelle vor
-WLAN Assistent"</string>
+  <string name="wifi_assistant_intro_setup">"Stelle vor WLAN Assistent"</string>
   <string name="wifi_assistant_no_thanks">NEIN, DANKE</string>
   <string name="wifi_assistant_open_app">OFFENE APP</string>
   <string name="wifi_assistant_permission_accepted">Sie haben dem "Google WLAN-Assistent" erlaubt eine VPN-Verbindung einzurichten. Das bedeutet, dass diese App den Netzwerkverkehr überwachen kann.</string>
@@ -5484,8 +5380,8 @@ WLAN Assistent"</string>
   <string name="wifi_scan_always_turnon_message">"Zur Verbesserung der Ortungsgenauigkeit und für andere Zwecke, möchte %1$s die Netzwerksuche einschalten, auch wenn WLAN ausgeschaltet ist. Für alle Apps die scannen möchten erlauben?"</string>
   <string name="wifi_scan_notify_remember_choice">"Nicht mehr anzeigen"</string>
   <string name="wifi_scan_notify_text">Zur Erhöhung der Standortgenauigkeit und aus anderen Gründen können Google und andere Apps auch bei deaktiviertem WLAN nach Netzwerken in der Nähe suchen. Wenn Sie das nicht möchten, können Sie dies unter \"Erweitert\" &gt; \"Scannen immer verfügbar\" ändern.</string>
-  <string name="wifi_scan_notify_text_location_off">应用可扫描附近的网络（在关闭了 WLAN 时也可进行扫描）。如果您不希望应用这么做，请进入“高级”&gt;“随时都可扫描”进行设置。</string>
-  <string name="wifi_scan_notify_text_location_on">为了提高位置信息精确度以及其他目的，Google 和其他应用可扫描附近的网络（在关闭了 WLAN 时也可进行扫描）。如果您不希望应用这么做，请进入“高级”&gt;“随时都可扫描”进行设置。</string>
+  <string name="wifi_scan_notify_text_location_off">Anwendungen können in der Nähe von Netzwerken Scannen (Sie können auch gescannt werden, wenn WLAN ausgeschaltet ist). Wenn Sie dies nicht tun möchten, gehen Sie zu "Erweitert" und "Scannen zu jeder Zeit" Einstellungen.</string>
+  <string name="wifi_scan_notify_text_location_on">Um die Genauigkeit der Standortinformationen und andere Zwecke zu verbessern, können Google und andere Anwendungen in der Nähe von Netzwerken (die auch beim Schließen von WLAN gescannt werden können) scannen. Wenn Sie dies nicht tun möchten, gehen Sie zu "Erweitert" und "Scannen zu jeder Zeit" Einstellungen.</string>
   <string name="wifi_secured_first_item">Gesichert mit %1$s</string>
   <string name="wifi_secured_second_item">, gesichert mit %1$s</string>
   <string name="wifi_security">Sicherheit</string>
@@ -5568,9 +5464,7 @@ WLAN Assistent"</string>
   <string name="wifi_signal">Signalstärke</string>
   <string name="wifi_signal_found_msg">WLAN AP gefunden. Jetzt verbinden?</string>
   <string name="wifi_skip_anyway">Trotzdem überspringen</string>
-  <string name="wifi_skipped_message">"Achtung: Es können zusätzliche Kosten für die Datenübertragung vonseiten des Mobilfunkanbieters anfallen.
-
-Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</string>
+  <string name="wifi_skipped_message">"Achtung: Es können zusätzliche Kosten für die Datenübertragung vonseiten des Mobilfunkanbieters anfallen. Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</string>
   <string name="wifi_speed">Geschwindigkeit</string>
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_ssid_hint">SSID eingeben</string>
@@ -5690,10 +5584,8 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_router_notif_summary">Benachrichtigen wenn Mi Router HotSpots verfügbar sind</string>
   <string name="xiaomi_router_notif_title">Mi Router Benachrichtigung</string>
-  <string name="xiaomi_update_dialog_message">"Neue Version %1$s
-Größe: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Neue Version %1$s
-Delta Updategröße: %2$s"</string>
+  <string name="xiaomi_update_dialog_message">"Neue Version %1$s Größe: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Neue Version %1$s Delta Updategröße: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Update available</string>
   <string name="xspace">Geklonte Apps</string>
   <string name="yes">Ja</string>
