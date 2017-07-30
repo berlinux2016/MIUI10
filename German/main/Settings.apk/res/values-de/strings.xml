@@ -1033,19 +1033,19 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="condition_battery_title">Batteriesparmodus ist eingeschaltet</string>
   <string name="condition_bg_data_summary">Hintergrunddaten sind nur über WLAN verfügbar. Dies kann einige Apps oder Dienste beeinträchtigen, wenn WLAN nicht verfügbar ist.</string>
   <string name="condition_bg_data_title">Daten Sicherung ist eingeschaltet</string>
-    <string name="condition_cellular_summary">Internet ist nur über WLAN verfügbar</string>
-    <string name="condition_cellular_title">Cellular data is off</string>
-    <string name="condition_expand_hide">Hide</string>
-    <string name="condition_expand_show">Show</string>
-    <string name="condition_hotspot_summary">Portable WLAN hotspot %1$s is active, WLAN for this device is turned off.</string>
-    <string name="condition_hotspot_title">Hotspot is on</string>
+  <string name="condition_cellular_summary">Internet ist nur über WLAN verfügbar</string>
+  <string name="condition_cellular_title">Zelluläre Daten sind ausgeschaltet</string>
+  <string name="condition_expand_hide">Verbergen</string>
+  <string name="condition_expand_show">Zeigen</string>
+  <string name="condition_hotspot_summary">Portabler WLAN Hotspot %1$s ist aktiv, das WLAN für dieses Gerät ist ausgeschaltet.</string>
+  <string name="condition_hotspot_title">Hotspot ist an</string>
   <string name="condition_provider_security_warning_summary">%1$s wird in der Lage sein, Ausgangsbedingungen im Bitte-nicht-Stören-Modus hinzuzufügen.</string>
   <string name="condition_provider_security_warning_title">Aktiviere %1$s?</string>
-    <string name="condition_turn_off">Einschalten</string>
-    <string name="condition_turn_on">Ausschalten</string>
-    <string name="condition_work_summary">Apps, background sync, and other features related to your work profile are turned off.</string>
-    <string name="condition_work_title">Work profile is off</string>
-    <string name="condition_zen_title">Do not disturb is on (%1$s)</string>
+  <string name="condition_turn_off">Einschalten</string>
+  <string name="condition_turn_on">Ausschalten</string>
+  <string name="condition_work_summary">Apps Hintergrundsynchronisierung und andere Funktionen die sich auf Ihr Arbeitsprofil beziehen werden deaktiviert.</string>
+  <string name="condition_work_title">Das Arbeitsprofil ist ausgeschaltet</string>
+  <string name="condition_zen_title">Nicht stören ist an (%1$s)</string>
   <string name="config_charging_function_name">Lädt</string>
   <string name="config_list_label">Netzwerk konfigurieren</string>
   <string name="config_mass_storage_function_name">Massenspeicher</string>
@@ -1055,7 +1055,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="configure_notification_settings">Benachrichtigungen konfigurieren</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Hinzufügen</string>
-    <string name="confirm_convert_to_fbe_warning">Really wipe user data and convert to file encryption?</string>
+  <string name="confirm_convert_to_fbe_warning">Wirklich Benutzerdaten löschen und in Datei-Verschlüsselung konvertieren?</string>
   <string name="confirm_download_cancelation_dialog_message">Download abbrechen?</string>
   <string name="confirm_enable_multi_window_text">WARNUNG: Dies ist eine hochexperimentelle Funktion, die es erlaubt, mehrere Aktivitäten über den Appverlauf gleichzeitig am Bildschirm anzuzeigen. Einige Apps könnten dadurch abstürzen.</string>
   <string name="confirm_enable_multi_window_title">Multifenstermodus einschalten?</string>
@@ -1084,13 +1084,10 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="controls_label">Steuerung</string>
   <string name="controls_subtitle">Energieverbrauch anpassen</string>
   <string name="convenience_key_category_title">Komfortschlüssel</string>
-    <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
- !!Warning!! This will erase all your data.
- This feature is alpha, and may not work correctly.
- Press Wipe and convert to continue."</string>
-    <string name="convert_to_file_encryption">Convert to file encryption</string>
-    <string name="convert_to_file_encryption_done">Already file encrypted</string>
-    <string name="convert_to_file_encryption_enabled">Convert…</string>
+  <string name="convert_to_fbe_warning">"Konvertieren von Datenpartitionen in dateibasierte Verschlüsselung. !!Warnung!! Dies löscht alle Ihre Daten. Diese Funktion ist alpha und funktioniert möglicherweise nicht richtig. Drücken Sie löschen und konvertieren um fortzufahren."</string>
+  <string name="convert_to_file_encryption">Umwandlung in Datei-Verschlüsselung</string>
+  <string name="convert_to_file_encryption_done">Datein bereits verschlüsselt</string>
+  <string name="convert_to_file_encryption_enabled">Konvertieren…</string>
   <string name="copyright_title">Urheberrecht</string>
   <string name="country_name">%s (system)</string>
   <string name="create">Erstellen</string>
