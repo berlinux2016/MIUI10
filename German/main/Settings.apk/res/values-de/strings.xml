@@ -71,7 +71,13 @@
   <string name="accessibility_feature_or_input_method_not_allowed">Von Ihrer Organisation nicht erlaubt</string>
   <string name="accessibility_feature_state_off">Aus</string>
   <string name="accessibility_feature_state_on">An</string>
-  <string name="accessibility_global_gesture_preference_description">"Wenn diese Funktion aktiviert ist, können Sie Bedienungshilfen schnell in zwei Schritten aktivieren: 1. Schritt: Drücken und halten Sie die Ein/Aus-Taste, bis Sie einen Ton hören oder eine Vibration spüren. 2. Schritt: Berühren und halten Sie mit zwei Fingern, bis Sie eine Audiobestätigung hören. Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendung dieser Verknüpfung in der Bildschirmsperre solange aktiviert, bis das Gerät entsperrt ist."</string>
+  <string name="accessibility_global_gesture_preference_description">"Wenn diese Funktion aktiviert ist, können Sie Bedienungshilfen schnell in zwei Schritten aktivieren: 
+
+1. Schritt: Drücken und halten Sie die Ein/Aus-Taste, bis Sie einen Ton hören oder eine Vibration spüren.
+
+2. Schritt: Berühren und halten Sie mit zwei Fingern, bis Sie eine Audiobestätigung hören. 
+
+Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendung dieser Verknüpfung in der Bildschirmsperre solange aktiviert, bis das Gerät entsperrt ist."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Aus</string>
   <string name="accessibility_global_gesture_preference_summary_on">An</string>
   <string name="accessibility_global_gesture_preference_title">Bedienungshilfenverknüpfung</string>
@@ -84,7 +90,15 @@
   <string name="accessibility_power_button_ends_call_prerefence_title">Ein/Aus-Taste beendet Anruf</string>
   <string name="accessibility_screen_magnification_enable">Vergrößerungsgesten</string>
   <string name="accessibility_screen_magnification_short_summary">3 Mal tippen, um zu vergrößern</string>
-  <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/rauszoomen, indem Sie drei Mal auf den Bildschirm tippen. Wenn Sie reingezoomt haben, können Sie: <li><ul>"Verschieben: Ziehen Sie zwei oder mehr Finger über den Bildschirm. <li>Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.</li></ul></li> Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifaches Antippen und Halten vergrössern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren. Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für die Tastatur und Navigationsleiste."</string>
+  <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/rauszoomen, indem Sie drei Mal auf den Bildschirm tippen. 
+
+Wenn Sie reingezoomt haben, können Sie: 
+<li><ul>"Verschieben: Ziehen Sie zwei oder mehr Finger über den Bildschirm. 
+<li>Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.</li></ul></li> 
+
+Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifaches Antippen und Halten vergrössern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren. 
+
+Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für die Tastatur und Navigationsleiste."</string>
   <string name="accessibility_screen_magnification_title">Vergrößerungsgesten</string>
   <string name="accessibility_service_default_description">Keine Beschreibung verfügbar.</string>
   <string name="accessibility_service_no_apps_message">TalkBack bietet blinden und sehbehinderten Benutzern gesprochenes Feedback. Möchten Sie diese Funktion kostenlos aus dem Playstore installieren?</string>
@@ -1143,7 +1157,10 @@
   <string name="controls_label">Steuerung</string>
   <string name="controls_subtitle">Energieverbrauch anpassen</string>
   <string name="convenience_key_category_title">Komfortschlüssel</string>
-  <string name="convert_to_fbe_warning">"Konvertieren von Datenpartitionen in dateibasierte Verschlüsselung. !!Warnung!! Dies löscht alle Ihre Daten. Diese Funktion ist alpha und funktioniert möglicherweise nicht richtig. Drücken Sie löschen und konvertieren um fortzufahren."</string>
+  <string name="convert_to_fbe_warning">"Konvertieren von Datenpartitionen in dateibasierte Verschlüsselung. 
+!!Warnung!! Dies löscht alle Ihre Daten. 
+Diese Funktion ist alpha und funktioniert möglicherweise nicht richtig. 
+Drücken Sie löschen und konvertieren um fortzufahren."</string>
   <string name="convert_to_file_encryption">Umwandlung in Datei-Verschlüsselung</string>
   <string name="convert_to_file_encryption_done">Datein bereits verschlüsselt</string>
   <string name="convert_to_file_encryption_enabled">Konvertieren…</string>
@@ -2081,7 +2098,10 @@
   <string name="immediately_destroy_activities">Aktionen nicht speichern</string>
   <string name="immediately_destroy_activities_summary">Aktivität löschen, sobald der Nutzer diese beendet</string>
   <string name="import_from_xiaomi_account_hint_title">Mi Talk verwenden, um Kontakte auf anderen Geräten wiederherzustellen</string>
-  <string name="import_from_xiaomi_account_hint1">"1. Mi Talk herunterladen und anmelden, http://www.miliao.com 2.	In die MiTalk-Einstellungen wechseln und \"Kontakte im Mi Konto sichern\" wählen."</string>
+  <string name="import_from_xiaomi_account_hint1">"1. Mi Talk herunterladen und anmelden, 
+ http://www.miliao.com 
+
+2.	In die MiTalk-Einstellungen wechseln und \"Kontakte im Mi Konto sichern\" wählen."</string>
   <string name="import_from_xiaomi_account_hint2">Falls Sicherung bereits vorhanden ist, weiter drücken</string>
   <string name="importance_reset">Zurücksetzen</string>
   <string name="ims_reg_required_off">Die IMS-Registrierung muss ausgeschaltet werden.</string>
@@ -2575,8 +2595,13 @@
   <string name="master_clear_apply_title">Hinweis</string>
   <string name="master_clear_button_text">Telefon zurücksetzen</string>
   <string name="master_clear_confirm_title">Zurücksetzen?</string>
-  <string name="master_clear_desc">"Alle Daten in Ihrem "<b>Internen Speicher</b>" werden gelöscht, inklusive: "&amp;lt;li&amp;gt;Ihrem Google Konto&amp;lt;/li&amp;gt;" "&amp;lt;li&amp;gt;System und App Daten und Einstellungen&amp;lt;/li&amp;gt;" "&amp;lt;li&amp;gt;Heruntergeladene Apps&amp;lt;/li&amp;gt;" "</string> 
-  <string name="master_clear_desc_also_erases_external">" "&lt;li&gt;Musik&lt;/li&gt;" "&lt;li&gt;Fotos&lt;/li&gt;" "&lt;li&gt;und andere Benutzerdaten&lt;/li&gt;" "</string>
+  <string name="master_clear_desc">"Alle Daten in Ihrem "<b>Internen Speicher</b>" werden gelöscht, inklusive: 
+"&amp;lt;li&amp;gt;Ihrem Google Konto&amp;lt;/li&amp;gt;" 
+"&amp;lt;li&amp;gt;System und App Daten und Einstellungen&amp;lt;/li&amp;gt;" 
+"&amp;lt;li&amp;gt;Heruntergeladene Apps&amp;lt;/li&amp;gt;" "</string> 
+  <string name="master_clear_desc_also_erases_external">" "&lt;li&gt;Musik&lt;/li&gt;" 
+"&lt;li&gt;Fotos&lt;/li&gt;" 
+"&lt;li&gt;und andere Benutzerdaten&lt;/li&gt;" "</string>
   <string name="master_clear_desc_erase_external_storage">"Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Speicher</b> gelöscht werden.</string>
   <string name="master_clear_erase_application_progress">Lösche Anwendungen...</string>
   <string name="master_clear_failed">Die Zurücksetzung konnte nicht durchgeführt werden, weil der Dienst zur Systembereinigung nicht verfügbar ist.</string>
@@ -3830,7 +3855,8 @@
   <string name="regulatory_information">Regulierungsinformationen</string>
   <string name="remaining_length_format">%1$s links</string>
   <string name="remote_receive">Empfangen</string>
-  <string name="remove_account_failed">Dieses Konto ist für manche Apps erforderlich. Sie können es nur entfernen, indem Sie das Telefon unter Einstellungen &gt; Sichern &amp; Wiederherstellen, auf die Werkseinstellungen zurücksetzen (damit werden alle Ihre persönlichen Daten gelöscht).</string>
+  <string name="remove_account_failed">Dieses Konto ist für manche Apps erforderlich. Sie können es nur entfernen, indem Sie das Telefon unter Einstellungen &gt; Sichern &amp; 
+  Wiederherstellen, auf die Werkseinstellungen zurücksetzen (damit werden alle Ihre persönlichen Daten gelöscht).</string>
   <string name="remove_account_label">Konto entfernen</string>
   <string name="remove_and_uninstall_device_admin">Deaktivieren und Deinstallieren</string>
   <string name="remove_continue">Deinstallieren</string>
@@ -3844,13 +3870,24 @@
   <string name="reset_aaid">Werbe-ID zurücksetzen</string>
   <string name="reset_app_preferences">Appeinstellungen zurücksetzen</string>
   <string name="reset_app_preferences_button">Apps zurücksetzen</string>
-  <string name="reset_app_preferences_desc">"Folgende Einstellungen werden zurückgesetzt:  "&lt;li&gt;Deaktivierte Apps&lt;/li&gt;"  "&lt;li&gt;Deaktivierte App-Benachrichtigungen&lt;/li&gt;"  "&lt;li&gt;Standard-Anwendungen für Aktionen&lt;/li&gt;"  "&lt;li&gt;Hintergrunddaten Beschränkungen für Apps&lt;/li&gt;"  "&lt;li&gt;Alle Rechte beschränkungen&lt;/li&gt;"  Anwendungsdaten gehen nicht verloren."</string>
+  <string name="reset_app_preferences_desc">"Folgende Einstellungen werden zurückgesetzt:  
+  
+"&lt;li&gt;Deaktivierte Apps&lt;/li&gt;"  
+"&lt;li&gt;Deaktivierte App-Benachrichtigungen&lt;/li&gt;"  
+"&lt;li&gt;Standard-Anwendungen für Aktionen&lt;/li&gt;"  
+"&lt;li&gt;Hintergrunddaten Beschränkungen für Apps&lt;/li&gt;"  
+"&lt;li&gt;Alle Rechte beschränkungen&lt;/li&gt;"  Anwendungsdaten gehen nicht verloren."</string>
+  
   <string name="reset_app_preferences_title">Appeinstellungen zurücksetzen?</string>
   <string name="reset_legacy_password_settings_preface_text">Sie müssen Ihr Sperrbildschirmpasswort zurücksetzen.</string>
   <string name="reset_network_button_text">Einstellungen zurücksetzen</string>
   <string name="reset_network_complete_toast">Netzwerkeinstellungen wurden zurückgesetzt</string>
   <string name="reset_network_confirm_title">Zurücksetzen?</string>
-  <string name="reset_network_desc">"Alle Ihre Netzwerkeinstellungen werden zurückgesetzt, inklusive: "&lt;li&gt;WLAN&lt;/li&gt;" "&lt;li&gt;Mobile Datenverbindun&lt;/li&gt;" "&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+  <string name="reset_network_desc">""Alle Ihre Netzwerkeinstellungen werden zurückgesetzt, inklusive:
+
+"&lt;li&gt;WLAN&lt;/li&gt;"
+"&lt;li&gt;Mobile Datenverbindun&lt;/li&gt;"
+"&lt;li&gt;Bluetooth&lt;/li&gt;"</stri
   <string name="reset_network_final_button_text">Einstellungen zurücksetzen</string>
   <string name="reset_network_final_desc">Alle Netzwerkeinstellungen zurücksetzen? Sie können diese Aktion nicht rückgängig machen!</string>
   <string name="reset_network_title">Einstellungen zurücksetzen</string>
@@ -4007,8 +4044,18 @@
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internetverbindung</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Liste der Apps, die den Lesemodus verwenden können aktualisieren</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Automatisch aktualisieren</string>
-  <string name="screen_pinning_description">"Wenn eingeschaltet, können Sie Screenpinning verwenden, um den aktuellen Bildschirm im Blick zu behalten, bis Sie ihn entfernen. Um Screenpinning zu nutzen: 1. Gehen Sie sicher, dass Screenpinning eingeschaltet ist. 2. Öffnen Sie den Bildschirm, den Sie anheften möchten. 3. Overview berühren. 4. Berühren Sie das Pinicon."</string>
-  <string name="screen_pinning_title">Screenpinning</string>
+  <string name="screen_pinning_description">"Wenn eingeschaltet, können Sie Screenpinning verwenden, um den aktuellen Bildschirm im Blick zu behalten, bis Sie ihn entfernen.
+
+Um Screenpinning zu nutzen:
+
+1. Gehen Sie sicher, dass Screenpinning eingeschaltet ist.
+
+2. Öffnen Sie den Bildschirm, den Sie anheften möchten.
+
+3. Overview berühren.
+
+4. Berühren Sie das Pinicon."
+  </string>  <string name="screen_pinning_title">Screenpinning</string>
   <string name="screen_pinning_unlock_none">Gerät beim Unpinning sperren</string>
   <string name="screen_pinning_unlock_password">Beim Unpinning nach dem Passwort fragen</string>
   <string name="screen_pinning_unlock_pattern">Beim Unpinning nach dem Entsperrmuster fragen</string>
@@ -4018,7 +4065,8 @@
   <string name="screen_resolution_dialog_title">Anzeigegröße</string>
   <string name="screen_resolution_high_format">Hoch (%1$s)</string>
   <string name="screen_resolution_normal_format">Normal (%1$s)</string>
-  <string name="screen_resolution_summary">"Wenn Sie die Bildschirmauflösung senken, dann kann die Batterielebensdauer und Systemgeschwindigkeit erhöht werden, allerdings können Bilder weniger scharf erscheinen. Ihr Gerät muss neu gestartet werden, um diese Änderung zu übernehmen."</string>
+  <string name="screen_resolution_summary">"Wenn Sie die Bildschirmauflösung senken, dann kann die Batterielebensdauer und Systemgeschwindigkeit erhöht werden, allerdings können Bilder weniger scharf erscheinen. 
+  Ihr Gerät muss neu gestartet werden, um diese Änderung zu übernehmen."</string>
   <string name="screen_resolution_switch">Auflösung umstellen</string>
   <string name="screen_resolution_title">Bildschirmauflösung</string>
   <string name="screen_resolution_ultrahigh_format">Sehr hoch (%1$s)</string>
@@ -4219,7 +4267,8 @@
   <string name="search_oldman_mode">Lite mode;Oldman mode</string>
   <string name="search_oldman_mode_entry_name">Light-Modus; Seniorenmodus; Lightmodus</string>
   <string name="search_onekey_migrate">Transfer; Ein-Tasten-Migration</string>
-  <string name="search_other_advanced_settings">Weitere Einstellungen; Privatsphäreeinstellungen; Datum &amp; Uhrzeit; Sprache &amp; Eingabe; Einhandmodus; Akku; Speicher; Benachrichtigungs-LED; LED; Kopfhörer &amp; Audioeffekte; Tasten; Schlüssel; Bedienungshilfen; Betafunktionen; Laborfunktionen; Entwicklereinstellungen; Sichern &amp; Wiederherstellen; Transfer; Ein-Tasten-Migration</string>
+  <string name="search_other_advanced_settings">Weitere Einstellungen; Privatsphäreeinstellungen; Datum &amp; Uhrzeit; Sprache &amp; Eingabe; Einhandmodus; Akku; Speicher; Benachrichtigungs-LED; LED; Kopfhörer &amp; 
+  Audioeffekte; Tasten; Schlüssel; Bedienungshilfen; Betafunktionen; Laborfunktionen; Entwicklereinstellungen; Sichern &amp; Wiederherstellen; Transfer; Ein-Tasten-Migration</string>
   <string name="search_owner_info_settings">Eigentümerinfo</string>
   <string name="search_owner_info_settings_title">Eigentümerinfo</string>
   <string name="search_page_layout_settings">Textgröße</string>
@@ -4389,7 +4438,8 @@
   <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Überspringen</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Fortfahren</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Fingerabdruck hinzufügen</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">Tippen Sie einfach den Sensor an, um Ihr Gerät zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden. Passen Sie auf, wessen Fingerabdrücke Sie hinzufügen - jegliche Fingerabdrücke, die Sie hinzufügen, ermöglichen diese Funktionen.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">Tippen Sie einfach den Sensor an, um Ihr Gerät zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden. 
+  Passen Sie auf, wessen Fingerabdrücke Sie hinzufügen - jegliche Fingerabdrücke, die Sie hinzufügen, ermöglichen diese Funktionen.</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_warning">Hinweis: Ihr Fingerabruck ist möglicherweise nicht so sicher wie ein starkes Passort oder eine PIN.</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Mehr erfahren</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Mit Fingerabdruck entsperren</string>
@@ -4476,7 +4526,8 @@
   <string name="settings_summary">Telefon- und Nachrichteneinstellungen</string>
   <string name="settings_toggle_position_divider_list">Schalter über der Trennlinie sind aktiv</string>
   <string name="settings_toggle_position_divider_page">%1$d Schalter über der Trennlinie sind aktiviert</string>
-  <string name="setup_fingerprint_enroll_enrolling_skip_message">Sie haben sich entschieden, Ihren Fingerabdruck als eine Möglichkeit zu verwenden, um Ihr Telefon zu entsperren. Wenn Sie jetzt überspringen, müssen Sie dieses später einstellen. Setup dauert nur eine Minute oder so.</string>
+  <string name="setup_fingerprint_enroll_enrolling_skip_message">Sie haben sich entschieden, Ihren Fingerabdruck als eine Möglichkeit zu verwenden, um Ihr Telefon zu entsperren. 
+  Wenn Sie jetzt überspringen, müssen Sie dieses später einstellen. Setup dauert nur eine Minute oder so.</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Fingerabdruck-Einstellungen überspringen?</string>
   <string name="setup_fingerprint_enroll_finish_message">Tippen Sie einfach auf den Fingerabdrucksensor, um Ihr Gerät aufzuwecken oder zu entsperren.</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Wenn Sie dieses Symbol sehen, können Sie Ihren Fingerabdruck verwenden.</string>
@@ -4677,14 +4728,17 @@
   <string name="spell_checker_not_selected">Nicht ausgewählt</string>
   <string name="spellchecker_language">Sprache</string>
   <string name="spellchecker_quick_settings">Einstellungen</string>
-  <string name="spellchecker_security_warning">Diese Rechtschreibprüfung kann die gesamten von Ihnen eingegebenen Text erfassen, einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Möchten Sie die Rechtschreibprüfung verwenden?</string>
+  <string name="spellchecker_security_warning">Diese Rechtschreibprüfung kann die gesamten von Ihnen eingegebenen Text erfassen, einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. 
+  Sie ist Teil der App \"%1$s\". Möchten Sie die Rechtschreibprüfung verwenden?</string>
   <string name="spellcheckers_settings_title">Rechtschreibprüfung</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Netzwerküberwachung</string>
-  <string name="ssl_ca_cert_info_message">"Dieses Gerät wird verwaltet von: %s Ihr Administrator kann Ihre Netzwerkaktivitäten überwachen, einschließlich den E-Mails, Apps und sicheren Websites. Wenden Sie sich für weitere Informationen an Ihren Administrator."</string>
+  <string name="ssl_ca_cert_info_message">"Dieses Gerät wird verwaltet von: %s Ihr Administrator kann Ihre Netzwerkaktivitäten überwachen, einschließlich den E-Mails, Apps und sicheren Websites. 
+  Wenden Sie sich für weitere Informationen an Ihren Administrator."</string>
   <string name="ssl_ca_cert_settings_button">Vertrauenswürdige Anmeldedaten überprüfen</string>
   <string name="ssl_ca_cert_warning">Das Netzwerk wird möglicherweise überwacht.</string>
-  <string name="ssl_ca_cert_warning_message">"Dritte können Ihre Netzwerkaktivitäten überwachen, einschließlich den E-Mails, Apps und sicheren Websites. Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerät installiert sind."</string>
+  <string name="ssl_ca_cert_warning_message">"Dritte können Ihre Netzwerkaktivitäten überwachen, einschließlich den E-Mails, Apps und sicheren Websites. 
+  Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerät installiert sind."</string>
   <string name="stable_build">" | Stable"</string>
   <string name="standard">Stumm</string>
   <string name="standard_configuration_version_rear_camera">1300 Mpx</string>
@@ -5025,15 +5079,19 @@
   <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
   <string name="tether_share_qrcode_title">QR-Code teilen</string>
   <string name="tethering_help_button_text">Hilfe</string>
-  <string name="tethering_help_dialog_text">&lt;b&gt;USB Tethering&lt;/b&gt;"Sie können Ihr Android-Gerät mit einem USB-Kabel auf Ihren Computer anbinden, 
-  um die Internetverbindung Ihres Geräts mit Ihrem Computer freizugeben. 
-  1. USB Tethering funktioniert mit Windows Vista, Windows 7, Windows 8, Windows 8.1 und Linux. 
-  2.Wenn Ihr Gerät über eine SD-Karte oder einen USB-Speicher verfügt, können Sie es nicht auf Ihrem Computer mounten, wenn USB angebunden ist. 
-  "&lt;b&gt;Portable WLAN Hotspot &lt;/b&gt;"Sie können Ihr Android-Gerät in einen tragbaren WLAN-Hotspot verwandeln, 
-  um die Internetverbindung Ihres Android-Geräts mit einem oder mehreren Computern oder anderen Geräten auszutauschen. 
-  1. Wenn Ihr Gerät als WLAN-Hotspot dient, können Sie die Anwendungen Ihres Geräts nicht über die WLAN-Verbindung auf das Internet zugreifen 
-  (aber natürlich bleiben Sie über Ihr mobiles Netzwerk mit dem Internet verbunden). 
-  2. Sie konfigurieren den Hotspot mit den WLAN-Hotspot-Einstellungen."</string>
+  <string name="tethering_help_dialog_text">&lt;b&gt;USB tethering&lt;/b&gt;" 
+ You can tether your Android device to your computer with a USB cable, to share your device's Internet connection with your computer. 
+
+1.USB tethering works with Windows Vista, Windows 7, Windows 8, Windows 8.1 and Linux. 
+
+2.If your device has an SD card or USB storage, you can't mount it on your computer when USB tethered. 
+
+ "&lt;b&gt;Portable WLAN hotspot &lt;/b&gt;"
+ You can turn your Android device into a portable WLAN hotspot, to share your Android device's Internet connection with one or more computers or other devices. 
+
+1.When your device is serving as a WLAN hotspot, you can't use your device's applications to access the Internet via its WLAN connection (but of course you remain connected to the Internet via your mobile data network). 
+
+2.You configure the hotspot with the WLAN hotspot settings."</string>
   <string name="tethering_help_dialog_title">Hilfe</string>
   <string name="tethering_no_sim_alert_title">Keine SIM-Karte</string>
   <string name="tethering_no_sim_card_text">Installieren Sie die SIM-Karte, um Ihre Datenverbindung mit anderen Geräten über mobile Hotspots oder USB-Anbindung für den Internetzugriff freizugeben.</string>
@@ -5109,7 +5167,9 @@
   <string name="trans_operate_func_one">Methode A</string>
   <string name="trans_operate_func_two">Methode B</string>
   <string name="trans_operate_new_phone_tips">"Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover [Ich bin der Empfänger] antippen, um QR Code zu erstellen"</string>
-  <string name="trans_operate_old_phone_tips1">1. Installieren Sie Mi Mover Auf dem alten Gerät 2. Öffnen Sie die App und tippen Sie Start 3. Scannen Sie den QR Code auf Ihrem alten Gerät</string>
+  <string name="trans_operate_old_phone_tips1">"1. Installieren Sie Mi Mover Auf dem alten Gerät
+2. Öffnen Sie die App und tippen Sie Start
+3. Scannen Sie den QR Code auf Ihrem alten Gerät"</string>
   <string name="trans_operate_old_phone_tips2">Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover [Ich bin der Sender] antippen</string>
   <string name="trans_please_waiting">Einen Moment…</string>
   <string name="trans_progress_subdescript_br_receiver">Wiederherstellung von %1$s, %2$s abgeschlossen</string>
@@ -5124,7 +5184,9 @@
   <string name="trans_progress_subdescript_transingsddata_sender">Sende %1$s Dateien von der SD-Karte, %2$s abgeschlossen</string>
   <string name="trans_progress_subdescript_waiting">Warten auf Empgang von %s</string>
   <string name="trans_receiver">Ich bin der Empfänger</string>
-  <string name="trans_receiver_time_remained">"Noch %s. Das Gerät muss aufgeladen sein. Schalten Sie den WLAN Hotspot nicht aus. Halten Sie beide Geräte in der Nähe."</string>
+  <string name="trans_receiver_time_remained">"Noch %s. Das Gerät muss aufgeladen sein.
+  Schalten Sie den WLAN Hotspot nicht aus. 
+  Halten Sie beide Geräte in der Nähe."</string>
   <string name="trans_receiving_completed">Empfang erfolgreich</string>
   <string name="trans_restoring">Wiederherstellen…</string>
   <string name="trans_restoring_no_items">Elemente synchronisieren</string>
@@ -5140,7 +5202,9 @@
   <string name="trans_sender_connectting">Auf neuem Gerät bestätigen</string>
   <string name="trans_sender_searching">Nach neuen Geräten suchen</string>
   <string name="trans_sender_searching_ensurance">"Das alte Gerät muß eingeschaltet sein. Warten auf Verbindung mit dem alten Gerät…"</string>
-  <string name="trans_sender_time_remained">"Noch %s. Schalten Sie den WLAN Hotspot nicht aus. Halten Sie beide Geräte in der Nähe."</string>
+  <string name="trans_sender_time_remained">"Noch %s.
+  Schalten Sie den WLAN Hotspot nicht aus. 
+  Halten Sie beide Geräte in der Nähe."</string>
   <string name="trans_sending_completed">Senden erfolgreich</string>
   <string name="trans_show_qr_code_label">Altes Gerät verbinden</string>
   <string name="trans_show_qr_code_tips">QR Code mit Ihrem alten Gerät scannen</string>
