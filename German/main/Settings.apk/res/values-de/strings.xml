@@ -277,7 +277,7 @@
   <string name="app_backup">Sicherungen</string>
   <string name="app_data_usage">Appdatenverbrauch</string>
   <string name="app_disable_dlg_positive">App deaktivieren</string>
-  <string name="app_disable_dlg_text">Durch  Ausschalten einer integrierten App kommt es möglicherweise zu unerwünschtem Verhalten anderer Apps.</string>
+  <string name="app_disable_dlg_text">Durch Ausschalten einer integrierten App kommt es möglicherweise zu unerwünschtem Verhalten anderer Apps.</string>
   <string name="app_disable_dlg_title">Integrierte App ausschalten?</string>
   <string name="app_disable_notifications_dlg_text">Wenn Sie Benachrichtigungen für diese App ausschalten, können Sie wichtige Warnungen und Updates verpassen.</string>
   <string name="app_disable_notifications_dlg_title">Benachrichtigungen ausschalten?</string>
@@ -4805,10 +4805,15 @@
   <string name="storage_format_success">%1$s ist formatiert</string>
   <string name="storage_internal_forget_confirm">Alle Apps, Fotos und Daten, die dieser ^1 enthält, gehen für immer verloren.</string>
   <string name="storage_internal_forget_confirm_title">^1 vergessen?</string>
-  <string name="storage_internal_forget_details">"Um Apps, Fotos und Daten, die dieser ^1 enthält, zu nutzen, legen Sie Ihn wieder ein. Alternativ können Sie den Speicher vergessen, wenn das Gerät nicht verfügbar ist. Wenn Sie den Speicher vergessen, gehen alle Daten darauf verloren. Sie können Apps später wieder installieren, aber deren Daten sind für immer verloren."</string>
-  <string name="storage_internal_format_details">"Nach dem Formatieren können Sie diesen ^1 in anderen Geräten verwenden. Alle Daten auf diesem ^1 werden gelöscht. Erwägen Sie eine Sicherung. "<b>Fotos &amp; andere Medien sichern</b>" Verschieben Sie Ihre Medien auf einen anderen Speicher in diesem Gerät oder kopieren Sie sie über USB auf einen PC. "<b>Apps sichern</b>" Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie sie auf einen anderen Speicher auf diesem Gerät."</string>
+  <string name="storage_internal_forget_details">"Um Apps, Fotos und Daten, die dieser ^1 enthält, zu nutzen, legen Sie Ihn wieder ein. 
+  Alternativ können Sie den Speicher vergessen, wenn das Gerät nicht verfügbar ist. Wenn Sie den Speicher vergessen, gehen alle Daten darauf verloren. 
+  Sie können Apps später wieder installieren, aber deren Daten sind für immer verloren."</string>
+  <string name="storage_internal_format_details">"Nach dem Formatieren können Sie diesen ^1 in anderen Geräten verwenden. Alle Daten auf diesem ^1 werden gelöscht. 
+  Erwägen Sie eine Sicherung. "<b>Fotos &amp; andere Medien sichern</b>" Verschieben Sie Ihre Medien auf einen anderen Speicher in diesem Gerät oder kopieren Sie sie über USB auf einen PC. 
+  "<b>Apps sichern</b>" Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie sie auf einen anderen Speicher auf diesem Gerät."</string>
   <string name="storage_internal_title">Interner Speicher</string>
-  <string name="storage_internal_unmount_details"><b>Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein.</b>" Dieser ^1 ist fomratiert, um nur auf diesem Gerät zu funktionieren. Er wird auf andern Geräten nicht funktionieren."</string>
+  <string name="storage_internal_unmount_details"><b>Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein.
+  </b>" Dieser ^1 ist fomratiert, um nur auf diesem Gerät zu funktionieren. Er wird auf andern Geräten nicht funktionieren."</string>
   <string name="storage_label">Speicher</string>
   <string name="storage_low_summary">Einige Systemfunktionen wie die Synchronisierung funktionieren möglicherweise nicht richtig. Versuchen Sie Speicher freizugeben, indem Sie Apps oder Medieninhalte löschen.</string>
   <string name="storage_low_title">Der Speicherplatz wird knapp</string>
@@ -4846,9 +4851,14 @@
   <string name="storage_volume_summary">%1$s used of %2$s</string>
   <string name="storage_volume_used">Verwendet von %1$s</string>
   <string name="storage_volume_used_total">Gesamt verwendet von %1$s</string>
-  <string name="storage_wizard_format_confirm_body">"Es ist erforderlich, ^1 zu formatieren, um es sicher zu machen. Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren. "<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b>" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
+  <string name="storage_wizard_format_confirm_body">"Es ist erforderlich, 
+  ^1 zu formatieren, um es sicher zu machen. Nach dem Formatieren wird 
+  ^1 nur auf diesem Gerät funktionieren. "<b>Formatieren löscht alle Daten, die auf 
+  ^1 gespeichert sind.</b>" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
   <string name="storage_wizard_format_confirm_next">Löschen &amp; Formatieren</string>
-  <string name="storage_wizard_format_confirm_public_body">"Es ist erforderlich, ^1 zu formatieren. "<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b>" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
+  <string name="storage_wizard_format_confirm_public_body">"Es ist erforderlich, 
+  ^1 zu formatieren. "<b>Formatieren löscht alle Daten, die auf 
+  ^1 gespeichert sind.</b>" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
   <string name="storage_wizard_format_confirm_public_title">Als tragbaren Speicher formatieren</string>
   <string name="storage_wizard_format_confirm_third_body">wird formatiert</string>
   <string name="storage_wizard_format_confirm_title">Als internen Speicher formatieren</string>
@@ -4859,7 +4869,8 @@
   <string name="storage_wizard_init_internal_summary">Um alles auf diesem Gerät zu speichern, einschließlich Apps und Fotos. Erfordert Formatierungen, die verhindert, dass Sie mit anderen Geräten arbeiten.</string>
   <string name="storage_wizard_init_internal_title">Als internen Speicher verwenden</string>
   <string name="storage_wizard_init_title">Richten Sie ^1 ein</string>
-  <string name="storage_wizard_migrate_body">"Sie können Fotos, Dateien und einige Apps auf diesen neuen ^1 verschieben. Das Verschieben dauert etwa ^2 und wird ^3 auf dem internen Speicher freigeben. Einige Apps werden während diesem Vorgang nicht funktionieren."</string>
+  <string name="storage_wizard_migrate_body">"Sie können Fotos, Dateien und einige Apps auf diesen neuen ^1 verschieben. 
+  Das Verschieben dauert etwa ^2 und wird ^3 auf dem internen Speicher freigeben. Einige Apps werden während diesem Vorgang nicht funktionieren."</string>
   <string name="storage_wizard_migrate_confirm_body"><b>Das Verschieben dauert etwa ^1 und wird ^2 auf dem ^3 freigeben.</b></string>
   <string name="storage_wizard_migrate_confirm_next">Verschieben</string>
   <string name="storage_wizard_migrate_confirm_title">Jetzt verschieben</string>
@@ -4868,7 +4879,8 @@
   <string name="storage_wizard_migrate_now">Jetzt verschieben</string>
   <string name="storage_wizard_migrate_progress_title">Daten werden verschoben…</string>
   <string name="storage_wizard_migrate_title">Daten auf neuen Speicher verschieben</string>
-  <string name="storage_wizard_move_confirm_body">"^1 und dessen Daten auf ^2 zu verschieben dauert nur einen Moment. Bis der Vorgang abgeschlossen ist, können Sie die App nicht verwenden. Entfernen Sie ^2 während dem Vorgang nicht."</string>
+  <string name="storage_wizard_move_confirm_body">"^1 und dessen Daten auf ^2 zu verschieben dauert nur einen Moment. Bis der Vorgang abgeschlossen ist, 
+  können Sie die App nicht verwenden. Entfernen Sie ^2 während dem Vorgang nicht."</string>
   <string name="storage_wizard_move_confirm_title">^1 verschieben</string>
   <string name="storage_wizard_move_progress_body">"Entfernen Sie ^1 während dem Vorgang nicht. ^2 wird auf diesem Gerät nicht verfügbar sein bis der Vorgang abgeschlossen ist."</string>
   <string name="storage_wizard_move_progress_cancel">Verschieben abbrechen</string>
@@ -4876,7 +4888,8 @@
   <string name="storage_wizard_ready_external_body">Ihr ^1 ist bereit zur Nutzung für Fotos und andere Medien.</string>
   <string name="storage_wizard_ready_internal_body">"Ihr neuer ^1 ist funktionsbereit. Um Fotos, Dateien und Apps zu verschieben, gehen Sie zu Einstellungen > Speicher."</string>
   <string name="storage_wizard_ready_title">^1 ist bereit</string>
-  <string name="storage_wizard_slow_body">"Dieser ^1 scheint langsam zu sein. Sie können fortfahren, aber Apps, die Sie dorthin verschieben, könnten ruckeln und der Datentransfer dauert sehr lange. Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string>
+  <string name="storage_wizard_slow_body">"Dieser ^1 scheint langsam zu sein. Sie können fortfahren, aber Apps, die Sie dorthin verschieben, 
+  könnten ruckeln und der Datentransfer dauert sehr lange. Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string>
   <string name="storageuse_settings_summary">Von Apps verwendeten Speicher anzeigen</string>
   <string name="storageuse_settings_title">Speichernutzung</string>
   <string name="strict_mode">Strikter Modus aktiviert</string>
@@ -4936,7 +4949,8 @@
   <string name="sync_menu_sync_now">Jetzt synchronisieren</string>
   <string name="sync_now">Synchronisieren</string>
   <string name="sync_one_time_sync">"Zum sofortigen Synchronisieren berühren %1$s"</string>
-  <string name="sync_plug">" "<font fgcolor="#ffffffff">Willkommen bei Google Sync!</font>" Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von überall auf Ihre Kontakte, Termine und vieles mehr zugreifen zu können!"</string>
+  <string name="sync_plug">" "<font fgcolor="#ffffffff">Willkommen bei Google Sync!</font>" Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, 
+  um von überall auf Ihre Kontakte, Termine und vieles mehr zugreifen zu können!"</string>
   <string name="sync_settings">Synchronisierung</string>
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Nur über WLAN</string>
@@ -5011,7 +5025,15 @@
   <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
   <string name="tether_share_qrcode_title">QR-Code teilen</string>
   <string name="tethering_help_button_text">Hilfe</string>
-  <string name="tethering_help_dialog_text">&lt;b&gt;USB Tethering&lt;/b&gt;"Sie können Ihr Android-Gerät mit einem USB-Kabel auf Ihren Computer anbinden, um die Internetverbindung Ihres Geräts mit Ihrem Computer freizugeben. 1. USB Tethering funktioniert mit Windows Vista, Windows 7, Windows 8, Windows 8.1 und Linux. 2.Wenn Ihr Gerät über eine SD-Karte oder einen USB-Speicher verfügt, können Sie es nicht auf Ihrem Computer mounten, wenn USB angebunden ist. "&lt;b&gt;Portable WLAN Hotspot &lt;/b&gt;"Sie können Ihr Android-Gerät in einen tragbaren WLAN-Hotspot verwandeln, um die Internetverbindung Ihres Android-Geräts mit einem oder mehreren Computern oder anderen Geräten auszutauschen. 1. Wenn Ihr Gerät als WLAN-Hotspot dient, können Sie die Anwendungen Ihres Geräts nicht über die WLAN-Verbindung auf das Internet zugreifen (aber natürlich bleiben Sie über Ihr mobiles Netzwerk mit dem Internet verbunden). 2. Sie konfigurieren den Hotspot mit den WLAN-Hotspot-Einstellungen."</string>
+  <string name="tethering_help_dialog_text">&lt;b&gt;USB Tethering&lt;/b&gt;"Sie können Ihr Android-Gerät mit einem USB-Kabel auf Ihren Computer anbinden, 
+  um die Internetverbindung Ihres Geräts mit Ihrem Computer freizugeben. 
+  1. USB Tethering funktioniert mit Windows Vista, Windows 7, Windows 8, Windows 8.1 und Linux. 
+  2.Wenn Ihr Gerät über eine SD-Karte oder einen USB-Speicher verfügt, können Sie es nicht auf Ihrem Computer mounten, wenn USB angebunden ist. 
+  "&lt;b&gt;Portable WLAN Hotspot &lt;/b&gt;"Sie können Ihr Android-Gerät in einen tragbaren WLAN-Hotspot verwandeln, 
+  um die Internetverbindung Ihres Android-Geräts mit einem oder mehreren Computern oder anderen Geräten auszutauschen. 
+  1. Wenn Ihr Gerät als WLAN-Hotspot dient, können Sie die Anwendungen Ihres Geräts nicht über die WLAN-Verbindung auf das Internet zugreifen 
+  (aber natürlich bleiben Sie über Ihr mobiles Netzwerk mit dem Internet verbunden). 
+  2. Sie konfigurieren den Hotspot mit den WLAN-Hotspot-Einstellungen."</string>
   <string name="tethering_help_dialog_title">Hilfe</string>
   <string name="tethering_no_sim_alert_title">Keine SIM-Karte</string>
   <string name="tethering_no_sim_card_text">Installieren Sie die SIM-Karte, um Ihre Datenverbindung mit anderen Geräten über mobile Hotspots oder USB-Anbindung für den Internetzugriff freizugeben.</string>
@@ -5067,7 +5089,9 @@
   <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
   <string name="trans_cancel_confirm">Transfer läuft, jetzt stoppen?</string>
   <string name="trans_cancelling">Abbrechen…</string>
-  <string name="trans_connect_failed_message">Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen > Weitere Einstellungen > Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut.</string>
+  <string name="trans_connect_failed_message">Verbindung fehlgeschlagen, erneut versuchen oder neu starten. 
+  Navigieren Sie auf dem anderen Gerät zu den Einstellungen > Weitere Einstellungen > Mi Mover, 
+  Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut.</string>
   <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
   <string name="trans_connect_failed_toast">Verbindung fehlgeschlagen</string>
   <string name="trans_connecting_toast">Verbinden…</string>
@@ -5162,7 +5186,9 @@
   <string name="tts_engine_name_settings">%s-Einstellungen</string>
   <string name="tts_engine_network_required">Für diese Sprache ist zur Text-in-Sprache-Ausgabe eine aktive Netzwerkverbindung erforderlich.</string>
   <string name="tts_engine_preference_section_title">Bevorzugtes Modul</string>
-  <string name="tts_engine_security_warning">Dieses Sprachsynthesemodul kann den gesamten gesprochenen Text erfassen, einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. Es ist Teil der App \"%s\". Möchten Sie dieses Sprachsynthesemodul aktivieren?</string>
+  <string name="tts_engine_security_warning">Dieses Sprachsynthesemodul kann den gesamten gesprochenen Text erfassen, 
+  einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. Es ist Teil der App \"%s\". 
+  Möchten Sie dieses Sprachsynthesemodul aktivieren?</string>
   <string name="tts_engine_settings_button">Einstellungen der Suchmaschine starten</string>
   <string name="tts_engine_settings_section">Moduleinstellungen</string>
   <string name="tts_engine_settings_title">Einstellungen für %s</string>
@@ -5191,8 +5217,10 @@
   <string name="turn_off_common_password_confirm_msg">Sperrbildschirm wird ebenfalls deaktiviert.</string>
   <string name="turn_off_keyguard_password_alert_title">Einschalten</string>
   <string name="turn_off_keyguard_password_confirm_msg">Sperrbildschirmpasswort deaktivieren?</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nchdem Sie das Sperrbildschirmpasswort deaktiviert haben, können Sie Ihren Fingerabdruck zum Entsperren nicht mehr verwenden</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Nachdem Deaktivieren des Passworts, werden gespeicherte Fingerabdrücke gelöscht. Sie werden Ihr Gerät nicht mehr mit dem Fingerabdruck entsperren können.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nchdem Sie das Sperrbildschirmpasswort deaktiviert haben, 
+  können Sie Ihren Fingerabdruck zum Entsperren nicht mehr verwenden</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Nachdem Deaktivieren des Passworts, werden gespeicherte Fingerabdrücke gelöscht. 
+  Sie werden Ihr Gerät nicht mehr mit dem Fingerabdruck entsperren können.</string>
   <string name="turn_off_radio">Mobilfunkverbindung ausschalten</string>
   <string name="turn_off_security_lock">Sperre ausschalten</string>
   <string name="turn_on_keyguard_password">Sperrbildschirmpasswort aktivieren</string>
@@ -5220,7 +5248,8 @@
   <string name="uninstall_device_admin">App deinstallieren</string>
   <string name="uninstall_dlg_msg">Deinstallieren löscht auch die Anwendungsdaten.</string>
   <string name="uninstall_dlg_title">Jetzt deinstallieren?</string>
-  <string name="uninstall_protected_dlg_msg">Das Deinstallieren von System-Anwendungen verhindert möglicherweise, dass einige MIUI Komponenten einwandfrei funktionieren. Trotzdem deinstallieren?</string>
+  <string name="uninstall_protected_dlg_msg">Das Deinstallieren von System-Anwendungen verhindert möglicherweise, dass einige MIUI Komponenten einwandfrei funktionieren. 
+  Trotzdem deinstallieren?</string>
   <string name="uninstall_protected_dlg_title">Deinstallieren von System-Apps</string>
   <string name="uninstall_text">Entfernen</string>
   <string name="uninstall_wifi_master_key">WLAN Master Key entfernen</string>
@@ -5237,20 +5266,36 @@
   <string name="unlock_change_lock_pattern_title">Entsperrmuster ändern</string>
   <string name="unlock_change_lock_pin_title">PIN ändern</string>
   <string name="unlock_disable_frp_warning_content_password">Geräteschutz funktioniert ohne ein Passwort nicht.</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Geräteschutzfunktionen werden ohne ein Passwort nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, ein Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Profilschutzfunktionen funktionieren nicht ohne Ihr Passwort. Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Du kannst Dein Profil nicht freischalten, Käufe autorisieren oder Dich bei Apps anmelden."</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Geräteschutzfunktionen werden ohne ein Passwort nicht funktionieren. 
+  
+  Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, ein Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Profilschutzfunktionen funktionieren nicht ohne Ihr Passwort. 
+  
+  Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Du kannst Dein Profil nicht freischalten, Käufe autorisieren oder Dich bei Apps anmelden."</string>
   <string name="unlock_disable_frp_warning_content_password_profile">Profile protection features will not work without your password.</string>
   <string name="unlock_disable_frp_warning_content_pattern">Geräteschutz funktioniert ohne ein Entsperrmuster nicht.</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Profilschutzfunktionen funktionieren nicht ohne Ihr Muster. Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Du kannst Dein Profil nicht freischalten, Käufe autorisieren oder Dich bei Apps anmelden."</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren. 
+  
+  Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Profilschutzfunktionen funktionieren nicht ohne Ihr Muster. 
+  
+  Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Du kannst Dein Profil nicht freischalten, Käufe autorisieren oder Dich bei Apps anmelden."</string>
   <string name="unlock_disable_frp_warning_content_pattern_profile">Profile protection features will not work without your pattern.</string>
   <string name="unlock_disable_frp_warning_content_pin">Geräteschutz funktioniert nicht ohne eine PIN.</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Geräteschutzfunktionen werden ohne eine PIN nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Profilschutzfunktionen funktionieren nicht ohne Ihre PIN. Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Du kannst Dein Profil nicht freischalten, Käufe autorisieren oder Dich bei Apps anmelden."</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Geräteschutzfunktionen werden ohne eine PIN nicht funktionieren. 
+  
+  Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Profilschutzfunktionen funktionieren nicht ohne Ihre PIN. 
+  
+  Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Du kannst Dein Profil nicht freischalten, Käufe autorisieren oder Dich bei Apps anmelden."</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Profilschutzfunktionen funktionieren nicht ohne Ihre PIN.</string>
   <string name="unlock_disable_frp_warning_content_unknown">Geräteschutz funktioniert nicht ohne eine Bildschirmsperre.</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Geräteschutzfunktionen werden ohne eine Bildschirmsperre nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Profilschutzfunktionen funktionieren nicht ohne Ihre Bildschirmsperre. Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Du kannst Dein Profil nicht freischalten, Käufe autorisieren oder Dich bei Apps anmelden."</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Geräteschutzfunktionen werden ohne eine Bildschirmsperre nicht funktionieren. 
+  
+  Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Profilschutzfunktionen funktionieren nicht ohne Ihre Bildschirmsperre. 
+  
+  Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Du kannst Dein Profil nicht freischalten, Käufe autorisieren oder Dich bei Apps anmelden."</string>
   <string name="unlock_disable_frp_warning_content_unknown_profile">Profilschutzfunktionen funktionieren nicht ohne Ihre Bildschirmsperre.</string>
   <string name="unlock_disable_frp_warning_ok">Ja, löschen</string>
   <string name="unlock_disable_frp_warning_title">Geräteschutz löschen?</string>
@@ -5287,7 +5332,8 @@
   <string name="unlock_set_unlock_pin_summary">Mittlere bis hohe Sicherheit</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Bitte Bildschirmsperre einschalten.</string>
-  <string name="unlock_setup_wizard_fingerprint_details">Sobald Sie eine Bildschirmsperre eingerichtet haben, können Sie Ihren Fingerabdruck unter Einstellungen &gt; Sicherheit einrichten.</string>
+  <string name="unlock_setup_wizard_fingerprint_details">Sobald Sie eine Bildschirmsperre eingerichtet haben, 
+  können Sie Ihren Fingerabdruck unter Einstellungen &gt; Sicherheit einrichten.</string>
   <string name="unmount_inform_text">USB-Speicher wird getrennt.</string>
   <string name="unrestricted_app_summary">Uneingeschränkten Datenzugriff zulassen, wenn der Data Saver an ist</string>
   <string name="unrestricted_app_title">Uneingeschränkte Nutzung der Daten</string>
@@ -5295,11 +5341,13 @@
   <string name="untitled_apn">Unbenannt</string>
   <string name="update_new_version">Update ist verfügbar</string>
   <string name="update_progress_for_updates">Aktualisiere (%s)</string>
-  <string name="upload_debug_log_summary">Helfen Sie Xiaomi bei der Verbesserung der Produkt- und Servicequalität, indem Sie anonyme Diagnose- und Nutzungsdaten senden</string>
+  <string name="upload_debug_log_summary">Helfen Sie Xiaomi bei der Verbesserung der Produkt- und Servicequalität, 
+  indem Sie anonyme Diagnose- und Nutzungsdaten senden</string>
   <string name="upload_debug_log_title">Benutzererfahrungen</string>
   <string name="usage">Verwendung</string>
   <string name="usage_access">Datenzugriff</string>
-  <string name="usage_access_description">Datenzugriff erlaubt einer App zu ermitteln, welche anderen Apps Sie beuntzen und wie oft. Außerdem Ihren Netzbetreiber, Ihre Sprache und andere Einstellungen</string>
+  <string name="usage_access_description">Datenzugriff erlaubt einer App zu ermitteln, welche anderen Apps Sie beuntzen und wie oft. 
+  Außerdem Ihren Netzbetreiber, Ihre Sprache und andere Einstellungen</string>
   <string name="usage_access_title">Apps mit Datenzugriff</string>
   <string name="usage_log">Appnutzungsstatistiken</string>
   <string name="usage_stats_label">Nutzungsstatistik</string>
@@ -5335,7 +5383,8 @@
   <string name="usb_eject_summary">USB-Speicher auswerfen, damit Sie ihn sicher entfernen können</string>
   <string name="usb_format">USB-Speicher löschen</string>
   <string name="usb_format_summary">Löscht alle Daten auf dem USB-Speicher, wie z.B. Musik und Fotos</string>
-  <string name="usb_host_mode_subtext">Für die Verwendung von einem Game-Controller und anderen Geräten über den USB-Anschluss. Die Laufzeit des Akkus wird verringert</string>
+  <string name="usb_host_mode_subtext">Für die Verwendung von einem Game-Controller und anderen Geräten über den USB-Anschluss. 
+  Die Laufzeit des Akkus wird verringert</string>
   <string name="usb_host_mode_text">USB-Hostmodus einschalten</string>
   <string name="usb_insert_summary">Legen Sie einen USB-Speicher ein, um ihn zu mounten</string>
   <string name="usb_install_app">Über USB installieren</string>
@@ -5355,9 +5404,11 @@
   <string name="usb_msd_driver_installer_title">Installertreiberdiskette (MSD)</string>
   <string name="usb_msd_summary">Erlaube Dateien über Windows und OSX zu übertragen</string>
   <string name="usb_msd_title">Massenspeicher</string>
-  <string name="usb_mtp_summary">Ermöglicht die Übertragung von Mediendateien auf Windows- oder, mithilfe der Anwendung Android File Transfer, auf Mac-Computer (siehe www.android.com/filetransfer)</string>
+  <string name="usb_mtp_summary">Ermöglicht die Übertragung von Mediendateien auf Windows- oder, mithilfe der Anwendung Android File Transfer, 
+  auf Mac-Computer (siehe www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Mediengerät (MTP)</string>
-  <string name="usb_ptp_summary">Ermöglicht die Übertragung von Fotos mithilfe der Kamerasoftware sowie die Übertragung von Dateien auf Computer, die MTP nicht unterstützen</string>
+  <string name="usb_ptp_summary">Ermöglicht die Übertragung von Fotos mithilfe der Kamerasoftware sowie die Übertragung von Dateien auf Computer, 
+  die MTP nicht unterstützen</string>
   <string name="usb_ptp_title">Kamera (PTP)</string>
   <string name="usb_sdcard_summary">Damit können Sie Mediendateien auf der SD-Karte zum Computer übertragen</string>
   <string name="usb_sdcard_title">SD-Karte einlegen</string>
@@ -5400,8 +5451,15 @@
   <string name="user_add_user_item_summary">Die Benutzer haben eigene Apps und Inhalte.</string>
   <string name="user_add_user_item_title">Benutzer</string>
   <string name="user_add_user_menu">Benutzer hinzufügen</string>
-  <string name="user_add_user_message_long">"Sie können dieses Gerät mit anderen Personen teilen und dazu zusätzliche Nutzer erstellen. Jeder Nutzer hat seinen eigenen Bereich, in dem er unter anderem eigene Apps oder Hintergründe installieren kann. Nutzer können auch Tablet-Einstellungen wie WLAN anpassen, die jeden Nutzer betreffen. Nachdem Sie einen neuen Nutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen. Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer akzeptieren."</string>
-  <string name="user_add_user_message_short">"Nachdem Sie einen neuen Nutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen. Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer akzeptieren."</string>
+  
+  <string name="user_add_user_message_long">"Sie können dieses Gerät mit anderen Personen teilen und dazu zusätzliche Nutzer erstellen. 
+  Jeder Nutzer hat seinen eigenen Bereich, in dem er unter anderem eigene Apps oder Hintergründe installieren kann. 
+  Nutzer können auch Tablet-Einstellungen wie WLAN anpassen, die jeden Nutzer betreffen. 
+  Nachdem Sie einen neuen Nutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen. 
+  Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer akzeptieren."</string>
+  <string name="user_add_user_message_short">"Nachdem Sie einen neuen Nutzer erstellt haben, muss dieser einen Einrichtungsprozess durchlaufen. 
+  
+  Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer akzeptieren."</string>
   <string name="user_add_user_or_profile_menu">Nutzerprofile hinzufügen</string>
   <string name="user_add_user_title">Neuen Nutzer hinzufügen</string>
   <string name="user_add_user_type_title">Hinzufügen</string>
@@ -5459,7 +5517,9 @@
   <string name="user_info_settings_title">Benutzerinformationen</string>
   <string name="user_list_title">Benutzer &amp; Profile</string>
   <string name="user_lockscreen_settings">Sperrbildschirm-Einstellungen</string>
-  <string name="user_need_lock_message">Vor dem Erstellen eines eingeschränkten Profils müssen Sie eine Displaysperre einrichten, um Ihre Apps und personenbezogenen Daten zu schützen.</string>
+  <string name="user_need_lock_message">Vor dem Erstellen eines eingeschränkten Profils müssen Sie eine Displaysperre einrichten, 
+  
+  um Ihre Apps und personenbezogenen Daten zu schützen.</string>
   <string name="user_new_profile_name">Neues Profil</string>
   <string name="user_new_user_name">Neuer Nutzer</string>
   <string name="user_nickname">Alias</string>
@@ -5547,14 +5607,17 @@
   <string name="virus_scanner_select_trust_lib">Virendatenbank auswählen</string>
   <string name="virus_scanner_title">Antivirus</string>
   <string name="virus_scanner_update_lib">Virendatenbank aktualisieren</string>
-  <string name="vision_settings_description">Sie können dieses Gerät an Ihre Bedürfnisse anpassen. Diese Eingabehilfen können später in Einstellungen geändert werden.</string>
+  <string name="vision_settings_description">Sie können dieses Gerät an Ihre Bedürfnisse anpassen. 
+  Diese Eingabehilfen können später in Einstellungen geändert werden.</string>
   <string name="vision_settings_title">Vision Einstellungen</string>
   <string name="voice_category">Sprache</string>
   <string name="voice_input_output_settings">Spracheingabe &amp;-ausgabe</string>
   <string name="voice_input_output_settings_title">Spracheingabe &amp; -ausgabeeinstellungen</string>
   <string name="voice_input_settings">Spracheingabeeinstellungen</string>
   <string name="voice_input_settings_title">Spracheingabe</string>
-  <string name="voice_interaction_security_warning">Dieser Spracheingabedienst ist in der Lage immer aktive Stimmenüberwachung auszuführen und sprachbereite Apps Ihretwegen zu kontrollieren. Es wird von der %s Anwendung durchgeführt. Wollen Sie diesen Dienst aktivieren?</string>
+  <string name="voice_interaction_security_warning">Dieser Spracheingabedienst ist in der Lage immer aktive Stimmenüberwachung auszuführen und 
+  sprachbereite Apps Ihretwegen zu kontrollieren. Es wird von der %s Anwendung durchgeführt. Wollen Sie diesen Dienst aktivieren?</string>
+  
   <string name="voice_interactor_preference_summary">Komplettes Hotword und Interaktion</string>
   <string name="voice_over_lte">Voice over LTE</string>
   <string name="voice_recognizer_preference_summary">Vereinfachte Sprache in Text</string>
@@ -5603,7 +5666,8 @@
   <string name="vpn_l2tp_secret">L2TP-Schlüssel</string>
   <string name="vpn_lockdown_config_error">Für ein durchgehend aktives VPN ist eine IP-Adresse für den Server und für das DNS erforderlich.</string>
   <string name="vpn_lockdown_none">Keines</string>
-  <string name="vpn_lockdown_summary">Wählen Sie ein VPN-Profil für eine durchgehende Verbindung aus. Netzwerkverkehr ist nur möglich, wenn eine Verbindung zu diesem VPN besteht.</string>
+  <string name="vpn_lockdown_summary">Wählen Sie ein VPN-Profil für eine durchgehende Verbindung aus. Netzwerkverkehr ist nur möglich, 
+  wenn eine Verbindung zu diesem VPN besteht.</string>
   <string name="vpn_menu_delete">Profil löschen</string>
   <string name="vpn_menu_edit">Profil bearbeiten</string>
   <string name="vpn_menu_lockdown">Durchgehend aktives VPN</string>
@@ -5620,7 +5684,8 @@
   <string name="vpn_on">Ein</string>
   <string name="vpn_password">Passwort</string>
   <string name="vpn_replace">Ersetzen</string>
-  <string name="vpn_replace_always_on_vpn_message">"Sie sind bereits mit einem VPN verbunden. Wenn Sie eine Verbindung zu einem anderen herstellen, wird Ihr vorhandenes VPN ersetzt."</string>
+  <string name="vpn_replace_always_on_vpn_message">"Sie sind bereits mit einem VPN verbunden. Wenn Sie eine Verbindung zu einem anderen herstellen, 
+  wird Ihr vorhandenes VPN ersetzt."</string>
   <string name="vpn_replace_always_on_vpn_title">Ersetzen vorhandener VPN?</string>
   <string name="vpn_routes">Weiterleitungsrouten</string>
   <string name="vpn_routes_hint">z.b. 10.0.0.0/8</string>
@@ -5684,21 +5749,29 @@
   <string name="wifi_advanced_titlebar">Erweiterte WLAN-Einstellungen</string>
   <string name="wifi_aggressive_handover">Aggressives Umschalten von WLAN auf Mobilfunkdaten</string>
   <string name="wifi_aggressive_handover_summary">Wenn aktiviert, wird WLAN aggressiver Datenverbindung zum Handy übergeben, wenn das WLAN-Signal gering ist</string>
-  <string name="wifi_alert_lockdown_by_device_owner">%1$s verwaltet Ihr Gerät und erlaubt nicht, dieses WLAN zu ändern oder zu löschen. Für weitere Informationen kontaktieren Sie ihren Administrator.</string>
+  <string name="wifi_alert_lockdown_by_device_owner">%1$s verwaltet Ihr Gerät und erlaubt nicht, dieses WLAN zu ändern oder zu löschen. 
+  Für weitere Informationen kontaktieren Sie ihren Administrator.</string>
   <string name="wifi_allow_scan_with_traffic">WLAN-Roamingscans immer erlauben</string>
   <string name="wifi_allow_scan_with_traffic_summary">WLAN-Roamsingcans erlauben/verbieten bezogen auf die Menge des Datenverkehrs an der Schnittstelle</string>
-  <string name="wifi_and_mobile_skipped_message">"ACHTUNG: Wenn Sie WLAN überspringen, wird Ihr Telefon keine Internetverbindung haben, um anfängliche Downloads oder Updates zu nutzen."</string>
+  <string name="wifi_and_mobile_skipped_message">"ACHTUNG: Wenn Sie WLAN überspringen, wird Ihr Telefon keine Internetverbindung haben, 
+  um anfängliche Downloads oder Updates zu nutzen."</string>
   <string name="wifi_ap_band_config">AP-Band auswählen</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
   <string name="wifi_ap_choose_5G">5 GHz Band</string>
   <string name="wifi_api_test">WLAN API</string>
   <string name="wifi_assistant_card_message">Verbinde automatisch mit verfügbaren Netzwerken mit einem WLAN-Assistenten.</string>
-  <string name="wifi_assistant_dialog_message">WLAN-Assistent möchte eine VPN-Verbindung einrichten, die es ermöglicht den Netzwerkverkehr zu überwachen. Stimmen Sie nur dann zu, wenn Sie der Quelle vertrauen.</string>
-  <string name="wifi_assistant_explanation_message">Google WLAN-Assistent erkennt für Sie verfügbaren Netzwerke und verbindet Ihr Gerät mit einem zuverlässigen Netzwerk, das die beste Geschwindigkeit hat.</string>
+  <string name="wifi_assistant_dialog_message">WLAN-Assistent möchte eine VPN-Verbindung einrichten, die es ermöglicht den Netzwerkverkehr zu überwachen. 
+  Stimmen Sie nur dann zu, wenn Sie der Quelle vertrauen.</string>
+  
+  <string name="wifi_assistant_explanation_message">Google WLAN-Assistent erkennt für Sie verfügbaren Netzwerke und verbindet Ihr Gerät mit einem zuverlässigen Netzwerk, 
+  das die beste Geschwindigkeit hat.</string>
+  
   <string name="wifi_assistant_intro_setup">"Stelle vor WLAN Assistent"</string>
   <string name="wifi_assistant_no_thanks">NEIN, DANKE</string>
   <string name="wifi_assistant_open_app">OFFENE APP</string>
-  <string name="wifi_assistant_permission_accepted">Sie haben dem "Google WLAN-Assistent" erlaubt eine VPN-Verbindung einzurichten. Das bedeutet, dass diese App den Netzwerkverkehr überwachen kann.</string>
+  <string name="wifi_assistant_permission_accepted">Sie haben dem "Google WLAN-Assistent" erlaubt eine VPN-Verbindung einzurichten. Das bedeutet, 
+  
+  dass diese App den Netzwerkverkehr überwachen kann.</string>
   <string name="wifi_assistant_setting_summary">Google WLAN-Assistent</string>
   <string name="wifi_assistant_setting_title">WLAN-Assistent</string>
   <string name="wifi_assistant_setup">EINSTELLEN</string>
@@ -5718,7 +5791,9 @@
   <string name="wifi_band_5ghz">5GHz</string>
   <string name="wifi_calling_mode_dialog_title">WLAN-Anrufmodus</string>
   <string name="wifi_calling_mode_title">Anrufeinstellungen</string>
-  <string name="wifi_calling_off_explanation">Wenn WLAN-Anrufe aktiviert sind, kann Ihr Gerät Anrufü über das WLAN oder Ihren Netzbetreiber routen, abhängig von der Signalstärke und Ihren Einstellungen. Bevor Sie diese Funktion nutzen, erkundigen Sie sich nach etwaigen Gebühren.</string>
+  <string name="wifi_calling_off_explanation">Wenn WLAN-Anrufe aktiviert sind, kann Ihr Gerät Anrufü über das WLAN oder Ihren Netzbetreiber routen, 
+  
+  abhängig von der Signalstärke und Ihren Einstellungen. Bevor Sie diese Funktion nutzen, erkundigen Sie sich nach etwaigen Gebühren.</string>
   <string name="wifi_calling_settings_title">WLAN-Anrufe</string>
   <string name="wifi_calling_suggestion_summary">WLAN statt mobiles Netzwerk verwenden</string>
   <string name="wifi_calling_suggestion_title">WLAN-Anrufen einschalten</string>
@@ -5832,7 +5907,8 @@
   <string name="wifi_master_key_dialog_content_password">Passwort</string>
   <string name="wifi_master_key_dialog_title">Verbinden mit</string>
   <string name="wifi_master_key_name">WLAN Master Key</string>
-  <string name="wifi_master_key_service_dialog_content">WLAN Master Key ist ein kostenloser Service, das Passwörter für geteilte WLAN-Netzwerke anbietet. WLAN Master Key wird das Passwort von Ihrem Netzwerk nicht teilen.</string>
+  <string name="wifi_master_key_service_dialog_content">WLAN Master Key ist ein kostenloser Service, das Passwörter für geteilte WLAN-Netzwerke anbietet. 
+  WLAN Master Key wird das Passwort von Ihrem Netzwerk nicht teilen.</string>
   <string name="wifi_master_key_service_dialog_title">Geteilte WLAN-Netzwerke</string>
   <string name="wifi_menu_advanced">Erweitert</string>
   <string name="wifi_menu_configure">Konfigurieren</string>
@@ -5896,7 +5972,8 @@
   <string name="wifi_quick_toggle_summary">WLAN einschalten</string>
   <string name="wifi_quick_toggle_title">WLAN</string>
   <string name="wifi_remembered">Gespeichert</string>
-  <string name="wifi_required_info_text">Ihr Telefon muss eine WLAN-Verbindung haben, damit die Einrichtung abgeschlossen werden kann. Nach der Einrichtung können Sie zwischen WLAN und Mobilfunk wechseln.</string>
+  <string name="wifi_required_info_text">Ihr Telefon muss eine WLAN-Verbindung haben, damit die Einrichtung abgeschlossen werden kann. 
+  Nach der Einrichtung können Sie zwischen WLAN und Mobilfunk wechseln.</string>
   <string name="wifi_rssi_threshold_check">RSSI-Schwellenwert aktivieren</string>
   <string name="wifi_rssi_threshold_check_summary">Verbinde nicht mit einem AP, wenn RSSI gering ist</string>
   <string name="wifi_sap_no_channel_error">5 GHz Band in diesem Land nicht verfügbar</string>
@@ -5909,11 +5986,16 @@
   <string name="wifi_scan_always_confirm_allow">Erlauben</string>
   <string name="wifi_scan_always_confirm_deny">Verweigern</string>
   <string name="wifi_scan_always_turnoff_message">Um dies zu deaktivieren, gehen Sie auf Erweitert im Überlaufmenü.</string>
-  <string name="wifi_scan_always_turnon_message">"Zur Verbesserung der Ortungsgenauigkeit und für andere Zwecke, möchte %1$s die Netzwerksuche einschalten, auch wenn WLAN ausgeschaltet ist. Für alle Apps die scannen möchten erlauben?"</string>
+  <string name="wifi_scan_always_turnon_message">"Zur Verbesserung der Ortungsgenauigkeit und für andere Zwecke, möchte %1$s die Netzwerksuche einschalten, 
+  auch wenn WLAN ausgeschaltet ist. Für alle Apps die scannen möchten erlauben?"</string>
   <string name="wifi_scan_notify_remember_choice">"Nicht mehr anzeigen"</string>
-  <string name="wifi_scan_notify_text">Zur Erhöhung der Standortgenauigkeit und aus anderen Gründen können Google und andere Apps auch bei deaktiviertem WLAN nach Netzwerken in der Nähe suchen. Wenn Sie das nicht möchten, können Sie dies unter \"Erweitert\" &gt; \"Scannen immer verfügbar\" ändern.</string>
-  <string name="wifi_scan_notify_text_location_off">Anwendungen können in der Nähe von Netzwerken Scannen (Sie können auch gescannt werden, wenn WLAN ausgeschaltet ist). Wenn Sie dies nicht tun möchten, gehen Sie zu "Erweitert" und "Scannen zu jeder Zeit" Einstellungen.</string>
-  <string name="wifi_scan_notify_text_location_on">Um die Genauigkeit der Standortinformationen und andere Zwecke zu verbessern, können Google und andere Anwendungen in der Nähe von Netzwerken (die auch beim Schließen von WLAN gescannt werden können) scannen. Wenn Sie dies nicht tun möchten, gehen Sie zu "Erweitert" und "Scannen zu jeder Zeit" Einstellungen.</string>
+  <string name="wifi_scan_notify_text">Zur Erhöhung der Standortgenauigkeit und aus anderen Gründen können Google und andere Apps auch bei deaktiviertem WLAN nach Netzwerken in der Nähe suchen. 
+  Wenn Sie das nicht möchten, können Sie dies unter \"Erweitert\" &gt; \"Scannen immer verfügbar\" ändern.</string>
+  <string name="wifi_scan_notify_text_location_off">Anwendungen können in der Nähe von Netzwerken Scannen (Sie können auch gescannt werden, wenn WLAN ausgeschaltet ist). 
+  Wenn Sie dies nicht tun möchten, gehen Sie zu "Erweitert" und "Scannen zu jeder Zeit" Einstellungen.</string>
+  <string name="wifi_scan_notify_text_location_on">Um die Genauigkeit der Standortinformationen und andere Zwecke zu verbessern, 
+  können Google und andere Anwendungen in der Nähe von Netzwerken (die auch beim Schließen von WLAN gescannt werden können) scannen. 
+  Wenn Sie dies nicht tun möchten, gehen Sie zu "Erweitert" und "Scannen zu jeder Zeit" Einstellungen.</string>
   <string name="wifi_secured_first_item">Gesichert mit %1$s</string>
   <string name="wifi_secured_second_item">, gesichert mit %1$s</string>
   <string name="wifi_security">Sicherheit</string>
@@ -5953,10 +6035,12 @@
   <string name="wifi_setup_back">Zurück</string>
   <string name="wifi_setup_cancel">Abbrechen</string>
   <string name="wifi_setup_connect">Verbinden</string>
-  <string name="wifi_setup_description_connected">Drücken Sie <b>Weiter</b>", um mit der Einrichtung fortzufahren. Drücken Sie "<b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
+  <string name="wifi_setup_description_connected">Drücken Sie <b>Weiter</b>", um mit der Einrichtung fortzufahren. 
+  Drücken Sie "<b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
   <string name="wifi_setup_description_connecting">Der Verbindungsaufbau kann einige Minuten dauern...</string>
   <string name="wifi_setup_detail">Netzwerkdetails</string>
-  <string name="wifi_setup_eap_not_supported">Während der Einrichtung können Sie keine EAP-WLAN-Verbindung konfigurieren. Sie können dies anschließend in den Einstellungen unter \"Drahtlos &amp;amp Netzwerke\" vornehmen.</string>
+  <string name="wifi_setup_eap_not_supported">Während der Einrichtung können Sie keine EAP-WLAN-Verbindung konfigurieren. 
+  Sie können dies anschließend in den Einstellungen unter \"Drahtlos &amp;amp Netzwerke\" vornehmen.</string>
   <string name="wifi_setup_forget">Entfernen</string>
   <string name="wifi_setup_next">Weiter</string>
   <string name="wifi_setup_not_connected">Nicht verbunden</string>
@@ -6014,7 +6098,8 @@
   <string name="wifi_signal">Signalstärke</string>
   <string name="wifi_signal_found_msg">WLAN AP gefunden. Jetzt verbinden?</string>
   <string name="wifi_skip_anyway">Trotzdem überspringen</string>
-  <string name="wifi_skipped_message">"Achtung: Es können zusätzliche Kosten für die Datenübertragung vonseiten des Mobilfunkanbieters anfallen. Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</string>
+  <string name="wifi_skipped_message">"Achtung: Es können zusätzliche Kosten für die Datenübertragung vonseiten des Mobilfunkanbieters anfallen. 
+  Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</string>
   <string name="wifi_speed">Geschwindigkeit</string>
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_ssid_hint">SSID eingeben</string>
@@ -6095,7 +6180,8 @@
   <string name="wifiap_configure_ap_text">WLAN WiFi AP einrichten</string>
   <string name="wifiap_configure_subtext">%1$s%2$s portable WLAN WiFi AP</string>
   <string name="wifiap_settings_desc">WLAN-WiFi AP können die Datenverbindung dieses Mobiltelefons über WLAN mit anderen PC/mobilen Geräten austauschen.</string>
-  <string name="wifiap_settings_indication">Nach dem Einschalten der WLAN-WiFi AP, können andere PC/Mobile Geräte eine Verbindung herstellen und mit dem Internet beginnen, indem Sie folgende Schritte ausführen:</string>
+  <string name="wifiap_settings_indication">Nach dem Einschalten der WLAN-WiFi AP, können andere PC/Mobile Geräte eine Verbindung herstellen und mit dem Internet beginnen, 
+  indem Sie folgende Schritte ausführen: </string>
   <string name="wifiap_settings_indication_step1">1. Schalten Sie WLAN auf PC und mobilem Gerät ein.</string>
   <string name="wifiap_settings_indication_step2">2. Finde “%s” in der Liste der WLAN-Netzwerke.</string>
   <string name="wifiap_title">WLAN Hotspot</string>
@@ -6113,7 +6199,8 @@
   <string name="work_mode_summary">Funktionieren des Profils erlauben, einschließlich Apps, Hintergrund Sync und verwandte Features</string>
   <string name="work_profile_confirm_remove_message">Alle Anwendungen und Daten in diesem Profil werden gelöscht.</string>
   <string name="work_profile_confirm_remove_title">Arbeitsprofil entfernen?</string>
-  <string name="work_profile_usage_access_warning">Das Ausschalten des Datenzugriffs für diese App verhindert nicht, dass Ihr Administrator die Datennutzung für Apps in Ihrem Arbeitsprofil ermitteln kann.</string>
+  <string name="work_profile_usage_access_warning">Das Ausschalten des Datenzugriffs für diese App verhindert nicht, 
+  dass Ihr Administrator die Datennutzung für Apps in Ihrem Arbeitsprofil ermitteln kann.</string>
   <string name="work_sim_title">Arbeits-SIM</string>
   <string name="work_space_delete">Arbeitsraum löschen</string>
   <string name="work_space_delete_confirm">Löschen bestätigen</string>
