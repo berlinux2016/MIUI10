@@ -74,13 +74,13 @@
   <string name="android_preparing_apk">%1$s wird vorbereitet</string>
   <string name="android_start_title">Android wird gestartet…</string>
   <string name="android_system_label">Androidsystem</string>
-  <string name="android_upgrading_apk">App %1$d von %2$d wird optimiert...</string>
-  <string name="android_upgrading_complete">Start wird abgeschlossen...</string>
+  <string name="android_upgrading_apk">App %1$d von %2$d wird optimiert…</string>
+  <string name="android_upgrading_complete">Start wird abgeschlossen…</string>
   <string name="android_upgrading_fstrim">Optimieren von Speichersystemen</string>
     <string name="android_upgrading_notification_body">Einige Apps könnten nach dem Update nicht mehr ordnungsgemäß funktionieren</string>
     <string name="android_upgrading_notification_title">Android wird aktualisiert</string>
-  <string name="android_upgrading_starting_apps">Apps werden gestartet...</string>
-  <string name="android_upgrading_title">Android wird aktualisiert...</string>
+  <string name="android_upgrading_starting_apps">Apps werden gestartet…</string>
+  <string name="android_upgrading_title">Android wird aktualisiert…</string>
   <string name="anr_activity_application">"%2$s reagiert nicht."</string>
   <string name="anr_activity_process">"Aktivität \"%1$s\" reagiert nicht."</string>
   <string name="anr_application_process">%1$s reagiert nicht. Möchten Sie die App schließen?</string>
@@ -332,11 +332,11 @@ mit %s"</string>
   <string name="expand_action_accessibility">Umschalten</string>
   <string name="expand_button_content_description">Expand Schaltfläche</string>
   <string name="expires_on">Läuft ab am:</string>
-  <string name="ext_media_badremoval_notification_message">Trennen Sie den USB-Speicher vor dem Entfernen, um Datenverlust zu vermeiden</string>
-  <string name="ext_media_badremoval_notification_title">USB-Speicher unerwartet entfernt</string>
+  <string name="ext_media_badremoval_notification_message">Trennen Sie den %s vor dem Entfernen, um Datenverlust zu vermeiden</string>
+  <string name="ext_media_badremoval_notification_title">%s unerwartet entfernt</string>
   <string name="ext_media_browse_action">Durchsuchen</string>
   <string name="ext_media_checking_notification_message">Suche nach Fehlern</string>
-  <string name="ext_media_checking_notification_title">USB-Speicher wird vorbereitet</string>
+  <string name="ext_media_checking_notification_title">%s wird vorbereitet</string>
   <string name="ext_media_init_action">Einrichten</string>
   <string name="ext_media_missing_message">Dieses Gerät wieder einsetzen</string>
   <string name="ext_media_missing_title">%s fehlt</string>
@@ -347,8 +347,8 @@ mit %s"</string>
   <string name="ext_media_move_success_title">Fertig</string>
   <string name="ext_media_move_title">Daten verschieben</string>
   <string name="ext_media_new_notification_message">Neuer %s erkannt</string>
-  <string name="ext_media_nomedia_notification_message">USB-Speicher entfernt. Neuen Datenträger einlegen</string>
-  <string name="ext_media_nomedia_notification_title">USB-Speicher entfernt</string>
+  <string name="ext_media_nomedia_notification_message">%s entfernt. Neuen Datenträger einlegen.</string>
+  <string name="ext_media_nomedia_notification_title">%s entfernt</string>
   <string name="ext_media_ready_notification_message">Bereit um Fotos und andere Medien zu verschieben</string>
   <string name="ext_media_status_bad_removal">Nicht sicher entfernt</string>
   <string name="ext_media_status_checking">Wird überprüft…</string>
@@ -362,8 +362,8 @@ mit %s"</string>
   <string name="ext_media_status_unmounted">Ausgeworfen</string>
   <string name="ext_media_status_unsupported">Nicht unterstützt</string>
   <string name="ext_media_unmount_action">Auswerfen</string>
-  <string name="ext_media_unmountable_notification_message">Der USB-Speicher ist beschädigt. Formatieren Sie ihn neu.</string>
-  <string name="ext_media_unmountable_notification_title">USB-Speicher beschädigt</string>
+  <string name="ext_media_unmountable_notification_message">Der %s ist beschädigt. Formatieren Sie ihn neu.</string>
+  <string name="ext_media_unmountable_notification_title">%s beschädigt</string>
   <string name="ext_media_unmounting_notification_message">Nicht entfernen</string>
   <string name="ext_media_unmounting_notification_title">%s wird noch ausgeworfen…</string>
   <string name="ext_media_unsupported_notification_message">Dieses Gerät unterstützt diesen %s nicht. Antippen um in ein kompatibles Format zu formatieren.</string>
@@ -628,7 +628,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="lockscreen_forgot_pattern_button_text">Muster vergessen?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Nutzernamen oder Passwort vergessen?
 Besuchen Sie "<b>google.com/accounts/recovery</b>.</string>
-  <string name="lockscreen_glogin_checking_password">Überprüfung...</string>
+  <string name="lockscreen_glogin_checking_password">Überprüfung…</string>
   <string name="lockscreen_glogin_forgot_pattern">Kontoentsperrung</string>
   <string name="lockscreen_glogin_instructions">Melden Sie sich zum Entsperren mit Ihrem Googlekonto an.</string>
   <string name="lockscreen_glogin_invalid_input">"Ungültiger Nutzername oder ungültiges Passwort."</string>
@@ -657,7 +657,7 @@ Besuchen Sie "<b>google.com/accounts/recovery</b>.</string>
 oder
  Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanbieter.</string>
   <string name="lockscreen_sim_puk_locked_message">SIM-Karte ist gesperrt. PUK-Eingabe erforderlich.</string>
-  <string name="lockscreen_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt...</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt…</string>
   <string name="lockscreen_sound_off_label">Ton aus</string>
   <string name="lockscreen_sound_on_label">Ton ein</string>
     <string name="lockscreen_storage_locked">Für vollen Funktionsumfang entsperren </string>
@@ -694,10 +694,10 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="media_route_chooser_title_for_remote_display">Bildschirm auf Gerät übertragen</string>
   <string name="media_route_controller_disconnect">Verbindung trennen</string>
   <string name="media_route_status_available">Verfügbar</string>
-  <string name="media_route_status_connecting">Verbindung wird hergestellt...</string>
+  <string name="media_route_status_connecting">Verbindung wird hergestellt…</string>
   <string name="media_route_status_in_use">In Verwendung</string>
   <string name="media_route_status_not_available">Nicht verfügbar</string>
-  <string name="media_route_status_scanning">Wird gescannt...</string>
+  <string name="media_route_status_scanning">Wird gescannt…</string>
   <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
   <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
   <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
@@ -1521,7 +1521,7 @@ für Konto %s"</string>
   <string name="print_service_installed_title">Dienst %s installiert</string>
   <string name="profile_encrypted_detail">Arbeitsprofil gesperrt</string>
   <string name="profile_encrypted_message">Zum entsperren des Arbeitsprofils hier tippen</string>
-  <string name="progress_erasing">USB-Speicher wird gelöscht...</string>
+  <string name="progress_erasing">USB-Speicher wird gelöscht…</string>
   <string name="quick_contacts_not_available">Es wurde keine App zum Anzeigen dieses Kontakts gefunden.</string>
   <string name="reason_service_unavailable">Druckdienst nicht aktiviert</string>
   <string name="reason_unknown">Unbekannt</string>
@@ -1554,7 +1554,7 @@ für Konto %s"</string>
   <string name="relationTypeSister">Schwester</string>
   <string name="relationTypeSpouse">Ehepartner</string>
   <string name="relative_time">%1$s, %2$s</string>
-  <string name="replace">Ersetzen...</string>
+  <string name="replace">Ersetzen…</string>
   <string name="report">Bericht</string>
   <string name="reset">Zurücksetzen</string>
   <string name="restr_pin_confirm_pin">Neue PIN bestätigen</string>
@@ -1621,7 +1621,7 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="select_minutes">Minuten auswählen</string>
   <string name="select_year">Jahr auswählen</string>
   <string name="sendText">Aktion für Text auswählen</string>
-  <string name="sending">Wird gesendet...</string>
+  <string name="sending">Wird gesendet…</string>
   <string name="serial_number">Seriennummer:</string>
   <string name="serviceClassData">Daten</string>
   <string name="serviceClassDataAsync">Asynchron</string>
@@ -1647,11 +1647,11 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="share_remote_bugreport_notification_title">Share bug report?</string>
   <string name="shareactionprovider_share_with">Teilen mit</string>
   <string name="shareactionprovider_share_with_application">Mit %s teilen</string>
-  <string name="sharing_remote_bugreport_notification_title">Fehlerbericht teilen...</string>
+  <string name="sharing_remote_bugreport_notification_title">Fehlerbericht teilen…</string>
   <string name="show_ime">Eingabemethode anzeigen</string>
   <string name="shutdown_confirm">Telefon wird heruntergefahren.</string>
   <string name="shutdown_confirm_question">Möchten Sie das Gerät herunterfahren?</string>
-  <string name="shutdown_progress">Wird heruntergefahren...</string>
+  <string name="shutdown_progress">Wird heruntergefahren…</string>
   <string name="silent_mode">Lautlosmodus</string>
   <string name="silent_mode_ring">Klingelton ein</string>
   <string name="silent_mode_silent">Klingelton aus</string>

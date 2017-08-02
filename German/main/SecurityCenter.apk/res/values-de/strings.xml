@@ -140,7 +140,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="antivirus_toast_network_unavailable">Keine Internetverbindung</string>
   <string name="antivirus_toast_update_failed">Aktualisierung fehlgeschlagen</string>
   <string name="antivirus_toast_update_success">Aktualisierung erfolgreich</string>
-  <string name="antivirus_toast_updating">Wird aktualisiert...</string>
+  <string name="antivirus_toast_updating">Wird aktualisiert…</string>
   <string name="antivirus_update_btn_contiue">Fortsetzen</string>
   <string name="antivirus_update_btn_open">Erlauben</string>
   <string name="antivirus_update_btn_update">Aktualisieren</string>
@@ -768,7 +768,7 @@ um Ihre mobile Datennutzung zu verwalten"</string>
   <string name="hints_cleanning_text">Bereinigung…</string>
   <string name="hints_handle_item_text_risk">Risiken: %d</string>
   <string name="hints_handle_item_text_safe">Sicher</string>
-  <string name="hints_handle_item_text_virus">Viren: %d</string>
+  <string name="hints_handle_item_text_virus">Viren</string>
   <string name="hints_input_roaming_daily_limit">Datenlimit eingeben</string>
   <string name="hints_install_apps_new">Nie verwendet</string>
   <string name="hints_install_apps_today">Heute verwendet</string>
@@ -800,7 +800,7 @@ um Ihre mobile Datennutzung zu verwalten"</string>
   <string name="hints_scan_result_virus">Viren gefunden</string>
   <string name="hints_scanning">Wird gescannt…</string>
   <string name="hints_scanning_text">Wird überprüft…</string>
-  <string name="hints_scanning_virus_by_cloud">Cloudscan wird ausgeführt...</string>
+  <string name="hints_scanning_virus_by_cloud">Cloudscan wird ausgeführt…</string>
   <string name="hints_unknown_virus_name">Unbekannt</string>
   <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
@@ -918,7 +918,7 @@ Der Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie die mo
   <string name="long_click_dialog_title">Achtung</string>
   <string name="main_activity_content_summary_root">Rootzugriff</string>
   <string name="main_activity_content_summary_update">Systemupdate</string>
-  <string name="main_activity_content_title_scanning">Wird gescannt...</string>
+  <string name="main_activity_content_title_scanning">Wird gescannt…</string>
   <string name="main_alert_message_month_limit_error">Das eingestellte Datenlimit ist ungültig</string>
   <string name="main_alert_message_no_imsi">Keine SIM-Karte gefunden</string>
   <string name="main_alert_message_no_mobile_package">Datenlimit nicht eingerichtet</string>
@@ -1298,7 +1298,7 @@ T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie 
   <string name="pm_root_success_notification_infomation">Seien Sie sich der Risiken durch Rootzugriff bewusst</string>
   <string name="pm_root_success_notification_title">Rootzugriff gewährt</string>
     <string name="power_20s_enter_mode">Wechseln von %1$ds zu %2$s</string>
-  <string name="power_20s_shutdown">Telefon schaltet sich in 20 Sekunden aus</string>
+  <string name="power_20s_shutdown">Telefon schaltet sich in %d Sekunden aus</string>
   <string name="power_analysis_consume_title">Akkuverbrauch</string>
   <string name="power_analysis_suggestion_need_optimize">Probleme mit dem Akku erkannt</string>
     <string name="power_apply_toast">Wechseln auf %s Modus</string>

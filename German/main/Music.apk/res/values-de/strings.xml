@@ -266,7 +266,7 @@
   <string name="download_title_sorted_by_date">Downloads - sortiert nach Datum</string>
   <string name="download_title_sorted_by_size">Downloads - sortiert nach Größe</string>
   <string name="download_traffic_dialog_buy_package">Musikdatentarif kaufen</string>
-  <string name="download_traffic_dialog_msg">Wenn Sie die mobile Datenverbindung verwenden, um Musik herunterzuladen, kann das zu erhöhten Kosten führen</string>
+  <string name="download_traffic_dialog_msg">You have %s of mobile data left. Use mobile data to download songs?</string>
   <string name="download_traffic_dialog_negative_button">Auf WLAN warten</string>
   <string name="download_traffic_dialog_position_button">Auf einmal herunterladen</string>
   <string name="download_unknown_title">&lt;Unbenannt&gt;</string>
@@ -334,8 +334,8 @@
   <string name="file_not_found">"Datei existiert nicht"</string>
   <string name="filter_by_duration">Nach Länge</string>
   <string name="filter_by_duration_format">%2$d m %5$2d s</string>
-  <string name="filter_by_duration_max">5 Min.</string>
-  <string name="filter_by_duration_min">0 Sek.</string>
+  <string name="filter_by_duration_max">%d Min.</string>
+  <string name="filter_by_duration_min">%d Sek.</string>
   <string name="filter_by_duration_prefix">"Dateien verbergen die kürzer sind als"</string>
   <string name="filter_by_duration_summary">Verberge kurze Audiodateien</string>
   <string name="filter_by_folder">Nach Ordner</string>
@@ -882,7 +882,7 @@
   <string name="upgrade_to">Aktualisiere auf</string>
   <string name="upgrade_vip">Upgrade auf Premiumpaket</string>
   <string name="upgrade_waringing">"Sie werden nur in der Lage sein, lokale Titel abzuspielen."</string>
-  <string name="valid_period">"Gültig: "</string>
+  <string name="valid_period">"Gültig: %s"</string>
   <string name="version_info">Version</string>
   <string name="vip_after_tomorrow_auto_renew_message">Ihr Musikabo wird übermorgen Abend automatisch erneuert. Stellen Sie sicher, dass Sie genügend Mi Credits haben um diese Zahlung abzuschließen.</string>
   <string name="vip_after_tomorrow_renew_message">Sie werden nicht mehr in der Lage sein, in HD-Qualität zu streamen, aber eineige Titel werden weiterhin in Standardqualität verfügbar sein.</string>

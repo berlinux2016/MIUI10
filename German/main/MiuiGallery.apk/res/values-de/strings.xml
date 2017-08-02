@@ -342,9 +342,9 @@
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Zusammenfügen dieser Alben mit %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Kein Treffer</string>
   <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Sind Sie sicher, dass das &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; ist? Dieses Gesicht wird nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Sind Sie sicher, dass das nicht &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; ist? Dieses Gesicht wird nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Sind Sie sicher, dass das nicht &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; ist? &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Sind Sie sicher, dass das &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; sind? Diese Gesichter werden nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Sind Sie sicher, dass das nicht &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; sind? Diese Gesichter werden nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Sind Sie sicher, dass das nicht &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; sind? &lt;/Data&gt;" "</string>
   <string name="contact_photo">Einem Kontakt als Foto zuweisen</string>
   <string name="contact_tip">Kontakt</string>
   <string name="context_menu_add_contact">Zu Kontakten hinzufügen</string>
@@ -452,7 +452,7 @@
   <string name="download_retry_text">Wiederholen</string>
   <string name="download_retry_title">Downloadfehler</string>
   <string name="download_tip">Download</string>
-  <string name="download_title">Dateien werden vorbereitet...</string>
+  <string name="download_title">Dateien werden vorbereitet…</string>
   <string name="download_without_wifi_msg">"Das Verwenden der mobilen Datenverbindung um Fotos herunterladen, kann Ihren Datenverbrauch erhöhen. Wenn Sie über die Datengrenze Ihres Planes gehen, könnte Ihr Anbieter zusätzliche Gebühren verlangen."</string>
   <string name="download_without_wifi_title">Datenverbrauchswarnung</string>
   <string name="duotone">Duplex</string>
@@ -498,7 +498,7 @@
   <string name="exit">Beenden</string>
   <string name="exit_share">Album beenden</string>
   <string name="exit_share_failed">Beenden von %1$s fehlgeschlagen</string>
-  <string name="exit_share_in_process">Beenden…</string>
+  <string name="exit_share_in_process">Beenden \"%s\"…</string>
   <string name="exit_share_successfully">%1$s beendet</string>
   <string name="exit_video_play">Beenden</string>
   <string name="expand_people">Weitere Personen anzeigen</string>
@@ -1128,7 +1128,7 @@
   <string name="share_album_needs_auto_upload_tip">Backup kann für geteilte Alben nicht deaktiviert werden</string>
   <string name="share_album_owner">Eigentümer</string>
   <string name="share_album_space_full">Nicht genügend Speicherplatz in diesem Album</string>
-  <string name="share_app_is_launching">Die Zielapp wird gestartet</string>
+  <string name="share_app_is_launching">{0,choice,0#Launching app…|1#%s wird gestartet…}</string>
   <string name="share_by_email_start">%1$s im Hintergrund teilen</string>
   <string name="share_by_email_successfully">%1$s geteilt</string>
   <string name="share_current_album">Aktuelles Album teilen</string>
@@ -1277,7 +1277,7 @@
   <string name="video_edit_file_not_exits_tip">Sie müssen das Video zuerst herunterladen</string>
   <string name="video_editor_abandon_changes_tip_message">Wollen Sie die Änderungen an diesem Video wirklich verwerfen?</string>
   <string name="video_editor_abandon_changes_tip_title">Änderungen verwerfen</string>
-  <string name="video_editor_analyzing">Video wird analysiert ...</string>
+  <string name="video_editor_analyzing">Video wird analysiert …</string>
   <string name="video_editor_audio">Audio</string>
   <string name="video_editor_audio_custom">Lokal</string>
   <string name="video_editor_audio_dynamic">Dynamisch</string>
@@ -1288,13 +1288,13 @@
   <string name="video_editor_audio_sad">Traurig</string>
   <string name="video_editor_audio_young">Jung</string>
   <string name="video_editor_auto_trim">Automatisch schneiden</string>
-  <string name="video_editor_auto_trim_tip">Wird gecshnitten ...</string>
+  <string name="video_editor_auto_trim_tip">Wird gecshnitten …</string>
   <string name="video_editor_cancel">Abbrechen</string>
   <string name="video_editor_done">Fertig</string>
   <string name="video_editor_down_load_later">Später</string>
   <string name="video_editor_down_load_no_wifi_tips">Download nur mit WLAN möglich</string>
   <string name="video_editor_down_load_now">Herunterladen</string>
-  <string name="video_editor_encode_video">Wird codiert ...</string>
+  <string name="video_editor_encode_video">Wird codiert …</string>
   <string name="video_editor_encode_video_error">Video konnte nicht codiert werden</string>
   <string name="video_editor_fatal_error">Unbekannter Fehler</string>
   <string name="video_editor_filter">Filter</string>
@@ -1310,7 +1310,7 @@
   <string name="video_editor_filter_rouge">Rouge</string>
   <string name="video_editor_filter_sunny">Sonnig</string>
   <string name="video_editor_invalid_trim_arguments">Sollte länger als eine Sekunde sein</string>
-  <string name="video_editor_loading_plugin">Wird geladen...</string>
+  <string name="video_editor_loading_plugin">Wird geladen…</string>
   <string name="video_editor_loading_warning_msg">Aufgrund eines Codierungsfehler können einige Funktionen und Previews während des Bearbeitungsprozesses nicht verfügbar sein. Dies wird jedoch nicht die Ergebnis-Videodatei beeinflussen.</string>
   <string name="video_editor_loading_warning_title">Codierungsfehler</string>
   <string name="video_editor_more">Erweitert</string>
