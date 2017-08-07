@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_title">Smart assistant</string>
-  <string name="accordingto_position">Recognize frequent places using GPS</string>
-  <string name="account_address">Address</string>
-  <string name="address_name_spell">Enter address</string>
-  <string name="adjustment_order">Change order</string>
-  <string name="agenda">Reminders</string>
-  <string name="agenda_open">Turn on agenda reminders</string>
-  <string name="agenda_setting_brief">Get reminders about scheduled events</string>
+  <string name="accessibility_title">Intelligenter Assistent</string>
+  <string name="accordingto_position">Erkennen häufiger Orte mit GPS</string>
+  <string name="account_address">Adresse</string>
+  <string name="address_name_spell">Addresse eingeben</string>
+  <string name="adjustment_order">Bestellung ändern</string>
+  <string name="agenda">Erinnerungen</string>
+  <string name="agenda_open">Schalte die Agenda-Erinnerungen ein</string>
+  <string name="agenda_setting_brief">Erhalten Sie Erinnerungen über geplante Ereignisse</string>
   <string name="alipay_scan">Scanner</string>
-  <string name="app_label">Smart assistant</string>
-  <string name="apps">App suggestions</string>
-  <string name="apps_label">Apps</string>
-  <string name="assistant_place">Recognize frequent places</string>
+  <string name="app_label">Intelligenter Assistent</string>
+  <string name="apps">Anwendung-Vorschläge</string>
+  <string name="apps_label">Anwendungen</string>
+  <string name="assistant_place">Häufige Orte erkennen</string>
   <string name="assistant_summary">Get useful suggestions right when you need them</string>
   <string name="beijing">Beijing</string>
   <string name="bicycle">Cycle</string>
-  <string name="calc_currency">Currency</string>
-  <string name="calc_name">Scientific</string>
-  <string name="calc_num">Financial characters</string>
-  <string name="calc_parent">Calculator</string>
-  <string name="calendar_name">Add event</string>
-  <string name="calendar_parent">Calendar</string>
-  <string name="card_detail">详细使用说明</string>
-  <string name="card_detail_condition_agenda">展现条件：&lt;font color=#727272&gt;早8点开始展现今日第一条日程；上一条日程结束同时，展现下一条日程；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;日程到期后该日程条目消失；当天最后一项日程消失时，卡片消失；&lt;/font&gt;</string>
-  <string name="card_detail_condition_commute">展现条件：&lt;font color=#727272&gt;设置过家和公司（学校）地址后，工作日上下班（学）时段展现（默认初始上班时段上午7-11点，下班时段6-10点）。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当前已不在上下班时段或家和公司（学校）地址被清空时消失。&lt;/font&gt;</string>
-  <string name="card_detail_condition_duokan">展现条件：&lt;font color=#727272&gt;多看阅读书架上有小说时，卡片展现。&lt;/font&gt;</string>
-  <string name="card_detail_condition_express">展现条件：&lt;font color=#727272&gt;查询到快递物流消息时卡片展现；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;快递签收二十四小时后对应的快递条目消失，卡片上无任何快递条目时卡片消失。&lt;/font&gt;</string>
-  <string name="card_detail_condition_flow">展现条件：&lt;font color=#727272&gt;在安全中心网络助手中设置流量套餐后，卡片展现。&lt;/font&gt;</string>
-  <string name="card_detail_condition_greeting">展现条件：&lt;font color=#727272&gt;同意天气声明与条款后，每日早间时段（6：00-10：00）展现早间问候，晚间时段（19：00-24：00）展现晚间问候。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当前时段已不在早晚时段时卡片消失。&lt;/font&gt;</string>
-  <string name="card_detail_condition_groupon">展现条件：&lt;font color=#727272&gt;所有票券收到出票短信后立即展现；起飞/发车/电影开场前24小时展现；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;飞机票火车票电影票收到短信后持续展示1小时后消失；团购券收到短信后持续展示24小时后消失；起飞/发车/电影开场1小时后消失；&lt;/font&gt;</string>
-  <string name="card_detail_condition_music">展现条件：&lt;font color=#727272&gt;有正在播放的音乐/电台类应用，或插上耳机后展现。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;播放记录最近30分钟没有更新时，卡片消失。&lt;/font&gt;&lt;br&gt;&lt;br&gt;其他说明：&lt;font color=#727272&gt;网易云音乐等部分应用需要在其设置里将锁屏方式修改为系统锁屏后，才能正常使用&lt;/font&gt;</string>
-  <string name="card_detail_condition_sport">展现条件：&lt;font color=#727272&gt;安装并登录小米运动客户端后出现&lt;/font&gt;&lt;br&gt;&lt;br&gt;其他说明：&lt;font color=#727272&gt;步数实时更新需要在安全中心为小米运动客户端添加自启动权限&lt;/font&gt;</string>
-  <string name="card_detail_condition_taxi">展现条件：&lt;font color=#727272&gt;设置过家和公司地址后，上午7-10点，下午5-8点分别开始展示打车卡片。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;非展示时间段。&lt;/font&gt;</string>
-  <string name="card_detail_condition_weather">展现条件：&lt;font color=#727272&gt;同意天气声明与条款后，当有异常天气时，展现异常天气信息；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当异常天气结束时，该条目消失；当所有异常天气都结束时，天气卡片消失；&lt;/font&gt;</string>
-  <string name="card_example">卡片样例</string>
+  <string name="calc_currency">Währung/string>
+  <string name="calc_name">Wissenschaftlich</string>
+  <string name="calc_num">Finanzkennzahlen</string>
+  <string name="calc_parent">Rechner</string>
+  <string name="calendar_name">Ereignis hinzufügen</string>
+  <string name="calendar_parent">Kalender</string>
+  <string name="card_detail">Detaillierte Anleitungen</string>
+  <string name="card_detail_condition_agenda">Konditionen anzeigen：&lt;font color=#727272&gt;Anfang 8 Uhr der erste Tag der heutigen Tagesordnung; die letzte. gleichzeitig zeigen Sie den nächsten Zeitplan；&lt;/font&gt;&lt;br&gt;&lt;br&gt;Verlust Bedingungen：&lt;font color=#727272&gt;Nach Ablauf des Eintrags Kalenderplan verschwindet, wenn der letzte Tag eines Kalenders verschwindet, Karten verschwinden;&lt;/font&gt;</string>
+  <string name="card_detail_condition_commute">Konditionen anzeigen：&lt;font color=#727272&gt;Nach der Einrichtung der Heimat und der Firma (Schule) Adresse, der Arbeitstag (Learning) Periode zu zeigen (die Standardeinstellung anfängliche Arbeitszeit am Morgen 7-11, 6-10 Stunden nach der Arbeit)。&lt;/font&gt;&lt;br&gt;&lt;br&gt;Verlust Bedingungen：&lt;font color=#727272&gt;Rush-Hour oder zu Hause und Unternehmen (Schulen) verschwindet Adresse ist derzeit nicht leer.&lt;/font&gt;</string>
+  <string name="card_detail_condition_duokan">Konditionen anzeigen：&lt;font color=#727272&gt;Wenn Sie einen Roman über das Regal lesen, zeigt die Karte.&lt;/font&gt;</string>
+  <string name="card_detail_condition_express">Konditionen anzeigen：&lt;font color=#727272&gt;Abfrage zu Express Logistics Message Card Display;&lt;/font&gt;&lt;br&gt;&lt;br&gt;Verlust Bedingungen：&lt;font color=#727272&gt;Courier hat 24 Stunden nach dem Verschwinden der entsprechenden Express-Elemente geschlossen, die Karte ohne ausdrückliche Elemente, wenn die Karte verschwindet.&lt;/font&gt;</string>
+  <string name="card_detail_condition_flow">Konditionen anzeigen：&lt;font color=#727272&gt;Nach dem Festlegen des Flow-Pakets im Security Center Network Assistant wird die Karte angezeigt.&lt;/font&gt;</string>
+  <string name="card_detail_condition_greeting">Konditionen anzeigen：&lt;font color=#727272&gt;Nach dem zustimmen der Wetter-Aussage und Bedingungen, die Morning Session (6:00-10:00) zeigt morgens Grüße und Abend Grüße (19:00-24:00).&lt;/font&gt;&lt;br&gt;&lt;br&gt;Verlust Bedingungen：&lt;font color=#727272&gt;Karten verschwinden, wenn die aktuelle Zeit nicht mehr in den Morgen- und Abendstunden ist.&lt;/font&gt;</string>
+  <string name="card_detail_condition_groupon">Konditionen anzeigen：&lt;font color=#727272&gt;所有票券收到出票短信后立即展现；起飞/发车/电影开场前24小时展现；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;飞机票火车票电影票收到短信后持续展示1小时后消失；团购券收到短信后持续展示24小时后消失；起飞/发车/电影开场1小时后消失；&lt;/font&gt;</string>
+  <string name="card_detail_condition_music">Konditionen anzeigen：&lt;font color=#727272&gt;有正在播放的音乐/电台类应用，或插上耳机后展现。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;播放记录最近30分钟没有更新时，卡片消失。&lt;/font&gt;&lt;br&gt;&lt;br&gt;其他说明：&lt;font color=#727272&gt;网易云音乐等部分应用需要在其设置里将锁屏方式修改为系统锁屏后，才能正常使用&lt;/font&gt;</string>
+  <string name="card_detail_condition_sport">Konditionen anzeigen：&lt;font color=#727272&gt;安装并登录小米运动客户端后出现&lt;/font&gt;&lt;br&gt;&lt;br&gt;其他说明：&lt;font color=#727272&gt;步数实时更新需要在安全中心为小米运动客户端添加自启动权限&lt;/font&gt;</string>
+  <string name="card_detail_condition_taxi">Konditionen anzeigen：&lt;font color=#727272&gt;设置过家和公司地址后，上午7-10点，下午5-8点分别开始展示打车卡片。&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;非展示时间段。&lt;/font&gt;</string>
+  <string name="card_detail_condition_weather">Konditionen anzeigen：&lt;font color=#727272&gt;同意天气声明与条款后，当有异常天气时，展现异常天气信息；&lt;/font&gt;&lt;br&gt;&lt;br&gt;消失条件：&lt;font color=#727272&gt;当异常天气结束时，该条目消失；当所有异常天气都结束时，天气卡片消失；&lt;/font&gt;</string>
+  <string name="card_example">Beispielkarten</string>
   <string name="card_settings">Card settings</string>
   <string name="card_settings_rule">Card order settings</string>
   <string name="check_network">Check network settings</string>
@@ -248,5 +248,5 @@
   <string name="wx_scan">Scanner</string>
   <string name="wx_timeline">Moments</string>
   <string name="xspace_resolver_activity_title">Select app</string>
-  <string name="year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
+  <string name="year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
 </resources>
