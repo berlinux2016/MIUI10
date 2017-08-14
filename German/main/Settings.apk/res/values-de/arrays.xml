@@ -741,11 +741,12 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Erlauben</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>Sofort</item>
-        <item>30 Sekunden</item>
-        <item>1 Minute</item>
-        <item>2 Minuten</item>
-        <item>5 Minuten</item>
+        <item>Immediately</item>
+        <item>After 30 seconds</item>
+        <item>After 1 minute</item>
+        <item>After 2 minutes</item>
+        <item>After 5 minutes</item>
+        <item>Never</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Systemanimationen ausschalten</item>
