@@ -866,6 +866,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth-HCI-Pakete in einer Datei erfassen</string>
   <string name="bt_trace_log">Bluetooth-Tracelog einschalten</string>
   <string name="bt_trace_log_summary">Bluetooth-Tracelog einschalten</string>
+  <string name="bug_report_settings">Fehlerberichte einstellen</string>
   <string name="bugreport_in_power">Fehlerberichte im Menü \"Akku\"</string>
   <string name="bugreport_in_power_summary">Fügt die Option für den Fehlerbericht im Menü \"Akku\" hinzu</string>
   <string name="bugreport_tool_log">Fehlerbericht erstellen</string>
@@ -1011,6 +1012,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="clear_uri_btn_text">Zugriff löschen</string>
   <string name="clear_user_data_text">Daten löschen</string>
   <string name="click_to_view">Zum Anzeigen antippen</string>
+  <string name="close_app">App schließen</string>
   <string name="close_dialog">OK</string>
   <string name="close_gesture">Mit Geste schließen</string>
   <string name="close_install_and_connect">Nein danke</string>
@@ -2595,6 +2597,7 @@ Es sind andere Benutzer an diesem System angemeldet.
   <string name="master_clear_progress_title">Löscht</string>
   <string name="master_clear_summary">Alle Daten auf dem Telefon werden gelöscht</string>
   <string name="master_clear_title">Auf Werkszustand zurücksetzen</string>
+  <string name="max_aspect_settings_all_app_display_loading">Einen Moment…</string>
   <string name="max_cpu10_info">Deca-core Max </string>
   <string name="max_cpu2_info">Dual-core Max</string>
   <string name="max_cpu4_info">Quad-core Max </string>
@@ -3602,15 +3605,16 @@ Betriebssystem auswählen:"</string>
   <string name="privacy_applock">Appsperre</string>
   <string name="privacy_childmode">Kindersicherung</string>
   <string name="privacy_close_dlg_button_ok">Ausschalten</string>
-    <string name="privacy_close_dlg_msg">Wenn das Datenschutz-Passwort ausgeschaltet ist, werden Ihre Objekte nicht mehr geschützt.</string>
+  <string name="privacy_close_dlg_msg">Wenn das Datenschutz-Passwort ausgeschaltet ist, werden Ihre Objekte nicht mehr geschützt.</string>
   <string name="privacy_close_dlg_title">Achtung</string>
   <string name="privacy_delete_space_dlg_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
   <string name="privacy_dlg_button_cancel">Abbrechen</string>
   <string name="privacy_factory_reset_dlg_button_text">Zurücksetzen</string>
-    <string name="privacy_factory_reset_dlg_message">Wenn Sie ihr Passwort vergessen haben, mussen Sie auf den Werkszustand zurücksetzen, um neues Passwort erstellen zu können</string>
+  <string name="privacy_factory_reset_dlg_message">Wenn Sie ihr Passwort vergessen haben, mussen Sie auf den Werkszustand zurücksetzen, um neues Passwort erstellen zu können</string>
   <string name="privacy_factory_reset_dlg_title">Sichern Sie Ihre Daten</string>
   <string name="privacy_file">Dateien</string>
   <string name="privacy_gallery">Fotos</string>
+  <string name="privacy_header_text_less_than_half">Zu wenig Raumplatz für diese App. Ziehen Sie den Separator weiter.</string>
   <string name="privacy_mms">Nachrichten</string>
   <string name="privacy_mode_dialog_message">Nachrichten, Notizen, Fotos, Einstellungen und eingehende Anrufe ausblenden</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
@@ -3906,6 +3910,7 @@ Anwendungsdaten gehen nicht verloren."</string>
   <string name="restrict_background_data_dialog_summary">"Apps die im Hintergrund laufen können keine Nachrichten empfangen. Hintergrunddaten wirklich einschränken?"</string>
   <string name="restrict_background_data_notification_summary">"Wenn die Hintergrunddaten eingeschränkt sind, können sich die Apps nicht mit dem Netzwerk verbinden"</string>
   <string name="restrict_background_data_title">Hintergrunddaten beschränkt</string>
+    <string name="restrict_max_aspect_ratio_title">Das maximale Seitenverhältnis deaktivieren</string>
   <string name="restriction_bluetooth_config_summary">Änderungen an Bluetoothpairings und -einstellungen zulassen</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Apps die Verwendung Ihrer Standortinformationen gestatten</string>
@@ -3996,6 +4001,8 @@ Anwendungsdaten gehen nicht verloren."</string>
   <string name="screen_key_press">Kurzer Tastendruck</string>
   <string name="screen_key_press_action">Auslösefunktion</string>
   <string name="screen_locking_sounds_title">Bildschirmsperrentöne</string>
+    <string name="screen_max_aspect_ratio_desc">Wetterapp kann den Vollbildschirm anzeigen</string>
+    <string name="screen_max_aspect_ratio_title">Max. Seitenverhältnis einstellen</string>
   <string name="screen_monochrome_mode_apps_loading">Einen Moment…</string>
   <string name="screen_monochrome_mode_apps_title">Monochrom-Modus verwenden</string>
   <string name="screen_monochrome_mode_global_summary">Monochrom-Modus für alle Apps verwenden</string>
@@ -4757,8 +4764,10 @@ Wenden Sie sich für weitere Informationen an Ihren Administrator."</string>
   <string name="status_bar_key_position_custom">Benutzerdefinierte Tastenposition</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_desc">Nach unten wischen um die Bildschirmtasten zu verbergen</string>
+  <string name="status_bar_screen_button_force_immersive_desc">Wischen Sie von unten nach oben am Bildschirm, um Soft-Tasten anzuzeigen</string>
   <string name="status_bar_screen_button_key">Virtuelle Tasten anzeigen</string>
   <string name="status_bar_screen_button_key_can_hide">Bildschirmtasten können verborgen werden</string>
+  <string name="status_bar_screen_button_key_force_immersive">Soft-Tasten verbergen</string>
   <string name="status_bar_screen_key_back">Zurücktaste</string>
   <string name="status_bar_screen_key_home">Hometaste</string>
   <string name="status_bar_screen_key_menu">Menütaste</string>
@@ -5431,6 +5440,7 @@ Bitte bereinigen Sie mindestens %s"</string>
   <string name="unlock_set_unlock_summary">Bitte Bildschirmsperre einschalten.</string>
   <string name="unlock_setup_wizard_fingerprint_details">Sobald Sie eine Bildschirmsperre eingerichtet haben, können Sie Ihren Fingerabdruck unter Einstellungen &gt; Sicherheit einrichten.</string>
   <string name="unmount_inform_text">USB-Speicher wird getrennt.</string>
+    <string name="unrestrict_max_aspect_ratio_title">Unterstützung für das maximale Seitenverhältnis</string>
   <string name="unrestricted_app_summary">Im Datensparmodus uneingeschränkten Datenzugriff erlauben</string>
   <string name="unrestricted_app_title">Uneingeschränkte Datennutzung</string>
   <string name="unrestricted_data_saver">Uneingeschränkter Datenzugriff</string>
