@@ -2,104 +2,104 @@
 <resources>
     <!-- To Translate -->
 	<plurals name="add_game_notification_title">
-        <item quantity="other">Added %d games</item>
-        <item quantity="one">Added %d game</item>
+        <item quantity="other">%d Spiele hinzugefügt</item>
+        <item quantity="one">%d Spiel hinzugefügt</item>
      </plurals>
      <plurals name="app_manager_reject_count">
-        <item quantity="other">Blocked %d times</item>
-        <item quantity="one">Blocked %d time</item>
+        <item quantity="other">%d mal blockiert</item>
+        <item quantity="one">%d mal blockiert</item>
      </plurals>
      <plurals name="app_manager_start_count">
-        <item quantity="other">%d times</item>
-        <item quantity="one">%d time</item>
+        <item quantity="other">%d mal</item>
+        <item quantity="one">%d mal</item>
      </plurals>
      <plurals name="app_usage_day">
-        <item quantity="other">Used %d days ago</item>
-        <item quantity="one">Used %d day ago</item>
+        <item quantity="other">Vor %d Tagen verwendet</item>
+        <item quantity="one">Vor %d Tag verwendet</item>
      </plurals>
      <plurals name="app_usage_month">
-        <item quantity="other">Used %d months ago</item>
-        <item quantity="one">Used %d month ago</item>
+        <item quantity="other">Vor %d Monaten verwendet</item>
+        <item quantity="one">Vor %d Monat verwendet</item>
      </plurals>
      <plurals name="app_usage_year">
-        <item quantity="other">Used %d years ago</item>
-        <item quantity="one">Used %d year ago</item>
+        <item quantity="other">Vor %d Jahren verwendet</item>
+        <item quantity="one">Vor %d Jahr verwendet</item>
      </plurals>
      <plurals name="daily_sim_over_limit_dialog_message">
-        <item quantity="other">"You've already used %s daily data limits.
+        <item quantity="other">"Sie haben bereits %s vom täglichen Datenlimit verwendet.
 
-If you turn on mobile data again, your carrier may charge you for additional data."</item>
-        <item quantity="one">"You've already used %s daily data limit.
+Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Daten berechnen."</item>
+        <item quantity="one">"Sie haben bereits %s vom tägliches Datenlimit verwendet.
 
-If you turn on mobile data again, your carrier may charge you for additional data."</item>
+Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Daten berechnen."</item>
      </plurals>
      <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">"You've already used %s daily data limits."</item>
         <item quantity="one">"You've already used %s daily data limit."</item>
      </plurals>
      <plurals name="fw_blocked_count_call">
-        <item quantity="other">%d calls</item>
-        <item quantity="one">%d call</item>
+        <item quantity="other">%d Anrufe</item>
+        <item quantity="one">%d anruf</item>
      </plurals>
      <plurals name="fw_blocked_count_sms">
-        <item quantity="other">%d messages</item>
-        <item quantity="one">%d message</item>
+        <item quantity="other">%d Nachrichten</item>
+        <item quantity="one">%d Nachricht</item>
      </plurals>
      <plurals name="install_game_count_title">
-        <item quantity="other">Added %d games</item>
-        <item quantity="one">Added %d game</item>
+        <item quantity="other">%d Spiele hinzugefügt</item>
+        <item quantity="one">%d Spiel hinzugefügt</item>
      </plurals>
      <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">"Wait for %d seconds and try again. "</item>
-        <item quantity="one">"Wait for %d second and try again. "</item>
+        <item quantity="other">"Warten Sie %d Sekunden und versuchen Sie es erneut. "</item>
+        <item quantity="one">"Warten Sie %d Sekunde und versuchen Sie es erneut. "</item>
      </plurals>
      <plurals name="manual_white_list_header">
-        <item quantity="other">%d exceptions</item>
-        <item quantity="one">%d exception</item>
+        <item quantity="other">%d Ausnahmen</item>
+        <item quantity="one">%d Ausnahme</item>
      </plurals>
      <plurals name="marked_by_others">
-        <item quantity="other">%d other users marked it as</item>
-        <item quantity="one">%d other user marked it as</item>
+        <item quantity="other">%d andere Benutzer markierten es als</item>
+        <item quantity="one">%d anderer Benutzer markierten es als</item>
      </plurals>
      <plurals name="notification_title_cmcc_app_check">
-        <item quantity="other">%d days since last check-up</item>
-        <item quantity="one">%d day since last check-up</item>
+        <item quantity="other">%d Tage seit letzten Prüfung</item>
+        <item quantity="one">%d Tag seit letzten Prüfung</item>
      </plurals>
      <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">"%d apps don't work properly and drain battery"</item>
-        <item quantity="one">"%d app doesn't work properly and drains battery"</item>
+        <item quantity="other">"%d Apps funktionieren nicht richtig und entleeren den Akku"</item>
+        <item quantity="one">"%d App funktioniert nicht richtig und entleert den Akku"</item>
      </plurals>
      <plurals name="st_show_num_keyword">
-        <item quantity="other">%d keywords</item>
-        <item quantity="one">%d keyword</item>
+        <item quantity="other">%d Schlüsselwörter</item>
+        <item quantity="one">%d Schlüsselwort</item>
      </plurals>
      <plurals name="st_show_num_number">
-        <item quantity="other">%d numbers</item>
-        <item quantity="one">%d number</item>
+        <item quantity="other">%d Nummern</item>
+        <item quantity="one">%d Nummer</item>
      </plurals>
      <plurals name="summary_flow_verify">
-        <item quantity="other">"Haven't synced carrier's data usage stats in %d days"</item>
-        <item quantity="one">"Haven't synced carrier's data usage stats in %d day"</item>
+        <item quantity="other">"Die Datennutzungsstatistiken wurden sei %d Tagen nicht mehr synchronisiert"</item>
+        <item quantity="one">"Die Datennutzungsstatistiken wurden sei %d Tag nicht mehr synchronisiert"</item>
      </plurals>
      <plurals name="title_virus_clean">
-        <item quantity="other">Cleared %d viruses</item>
-        <item quantity="one">Cleared %d virus</item>
+        <item quantity="other">%d Viren gelöscht</item>
+        <item quantity="one">%d Virus gelöscht</item>
      </plurals>
      <plurals name="traffic_setting_app_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">%d Apps</item>
+        <item quantity="one">%d App</item>
      </plurals>
      <plurals name="uninstall_game_count_title">
-        <item quantity="other">"Haven't added %d games"</item>
-        <item quantity="one">"Haven't added %d game"</item>
+        <item quantity="other">"%d nicht hinzugefügte Spiele"</item>
+        <item quantity="one">"%d nicht hinzugefügtes Spiel"</item>
      </plurals>
      <plurals name="white_list_risk_app_header">
-        <item quantity="other">Dangerous apps: %d</item>
-        <item quantity="one">Dangerous app: %d</item>
+        <item quantity="other">Gefährliche Apps: %d</item>
+        <item quantity="one">Gefährliche App: %d</item>
      </plurals>
      <plurals name="white_list_trojan_header">
-        <item quantity="other">Trojans: %d</item>
-        <item quantity="one">Trojan: %d</item>
+        <item quantity="other">Trojaner: %d</item>
+        <item quantity="one">Trojaner: %d</item>
      </plurals>	
      <plurals name="hints_traffic_enable_title">
         <item quantity="other">Datenverbrauch für %d Apps wird nicht aufgezeichnet</item>
@@ -175,12 +175,12 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Heruntergeladen von %1$d Leuten</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d views</item>
-        <item quantity="zero">%1$d views</item>
-        <item quantity="one">%1$d views</item>
-        <item quantity="two">%1$d views</item>
-        <item quantity="few">%1$d views</item>
-        <item quantity="many">%1$d views</item>
+        <item quantity="other">%1$d Aufrufe</item>
+        <item quantity="zero">%1$d Aufrufe</item>
+        <item quantity="one">%1$d Aufruf</item>
+        <item quantity="two">%1$d Aufrufe</item>
+        <item quantity="few">%1$d Aufrufe</item>
+        <item quantity="many">%1$d Aufrufe</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d Elemente sind sicher</item>
@@ -240,27 +240,27 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Das Passwort sollte mindestens %d Buchstaben enthalten.</item>
-        <item quantity="one">"Das Passwort sollte mindestens 1 Buchstaben enthalten."</item>
+        <item quantity="one">"Das Passwort sollte mindestens einen Buchstaben enthalten."</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">Das Passwort sollte mindestens %d Kleinbuchstaben enthalten.</item>
-        <item quantity="one">Das Passwort sollte mindestens 1 Kleinbuchstaben enthalten.</item>
+        <item quantity="one">Das Passwort sollte mindestens einen Kleinbuchstaben enthalten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
         <item quantity="other">Das Passwort sollte mindestens %d Großbuchstaben enthalten.</item>
-        <item quantity="one">Das Passwort sollte mindestens 1 Großbuchstaben enthalten.</item>
+        <item quantity="one">Das Passwort sollte mindestens einen Großbuchstaben enthalten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">Das Passwort sollte mindestens %d Ziffern enthalten.</item>
-        <item quantity="one">Das Passwort sollte mindestens 1 Ziffer enthalten.</item>
+        <item quantity="one">Das Passwort sollte mindestens eine Ziffer enthalten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
         <item quantity="other">Das Passwort sollte mindestens %d Sonderzeichen enthalten.</item>
-        <item quantity="one">Das Passwort sollte mindestens 1 Sonderzeichen enthalten.</item>
+        <item quantity="one">Das Passwort sollte mindestens ein Sonderzeichen enthalten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Das Passwort sollte mindestens %d Zeichen enthalten ohne Buchstaben.</item>
-        <item quantity="one">Das Passwort sollte mindestens 1 Zeichen enthalten ohne Buchstaben.</item>
+        <item quantity="one">Das Passwort sollte mindestens ein Zeichen enthalten ohne Buchstaben.</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d Apps gesperrt</item>
@@ -281,7 +281,7 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     </plurals>
     <plurals name="sp_settings_exception_count">
         <item quantity="other">%d Elemente</item>
-        <item quantity="one">1 Element</item>
+        <item quantity="one">Ein Element</item>
     </plurals>
      <plurals name="sp_back_title_text">
         <item quantity="other">%s Zahlungsrisiken</item>
@@ -293,7 +293,7 @@ If you turn on mobile data again, your carrier may charge you for additional dat
      </plurals>
      <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">%s Apps sind nicht geschützt</item>
-        <item quantity="one">%s Apps ist nicht geschützt</item>
+        <item quantity="one">%s App ist nicht geschützt</item>
      </plurals>
      <plurals name="sp_monitored_apps_list_group_enable">
         <item quantity="other">%s Apps sind geschützt</item>
