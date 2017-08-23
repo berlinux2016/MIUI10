@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="invisible_app_groups">
+    <!-- To Translate -->
+	<string-array name="thermal_entries">
+        <item>Default warm control mode</item>
+        <item>Performance first mode</item>
+     </string-array>
+     <string-array name="thermal_summaries">
+        <item>Current default mode</item>
+        <item>Current performance mode</item>
+     </string-array>
+	 
+	<string-array name="invisible_app_groups">
         <item>ausgewählt</item>
         <item>nicht gewählt</item>
     </string-array>

@@ -1,6 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="wifi_status">
+    <!-- To Translate -->
+	<string-array name="cellcular2wifi_entries">
+        <item>Automatically connect</item>
+        <item>Manually connect</item>
+        <item>Always ask</item>
+     </string-array>
+     <string-array name="color_mode_descriptions">
+        <item>Enhanced colors</item>
+        <item>Natural colors as seen by the eye</item>
+        <item>Colors optimized for digital content</item>
+     </string-array>
+     <string-array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+     </string-array>
+     <string-array name="connect_mode_entries">
+        <item>comtible mode</item>
+        <item>high mode</item>
+     </string-array>
+     <string-array name="edge_touch_volume_action">
+        <item>Click adjust - Double click trigger</item>
+        <item>Slip adjust - Slip trigger</item>
+        <item>Click adjust - Click trigger</item>
+        <item>Click adjust - Long Click trigger</item>
+     </string-array>
+     <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+     </string-array>
+     <string-array name="msd_pc_system_install_finish_summary">
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
+        <item>USB mass storage will open automatically when connected to a computer.</item>
+        <item></item>
+     </string-array>
+     <string-array name="msd_pc_system_retry_xp">
+        <item>@string/msd_install_retry_connect</item>
+        <item>Reinstall MiPhoneManager.</item>
+     </string-array>
+     <string-array name="no_cache_clear_package_list">
+        <item></item>
+     </string-array>
+     <string-array name="screen_button_style">
+        <item>Left hand style</item>
+        <item>Right hand style</item>
+     </string-array>
+     <string-array name="security_settings_premium_sms_values">
+        <item>Ask</item>
+        <item>Never allow</item>
+        <item>Always allow</item>
+     </string-array>
+     <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>Quad-core Max 2.15GHz</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_secondary">
+        <item>Snapdragon 820</item>
+        <item>3000mAh(typ)</item>
+        <item>16MP</item>
+        <item>5.15 inches</item>
+        <item>1920 × 1080</item>
+        <item>6.0.1</item>
+     </string-array>
+     <string-array name="usb_configuration_titles">
+        <item>Charging</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>WLAN preferred</item>
+        <item>Cellular preferred</item>
+     </string-array>
+	
+	<string-array name="wifi_status">
         <item></item>
         <item>Suchen…</item>
         <item>Verbinden…</item>
@@ -181,6 +263,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Keinen</item>
         <item>Manuell</item>
+		<item>Proxy Auto-Config</item>
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Aus</item>
@@ -221,6 +304,7 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+		<item>ICCID</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Interner Gerätespeicher</item>
@@ -388,7 +472,8 @@
         <item>ART-Debug-Build verwenden</item>
     </string-array>
 	<string-array name="select_logd_size_summaries">
-        <item>64K pro Log Buffer</item>
+        <item>Aus</item>
+		<item>64K pro Log Buffer</item>
         <item>256K pro Log Buffer</item>
         <item>1M pro Log Buffer</item>
         <item>4M pro Log Buffer</item>
@@ -514,6 +599,7 @@
 	<string-array name="wifi_calling_mode_choices">
         <item>WLAN bevorzugt</item>
         <item>Mobilnetz bevorzugt</item>
+		<item>Nur WLAN</item>
     </string-array>
 	<string-array name="wifi_ssid_type_entries">
         <item>Automatisch verbinden</item>
@@ -771,11 +857,12 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Eigene</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Tastensperre</item>
-        <item>Kindersicherung</item>
-        <item>Dateien</item>
+        <item>Lock screen</item>
+        <item>Privacy password</item>
+        <item>Child mode</item>
+        <item>File Explorer</item>
         <item>App lock</item>
-        <item>Zweitprofil</item>
+        <item>Second space</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Aus</item>
@@ -808,8 +895,6 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Fotos</item>
         <item>Dateien</item>
         <item>Notizen</item>
-        <item>Appsperre</item>
-        <item>Kindersicherung</item>
     </string-array>
      <string-array name="proc_stats_memory_states">
         <item>Normal</item>

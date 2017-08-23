@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="actionbar_unread_messages">
+    <!-- To Translate -->
+	<plurals name="day">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+     </plurals>
+     <plurals name="day_after">
+        <item quantity="other">In %d days</item>
+        <item quantity="one">In %d day</item>
+     </plurals>
+     <plurals name="day_before">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">%d day ago</item>
+     </plurals>
+     <plurals name="month">
+        <item quantity="other">%d months</item>
+        <item quantity="one">%d month</item>
+     </plurals>
+	 
+	<plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d ungelesen</item>
+		<item quantity="one">%1$d ungelesen</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Archiviere diese %1$d Unterhaltungen?</item>

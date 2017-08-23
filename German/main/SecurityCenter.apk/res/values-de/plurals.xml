@@ -1,6 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="hints_traffic_enable_title">
+    <!-- To Translate -->
+	<plurals name="add_game_notification_title">
+        <item quantity="other">Added %d games</item>
+        <item quantity="one">Added %d game</item>
+     </plurals>
+     <plurals name="app_manager_reject_count">
+        <item quantity="other">Blocked %d times</item>
+        <item quantity="one">Blocked %d time</item>
+     </plurals>
+     <plurals name="app_manager_start_count">
+        <item quantity="other">%d times</item>
+        <item quantity="one">%d time</item>
+     </plurals>
+     <plurals name="app_usage_day">
+        <item quantity="other">Used %d days ago</item>
+        <item quantity="one">Used %d day ago</item>
+     </plurals>
+     <plurals name="app_usage_month">
+        <item quantity="other">Used %d months ago</item>
+        <item quantity="one">Used %d month ago</item>
+     </plurals>
+     <plurals name="app_usage_year">
+        <item quantity="other">Used %d years ago</item>
+        <item quantity="one">Used %d year ago</item>
+     </plurals>
+     <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"You've already used %s daily data limits.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
+        <item quantity="one">"You've already used %s daily data limit.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
+     </plurals>
+     <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">"You've already used %s daily data limits."</item>
+        <item quantity="one">"You've already used %s daily data limit."</item>
+     </plurals>
+     <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d calls</item>
+        <item quantity="one">%d call</item>
+     </plurals>
+     <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d messages</item>
+        <item quantity="one">%d message</item>
+     </plurals>
+     <plurals name="install_game_count_title">
+        <item quantity="other">Added %d games</item>
+        <item quantity="one">Added %d game</item>
+     </plurals>
+     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Wait for %d seconds and try again. "</item>
+        <item quantity="one">"Wait for %d second and try again. "</item>
+     </plurals>
+     <plurals name="manual_white_list_header">
+        <item quantity="other">%d exceptions</item>
+        <item quantity="one">%d exception</item>
+     </plurals>
+     <plurals name="marked_by_others">
+        <item quantity="other">%d other users marked it as</item>
+        <item quantity="one">%d other user marked it as</item>
+     </plurals>
+     <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d days since last check-up</item>
+        <item quantity="one">%d day since last check-up</item>
+     </plurals>
+     <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">"%d apps don't work properly and drain battery"</item>
+        <item quantity="one">"%d app doesn't work properly and drains battery"</item>
+     </plurals>
+     <plurals name="st_show_num_keyword">
+        <item quantity="other">%d keywords</item>
+        <item quantity="one">%d keyword</item>
+     </plurals>
+     <plurals name="st_show_num_number">
+        <item quantity="other">%d numbers</item>
+        <item quantity="one">%d number</item>
+     </plurals>
+     <plurals name="summary_flow_verify">
+        <item quantity="other">"Haven't synced carrier's data usage stats in %d days"</item>
+        <item quantity="one">"Haven't synced carrier's data usage stats in %d day"</item>
+     </plurals>
+     <plurals name="title_virus_clean">
+        <item quantity="other">Cleared %d viruses</item>
+        <item quantity="one">Cleared %d virus</item>
+     </plurals>
+     <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+     </plurals>
+     <plurals name="uninstall_game_count_title">
+        <item quantity="other">"Haven't added %d games"</item>
+        <item quantity="one">"Haven't added %d game"</item>
+     </plurals>
+     <plurals name="white_list_risk_app_header">
+        <item quantity="other">Dangerous apps: %d</item>
+        <item quantity="one">Dangerous app: %d</item>
+     </plurals>
+     <plurals name="white_list_trojan_header">
+        <item quantity="other">Trojans: %d</item>
+        <item quantity="one">Trojan: %d</item>
+		
+	<plurals name="hints_traffic_enable_title">
         <item quantity="other">Datenverbrauch für %d Apps wird nicht aufgezeichnet</item>
         <item quantity="one">Datenverbrauch für %d Apps wird nicht aufgezeichnet</item>
     </plurals>

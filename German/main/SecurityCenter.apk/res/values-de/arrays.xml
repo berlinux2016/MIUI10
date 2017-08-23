@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="auto_memory_clean">
+    <!-- To Translate -->
+	<string-array name="sms_report_type">
+        <item>Data Usage</item>
+        <item>Phone balance</item>
+     </string-array>
+     <string-array name="sort_title">
+        <item>Sort by status</item>
+        <item>Sort by app name</item>
+        <item>Sort by usage frequency</item>
+        <item>Sort by used storage</item>
+        <item>Sort by data usage</item>
+        <item>Sort by battery usage</item>
+     </string-array>
+     <string-array name="sort_type">
+        <item>Status</item>
+        <item>App name</item>
+        <item>Usage frequency</item>
+        <item>Used storage</item>
+        <item>Data usage</item>
+        <item>Battery usage</item>
+     </string-array>
+     <string-array name="title_app_info">
+        <item>Installation source</item>
+        <item>Installation time</item>
+        <item>Last update source</item>
+        <item>Last update time</item>
+     </string-array>
+	 
+	<string-array name="auto_memory_clean">
         <item>In 1 Minute</item>
         <item>In 5 Minuten</item>
         <item>In 10 Minuten</item>
@@ -52,7 +80,6 @@
     <string-array name="traffic_type">
         <item>"Mobile Daten "</item>
         <item>"WLAN "</item>
-        <item>"Daten gespeichert "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobile Daten "</item>

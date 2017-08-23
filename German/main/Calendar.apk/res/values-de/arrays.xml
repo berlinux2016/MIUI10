@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
+    <!-- To Translate -->
+	<string-array name="date_calculate_spinner">
+        <item>Forwards</item>
+        <item>Backwards</item>
+     </string-array>
+	<string-array name="reminder_methods_labels">
         <item>Benachrichtigung</item>
         <item>E-Mail</item>
         <item>SMS</item>

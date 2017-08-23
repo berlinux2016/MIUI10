@@ -1,5 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- To Translate -->
+  <string name="app_label">Work profile setup</string>
+     <string name="cancel_setup_and_factory_reset_dialog_cancel">Cancel</string>
+     <string name="cancel_setup_and_factory_reset_dialog_msg">Ending this setup will factory reset your device and take you back to the first screen.</string>
+     <string name="cancel_setup_and_factory_reset_dialog_ok">Reset device</string>
+     <string name="cancel_setup_and_factory_reset_dialog_title">End setup and factory reset?</string>
+     <string name="company_controls_device">Your organization will control this device and keep it secure.</string>
+     <string name="copying_certs">Setting up CA certificates</string>
+     <string name="default_first_meat_user_name">Primary user</string>
+     <string name="default_managed_profile_name">Work profile</string>
+     <string name="default_owned_device_username">User of work device</string>
+     <string name="delete_profile_title">Remove work profile?</string>
+     <string name="device_owner_error_frp">This device is locked by factory reset protection. Contact your IT department.</string>
+     <string name="device_owner_exists">Work profiles can not be setup on a managed device</string>
+     <string name="encrypt_device_text_for_device_owner_setup">"To continue setting up your device, you'll need to encrypt it. This may take some time."</string>
+     <string name="encrypt_device_text_for_profile_owner_setup">"To continue setting up your work profile, you'll need to encrypt your device. This may take some time."</string>
+     <string name="frp_clear_progress_text">Please wait...</string>
+     <string name="frp_clear_progress_title">Erasing</string>
+     <string name="learn_more_label">Learn more button</string>
+     <string name="maximum_user_limit_reached">"Work profile can't be created because you've reached the maximum number of users on your device. Remove at least one user and try again."</string>
+     <string name="mdm_icon_label">%1$s icon</string>
+     <string name="next">Next</string>
+     <string name="opening_paragraph_delete_profile_known_company">This work profile is managed for %s using:</string>
+     <string name="opening_paragraph_delete_profile_unknown_company">A work profile already exists and is managed by:</string>
+     <string name="preprovisioning_error_encryption_not_supported">Your device does not support encryption. Contact your IT department.</string>
+     <string name="provisioning">Provisioning</string>
+     <string name="read_more_delete_profile">Before proceeding, <a href="#read_this_link">read this</a>.</string>
+     <string name="setup_device_encryption">Set up your device. Encryption</string>
+     <string name="setup_device_progress">Set up your device. Showing progress</string>
+     <string name="setup_device_start_setup">Set up your device. Start setup</string>
+     <string name="setup_profile_encryption">Set up your profile. Encryption</string>
+     <string name="setup_profile_progress">Set up your profile. Showing progress</string>
+     <string name="setup_profile_start_setup">Set up your profile. Start setup</string>
+     <string name="setup_work_device">Set up work device</string>
+     <string name="setup_work_profile">Set up work profile</string>
+     <string name="suw_back_button_label">Back</string>
+     <string name="suw_more_button_label">More</string>
+     <string name="suw_next_button_label">Next</string>
+     <string name="the_following_is_your_mdm_for_device">The following app will manage your device:</string>
+     <string name="theft_protection_disabled_warning">To use theft-protection features, you must have a password-protected screen lock for your device.</string>
+     <string name="user_cannot_have_work_profile">This user cannot have a work profile</string>
+     <string name="user_consent_msg">I consent</string>
+     <string name="user_setup_incomplete">User Setup Incomplete</string>
+     <string name="work_profile_setup_continue">Continue</string>
+     <string name="work_profile_setup_later_message">You can set up your work profile later from the device management app used by your organization.</string>
+     <string name="work_profile_setup_later_title">Stop profile setup?</string>
+     <string name="work_profile_setup_stop">Stop</string>
+	 
   <string name="admin_has_ability_to_monitor_device">"Your administrator has the ability to monitor and manage settings, corporate access, apps, and data associated with this device, including network activity and your device's location information."</string>
   <string name="admin_has_ability_to_monitor_profile">"Your administrator has the ability to monitor and manage settings, corporate access, apps and data associated with the profile, including network activity and your device's location information."</string>
   <string name="app_name">Device Provisioner</string>

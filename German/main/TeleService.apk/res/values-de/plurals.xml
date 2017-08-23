@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="remove_numbers_confirm">
+    <!-- To Translate -->
+	<plurals name="auto_answer_summary_delay">
+        <item quantity="other">delay: %s seconds</item>
+        <item quantity="one">delay: %s second</item>
+     </plurals>
+     <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numbers</item>
+        <item quantity="one">%d number</item>
+     </plurals>
+     <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d numbers will be deleted.</item>
+        <item quantity="one">%d number will be deleted.</item>
+     </plurals>
+     <plurals name="pin_attempts">
+        <item quantity="other">"
+%d attempts remaining."</item>
+        <item quantity="one">"
+%d attempt remaining."</item>
+     </plurals>
+	
+	<plurals name="remove_numbers_confirm">
         <item quantity="other">%d Nummern werden gelöscht.</item>
         <item quantity="one">%d Nummer wird gelöscht.</item>
     </plurals>   

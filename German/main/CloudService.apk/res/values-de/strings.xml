@@ -1,5 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- To Translate -->
+  <string name="activate_find_device_success">Find device has been activated.</string>
+     <string name="cloud_find_device_off">Off</string>
+     <string name="cloud_find_device_on">On</string>
+     <string name="find_device_operation_failure_rpc">"Couldn't perform the operation due to RPC error."</string>
+     <string name="find_device_pref_alert_content">"Find device is associated with your Mi Account. You need to set a password or enter the password you've set. Make sure you always remember your Mi Account ID and password. An outgoing SMS may be required to activate this service. Your carrier will charge you for this message. When you switch SIM cards, a message will be sent automatically to reactivate this feature."</string>
+     <string name="find_device_pref_alert_negtive">No thanks</string>
+     <string name="find_device_pref_alert_positive">OK</string>
+     <string name="find_device_pref_alert_title">Remember your Mi Account ID and password</string>
+     <string name="find_device_pref_initializing">Initializing…</string>
+     <string name="micloud_detail_need_charge_or_sleep">Connect charger and turn off screen to sync</string>
+     <string name="micloud_detail_not_syncable">Not syncable</string>
+     <string name="micloud_dialog_sync_now_message">Connect to WLAN to avoid additional mobile data fees</string>
+     <string name="micloud_dialog_sync_now_negative">Not now</string>
+     <string name="micloud_find_device_close_alert_content">"If you turn this feature off, you wan't be able to locate your device in case it's lost."</string>
+     <string name="micloud_find_device_close_alert_negtive">Turn off anyway</string>
+     <string name="micloud_find_device_close_alert_positive">Keep on</string>
+     <string name="micloud_find_device_close_alert_title">Turn off Find device?</string>
+     <string name="micloud_find_device_close_fail">"Couldn't turn off Find device"</string>
+     <string name="micloud_find_device_close_progress">Turning off Find device…</string>
+     <string name="micloud_find_device_guide_alert_content">"Find device is associated with your Mi Account. You need to set a password or enter the password you've set. Make sure you always remember your Mi Account ID and password."</string>
+     <string name="micloud_find_device_guide_alert_negtive">No thanks</string>
+     <string name="micloud_find_device_guide_alert_negtive_activate">No thanks</string>
+     <string name="micloud_find_device_guide_alert_positive">OK</string>
+     <string name="micloud_find_device_guide_alert_title">Remember your Mi Account ID and password</string>
+     <string name="micloud_find_device_verify_button">Reactivate Find device</string>
+     <string name="micloud_find_device_verify_close">Turn off Find device</string>
+     <string name="micloud_find_device_verify_fail">"Couldn't reactivate Find device"</string>
+     <string name="micloud_find_device_verify_progress">Reactivating Find device…</string>
+     <string name="micloud_main_button_activate">Activate</string>
+     <string name="micloud_main_button_authorize">Authorize</string>
+     <string name="micloud_main_button_set_internet">Setting</string>
+     <string name="micloud_main_cancel_sync">Cancel sync</string>
+     <string name="micloud_main_error_activated_fail">Please activate Sim card.</string>
+     <string name="micloud_main_error_network_disallowed">Please ensure the permission of accessing Internet.</string>
+     <string name="micloud_main_error_permission_limit">Please authorize access database permission for micloud.</string>
+     <string name="micloud_main_master_sync_on">Sync on</string>
+     <string name="micloud_main_message_master_sync_off">Auto sync setting is in notification bar.</string>
+     <string name="micloud_main_query_again">Query</string>
+     <string name="micloud_main_resume_sync_soon">Resume sync soon</string>
+     <string name="micloud_main_space_full_message">Upgrade to member will obtain more storage space</string>
+     <string name="micloud_main_sync_need_charge_or_sleep">Connect charger and turn off screen to sync</string>
+     <string name="micloud_main_wait_charge">Waiting for connecting charger</string>
+     <string name="micloud_main_wait_charge_sleep">Waiting for connecting charger and turn off screen</string>
+     <string name="micloud_main_wait_wlan">Waiting for WLAN</string>
+     <string name="micloud_main_wait_wlan_charge">Waiting for WLAN, connecting charger</string>
+     <string name="micloud_main_wait_wlan_charge_sleep">Waiting for WLAN, connecting charger and turn off screen</string>
+     <string name="micloud_notif_content_dirty_data">Details</string>
+  
   <string name="access_denied">Zugriff verweigert</string>
   <string name="account">Konto</string>
   <string name="account_related">Ihr Gerät ist mit einem bestehenden Mi Konto verknüpft(%s). Stellen Sie eine Internetverbindung her, um das Gerät zu verifizieren.</string>

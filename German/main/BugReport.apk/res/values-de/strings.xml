@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+     <!-- To Translate -->
+	 <string name="feedback_contact_info_hint">Phone number/Email</string>
+     <string name="feedback_select_modem_log">Add modem logs</string>
+     <string name="mobile_data_note_dialog_cancel">Wait for WLAN</string>
+     <string name="mobile_data_note_dialog_confirm">Upload</string>
+     <string name="mobile_data_note_dialog_content">Using mobile data to upload logs may generate additional fees.</string>
+     <string name="mobile_data_note_dialog_content_with_file_size">Uploading logs using mobile data connection will require %sMB of data.</string>
+     <string name="mobile_data_note_dialog_title">Data usage warning</string>
+     <string name="module_google_apps">Google apps</string>
+	 
   <string name="action_cancel">Abbrechen</string>
   <string name="action_confirm">Auswählen</string>
   <string name="action_submit">Senden</string>

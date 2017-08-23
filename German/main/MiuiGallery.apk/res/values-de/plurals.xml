@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="confirm_delete_album">
+    <!-- To Translate -->
+	<plurals name="backup_after_hours">
+        <item quantity="other">Resume backup in %d hours</item>
+        <item quantity="one">Resume backup in %d hour</item>
+     </plurals>
+     <plurals name="backup_pause_desc">
+        <item quantity="other">%d photos and videos | Paused</item>
+        <item quantity="one">%d photo or video | Paused</item>
+     </plurals>
+     <plurals name="download_retry_message">
+        <item quantity="other">"Couldn't download %1$d files, check network connection and try again"</item>
+        <item quantity="one">"Couldn't download %1$d file, check network connection and try again"</item>
+     </plurals>
+	 
+	<plurals name="confirm_delete_album">
         <item quantity="other">%1$s Alben löschen (%2$s gesamt)?</item>
         <item quantity="one">Dieses Album löschen (%2$s gesamt)?</item>
     </plurals>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="daily_forcast_drawer_on_top">
+    <!-- To Translate -->
+	<plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s seconds after the feedback</item>
+        <item quantity="one">%1$s second after the feedback</item>
+     </plurals>
+	
+	<plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">%1$s Tage Vorhersage</item>
         <item quantity="one">%1$s Tag Vorhersage</item>
     </plurals>
