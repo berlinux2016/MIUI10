@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <!-- To Translate -->
-	 <string name="back_view_description">Go back</string>
-     <string name="close_dial_pad_description">Close dial pad</string>
-     <string name="select_all_exceed">"Select no more than %1$d, can't select all"</string>
-     <string name="select_exceed">Select no more than %1$d</string>
-     <string name="t9_search_empty_create_contact">New contact</string>
-     <string name="t9_search_empty_edit_contact">Add to contact</string>
-     <string name="t9_search_empty_send_sms">Send message</string>
-     <string name="t9_search_empty_video_call">Video call</string>
-     <string name="unknown_details_new_contact">New contact</string>
-	 
-	 <string name="accessibility_calllog_detail">Anruflistendetails</string>
+     <string name="select_exceed">Select no more than %1$d</string>	 
+     <string name="accessibility_calllog_detail">Anruflistendetails</string>
      <string name="accessibility_contact_detail">Kontaktdetails</string>
      <string name="account_container_title">Importiert von</string>
      <string name="account_default">Telefon</string>
@@ -53,7 +43,7 @@
      <string name="audio_chat">Sprachchat</string>
      <string name="auto_nickname">Auto</string>
      <string name="auto_set_nickname">Auto</string>
-     <string name="back_description">Zurück</string>
+     <string name="back_view_description">Zurück</string>
      <string name="batch_delete">Mehrere löschen</string>
      <string name="blacklist">Blockieren</string>
      <string name="bluetooth_connection_failed_toast">Bluetoothverbindung wurde unterbrochen</string>
@@ -184,6 +174,7 @@
      <string name="click_close">Zum Schließen berühren</string>
      <string name="clip_dialog_title">Kopierte Nummer wählen?</string>
      <string name="close_dial_pad">Tastatur schließen</string>
+     <string name="close_dial_pad_description">Tastatur schließen</string>
      <string name="cloud_antispam_mark">Als Spam markieren</string>
      <string name="cloud_antispam_marked">Markiert</string>
      <string name="cloud_antispam_title">Unbekannte Nummern identifizieren</string>
@@ -1078,7 +1069,8 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
      <string name="search_wipe_data">Organisieren;Kontakte</string>
      <string name="searching_vcard_message">Suche nach vCard-Daten im USB-Speicher…</string>
      <string name="select_all">Alle</string>
-     <string name="select_done">Keine weitere Auswahl möglich</string>
+     <string name="select_all_exceed">"Wähle nicht mehr als %1$d aus. Es können nicht alle ausgewählt werden"</string>
+     <string name="select_exceed">Wähle nicht mehr als %1$d aus</string>
      <string name="select_groups">Gruppen auswählen</string>
      <string name="select_none">Nichts ausgewählt</string>
      <string name="select_show_contacts">Kontaktliste</string>
@@ -1180,16 +1172,19 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
      <string name="strequentList">Favoriten</string>
      <string name="success_message_import_from_account">Kontakt importiert</string>
      <string name="summary_kind_title">Zusammenfassung</string>
+     <string name="t9_search_empty_create_contact">Neuer Kontakt</string>
+     <string name="t9_search_empty_edit_contact">Zu Kontakt hinzufügen</string>
+     <string name="t9_search_empty_send_sms">Sende Nachricht</string>
+     <string name="t9_search_empty_video_call">Video Anruf</string>
      <string name="t9_search_guide_pinyin">Geben Sie 2 und 8 ein, um nach Alan Turing zu suchen</string>
      <string name="t9_search_guide_pinyin_title1">Geben Sie Ziffern ein, um Kontakte zu suchen</string>
      <string name="t9_search_guide_pinyin_title2">Geben Sie 2 und 3 ein, um nach Alan Frank zu suchen</string>
      <string name="t9_search_guide_zhuyin">Geben Sie 2 und 8 ein, um nach Alan Turing zu suchen</string>
      <string name="t9_search_guide_zhuyin_title1">Geben Sie Ziffern ein, um Kontakte zu suchen</string>
      <string name="t9_search_guide_zhuyin_title2">Geben Sie 5 und 6 ein, um nach Jeff Max zu suchen</string>
+
      <string name="take_new_photo">Neues Bild aufnehmen</string>
      <string name="take_photo">Bild aufnehmen</string>
-     <string name="telecom_fraud_insurance">Missbrauchsversicherung fürs Telefon</string>
-     <string name="telecom_fraud_insurance_description">10,000 CNY Versicherung | Exklusives Xiaomi Angebot | 9.9 CNY pro Jahr</string>
      <string name="titleJoinContactDataWith">Kontakte zusammenführen</string>
      <string name="title_other_devices">Andere verfügbare Geräte</string>
      <string name="title_paired_devices">Verbundene Geräte</string>
@@ -1219,6 +1214,8 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
      <string name="unknown">Unbekannt</string>
      <string name="unknown_caller">Unbekannter Anrufer</string>
      <string name="unknown_contact_name">Unbekannter Kontakt</string>
+     <string name="unknown_details_new_contact">Neuer Kontakt</string>
+
      <string name="update_sim_contact_photo_toast">"Kann für SIM-Kontakte keine Profilfotos einfügen"</string>
      <string name="upgrade_in_progress">Kontaktliste wird aktualisiert.</string>
      <string name="upgrade_out_of_memory">"Ihre Kontakte werden momentan aktualisiert. Für den Aktualisierungsvorgang sind ca. %s MB interner Speicher erforderlich. Wählen Sie eine der folgenden Optionen:"</string>
