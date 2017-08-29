@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="favorite_at_time">Starred at: %1s</string>
-     <string name="message_queued_second_space">"Can't send your message right now. Please open data network."</string>
+
+  <string name="favorite_at_time">Favorisiert um: %1s</string>
+     <string name="message_queued_second_space">"Kann die Nachricht zur Zeit nicht senden. Bitte öffnen Sie die Netzwerkverbindung</string>
      <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
      <string name="sms_card_teddy_mobile">Teddy Mobile</string>
-     <string name="sqlite_disk_full">Database or Disk is full</string>
-     <string name="sqlite_low_memory">Low Memory</string>
+     <string name="sqlite_disk_full">Datenbank oder Speicher ist voll</string>
+     <string name="sqlite_low_memory">Wenig Speicherplatz</string>
      <string name="verification_code_icon_name">V</string>
   
   <string name="about_smart_sms_title">Smartnachrichten-Partner</string>
@@ -364,6 +364,7 @@
   <string name="mx_dspt_provision">Mit Mi Nachrichten können Sie kostenlos Nachrichten zwischen MIUI-Benutzern versenden</string>
   <string name="mx_dspt_provision_ex">"Senden Sie Nachrichten und tätigen Sie Anrufe zu anderen MIUI-Benutzern, ohne Gebühren durch Ihrem Anbieter. VoIP wird unterstützt von Weihui. Siehe Weihui's Datenschutzrichtlinien."</string>
   <string name="mx_dspt_provision_ex2">Datenschutzrichtlinien</string>
+
   <string name="mx_enable">Mi Nachrichten</string>
   <string name="mx_enable_ex">Mi Nachrichten &amp; Sprache</string>
   <string name="mx_enable_popup_msg">Senden Sie kostenlos Nachrichten mit anderen Nutzern, die ebenfalls diesen Dienst verwenden</string>
@@ -385,8 +386,8 @@
   <string name="need_download">Wird synchronisiert</string>
   <string name="network_error">Netzwerkfehler</string>
   <string name="networking_allow_continue">OK</string>
-  <string name="networking_allow_desc">Mi Message needs to connect to the internet to work normally. In order to provide free text and voice services, recognize unknown numbers, filter spam, and enable other features, Mi Message needs to use Yellow pages. Allow Yellow pages to connect to the internet, get your location info, and read your contacts?</string>
-    <string name="networking_allow_desc_without_mx">Mi Message needs to connect to the internet to work normally. In order to recognize unknown numbers, filter spam, and enable other features, Mi Message needs to use Yellow pages. Allow Yellow pages to connect to the internet, get your location info, and read your contacts?</string>
+  <string name="networking_allow_desc">Mi Message muss sich mit dem Internet verbinden, um normal zu arbeiten. Um freie Text- und Sprachdienste zur Verfügung zu stellen, unbekannte Nummern zu erkennen, Spam zu filtern und andere Funktionen zu aktivieren, muss Mi Message "Gelbe Seiten“ verwenden. Erlaube "Gelbe Seiten", sich mit dem Internet zu verbinden, dein Standort zu erhalten und deine Kontakte zu lesen?</ String>?</string>
+    <string name="networking_allow_desc_without_mx">Mi Message muss sich mit dem Internet verbinden, um normal zu arbeiten. Um freie Text- und Sprachdienste zur Verfügung zu stellen, unbekannte Nummern zu erkennen, Spam zu filtern und andere Funktionen zu aktivieren, muss Mi Message "Gelbe Seiten“ verwenden. Erlaube "Gelbe Seiten", sich mit dem Internet zu verbinden, dein Standort zu erhalten und deine Kontakte zu lese</string>
   <string name="networking_allow_title">Hinweis</string>
   <string name="new_message">Neue Nachricht</string>
   <string name="new_message_arrived">Sie haben eine neue Nachricht</string>
