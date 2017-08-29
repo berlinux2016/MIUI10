@@ -1,61 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- To Translate -->
 	<plurals name="clockin_day_count">
-        <item quantity="other">Checked in %1$s days in a row, keep going!</item>
-        <item quantity="one">Checked in %1$s day in a row, keep going!</item>
+        <item quantity="other">%1$s Tage in Folge eingecheckt, weiter so!</item>
+        <item quantity="one">%1$s Tag in Folge eingecheckt, weiter so!</item>
      </plurals>
      <plurals name="clockin_days">
-        <item quantity="other">Checked in %1$s days in a row</item>
-        <item quantity="one">Checked in %1$s day in a row</item>
+        <item quantity="other">%1$s Tage in Folge eingecheckt</item>
+        <item quantity="one">%1$s Tag in Folge eingecheckt</item>
      </plurals>
      <plurals name="clockin_new_chip">
-        <item quantity="other">You got &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> points</item>
-        <item quantity="one">You got &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> point</item>
+        <item quantity="other">Sie haben &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> Punkte</item>
+        <item quantity="one">Sie haben &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> Punkt</item>
      </plurals>
      <plurals name="gems">
-        <item quantity="other">%1$s gems</item>
-        <item quantity="one">%1$s gem</item>
+        <item quantity="other">%1$s Edelsteine</item>
+        <item quantity="one">%1$s Edelstein</item>
      </plurals>
      <plurals name="more_gems">
-        <item quantity="other">Collect &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> more gems to participate in the lucky draw.</item>
-        <item quantity="one">Collect &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> more gem to participate in the lucky draw.</item>
+        <item quantity="other">Sammeln Sie &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> mehr Edelsteine um an der Auslosung teilzunehmen.</item>
+        <item quantity="one">Sammeln Sie &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> Edelstein mehr um an der Auslosung teilzunehmen.</item>
      </plurals>
      <plurals name="original_user_days">
-        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> days</item>
-        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> day</item>
+        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> Tage</item>
+        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> Tag</item>
      </plurals>
      <plurals name="original_user_fans">
-        <item quantity="other">• You got &lt;font color=#fc7050>%1$s&lt;/font> followers!</item>
-        <item quantity="one">• You got &lt;font color=#fc7050>%1$s&lt;/font> follower!</item>
+        <item quantity="other">• Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Follower!</item>
+        <item quantity="one">• Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Follower!</item>
      </plurals>
      <plurals name="original_user_play_1">
-        <item quantity="other">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> videos.</item>
-        <item quantity="one">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> video.</item>
+        <item quantity="other">• Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Videos hochgeladen.</item>
+        <item quantity="one">• Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Video hochgeladen.</item>
      </plurals>
      <plurals name="original_user_play_2">
-        <item quantity="other">You made &lt;font color=#fc7050>%1$s&lt;/font> people happy!</item>
-        <item quantity="one">You made &lt;font color=#fc7050>%1$s&lt;/font> person happy!</item>
+        <item quantity="other">Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Personen glücklich gemacht!</item>
+        <item quantity="one">Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Person glüclich gemacht!</item>
      </plurals>
      <plurals name="total_topic_num">
-        <item quantity="other">%1$s topics</item>
-        <item quantity="one">%1$s topic</item>
+        <item quantity="other">%1$s Themen</item>
+        <item quantity="one">%1$s Thema</item>
      </plurals>
      <plurals name="total_user_num">
-        <item quantity="other">%1$s people</item>
-        <item quantity="one">%1$s person</item>
+        <item quantity="other">%1$s Personen</item>
+        <item quantity="one">%1$s Person</item>
      </plurals>
      <plurals name="video_items">
-        <item quantity="other"> %1$d items</item>
-        <item quantity="zero"> %1$d items</item>
-        <item quantity="one"> %1$d item</item>
-        <item quantity="two"> %1$d items</item>
-        <item quantity="few"> %1$d items</item>
-        <item quantity="many"> %1$d items</item>
+        <item quantity="other"> %1$d Gegenstände</item>
+        <item quantity="zero"> %1$d Gegenstände</item>
+        <item quantity="one"> %1$d Gegenstand</item>
+        <item quantity="two"> %1$d Gegenstände</item>
+        <item quantity="few"> %1$d Gegenstände</item>
+        <item quantity="many"> %1$d Gegenstände</item>
      </plurals>
      <plurals name="video_publish_watchable_hint">
-        <item quantity="other">Get %1$d more followers to upgrade your status​</item>
-        <item quantity="one">Get %1$d more follower to upgrade your status</item>
+        <item quantity="other">Bekommen Sie %1$d mehr Follower um Ihren Status zu Upgraden</item>
+        <item quantity="one">Bekommen Sie %1$d mehr Follower um Ihren Status zu Upgraden</item>
      </plurals>
 	 
 	<plurals name="delete_files_confirm">
