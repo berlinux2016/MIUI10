@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="default_debt_msg_words">"This device is locked due to an overdue installment payment.
-Contact your sales agent for details."</string>
-     <string name="default_lock_msg_words">This device is associated with an existing Mi Account. For security reasons, you need to enter password to verify the device.</string>
-     <string name="default_lock_msg_words_with_phone">Hi! I lost my phone. Could you please contact me? Thanks!</string>
-     <string name="find_device_error_access_denied">Access denied.</string>
-     <string name="phone_locked_account_email">, associated email: %s</string>
-     <string name="phone_locked_account_phone">, associated phone number: %s</string>
-     <string name="sys_notification_async_open_failed_content">Tap to try again or cancel.</string>
-     <string name="sys_notification_async_open_failed_title">"Couldn't turn on Find device"</string>
-     <string name="sys_notification_async_verify_content">Our updated Security Policy requires that Find device should be reactivated.</string>
-     <string name="sys_notification_async_verify_title">Reactivate Find device</string>
+
+  <string name="default_debt_msg_words">"Dieses Gerät ist aufgrund einer überfälligen Zahlung gesperrt.
+Kontaktieren Sie ihren Verkäufer für weitere Details."</string>
+     <string name="default_lock_msg_words">Dieses Gerät ist bereits mit einem Mi Account verknüpft. Geben sie das Passwort ein um das Gerät zu Verifizieren.</string>
+     <string name="default_lock_msg_words_with_phone">Hi! Ich habe mein Handy verloren. Würden Sie mich bitte kontaktieren? Vielen Dank!</string>
+     <string name="find_device_error_access_denied">Zugriff verweigert.</string>
+     <string name="phone_locked_account_email">, verknüpfte E-Mail: %s</string>
+     <string name="phone_locked_account_phone">, verknüpfte Telefonnummer: %s</string>
+     <string name="sys_notification_async_open_failed_content">Tippen um es erneut zu versuchen oder abzubrechen.</string>
+     <string name="sys_notification_async_open_failed_title">""Gerät finden" konnte nicht aktiviert werden"</string>
+     <string name="sys_notification_async_verify_content">Unsere aktualisierten Sicherheitsrichtlinien erfordern die Aktivierung von "Gerät finden".</string>
+     <string name="sys_notification_async_verify_title">"Gerät finden" aktivieren/string>
 	 
   <string name="activate_xiaomi_account">Dieses Gerät aktivieren</string>
   <string name="adding_or_updating_account">Konto wird aktualisiert…</string>
