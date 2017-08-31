@@ -2,16 +2,16 @@
 <resources>
 
   <string name="bluetooth_pan_nap_profile_summary_connected">Freigeben der lokalen Internetverbindung mit dem Gerät</string>
-     <string name="callFailed_simError">SIM Karten Fehler</string>
-     <string name="close">Schließen</string>
-     <string name="incall_error_power_off">Schalten Sie den Flugzeugmodus aus, um einen Anruf zu tätigen.</string>
-     <string name="incall_error_supp_service_unknown">"Dieser Dienst wird nicht unterstützt."</string>
-     <string name="oem_unlock_enable_summary">Bootloader entsperrt lassen</string>
-     <string name="vpn_settings_not_available">VPN Einstellungen sind für diesen benutzer nicht vorhanden</string>
-     <string name="wait_for_debugger">Warte auf Debugger</string>
-     <string name="wifi_not_in_range">Nicht in Reichweite</string>
-     <string name="wifi_security_none">Keine</string>
-  
+  <string name="callFailed_simError">SIM Karten Fehler</string>
+  <string name="close">Schließen</string>
+  <string name="incall_error_power_off">Schalten Sie den Flugzeugmodus aus, um einen Anruf zu tätigen.</string>
+  <string name="incall_error_supp_service_unknown">"Dieser Dienst wird nicht unterstützt."</string>
+  <string name="oem_unlock_enable_summary">Bootloader entsperrt lassen</string>
+  <string name="vpn_settings_not_available">VPN Einstellungen sind für diesen benutzer nicht vorhanden</string>
+  <string name="wait_for_debugger">Warte auf Debugger</string>
+  <string name="wifi_not_in_range">Nicht in Reichweite</string>
+  <string name="wifi_security_none">Keine</string>
+
   <string name="accessibility_call_muted">Anruf stummgeschaltet</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Diese Funktion ist experimentell und kann die Leistung beeinträchtigen.</string>
   <string name="accessibility_display_daltonizer_preference_title">Farbkorrektur</string>
@@ -123,10 +123,12 @@
   <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
   <string name="connected_via_wfa">Connected via WLAN assistant</string>
-  <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
- !!Warning!! This will erase all your data.
- This feature is alpha, and may not work correctly.
- Press 'Wipe and convert…' to continue."</string>
+  <string name="convert_to_fbe_warning">
+    "Convert data partition to file based encryption.
+    !!Warning!! This will erase all your data.
+    This feature is alpha, and may not work correctly.
+    Press 'Wipe and convert…' to continue."
+  </string>
   <string name="convert_to_file_encryption">Convert to file encryption</string>
   <string name="convert_to_file_encryption_done">Already file encrypted</string>
   <string name="convert_to_file_encryption_enabled">Convert…</string>

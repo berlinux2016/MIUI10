@@ -1,53 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!-- To Translate -->
-  <string name="air_space_created">Created Work space successfully</string>
-     <string name="air_space_deleted">Deleted Work space successfully</string>
-     <string name="air_space_exit">Exit space</string>
-     <string name="air_space_setting">Space Settings</string>
-     <string name="airspace_users_full">"Couldn't create more Work space"</string>
-     <string name="confirm_airspace_password">Confirm %s password</string>
-     <string name="contact_us">Contact us</string>
-     <string name="create_work_space">Create Work space</string>
-     <string name="current_space">Current space</string>
-     <string name="do_not_ask">不再询问</string>
-     <string name="downloading_space">Downloading…</string>
-     <string name="enter_air_space">Go to Work space</string>
-     <string name="function_not_support">Not supported on this device</string>
-     <string name="gms_message">双开该应用需要依赖谷歌服务,是否同步双开谷歌服务</string>
-     <string name="gms_open_button">开启</string>
-     <string name="gms_title">双开谷歌服务</string>
-     <string name="gpg_message">双开游戏需要依赖谷歌游戏中心应用,是否同步双开谷歌游戏中心应用</string>
-     <string name="gpg_title">双开谷歌游戏中心</string>
-     <string name="invalid_qr_code">Invalid QR code</string>
-     <string name="loading">Just a sec…</string>
-     <string name="need_network_when_create">Connect to the network before creating Work space</string>
-     <string name="need_reset_passwd">Reset Work space password before entering Work space</string>
-     <string name="not_support_air_space">"This feature isn't supported on your phone"</string>
-     <string name="other">Other</string>
-     <string name="reset_passwd_success">Password was reset successfully</string>
-     <string name="same_qr_code_create_space">Create another one</string>
-     <string name="same_qr_code_des">Looks like this Work space already exists. You can use Home screen and Notification shade shortcuts to go there. Go now?</string>
-     <string name="same_qr_code_enter_space">Go to Work space</string>
-     <string name="same_qr_code_title">%s already exists</string>
-     <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
-     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
-     <string name="search_result_text">"Couldn't find any apps"</string>
-     <string name="space_deleted">This space was deleted</string>
-     <string name="space_des_default">Isolated space with encrypted data</string>
-     <string name="space_name_default">Work space</string>
-     <string name="support_desc">Security services provided by Graphite</string>
-     <string name="switch_download_space">Switch Work space</string>
-     <string name="xpsace_guide_button">Create</string>
-     <string name="xspace_guide_des">Use 2 accounts without switching</string>
-     <string name="xspace_guide_title">Create Dual app for %s</string>
-  
+  <string name="air_space_created">Arbeitsbereich erfolgreich geschaffen</string>
+  <string name="air_space_deleted">Arbeitsbereich erfolgreich gelöscht</string>
+  <string name="air_space_exit">Arbeitsbereich verlassen</string>
+  <string name="air_space_setting">Arbeitsbereich Einstellungen</string>
+  <string name="airspace_users_full">"Konnte nicht mehr Speicher schaffen"</string>
+  <string name="confirm_airspace_password">Bestätige %s Passwort</string>
+  <string name="contact_us">Kontakt aufnehmen</string>
+  <string name="create_work_space">Arbeitsbereich erstellen</string>
+  <string name="current_space">Aktueller Speicher</string>
+  <string name="do_not_ask">不再询问</string>
+  <string name="downloading_space">Herunterladen</string>
+  <string name="enter_air_space">Gehe zum Arbeitsbereich</string>
+  <string name="function_not_support">Dieses Gerät wird nicht unterstützt</string>
+  <string name="gms_message">双开该应用需要依赖谷歌服务,是否同步双开谷歌服务</string>
+  <string name="gms_open_button">开启</string>
+  <string name="gms_title">双开谷歌服务</string>
+  <string name="gpg_message">双开游戏需要依赖谷歌游戏中心应用,是否同步双开谷歌游戏中心应用</string>
+  <string name="gpg_title">双开谷歌游戏中心</string>
+  <string name="invalid_qr_code">Ungültiger QR code</string>
+  <string name="loading">Laden…</string>
+  <string name="need_network_when_create">Verbinden Sie sich mit dem Netzwerk, bevor Sie einen Arbeitsbereich erstellen</string>
+  <string name="need_reset_passwd">Reset Work space password before entering Work space</string>
+  <string name="not_support_air_space">"Dieses Feature wird von ihren Telefon nicht unterstützt"</string>
+  <string name="other">Anderer</string>
+  <string name="reset_passwd_success">Passwort wurde erfolgreich zurückgesetzt</string>
+  <string name="same_qr_code_create_space">Erstelle einen weiteren</string>
+  <string name="same_qr_code_des">Looks like this Work space already exists. You can use Home screen and Notification shade shortcuts to go there. Go now?</string>
+  <string name="same_qr_code_enter_space">Gehe zu Arbeitsbereich</string>
+  <string name="same_qr_code_title">%s existieren bereits</string>
+  <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+  <string name="search_result_text">"Konnte keine Apps finden"</string>
+  <string name="space_deleted">Dieser Speicher wurde gelöscht</string>
+  <string name="space_des_default">Isolated space with encrypted data</string>
+  <string name="space_name_default">Arbeitsbereich</string>
+  <string name="support_desc">Security services provided by Graphite</string>
+  <string name="switch_download_space">Switch Work space</string>
+  <string name="xpsace_guide_button">Erstellen</string>
+  <string name="xspace_guide_des">Verwende 2 Accounts ohne umzuschalten</string>
+  <string name="xspace_guide_title">Erstelle DualApp für %s</string>
+
   <string name="Active">Aktiv</string>
   <string name="PassWordGuard">Zweitprofilpasswort</string>
-  <string name="PrivacyContactDes1">"Kontakte werden privat.
-Nachrichten erhalten Sie nur im Zweitprofil."</string>
-  <string name="PrivacyContactDes2">"Wenn Sie private Nachrichten im Hauptprofil verwendet haben,
-wird diese Funktion automatisch im Zweitprofil aktiviert."</string>
+  <string name="PrivacyContactDes1">
+    "Kontakte werden privat.
+    Nachrichten erhalten Sie nur im Zweitprofil."
+  </string>
+  <string name="PrivacyContactDes2">
+    "Wenn Sie private Nachrichten im Hauptprofil verwendet haben,
+    wird diese Funktion automatisch im Zweitprofil aktiviert."
+  </string>
   <string name="add_finger_print">Fingerabdruck hinzufügen</string>
   <string name="appData">Installierte Apps</string>
   <string name="app_name">Security Core Component</string>
@@ -80,8 +84,10 @@ wird diese Funktion automatisch im Zweitprofil aktiviert."</string>
   <string name="confirm_restore">Nicht anzeigen</string>
   <string name="contactData">Kontakte</string>
   <string name="contact_sub_titile_text">Nachrichten werden zwischen beiden Profilen geteilt</string>
-  <string name="contact_titile_text">"Private Nachrichten im Zweitprofil anzeigen
-  um sie jederzeit zu erhalten"</string>
+  <string name="contact_titile_text">
+    "Private Nachrichten im Zweitprofil anzeigen
+    um sie jederzeit zu erhalten"
+  </string>
   <string name="continueButton">Weiter</string>
   <string name="createANewSpace">Erstellen Sie ein zweites, separates Profil.</string>
   <string name="createUserFail">Erstellen fehlgeschlagen</string>
@@ -121,19 +127,25 @@ wird diese Funktion automatisch im Zweitprofil aktiviert."</string>
   <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht gelöscht werden</string>
   <string name="goToSecondSpacce">Zum Zweitprofil wechseln</string>
   <string name="go_on_import">Weiter importieren</string>
-  <string name="guide_contact_sub_title_desc">"Kontakte, die im Zweitprofil angelegt werden, sind privat.
-Nachrichten erhalten Sie nur im Zweitprofil."</string>
+  <string name="guide_contact_sub_title_desc">
+    "Kontakte, die im Zweitprofil angelegt werden, sind privat.
+    Nachrichten erhalten Sie nur im Zweitprofil."
+  </string>
   <string name="guide_contact_suc_sub_title_desc">Nur private Kontakte und Nachrichten werden im Zweitprofil angezeigt</string>
   <string name="guide_contact_suc_title_desc">Erfolgreich eingrichtet</string>
   <string name="guide_contact_title_desc">Private Elemente im Zweitprofil anzeigen?</string>
-  <string name="guide_pwd_detail_title">"Schützen Sie Ihre Daten
-Erreichen Sie das Zweitprofil vom Sperrbildschirm"</string>
+  <string name="guide_pwd_detail_title">
+    "Schützen Sie Ihre Daten
+    Erreichen Sie das Zweitprofil vom Sperrbildschirm"
+  </string>
   <string name="guide_setting_guide_title">Zweitprofil verwalten</string>
   <string name="hidden_app">Zweitprofil</string>
   <string name="imageData">Fotos</string>
   <string name="import_application">Apps importieren</string>
-  <string name="import_application_desc">"Apps ins Zweitprofil importieren.
-Sie können Sie auch separat installieren."</string>
+  <string name="import_application_desc">
+    "Apps ins Zweitprofil importieren.
+    Sie können Sie auch separat installieren."
+  </string>
   <string name="import_contacts">Kontakte importieren</string>
   <string name="import_contacts_desc">Importierte Kontakte als privat markieren</string>
   <string name="import_contacts_suc">Importierte Kontakte</string>
@@ -173,8 +185,10 @@ Sie können Sie auch separat installieren."</string>
   <string name="otherSettings">Andere Einstellungen</string>
   <string name="passWordGuardSummary">Erreichen Sie das Zweitprofil vom Sperrbildschirm mittels Passwort</string>
   <string name="passwordProtect">Passwort</string>
-  <string name="please_diff_finger_print">Verwenden Sie unterschiedliche Fingerabdrücke für Haupt- und Zweitprofil.
-    Andernfalls können Sie das Zweitprofil nicht vom Sperrbildschirm aus erreichen.</string>
+  <string name="please_diff_finger_print">
+    Verwenden Sie unterschiedliche Fingerabdrücke für Haupt- und Zweitprofil.
+    Andernfalls können Sie das Zweitprofil nicht vom Sperrbildschirm aus erreichen.
+  </string>
   <string name="privacyContactsSummary">Private Elemente im Zweitprofil anzeigen</string>
   <string name="privacyContactsTitle">Private Kontakte und Nachrichten</string>
   <string name="private_sms_show_sub_title">Nachrichten Daten zwischen den Profilen synchronisieren​</string>
@@ -191,8 +205,10 @@ Sie können Sie auch separat installieren."</string>
   <string name="retain_src_file">Dateien behalten</string>
   <string name="retain_src_photo">Fotos behalten</string>
   <string name="scanner_fingerprint">Fingerabdruck scannen…</string>
-  <string name="scanner_fingerprint_enter_second">"Zweitprofilfingerabdruck scannen
-    um das Zweitprofil vom Sperrbildschirm aus zu erreichen"</string>
+  <string name="scanner_fingerprint_enter_second">
+    "Zweitprofilfingerabdruck scannen
+    um das Zweitprofil vom Sperrbildschirm aus zu erreichen"
+  </string>
   <string name="scanner_fingerprint_error_tips_desc">Keine Übereinstimmung gefunden. Zweitprofilfingerabdruck hinzufügen?</string>
   <string name="scanner_fingerprint_error_tips_title">Keine Übereinstimmung gefunden</string>
   <string name="scanner_fingerprint_tips_desc">Vorhandenen Fingerabdruck für das Zweitprofil auswählen. Sie können Ihn dann nicht mehr für das Hauptprofil verwenden.</string>
@@ -234,8 +250,10 @@ Sie können Sie auch separat installieren."</string>
   <string name="startTransfer">Verschieben</string>
   <string name="start_input_finger_print">Fingerabdruck hinzufügen</string>
   <string name="start_new_fingerprint">Einen neuen Fingerabdruck hinzufügen</string>
-  <string name="start_new_fingerprint_tips">"Zweitprofilfingerabdruck verwenden
-  um das Zweitprofil vom Sperrbildschirm aus zu erreichen"</string>
+  <string name="start_new_fingerprint_tips">
+    "Zweitprofilfingerabdruck verwenden
+    um das Zweitprofil vom Sperrbildschirm aus zu erreichen"
+  </string>
   <string name="start_setting_guide_desc_title">Es müssen einige Dinge eingerichtet werden</string>
   <string name="summary_switch_apps_settings">Apps für das Zweitprofil auswählen</string>
   <string name="sure_to_use">Bestätigen</string>
