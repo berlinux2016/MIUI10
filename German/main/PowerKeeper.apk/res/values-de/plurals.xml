@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- To Translate -->
 	<plurals name="app_list_total">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">%d Apps</item>
+        <item quantity="one">%d App</item>
      </plurals>
      <plurals name="select_items">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
-     </plurals>
-	 
+        <item quantity="other">%1$d ausgewählt</item>
+        <item quantity="one">%1$d ausgewählt</item>
+     </plurals>	
 	<plurals name="power_config_ultimate_on_count">
        <item quantity="other">%1$d Schritte vom Ultimativmodus entfernt</item>
        <item quantity="one">%1$d Schritt vom UUltimativmodus entfernt</item>
