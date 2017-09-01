@@ -2,15 +2,15 @@
 <resources>
 
   <string name="app_name">Bereitstellung</string>
-     <string name="application_permissions">Anwendungsberechtigungen</string>
-     <string name="cm_terms_title">Mobilfunkbetreibervereinbarung</string>
-     <string name="content_description_language_picker">Wähle Sprache</string>
-     <string name="content_description_miui_version">MIUI 9</string>
-     <string name="desc_extra_international_fingerprint" />
-     <string name="fail_to_generate_qr_code">Fehler beim Erstellen von QR-Code, bitte diese Seite erneut eingeben.</string>
-     <string name="two_dimensional_code_scan">QR Code Scannen</string>
-     <string name="user_strayed_warning">Die Seite ist für die Werksprüfung ausgelegt.</string>
-  
+  <string name="application_permissions">Anwendungsberechtigungen</string>
+  <string name="cm_terms_title">Mobilfunkbetreibervereinbarung</string>
+  <string name="content_description_language_picker">Wähle Sprache</string>
+  <string name="content_description_miui_version">MIUI 9</string>
+  <string name="desc_extra_international_fingerprint" />
+  <string name="fail_to_generate_qr_code">Fehler beim Erstellen von QR-Code, bitte diese Seite erneut eingeben.</string>
+  <string name="two_dimensional_code_scan">QR Code Scannen</string>
+  <string name="user_strayed_warning">Die Seite ist für die Werksprüfung ausgelegt.</string>
+
   <string name="agree">Zustimmen</string>
   <string name="agree_terms">Ich habe die Nutzungsbedingungen und Datenschutzrichtlinien gelesen und stimme beidem zu</string>
   <string name="alert_dialog_btn_close">Deaktivieren</string>
@@ -66,8 +66,10 @@
   <string name="privacy_policy">Datenschutzbestimmungen</string>
   <string name="provision_finish">OK</string>
   <string name="provision_finish_restart">Neustart</string>
-  <string name="provision_inputmethod_policy_description">"
-Datenschutzbestimmung ausgewählter Tastaturen anzeigen"</string>
+  <string name="provision_inputmethod_policy_description">
+    "
+    Datenschutzbestimmung ausgewählter Tastaturen anzeigen"
+  </string>
   <string name="provision_inputmethod_policy_description1">Datenschutzbestimmungen</string>
   <string name="setting_locale">Standort wird eingerichtet…</string>
   <string name="shut_down">Schließen</string>
@@ -77,13 +79,17 @@ Datenschutzbestimmung ausgewählter Tastaturen anzeigen"</string>
   <string name="sim_card_detection_info">Zum Einsetzen der SIM-Karte lesen Sie das Gerätehandbuch</string>
   <string name="sim_dectection_next">Weiter</string>
   <string name="sim_redetection">Erneut überprüfen</string>
-  <string name="skip_underline"><u>Überspringen</u></string>
+  <string name="skip_underline">
+    <u>Überspringen</u>
+  </string>
   <string name="summary_not_set">Nicht eingestellt</string>
   <string name="summary_sim_card">Karte %1$d</string>
   <string name="summary_sim_card_with_operator">Karte %1$d: %2$s</string>
   <string name="terms_of_use">Nutzungsbedingungen</string>
-  <string name="terms_of_use_label">"Ihre Privatsphäre ist uns sehr wichtig. Bitte lesen Sie die Nutzungsbedingungen und Datenschutzrichtlinien, um zu verstehen, welche Informationen wir sammeln, wie wir diese nutzen und welche Möglichkeiten Sie haben.
-Sie müssen die Nutzungsbedingungen und die Datenschutzrichtlinien akzeptieren, bevor Sie MIUI nutzen können."</string>
+  <string name="terms_of_use_label">
+    "Ihre Privatsphäre ist uns sehr wichtig. Bitte lesen Sie die Nutzungsbedingungen und Datenschutzrichtlinien, um zu verstehen, welche Informationen wir sammeln, wie wir diese nutzen und welche Möglichkeiten Sie haben.
+    Sie müssen die Nutzungsbedingungen und die Datenschutzrichtlinien akzeptieren, bevor Sie MIUI nutzen können."
+  </string>
   <string name="title_congratulation">Glückwunsch, jetzt können Sie loslegen!</string>
   <string name="title_fingerprint">Fingerabdruck hinzufügen</string>
   <string name="user_agreement">Nutzervereinbarung</string>

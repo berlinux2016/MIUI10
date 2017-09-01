@@ -1,16 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="default_debt_msg_words">"Dieses Gerät ist aufgrund einer überfälligen Zahlung gesperrt.
-Kontaktieren Sie ihren Verkäufer für weitere Details."</string>
-     <string name="default_lock_msg_words">Dieses Gerät ist bereits mit einem Mi Account verknüpft. Geben sie das Passwort ein um das Gerät zu Verifizieren.</string>
-     <string name="default_lock_msg_words_with_phone">Hi! Ich habe mein Handy verloren. Würden Sie mich bitte kontaktieren? Vielen Dank!</string>
-     <string name="find_device_error_access_denied">Zugriff verweigert.</string>
-     <string name="phone_locked_account_email">, verknüpfte E-Mail: %s</string>
-     <string name="phone_locked_account_phone">, verknüpfte Telefonnummer: %s</string>
-     <string name="sys_notification_async_open_failed_content">Tippen um es erneut zu versuchen oder abzubrechen.</string>
-     <string name="sys_notification_async_open_failed_title">""Gerät finden" konnte nicht aktiviert werden"</string>
-     <string name="sys_notification_async_verify_content">Unsere aktualisierten Sicherheitsrichtlinien erfordern die Aktivierung von "Gerät finden".</string>
-     <string name="sys_notification_async_verify_title">Gerät finden aktivieren</string>
+  <string name="default_debt_msg_words">
+    "Dieses Gerät ist aufgrund einer überfälligen Zahlung gesperrt.
+    Kontaktieren Sie ihren Verkäufer für weitere Details."
+  </string>
+  <string name="default_lock_msg_words">Dieses Gerät ist bereits mit einem Mi Account verknüpft. Geben sie das Passwort ein um das Gerät zu Verifizieren.</string>
+  <string name="default_lock_msg_words_with_phone">Hi! Ich habe mein Handy verloren. Würden Sie mich bitte kontaktieren? Vielen Dank!</string>
+  <string name="find_device_error_access_denied">Zugriff verweigert.</string>
+  <string name="phone_locked_account_email">, verknüpfte E-Mail: %s</string>
+  <string name="phone_locked_account_phone">, verknüpfte Telefonnummer: %s</string>
+  <string name="sys_notification_async_open_failed_content">Tippen um es erneut zu versuchen oder abzubrechen.</string>
+  <string name="sys_notification_async_open_failed_title">""Gerät finden" konnte nicht aktiviert werden"</string>
+  <string name="sys_notification_async_verify_content">Unsere aktualisierten Sicherheitsrichtlinien erfordern die Aktivierung von "Gerät finden".</string>
+  <string name="sys_notification_async_verify_title">Gerät finden aktivieren</string>
   <string name="activate_xiaomi_account">Dieses Gerät aktivieren</string>
   <string name="adding_or_updating_account">Konto wird aktualisiert…</string>
   <string name="app_name">Gerät finden</string>
@@ -34,8 +36,10 @@ Kontaktieren Sie ihren Verkäufer für weitere Details."</string>
   <string name="find_device_noise_title">Gerät finden</string>
   <string name="find_device_notice_p1">Besuchen Sie</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">"um Ihr Gerät zu finden, zu sperren oder wiederherzustellen.
-Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Funktion zu reaktivieren."</string>
+  <string name="find_device_notice_p3">
+    "um Ihr Gerät zu finden, zu sperren oder wiederherzustellen.
+    Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Funktion zu reaktivieren."
+  </string>
   <string name="find_device_stop_noise">OK antippen, um stumm zu schalten</string>
   <string name="find_device_storage_corrupted">Gerätespeicher beschädigt. Ihr Gerät ist jetzt unsicher.</string>
   <string name="find_device_success_title">Gerät finden</string>
@@ -73,14 +77,16 @@ Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Fu
   <string name="unlock_error_unknown">"Anmeldung nicht möglich"</string>
   <string name="unlock_error_user_name">Ungültiger Benutzername</string>
   <string name="unlock_error_wrong_vcode">Der eingegebene Code ist falsch</string>
-  <string name="unlock_help">"Bleiben Sie mit dem Netzwerk verbunden
- Stellen Sie sicher, dass eine gültige SIM-Karte eingelegt ist, und Ihr Gerät nicht mit einem nicht funktionierenden WLAN verbunden ist.
- 
- Passwort vergessen?
- Gehen Sie auf id.mi.com, um Ihr Passwort zurückzusetzen
- 
- Andere Gründe
- Melden Sie sich unter i.mi.com an und versuchen Sie dort, Ihr Gerät zu entsperren."</string>
+  <string name="unlock_help">
+    "Bleiben Sie mit dem Netzwerk verbunden
+    Stellen Sie sicher, dass eine gültige SIM-Karte eingelegt ist, und Ihr Gerät nicht mit einem nicht funktionierenden WLAN verbunden ist.
+
+    Passwort vergessen?
+    Gehen Sie auf id.mi.com, um Ihr Passwort zurückzusetzen
+
+    Andere Gründe
+    Melden Sie sich unter i.mi.com an und versuchen Sie dort, Ihr Gerät zu entsperren."
+  </string>
   <string name="unlock_help_title">Entsperrhilfe:</string>
   <string name="unlock_wrong_captcha">Der eingegebene Code ist falsch</string>
   <string name="unlocking">Aktivierung…</string>

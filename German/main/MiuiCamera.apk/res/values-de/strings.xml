@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, die Zurück- und Lautstärke-Hochtaste gleichzeitig drücken.</string>
-     <string name="screen_on_proximity_sensor_summary">"Bedecken Sie nicht den orangen Bereich"</string>
-  
+  <string name="screen_on_proximity_sensor_summary">"Bedecken Sie nicht den orangen Bereich"</string>
+
   <string name="access_sd_fail">"Kein Zugriff auf USB-Speicher möglich."</string>
   <string name="accessibility_audio_shutter_bg">Auslösergeräusch-Hintergrund</string>
   <string name="accessibility_camera_module_picker">Kameramodusauswahl</string>
@@ -100,14 +100,18 @@
   <string name="find_other_qrcode">cQQ QR-Code suchen</string>
   <string name="flash">Blitz</string>
   <string name="front_camera_hint_text_confirm">Verstanden</string>
-  <string name="front_camera_hint_text_place">Selfies zu machen ist einfacher,
-wenn Sie Ihr Telefon umdrehen</string>
+  <string name="front_camera_hint_text_place">
+    Selfies zu machen ist einfacher,
+    wenn Sie Ihr Telefon umdrehen
+  </string>
   <string name="front_camera_hint_text_rotate">Drehen Sie Ihr Telefon um</string>
-  <string name="groupshot_mode_use_hint">Es werden mehrere Fotos aufgenommen,
-um den besten Gesichtsausdruck in einem Foto festzuhalten</string>
+  <string name="groupshot_mode_use_hint">
+    Es werden mehrere Fotos aufgenommen,
+    um den besten Gesichtsausdruck in einem Foto festzuhalten
+  </string>
   <string name="height">Höhe</string>
   <string name="hibernate_hint">Tippen Sie auf den Bildschirm um die Kamera zu wecken</string>
-  <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>  
+  <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="install_confirmed">Installieren</string>
   <string name="location">Standort</string>
   <string name="message_snap_double_confirm">Aktuell ist beim langen Drücken der Lautstärketaste NFC-Modus eingestellt, möchten Sie dies ersetzen?</string>
@@ -119,7 +123,7 @@ um den besten Gesichtsausdruck in einem Foto festzuhalten</string>
   <string name="pano_dialog_panorama_failed">"Panorama kann nicht gespeichert werden"</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Warten auf vorherigen Panorama zu beenden</string>
-  <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>  
+  <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Richten Sie den Pfeil an der Referenzlinie aus</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Fortsetzen</string>
   <string name="pano_how_to_use_prompt_slow_down">Bitte langsamer</string>
@@ -128,13 +132,15 @@ um den besten Gesichtsausdruck in einem Foto festzuhalten</string>
   <string name="pano_too_fast_prompt">Zu schnell</string>
   <string name="path">Pfad</string>
   <string name="path_settings">Systemanwendungen/Kamera/Einstellungen</string>
-  <string name="portrait_mode_depth_effect_success_hint">Tiefen Effekt</string>  
+  <string name="portrait_mode_depth_effect_success_hint">Tiefen Effekt</string>
   <string name="portrait_mode_lowlight_hint">Mehr Licht erforderlich</string>
   <string name="portrait_mode_too_close_hint">Weiter weg verschieben</string>
   <string name="portrait_mode_too_far_hint">Das Motiv innerhalb von 2,5 m platzieren</string>
-  <string name="portrait_mode_use_hint">"Portrait-Modus hilft Ihnen, den Hintergrund zu verwischen
-mit klareren Hauptkörpern und schönerem Porträt</string>
-  <string name="portrait_with_facebeauty_hint">Verschönern ist jetzt im Hochformat verfügbar</string>  
+  <string name="portrait_mode_use_hint">
+    "Portrait-Modus hilft Ihnen, den Hintergrund zu verwischen
+    mit klareren Hauptkörpern und schönerem Porträt
+  </string>
+  <string name="portrait_with_facebeauty_hint">Verschönern ist jetzt im Hochformat verfügbar</string>
   <string name="pref_advance_settings">Erweiterte Einstellungen</string>
   <string name="pref_audio_focus_entry_front">Vorne</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
@@ -171,7 +177,7 @@ mit klareren Hauptkörpern und schönerem Porträt</string>
   <string name="pref_camera_beautify_entry_6">6</string>
   <string name="pref_camera_beautify_entry_7">7</string>
   <string name="pref_camera_beautify_entry_8">8</string>
-  <string name="pref_camera_beautify_entry_9">9</string>  
+  <string name="pref_camera_beautify_entry_9">9</string>
   <string name="pref_camera_beautify_entry_auto">Aus</string>
   <string name="pref_camera_beautify_entry_close">Aus</string>
   <string name="pref_camera_beautify_entry_high">Hoch</string>
@@ -227,7 +233,7 @@ mit klareren Hauptkörpern und schönerem Porträt</string>
   <string name="pref_camera_exposuretime_entry_32s">32s</string>
   <string name="pref_camera_exposuretime_entry_4">1/4s</string>
   <string name="pref_camera_exposuretime_entry_4s">4s</string>
-  <string name="pref_camera_exposuretime_entry_500">1/500s</string>  
+  <string name="pref_camera_exposuretime_entry_500">1/500s</string>
   <string name="pref_camera_exposuretime_entry_60">1/60s</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
@@ -325,7 +331,7 @@ mit klareren Hauptkörpern und schönerem Porträt</string>
   <string name="pref_camera_portrait_mode_entry_off">Portraitmodus aus</string>
   <string name="pref_camera_portrait_mode_entry_on">Portraitmodus an</string>
   <string name="pref_camera_portrait_mode_title">Portrait</string>
-  <string name="pref_camera_portrait_with_facebeauty_title">Beautify in Portrait mode</string>  
+  <string name="pref_camera_portrait_with_facebeauty_title">Beautify in Portrait mode</string>
   <string name="pref_camera_proximity_lock_summary">Sperren Sie Gesten, wenn sie in einer Tasche platziert werden</string>
   <string name="pref_camera_proximity_lock_title">Taschen Modus</string>
   <string name="pref_camera_raw_title">RAW</string>
@@ -368,7 +374,7 @@ mit klareren Hauptkörpern und schönerem Porträt</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Photo</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Kann den Schnellfotomodus benützen solange der \"Wake with Volume buttons\" an ist."</string>
-  <string name="pref_camera_sound_title">Kameratöne</string>  
+  <string name="pref_camera_sound_title">Kameratöne</string>
   <string name="pref_camera_square_mode_title">Quadrat</string>
   <string name="pref_camera_stereo_default">5</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
@@ -401,7 +407,7 @@ mit klareren Hauptkörpern und schönerem Porträt</string>
   <string name="pref_camera_zoom_mode_entry_wide">Weit</string>
   <string name="pref_camera_zoom_mode_title">Zoom</string>
   <string name="pref_camera_zoom_ratio_tele">200</string>
-  <string name="pref_camera_zoom_ratio_wide">100</string>  
+  <string name="pref_camera_zoom_ratio_wide">100</string>
   <string name="pref_camera_zsl_entry_off">Aus</string>
   <string name="pref_camera_zsl_entry_on">An</string>
   <string name="pref_capture_settings">Kameraeinstellungen</string>
@@ -410,7 +416,7 @@ mit klareren Hauptkörpern und schönerem Porträt</string>
   <string name="pref_front_mirror_entry_auto">Wenn Gesicht erkannt wird</string>
   <string name="pref_front_mirror_entry_off">Aus</string>
   <string name="pref_front_mirror_entry_on">An</string>
-  <string name="pref_front_mirror_label_auto">Auto</string>  
+  <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Frontkamera spiegeln</string>
   <string name="pref_groupshot_with_primitive_title">Einfache Bilder im Gruppenmodus speichern</string>
   <string name="pref_manual_exposure_title">Belichtung</string>
@@ -420,14 +426,14 @@ mit klareren Hauptkörpern und schönerem Porträt</string>
   <string name="pref_setting_title">Einstellungen</string>
   <string name="pref_simple_hdr_entry_off">Aus</string>
   <string name="pref_simple_hdr_entry_on">An</string>
-  <string name="pref_skin_beautify_color_default">4</string>  
+  <string name="pref_skin_beautify_color_default">4</string>
   <string name="pref_skin_beautify_color_title">Farbe</string>
   <string name="pref_skin_beautify_eye_default">2</string>
   <string name="pref_skin_beautify_eye_title">Augen</string>
   <string name="pref_skin_beautify_intelligent_title">Intelligent</string>
-  <string name="pref_skin_beautify_slim_default">3</string>  
+  <string name="pref_skin_beautify_slim_default">3</string>
   <string name="pref_skin_beautify_slim_title">Schmal</string>
-  <string name="pref_skin_beautify_smooth_default">5</string>  
+  <string name="pref_skin_beautify_smooth_default">5</string>
   <string name="pref_skin_beautify_smooth_title">Weich</string>
   <string name="pref_video_captrue_ability_title">Aufnahmeoptionen</string>
   <string name="pref_video_focusmode_entry_auto">Tippen</string>
@@ -471,7 +477,7 @@ mit klareren Hauptkörpern und schönerem Porträt</string>
   <string name="simple_mode_button_asd_hdr">HDR-Kamera beenden</string>
   <string name="simple_mode_button_text_audio_capture">Audiotrigger beenden</string>
   <string name="simple_mode_button_text_color_effect">Filter beenden</string>
-  <string name="simple_mode_button_text_delay_capture">Selbstauslöser beenden</string>  
+  <string name="simple_mode_button_text_delay_capture">Selbstauslöser beenden</string>
   <string name="simple_mode_button_text_face_beauty">Verschönern beenden</string>
   <string name="simple_mode_button_text_fast_video">Zeitlupe beenden</string>
   <string name="simple_mode_button_text_fisheye">Fischauge beenden</string>
@@ -514,7 +520,7 @@ mit klareren Hauptkörpern und schönerem Porträt</string>
   <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse, sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Objekte enthalten</string>
   <string name="video_reach_size_limit">Maximale Größe erreicht.</string>
   <string name="video_camera_label">Camcorder</string>
-  <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>  
+  <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="wait">Abwarten</string>
   <string name="width">Breite</string>
 </resources>

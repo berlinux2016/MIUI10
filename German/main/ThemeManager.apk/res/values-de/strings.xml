@@ -2,26 +2,26 @@
 <resources>
   <!-- To Translate -->
   <string name="can_not_apply">Can not apply</string>
-     <string name="card_data_request_error">Data request exception, please try again later~</string>
-     <string name="card_loading">Loading…</string>
-     <string name="card_no_network">No network now, please connect and try again~</string>
-     <string name="card_retry">Retry</string>
-     <string name="find_more_wallpapers">Find more</string>
-     <string name="in_the_end">No more</string>
-     <string name="item_resource_audio_divider">│</string>
-     <string name="item_resource_audio_optional_alarm_ring">alarm ring</string>
-     <string name="item_resource_audio_optional_color_ring">color ring</string>
-     <string name="item_resource_audio_optional_notification_ring">notification ring</string>
-     <string name="item_resource_audio_optional_phone_ring">phone ring</string>
-     <string name="online_precust_dreams">Dreams</string>
-     <string name="online_precust_midnight">Midnight</string>
-     <string name="resource_ring_ranking_list_divider">-</string>
-     <string name="resource_ring_ranking_list_rank_1">1</string>
-     <string name="resource_ring_ranking_list_rank_2">2</string>
-     <string name="resource_ring_ranking_list_rank_3">3</string>
-     <string name="ringtone_set_success">Set successfully</string>
-     <string name="wallpaper_apply">Apply</string>
-  
+  <string name="card_data_request_error">Data request exception, please try again later~</string>
+  <string name="card_loading">Loading…</string>
+  <string name="card_no_network">No network now, please connect and try again~</string>
+  <string name="card_retry">Retry</string>
+  <string name="find_more_wallpapers">Find more</string>
+  <string name="in_the_end">No more</string>
+  <string name="item_resource_audio_divider">│</string>
+  <string name="item_resource_audio_optional_alarm_ring">alarm ring</string>
+  <string name="item_resource_audio_optional_color_ring">color ring</string>
+  <string name="item_resource_audio_optional_notification_ring">notification ring</string>
+  <string name="item_resource_audio_optional_phone_ring">phone ring</string>
+  <string name="online_precust_dreams">Dreams</string>
+  <string name="online_precust_midnight">Midnight</string>
+  <string name="resource_ring_ranking_list_divider">-</string>
+  <string name="resource_ring_ranking_list_rank_1">1</string>
+  <string name="resource_ring_ranking_list_rank_2">2</string>
+  <string name="resource_ring_ranking_list_rank_3">3</string>
+  <string name="ringtone_set_success">Set successfully</string>
+  <string name="wallpaper_apply">Apply</string>
+
   <string name="account_id_not_login">Zum Anmelden berühren</string>
   <string name="account_info">Mi Konto</string>
   <string name="account_name_not_login">Anmelden</string>
@@ -124,7 +124,7 @@
   <string name="loading">Wird geladen…</string>
   <string name="loading_resource_detail_fail">Laden der Quelle fehlgeschlagen</string>
   <string name="loading_resource_detail_info">Wird geladen…</string>
-  <string name="local_photos">Lokale Fotos</string>  
+  <string name="local_photos">Lokale Fotos</string>
   <string name="local_resouce_creator_name">Entwickler: %1$s</string>
   <string name="lockscreen_apply_failured">Hintergund für Sperrbildschirm kann nicht angewendet werden</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">Hintergrund für Startbildschirm wurde angewendet aber konnte nicht für Sperrbildschirm angewendet werden</string>
@@ -160,7 +160,7 @@
   <string name="purchased_list_current">MIUI 8</string>
   <string name="purchased_list_format">%1$s gekauft</string>
   <string name="purchased_list_legacy">Alte Themen</string>
-  <string name="recently_used">Zuletzt verwendet</string>  
+  <string name="recently_used">Zuletzt verwendet</string>
   <string name="reload">Noch einmal versuchen</string>
   <string name="resource_account_abnormal_state">Anmeldefehler. Versuchen Sie es später erneut.</string>
   <string name="resource_account_fail_to_add">Konto hinzufügen fehlgeschlagen</string>
@@ -277,7 +277,9 @@
   <string name="resource_menu_refresh">Aktualisieren</string>
   <string name="resource_mute">Keine</string>
   <string name="resource_my">Offline</string>
-  <string name="resource_network_diagnostics"><u>Netzwerkdiagnose</u></string>
+  <string name="resource_network_diagnostics">
+    <u>Netzwerkdiagnose</u>
+  </string>
   <string name="resource_no_match_app">Keine App konnte gefunden werden, die diese Aktion ausführen kann</string>
   <string name="resource_no_network_text">Kann sich nicht mit dem Netzwerk verbinden.</string>
   <string name="resource_no_result">Hab nichts gefunden</string>
@@ -368,11 +370,11 @@
   <string name="sdcard_not_mounted_dialog_message">SD-Karte einlegen</string>
   <string name="sdcard_not_mounted_dialog_title">Keine SD-Karte gefunden</string>
   <string name="search_hint_header_text">Schlüsselwörter</string>
-  <string name="search_hot_variety">Unterhaltung</string>  
+  <string name="search_hot_variety">Unterhaltung</string>
   <string name="selected_resource_file_invalid">Ausgewählte Datei fehlerhaft</string>
   <string name="settings">Einstellungen</string>
   <string name="short_ringtone_resource">Kurz</string>
-  <string name="system_precust">System spezifisch</string>  
+  <string name="system_precust">System spezifisch</string>
   <string name="the_picture_is_not_support">Das Bild wird nicht unterstützt</string>
   <string name="the_picture_is_too_small">Das Bild ist zu klein</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>

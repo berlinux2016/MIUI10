@@ -2,387 +2,397 @@
 <resources>
   <!-- To Translate -->
   <string name="access_control_failed_need_to_unlock_nofingerprint">Passwort ist erforderlich, um Apps zu öffnen</string>
-     <string name="access_control_fingerprint_not_identified_msg">"Couldn't read fingerprint."</string>
-     <string name="add_whitelist">Add to exceptions</string>
-     <string name="app_error_tip_for_launcher">"Your device's hardware components or Android system version may cause compatibility issues and make some apps misbehave, freeze, or be force stopped. If you encounter such issues, share your feedback with the app developers."</string>
-     <string name="app_error_tip_for_store">"Your device's hardware components or Android system version may cause compatibility issues which may result in failing to install some apps. If you encounter such issues or some apps misbehave, freeze, or are being force stopped, ​wait until the app developers fix bugs and try installing the app again."</string>
-     <string name="app_manager_clear_data_dlg_title">Delete app data?</string>
-     <string name="app_manager_clear_failed_dlg_message">Couldn’t clear data for app.</string>
-     <string name="app_manager_clear_failed_dlg_title">Clear data</string>
-     <string name="app_manager_have_not_consume">None</string>
-     <string name="app_manager_hide_system_server">Hide system services</string>
-     <string name="app_manager_net_control_title">Restrict data usage</string>
-     <string name="app_manager_net_mobile">Data</string>
-     <string name="app_manager_net_wifi">WLAN</string>
-     <string name="app_manager_notify_bar">Badges</string>
-     <string name="app_manager_notify_floating">Floating notifications</string>
-     <string name="app_manager_notify_keyguard">Lock screen</string>
-     <string name="app_manager_pref_ads">Recommendations</string>
-     <string name="app_manager_show_all_apps">Show all apps</string>
-     <string name="app_manager_system_mobile_disable">Turn off data</string>
-     <string name="app_managere_not_have_app">Empty</string>
-     <string name="app_manger_des_separator">", "</string>
-     <string name="application_item_already_permission">Allowed</string>
-     <string name="application_item_disable">Restricted</string>
-     <string name="applock_bind_account_title">Resetting your password</string>
-     <string name="applock_header_text_less_than_half">Too little space for this app. Drag the separator further.</string>
-     <string name="auto_clean_close">Automatic cleanups are off</string>
-     <string name="auto_import_games">Put all your games in one place</string>
-     <string name="auto_task_edit_step1">1.</string>
-     <string name="auto_task_edit_step2">2.</string>
-     <string name="backsound_set_hint">Set your away message to %s?</string>
-     <string name="best_booster_status">Gaming speed is the best available now.</string>
-     <string name="boost_done">Boosted successfully</string>
-     <string name="booster_suc">Boosted successfully</string>
-     <string name="boostering">Boosting speed…</string>
-     <string name="boosting">Boosting speed…</string>
-     <string name="btn_back">Back</string>
-     <string name="byteShort">B</string>
-     <string name="call_address">Bereiche Sperrliste</string>
-     <string name="call_blacklist">Anruf Sperrliste</string>
-     <string name="call_cloud_block">Cloud Sperrliste</string>
-     <string name="call_contact_block">Blockieren von Anrufen von Kontakten</string>
-     <string name="call_prefix">Präfix-Blockliste</string>
-     <string name="call_private">Blockiere Anrufe von unterdrückten Nummern</string>
-     <string name="call_stranger_block">Blockieren von Anrufen von Fremden</string>
-     <string name="card_main_deepclean_qq_title">QQ cleaner</string>
-     <string name="card_main_optimize_manage_action">Boost jetzt</string>
-     <string name="card_main_optimize_manage_summary">Löschen Sie den Cache, um Ihr Gerät zu beschleunigen</string>
-     <string name="card_main_optimize_manage_title">Geschwindigkeit erhöhen</string>
-     <string name="confirm_prompt_all_permission">Ask for permissions for all apps?</string>
-     <string name="cpu_usage_android_system">Android System</string>
-     <string name="cpu_usage_app_bg_restrict_default">Auto (recommended)</string>
-     <string name="cpu_usage_app_bg_restrict_default_short">Auto</string>
-     <string name="cpu_usage_app_bg_restrict_full">Restrict background activity</string>
-     <string name="cpu_usage_app_bg_restrict_no_limit">"Don't restrict"</string>
-     <string name="cpu_usage_app_bg_restrict_partly">After %s</string>
-     <string name="cpu_usage_app_bg_restrict_partly_short">After%s</string>
-     <string name="cpu_usage_app_bg_restrict_title">Background settings</string>
-     <string name="cpu_usage_app_tip_can_not_restrict_system_app">"Can't restrict system services"</string>
-     <string name="cpu_usage_app_uninstalled_toast">This app is uninstalled</string>
-     <string name="cpu_usage_process_run_time_little_time">Less than 1 minute</string>
-     <string name="cpu_usage_view_action_btn_text">Tap to view</string>
-     <string name="create_shortcut">Create a Home screen shortcut for Game speed booster</string>
-     <string name="demo_number">241</string>
-     <string name="dialog_text">Create a Home screen shortcut for Game speed booster</string>
-     <string name="dlg_add_blacklist">Block this number?</string>
-     <string name="dlg_add_blacklist_title">Add to blacklist</string>
-     <string name="dlg_add_keyword">Add keywords</string>
-     <string name="dlg_antispam_mode_delete_message">"You can't recover rules after they've been deleted."</string>
-     <string name="dlg_antispam_mode_delete_title">Delete rules?</string>
-     <string name="dlg_antispam_using_mode_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
-     <string name="dlg_antispam_using_mode_international_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
-     <string name="dlg_black_address_antispam_message">Add this location to blacklist?</string>
-     <string name="dlg_black_antispam_hint">Blacklist</string>
-     <string name="dlg_black_antispam_message">Add this number to blacklist?</string>
-     <string name="dlg_clear_all_call">Clear blocked calls?</string>
-     <string name="dlg_clear_all_ok">Clear all</string>
-     <string name="dlg_clear_all_sms">Delete blocked messages?</string>
-     <string name="dlg_clear_current_call">Clear all blocked calls from this number?</string>
-     <string name="dlg_clear_current_ok">Clear</string>
-     <string name="dlg_clear_current_sms">Delete all blocked messages sent from this number?</string>
-     <string name="dlg_delete_keyword">Clear selected keywords?</string>
-     <string name="dlg_edit_keyword">Edit keywords</string>
-     <string name="dlg_import_blacklist">Adding…</string>
-     <string name="dlg_import_whitelist">Adding…</string>
-     <string name="dlg_keyword_ok">Save</string>
-     <string name="dlg_message_not_open_stranger_identify">To turn this feature on, go to Settings > Phone.</string>
-     <string name="dlg_no_block">Unblock this number and restore calls from this number to call history?</string>
-     <string name="dlg_no_block_ok">Unblock</string>
-     <string name="dlg_remove_address_blacklist">Remove this location from blacklist?</string>
-     <string name="dlg_remove_address_whitelist">Remove this location from exceptions?</string>
-     <string name="dlg_remove_blacklist">Remove these numbers from blacklist?</string>
-     <string name="dlg_remove_blacklist_ing">Removing…</string>
-     <string name="dlg_remove_blacklist_title">Remove</string>
-     <string name="dlg_remove_ok">Remove</string>
-     <string name="dlg_remove_whitelist">Remove these numbers from exceptions?</string>
-     <string name="dlg_remove_whitelist_ing">Removing…</string>
-     <string name="dlg_remove_whitelist_title">Remove</string>
-     <string name="dlg_title_not_open_stranger_identify">Caller ID</string>
-     <string name="dlg_white_address_antispam_message">Add this location to exceptions?</string>
-     <string name="dlg_white_antispam_hint">Exceptions</string>
-     <string name="dlg_white_antispam_message">Add this number to exceptions?</string>
-     <string name="do_clean">Clearing…</string>
-     <string name="dont_bore">"Don't let buttons and notifications distract you"</string>
-     <string name="dont_bore_text">Silence notifications and turn off buttons to remove distractions</string>
-     <string name="dont_bore_title">DND mode</string>
-     <string name="email">Email</string>
-     <string name="empty_activity_title">" "</string>
-     <string name="firewall_allow_all">Allow all apps to connect using the following method</string>
-     <string name="firewall_allow_data">Allow mobile data usage</string>
-     <string name="firewall_allow_wlan">Allow using WLAN connection</string>
-     <string name="firewall_mobile_dialog_message">"The installed app won't be able to connect to the internet using mobile data when this switch is off."</string>
-     <string name="firewall_partial">Allow some apps to connect using the following method​</string>
-     <string name="firewall_restrict_all">Restrict connection for all apps using the following method</string>
-     <string name="firewall_restrict_data">Restrict mobile data usage</string>
-     <string name="firewall_restrict_wlan">Restrict using WLAN connection</string>
-     <string name="firewall_wifi_dialog_message">"The installed app won't be able to connect to the internet using WLAN when this switch is off.​"</string>
-     <string name="forget_password_button_text_normal">Forgot password</string>
-     <string name="free_send_net_booster">Free Network speed boost</string>
-     <string name="free_send_net_booster_tip">Enjoy smooth gaming with the free Network speed boost.</string>
-     <string name="function_close">Off</string>
-     <string name="game_booster">Game speed booster</string>
-     <string name="game_booster_intro">About Game speed booster</string>
-     <string name="game_booster_title">Boost</string>
-     <string name="game_improve_text1">Clear background cache to free up memory for gaming</string>
-     <string name="game_improve_text2">Clear background cache to free up memory for gaming and improve CPU performance</string>
-     <string name="game_improve_title">Optimize performance</string>
-     <string name="game_more_improve">Restrict background activities and download speed to save battery and bandwidth for gaming</string>
-     <string name="game_net_text1">Limit background download speed to reduce network delay</string>
-     <string name="game_net_text2">"Boost the game's connection speed while limiting background download speed to reduce network delay"</string>
-     <string name="game_net_title">Optimize connection speed</string>
-     <string name="game_setting">Game settings</string>
-     <string name="gamebooster_network_dialog_message">Allow Security to connect to the network in order to use all features of the Game speed booster?</string>
-     <string name="gamebooster_network_dialog_title">"Some features aren't available"</string>
-     <string name="get_sys_info">Getting info…</string>
-     <string name="google_base_app_install_choice">\"%s\" requires Google Service Framework apps to work normally, download and install them?</string>
-     <string name="gs_anto_clean_memory_whitelist">Exceptions</string>
-     <string name="gs_app_back_self_start">Battery saver</string>
-     <string name="gs_auto_clean_memory">Clear cache</string>
-     <string name="gs_auto_clean_memory_detail">Clear cache automatically to optimize gaming</string>
-     <string name="gs_dialog_confirm_close_msg">The shortcut will be removed from your Home screen. Go to Security > Settings to restore it.</string>
-     <string name="gs_dialog_confirm_close_title">Turn off</string>
-     <string name="gs_game_disturb_msg">DND</string>
-     <string name="gs_game_duration">Time</string>
-     <string name="gs_game_net_priority">Connection priority</string>
-     <string name="gs_game_net_priority_detail">Limit download speed to have enough bandwidth for gaming</string>
-     <string name="gs_game_performance">Performance</string>
-     <string name="gs_game_shortcut">Enjoy a more fluid game experience</string>
-     <string name="gs_only_self_start_for_list">Restrict background processes to save battery for gaming</string>
-     <string name="gs_open_game_booster">Boost speed</string>
-     <string name="gs_performance_mode">Performance mode</string>
-     <string name="gs_performance_mode_detail">Increase CPU usage to ensure seamless performance</string>
-     <string name="hints_scan_result_no_finish">"Scan isn't finished. Tap to start over."</string>
-     <string name="i_know">Got it</string>
-     <string name="im">IM</string>
-     <string name="install">Install</string>
-     <string name="intro_improve">Boost your gaming experience on a system level</string>
-     <string name="intro_skip">Skip</string>
-     <string name="item_system_auto_download">Download updates automatically</string>
-     <string name="keywords_app_permissions">Permissions;Location;Access contacts;Permissions;App permissions</string>
-     <string name="keywords_auto_restart">Autostart; Permissions;Auto start;Autostart; Manage autostart; MIUI autostart; App autostart; autostart apps;Chain start;chained start;triggered start</string>
-     <string name="keywords_buy_flow">data;mobile data;buy data;buy mobile data;topup data;data plan</string>
-     <string name="keywords_usb_install">USB install;install from computer;ADB install</string>
-     <string name="loading">Just a sec…</string>
-     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">"Couldn't recognize fingerprint, try again."</string>
-     <string name="lockpattern_access_need_to_unlock_wrong_pattern">Password is incorrect, try again.</string>
-     <string name="loding">Loading data</string>
-     <string name="log_count">(%d)</string>
-     <string name="low_memory_warning_dialog_cancel_button">Cancel</string>
-     <string name="low_memory_warning_dialog_msg">Free up space on your device to continue</string>
-     <string name="low_memory_warning_dialog_ok_button">Clear</string>
-     <string name="low_memory_warning_dialog_title">Not enough free space</string>
-     <string name="main_button_usage_adjusting_bill">Changing…</string>
-     <string name="main_used_bill">%s CNY</string>
-     <string name="man_add_application">Add autostart apps manually</string>
-     <string name="mark_time_text">%d</string>
-     <string name="memory_clean_btn_click_text">Boost speed</string>
-     <string name="memory_clean_cleaning_title">Clearing cache</string>
-     <string name="memory_clean_click_tip">Boost speed</string>
-     <string name="memory_clean_memory_size_tip">Cache</string>
-     <string name="memory_clean_no_need_clean">Everything looks good</string>
-     <string name="memory_clean_no_running_process">No tasks to clear</string>
-     <string name="memory_clean_running_process_title">Monitoring apps (%d)</string>
-     <string name="memory_cleaned_memory_info">Available memory</string>
-     <string name="memory_cleaned_memory_up">Speed boost</string>
-     <string name="memory_clear_unused">Clear cache (%s)</string>
-     <string name="menu_item_install_debug_package">Install debug package</string>
-     <string name="menu_text_networkassistants_data">%1$s%2$s</string>
-     <string name="menu_text_networkassistants_unit_b">B</string>
-     <string name="menu_text_networkassistants_unit_gb">GB</string>
-     <string name="menu_text_networkassistants_unit_kb">KB</string>
-     <string name="menu_text_networkassistants_unit_mb">MB</string>
-     <string name="menu_text_optimize_manage">Boost speed</string>
-     <string name="modify_password_mode"><u>Change password type</u></string>
-     <string name="more_game">More games</string>
-     <string name="name">Name</string>
-     <string name="net_booster">Network speed boost</string>
-     <string name="net_booster_expire_notification">Network speed boost session is about to end</string>
-     <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
-     <string name="net_booster_overdue_notification">Network speed boost session is about to end</string>
-     <string name="net_booster_overdue_notification_tip">Network speed boost session will end soon. Renew the session?</string>
-     <string name="net_booster_tip">Turn on Network speed boost to make WLAN connection more stable and reduce network delay.</string>
-     <string name="net_booster_title">Network speed boost</string>
-     <string name="net_boosting">Boosting speed…</string>
-     <string name="net_delay_title">Delay</string>
-     <string name="net_overdue">Session ended</string>
-     <string name="nickname">Nickname</string>
-     <string name="no_game">"Couldn't find games"</string>
-     <string name="note">Note</string>
-     <string name="om_btn_text_quick_fix">Optimize</string>
-     <string name="om_cpu_overload_activity_title">Apps with high CPU usage</string>
-     <string name="om_cpu_overload_app_fixed">All issues were fixed</string>
-     <string name="om_cpu_overload_app_name">Apps with high CPU usage</string>
-     <string name="om_cpu_overload_detail">Used %1$s of CPU capacity for %2$s</string>
-     <string name="om_cpu_overload_proc_activity_title">Issues</string>
-     <string name="om_cpu_overload_proc_title">Issues</string>
-     <string name="om_cpu_usage_warn_title_text">"This app may slow down
-your device"</string>
-     <string name="om_formatted_percent_string">%s%%</string>
-     <string name="om_ill_proc_activity_title">Issues</string>
-     <string name="om_ill_proc_handle_uninstall_prompt">Uninstall this app to fix battery usage issues.</string>
-     <string name="om_ill_proc_handle_unstaill_title">Uninstall %s?</string>
-     <string name="om_ill_proc_type_alarm_detail">Fix background activity issues</string>
-     <string name="om_ill_proc_type_alarm_title">The app wakes the device frequently and drains battery</string>
-     <string name="om_ill_proc_type_cpu_detail">Fix CPU workload issues</string>
-     <string name="om_ill_proc_type_cpu_title">The app occupies CPU and drains battery</string>
-     <string name="om_ill_proc_type_gps_detail">Fix GPS usage issues</string>
-     <string name="om_ill_proc_type_gps_title">The app uses GPS frequently and drains battery</string>
-     <string name="om_ill_proc_type_radio_detail">Fix network connection issues</string>
-     <string name="om_ill_proc_type_radio_title">The app connects to the network frequently and drains battery</string>
-     <string name="om_ill_proc_type_wakelock_detail">Fix sleep mode issues</string>
-     <string name="om_ill_proc_type_wakelock_title">The app blocks sleep mode and drains battery</string>
-     <string name="om_ill_proc_type_wifiscan_detail">Fix WLAN scan issues</string>
-     <string name="om_ill_proc_type_wifiscan_title">The app searches for WLAN frequently and drains battery</string>
-     <string name="om_lock_app_locked_app">Locked</string>
-     <string name="om_lock_app_locked_app_occupy_memory">"Locking too many apps reduces your phone's performance"</string>
-     <string name="om_lock_app_tip_msg">Tap to lock</string>
-     <string name="om_lock_app_unlocked_app">Unlocked</string>
-     <string name="om_media_scan_time_warn_title">"Media server works in the background.
-This activity shortens battery life."</string>
-     <string name="om_media_scan_timeout_proc_detail">Media server works in the background. You can restrict its activity.</string>
-     <string name="om_media_scan_timeout_proc_name">Media server</string>
-     <string name="om_memory_clean_cleaning_text">Boosting speed…</string>
-     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
-     <string name="om_notify_cpu_load_too_high_summary">Restrict background activity to boost speed</string>
-     <string name="om_notify_cpu_load_too_high_title">CPU usage of %s is too high</string>
-     <string name="om_notify_need_clean_memory_summary">Clear cache to boost speed</string>
-     <string name="om_notify_need_clean_memory_title">Cache size reached %s</string>
-     <string name="om_other_processes">Other tasks</string>
-     <string name="om_other_processes_cpu_usage_summary">Average CPU usage is lower than %s%%</string>
-     <string name="om_settings_cpu_over_load_notify">CPU usage</string>
-     <string name="om_settings_cpu_over_load_summary">Notify when CPU usage is too high</string>
-     <string name="om_settings_lock_app">Lock apps</string>
-     <string name="om_settings_lock_app_manage">Lock apps</string>
-     <string name="om_settings_memocy_occupy_too_large_summary">Notify when cache size is too big</string>
-     <string name="om_settings_memory_clean_lock_screen">Clear cache when screen off</string>
-     <string name="om_settings_memory_occupy_notify">High cache size</string>
-     <string name="om_settings_memory_occupy_notify_never">Never</string>
-     <string name="om_settings_notify_manage">Notifications</string>
-     <string name="om_settings_speed_up_auto">Auto speed boost</string>
-     <string name="om_settings_title">Optimization settings</string>
-     <string name="one_address_choose_hint">%s1</string>
-     <string name="open_callwait">On</string>
-     <string name="open_game">Open</string>
-     <string name="optimize_manage_title">Boost speed</string>
-     <string name="optimize_result_available_memory_info">Available memory</string>
-     <string name="optimize_result_header_view_summary">Speed boost</string>
-     <string name="optimize_result_title_uninstall_apps">Apps</string>
-     <string name="other">Other settings</string>
-     <string name="password_forget_pattern_confirm">Got it</string>
-     <string name="password_forget_pattern_message">Due to security reasons, you can only reset your password after a factory data reset. Tap to reset.</string>
-     <string name="password_forget_pattern_message_none">"Apps aren't locked. You can reset your password."</string>
-     <string name="password_forget_pattern_reset">Reset</string>
-     <string name="password_forget_pattern_title">Attention</string>
-     <string name="password_xspace_forget_pattern_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
-     <string name="pc_activity_title">Optimize battery</string>
-     <string name="percent_formatted_text">%s%%</string>
-     <string name="percent_text_formatted">%s%%</string>
-     <string name="power_autorun_apps_empty">No autostart apps</string>
-     <string name="power_center_main_percent_formatted">%s%%</string>
-     <string name="power_consume_hardware_total_format">Hardware: %s</string>
-     <string name="power_consume_software_total_format">Apps: %s</string>
-     <string name="power_save_mode_auto_exit_summary">Turn off when battery is 60% or fully charged​</string>
-     <string name="power_save_mode_auto_exit_title">Turn off when charged</string>
-     <string name="power_save_mode_close_warn_text">Battery saver restricts background activity and sync. If you choose to use it when your device is charged, some features might not work properly. Keep Battery saver on when your device is charged?</string>
-     <string name="power_save_mode_close_warn_title">Battery saver</string>
-     <string name="pref_summary_upload_data_usage">Report your data usage stats to help us improve MIUI. Reporting is carried out in accordance with our Privacy Policy.</string>
-     <string name="pref_title_upload_data_usage">Report data usage stats</string>
-     <string name="prompt_all">Ask for all</string>
-     <string name="receive_now">Receive</string>
-     <string name="release_meminfo">Free up %dMB</string>
-     <string name="release_memory">Clear cache</string>
-     <string name="renew_now">Renew</string>
-     <string name="risk_count_suffix" />
-     <string name="save_energy_text">"Restrict autostart and sync for apps in the background to get the most out of your device's battery"</string>
-     <string name="save_energy_title">Optimize battery</string>
-     <string name="scan_installed_games">Checking installed games…</string>
-     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
-     <string name="search_result_text">"Couldn't find any apps"</string>
-     <string name="setting">Settings</string>
-     <string name="shield_keyboard_detail">Double tap the buttons to turn them back on</string>
-     <string name="shield_keyboard_title">Turn off buttons</string>
-     <string name="show_system_app">Show system apps</string>
-     <string name="sms_address">Area blocklist</string>
-     <string name="sms_blacklist">SMS blocklist</string>
-     <string name="sms_cloud_block">Cloud blocklist</string>
-     <string name="sms_contact_block">Block SMS from contacts</string>
-     <string name="sms_filter">Smart filter</string>
-     <string name="sms_keywords">Keyword blocklist</string>
-     <string name="sms_malicious_url">Block SMS with malicious URLs</string>
-     <string name="sms_prefix">Prefix blocklist</string>
-     <string name="sms_service">Block service SMS</string>
-     <string name="sms_stranger_block">Block SMS from strangers</string>
-     <string name="ss_activity_main_support_text">Powered by %s</string>
-     <string name="st_call_backsound_group">Blocklist sound</string>
-     <string name="st_call_intercept_contacts">Block calls from contacts</string>
-     <string name="st_call_intercept_forwarding">Block forwarded calls</string>
-     <string name="st_call_intercept_reported">Block calls from reported numbers</string>
-     <string name="st_call_intercept_stranger">Block calls from strangers</string>
-     <string name="st_call_intercept_unknown">Block calls from hidden numbers</string>
-     <string name="st_call_other_group">Other</string>
-     <string name="st_call_settings">Call blocklist</string>
-     <string name="st_call_stranger_group">Block calls from strangers</string>
-     <string name="st_confirm_dialog_btn_open">Open</string>
-     <string name="st_confirm_dialog_summary_contact_call">All calls from contacts will be blocked.</string>
-     <string name="st_confirm_dialog_summary_stranger_call">All calls from strangers will be blocked.</string>
-     <string name="st_group_list_management">Manage blocklist</string>
-     <string name="st_share_settings">Use SIM 1 settings</string>
-     <string name="st_tab_title">%1$s (SIM %2$d)</string>
-     <string name="st_title_show_antispam_notification">Blocklist notifications</string>
-     <string name="st_title_sim_card">%1$s - SIM %2$s</string>
-     <string name="start">Start</string>
-     <string name="start_game">Start</string>
-     <string name="still_retain_btn">Keep</string>
-     <string name="support_game_booster_tips">Boost speed &amp; improve gaming experience</string>
-     <string name="sys_cpu_title">CPU usage</string>
-     <string name="sys_freememory_title">Available</string>
-     <string name="sys_title_gamebooster_unit_gb">G</string>
-     <string name="sys_title_gamebooster_unit_mb">M</string>
-     <string name="tab_gift">Gifts</string>
-     <string name="tab_guide">Guide</string>
-     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Result: Wrong carrier brand&lt;br/>&lt;br/>Set brand: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Actual brand: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
-     <string name="tc_diagnostic_fragment_default">"About diagnostics
-1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
-2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
-     <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
-     <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Result: Wrong carrier&lt;br/>&lt;br/>Set carrier: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Actual carrier: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
-     <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Result: Couldn't complete diagnostics&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
-     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Result: Wrong location&lt;br/>&lt;br/>Set location: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Actual location: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
-     <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Result: Carrier network and brand set correctly&lt;br/>&lt;br/>Couldn't complete adjustment:&lt;br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/>2. Security app features weren't updated.&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
-     <string name="tc_sms_report_type">Report type</string>
-     <string name="title_chain_start">Restrict chain start</string>
-     <string name="title_data_flow_monitor">Data usage monitor is on</string>
-     <string name="title_dev_model_off">"Developer's options are off"</string>
-     <string name="title_device_not_root">"Root access wasn't granted"</string>
-     <string name="title_garbage_less">App cache is small</string>
-     <string name="title_miui_update_latest">MIUI is up to date</string>
-     <string name="title_payment_protection">Payments are secured</string>
-     <string name="title_system_auto_download">Updates will be downloaded automatically</string>
-     <string name="toast_keyword_blank">You need to enter a keyword</string>
-     <string name="toast_keyword_exist">Keyword added</string>
-     <string name="toast_keyword_invalid">Invalid keyword</string>
-     <string name="top_game">Top games</string>
-     <string name="top_load_fail_detail">"Couldn't load, tap to try again"</string>
-     <string name="top_no_network_detial">"Couldn't load, check network connection and try again"</string>
-     <string name="try_game">Try</string>
-     <string name="two_address_choose_hint">%1$s and %2$s</string>
-     <string name="uninstall_danagerous_btn">Uninstall</string>
-     <string name="uninstall_danagerous_desc">\"%s\" may damage your device</string>
-     <string name="uninstall_danagerous_msg">\"%s\" may damage your device, lower its performance, or cause reboots.</string>
-     <string name="uninstall_danagerous_title">Uninstall malicious app</string>
-     <string name="unlock_pattern"><u>Pattern</u></string>
-     <string name="unlock_pattern_to_bind_fingerprint">Enter password to activate fingerprint</string>
-     <string name="virus_auto_update_engine">Auto updates：%s</string>
-     <string name="website">Website</string>
-     <string name="wifi_optizition_loading">Turning on Xunyou Network speed boost…</string>
-     <string name="wifi_optizition_tip">Turn on WLAN speed boost to make WLAN connection more stable. A small amount of mobile data will be used.</string>
-     <string name="wifi_optizition_title">WLAN speed boost</string>
-     <string name="wlan_booster">WLAN speed boost</string>
-     <string name="wlan_change_protection_detail">"Don't switch to WLAN automatically when connected to mobile data network"</string>
-     <string name="wlan_change_protection_title">Prevent switching networks</string>
-     <string name="xunyou_pay_webview">Xunyou services</string>
-  
+  <string name="access_control_fingerprint_not_identified_msg">"Couldn't read fingerprint."</string>
+  <string name="add_whitelist">Add to exceptions</string>
+  <string name="app_error_tip_for_launcher">"Your device's hardware components or Android system version may cause compatibility issues and make some apps misbehave, freeze, or be force stopped. If you encounter such issues, share your feedback with the app developers."</string>
+  <string name="app_error_tip_for_store">"Your device's hardware components or Android system version may cause compatibility issues which may result in failing to install some apps. If you encounter such issues or some apps misbehave, freeze, or are being force stopped, ​wait until the app developers fix bugs and try installing the app again."</string>
+  <string name="app_manager_clear_data_dlg_title">Delete app data?</string>
+  <string name="app_manager_clear_failed_dlg_message">Couldn’t clear data for app.</string>
+  <string name="app_manager_clear_failed_dlg_title">Clear data</string>
+  <string name="app_manager_have_not_consume">None</string>
+  <string name="app_manager_hide_system_server">Hide system services</string>
+  <string name="app_manager_net_control_title">Restrict data usage</string>
+  <string name="app_manager_net_mobile">Data</string>
+  <string name="app_manager_net_wifi">WLAN</string>
+  <string name="app_manager_notify_bar">Badges</string>
+  <string name="app_manager_notify_floating">Floating notifications</string>
+  <string name="app_manager_notify_keyguard">Lock screen</string>
+  <string name="app_manager_pref_ads">Recommendations</string>
+  <string name="app_manager_show_all_apps">Show all apps</string>
+  <string name="app_manager_system_mobile_disable">Turn off data</string>
+  <string name="app_managere_not_have_app">Empty</string>
+  <string name="app_manger_des_separator">", "</string>
+  <string name="application_item_already_permission">Allowed</string>
+  <string name="application_item_disable">Restricted</string>
+  <string name="applock_bind_account_title">Resetting your password</string>
+  <string name="applock_header_text_less_than_half">Too little space for this app. Drag the separator further.</string>
+  <string name="auto_clean_close">Automatic cleanups are off</string>
+  <string name="auto_import_games">Put all your games in one place</string>
+  <string name="auto_task_edit_step1">1.</string>
+  <string name="auto_task_edit_step2">2.</string>
+  <string name="backsound_set_hint">Set your away message to %s?</string>
+  <string name="best_booster_status">Gaming speed is the best available now.</string>
+  <string name="boost_done">Boosted successfully</string>
+  <string name="booster_suc">Boosted successfully</string>
+  <string name="boostering">Boosting speed…</string>
+  <string name="boosting">Boosting speed…</string>
+  <string name="btn_back">Back</string>
+  <string name="byteShort">B</string>
+  <string name="call_address">Bereiche Sperrliste</string>
+  <string name="call_blacklist">Anruf Sperrliste</string>
+  <string name="call_cloud_block">Cloud Sperrliste</string>
+  <string name="call_contact_block">Blockieren von Anrufen von Kontakten</string>
+  <string name="call_prefix">Präfix-Blockliste</string>
+  <string name="call_private">Blockiere Anrufe von unterdrückten Nummern</string>
+  <string name="call_stranger_block">Blockieren von Anrufen von Fremden</string>
+  <string name="card_main_deepclean_qq_title">QQ cleaner</string>
+  <string name="card_main_optimize_manage_action">Boost jetzt</string>
+  <string name="card_main_optimize_manage_summary">Löschen Sie den Cache, um Ihr Gerät zu beschleunigen</string>
+  <string name="card_main_optimize_manage_title">Geschwindigkeit erhöhen</string>
+  <string name="confirm_prompt_all_permission">Ask for permissions for all apps?</string>
+  <string name="cpu_usage_android_system">Android System</string>
+  <string name="cpu_usage_app_bg_restrict_default">Auto (recommended)</string>
+  <string name="cpu_usage_app_bg_restrict_default_short">Auto</string>
+  <string name="cpu_usage_app_bg_restrict_full">Restrict background activity</string>
+  <string name="cpu_usage_app_bg_restrict_no_limit">"Don't restrict"</string>
+  <string name="cpu_usage_app_bg_restrict_partly">After %s</string>
+  <string name="cpu_usage_app_bg_restrict_partly_short">After%s</string>
+  <string name="cpu_usage_app_bg_restrict_title">Background settings</string>
+  <string name="cpu_usage_app_tip_can_not_restrict_system_app">"Can't restrict system services"</string>
+  <string name="cpu_usage_app_uninstalled_toast">This app is uninstalled</string>
+  <string name="cpu_usage_process_run_time_little_time">Less than 1 minute</string>
+  <string name="cpu_usage_view_action_btn_text">Tap to view</string>
+  <string name="create_shortcut">Create a Home screen shortcut for Game speed booster</string>
+  <string name="demo_number">241</string>
+  <string name="dialog_text">Create a Home screen shortcut for Game speed booster</string>
+  <string name="dlg_add_blacklist">Block this number?</string>
+  <string name="dlg_add_blacklist_title">Add to blacklist</string>
+  <string name="dlg_add_keyword">Add keywords</string>
+  <string name="dlg_antispam_mode_delete_message">"You can't recover rules after they've been deleted."</string>
+  <string name="dlg_antispam_mode_delete_title">Delete rules?</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
+  <string name="dlg_black_address_antispam_message">Add this location to blacklist?</string>
+  <string name="dlg_black_antispam_hint">Blacklist</string>
+  <string name="dlg_black_antispam_message">Add this number to blacklist?</string>
+  <string name="dlg_clear_all_call">Clear blocked calls?</string>
+  <string name="dlg_clear_all_ok">Clear all</string>
+  <string name="dlg_clear_all_sms">Delete blocked messages?</string>
+  <string name="dlg_clear_current_call">Clear all blocked calls from this number?</string>
+  <string name="dlg_clear_current_ok">Clear</string>
+  <string name="dlg_clear_current_sms">Delete all blocked messages sent from this number?</string>
+  <string name="dlg_delete_keyword">Clear selected keywords?</string>
+  <string name="dlg_edit_keyword">Edit keywords</string>
+  <string name="dlg_import_blacklist">Adding…</string>
+  <string name="dlg_import_whitelist">Adding…</string>
+  <string name="dlg_keyword_ok">Save</string>
+  <string name="dlg_message_not_open_stranger_identify">To turn this feature on, go to Settings > Phone.</string>
+  <string name="dlg_no_block">Unblock this number and restore calls from this number to call history?</string>
+  <string name="dlg_no_block_ok">Unblock</string>
+  <string name="dlg_remove_address_blacklist">Remove this location from blacklist?</string>
+  <string name="dlg_remove_address_whitelist">Remove this location from exceptions?</string>
+  <string name="dlg_remove_blacklist">Remove these numbers from blacklist?</string>
+  <string name="dlg_remove_blacklist_ing">Removing…</string>
+  <string name="dlg_remove_blacklist_title">Remove</string>
+  <string name="dlg_remove_ok">Remove</string>
+  <string name="dlg_remove_whitelist">Remove these numbers from exceptions?</string>
+  <string name="dlg_remove_whitelist_ing">Removing…</string>
+  <string name="dlg_remove_whitelist_title">Remove</string>
+  <string name="dlg_title_not_open_stranger_identify">Caller ID</string>
+  <string name="dlg_white_address_antispam_message">Add this location to exceptions?</string>
+  <string name="dlg_white_antispam_hint">Exceptions</string>
+  <string name="dlg_white_antispam_message">Add this number to exceptions?</string>
+  <string name="do_clean">Clearing…</string>
+  <string name="dont_bore">"Don't let buttons and notifications distract you"</string>
+  <string name="dont_bore_text">Silence notifications and turn off buttons to remove distractions</string>
+  <string name="dont_bore_title">DND mode</string>
+  <string name="email">Email</string>
+  <string name="empty_activity_title">" "</string>
+  <string name="firewall_allow_all">Allow all apps to connect using the following method</string>
+  <string name="firewall_allow_data">Allow mobile data usage</string>
+  <string name="firewall_allow_wlan">Allow using WLAN connection</string>
+  <string name="firewall_mobile_dialog_message">"The installed app won't be able to connect to the internet using mobile data when this switch is off."</string>
+  <string name="firewall_partial">Allow some apps to connect using the following method​</string>
+  <string name="firewall_restrict_all">Restrict connection for all apps using the following method</string>
+  <string name="firewall_restrict_data">Restrict mobile data usage</string>
+  <string name="firewall_restrict_wlan">Restrict using WLAN connection</string>
+  <string name="firewall_wifi_dialog_message">"The installed app won't be able to connect to the internet using WLAN when this switch is off.​"</string>
+  <string name="forget_password_button_text_normal">Forgot password</string>
+  <string name="free_send_net_booster">Free Network speed boost</string>
+  <string name="free_send_net_booster_tip">Enjoy smooth gaming with the free Network speed boost.</string>
+  <string name="function_close">Off</string>
+  <string name="game_booster">Game speed booster</string>
+  <string name="game_booster_intro">About Game speed booster</string>
+  <string name="game_booster_title">Boost</string>
+  <string name="game_improve_text1">Clear background cache to free up memory for gaming</string>
+  <string name="game_improve_text2">Clear background cache to free up memory for gaming and improve CPU performance</string>
+  <string name="game_improve_title">Optimize performance</string>
+  <string name="game_more_improve">Restrict background activities and download speed to save battery and bandwidth for gaming</string>
+  <string name="game_net_text1">Limit background download speed to reduce network delay</string>
+  <string name="game_net_text2">"Boost the game's connection speed while limiting background download speed to reduce network delay"</string>
+  <string name="game_net_title">Optimize connection speed</string>
+  <string name="game_setting">Game settings</string>
+  <string name="gamebooster_network_dialog_message">Allow Security to connect to the network in order to use all features of the Game speed booster?</string>
+  <string name="gamebooster_network_dialog_title">"Some features aren't available"</string>
+  <string name="get_sys_info">Getting info…</string>
+  <string name="google_base_app_install_choice">\"%s\" requires Google Service Framework apps to work normally, download and install them?</string>
+  <string name="gs_anto_clean_memory_whitelist">Exceptions</string>
+  <string name="gs_app_back_self_start">Battery saver</string>
+  <string name="gs_auto_clean_memory">Clear cache</string>
+  <string name="gs_auto_clean_memory_detail">Clear cache automatically to optimize gaming</string>
+  <string name="gs_dialog_confirm_close_msg">The shortcut will be removed from your Home screen. Go to Security > Settings to restore it.</string>
+  <string name="gs_dialog_confirm_close_title">Turn off</string>
+  <string name="gs_game_disturb_msg">DND</string>
+  <string name="gs_game_duration">Time</string>
+  <string name="gs_game_net_priority">Connection priority</string>
+  <string name="gs_game_net_priority_detail">Limit download speed to have enough bandwidth for gaming</string>
+  <string name="gs_game_performance">Performance</string>
+  <string name="gs_game_shortcut">Enjoy a more fluid game experience</string>
+  <string name="gs_only_self_start_for_list">Restrict background processes to save battery for gaming</string>
+  <string name="gs_open_game_booster">Boost speed</string>
+  <string name="gs_performance_mode">Performance mode</string>
+  <string name="gs_performance_mode_detail">Increase CPU usage to ensure seamless performance</string>
+  <string name="hints_scan_result_no_finish">"Scan isn't finished. Tap to start over."</string>
+  <string name="i_know">Got it</string>
+  <string name="im">IM</string>
+  <string name="install">Install</string>
+  <string name="intro_improve">Boost your gaming experience on a system level</string>
+  <string name="intro_skip">Skip</string>
+  <string name="item_system_auto_download">Download updates automatically</string>
+  <string name="keywords_app_permissions">Permissions;Location;Access contacts;Permissions;App permissions</string>
+  <string name="keywords_auto_restart">Autostart; Permissions;Auto start;Autostart; Manage autostart; MIUI autostart; App autostart; autostart apps;Chain start;chained start;triggered start</string>
+  <string name="keywords_buy_flow">data;mobile data;buy data;buy mobile data;topup data;data plan</string>
+  <string name="keywords_usb_install">USB install;install from computer;ADB install</string>
+  <string name="loading">Just a sec…</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">"Couldn't recognize fingerprint, try again."</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_pattern">Password is incorrect, try again.</string>
+  <string name="loding">Loading data</string>
+  <string name="log_count">(%d)</string>
+  <string name="low_memory_warning_dialog_cancel_button">Cancel</string>
+  <string name="low_memory_warning_dialog_msg">Free up space on your device to continue</string>
+  <string name="low_memory_warning_dialog_ok_button">Clear</string>
+  <string name="low_memory_warning_dialog_title">Not enough free space</string>
+  <string name="main_button_usage_adjusting_bill">Changing…</string>
+  <string name="main_used_bill">%s CNY</string>
+  <string name="man_add_application">Add autostart apps manually</string>
+  <string name="mark_time_text">%d</string>
+  <string name="memory_clean_btn_click_text">Boost speed</string>
+  <string name="memory_clean_cleaning_title">Clearing cache</string>
+  <string name="memory_clean_click_tip">Boost speed</string>
+  <string name="memory_clean_memory_size_tip">Cache</string>
+  <string name="memory_clean_no_need_clean">Everything looks good</string>
+  <string name="memory_clean_no_running_process">No tasks to clear</string>
+  <string name="memory_clean_running_process_title">Monitoring apps (%d)</string>
+  <string name="memory_cleaned_memory_info">Available memory</string>
+  <string name="memory_cleaned_memory_up">Speed boost</string>
+  <string name="memory_clear_unused">Clear cache (%s)</string>
+  <string name="menu_item_install_debug_package">Install debug package</string>
+  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
+  <string name="menu_text_networkassistants_unit_b">B</string>
+  <string name="menu_text_networkassistants_unit_gb">GB</string>
+  <string name="menu_text_networkassistants_unit_kb">KB</string>
+  <string name="menu_text_networkassistants_unit_mb">MB</string>
+  <string name="menu_text_optimize_manage">Boost speed</string>
+  <string name="modify_password_mode">
+    <u>Change password type</u>
+  </string>
+  <string name="more_game">More games</string>
+  <string name="name">Name</string>
+  <string name="net_booster">Network speed boost</string>
+  <string name="net_booster_expire_notification">Network speed boost session is about to end</string>
+  <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
+  <string name="net_booster_overdue_notification">Network speed boost session is about to end</string>
+  <string name="net_booster_overdue_notification_tip">Network speed boost session will end soon. Renew the session?</string>
+  <string name="net_booster_tip">Turn on Network speed boost to make WLAN connection more stable and reduce network delay.</string>
+  <string name="net_booster_title">Network speed boost</string>
+  <string name="net_boosting">Boosting speed…</string>
+  <string name="net_delay_title">Delay</string>
+  <string name="net_overdue">Session ended</string>
+  <string name="nickname">Nickname</string>
+  <string name="no_game">"Couldn't find games"</string>
+  <string name="note">Note</string>
+  <string name="om_btn_text_quick_fix">Optimize</string>
+  <string name="om_cpu_overload_activity_title">Apps with high CPU usage</string>
+  <string name="om_cpu_overload_app_fixed">All issues were fixed</string>
+  <string name="om_cpu_overload_app_name">Apps with high CPU usage</string>
+  <string name="om_cpu_overload_detail">Used %1$s of CPU capacity for %2$s</string>
+  <string name="om_cpu_overload_proc_activity_title">Issues</string>
+  <string name="om_cpu_overload_proc_title">Issues</string>
+  <string name="om_cpu_usage_warn_title_text">
+    "This app may slow down
+    your device"
+  </string>
+  <string name="om_formatted_percent_string">%s%%</string>
+  <string name="om_ill_proc_activity_title">Issues</string>
+  <string name="om_ill_proc_handle_uninstall_prompt">Uninstall this app to fix battery usage issues.</string>
+  <string name="om_ill_proc_handle_unstaill_title">Uninstall %s?</string>
+  <string name="om_ill_proc_type_alarm_detail">Fix background activity issues</string>
+  <string name="om_ill_proc_type_alarm_title">The app wakes the device frequently and drains battery</string>
+  <string name="om_ill_proc_type_cpu_detail">Fix CPU workload issues</string>
+  <string name="om_ill_proc_type_cpu_title">The app occupies CPU and drains battery</string>
+  <string name="om_ill_proc_type_gps_detail">Fix GPS usage issues</string>
+  <string name="om_ill_proc_type_gps_title">The app uses GPS frequently and drains battery</string>
+  <string name="om_ill_proc_type_radio_detail">Fix network connection issues</string>
+  <string name="om_ill_proc_type_radio_title">The app connects to the network frequently and drains battery</string>
+  <string name="om_ill_proc_type_wakelock_detail">Fix sleep mode issues</string>
+  <string name="om_ill_proc_type_wakelock_title">The app blocks sleep mode and drains battery</string>
+  <string name="om_ill_proc_type_wifiscan_detail">Fix WLAN scan issues</string>
+  <string name="om_ill_proc_type_wifiscan_title">The app searches for WLAN frequently and drains battery</string>
+  <string name="om_lock_app_locked_app">Locked</string>
+  <string name="om_lock_app_locked_app_occupy_memory">"Locking too many apps reduces your phone's performance"</string>
+  <string name="om_lock_app_tip_msg">Tap to lock</string>
+  <string name="om_lock_app_unlocked_app">Unlocked</string>
+  <string name="om_media_scan_time_warn_title">
+    "Media server works in the background.
+    This activity shortens battery life."
+  </string>
+  <string name="om_media_scan_timeout_proc_detail">Media server works in the background. You can restrict its activity.</string>
+  <string name="om_media_scan_timeout_proc_name">Media server</string>
+  <string name="om_memory_clean_cleaning_text">Boosting speed…</string>
+  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
+  <string name="om_notify_cpu_load_too_high_summary">Restrict background activity to boost speed</string>
+  <string name="om_notify_cpu_load_too_high_title">CPU usage of %s is too high</string>
+  <string name="om_notify_need_clean_memory_summary">Clear cache to boost speed</string>
+  <string name="om_notify_need_clean_memory_title">Cache size reached %s</string>
+  <string name="om_other_processes">Other tasks</string>
+  <string name="om_other_processes_cpu_usage_summary">Average CPU usage is lower than %s%%</string>
+  <string name="om_settings_cpu_over_load_notify">CPU usage</string>
+  <string name="om_settings_cpu_over_load_summary">Notify when CPU usage is too high</string>
+  <string name="om_settings_lock_app">Lock apps</string>
+  <string name="om_settings_lock_app_manage">Lock apps</string>
+  <string name="om_settings_memocy_occupy_too_large_summary">Notify when cache size is too big</string>
+  <string name="om_settings_memory_clean_lock_screen">Clear cache when screen off</string>
+  <string name="om_settings_memory_occupy_notify">High cache size</string>
+  <string name="om_settings_memory_occupy_notify_never">Never</string>
+  <string name="om_settings_notify_manage">Notifications</string>
+  <string name="om_settings_speed_up_auto">Auto speed boost</string>
+  <string name="om_settings_title">Optimization settings</string>
+  <string name="one_address_choose_hint">%s1</string>
+  <string name="open_callwait">On</string>
+  <string name="open_game">Open</string>
+  <string name="optimize_manage_title">Boost speed</string>
+  <string name="optimize_result_available_memory_info">Available memory</string>
+  <string name="optimize_result_header_view_summary">Speed boost</string>
+  <string name="optimize_result_title_uninstall_apps">Apps</string>
+  <string name="other">Other settings</string>
+  <string name="password_forget_pattern_confirm">Got it</string>
+  <string name="password_forget_pattern_message">Due to security reasons, you can only reset your password after a factory data reset. Tap to reset.</string>
+  <string name="password_forget_pattern_message_none">"Apps aren't locked. You can reset your password."</string>
+  <string name="password_forget_pattern_reset">Reset</string>
+  <string name="password_forget_pattern_title">Attention</string>
+  <string name="password_xspace_forget_pattern_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
+  <string name="pc_activity_title">Optimize battery</string>
+  <string name="percent_formatted_text">%s%%</string>
+  <string name="percent_text_formatted">%s%%</string>
+  <string name="power_autorun_apps_empty">No autostart apps</string>
+  <string name="power_center_main_percent_formatted">%s%%</string>
+  <string name="power_consume_hardware_total_format">Hardware: %s</string>
+  <string name="power_consume_software_total_format">Apps: %s</string>
+  <string name="power_save_mode_auto_exit_summary">Turn off when battery is 60% or fully charged​</string>
+  <string name="power_save_mode_auto_exit_title">Turn off when charged</string>
+  <string name="power_save_mode_close_warn_text">Battery saver restricts background activity and sync. If you choose to use it when your device is charged, some features might not work properly. Keep Battery saver on when your device is charged?</string>
+  <string name="power_save_mode_close_warn_title">Battery saver</string>
+  <string name="pref_summary_upload_data_usage">Report your data usage stats to help us improve MIUI. Reporting is carried out in accordance with our Privacy Policy.</string>
+  <string name="pref_title_upload_data_usage">Report data usage stats</string>
+  <string name="prompt_all">Ask for all</string>
+  <string name="receive_now">Receive</string>
+  <string name="release_meminfo">Free up %dMB</string>
+  <string name="release_memory">Clear cache</string>
+  <string name="renew_now">Renew</string>
+  <string name="risk_count_suffix" />
+  <string name="save_energy_text">"Restrict autostart and sync for apps in the background to get the most out of your device's battery"</string>
+  <string name="save_energy_title">Optimize battery</string>
+  <string name="scan_installed_games">Checking installed games…</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+  <string name="search_result_text">"Couldn't find any apps"</string>
+  <string name="setting">Settings</string>
+  <string name="shield_keyboard_detail">Double tap the buttons to turn them back on</string>
+  <string name="shield_keyboard_title">Turn off buttons</string>
+  <string name="show_system_app">Show system apps</string>
+  <string name="sms_address">Area blocklist</string>
+  <string name="sms_blacklist">SMS blocklist</string>
+  <string name="sms_cloud_block">Cloud blocklist</string>
+  <string name="sms_contact_block">Block SMS from contacts</string>
+  <string name="sms_filter">Smart filter</string>
+  <string name="sms_keywords">Keyword blocklist</string>
+  <string name="sms_malicious_url">Block SMS with malicious URLs</string>
+  <string name="sms_prefix">Prefix blocklist</string>
+  <string name="sms_service">Block service SMS</string>
+  <string name="sms_stranger_block">Block SMS from strangers</string>
+  <string name="ss_activity_main_support_text">Powered by %s</string>
+  <string name="st_call_backsound_group">Blocklist sound</string>
+  <string name="st_call_intercept_contacts">Block calls from contacts</string>
+  <string name="st_call_intercept_forwarding">Block forwarded calls</string>
+  <string name="st_call_intercept_reported">Block calls from reported numbers</string>
+  <string name="st_call_intercept_stranger">Block calls from strangers</string>
+  <string name="st_call_intercept_unknown">Block calls from hidden numbers</string>
+  <string name="st_call_other_group">Other</string>
+  <string name="st_call_settings">Call blocklist</string>
+  <string name="st_call_stranger_group">Block calls from strangers</string>
+  <string name="st_confirm_dialog_btn_open">Open</string>
+  <string name="st_confirm_dialog_summary_contact_call">All calls from contacts will be blocked.</string>
+  <string name="st_confirm_dialog_summary_stranger_call">All calls from strangers will be blocked.</string>
+  <string name="st_group_list_management">Manage blocklist</string>
+  <string name="st_share_settings">Use SIM 1 settings</string>
+  <string name="st_tab_title">%1$s (SIM %2$d)</string>
+  <string name="st_title_show_antispam_notification">Blocklist notifications</string>
+  <string name="st_title_sim_card">%1$s - SIM %2$s</string>
+  <string name="start">Start</string>
+  <string name="start_game">Start</string>
+  <string name="still_retain_btn">Keep</string>
+  <string name="support_game_booster_tips">Boost speed &amp; improve gaming experience</string>
+  <string name="sys_cpu_title">CPU usage</string>
+  <string name="sys_freememory_title">Available</string>
+  <string name="sys_title_gamebooster_unit_gb">G</string>
+  <string name="sys_title_gamebooster_unit_mb">M</string>
+  <string name="tab_gift">Gifts</string>
+  <string name="tab_guide">Guide</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Result: Wrong carrier brand&lt;br/>&lt;br/>Set brand: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Actual brand: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
+  <string name="tc_diagnostic_fragment_default">
+    "About diagnostics
+    1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
+    2. You can leave this page during the diagnostics, it will be carried out in the background."
+  </string>
+  <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Result: Wrong carrier&lt;br/>&lt;br/>Set carrier: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Actual carrier: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Result: Couldn't complete diagnostics&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Result: Wrong location&lt;br/>&lt;br/>Set location: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Actual location: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Result: Carrier network and brand set correctly&lt;br/>&lt;br/>Couldn't complete adjustment:&lt;br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/>2. Security app features weren't updated.&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
+  <string name="tc_sms_report_type">Report type</string>
+  <string name="title_chain_start">Restrict chain start</string>
+  <string name="title_data_flow_monitor">Data usage monitor is on</string>
+  <string name="title_dev_model_off">"Developer's options are off"</string>
+  <string name="title_device_not_root">"Root access wasn't granted"</string>
+  <string name="title_garbage_less">App cache is small</string>
+  <string name="title_miui_update_latest">MIUI is up to date</string>
+  <string name="title_payment_protection">Payments are secured</string>
+  <string name="title_system_auto_download">Updates will be downloaded automatically</string>
+  <string name="toast_keyword_blank">You need to enter a keyword</string>
+  <string name="toast_keyword_exist">Keyword added</string>
+  <string name="toast_keyword_invalid">Invalid keyword</string>
+  <string name="top_game">Top games</string>
+  <string name="top_load_fail_detail">"Couldn't load, tap to try again"</string>
+  <string name="top_no_network_detial">"Couldn't load, check network connection and try again"</string>
+  <string name="try_game">Try</string>
+  <string name="two_address_choose_hint">%1$s and %2$s</string>
+  <string name="uninstall_danagerous_btn">Uninstall</string>
+  <string name="uninstall_danagerous_desc">\"%s\" may damage your device</string>
+  <string name="uninstall_danagerous_msg">\"%s\" may damage your device, lower its performance, or cause reboots.</string>
+  <string name="uninstall_danagerous_title">Uninstall malicious app</string>
+  <string name="unlock_pattern">
+    <u>Pattern</u>
+  </string>
+  <string name="unlock_pattern_to_bind_fingerprint">Enter password to activate fingerprint</string>
+  <string name="virus_auto_update_engine">Auto updates：%s</string>
+  <string name="website">Website</string>
+  <string name="wifi_optizition_loading">Turning on Xunyou Network speed boost…</string>
+  <string name="wifi_optizition_tip">Turn on WLAN speed boost to make WLAN connection more stable. A small amount of mobile data will be used.</string>
+  <string name="wifi_optizition_title">WLAN speed boost</string>
+  <string name="wlan_booster">WLAN speed boost</string>
+  <string name="wlan_change_protection_detail">"Don't switch to WLAN automatically when connected to mobile data network"</string>
+  <string name="wlan_change_protection_title">Prevent switching networks</string>
+  <string name="xunyou_pay_webview">Xunyou services</string>
+
   <string name="Call_ADRESS">Gebietsperrliste</string>
   <string name="Call_BLACKLIST">Anrufsperrliste</string>
   <string name="Call_PREFIX">Vorwahl Sperrliste</string>
@@ -413,8 +423,10 @@ This activity shortens battery life."</string>
   <string name="ac_summaryOff">Ausgeschaltet, es ist kein Entsperrmuster zum Öffnen von Apps erforderlich</string>
   <string name="ac_summaryOn">Eingeschaltet, es ist ein Entsperrmuster zum Öffnen von Apps erforderlich</string>
   <string name="access_control_need_password">"%s  erfolgreich hinzugefügt"</string>
-  <string name="access_control_need_to_unlock">"Fingerabdruck scannen
-oder Passwort für Appsperre eingeben"</string>
+  <string name="access_control_need_to_unlock">
+    "Fingerabdruck scannen
+    oder Passwort für Appsperre eingeben"
+  </string>
   <string name="access_control_need_to_unlock_nofingerprint">Muster für Appsperre zeichnen</string>
   <string name="access_control_recording_intro_header">Muster zeichnen, um Appsperre hinzuzufügen</string>
   <string name="access_control_reset_by_account">Melden Sie sich mit Ihrem Mi Konto an, um die Appsperre zurücksetzen</string>
@@ -505,7 +517,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="antivirus_choose_engine_title">Definitionen</string>
   <string name="antivirus_choose_engine_update_disable_toast">Während dem Update können die Definitionen nicht geändert werden</string>
   <string name="antivirus_longtime_no_update">Ihre Virendefinitionen sind veraltet. Regelmäßige Updates verbessern das Scanergebnis. Sicherheit erlauben, sich mit dem Internet zu verbinden und die Virendefinitionen zu aktualisieren?</string>
-  <string name="antivirus_longtime_no_update1">Ihre Virendefinitionen sind veraltet. Regelmäßige Updates verbessern das Scanergebnis. Aktualisieren Sie die Virendefinitionen und versuchen Sie es erneute.</string>  
+  <string name="antivirus_longtime_no_update1">Ihre Virendefinitionen sind veraltet. Regelmäßige Updates verbessern das Scanergebnis. Aktualisieren Sie die Virendefinitionen und versuchen Sie es erneute.</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Riskante Apps löschen</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Viren entfernen</string>
   <string name="antivirus_monitor_clean_tips">%s löschen</string>
@@ -912,12 +924,14 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="card_main_xspace_title">Geklonte Apps</string>
   <string name="card_sms_report">Bericht per SMS</string>
   <string name="card_tc_failed">Konnte nicht kalibriert werden</string>
-  <string name="card_tc_failed_content">"Mögliche Gründe:
- 1. Die Mobilfunkbetreiber reagieren am Anfang und am Ende eines Monats langsamer. Versuchen Sie es noch einmal in ein paar Tagen.
- 2. Wenn Sie zum ersten Mal zu kalibrieren, ist eine Netzwerk-Anforderungsschablone erforderlich. Bauen Sie Netzwerkverbindung auf und versuchen Sie es erneut.
- 3. Ihr Mobilfunkbetreiber unterstützt den Textnachrichteninformationen von Datenverbrauch und Guthabenstand nicht. Kontaktieren Sie Ihren Mobilfunkanbieter, um mehr zu erfahren.
- 4. Es kann ein Fehler in den Mobilfunkanbieterdaten entstehen. Versuchen Sie die Mobilfunkbetreiberdiagnose, um das Problem zu lösen.
- 5. Nichts scheint zu helfen? Tippen Sie auf &quot;Bericht per SMS&quot;, um Ihr Feedback an Xiaomi als eine Textnachricht zu senden."</string>
+  <string name="card_tc_failed_content">
+    "Mögliche Gründe:
+    1. Die Mobilfunkbetreiber reagieren am Anfang und am Ende eines Monats langsamer. Versuchen Sie es noch einmal in ein paar Tagen.
+    2. Wenn Sie zum ersten Mal zu kalibrieren, ist eine Netzwerk-Anforderungsschablone erforderlich. Bauen Sie Netzwerkverbindung auf und versuchen Sie es erneut.
+    3. Ihr Mobilfunkbetreiber unterstützt den Textnachrichteninformationen von Datenverbrauch und Guthabenstand nicht. Kontaktieren Sie Ihren Mobilfunkanbieter, um mehr zu erfahren.
+    4. Es kann ein Fehler in den Mobilfunkanbieterdaten entstehen. Versuchen Sie die Mobilfunkbetreiberdiagnose, um das Problem zu lösen.
+    5. Nichts scheint zu helfen? Tippen Sie auf &quot;Bericht per SMS&quot;, um Ihr Feedback an Xiaomi als eine Textnachricht zu senden."
+  </string>
   <string name="celcius_symbol">°C</string>
   <string name="charging_text_battery_full_time">"Akkuladezeit "</string>
   <string name="charging_text_battery_nearly_full">Fast aufgeladen</string>
@@ -1004,12 +1018,16 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="datausage_purchase_pay_confirm">Bezahlen</string>
   <string name="datausage_purchase_pay_hint">Zum Abbrechen %s wählen</string>
   <string name="datausage_purchase_pkglist_networkerror">Konnte nicht mit Netzwerk verbinden. Datenverbindung überprüfen und erneut versuchen.</string>
-  <string name="datausage_purchase_pkglist_nodata">"Es besteht ein Konflikt zwischen dem aktuellen Datenpaket und dem, das Sie erwerben wollen.
- Um weitere Informationen zu erhalten, kontaktieren Sie Ihren Anbieter."</string>
+  <string name="datausage_purchase_pkglist_nodata">
+    "Es besteht ein Konflikt zwischen dem aktuellen Datenpaket und dem, das Sie erwerben wollen.
+    Um weitere Informationen zu erhalten, kontaktieren Sie Ihren Anbieter."
+  </string>
   <string name="datausage_purchase_pkglist_servererror">Es ist ein Fehler mit unserem Server aufgetreten.</string>
   <string name="datausage_purchase_result_failed">"Daten konnten nicht erworben werden. Um weitere Informatione zu erhalten, kontaktieren Sie Ihren Anbieter. "</string>
-  <string name="datausage_purchase_result_ok">"Sie haben %s gekauft
-Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"</string>
+  <string name="datausage_purchase_result_ok">
+    "Sie haben %s gekauft
+    Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
+  </string>
   <string name="datausage_purchase_time_in">" um "</string>
   <string name="datausage_purchase_title_confirm">Bezahlinformationen</string>
   <string name="datausage_purchase_title_order">Zusätzliche Daten erwerben</string>
@@ -1122,8 +1140,12 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="force_stop_dlg_text">Wenn Sie die Hintergrunddaten beschränken, werden einige Apps und Dienste nicht funktionieren.</string>
   <string name="force_stop_dlg_title">Hintergrunddaten beschränken</string>
   <string name="foreground_traffic">Vordergrund %s</string>
-  <string name="forget_password_button_text"><u>Passwort vergessen</u></string>
-  <string name="forget_pattern"><u>Muster vergessen?</u></string>
+  <string name="forget_password_button_text">
+    <u>Passwort vergessen</u>
+  </string>
+  <string name="forget_pattern">
+    <u>Muster vergessen?</u>
+  </string>
   <string name="free_time_traffic">Nebenzeitendatenlimit</string>
   <string name="free_time_traffic_hint">Nebenzeitendatenlimit eingeben</string>
   <string name="free_time_traffic_settings">Nebenzeitendatenlimiteinstellungen</string>
@@ -1142,8 +1164,10 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="goto_set">Einstellen</string>
   <string name="guide_get_operator_error">Falscher Mobilfunkanbieter?</string>
   <string name="guide_operator_text">"Ihr aktueller Mobilfunkanbieter: "</string>
-  <string name="guide_primary_text">"Schalten Sie Netzwerkassistenten ein,
-um Ihre mobile Datennutzung zu verwalten"</string>
+  <string name="guide_primary_text">
+    "Schalten Sie Netzwerkassistenten ein,
+    um Ihre mobile Datennutzung zu verwalten"
+  </string>
   <string name="guide_quck_open">Einschalten</string>
   <string name="guide_second_text">Nachdem Sie Ihren Mobilfunkanbieter eingestellt haben, wird MIUI Ihre mobile Datennutzung durch täglichen kostenlosen SMS-Bericht überwachen. Wenn MIUI erkennt, dass Sie Ihre Datengrenze überschritten haben, wird Ihr Gerät vom Netz getrennt und Sie erhalten eine Benachrichtigung.</string>
   <string name="guide_wait_setting">Nicht jetzt</string>
@@ -1272,9 +1296,11 @@ um Ihre mobile Datennutzung zu verwalten"</string>
   <string name="legal_workday_invalidate">Mo-Fr (Werktagsinfos abgelaufen)</string>
   <string name="legal_workday_invalidate_message">Tippen, um die Werktagsinfos zu aktualisieren.</string>
   <string name="legal_workday_message">(Feiertage überspringen)</string>
-  <string name="leisure_usage_dialog_message">"Ihre Datenverbrauchsgrenze wurde erreicht.
+  <string name="leisure_usage_dialog_message">
+    "Ihre Datenverbrauchsgrenze wurde erreicht.
 
-Der Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie die mobile Datenverbindung weiter verwenden."</string>
+    Der Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie die mobile Datenverbindung weiter verwenden."
+  </string>
   <string name="leisure_usage_dialog_title">Ihre Datenverbrauchsgrenze wurde erreicht, Datenverbindung ist ausgeschaltet</string>
   <string name="list_empty_text">Leer</string>
   <string name="load_fail">Laden fehlgeschlagen</string>
@@ -1325,8 +1351,10 @@ Der Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie die mo
   <string name="main_alert_message_no_imsi">Keine SIM-Karte gefunden</string>
   <string name="main_alert_message_no_mobile_package">Datenlimit nicht eingerichtet</string>
   <string name="main_alert_message_open_traffic_ctrl">Wir empfehlen, die Datennutzung einzuschränken</string>
-  <string name="main_alert_message_slot_no_data_connection">"Der SIM-Kartenslot unterstützt keine
- mobile Datenverbindung"</string>
+  <string name="main_alert_message_slot_no_data_connection">
+    "Der SIM-Kartenslot unterstützt keine
+    mobile Datenverbindung"
+  </string>
   <string name="main_bill_remained">Guthaben</string>
   <string name="main_button_idel_traffic">Nebenzeit</string>
   <string name="main_button_normal_traffic">Hauptzeit</string>
@@ -1356,20 +1384,28 @@ Der Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie die mo
   <string name="main_primary_message_traffic_remain">Datenvolumen verbleiben</string>
   <string name="main_primary_message_traffic_warning">Datenverbrauchslimit fast erreicht</string>
   <string name="main_purchase_tips">Promotion</string>
-  <string name="main_secondary_message_traffic_detail_leisure">"
-Off-peak: %1$s verbleibend | %2$s verbraucht"</string>
-  <string name="main_secondary_message_traffic_detail_normal">"
-Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
+  <string name="main_secondary_message_traffic_detail_leisure">
+    "
+    Off-peak: %1$s verbleibend | %2$s verbraucht"
+  </string>
+  <string name="main_secondary_message_traffic_detail_normal">
+    "
+    Peak: %1$s%2$s verbleibend | %3$s verbraucht"
+  </string>
   <string name="main_secondary_message_traffic_over">über</string>
   <string name="main_secondary_message_traffic_remain">verbleibend</string>
   <string name="main_secondary_message_traffic_used_leisure">%s Nebenzeitdaten verbraucht</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s HauptzeitDaten verbraucht | Keine Nebenzeitdaten verbleibend</string>
   <string name="main_secondary_message_traffic_used_normal">%s Hauptzeitdaten verbraucht</string>
   <string name="main_tc_over">Erfolreich kalibriert</string>
-  <string name="main_tc_send_sms">"SMS gesendet,
-um zu kalibrieren"</string>
-  <string name="main_tc_wait_result">"Wird auf Antwort des
-Mobilfunkanbieters gewartet"</string>
+  <string name="main_tc_send_sms">
+    "SMS gesendet,
+    um zu kalibrieren"
+  </string>
+  <string name="main_tc_wait_result">
+    "Wird auf Antwort des
+    Mobilfunkanbieters gewartet"
+  </string>
   <string name="main_today_used">Verbraucht heute</string>
   <string name="main_toolbar_firewall">Beschränken</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobile Daten</string>
@@ -1488,44 +1524,60 @@ Mobilfunkanbieters gewartet"</string>
   <string name="network_connected_exception_title">Netzwerktest</string>
   <string name="network_control">Appeinstellungen anzeigen</string>
   <string name="network_diagnostics">Netzwerktest</string>
-  <string name="network_mobile_exception_detail">"Ihr Gerät kann sich nicht mit dem Internet verbinden:
+  <string name="network_mobile_exception_detail">
+    "Ihr Gerät kann sich nicht mit dem Internet verbinden:
 
-1. Stellen Sie sicher, dass Sie Ihr Datenlimit nicht überschritten haben.
-
-
-
-2. Wenn Sie Ihr Guthaben gerade aufgeladen haben, starten sie Ihr Telefon neu und versuchen es erneut.
+    1. Stellen Sie sicher, dass Sie Ihr Datenlimit nicht überschritten haben.
 
 
- 
-3. Die Signalstärke ist an Ihrem Standort möglicherweise zu schwach."</string>
+
+    2. Wenn Sie Ihr Guthaben gerade aufgeladen haben, starten sie Ihr Telefon neu und versuchen es erneut.
+
+
+
+    3. Die Signalstärke ist an Ihrem Standort möglicherweise zu schwach."
+  </string>
   <string name="network_not_available">Kein Netzwerkverbindung verfügbar</string>
   <string name="network_operator_exception_summary">SIM-Karte konnte nicht aktiviert werden. Stellen Sie sicher, dass die SIM-Karte eingesteckt ist und die mobile Datenverbindung vom Anbieter freigegeben ist.</string>
   <string name="network_permission_exception_tips">Die mobile Datenverbindung kann nicht zur Netzwerkverbindung verwendet werden</string>
   <string name="network_roaming_exception_tips">Während des Roamings kann die mobile Datenverbindung nicht zur Netzwerkverbindung verwendet werden.</string>
-  <string name="network_route_exception_detail">"Möglicherweise liegt der Fehler bei Ihrem Router:
+  <string name="network_route_exception_detail">
+    "Möglicherweise liegt der Fehler bei Ihrem Router:
 
- "<b>"1. Problem mit einem öffentlichen WLAN-Netzwerk
-"</b>Wenn Sie mit einem öffentlichem WLAN-Netzwerk verbunden sind, kann je nach Anzahl der verbundenen Benutzer die Geschwindigkeit beeinträchtigt werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
+    "<b>
+      "1. Problem mit einem öffentlichen WLAN-Netzwerk
+      "
+    </b>Wenn Sie mit einem öffentlichem WLAN-Netzwerk verbunden sind, kann je nach Anzahl der verbundenen Benutzer die Geschwindigkeit beeinträchtigt werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
 
- 2."<b>" Problem mit dem Internetanbieter
-M"</b>"Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Internetanbieter besitzen.
+    2."<b>
+      " Problem mit dem Internetanbieter
+      M"
+    </b>"Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Internetanbieter besitzen.
 
- 3."<b>" Problem mit der Routerhardware
-T"</b>"Versuchen Sie Ihren Router neu zu starten und/oder überprüfen Sie die Routereinstellungen.
+    3."<b>
+      " Problem mit der Routerhardware
+      T"
+    </b>"Versuchen Sie Ihren Router neu zu starten und/oder überprüfen Sie die Routereinstellungen.
 
- 4."<b>" Weitere Probleme
-R"</b>"Lesen Sie die Bedienungshilfen, die bei Ihrem Router mitgeliefert wurden und stellen Sie die Werkseinstellungen des Router wieder her.
+    4."<b>
+      " Weitere Probleme
+      R"
+    </b>"Lesen Sie die Bedienungshilfen, die bei Ihrem Router mitgeliefert wurden und stellen Sie die Werkseinstellungen des Router wieder her.
 
- 5."<b>" Stellen Sie sicher, dass der Router korrekt verbunden ist
-T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermuten, dass der Fehler an der Verbindung liegt, dann kontaktieren Sie Ihren Internetanbieter."</string>
-  <string name="network_sim_exception_detail">"Möglichweise liegt der Fehler an Ihrer SIM-Karte:
+    5."<b>
+      " Stellen Sie sicher, dass der Router korrekt verbunden ist
+      T"
+    </b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermuten, dass der Fehler an der Verbindung liegt, dann kontaktieren Sie Ihren Internetanbieter."
+  </string>
+  <string name="network_sim_exception_detail">
+    "Möglichweise liegt der Fehler an Ihrer SIM-Karte:
 
- 1. Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Netzanbieter besitzen. Versuchen Sie die SIM-Karte eines Freundes und überprüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
+    1. Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Netzanbieter besitzen. Versuchen Sie die SIM-Karte eines Freundes und überprüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
 
- 2. Wenn Sie zwei SIM-Karten verwenden, versuchen Sie es mit der anderen SIM-Karte und überprüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
+    2. Wenn Sie zwei SIM-Karten verwenden, versuchen Sie es mit der anderen SIM-Karte und überprüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
 
- 3. Stellen Sie sicher, das Ihre SIM-Karte und der zugehörige Geräteslot nicht beschädigt ist. Überprüfen Sie, ob die SIM-Karte ordnungsgemäß im SIM-Kartenschacht eingesteckt ist."</string>
+    3. Stellen Sie sicher, das Ihre SIM-Karte und der zugehörige Geräteslot nicht beschädigt ist. Überprüfen Sie, ob die SIM-Karte ordnungsgemäß im SIM-Kartenschacht eingesteckt ist."
+  </string>
   <string name="network_speed_for_apps_close">Beenden</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Diese App beenden?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">Systemapps können nicht beendet werden.</string>
@@ -1672,11 +1724,11 @@ T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie 
   <string name="permission_close_permission_control_dialog_title">Ausschalten?</string>
   <string name="permission_exception_summary">Einige Apps besitzen keine Berechtigung, um sich mit dem Internet zu verbinden</string>
   <string name="permission_exception_title">Netzwerkberechtigungen anzeigen</string>
-    <string name="permission_group_title_charges_related">Kosten</string>
-    <string name="permission_group_title_media_related">Multimedia</string>
+  <string name="permission_group_title_charges_related">Kosten</string>
+  <string name="permission_group_title_media_related">Multimedia</string>
   <string name="permission_group_title_others">Andere</string>
-    <string name="permission_group_title_privacy_related">Datenschutz</string>
-    <string name="permission_group_title_settings_related">Einstellungen</string>
+  <string name="permission_group_title_privacy_related">Datenschutz</string>
+  <string name="permission_group_title_settings_related">Einstellungen</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Apps werden nicht um Erlaubnis vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufprotokolle, Ändern von Systemeinstellungen oder den Zugriff auf Kamera und andere Gerätequellen bitten. Sie können diese Funktion in den Berechtigungseinstellungen einschalten.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Rechteverwaltung</string>
   <string name="permission_send_sms_descx">Apps können SMS und MMS senden</string>
@@ -1689,28 +1741,28 @@ T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie 
   <string name="please_continue_keep">Behalten</string>
   <string name="pm_auto_start_basic_services_lock">Sperren</string>
   <string name="pm_auto_start_basic_services_unlock">Entsperren</string>
-    <string name="pm_auto_start_by_basic_services">Basisdienste</string>
+  <string name="pm_auto_start_by_basic_services">Basisdienste</string>
   <string name="pm_auto_start_by_other">Getriggerter Start</string>
   <string name="pm_auto_start_by_other_app">Anderen Apps erlauben, diese App zu starten</string>
-    <string name="pm_auto_start_by_other_services">Deaktivieren Sie diese Dienste</string>
+  <string name="pm_auto_start_by_other_services">Deaktivieren Sie diese Dienste</string>
   <string name="pm_auto_start_by_system">Apps starten</string>
   <string name="pm_auto_start_by_system_event">Apps erlauben, automatisch zu starten</string>
   <string name="pm_auto_start_proc_is_running">Wird ausgeführt</string>
   <string name="pm_remember_choice">Meine Auswahl merken</string>
   <string name="pm_root_success_notification_infomation">Seien Sie sich der Risiken durch Rootzugriff bewusst</string>
   <string name="pm_root_success_notification_title">Rootzugriff gewährt</string>
-    <string name="power_20s_enter_mode">Wechseln von %1$ds zu %2$s</string>
+  <string name="power_20s_enter_mode">Wechseln von %1$ds zu %2$s</string>
   <string name="power_20s_shutdown">Telefon schaltet sich in %d Sekunden aus</string>
   <string name="power_analysis_consume_title">Akkuverbrauch</string>
   <string name="power_analysis_suggestion_need_optimize">Probleme mit dem Akku erkannt</string>
-    <string name="power_apply_toast">Wechseln auf %s Modus</string>
-    <string name="power_auto_save_title">Energiesparmodus</string>
+  <string name="power_apply_toast">Wechseln auf %s Modus</string>
+  <string name="power_auto_save_title">Energiesparmodus</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Akkuverbrauch analysieren</string>
   <string name="power_button_delete">Löschen</string>
   <string name="power_cell">Standby</string>
   <string name="power_center_auto_shutdown">Ausschalten</string>
-    <string name="power_center_auto_shutdown_summary">Zeit zum Ausschalten oder Starten</string>
+  <string name="power_center_auto_shutdown_summary">Zeit zum Ausschalten oder Starten</string>
   <string name="power_center_battery_full">Akku ist voll aufgeladen</string>
   <string name="power_center_charge_time">Restladezeit: %1$s</string>
   <string name="power_center_consume_rank">Akkuverbrauch</string>
@@ -1747,8 +1799,8 @@ T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie 
   <string name="power_consume_rank_software">Apps</string>
   <string name="power_consume_rank_title">Akkuverbrauch</string>
   <string name="power_consume_system_idle">Standby</string>
-    <string name="power_consume_total_hardware">Hardware: %s</string>
-    <string name="power_consume_total_software">Apps: %s</string>
+  <string name="power_consume_total_hardware">Hardware: %s</string>
+  <string name="power_consume_total_software">Apps: %s</string>
   <string name="power_customize_giveup_change">Verwerfen?</string>
   <string name="power_customizer_cancel">Abbrechen</string>
   <string name="power_customizer_delete">Löschen</string>
@@ -1771,69 +1823,77 @@ T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie 
   <string name="power_dialog_cpu_state_save">Energie sparen</string>
   <string name="power_dialog_cpu_state_save_desc">Priorität der Akkulaufzeit über die CPU-Leistung stellen</string>
   <string name="power_dialog_cpu_state_title">CPU-Auslastung</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_default">Dieses Profil wird verwendet.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_default">Dieses Profil wird verwendet.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Ihr Gerät ist darauf eingestellt auf dieses Profil zu wechseln. Sie müssen zuerst Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Ihr Gerät wechselt
- bei niedrigem Akkustand auf dieses Profil. Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können."</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Ihr Gerät wechselt
- bei sehr niedrigem Akkustand auf dieses Profil. Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Ihr Gerät wechselt
-auf dieses Profil, wenn die voreingestellte Zeit abgelaufen ist. Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Profil kann im Gebrauch sein.
-Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können."</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">
+    "Ihr Gerät wechselt
+    bei niedrigem Akkustand auf dieses Profil. Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können."
+  </string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">
+    "Ihr Gerät wechselt
+    bei sehr niedrigem Akkustand auf dieses Profil. Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können.
+  </string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">
+    Ihr Gerät wechselt
+    auf dieses Profil, wenn die voreingestellte Zeit abgelaufen ist. Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können.
+  </string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_time">
+    "Profil kann im Gebrauch sein.
+    Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können."
+  </string>
   <string name="power_dialog_delete_dialog_delete">"Dieses Akkuprofil löschen?"</string>
   <string name="power_dialog_delete_dialog_title">Profil löschen</string>
   <string name="power_dialog_ok">OK</string>
-    <string name="power_dialog_screen_brightness_automatic">Helligkeit automatisch einstellen</string>
-    <string name="power_dialog_screen_brightness_automatic_off">Bildschirmhelligkeit bleibt in jeder Umgebung konstant</string>
-    <string name="power_dialog_screen_brightness_automatic_on">Bildschirmhelligkeit variiert in Bezug auf den Lichteinfall in Ihrer Umgebung</string>
-    <string name="power_dialog_screen_brightness_title">Helligkeit</string>
-    <string name="power_dialog_sleep_title">Schlafen</string>
-    <string name="power_dialog_vibration_title">Vibrieren</string>
-    <string name="power_dialog_wifi_title">WLAN</string>
-    <string name="power_exitlowbattery_whencharge">Standardprofil beim Ladevorgang</string>
-    <string name="power_idle">Ruhezustand</string>
-    <string name="power_mode_airplane_mode">Flugmodus</string>
-    <string name="power_mode_auto_clean_memery_lock_screen">nach %1$d Min</string>
-    <string name="power_mode_auto_clean_memory">Speicher bereinigen</string>
-    <string name="power_mode_auto_clean_memory_in_five_minutes">Nach 5 Minuten</string>
-    <string name="power_mode_auto_clean_memory_in_one_minute">Nach 1 Minuten</string>
-    <string name="power_mode_auto_clean_memory_in_ten_minutes">Nach 10 Minuten</string>
-    <string name="power_mode_auto_clean_memory_never">Niemals</string>
-    <string name="power_mode_bluetooth">Bluetooth</string>
-    <string name="power_mode_choose_summary_change">In der Konfiguration wurde etwas geändert</string>
-    <string name="power_mode_chooser_button_text">Übernehmen</string>
-    <string name="power_mode_cpu_state">CPU-Auslastung</string>
-    <string name="power_mode_cpu_state_balance">Ausbalanciert</string>
-    <string name="power_mode_cpu_state_balance_desc">CPU-Leistung nur bei Bedarf erhöhen</string>
-    <string name="power_mode_cpu_state_performance">Hohe Leistung</string>
-    <string name="power_mode_cpu_state_performance_desc">Priorität der Leistung über die Akkulaufzeit stellen</string>
-    <string name="power_mode_cpu_state_save">Energie sparen</string>
-    <string name="power_mode_cpu_state_save_desc">Priorität der Akkulaufzeit über die Leistung stellen</string>
-    <string name="power_mode_gps">GPS</string>
-    <string name="power_mode_internet">Netzwerk</string>
-    <string name="power_mode_keep_state">Standard</string>
-    <string name="power_mode_my_mode">Mein Modus</string>
-    <string name="power_mode_my_mode_summary">Automatisch den täglichen Gebrauch speichern</string>
-    <string name="power_mode_screen_brightness">Helligkeit</string>
-    <string name="power_mode_screen_brightness_automatic">Automatisch: %1$d%%</string>
-    <string name="power_mode_screen_brightness_manual">Manuell: %1$d%%</string>
-    <string name="power_mode_sleep">Schlafen</string>
-    <string name="power_mode_sleep_in_minutes">Schlafen nach %1$d Minuten Inaktivität</string>
-    <string name="power_mode_sleep_in_seconds">Schlafen nach %1$d Sekunden Inaktivität</string>
-    <string name="power_mode_sleep_never">Niemals</string>
-    <string name="power_mode_switch_off">Aus</string>
-    <string name="power_mode_switch_on">An</string>
-    <string name="power_mode_synchronization">Synchronisieren</string>
-    <string name="power_mode_touch_with_ring">Ton bei Berührung</string>
-    <string name="power_mode_touch_with_vibration">Bei Berührung vibrieren</string>
-    <string name="power_mode_vibration">Vibration</string>
-    <string name="power_mode_vibration_no">Niemals</string>
-    <string name="power_mode_vibration_silence">Im Lautlosmodus</string>
-    <string name="power_mode_vibration_yes">Immer</string>
-    <string name="power_mode_wifi">WLAN</string>
-    <string name="power_new_choose_mode">Profil auswählen</string>
-    <string name="power_notify_lowbattery">Energie ist unter %1$d%%</string>
+  <string name="power_dialog_screen_brightness_automatic">Helligkeit automatisch einstellen</string>
+  <string name="power_dialog_screen_brightness_automatic_off">Bildschirmhelligkeit bleibt in jeder Umgebung konstant</string>
+  <string name="power_dialog_screen_brightness_automatic_on">Bildschirmhelligkeit variiert in Bezug auf den Lichteinfall in Ihrer Umgebung</string>
+  <string name="power_dialog_screen_brightness_title">Helligkeit</string>
+  <string name="power_dialog_sleep_title">Schlafen</string>
+  <string name="power_dialog_vibration_title">Vibrieren</string>
+  <string name="power_dialog_wifi_title">WLAN</string>
+  <string name="power_exitlowbattery_whencharge">Standardprofil beim Ladevorgang</string>
+  <string name="power_idle">Ruhezustand</string>
+  <string name="power_mode_airplane_mode">Flugmodus</string>
+  <string name="power_mode_auto_clean_memery_lock_screen">nach %1$d Min</string>
+  <string name="power_mode_auto_clean_memory">Speicher bereinigen</string>
+  <string name="power_mode_auto_clean_memory_in_five_minutes">Nach 5 Minuten</string>
+  <string name="power_mode_auto_clean_memory_in_one_minute">Nach 1 Minuten</string>
+  <string name="power_mode_auto_clean_memory_in_ten_minutes">Nach 10 Minuten</string>
+  <string name="power_mode_auto_clean_memory_never">Niemals</string>
+  <string name="power_mode_bluetooth">Bluetooth</string>
+  <string name="power_mode_choose_summary_change">In der Konfiguration wurde etwas geändert</string>
+  <string name="power_mode_chooser_button_text">Übernehmen</string>
+  <string name="power_mode_cpu_state">CPU-Auslastung</string>
+  <string name="power_mode_cpu_state_balance">Ausbalanciert</string>
+  <string name="power_mode_cpu_state_balance_desc">CPU-Leistung nur bei Bedarf erhöhen</string>
+  <string name="power_mode_cpu_state_performance">Hohe Leistung</string>
+  <string name="power_mode_cpu_state_performance_desc">Priorität der Leistung über die Akkulaufzeit stellen</string>
+  <string name="power_mode_cpu_state_save">Energie sparen</string>
+  <string name="power_mode_cpu_state_save_desc">Priorität der Akkulaufzeit über die Leistung stellen</string>
+  <string name="power_mode_gps">GPS</string>
+  <string name="power_mode_internet">Netzwerk</string>
+  <string name="power_mode_keep_state">Standard</string>
+  <string name="power_mode_my_mode">Mein Modus</string>
+  <string name="power_mode_my_mode_summary">Automatisch den täglichen Gebrauch speichern</string>
+  <string name="power_mode_screen_brightness">Helligkeit</string>
+  <string name="power_mode_screen_brightness_automatic">Automatisch: %1$d%%</string>
+  <string name="power_mode_screen_brightness_manual">Manuell: %1$d%%</string>
+  <string name="power_mode_sleep">Schlafen</string>
+  <string name="power_mode_sleep_in_minutes">Schlafen nach %1$d Minuten Inaktivität</string>
+  <string name="power_mode_sleep_in_seconds">Schlafen nach %1$d Sekunden Inaktivität</string>
+  <string name="power_mode_sleep_never">Niemals</string>
+  <string name="power_mode_switch_off">Aus</string>
+  <string name="power_mode_switch_on">An</string>
+  <string name="power_mode_synchronization">Synchronisieren</string>
+  <string name="power_mode_touch_with_ring">Ton bei Berührung</string>
+  <string name="power_mode_touch_with_vibration">Bei Berührung vibrieren</string>
+  <string name="power_mode_vibration">Vibration</string>
+  <string name="power_mode_vibration_no">Niemals</string>
+  <string name="power_mode_vibration_silence">Im Lautlosmodus</string>
+  <string name="power_mode_vibration_yes">Immer</string>
+  <string name="power_mode_wifi">WLAN</string>
+  <string name="power_new_choose_mode">Profil auswählen</string>
+  <string name="power_notify_lowbattery">Energie ist unter %1$d%%</string>
   <string name="power_optimize_auto_catagory_title">Akkuprobleme</string>
   <string name="power_optimize_battery_save_idea">Akku optimieren</string>
   <string name="power_optimize_battery_save_more">Mehr</string>
@@ -1850,20 +1910,20 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="power_optimize_save_mode_not_opened">Energiesparmodus ist aus</string>
   <string name="power_optimize_save_on_lockscreen">Energie sparen wenn das Gerät gesperrt ist</string>
   <string name="power_phone">Anrufe</string>
-    <string name="power_recovery_mode">Wechseln zu %1$s Modus</string>
-    <string name="power_save_choose_mode">Profil auswählen</string>
-    <string name="power_save_choose_recovery_mode">Profil auswählen</string>
-    <string name="power_save_low_battery_auto_save_title">Energiesparmodus</string>
-    <string name="power_save_low_battery_option_recovery_title">Standardprofil</string>
-    <string name="power_save_low_battery_option_summary">Wenn der Akkustand über dem eingestellten Limit ist, wechselt das Gerät wieder auf das zuletzt verwendete Profil</string>
-    <string name="power_save_low_battery_option_title">Energiesparprofil</string>
-    <string name="power_save_low_battery_percentage_fifty">50%</string>
-    <string name="power_save_low_battery_percentage_forty">40%</string>
-    <string name="power_save_low_battery_percentage_ten">10%</string>
-    <string name="power_save_low_battery_percentage_thirty">30%</string>
-    <string name="power_save_low_battery_percentage_twenty">20%</string>
-    <string name="power_save_low_battery_seekbar_title">Profil autom. wechseln, wenn Akkustand niedriger als %1$d%% ist</string>
-    <string name="power_save_low_battery_title">Energiesparmodus</string>
+  <string name="power_recovery_mode">Wechseln zu %1$s Modus</string>
+  <string name="power_save_choose_mode">Profil auswählen</string>
+  <string name="power_save_choose_recovery_mode">Profil auswählen</string>
+  <string name="power_save_low_battery_auto_save_title">Energiesparmodus</string>
+  <string name="power_save_low_battery_option_recovery_title">Standardprofil</string>
+  <string name="power_save_low_battery_option_summary">Wenn der Akkustand über dem eingestellten Limit ist, wechselt das Gerät wieder auf das zuletzt verwendete Profil</string>
+  <string name="power_save_low_battery_option_title">Energiesparprofil</string>
+  <string name="power_save_low_battery_percentage_fifty">50%</string>
+  <string name="power_save_low_battery_percentage_forty">40%</string>
+  <string name="power_save_low_battery_percentage_ten">10%</string>
+  <string name="power_save_low_battery_percentage_thirty">30%</string>
+  <string name="power_save_low_battery_percentage_twenty">20%</string>
+  <string name="power_save_low_battery_seekbar_title">Profil autom. wechseln, wenn Akkustand niedriger als %1$d%% ist</string>
+  <string name="power_save_low_battery_title">Energiesparmodus</string>
   <string name="power_save_mode_enable">Autom. Energiesparmodus</string>
   <string name="power_save_mode_end_time">Ende</string>
   <string name="power_save_mode_ontime_enabled">Zeiten für das Umschalten zwischen den Profilen festlegen</string>
@@ -1892,7 +1952,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="power_settings_shape">Grafisch</string>
   <string name="power_settings_title">Einstellungen</string>
   <string name="power_settings_top">Balken</string>
-    <string name="power_subtitle_lowbattery">Energiesparen wenn Akkustand niedrig</string>
+  <string name="power_subtitle_lowbattery">Energiesparen wenn Akkustand niedrig</string>
   <string name="power_subtitle_ontime">Energiesparen nach Zeit</string>
   <string name="power_wifi">WLAN</string>
   <string name="pref_about">Über</string>
@@ -1998,11 +2058,13 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Datenreduzierung für neu installierte Apps automatisch aktivieren</string>
   <string name="pref_traffic_saving_compressed">Komprimiert</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">"<b>Wirkt sich die Datenreduzierung auf meine Privatsphäre aus?</b>
-Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben.
+  <string name="pref_traffic_saving_issue_content">
+    "<b>Wirkt sich die Datenreduzierung auf meine Privatsphäre aus?</b>
+    Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben.
 
-<b> Warum funktioniert die Datenreduzierung nicht? </b>
-Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen."</string>
+    <b> Warum funktioniert die Datenreduzierung nicht? </b>
+    Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen."
+  </string>
   <string name="pref_traffic_saving_no_compress">Nicht komprimiert</string>
   <string name="pref_traffic_saving_notify_switch">In Statusleiste anzeigen</string>
   <string name="pref_traffic_saving_notify_switch_hint">Datenreduzierung in der Statusleiste anzeigen</string>
@@ -2013,7 +2075,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="pref_traffic_saving_whitelist">Ausnahmen</string>
   <string name="pref_traffic_saving_whitelist_hint">Datenbeschränkung für eine bestimmte Gruppe von Apps aufheben</string>
   <string name="pref_version">Version %s</string>
-    <string name="pref_warning_values">Verbrauchswarnung ab</string>
+  <string name="pref_warning_values">Verbrauchswarnung ab</string>
   <string name="pref_whitelist_setting">Ausnahmen verwalten</string>
   <string name="preferred_app_entries_browser">Browser</string>
   <string name="preferred_app_entries_camera">Kamera</string>
@@ -2048,10 +2110,10 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="quick_optimize_sub_summary_text">%s Akkulaufzeit hinzugefügt</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Das Telefon verbraucht viel Energie, beheben</string>
   <string name="quick_optimize_suggest_battery_over_heat">Das Telefon überhitzt, beheben</string>
-    <string name="reach_daily_limit_value_body">Verringern Sie Ihren mobilen Datenverbrauch</string>
-    <string name="reach_daily_limit_value_body_open_traffic_saving">Tippen, um Datenreduzierung einzuschalten</string>
-    <string name="reach_daily_limit_value_title">Tägliches Datenlimit erreicht</string>
-    <string name="read_all_sms">Alles lesen</string>
+  <string name="reach_daily_limit_value_body">Verringern Sie Ihren mobilen Datenverbrauch</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Tippen, um Datenreduzierung einzuschalten</string>
+  <string name="reach_daily_limit_value_title">Tägliches Datenlimit erreicht</string>
+  <string name="read_all_sms">Alles lesen</string>
   <string name="read_number">86 Artikel</string>
   <string name="read_unit">" Artikel"</string>
   <string name="recently_reject_message">Installation von %1$s und %2$d weiteren Apps verweigert</string>
@@ -2068,12 +2130,12 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="repeated_marked_number_summary">"Blockieren Sie nicht einen zweiten Anruf von der gleichen gemeldeten Nummer innerhalb von 3 Minuten"</string>
   <string name="repeated_marked_number_title">"Blockieren Sie nicht wiederholte Anrufe von gemeldeten Rufnummern"</string>
   <string name="replace_dns">DNS automatisch ersetzen</string>
-    <string name="report">Melden</string>
-    <string name="report_error">Nachricht konnte nicht gemeldet werden</string>
-    <string name="report_only">Nachricht zum Melden auswählen</string>
-    <string name="report_success">Nachricht gemeldet</string>
-    <string name="report_warning">%1$s SMS zu Mi melden? Diese Nachricht und die Sendenummer werden zu Überprüfung zum Mi-Server hochgeladen. Persönliche Informationen in den Nachrichten werden anonymisiert.</string>
-    <string name="report_warning_title">SMS melden</string>
+  <string name="report">Melden</string>
+  <string name="report_error">Nachricht konnte nicht gemeldet werden</string>
+  <string name="report_only">Nachricht zum Melden auswählen</string>
+  <string name="report_success">Nachricht gemeldet</string>
+  <string name="report_warning">%1$s SMS zu Mi melden? Diese Nachricht und die Sendenummer werden zu Überprüfung zum Mi-Server hochgeladen. Persönliche Informationen in den Nachrichten werden anonymisiert.</string>
+  <string name="report_warning_title">SMS melden</string>
   <string name="resource_antispam">Sperrliste</string>
   <string name="resource_antivirus">Virenscan</string>
   <string name="resource_app_permissions">Appberechtigungen</string>
@@ -2105,7 +2167,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="result_virus_header">%d Viren und unsichere Apps gefunden</string>
   <string name="result_wifi_header">WLAN-Risiken erkannt</string>
   <string name="right_precent">100%</string>
-    <string name="risk_list_header_title">%d verdächtige App(s) gefunden!</string>
+  <string name="risk_list_header_title">%d verdächtige App(s) gefunden!</string>
   <string name="roaming_allow_network_dialog_title">Datenroaming erlauben?</string>
   <string name="roaming_limit_dialog_message">Tägliches Datenlimit bei Roaming erreicht.</string>
   <string name="roaming_limit_network_notification_body">Tippen, um die verfügbaren Netzwerke anzuzeigen</string>
@@ -2132,7 +2194,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="safe_result_item_info_app_sign">Keine inoffiziellen Apps</string>
   <string name="safe_result_item_info_app_virus">Keine Viren und gefährlichen Apps</string>
   <string name="safe_result_item_info_sms_auth">Zugriff auf Verifikationscodes von Apps von Drittanbietern einschränken</string>
-    <string name="safe_result_item_info_sms_default">Standardnachrichteneinstellungen wiederherstellen</string>
+  <string name="safe_result_item_info_sms_default">Standardnachrichteneinstellungen wiederherstellen</string>
   <string name="safe_result_item_info_sms_url">Schutz vor bösartigen URLs</string>
   <string name="safe_result_item_info_system_antivirus">Schutz vor Phishing</string>
   <string name="safe_result_item_info_system_root">Rootsicherheit</string>
@@ -2146,12 +2208,16 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="safepay_alert_dialog_button_continue">Fortsetzen</string>
   <string name="safepay_alert_dialog_button_risk">Beheben</string>
   <string name="safepay_alert_dialog_button_unknown">Noch einmal prüfen</string>
-  <string name="safepay_alert_dialog_title_risk"><font color="#ec2700">Risiko gefunden! Brechen Sie die Zahlung ab!</font></string>
-  <string name="safepay_alert_dialog_title_unknown">"<font color="#f59c00">Zahlungssicherheit konnte nicht überprüft werden. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.</font>"</string>
-    <string name="saving_conflict_dialog_cancel">Abbrechen</string>
-    <string name="saving_conflict_dialog_ok">OK</string>
-    <string name="saving_conflict_dialog_title">Achtung</string>
-    <string name="saving_conflict_restrictbackground_msg">Die Datenreduzierung kann bei Beschränkung der Hintergrunddaten nicht verwendet werden. Möchten Sie die Datenreduzierung und die Beschränkung der Hintergrunddaten einschalten?</string>
+  <string name="safepay_alert_dialog_title_risk">
+    <font color="#ec2700">Risiko gefunden! Brechen Sie die Zahlung ab!</font>
+  </string>
+  <string name="safepay_alert_dialog_title_unknown">
+    "<font color="#f59c00">Zahlungssicherheit konnte nicht überprüft werden. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.</font>"
+  </string>
+  <string name="saving_conflict_dialog_cancel">Abbrechen</string>
+  <string name="saving_conflict_dialog_ok">OK</string>
+  <string name="saving_conflict_dialog_title">Achtung</string>
+  <string name="saving_conflict_restrictbackground_msg">Die Datenreduzierung kann bei Beschränkung der Hintergrunddaten nicht verwendet werden. Möchten Sie die Datenreduzierung und die Beschränkung der Hintergrunddaten einschalten?</string>
   <string name="sc_allow_network_dialog_message">Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt werden zu können.</string>
   <string name="sc_allow_network_dialog_tiltle">"Diese Funktion kann nicht benutzt werden"</string>
   <string name="scan_status_risk">Riskant</string>
@@ -2206,8 +2272,8 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="sim_location_error_dialog_message">"Die SIM-Karte die Sie benutzen ist von %1$s. Das unterscheidet sich von Ihrem manuell eingestellten Standort (%2$s). Wollen Sie den SIM-Kartenstandort auf %3$s ändern?"</string>
   <string name="sim_location_error_notify_message">Tippen Sie auf SIM-Speicherort ändern</string>
   <string name="sim_location_error_notify_title">SIM-Kartenfehler</string>
-    <string name="sim_not_ready">SIM-Karte ist nicht bereit</string>
-    <string name="sim_not_ready_toast">SIM-Karte ist nicht bereit</string>
+  <string name="sim_not_ready">SIM-Karte ist nicht bereit</string>
+  <string name="sim_not_ready_toast">SIM-Karte ist nicht bereit</string>
   <string name="sim_state_exception_summary">Es ist ein Fehler bei der SIM-Karte aufgetreten.</string>
   <string name="sip_phone">SIP-Telefon</string>
   <string name="skin_change_close_btn_text">Als Standardhintergrund einstellen</string>
@@ -2253,120 +2319,122 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="sp_settings_root_title_omit">Root-Zugriff überprüfen</string>
   <string name="sp_settings_title_input_method">Sichere IME</string>
   <string name="sp_toast_removed_from_sign_white_list">Aus den Ausnahmen entfernt. Element wird beim nächsten Mal bereinigt.</string>
-    <string name="special_number_group">Gemeldete Nummern blockieren</string>
+  <string name="special_number_group">Gemeldete Nummern blockieren</string>
   <string name="spinner_title">%1$s - Mobile Daten: %2$s</string>
   <string name="sponsored">Gesponsert</string>
   <string name="sponsored_sec_fb">Gesponsert</string>
-    <string name="st_advanced_setting_group">Benutzerdefiniert</string>
-    <string name="st_antispam_black_adress_add">Gebiet hinzufügen</string>
-    <string name="st_antispam_bw_adress_add">Gebiet hinzufügen</string>
-    <string name="st_antispam_bw_choose_modes">Zu Liste hinzufügen</string>
-    <string name="st_antispam_bw_head_add">Prefix hinzufügen</string>
-    <string name="st_antispam_bw_man_add">Telefonnummer hinzufügen</string>
-    <string name="st_antispam_bw_pick_add">Kontakt hinzufügen</string>
-    <string name="st_antispam_delete">Löschen</string>
-    <string name="st_antispam_des_anti">Sperren</string>
-    <string name="st_antispam_des_permit">Erlauben</string>
-    <string name="st_antispam_des_permit_nokeyword">Erlauben</string>
-    <string name="st_antispam_des_smart_anti">Filter</string>
-    <string name="st_antispam_des_uesless">Aus</string>
-    <string name="st_antispam_mode_add_new">Regel hinzufügen</string>
-    <string name="st_antispam_mode_blacklist">Blockierte Nummern</string>
-    <string name="st_antispam_mode_blacklist_sum">Anrufe und SMS von den Nummern blockieren, die manuell der Sperrliste hinzugefügt wurden</string>
-    <string name="st_antispam_mode_denyownself_sum">Benutzerdefinierte Regeln</string>
-    <string name="st_antispam_mode_only_all_deny">Alles blockieren</string>
-    <string name="st_antispam_mode_only_all_deny_sum">Alle Anrufe und Nachrichten sperren</string>
-    <string name="st_antispam_mode_only_contacts">Nur Kontakte erlauben</string>
-    <string name="st_antispam_mode_only_contacts_sum">Nur Anrufe und Nachrichten von Kontakten erlauben</string>
-    <string name="st_antispam_mode_only_whitelist">Nur Ausnahmen erlauben</string>
-    <string name="st_antispam_mode_only_whitelist_sum">Nur Anrufe und Nachrichten von erlaubten Nummern zulassen</string>
-    <string name="st_antispam_mode_smart">Gemeldete Nummern</string>
-    <string name="st_antispam_mode_smart_sum">Nummern blockieren, die Sie manuell hinzugefügt haben und die von anderen Benutzern gemeldet wurden</string>
-    <string name="st_antispam_notification_sum">Benachrichtigen, wenn Anruf oder Nachricht blockiert wurde</string>
-    <string name="st_antispam_title_anoy_incoming">Anrufe von unbekannten Nummern</string>
-    <string name="st_antispam_title_anoy_sms">Nachrichten von unbekannten Nummern</string>
-    <string name="st_antispam_title_contact_incoming">Anrufe von Kontakten</string>
-    <string name="st_antispam_title_contact_sms">Nachrichten von Kontakten</string>
-    <string name="st_antispam_title_contactandanoy_group">Einstellungen</string>
-    <string name="st_antispam_title_null_incoming">Private Nummern</string>
-    <string name="st_antispam_title_service_sms">Servicemeldungen</string>
-    <string name="st_antispam_title_whitelist">Ausnahmen</string>
-    <string name="st_block_all">Anrufe und Nachrichten sperren</string>
-    <string name="st_block_mute">Anrufe und Nachrichten sperren</string>
-    <string name="st_block_private_call_button">Private Nummern sperren</string>
-    <string name="st_block_setting_group">Sperrlisteneinstellungen</string>
-    <string name="st_block_setting_title">Anrufe und Nachrichten</string>
-    <string name="st_block_title">Zu Sperrprotokoll umleiten</string>
-    <string name="st_block_unknown_call">Unbekannte Anrufe blockieren</string>
-    <string name="st_block_unknown_sms">Unbekannte Nachrichten blockieren</string>
-    <string name="st_call_group">Anrufe</string>
-    <string name="st_common_setting_group">Filtereinstellungen</string>
-    <string name="st_filter_keywords_setting_summary1">Nachrichten von unbekannten Nummern, die die Wörter dieser Liste enthalten, werden gesperrt.</string>
-    <string name="st_filter_keywords_setting_summary2">"
-(Verwenden Sie ein Komma, um mehrere Schlüsselwörter zu trennen)"</string>
-    <string name="st_filter_keywords_setting_title">Schlüsselwörter konfigurieren</string>
-    <string name="st_filter_sms_button">Nachrichtenfilter</string>
-    <string name="st_hint_add_head_number">Prefix eingeben</string>
-    <string name="st_hint_add_phonenumber">Telefonnummer eingeben</string>
-    <string name="st_message_SMS_AntiSpam">SMS sperren</string>
-    <string name="st_message_SMSpass">SMS erlauben</string>
-    <string name="st_message_phone_AntiSpam">Anrufe sperren</string>
-    <string name="st_message_phonepass">Anrufe erlauben</string>
-    <string name="st_msg_intercept_contacts">Abfangen von Nachrichten von Kontakt</string>
-    <string name="st_msg_keyword_group">Keywords Blacklist</string>
-    <string name="st_msg_other_group">Andere</string>
-    <string name="st_msg_settings">Nachricht abfangen</string>
-    <string name="st_msg_stranger_group">Nachricht von Fremden</string>
-    <string name="st_settings_name">Blocklist Einstellungen</string>
-    <string name="st_mute_all">Anrufe und Nachrichten lautlos</string>
-    <string name="st_mute_block">Anrufe lautlos und Nachrichten sperren</string>
-    <string name="st_mute_title">Nicht klingeln oder vibrieren</string>
-    <string name="st_other_setting_group">Weitere Einstellungen</string>
-    <string name="st_show_block_notification">Sperrbenachrichtigungen anzeigen</string>
-    <string name="st_show_num_keyword">" Schlüsselwörter"</string>
-    <string name="st_show_num_number">" Nummern"</string>
-    <string name="st_sms_group">Nachrichten</string>
-    <string name="st_sub_title_customize_mode_name">Name</string>
-    <string name="st_sub_title_whiteblack_list_group">Sperrliste</string>
-    <string name="st_sum_call_wait">Ihre ausgehende Nachricht wird auch als Besetztzeichen für eingehende Anrufe abgespielt.</string>
-    <string name="st_summary_blacklist_numbers">Blockieren von Anrufen und Nachrichten mit bestimmten Nummern und Bereichen</string>
-    <string name="st_summary_blacklist_numbers_international">Blockieren von Anrufen und Nachrichten mit bestimmten Nummern</string>
-    <string name="st_summary_keywords_blacklist">Schlüsselwörter zur Blockliste hinzufügen</string>
-    <string name="st_summary_special_numbers">Schlüsselwörter hinzufügen, um Nachrichten zu blockieren</string>
-    <string name="st_summary_whitelist_numbers">Erlauben von Anrufen und Nachrichten mit bestimmten Nummern und Bereichen</string>
-    <string name="st_summary_whitelist_numbers_international">Erlauben von Anrufen und Nachrichten mit bestimmten Nummern</string>
-    <string name="st_title_addblacklist">Zu Sperrliste hinzufügen</string>
-    <string name="st_title_addwhitelist">Zu Ausnahmeliste hinzufügen</string>
-    <string name="st_title_adress">Gebiete hinzufügen</string>
-    <string name="st_title_adress_num">%d ausgewählt</string>
-    <string name="st_title_anticomintcall_backsound_setting">Töne beim Blockieren</string>
-    <string name="st_title_antispam_mode">Regeln</string>
-    <string name="st_title_back_sound_busy">Besetzt</string>
-    <string name="st_title_back_sound_choose">Ausgehende Nachricht</string>
-    <string name="st_title_back_sound_closed">Herunterfahren</string>
-    <string name="st_title_back_sound_none">Nummer ist nicht vorhanden</string>
-    <string name="st_title_back_sound_stop">Nicht in Betrieb</string>
-    <string name="st_title_backsound_group">Ausgehende Nachricht</string>
-    <string name="st_title_blacklist_numbers">Blockierte Nummern</string>
-    <string name="st_title_call_wait">Anklopfbenachrichtigung</string>
-    <string name="st_title_call_wait_setting">Anklopfen</string>
-    <string name="st_title_editblacklist">Sperrliste bearbeiten</string>
-    <string name="st_title_editwhitelist">Ausnahmeliste bearbeiten</string>
-    <string name="st_title_keywords_blacklist">Schlüsselwortfilter</string>
-    <string name="st_title_man_addblacklist">Nummer zu Sperrliste hinzufügen</string>
-    <string name="st_title_man_addwhitelist">Nummer zu Ausnahmeliste hinzufügen</string>
-    <string name="st_title_man_editblacklist">Vorwahl zu Sperrliste hinzufügen</string>
-    <string name="st_title_man_editwhitelist">Vorwahl zu Ausnahmeliste hinzufügen</string>
-    <string name="st_title_man_head_addblacklist">Prefix zu Sperrliste hinzufügen</string>
-    <string name="st_title_man_head_addwhitelist">Prefix zu Ausnahmeliste hinzufügen</string>
-    <string name="st_title_markednumber_group">Gemeldete Nummern blockieren</string>
+  <string name="st_advanced_setting_group">Benutzerdefiniert</string>
+  <string name="st_antispam_black_adress_add">Gebiet hinzufügen</string>
+  <string name="st_antispam_bw_adress_add">Gebiet hinzufügen</string>
+  <string name="st_antispam_bw_choose_modes">Zu Liste hinzufügen</string>
+  <string name="st_antispam_bw_head_add">Prefix hinzufügen</string>
+  <string name="st_antispam_bw_man_add">Telefonnummer hinzufügen</string>
+  <string name="st_antispam_bw_pick_add">Kontakt hinzufügen</string>
+  <string name="st_antispam_delete">Löschen</string>
+  <string name="st_antispam_des_anti">Sperren</string>
+  <string name="st_antispam_des_permit">Erlauben</string>
+  <string name="st_antispam_des_permit_nokeyword">Erlauben</string>
+  <string name="st_antispam_des_smart_anti">Filter</string>
+  <string name="st_antispam_des_uesless">Aus</string>
+  <string name="st_antispam_mode_add_new">Regel hinzufügen</string>
+  <string name="st_antispam_mode_blacklist">Blockierte Nummern</string>
+  <string name="st_antispam_mode_blacklist_sum">Anrufe und SMS von den Nummern blockieren, die manuell der Sperrliste hinzugefügt wurden</string>
+  <string name="st_antispam_mode_denyownself_sum">Benutzerdefinierte Regeln</string>
+  <string name="st_antispam_mode_only_all_deny">Alles blockieren</string>
+  <string name="st_antispam_mode_only_all_deny_sum">Alle Anrufe und Nachrichten sperren</string>
+  <string name="st_antispam_mode_only_contacts">Nur Kontakte erlauben</string>
+  <string name="st_antispam_mode_only_contacts_sum">Nur Anrufe und Nachrichten von Kontakten erlauben</string>
+  <string name="st_antispam_mode_only_whitelist">Nur Ausnahmen erlauben</string>
+  <string name="st_antispam_mode_only_whitelist_sum">Nur Anrufe und Nachrichten von erlaubten Nummern zulassen</string>
+  <string name="st_antispam_mode_smart">Gemeldete Nummern</string>
+  <string name="st_antispam_mode_smart_sum">Nummern blockieren, die Sie manuell hinzugefügt haben und die von anderen Benutzern gemeldet wurden</string>
+  <string name="st_antispam_notification_sum">Benachrichtigen, wenn Anruf oder Nachricht blockiert wurde</string>
+  <string name="st_antispam_title_anoy_incoming">Anrufe von unbekannten Nummern</string>
+  <string name="st_antispam_title_anoy_sms">Nachrichten von unbekannten Nummern</string>
+  <string name="st_antispam_title_contact_incoming">Anrufe von Kontakten</string>
+  <string name="st_antispam_title_contact_sms">Nachrichten von Kontakten</string>
+  <string name="st_antispam_title_contactandanoy_group">Einstellungen</string>
+  <string name="st_antispam_title_null_incoming">Private Nummern</string>
+  <string name="st_antispam_title_service_sms">Servicemeldungen</string>
+  <string name="st_antispam_title_whitelist">Ausnahmen</string>
+  <string name="st_block_all">Anrufe und Nachrichten sperren</string>
+  <string name="st_block_mute">Anrufe und Nachrichten sperren</string>
+  <string name="st_block_private_call_button">Private Nummern sperren</string>
+  <string name="st_block_setting_group">Sperrlisteneinstellungen</string>
+  <string name="st_block_setting_title">Anrufe und Nachrichten</string>
+  <string name="st_block_title">Zu Sperrprotokoll umleiten</string>
+  <string name="st_block_unknown_call">Unbekannte Anrufe blockieren</string>
+  <string name="st_block_unknown_sms">Unbekannte Nachrichten blockieren</string>
+  <string name="st_call_group">Anrufe</string>
+  <string name="st_common_setting_group">Filtereinstellungen</string>
+  <string name="st_filter_keywords_setting_summary1">Nachrichten von unbekannten Nummern, die die Wörter dieser Liste enthalten, werden gesperrt.</string>
+  <string name="st_filter_keywords_setting_summary2">
+    "
+    (Verwenden Sie ein Komma, um mehrere Schlüsselwörter zu trennen)"
+  </string>
+  <string name="st_filter_keywords_setting_title">Schlüsselwörter konfigurieren</string>
+  <string name="st_filter_sms_button">Nachrichtenfilter</string>
+  <string name="st_hint_add_head_number">Prefix eingeben</string>
+  <string name="st_hint_add_phonenumber">Telefonnummer eingeben</string>
+  <string name="st_message_SMS_AntiSpam">SMS sperren</string>
+  <string name="st_message_SMSpass">SMS erlauben</string>
+  <string name="st_message_phone_AntiSpam">Anrufe sperren</string>
+  <string name="st_message_phonepass">Anrufe erlauben</string>
+  <string name="st_msg_intercept_contacts">Abfangen von Nachrichten von Kontakt</string>
+  <string name="st_msg_keyword_group">Keywords Blacklist</string>
+  <string name="st_msg_other_group">Andere</string>
+  <string name="st_msg_settings">Nachricht abfangen</string>
+  <string name="st_msg_stranger_group">Nachricht von Fremden</string>
+  <string name="st_settings_name">Blocklist Einstellungen</string>
+  <string name="st_mute_all">Anrufe und Nachrichten lautlos</string>
+  <string name="st_mute_block">Anrufe lautlos und Nachrichten sperren</string>
+  <string name="st_mute_title">Nicht klingeln oder vibrieren</string>
+  <string name="st_other_setting_group">Weitere Einstellungen</string>
+  <string name="st_show_block_notification">Sperrbenachrichtigungen anzeigen</string>
+  <string name="st_show_num_keyword">" Schlüsselwörter"</string>
+  <string name="st_show_num_number">" Nummern"</string>
+  <string name="st_sms_group">Nachrichten</string>
+  <string name="st_sub_title_customize_mode_name">Name</string>
+  <string name="st_sub_title_whiteblack_list_group">Sperrliste</string>
+  <string name="st_sum_call_wait">Ihre ausgehende Nachricht wird auch als Besetztzeichen für eingehende Anrufe abgespielt.</string>
+  <string name="st_summary_blacklist_numbers">Blockieren von Anrufen und Nachrichten mit bestimmten Nummern und Bereichen</string>
+  <string name="st_summary_blacklist_numbers_international">Blockieren von Anrufen und Nachrichten mit bestimmten Nummern</string>
+  <string name="st_summary_keywords_blacklist">Schlüsselwörter zur Blockliste hinzufügen</string>
+  <string name="st_summary_special_numbers">Schlüsselwörter hinzufügen, um Nachrichten zu blockieren</string>
+  <string name="st_summary_whitelist_numbers">Erlauben von Anrufen und Nachrichten mit bestimmten Nummern und Bereichen</string>
+  <string name="st_summary_whitelist_numbers_international">Erlauben von Anrufen und Nachrichten mit bestimmten Nummern</string>
+  <string name="st_title_addblacklist">Zu Sperrliste hinzufügen</string>
+  <string name="st_title_addwhitelist">Zu Ausnahmeliste hinzufügen</string>
+  <string name="st_title_adress">Gebiete hinzufügen</string>
+  <string name="st_title_adress_num">%d ausgewählt</string>
+  <string name="st_title_anticomintcall_backsound_setting">Töne beim Blockieren</string>
+  <string name="st_title_antispam_mode">Regeln</string>
+  <string name="st_title_back_sound_busy">Besetzt</string>
+  <string name="st_title_back_sound_choose">Ausgehende Nachricht</string>
+  <string name="st_title_back_sound_closed">Herunterfahren</string>
+  <string name="st_title_back_sound_none">Nummer ist nicht vorhanden</string>
+  <string name="st_title_back_sound_stop">Nicht in Betrieb</string>
+  <string name="st_title_backsound_group">Ausgehende Nachricht</string>
+  <string name="st_title_blacklist_numbers">Blockierte Nummern</string>
+  <string name="st_title_call_wait">Anklopfbenachrichtigung</string>
+  <string name="st_title_call_wait_setting">Anklopfen</string>
+  <string name="st_title_editblacklist">Sperrliste bearbeiten</string>
+  <string name="st_title_editwhitelist">Ausnahmeliste bearbeiten</string>
+  <string name="st_title_keywords_blacklist">Schlüsselwortfilter</string>
+  <string name="st_title_man_addblacklist">Nummer zu Sperrliste hinzufügen</string>
+  <string name="st_title_man_addwhitelist">Nummer zu Ausnahmeliste hinzufügen</string>
+  <string name="st_title_man_editblacklist">Vorwahl zu Sperrliste hinzufügen</string>
+  <string name="st_title_man_editwhitelist">Vorwahl zu Ausnahmeliste hinzufügen</string>
+  <string name="st_title_man_head_addblacklist">Prefix zu Sperrliste hinzufügen</string>
+  <string name="st_title_man_head_addwhitelist">Prefix zu Ausnahmeliste hinzufügen</string>
+  <string name="st_title_markednumber_group">Gemeldete Nummern blockieren</string>
   <string name="st_title_mode_choose_group">Profil auswählen</string>
-    <string name="st_title_not_sim">Leer</string>
-    <string name="st_title_open_antispam">Sperrliste</string>
-    <string name="st_title_other_group">Andere</string>
-    <string name="st_title_settings_other_group">Zusätzliche Einstellungen</string>
-    <string name="st_title_show_antispamnotification">Sperrbenachrichtigungen</string>
-    <string name="st_title_whitelist_numbers">Ausnahmen</string>
+  <string name="st_title_not_sim">Leer</string>
+  <string name="st_title_open_antispam">Sperrliste</string>
+  <string name="st_title_other_group">Andere</string>
+  <string name="st_title_settings_other_group">Zusätzliche Einstellungen</string>
+  <string name="st_title_show_antispamnotification">Sperrbenachrichtigungen</string>
+  <string name="st_title_whitelist_numbers">Ausnahmen</string>
   <string name="start_diagnostic_botton">Starten</string>
   <string name="start_downloading_app">Download wird gestartet: %1$s</string>
   <string name="start_install">Jetzt installieren</string>
@@ -2390,13 +2458,13 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="summary_cmcc_app_check">Einige Apps konnten nicht überprüft werden</string>
   <string name="summary_consume_power">Es wurden Wärmeprobleme gefunden, diese können die Akkulebensdauer beeinflussen</string>
   <string name="summary_data_flow">Überschreiten des monatlichen Datenvolumen vermeiden</string>
-    <string name="summary_default_app">%s ist nicht als Standardsystemapp gesetzt</string>
+  <string name="summary_default_app">%s ist nicht als Standardsystemapp gesetzt</string>
   <string name="summary_dev">Den Zugriff von Apps auf Benutzerdaten verhindern</string>
   <string name="summary_find_device">Suchen und Sperren Sie das Gerät von überall</string>
   <string name="summary_flow_notification">Den monatlichen Datenverbrauch in der Benachrichtigungsleiste anzeigen</string>
   <string name="summary_flow_purchase">Anscheinend ist nicht viel Datenvolumen übrig. Kaufen Sie Volumen um verbunden zu bleiben.</string>
   <string name="summary_flow_purchase_beyond">Sie haben Ihr monatliches Datenvolumen um %sMB überschritten</string>
-    <string name="summary_flow_purchase_left">Sie haben diesen Monat noch %s MB Ihres Datenvolumens übrig</string>
+  <string name="summary_flow_purchase_left">Sie haben diesen Monat noch %s MB Ihres Datenvolumens übrig</string>
   <string name="summary_flow_verify">Der Datenverbrauch wurde seit %d Tagen nicht synchronisiert</string>
   <string name="summary_flow_verify_failed">Überprüfen Sie den Datenverbrauch durch Angaben des Betreibers, um zusätzliche Kosten zu vermeiden</string>
   <string name="summary_garbage_clean">Cache löschen um Speicherplatz freizugeben</string>
@@ -2413,7 +2481,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="summary_permission_root">Ihr Telefon und Ihre persönlichen Daten sind weniger vor Apps mit Rootzugriff geschützt</string>
   <string name="summary_power_optimizer">Reduziert die Leistung, wenn der Akkustand niedrig ist</string>
   <string name="summary_realname_verify">Verifizieren Sie Ihre Identität, um Zahlungen sicherer zu machen</string>
-    <string name="summary_saving_switch">Die Verwendung der Datenverbindung zum Datentransfer durch Apps unterbinden</string>
+  <string name="summary_saving_switch">Die Verwendung der Datenverbindung zum Datentransfer durch Apps unterbinden</string>
   <string name="summary_show_notification">Steuerung des PIN-Sicherheitscenter in der Benachrichtigungsleiste anzeigen</string>
   <string name="summary_telecom_operator">Monatlichen Datenverbrauch über Ihren Anbieter abfragen</string>
   <string name="summary_usb">Vermeiden, das sich Viren über den USB-Anschluss verbreiten</string>
@@ -2423,12 +2491,16 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="summary_xiaomi_roaming">0,01 Yuan pro MB für internationalen Netzwerkverkehr.</string>
   <string name="sys_app_prot_cracked_confirm">Ich habs</string>
   <string name="sys_app_prot_cracked_login">Mit Mi Konto anmelden</string>
-  <string name="sys_app_prot_cracked_text_login">Die aktuelle Version von MIUI wurde geändert, dies gefährdet Ihre Gerätesicherheit.
+  <string name="sys_app_prot_cracked_text_login">
+    Die aktuelle Version von MIUI wurde geändert, dies gefährdet Ihre Gerätesicherheit.
 
-Stellen Sie sicher, dass Sie Herkunft dieses Geräts wissen und kontaktieren Sie autorisiertes Xiaomi-Servicecenter in Ihrer Nähe um Hilfe zu erhalten.</string>
-  <string name="sys_app_prot_cracked_text_unlogin">Die aktuelle Version von MIUI wurde geändert, dies gefährdet Ihre Gerätesicherheit. Melden Sie sich mit Ihrem Mi Konto an um diese Warnung auszuschalten.
+    Stellen Sie sicher, dass Sie Herkunft dieses Geräts wissen und kontaktieren Sie autorisiertes Xiaomi-Servicecenter in Ihrer Nähe um Hilfe zu erhalten.
+  </string>
+  <string name="sys_app_prot_cracked_text_unlogin">
+    Die aktuelle Version von MIUI wurde geändert, dies gefährdet Ihre Gerätesicherheit. Melden Sie sich mit Ihrem Mi Konto an um diese Warnung auszuschalten.
 
-Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkunft dieses Geräts kennen und kontaktieren Sie ein autorisiertes Xiaomi-Servicecenter in Ihrer Nähe.</string>
+    Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkunft dieses Geräts kennen und kontaktieren Sie ein autorisiertes Xiaomi-Servicecenter in Ihrer Nähe.
+  </string>
   <string name="sys_app_prot_cracked_title">Sicherheitsrisiko</string>
   <string name="system_app">Systemanwendungen</string>
   <string name="system_application">Systemanwendungen</string>
@@ -2436,11 +2508,11 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="system_check_content_none">Sicher</string>
   <string name="system_header_title">%1$d Prozesse beenden um %2$s Speicher frei zu machen</string>
   <string name="system_info_remind">Schützen Sie den Zugriff auf Ihre Apps</string>
-    <string name="tab_blacklist">Sperrliste</string>
-    <string name="tab_block_log_unKnowNumber">Private Nummer</string>
-    <string name="tab_call">Anrufe</string>
-    <string name="tab_sms">SMS</string>
-    <string name="tab_title">Sperrliste</string>
+  <string name="tab_blacklist">Sperrliste</string>
+  <string name="tab_block_log_unKnowNumber">Private Nummer</string>
+  <string name="tab_call">Anrufe</string>
+  <string name="tab_sms">SMS</string>
+  <string name="tab_title">Sperrliste</string>
   <string name="tc_diagnostic_all_error_notification_summary">Antippen, um ein Problem zu melden</string>
   <string name="tc_diagnostic_all_error_notification_title">"Diagnose kann nicht abgeschlossen werden"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Antippen, um Netzwerktyp festzulegen</string>
@@ -2454,16 +2526,32 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="tc_diagnostic_operator_error_notification_summary">Antippen, um die Netzbetreibereinstellungen zu ändern</string>
   <string name="tc_diagnostic_operator_error_notification_title">Falscher Netzbetreiber</string>
   <string name="tc_diagnostic_repair_and_continue">Beheben und fortfahren</string>
-  <string name="tc_diagnostic_repair_location">"<font color='#3EC234'>Diagnose abgeschlossen, Standortprobleme behoben.</font>"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"<font color='#3EC234'>Diagnose abgeschlossen,  Standort- und Betreiberprobleme behoben.</font>"</string>
+  <string name="tc_diagnostic_repair_location">
+    "<font color='#3EC234'>Diagnose abgeschlossen, Standortprobleme behoben.</font>"
+  </string>
+  <string name="tc_diagnostic_repair_location_and_operator">
+    "<font color='#3EC234'>Diagnose abgeschlossen,  Standort- und Betreiberprobleme behoben.</font>"
+  </string>
   <string name="tc_diagnostic_repair_success_toast">Erfolgreich geändert</string>
   <string name="tc_diagnostic_status_error_brand">Netzbetreiber konnte nicht ermittelt werden</string>
-  <string name="tc_diagnostic_status_failure">"<font color='#CC0000'>Fehler</font>"</string>
-  <string name="tc_diagnostic_status_no_network">"<font color='#ED9523'>Keine Netzwerkverbindung</font>"</string>
-  <string name="tc_diagnostic_status_not_get">"<font color='#ED9523'>Konnte nicht gelesen werden</font>"</string>
-  <string name="tc_diagnostic_status_success">"<font color='#3EC234'>Korrekt</font>"</string>
-  <string name="tc_diagnostic_status_success_brand">"<font color='#3EC234'>Antwort vom Netzbetreiber</font>"</string>
-  <string name="tc_diagnostic_status_timeout">"<font color='#CC0000'>Timeout</font>"</string>
+  <string name="tc_diagnostic_status_failure">
+    "<font color='#CC0000'>Fehler</font>"
+  </string>
+  <string name="tc_diagnostic_status_no_network">
+    "<font color='#ED9523'>Keine Netzwerkverbindung</font>"
+  </string>
+  <string name="tc_diagnostic_status_not_get">
+    "<font color='#ED9523'>Konnte nicht gelesen werden</font>"
+  </string>
+  <string name="tc_diagnostic_status_success">
+    "<font color='#3EC234'>Korrekt</font>"
+  </string>
+  <string name="tc_diagnostic_status_success_brand">
+    "<font color='#3EC234'>Antwort vom Netzbetreiber</font>"
+  </string>
+  <string name="tc_diagnostic_status_timeout">
+    "<font color='#CC0000'>Timeout</font>"
+  </string>
   <string name="tc_diagnostic_status_updating">Wird getestet…</string>
   <string name="tc_diagnostic_success_notification_summary">Dieses Problem melden, um die MIUI-Diagnosetools zu verbessern</string>
   <string name="tc_diagnostic_success_notification_title">Netzbetreiber korrekt</string>
@@ -2473,7 +2561,7 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="tc_diagnostic_upload_success">Vielen Dank für Ihr Feedback!</string>
   <string name="tc_sms_report_direction">SMS-Abfragecode</string>
   <string name="tc_sms_report_do_report">Senden</string>
-    <string name="tc_sms_report_get_default">"Ihnen werden für SMS-Nachrichten keine Gebühren in Rechnung gestellt, die benötigt werden, um Ihr Datennutzungsguthaben Ihres Mobilfunkanbieter zu erhalten."</string>
+  <string name="tc_sms_report_get_default">"Ihnen werden für SMS-Nachrichten keine Gebühren in Rechnung gestellt, die benötigt werden, um Ihr Datennutzungsguthaben Ihres Mobilfunkanbieter zu erhalten."</string>
   <string name="tc_sms_report_get_sms">SMS erhalten</string>
   <string name="tc_sms_report_get_sms2">SMS erhalten</string>
   <string name="tc_sms_report_get_sms_again">SMS aktualisieren</string>
@@ -2493,7 +2581,9 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="tc_sms_report_notify_get_timeout_body">Zeitüberschreitung. Stellen Sie sicher, dass der eingegebene Code korrekt ist.</string>
   <string name="tc_sms_report_notify_get_timeout_title">Datenverbrauchsübersicht anfordern fehlgeschlagen</string>
   <string name="tc_sms_report_receive_content">SMS-Nutzungsberichtinhalt (Nutzungsbericht bestätigen)</string>
-  <string name="tc_sms_report_receive_content_null">Helfen Sie bei der Verbesserung dieser Funktion mit!<br />So geht es:<br />1. Gehen Sie auf \"SMS-Befehl überprüfen\" und \"Empfängernummer\"<br />2. Wählen Sie \"SMS-Vorlage abrufen\";br/>3. Warten Sie auf die SMS Ihres Anbieters ;br/>4. Wählen Sie \"Zu MIUI hochladen\"</string>
+  <string name="tc_sms_report_receive_content_null">
+    Helfen Sie bei der Verbesserung dieser Funktion mit!<br />So geht es:<br />1. Gehen Sie auf \"SMS-Befehl überprüfen\" und \"Empfängernummer\"<br />2. Wählen Sie \"SMS-Vorlage abrufen\";br/>3. Warten Sie auf die SMS Ihres Anbieters ;br/>4. Wählen Sie \"Zu MIUI hochladen\"
+  </string>
   <string name="tc_sms_report_receive_num">Nummer des Empfängers</string>
   <string name="tc_sms_report_send_num">Anbieternummer</string>
   <string name="tc_sms_report_summary">Helfen Sie uns diese Funktion zu verbessern, indem Sie uns eine fehlerhafte Datenverbrauchsübersicht oder Aktualisierungsfehler melden</string>
@@ -2527,7 +2617,7 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="tips_of_package_set">Legen Sie Ihren Datenverbrauch fest und steuern Sie das Verbindungsaufkommen</string>
   <string name="tips_of_traffic_pack_threshold">Mehr Datenvolumen kaufen, wenn Datenverbrauchsgrenze fast erreicht wurde</string>
   <string name="tips_of_virus_scan">Scannen Sie Ihr Gerät regelmäßig auf Viren, um es sicher zu halten</string>
-    <string name="title_antivirus">Tencents Datenschutzbestimmungen</string>
+  <string name="title_antivirus">Tencents Datenschutzbestimmungen</string>
   <string name="title_app_lock_disable">Anwendungen sperren</string>
   <string name="title_app_update">Updates vorhanden</string>
   <string name="title_auto_update">Automatisch aktualisieren</string>
@@ -2542,7 +2632,7 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="title_data_flow">Datenverbrauchsüberwachung</string>
   <string name="title_data_flow_no">Überwachung aus</string>
   <string name="title_data_flow_yes">Überwachung an</string>
-    <string name="title_default_app">"MIUI %s ist nicht der Standard"</string>
+  <string name="title_default_app">"MIUI %s ist nicht der Standard"</string>
   <string name="title_dev_no">Entwickleroptionen an</string>
   <string name="title_dev_yes">Entwickleroptionen aus</string>
   <string name="title_find_device">\"Gerät finden\" einschalten</string>
@@ -2559,8 +2649,8 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="title_live_talk_purchase">Aufladepaket einschalten</string>
   <string name="title_mifi_insurance">Erweiterte Garantie</string>
   <string name="title_miui_update">Update vorhanden</string>
-    <string name="title_miui_update_no">Update MIUI gefunden: %s</string>
-    <string name="title_miui_update_yes">MIUI aktualisiert</string>
+  <string name="title_miui_update_no">Update MIUI gefunden: %s</string>
+  <string name="title_miui_update_yes">MIUI aktualisiert</string>
   <string name="title_mms_no">Nachrichtenfilter ist aus</string>
   <string name="title_mms_yes">Nachrichtenfilter ist an</string>
   <string name="title_network_switch">Internetverbindung erlauben</string>
@@ -2610,24 +2700,38 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="traffic_alert_auto_modify_notification_titile">Datenverbrauchsplan aktualisiert</string>
   <string name="traffic_alert_auto_modify_package_summary">"Datenpakete automatisch anpassen, je nach Trägerinformationen"</string>
   <string name="traffic_config_alert_auto_modify">Datenverbrauchsplan automatisch aktualisieren</string>
-  <string name="traffic_config_alert_body">"Ihr Anbieter übermittelt ein monatliches Datenlimit von %s.
+  <string name="traffic_config_alert_body">
+    "Ihr Anbieter übermittelt ein monatliches Datenlimit von %s.
 
-Wollen Sie diese Daten übernehmen?"</string>
-  <string name="traffic_config_alert_body_extra">"
-Sie kauften diesen Monat %1$s zusätzliches Datenvolumen. Dies unterscheidet sich vom %2$s, was Sie manuell eingerichtet haben."</string>
-  <string name="traffic_config_alert_body_extra_notset">"
-kauften diesen Monat %1$s zusätzliches Datenvolumen. Dieses ist nicht im monatlichen Limit enthalten, welches Sie manuell eingerichtet haben."</string>
-  <string name="traffic_config_alert_body_leisure">"
-monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manuell eingestellten %2$s."</string>
-  <string name="traffic_config_alert_body_leisure_notset">"
-Ihr monatlich eingestelltes Limit ist %1$s. Sie haben kein maximales Datenlimit festgelegt."</string>
-  <string name="traffic_config_alert_body_normal">"
-Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manuell eingestellten %2$s."</string>
+    Wollen Sie diese Daten übernehmen?"
+  </string>
+  <string name="traffic_config_alert_body_extra">
+    "
+    Sie kauften diesen Monat %1$s zusätzliches Datenvolumen. Dies unterscheidet sich vom %2$s, was Sie manuell eingerichtet haben."
+  </string>
+  <string name="traffic_config_alert_body_extra_notset">
+    "
+    kauften diesen Monat %1$s zusätzliches Datenvolumen. Dieses ist nicht im monatlichen Limit enthalten, welches Sie manuell eingerichtet haben."
+  </string>
+  <string name="traffic_config_alert_body_leisure">
+    "
+    monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manuell eingestellten %2$s."
+  </string>
+  <string name="traffic_config_alert_body_leisure_notset">
+    "
+    Ihr monatlich eingestelltes Limit ist %1$s. Sie haben kein maximales Datenlimit festgelegt."
+  </string>
+  <string name="traffic_config_alert_body_normal">
+    "
+    Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manuell eingestellten %2$s."
+  </string>
   <string name="traffic_config_alert_cancel">Abbrechen</string>
   <string name="traffic_config_alert_nomore">"Nicht mehr zeigen"</string>
   <string name="traffic_config_alert_ok">OK</string>
-  <string name="traffic_config_alert_package">"
-Extradatenverbrauch überschritten"</string>
+  <string name="traffic_config_alert_package">
+    "
+    Extradatenverbrauch überschritten"
+  </string>
   <string name="traffic_config_alert_setted">Einstellungen wurden übernommen</string>
   <string name="traffic_config_alert_title">%s Korrektur</string>
   <string name="traffic_correction_failed">"Information nicht verfügbar"</string>
@@ -2636,73 +2740,81 @@ Extradatenverbrauch überschritten"</string>
   <string name="traffic_correction_success">Datenverbrauch aktualisiert</string>
   <string name="traffic_correction_success_notify_message">Details anzeigen.</string>
   <string name="traffic_limit_error_alert_body">Ihr Anbieter übermittelt, dass Ihnen noch %1$s diesen Monat verbleiben. Das ist mehr, als das %2$s Limit, was Sie eingestellt haben.</string>
-  <string name="traffic_limit_error_alert_package">"
+  <string name="traffic_limit_error_alert_package">
+    "
 
-Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem letzten Monat überschritten wurde."</string>
+    Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem letzten Monat überschritten wurde."
+  </string>
   <string name="traffic_limit_error_alert_reset">Limit zurücksetzen</string>
-    <string name="traffic_limit_error_alert_title">Erinnerung der Datenbeschränkung %s</string>
+  <string name="traffic_limit_error_alert_title">Erinnerung der Datenbeschränkung %s</string>
   <string name="traffic_none">Keine</string>
   <string name="traffic_over_purchase_body">Antippen, um Details anzuzeigen.</string>
-  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten. Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen. <font color='#ccffffff'><u>Top up now and save 50%.</u></font>"</string>
+  <string name="traffic_over_purchase_link">
+    "Sie haben Ihr mobiles Datenlimit überschritten. Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen. <font color='#ccffffff'>
+      <u>Top up now and save 50%.</u>
+    </font>"
+  </string>
   <string name="traffic_over_purchase_title">Datenlimit überschritten</string>
-    <string name="traffic_protection_data_usage_summary">Einstellen einer Datenverbrauchswarnung, um Ihr monatliches Limit nicht zu überschreiten.</string>
-    <string name="traffic_protection_label">Datenverbrauchswarnung</string>
-    <string name="traffic_protection_next">Weiter</string>
-    <string name="traffic_protection_summary">Alarm wenn der Datenverbrauch eine bestimmte Grenze überschreitet</string>
-    <string name="traffic_protection_text_hint">Datenlimit für %s einstellen</string>
-    <string name="traffic_protection_unknown"><u>Später einstellen</u></string>
-    <string name="traffic_protection_use_data">Mobile Datenverbindung</string>
+  <string name="traffic_protection_data_usage_summary">Einstellen einer Datenverbrauchswarnung, um Ihr monatliches Limit nicht zu überschreiten.</string>
+  <string name="traffic_protection_label">Datenverbrauchswarnung</string>
+  <string name="traffic_protection_next">Weiter</string>
+  <string name="traffic_protection_summary">Alarm wenn der Datenverbrauch eine bestimmte Grenze überschreitet</string>
+  <string name="traffic_protection_text_hint">Datenlimit für %s einstellen</string>
+  <string name="traffic_protection_unknown">
+    <u>Später einstellen</u>
+  </string>
+  <string name="traffic_protection_use_data">Mobile Datenverbindung</string>
   <string name="traffic_purchase_body">Antippen, um Ihr Guthaben aufzuladen.</string>
   <string name="traffic_purchse_suggestion">Datenlimit überschritten</string>
-    <string name="traffic_saving_button_mng">Apps verwalten</string>
-    <string name="traffic_saving_button_sorted">Details</string>
-    <string name="traffic_saving_button_sorted_chose_simcard">Sortiert nach</string>
-    <string name="traffic_saving_button_start">Einschalten</string>
-    <string name="traffic_saving_button_stop">Ausschalten</string>
-    <string name="traffic_saving_can_optimized">Optimieren</string>
-    <string name="traffic_saving_detail">Details</string>
-    <string name="traffic_saving_history_title">Verlauf</string>
-    <string name="traffic_saving_history_total_money">Gesamt gespart</string>
-    <string name="traffic_saving_history_total_money_unit">RMB</string>
-    <string name="traffic_saving_history_total_month">"Diesen Monat gespart: "</string>
-    <string name="traffic_saving_history_total_month_default">Durchschnittliche Ersparnis pro Monat</string>
-    <string name="traffic_saving_history_total_rate">Tarif</string>
-    <string name="traffic_saving_history_total_rate_unit">%</string>
-    <string name="traffic_saving_history_total_traffic">Daten reduziert</string>
-    <string name="traffic_saving_mobile_usage">Mobilverbrauch</string>
-    <string name="traffic_saving_msg_month">Diesen Monat gespart</string>
-    <string name="traffic_saving_msg_not_started">Datenreduzierer ist AUS</string>
-    <string name="traffic_saving_msg_today">heute gespart</string>
-    <string name="traffic_saving_need_optimize">Kann optimiert werden</string>
-    <string name="traffic_saving_notification_button_start">Aktivieren</string>
-    <string name="traffic_saving_notify_no_apps_saving">Datenverbrauch reduzieren</string>
-    <string name="traffic_saving_notify_no_apps_saving_content">Tippen, um die Datenreduzierung zu aktivieren.</string>
-    <string name="traffic_saving_notify_start_content">Diesen Monat %s gespart.</string>
-    <string name="traffic_saving_notify_start_title">Datenverbrauch reduziert</string>
-    <string name="traffic_saving_one_key_optimize">Optimieren, um Datenverbrauch zu reduzieren</string>
-    <string name="traffic_saving_optimized">Bereits optimiert</string>
-    <string name="traffic_saving_pic_compress_orig">Original</string>
-    <string name="traffic_saving_ratio">Datenverbrauch reduziert %.2f%%</string>
-    <string name="traffic_saving_ratio_low">"Datenverbrauch kann nicht deutlich reduziert werden"</string>
-    <string name="traffic_saving_recommanded_close">Dieses Element ausschalten</string>
-    <string name="traffic_saving_recommanded_open">Dieses Element ausschalten</string>
-    <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Datenreduzierer automatisch aktivieren, um mobile Datennutzung von Apps zu reduzieren.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Wenn Sie einen monatliche Datentarif haben, denken Sie daran, Datenreduzierer für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu meiden.&lt;/font&gt;"</string>
-    <string name="traffic_saving_start_tip_title">Aktivieren</string>
-    <string name="traffic_saving_tecsupport">Bereitgestellt von Opera</string>
-    <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
-    <string name="traffic_saving_title">Datenreduzierer</string>
-    <string name="traffic_saving_toast_start_mobile">Datenreduzierer ist ein</string>
-    <string name="traffic_saving_toast_start_none_mobile">Datenreduzierer startet automatisch, wenn Sie die mobile Datenverbindung nutzen</string>
-    <string name="traffic_saving_toast_start_unreachable">Datenreduzierer kann nicht gestartet werden</string>
-    <string name="traffic_saving_toast_stop">Datenreduzierer ist ausgeschaltet</string>
-    <string name="traffic_saving_whitelist_btn_add">Hinzufügen</string>
-    <string name="traffic_saving_whitelist_btn_add_app">Hinzufügen</string>
-    <string name="traffic_saving_whitelist_btn_added">Hinzugefügt</string>
-    <string name="traffic_saving_whitelist_btn_remove">Entfernen</string>
-    <string name="traffic_saving_whitelist_btn_removed">Die App wurde von der Liste entfernt</string>
-    <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; Apps' Datennutzung ist nicht begrenzt"</string>
-    <string name="traffic_saving_whitelist_no_app">Keine Apps</string>
-    <string name="traffic_saving_wifi_usage">WLAN-Verbrauch</string>
+  <string name="traffic_saving_button_mng">Apps verwalten</string>
+  <string name="traffic_saving_button_sorted">Details</string>
+  <string name="traffic_saving_button_sorted_chose_simcard">Sortiert nach</string>
+  <string name="traffic_saving_button_start">Einschalten</string>
+  <string name="traffic_saving_button_stop">Ausschalten</string>
+  <string name="traffic_saving_can_optimized">Optimieren</string>
+  <string name="traffic_saving_detail">Details</string>
+  <string name="traffic_saving_history_title">Verlauf</string>
+  <string name="traffic_saving_history_total_money">Gesamt gespart</string>
+  <string name="traffic_saving_history_total_money_unit">RMB</string>
+  <string name="traffic_saving_history_total_month">"Diesen Monat gespart: "</string>
+  <string name="traffic_saving_history_total_month_default">Durchschnittliche Ersparnis pro Monat</string>
+  <string name="traffic_saving_history_total_rate">Tarif</string>
+  <string name="traffic_saving_history_total_rate_unit">%</string>
+  <string name="traffic_saving_history_total_traffic">Daten reduziert</string>
+  <string name="traffic_saving_mobile_usage">Mobilverbrauch</string>
+  <string name="traffic_saving_msg_month">Diesen Monat gespart</string>
+  <string name="traffic_saving_msg_not_started">Datenreduzierer ist AUS</string>
+  <string name="traffic_saving_msg_today">heute gespart</string>
+  <string name="traffic_saving_need_optimize">Kann optimiert werden</string>
+  <string name="traffic_saving_notification_button_start">Aktivieren</string>
+  <string name="traffic_saving_notify_no_apps_saving">Datenverbrauch reduzieren</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Tippen, um die Datenreduzierung zu aktivieren.</string>
+  <string name="traffic_saving_notify_start_content">Diesen Monat %s gespart.</string>
+  <string name="traffic_saving_notify_start_title">Datenverbrauch reduziert</string>
+  <string name="traffic_saving_one_key_optimize">Optimieren, um Datenverbrauch zu reduzieren</string>
+  <string name="traffic_saving_optimized">Bereits optimiert</string>
+  <string name="traffic_saving_pic_compress_orig">Original</string>
+  <string name="traffic_saving_ratio">Datenverbrauch reduziert %.2f%%</string>
+  <string name="traffic_saving_ratio_low">"Datenverbrauch kann nicht deutlich reduziert werden"</string>
+  <string name="traffic_saving_recommanded_close">Dieses Element ausschalten</string>
+  <string name="traffic_saving_recommanded_open">Dieses Element ausschalten</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Datenreduzierer automatisch aktivieren, um mobile Datennutzung von Apps zu reduzieren.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Wenn Sie einen monatliche Datentarif haben, denken Sie daran, Datenreduzierer für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu meiden.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Aktivieren</string>
+  <string name="traffic_saving_tecsupport">Bereitgestellt von Opera</string>
+  <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
+  <string name="traffic_saving_title">Datenreduzierer</string>
+  <string name="traffic_saving_toast_start_mobile">Datenreduzierer ist ein</string>
+  <string name="traffic_saving_toast_start_none_mobile">Datenreduzierer startet automatisch, wenn Sie die mobile Datenverbindung nutzen</string>
+  <string name="traffic_saving_toast_start_unreachable">Datenreduzierer kann nicht gestartet werden</string>
+  <string name="traffic_saving_toast_stop">Datenreduzierer ist ausgeschaltet</string>
+  <string name="traffic_saving_whitelist_btn_add">Hinzufügen</string>
+  <string name="traffic_saving_whitelist_btn_add_app">Hinzufügen</string>
+  <string name="traffic_saving_whitelist_btn_added">Hinzugefügt</string>
+  <string name="traffic_saving_whitelist_btn_remove">Entfernen</string>
+  <string name="traffic_saving_whitelist_btn_removed">Die App wurde von der Liste entfernt</string>
+  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; Apps' Datennutzung ist nicht begrenzt"</string>
+  <string name="traffic_saving_whitelist_no_app">Keine Apps</string>
+  <string name="traffic_saving_wifi_usage">WLAN-Verbrauch</string>
   <string name="traffic_setting_app_count">%d Apps</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Datentarif und Verbrauchslimit festlegen</string>
@@ -2762,7 +2874,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="usbsharenet_exception_title">USB-Internetfreigabe testen</string>
   <string name="usbsharenet_pc_exception_summary">Es kann keine Internetverbindung über die geteilte Verbindung hergestellt werden. Überprüfen Sie die Internetverbindung des Computers.</string>
   <string name="use_immediately">Verwenden</string>
-    <string name="user_define_title">Regeln hinzufügen</string>
+  <string name="user_define_title">Regeln hinzufügen</string>
   <string name="virus_ad_icon_text">Ad</string>
   <string name="virus_already_update">Definitionen sind aktuell</string>
   <string name="virus_dp_update_title">Definitionen aktualisieren</string>
@@ -2778,7 +2890,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="warning_open_mi_sim">Aktivieren Sie Mi SIM</string>
   <string name="white_list_risk_app_header">Gefährliche Apps: %d</string>
   <string name="white_list_trojan_header">Trojaner: %d</string>
-    <string name="whitelist_prefix_add_hint">Alle Nummern mit Vorwahl zur Ausnahmeliste hinzufügen</string>
+  <string name="whitelist_prefix_add_hint">Alle Nummern mit Vorwahl zur Ausnahmeliste hinzufügen</string>
   <string name="wifi_exception_summary">Teste verfügbare WLAN-Netzwerke</string>
   <string name="wifi_exception_title">Teste WLAN-Netzwerk</string>
   <string name="wifi_item_status_connection_no">Nicht verbunden</string>
@@ -2789,29 +2901,29 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="wifi_item_title_encryption">WLAN-Verschlüsselung</string>
   <string name="wifi_item_title_fake">Gefälschtes WLAN erkannt</string>
   <string name="wifi_network_blocked_notification_title">Keine Internetverbindung verfügbar</string>
-    <string name="wl_no_whitelist">Keine Ausnahmen</string>
-    <string name="xiaomi_traffic_pass_btn_purchase">Erwerben Sie mehr</string>
-    <string name="xiaomi_traffic_pass_dialog_warning_title">Mi Datentarif Benachrichtigung</string>
-    <string name="xiaomi_traffic_pass_exhausted">Keine mobilen Daten bei Ihrem Mi Datentarif. Zum Datentarif Ihres Betreibers gewechselt.</string>
-    <string name="xiaomi_traffic_pass_expiry_date">Aktiv bis %s</string>
-    <string name="xiaomi_traffic_pass_in_use">In Verwendung</string>
-    <string name="xiaomi_traffic_pass_not_current_simcard">Wechseln Sie die mobile Datenkarten um Mi Datendienste zu nutzen.  Jetzt wechseln?</string>
-    <string name="xiaomi_traffic_pass_not_support">Ihr Mobilfunkanbieter unterstützt diese Funktion nicht</string>
-    <string name="xiaomi_traffic_pass_notify_content_using">Verbleiben %s</string>
-    <string name="xiaomi_traffic_pass_notify_title_using">Verwende Mi Datentarif</string>
-    <string name="xiaomi_traffic_pass_pass_activate_msg">Mi Datentarif gefunden. Einschalten?</string>
-    <string name="xiaomi_traffic_pass_passes_empty">Keine mobilen Daten verfügbar, erwerben Sie erst Datenvolumen</string>
-    <string name="xiaomi_traffic_pass_purchase">Mobile Daten erwerben</string>
-    <string name="xiaomi_traffic_pass_remain">Verbleiben %s</string>
-    <string name="xiaomi_traffic_pass_service_down">Verbindung mit dem Server konnte nicht aufgebaut werden, gewechselt zum Datentarif Ihres Anbieters</string>
-    <string name="xiaomi_traffic_pass_service_up">Verbindung mit dem Server ist aufgebaut, gewechselt zum Mi Datentarif</string>
-    <string name="xiaomi_traffic_pass_start_failed_service_down">Mi Datentarif konnte nicht eingeschaltet werden</string>
-    <string name="xiaomi_traffic_pass_title">Mi Datentarif</string>
-    <string name="xiaomi_traffic_pass_toast_start">Datentarif an</string>
-    <string name="xiaomi_traffic_pass_toast_stop">Mi Datentarif aus</string>
-    <string name="xiaomi_traffic_pass_type_general">Unbegrenzte Datentarife</string>
-    <string name="xiaomi_traffic_pass_type_other">Begrenzte Datentarife</string>
-    <string name="xiaomi_traffic_pass_used">Verbrauch %s von Ihrem Mi Datentarif</string>
-    <string name="xiaomi_traffic_pass_warning">Keine mobilen Daten bei Ihrem Mi Datentarif verfügbar</string>
-    <string name="xiaomi_traffic_return">Zurück</string>
+  <string name="wl_no_whitelist">Keine Ausnahmen</string>
+  <string name="xiaomi_traffic_pass_btn_purchase">Erwerben Sie mehr</string>
+  <string name="xiaomi_traffic_pass_dialog_warning_title">Mi Datentarif Benachrichtigung</string>
+  <string name="xiaomi_traffic_pass_exhausted">Keine mobilen Daten bei Ihrem Mi Datentarif. Zum Datentarif Ihres Betreibers gewechselt.</string>
+  <string name="xiaomi_traffic_pass_expiry_date">Aktiv bis %s</string>
+  <string name="xiaomi_traffic_pass_in_use">In Verwendung</string>
+  <string name="xiaomi_traffic_pass_not_current_simcard">Wechseln Sie die mobile Datenkarten um Mi Datendienste zu nutzen.  Jetzt wechseln?</string>
+  <string name="xiaomi_traffic_pass_not_support">Ihr Mobilfunkanbieter unterstützt diese Funktion nicht</string>
+  <string name="xiaomi_traffic_pass_notify_content_using">Verbleiben %s</string>
+  <string name="xiaomi_traffic_pass_notify_title_using">Verwende Mi Datentarif</string>
+  <string name="xiaomi_traffic_pass_pass_activate_msg">Mi Datentarif gefunden. Einschalten?</string>
+  <string name="xiaomi_traffic_pass_passes_empty">Keine mobilen Daten verfügbar, erwerben Sie erst Datenvolumen</string>
+  <string name="xiaomi_traffic_pass_purchase">Mobile Daten erwerben</string>
+  <string name="xiaomi_traffic_pass_remain">Verbleiben %s</string>
+  <string name="xiaomi_traffic_pass_service_down">Verbindung mit dem Server konnte nicht aufgebaut werden, gewechselt zum Datentarif Ihres Anbieters</string>
+  <string name="xiaomi_traffic_pass_service_up">Verbindung mit dem Server ist aufgebaut, gewechselt zum Mi Datentarif</string>
+  <string name="xiaomi_traffic_pass_start_failed_service_down">Mi Datentarif konnte nicht eingeschaltet werden</string>
+  <string name="xiaomi_traffic_pass_title">Mi Datentarif</string>
+  <string name="xiaomi_traffic_pass_toast_start">Datentarif an</string>
+  <string name="xiaomi_traffic_pass_toast_stop">Mi Datentarif aus</string>
+  <string name="xiaomi_traffic_pass_type_general">Unbegrenzte Datentarife</string>
+  <string name="xiaomi_traffic_pass_type_other">Begrenzte Datentarife</string>
+  <string name="xiaomi_traffic_pass_used">Verbrauch %s von Ihrem Mi Datentarif</string>
+  <string name="xiaomi_traffic_pass_warning">Keine mobilen Daten bei Ihrem Mi Datentarif verfügbar</string>
+  <string name="xiaomi_traffic_return">Zurück</string>
 </resources>

@@ -2,34 +2,34 @@
 <resources>
 
   <string name="activity_main_clickable">></string>
-     <string name="activity_minute_rain_location_fail_msg">Lokalisierung fehlgeschlagen, Standardstandort der Karte ist Peking</string>
-     <string name="alert_detail_title">Alarm Details</string>
-     <string name="aqi_fifteen_dates_time_format">d/M</string>
-     <string name="aqi_short_desc">AQI %1$s</string>
-     <string name="card_vote_item_vs">VS</string>
-     <string name="content_desc_activity_main_add_city">Stadt hinzufügen</string>
-     <string name="content_desc_activity_main_add_city_manage">Stadt Eisntellungen</string>
-     <string name="content_desc_activity_main_more_settings">Mehr Einstellungen</string>
-     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
-     <string name="hourly_forecast_date">d/M</string>
-     <string name="install_progress">%1$s%%</string>
-     <string name="it_is_going_to_rain">Es wird regnen</string>
-     <string name="menu_speeker">Sprachübertragung</string>
-     <string name="night_not_disturb_settings_summary">Erhalten Sie nicht alle Wetterhinweise von 23:00 bis 07:00 am nächsten Tag nach der Eröffnung</string>
-     <string name="night_not_disturb_settings_title">Nachts nicht stören</string>
-     <string name="other_warning_settings">Andere Warneinstellungen</string>
-     <string name="rainfall_settings_summary">Niederschlagseinstellungen</string>
-     <string name="rainfall_settings_title">Niederschlag Warnung</string>
-     <string name="realtime_temperature_no_data">N/A</string>
-     <string name="realtime_wind_default_title">Wind</string>
-     <string name="reminder_from_xiaomi_weather_app">Erinnerung Von Xiaomi Wetter APP</string>
-     <string name="update_night_setting_summary_text">Wird nicht automatisch aktualisiert 23: 00-07: 00 nach geschlossen</string>
-     <string name="update_night_setting_title_text">Nachts automatisch aktualisieren</string>
-     <string name="update_setting_title_text">Einstellungen aktualisieren</string>
-     <string name="wind_direction_no_data">Wind</string>
-     <string name="your_location">Ihr Standort</string>
-  
+  <string name="activity_minute_rain_location_fail_msg">Lokalisierung fehlgeschlagen, Standardstandort der Karte ist Peking</string>
+  <string name="alert_detail_title">Alarm Details</string>
+  <string name="aqi_fifteen_dates_time_format">d/M</string>
+  <string name="aqi_short_desc">AQI %1$s</string>
+  <string name="card_vote_item_vs">VS</string>
+  <string name="content_desc_activity_main_add_city">Stadt hinzufügen</string>
+  <string name="content_desc_activity_main_add_city_manage">Stadt Eisntellungen</string>
+  <string name="content_desc_activity_main_more_settings">Mehr Einstellungen</string>
+  <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+  <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
+  <string name="hourly_forecast_date">d/M</string>
+  <string name="install_progress">%1$s%%</string>
+  <string name="it_is_going_to_rain">Es wird regnen</string>
+  <string name="menu_speeker">Sprachübertragung</string>
+  <string name="night_not_disturb_settings_summary">Erhalten Sie nicht alle Wetterhinweise von 23:00 bis 07:00 am nächsten Tag nach der Eröffnung</string>
+  <string name="night_not_disturb_settings_title">Nachts nicht stören</string>
+  <string name="other_warning_settings">Andere Warneinstellungen</string>
+  <string name="rainfall_settings_summary">Niederschlagseinstellungen</string>
+  <string name="rainfall_settings_title">Niederschlag Warnung</string>
+  <string name="realtime_temperature_no_data">N/A</string>
+  <string name="realtime_wind_default_title">Wind</string>
+  <string name="reminder_from_xiaomi_weather_app">Erinnerung Von Xiaomi Wetter APP</string>
+  <string name="update_night_setting_summary_text">Wird nicht automatisch aktualisiert 23: 00-07: 00 nach geschlossen</string>
+  <string name="update_night_setting_title_text">Nachts automatisch aktualisieren</string>
+  <string name="update_setting_title_text">Einstellungen aktualisieren</string>
+  <string name="wind_direction_no_data">Wind</string>
+  <string name="your_location">Ihr Standort</string>
+
   <string name="act_find_city_hint">Ort eingeben</string>
   <string name="act_find_city_hot_city_title">Beliebte Städte</string>
   <string name="act_find_city_hot_attractions_title">Beliebte Standorte</string>
@@ -106,7 +106,7 @@
   <string name="close">Schließen</string>
   <string name="commercial">Kommerziell</string>
   <string name="common_loading_text">Wird geladen...</string>
-    <string name="connect_fail">Netzwerkverbindung fehlgeschlagen. Versuchen Sie es später noch einmal.</string>
+  <string name="connect_fail">Netzwerkverbindung fehlgeschlagen. Versuchen Sie es später noch einmal.</string>
   <string name="data_provided_by">Zur Verfügung gestellt von</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
   <string name="daily_forcast_drawer_on_top">Weitere Tage</string>
@@ -121,9 +121,11 @@
   <string name="daily_forecast_detail">Vorhersage</string>
   <string name="daily_forecast_detail_date">d.M.</string>
   <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
-    <string name="daily_forecast_no_data">Daten konnten nicht geladen werden
-nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstellungen</string>
-    <string name="delete">Löschen</string>
+  <string name="daily_forecast_no_data">
+    Daten konnten nicht geladen werden
+    nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstellungen
+  </string>
+  <string name="delete">Löschen</string>
   <string name="edit_alert_city_title">Warnungen verwalten</string>
   <string name="edit_city">Bearbeiten</string>
   <string name="empty">" "</string>
@@ -239,7 +241,7 @@ nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstel
   <string name="share_button">Teilen</string>
   <string name="share_menu_title">Teilen</string>
   <string name="share_subject">Teilen</string>
-  <string name="share_title">Teile Wetterbericht</string>  
+  <string name="share_title">Teile Wetterbericht</string>
   <string name="share_weather_desc">\#MIUI Weather#Heute %1$s %2$s</string>
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">", "</string>

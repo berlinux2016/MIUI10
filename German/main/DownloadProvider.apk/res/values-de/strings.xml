@@ -2,18 +2,18 @@
 <resources>
 
   <string name="dialog_button_cancel">Abbrechen</string>
-     <string name="dialog_button_ok">OK</string>
-     <string name="dialog_content_limit0">Downloads beschränken</string>
-     <string name="dialog_content_limit_max">Unbeschränkt</string>
-     <string name="dialog_data_limit_button1">Warte auf WLAN-Verbindung</string>
-     <string name="dialog_data_limit_button2">Jetzt herunterladen</string>
-     <string name="dialog_data_limit_msg1">%s werden genutzt um die Datei herunterzuladen. Jetzt herunterladen?</string>
-     <string name="dialog_data_limit_msg3">Limit ändern</string>
-     <string name="dialog_data_limit_title">Datenverbrauchswarnung</string>
-     <string name="dialog_tip_limit">Warnen, wenn Daten größer als %s sind</string>
-     <string name="dialog_tip_limit0">Jedes mal warnen</string>
-     <string name="dialog_tip_no_limit">"Nicht warnen"</string>
-	 
+  <string name="dialog_button_ok">OK</string>
+  <string name="dialog_content_limit0">Downloads beschränken</string>
+  <string name="dialog_content_limit_max">Unbeschränkt</string>
+  <string name="dialog_data_limit_button1">Warte auf WLAN-Verbindung</string>
+  <string name="dialog_data_limit_button2">Jetzt herunterladen</string>
+  <string name="dialog_data_limit_msg1">%s werden genutzt um die Datei herunterzuladen. Jetzt herunterladen?</string>
+  <string name="dialog_data_limit_msg3">Limit ändern</string>
+  <string name="dialog_data_limit_title">Datenverbrauchswarnung</string>
+  <string name="dialog_tip_limit">Warnen, wenn Daten größer als %s sind</string>
+  <string name="dialog_tip_limit0">Jedes mal warnen</string>
+  <string name="dialog_tip_no_limit">"Nicht warnen"</string>
+
   <string name="app_label">Downloadmanager</string>
   <string name="auto_restart_under_wifi">Runterladen der Datei bei aktiver WLAN-Verbindung automatisch starten</string>
   <string name="button_cancel_download">Abbrechen</string>
@@ -84,13 +84,17 @@
   <string name="warning_tip_content">"Sie sind nicht mehr mit einem WLAN verbunden. Das Fertigstellen dieses Downloads wird Ihren mobilen Datenverbrauch merklich erhöhen."</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">Datenverbrauchswarnung</string>
-  <string name="wifi_recommended_body" formatted="false">"Der Download von %s kann die Akkulaufzeit verkürzen/die mobile Datenverbindung überlasten. Je nach Vertrag können zusätzliche Kosten entstehen.
+  <string name="wifi_recommended_body" formatted="false">
+    "Der Download von %s kann die Akkulaufzeit verkürzen/die mobile Datenverbindung überlasten. Je nach Vertrag können zusätzliche Kosten entstehen.
 
-Tippen Sie auf %s, um den Download bei der nächsten WLAN-Verbindung zu starten."</string>
+    Tippen Sie auf %s, um den Download bei der nächsten WLAN-Verbindung zu starten."
+  </string>
   <string name="wifi_recommended_title">Zum späteren Download auf die Warteschlange setzen?</string>
-  <string name="wifi_required_body" formatted="false">"Sie müssen eine WLAN-Verbindung nutzen, um den Download von (%s) abzuschließen.
+  <string name="wifi_required_body" formatted="false">
+    "Sie müssen eine WLAN-Verbindung nutzen, um den Download von (%s) abzuschließen.
 
-Tippen Sie auf %s, um den Download bei der nächsten WLAN-Verbindung zu starten."</string>
+    Tippen Sie auf %s, um den Download bei der nächsten WLAN-Verbindung zu starten."
+  </string>
   <string name="wifi_required_title">Download zu groß für Netzwerk dieses Betreibers.</string>
   <string name="xl_speedup_experience_notify_context">Wenn Sie Xunlei-Mitglied werden, wird die Geschwindigkeit bei jedem Download gesteigert</string>
   <string name="xl_speedup_experience_notify_title">Xunlei-Migliedschaft</string>

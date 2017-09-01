@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- To Translate -->
-	<plurals name="auto_answer_summary_delay">
-        <item quantity="other">delay: %s seconds</item>
-        <item quantity="one">delay: %s second</item>
-     </plurals>
-     <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d numbers</item>
-        <item quantity="one">%d number</item>
-     </plurals>
-     <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">%d numbers will be deleted.</item>
-        <item quantity="one">%d number will be deleted.</item>
-     </plurals>
-     <plurals name="pin_attempts">
-        <item quantity="other">"
-%d attempts remaining."</item>
-        <item quantity="one">"
-%d attempt remaining."</item>
-     </plurals>
-	
-	<plurals name="remove_numbers_confirm">
-        <item quantity="other">%d Nummern werden gelöscht.</item>
-        <item quantity="one">%d Nummer wird gelöscht.</item>
-    </plurals>   
-    <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Keine Datenverbindung seit %s Minuten</item>
-        <item quantity="one">Keine Datenverbindung seit %s Minute</item>
-    </plurals>
-    <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Das Telefon wird für %s Minuten in den Notfallrückrufmodus  geschaltet. Während dieser Zeit können keine Apps mit Datenverbindung genutzt werden. Möchten Sie diesen jetzt deaktivieren?</item>
-        <item quantity="one">Das Telefon wird für %s Minute in den Notfallrückrufmodus geschaltet. Während dieser Zeit können keine Apps mit Datenverbindung genutzt werden. Möchten Sie diesen jetzt deaktivieren?</item>
-    </plurals>
-    <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">"Die gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Das Telefon ist die nächsten %s Minuten in diesem Modus. Möchten Sie diesen jetzt deaktivieren?"</item>
-        <item quantity="one">"Die gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Das Telefon ist die nächste %s Minute in diesem Modus. Möchten Sie diesen jetzt deaktivieren?"</item>
-    </plurals>
-    <plurals name="call_record_add_white_list_over_reminder">
-        <item quantity="other">Sie können %s Personen hinzufügen, wählen Sie noch einmal.</item>
-        <item quantity="one">Sie können %s Persone hinzufügen, wählen Sie noch einmal.</item>
-    </plurals>
+  <!-- To Translate -->
+  <plurals name="auto_answer_summary_delay">
+    <item quantity="other">delay: %s seconds</item>
+    <item quantity="one">delay: %s second</item>
+  </plurals>
+  <plurals name="call_record_auto_whitelist_summary">
+    <item quantity="other">%d numbers</item>
+    <item quantity="one">%d number</item>
+  </plurals>
+  <plurals name="call_remove_exception_numbers_confirm">
+    <item quantity="other">%d numbers will be deleted.</item>
+    <item quantity="one">%d number will be deleted.</item>
+  </plurals>
+  <plurals name="pin_attempts">
+    <item quantity="other">
+      "
+      %d attempts remaining."
+    </item>
+    <item quantity="one">
+      "
+      %d attempt remaining."
+    </item>
+  </plurals>
+
+  <plurals name="remove_numbers_confirm">
+    <item quantity="other">%d Nummern werden gelöscht.</item>
+    <item quantity="one">%d Nummer wird gelöscht.</item>
+  </plurals>
+  <plurals name="phone_in_ecm_notification_time">
+    <item quantity="other">Keine Datenverbindung seit %s Minuten</item>
+    <item quantity="one">Keine Datenverbindung seit %s Minute</item>
+  </plurals>
+  <plurals name="alert_dialog_exit_ecm">
+    <item quantity="other">Das Telefon wird für %s Minuten in den Notfallrückrufmodus  geschaltet. Während dieser Zeit können keine Apps mit Datenverbindung genutzt werden. Möchten Sie diesen jetzt deaktivieren?</item>
+    <item quantity="one">Das Telefon wird für %s Minute in den Notfallrückrufmodus geschaltet. Während dieser Zeit können keine Apps mit Datenverbindung genutzt werden. Möchten Sie diesen jetzt deaktivieren?</item>
+  </plurals>
+  <plurals name="alert_dialog_not_avaialble_in_ecm">
+    <item quantity="other">"Die gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Das Telefon ist die nächsten %s Minuten in diesem Modus. Möchten Sie diesen jetzt deaktivieren?"</item>
+    <item quantity="one">"Die gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Das Telefon ist die nächste %s Minute in diesem Modus. Möchten Sie diesen jetzt deaktivieren?"</item>
+  </plurals>
+  <plurals name="call_record_add_white_list_over_reminder">
+    <item quantity="other">Sie können %s Personen hinzufügen, wählen Sie noch einmal.</item>
+    <item quantity="one">Sie können %s Persone hinzufügen, wählen Sie noch einmal.</item>
+  </plurals>
 </resources>

@@ -2,8 +2,8 @@
 <resources>
 
   <string name="activate_feature_default_name">Mi Service</string>
-     <string name="activate_feature_mi_roaming">Mi Roaming</string>
-	 
+  <string name="activate_feature_mi_roaming">Mi Roaming</string>
+
   <string name="accept">OK</string>
   <string name="activate">Aktivieren</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS gesendet um \"Gerät finden\" zu aktivieren</string>
@@ -44,10 +44,14 @@
   <string name="activate_popup_confirm_failed_server">Wiederholen</string>
   <string name="activate_popup_desc_2_intl_sim_cards">Zum Aktivieren Ihrer %s werden 2 internationale SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
   <string name="activate_popup_desc_2_sim_cards">Zum Aktivieren Ihrer %s werden 2 SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
-  <string name="activate_popup_desc_all_gateway_failed_query_info">"Telefonnummer kann nicht gefunden werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
-Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
-  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivierungsnachricht konnte nicht gesendet werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
-Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">
+    "Telefonnummer kann nicht gefunden werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
+    Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"
+  </string>
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">
+    "Aktivierungsnachricht konnte nicht gesendet werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
+    Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"
+  </string>
   <string name="activate_popup_desc_error_device_id">Wählen Sie *#06# um Ihre IMEI-Nummer anzuzeigen</string>
   <string name="activate_popup_desc_failed_phone_error">Die eingegebene Nummer ist ungültig</string>
   <string name="activate_popup_desc_failed_query_info">Ihre Telefonnummer kann nicht abgerufen werden. Bitte stellen Sie sicher, dass Ihre SIM-Karte aktiviert ist.</string>

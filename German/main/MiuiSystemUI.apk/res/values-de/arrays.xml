@@ -1,167 +1,167 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="animator_duration_Skala_entries">
-        <item>Animation aus</item>
-        <item>Animation Skala 0.5x</item>
-        <item>Animation Skala 1x</item>
-        <item>Animation Skala 1.5x</item>
-        <item>Animation Skala 2x</item>
-        <item>Animation Skala 5x</item>
-        <item>Animation Skala 10x</item>
-     </string-array>
-     <string-array name="app_process_limit_entries">
-        <item>Standardgrenze</item>
-        <item>Keine Hintergrundprozesse</item>
-        <item>Höchstens 1 Prozess</item>
-        <item>Höchstens 2 Prozesse</item>
-        <item>Höchstens 3 Prozesse</item>
-        <item>Höchstens 4 Prozesse</item>
-     </string-array>
-     <string-array name="carrier_name">
-        <item>SmarToneVodafone</item>
-        <item>SmarToneVodafone 3G</item>
-     </string-array>
-     <string-array name="color_mode_descriptions">
-        <item>Verbesserte Farben</item>
-        <item>Natürliche Farben wie vom Auge gesehen</item>
-        <item>Farben für digitale Inhalte optimiert</item>
-     </string-array>
-     <string-array name="color_mode_names">
-        <item>Lebendig (Standard)</item>
-        <item>Natürlich</item>
-        <item>Standard</item>
-     </string-array>
-     <string-array name="debug_hw_overdraw_entries">
-        <item>Aus</item>
-        <item>Zeige überzogene Bereiche</item>
-        <item>Zeige Bereiche für Deuteranomaly</item>
-     </string-array>
-     <string-array name="enable_opengl_traces_entries">
-        <item>Keine</item>
-        <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
-     </string-array>
-     <string-array name="hdcp_checking_summaries">
-        <item>Verwenden Sie niemals die HDCP-Prüfung</item>
-        <item>Verwenden Sie die HDCP-Prüfung nur für DRM-Inhalte</item>
-        <item>Verwenden Sie immer die HDCP-Prüfung</item>
-     </string-array>
-     <string-array name="hdcp_checking_titles">
-        <item>Niemals Prüfen</item>
-        <item>Nur auf DRM-Inhalte prüfen</item>
-        <item>Immer Prüfen</item>
-     </string-array>
-     <string-array name="show_non_rect_clip_entries">
-        <item>Aus</item>
-        <item>Zeichnen Sie nicht rechteckige Clip-Region in blau</item>
-        <item>Markieren Sie die getesteten Zeichnungsbefehle grün</item>
-     </string-array>
-     <string-array name="track_frame_time_entries">
-        <item>Aus</item>
-        <item>Auf dem Bildschirm als Linien</item>
-        <item>In adb Shell Dumpsys gfxinfo</item>
-     </string-array>
-     <string-array name="transition_animation_Skala_entries">
-        <item>Animation aus</item>
-        <item>Animation Skala 0.5x</item>
-        <item>Animation Skala 1x</item>
-        <item>Animation Skala 1.5x</item>
-        <item>Animation Skala 2x</item>
-        <item>Animation Skala 5x</item>
-        <item>Animation Skala 10x</item>
-     </string-array>
-     <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-     </string-array>
-     <string-array name="tts_rate_entries">
-        <item>Sehr langsam</item>
-        <item>Langsam</item>
-        <item>Normal</item>
-        <item>Schnell</item>
-        <item>Schneller</item>
-        <item>Sehr schnell</item>
-        <item>Noch schneller</item>
-        <item>Viel schneller</item>
-        <item>Am schnellsten</item>
-     </string-array>
-     <string-array name="usb_configuration_titles">
-        <item>Aufladen</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Quelle</item>
-        <item>MIDI</item>
-     </string-array>
-     <string-array name="weather_type">
-        <item>Sonnig</item>
-        <item>Wolkig</item>
-        <item>Bedeckt</item>
-        <item>Neblig</item>
-        <item>Starkregen</item>
-        <item>Platzregen</item>
-        <item>Regensturm</item>
-        <item>Gewitter</item>
-        <item>Schauer</item>
-        <item>Schwere Regenfälle</item>
-        <item>Mäßiger Regen</item>
-        <item>Leichter Regen</item>
-        <item>Schneeregen</item>
-        <item>Schneesturm</item>
-        <item>Schneefall</item>
-        <item>Starker Schneefall</item>
-        <item>Mäßiger Schneefall</item>
-        <item>Leichter Schneefall</item>
-        <item>Starker Sandsturm</item>
-        <item>Sandsturm</item>
-        <item>Sand</item>
-        <item>Windig</item>
-        <item>Hagel</item>
-        <item>Staub</item>
-        <item>Nebel</item>
-        <item>Gefrierender Regen</item>
-        <item>Keine Daten</item>
-     </string-array>
-     <string-array name="wifi_status">
-        <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden…</item>
-        <item>Authentifizieren…</item>
-        <item>IP-Adresse erhalten…</item>
-        <item>Verbunden</item>
-        <item>Entfernt</item>
-        <item>Trennen…</item>
-        <item>Getrennt</item>
-        <item>Erfolglos</item>
-        <item>Blockiert</item>
-        <item>Vorübergehende schlechte Verbindung vermeiden</item>
-     </string-array>
-     <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden mit %1$s…</item>
-        <item>Authentifizieren mit %1$s…</item>
-        <item>IP-Adresse erhalten von %1$s…</item>
-        <item>Verbunden mit %1$s</item>
-        <item>Entfernt</item>
-        <item>Trennen von %1$s…</item>
-        <item>Getrennt</item>
-        <item>Erfolglos</item>
-        <item>Blockiert</item>
-        <item>Vorübergehende schlechte Verbindung vermeiden</item>
-     </string-array>
-     <string-array name="window_animation_Skala_entries">
-        <item>Animation aus</item>
-        <item>Animation Skala 0.5x</item>
-        <item>Animation Skala 1x</item>
-        <item>Animation Skala 1.5x</item>
-        <item>Animation Skala 2x</item>
-        <item>Animation Skala 5x</item>
-        <item>Animation Skala 10x</item>
-     </string-array>
+  <string-array name="animator_duration_Skala_entries">
+    <item>Animation aus</item>
+    <item>Animation Skala 0.5x</item>
+    <item>Animation Skala 1x</item>
+    <item>Animation Skala 1.5x</item>
+    <item>Animation Skala 2x</item>
+    <item>Animation Skala 5x</item>
+    <item>Animation Skala 10x</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item>Standardgrenze</item>
+    <item>Keine Hintergrundprozesse</item>
+    <item>Höchstens 1 Prozess</item>
+    <item>Höchstens 2 Prozesse</item>
+    <item>Höchstens 3 Prozesse</item>
+    <item>Höchstens 4 Prozesse</item>
+  </string-array>
+  <string-array name="carrier_name">
+    <item>SmarToneVodafone</item>
+    <item>SmarToneVodafone 3G</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item>Verbesserte Farben</item>
+    <item>Natürliche Farben wie vom Auge gesehen</item>
+    <item>Farben für digitale Inhalte optimiert</item>
+  </string-array>
+  <string-array name="color_mode_names">
+    <item>Lebendig (Standard)</item>
+    <item>Natürlich</item>
+    <item>Standard</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item>Aus</item>
+    <item>Zeige überzogene Bereiche</item>
+    <item>Zeige Bereiche für Deuteranomaly</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item>Keine</item>
+    <item>Logcat</item>
+    <item>Systrace (Graphics)</item>
+    <item>Call stack on glGetError</item>
+  </string-array>
+  <string-array name="hdcp_checking_summaries">
+    <item>Verwenden Sie niemals die HDCP-Prüfung</item>
+    <item>Verwenden Sie die HDCP-Prüfung nur für DRM-Inhalte</item>
+    <item>Verwenden Sie immer die HDCP-Prüfung</item>
+  </string-array>
+  <string-array name="hdcp_checking_titles">
+    <item>Niemals Prüfen</item>
+    <item>Nur auf DRM-Inhalte prüfen</item>
+    <item>Immer Prüfen</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item>Aus</item>
+    <item>Zeichnen Sie nicht rechteckige Clip-Region in blau</item>
+    <item>Markieren Sie die getesteten Zeichnungsbefehle grün</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item>Aus</item>
+    <item>Auf dem Bildschirm als Linien</item>
+    <item>In adb Shell Dumpsys gfxinfo</item>
+  </string-array>
+  <string-array name="transition_animation_Skala_entries">
+    <item>Animation aus</item>
+    <item>Animation Skala 0.5x</item>
+    <item>Animation Skala 1x</item>
+    <item>Animation Skala 1.5x</item>
+    <item>Animation Skala 2x</item>
+    <item>Animation Skala 5x</item>
+    <item>Animation Skala 10x</item>
+  </string-array>
+  <string-array name="tts_demo_strings">
+    <item>This is an example of speech synthesis in English.</item>
+    <item>Voici un échantillon de synthèse vocale en français.</item>
+    <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+    <item>Questo è un esempio di sintesi vocale in italiano.</item>
+    <item>Este es un ejemplo de síntesis de voz en español.</item>
+    <item>이것은 한국어 음성 합성의 예입니다.</item>
+  </string-array>
+  <string-array name="tts_rate_entries">
+    <item>Sehr langsam</item>
+    <item>Langsam</item>
+    <item>Normal</item>
+    <item>Schnell</item>
+    <item>Schneller</item>
+    <item>Sehr schnell</item>
+    <item>Noch schneller</item>
+    <item>Viel schneller</item>
+    <item>Am schnellsten</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>Aufladen</item>
+    <item>MTP (Media Transfer Protocol)</item>
+    <item>PTP (Picture Transfer Protocol)</item>
+    <item>RNDIS (USB Ethernet)</item>
+    <item>Audio Quelle</item>
+    <item>MIDI</item>
+  </string-array>
+  <string-array name="weather_type">
+    <item>Sonnig</item>
+    <item>Wolkig</item>
+    <item>Bedeckt</item>
+    <item>Neblig</item>
+    <item>Starkregen</item>
+    <item>Platzregen</item>
+    <item>Regensturm</item>
+    <item>Gewitter</item>
+    <item>Schauer</item>
+    <item>Schwere Regenfälle</item>
+    <item>Mäßiger Regen</item>
+    <item>Leichter Regen</item>
+    <item>Schneeregen</item>
+    <item>Schneesturm</item>
+    <item>Schneefall</item>
+    <item>Starker Schneefall</item>
+    <item>Mäßiger Schneefall</item>
+    <item>Leichter Schneefall</item>
+    <item>Starker Sandsturm</item>
+    <item>Sandsturm</item>
+    <item>Sand</item>
+    <item>Windig</item>
+    <item>Hagel</item>
+    <item>Staub</item>
+    <item>Nebel</item>
+    <item>Gefrierender Regen</item>
+    <item>Keine Daten</item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item></item>
+    <item>Scannen…</item>
+    <item>Verbinden…</item>
+    <item>Authentifizieren…</item>
+    <item>IP-Adresse erhalten…</item>
+    <item>Verbunden</item>
+    <item>Entfernt</item>
+    <item>Trennen…</item>
+    <item>Getrennt</item>
+    <item>Erfolglos</item>
+    <item>Blockiert</item>
+    <item>Vorübergehende schlechte Verbindung vermeiden</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item></item>
+    <item>Scannen…</item>
+    <item>Verbinden mit %1$s…</item>
+    <item>Authentifizieren mit %1$s…</item>
+    <item>IP-Adresse erhalten von %1$s…</item>
+    <item>Verbunden mit %1$s</item>
+    <item>Entfernt</item>
+    <item>Trennen von %1$s…</item>
+    <item>Getrennt</item>
+    <item>Erfolglos</item>
+    <item>Blockiert</item>
+    <item>Vorübergehende schlechte Verbindung vermeiden</item>
+  </string-array>
+  <string-array name="window_animation_Skala_entries">
+    <item>Animation aus</item>
+    <item>Animation Skala 0.5x</item>
+    <item>Animation Skala 1x</item>
+    <item>Animation Skala 1.5x</item>
+    <item>Animation Skala 2x</item>
+    <item>Animation Skala 5x</item>
+    <item>Animation Skala 10x</item>
+  </string-array>
 </resources>

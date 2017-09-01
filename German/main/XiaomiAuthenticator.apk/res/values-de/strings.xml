@@ -24,7 +24,9 @@
   <string name="button_uninstall_old_app">Deinstallieren</string>
   <string name="cancel">Abbrechen</string>
   <string name="change_security_lock">Mehr Bildschirmsperrmöglichkeiten</string>
-  <string name="check_code">Um den korrekten Schlüsselwert für %1$s zu überprüfen, bestätigen Sie den Integritätsprüfwert, der vom Server bereitgestellt wird:<br /></string>
+  <string name="check_code">
+    Um den korrekten Schlüsselwert für %1$s zu überprüfen, bestätigen Sie den Integritätsprüfwert, der vom Server bereitgestellt wird:<br />
+  </string>
   <string name="check_code_menu_item">Schlüsselwert überprüfen</string>
   <string name="check_code_title">Integritätsprüfwert</string>
   <string name="continue_btn">Weiter</string>
@@ -35,8 +37,10 @@
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Ihre Daten wurden erfolgreich aus der veralteten Xiaomi Authenticatorapp importiert. Jetzt kann die vorherige Version sicher deinstalliert werden, indem Sie unten klicken.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Import erfolgreich</string>
   <string name="decoding_exception">Decodierungsausnahme</string>
-  <string name="details_patternforgotten">"Reaktiviere: 
-Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
+  <string name="details_patternforgotten">
+    "Reaktiviere:
+    Bei account.xiaomi.com anmelden und Reactivate anklicken."
+  </string>
   <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">Kontonnamen eingeben</string>
   <string name="enter_key_hint">Schlüssel eingeben</string>
@@ -50,7 +54,9 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="error_qr">Kann den QR-Code nicht interpretieren.</string>
   <string name="error_title">Fehler</string>
   <string name="error_uri">Schlüssel nicht erkannt.</string>
-  <string name="forget_password"><u>Passwort vergessen</u></string>
+  <string name="forget_password">
+    <u>Passwort vergessen</u>
+  </string>
   <string name="general_security_exception">Allgemeine Sicherheitsausnahme</string>
   <string name="gif_not_support_camera_msg">Ihr Gerät unterstützt keine Videoaufnahme.</string>
   <string name="how_it_works_menu_item">Wie es funktioniert</string>
@@ -90,7 +96,9 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="lockpattern_tutorial_close_label">Schließen</string>
   <string name="lockpattern_tutorial_continue_label">Weiter</string>
   <string name="lockpattern_tutorial_jump_label">Überspringen</string>
-  <string name="lockscreen_forgot_pattern_button_text"><u>Musterpasswort vergessen</u></string>
+  <string name="lockscreen_forgot_pattern_button_text">
+    <u>Musterpasswort vergessen</u>
+  </string>
   <string name="login">Anmelden</string>
   <string name="main_preference_screen_title">Einstellungen</string>
   <string name="mycard_scan_barcode">MiID-Codescanner</string>
@@ -108,13 +116,17 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Datenschutzerklärung</string>
   <string name="progress_loading">Lädt…</string>
-  <string name="remove_Xiaomi_account_dialog_message">Dieses Konto entfernen wird <b>Ihre Fähigkeit entfernen </b> Codes zu generieren, jedoch, wird <b>not</b> die 2-Stufenverifizierung ausgestellt. Das könnte dazu führen, daß sich bei Ihrem Konto nicht mehr anmelden können. &amp;lt;p&amp;gt; Bevor Sie entfernen: &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;2-Stufenverifizierung für dieses Konto ausstellen, or&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Gehen Sie sicher, daß Sie ein Alternativmechanismus zur Codegenerierung haben.&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt;</string>
+  <string name="remove_Xiaomi_account_dialog_message">
+    Dieses Konto entfernen wird <b>Ihre Fähigkeit entfernen </b> Codes zu generieren, jedoch, wird <b>not</b> die 2-Stufenverifizierung ausgestellt. Das könnte dazu führen, daß sich bei Ihrem Konto nicht mehr anmelden können. &amp;lt;p&amp;gt; Bevor Sie entfernen: &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;2-Stufenverifizierung für dieses Konto ausstellen, or&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Gehen Sie sicher, daß Sie ein Alternativmechanismus zur Codegenerierung haben.&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt;
+  </string>
   <string name="remove_account">Konto entfernen</string>
-  <string name="remove_account_dialog_message">"Wenn Sie dieses Konto entfernen, werden Sie nicht mehr in der Lage sein einen Code zu generieren. Dies könnte Sie daran hindern sich mit Ihrem Konto anzumelden.
+  <string name="remove_account_dialog_message">
+    "Wenn Sie dieses Konto entfernen, werden Sie nicht mehr in der Lage sein einen Code zu generieren. Dies könnte Sie daran hindern sich mit Ihrem Konto anzumelden.
 
-Vor der Entfernung:
-—Schalten Sie für dieses Konto die 2-Faktorauthentifizierung aus, oder
-—Stellen Sie sicher, daß Sie einen Alternativmechanismus zur Code Generierung haben."</string>
+    Vor der Entfernung:
+    —Schalten Sie für dieses Konto die 2-Faktorauthentifizierung aus, oder
+    —Stellen Sie sicher, daß Sie einen Alternativmechanismus zur Code Generierung haben."
+  </string>
   <string name="remove_account_dialog_title">Konto entfernen?</string>
   <string name="rename">Umbenennen</string>
   <string name="rename_message">Benenne %1$s um</string>
@@ -133,7 +145,9 @@ Vor der Entfernung:
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Nutzungsbedingungen</string>
   <string name="timesync_about_feature_preference_title">Über diese Funktion</string>
-  <string name="timesync_about_feature_screen_details">"Falls Sie drücken &amp;quot;Sync now&amp;quot;, Authenticator wird einmal versuchen seine interne Uhr mit Google-Servern zu synchronisieren. Das Gerätedatum &amp; Zeiteinstellungen werden nicht geändert. &lt;p&gt; Authenticator wird keine persönlichen Daten oder Kontoinformationen während der Synchronisation der inneren Uhr mit Google-Servern übertragen. &lt;p&gt; <b>Warum das einem nutzt</b> &amp;lt;p&amp;gt; Authenticator generiert 2-Stufenbestätigungscodes basierend auf 1) der jetzigen Zeit, und 2) einer Geheimzahl, die der App und dem Server bekannt sind. &amp;lt;p&amp;gt; Falls Authenticator und die Serverzeit widersprechen, werden die Codes bei der Anmeldung, die die App generiert, nicht akzeptiert. &amp;lt;p&amp;gt; Standardmäßig nutzt Authenticator das Gerätedatum &amp;amp; die Zeiteinstellungen, und in den meisten Fällen werden Sie gültige Codes generieren können, indem sichergestellt wird, daß Ihre Zeit-, Datum- und Zeitzoneneinstellungen richtig aufgesetzt sind. Allerdings, wenn Zeitfehlanpassungen auftreten kann das nur schwierig behoben werden (vor allem, wenn Sie Netzwerkgebundene Zeit oder Zeitzonen verwenden)."</string>
+  <string name="timesync_about_feature_screen_details">
+    "Falls Sie drücken &amp;quot;Sync now&amp;quot;, Authenticator wird einmal versuchen seine interne Uhr mit Google-Servern zu synchronisieren. Das Gerätedatum &amp; Zeiteinstellungen werden nicht geändert. &lt;p&gt; Authenticator wird keine persönlichen Daten oder Kontoinformationen während der Synchronisation der inneren Uhr mit Google-Servern übertragen. &lt;p&gt; <b>Warum das einem nutzt</b> &amp;lt;p&amp;gt; Authenticator generiert 2-Stufenbestätigungscodes basierend auf 1) der jetzigen Zeit, und 2) einer Geheimzahl, die der App und dem Server bekannt sind. &amp;lt;p&amp;gt; Falls Authenticator und die Serverzeit widersprechen, werden die Codes bei der Anmeldung, die die App generiert, nicht akzeptiert. &amp;lt;p&amp;gt; Standardmäßig nutzt Authenticator das Gerätedatum &amp;amp; die Zeiteinstellungen, und in den meisten Fällen werden Sie gültige Codes generieren können, indem sichergestellt wird, daß Ihre Zeit-, Datum- und Zeitzoneneinstellungen richtig aufgesetzt sind. Allerdings, wenn Zeitfehlanpassungen auftreten kann das nur schwierig behoben werden (vor allem, wenn Sie Netzwerkgebundene Zeit oder Zeitzonen verwenden)."
+  </string>
   <string name="timesync_about_feature_screen_title">Über diese Funktion</string>
   <string name="timesync_preference_screen_summary">"Synchronisiere die interne Uhr des Authenticators mit der des Servers"</string>
   <string name="timesync_preference_screen_title">Zeitkorrektur für Codes</string>
@@ -145,9 +159,11 @@ Vor der Entfernung:
   <string name="timesync_sync_now_screen_title">Jetzt Synchronisieren</string>
   <string name="timesync_sync_now_time_already_correct_dialog_details">"Die innere Uhr des Authenticators wurde nicht abgeglichen, weil sie anscheinend schon mit der Serveruhr übereinstimmt."</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Zeit stimmt bereits</string>
-  <string name="timesync_sync_now_time_corrected_dialog_details">"Die innere Uhr des Authenticators wurde abgeglichen, um mit der Serveruhr übereinzustimmen. 
+  <string name="timesync_sync_now_time_corrected_dialog_details">
+    "Die innere Uhr des Authenticators wurde abgeglichen, um mit der Serveruhr übereinzustimmen.
 
-Das Datum &amp; Zeiteinstellungen auf diesem Gerät wurden nicht geändert."</string>
+    Das Datum &amp; Zeiteinstellungen auf diesem Gerät wurden nicht geändert."
+  </string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Zeit ist korrekt</string>
   <string name="tip1_patternforgotten">Neu installieren und reaktivieren</string>
   <string name="tip2_patternforgotten">Reset antippen, um Kontodaten zu löschen und zu reaktivieren.</string>
@@ -162,15 +178,23 @@ Das Datum &amp; Zeiteinstellungen auf diesem Gerät wurden nicht geändert."</st
   <string name="title_nopassword_dialog">tägliches Limit</string>
   <string name="title_password">Passwort</string>
   <string name="title_password_threshold">tägliches Limit = ￥%1$s</string>
-  <string name="title_patternforgotten">"Passwort vergessen？
-Sie können："</string>
+  <string name="title_patternforgotten">
+    "Passwort vergessen？
+    Sie können："
+  </string>
   <string name="title_updatepattern">Passwort ändern</string>
   <string name="title_visible_pattern">Muster sichtbar machen</string>
   <string name="type_prompt">Schlüsseltyp</string>
-  <string name="update_pattern_jump"><u>Passwort entfernen</u></string>
+  <string name="update_pattern_jump">
+    <u>Passwort entfernen</u>
+  </string>
   <string name="version_preference_title">Version</string>
-  <string name="welcome_page_alert">"<font color="#fb3500">* </font>Falls Sie Ihr Mi Security Token löschen, können Sie sich nicht mehr mit Ihrem Konto anmelden."</string>
-  <string name="welcome_page_details">"— Halten Sie Ihr Konto sicher.
-— Halten Sie Fremde davon ab Ihr Gerät zu verwenden und sich mit Ihrem Konto anzumelden."</string>
+  <string name="welcome_page_alert">
+    "<font color="#fb3500">* </font>Falls Sie Ihr Mi Security Token löschen, können Sie sich nicht mehr mit Ihrem Konto anmelden."
+  </string>
+  <string name="welcome_page_details">
+    "— Halten Sie Ihr Konto sicher.
+    — Halten Sie Fremde davon ab Ihr Gerät zu verwenden und sich mit Ihrem Konto anzumelden."
+  </string>
   <string name="welcome_page_title">Secure Sign-in nutzen</string>
 </resources>

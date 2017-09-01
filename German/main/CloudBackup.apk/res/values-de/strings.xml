@@ -24,7 +24,9 @@
   <string name="button_next">Weiter</string>
   <string name="can_not_backup_in_lite_mode">Im Lite-Modus kann nicht gesichert werden</string>
   <string name="can_not_restore_in_lite_mode">Im Lite-Modus kann nicht wiederhergestellt werden</string>
-  <string name="cancel_recover_settings"><u>Abbrechen</u></string>
+  <string name="cancel_recover_settings">
+    <u>Abbrechen</u>
+  </string>
   <string name="click_try_to_restore_again">Tippen, um es erneut zu versuchen</string>
   <string name="cloud_app_backup_success">Appsicherung abgeschlossen</string>
   <string name="cloud_app_check_data">Mi Cloud wird verbunden…</string>
@@ -39,14 +41,16 @@
   <string name="cloud_app_restore_success">Apps wiederhergestellt</string>
   <string name="cloud_app_restore_wifi_prompt">Um die App wiederherzustellen, stellen Sie eine WLAN-Verbindung her</string>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Folgende Daten werden in Ihrer Mi Cloud gesichert, wenn eine WLAN-Verbindung besteht: 
-*\u0009\u0009\u0009\u0009Apps und das Startbildschirmlayout 
-*\u0009\u0009\u0009\u0009Klingeltöne, Hintergrundbilder und Schriftarten 
-*\u0009\u0009\u0009\u0009Wecker und Zeiteinstellungen 
-*\u0009\u0009\u0009\u0009Benachrichtigungseinstellungen 
-*\u0009\u0009\u0009\u0009Einstellungen des \"Bitte nicht stören Modus\" 
-*\u0009\u0009\u0009\u0009MIUI und Systemeinstellungen 
-Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesichert."</string>
+  <string name="cloud_back_up_detail_discription">
+    "Folgende Daten werden in Ihrer Mi Cloud gesichert, wenn eine WLAN-Verbindung besteht:
+    *\u0009\u0009\u0009\u0009Apps und das Startbildschirmlayout
+    *\u0009\u0009\u0009\u0009Klingeltöne, Hintergrundbilder und Schriftarten
+    *\u0009\u0009\u0009\u0009Wecker und Zeiteinstellungen
+    *\u0009\u0009\u0009\u0009Benachrichtigungseinstellungen
+    *\u0009\u0009\u0009\u0009Einstellungen des \"Bitte nicht stören Modus\"
+    *\u0009\u0009\u0009\u0009MIUI und Systemeinstellungen
+    Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesichert."
+  </string>
   <string name="cloud_back_up_frequence_choice_title">Sicherungszeitplan</string>
   <string name="cloud_back_up_frequence_long">Alle 7 Tage</string>
   <string name="cloud_back_up_frequence_short">Täglich</string>
@@ -74,7 +78,9 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="confirm_restore">Wiederherstellen</string>
   <string name="confirm_restore_summary">Der Startbildschirm wird neu gestartet und Ihre Apps werden automatisch geladen, vorausgesetzt eine WLAN Verbindung besteht</string>
   <string name="confirm_restore_title">Wiederherstellen</string>
-  <string name="customization"><u>Benutzerdefiniert</u></string>
+  <string name="customization">
+    <u>Benutzerdefiniert</u>
+  </string>
   <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
   <string name="deskclock_backup">Wecker</string>
   <string name="desktop_downloading">Herunterladen</string>

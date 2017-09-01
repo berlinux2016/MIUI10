@@ -36,10 +36,14 @@
   <string name="activate_popup_confirm_failed_server">Wiederholen</string>
   <string name="activate_popup_desc_2_intl_sim_cards">Zum Aktivieren Ihrer SIM-Karte werden 2 internationale SMS verschickt, damit Funktionen wie %s verwendet werden können (Tarif Ihres Mobilfunkanbieters)</string>
   <string name="activate_popup_desc_2_sim_cards">Zum Aktivieren Ihrer 2 SIM-Karten werden 2 SMS verschickt, damit Funktionen wie %s verwendet werden können (Tarif Ihres Mobilfunkanbieters)</string>
-  <string name="activate_popup_desc_all_gateway_failed_query_info">"Telefonnummer kann nicht gefunden werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
-Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
-  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivierungsnachricht konnte nicht gesendet werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
-Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">
+    "Telefonnummer kann nicht gefunden werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
+    Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"
+  </string>
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">
+    "Aktivierungsnachricht konnte nicht gesendet werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
+    Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"
+  </string>
   <string name="activate_popup_desc_error_device_id">Wählen Sie *#06# um Ihre IMEI-Nummer anzuzeigen</string>
   <string name="activate_popup_desc_failed_phone_error">Die eingegebene Nummer ist ungültig</string>
   <string name="activate_popup_desc_failed_query_info">Ihre Telefonnummer kann nicht abgerufen werden. Bitte stellen Sie sicher, dass Ihre SIM-Karte im Netz angemeldet ist.</string>
@@ -102,8 +106,10 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
   <string name="activate_status_title_activating">SIM-Karte wird aktiviert…</string>
   <string name="activate_status_title_activating_msim">SIM-Karte wird aktiviert %s…</string>
   <string name="app_name">Xiaomi Service-Framework</string>
-  <string name="error_device_id_message">"Ungültige Geräte ID: %s
-Geräte-ID muss eine gültige IMEI oder MAC-Adresse sein. Ohne Geräte-ID werden die Konto- und Cloudfunktionen nicht verfügbar sein."</string>
+  <string name="error_device_id_message">
+    "Ungültige Geräte ID: %s
+    Geräte-ID muss eine gültige IMEI oder MAC-Adresse sein. Ohne Geräte-ID werden die Konto- und Cloudfunktionen nicht verfügbar sein."
+  </string>
   <string name="error_device_id_title">IMEI-Nummer kann nicht abgerufen werden</string>
   <string name="explain_send_sms_permission_button">Verifizieren</string>
   <string name="explain_send_sms_permission_msg">Um %s zu aktivieren, wird das Xiaomi-Serviceframework eine SMS senden, um Ihre Telefonnummer zu verifizieren. Es fallen dafür Gebühren bei Ihrem Netzbetreiber an.</string>

@@ -1,92 +1,102 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!-- To Translate -->
-     <string name="account_settings_background_attachments_summary_inter">Anhang per WLan herunterladen</string>
-     <string name="account_setup_incoming_username_label_default_hint">Sollte Domain enthalten</string>
-     <string name="account_setup_options_mail_window_default">Als Standardaccount wählen</string>
-     <string name="auto_remind_bind">Hinzufügen</string>
-     <string name="auto_remind_discribe_text">Aktivieren um automatische Erinnerungen zu erhalten</string>
-     <string name="auto_remind_text">Automatische Erinnerungen</string>
-     <string name="auto_remind_unbind">Stop</string>
-     <string name="automatic_remind_text">Erinnern</string>
-     <string name="bank_card_detail">Kreditkartendetails</string>
-     <string name="bill_center_setting">Zahlungseinstellungen</string>
-     <string name="bill_center_setting_head">Importiere Informationen von diesen Account</string>
-     <string name="bill_cycle_text">Billing cycle</string>
-     <string name="bill_remind">Repayment reminder</string>
-     <string name="bill_remind_due">A repayment is due on %s, tap to view</string>
-     <string name="cancel_pop3_attchemt_downloading">Cancellation of any attachment being downloaded is not available to a POP3 type of account.</string>
-     <string name="contact_info_string_default">Show contact information</string>
-     <string name="credit_limit_text">Credit limit</string>
-     <string name="cur_debt">Account balance</string>
-     <string name="default_">DEFAULT</string>
-     <string name="default_setup">DEFAULT SETTINGS</string>
-     <string name="default_signature">Sent from my Mi phone</string>
-     <string name="drawer_bank_bill">Bank statements</string>
-     <string name="drawer_classification">Categories</string>
-     <string name="due">Due</string>
-     <string name="due_date_text">Final repayment</string>
-     <string name="email_suggestions_authority">com.android.email.provider</string>
-     <string name="fetch_bank_sender_list_failure">"Couldn't get info"</string>
-     <string name="first_quick_default_reply">Tap the button to send \"%s\" to all people in the conversation</string>
-     <string name="free_period_text">Interest-free period</string>
-     <string name="imap_or_pop3_name">IMAP/POP3</string>
-     <string name="import_button_text">Import</string>
-     <string name="import_from_other_account">Import from other accounts</string>
-     <string name="interact_with_server_error">"Couldn't connect to the server"</string>
-     <string name="mailbox_name_display_circular">Notifications</string>
-     <string name="menu_att_mgr_order_default">Recently viewed</string>
-     <string name="min_payment_text">Minimum payment</string>
-     <string name="network_invaild">"Can't connect to the network"</string>
-     <string name="no_bill_discribe">"Couldn't find any bills.
-Try switching to a different email account."</string>
-     <string name="no_filtrable_email_account">No accounts to filter</string>
-     <string name="no_recognize_describe">"Couldn't find emails containing tickets or bookings.
-Try a different inbox."</string>
-     <string name="note_title">139 Email Automatic Configuration</string>
-     <string name="over_due">Overdue</string>
-     <string name="overlays_fail_tip">Very sorry that your mailbox is not configured successfully, open the floating Windows permissions and try again</string>
-     <string name="overlays_ok">Open permissions</string>
-     <string name="overlays_tip">Open floating Windows permissions, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
-     <string name="overlays_title">Open floating Windows permissions</string>
-     <string name="parse_bill_discribe">Processing credit card bills…</string>
-     <string name="parse_recognize_describe">Analyzing email…</string>
-     <string name="pls_parse_bill_discribe">"Analyze bills and travel info in your email
-to receive reminders about payments and trips"</string>
-     <string name="policy_dont_allow_wifi_inter">"Don't allow Wi-Fi"</string>
-     <string name="protocol_setting_toast">Tap the upper right corner to go to settings after you agree</string>
-     <string name="recognize_hotel_check_in_date">Check-in time</string>
-     <string name="recognize_hotel_hotel_money">Price %1$s</string>
-     <string name="recognize_hotel_notification_content">Enjoy your stay!</string>
-     <string name="recognize_hotel_notification_title">You booked a room at %1$s starting from %2$s/%3$s. Double check your booking before arriving there.</string>
-     <string name="recognize_hotel_order_money">Total</string>
-     <string name="recognize_hotel_other_money">Other expenses %1$s</string>
-     <string name="recognize_hotel_reverse_date">Check in before %1$s:%2$s %3$s</string>
-     <string name="recognize_hotel_room_type">Room</string>
-     <string name="recognize_hotel_title">Hotel booking</string>
-     <string name="recognize_hotel_user_names">Guest</string>
-     <string name="recognize_setting_title">Travel settings</string>
-     <string name="recognize_ticket_air_notification_content">Enjoy your flight!</string>
-     <string name="recognize_ticket_air_notification_title">Flight %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>
-     <string name="recognize_ticket_air_state_stopover">Stopover</string>
-     <string name="recognize_ticket_air_state_transfer">Transfer</string>
-     <string name="recognize_ticket_air_user_name">Passenger:</string>
-     <string name="recognize_ticket_title">Plane &amp; train tickets</string>
-     <string name="recognize_ticket_train_alter">Changed</string>
-     <string name="recognize_ticket_train_depart_date">Departs at %3$s:%4$s on %1$s/%2$s</string>
-     <string name="recognize_ticket_train_notification_content">Bon Voyage!</string>
-     <string name="recognize_ticket_train_notification_title">Train %3$s (%1$s/%2$s) will depart soon. Double check your ticket.</string>
-     <string name="recognize_ticket_train_return">Returned</string>
-     <string name="recognize_ticket_train_user_name">Passenger: %1$s</string>
-     <string name="recognize_title">Travel information</string>
-     <string name="service_protocol_discribe"><u>"I've read and agree with WPS Mail Service Agreement"</u></string>
-     <string name="service_protocol_title">Service Agreement</string>
-     <string name="syncing_wait_restart">Click Retry</string>
-     <string name="today_text">Today</string>
-     <string name="unbind_dialog_text">"You won't be able to receive reminders after you stop analyzing.
-Stop now?"</string>
-     <string name="unknow">Unknown</string>
-  
+  <string name="account_settings_background_attachments_summary_inter">Anhang per WLan herunterladen</string>
+  <string name="account_setup_incoming_username_label_default_hint">Sollte Domain enthalten</string>
+  <string name="account_setup_options_mail_window_default">Als Standardaccount wählen</string>
+  <string name="auto_remind_bind">Hinzufügen</string>
+  <string name="auto_remind_discribe_text">Aktivieren um automatische Erinnerungen zu erhalten</string>
+  <string name="auto_remind_text">Automatische Erinnerungen</string>
+  <string name="auto_remind_unbind">Stop</string>
+  <string name="automatic_remind_text">Erinnern</string>
+  <string name="bank_card_detail">Kreditkartendetails</string>
+  <string name="bill_center_setting">Zahlungseinstellungen</string>
+  <string name="bill_center_setting_head">Importiere Informationen von diesen Account</string>
+  <string name="bill_cycle_text">Billing cycle</string>
+  <string name="bill_remind">Repayment reminder</string>
+  <string name="bill_remind_due">A repayment is due on %s, tap to view</string>
+  <string name="cancel_pop3_attchemt_downloading">Cancellation of any attachment being downloaded is not available to a POP3 type of account.</string>
+  <string name="contact_info_string_default">Show contact information</string>
+  <string name="credit_limit_text">Credit limit</string>
+  <string name="cur_debt">Account balance</string>
+  <string name="default_">DEFAULT</string>
+  <string name="default_setup">DEFAULT SETTINGS</string>
+  <string name="default_signature">Sent from my Mi phone</string>
+  <string name="drawer_bank_bill">Bank statements</string>
+  <string name="drawer_classification">Categories</string>
+  <string name="due">Due</string>
+  <string name="due_date_text">Final repayment</string>
+  <string name="email_suggestions_authority">com.android.email.provider</string>
+  <string name="fetch_bank_sender_list_failure">"Couldn't get info"</string>
+  <string name="first_quick_default_reply">Tap the button to send \"%s\" to all people in the conversation</string>
+  <string name="free_period_text">Interest-free period</string>
+  <string name="imap_or_pop3_name">IMAP/POP3</string>
+  <string name="import_button_text">Import</string>
+  <string name="import_from_other_account">Import from other accounts</string>
+  <string name="interact_with_server_error">"Couldn't connect to the server"</string>
+  <string name="mailbox_name_display_circular">Notifications</string>
+  <string name="menu_att_mgr_order_default">Recently viewed</string>
+  <string name="min_payment_text">Minimum payment</string>
+  <string name="network_invaild">"Can't connect to the network"</string>
+  <string name="no_bill_discribe">
+    "Couldn't find any bills.
+    Try switching to a different email account."
+  </string>
+  <string name="no_filtrable_email_account">No accounts to filter</string>
+  <string name="no_recognize_describe">
+    "Couldn't find emails containing tickets or bookings.
+    Try a different inbox."
+  </string>
+  <string name="note_title">139 Email Automatic Configuration</string>
+  <string name="over_due">Overdue</string>
+  <string name="overlays_fail_tip">Very sorry that your mailbox is not configured successfully, open the floating Windows permissions and try again</string>
+  <string name="overlays_ok">Open permissions</string>
+  <string name="overlays_tip">Open floating Windows permissions, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
+  <string name="overlays_title">Open floating Windows permissions</string>
+  <string name="parse_bill_discribe">Processing credit card bills…</string>
+  <string name="parse_recognize_describe">Analyzing email…</string>
+  <string name="pls_parse_bill_discribe">
+    "Analyze bills and travel info in your email
+    to receive reminders about payments and trips"
+  </string>
+  <string name="policy_dont_allow_wifi_inter">"Don't allow Wi-Fi"</string>
+  <string name="protocol_setting_toast">Tap the upper right corner to go to settings after you agree</string>
+  <string name="recognize_hotel_check_in_date">Check-in time</string>
+  <string name="recognize_hotel_hotel_money">Price %1$s</string>
+  <string name="recognize_hotel_notification_content">Enjoy your stay!</string>
+  <string name="recognize_hotel_notification_title">You booked a room at %1$s starting from %2$s/%3$s. Double check your booking before arriving there.</string>
+  <string name="recognize_hotel_order_money">Total</string>
+  <string name="recognize_hotel_other_money">Other expenses %1$s</string>
+  <string name="recognize_hotel_reverse_date">Check in before %1$s:%2$s %3$s</string>
+  <string name="recognize_hotel_room_type">Room</string>
+  <string name="recognize_hotel_title">Hotel booking</string>
+  <string name="recognize_hotel_user_names">Guest</string>
+  <string name="recognize_setting_title">Travel settings</string>
+  <string name="recognize_ticket_air_notification_content">Enjoy your flight!</string>
+  <string name="recognize_ticket_air_notification_title">Flight %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>
+  <string name="recognize_ticket_air_state_stopover">Stopover</string>
+  <string name="recognize_ticket_air_state_transfer">Transfer</string>
+  <string name="recognize_ticket_air_user_name">Passenger:</string>
+  <string name="recognize_ticket_title">Plane &amp; train tickets</string>
+  <string name="recognize_ticket_train_alter">Changed</string>
+  <string name="recognize_ticket_train_depart_date">Departs at %3$s:%4$s on %1$s/%2$s</string>
+  <string name="recognize_ticket_train_notification_content">Bon Voyage!</string>
+  <string name="recognize_ticket_train_notification_title">Train %3$s (%1$s/%2$s) will depart soon. Double check your ticket.</string>
+  <string name="recognize_ticket_train_return">Returned</string>
+  <string name="recognize_ticket_train_user_name">Passenger: %1$s</string>
+  <string name="recognize_title">Travel information</string>
+  <string name="service_protocol_discribe">
+    <u>"I've read and agree with WPS Mail Service Agreement"</u>
+  </string>
+  <string name="service_protocol_title">Service Agreement</string>
+  <string name="syncing_wait_restart">Click Retry</string>
+  <string name="today_text">Today</string>
+  <string name="unbind_dialog_text">
+    "You won't be able to receive reminders after you stop analyzing.
+    Stop now?"
+  </string>
+  <string name="unknow">Unknown</string>
+
   <string name="SMTP_independent_verification_text">SMTP-unabhängige Überprüfung</string>
   <string name="SMTP_password_text">Passwort</string>
   <string name="SMTP_username_text">Benutzername</string>
@@ -472,7 +482,7 @@ Stop now?"</string>
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_setting">E-Mail-Einstellungen</string>
-  <string name="email_setting_keywords">Konten;Konto hinzufügen;Mailkonten;E-Mail-Konto;E-Mail-Konto hinzufügen;Vor dem Löschen bestätigen;Vor dem Senden bestätigen;Nachrichtenverlauf löschen;Weiterleiten;Konversatuionsansicht;E-mail-Konversation;Mail Akku;Feedback senden</string>  
+  <string name="email_setting_keywords">Konten;Konto hinzufügen;Mailkonten;E-Mail-Konto;E-Mail-Konto hinzufügen;Vor dem Löschen bestätigen;Vor dem Senden bestätigen;Nachrichtenverlauf löschen;Weiterleiten;Konversatuionsansicht;E-mail-Konversation;Mail Akku;Feedback senden</string>
   <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">Konto nicht gefunden</string>
   <string name="empty_email_tip">Leere Nachricht kann nicht gesendet werden</string>
@@ -566,7 +576,7 @@ Stop now?"</string>
   <string name="gmail_web_login_required_message">Anmelden</string>
   <string name="header_category_account">Konten</string>
   <string name="header_category_other">Weitere Einstellungen</string>
-  <string name="header_label_general_preferences">Allgemeine Einstellungen</string>  
+  <string name="header_label_general_preferences">Allgemeine Einstellungen</string>
   <string name="help_and_info">Hilfe</string>
   <string name="help_config">Selbstkonfiguration</string>
   <string name="hide_atts_remaining">%1$d Anhänge ausblenden</string>
@@ -699,7 +709,9 @@ Stop now?"</string>
   <string name="more_context">Mehr</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Verschieben nach</string>
-  <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
+  <string name="multiple_new_message_notification_item">
+    <b>%1$s</b>"   %2$s"
+  </string>
   <string name="mute">Ignorieren</string>
   <string name="net_check_title">Konnte nicht zum Netzwerk verbunden werden. Überprüfen Sie die Netzwerkeinstellungen und versuchen Sie es erneut.</string>
   <string name="network_error">Keine Verbindung</string>
@@ -965,8 +977,10 @@ Stop now?"</string>
   <string name="sending_message">Nachricht wird gesendet…</string>
   <string name="sending_quick_reply">E-Mail %s senden</string>
   <string name="sent_folder_selection_title">Ordner \"Gesendete Elemente\" des Servers für %s auswählen</string>
-  <string name="ser_resp_err_map_certificate_validator_err">"Serverzertifikat konnte nicht validiert werden
-\u0009 (Stellen Sie sicher, dass die 'Autom. Zeitsynchronisation' in den Einstellungen eingeschaltet ist)"</string>
+  <string name="ser_resp_err_map_certificate_validator_err">
+    "Serverzertifikat konnte nicht validiert werden
+    \u0009 (Stellen Sie sicher, dass die 'Autom. Zeitsynchronisation' in den Einstellungen eingeschaltet ist)"
+  </string>
   <string name="ser_resp_err_map_landing_more_failure">Zu viele erfolglose Anmeldeversuche</string>
   <string name="ser_resp_err_map_landing_too_frequently">Zu viele Anmeldeversuche</string>
   <string name="ser_resp_err_map_mailbox_locked">E-Mail-Konto ist passwortgeschützt</string>
@@ -1009,8 +1023,10 @@ Stop now?"</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_error">Synchronisierung nicht möglich</string>
   <string name="sync_error_message">Das Gerät verfügt nicht über genügend Speicherplatz für die Synchronisierung.</string>
-  <string name="syncing_wait_restart_title">Servertimeout 
- Nachricht kann nicht geladen werden</string>
+  <string name="syncing_wait_restart_title">
+    Servertimeout
+    Nachricht kann nicht geladen werden
+  </string>
   <string name="system_account_create_failed">Konto konnte nicht erstellt werden. Bitte versuchen Sie es erneut.</string>
   <string name="system_folders_sent_dlg">Ordner \"Gesendete Elemente\" des Servers auswählen</string>
   <string name="system_folders_sent_summary">Ordner \"Gesendete Elemente\" des Servers auswählen</string>
@@ -1074,8 +1090,10 @@ Stop now?"</string>
   <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">über %1$s</string>
   <string name="view_more_conversations">Weitere Konversationen ansehen</string>
-  <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
-Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronisieren oder <b>Synchronisations Einstellungen ändern</b> um dieses Konto automatisch zu synchronisieren.</string>
+  <string name="wait_for_manual_sync_body">
+    "Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
+    Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronisieren oder <b>Synchronisations Einstellungen ändern</b> um dieses Konto automatisch zu synchronisieren.
+  </string>
   <string name="wait_for_sync_title">Auf Synchronisierung warten</string>
   <string name="webview_logout">Wollen Sie wirklich aufgeben, sich anzumelden? Los, versuchen Sie es erneut!</string>
   <string name="webview_logout_cancel">Keine Versuche mehr</string>

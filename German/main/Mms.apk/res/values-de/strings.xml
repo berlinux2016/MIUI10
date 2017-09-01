@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="favorite_at_time">Favorisiert um: %1s</string>
-     <string name="message_queued_second_space">"Kann die Nachricht zur Zeit nicht senden. Bitte öffnen Sie die Netzwerkverbindung</string>
-     <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
-     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
-     <string name="sqlite_disk_full">Datenbank oder Speicher ist voll</string>
-     <string name="sqlite_low_memory">Wenig Speicherplatz</string>
-     <string name="verification_code_icon_name">V</string>
+  <string name="message_queued_second_space">"Kann die Nachricht zur Zeit nicht senden. Bitte öffnen Sie die Netzwerkverbindung</string>
+  <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+  <string name="sqlite_disk_full">Datenbank oder Speicher ist voll</string>
+  <string name="sqlite_low_memory">Wenig Speicherplatz</string>
+  <string name="verification_code_icon_name">V</string>
   <string name="about_smart_sms_title">Smartnachrichten-Partner</string>
   <string name="action_firewall_setting">Sperrliste</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
@@ -580,7 +580,7 @@
   <string name="select_local_video">Video auswählen</string>
   <string name="select_message_send_sim">SIM-Karte wählen</string>
   <string name="select_recipient">Empfänger auswählen</string>
-    <string name="select_sim">SIM-Karte wählen</string>
+  <string name="select_sim">SIM-Karte wählen</string>
   <string name="select_top_text">Text oben</string>
   <string name="send">Senden</string>
   <string name="send_hms_editor_hints">Mi Nachricht</string>
@@ -627,9 +627,9 @@
   <string name="sms_full_title">SMS-Speicher voll</string>
   <string name="sms_rejected_body">Eine eingehende Nachricht wurde aus unbekanntem Grund zurückgewiesen</string>
   <string name="sms_rejected_title">SMS abgelehnt</string>
-    <string name="sms_report_dialog_content">Bericht konnte nicht gesendet werden, versuchen Sie es noch einmal.</string>
-    <string name="sms_report_dialog_retry">Erneut versuchen</string>
-    <string name="sms_report_dialog_title">Erneut versuchen</string>
+  <string name="sms_report_dialog_content">Bericht konnte nicht gesendet werden, versuchen Sie es noch einmal.</string>
+  <string name="sms_report_dialog_retry">Erneut versuchen</string>
+  <string name="sms_report_dialog_title">Erneut versuchen</string>
   <string name="sms_report_failed">Bericht konnte nicht gesendet werden</string>
   <string name="sms_report_success">Bericht gesendet</string>
   <string name="snippet_audio">[Audio]</string>
@@ -666,8 +666,8 @@
   <string name="storage_unavailable">Kein Speicher verfügbar</string>
   <string name="subject_hint">Betreff</string>
   <string name="subject_label">"Betreff: "</string>
-    <string name="switch_to_editor">Bearbeitungsmodus</string>
-    <string name="switch_to_menu">Menümodus</string>
+  <string name="switch_to_editor">Bearbeitungsmodus</string>
+  <string name="switch_to_menu">Menümodus</string>
   <string name="text_in_popup_saved_to_clipboard">In die Zwischenablage kopiert</string>
   <string name="text_message">SMS</string>
   <string name="timed_message_expired_title">%d geplante Nachricht(en) nicht gesendet</string>
@@ -677,12 +677,12 @@
   <string name="title_allow_network_access">Automatisch aktualisieren</string>
   <string name="title_collapse_sp_messages">Anbieternachrichten zusammenführen</string>
   <string name="title_date_type">Nachrichtenzeitstempel</string>
-    <string name="title_hide_verification_code">OTP automatisch verbergen</string>
+  <string name="title_hide_verification_code">OTP automatisch verbergen</string>
   <string name="title_recv_red_package">Holen Sie sich ein rotes Paket</string>
   <string name="title_red_package">Immer reich und viel Glück</string>
   <string name="title_send_red_package">Überprüfen Sie das rote Paket</string>
   <string name="title_show_blocked_messages">Zeige geblockte SMS</string>
-  <string name="title_show_list_avatar">Profilfotos anzeigen</string>   
+  <string name="title_show_list_avatar">Profilfotos anzeigen</string>
   <string name="title_show_photo_word">Kontaktbilder zuordnen</string>
   <string name="title_show_sms_template">Überprüfe SMS nach Bestätigungscodes</string>
   <string name="title_show_sms_template_in">Überprüfe SMS auf OTP</string>
@@ -709,8 +709,10 @@
   <string name="type_to_compose_text_or_leave_blank">Nachricht eingeben oder leer lassen</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">Video</string>
-  <string name="undelivered_msg_dialog_body">"Nachricht konnte nicht gesendet werden.
-Bisherige Versuche: %s."</string>
+  <string name="undelivered_msg_dialog_body">
+    "Nachricht konnte nicht gesendet werden.
+    Bisherige Versuche: %s."
+  </string>
   <string name="undelivered_msg_dialog_title">Nicht zugestellte Nachricht</string>
   <string name="undelivered_sms_dialog_body">Nachricht konnte nicht gesendet werden</string>
   <string name="unknown_num">Unbekannte Nummer</string>
@@ -721,12 +723,18 @@ Bisherige Versuche: %s."</string>
   <string name="unsupported_media_format">Format %1$s wird nicht unterstützt</string>
   <string name="url_fraud_alert">Die Webseite, die Sie besuchen möchten %s könnte eine betrügerische Seite sein, wollen Sie wirklich fortfahren?</string>
   <string name="url_fraud_title">Betrugsverdacht</string>
-  <string name="url_fraud_visit"><u>Trotzdem fortfahren</u></string>
-  <string name="url_fraud_dangerous_alert">"Die Webseite, die Sie besuchen möchten ist unsicher, wollen Sie wirklich fortfahren?
-%s"</string>
-     <string name="url_fraud_insurance">Betrugsverdacht</string>
-     <string name="url_fraud_risky_alert">"Die Webseite, die Sie besuchen möchten ist unsicher. Trotzdem fortfahren?
-%s"</string>
+  <string name="url_fraud_visit">
+    <u>Trotzdem fortfahren</u>
+  </string>
+  <string name="url_fraud_dangerous_alert">
+    "Die Webseite, die Sie besuchen möchten ist unsicher, wollen Sie wirklich fortfahren?
+    %s"
+  </string>
+  <string name="url_fraud_insurance">Betrugsverdacht</string>
+  <string name="url_fraud_risky_alert">
+    "Die Webseite, die Sie besuchen möchten ist unsicher. Trotzdem fortfahren?
+    %s"
+  </string>
   <string name="url_result_safe">Diese URL ist sicher</string>
   <string name="url_scanning">URL wird überprüft…</string>
   <string name="user_agreement1">Lesen Sie den Abschnitt sorgfältig, bevor Sie weitere Software installieren oder dieses Produkt benutzen.</string>

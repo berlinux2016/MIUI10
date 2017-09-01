@@ -2,44 +2,48 @@
 <resources>
   <!-- To Translate -->
   <string name="account_error_invalid_user_name">"Name can't contain &lt;, >, /"</string>
-     <string name="account_mipay_info">Mi Pay</string>
-     <string name="account_token_expired_msg">"Verification code expired, start over or sign out
- Your account ID: %s"</string>
-     <string name="account_token_expired_title">Authentication failed</string>
-     <string name="find_device_message">The current device is locked, message: %1$s, contact phone: %2$s.</string>
-     <string name="find_device_owner_phone">The current device is locked, contact phone: %1$s.</string>
-     <string name="find_device_prompt_message">The current device is locked, message: %1$s.</string>
-     <string name="mipay_identitiy_no">no</string>
-     <string name="mipay_indentity_done">done</string>
-     <string name="passport_account_set_password">Set password</string>
-     <string name="passport_account_set_password_prompt">Set the password for your account to sign in next time.</string>
-     <string name="passport_account_set_password_title">Set password</string>
-     <string name="passport_adding_account">Adding account…</string>
-     <string name="passport_error_auth_fail">Session expired, sign in again later</string>
-     <string name="passport_error_no_password_user">"You haven't set the password yet. Sign in with SMS."</string>
-     <string name="passport_error_verify_activator_phone_message">Make sure your SIM card service is activated and the device is connected to the network.</string>
-     <string name="passport_error_verify_activator_phone_title">"Couldn't verify phone number"</string>
-     <string name="passport_getting_activator_phone">Getting SIM info…</string>
-     <string name="passport_identification_expired">Verification code expired, start over</string>
-     <string name="passport_login_other_account">Another account</string>
-     <string name="passport_password_phone_login">Sign in using Mi Account</string>
-     <string name="passport_phone_ticket_login">Sign in with SMS</string>
-     <string name="passport_querying_phone_info">Requesting account info…</string>
-     <string name="passport_quick_login">Sign in</string>
-     <string name="passport_quick_register_notice"><u>"Don't have a Mi Account? Create one."</u></string>
-     <string name="passport_recycle_login_other_account">"They aren't mine. I'll use a different one."</string>
-     <string name="passport_reg_new_account">Create account</string>
-     <string name="passport_registered_phone_num">Phone: %s</string>
-     <string name="passport_select_the_login_account">Select the account to sign in</string>
-     <string name="passport_select_the_recycle_phone_login">Select your account</string>
-     <string name="passport_select_the_register_phone">Select the phone number to create an account</string>
-     <string name="passport_send_vcode_failed">"Couldn't send code"</string>
-     <string name="passport_sending_vcode">Sending code…</string>
-     <string name="passport_set">Set</string>
-     <string name="passport_sms_send_success">Sent</string>
-     <string name="passport_verifying_activator_phone">Verifying phone security…</string>
-     <string name="xiao_mi_vip">Mi VIP</string>
-  
+  <string name="account_mipay_info">Mi Pay</string>
+  <string name="account_token_expired_msg">
+    "Verification code expired, start over or sign out
+    Your account ID: %s"
+  </string>
+  <string name="account_token_expired_title">Authentication failed</string>
+  <string name="find_device_message">The current device is locked, message: %1$s, contact phone: %2$s.</string>
+  <string name="find_device_owner_phone">The current device is locked, contact phone: %1$s.</string>
+  <string name="find_device_prompt_message">The current device is locked, message: %1$s.</string>
+  <string name="mipay_identitiy_no">no</string>
+  <string name="mipay_indentity_done">done</string>
+  <string name="passport_account_set_password">Set password</string>
+  <string name="passport_account_set_password_prompt">Set the password for your account to sign in next time.</string>
+  <string name="passport_account_set_password_title">Set password</string>
+  <string name="passport_adding_account">Adding account…</string>
+  <string name="passport_error_auth_fail">Session expired, sign in again later</string>
+  <string name="passport_error_no_password_user">"You haven't set the password yet. Sign in with SMS."</string>
+  <string name="passport_error_verify_activator_phone_message">Make sure your SIM card service is activated and the device is connected to the network.</string>
+  <string name="passport_error_verify_activator_phone_title">"Couldn't verify phone number"</string>
+  <string name="passport_getting_activator_phone">Getting SIM info…</string>
+  <string name="passport_identification_expired">Verification code expired, start over</string>
+  <string name="passport_login_other_account">Another account</string>
+  <string name="passport_password_phone_login">Sign in using Mi Account</string>
+  <string name="passport_phone_ticket_login">Sign in with SMS</string>
+  <string name="passport_querying_phone_info">Requesting account info…</string>
+  <string name="passport_quick_login">Sign in</string>
+  <string name="passport_quick_register_notice">
+    <u>"Don't have a Mi Account? Create one."</u>
+  </string>
+  <string name="passport_recycle_login_other_account">"They aren't mine. I'll use a different one."</string>
+  <string name="passport_reg_new_account">Create account</string>
+  <string name="passport_registered_phone_num">Phone: %s</string>
+  <string name="passport_select_the_login_account">Select the account to sign in</string>
+  <string name="passport_select_the_recycle_phone_login">Select your account</string>
+  <string name="passport_select_the_register_phone">Select the phone number to create an account</string>
+  <string name="passport_send_vcode_failed">"Couldn't send code"</string>
+  <string name="passport_sending_vcode">Sending code…</string>
+  <string name="passport_set">Set</string>
+  <string name="passport_sms_send_success">Sent</string>
+  <string name="passport_verifying_activator_phone">Verifying phone security…</string>
+  <string name="xiao_mi_vip">Mi VIP</string>
+
   <string name="about_device_info">Geräteinfo anzeigen</string>
   <string name="access_denied">Zugang verweigert</string>
   <string name="access_token_expired_warning">Weibo Konto ist abgelaufen</string>
@@ -70,12 +74,12 @@
   <string name="account_none_binded_secure_phone">Keine Telefonnr.</string>
   <string name="account_none_user_name">Kein</string>
   <string name="account_protection">Kontoschutz</string>
-    <string name="account_protection_off">Aus</string>
-    <string name="account_protection_on">An</string>
-    <string name="account_secure_info_pref_title">Kontoinfo</string>
-    <string name="account_security">Kontosicherheit</string>
-    <string name="account_security_info_pref_title">Sicherheitsinfos</string>
-    <string name="account_security_question">Sicherheitsfrage</string>
+  <string name="account_protection_off">Aus</string>
+  <string name="account_protection_on">An</string>
+  <string name="account_secure_info_pref_title">Kontoinfo</string>
+  <string name="account_security">Kontosicherheit</string>
+  <string name="account_security_info_pref_title">Sicherheitsinfos</string>
+  <string name="account_security_question">Sicherheitsfrage</string>
   <string name="account_settings">Konto</string>
   <string name="account_user_avatar">Profilfoto</string>
   <string name="account_user_avatar_from_album">Foto auswählen</string>
@@ -90,7 +94,7 @@
   <string name="account_user_gender_male">Männlich</string>
   <string name="account_user_id">Mi Konto-ID</string>
   <string name="account_user_income">Einkommen</string>
-    <string name="account_user_info">Benutzerinfo</string>
+  <string name="account_user_info">Benutzerinfo</string>
   <string name="account_user_location">Standort</string>
   <string name="account_user_location_title">Standort auswählen</string>
   <string name="account_user_name">Name</string>
@@ -139,7 +143,7 @@
   <string name="completed">Fertig</string>
   <string name="confirm">Überprüfungscode</string>
   <string name="confirm_activate_email">Überprüft</string>
-    <string name="confirm_bundled_phone_dialog_title">Gebündelte Telefonnummer bestätigen</string>
+  <string name="confirm_bundled_phone_dialog_title">Gebündelte Telefonnummer bestätigen</string>
   <string name="confirm_delete_app_message">Wenn Sie diese App entfernen, müssen Sie Ihre Telefonnummer verifizieren wenn Sie sich das nächste mal an Ihrem Mi Konto anmelden</string>
   <string name="confirm_delete_browser_message">Wenn Sie diesen Browser entfernen, müssen Sie Ihre Telefonnummer verifizieren wenn Sie sich das nächste mal an Ihrem Mi Konto anmelden</string>
   <string name="confirm_delete_device_message">Wenn Sie dieses Gerät entfernen, müssen Sie Ihre Telefonnummer verifizieren wenn Sie sich das nächste mal an Ihrem Mi Konto anmelden</string>
@@ -222,7 +226,7 @@
   <string name="get_back_pwd">Passwort zurücksetzen</string>
   <string name="get_device_list_failed">Geräte können nicht abgerufen werden</string>
   <string name="get_email_verifycode_exceed_limit">Es wurden zu viele Überprüfungscodes an diese E-Mailadresse versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
-    <string name="get_phone_bind_exceed_limit">Die Anzahl an Nummern die mit diesem Konte voerknüpft werden können, hat das Maximum(3) erreicht, Sie können das Konte nicht weiter verknüpfen</string>
+  <string name="get_phone_bind_exceed_limit">Die Anzahl an Nummern die mit diesem Konte voerknüpft werden können, hat das Maximum(3) erreicht, Sie können das Konte nicht weiter verknüpfen</string>
   <string name="get_phone_verifycode_exceed_limit">Es wurden zu viele Überprüfungscodes an diese Telefonnummer versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
   <string name="guest_account_label">Mi Gastkonto</string>
   <string name="i_know">Ist bekannt</string>
@@ -251,9 +255,11 @@
   <string name="login_instead_reg">Diese Nummer verwenden</string>
   <string name="login_instead_reg_with_email">Diese E-Mail verwenden</string>
   <string name="login_title">Bei Ihrem Mi Konto anmelden</string>
-  <string name="login_with_email_or_id"><u>Mit E-Mailadresse oder Mi Konto-ID anmelden</u></string>
-    <string name="logout_account">Abmelden</string>
-    <string name="logout_failed">Abmelden fehlgeschlagen</string>
+  <string name="login_with_email_or_id">
+    <u>Mit E-Mailadresse oder Mi Konto-ID anmelden</u>
+  </string>
+  <string name="logout_account">Abmelden</string>
+  <string name="logout_failed">Abmelden fehlgeschlagen</string>
   <string name="mi_account_dspt_provision">"Mit einem Konto an der Mi Cloud, dem MIUI Themenstore und weiteren Mi-Diensten anmelden."</string>
   <string name="mi_account_identity_title">Überprüfen Sie Ihre Identität</string>
   <string name="mi_family">Mi Home</string>
@@ -274,20 +280,22 @@
   <string name="micloud_sync_state_synced">Synchronisiert</string>
   <string name="micloud_sync_state_syncing">Synchronisiere</string>
   <string name="mili_center">Mi Credits</string>
-    <string name="mipay">Pay</string>
-    <string name="mipay_balance">Kontostand</string>
-    <string name="mipay_bank_card">Bankkarte</string>
-    <string name="mipay_center">Mi Wallet</string>
-    <string name="mipay_identity">Identität</string>
-    <string name="mipay_others">Andere</string>
-    <string name="mipay_transit_card">Transitkarte</string>
-    <string name="miui_provision_find_status_text">Dieses Gerät ist bereits mit einem Mi Konto verknüpft (%1$s), zum Überprüfen Passwort eingeben.
-(Entsperrnummer: %2$s)</string>
+  <string name="mipay">Pay</string>
+  <string name="mipay_balance">Kontostand</string>
+  <string name="mipay_bank_card">Bankkarte</string>
+  <string name="mipay_center">Mi Wallet</string>
+  <string name="mipay_identity">Identität</string>
+  <string name="mipay_others">Andere</string>
+  <string name="mipay_transit_card">Transitkarte</string>
+  <string name="miui_provision_find_status_text">
+    Dieses Gerät ist bereits mit einem Mi Konto verknüpft (%1$s), zum Überprüfen Passwort eingeben.
+    (Entsperrnummer: %2$s)
+  </string>
   <string name="multi_user_not_show_sync_activity_message_1">Sieht so aus, als verwenden Sie Ihr Hauptprofil Mi Konto</string>
   <string name="multi_user_not_show_sync_activity_message_2">In diesem Fall werden alle Daten mit Ihrem Zweitprofil synchronisiert. Um dies zu vermeiden, deaktivieren Sie die Synchronisation mit Mi Cloud</string>
   <string name="multi_user_not_show_sync_activity_title">Schalten Sie die Syncchronisation mit Mi Cloud nicht ein</string>
   <string name="my_device_title">Aktuelles Gerät</string>
-    <string name="my_favorite">Mein Favorit</string>
+  <string name="my_favorite">Mein Favorit</string>
   <string name="next">Weiter</string>
   <string name="no_network_btn">Aktualisieren</string>
   <string name="no_network_title">Keine Netzwerkverbindung</string>
@@ -324,7 +332,9 @@
   <string name="passport_btn_return">Zurück</string>
   <string name="passport_button_cancel">Abbrechen</string>
   <string name="passport_captcha">Code eingeben</string>
-  <string name="passport_change_account"><u>Konto wechseln</u></string>
+  <string name="passport_change_account">
+    <u>Konto wechseln</u>
+  </string>
   <string name="passport_change_phone_number">Nummern wechseln</string>
   <string name="passport_checking_account">Passwort wird überprüft…</string>
   <string name="passport_checking_input">Eingabe wird überprüft…</string>
@@ -367,7 +377,9 @@
   <string name="passport_find_device_activate_account">Konto aktivieren</string>
   <string name="passport_find_device_display_id">Nummer freischalten:%s</string>
   <string name="passport_find_password_on_web_msg">Besuchen Sie mi.com, um Ihr Passwort zurückzusetzen</string>
-  <string name="passport_forget_password"><u>Passwort vergessen</u></string>
+  <string name="passport_forget_password">
+    <u>Passwort vergessen</u>
+  </string>
   <string name="passport_forget_password_no_underline">Passwort vergessen</string>
   <string name="passport_get_back_pwd">Kontopasswort abrufen</string>
   <string name="passport_get_verify_code">Code abrufen</string>
@@ -397,11 +409,17 @@
   <string name="passport_login_prompt">Ein Mi Konto. Alle Mi Services.</string>
   <string name="passport_login_short">Anmelden</string>
   <string name="passport_login_title">Mit Mi Konto anmelden</string>
-  <string name="passport_login_using_other_ways"><u>Andere Anmeldemöglichkeiten</u></string>
-  <string name="passport_login_with_email_or_id"><u>Mit E-Mailadresse oder Mi Konto ID anmelden</u></string>
+  <string name="passport_login_using_other_ways">
+    <u>Andere Anmeldemöglichkeiten</u>
+  </string>
+  <string name="passport_login_with_email_or_id">
+    <u>Mit E-Mailadresse oder Mi Konto ID anmelden</u>
+  </string>
   <string name="passport_message_dialog_title">SMS mit Überprüfungscodes</string>
-  <string name="passport_miui_provision_find_status_text">Dieses Gerät ist mit einem vorhandenen Mi Konto （%1$s） verbunden, geben Sie das Kennwort ein, um das Gerät zu entsperren.
-	(Entsperrnummer: %2$s)</string>
+  <string name="passport_miui_provision_find_status_text">
+    Dieses Gerät ist mit einem vorhandenen Mi Konto （%1$s） verbunden, geben Sie das Kennwort ein, um das Gerät zu entsperren.
+    (Entsperrnummer: %2$s)
+  </string>
   <string name="passport_next">Weiter</string>
   <string name="passport_notification_title">Fehler bei der Anmeldung für %1$s</string>
   <string name="passport_password">Passwort eingeben</string>
@@ -426,9 +444,13 @@
   <string name="passport_reg_success">Konto erstellt</string>
   <string name="passport_reg_success_summary">%1$s wurde mit dem Konto verknüpft. Sie können es verwenden um sich anzumelden oder Ihr Passwort zu ändern.</string>
   <string name="passport_reg_type_email">Konto über E-Mail erstellen</string>
-  <string name="passport_reg_type_other_ways"><u>Konto Über andere Methode erstellen</u></string>
+  <string name="passport_reg_type_other_ways">
+    <u>Konto Über andere Methode erstellen</u>
+  </string>
   <string name="passport_reg_type_other_ways_title">Mi Konto erstellen</string>
-  <string name="passport_reg_using_other_phone"><u>Andere Telefonnummer verwenden</u></string>
+  <string name="passport_reg_using_other_phone">
+    <u>Andere Telefonnummer verwenden</u>
+  </string>
   <string name="passport_reg_using_other_phone_number_prompt">Mit anderer Telefonnummer registrieren</string>
   <string name="passport_reg_using_phone_number_prompt">Mit Telefonnummer registrieren</string>
   <string name="passport_reg_via_sms_alert">Für das SMS-Versenden könnten Gebühren entstehen</string>
@@ -436,7 +458,9 @@
   <string name="passport_register">Konto erstellen</string>
   <string name="passport_register_account_goto_email">Sehen Sie in Ihr Postfach</string>
   <string name="passport_register_account_verified_confirm">Ihr Konto wurde bereits bestätigt</string>
-  <string name="passport_register_by_email"><u>Konto über E-Mailadresse erstellen</u></string>
+  <string name="passport_register_by_email">
+    <u>Konto über E-Mailadresse erstellen</u>
+  </string>
   <string name="passport_register_restricted">Es sind zu viele Konten mit dieser Nummer verbunden. Versuchen Sie eine andere.</string>
   <string name="passport_register_restricted_title">Diese Telefonnummer kann ich nicht verwendet werden</string>
   <string name="passport_registered_phone_user_ID">Benutzer-ID:%s</string>
@@ -482,7 +506,9 @@
   <string name="passport_verification_failed">Bestätigung fehlgeschlagen</string>
   <string name="passport_verify">Bestätigen</string>
   <string name="passport_wait_for_sms_prompt">"Jetzt erstellen? Die Bestätigungsnachricht kann bis zu 10 Minuten verzögert eintreffen, wenn sich das Gerät außerhalb eines unterstützten Mobilfunknetzes befindet."</string>
-  <string name="passport_welcome_skip_login"><u>Überspringen</u></string>
+  <string name="passport_welcome_skip_login">
+    <u>Überspringen</u>
+  </string>
   <string name="passport_wrong_captcha">Der eingegebene Code ist falsch</string>
   <string name="passport_wrong_password">Das Passwort ist falsch</string>
   <string name="passport_wrong_phone_number_format">Das Format der eingegebenen Mobilrufnummer ist ungültig</string>
@@ -499,7 +525,9 @@
   <string name="photoPickerNotFoundText">Keine Bilder verfügbar.</string>
   <string name="prev">Zurück</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
-  <string name="provision_skip_login"><u>Überspringen</u></string>
+  <string name="provision_skip_login">
+    <u>Überspringen</u>
+  </string>
   <string name="push_notification_content">Bestätigungscode senden</string>
   <string name="push_notification_title">Sie haben sich von einem unbekannten Gerät angemeldet</string>
   <string name="push_notify_dialog_message">Sie haben sich von einem unbekannten Gerät angemeldet. Geben Sie auf diesem Gerät einen Bestätigungscode ein. Falls nicht Sie sich angemeldet haben, ändern Sie sofort Ihr Passwort. Geben Sie Bestätigungscodes nicht an Dritte weiter.</string>
@@ -513,7 +541,9 @@
   <string name="reg_failed">"Konto kann nicht erstellt werden"</string>
   <string name="reging">Konto wird erstellt…</string>
   <string name="register">Mi Konto erstellen</string>
-  <string name="register_by_email"><u>E-Mailadresse verwenden um ein Mi Konto zu erstellen</u></string>
+  <string name="register_by_email">
+    <u>E-Mailadresse verwenden um ein Mi Konto zu erstellen</u>
+  </string>
   <string name="relogin">Erneut anmelden</string>
   <string name="remove_account_notice">Was möchten Sie mit Ihren Nachrichten, Kontakten und anderen synchronisierten Daten in Ihrem Mi Konto anstellen?</string>
   <string name="remove_device_success_notice">Wenn Sie das Gerät von den vertrauten Geräten entfernen, müssen Sie den den Anmeldevorgang erneut durchführen um sich wieder anzumelden.</string>
@@ -538,11 +568,11 @@
   <string name="search_account_protection_desc">Kontoschutz</string>
   <string name="search_account_protection_key_words">Kontoschutz</string>
   <string name="search_account_protection_path">Mi Konto/Kontoschutz,Einstellungen/Mi Konto/Kontoschutz</string>
-    <string name="search_account_security">Kontosicherheit</string>
-    <string name="search_account_security_desc">Kontoeinstellungen</string>
-    <string name="search_account_security_key_words">Ändern Telefon,Ändern E-Mail,Kontoschutz,Konten,Sina Weibo,QQ,Autorisation,Geräte</string>
-    <string name="search_account_security_path">Einstellungen/Mi Konto/Kontoeinstellungen</string>
-    <string name="search_app_name">Mi Konto</string>
+  <string name="search_account_security">Kontosicherheit</string>
+  <string name="search_account_security_desc">Kontoeinstellungen</string>
+  <string name="search_account_security_key_words">Ändern Telefon,Ändern E-Mail,Kontoschutz,Konten,Sina Weibo,QQ,Autorisation,Geräte</string>
+  <string name="search_account_security_path">Einstellungen/Mi Konto/Kontoeinstellungen</string>
+  <string name="search_app_name">Mi Konto</string>
   <string name="search_bind_Account">Konten</string>
   <string name="search_bind_Account_desc">Konten</string>
   <string name="search_bind_Account_key_words">Konten,Sina Weibo,QQ,Autorisation</string>
@@ -568,8 +598,10 @@
   <string name="security_question_answer">Antwort eingeben</string>
   <string name="security_question_notice_message">Nachdem Sie Ihr Telefon mit dem Mi Konto verknüpft haben, können Sie Sicherheitsfragen festlegen, um vergessene Passwörter zurückzusetzen.</string>
   <string name="security_question_notice_title">Telefon verknüpfen</string>
-  <string name="security_question_prompt">"Sicherheitsfragen können verwendet werden, falls Sie Ihr Passwort ändern möchten oder vergessen haben.
-Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</string>
+  <string name="security_question_prompt">
+    "Sicherheitsfragen können verwendet werden, falls Sie Ihr Passwort ändern möchten oder vergessen haben.
+    Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."
+  </string>
   <string name="select_location_title">Wählen Sie Ihren Standort</string>
   <string name="send_email_activate_message">Überprüfungsmail gesendet</string>
   <string name="service_error">Dienstfehler</string>
@@ -592,10 +624,12 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="turning_off_find_device">\"Gerät finden\" wird deaktiviert…</string>
   <string name="unbind_sns_description">Nachdem Sie sich vom Konto abgemeldet haben, können Sie Ihr %s Konto nicht mehr verwenden um sich anzumelden</string>
   <string name="unbind_weibo_description">"Nach der Abmeldung werden Sie Ihre Kontakte von Weibo nicht mehr synchronisieren können. Eine Anmeldung ist auch nicht mehr möglich."</string>
-  <string name="unlock_help_notice">Hinweise:
-· Wenn Sie Ihr Passwort vergessen haben, kann es auf i.mi.com zurückgesetzt werden
-· Wenn Sie Ihr Telefon nicht entsperren können, schalten Sie auf i.mi.com \"Gerät finden\" ab
-· Sagen Sie dem Kundenservice diese Entsperrnummer: %s</string>
+  <string name="unlock_help_notice">
+    Hinweise:
+    · Wenn Sie Ihr Passwort vergessen haben, kann es auf i.mi.com zurückgesetzt werden
+    · Wenn Sie Ihr Telefon nicht entsperren können, schalten Sie auf i.mi.com \"Gerät finden\" ab
+    · Sagen Sie dem Kundenservice diese Entsperrnummer: %s
+  </string>
   <string name="update_contacts">Kontakte aktualisieren</string>
   <string name="update_contacts_description">Lassen Sie Sina Weibo Ihr Mi Konto nutzen um alle Kontakte zwischen den Plattformen zu synchronisieren</string>
   <string name="update_email_address_dialog_message">Vor der Aktualisierung der E-Mailadresse müssen Sie Ihre Identität nachweisen</string>
@@ -620,8 +654,8 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="verify">Bestätige</string>
   <string name="verify_phone_prompt">zu verifizierende Nummer wählen</string>
   <string name="verify_phone_title">Telefonnummer verifizieren</string>
-    <string name="vip_account_settings">VIP-Einstellungen</string>
-    <string name="vip_more_info">Weitere VIP-Infos</string>
+  <string name="vip_account_settings">VIP-Einstellungen</string>
+  <string name="vip_more_info">Weitere VIP-Infos</string>
   <string name="wipe_data_dialog_msg">%s wird nach dem Fortfahren gelöscht</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Einige Daten wurden nicht synchronisiert</string>

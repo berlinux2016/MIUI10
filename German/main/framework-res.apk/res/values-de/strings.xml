@@ -44,7 +44,7 @@
   <string name="action_bar_up_description">Nach oben navigieren</string>
   <string name="action_menu_overflow_description">Weitere Optionen</string>
   <string name="action_mode_done">Fertig</string>
-    <string name="activity_chooser_view_dialog_title_default">Aktivität wählen</string>
+  <string name="activity_chooser_view_dialog_title_default">Aktivität wählen</string>
   <string name="activity_chooser_view_see_all">Alle anzeigen</string>
   <string name="activity_list_empty">Keine passenden Aktivitäten gefunden</string>
   <string name="activity_resolver_use_always">Immer</string>
@@ -58,35 +58,37 @@
   <string name="add_account_button_label">Konto hinzufügen</string>
   <string name="add_account_label">Konto hinzufügen</string>
   <string name="aerr_application">\"%1$s\" wurde beendet.</string>
-    <string name="aerr_application_repeated">%1$s wird ständig beendet</string>
-    <string name="aerr_close">Schließen</string>
-    <string name="aerr_close_app">App schließen</string>
-    <string name="aerr_mute">Bis zum Neustart stummschalten</string>
+  <string name="aerr_application_repeated">%1$s wird ständig beendet</string>
+  <string name="aerr_close">Schließen</string>
+  <string name="aerr_close_app">App schließen</string>
+  <string name="aerr_mute">Bis zum Neustart stummschalten</string>
   <string name="aerr_process">Der Prozess \"%1$s\" wurde beendet.</string>
-    <string name="aerr_process_repeated">%1$s wird ständig beendet</string>
-    <string name="aerr_report">Feedback senden</string>
-    <string name="aerr_restart">App erneut öffnen</string>
+  <string name="aerr_process_repeated">%1$s wird ständig beendet</string>
+  <string name="aerr_report">Feedback senden</string>
+  <string name="aerr_restart">App erneut öffnen</string>
   <string name="aerr_title"/>
   <string name="aerr_wait">Warten</string>
   <string name="allow">Zulassen</string>
   <string name="allow_button">Erlauben</string>
   <string name="alwaysUse">Immer für diese Aktion verwenden</string>
- <string name="android_preparing_apk">%1$s wird vorbereitet</string>
+  <string name="android_preparing_apk">%1$s wird vorbereitet</string>
   <string name="android_start_title">Android wird gestartet…</string>
   <string name="android_system_label">Androidsystem</string>
   <string name="android_upgrading_apk">App %1$d von %2$d wird optimiert…</string>
   <string name="android_upgrading_complete">Start wird abgeschlossen…</string>
   <string name="android_upgrading_fstrim">Optimieren von Speichersystemen</string>
-    <string name="android_upgrading_notification_body">Einige Apps könnten nach dem Update nicht mehr ordnungsgemäß funktionieren</string>
-    <string name="android_upgrading_notification_title">Android wird aktualisiert</string>
+  <string name="android_upgrading_notification_body">Einige Apps könnten nach dem Update nicht mehr ordnungsgemäß funktionieren</string>
+  <string name="android_upgrading_notification_title">Android wird aktualisiert</string>
   <string name="android_upgrading_starting_apps">Apps werden gestartet…</string>
   <string name="android_upgrading_title">Android wird aktualisiert…</string>
   <string name="anr_activity_application">"%2$s reagiert nicht."</string>
   <string name="anr_activity_process">"Aktivität \"%1$s\" reagiert nicht."</string>
   <string name="anr_application_process">%1$s reagiert nicht. Möchten Sie die App schließen?</string>
-  <string name="anr_process">"Prozess \"%1$s\" reagiert nicht.
+  <string name="anr_process">
+    "Prozess \"%1$s\" reagiert nicht.
 
-Möchten Sie ihn beenden?"</string>
+    Möchten Sie ihn beenden?"
+  </string>
   <string name="app_info">Appinfo</string>
   <string name="app_not_found">Für diese Aktion wurde keine App gefunden.</string>
   <string name="app_running_notification_text">Für weitere Informationen oder zum Anhalten der App antippen</string>
@@ -143,9 +145,11 @@ Möchten Sie ihn beenden?"</string>
   <string name="back_button_label">Zurück</string>
   <string name="badPin">Die alte PIN ist falsch</string>
   <string name="badPuk">PUK ist falsch</string>
-  <string name="battery_saver_description">"Der Energiesparmodus hilft den Akku zu schonen, indem er die Leistung des Geräts reduziert und die Vibrationsfunktion und die meisten Hintergrunddatenaktivitäten einschränkt. E-Mail-, SMS/MMS- und andere Apps, die die Synchronisierungsfunktion benötigen, werden möglicherweise nicht aktualisiert, bis Sie sie öffnen.
+  <string name="battery_saver_description">
+    "Der Energiesparmodus hilft den Akku zu schonen, indem er die Leistung des Geräts reduziert und die Vibrationsfunktion und die meisten Hintergrunddatenaktivitäten einschränkt. E-Mail-, SMS/MMS- und andere Apps, die die Synchronisierungsfunktion benötigen, werden möglicherweise nicht aktualisiert, bis Sie sie öffnen.
 
-Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
+    Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."
+  </string>
   <string name="beforeOneMonthDurationPast">Vor mehr als einem Monat</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetoothaudio</string>
   <string name="bugreport_message">Bei diesem Fehlerbericht werden Daten zum aktuellen Status Ihres Geräts erfasst und als E-Mail versandt. Vom Start des Berichts bis zu seinem Versand kann es eine Weile dauern. Bitte haben Sie etwas Geduld.</string>
@@ -157,7 +161,9 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="bugreport_title">Fehlerbericht abrufen</string>
   <string name="byteShort">B</string>
   <string name="cancel">Abbruch</string>
-  <string name="candidates_style"><u>Kandidaten</u></string>
+  <string name="candidates_style">
+    <u>Kandidaten</u>
+  </string>
   <string name="capability_desc_canControlMagnification">"Kontrollieren Sie die Zoomstufe und die Positionierung des Displays."</string>
   <string name="capability_desc_canPerformGestures">Kann tippen, wischen, kneifen und andere Gesten ausführen.</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Skripts können installiert werden, um den Zugriff auf Appinhalte zu erleichtern.</string>
@@ -192,7 +198,7 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="close_button_text">Schließen</string>
   <string name="common_name">Allgemeiner Name:</string>
   <string name="condition_provider_service_binding_label">Bedingungsprovider</string>
-    <string name="conference_call">Telefonkonferenz</string>
+  <string name="conference_call">Telefonkonferenz</string>
   <string name="config_mobile_hotspot_provision_app_no_ui"/>
   <string name="config_mobile_hotspot_provision_response"/>
   <string name="config_persistentDataPackageName"/>
@@ -205,8 +211,10 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="copy">Kopieren</string>
   <string name="copyUrl">URL kopieren</string>
   <string name="country_selection_title">Region Einstellung</string>
-  <string name="create_contact_using">"Neuer Kontakt
-mit %s erstellen"</string>
+  <string name="create_contact_using">
+    "Neuer Kontakt
+    mit %s erstellen"
+  </string>
   <string name="cut">Ausschneiden</string>
   <string name="data_saver_description">Um die Datenverwendung zu reduzieren, verhindert Data Saver, dass einige Apps im Hintergrund Daten senden oder empfangen. Eine App, die Sie gerade verwenden, kann auf Daten zugreifen, kann aber weniger häufig auftreten. Dies kann z. B. bedeuten, dass Bilder nicht angezeigt werden, bis Sie sie tippen.</string>
   <string name="data_saver_enable_button">Einschalten</string>
@@ -265,8 +273,10 @@ mit %s erstellen"</string>
   <string name="description_target_silent">Stumm</string>
   <string name="description_target_soundon">Ton ein</string>
   <string name="description_target_unlock_tablet">Ziehen zum Entsperren</string>
-  <string name="dial_number_using">"Nummer wählen
-mit %s"</string>
+  <string name="dial_number_using">
+    "Nummer wählen
+    mit %s"
+  </string>
   <string name="dialog_alert_title">Achtung</string>
   <string name="display_manager_built_in_display_name">Integrierter Bildschirm</string>
   <string name="display_manager_hdmi_display_name">HDMI-Bildschirm</string>
@@ -392,7 +402,7 @@ mit %s"</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_action_assist">Assistent</string>
   <string name="global_action_bug_report">Fehlerbericht</string>
-    <string name="global_action_emergency">Notfall</string>
+  <string name="global_action_emergency">Notfall</string>
   <string name="global_action_lock">Bildschirmsperre</string>
   <string name="global_action_lockdown">Jetzt sperren</string>
   <string name="global_action_power_off">Ausschalten</string>
@@ -476,9 +486,11 @@ mit %s"</string>
   <string name="issued_by">Ausgestellt von:</string>
   <string name="issued_on">Ausgegeben am:</string>
   <string name="issued_to">Ausgestellt für:</string>
-  <string name="js_dialog_before_unload">"%s
+  <string name="js_dialog_before_unload">
+    "%s
 
-Möchten Sie diese Seite wirklich verlassen?"</string>
+    Möchten Sie diese Seite wirklich verlassen?"
+  </string>
   <string name="js_dialog_before_unload_negative_button">Auf dieser Seite bleiben</string>
   <string name="js_dialog_before_unload_positive_button">Diese Seite verlassen</string>
   <string name="js_dialog_before_unload_title">Navigation bestätigen</string>
@@ -520,12 +532,16 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="keyguard_password_enter_pin_prompt">Neuer PIN-Code</string>
   <string name="keyguard_password_enter_puk_code">PUK und neuen PIN-Code eingeben</string>
   <string name="keyguard_password_enter_puk_prompt">PUK-Code</string>
-  <string name="keyguard_password_entry_touch_hint"><font size="17">Zur Passworteingabe berühren</font></string>
+  <string name="keyguard_password_entry_touch_hint">
+    <font size="17">Zur Passworteingabe berühren</font>
+  </string>
   <string name="keyguard_password_wrong_pin_code">Falscher PIN-Code</string>
   <string name="kg_enter_confirm_pin_hint">Gewünschten PIN-Code bestätigen</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mithilfe eines E-Mailkontos zu entsperren.
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">
+    "Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mithilfe eines E-Mailkontos zu entsperren.
 
- Versuchen Sie es in %d Sekunden erneut."</string>
+    Versuchen Sie es in %d Sekunden erneut."
+  </string>
   <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf die Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
   <string name="kg_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Das Telefon wird nun auf die Werkseinstellungen zurückgesetzt.</string>
   <string name="kg_forgot_pattern_button_text">Muster vergessen</string>
@@ -533,8 +549,10 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="kg_invalid_puk">Geben Sie den richtigen PUK-Code ein. Bei wiederholten Versuchen wird die SIM-Karte dauerhaft deaktiviert.</string>
   <string name="kg_invalid_sim_pin_hint">Geben Sie eine 4- bis 8-stellige PIN ein.</string>
   <string name="kg_invalid_sim_puk_hint">Der PUK-Code muss mindestens 8 Ziffern betragen.</string>
-  <string name="kg_login_account_recovery_hint">"Nutzernamen oder Passwort vergessen?
-Besuchen Sie "<b>google.com/accounts/recovery</b>.</string>
+  <string name="kg_login_account_recovery_hint">
+    "Nutzernamen oder Passwort vergessen?
+    Besuchen Sie "<b>google.com/accounts/recovery</b>.
+  </string>
   <string name="kg_login_checking_password">Konto wird geprüft…</string>
   <string name="kg_login_instructions">Melden Sie sich zum Entsperren mit Ihrem Googlekonto an.</string>
   <string name="kg_login_invalid_input">Ungültiger Nutzername oder ungültiges Kennwort</string>
@@ -553,15 +571,21 @@ Besuchen Sie "<b>google.com/accounts/recovery</b>.</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt…</string>
   <string name="kg_text_message_separator">" – "</string>
   <string name="kg_too_many_failed_attempts_countdown">Versuchen Sie es in %1$d Sekunden erneut.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Sie haben Ihr Passwort %d-mal falsch eingegeben.
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">
+    "Sie haben Ihr Passwort %d-mal falsch eingegeben.
 
-Versuchen Sie es in %d Sekunden erneut."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. 
+    Versuchen Sie es in %d Sekunden erneut."
+  </string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">
+    "Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet.
 
-Versuchen Sie es in %d Sekunden erneut."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Sie haben Ihre PIN %d-mal falsch eingegeben.
+    Versuchen Sie es in %d Sekunden erneut."
+  </string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">
+    "Sie haben Ihre PIN %d-mal falsch eingegeben.
 
-Versuchen Sie es in %d Sekunden erneut."</string>
+    Versuchen Sie es in %d Sekunden erneut."
+  </string>
   <string name="kg_wrong_password">Falsches Passwort</string>
   <string name="kg_wrong_pattern">Falsches Muster</string>
   <string name="kg_wrong_pin">Falsche PIN</string>
@@ -578,9 +602,11 @@ Versuchen Sie es in %d Sekunden erneut."</string>
   <string name="locale_codes"/>
   <string name="locale_search_menu">Suchen</string>
   <string name="lock_pattern_view_aspect">platz</string>
-  <string name="lock_to_app_description_accessible">"Mit der Bildschirmfixierung wird die Anzeige in einer einzelnen Ansicht gesperrt.
+  <string name="lock_to_app_description_accessible">
+    "Mit der Bildschirmfixierung wird die Anzeige in einer einzelnen Ansicht gesperrt.
 
-Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."</string>
+    Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."
+  </string>
   <string name="lock_to_app_exit">Bildschirm gelöst</string>
   <string name="lock_to_app_negative">Nein danke</string>
   <string name="lock_to_app_positive">Starten</string>
@@ -601,13 +627,17 @@ Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."</string>
   <string name="lockscreen_carrier_default">Kein Netzwerk</string>
   <string name="lockscreen_emergency_call">Notruf</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d Mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf die Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mithilfe Ihrer Google-Anmeldeinformationen zu entsperren.
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">
+    "Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mithilfe Ihrer Google-Anmeldeinformationen zu entsperren.
 
-Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
+    Bitte versuchen Sie es in %d Sekunden noch einmal."
+  </string>
   <string name="lockscreen_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Das Telefon wird nun auf die Werkseinstellungen zurückgesetzt.</string>
   <string name="lockscreen_forgot_pattern_button_text">Muster vergessen?</string>
-  <string name="lockscreen_glogin_account_recovery_hint">"Nutzernamen oder Passwort vergessen?
-Besuchen Sie "<b>google.com/accounts/recovery</b>.</string>
+  <string name="lockscreen_glogin_account_recovery_hint">
+    "Nutzernamen oder Passwort vergessen?
+    Besuchen Sie "<b>google.com/accounts/recovery</b>.
+  </string>
   <string name="lockscreen_glogin_checking_password">Überprüfung…</string>
   <string name="lockscreen_glogin_forgot_pattern">Kontoentsperrung</string>
   <string name="lockscreen_glogin_instructions">Melden Sie sich zum Entsperren mit Ihrem Googlekonto an.</string>
@@ -627,30 +657,40 @@ Besuchen Sie "<b>google.com/accounts/recovery</b>.</string>
   <string name="lockscreen_pattern_correct">Korrekt!</string>
   <string name="lockscreen_pattern_instructions">Muster zum Entsperren zeichnen</string>
   <string name="lockscreen_pattern_wrong">Erneut versuchen</string>
-  <string name="lockscreen_permanent_disabled_sim_instructions">"Ihre SIM-Karte wurde dauerhaft deaktiviert.
- Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten."</string>
+  <string name="lockscreen_permanent_disabled_sim_instructions">
+    "Ihre SIM-Karte wurde dauerhaft deaktiviert.
+    Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten."
+  </string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Nicht benutzbare SIM Karte.</string>
   <string name="lockscreen_return_to_call">Zurück zum Anruf</string>
   <string name="lockscreen_screen_locked">Bildschirm gesperrt</string>
   <string name="lockscreen_sim_locked_message">SIM Karte ist gesperrt</string>
-  <string name="lockscreen_sim_puk_locked_instructions">PIN1 gesperrt. Bitte PUK1 eingeben.
-oder
- Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanbieter.</string>
+  <string name="lockscreen_sim_puk_locked_instructions">
+    PIN1 gesperrt. Bitte PUK1 eingeben.
+    oder
+    Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanbieter.
+  </string>
   <string name="lockscreen_sim_puk_locked_message">SIM-Karte ist gesperrt. PUK-Eingabe erforderlich.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt…</string>
   <string name="lockscreen_sound_off_label">Ton aus</string>
   <string name="lockscreen_sound_on_label">Ton ein</string>
   <string name="lockscreen_storage_locked">Für vollen Funktionsumfang entsperren </string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Versuchen Sie es in %d Sekunden erneut.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">
+    "Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet.
 
-Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Sie haben Ihr Passwort %d-mal falsch eingegeben.
+    Bitte versuchen Sie es in %d Sekunden noch einmal."
+  </string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">
+    "Sie haben Ihr Passwort %d-mal falsch eingegeben.
 
-Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Sie haben Ihr Passwort %d-mal falsch eingegeben.
+    Bitte versuchen Sie es in %d Sekunden noch einmal."
+  </string>
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">
+    "Sie haben Ihr Passwort %d-mal falsch eingegeben.
 
-Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
+    Bitte versuchen Sie es in %d Sekunden noch einmal."
+  </string>
   <string name="lockscreen_transport_ffw_description">Vorspulen</string>
   <string name="lockscreen_transport_next_description">Nächster Titel</string>
   <string name="lockscreen_transport_pause_description">Pausieren</string>
@@ -886,73 +926,75 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_readCalendar">Ermöglicht der App, alle auf Ihrem Telefon gespeicherten Kalendertermine zu lesen, einschließlich der von Freunden und Kollegen. Damit kann die App möglicherweise Ihre Kalenderdaten unabhängig von der Vertraulichkeit weiterleiten oder speichern.</string>
   <string name="permdesc_readCellBroadcasts">Ermöglicht der App, von Ihrem Gerät empfangene Cell Broadcast-Nachrichten zu lesen. Cell Broadcast-Benachrichtigungen werden an einigen Standorten gesendet, um Sie über Notfallsituationen zu informieren. Schädliche Apps können die Leistung oder den Betrieb Ihres Geräts beeinträchtigen, wenn eine Cell Broadcast-Notfallbenachrichtigung eingeht.</string>
   <string name="permdesc_readContacts">Ermöglicht der App, Daten zu den auf Ihrem Telefon gespeicherten Kontakten zu lesen, einschließlich der Häufigkeit, mit der Sie bestimmte Personen angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert haben. Die Berechtigung erlaubt Apps, Ihre Kontaktdaten zu speichern, und schädliche Apps können Kontaktdaten ohne Ihr Wissen weiterleiten.</string>
-    <string name="permdesc_readHistoryBookmarks">Ermöglicht der App, den Verlauf aller mit dem Browser besuchten URLs und sämtliche Lesezeichen des Browsers zu lesen. Hinweis: Diese Berechtigung kann nicht von Browsern von Drittanbietern oder anderen Apps mit Internetfunktionen erzwungen werden.</string>
-    <string name="permdesc_readInstallSessions">Ermöglicht der App, Installationssitzungen zu lesen. Dadurch kann sie Details aktiver Paketinstallationen abrufen.</string>
-    <string name="permdesc_readNetworkUsageHistory">Ermöglicht der App, Daten zur bisherigen Netzwerkauslastung für bestimmte Netzwerke und Apps zu lesen</string>
+  <string name="permdesc_readHistoryBookmarks">Ermöglicht der App, den Verlauf aller mit dem Browser besuchten URLs und sämtliche Lesezeichen des Browsers zu lesen. Hinweis: Diese Berechtigung kann nicht von Browsern von Drittanbietern oder anderen Apps mit Internetfunktionen erzwungen werden.</string>
+  <string name="permdesc_readInstallSessions">Ermöglicht der App, Installationssitzungen zu lesen. Dadurch kann sie Details aktiver Paketinstallationen abrufen.</string>
+  <string name="permdesc_readNetworkUsageHistory">Ermöglicht der App, Daten zur bisherigen Netzwerkauslastung für bestimmte Netzwerke und Apps zu lesen</string>
   <string name="permdesc_readPhoneState">Allows the app to access the phone features of the device. This permission allows the app to determine the phone number and device IDs, whether a call is active, and the remote number connected by a call.</string>
-    <string name="permdesc_readSms">Ermöglicht der App, auf Ihrem Telefon oder Ihrer SIM-Karte gespeicherte SMS zu lesen. Die App kann alle SMS lesen, unabhängig von Inhalt und Vertraulichkeit.</string>
-    <string name="permdesc_readSyncSettings">Ermöglicht der App, die Synchronisierungseinstellungen eines Kontos zu lesen. Beispielsweise kann damit festgestellt werden, ob Kontakte mit einem Konto synchronisiert werden.</string>
-    <string name="permdesc_readSyncStats">Ermöglicht der App, die Synchronisierungsstatistiken eines Kontos zu lesen, einschließlich des Verlaufs von Synchronisierungsereignissen und der Menge synchronisierter Daten.</string>
-    <string name="permdesc_receiveBootCompleted">Ermöglicht der App, sich selbst zu starten, sobald das System gebootet wurde. Dadurch kann es länger dauern, bis das Telefon gestartet wird, und durch die ständige Aktivität der App wird die gesamte Leistung des Telefons beeinträchtigt.</string>
+  <string name="permdesc_readSms">Ermöglicht der App, auf Ihrem Telefon oder Ihrer SIM-Karte gespeicherte SMS zu lesen. Die App kann alle SMS lesen, unabhängig von Inhalt und Vertraulichkeit.</string>
+  <string name="permdesc_readSyncSettings">Ermöglicht der App, die Synchronisierungseinstellungen eines Kontos zu lesen. Beispielsweise kann damit festgestellt werden, ob Kontakte mit einem Konto synchronisiert werden.</string>
+  <string name="permdesc_readSyncStats">Ermöglicht der App, die Synchronisierungsstatistiken eines Kontos zu lesen, einschließlich des Verlaufs von Synchronisierungsereignissen und der Menge synchronisierter Daten.</string>
+  <string name="permdesc_receiveBootCompleted">Ermöglicht der App, sich selbst zu starten, sobald das System gebootet wurde. Dadurch kann es länger dauern, bis das Telefon gestartet wird, und durch die ständige Aktivität der App wird die gesamte Leistung des Telefons beeinträchtigt.</string>
   <string name="permdesc_receiveMms">Allows the app to receive and process MMS messages. This means the app could monitor or delete messages sent to your device without showing them to you.</string>
-    <string name="permdesc_receiveSms">Ermöglicht der App, SMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne sie Ihnen anzuzeigen.</string>
+  <string name="permdesc_receiveSms">Ermöglicht der App, SMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne sie Ihnen anzuzeigen.</string>
   <string name="permdesc_receiveWapPush">Allows the app to receive and process WAP messages. This permission includes the ability to monitor or delete messages sent to you without showing them to you.</string>
   <string name="permdesc_recordAudio">Allows the app to record audio with the microphone. This permission allows the app to record audio at any time without your confirmation.</string>
-    <string name="permdesc_register_call_provider">Ermöglicht der App, neue Telekom- Anschlüsse registrieren</string>
-    <string name="permdesc_register_sim_subscription">Ermöglicht der App, neue Telekom- SIM -Verbindungen registrieren</string>
-    <string name="permdesc_removeDrmCertificates">Ermöglicht einer App das Entfernen von DRM-Zertifikaten. Sollte für normale Apps nie benötigt werden.</string>
+  <string name="permdesc_register_call_provider">Ermöglicht der App, neue Telekom- Anschlüsse registrieren</string>
+  <string name="permdesc_register_sim_subscription">Ermöglicht der App, neue Telekom- SIM -Verbindungen registrieren</string>
+  <string name="permdesc_removeDrmCertificates">Ermöglicht einer App das Entfernen von DRM-Zertifikaten. Sollte für normale Apps nie benötigt werden.</string>
   <string name="permdesc_reorderTasks">Allows the app to move tasks to the foreground and background. The app may do this without your input.</string>
-    <string name="permdesc_requestInstallPackages">Ermöglicht der App, die Installation von Paketen anzufordern</string>
-    <string name="permdesc_route_media_output">Ermöglicht der App, die Medienausgabe auf andere externe Geräte umzuleiten.</string>
-    <string name="permdesc_sdcardRead">Ermöglicht der App, den USB-Speicher zu lesen</string>
-    <string name="permdesc_sdcardWrite">Ermöglicht der App, in den USB-Speicher zu schreiben</string>
+  <string name="permdesc_requestInstallPackages">Ermöglicht der App, die Installation von Paketen anzufordern</string>
+  <string name="permdesc_route_media_output">Ermöglicht der App, die Medienausgabe auf andere externe Geräte umzuleiten.</string>
+  <string name="permdesc_sdcardRead">Ermöglicht der App, den USB-Speicher zu lesen</string>
+  <string name="permdesc_sdcardWrite">Ermöglicht der App, in den USB-Speicher zu schreiben</string>
   <string name="permdesc_sendSms">Allows the app to send SMS messages. This may result in unexpected charges. Malicious apps may cost you money by sending messages without your confirmation.</string>
   <string name="permdesc_setAlarm">Allows the app to set an alarm in an installed alarm clock app. Some alarm clock apps may not implement this feature.</string>
-    <string name="permdesc_setScreenCompatibility">Ermöglicht der App, den Bildschirmkompatibilitätsmodus anderer Apps zu steuern. Schädliche Apps können das Verhalten anderer Apps stören.</string>
-    <string name="permdesc_setTimeZone">Ermöglicht der App, die Zeitzone des Telefons zu ändern</string>
-    <string name="permdesc_setWallpaper">Ermöglicht der App, den Hintergrund des Systems festzulegen</string>
-    <string name="permdesc_setWallpaperHints">Ermöglicht der App, die Größenhinweise für den Systemhintergrund festzulegen</string>
-    <string name="permdesc_sim_communication">Ermöglicht der App das Senden von Befehlen an die SIM-Karte. Dies ist äußerst risikoreich.</string>
-    <string name="permdesc_statusBar">Ermöglicht der App, die Statusleiste zu deaktivieren oder Systemsymbole hinzuzufügen oder zu entfernen</string>
-    <string name="permdesc_statusBarService">Ermöglicht der App, zur Statusleiste zu werden</string>
-    <string name="permdesc_subscribedFeedsRead">Ermöglicht der App, Details zu den zurzeit synchronisierten Feeds abzurufen</string>
-    <string name="permdesc_systemAlertWindow">Ermöglicht der App, über andere Apps oder Teile der Benutzeroberfläche zu zeichnen. Dies kann sich auf die Oberfläche in jeder App auswirken oder die erwartete Darstellung in anderen Apps verändern.</string>
-    <string name="permdesc_transmitIr">App darf das System zur Infrarotübertragung des Telefons verwenden.</string>
-    <string name="permdesc_uninstall_shortcut">Ermöglicht einer App das Entfernen von Verknüpfungen vom Startbildschirm ohne Eingriff des Nutzers</string>
-    <string name="permdesc_useCredentials">Ermöglicht der App, Authentifizierungs-Token anzufordern</string>
-    <string name="permdesc_use_sip">Ermöglicht der App das Tätigen und Empfangen von SIP-Anrufen</string>
-    <string name="permdesc_vibrate">Ermöglicht der App, den Vibrationsalarm zu steuern</string>
-    <string name="permdesc_wakeLock">Ermöglicht der App, den Ruhezustand des Telefons zu deaktivieren</string>
-    <string name="permdesc_writeCalendar">Ermöglicht der App, Termine, die Sie auf Ihrem Telefon ändern können, hinzuzufügen, zu entfernen und zu ändern, einschließlich der von Freunden und Kollegen. Damit kann die App Nachrichten senden, die so erscheinen, als stammten sie vom jeweiligen Kalenderinhaber, oder Termine ohne Wissen des Inhabers ändern.</string>
-    <string name="permdesc_writeCallLog">Ermöglicht der App, die Anrufliste Ihres Telefons zu ändern, einschließlich der Daten über ein- und ausgehende Anrufe. Schädliche Apps können so Ihre Anrufliste löschen oder ändern.</string>
-    <string name="permdesc_writeContacts">Ermöglicht der App, Daten zu Kontakten, die auf Ihrem Telefon gespeichert sind, zu ändern, einschließlich der Häufigkeit, mit der Sie bestimmte Kontakte angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert haben. Die Berechtigung erlaubt Apps, Kontaktdaten zu löschen.</string>
-    <string name="permdesc_writeGeolocationPermissions">Ermöglicht der App, die Geolokalisierungsberechtigungen des Browsers zu ändern. Schädliche Apps können so Standortinformationen an beliebige Websites senden.</string>
-    <string name="permdesc_writeHistoryBookmarks">Ermöglicht der App, den Browserverlauf und die Lesezeichen auf Ihrem Telefon zu ändern. Damit kann die App Browserdaten löschen und ändern. Hinweis: Diese Berechtigung kann nicht von Browsern von Drittanbietern oder anderen Apps mit Internetfunktionen erzwungen werden.</string>
-    <string name="permdesc_writeSecureSettings">Ermöglicht der App, die Sicherheitseinstellungsdaten des Systems zu ändern. Nicht für normale Apps vorgesehen.</string>
-    <string name="permdesc_writeSettings">Ermöglicht der App, die Einstellungsdaten des Systems zu ändern. Schädliche Apps können so die Systemkonfiguration beschädigen.</string>
-    <string name="permgroupdesc_accounts">Zugriff auf verfügbare Konten</string>
-    <string name="permgroupdesc_calendar">Direkter Zugriff auf Kalender und Termine</string>
-    <string name="permgroupdesc_contacts">Zugriff auf Ihre Kontakte</string>
-    <string name="permgroupdesc_costMoney">Kostenpflichtige Aktionen</string>
-    <string name="permgroupdesc_location">Ihren physischen Standort überwachen</string>
-    <string name="permgroupdesc_phone">Anrufe tätigen</string>
-    <string name="permgroupdesc_sensors">Zugriff auf Körpersensordaten</string>
-    <string name="permgroupdesc_sms">Senden und Anzeigen von SMS</string>
-    <string name="permgroupdesc_systemClock">Uhrzeit oder Zeitzone des Geräts ändern</string>
-    <string name="permgrouplab_calendar">Kalender</string>
-    <string name="permgrouplab_camera">Kamera</string>
-    <string name="permgrouplab_contacts">Kontakte</string>
-    <string name="permgrouplab_location">Ihren Standort</string>
-    <string name="permgrouplab_microphone">Mikrofon</string>
-    <string name="permgrouplab_phone">Telefon</string>
-    <string name="permgrouplab_sensors">Körpersensoren</string>
-    <string name="permgrouplab_sms">SMS</string>
-    <string name="permgrouplab_storage">Speicher</string>
-    <string name="permission">Erlauben</string>
+  <string name="permdesc_setScreenCompatibility">Ermöglicht der App, den Bildschirmkompatibilitätsmodus anderer Apps zu steuern. Schädliche Apps können das Verhalten anderer Apps stören.</string>
+  <string name="permdesc_setTimeZone">Ermöglicht der App, die Zeitzone des Telefons zu ändern</string>
+  <string name="permdesc_setWallpaper">Ermöglicht der App, den Hintergrund des Systems festzulegen</string>
+  <string name="permdesc_setWallpaperHints">Ermöglicht der App, die Größenhinweise für den Systemhintergrund festzulegen</string>
+  <string name="permdesc_sim_communication">Ermöglicht der App das Senden von Befehlen an die SIM-Karte. Dies ist äußerst risikoreich.</string>
+  <string name="permdesc_statusBar">Ermöglicht der App, die Statusleiste zu deaktivieren oder Systemsymbole hinzuzufügen oder zu entfernen</string>
+  <string name="permdesc_statusBarService">Ermöglicht der App, zur Statusleiste zu werden</string>
+  <string name="permdesc_subscribedFeedsRead">Ermöglicht der App, Details zu den zurzeit synchronisierten Feeds abzurufen</string>
+  <string name="permdesc_systemAlertWindow">Ermöglicht der App, über andere Apps oder Teile der Benutzeroberfläche zu zeichnen. Dies kann sich auf die Oberfläche in jeder App auswirken oder die erwartete Darstellung in anderen Apps verändern.</string>
+  <string name="permdesc_transmitIr">App darf das System zur Infrarotübertragung des Telefons verwenden.</string>
+  <string name="permdesc_uninstall_shortcut">Ermöglicht einer App das Entfernen von Verknüpfungen vom Startbildschirm ohne Eingriff des Nutzers</string>
+  <string name="permdesc_useCredentials">Ermöglicht der App, Authentifizierungs-Token anzufordern</string>
+  <string name="permdesc_use_sip">Ermöglicht der App das Tätigen und Empfangen von SIP-Anrufen</string>
+  <string name="permdesc_vibrate">Ermöglicht der App, den Vibrationsalarm zu steuern</string>
+  <string name="permdesc_wakeLock">Ermöglicht der App, den Ruhezustand des Telefons zu deaktivieren</string>
+  <string name="permdesc_writeCalendar">Ermöglicht der App, Termine, die Sie auf Ihrem Telefon ändern können, hinzuzufügen, zu entfernen und zu ändern, einschließlich der von Freunden und Kollegen. Damit kann die App Nachrichten senden, die so erscheinen, als stammten sie vom jeweiligen Kalenderinhaber, oder Termine ohne Wissen des Inhabers ändern.</string>
+  <string name="permdesc_writeCallLog">Ermöglicht der App, die Anrufliste Ihres Telefons zu ändern, einschließlich der Daten über ein- und ausgehende Anrufe. Schädliche Apps können so Ihre Anrufliste löschen oder ändern.</string>
+  <string name="permdesc_writeContacts">Ermöglicht der App, Daten zu Kontakten, die auf Ihrem Telefon gespeichert sind, zu ändern, einschließlich der Häufigkeit, mit der Sie bestimmte Kontakte angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert haben. Die Berechtigung erlaubt Apps, Kontaktdaten zu löschen.</string>
+  <string name="permdesc_writeGeolocationPermissions">Ermöglicht der App, die Geolokalisierungsberechtigungen des Browsers zu ändern. Schädliche Apps können so Standortinformationen an beliebige Websites senden.</string>
+  <string name="permdesc_writeHistoryBookmarks">Ermöglicht der App, den Browserverlauf und die Lesezeichen auf Ihrem Telefon zu ändern. Damit kann die App Browserdaten löschen und ändern. Hinweis: Diese Berechtigung kann nicht von Browsern von Drittanbietern oder anderen Apps mit Internetfunktionen erzwungen werden.</string>
+  <string name="permdesc_writeSecureSettings">Ermöglicht der App, die Sicherheitseinstellungsdaten des Systems zu ändern. Nicht für normale Apps vorgesehen.</string>
+  <string name="permdesc_writeSettings">Ermöglicht der App, die Einstellungsdaten des Systems zu ändern. Schädliche Apps können so die Systemkonfiguration beschädigen.</string>
+  <string name="permgroupdesc_accounts">Zugriff auf verfügbare Konten</string>
+  <string name="permgroupdesc_calendar">Direkter Zugriff auf Kalender und Termine</string>
+  <string name="permgroupdesc_contacts">Zugriff auf Ihre Kontakte</string>
+  <string name="permgroupdesc_costMoney">Kostenpflichtige Aktionen</string>
+  <string name="permgroupdesc_location">Ihren physischen Standort überwachen</string>
+  <string name="permgroupdesc_phone">Anrufe tätigen</string>
+  <string name="permgroupdesc_sensors">Zugriff auf Körpersensordaten</string>
+  <string name="permgroupdesc_sms">Senden und Anzeigen von SMS</string>
+  <string name="permgroupdesc_systemClock">Uhrzeit oder Zeitzone des Geräts ändern</string>
+  <string name="permgrouplab_calendar">Kalender</string>
+  <string name="permgrouplab_camera">Kamera</string>
+  <string name="permgrouplab_contacts">Kontakte</string>
+  <string name="permgrouplab_location">Ihren Standort</string>
+  <string name="permgrouplab_microphone">Mikrofon</string>
+  <string name="permgrouplab_phone">Telefon</string>
+  <string name="permgrouplab_sensors">Körpersensoren</string>
+  <string name="permgrouplab_sms">SMS</string>
+  <string name="permgrouplab_storage">Speicher</string>
+  <string name="permission">Erlauben</string>
   <string name="permission_remember_choice">Merken</string>
   <string name="permission_request_notification_title">Berechtigung angefordert</string>
-  <string name="permission_request_notification_with_subtitle">"Berechtigung angefordert
-für Konto %s"</string>
+  <string name="permission_request_notification_with_subtitle">
+    "Berechtigung angefordert
+    für Konto %s"
+  </string>
   <string name="permission_title">Genehmigung</string>
   <string name="permlab_accessCoarseLocation">Ungefährer Standort (netzwerkbasiert)</string>
   <string name="permlab_accessDrmCertificates">Auf DRM-Zertifikate zugreifen</string>
@@ -962,99 +1004,101 @@ für Konto %s"</string>
   <string name="permlab_accessNetworkConditions">Informationen zu den Netzwerkbedingungen erfassen</string>
   <string name="permlab_accessNetworkState">Netzwerkverbindungen abrufen</string>
   <string name="permlab_accessNotifications">Auf Benachrichtigungen zugreifen</string>
-    <string name="permlab_accessWifiState">WLAN-Verbindungen abrufen</string>
-    <string name="permlab_accessWimaxState">WiMAX-Verbindungen herstellen und trennen</string>
-    <string name="permlab_access_notification_policy">Zugriff auf \"Nicht stören\"</string>
-    <string name="permlab_addVoicemail">Mailboxnachrichten hinzufügen</string>
-    <string name="permlab_bindCarrierMessagingService">auf einen Träger Messagingdienst binden</string>
-    <string name="permlab_bindCarrierServices">Netzbetreiberservices zu binden</string>
-    <string name="permlab_bindConditionProviderService">An einen Bedingungsproviderdienst binden</string>
-    <string name="permlab_bindDreamService">An Dreamdienst binden</string>
-    <string name="permlab_bindNotificationListenerService">An Benachrichtigungs-Listener-Dienst binden</string>
+  <string name="permlab_accessWifiState">WLAN-Verbindungen abrufen</string>
+  <string name="permlab_accessWimaxState">WiMAX-Verbindungen herstellen und trennen</string>
+  <string name="permlab_access_notification_policy">Zugriff auf \"Nicht stören\"</string>
+  <string name="permlab_addVoicemail">Mailboxnachrichten hinzufügen</string>
+  <string name="permlab_bindCarrierMessagingService">auf einen Träger Messagingdienst binden</string>
+  <string name="permlab_bindCarrierServices">Netzbetreiberservices zu binden</string>
+  <string name="permlab_bindConditionProviderService">An einen Bedingungsproviderdienst binden</string>
+  <string name="permlab_bindDreamService">An Dreamdienst binden</string>
+  <string name="permlab_bindNotificationListenerService">An Benachrichtigungs-Listener-Dienst binden</string>
   <string name="permlab_bind_connection_service">interact with telephony services</string>
   <string name="permlab_bind_incall_service">interact with in-call screen</string>
-    <string name="permlab_bluetooth">Pairing mit Bluetooth-Geräten durchführen</string>
-    <string name="permlab_bluetoothAdmin">Auf Bluetooth-Einstellungen zugreifen</string>
+  <string name="permlab_bluetooth">Pairing mit Bluetooth-Geräten durchführen</string>
+  <string name="permlab_bluetoothAdmin">Auf Bluetooth-Einstellungen zugreifen</string>
   <string name="permlab_bodySensors">access body sensors (like heart rate monitors)</string>
-    <string name="permlab_broadcastSticky">Dauerhaften Broadcast senden</string>
-    <string name="permlab_callPhone">Telefonnummern direkt anrufen</string>
+  <string name="permlab_broadcastSticky">Dauerhaften Broadcast senden</string>
+  <string name="permlab_callPhone">Telefonnummern direkt anrufen</string>
   <string name="permlab_camera">take pictures and videos</string>
-    <string name="permlab_changeNetworkState">Netzwerkkonnektivität ändern</string>
-    <string name="permlab_changeTetherState">Tetheringkonnektivität ändern</string>
-    <string name="permlab_changeWifiMulticastState">WLAN-Multicast-Empfang zulassen</string>
-    <string name="permlab_changeWifiState">WLAN-Verbindungen herstellen und trennen</string>
-    <string name="permlab_changeWimaxState">WiMAX-Status ändern</string>
-    <string name="permlab_connection_manager">Netzverbindungen verwalten</string>
-    <string name="permlab_control_incall_experience">Anrufoptionen anzeigen</string>
-    <string name="permlab_createNetworkSockets">Voller Netzwerkzugriff</string>
-    <string name="permlab_disableKeyguard">Displaysperre deaktivieren</string>
-    <string name="permlab_enableCarMode">Automodus aktivieren</string>
-    <string name="permlab_expandStatusBar">Statusleiste ein-/ausblenden</string>
-    <string name="permlab_getAccounts">Konten auf dem Gerät suchen</string>
-    <string name="permlab_getPackageSize">Speicherplatz der App ermitteln</string>
-    <string name="permlab_getTasks">Aktive Apps abrufen</string>
-    <string name="permlab_handoverStatus">Status von Android Beam-Übertragungen erhalten</string>
-    <string name="permlab_install_shortcut">Verknüpfungen installieren</string>
-    <string name="permlab_invokeCarrierSetup">Vom Mobilfunkanbieter bereitgestellte Konfigurations-App aufrufen</string>
-    <string name="permlab_killBackgroundProcesses">Andere Apps schließen</string>
-    <string name="permlab_manageFingerprint">Fingerabdruckhardware verwalten</string>
-    <string name="permlab_manageNetworkPolicy">Netzwerkrichtlinien verwalten</string>
-    <string name="permlab_manageProfileAndDeviceOwners">Profil- und Gerätebesitzer verwalten</string>
+  <string name="permlab_changeNetworkState">Netzwerkkonnektivität ändern</string>
+  <string name="permlab_changeTetherState">Tetheringkonnektivität ändern</string>
+  <string name="permlab_changeWifiMulticastState">WLAN-Multicast-Empfang zulassen</string>
+  <string name="permlab_changeWifiState">WLAN-Verbindungen herstellen und trennen</string>
+  <string name="permlab_changeWimaxState">WiMAX-Status ändern</string>
+  <string name="permlab_connection_manager">Netzverbindungen verwalten</string>
+  <string name="permlab_control_incall_experience">Anrufoptionen anzeigen</string>
+  <string name="permlab_createNetworkSockets">Voller Netzwerkzugriff</string>
+  <string name="permlab_disableKeyguard">Displaysperre deaktivieren</string>
+  <string name="permlab_enableCarMode">Automodus aktivieren</string>
+  <string name="permlab_expandStatusBar">Statusleiste ein-/ausblenden</string>
+  <string name="permlab_getAccounts">Konten auf dem Gerät suchen</string>
+  <string name="permlab_getPackageSize">Speicherplatz der App ermitteln</string>
+  <string name="permlab_getTasks">Aktive Apps abrufen</string>
+  <string name="permlab_handoverStatus">Status von Android Beam-Übertragungen erhalten</string>
+  <string name="permlab_install_shortcut">Verknüpfungen installieren</string>
+  <string name="permlab_invokeCarrierSetup">Vom Mobilfunkanbieter bereitgestellte Konfigurations-App aufrufen</string>
+  <string name="permlab_killBackgroundProcesses">Andere Apps schließen</string>
+  <string name="permlab_manageFingerprint">Fingerabdruckhardware verwalten</string>
+  <string name="permlab_manageNetworkPolicy">Netzwerkrichtlinien verwalten</string>
+  <string name="permlab_manageProfileAndDeviceOwners">Profil- und Gerätebesitzer verwalten</string>
   <string name="permlab_modifyAudioSettings">change your audio settings</string>
-    <string name="permlab_modifyNetworkAccounting">Zuordnung für Netzwerknutzung ändern</string>
-    <string name="permlab_nfc">Nahfeldkommunikation steuern</string>
-    <string name="permlab_persistentActivity">App permanent ausführen</string>
-    <string name="permlab_processOutgoingCalls">Ausgehende Anrufe umleiten</string>
-    <string name="permlab_readCalendar">Kalendertermine sowie vertrauliche Informationen lesen</string>
-    <string name="permlab_readCallLog">Anrufliste lesen</string>
-    <string name="permlab_readCellBroadcasts">Cell Broadcastnachrichten lesen</string>
-    <string name="permlab_readContacts">Kontakte lesen</string>
-    <string name="permlab_readHistoryBookmarks">Lesezeichen für Webseiten und das Webprotokoll lesen</string>
-    <string name="permlab_readInstallSessions">Installationssitzungen lesen</string>
-    <string name="permlab_readNetworkUsageHistory">Bisherige Netzwerkauslastung lesen</string>
-    <string name="permlab_readPhoneState">Telefonstatus und Identität abrufen</string>
-    <string name="permlab_readSms">SMS oder MMS lesen</string>
-    <string name="permlab_readSyncSettings">Synchronisierungseinstellungen lesen</string>
-    <string name="permlab_readSyncStats">Synchronisierungsstatistiken lesen</string>
-    <string name="permlab_receiveBootCompleted">Beim Start ausführen</string>
-    <string name="permlab_receiveMms">MMS empfangen</string>
-    <string name="permlab_receiveSms">SMS empfangen</string>
-    <string name="permlab_receiveWapPush">Textnachrichten (WAP) empfangen</string>
-    <string name="permlab_recordAudio">Audio aufnehmen</string>
+  <string name="permlab_modifyNetworkAccounting">Zuordnung für Netzwerknutzung ändern</string>
+  <string name="permlab_nfc">Nahfeldkommunikation steuern</string>
+  <string name="permlab_persistentActivity">App permanent ausführen</string>
+  <string name="permlab_processOutgoingCalls">Ausgehende Anrufe umleiten</string>
+  <string name="permlab_readCalendar">Kalendertermine sowie vertrauliche Informationen lesen</string>
+  <string name="permlab_readCallLog">Anrufliste lesen</string>
+  <string name="permlab_readCellBroadcasts">Cell Broadcastnachrichten lesen</string>
+  <string name="permlab_readContacts">Kontakte lesen</string>
+  <string name="permlab_readHistoryBookmarks">Lesezeichen für Webseiten und das Webprotokoll lesen</string>
+  <string name="permlab_readInstallSessions">Installationssitzungen lesen</string>
+  <string name="permlab_readNetworkUsageHistory">Bisherige Netzwerkauslastung lesen</string>
+  <string name="permlab_readPhoneState">Telefonstatus und Identität abrufen</string>
+  <string name="permlab_readSms">SMS oder MMS lesen</string>
+  <string name="permlab_readSyncSettings">Synchronisierungseinstellungen lesen</string>
+  <string name="permlab_readSyncStats">Synchronisierungsstatistiken lesen</string>
+  <string name="permlab_receiveBootCompleted">Beim Start ausführen</string>
+  <string name="permlab_receiveMms">MMS empfangen</string>
+  <string name="permlab_receiveSms">SMS empfangen</string>
+  <string name="permlab_receiveWapPush">Textnachrichten (WAP) empfangen</string>
+  <string name="permlab_recordAudio">Audio aufnehmen</string>
   <string name="permlab_register_call_provider">register new telecom connections</string>
-    <string name="permlab_register_sim_subscription">Registrieren Sie neue Netzwerk-SIM-Verbindungen</string>
-    <string name="permlab_removeDrmCertificates">DRM-Zertifikate entfernen</string>
-    <string name="permlab_reorderTasks">Aktive Apps neu ordnen</string>
-    <string name="permlab_requestInstallPackages">Paketinstallation anfordern</string>
-    <string name="permlab_route_media_output">Medienausgabe umleiten</string>
-    <string name="permlab_sdcardRead">USB-Speicherinhalte lesen</string>
-    <string name="permlab_sdcardWrite">USB-Speicherinhalte ändern oder löschen</string>
-    <string name="permlab_sendSms">SMS senden</string>
-    <string name="permlab_setAlarm">Wecker stellen</string>
-    <string name="permlab_setInputCalibration">Kalibrierung für Eingabegerät ändern</string>
-    <string name="permlab_setTime">Zeit einstellen</string>
-    <string name="permlab_setWallpaper">Hintergrund festlegen</string>
+  <string name="permlab_register_sim_subscription">Registrieren Sie neue Netzwerk-SIM-Verbindungen</string>
+  <string name="permlab_removeDrmCertificates">DRM-Zertifikate entfernen</string>
+  <string name="permlab_reorderTasks">Aktive Apps neu ordnen</string>
+  <string name="permlab_requestInstallPackages">Paketinstallation anfordern</string>
+  <string name="permlab_route_media_output">Medienausgabe umleiten</string>
+  <string name="permlab_sdcardRead">USB-Speicherinhalte lesen</string>
+  <string name="permlab_sdcardWrite">USB-Speicherinhalte ändern oder löschen</string>
+  <string name="permlab_sendSms">SMS senden</string>
+  <string name="permlab_setAlarm">Wecker stellen</string>
+  <string name="permlab_setInputCalibration">Kalibrierung für Eingabegerät ändern</string>
+  <string name="permlab_setTime">Zeit einstellen</string>
+  <string name="permlab_setWallpaper">Hintergrund festlegen</string>
   <string name="permlab_setWallpaperHints">adjust your wallpaper size</string>
-    <string name="permlab_sim_communication">SIM-Kommunikation</string>
-    <string name="permlab_statusBar">Statusleiste deaktivieren oder ändern</string>
-    <string name="permlab_statusBarService">Statusleiste</string>
-    <string name="permlab_subscribedFeedsRead">Abonnierte Feeds lesen</string>
-    <string name="permlab_systemAlertWindow">Über anderen Apps einblenden</string>
-    <string name="permlab_transmitIr">Infrarotübertragung</string>
-    <string name="permlab_uninstall_shortcut">Verknüpfungen deinstallieren</string>
-    <string name="permlab_useFingerprint">Fingerabdruckhardware verwenden</string>
-    <string name="permlab_use_sip">SIP-Anrufe tätigen/empfangen</string>
-    <string name="permlab_vibrate">Vibrationsalarm steuern</string>
-    <string name="permlab_wakeLock">Ruhezustand deaktivieren</string>
-    <string name="permlab_writeApnSettings">Netzwerkeinstellungen und -verkehr ändern/abfangen</string>
-    <string name="permlab_writeCallLog">Anrufliste bearbeiten</string>
-    <string name="permlab_writeContacts">Kontakte ändern</string>
-    <string name="permlab_writeGeolocationPermissions">Geolokalisierungsberechtigungen des Browsers ändern</string>
-    <string name="permlab_writeHistoryBookmarks">Lesezeichen für Webseiten setzen und das Webprotokoll aufzeichnen</string>
-    <string name="permlab_writeSettings">Systemeinstellungen ändern</string>
-    <string name="permlab_writeSyncSettings">Synchronisierung aktivieren oder deaktivieren</string>
-    <string name="perms_description_app">Zur Verfügung gestellt von %1$s</string>
-  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">Neu: </font></string>
+  <string name="permlab_sim_communication">SIM-Kommunikation</string>
+  <string name="permlab_statusBar">Statusleiste deaktivieren oder ändern</string>
+  <string name="permlab_statusBarService">Statusleiste</string>
+  <string name="permlab_subscribedFeedsRead">Abonnierte Feeds lesen</string>
+  <string name="permlab_systemAlertWindow">Über anderen Apps einblenden</string>
+  <string name="permlab_transmitIr">Infrarotübertragung</string>
+  <string name="permlab_uninstall_shortcut">Verknüpfungen deinstallieren</string>
+  <string name="permlab_useFingerprint">Fingerabdruckhardware verwenden</string>
+  <string name="permlab_use_sip">SIP-Anrufe tätigen/empfangen</string>
+  <string name="permlab_vibrate">Vibrationsalarm steuern</string>
+  <string name="permlab_wakeLock">Ruhezustand deaktivieren</string>
+  <string name="permlab_writeApnSettings">Netzwerkeinstellungen und -verkehr ändern/abfangen</string>
+  <string name="permlab_writeCallLog">Anrufliste bearbeiten</string>
+  <string name="permlab_writeContacts">Kontakte ändern</string>
+  <string name="permlab_writeGeolocationPermissions">Geolokalisierungsberechtigungen des Browsers ändern</string>
+  <string name="permlab_writeHistoryBookmarks">Lesezeichen für Webseiten setzen und das Webprotokoll aufzeichnen</string>
+  <string name="permlab_writeSettings">Systemeinstellungen ändern</string>
+  <string name="permlab_writeSyncSettings">Synchronisierung aktivieren oder deaktivieren</string>
+  <string name="perms_description_app">Zur Verfügung gestellt von %1$s</string>
+  <string name="perms_new_perm_prefix">
+    <font size="12" fgcolor="#ff33b5e5">Neu: </font>
+  </string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Zweite Nummer</string>
   <string name="phoneTypeCallback">Rückruf</string>
@@ -1130,7 +1174,7 @@ für Konto %s"</string>
   <string name="reboot_to_update_reboot">Neustarten…</string>
   <string name="reboot_to_update_title">Androidsystemupdate</string>
   <string name="recent_tasks_title">Kürzlich geöffnet</string>
-    <string name="redo">Wiederholen</string>
+  <string name="redo">Wiederholen</string>
   <string name="relationTypeAssistant">Assistent</string>
   <string name="relationTypeBrother">Bruder</string>
   <string name="relationTypeChild">Kind</string>
@@ -1181,9 +1225,11 @@ für Konto %s"</string>
   <string name="roamingText9">Roaming - Volle Dienstfunktionalität</string>
   <string name="roamingTextSearching">Suche nach Dienst</string>
   <string name="safeMode">Abgesicherter Modus</string>
-  <string name="safe_media_volume_warning">"Lautstärke über den Schwellenwert anheben?
+  <string name="safe_media_volume_warning">
+    "Lautstärke über den Schwellenwert anheben?
 
-Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kann dies Ihr Gehör schädigen."</string>
+    Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kann dies Ihr Gehör schädigen."
+  </string>
   <string name="save_password_label">Bestätigen</string>
   <string name="save_password_message">Möchten Sie, dass der Browser dieses Passwort speichert?</string>
   <string name="save_password_never">Nie</string>
@@ -1260,17 +1306,25 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="sipAddressTypeOther">Sonstige</string>
   <string name="sipAddressTypeWork">Geschäftlich</string>
   <string name="skip_button_label">Überspringen</string>
-  <string name="sms_control_message"><b>%1$s</b> sendet eine große Anzahl SMS. Möchten Sie zulassen, dass die App weiterhin Nachrichten sendet?</string>
+  <string name="sms_control_message">
+    <b>%1$s</b> sendet eine große Anzahl SMS. Möchten Sie zulassen, dass die App weiterhin Nachrichten sendet?
+  </string>
   <string name="sms_control_no">Nicht zulassen</string>
   <string name="sms_control_title">SMS werden gesendet</string>
   <string name="sms_control_yes">Zulassen</string>
-  <string name="sms_premium_short_code_details"><b>Hierfür werden Ihrem Mobilfunkkonto Gebühren berechnet.</b></string>
+  <string name="sms_premium_short_code_details">
+    <b>Hierfür werden Ihrem Mobilfunkkonto Gebühren berechnet.</b>
+  </string>
   <string name="sms_short_code_confirm_allow">Senden</string>
   <string name="sms_short_code_confirm_always_allow">Immer zulassen</string>
   <string name="sms_short_code_confirm_deny">Abbrechen</string>
-  <string name="sms_short_code_confirm_message"><b>%1$s</b> möchte eine Nachricht an <b>%2$s</b> senden.</string>
+  <string name="sms_short_code_confirm_message">
+    <b>%1$s</b> möchte eine Nachricht an <b>%2$s</b> senden.
+  </string>
   <string name="sms_short_code_confirm_never_allow">Nie zulassen</string>
-  <string name="sms_short_code_details">Hierfür könnten Ihrem Mobilfunkkonto <b>Gebühren berechnet werden</b>.</string>
+  <string name="sms_short_code_details">
+    Hierfür könnten Ihrem Mobilfunkkonto <b>Gebühren berechnet werden</b>.
+  </string>
   <string name="sms_short_code_remember_choice">Auswahl merken</string>
   <string name="sms_short_code_remember_undo_instruction">Sie können dies unter \"Einstellungen &gt; Apps\" ändern.</string>
   <string name="smv_application">Die App %1$s (Prozess %2$s) hat gegen ihre selbsterzwungene StrictMode-Richtlinie verstoßen.</string>
@@ -1306,9 +1360,9 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="system_error_wipe_data">"Es gibt ein internes Problem mit Ihrem Gerät, es kann instabil bleiben, bis Sie eine Werkswiederherstellung durchführen."</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Zum Einrichten berühren</string>
-    <string name="tethered_notification_multi_device_message">%1$s angeschlossene Geräte</string>
-    <string name="tethered_notification_no_device_message">Kein angeschlossenes Gerät</string>
-    <string name="tethered_notification_one_device_message">%1$s angeschlossenes Gerät</string>
+  <string name="tethered_notification_multi_device_message">%1$s angeschlossene Geräte</string>
+  <string name="tethered_notification_no_device_message">Kein angeschlossenes Gerät</string>
+  <string name="tethered_notification_one_device_message">%1$s angeschlossenes Gerät</string>
   <string name="tethered_notification_title">Tethering oder Hotspot aktiv</string>
   <string name="textSelectionCABTitle">Textauswahl</string>
   <string name="text_copied">Text in Zwischenablage kopiert.</string>
@@ -1349,7 +1403,7 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="user_creation_account_exists">Erlaube %1$s einen neuen Benutzer mit %2$s zu erstellen?</string>
   <string name="user_creation_adding">Erlaube %1$s einen neuen Benutzer mit %2$s (es existiert bereits ein Benutzer) zu erstellen?</string>
   <string name="user_encrypted_detail">Benutzerdaten sind gesperrt</string>
-  <string name="user_encrypted_message">Zum öffnen tippen/string>
+  <string name="user_encrypted_message">Zum öffnen tippen</string>
   <string name="user_encrypted_title">Einige Funktionen können eingeschränkt sein</string>
   <string name="user_logging_out_message">Logge %1$s aus…</string>
   <string name="user_owner_label">Private Apps</string>
@@ -1381,9 +1435,11 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="vr_listener_binding_label">VR listener</string>
   <string name="wait">Warten</string>
   <string name="wallpaper_binding_label">Hintergrund</string>
-  <string name="webpage_unresponsive">"Die Seite reagiert nicht mehr.
+  <string name="webpage_unresponsive">
+    "Die Seite reagiert nicht mehr.
 
-Möchten Sie die Seite schließen?"</string>
+    Möchten Sie die Seite schließen?"
+  </string>
   <string name="websearch">Websuche</string>
   <string name="week">Woche</string>
   <string name="weeks">Wochen</string>

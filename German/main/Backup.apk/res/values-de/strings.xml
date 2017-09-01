@@ -108,7 +108,7 @@
   <string name="exchange_account">Konto wechseln</string>
   <string name="fail">Fehlgeschlagen</string>
   <string name="feature_title_account">Konto</string>
-  <string name="feature_title_antispam">Blockliste</string>  
+  <string name="feature_title_antispam">Blockliste</string>
   <string name="feature_title_call_log">Anrufverlauf</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Hochladen…</string>
@@ -118,10 +118,12 @@
   <string name="guarded_mode_dialog_backup_message">Backups sind im Gastmodus nicht erlaubt.</string>
   <string name="guarded_mode_dialog_title">"Sie befinden sich im Gastmodus"</string>
   <string name="guarded_mode_dialog_transfer_message">Mi Mover kann im Gastmodus nicht verwendet werden.</string>
-  <string name="import_from_xiaomi_account_hint1">"1.\u0009Mi Talk herunterladen und anmelden.
-\u0009http://www.miliao.com
+  <string name="import_from_xiaomi_account_hint1">
+    "1.\u0009Mi Talk herunterladen und anmelden.
+    \u0009http://www.miliao.com
 
-2.\u0009In die MiTalk-Einstellungen wechseln und ”Kontakte im Mi Konto sichern” wählen""</string>
+    2.\u0009In die MiTalk-Einstellungen wechseln und ”Kontakte im Mi Konto sichern” wählen""
+  </string>
   <string name="import_from_xiaomi_account_hint2">Falls Sicherung bereits vorhanden ist, weiter drücken.</string>
   <string name="import_from_xiaomi_account_hint_title">MiTalk verwenden, um Kontakte auf anderen Geräten wiederherzustellen.</string>
   <string name="local_app_name">Sicherungen</string>
@@ -250,7 +252,7 @@
   <string name="task_service_not_launched">"Vorgang wurde noch nicht gestartet"</string>
   <string name="task_stopped_exception">Wiederherstellung abgebrochen</string>
   <string name="total_num">%d Elemente,</string>
-  <string name="total_size">, %s</string>  
+  <string name="total_size">, %s</string>
   <string name="trans_backingup">Sichern…</string>
   <string name="trans_backingup_no_items">Synchronisieren…</string>
   <string name="trans_calculating">Wird berechnet…</string>
@@ -271,21 +273,29 @@
   <string name="trans_generate_qr_code_failed">"QR Code konnte nicht erstellt werden"</string>
   <string name="trans_main_tutor">Kontakte, Anrufverlauf, Nachrichten, Bildschirmlayout, Apps, Einstellungen, usw. auf eine neues Gerät verschieben</string>
   <string name="trans_my_device">Mein Gerät</string>
-  <string name="trans_native_no_space">"Dieses Gerät hat nicht genügend Speicherplatz zur Verfügung 
-Bitte bereinigen Sie mindestens %s"</string>
+  <string name="trans_native_no_space">
+    "Dieses Gerät hat nicht genügend Speicherplatz zur Verfügung
+    Bitte bereinigen Sie mindestens %s"
+  </string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Methode A</string>
   <string name="trans_operate_func_two">Methode B</string>
-  <string name="trans_operate_new_phone_tips">"Scannen Sie den QR-Code mit dem neuem Gerät
-Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
- [Ich bin der Empfänger] antippen, um QR Code zu erstellen"</string>
-  <string name="trans_operate_old_phone_tips1">"
-1. Installieren Sie die Mi Mover App auf Ihrem alten Gerät
-2. Öffnen Sie die App und tippen Sie auf Start
-3. Scannen Sie den QR-Code mit Ihrem alten Gerät"</string>
-  <string name="trans_operate_old_phone_tips2">"
-Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
- [Ich bin der Sender] antippen"</string>
+  <string name="trans_operate_new_phone_tips">
+    "Scannen Sie den QR-Code mit dem neuem Gerät
+    Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
+    [Ich bin der Empfänger] antippen, um QR Code zu erstellen"
+  </string>
+  <string name="trans_operate_old_phone_tips1">
+    "
+    1. Installieren Sie die Mi Mover App auf Ihrem alten Gerät
+    2. Öffnen Sie die App und tippen Sie auf Start
+    3. Scannen Sie den QR-Code mit Ihrem alten Gerät"
+  </string>
+  <string name="trans_operate_old_phone_tips2">
+    "
+    Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
+    [Ich bin der Sender] antippen"
+  </string>
   <string name="trans_please_waiting">Bitte warten ...</string>
   <string name="trans_progress_subdescript_br_receiver">Wiederherstellung von %1$s, %2$s abgeschlossen</string>
   <string name="trans_progress_subdescript_br_sender">Sicherung von %1$s, %2$s abgeschlossen</string>
@@ -299,8 +309,10 @@ Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
   <string name="trans_progress_subdescript_transingsddata_sender">Senden sdcard Daten von %1$s, %2$s abgeschlossen</string>
   <string name="trans_progress_subdescript_waiting">Warten auf Empfang von %s</string>
   <string name="trans_receiver">"Ich bin der Empfänger"</string>
-  <string name="trans_receiver_time_remained">"Noch %s. Das Gerät muss aufgeladen sein.
-  Schalten Sie den WLAN Hotspot nicht aus. Halten Sie beide Geräte in der Nähe."</string>
+  <string name="trans_receiver_time_remained">
+    "Noch %s. Das Gerät muss aufgeladen sein.
+    Schalten Sie den WLAN Hotspot nicht aus. Halten Sie beide Geräte in der Nähe."
+  </string>
   <string name="trans_receiving_completed">Empfang erfolgreich</string>
   <string name="trans_restoring">Wiederherstellen…</string>
   <string name="trans_restoring_no_items">Elemente synchronisieren</string>
@@ -308,31 +320,45 @@ Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
   <string name="trans_scan_invalid_qrcode">QR Code ungültig</string>
   <string name="trans_scan_qr_code_tips">Scannen Sie den QR-Code mit dem neuen Gerät</string>
   <string name="trans_select_data">Zu sendende Dateien auswählen</string>
-  <string name="trans_select_data_no_space">"%s auf neuem Gerät verfügbar
-  Erneut auswählen oder zusätzlichen Speicher frei machen"</string>
-  <string name="trans_select_data_tips">"Dateien zur Übertragung auswählen
-  Dateien mit identischem Namen werden überschrieben"</string>
+  <string name="trans_select_data_no_space">
+    "%s auf neuem Gerät verfügbar
+    Erneut auswählen oder zusätzlichen Speicher frei machen"
+  </string>
+  <string name="trans_select_data_tips">
+    "Dateien zur Übertragung auswählen
+    Dateien mit identischem Namen werden überschrieben"
+  </string>
   <string name="trans_select_device_receive">Gerät zum Datenempfang auswählen.</string>
   <string name="trans_select_device_send">Wählen Sie ein Gerät um Daten zu senden.</string>
   <string name="trans_sender">"Ich bin der Sender"</string>
   <string name="trans_sender_connectting">Auf neuem Gerät bestätigen</string>
   <string name="trans_sender_searching">Nach neuen Geräten suchen</string>
-  <string name="trans_sender_searching_ensurance">"Das alte Gerät muß eingeschaltet sein.
- Warten auf Verbindung mit dem alten Gerät…"</string>
-  <string name="trans_sender_time_remained">"Noch %s.
-  Schalten Sie den WLAN Hotspot nicht aus. Halten Sie beide Geräte in der Nähe."</string>
+  <string name="trans_sender_searching_ensurance">
+    "Das alte Gerät muß eingeschaltet sein.
+    Warten auf Verbindung mit dem alten Gerät…"
+  </string>
+  <string name="trans_sender_time_remained">
+    "Noch %s.
+    Schalten Sie den WLAN Hotspot nicht aus. Halten Sie beide Geräte in der Nähe."
+  </string>
   <string name="trans_sending_completed">Senden erfolgreich</string>
   <string name="trans_show_qr_code_label">Altes Gerät verbinden</string>
   <string name="trans_show_qr_code_tips">QR Code mit Ihrem alten Gerät scannen</string>
   <string name="trans_start_failed_message">Start der Übertragung fehlgeschlagen, bitte erneut versuchen oder neu starten</string>
   <string name="trans_start_failed_title">Start der Übertragung fehlgeschlagen</string>
   <string name="trans_time_format_second">Weniger als einer Minute</string>
-  <string name="trans_time_spent">"
-  Zeit bisher: %s"</string>
-  <string name="trans_wait_trans_data">"Mit altem Gerät verbunden.
-  Warten auf Übertragung…"</string>
-  <string name="trans_waiting_ensurance">"Das alte Gerät muß eingeschaltet und
-  Mi Mover aktiviert sein"</string>
+  <string name="trans_time_spent">
+    "
+    Zeit bisher: %s"
+  </string>
+  <string name="trans_wait_trans_data">
+    "Mit altem Gerät verbunden.
+    Warten auf Übertragung…"
+  </string>
+  <string name="trans_waiting_ensurance">
+    "Das alte Gerät muß eingeschaltet und
+    Mi Mover aktiviert sein"
+  </string>
   <string name="trans_waiting_for_sender">Warte auf Verbindung mit dem alten Gerät…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" Elemente"</string>
@@ -348,9 +374,13 @@ Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">MiRouter</string>
   <string name="xiaomi_router_location">MiRouter %s</string>
-  <string name="xiaomi_update_dialog_message">"Neue Version %1$s
-Größe: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Neue Version %1$s
-Delta Updategröße: %2$s"</string>
+  <string name="xiaomi_update_dialog_message">
+    "Neue Version %1$s
+    Größe: %2$s"
+  </string>
+  <string name="xiaomi_update_dialog_message_diff">
+    "Neue Version %1$s
+    Delta Updategröße: %2$s"
+  </string>
   <string name="xiaomi_update_dialog_title">Neue Version verfügbar!</string>
 </resources>

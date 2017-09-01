@@ -174,7 +174,7 @@
   <string name="camera_key_action_shortcut_title">Verknüpfung</string>
   <string name="camera_key_action_shortcut_wake">Sperren/Entsperren</string>
   <string name="camera_key_action_toggle_title">Auslöser</string>
-  <string name="cancel">Beenden</string>  
+  <string name="cancel">Beenden</string>
   <string name="category_personal">Persönlich</string>
   <string name="category_work">Arbeit</string>
   <string name="charge_length_format">vor %1$s</string>
@@ -186,10 +186,12 @@
   <string name="confirm_enable_oem_unlock_title">OEM Entsperrung erlauben?</string>
   <string name="connected_via_passpoint">Verbunden über %1$s</string>
   <string name="connected_via_wfa">Verbunden über Wlan Assistenten</string>
-  <string name="convert_to_fbe_warning">"Datenpartitionen in dateibasierte Verschlüsselung konvertieren. 
-!!Warnung!! Alle Ihre Daten werden gelöscht. 
-Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig. 
-\"Löschen und konvertieren…\" drücken, um fortzufahren."</string>
+  <string name="convert_to_fbe_warning">
+    "Datenpartitionen in dateibasierte Verschlüsselung konvertieren.
+    !!Warnung!! Alle Ihre Daten werden gelöscht.
+    Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
+    \"Löschen und konvertieren…\" drücken, um fortzufahren."
+  </string>
   <string name="convert_to_file_encryption">In Datei-Verschlüsselung umwandeln</string>
   <string name="convert_to_file_encryption_done">Datei bereits verschlüsselt</string>
   <string name="convert_to_file_encryption_enabled">Wird umgewandelt…</string>
@@ -199,8 +201,10 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="daltonizer_mode_protanomaly">Protanomaly (Rot-Grün)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomaly (Blau-Gelb)</string>
   <string name="daltonizer_type_overridden">Überschrieben von %1$s</string>
-  <string name="data_usage_disabled_dialog">"Sie haben Ihre angegebene Datenverwendungsgrenze erreicht. 
-  Sie können vom Betreiber aufgeladen werden."</string>
+  <string name="data_usage_disabled_dialog">
+    "Sie haben Ihre angegebene Datenverwendungsgrenze erreicht.
+    Sie können vom Betreiber aufgeladen werden."
+  </string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G Daten ausgeschaltet</string>
   <string name="data_usage_disabled_dialog_4g_title">4G Daten ausgeschaltet</string>
   <string name="data_usage_disabled_dialog_enable">Datenverbindung einschalten</string>
@@ -298,15 +302,17 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="immediately_destroy_activities">Aktivitäten beenden</string>
   <string name="immediately_destroy_activities_summary">Beende jede Aktivität, sobald der Benutzer sie verlässt</string>
-  <string name="important_desc">Alle wichtigen Benachrichtigungen werden direkt auf der Benachrichtigungsleiste angezeigt.</string>  
+  <string name="important_desc">Alle wichtigen Benachrichtigungen werden direkt auf der Benachrichtigungsleiste angezeigt.</string>
   <string name="inactive_app_active_summary">Aktiv. Tippen, um umzuschalten.</string>
   <string name="inactive_app_inactive_summary">Inaktiv. Tippen, um umzuschalten.</string>
   <string name="inactive_apps_title">Inactive apps</string>
-  <string name="invalid_charger">"Aufladen über USB wird nicht unterstützt.
-Bitte Ladegerät benutzen."</string>
+  <string name="invalid_charger">
+    "Aufladen über USB wird nicht unterstützt.
+    Bitte Ladegerät benutzen."
+  </string>
   <string name="keep_screen_on">Wach bleiben</string>
   <string name="keep_screen_on_summary">Bildschirm geht beim Aufladen nicht aus</string>
-  <string name="keyboard_shortcut_group_system_recents">Letzte Apps</string>  
+  <string name="keyboard_shortcut_group_system_recents">Letzte Apps</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Anzeigen</string>
   <string name="launch_defaults_none">Keine Voreinstellungen festlegen</string>
@@ -314,7 +320,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="legacy_dhcp_client_summary">Den DHCP-Client von Lollipop anstelle des neuen Android DHCP-Clients verwenden.</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
-  <string name="loading_desktop">Einen Moment…</string>  
+  <string name="loading_desktop">Einen Moment…</string>
   <string name="local_backup_password_summary_change">Tippen, um das Kennwort für die vollständigen Sicherungen des Desktops zu ändern oder zu entfernen</string>
   <string name="local_backup_password_summary_none">Desktop-Sicherungen sind derzeit nicht geschützt</string>
   <string name="local_backup_password_title">Desktop-Sicherung Passwort</string>
@@ -420,13 +426,13 @@ Bitte Ladegerät benutzen."</string>
   <string name="quick_settings_done">Fertig</string>
   <string name="quick_settings_more_settings">Weitere Einstellungen</string>
   <string name="quick_settings_tiles">Standard</string>
-  <string name="quick_settings_tiles_default">WLAN,Mobilfunk,Akku,DND,Taschenlampe,Rotation,BT,Flugzeug,Standort</string>  
+  <string name="quick_settings_tiles_default">WLAN,Mobilfunk,Akku,DND,Taschenlampe,Rotation,BT,Flugzeug,Standort</string>
   <string name="quick_settings_wifi_detail_empty_text">Keine WLAN-Netzwerke verfügbar</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Wählen Sie ein Netzwerk in der Nähe</string>
   <string name="recent_dock_tip">Klicken, um die App auszuwählen</string>
   <string name="recent_task_app_info_text">Details</string>
-  <string name="recent_task_cleaning">Anwendung wird gelöscht…</string>  
+  <string name="recent_task_cleaning">Anwendung wird gelöscht…</string>
   <string name="recent_task_lock_text">Sperren</string>
   <string name="recent_task_unlock_text">Entsperren</string>
   <string name="recents_app_info_button_label">App-Info</string>
@@ -437,7 +443,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="recents_empty_message_multi_window">Please go home to open an application</string>
   <string name="recents_exit_multi_window_mode">Multi-Fenster-Modus beenden</string>
   <string name="recents_incompatible_app_message">App unterstützt Multi-Fenster-Modus nicht</string>
-  <string name="recents_launch_disabled_message">%s ist im abgesicherten Modus deaktiviert</string>  
+  <string name="recents_launch_disabled_message">%s ist im abgesicherten Modus deaktiviert</string>
   <string name="recents_launch_error_message">Kann %s nicht starten</string>
   <string name="recents_lock_to_app_button_label">Bildschirm apinnen</string>
   <string name="recents_multi_window_mode">Multi-Fenster-Modus</string>
@@ -445,7 +451,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Horizontal splitten</string>
   <string name="recents_multistack_add_stack_dialog_split_vertical">Vertikal splitten</string>
   <string name="recents_search_bar_label">Suchen</string>
-  <string name="recents_stack_action_button_label">Alles löschen</string>  
+  <string name="recents_stack_action_button_label">Alles löschen</string>
   <string name="reject_call">Anruf ablehnen</string>
   <string name="remaining_length_format">%1$s verbleiben</string>
   <string name="return_to_incall_screen">Zurück zum Anruf</string>
@@ -512,12 +518,16 @@ Bitte Ladegerät benutzen."</string>
   <string name="show_touches_summary">Visuelles Feedback bei Berührungen anzeigen</string>
   <string name="simulate_color_space">Farbraum simulieren</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
-  <string name="status_bar_accessibility_dismiss_recents">Letzte Apps entfernen</string>  
+  <string name="status_bar_accessibility_dismiss_recents">Letzte Apps entfernen</string>
   <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
-  <string name="status_bar_date_format">"EEEE
-d. MMMM"</string>
-  <string name="status_bar_date_format_12">"EEEE
-d. MMMM"</string>
+  <string name="status_bar_date_format">
+    "EEEE
+    d. MMMM"
+  </string>
+  <string name="status_bar_date_format_12">
+    "EEEE
+    d. MMMM"
+  </string>
   <string name="status_bar_network_flow_content">"Heute: %1$s   Verbleibend: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Heute: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan überschritten: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Monatliche Grenze: %1$s   "</string>
@@ -525,8 +535,10 @@ d. MMMM"</string>
   <string name="status_bar_network_flow_today">Heute: %1$s</string>
   <string name="status_bar_no_recent_apps">Keine kürzlich verwendeten Apps</string>
   <string name="status_bar_notification_inspect_item_title">Appinfo</string>
-  <string name="status_bar_recent_guide_all">"Zum Schließen hochwischen und 
-zum Sperren runterwischen"</string>
+  <string name="status_bar_recent_guide_all">
+    "Zum Schließen hochwischen und
+    zum Sperren runterwischen"
+  </string>
   <string name="status_bar_recent_guide_bottom">Zum Sperren runterwischen</string>
   <string name="status_bar_recent_guide_top">Zum Schließen hochwischen</string>
   <string name="status_bar_recent_inspect_item_title">App info</string>
@@ -556,7 +568,7 @@ zum Sperren runterwischen"</string>
   <string name="title_convert_fbe">In dateibasierte Verschlüsselung umwandeln</string>
   <string name="title_usb_accessory">USB-Zubehör</string>
   <string name="toast_rotation_locked">Bildschirm ist jetzt im Landscape Format fixiert.</string>
-  <string name="torch_activity_hint">Halten Sie [icon] im Sperrbildschirm gedrückt, um die Taschenlampe zu aktivieren</string>  
+  <string name="torch_activity_hint">Halten Sie [icon] im Sperrbildschirm gedrückt, um die Taschenlampe zu aktivieren</string>
   <string name="torch_activity_name">Lampe</string>
   <string name="torch_closed">Lampe aus</string>
   <string name="torch_opened">Lampe an</string>
@@ -592,7 +604,7 @@ zum Sperren runterwischen"</string>
   <string name="tts_status_title">Standardsprache Status</string>
   <string name="un_important_notifications">Unwichtige Benachrichtigungen</string>
   <string name="unimportant_desc">Alle unwichtigen Benachrichtigungen werden in einem separaten Ordner angezeigt.</string>
-  <string name="unimportant_title">Unwichtig</string>  
+  <string name="unimportant_title">Unwichtig</string>
   <string name="unknown">Unbekannt</string>
   <string name="usb_accessory_confirm_prompt">%1$s öffnen, wenn dieses USB-Zubehör angeschlossen wird?</string>
   <string name="usb_accessory_permission_prompt">Der App %1$s erlauben, auf das USB-Zubehör zuzugreifen?</string>
@@ -600,8 +612,10 @@ zum Sperren runterwischen"</string>
   <string name="usb_audio_disable_routing">USB-Audio-Routing deaktivieren</string>
   <string name="usb_audio_disable_routing_summary"> Automatische Routing auf USB-Audio-Peripheriegeräte deaktivieren</string>
   <string name="usb_debugging_always">Von diesem Computer immer erlauben</string>
-  <string name="usb_debugging_message">"Der Computer RSA-Schlüsselfingerabdruck ist:
-%1$s"</string>
+  <string name="usb_debugging_message">
+    "Der Computer RSA-Schlüsselfingerabdruck ist:
+    %1$s"
+  </string>
   <string name="usb_debugging_title">USB-Debugging erlauben?</string>
   <string name="usb_device_confirm_prompt">%1$s öffnen, wenn dieses USB-Gerät angeschlossen wird?</string>
   <string name="usb_device_permission_prompt">Der App %1$s erlauben, auf das USB-Gerät zuzugreifen?</string>

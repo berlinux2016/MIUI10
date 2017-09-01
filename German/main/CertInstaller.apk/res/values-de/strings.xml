@@ -36,12 +36,14 @@
   <string name="sdcard_not_present">USB-Speicher ist nicht vorhanden.</string>
   <string name="unable_to_save_cert">Das Zertifikat konnte nicht gespeichert werden. Der Speicher für die Anmeldeinformationen wurde nicht aktiviert oder falsch initialisiert.</string>
   <string name="wifi_cancel_label">Abbrechen</string>
-  <string name="wifi_config_text">"Name: %1$s
-  FQDN: %2$s
-  Roaming-Konsortium: %3$s
-  Bereich: %4$s
-  Authentifizierungsmethode: EAP-%5$s
-  "</string>
+  <string name="wifi_config_text">
+    "Name: %1$s
+    FQDN: %2$s
+    Roaming-Konsortium: %3$s
+    Bereich: %4$s
+    Authentifizierungsmethode: EAP-%5$s
+    "
+  </string>
   <string name="wifi_detail_label">Details</string>
   <string name="wifi_detail_title">Details für %s</string>
   <string name="wifi_dismiss_label">Schließen</string>
@@ -54,16 +56,24 @@
   <string name="wifi_installer_fail_title">"Installation nicht möglich"</string>
   <string name="wifi_installing_label">Installation</string>
   <string name="wifi_no_config">Keine</string>
-  <string name="wifi_sim_config_text">"SIM: %s
-  "</string>
+  <string name="wifi_sim_config_text">
+    "SIM: %s
+    "
+  </string>
   <string name="wifi_title">WLAN-Profile</string>
-  <string name="wifi_tls_config_text">"Clientzertifikat:
-  %1$s
-  Schlüssel: %2$s
-  "</string>
-  <string name="wifi_trust_config_text">"Vertrauenswürdiges Zertifikat:
-  %s
-  "</string>
-  <string name="wifi_ttls_config_text">"Benutzername: %s
-  "</string>
+  <string name="wifi_tls_config_text">
+    "Clientzertifikat:
+    %1$s
+    Schlüssel: %2$s
+    "
+  </string>
+  <string name="wifi_trust_config_text">
+    "Vertrauenswürdiges Zertifikat:
+    %s
+    "
+  </string>
+  <string name="wifi_ttls_config_text">
+    "Benutzername: %s
+    "
+  </string>
 </resources>
