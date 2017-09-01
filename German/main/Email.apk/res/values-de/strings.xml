@@ -2,7 +2,7 @@
 <resources>
   <!-- To Translate -->
   <string name="account_settings_background_attachments_summary_inter">Anhang per WLan herunterladen</string>
-  <string name="account_setup_incoming_username_label_default_hint">Sollte Domain enthalten</string>
+  <string name="account_setup_incoming_username_label_default_hint">Du solltest einen Domainnamen einfügen</string>
   <string name="account_setup_options_mail_window_default">Als Standardaccount wählen</string>
   <string name="auto_remind_bind">Hinzufügen</string>
   <string name="auto_remind_discribe_text">Aktivieren um automatische Erinnerungen zu erhalten</string>
@@ -12,54 +12,54 @@
   <string name="bank_card_detail">Kreditkartendetails</string>
   <string name="bill_center_setting">Zahlungseinstellungen</string>
   <string name="bill_center_setting_head">Importiere Informationen von diesen Account</string>
-  <string name="bill_cycle_text">Billing cycle</string>
-  <string name="bill_remind">Repayment reminder</string>
-  <string name="bill_remind_due">A repayment is due on %s, tap to view</string>
-  <string name="cancel_pop3_attchemt_downloading">Cancellation of any attachment being downloaded is not available to a POP3 type of account.</string>
-  <string name="contact_info_string_default">Show contact information</string>
-  <string name="credit_limit_text">Credit limit</string>
-  <string name="cur_debt">Account balance</string>
-  <string name="default_">DEFAULT</string>
-  <string name="default_setup">DEFAULT SETTINGS</string>
-  <string name="default_signature">Sent from my Mi phone</string>
-  <string name="drawer_bank_bill">Bank statements</string>
-  <string name="drawer_classification">Categories</string>
+  <string name="bill_cycle_text">Abrechnungszyklus</string>
+  <string name="bill_remind">Zahlungserinnerung</string>
+  <string name="bill_remind_due">Eine Rückzahlung ist fällig am %s, tippen zum Anzeigen</string>
+  <string name="cancel_pop3_attchemt_downloading">Bei einem POP3-Konto kann der Download des Anhangs nicht abgebrochen werden.</string>
+  <string name="contact_info_string_default">Zeige Kontakinformationen</string>
+  <string name="credit_limit_text">Kreditlimit</string>
+  <string name="cur_debt">Kontostand</string>
+  <string name="default_">Standard</string>
+  <string name="default_setup">Standardeinstellungen</string>
+  <string name="default_signature">Von meinen Mi phone gesendet</string>
+  <string name="drawer_bank_bill">Kontoauszüge</string>
+  <string name="drawer_classification">Katwgoriern</string>
   <string name="due">Due</string>
-  <string name="due_date_text">Final repayment</string>
+  <string name="due_date_text">Endgültige Rückzahlung</string>
   <string name="email_suggestions_authority">com.android.email.provider</string>
-  <string name="fetch_bank_sender_list_failure">"Couldn't get info"</string>
+  <string name="fetch_bank_sender_list_failure">"Info konnte nicht ermitteln werden"</string>
   <string name="first_quick_default_reply">Tap the button to send \"%s\" to all people in the conversation</string>
-  <string name="free_period_text">Interest-free period</string>
+  <string name="free_period_text">Zinslose Laufzeit</string>
   <string name="imap_or_pop3_name">IMAP/POP3</string>
-  <string name="import_button_text">Import</string>
-  <string name="import_from_other_account">Import from other accounts</string>
-  <string name="interact_with_server_error">"Couldn't connect to the server"</string>
-  <string name="mailbox_name_display_circular">Notifications</string>
-  <string name="menu_att_mgr_order_default">Recently viewed</string>
-  <string name="min_payment_text">Minimum payment</string>
-  <string name="network_invaild">"Can't connect to the network"</string>
+  <string name="import_button_text">Importieren</string>
+  <string name="import_from_other_account">Von einen anderen Account importieren</string>
+  <string name="interact_with_server_error">"Verbindung konnte mit den Server nicht hergestellt werden"</string>
+  <string name="mailbox_name_display_circular">Benachrichtigungen</string>
+  <string name="menu_att_mgr_order_default">Zuletzt angesehen</string>
+  <string name="min_payment_text">Mindestbetrag</string>
+  <string name="network_invaild">"Verbindung zum Netzwerk konnte nicht hergestellt werden"</string>
   <string name="no_bill_discribe">
-    "Couldn't find any bills.
-    Try switching to a different email account."
+    "Konnte keine Rechnungen finden.
+    Versuche es mit einen anderen Email-Konto."
   </string>
-  <string name="no_filtrable_email_account">No accounts to filter</string>
+  <string name="no_filtrable_email_account">Keine Konten zum filtern</string>
   <string name="no_recognize_describe">
-    "Couldn't find emails containing tickets or bookings.
-    Try a different inbox."
+    "E-Mails mit Tickets oder Buchungen wurden nicht gefunden.
+    Versuche es mit einen anderen Posteingang."
   </string>
   <string name="note_title">139 Email Automatic Configuration</string>
-  <string name="over_due">Overdue</string>
+  <string name="over_due">Überfällig</string>
   <string name="overlays_fail_tip">Very sorry that your mailbox is not configured successfully, open the floating Windows permissions and try again</string>
   <string name="overlays_ok">Open permissions</string>
   <string name="overlays_tip">Open floating Windows permissions, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
   <string name="overlays_title">Open floating Windows permissions</string>
-  <string name="parse_bill_discribe">Processing credit card bills…</string>
-  <string name="parse_recognize_describe">Analyzing email…</string>
+  <string name="parse_bill_discribe">Bearbeitung von Kreditkartenrechnungen…</string>
+  <string name="parse_recognize_describe">Emails werden analysiert…</string>
   <string name="pls_parse_bill_discribe">
     "Analyze bills and travel info in your email
     to receive reminders about payments and trips"
   </string>
-  <string name="policy_dont_allow_wifi_inter">"Don't allow Wi-Fi"</string>
+  <string name="policy_dont_allow_wifi_inter">"Wlan nicht erlauben"</string>
   <string name="protocol_setting_toast">Tap the upper right corner to go to settings after you agree</string>
   <string name="recognize_hotel_check_in_date">Check-in time</string>
   <string name="recognize_hotel_hotel_money">Price %1$s</string>
