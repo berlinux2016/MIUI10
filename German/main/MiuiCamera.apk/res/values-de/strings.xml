@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, die Zurück- und Lautstärke-Hochtaste gleichzeitig drücken.</string>
-  <string name="screen_on_proximity_sensor_summary">"Bedecken Sie nicht den orangen Bereich"</string>
-
   <string name="access_sd_fail">"Kein Zugriff auf USB-Speicher möglich."</string>
   <string name="accessibility_audio_shutter_bg">Auslösergeräusch-Hintergrund</string>
   <string name="accessibility_camera_module_picker">Kameramodusauswahl</string>
@@ -15,6 +12,7 @@
   <string name="accessibility_module_picker">ModulePicker</string>
   <string name="accessibility_panorama_review_cancel">Panorama speichern abbrechen</string>
   <string name="accessibility_peak">Bildschärfetaste</string>
+  <string name="accessibility_photo_style_button">PhotoStyleButton</string>
   <string name="accessibility_portrait_button">Portraitmodus</string>
   <string name="accessibility_review_thumbnail">Neueste Fotos</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
@@ -27,6 +25,8 @@
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_button">Zoommodus</string>
   <string name="audio_focus_exit_button_text">Audiofokus beenden</string>
+  <string name="beauty_fragment_tab_name_beauty">Intelligent</string>
+  <string name="beauty_fragment_tab_name_makeup">Fortgeschrittene</string>
   <string name="burst_shoot_exit_button_text">Serienbilder schießen ausschalten</string>
   <string name="button_fisheye_camera_title">Fischauge</string>
   <string name="button_front_camera_title">Selfie</string>
@@ -44,6 +44,28 @@
   <string name="cannot_connect_camera_volte_call">Videoanruf läuft noch, bitte versuchen Sie es später.</string>
   <string name="cannot_move_warning_message">Fotoaufnahme, halten Sie das Gerät ruhig!</string>
   <string name="close">Schließen</string>
+  <string name="color_effect_entry_berry">Beeren</string>
+  <string name="color_effect_entry_blackwhite">Schwarz-Weiß</string>
+  <string name="color_effect_entry_cookie">Coockie</string>
+  <string name="color_effect_entry_delicacy">Köstlich</string>
+  <string name="color_effect_entry_fade">Verblassen</string>
+  <string name="color_effect_entry_film">Film</string>
+  <string name="color_effect_entry_glimmer">Schein</string>
+  <string name="color_effect_entry_koizora">Liebe</string>
+  <string name="color_effect_entry_latte">Latte</string>
+  <string name="color_effect_entry_quiet">Ruhe</string>
+  <string name="color_effect_entry_soda">Limonade</string>
+  <string name="color_effect_entry_vivid">Lebendig</string>
+  <string name="color_effect_entry_warm">Warm</string>
+  <string name="config_name_group">Fotoauswahl</string>
+  <string name="config_name_hht">Nachtverbesserung</string>
+  <string name="config_name_magic">Magischer Fokus</string>
+  <string name="config_name_scene">Szenenauswahl</string>
+  <string name="config_name_setting">Einstellen</string>
+  <string name="config_name_sound">Ton</string>
+  <string name="config_name_straighten">Begradigen</string>
+  <string name="config_name_tilt">Neigen</string>
+  <string name="config_name_timer">Timer</string>
   <string name="confirm_install_scanner_message">Der Scanner ermöglicht Ihnen, QR Codes, Strichcodes und mehr zu scannen. Sie benötigen eine Internetverbindung für die Installation.</string>
   <string name="confirm_install_scanner_title">Scanner installieren</string>
   <string name="confirm_location_alert">Aufnahmestandort speichern</string>
@@ -56,6 +78,7 @@
   <string name="confirm_restore_title">Standardeinstellungen wiederherstellen</string>
   <string name="details">Details</string>
   <string name="dialog_ok">OK</string>
+  <string name="do_not_remind_me">Nicht wieder anzeigen</string>
   <string name="dual_camera_lens_covered_toast">Linse verdeckt</string>
   <string name="dual_camera_low_constract_toast">Geringer Kontrast beeinträchtigt eventuell die Dualkameraeffekte</string>
   <string name="dual_camera_lowlight_toast">Schwache Licht beeinträchtigt eventuell die Dualkameraeffekte</string>
@@ -63,9 +86,15 @@
   <string name="dual_camera_use_hint">Der Dualkameramodus kann Verzerrungseffekte verursachen, der Abstand zwischen Kamera und Objekt sollte weniger als zwei Meter betragen</string>
   <string name="duration">Dauer</string>
   <string name="edit">Bearbeiten</string>
+  <string name="edit_eye_large">Große Augen</string>
+  <string name="edit_face_ruddy">Rosig</string>
+  <string name="edit_face_slender">Face-Lift</string>
+  <string name="edit_skin_smooth">Verjüngung</string>
+  <string name="edit_skin_white">Bleichen</string>
   <string name="effect_setting_top_text">Kamerafilter</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">"Fehler bei der Audioaufnahme"</string>
+  <string name="face_age_info">%d Jahre alt</string>
   <string name="face_analyze_info">Alter: %2$s (%1$s)</string>
   <string name="face_analyze_info_age">Alter：</string>
   <string name="face_analyze_info_female">Weiblich</string>
@@ -73,12 +102,6 @@
   <string name="face_analyze_info_male">Männlich</string>
   <string name="face_analyze_info_years">Jahre</string>
   <string name="face_beauty_advanced">Pro</string>
-  <string name="face_beauty_age_alias_0_7">0-7</string>
-  <string name="face_beauty_age_alias_18_30">18-30</string>
-  <string name="face_beauty_age_alias_31_44">31-44</string>
-  <string name="face_beauty_age_alias_45_60">45-60</string>
-  <string name="face_beauty_age_alias_60_m">60+</string>
-  <string name="face_beauty_age_alias_8_17">8-17</string>
   <string name="face_beauty_age_alias_female_0_7">Weiblich 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Weiblich 18-30</string>
   <string name="face_beauty_age_alias_female_31_44">Weiblich 31-44</string>
@@ -97,20 +120,17 @@
   <string name="face_beauty_intelligent_level_2">Mittel</string>
   <string name="face_beauty_intelligent_level_3">Hoch</string>
   <string name="face_beauty_smart">Smart</string>
+  <string name="face_score_info">%.1f</string>
   <string name="find_other_qrcode">cQQ QR-Code suchen</string>
   <string name="flash">Blitz</string>
   <string name="front_camera_hint_text_confirm">Verstanden</string>
-  <string name="front_camera_hint_text_place">
-    Selfies zu machen ist einfacher,
-    wenn Sie Ihr Telefon umdrehen
-  </string>
+  <string name="front_camera_hint_text_place">"Selfies zu machen ist einfacher,
+wenn Sie Ihr Telefon umdrehen"</string>
   <string name="front_camera_hint_text_rotate">Drehen Sie Ihr Telefon um</string>
-  <string name="groupshot_mode_use_hint">
-    Es werden mehrere Fotos aufgenommen,
-    um den besten Gesichtsausdruck in einem Foto festzuhalten
-  </string>
+  <string name="groupshot_mode_use_hint">"Es werden mehrere Fotos aufgenommen,
+    um den besten Gesichtsausdruck in einem Foto festzuhalten"</string>
   <string name="height">Höhe</string>
-  <string name="hibernate_hint">Tippen Sie auf den Bildschirm um die Kamera zu wecken</string>
+  <string name="hibernate_hint">Tippen Sie auf den Bildschirm, um die Kamera zu wecken</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="install_confirmed">Installieren</string>
   <string name="location">Standort</string>
@@ -127,19 +147,29 @@
   <string name="pano_how_to_use_prompt_align_reference_line">Richten Sie den Pfeil an der Referenzlinie aus</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Fortsetzen</string>
   <string name="pano_how_to_use_prompt_slow_down">Bitte langsamer</string>
+  <string name="pano_how_to_use_prompt_start">Klicken Sie auf den Pfeil, um die Aufnahmerichtung zu wechseln und gleichmäßig das Mobiltelefon zu drehen</string>
   <string name="pano_how_to_use_prompt_to_move">Langsam anfangen zu schwenken</string>
   <string name="pano_review_saving_indication_str">Wird gespeichert</string>
   <string name="pano_too_fast_prompt">Zu schnell</string>
   <string name="path">Pfad</string>
   <string name="path_settings">Systemanwendungen/Kamera/Einstellungen</string>
+  <string name="photos_portrait_type_description">Portrait-Modus hilft Ihnen, den Hintergrund zu verwischen</string>
+  <string name="photos_portrait_type_name">Portrait-Modus</string>
+  <string name="portait_effect_entry_blackwhite">Schwarz-Weiß</string>
+  <string name="portait_effect_entry_cool">Kühl</string>
+  <string name="portait_effect_entry_fairytale">Märchen</string>
+  <string name="portait_effect_entry_japanese">Japanisch</string>
+  <string name="portait_effect_entry_maze">Labyrinth</string>
+  <string name="portait_effect_entry_mood">Stimmung</string>
+  <string name="portait_effect_entry_nature">Natur</string>
+  <string name="portait_effect_entry_pink">Pink</string>
+  <string name="portait_effect_entry_romance">Romantik</string>
   <string name="portrait_mode_depth_effect_success_hint">Tiefen Effekt</string>
   <string name="portrait_mode_lowlight_hint">Mehr Licht erforderlich</string>
   <string name="portrait_mode_too_close_hint">Weiter weg verschieben</string>
   <string name="portrait_mode_too_far_hint">Das Motiv innerhalb von 2,5 m platzieren</string>
-  <string name="portrait_mode_use_hint">
-    "Portrait-Modus hilft Ihnen, den Hintergrund zu verwischen
-    mit klareren Hauptkörpern und schönerem Porträt
-  </string>
+  <string name="portrait_mode_use_hint">"Portrait-Modus hilft Ihnen, den Hintergrund zu verwischen.
+Die wirchtigen Körperteile werden dabei klarerer und das Porträt schöner.</string>
   <string name="portrait_with_facebeauty_hint">Verschönern ist jetzt im Hochformat verfügbar</string>
   <string name="pref_advance_settings">Erweiterte Einstellungen</string>
   <string name="pref_audio_focus_entry_front">Vorne</string>
@@ -167,23 +197,11 @@
   <string name="pref_camera_autoexposure_entry_frameaverage">Bildmittelung</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Spotmessung</string>
   <string name="pref_camera_autoexposure_title">Autom. Belichtungseinstellungen</string>
-  <string name="pref_camera_beautify_entry_0">0</string>
-  <string name="pref_camera_beautify_entry_1">1</string>
-  <string name="pref_camera_beautify_entry_10">10</string>
-  <string name="pref_camera_beautify_entry_2">2</string>
-  <string name="pref_camera_beautify_entry_3">3</string>
-  <string name="pref_camera_beautify_entry_4">4</string>
-  <string name="pref_camera_beautify_entry_5">5</string>
-  <string name="pref_camera_beautify_entry_6">6</string>
-  <string name="pref_camera_beautify_entry_7">7</string>
-  <string name="pref_camera_beautify_entry_8">8</string>
-  <string name="pref_camera_beautify_entry_9">9</string>
   <string name="pref_camera_beautify_entry_auto">Aus</string>
   <string name="pref_camera_beautify_entry_close">Aus</string>
   <string name="pref_camera_beautify_entry_high">Hoch</string>
   <string name="pref_camera_beautify_entry_low">Niedrig</string>
   <string name="pref_camera_beautify_entry_normal">Mittel</string>
-  <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_big_face">Spread</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">S&amp;W</string>
   <string name="pref_camera_coloreffect_entry_brannan">Dämmerung</string>
@@ -201,11 +219,7 @@
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaik</string>
   <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
-  <string name="pref_camera_coloreffect_entry_negative"/>
   <string name="pref_camera_coloreffect_entry_none">Normal</string>
-  <string name="pref_camera_coloreffect_entry_posterize"/>
-  <string name="pref_camera_coloreffect_entry_sepia"/>
-  <string name="pref_camera_coloreffect_entry_seventy">1970s</string>
   <string name="pref_camera_coloreffect_entry_sketch">Skizze</string>
   <string name="pref_camera_coloreffect_entry_small_face">Quetschen</string>
   <string name="pref_camera_coloreffect_entry_vivid">Lebendig</string>
@@ -246,6 +260,7 @@
   <string name="pref_camera_flashmode_entry_on">An</string>
   <string name="pref_camera_flashmode_entry_torch">Lampe</string>
   <string name="pref_camera_flashmode_title">Blitzmodus</string>
+  <string name="pref_camera_focus_shoot_title">Schneller Fokus</string>
   <string name="pref_camera_focusmode_entry_auto">Auto</string>
   <string name="pref_camera_focusmode_entry_infinity">Unendlich</string>
   <string name="pref_camera_focusmode_entry_macro">Makro</string>
@@ -271,6 +286,7 @@
   <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
   <string name="pref_camera_iso_entry_iso200">ISO200</string>
   <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
+  <string name="pref_camera_iso_entry_iso40">ISO40</string>
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
   <string name="pref_camera_iso_title">ISO</string>
@@ -331,7 +347,7 @@
   <string name="pref_camera_portrait_mode_entry_off">Portraitmodus aus</string>
   <string name="pref_camera_portrait_mode_entry_on">Portraitmodus an</string>
   <string name="pref_camera_portrait_mode_title">Portrait</string>
-  <string name="pref_camera_portrait_with_facebeauty_title">Beautify in Portrait mode</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Verschönern im Portrait-Modus</string>
   <string name="pref_camera_proximity_lock_summary">Sperren Sie Gesten, wenn sie in einer Tasche platziert werden</string>
   <string name="pref_camera_proximity_lock_title">Taschen Modus</string>
   <string name="pref_camera_raw_title">RAW</string>
@@ -358,6 +374,7 @@
   <string name="pref_camera_settings_category">Kameraeinstellungen</string>
   <string name="pref_camera_settings_title">Einstellungen</string>
   <string name="pref_camera_sharpness_title">Schärfe</string>
+  <string name="pref_camera_show_gender_age_config_title">Alterserkennung</string>
   <string name="pref_camera_show_gender_age_entry_alias">Alter anzeigen</string>
   <string name="pref_camera_show_gender_age_entry_off">Aus</string>
   <string name="pref_camera_show_gender_age_entry_on">Alter und Geschlecht anzeigen</string>
@@ -374,9 +391,10 @@
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Photo</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Kann den Schnellfotomodus benützen solange der \"Wake with Volume buttons\" an ist."</string>
+  <string name="pref_camera_snap_value_take_movie">Film</string>
+  <string name="pref_camera_snap_value_take_picture">Foto</string>
   <string name="pref_camera_sound_title">Kameratöne</string>
   <string name="pref_camera_square_mode_title">Quadrat</string>
-  <string name="pref_camera_stereo_default">5</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
   <string name="pref_camera_tilt_shift_default">Kreis</string>
   <string name="pref_camera_tilt_shift_entry_circle">Kreis</string>
@@ -406,13 +424,12 @@
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">Weit</string>
   <string name="pref_camera_zoom_mode_title">Zoom</string>
-  <string name="pref_camera_zoom_ratio_tele">200</string>
-  <string name="pref_camera_zoom_ratio_wide">100</string>
   <string name="pref_camera_zsl_entry_off">Aus</string>
   <string name="pref_camera_zsl_entry_on">An</string>
   <string name="pref_capture_settings">Kameraeinstellungen</string>
   <string name="pref_dualcamera_watermark_title">Dualkamera-Wasserzeichen</string>
   <string name="pref_face_beauty_title">Hauttöne</string>
+  <string name="pref_fingerprint_capture_title">Fingerabdruck</string>
   <string name="pref_front_mirror_entry_auto">Wenn Gesicht erkannt wird</string>
   <string name="pref_front_mirror_entry_off">Aus</string>
   <string name="pref_front_mirror_entry_on">An</string>
@@ -423,17 +440,15 @@
   <string name="pref_priority_storage_title">Vorrangig auf externer SD-Karte speichern</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
   <string name="pref_scan_qrcode_title">Autom. QR-Codes erkennen</string>
+  <string name="pref_scan_qrcode_value_off">aus</string>
+  <string name="pref_scan_qrcode_value_on">ein</string>
   <string name="pref_setting_title">Einstellungen</string>
   <string name="pref_simple_hdr_entry_off">Aus</string>
   <string name="pref_simple_hdr_entry_on">An</string>
-  <string name="pref_skin_beautify_color_default">4</string>
   <string name="pref_skin_beautify_color_title">Farbe</string>
-  <string name="pref_skin_beautify_eye_default">2</string>
   <string name="pref_skin_beautify_eye_title">Augen</string>
   <string name="pref_skin_beautify_intelligent_title">Intelligent</string>
-  <string name="pref_skin_beautify_slim_default">3</string>
   <string name="pref_skin_beautify_slim_title">Schmal</string>
-  <string name="pref_skin_beautify_smooth_default">5</string>
   <string name="pref_skin_beautify_smooth_title">Weich</string>
   <string name="pref_video_captrue_ability_title">Aufnahmeoptionen</string>
   <string name="pref_video_focusmode_entry_auto">Tippen</string>
@@ -468,8 +483,14 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 Sekunden Intervall (90 mal)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 Sekunden Intervall (900 mal)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Zeitrafferintervall</string>
+  <string name="pref_watermark_style_entry_dualcamera">Dualkameramodus</string>
+  <string name="pref_watermark_style_entry_off">Aus</string>
+  <string name="pref_watermark_style_entry_timestamp">Zeitstempel</string>
+  <string name="pref_watermark_style_title">Zeitstempelart</string>
   <string name="preparing_sd">Interner Speicher wird vorbereitet…</string>
   <string name="record_back_pressed_hint">Nochmal berühren, um Aufnahme zu beenden</string>
+  <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, die Zurück- und Lautstärke-Hochtaste gleichzeitig drücken.</string>
+  <string name="screen_on_proximity_sensor_summary">Bedecken Sie nicht den orangen Bereich</string>
   <string name="search_settings">Kameraeinstellungen;Qualität;Bildqualität;Aufnahmeort;Bildort;Gesichtserkennung;Kameraton</string>
   <string name="see_qrcode_detals">Details anzeigen</string>
   <string name="setting_top_text">Optionen</string>
@@ -518,9 +539,19 @@
   <string name="toast_start_audio_capture">Machen Sie ein Geräusch, um ein Foto zu schießen</string>
   <string name="ubi_focus_capture_fail">"Es konnte kein Foto geschossen werden"</string>
   <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse, sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Objekte enthalten</string>
-  <string name="video_reach_size_limit">Maximale Größe erreicht.</string>
+  <string name="user_agree">Zustimmen</string>
+  <string name="user_agreement2">Nutzungsbedingungen</string>
+  <string name="user_agreement4">Datenschutz-Bestimmungen</string>
+  <string name="user_notice_identify_summary_format">"Durch die Nutzung dieser Dienstleistung stimmen Sie Xiaomi's den %1$s und %2$s zu."</string>
+  <string name="user_notice_title">Geschäftsbedingungen</string>
   <string name="video_camera_label">Camcorder</string>
+  <string name="video_effect_entry_blackwhite">Schwarz-Weiß</string>
+  <string name="video_effect_entry_film">Film</string>
+  <string name="video_effect_entry_forest">Wald</string>
+  <string name="video_effect_entry_holiday">Ferien</string>
+  <string name="video_effect_entry_polaroid">Polariod</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
+  <string name="video_reach_size_limit">Maximale Größe erreicht.</string>
   <string name="wait">Abwarten</string>
   <string name="width">Breite</string>
 </resources>
