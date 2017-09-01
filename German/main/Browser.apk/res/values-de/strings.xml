@@ -1,77 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_to_desk_lite_mode_toast">"Kann dies im Litemodus nicht zum Homescreen hinzufügen"</string>
-  <string name="at_miui_browser">\@MIUI Browser</string>
-  <string name="autoSwithcingSearchEngineTips">Zur meistgenutzten Suchmaschine geändert</string>
-  <string name="back_description">Zurück</string>
-  <string name="contextmenu_share_image">Bild teilen</string>
-  <string name="exit">Beenden</string>
-  <string name="miuichromium_error_page_description_no_connection" formatted="false">"Konnte aufgrund von schwachem Signal oder falschen Netzwerkkonfiguration keine Verbindung zum Netzwerk herstellen. Überprüfen Sie Ihre %s1Netzwerkeinstellungen%s2 und versuchen Sie es erneut."</string>
-  <string name="miuichromium_error_page_problem_access_denied">Zugang zu %s0 wurde verweigert</string>
-  <string name="miuichromium_error_page_problem_cache_miss">Diese Seite kann nicht aus dem Cache geladen werden</string>
-  <string name="miuichromium_error_page_problem_cannot_open_page">"Diese Seite kann nicht geöffnet werden"</string>
-  <string name="miuichromium_error_page_problem_cannot_reach_site">"Diese Seite kann nicht erreicht werden"</string>
-  <string name="miuichromium_error_page_problem_connection_interrupted">Die Verbindung wurde unterbrochen</string>
-  <string name="miuichromium_error_page_problem_file_not_found">"Konnte die Datei nicht finden"</string>
-  <string name="miuichromium_error_page_problem_gateway_timed_out">Für %s0 ging es zu lang um eine Antwort zu erhalten</string>
-  <string name="miuichromium_error_page_problem_network_access_denied">Netzwerkzugriff ist eingeschränkt</string>
-  <string name="miuichromium_error_page_problem_no_internet_connection">"Konnte nicht mit dem Internet verbinden"</string>
-  <string name="miuichromium_error_page_problem_page_moved">Diese Seite auf %s0 wurde eventuell verschoben oder gelöscht</string>
-  <string name="miuichromium_error_page_problem_page_not_found">"Konnte diese Seite auf %s0 nicht finden"</string>
-  <string name="miuichromium_error_page_problem_page_not_working">"Diese Seite funktioniert nicht"</string>
-  <string name="miuichromium_error_page_problem_security_error">"Diese Seite kann keine sichere Verbindung anbieten"</string>
-  <string name="miuichromium_error_page_problem_server_fault">%s0 kann zurzeit diese Anfrage nicht bearbeiten</string>
-  <string name="miuichromium_error_page_reason_bad_client_cert">" weil %s0 Ihr Zertifikat nicht akzeptiert hat"</string>
-  <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 hält sich nicht an die Sicherheitsstandards"</string>
-  <string name="miuichromium_error_page_reason_blocked_by_response">. Zugriff ist durch %s0 blockiert</string>
-  <string name="miuichromium_error_page_reason_connection_closed">. %s0 unterbrochene Verbindung</string>
-  <string name="miuichromium_error_page_reason_connection_refused">. %s0 hat die Verbindung abgelehnt</string>
-  <string name="miuichromium_error_page_reason_connection_reset">. Die Verbindung wurde zurückgesetzt</string>
-  <string name="miuichromium_error_page_reason_device_slept">" während Ihr Gerät in den Schlafmodus wechselte"</string>
-  <string name="miuichromium_error_page_reason_empty_response">" weil %s0 keine Daten gesendet hat"</string>
-  <string name="miuichromium_error_page_reason_invalid_address">. IP-Adresse oder Portnummer ungültig ist</string>
-  <string name="miuichromium_error_page_reason_invalid_response">" weil %s0 eine ungültige Antwort lieferte"</string>
-  <string name="miuichromium_error_page_reason_invalid_url">" weil die URL ungültig ist"</string>
-  <string name="miuichromium_error_page_reason_moved_or_deleted">. Sie wurde vermutlich verschoben oder gelöscht</string>
-  <string name="miuichromium_error_page_reason_name_collision">. Diese Intranet-Seite hat die gleiche Adresse wie eine externe Seite</string>
-  <string name="miuichromium_error_page_reason_name_not_resolved">". Konnte die DNS-Adresse von %s0 nicht finden"</string>
-  <string name="miuichromium_error_page_reason_network_changed">" wegen einem Netzwerkwechsel"</string>
-  <string name="miuichromium_error_page_reason_proxy_error">. Irgendwas stimmt mit dem Proxy Server nicht oder die Proxy Adresse ist falsch</string>
-  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 ist aktuell nicht erreichbar</string>
-  <string name="miuichromium_error_page_reason_timed_out">". %s0 hat zulange nicht geantwortet"</string>
-  <string name="miuichromium_error_page_reason_too_many_redirects">" weil %s0 Sie zu oft weitergeleitet hat"</string>
-  <string name="miuichromium_error_page_reason_unsafe_port">. %s0 nutzt einen unsicheren Port</string>
-  <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 leitet Sie unsicher weiter</string>
-  <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 nutzt ein nicht unterstütztes Protokoll</string>
-  <string name="miuichromium_error_page_suggestion_check_app_proxy">Überprüfen Sie die Einstellungen der auf Ihrem Gerät installierten Proxy Apps.</string>
-  <string name="miuichromium_error_page_suggestion_check_connetion">Überprüfen Sie Ihre Internetverbindung.</string>
-  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobiles Internet) %s1APN Einstellungen%s2 zurücksetzen.</string>
-  <string name="miuichromium_error_page_suggestion_check_url">"Überprüfen Sie die eingegebene URL."</string>
-  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WLAN) Überprüfen Sie die %s1Proxy Einstellungen%s2.</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Cache leeren (%s1Einstellungen%s2 - Daten löschen).</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Cache und Cookies löschen (%s1Einstellungen%s2 - Ihre Accountinformationen gehen möglicherweise verloren).</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Cache und Cookies löschen (Ihre Accountinformationen gehen möglicherweise verloren).</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Cache leeren.</string>
-  <string name="miuichromium_error_page_suggestion_connect_and_retry">Laden Sie neu nachdem Sie mit dem Internet verbunden sind</string>
-  <string name="miuichromium_error_page_suggestion_contact_admin">Kontaktieren Sie Ihren Administrator.</string>
-  <string name="miuichromium_error_page_suggestion_correct_url">"Überprüfen Sie die eingegebene Adresse und versuchen es mit der korrekten URL erneut."</string>
-  <string name="miuichromium_error_page_suggestion_grant_permission">Berechtigung für den Internetzugriff erteilen und neu laden.</string>
-  <string name="miuichromium_error_page_suggestion_title">. Probieren Sie das:</string>
-  <string name="open_voice_permission">Dem Mikrofon den Zugriff aufs Internet erlauben</string>
-  <string name="qr_description">QR Code scannen</string>
-  <string name="scanner_uninstalled_text">Scanner installieren zum fortsetzen</string>
-  <string name="scanner_uninstalled_title">Scanner wurde deinstalliert</string>
-  <string name="share_by_yidianzixun">【YidianZixun】</string>
-  <string name="share_image_text">Sieh was ich geteilt habe! @MIUI</string>
-  <string name="ssl_date_error_warnings_header">"Das Zertifikat der Seite ist abgelaufen oder gilt noch nicht. Es wird geraten die Seite zu verlassen."</string>
-  <string name="tabs_description">Tabs</string>
-  <string name="voice_check_network">Überprüfen Sie ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>
-  <string name="voice_connect_network">"Konnte Internetverbindung nicht herstellen."</string>
-  <string name="voice_description">Sprachsuche</string>
-  <string name="voice_network_connection">Sprachsuche benötigt eine Internetverbindung um normal zu funktionieren.</string>
-  <string name="voice_search_permission">Sprachsuche muss auf das Mikrofon zugreifen um normal zu funktionieren.</string>
-  <string name="voice_semantic_analysis">Der Browser kann Ihre Semantik analysieren, nachdem Sie erlaubt haben sich mit dem Internet zu verbinden.</string>
-
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr</string>
@@ -91,7 +19,6 @@
   <string name="accessibility_time_picker_second">Sekunde</string>
   <string name="account_prifix">Konto:</string>
   <string name="action">Anmelden</string>
-  <string name="actionbar_textselection_title">Textauswahl</string>
   <string name="action_menu_account_not_login">Nicht angemeldet</string>
   <string name="action_menu_account_not_login_hint">Cloudeinstellungen zum Anmelden verwenden</string>
   <string name="action_menu_bookshelf">Bücherregal</string>
@@ -120,6 +47,7 @@
   <string name="action_menu_useful_page">Nützliche Seite hinzufügen</string>
   <string name="action_menu_useful_page_added">Zu nützlichen Seiten hinzugefügt</string>
   <string name="actionbar_share">Teilen</string>
+  <string name="actionbar_textselection_title">Textauswahl</string>
   <string name="actionbar_web_search">Websuche</string>
   <string name="adblock_force_updating_rules_toast">Werbeblocker wird aktualisiert</string>
   <string name="adblock_notification">%d Werbung blockiert</string>
@@ -140,6 +68,7 @@
   <string name="add_shortcut_success">Verknüpfung hinzugefügt</string>
   <string name="add_to_bookmark">Lesezeichen</string>
   <string name="add_to_desk">Zum Startbildschirm hinzufügen</string>
+  <string name="add_to_desk_lite_mode_toast">Im Lite-Modus kann nicht zum Startbildschirm hinzugefügt werden</string>
   <string name="add_to_desk_success">Auf Startbildschirm hinzugefügt</string>
   <string name="add_to_quicklink">Startseite</string>
   <string name="added_to_bookmarks">Zu Lesezeichen hinzugefügt</string>
@@ -158,6 +87,8 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+  <string name="at_miui_browser">\@MIUI Browser</string>
+  <string name="autoSwithcingSearchEngineTips">Zur meistgenutzten Suchmaschine geändert</string>
   <string name="autofill_keyboard_accessory_content_description">Verfügbare Vorschläge</string>
   <string name="autofill_popup_content_description">Autofill-Popup anzeigen</string>
   <string name="autologin_bar_error">"Anmeldung fehlgeschlagen"</string>
@@ -165,6 +96,7 @@
   <string name="autologin_bar_login_text">Anmelden</string>
   <string name="autologin_bar_text">Anmelden als</string>
   <string name="back_button_label">Zurück</string>
+  <string name="back_description">Zurück</string>
   <string name="block">Blockieren</string>
   <string name="block_ads_choice_block">Blockieren</string>
   <string name="block_ads_choice_continue">Fortfahren</string>
@@ -197,7 +129,6 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Dies ist die letzte Registerkarte</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Zum Schließen nach oben wischen</string>
   <string name="browserFrameFileErrorLabel">Dateifehler</string>
-  <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"Die aufgerufene Seite enthält Daten, die bereits übermittelt wurden. Beim erneuten Versenden der Daten werden bestimmte Aktionen wiederholt (z.B. Suchen oder Einkäufe)."</string>
   <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
   <string name="cancel">Abbrechen</string>
@@ -236,13 +167,15 @@
   <string name="color_picker_dialog_title">Wähle Farbe</string>
   <string name="color_picker_hue">Schattierung</string>
   <string name="color_picker_saturation">Sättigung</string>
-  <string name="comment_description">Kommentieren</string>
+    <string name="color_picker_value">Wert</string>
   <string name="comment_app_menu">Kommentieren</string>
+  <string name="comment_description">Kommentieren</string>
   <string name="comment_hint">Kommentieren</string>
   <string name="comment_menu">Kommentieren</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_text_next">Nächster</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Zurück</string>
+    <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="contextmenu_add_contact">Kontakt hinzufügen</string>
   <string name="contextmenu_copy">Kopieren</string>
@@ -250,6 +183,7 @@
   <string name="contextmenu_dial_dot">Wählen…</string>
   <string name="contextmenu_download_image">Bild speichern</string>
   <string name="contextmenu_download_image_as">Bild speichern</string>
+  <string name="contextmenu_manually_block_ad">Als Werbund markieren</string>
   <string name="contextmenu_map">Karte</string>
   <string name="contextmenu_openlink">Öffnen</string>
   <string name="contextmenu_openlink_newwindow">In neuem Tab öffnen</string>
@@ -258,6 +192,7 @@
   <string name="contextmenu_savelink">Link speichern</string>
   <string name="contextmenu_send_mail">E-Mail senden</string>
   <string name="contextmenu_set_wallpaper">Als Hintergrund wählen</string>
+  <string name="contextmenu_share_image">Bild teilen</string>
   <string name="contextmenu_sharelink">Link teilen</string>
   <string name="contextmenu_view_image">Bild anzeigen</string>
   <string name="contextmenu_webpage_capture">Als Screenshot speichern</string>
@@ -269,14 +204,10 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">PC</string>
   <string name="current_version_phone">Smartphone</string>
-  <string name="custom_head_card_text">
-    "Glauben Sie immer daran, dass etwas
-    Wunderbares geschehen wird"
-  </string>
-  <string name="custom_head_card_text_incognito">
-    "Nur Gott und Sie selbst kennen
-    dieses private Fenster​"
-  </string>
+  <string name="custom_head_card_text">"Glauben Sie immer daran, dass etwas
+Wunderbares geschehen wird"</string>
+  <string name="custom_head_card_text_incognito">"Nur Gott und Sie selbst kennen
+dieses private Fenster​"</string>
   <string name="data_traffic_prompt_change">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
   <string name="data_traffic_prompt_message">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
   <string name="data_traffic_prompt_message_short">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos kann dazu führen, dass Sie Ihr monatliches Datenvolumen überschreiten.</string>
@@ -371,6 +302,7 @@
   <string name="error_not_acceptable">Synchronisation ist deaktiviert.</string>
   <string name="error_title">"Synchronisation fehlgeschlagen"</string>
   <string name="error_unauthorized">Die Synchronisation mit Ihrem Mi Konto wurde aufgrund mehrerer Anmeldeversuche deaktiviert.</string>
+  <string name="exit">Beenden</string>
   <string name="exit_browser_warning">Browser jetzt verlassen?</string>
   <string name="file_dir">Verzeichnis</string>
   <string name="file_name">Name: </string>
@@ -429,15 +361,14 @@
   <string name="is_page_bottom">"Sie haben das Ende der Seite erreicht"</string>
   <string name="is_page_top">Sie sind am oberen Seitenrand</string>
   <string name="isreplace">Die Datei existiert bereits, ersetzen?</string>
-  <string name="js_dialog_before_unload">
-    "%s
+  <string name="js_dialog_before_unload">"%s
 
-    Diese Seite verlassen?"
-  </string>
+Diese Seite verlassen?"</string>
   <string name="js_dialog_before_unload_negative_button">Bleiben</string>
   <string name="js_dialog_before_unload_positive_button">Verlassen</string>
   <string name="js_dialog_before_unload_title">Navigation bestätigen</string>
   <string name="js_dialog_title">Die Seite \"%s\" meldet:</string>
+  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Deaktivieren von JavaScript führt möglicherweise dazu, dass einige Webseiten nicht korrekt angezeigt werden.</string>
   <string name="js_disable_confirm_title">JavaScript deaktivieren?</string>
   <string name="keep_queued_download">Behalten</string>
@@ -497,6 +428,7 @@
   <string name="miuichromium_error_page_btn_close">Schließen</string>
   <string name="miuichromium_error_page_btn_refresh">Aktualisieren</string>
   <string name="miuichromium_error_page_btn_report_issue">Problem melden</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">"Verbindung zum Netzwerk konnte aufgrund von schwachem Signal oder falschen Netzwerkkonfiguration nicht hergestellt werden. Überprüfen Sie Ihre %s1Netzwerkeinstellungen%s2 und versuchen Sie es erneut."</string>
   <string name="miuichromium_error_page_diagnose">Netzwerkdiagnose</string>
   <string name="miuichromium_error_page_diagnose_banner">Netzwerkdiagnose</string>
   <string name="miuichromium_error_page_diagnose_certificate">Netzwerkprotokoll konnte nicht überprüft werden</string>
@@ -513,11 +445,61 @@
   <string name="miuichromium_error_page_network_hijack">Netzwerk ist unsicher</string>
   <string name="miuichromium_error_page_network_off">WLAN oder mobile Datenverbindung einschalten</string>
   <string name="miuichromium_error_page_no_network">"Keine Netzwerkverbindung"</string>
+  <string name="miuichromium_error_page_problem_access_denied">Zugang zu %s0 wurde verweigert</string>
+  <string name="miuichromium_error_page_problem_cache_miss">Diese Seite kann nicht aus dem Cache geladen werden</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page">Diese Seite kann nicht geöffnet werden</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site">Diese Seite kann nicht erreicht werden</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted">Die Verbindung wurde unterbrochen</string>
+  <string name="miuichromium_error_page_problem_file_not_found">Konnte die Datei nicht finden</string>
+  <string name="miuichromium_error_page_problem_gateway_timed_out">Für %s0 dauert es zu lange, um eine Antwort zu erhalten</string>
+  <string name="miuichromium_error_page_problem_network_access_denied">Netzwerkzugriff ist eingeschränkt</string>
+  <string name="miuichromium_error_page_problem_no_internet_connection">Konnte nicht mit dem Internet verbinden</string>
+  <string name="miuichromium_error_page_problem_page_moved">Diese Seite auf %s0 wurde eventuell verschoben oder gelöscht</string>
+  <string name="miuichromium_error_page_problem_page_not_found">Diese Seite auf %s0 kann nicht gefunden werden</string>
+  <string name="miuichromium_error_page_problem_page_not_working">Diese Seite funktioniert nicht</string>
+  <string name="miuichromium_error_page_problem_security_error">Diese Seite kann keine sichere Verbindung anbieten</string>
+  <string name="miuichromium_error_page_problem_server_fault">%s0 kann zurzeit diese Anfrage nicht bearbeiten</string>
+  <string name="miuichromium_error_page_reason_bad_client_cert">" weil %s0 Ihr Zertifikat nicht akzeptiert hat"</string>
+  <string name="miuichromium_error_page_reason_bad_server_cert">. %s0 hält sich nicht an die Sicherheitsstandards</string>
+  <string name="miuichromium_error_page_reason_blocked_by_response">. Zugriff ist durch %s0 blockiert</string>
+  <string name="miuichromium_error_page_reason_connection_closed">. %s0 unterbrochene Verbindung</string>
+  <string name="miuichromium_error_page_reason_connection_refused">. %s0 hat die Verbindung abgelehnt</string>
+  <string name="miuichromium_error_page_reason_connection_reset">. Die Verbindung wurde zurückgesetzt</string>
+  <string name="miuichromium_error_page_reason_device_slept">" während Ihr Gerät in den Schlafmodus wechselte"</string>
+  <string name="miuichromium_error_page_reason_empty_response">" weil %s0 keine Daten gesendet hat"</string>
+  <string name="miuichromium_error_page_reason_invalid_address">. IP-Adresse oder Portnummer ungültig ist</string>
+  <string name="miuichromium_error_page_reason_invalid_response">" weil %s0 eine ungültige Antwort lieferte"</string>
+  <string name="miuichromium_error_page_reason_invalid_url">" weil die URL ungültig ist"</string>
+  <string name="miuichromium_error_page_reason_moved_or_deleted">. Sie wurde vermutlich verschoben oder gelöscht</string>
+  <string name="miuichromium_error_page_reason_name_collision">. Diese Intranet-Seite hat die gleiche Adresse wie eine externe Seite</string>
+  <string name="miuichromium_error_page_reason_name_not_resolved">. Die DNS-Adresse von %s0 konnte nicht gefunden werden</string>
   <string name="miuichromium_error_page_reason_network">Überprüfen Sie die Netzwerkeinstellungen</string>
+  <string name="miuichromium_error_page_reason_network_changed">" wegen einem Netzwerkwechsel"</string>
+  <string name="miuichromium_error_page_reason_proxy_error">. Etwas stimmt mit dem Proxy Server nicht oder die Proxy Adresse ist falsch</string>
   <string name="miuichromium_error_page_reason_server">Seite kann nicht geladen werden</string>
+  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 ist aktuell nicht erreichbar</string>
+  <string name="miuichromium_error_page_reason_timed_out">. %s0 hat zulange nicht geantwortet</string>
+  <string name="miuichromium_error_page_reason_too_many_redirects">" weil %s0 Sie zu oft weitergeleitet hat"</string>
+  <string name="miuichromium_error_page_reason_unsafe_port">. %s0 nutzt einen unsicheren Port</string>
+  <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 leitet Sie unsicher weiter</string>
+  <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 nutzt ein nicht unterstütztes Protokoll</string>
   <string name="miuichromium_error_page_reload">Aktualisieren</string>
   <string name="miuichromium_error_page_safe_network">Sicherer Modus</string>
   <string name="miuichromium_error_page_server_error">Es versuchen zu viele Geräte sich zu verbinden</string>
+  <string name="miuichromium_error_page_suggestion_check_app_proxy">Überprüfen Sie die Einstellungen der auf Ihrem Gerät installierten Proxy Apps.</string>
+  <string name="miuichromium_error_page_suggestion_check_connetion">Überprüfen Sie Ihre Internetverbindung.</string>
+  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobiles Internet) %s1APN Einstellungen%s2 zurücksetzen.</string>
+  <string name="miuichromium_error_page_suggestion_check_url">"Überprüfen Sie die eingegebene URL."</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WLAN) Überprüfen Sie die %s1Proxy Einstellungen%s2.</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Cache leeren (%s1Einstellungen%s2 - Daten löschen).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Cache und Cookies löschen (%s1Einstellungen%s2 - Ihre Accountinformationen gehen möglicherweise verloren).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Cache und Cookies löschen (Ihre Accountinformationen gehen möglicherweise verloren).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Cache leeren.</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">Laden Sie neu nachdem Sie mit dem Internet verbunden sind</string>
+  <string name="miuichromium_error_page_suggestion_contact_admin">Kontaktieren Sie Ihren Administrator.</string>
+  <string name="miuichromium_error_page_suggestion_correct_url">"Überprüfen Sie die eingegebene Adresse und versuchen es mit der korrekten URL erneut."</string>
+  <string name="miuichromium_error_page_suggestion_grant_permission">Berechtigung für den Internetzugriff erteilen und neu laden.</string>
+  <string name="miuichromium_error_page_suggestion_title">. Probieren Sie das:</string>
   <string name="miuichromium_error_page_title">Ein Fehler ist aufgetreten</string>
   <string name="miuichromium_error_page_unknown_error">Ups, etwas ist schiefgegangen</string>
   <string name="miuichromium_error_page_wlan">WLAN einschalten</string>
@@ -567,6 +549,7 @@
   <string name="older">Älter</string>
   <string name="open_app_confirm_message">Dieser Seite erlauben, %s zu öffnen?</string>
   <string name="open_file_explorer_failed">"Dateimanager konnte nicht geöffnet werden"</string>
+  <string name="open_voice_permission">Dem Mikrofon den Zugriff aufs Internet erlauben</string>
   <string name="opening_file_error">Fehler beim Öffnen der ausgewählten Datei</string>
   <string name="page_info">Seiteninfo</string>
   <string name="page_info_address">Addresse:</string>
@@ -590,13 +573,15 @@
   <string name="pref_accessibility_url_shortcut_enter_title">Eingabe Quick-URL</string>
   <string name="pref_adblock_counts">%d geblockt</string>
   <string name="pref_adblock_title">Adblocker</string>
-  <string name="pref_automatic_matching_searchengines_title">Suchmaschine nach Gewohnheiten automatisch auswählen</string>
+  <string name="pref_advert_null">Unmarkierte Werbung, Sie können auf die Beschriftung auf der Seite drücken</string>
   <string name="pref_auto_update_under_wifi">Automatisches Update mit einer WLAN-Verbindung</string>
+  <string name="pref_automatic_matching_searchengines_title">Suchmaschine nach Gewohnheiten automatisch auswählen</string>
+  <string name="pref_cancel_screen">Screen abbrechen</string>
   <string name="pref_category_hint">Kategorie</string>
   <string name="pref_check_security_url_summary">"Sende Seitenadresse an Mi-Server für eine Sicherheitsüberprüfung"</string>
   <string name="pref_check_security_url_summary_international">Erlaube Browser, auf die URLs der Websites zuzugreifen, die du besuchst, um relevantere Empfehlungen zu erhalten.</string>
   <string name="pref_check_security_url_title">Überprüfe URL Sicherheit</string>
-  <string name="pref_check_security_url_title_international">Holen Sie sich die URL</string>
+  <string name="pref_check_security_url_title_international">Die URL holen</string>
   <string name="pref_clear_adblock_statistics">Lösche Werbeblockerverlauf</string>
   <string name="pref_clear_adblock_statistics_dlg">Lösche Zähler für geblockte Werbung?</string>
   <string name="pref_clear_all_data_dlg">Wirklich Alle Browserdaten löschen?</string>
@@ -623,11 +608,11 @@
   <string name="pref_extras_send_feedback">Feedback senden</string>
   <string name="pref_extras_title">Erweitert</string>
   <string name="pref_extras_title_version">Version</string>
-  <string name="pref_file_download_save_title">Downloads</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Dateien im Standardordner speichern</string>
-  <string name="pref_file_downlaod_save_reset_default_settings">Standardspeicherort wiederherstellen</string>
-  <string name="pref_file_download_default_path_prefix">Standardspeicherort: %s</string>
-  <string name="pref_file_download_save_modify_default_path">Speicherort für Downloads</string>
+  <string name="pref_file_downlaod_save_reset_default_settings">Standardverzeichnis wiederherstellen</string>
+  <string name="pref_file_download_default_path_prefix">Standardverzeichnis: %s</string>
+  <string name="pref_file_download_save_modify_default_path">Downloadverzeichnis</string>
+  <string name="pref_file_download_save_title">Downloads</string>
   <string name="pref_fling_on_border">Von der Kante aus wischen</string>
   <string name="pref_fling_on_border_enabled">"Tabs wechseln"</string>
   <string name="pref_fling_on_border_enabled_title_summary">Streiche vom linken oder rechten Rand des Bildschirmes, um die Registerkarten zu wechseln</string>
@@ -637,6 +622,7 @@
   <string name="pref_force_userscalable_summary">"Webseiten die Kontolle über die Zoom-Funktion entziehen"</string>
   <string name="pref_general_title">Allgemein</string>
   <string name="pref_key_gesture_title">Tasten &amp; Gesten</string>
+  <string name="pref_label_advert_manager">Manager markierte Werbung</string>
   <string name="pref_nav_mode_summary_pad">Tablet</string>
   <string name="pref_nav_mode_summary_phone">Smartphone</string>
   <string name="pref_nav_mode_title">Browser-Modus</string>
@@ -697,15 +683,16 @@
   <string name="pull_to_refresh_refreshing_label">Wird geladen…</string>
   <string name="pull_to_refresh_release_label">Zum Aktualisieren und für Empfehlungen loslassen</string>
   <string name="qr_code_title">QR-Code</string>
+  <string name="qr_description">QR Code scannen</string>
+  <string name="quicklink_bookmark_save">LESEZEICHENSPEICHERORT</string>
   <string name="quicklink_cannot_save_url">Diese URL kann nicht hinzugefügt werden</string>
   <string name="quicklink_folder_text">Top App</string>
-  <string name="quicklinks_group_default_subtitle">Leer</string>
-  <string name="quicklink_bookmark_save">LESEZEICHENSPEICHERORT</string>
   <string name="quicklink_not_saved">"Konnte nicht zur Startseite hinzugefügt werden"</string>
   <string name="quicklink_saved">Auf Startseite gespeichert</string>
   <string name="quicklink_saved_before">Diese Seite wurde bereits hinzugefügt</string>
   <string name="quicklink_user_define_webpage_title">Name</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
+  <string name="quicklinks_group_default_subtitle">Leer</string>
   <string name="quicklinks_management">Beliebt</string>
   <string name="quicklinks_most_visited">An Startseite anheften</string>
   <string name="quicklinks_most_visited_subtitle">Zeige die kürzlich besuchten Webseiten in neuen Registerkarten</string>
@@ -761,6 +748,8 @@
   <string name="save_to_camera">Speichere in Kamera</string>
   <string name="save_to_camera_failed">Bild konnte nicht gespeichert werden</string>
   <string name="save_to_camera_success">In Kamera gespeichert</string>
+  <string name="scanner_uninstalled_text">Scanner installieren zum fortsetzen</string>
+  <string name="scanner_uninstalled_title">Scanner wurde deinstalliert</string>
   <string name="sdcard_error">Überprüfen Sie ihre SD-Karte</string>
   <string name="search">Suche</string>
   <string name="search_baidu">Baidu</string>
@@ -773,7 +762,6 @@
   <string name="search_keyword_browser">Browser</string>
   <string name="search_label">Browser</string>
   <string name="search_path_browser">Einstellungen/Installierte Apps/Browser</string>
-  <string name="search_s139">139</string>
   <string name="search_settings_description">Lesezeichen und Verlauf</string>
   <string name="search_shipin">Video</string>
   <string name="search_sm">Wikipedia</string>
@@ -795,9 +783,11 @@
   <string name="send_comment_title">Kommentieren</string>
   <string name="senddesktop">Desktop</string>
   <string name="sendstartpage">Startseite</string>
+  <string name="share_by_yidianzixun">【YidianZixun】</string>
+  <string name="share_image_text">Sieh was ich geteilt habe! @MIUI</string>
   <string name="share_page_text">"Ich genieße 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Die Adresse dieser Seite wird an Xiaomis Server gesendet, um deren Sicherheit zu prüfen. Sie können diese Funktion jederzeit in den Einstellungen deaktivieren."</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Browser muss eine Verbindung zum Internet herstellen, um normal zu arbeiten. Um mehr relevante Empfehlungen zu erhalten, erlauben Sie Browser, die URLs der Webseiten zu erhalten, die Sie besuchen und auf Ihren Standortinformationen zugreifen.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Browser muss eine Verbindung zum Internet herstellen, um richtig zu funktionieren. Um mehr relevante Empfehlungen zu erhalten, erlauben Sie Browser, die URLs der Webseiten zu erhalten, die Sie besuchen und auf Ihren Standortinformationen zugreifen.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Überprüfe URL-Sicherheit</string>
   <string name="show_security_tip_dialog_title">Nutzungsbedingungen</string>
   <string name="show_weather_location_getter_tip_dialog_description">Der Wetterdienst des Browsers benötigt Ihre Position um Sie mit aktuellen Wetterinfos versorgen zu können. Sie können diese Funktion in den Einstellungen deaktivieren.</string>
@@ -812,6 +802,7 @@
   <string name="ssl_certificate">Sicherheitszertifikat</string>
   <string name="ssl_certificate_is_valid">Dieses Zertifikat ist gültig.</string>
   <string name="ssl_continue">Fortfahren</string>
+  <string name="ssl_date_error_warnings_header">Das Zertifikat der Seite ist abgelaufen oder gilt noch nicht. Es wird geraten die Seite zu verlassen.</string>
   <string name="ssl_date_invalid">Dieses Zertifikat hat ein ungültiges Datum.</string>
   <string name="ssl_expired">Dieses Zertifikat ist abgelaufen.</string>
   <string name="ssl_go_back">Zurück</string>
@@ -839,12 +830,13 @@
   <string name="suggest_access_music">Mi Musik</string>
   <string name="suggest_item_delete_text">Löschen</string>
   <string name="suggest_open_app_failed">"Konnte die App nicht öffnen"</string>
+  <string name="switchText">JA</string>
   <string name="switch_proxy_dialog_msg">Netzwerk-Hijacking erkannt. Verwenden Sie die integrierte Sicherheitsapp oder melden Sie diesen Vorfall bei Ihrem Netzbetreiber.</string>
   <string name="switch_proxy_dialog_title">Netzwerk-Hijacking</string>
-  <string name="switchText">JA</string>
   <string name="tab_hotpage">Neuigkeiten</string>
   <string name="tab_quicklinks">Startseite</string>
   <string name="tab_yellowpage">Links</string>
+  <string name="tabs_description">Tabs</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
@@ -854,10 +846,10 @@
   <string name="title_bar_loading">Lade…</string>
   <string name="too_many_windows_dialog_message">"Browser kann keine neue Registerkarte öffnen, solange nicht eine andere geschlossen wird."</string>
   <string name="too_many_windows_dialog_title">"Kann keine weiteren Registerkarten öffnen"</string>
-  <string name="unknown_title">Unbekannt</string>
-  <string name="unsecurity_url_toast">Diese Seite ist unsicher</string>
   <string name="unSwitchText">NEIN</string>
   <string name="undo">Rückgängig</string>
+  <string name="unknown_title">Unbekannt</string>
+  <string name="unsecurity_url_toast">Diese Seite ist unsicher</string>
   <string name="up_to_loading_tips">Loslassen zum Aktualisieren</string>
   <string name="update_no_network_toast">"Kann mich nicht mit dem Netzwerk verbinden"</string>
   <string name="updating_chrome">Chrome wird aktualisiert...</string>
@@ -880,6 +872,7 @@
   <string name="v5_edit_mode_title_empty">0 ausgewählt</string>
   <string name="v5_select_all">Alles auswählen</string>
   <string name="version_check_button_checking">Überprüfe</string>
+  <string name="version_check_button_default">Nach Updates suchen</string>
   <string name="version_check_button_download_failed">Download fortsetzen</string>
   <string name="version_check_button_downloading">Lade</string>
   <string name="version_check_button_install">Installieren</string>
@@ -887,7 +880,6 @@
   <string name="version_check_button_no_network">"Kann mich mit Netzwerk nicht verbinden"</string>
   <string name="version_check_button_resume_download">Download fortsetzen</string>
   <string name="version_check_button_update">Update</string>
-  <string name="version_check_button_default">Auf Updates prüfen</string>
   <string name="version_check_failed">Suche nach Updates fehlgeschlagen</string>
   <string name="version_dialog_buttion_ok">OK</string>
   <string name="version_dialog_buttion_update">Update</string>
@@ -946,6 +938,15 @@
   <string name="video_unknown_duration">Unbekannte Dauer</string>
   <string name="view_certificate">Zertifikat anzeigen</string>
   <string name="view_document_downloaded_files">Heruntergeladene Dateien im Downloadmanager anzeigen</string>
+  <string name="voice_check_network">Überprüfen Sie ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>
+  <string name="voice_close_description">Schließen</string>
+  <string name="voice_connect_network">Neztzwerkverbindung fehlgeschlagen</string>
+  <string name="voice_description">Sprachsuche</string>
+  <string name="voice_network_connection">Sprachsuche benötigt eine Internetverbindung, um richtig zu funktionieren.</string>
+  <string name="voice_search_permission">Sprachsuche muss auf das Mikrofon zugreifen, um richtig zu funktionieren.</string>
+  <string name="voice_semantic_analysis">Der Browser kann Ihre Semantik analysieren, nachdem Sie erlaubt haben sich mit dem Internet zu verbinden.</string>
+  <string name="voice_start_description">Starten</string>
+  <string name="voice_stop_description">Beenden</string>
   <string name="voice_sub_title">"Sie wissen nicht, was Sie sagen sollen? Versuchen Sie mi.com zu öffnen!"</string>
   <string name="voice_title">Sagen Sie Ihr Kommando…</string>
   <string name="voice_title_distinguish">Verarbeiten…</string>
