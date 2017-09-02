@@ -3,12 +3,12 @@
 
   <string name="activity_main_clickable">></string>
   <string name="activity_minute_rain_location_fail_msg">Lokalisierung fehlgeschlagen, Standardstandort der Karte ist Peking</string>
-  <string name="alert_detail_title">Alarm Details</string>
+  <string name="alert_detail_title">Alarmdetails</string>
   <string name="aqi_fifteen_dates_time_format">d/M</string>
   <string name="aqi_short_desc">AQI %1$s</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="content_desc_activity_main_add_city">Stadt hinzufügen</string>
-  <string name="content_desc_activity_main_add_city_manage">Stadt Eisntellungen</string>
+  <string name="content_desc_activity_main_add_city_manage">Städteeinstellungen</string>
   <string name="content_desc_activity_main_more_settings">Mehr Einstellungen</string>
   <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
   <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
@@ -16,15 +16,15 @@
   <string name="install_progress">%1$s%%</string>
   <string name="it_is_going_to_rain">Es wird regnen</string>
   <string name="menu_speeker">Sprachübertragung</string>
-  <string name="night_not_disturb_settings_summary">Erhalten Sie nicht alle Wetterhinweise von 23:00 bis 07:00 am nächsten Tag nach der Eröffnung</string>
+  <string name="night_not_disturb_settings_summary">Sie erhalten nicht alle Wetterhinweise von 23:00 bis 7:00 am nächsten Tag nach der Eröffnung</string>
   <string name="night_not_disturb_settings_title">Nachts nicht stören</string>
   <string name="other_warning_settings">Andere Warneinstellungen</string>
   <string name="rainfall_settings_summary">Niederschlagseinstellungen</string>
-  <string name="rainfall_settings_title">Niederschlag Warnung</string>
-  <string name="realtime_temperature_no_data">N/A</string>
+  <string name="rainfall_settings_title">Niederschlagswarnung</string>
+  <string name="realtime_temperature_no_data">n.v.</string>
   <string name="realtime_wind_default_title">Wind</string>
-  <string name="reminder_from_xiaomi_weather_app">Erinnerung Von Xiaomi Wetter APP</string>
-  <string name="update_night_setting_summary_text">Wird nicht automatisch aktualisiert 23: 00-07: 00 nach geschlossen</string>
+  <string name="reminder_from_xiaomi_weather_app">Erinnerung der Xiaomi-Wetterapp</string>
+  <string name="update_night_setting_summary_text">Wird nach 23:00 bis 7:00 nicht automatisch aktualisiert</string>
   <string name="update_night_setting_title_text">Nachts automatisch aktualisieren</string>
   <string name="update_setting_title_text">Einstellungen aktualisieren</string>
   <string name="wind_direction_no_data">Wind</string>
@@ -101,7 +101,7 @@
   <string name="button_exit">Beenden</string>
   <string name="button_not_allow">Abbrechen</string>
   <string name="button_sure_abandon">Änderungen verwerfen?</string>
-  <string name="change_alert">Überprüfen Sie Netzwerkverbindung und versuchen Sie erneut</string>
+  <string name="change_alert">Überprüfen Sie die Netzwerkverbindung und versuchen Sie es erneut</string>
   <string name="city_exceeded_warning">Sie können maximal 10 Städte hinzufügen</string>
   <string name="close">Schließen</string>
   <string name="commercial">Kommerziell</string>
@@ -271,7 +271,7 @@
   <string name="weather_alert">Wetterwarnungen</string>
   <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">Wetter stellt Ihnen genaue Wetterdaten zur Verfügung. Ohne diese App funktioniert das Wetterwidget und die Satatusleiste nicht richtig.</string>
+  <string name="xiaomi_weather_description_content">Wetter stellt Ihnen genaue Wetterdaten zur Verfügung. Ohne diese App funktioniert das Wetterwidget und die Statusleiste nicht richtig.</string>
   <string name="xiaomi_weather_description_title">Über Wetter</string>
   <string name="yes_vote_ratio">%1$s%% dafür</string>
 </resources>
