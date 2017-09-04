@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="input_password_handle_sdcard_fs">Schalten Sie in den Entwickleroptionen "Emulierte SD-Karte-Optimierung" ab bevor Sie Second Space nutzen .</string>
-  <string name="phone_locked_foget_password_mehod_back">Zurück</string>
-  <string name="phone_locked_foget_password_method">Passwort vergessen?</string>
-  <string name="phone_locked_foget_password_method_content">
-    <Data>Sie müssen &lt;font color=#a5220e>alle Daten &lt;/font> auf ihrem Gerät löschen, einschließlich ihrer Fotos und Kontakte, und dann ein neues Sperrbildschirmpasswort setzten.</Data>
-  </string>
-  <string name="phone_locked_foget_password_method_next">Weiter</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">
-    <Data>Schalten sie ihr Gerät aus, drücken und halten Sie den &lt;font color=#a5220e>Power- &lt;/font> und &lt;font color=#a5220e>Lautstärke-Hochknopf &lt;/font>, bis sie das Mi Logo sehen.</Data>
-  </string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">
-    <Data>Wählen Sie &lt;font color=#a5220e>\"Wipe &amp;amp; Reset\"&lt;/font> und warten Sie bis ihr Gerät neu Startet.</Data>
-  </string>
-  <string name="phone_locked_forget_password_suggesstions_title">Wie lösche ich die Daten?</string>
   <string name="accessibility_enter_lock_wallpaper">Klicken Sie auf die Bildschirmsperre</string>
   <string name="click_to_enter_text">Zum Anzeigen antippen</string>
   <string name="confirm_pin_msg">PIN erneut eingeben</string>
@@ -49,6 +35,7 @@
   <string name="input_password_after_boot_msg">"Sie müssen das Kennwort eingeben, nachdem das Gerät neu gestartet wurde"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Während eines Gesprächs kann nicht zwischen den Profilen gewechselt werden</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Sie müssen nach dem Neustart des Geräts das Hauptprofil betreten</string>
+  <string name="input_password_handle_sdcard_fs">Schalten Sie in den Entwickleroptionen "Emulierte SD-Karte-Optimierung" ab bevor Sie Second Space nutzen.</string>
   <string name="input_password_hint_text">Kennwort eingeben</string>
   <string name="input_pattern_hint_text">Zeichnen Sie Ihr Entsperrmuster</string>
   <string name="input_pin_code">PIN eingeben</string>
@@ -130,13 +117,16 @@
   <string name="notification_voicemail_title">Neue Sprachnachricht</string>
   <string name="notification_voicemail_title_count">Neue Sprachnachricht (%d)</string>
   <string name="open_camera_hint_text">Zum Öffnen der Kamera nach links wischen</string>
-  <string name="open_remote_center_hint_text">Zum Telefonieren nach rechts wischen</string>
+  <string name="open_remote_center_hint_text">Nach rechts wischen um Mi Remote zu öffnen</string>
   <string name="open_wifi_settings">Netzwerkverbindung öffnen</string>
+  <string name="phone_locked_foget_password_mehod_back">Zurück</string>  <string name="phone_locked_foget_password_method">Passwort vergessen?</string>  <string name="phone_locked_foget_password_method_content">    <Data>Sie müssen &lt;font color=#a5220e>alle Daten &lt;/font> auf ihrem Gerät löschen, einschließlich ihrer Fotos und Kontakte, und dann ein neues Sperrbildschirmpasswort setzten.</Data>  </string>  <string name="phone_locked_foget_password_method_next">Weiter</string>
   <string name="phone_locked_foget_password">Passwort vergessen?</string>
   <string name="phone_locked_foget_password_content">"Sie können sich bei i.mi.com mit dem Mi-Konto anmelden, das mit diesem Gerät verknüpft ist, und löschen Sie alle Daten. Dadurch werden alle auf diesem Gerät gespeicherten persönlichen Daten gelöscht. Danach können Sie das Gerät neu starten und Kontakte, Nachrichten, Fotos und andere Elemente von Mi Cloud wiederherstellen. Sie können das nicht tun, es sei denn, Sie haben sich in Ihrem Mi-Konto auf diesem Gerät angemeldet. Ansonsten musst Du das Gerät wieder löschen."</string>
   <string name="phone_locked_foget_password_footer">"Schritte: Melden Sie sich bei i.mi.com an, gehen Sie auf "Gerät suchen", wählen Sie das Gerät aus und drücken Sie auf Gerät löschen."</string>
   <string name="phone_locked_foget_password_header">Was soll ich tun, wenn ich mein Passwort vergessen habe?</string>
   <string name="phone_locked_foget_password_ok">Ich habs</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Schalten sie ihr Gerät aus, drücken und halten Sie den &lt;font color=#a5220e>Power- &lt;/font> und &lt;font color=#a5220e>Lautstärke-Hochknopf &lt;/font>, bis sie das Mi Logo sehen.</Data></string>
+  <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Wählen Sie &lt;font color=#a5220e>\"Wipe &amp;amp; Reset\"&lt;/font> und warten Sie bis ihr Gerät neu Startet.</Data></string>  <string name="phone_locked_forget_password_suggesstions_title">Wie lösche ich die Daten?</string>
   <string name="phone_locked_string">Gerät ist gesperrt</string>
   <string name="phone_locked_timeout_minutes_string">Nach %d Minuten erneut versuchen</string>
   <string name="phone_locked_timeout_seconds_string">Nach %d Sekunden erneut versuchen</string>
