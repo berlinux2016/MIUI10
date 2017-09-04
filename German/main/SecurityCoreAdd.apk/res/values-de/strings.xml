@@ -1,47 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <!-- To Translate -->
-  <string name="air_space_created">Arbeitsbereich erfolgreich geschaffen</string>
-  <string name="air_space_deleted">Arbeitsbereich erfolgreich gelöscht</string>
-  <string name="air_space_exit">Arbeitsbereich verlassen</string>
-  <string name="air_space_setting">Arbeitsbereich Einstellungen</string>
-  <string name="airspace_users_full">"Konnte nicht mehr Speicher schaffen"</string>
-  <string name="confirm_airspace_password">Bestätige %s Passwort</string>
-  <string name="contact_us">Kontakt aufnehmen</string>
-  <string name="create_work_space">Arbeitsbereich erstellen</string>
-  <string name="current_space">Aktueller Speicher</string>
-  <string name="do_not_ask">不再询问</string>
-  <string name="downloading_space">Herunterladen</string>
-  <string name="enter_air_space">Gehe zum Arbeitsbereich</string>
-  <string name="function_not_support">Dieses Gerät wird nicht unterstützt</string>
-  <string name="gms_message">双开该应用需要依赖谷歌服务,是否同步双开谷歌服务</string>
-  <string name="gms_open_button">开启</string>
-  <string name="gms_title">双开谷歌服务</string>
-  <string name="gpg_message">双开游戏需要依赖谷歌游戏中心应用,是否同步双开谷歌游戏中心应用</string>
-  <string name="gpg_title">双开谷歌游戏中心</string>
-  <string name="invalid_qr_code">Ungültiger QR code</string>
-  <string name="loading">Laden…</string>
-  <string name="need_network_when_create">Verbinden Sie sich mit dem Netzwerk, bevor Sie einen Arbeitsbereich erstellen</string>
-  <string name="need_reset_passwd">Reset Work space password before entering Work space</string>
-  <string name="not_support_air_space">"Dieses Feature wird von ihren Telefon nicht unterstützt"</string>
-  <string name="other">Anderer</string>
-  <string name="reset_passwd_success">Passwort wurde erfolgreich zurückgesetzt</string>
-  <string name="same_qr_code_create_space">Erstelle einen weiteren</string>
-  <string name="same_qr_code_des">Looks like this Work space already exists. You can use Home screen and Notification shade shortcuts to go there. Go now?</string>
-  <string name="same_qr_code_enter_space">Gehe zu Arbeitsbereich</string>
-  <string name="same_qr_code_title">%s existieren bereits</string>
-  <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
-  <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
-  <string name="search_result_text">"Konnte keine Apps finden"</string>
-  <string name="space_deleted">Dieser Speicher wurde gelöscht</string>
-  <string name="space_des_default">Isolated space with encrypted data</string>
-  <string name="space_name_default">Arbeitsbereich</string>
-  <string name="support_desc">Security services provided by Graphite</string>
-  <string name="switch_download_space">Switch Work space</string>
-  <string name="xpsace_guide_button">Erstellen</string>
-  <string name="xspace_guide_des">Verwende 2 Accounts ohne umzuschalten</string>
-  <string name="xspace_guide_title">Erstelle DualApp für %s</string>
-
+<resources> 
   <string name="Active">Aktiv</string>
   <string name="PassWordGuard">Zweitprofilpasswort</string>
   <string name="PrivacyContactDes1">
@@ -53,14 +11,21 @@
     wird diese Funktion automatisch im Zweitprofil aktiviert."
   </string>
   <string name="add_finger_print">Fingerabdruck hinzufügen</string>
+  <string name="air_space_created">Arbeitsbereich erfolgreich geschaffen</string>  
+  <string name="air_space_deleted">Arbeitsbereich erfolgreich gelöscht</string>  
+  <string name="air_space_exit">Arbeitsbereich verlassen</string>  
+  <string name="air_space_setting">Arbeitsbereich Einstellungen</string>  
+  <string name="airspace_users_full">"Konnte nicht mehr Speicher schaffen"</string>
   <string name="appData">Installierte Apps</string>
-  <string name="app_name">Security Core Component</string>
+  <string name="app_name">Sicherheitskernkomponenten</string>
   <string name="back">Zurück</string>
   <string name="can_not_delete_when_calling">Profil kann während des Gesprächs nicht gelöscht werden</string>
   <string name="can_not_switch_when_calling">Während des Gewprächs kann nicht zwischen den Profilen gewechselt werden</string>
   <string name="cancelClosePassword">Nicht ausschalten</string>
   <string name="cancel_button">Abbrechen</string>
   <string name="changePassword">Passwort ändern</string>
+  <string name="confirm_airspace_password">Bestätige %s Passwort</string>  
+  <string name="contact_us">Kontakt aufnehmen</string>
   <string name="chooseDataTransfer">Was soll mit den Daten aus dem Zweitprofil geschehen?</string>
   <string name="chooseFile">Andere Dateien auswählen</string>
   <string name="click_to_back_first_space">Antippen, um zum Hauptprofil zu wechseln</string>
@@ -94,7 +59,9 @@
   <string name="create_app_icon_failed">Verknüpfung konnte nicht erstellt werden</string>
   <string name="create_app_icon_success">Verknüpfung erstellt</string>
   <string name="create_space_loading">Zweitprofil wird erstellt…</string>
+  <string name="create_work_space">Arbeitsbereich erstellen</string>
   <string name="creating_app_icon">Verknüpfung wird erstellt…</string>
+  <string name="current_space">Aktueller Speicher</string>
   <string name="dataSafe">Ein Zweitprofil ist wie ein zweites Telefon zu haben.</string>
   <string name="declare_dialog_title">Über geklonte Apps</string>
   <string name="deleteAll">Alles löschen</string>
@@ -107,8 +74,11 @@
   <string name="delete_src_photo">Fotos löschen</string>
   <string name="dir_switch_out_all_photos">Zweitprofilgalerie</string>
   <string name="disable">Ausschalten</string>
+  <string name="do_not_ask">Nicht mehr fragen</string>
   <string name="dont_import">Nicht jetzt</string>
+  <string name="downloading_space">Herunterladen</string>
   <string name="enable">Einschalten</string>
+  <string name="enter_air_space">Gehe zum Arbeitsbereich</string>
   <string name="err_copy_contacts">Kontakte kopieren fehlgeschlagen</string>
   <string name="err_copy_files">Dateien verschieben fehlgeschlagen</string>
   <string name="err_copy_photos">Fotos kopieren fehlgeschlagen</string>
@@ -125,8 +95,13 @@
   <string name="finger_print_num">Fingerabdruck %d</string>
   <string name="finger_print_of_use">Fingerabdruck verwenden</string>
   <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht gelöscht werden</string>
+  <string name="function_not_support">Dieses Gerät wird nicht unterstützt</string>
+  <string name="gms_message">Die Anwendung muss auf Google Play Dienste zugreifen</string>  
+  <string name="gms_open_button">Öffnen</string>  <string name="gms_title">Google Play Dienste</string>
   <string name="goToSecondSpacce">Zum Zweitprofil wechseln</string>
   <string name="go_on_import">Weiter importieren</string>
+  <string name="gpg_message">Google Play Store muss auf Google Play Dienste zugreifen auch wenn Sie die App nicht klonen</string>  
+  <string name="gpg_title">Google Play Store</string>
   <string name="guide_contact_sub_title_desc">
     "Kontakte, die im Zweitprofil angelegt werden, sind privat.
     Nachrichten erhalten Sie nur im Zweitprofil."
@@ -154,7 +129,9 @@
   <string name="import_photo">Fotos importieren</string>
   <string name="import_photo_desc">Geteilte Ordner im Zweitprofil anzeigen</string>
   <string name="import_photo_suc">Importierte Fotos</string>
+  <string name="invalid_qr_code">Ungültiger QR code</string>
   <string name="list_empty_text">Leer</string>
+  <string name="loading">Laden…</string>
   <string name="loading_apps">Apps werden geladen…</string>
   <string name="loading_space">Einen Moment…</string>
   <string name="loading_success">Erfolgreich geladen</string>
@@ -164,12 +141,15 @@
   <string name="msg_switch_photo">Fotos nach dem Verschieben im Hauptprofil löschen?</string>
   <string name="needSetKeyguardFirst">Paswort für Hauptprofil festlegen</string>
   <string name="needSetKeyguardFirstDes">Legen Sie ein Passwort für das Hauptprofil fest, bevor Sie ein Passwort für das Zweitprofil festlegen</string>
+  <string name="need_network_when_create">Verbinden Sie sich mit dem Netzwerk, bevor Sie einen Arbeitsbereich erstellen</string>  
+  <string name="need_reset_passwd">Passwort zurücksetzen um zum Arbeitsbereich wechseln</string>
   <string name="need_set_second_space_desc">Legen Sie ein Passwort für das Hauptprofil fest, bevor Sie eine Fingerabdruck für das Zweitprofil festlegen</string>
   <string name="need_set_second_space_pwd_first">Legen Sie zuerst ein Passwort für das Hauptprofil fest</string>
   <string name="newSecondSpace">Zweitprofil aktivieren</string>
   <string name="next_setp">Weiter</string>
   <string name="no_match_repate_scanner">Keine Übereinstimmung gefunden, nochmal scannen</string>
   <string name="normal_app">Hauptprofil</string>
+  <string name="not_support_air_space">"Dieses Feature wird von ihren Telefon nicht unterstützt"</string>
   <string name="not_support_multiple_users">Mehrere Benutzer werden nicht unterstützt</string>
   <string name="notificationSetPassword">Passwort festlegen</string>
   <string name="notificationSetPasswordDes">Daten im Zweitprofil schützen</string>
@@ -182,6 +162,7 @@
   <string name="openPasswordGuard">Passwort für das Zweitprofil festlegen</string>
   <string name="openSuccess">Eingeschaltet</string>
   <string name="opened">Ein</string>
+  <string name="other">Anderer</string>
   <string name="otherSettings">Andere Einstellungen</string>
   <string name="passWordGuardSummary">Erreichen Sie das Zweitprofil vom Sperrbildschirm mittels Passwort</string>
   <string name="passwordProtect">Passwort</string>
@@ -199,11 +180,16 @@
   <string name="remove_second_space_msg">Wenn Sie das Zweitprofil löschen, gehen alle Zweitprofil-Appdaten verloren. Zweitprofil jetzt löschen?</string>
   <string name="removingSpace">Wird gelöscht</string>
   <string name="repeat_scanner_fingerprint">Nochmal hinzufügen</string>
+  <string name="reset_passwd_success">Passwort wurde erfolgreich zurückgesetzt</string>
   <string name="restore_normal_show">Private Nachrichten nicht anzeigen</string>
   <string name="restore_show_desc">"Private Nachrichten im Zweitprofil nicht anzeigen. Sie können sie im Hauptprofil ansehen."</string>
   <string name="restore_show_toast">Private Nachrichten werden nicht anzeigt</string>
   <string name="retain_src_file">Dateien behalten</string>
   <string name="retain_src_photo">Fotos behalten</string>
+  <string name="same_qr_code_create_space">Erstelle einen weiteren</string>  
+  <string name="same_qr_code_des">Der Arbeitsbereich existiert bereits. Sie können über die Benachrichtiungsleiste dort hin gelangen. Jetzt dorthin wechseln?</string>  
+  <string name="same_qr_code_enter_space">Gehe zu Arbeitsbereich</string>  
+  <string name="same_qr_code_title">%s existieren bereits</string>  
   <string name="scanner_fingerprint">Fingerabdruck scannen…</string>
   <string name="scanner_fingerprint_enter_second">
     "Zweitprofilfingerabdruck scannen
@@ -214,6 +200,9 @@
   <string name="scanner_fingerprint_tips_desc">Vorhandenen Fingerabdruck für das Zweitprofil auswählen. Sie können Ihn dann nicht mehr für das Hauptprofil verwenden.</string>
   <string name="scanner_fingerprint_tips_title">Mit einem vorhandenen Fingerabdruck auf das Zweitprofil zugreifen</string>
   <string name="scanner_second_space_fingerprint">Zweitprofilfingerabdruck scannen</string>
+  <string name="sdcardfs_dialog_message">Schalten Sie in den Entwickleroptionen "Emulierte SD-Karte-Optimierung" ab bevor Sie Second Space nutzen“</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>  
+  <string name="search_result_text">"Konnte keine Apps finden"</string>
   <string name="secondSpace">Zweitprofil</string>
   <string name="second_owner_finger_print">Zweitprofilfingerabdruck</string>
   <string name="second_space_finger_printf_desc">Einen Fingerabdruck speziell für das Zweitprofil hinzufügen</string>
@@ -245,6 +234,9 @@
   <string name="show_private_content">Private Elemente anzeigen</string>
   <string name="show_private_msg">Private Nachrichten anzeigen</string>
   <string name="show_private_msg_summary">Private Nachrichten im Zweitprofil anzeigen</string>
+  <string name="space_deleted">Dieser Speicher wurde gelöscht</string>  
+  <string name="space_des_default">Isolierter Bereich mit Verschlüsselten Daten</string>  
+  <string name="space_name_default">Arbeitsbereich</string>
   <string name="spaceSetting">Einstellungen</string>
   <string name="startSet">Festlegen</string>
   <string name="startTransfer">Verschieben</string>
@@ -257,6 +249,8 @@
   <string name="start_setting_guide_desc_title">Es müssen einige Dinge eingerichtet werden</string>
   <string name="summary_switch_apps_settings">Apps für das Zweitprofil auswählen</string>
   <string name="sure_to_use">Bestätigen</string>
+  <string name="support_desc">Sicherheitsdienste zur Verfügung gestellt durch Graphite</string>  
+  <string name="switch_download_space">Arbeitsbereicht wechseln</string>
   <string name="switchDataSummary">Daten zwischen den Profilen verschieben</string>
   <string name="switch_apps_settings">Appeinstellungen</string>
   <string name="switch_data_app">Daten ins Zweitprofil verschieben</string>
@@ -295,9 +289,15 @@
   <string name="transferMessage">Nachrichten werden vom Zweitprofil ins Hauptprofil verschoben</string>
   <string name="tryNow">Jetzt ausprobieren</string>
   <string name="wating">Einen Moment…</string>
+  <string name="xspace_account">Zweitprofil</string>
   <string name="xspace_chocie">Andere Apps</string>
   <string name="xspace_creating">App wird geklont…</string>
+  <string name="xspace_description">"Erstellt eine Kopie der App auf dem Desktop die gleichzeitig laufen kann ohne sich zu beeinträchtigen.
+    Ein Teil der Anwendung benötigt Google Framework Dienste welche synchronisiert und geklont werden für die beste Erfahrung
   <string name="xspace_description">Klonen Sie Apps, um sie separat zu nutzen. Geklonte Apps erhalten ein spezielles Symbol.</string>
+  <string name="xpsace_guide_button">Erstellen</string>  
+  <string name="xspace_guide_des">Verwende 2 Accounts ohne umzuschalten</string>  
+  <string name="xspace_guide_title">Erstelle Geklonte App für %s</string>
   <string name="xspace_header">Geklonte Apps</string>
   <string name="xspace_install_completed">Verknüpfung auf dem Startbildschirm hinzugefügt</string>
   <string name="xspace_install_failed">Konnte nicht erstellt werden</string>
@@ -305,6 +305,7 @@
   <string name="xspace_introduce">Empfohlen</string>
   <string name="xspace_label">Geklonte Apps</string>
   <string name="xspace_loading_msg">Apps werden geladen…</string>
+  <string name="xspace_setting_label">Geklonte Apps</string>
   <string name="xspace_uninstall_completed">Geklonte App erfolgreich deinstalliert</string>
   <string name="xspace_uninstall_dialog_content">Bei der Deinstallation werden sämtliche Anwendungsdaten gelöscht</string>
   <string name="xspace_uninstall_dialog_title">Geklonte App deinstallieren</string>

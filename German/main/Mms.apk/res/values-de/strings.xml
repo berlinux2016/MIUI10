@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="favorite_at_time">Favorisiert um: %1s</string>
-  <string name="message_queued_second_space">"Kann die Nachricht zur Zeit nicht senden. Bitte öffnen Sie die Netzwerkverbindung</string>
-  <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
-  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
-  <string name="sqlite_disk_full">Datenbank oder Speicher ist voll</string>
-  <string name="sqlite_low_memory">Wenig Speicherplatz</string>
-  <string name="verification_code_icon_name">V</string>
   <string name="about_smart_sms_title">Smartnachrichten-Partner</string>
   <string name="action_firewall_setting">Sperrliste</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
@@ -181,8 +174,8 @@
   <string name="exceed_message_text_limitation">Maximale Textlänge erreicht</string>
   <string name="expire_on">Ablaufdatum: %s</string>
   <string name="exporting_progress_private_message">Exportiere…</string>
-  <string name="fail_to_add_attachment">Anhang konnte nicht hinzugefügt werden</string>
-  <string name="fail_to_view_attachment">Anhang nicht verfügbar</string>
+  <string name="fail_to_add_attachment">"Anhang konnte nicht hinzugefügt werden"</string>
+  <string name="fail_to_view_attachment">"Anhang nicht verfügbar"</string>
   <string name="failed_to_add_media">%1$s konnte nicht zur Nachricht hinzugefügt werden</string>
   <string name="failed_to_resize_image">Bildgröße nicht angepasst</string>
   <string name="fake_cell_alert_hint">Sieht so aus, als wurde diese Nachricht von einer anderen Nummer als der angezeigten gesendet. Seien Sie vorsichtig, wenn Sie nach sensiblen Daten gefragt werden.</string>
@@ -190,6 +183,7 @@
   <string name="fake_cell_detection_entry">Erkennung der gefälschten Basisstation</string>
   <string name="fake_cell_safe_hint">Diese Nachricht ist sicher</string>
   <string name="fake_cell_timeout_hint">Sicherheitsüberprüfung fehlgeschlagen</string>
+  <string name="favorite_at_time">Favorisiert um: %1s</string>
   <string name="fdn_check_failure">Sie können nur Nachrichten an Nummern in Ihrer FDN-Liste senden</string>
   <string name="feedback_description_hint">Hier Feedback hinterlassen</string>
   <string name="feedback_submit">Senden</string>
@@ -291,6 +285,7 @@
   <string name="message_number">Telefonnummer:</string>
   <string name="message_pending">Wird gesendet</string>
   <string name="message_queued">Nachricht kann momentan nicht gesendet werden. Sie wird gesendet, sobald der Dienst verfügbar ist.</string>
+  <string name="message_queued_second_space">"Kann die Nachricht zur Zeit nicht senden. Bitte öffnen Sie die Netzwerkverbindung</string>
   <string name="message_readed">Lesen</string>
   <string name="message_received">Empfangen</string>
   <string name="message_rejected">Verworfen</string>
@@ -362,7 +357,6 @@
   <string name="mx_dspt_provision">Mit Mi Nachrichten können Sie kostenlos Nachrichten zwischen MIUI-Benutzern versenden</string>
   <string name="mx_dspt_provision_ex">"Senden Sie Nachrichten und tätigen Sie Anrufe zu anderen MIUI-Benutzern, ohne Gebühren durch Ihrem Anbieter. VoIP wird unterstützt von Weihui. Siehe Weihui's Datenschutzrichtlinien."</string>
   <string name="mx_dspt_provision_ex2">Datenschutzrichtlinien</string>
-
   <string name="mx_enable">Mi Nachrichten</string>
   <string name="mx_enable_ex">Mi Nachrichten &amp; Sprache</string>
   <string name="mx_enable_popup_msg">Senden Sie kostenlos Nachrichten mit anderen Nutzern, die ebenfalls diesen Dienst verwenden</string>
@@ -383,7 +377,7 @@
   <string name="mx_warning_notice">Zum Aktivieren der Cloudnachrichten wird eine SMS gesendet (providerabhängige Gebühr)</string>
   <string name="need_download">Wird synchronisiert</string>
   <string name="network_error">Netzwerkfehler</string>
-  <string name="networking_allow_continue">OK</string>
+  <string name="networking_allow_continue">Erlauben</string>
   <string name="networking_allow_desc2">Mi Message muss sich mit dem Internet verbinden, um normal zu arbeiten. Um freie Text- und Sprachdienste zur Verfügung zu stellen, unbekannte Nummern zu erkennen, Spam zu filtern und andere Funktionen zu aktivieren, muss Mi Message "Gelbe Seiten“ verwenden. Erlaube "Gelbe Seiten", sich mit dem Internet zu verbinden, dein Standort zu erhalten und deine Kontakte zu lesen?</string>
   <string name="networking_allow_desc_without_mx2">Mi Message muss sich mit dem Internet verbinden, um normal zu arbeiten. Um freie Text- und Sprachdienste zur Verfügung zu stellen, unbekannte Nummern zu erkennen, Spam zu filtern und andere Funktionen zu aktivieren, muss Mi Message "Gelbe Seiten“ verwenden. Erlaube "Gelbe Seiten", sich mit dem Internet zu verbinden, dein Standort zu erhalten und deine Kontakte zu lesen</string>
   <string name="networking_allow_desc">Mi Nachrichten erlaubt Ihnen gratis Text- und Sprachnachrichten zu senden, unbekannte Nummern zu erkennen, bietet einen Spamfilter etc. Wenn Sie diesen Service nutzen, stimmen Sie Xiaomis %1$s und %2$s zu. Sie müssen die Gelben Seiten aktivieren und mit dem Internet verbunden sein, um diesen Service zu verwenden.</string>
@@ -411,6 +405,7 @@
   <string name="open_url_with_web">Diese URL im Browser öffnen?</string>
   <string name="over_max_mms_size">MMS ist zu groß</string>
   <string name="overwrite_edited_content">Geänderter Inhalt wird überschrieben</string>
+  <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
   <string name="phrase_confirm_delete_message">Die gewählte Vorlage wird gelöscht</string>
   <string name="phrase_empty">Keine Vorlagen</string>
   <string name="phrase_from">Von %1s</string>
@@ -610,6 +605,7 @@
   <string name="sim_card1">SIM-Karte 1</string>
   <string name="sim_card2">SIM-Karte 2</string>
   <string name="sim_card_cloud">%s (Mi Nachricht)</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sim_copy_to_phone_memory">In Telefonspeicher kopieren</string>
   <string name="sim_delete">Löschen</string>
   <string name="sim_empty">Keine Nachrichten auf der SIM-Karte</string>
@@ -643,6 +639,8 @@
   <string name="sp_mark_as_read_menu_title">Als gelesen markieren</string>
   <string name="sp_mark_as_read_progress">Als gelesen markieren…</string>
   <string name="sp_mark_as_read_title">Alle Benachrichtigungen als gelesen markieren ?</string>
+  <string name="sqlite_disk_full">Datenbank oder Speicher ist voll</string>  
+  <string name="sqlite_low_memory">Wenig Speicherplatz</string>
   <string name="status_failed">Fehlgeschlagen</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">Ausstehend</string>
@@ -693,7 +691,6 @@
   <string name="to_label">"An "</string>
   <string name="to_send_wrapper">Wird um %s gesendet</string>
   <string name="today">Heute</string>
-
   <string name="toast_description_required">Sie können keine leere Nachricht senden</string>
   <string name="toast_feedback_finish">Ihre Meldung wird automatisch gesendet, sobald Sie mit dem WLAN verbunden sind</string>
   <string name="toast_feedback_max">Es können maximal 3 Meldungen pro Tag versendet werden</string>
@@ -742,6 +739,7 @@
   <string name="user_agreement3">" und "</string>
   <string name="user_agreement4">Datenschutzbestimmungen</string>
   <string name="user_agreement5">Wenn Sie auf OK tippen, akzeptieren Sie unsere Nutzungsbedingungen und Datenschutzbestimmungen.</string>
+  <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Bestätigungscodes</string>
   <string name="view">Anzeigen</string>
   <string name="view_bookmark">Originalnachricht anzeigen</string>
