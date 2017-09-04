@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!-- To Translate -->
   <plurals name="day">
-    <item quantity="other">%d days</item>
-    <item quantity="one">%d day</item>
+    <item quantity="other">%d Tage</item>
+    <item quantity="one">%d Tag</item>
   </plurals>
   <plurals name="day_after">
-    <item quantity="other">In %d days</item>
-    <item quantity="one">In %d day</item>
+    <item quantity="other">In %d Tagen</item>
+    <item quantity="one">In %d Tag</item>
   </plurals>
   <plurals name="day_before">
-    <item quantity="other">%d days ago</item>
-    <item quantity="one">%d day ago</item>
+    <item quantity="other">Vor %d Tagen</item>
+    <item quantity="one">Vor %d Tag</item>
   </plurals>
   <plurals name="month">
-    <item quantity="other">%d months</item>
-    <item quantity="one">%d month</item>
+    <item quantity="other">%d Monaten</item>
+    <item quantity="one">%d Monat</item>
   </plurals>
-
   <plurals name="actionbar_unread_messages">
     <item quantity="other">%1$d ungelesen</item>
     <item quantity="one">%1$d ungelesen</item>
@@ -71,12 +69,12 @@
     <item quantity="one">&lt;b>%1$d&lt;/b> stumm geschaltet</item>
   </plurals>
   <plurals name="conversation_not_important">
-    <item quantity="other">&lt;b>%1$d&lt;/b>" Nachrichten von "Wichtig" Ordner entfernt"</item>
-    <item quantity="one">&lt;b>%1$d&lt;/b>" von "wichtig" Ordner entfernt"</item>
+    <item quantity="other">&lt;b>%1$d&lt;/b>" Nachrichten aus "Wichtig" Ordner entfernt"</item>
+    <item quantity="one">&lt;b>%1$d&lt;/b>" aus "Wichtig" Ordner entfernt"</item>
   </plurals>
   <plurals name="conversation_not_spam">
-    <item quantity="other">&lt;b>%1$d&lt;/b>" von "Spam" Ordner entfernt"</item>
-    <item quantity="one">&lt;b>%1$d&lt;/b>" von "Spam" Ordner entfernt"</item>
+    <item quantity="other">&lt;b>%1$d&lt;/b>" aus "Spam" Ordner entfernt"</item>
+    <item quantity="one">&lt;b>%1$d&lt;/b>" aus "Spam" Ordner entfernt"</item>
   </plurals>
   <plurals name="conversation_phished">
     <item quantity="other">&lt;b>%1$d&lt;/b> Nachrichten als Spam gemeldet</item>
