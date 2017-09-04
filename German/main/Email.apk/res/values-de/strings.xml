@@ -21,14 +21,14 @@
   <string name="cur_debt">Kontostand</string>
   <string name="default_">Standard</string>
   <string name="default_setup">Standardeinstellungen</string>
-  <string name="default_signature">Von meinen Mi phone gesendet</string>
+  <string name="default_signature">Von meinen Mi Phone gesendet</string>
   <string name="drawer_bank_bill">Kontoauszüge</string>
-  <string name="drawer_classification">Katwgoriern</string>
+  <string name="drawer_classification">Kategorien</string>
   <string name="due">Due</string>
   <string name="due_date_text">Endgültige Rückzahlung</string>
   <string name="email_suggestions_authority">com.android.email.provider</string>
   <string name="fetch_bank_sender_list_failure">"Info konnte nicht ermitteln werden"</string>
-  <string name="first_quick_default_reply">Tap the button to send \"%s\" to all people in the conversation</string>
+  <string name="first_quick_default_reply">Tippen um \"%s\" an alle Personen in der Konversation zu senden</string>
   <string name="free_period_text">Zinslose Laufzeit</string>
   <string name="imap_or_pop3_name">IMAP/POP3</string>
   <string name="import_button_text">Importieren</string>
@@ -47,56 +47,55 @@
     "E-Mails mit Tickets oder Buchungen wurden nicht gefunden.
     Versuche es mit einen anderen Posteingang."
   </string>
-  <string name="note_title">139 Email Automatic Configuration</string>
+  <string name="note_title">139 Email Autokonfiguration</string>
   <string name="over_due">Überfällig</string>
-  <string name="overlays_fail_tip">Very sorry that your mailbox is not configured successfully, open the floating Windows permissions and try again</string>
-  <string name="overlays_ok">Open permissions</string>
-  <string name="overlays_tip">Open floating Windows permissions, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
-  <string name="overlays_title">Open floating Windows permissions</string>
+  <string name="overlays_fail_tip">Mailbox konnte leider nicht konfiguriert werden. Öffnen Sie die Berechtigungen für schwebende Fenster und versuchen Sie es erneut.</string>
+  <string name="overlays_ok">Berechtigungen öffnen</string>
+  <string name="overlays_tip">Berechtigungen für schwebende Fenster öffnen und sofort 139 Email Autokonfiguration als ultimatives Erlebnis genießen.</string>
+  <string name="overlays_title">Berechtigungn für schwebende Fenster öffnen</string>
   <string name="parse_bill_discribe">Bearbeitung von Kreditkartenrechnungen…</string>
   <string name="parse_recognize_describe">Emails werden analysiert…</string>
   <string name="pls_parse_bill_discribe">
-    "Analyze bills and travel info in your email
-    to receive reminders about payments and trips"
+    "Analysiert Rechnungen und Reiseinfos in ihren Emails
+    um Erinnerungen für Zahlungen und Reisen zu erstellen"
   </string>
   <string name="policy_dont_allow_wifi_inter">"Wlan nicht erlauben"</string>
-  <string name="protocol_setting_toast">Tap the upper right corner to go to settings after you agree</string>
-  <string name="recognize_hotel_check_in_date">Check-in time</string>
-  <string name="recognize_hotel_hotel_money">Price %1$s</string>
-  <string name="recognize_hotel_notification_content">Enjoy your stay!</string>
-  <string name="recognize_hotel_notification_title">You booked a room at %1$s starting from %2$s/%3$s. Double check your booking before arriving there.</string>
-  <string name="recognize_hotel_order_money">Total</string>
-  <string name="recognize_hotel_other_money">Other expenses %1$s</string>
-  <string name="recognize_hotel_reverse_date">Check in before %1$s:%2$s %3$s</string>
-  <string name="recognize_hotel_room_type">Room</string>
-  <string name="recognize_hotel_title">Hotel booking</string>
-  <string name="recognize_hotel_user_names">Guest</string>
-  <string name="recognize_setting_title">Travel settings</string>
-  <string name="recognize_ticket_air_notification_content">Enjoy your flight!</string>
-  <string name="recognize_ticket_air_notification_title">Flight %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>
-  <string name="recognize_ticket_air_state_stopover">Stopover</string>
+  <string name="protocol_setting_toast">Nachdem Sie zugestimmt haben, in die obere rechte Ecke tippen um zu den Einstellungen zu gelangen</string>
+  <string name="recognize_hotel_check_in_date">Check-in Zeit</string>
+  <string name="recognize_hotel_hotel_money">Preis %1$s</string>
+  <string name="recognize_hotel_notification_content">Genießen Sie Ihren Aufenthalt!</string>
+  <string name="recognize_hotel_notification_title">Sie haben ein Zimmer vom %2s bis %3s bei %1$s gebucht. Bevor Sie dort anreisen überprüfen Sie Ihre Buchung.</string>
+  <string name="recognize_hotel_order_money">Gesamt</string>
+  <string name="recognize_hotel_other_money">Andere Kosten %1$s</string>
+  <string name="recognize_hotel_reverse_date">Check-in vor %1$s:%2$s %3$s</string>
+  <string name="recognize_hotel_room_type">Zimmer</string>
+  <string name="recognize_hotel_title">Hotel Buchung</string>
+  <string name="recognize_hotel_user_names">Gast</string>
+  <string name="recognize_setting_title">Reise Einstellungen</string>
+  <string name="recognize_ticket_air_notification_content">Genießen Sie Ihren Flug!</string>
+  <string name="recognize_ticket_air_notification_title">Flug %3$s (%1$s/%2$s) wird bald starten. Überprüfen Sie Ihre Fluginformation zu Sicherheit.</string>
+  <string name="recognize_ticket_air_state_stopover">Zwischenstopp</string>
   <string name="recognize_ticket_air_state_transfer">Transfer</string>
-  <string name="recognize_ticket_air_user_name">Passenger:</string>
-  <string name="recognize_ticket_title">Plane &amp; train tickets</string>
-  <string name="recognize_ticket_train_alter">Changed</string>
-  <string name="recognize_ticket_train_depart_date">Departs at %3$s:%4$s on %1$s/%2$s</string>
+  <string name="recognize_ticket_air_user_name">Passagier:</string>
+  <string name="recognize_ticket_title">Flugzeug &amp; Zug Ticket</string>
+  <string name="recognize_ticket_train_alter">Geändert</string>
+  <string name="recognize_ticket_train_depart_date">Fährt um %3$s:%4$s auf %1$s/%2$s ab</string>
   <string name="recognize_ticket_train_notification_content">Bon Voyage!</string>
-  <string name="recognize_ticket_train_notification_title">Train %3$s (%1$s/%2$s) will depart soon. Double check your ticket.</string>
-  <string name="recognize_ticket_train_return">Returned</string>
-  <string name="recognize_ticket_train_user_name">Passenger: %1$s</string>
-  <string name="recognize_title">Travel information</string>
+  <string name="recognize_ticket_train_notification_title">Zug %3$s (%1$s/%2$s) wird bald Abfahren. Überprüfen Sie Ihr Ticket zu Sicherheit.</string>
+  <string name="recognize_ticket_train_return">Zurückgekommen</string>
+  <string name="recognize_ticket_train_user_name">Passagier: %1$s</string>
+  <string name="recognize_title">Reiseinformationen</string>
   <string name="service_protocol_discribe">
-    <u>"I've read and agree with WPS Mail Service Agreement"</u>
+    <u>"Ich habe die WPS Mail Dienste Vereinbarung gelesen und Stimme zu"</u>
   </string>
-  <string name="service_protocol_title">Service Agreement</string>
-  <string name="syncing_wait_restart">Click Retry</string>
-  <string name="today_text">Today</string>
+  <string name="service_protocol_title">Dienstleistungsvereinbarung</string>
+  <string name="syncing_wait_restart">Tippen Sie Erneut versuchen</string>
+  <string name="today_text">Heute</string>
   <string name="unbind_dialog_text">
-    "You won't be able to receive reminders after you stop analyzing.
-    Stop now?"
+    "Sie werden nicht mehr in der Lage sein, Erinnerungen zu erhalten, nachdem Sie das Analysieren stoppen.
+    Jetzt Stoppen?"
   </string>
-  <string name="unknow">Unknown</string>
-
+  <string name="unknow">Unbekannt</string>
   <string name="SMTP_independent_verification_text">SMTP-unabhängige Überprüfung</string>
   <string name="SMTP_password_text">Passwort</string>
   <string name="SMTP_username_text">Benutzername</string>
@@ -482,7 +481,7 @@
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_setting">E-Mail-Einstellungen</string>
-  <string name="email_setting_keywords">Konten;Konto hinzufügen;Mailkonten;E-Mail-Konto;E-Mail-Konto hinzufügen;Vor dem Löschen bestätigen;Vor dem Senden bestätigen;Nachrichtenverlauf löschen;Weiterleiten;Konversatuionsansicht;E-mail-Konversation;Mail Akku;Feedback senden</string>
+  <string name="email_setting_keywords">Konten;Konto hinzufügen;Mailkonten;E-Mail-Konto;E-Mail-Konto hinzufügen;Vor dem Löschen bestätigen;Vor dem Senden bestätigen;Nachrichtenverlauf löschen;Weiterleiten;Konversationsansicht;E-mail-Konversation;Mail Akku;Feedback senden</string>
   <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">Konto nicht gefunden</string>
   <string name="empty_email_tip">Leere Nachricht kann nicht gesendet werden</string>
@@ -598,7 +597,7 @@
   <string name="info_no_more_message">"Mehr gibt es nicht"</string>
   <string name="info_switch_summary">Öffne im Posteingang die erste NEWS</string>
   <string name="info_switch_title">Posteingangnachrichten</string>
-  <string name="info_sync_error">synchronisierungsfehler, versuchen Sie es später erneut.</string>
+  <string name="info_sync_error">Synchronisierungsfehler, versuchen Sie es später erneut.</string>
   <string name="information_subscribe_first_intro">Das ist das erste Mal, dass Sie etwas 「abonnieren」, wählen Sie bitte Themen aus, die Sie interessieren, damit wir personalisierte Vorschläge machen können.~</string>
   <string name="inline_picture_deleted">Fehlendes Bild wird heruntergeladen…</string>
   <string name="input_password_prompt">Passwort eingeben</string>
@@ -634,7 +633,7 @@
   <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Postausgang</string>
   <string name="mailbox_name_display_sent">Gesendet</string>
-  <string name="mailbox_name_display_starred">Favorit</string>
+  <string name="mailbox_name_display_starred">Favoriten</string>
   <string name="mailbox_name_display_trash">Papierkorb</string>
   <string name="mailbox_name_display_unread">Ungelesen</string>
   <string name="mailbox_settings_activity_title">Synceinstellungen</string>
