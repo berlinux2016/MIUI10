@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_minute_rain_location_fail_msg">Lokalisierung fehlgeschlagen, Zeige Peking als Standart</string>
   <string name="act_find_city_hint">Ort eingeben</string>
-  <string name="act_find_city_hot_city_title">Beliebte Städte</string>
   <string name="act_find_city_hot_attractions_title">Beliebte Standorte</string>
+  <string name="act_find_city_hot_city_title">Beliebte Städte</string>
   <string name="act_find_city_hot_title">Beliebte Städte</string>
   <string name="act_set_city_find_side">Lokalisieren…</string>
   <string name="act_set_city_find_side_error">"Lokalisierung nicht möglich"</string>
@@ -25,6 +24,7 @@
   <string name="activity_main_update_time">Aktualisiert %1$s</string>
   <string name="activity_main_update_time_expire">Daten nicht mehr aktuell</string>
   <string name="activity_main_update_time_right_now">gerade eben</string>
+  <string name="activity_minute_rain_location_fail_msg">Lokalisierung fehlgeschlagen, Zeige Peking als Standart</string>
   <string name="activity_weathermain_locationg">Lokalisieren…</string>
   <string name="activity_weathermain_locationg_error">"Konnte nicht lokalisiert werden"</string>
   <string name="add_city">Hinzufügen</string>
@@ -48,6 +48,7 @@
   <string name="aqi_detail_subtitle">AQI %1$s</string>
   <string name="aqi_detail_title">Luftqualitätx</string>
   <string name="aqi_detail_unit">Einheit:µg/m3(CO:mg/m3)</string>
+  <string name="aqi_fifteen_dates_time_format">d/M</string>
   <string name="aqi_publish_source">Um %1$s von CNEMC aktualisiert</string>
   <string name="aqi_publish_time">Aktualisiert: %1$s</string>
   <string name="aqi_quality_ambient_air_quality">Luftqualität in der Nähe</string>
@@ -62,8 +63,7 @@
   <string name="aqi_quality_pm10_desc">Inhalierbare Partikel</string>
   <string name="aqi_quality_pm25_desc">Pulmonale Partikel</string>
   <string name="aqi_quality_so2_desc">Schwefeldioxid</string>
-  <string name="aqi_fifteen_dates_time_format">d/M</string>  
-  <string name="aqi_short_desc">AQI %1$s</string>  
+  <string name="aqi_short_desc">AQI %1$s</string>
   <string name="aqi_station_best_quality_station">Beste in der Umgebung</string>
   <string name="aqi_station_min_distance_station">Nächste Station</string>
   <string name="aqi_sub_desc">AQI</string>
@@ -82,10 +82,9 @@
   <string name="commercial">Kommerziell</string>
   <string name="common_loading_text">Wird geladen...</string>
   <string name="connect_fail">Netzwerkverbindung fehlgeschlagen. Versuchen Sie es später noch einmal.</string>
-  <string name="content_desc_activity_main_add_city">Stadt hinzufügen</string>  
-  <string name="content_desc_activity_main_add_city_manage">Städteeinstellungen</string>  
+  <string name="content_desc_activity_main_add_city">Stadt hinzufügen</string>
+  <string name="content_desc_activity_main_add_city_manage">Städteeinstellungen</string>
   <string name="content_desc_activity_main_more_settings">Mehr Einstellungen</string>
-  <string name="data_provided_by">Zur Verfügung gestellt von</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
   <string name="daily_forcast_drawer_on_top">Weitere Tage</string>
   <string name="daily_forcast_no_stable_direction">Windstill</string>
@@ -103,6 +102,7 @@
     Daten konnten nicht geladen werden
     nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstellungen
   </string>
+  <string name="data_provided_by">Zur Verfügung gestellt von</string>
   <string name="delete">Löschen</string>
   <string name="edit_alert_city_title">Warnungen verwalten</string>
   <string name="edit_city">Bearbeiten</string>
@@ -123,14 +123,14 @@
   <string name="hide_topic">Verstecken</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Jetzt</string>
-  <string name="hourly_forecast_title">Stunden-Vorschau</string>
-  <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>  
-  <string name="hourly_forecast_bottom_aqi_else">%1$s</string>  
+  <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+  <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
   <string name="hourly_forecast_date">d/M</string>
+  <string name="hourly_forecast_title">Stunden-Vorschau</string>
   <string name="index_item_experience_now">Jetzt installieren</string>
-  <string name="index_item_install_dialog"></string>
-  <string name="index_item_install_dialog_cancel"></string>
-  <string name="index_item_install_dialog_open"></string>
+  <string name="index_item_install_dialog"/>
+  <string name="index_item_install_dialog_cancel"/>
+  <string name="index_item_install_dialog_open"/>
   <string name="index_item_install_now">Jetzt installieren</string>
   <string name="index_item_installing">Wird installiert</string>
   <string name="indices_desc_Precip1hr">%1$s mm</string>
@@ -151,8 +151,8 @@
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV-Index</string>
   <string name="indices_title_visibility">Sichtweite</string>
-  <string name="information_manager_default_weather_bg">Standard-Wetterhintergrund</string>
   <string name="information_manager">Laden wenn mit WLAN verbunden</string>
+  <string name="information_manager_default_weather_bg">Standard-Wetterhintergrund</string>
   <string name="information_manager_extension">Wettererweiterung</string>
   <string name="information_manager_information">Wetterinformation</string>
   <string name="information_manager_wlan">Laden wenn mit WLAN verbunden</string>
@@ -191,7 +191,7 @@
   <string name="more_details">Mehr Details</string>
   <string name="network_not_available">Kann mich nicht mit dem Netzwerk verbinden</string>
   <string name="network_unavailable">Verbindung zum Netzwerk nicht möglich</string>
-  <string name="night_not_disturb_settings_summary">Warnungen ab 23:00 bis 7:00 stumm geschaltet</string>  
+  <string name="night_not_disturb_settings_summary">Warnungen ab 23:00 bis 7:00 stumm geschaltet</string>
   <string name="night_not_disturb_settings_title">Nachts nicht stören</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Wiederholen</string>
@@ -211,11 +211,11 @@
   <string name="precipitation_degree_two">leicht</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="radar_cloud_image_title">Wetterkarte</string>
-  <string name="rainfall_settings_summary">Niederschlagswarnungen</string>  
+  <string name="rainfall_settings_summary">Niederschlagswarnungen</string>
   <string name="rainfall_settings_title">Niederschlag</string>
   <string name="realtime_aqi_title">Luftqualität</string>
   <string name="realtime_humidity_title">Relative Luftfeuchte</string>
-  <string name="realtime_temperature_no_data">n.v.</string>  
+  <string name="realtime_temperature_no_data">n.v.</string>
   <string name="realtime_wind_default_title">Wind</string>
   <string name="refresh_fail">Netzwerkverbindung konnte nicht hergestellt werden</string>
   <string name="reminder_from_xiaomi_weather_app">Mi Wetter Erinnerungen</string>
@@ -257,9 +257,9 @@
   <string name="unit">Einheiten</string>
   <string name="unit_temperature">Temperatureinheit</string>
   <string name="unit_wind">Windgeschwindigkeitseinheit</string>
-  <string name="update_night_setting_summary_text">Wird zwischen 23:00 und 7:00 automatisch aktualisiert</string>  
-  <string name="update_night_setting_title_text">Nachts automatisch aktualisieren</string>  
-  <string name="update_setting_title_text">Wetterinformationen aktualisieren</string> 
+  <string name="update_night_setting_summary_text">Wird zwischen 23:00 und 7:00 automatisch aktualisiert</string>
+  <string name="update_night_setting_title_text">Nachts automatisch aktualisieren</string>
+  <string name="update_setting_title_text">Wetterinformationen aktualisieren</string>
   <string name="view_forecast_item_yesterday">Gestern</string>
   <string name="view_indexes_item_today">Heute</string>
   <string name="view_indexes_item_tommorrow">Morgen</string>
