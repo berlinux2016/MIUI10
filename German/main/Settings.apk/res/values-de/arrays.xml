@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <!-- To Translate -->
+  <string-array name="status_bar_show_carrier_entries">
+        <item>Only show on the Lock screen and in the Notification shade</item>
+        <item>Always show carrier name</item>
+        <item>Never show carrier name</item>
+     </string-array>
   <string-array name="cellcular2wifi_entries">
     <item>Automatisch verbinden</item>
     <item>Manuell verbinden</item>
