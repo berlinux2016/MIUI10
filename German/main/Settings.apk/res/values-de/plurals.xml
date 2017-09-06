@@ -1,97 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!-- To Translate -->
   <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-    <item quantity="other">Extremely short delay (%1$d ms)</item>
-    <item quantity="one">Extremely short delay (%1$d ms)</item>
+    <item quantity="other">Extrem kurze Verzögerungen (%1$d ms)</item>
+    <item quantity="one">Extrem kurze Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-    <item quantity="other">Long delay (%1$d ms)</item>
-    <item quantity="one">Long delay (%1$d ms)</item>
+    <item quantity="other">Lange Verzögerungen (%1$d ms)</item>
+    <item quantity="one">Lange Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-    <item quantity="other">Short delay (%1$d ms)</item>
-    <item quantity="one">Short delay (%1$d ms)</item>
+    <item quantity="other">Kurze Verzögerungen (%1$d ms)</item>
+    <item quantity="one">Kurze Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-    <item quantity="other">Very long delay (%1$d ms)</item>
-    <item quantity="one">Very long delay (%1$d ms)</item>
+    <item quantity="other">Sehr lange Verzögerungen (%1$d ms)</item>
+    <item quantity="one">Sehr lange Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-    <item quantity="other">Very short delay (%1$d ms)</item>
-    <item quantity="one">Very short delay (%1$d ms)</item>
+    <item quantity="other">Sehr kurze Verzögerungen (%1$d ms)</item>
+    <item quantity="one">Sehr kurze Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="data_saver_unrestricted_summary">
-    <item quantity="other">%1$d apps allowed to use unrestricted data when Data Saver is on</item>
-    <item quantity="one">1 app allowed to use unrestricted data when Data Saver is on</item>
+    <item quantity="other">Es ist %1$d Apps erlaubt Daten zu nutzen, wenn der Daten Saver aktiv ist</item>
+    <item quantity="one">Es ist 1 App erlaubt Daten zu nutzen, wenn der Daten Saver aktiv ist</item>
   </plurals>
   <plurals name="dlg_remove_locales_title">
-    <item quantity="other">Remove selected languages?</item>
-    <item quantity="one">Remove selected language?</item>
+    <item quantity="other">Ausgewählte Sprachen entfernen?</item>
+    <item quantity="one">Ausgewählte Sprache entfernen?</item>
   </plurals>
   <plurals name="lockpassword_pin_too_long">
-    <item quantity="other">PIN can contain up to %d digits</item>
-    <item quantity="one">PIN can contain up to %d digit</item>
+    <item quantity="other">PIN kann bis zu %d Zeichen enthalten</item>
+    <item quantity="one">PIN kann bis zu %d Zeichen enthalten</item>
   </plurals>
   <plurals name="lockpassword_pin_too_short">
-    <item quantity="other">PIN must be %d digits long</item>
-    <item quantity="one">PIN must be %d digit long</item>
+    <item quantity="other">PIN muss %d Zeichen lang sein</item>
+    <item quantity="one">PIN muss %d Zeichen lang sein</item>
   </plurals>
   <plurals name="lockpattern_recording_incorrect_too_short">
-    <item quantity="other">Connect at least %d dots. Try again.</item>
-    <item quantity="one">Connect at least %d dot. Try again.</item>
+    <item quantity="other">Mindestens %d Punkte verbinden. Erneut probieren.</item>
+    <item quantity="one">Mindestens %d Punkt verbinden. Erneut probieren.</item>
   </plurals>
   <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-    <item quantity="other">Too many incorrect attempts. Try again in %d seconds.</item>
-    <item quantity="one">Too many incorrect attempt. Try again in %d second.</item>
+    <item quantity="other">Zu viele falsche Versuche. Erneut in %d Sekunden versuchen.</item>
+    <item quantity="one">Zu viele falsche Versuche. Erneut in %d Sekunde versuchen.</item>
   </plurals>
   <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-    <item quantity="other">Wait for %d seconds and try again.</item>
-    <item quantity="one">Wait for %d second and try again.</item>
+    <item quantity="other">%d Sekunden warten und erneut versuchen.</item>
+    <item quantity="one">%d Sekunden warten und erneut versuchen.</item>
   </plurals>
   <plurals name="notification_summary">
-    <item quantity="other">%d apps blocked from sending</item>
-    <item quantity="one">%d app blocked from sending</item>
+    <item quantity="other">%d Apps vom Senden blockiert</item>
+    <item quantity="one">%d App vom Senden blockiert</item>
   </plurals>
   <plurals name="print_settings_title">
-    <item quantity="other">%d print jobs</item>
-    <item quantity="one">1 print job</item>
+    <item quantity="other">%d Druckaufträge</item>
+    <item quantity="one">1 Druckauftrag</item>
   </plurals>
   <plurals name="ssl_ca_cert_dialog_title">
-    <item quantity="other">Trust or remove certificates</item>
-    <item quantity="one">Trust or remove certificate</item>
+    <item quantity="other">Zertifikaten vertrauen oder entfernen</item>
+    <item quantity="one">Zertifikat vertrauen oder entfernen</item>
   </plurals>
   <plurals name="ssl_ca_cert_info_message">
     <item quantity="other">
-      "%s has installed certificate authorities for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
+      "%s haben auf deinem Gerät Zertifizierungsstellen installiert, die es Ihnen ermöglichen, die Netzwerkaktivität deines Geräts, einschließlich E-Mails, Anwendungen und sichere Websites, zu überwachen.
 
-      For more information about these certificates, contact your admin."
+      Für weitere Informationen über diese Zertifikate kontaktieren Sie Ihren Admin."
     </item>
     <item quantity="one">
-      "%s has installed a certificate authority for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
+      "%s hat auf deinem Gerät Zertifizierungsstellen installiert, die ermöglichen, die Netzwerkaktivität deines Geräts, einschließlich E-Mails, Anwendungen und sichere Websites, zu überwachen.
 
-      For more information about this certificate, contact your admin."
+      Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin."
     </item>
   </plurals>
   <plurals name="ssl_ca_cert_info_message_device_owner">
     <item quantity="other">
-      "%s has installed certificate authorities on your device, which may allow them to monitor your device network activity, including emails, apps, and secure websites.
+      "%s haben auf deinem Gerät Zertifizierungsstellen installiert, die es Ihnen ermöglichen, die Netzwerkaktivität deines Geräts, einschließlich E-Mails, Anwendungen und sichere Websites, zu überwachen.
 
-      For more information about these certificates, contact your admin."
+      Für weitere Informationen über diese Zertifikate kontaktieren Sie Ihren Admin."
     </item>
     <item quantity="one">
-      "%s has installed a certificate authority on your device, which may allow them to monitor your device network activity, including emails, apps, and secure websites.
+      "%s hat auf deinem Gerät Zertifizierungsstellen installiert, die ermöglichen, die Netzwerkaktivität deines Geräts, einschließlich E-Mails, Anwendungen und sichere Websites, zu überwachen.
 
-      For more information about this certificate, contact your admin."
+      Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin."
     </item>
   </plurals>
   <plurals name="ssl_ca_cert_settings_button">
-    <item quantity="other">Check certificates</item>
-    <item quantity="one">Check certificate</item>
+    <item quantity="other">Zertifikate prüfen</item>
+    <item quantity="one">Zertifikat prüfen</item>
   </plurals>
   <plurals name="uri_permissions_text">
-    <item quantity="other">%d items</item>
-    <item quantity="one">1 item</item>
+    <item quantity="other">%d Objekte</item>
+    <item quantity="one">1 Objekt</item>
   </plurals>
   <plurals name="status_bar_settings_disabled_header_title">
     <item quantity="other">"%s Apps dürfen keine Benachrichtigungen anzeigen"</item>
@@ -102,8 +101,8 @@
     <item quantity="one">1 App darf Benachrichtigungen anzeigen</item>
   </plurals>
   <plurals name="settings_toggle_position_divider_page">
-    <item quantity="other">%1$d Umschalten über Balken sind aktiv</item>
-    <item quantity="one">1 Umschalter über Balken ist aktiv</item>
+    <item quantity="other">%1$d Kippschalter werden in der Benachrichtigunsleiste gezeigt</item>
+    <item quantity="one">1 Kippschalter wird in der Benachrichtigungsleiste gezeigt</item>
   </plurals>
   <plurals name="show_dev_countdown">
     <item quantity="other">In %1$d Schritten sind Sie ein Entwickler.</item>

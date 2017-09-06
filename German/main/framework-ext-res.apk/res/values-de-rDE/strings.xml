@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-  <string name="miui_screen_ratio_hint">Bildschirmverhältnis Probleme</string>
-  <string name="miui_screen_ratio_hint_dont_show_again">"Nicht wieder anzeigen"</string>
-  <string name="miui_screen_ratio_hint_go_to_settings">Gehe zu den Einstellungen</string>
-  <string name="miui_screen_ratio_hint_message">Diese App darf im Vollbildmodus laufen, was dazu führen kann, dass sie falsch angezeigt wird. Sie können dies unter Einstellungen> Erweiterte Einstellungen> Schaltflächen ändern.</string>
-  <string name="miui_screen_ratio_hint_ok">OK</string>
-  <string name="standard_description">
-    "[Lautlos]
-    Stille Klingeltöne für eingehende Anrufe und Benachrichtigung"
-  </string>
-  <string name="subinfo_default_name">SIM %d</string>
-
   <string name="activity_package_delete_confirm_title">Wichtige Warnung</string>
   <string name="add_frequent_phrases">Häufig verwendete Sätze hinzufügen</string>
   <string name="all_call_livetalk_enable">Aufladepakete für nationale und internationale Anrufe verwenden</string>
@@ -33,8 +21,8 @@
   <string name="auto_start_warning_deny">Verweigern</string>
   <string name="auto_start_warning_title">Automatischen Start von %s erlauben?</string>
   <string name="button_text_cancel">Abbrechen</string>
-  <string name="button_text_delete">Löschen</string>
-  <string name="button_text_delete_timer">Löschen (%d)</string>
+  <string name="button_text_delete">Deinstallieren</string>
+  <string name="button_text_delete_timer">Deinstalliere (%d)</string>
   <string name="button_text_next_step">Weiter</string>
   <string name="button_text_next_step_timer">Weiter (%d)</string>
   <string name="call_record_or">" oder "</string>
@@ -94,10 +82,15 @@
   <string name="memory_clear_nothing_result">Nichts zum Löschen im Cache vorhanden</string>
   <string name="memory_clear_result">%1$sB gelöscht</string>
   <string name="miui_upgrading_notification_title">System wird geladen, einige Funktionen können eingeschränkt sein</string>
+  <string name="miui_screen_ratio_hint">Bildschirmverhältnis Probleme</string>  
+  <string name="miui_screen_ratio_hint_dont_show_again">"Nicht wieder anzeigen"</string>  
+  <string name="miui_screen_ratio_hint_go_to_settings">Gehe zu den Einstellungen</string>  
+  <string name="miui_screen_ratio_hint_message">Diese App darf im Vollbildmodus laufen, was dazu führen kann, dass sie falsch angezeigt wird. Sie können dies unter Einstellungen> Erweiterte Einstellungen> Schaltflächen ändern.</string>  
+  <string name="miui_screen_ratio_hint_ok">OK</string>
   <string name="onehour">30 Min.</string>
-  <string name="package_delete_confirm_step_1">%s löschen?</string>
-  <string name="package_delete_confirm_step_2">Wenn Sie diese App löschen, kann es zu Systeminstabilitäten kommen.</string>
-  <string name="package_delete_confirm_step_3">Sie können diese App nach dem Löschen nicht mehr öffnen</string>
+  <string name="package_delete_confirm_step_1">%s deinstallieren?</string>
+  <string name="package_delete_confirm_step_2">Wenn Sie diese App deinstallieren, kann es zu Systeminstabilitäten kommen.</string>
+  <string name="package_delete_confirm_step_3">Sie können diese App nach dem deinstallieren nicht mehr öffnen</string>
   <string name="paste">Einfügen</string>
   <string name="perm_send_push_dspt">Pushnachrichten erlauben</string>
   <string name="perm_send_push_lab">Pushnachrichten senden</string>
@@ -107,7 +100,7 @@
   <string name="reboot_info_auto_boot">Ihr Telefon wird aufgrund des Startplans um %s neu gestartet</string>
   <string name="reboot_info_shutdown_alarm">Ihr Telefon wird %s neu starten und den Alarm auslösen</string>
   <string name="reboot_progress">Neustart…</string>
-  <string name="remain">Verbleibend:%s</string>
+  <string name="remain">Verbleibend :%s</string>
   <string name="replace">Ersetzen</string>
   <string name="resource_select">Auswählen</string>
   <string name="screen_button_disabled_message">Navigationstasten deaktiviert. Zum Reaktivieren drücken Sie gleichzeitig die Home- und Powertaste.</string>
@@ -142,7 +135,8 @@
   <string name="softap_notifif_summary">%d verbunden</string>
   <string name="softap_notifif_title">Hotspot \"%s\" ist aktiv</string>
   <string name="standard">Lautlos</string>
-  <string name="start_security_permission_verify_text">Berechtigungen mit Ihrem Mi Konto verifizieren</string>
+  <string name="standard_description">Klingeltöne für eingehende Anrufe und Benachrichtigung stummschalten</string>
+  <string name="start_security_permission_verify_text">Berechtigungen mit Ihrem Mi Konto verifizieren</string>
   <string name="standard_title">Lautlos</string>
   <string name="status_bar_toggle_ac">Zugriff</string>
   <string name="status_bar_toggle_auto_brightness">Helligkeit</string>
@@ -169,11 +163,9 @@
   <string name="status_bar_toggle_vibrate">Vibration</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
-  <string name="total">Nicht stören</string>
-  <string name="total_description">
-    "[Nicht stören]
-    Lautloser Sound und schaltet Vibrationen für alle Anwendungen außer dem Wecker aus"
-  </string>
+  <string name="subinfo_default_name">SIM %d</string>
+  <string name="total">Nicht stören</string>
+  <string name="total_description">Schaltet Vibrationen und Sound für alle Apps außer dem Wecker aus</string>
   <string name="total_title">Nicht stören</string>
   <string name="translation_more">Mehr</string>
   <string name="translation_query_error">Keine Ergebnisse gefunden</string>
