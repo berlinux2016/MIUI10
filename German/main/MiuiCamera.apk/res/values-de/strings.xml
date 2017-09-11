@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
+<resources>+
+  <!--To be formatted-->
+  <string name="hine_hht">Bei schlechten Lichtverhältnissen nimmt die Kamera mehrere Fotos auf 
+    und erstellt dann eine Aufnahme mit minimalem Rauschen.</string>  
+  <string name="hint_fast_motion">Das aufgenommene Video wird schneller abgespielt.</string>  
+  <string name="hint_groupshot">"Die Kamera nimmt mehrere Fotos auf 
+    und erstellt dann eine Aufnahme, bei der jeder am besten aussieht.</string>  
+  <string name="hint_slow_motion">Das aufgenommene Video wird langsamer abgespielt.</string>  
+  <string name="hunt_dual_water_mark">Dual Camera Wasserzeichen wird automatisch hinzugefügt.</string>  
+  <string name="module_name_beauty">Verschönern</string>  
+  <string name="module_name_capture">Foto</string>  
+  <string name="module_name_fun">Kurzvideo</string>  
+  <string name="module_name_manual">Manuell</string>  
+  <string name="module_name_panorama">Panorama</string>  
+  <string name="module_name_portrait">Portrait</string>   
+  <string name="module_name_square">Quadrat</string>  
+  <string name="module_name_video">Video</string>  
+  <string name="pref_camera_focus_shoot_summary">Klicken Sie nach dem Berühren des Fokus auf die Kamerataste in der Mitte des Fokusringes, um ein Bild aufzunehmen.</string>
+  <string name="sticker_tab1">Süß</string>  
+  <string name="sticker_tab2">Lustig</string> 
+
   <string name="access_sd_fail">"Kein Zugriff auf USB-Speicher möglich."</string>
   <string name="accessibility_audio_shutter_bg">Auslösergeräusch-Hintergrund</string>
   <string name="accessibility_camera_module_picker">Kameramodusauswahl</string>
@@ -167,8 +187,8 @@
   <string name="portrait_mode_lowlight_hint">Mehr Licht erforderlich</string>
   <string name="portrait_mode_too_close_hint">Weiter weg verschieben</string>
   <string name="portrait_mode_too_far_hint">Das Motiv innerhalb von 2,5 m platzieren</string>
-  <string name="portrait_mode_use_hint">"Portrait-Modus hilft Ihnen, den Hintergrund zu verwischen.
-Die wichtigen Körperteile werden dabei klarerer und das Porträt schöner.</string>
+  <string name="portrait_mode_use_hint">"Portrait-Modus stellt den Hintergrund unscharf
+    und rückt somit die Personen in den Vordergrund.</string>
   <string name="portrait_with_facebeauty_hint">Verschönern ist jetzt im Hochformat verfügbar</string>
   <string name="pref_advance_settings">Erweiterte Einstellungen</string>
   <string name="pref_audio_focus_entry_front">Vorne</string>
@@ -228,9 +248,9 @@ Die wichtigen Körperteile werden dabei klarerer und das Porträt schöner.</str
   <string name="pref_camera_coloreffect_entry_yesteryear">Damals</string>
   <string name="pref_camera_coloreffect_title">Filter</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
-  <string name="pref_camera_delay_capture_entry_10s">10s</string>
-  <string name="pref_camera_delay_capture_entry_3s">3s</string>
-  <string name="pref_camera_delay_capture_entry_5s">5s</string>
+  <string name="pref_camera_delay_capture_entry_10s">10s Verzögerung</string>
+  <string name="pref_camera_delay_capture_entry_3s">3s Verzögerung</string>
+  <string name="pref_camera_delay_capture_entry_5s">5s Verzögerung</string>
   <string name="pref_camera_delay_capture_entry_audio">Ton</string>
   <string name="pref_camera_delay_capture_entry_off">aus</string>
   <string name="pref_camera_delay_capture_title">Selbstauslöser</string>
@@ -426,7 +446,7 @@ Die wichtigen Körperteile werden dabei klarerer und das Porträt schöner.</str
   <string name="pref_capture_settings">Kameraeinstellungen</string>
   <string name="pref_dualcamera_watermark_title">Dualkamera-Wasserzeichen</string>
   <string name="pref_face_beauty_title">Hauttöne</string>
-  <string name="pref_fingerprint_capture_title">Fingerabdruck</string>
+  <string name="pref_fingerprint_capture_title">Fingerabdruckauslöser</string>
   <string name="pref_front_mirror_entry_auto">Wenn Gesicht erkannt wird</string>
   <string name="pref_front_mirror_entry_off">Aus</string>
   <string name="pref_front_mirror_entry_on">An</string>

@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!--To be formatted-->
+<string name="key_combination_power_back">Ein/Aus + Zurücktaste</string>
+<string name="key_combination_power_home">Ein/Aus + Hometaste</string>
+<string name="key_combination_power_menu">Ein/Aus + Menütaste</string>
+<string name="key_gesture_function_dialog_message">%1$s wurde als %2$s Shortcut gesetzt, oder ersetzt durch%3$s</string>  
+<string name="key_gesture_function_dialog_negative">Abbrechen</string>  
+<string name="key_gesture_function_dialog_positive">Ersetzen</string>  
+<string name="key_gesture_function_optional">Optionale Gesten und Tasten</string>  
+<string name="key_gesture_function_preview">Gesten- und Tastenvorschau</string>  
+<string name="key_gesture_function_shortcut">Funktionsshortcut</string>  
+<string name="key_none">Keine</string>  
+<string name="key_settings">Gesten- und Tastenshortcut</string>  
+<string name="key_settings_title">Gesten- und Tastenshortcut</string>  
+<string name="key_system_control">Systemsteuerung</string>  
+<string name="launch_camera">Kamera starten</string>
+<string name="launch_google_search">Google Suche starten</string>  
+<string name="launch_voice_assistant">Sprachassistenten starten</string> 
+<string name="long_press_back_key">Zurücktaste gedrückt halten</string>  
+<string name="long_press_buttom_key">Buttomtaste gedrückt halten</string>  
+<string name="long_press_home_key">Hometaste gedrückt halten</string>  
+<string name="long_press_menu_key">Menütaste gedrückt halten</string>  
+<string name="long_press_menu_key_when_lock">Bei gesperrten Gerät Menütaste gedrückt halten</string> 
+<string name="screen_shot">Screenshot machen</string> 
+<string name="show_menu">Menü anzeigen</string> 
+<string name="three_gesture_down">3-Finger Geste</string> 
+<string name="turn_on_torch">Taschenlampe aktivieren</string> 
+  
   <string name="Accounts_settings_title">Konten</string>
   <string name="aaid_info">
     "Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende verwenden diese, um Ihnen auf Sie zugeschnittene Werbung anbieten zu können.
@@ -1145,7 +1172,7 @@
   <string name="contributors_title">Mitwirkende</string>
   <string name="controls_label">Steuerung</string>
   <string name="controls_subtitle">Energieverbrauch anpassen</string>
-  <string name="convenience_key_category_title">Komfortschlüssel</string>
+  <string name="convenience_key_category_title">Systemsteuerung</string>
   <string name="convert_to_fbe_warning">
     "Konvertieren von Datenpartitionen in dateibasierte Verschlüsselung.
     !!Achtung!! Dies löscht alle Ihre Daten.
@@ -2202,9 +2229,6 @@
   <string name="keep_screen_on">Aktiv lassen</string>
   <string name="keep_screen_on_summary">Bildschirm während des Ladevorgangs nicht ausschalten</string>
   <string name="kernel_version">Kernelversion</string>
-  <string name="key_position_cat">Tastenposition</string>
-  <string name="key_settings">Tasten</string>
-  <string name="key_settings_title">Tasten</string>
   <string name="keyboard_and_input_methods_category">Tastatur</string>
   <string name="keyboard_assistance_category">Tastatur-Hilfe</string>
   <string name="keyboard_layout_default_label">Standard</string>
@@ -4100,7 +4124,6 @@
   <string name="screen_key_long_press">Langer Tastendruck</string>
   <string name="screen_key_long_press_action">Optionen</string>
   <string name="screen_key_long_press_timeout">Verzögerung</string>
-  <string name="screen_key_position">Navigationstasten</string>
   <string name="screen_key_press">Kurzer Tastendruck</string>
   <string name="screen_key_press_action">Auslösefunktion</string>
   <string name="screen_locking_sounds_title">Bildschirmsperrentöne</string>
