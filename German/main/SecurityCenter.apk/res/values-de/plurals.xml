@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!-- To Translate -->
   <plurals name="add_game_notification_title">
     <item quantity="other">%d Spiele hinzugefügt</item>
     <item quantity="one">%d Spiel hinzugefügt</item>
@@ -331,4 +330,8 @@
     <item quantity="other">%d inoffizielle Apps gefunden</item>
     <item quantity="one">Eine inoffizielle App gefunden</item>
   </plurals>
+  <plurals name="net_booster_expire_notification_tip">  
+    <item quantity="other">%d d verbleibend, bevor die Netzwerkgeschwindigkeitserhöhung beendet wird. Erneuern Sie die Sitzung, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</item>  
+    <item quantity="one">%d d verblieben, bevor die Netzwerkgeschwindigkeitserhöhung beendet wird. Erneuern Sie die Sitzung, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</item>  
+  </plurals>  
 </resources>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
+  <!-- To be formatted -->
   <string name="VideoView_error_button">OK</string>
   <string name="VideoView_error_text_invalid_progressive_playback">"Dieses Video kann nicht auf diesem Gerät abgespielt werden."</string>
   <string name="VideoView_error_text_unknown">"Das Video kann nicht abgespielt werden."</string>
@@ -288,6 +288,13 @@
   <string name="btn_share">Teilen</string>
   <string name="btn_yes">Ja</string>
   <string name="check_new_version">Überprüfen</string>
+  <string name="chengelog">%1$s</string>
+  <string name="dialog_3g_desc">Beachten Sie, dass die Verwendung von Mobilen Daten zum Herunterladen von ROMs einen großen Datenverbrauch zur Folge hat.</string> 
+  <string name="dialog_3g_title">Warnung!</string>  
+  <string name="dialog_btn_3g">Trotzdem fortsetzen</string>  
+  <string name="dialog_btn_wifi">Auf WLAN wechseln</string>  
+  <string name="dialog_stop_desc">Sind Sie sicher, dass Sie einen laufenden Download stoppen wollen? Alle Fortschritte gehen verloren, Sie können nicht weitermachen. Der nächste Download-Versuch beginnt von Anfang an.</string>
+  <string name="dialog_stop_title">Download stoppen?</string> 
   <string name="download_done">Erfolgreich heruntergeladen!</string>
   <string name="download_fail">Fehler beim Herunterladen!</string>
   <string name="download_fail_desc">MD5-Checksumme stimmt nicht überein...</string>

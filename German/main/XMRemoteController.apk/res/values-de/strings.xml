@@ -53,6 +53,13 @@
   <string name="app_frequency_normal">Manchmal</string>
   <string name="app_install">Am Mi TV installieren</string>
   <string name="app_install_count">%1$s installiert</string>
+  <string name="app_install_dialog_install_complete">Installation abgeschlossen</string>  
+  <string name="app_install_dialog_install_failed">Installation fehlgeschlagen, keine zugehörige Anwendung gefunden</string>  
+  <string name="app_install_dialog_installing">Wird installiert, bitte warten</string>  
+  <string name="app_install_dialog_negative_text">Abbrechen</string>  
+  <string name="app_install_dialog_positive_text">Installieren</string>  
+  <string name="app_install_dialog_search_failed">Zugehörige Anwendung konnte nicht gefunden werden</string>  
+  <string name="app_install_dialog_searching">Suche nach zugehörigen Apps, bitte warten</string>  
   <string name="app_installing">Installiert…</string>
   <string name="app_listitem_installing">Installieren</string>
   <string name="app_listitem_waiting">Auf Installation warten</string>
@@ -98,6 +105,7 @@
   <string name="cancel_timer">Timer abbrechen</string>
   <string name="cannot_be_used_in_current_mode">&lt;%1$s&gt; kann im aktuellen Modus nicht verwendet werden</string>
   <string name="carrier_data">Anbieter Info</string>
+  <string name="cast_screen">Mi TV</string> 
   <string name="change_to_channel">Zu Kanal [%1$s] %2$s wechseln</string>
   <string name="channel">Kanal</string>
   <string name="channel_added_to_fav">%1$s zu Favorten hinzugefügt</string>
@@ -252,18 +260,13 @@
   <string name="get_data_fail_tips">"Es wurden keine Daten erhalten, versuchen Sie es erneut"</string>
   <string name="get_info_failed">"Konnte keine Info erhalten"</string>
   <string name="get_location_fail_tip">"Konnte nicht lokalisiert werden, wählen Sie eine Stadt"</string>
-  <string name="goto_weather">Wetter anzeigen</string>
   <string name="guid_one">· Mit dem gleichen WLAN-Netzwerk verbinden wie das Zielgerät.</string>
   <string name="guid_three">"· Einige Bedienelemente stehen möglicherweise nicht zur Verfügung, wenn Ihr Fernseher oder Set-Up-Box nicht Android unterstützt."</string>
   <string name="guid_two">· Die AP-Isolierung Ihres Routers abstellen</string>
   <string name="guid_zero">". Ihr Gerät unterstützt kein Infrarot."</string>
   <string name="guide">Anleitung</string>
-  <string name="guide_title_one">Ihr Mobiltelefon unterstützt keine Infrarot, Sie können Infrarot-Geräte nicht fernbedienen</string>
-  <string name="guide_title_three">Anweisungen</string>
-  <string name="guide_title_two">Aber Sie können Mi-TVs und Mi-Boxen mit WI-FI steuern</string>
   <string name="has_installed">Installiert</string>
-  <string name="hd_channel_preferred">Bevorzugen Sie HD-Videos</string>
-  <string name="hello_world">Hallo Welt!</string>
+  <string name="hd_channel_preferred">HD-Videos bevorzugen</string>
   <string name="help">Hilfe</string>
   <string name="history_none">"Sie haben noch keine Videos gesehen."</string>
   <string name="history_title">Verlauf</string>
@@ -435,6 +438,7 @@
   <string name="minute">Minuten</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Kontrol-Version %1$s</string>
+  <string name="mitv_no_device">Kein TV zum verbinden gefunden. Verbinden Sie Ihr Handy mit dem selben WLAN wie Ihr Mi TV.</string> 
   <string name="mode">Modus</string>
   <string name="month">Monat</string>
   <string name="month_day_format">dd. MMMM</string>
@@ -724,7 +728,7 @@
   <string name="save">Speichern</string>
   <string name="save_share_tips">Gefällt Ihnen die App? Sie können Sie bewerten.</string>
   <string name="save_share_title">Speichern Sie die Fernbedienung auf diesem Gerät?</string>
-  <string name="scaning">Sucht…</string>
+  <string name="scaning">Suche…</string>
   <string name="scanning_milink">Sucht nach Geräten…</string>
   <string name="scene_name_frame">%1$s %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
@@ -839,6 +843,7 @@
   <string name="supported_by_kookong">Technischer Support by Youku</string>
   <string name="supporting_soon">Kommt bald</string>
   <string name="switch_place">Standort ändern</string>
+  <string name="tab_live">Wundervolles Leben</string> 
   <string name="technical_support"/>
   <string name="temperature">Temperatur</string>
   <string name="temprature_frame">%1$d ?</string>
@@ -879,7 +884,7 @@
   <string name="upgrade_title_frame">%1s</string>
   <string name="upgrading">Aktualisierung…</string>
   <string name="use_tv_power_key">"Verwenden Sie %1$s Power-Taste um zu ändern, drücken Sie lange auf TV Ein-/Ausschalter"</string>
-  <string name="user_title">Meine</string>
+  <string name="user_title">Profil</string>
   <string name="vendor_kookong">Kookong</string>
   <string name="vendor_peel">Peel</string>
   <string name="vendor_yaokan">Yaokan</string>
