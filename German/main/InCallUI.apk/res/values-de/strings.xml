@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="card_title_answering">Anruf annehmen</string>
-  <string name="card_title_answering_fail">"Konnte Anruf nicht annehmen. Bitte erneut probieren."</string>
-  <string name="card_title_hanging_up_fail">"Konnte Anruf nicht beenden. Bitte erneut probieren."</string>
+  <string name="card_title_answering_time_out">Konnte Anruf nicht annehmen. Bitte erneut probieren.</string>
+  <string name="card_title_hanging_up_fail">Konnte Anruf nicht beenden. Bitte erneut probieren.</string>
   <string name="card_title_in_video">Video </string>
-  <string name="close_camera_failed">"Konnte Kamera nicht abschalten…"</string>
+  <string name="close_camera_failed">Konnte Kamera nicht abschalten…</string>
   <string name="close_camera_requesting">Schalte Kamera ab…</string>
   <string name="dialpad_abc">ABC</string>
   <string name="dialpad_def">DEF</string>
@@ -167,10 +167,6 @@
   <string name="ivr_menu_dialing_msg_no_mute">Übertragung zum ausgewähltem Dienst (Fehlermeldungen ignorieren)…</string>
   <string name="ivr_menu_list_sub_menu_count_format">%s drücken</string>
   <string name="ivr_menu_list_title">Sprachmenü</string>
-  <string name="jeejen_answer_call_text">Anruf beantworten</string>
-  <string name="jeejen_end_call_text">Anruf beenden</string>
-  <string name="jeejen_reject_call_text">Anruf abweisen</string>
-  <string name="jeejen_toggle_dialpad_text">Tastenfeld</string>
   <string name="keep_wait_call_back">Weiter warten</string>
   <string name="livetalk_dial">Aufladen</string>
   <string name="livetalk_hangup">Auflegen</string>
