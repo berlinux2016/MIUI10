@@ -53,13 +53,13 @@
   <string name="app_frequency_normal">Manchmal</string>
   <string name="app_install">Am Mi TV installieren</string>
   <string name="app_install_count">%1$s installiert</string>
-  <string name="app_install_dialog_install_complete">Installation abgeschlossen</string>  
-  <string name="app_install_dialog_install_failed">Installation fehlgeschlagen, keine zugehörige Anwendung gefunden</string>  
-  <string name="app_install_dialog_installing">Wird installiert, bitte warten</string>  
-  <string name="app_install_dialog_negative_text">Abbrechen</string>  
-  <string name="app_install_dialog_positive_text">Installieren</string>  
-  <string name="app_install_dialog_search_failed">Zugehörige Anwendung konnte nicht gefunden werden</string>  
-  <string name="app_install_dialog_searching">Suche nach zugehörigen Apps, bitte warten</string>  
+  <string name="app_install_dialog_install_complete">Installation abgeschlossen</string>
+  <string name="app_install_dialog_install_failed">Installation fehlgeschlagen, keine zugehörige Anwendung gefunden</string>
+  <string name="app_install_dialog_installing">Wird installiert, bitte warten</string>
+  <string name="app_install_dialog_negative_text">Abbrechen</string>
+  <string name="app_install_dialog_positive_text">Installieren</string>
+  <string name="app_install_dialog_search_failed">Zugehörige Anwendung konnte nicht gefunden werden</string>
+  <string name="app_install_dialog_searching">Suche nach zugehörigen Apps, bitte warten</string>
   <string name="app_installing">Installiert…</string>
   <string name="app_listitem_installing">Installieren</string>
   <string name="app_listitem_waiting">Auf Installation warten</string>
@@ -105,7 +105,7 @@
   <string name="cancel_timer">Timer abbrechen</string>
   <string name="cannot_be_used_in_current_mode">&lt;%1$s&gt; kann im aktuellen Modus nicht verwendet werden</string>
   <string name="carrier_data">Anbieter Info</string>
-  <string name="cast_screen">Mi TV</string> 
+  <string name="cast_screen">Mi TV</string>
   <string name="change_to_channel">Zu Kanal [%1$s] %2$s wechseln</string>
   <string name="channel">Kanal</string>
   <string name="channel_added_to_fav">%1$s zu Favorten hinzugefügt</string>
@@ -438,7 +438,7 @@
   <string name="minute">Minuten</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Kontrol-Version %1$s</string>
-  <string name="mitv_no_device">Kein TV zum verbinden gefunden. Verbinden Sie Ihr Handy mit dem selben WLAN wie Ihr Mi TV.</string> 
+  <string name="mitv_no_device">Kein TV zum verbinden gefunden. Verbinden Sie Ihr Handy mit dem selben WLAN wie Ihr Mi TV.</string>
   <string name="mode">Modus</string>
   <string name="month">Monat</string>
   <string name="month_day_format">dd. MMMM</string>
@@ -504,7 +504,7 @@
   <string name="passport_button_cancel">Abbrechen</string>
   <string name="passport_captcha">Code eingeben</string>
   <string name="passport_change_account">
-    <u>Benutzerkonto ändern</u>
+    &lt;u&gt;Benutzerkonto &amp;#228;ndern&lt;/u&gt;
   </string>
   <string name="passport_checking_account">Passwortüberprüfung…</string>
   <string name="passport_checking_input">Eingabeüberprüfung…</string>
@@ -552,7 +552,7 @@
   <string name="passport_failed_to_send_activate_email">"Aktivierungs-E-Mail konnte nicht gesendet werden"</string>
   <string name="passport_find_password_on_web_msg">Besuchen Sie account.mi.com um Ihr Passwort zurückzusetzen.</string>
   <string name="passport_forget_password">
-    <u>Passwort vergessen</u>
+    &lt;u&gt;Passwort vergessen&lt;/u&gt;
   </string>
   <string name="passport_forget_password_no_underline">Passwort vergessen</string>
   <string name="passport_get_back_pwd">Kontopasswort wiederherstellen</string>
@@ -577,7 +577,7 @@
   <string name="passport_login_short">Anmelden</string>
   <string name="passport_login_title">Beim Mi Konto anmelden</string>
   <string name="passport_login_with_email_or_id">
-    <u>Mit E-Mail Adresse oder Mi Konto ID anmelden</u>
+    &lt;u&gt;Mit E-Mail Adresse oder Mi Konto ID anmelden&lt;/u&gt;
   </string>
   <string name="passport_next">Weiter</string>
   <string name="passport_notification_title">Anmeldefehler für %1$s</string>
@@ -587,7 +587,7 @@
   <string name="passport_prev">Zurück</string>
   <string name="passport_privacy_policy">Datenschutz-Bestimmungen</string>
   <string name="passport_provision_skip_login">
-    <u>Diesen Schritt überspringen</u>
+    &lt;u&gt;Diesen Schritt &amp;#252;berspringen&lt;/u&gt;
   </string>
   <string name="passport_quick_login_dialog_step2_title">2-Schritt Verifizierung</string>
   <string name="passport_quick_login_dialog_title">Passwort bestätigen</string>
@@ -603,7 +603,7 @@
   <string name="passport_reg_success_summary">%1$s wurde mit Ihrem Konto verknüpft. Sie können sich damit anmelden oder Ihr Passwort zurücksetzen.</string>
   <string name="passport_reg_type_email">Konto per E-Mail erstellen</string>
   <string name="passport_reg_type_other_ways">
-    <u>Konto auf andere Art erstellen</u>
+    &lt;u&gt;Konto auf andere Art erstellen&lt;/u&gt;
   </string>
   <string name="passport_reg_type_other_ways_title">Konto auf andere Art erstellen</string>
   <string name="passport_reg_using_other_phone">Mit einer anderen Telefonnummer registrieren</string>
@@ -615,7 +615,7 @@
   <string name="passport_register_account_goto_email">Ihren Posteingang überprüfen</string>
   <string name="passport_register_account_verified_confirm">"Konto bestätigt"</string>
   <string name="passport_register_by_email">
-    <u>Per E-Mail ein Konto erstellen</u>
+    &lt;u&gt;Per E-Mail ein Konto erstellen&lt;/u&gt;
   </string>
   <string name="passport_register_restricted">Mit dieser Nummer sind zu viele konten verknüpft, versuchen Sie eine andere</string>
   <string name="passport_register_restricted_title">Diese Nummer kann nicht verwendet werden</string>
@@ -653,7 +653,7 @@
   <string name="passport_verify">Bestätigen</string>
   <string name="passport_wait_for_sms_prompt">"Von vorne beginnen? Verifikationsnachrichten brauchen evtl. 10 Minuten bis Sie auf Ihrem Telefn zugestellt werden."</string>
   <string name="passport_welcome_skip_login">
-    <u>Diesen Schritt überspringen</u>
+    &lt;u&gt;Diesen Schritt &amp;#252;berspringen&lt;/u&gt;
   </string>
   <string name="passport_wrong_captcha">Der von Ihnen eingegebene Code ist falsch</string>
   <string name="passport_wrong_password">Das Passwort ist falsch</string>
@@ -843,7 +843,7 @@
   <string name="supported_by_kookong">Technischer Support by Youku</string>
   <string name="supporting_soon">Kommt bald</string>
   <string name="switch_place">Standort ändern</string>
-  <string name="tab_live">Wundervolles Leben</string> 
+  <string name="tab_live">Wundervolles Leben</string>
   <string name="technical_support"/>
   <string name="temperature">Temperatur</string>
   <string name="temprature_frame">%1$d ?</string>
