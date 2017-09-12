@@ -1,9 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
+  <!-- To Translate -->
+  <string name="agree">Agree</string>
+  <string name="phone_get_processing">getting…</string>
+  <string name="phone_get_text">Do you agree %1$s to get your phone number: %2$s</string>
+  <string name="phone_get_title">Agree %1$s to get your phone number</string>
+  <string name="phone_verify_processing">verifying…</string>
+  <string name="phone_verify_text">%1$s will not get your phone number. Just verify your phone number is match.</string>
+  <string name="phone_verify_title">Agree %1$s to verify your phone number</string>
+	 
   <string name="activate_feature_default_name">Mi Service</string>
   <string name="activate_feature_mi_roaming">Mi Roaming</string>
-
   <string name="accept">OK</string>
   <string name="activate">Aktivieren</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS gesendet um \"Gerät finden\" zu aktivieren</string>
@@ -20,10 +27,10 @@
   <string name="activate_feature_verify_mx_token">Mi Konto überprüfung</string>
   <string name="activate_history_canceled_overview">Aktivierung der SIM-Karte wurde abgebrochen. Aktivierung wird mit \"%1$s\" ausgelöst.</string>
   <string name="activate_history_cancelled">abgebrochen</string>
-  <string name="activate_history_multisim_canceled_overview" formatted="false">Aktivierung der SIM-Karte %2$d wurde abgebrochen. Aktivierung wird mit \"%1$s\" ausgelöst.</string>
-  <string name="activate_history_multisim_overview" formatted="false">Aktivierung der SIM-Karte %3$d %1$s. Es wird mit \"%2$s\" ausgelöst.</string>
-  <string name="activate_history_multisim_success_overview" formatted="false">SIM-Karte %2$d wurde erfolgreich aktiviert. Es wird mit \"%1$s\" ausgelöst.</string>
-  <string name="activate_history_overview" formatted="false">Aktivierung für SIM-Karte %1$s. Es wird ausgelöst mit der Funktion \"%2$s\".</string>
+  <string name="activate_history_multisim_canceled_overview">Aktivierung der SIM-Karte %2$d wurde abgebrochen. Aktivierung wird mit \"%1$s\" ausgelöst.</string>
+  <string name="activate_history_multisim_overview">Aktivierung der SIM-Karte %3$d %1$s. Es wird mit \"%2$s\" ausgelöst.</string>
+  <string name="activate_history_multisim_success_overview">SIM-Karte %2$d wurde erfolgreich aktiviert. Es wird mit \"%1$s\" ausgelöst.</string>
+  <string name="activate_history_overview">Aktivierung für SIM-Karte %1$s. Es wird ausgelöst mit der Funktion \"%2$s\".</string>
   <string name="activate_history_sms">Eine SMS wurde während des Aktivierungsvorgangs gesendet.</string>
   <string name="activate_history_success">Erfolgreich</string>
   <string name="activate_history_success_overview">SIM-Karte wurde wurde erfolgreich aktiviert. Es wird mit \"%1$s\" ausgelöst.</string>

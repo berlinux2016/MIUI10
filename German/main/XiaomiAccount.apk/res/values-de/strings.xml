@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- To Translate -->
+  <string name="account_error_invalid_user_name">"Name can't contain &lt;, >, /"</string>
+  <string name="passport_set">Set</string>
+  
   <string name="about_device_info">Geräteinfo anzeigen</string>
   <string name="access_denied">Zugang verweigert</string>
   <string name="access_token_expired_warning">Weibo Konto ist abgelaufen</string>
@@ -404,7 +408,7 @@
   <string name="passport_quick_login_dialog_title">Passwort eingeben</string>
   <string name="passport_quick_login_step2_title">2-Schritteverifikation</string>
   <string name="passport_quick_login_title">Passwort eingeben</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;"Sie haben keinen Mi Account? Erstellen Sie einen!."&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice">&lt;u&gt;"Sie haben keinen Mi Account? Erstellen Sie einen!"&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Code erneut abrufen</string>
   <string name="passport_re_register">Erneut anmelden</string>
   <string name="passport_recycle_account_prompt">Ist das Ihr Mi Konto?</string>
