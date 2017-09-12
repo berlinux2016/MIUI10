@@ -189,17 +189,20 @@
   <string name="add_a_language">Sprache hinzufügen</string>
   <string name="add_account_label">Konto hinzufügen</string>
   <string name="add_auto_startup_application">Autostartapps hinzufügen</string>
+  <string name="add_back_fingerprint_instruction_msg">Plazieren Sie Ihren Finger auf dem Sensor</string>
   <string name="add_device_admin">Aktivieren</string>
   <string name="add_device_admin_msg">Geräteadministrator aktivieren?</string>
   <string name="add_fingerprint_done_msg">Sie können Ihr Gerät nun mit Ihrem Fingerabdruck entsperren.</string>
   <string name="add_fingerprint_done_title">Fertig</string>
+  <string name="add_fingerprint_edge_instruction_msg"> Bewegen Sie den Finger, damit der Sensor die Kanten des Fingerabdrucks aufnehmen kann.</string>
+  <string name="add_fingerprint_edge_instruction_title">Bewegen Sie Ihren Finger ein wenig</string>
   <string name="add_fingerprint_failed_retry_text">Fingerabdruck konnte nicht hinzugefügt werden, versuchen Sie es noch einmal</string>
   <string name="add_fingerprint_finished_button_text">Fertig</string>
   <string name="add_fingerprint_instruction_dialog_msg">
     "Um Ihre Fingerabdruckdetails hinzuzufügen, legen Sie Ihren Finger auf den Sensor.
     Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"
   </string>
-  <string name="add_fingerprint_instruction_msg">Entsperren Sie Ihr Gerät oder bestätigen Sie Ihre Bezahlung mit Ihrem Fingerabdruck</string>
+  <string name="add_fingerprint_instruction_msg">Der Fingerabdrucksensor befindet sich in der Hometaste ihres Gerätes.</string>
   <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf den Scanner</string>
   <string name="add_fingerprint_name_suggest_text">Fingerabdruckbezeichnung</string>
   <string name="add_fingerprint_put_finger_edge_msg">Nach dem Drücken des Sensors, entfernen Sie den Finger und versuchen es erneut.</string>
@@ -209,6 +212,7 @@
   <string name="add_fingerprint_success_msg">Erfolgreich hinzugefügt</string>
   <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
   <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Scanner</string>
+  <string name="add_front_fingerprint_instruction_msg">Der Fingerabdrucksensor befindet sich auf der Rückseite Ihres Gerätes.</string>
   <string name="add_new">Hinzufügen</string>
   <string name="add_rule">Regeln hinzufügen</string>
   <string name="add_virtual_keyboard">Tastaturen verwalten</string>
@@ -4640,7 +4644,19 @@
   <string name="settings_shortcut">Einstellungsverknüpfung</string>
   <string name="settings_summary">Telefon- und Nachrichteneinstellungen</string>
   <string name="settings_toggle_position_divider_list">Schalter über der Trennlinie sind aktiv</string>
-  <string name="settings_toggle_position_divider_page">%1$d Schalter über der Trennlinie sind aktiviert</string>
+  <string name="setup_add_fingerprint_failed_retry_text">Fingerabdruck hinzufügen fehlgeschlagen</string>
+  <string name="setup_choose_unlock_fingerprint_msg">Sie müssen eine Bildschirmsperre einrichten, bevor Sie ein Fingerabdruck hinzufügen können</string>
+  <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Passwort&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Passwort&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_mixpassword_title">Passwort festlegen</string>
+  <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_password_msg">4 Nummern eingeben</string>
+  <string name="setup_choose_unlock_password_title">PIN festlegen</string>
+  <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Pattern&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Pattern&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_pattern_title">Sperrmuster zeichnen</string>
+  <string name="setup_choose_unlock_type_title">Passwort festlegen</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Sie haben sich entschieden, Ihren Fingerabdruck als eine Möglichkeit zu verwenden, um Ihr Telefon zu entsperren. Wenn Sie jetzt überspringen, müssen Sie dieses später einstellen. Setup dauert nur eine Minute oder so.</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Fingerabdruck-Einstellungen überspringen?</string>
   <string name="setup_fingerprint_enroll_finish_message">Tippen Sie einfach auf den Fingerabdrucksensor, um Ihr Gerät aufzuwecken oder zu entsperren.</string>
@@ -4649,6 +4665,8 @@
   <string name="setup_lock_settings_picker_fingerprint_message">Ihr Fingerabdruck kann weniger sicher sein als ein starkes Muster, eine PIN oder ein Kennwort. Für zusätzliche Sicherheit, richten Sie eine Bildschirmsperre ein.</string>
   <string name="setup_lock_settings_picker_message">Verhindern Sie, dass andere Benutzer dieses Telefon ohne Ihre Erlaubnis verwenden, in dem Sie Geräte-Schutz-Funktionen aktivieren. Wählen Sie die gewünschte Bildschirm-Sperre aus.</string>
   <string name="setup_lock_settings_picker_title">Schützen Sie Ihr Telefon</string>
+  <string name="setup_password_back">Zurück</string>
+  <string name="setup_password_confirm">OK</string>
   <string name="setup_wifi_nfc_tag">WLAN NFC-Tag Einrichten</string>
   <string name="setup_wizard_back_button_label">Zurück</string>
   <string name="setup_wizard_next_button_label">Weiter</string>

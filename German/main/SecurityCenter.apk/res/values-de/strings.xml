@@ -1585,6 +1585,7 @@
   <string name="network_speed_for_apps_others">Andere</string>
   <string name="network_speed_for_apps_title">Verbindung</string>
   <string name="network_speed_for_apps_total">Verbindungsgeschwindigkeit</string>
+  <string name="network_test_speed">WLAN Geschwindigkeit testen</string> 
   <string name="networkchanged_exception_summary">Netzwerkverbindung wurde gewechselt. Bitte erneut testen.</string>
   <string name="networkchanged_exception_title">Verbindung gewechselt</string>
   <string name="never">1 Mal</string>
@@ -2439,7 +2440,6 @@
   <string name="start_diagnostic_botton">Starten</string>
   <string name="start_downloading_app">Download wird gestartet: %1$s</string>
   <string name="start_install">Jetzt installieren</string>
-  <string name="start_tc_button">Kalibrieren</string>
   <string name="stop_app_button">Stopp</string>
   <string name="suffix_pay_risk_count_bottom">Risiken</string>
   <string name="suffix_pay_risk_count_top">Bezahlung</string>
@@ -2803,7 +2803,7 @@
   <string name="traffic_saving_start_tip_title">Aktivieren</string>
   <string name="traffic_saving_tecsupport">Bereitgestellt von Opera</string>
   <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
-  <string name="traffic_saving_title">Datenreduzierer</string>
+  <string name="traffic_saving_title">Datenreduzierer</string> 
   <string name="traffic_saving_toast_start_mobile">Datenreduzierer ist ein</string>
   <string name="traffic_saving_toast_start_none_mobile">Datenreduzierer startet automatisch, wenn Sie die mobile Datenverbindung nutzen</string>
   <string name="traffic_saving_toast_start_unreachable">Datenreduzierer kann nicht gestartet werden</string>
@@ -2815,7 +2815,7 @@
   <string name="traffic_saving_whitelist_btn_removed">Die App wurde von der Liste entfernt</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; Apps' Datennutzung ist nicht begrenzt"</string>
   <string name="traffic_saving_whitelist_no_app">Keine Apps</string>
-  <string name="traffic_saving_wifi_usage">WLAN-Verbrauch</string>
+  <string name="traffic_saving_wifi_usage">WLAN Verbrauch</string>
   <string name="traffic_setting_app_count">%d Apps</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Datentarif und Verbrauchslimit festlegen</string>
@@ -2823,17 +2823,20 @@
   <string name="traffic_setting_extra_pkg_title">Weitere Einstellungen</string>
   <string name="traffic_setting_extra_traffic_title">Weitere Einstellungen</string>
   <string name="traffic_setting_fragment_area">Standort</string>
-  <string name="traffic_setting_fragment_area_dual">%s Standort</string>
   <string name="traffic_setting_fragment_brand">Marke</string>
   <string name="traffic_setting_fragment_button1_text">Abbrechen</string>
   <string name="traffic_setting_fragment_button2_text">Speichern</string>
+  <string name="traffic_setting_fragment_city">Stadt</string>
+  <string name="traffic_setting_fragment_default">Auswählen</string>
   <string name="traffic_setting_fragment_find_brand">Marke suchen?</string>
-  <string name="traffic_setting_fragment_get_template_falure">"Kann nicht zum Netzwerk verbinden. Überprüfe die Verbindung und versuche es erneut."</string>
-  <string name="traffic_setting_fragment_loacation_alert_nomore">"Nicht mehr anzeigen"</string>
+  <string name="traffic_setting_fragment_get_template_falure">Kann nicht zum Netzwerk verbinden. Überprüfe die Verbindung und versuche es erneut.</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">Nicht mehr anzeigen</string>
   <string name="traffic_setting_fragment_loading_text">Fordere Netzwerkinformationen an…</string>
   <string name="traffic_setting_fragment_no_network">"Kann nicht zum Netzwerk verbunden werden"</string>
   <string name="traffic_setting_fragment_null">Leer</string>
   <string name="traffic_setting_fragment_operator">Mobilfunkbetreiber</string>
+  <string name="traffic_setting_fragment_operator_setting">Einstellungen Mobilfunkbetreiber</string>
+  <string name="traffic_setting_fragment_province">Region</string>
   <string name="traffic_setting_fragment_send_num">Nummer des Mobilfunkbetreibers</string>
   <string name="traffic_setting_fragment_send_num_tips">Telefonnummer eingeben</string>
   <string name="traffic_setting_fragment_sms_content">Nachrichteninhalt</string>
