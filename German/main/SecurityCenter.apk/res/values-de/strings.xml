@@ -120,7 +120,7 @@
   <string name="firewall_wifi_dialog_message">Die installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter ausgeschaltet ist.</string>
   <string name="forget_password_button_text_normal">Passwort vergessen</string>
   <string name="free_send_net_booster">Netzwerk Speed Booster</string>
-  <string name="free_send_net_booster_tip">Genießen Sie ein reibungsloses Spieleerlebnis mit dem kostenlosen Netzwerk Speed Booster .</string>
+  <string name="free_send_net_booster_tip">Genießen Sie ein reibungsloses Spieleerlebnis mit dem kostenlosen Netzwerk Speed Booster.</string>
   <string name="function_close">Aus</string>
   <string name="game_booster">Game Speed Sooster</string>
   <string name="game_booster_intro">Über Game Speed Booster</string>
@@ -153,7 +153,7 @@
   <string name="gs_open_game_booster">Geschwindigkeit optimieren</string>
   <string name="gs_performance_mode">Leistungsmodus</string>
   <string name="gs_performance_mode_detail">CPU Auslastung erhöhen, um eine nahtlose Leistung zu gewährleisten</string>
-  <string name="hints_scan_result_no_finish">"Scan nicht abgeschlossen. Tippem zum erneut versuchen.</string>
+  <string name="hints_scan_result_no_finish">Scan nicht abgeschlossen. Tippem zum erneut versuchen.</string>
   <string name="i_know">Verstanden</string>
   <string name="im">IM</string>
   <string name="install">Installieren</string>
@@ -165,8 +165,8 @@
   <string name="keywords_buy_flow">Daten;Mobile Daten;Daten kaufen;Mobile Daten kaufen;Daten aufladen;Datenplan</string>
   <string name="keywords_usb_install">USB installieren;vom Computer installieren;mit ADB installieren</string>
   <string name="loading">Einen Moment…</string>
-  <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Fingerabdruck konnte nicht erkannt werden, erneut versuchen."</string>
-  <string name="lockpattern_access_need_to_unlock_wrong_pattern">Passwort ist falsch, erneut versuchen.</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Fingerabdruck konnte nicht erkannt werden. Erneut versuchen.</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_pattern">Passwort ist falsch. Erneut versuchen.</string>
   <string name="loding">Lade Daten</string>
   <string name="log_count">(%d)</string>
   <string name="low_memory_warning_dialog_cancel_button">Abbrechen</string>
@@ -188,19 +188,17 @@
   <string name="memory_cleaned_memory_up">Geschwindigkeitsoptimierung</string>
   <string name="memory_clear_unused">Bereinige Cache (%s)</string>
   <string name="menu_item_install_debug_package">Installiere Debugpaket</string>
-  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
+  <string name="menu_text_networkassistants_data">%1$s %2$s</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Geschwindigkeit optimieren</string>
-  <string name="modify_password_mode">
-    <u>Passworttyp ändern</u>
-  </string>
+  <string name="modify_password_mode"><u>Passworttyp ändern</u></string>
   <string name="more_game">Mehr Spiele</string>
   <string name="name">Name</string>
   <string name="net_booster">Netzwerkgeschwindigkeit optimieren</string>
-  <string name="net_booster_expire_notification">Netzwerkoptimierung ist fast zu Ende </string>
+  <string name="net_booster_expire_notification">Netzwerkoptimierung ist fast zu Ende</string>
   <string name="net_booster_overdue_notification">Netzwerkoptimierung wird beendet</string>
   <string name="net_booster_overdue_notification_tip">Die Netzwerkoptimierung wird jeden Moment beendet. Sitzung erneuern?</string>
   <string name="net_booster_tip">Aktivieren Sie die Netzwerkoptimierung, um die WLAN Verbindung stabiler zu machen und Netzwerkverzögerungen zu reduzieren.</string>
@@ -218,10 +216,7 @@
   <string name="om_cpu_overload_detail">%1$s nutze Prozessorleistung für %2$s</string>
   <string name="om_cpu_overload_proc_activity_title">Probleme</string>
   <string name="om_cpu_overload_proc_title">Probleme</string>
-  <string name="om_cpu_usage_warn_title_text">
-    "Diese App verlangsamt
-    ihr Gerät"
-  </string>
+  <string name="om_cpu_usage_warn_title_text">Diese App verlangsamtihr Gerät</string>
   <string name="om_formatted_percent_string">%s%%</string>
   <string name="om_ill_proc_activity_title">Probleme</string>
   <string name="om_ill_proc_handle_uninstall_prompt">Deinstallieren Sie diese App, um Probleme mit dem Akkuverbrauch zu beheben.</string>
@@ -242,10 +237,7 @@
   <string name="om_lock_app_locked_app_occupy_memory">Zu viele Apps sperren reduziert die Leistung Ihres Handys</string>
   <string name="om_lock_app_tip_msg">Zum Sperren tippen</string>
   <string name="om_lock_app_unlocked_app">Entsperrt</string>
-  <string name="om_media_scan_time_warn_title">
-    "Der Medienserver arbeitet im Hintergrund.
-    Diese Aktivität verkürzt die Akkulaufzeit."
-  </string>
+  <string name="om_media_scan_time_warn_title">Der Medienserver arbeitet im Hintergrund. Diese Aktivität verkürzt die Akkulaufzeit.</string>
   <string name="om_media_scan_timeout_proc_detail">Der Medienserver arbeitet im Hintergrund. Sie können dies einschränken.</string>
   <string name="om_media_scan_timeout_proc_name">Medienserver</string>
   <string name="om_memory_clean_cleaning_text">Geschwindigkeit optimieren…</string>
@@ -280,7 +272,7 @@
   <string name="password_forget_pattern_message_none">Apps sind nicht gesperrt. Sie können Ihr Passwort zurücksetzen.</string>
   <string name="password_forget_pattern_reset">Zurücksetzen</string>
   <string name="password_forget_pattern_title">Vorsicht</string>
-    <string name="password_xspace_forget_pattern_message">Um Ihr Zweitprofilpasswort zu ändern, sollten Sie Ihr aktuelles Zweitprofil löschen und ein neues erstellen.</string>
+  <string name="password_xspace_forget_pattern_message">Um Ihr Zweitprofilpasswort zu ändern, sollten Sie Ihr aktuelles Zweitprofil löschen und ein neues erstellen.</string>
   <string name="pc_activity_title">Akku optimieren</string>
   <string name="percent_formatted_text">%s%%</string>
   <string name="percent_text_formatted">%s%%</string>
@@ -296,7 +288,7 @@
   <string name="pref_title_upload_data_usage">Datenverbrauchsstatistik übermitteln</string>
   <string name="prompt_all">Für jeden nachfragen</string>
   <string name="receive_now">Erhalten</string>
-  <string name="release_meminfo">%dMB frei machen</string>
+  <string name="release_meminfo">%d MB frei machen</string>
   <string name="release_memory">Cache bereinigen</string>
   <string name="renew_now">Aktualisieren</string>
   <string name="risk_count_suffix" />
@@ -330,8 +322,8 @@
   <string name="st_call_settings">Anruf Sperrliste</string>
   <string name="st_call_stranger_group">Anrufe von Unbekannten blockieren</string>
   <string name="st_confirm_dialog_btn_open">Öffnen</string>
-  <string name="st_confirm_dialog_summary_contact_call">Alle Anrufe von Kontakten werden blockiert.</string>
-  <string name="st_confirm_dialog_summary_stranger_call">Alle Anrufe von Unbekannten werden blockiert.</string>
+  <string name="st_confirm_dialog_summary_contact_call">Alle Anrufe von Kontakten werden blockiert</string>
+  <string name="st_confirm_dialog_summary_stranger_call">Alle Anrufe von Unbekannten werden blockiert</string>
   <string name="st_group_list_management">Sperrliste verwalten</string>
   <string name="st_share_settings">Einstellungen von SIM 1 nutzen</string>
   <string name="st_tab_title">%1$s (SIM %2$d)</string>
@@ -343,16 +335,14 @@
   <string name="support_game_booster_tips">Geschwindigkeit optimieren &amp; Spielerfahrung verbessern</string>
   <string name="sys_cpu_title">CPU Nutzung</string>
   <string name="sys_freememory_title">Verfügbar</string>
-  <string name="sys_title_gamebooster_unit_gb">G</string>
-  <string name="sys_title_gamebooster_unit_mb">M</string>
+  <string name="sys_title_gamebooster_unit_gb">GB</string>
+  <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="tab_gift">Geschenke</string>
   <string name="tab_guide">Guide</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Ergebnis: Falscher Netzanbietername&lt;br/>&lt;br/>Setze: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Aktueller Betreiber: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
-  <string name="tc_diagnostic_fragment_default">
-    "Über Diagnose
+  <string name="tc_diagnostic_fragment_default">"Über Diagnose
     1. Das Gerät stellt eine Verbindung zum Netzwerk des Netzbetreibers her, sendet eine kostenlose Nachricht und wartet auf die Antwort des Netzbetreibers. Das kann bis zu 5 Minuten dauern.
-    2. Sie können diese Seite während der Diagnose verlassen, sie wird im Hintergrund ausgeführt."
-  </string>
+    2. Sie können diese Seite während der Diagnose verlassen, sie wird im Hintergrund ausgeführt."</string>
   <string name="tc_diagnostic_notification_summary">Justierung 5 Mal hintereinander fehlgeschlagen. Tippen, um Diagnose zu starten.</string>
   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Ergebnis: Falscher Netzanbieter&lt;br/>&lt;br/>Setze Anbieter: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Aktueller Betreiber: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Ergebnis: Diagnose konnte nicht abgeschlossen werden&lt;br/>&lt;br/>Diesen Fehler melden, um die MIUI Diagnose zu verbessern&lt;/font>"</string>
@@ -379,17 +369,15 @@
   <string name="uninstall_danagerous_desc">\"%s\" kann Ihr Gerät beschädigen</string>
   <string name="uninstall_danagerous_msg">\"%s\" kann Ihr Gerät beschädigen, die Leistung beeinträchtigen oder ungewollte Neustarts verursachen.</string>
   <string name="uninstall_danagerous_title">Bösartige Apps deinstallieren</string>
-  <string name="unlock_pattern">
-    <u>Muster</u>
-  </string>
+  <string name="unlock_pattern"><u>Muster</u></string>
   <string name="unlock_pattern_to_bind_fingerprint">Passwort eingeben um Fingerabruckerkennung zu aktivieren</string>
-  <string name="virus_auto_update_engine">Automatische Updates：%s</string>
+  <string name="virus_auto_update_engine">Automatische Updates: %s</string>
   <string name="website">Website</string>
   <string name="wifi_optizition_loading">Xunyou Network Speed Boost aktivieren…</string>
   <string name="wifi_optizition_tip">WLAN Geschwindigkeitsoptimierung aktivieren, um die WLAN Verbindung stabiler zu machen. Dazu werden zu einem kleinen Teil mobile Daten genutzt.</string>
   <string name="wifi_optizition_title">WLAN Geschwindigkeitsoptimierung</string>
   <string name="wlan_booster">WLAN Geschwindigkeitsoptimierung</string>
-  <string name="wlan_change_protection_detail">Automatischen wechsel in ein WLAN Netzwerk bei aktivierten mobilen Daten verhindern"</string>
+  <string name="wlan_change_protection_detail">Automatischen wechsel in ein WLAN Netzwerk bei aktivierten mobilen Daten verhindern</string>
   <string name="wlan_change_protection_title">Netzwerkwechsel verhindern</string>
   <string name="xunyou_pay_webview">Xunyou Dienste</string>
 
