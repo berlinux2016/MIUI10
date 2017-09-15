@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="account_error_invalid_user_name">"Name can't contain &lt;, >, /"</string>
-  <string name="passport_set">Set</string>
-  
   <string name="about_device_info">Geräteinfo anzeigen</string>
   <string name="access_denied">Zugang verweigert</string>
   <string name="access_token_expired_warning">Weibo Konto ist abgelaufen</string>
@@ -21,6 +17,7 @@
   <string name="account_dspt_provision2">Mehr erfahren</string>
   <string name="account_empty_user_name">Mi Konto-Benutzername eingeben</string>
   <string name="account_error_all_space_user_name">Name darf nicht nur Leerzeichen enthalten</string>
+  <string name="account_error_invalid_user_name">"Name darf diese Zeichen nicht enthalten &lt;, >, /"</string>
   <string name="account_error_longer_user_name">"Maximal 20 Zeichen"</string>
   <string name="account_error_shorter_user_name">Der Name muss mehr als 2 Zeichen haben</string>
   <string name="account_error_user_birthday">Der von Ihnen eingegebene Geburtstag ist ungültig</string>
@@ -42,9 +39,9 @@
   <string name="account_security_info_pref_title">Sicherheitsinfos</string>
   <string name="account_security_question">Sicherheitsfrage</string>
   <string name="account_settings">Konto</string>
-  <string name="account_token_expired_msg">    
-    "Verifikationscode abgelaufen, erneut versuchen oder abmelden    
-    Ihre Account ID: %s"  </string>
+  <string name="account_token_expired_msg">    
+    "Verifikationscode abgelaufen, erneut versuchen oder abmelden    
+    Ihre Account ID: %s"  </string>
   <string name="account_token_expired_title">Authentifikation fehlgeschlagen</string>
   <string name="account_user_avatar">Profilfoto</string>
   <string name="account_user_avatar_from_album">Foto auswählen</string>
@@ -455,6 +452,7 @@
   <string name="passport_send_too_many_code">Es wurden zu viele Überprüfungscodes an diese Nummer versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
   <string name="passport_send_vcode_failed">"Konnte Code nicht senden"</string>
   <string name="passport_sending_vcode">Sende Code…</string>
+  <string name="passport_set">Festlegen</string>
   <string name="passport_setting">Einrichten…</string>
   <string name="passport_sim_index_info">SIM-Karte %1$d - %2$s</string>
   <string name="passport_skip_login">Anmeldung überspringen </string>

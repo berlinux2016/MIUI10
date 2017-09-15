@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="agree">Agree</string>
-  <string name="phone_get_processing">getting…</string>
-  <string name="phone_get_text">Do you agree %1$s to get your phone number: %2$s</string>
-  <string name="phone_get_title">Agree %1$s to get your phone number</string>
-  <string name="phone_verify_processing">verifying…</string>
-  <string name="phone_verify_text">%1$s will not get your phone number. Just verify your phone number is match.</string>
-  <string name="phone_verify_title">Agree %1$s to verify your phone number</string>
-	 
   <string name="activate_feature_default_name">Mi Service</string>
   <string name="activate_feature_mi_roaming">Mi Roaming</string>
   <string name="accept">OK</string>
@@ -121,10 +112,17 @@
   <string name="activate_status_desc_wait_for_sms_success">Aktivierungs-SMS erhalten</string>
   <string name="activate_status_title_activating">SIM-Karte wird aktiviert…</string>
   <string name="activate_status_title_activating_msim">SIM-Karte %d wird aktiviert…</string>
+  <string name="agree">Zustimmen</string>
   <string name="app_name">Xiaomi Aktivierungsservice für SIM-Karten</string>
   <string name="error_device_id_message">Ungültige Geräte-ID: %s</string>
   <string name="explain_send_sms_permission_button">Verifizieren</string>
   <string name="explain_send_sms_permission_msg">Zum Aktivieren Ihrer %s wird Xiaomi-Service eine SMS senden, um Ihre Telefonnummer zu verifizieren. Es fallen dafür Gebühren bei Ihrem Netzbetreiber an.</string>
   <string name="explain_send_sms_permission_title">Verifizieren Sie Ihre Telefonnummer</string>
+  <string name="phone_get_processing">erhalte…</string>
+  <string name="phone_get_text">Stimmen Sie zu, dass %1$s Ihre Telefonnummer erhalten darf: %2$s</string>
+  <string name="phone_get_title">%1$s erlauben die Telefonnummer zu erhalten</string>
+  <string name="phone_verify_processing">verifiziere…</string>
+  <string name="phone_verify_text">%1$s erhält Ihre Telefonnummer nicht. Überprüfen Sie einfach, ob Ihre Telefonnummer stimmt.</string>
+  <string name="phone_verify_title">%1$s zustimmen um die Telefonnummer zu verifizieren</string>
   <string name="sim_unactivated_title">SIM-Karte ist nicht aktiviert</string>
 </resources>
