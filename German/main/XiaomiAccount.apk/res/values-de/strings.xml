@@ -24,6 +24,7 @@
   <string name="account_has_been_set">Ändern</string>
   <string name="account_learn_more_title">Mi Konto erstellen</string>
   <string name="account_limit_update_birthday">Geburtstag kann momentan nicht aktualisiert werden</string>
+  <string name="account_mibi_center">Mibi Center</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_name">Konto: %1$s</string>
   <string name="account_no_set">Kein</string>
@@ -175,11 +176,11 @@
   <string name="find_device_io_error">Keine Netzwerkverbindung</string>
   <string name="find_device_locked_account_email" formatted="false">%s, verknüpfte E-Mail-Adresse: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, verknüpfte Telefonnummer: %s</string>
-  <string name="find_device_message">Das Gerät ist gesperrt. Nachricht: %1$s, Nummer zum kontaktieren: %2$s.</string>
+  <string name="find_device_message">Das Gerät ist gesperrt. Nachricht: %1$s. Telefonnummer: %2$s.</string>
   <string name="find_device_null_credential_error">"Geräteinformation kann nicht gelesen werden, kontaktieren Sie den Xiaomi Kundenservice"</string>
   <string name="find_device_operation_failed_error">Ein Fehler ist aufgetreten</string>
   <string name="find_device_operation_failed_error_unknown">Ein Fehler ist aufgetreten, versuchen Sie es später</string>
-  <string name="find_device_owner_phone">Das Gerät ist gesperrt. Nummer zum kontaktieren: %1$s.</string>
+  <string name="find_device_owner_phone">Das Gerät ist gesperrt. Telefonnummer: %1$s.</string>
   <string name="find_device_prompt_message">Das Gerät ist gesperrt. Nachricht: %1$s.</string>
   <string name="find_device_remote_exception">RPC-Fehler</string>
   <string name="find_device_request_error">Status kann nicht überprüft werden, versuchen Sie es später</string>
@@ -369,7 +370,6 @@
   <string name="passport_input_phone_hint">Telefonnummer eingeben</string>
   <string name="passport_input_vcode_hint">Bestätigungscode eingeben</string>
   <string name="passport_input_verify_code_hint">Bestätigungscode eingeben</string>
-  <string name="passport_instant_login">Anmelden</string>
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Anmelden</string>
   <string name="passport_login_check_find_device">Gerätelokalisierungstatus wird überprüft…</string>
@@ -390,6 +390,7 @@
   <string name="passport_message_dialog_title">SMS mit Überprüfungscodes</string>
   <string name="passport_miui_provision_find_status_text">Dieses Gerät ist mit einem vorhandenen Mi Konto （%1$s） verbunden, geben Sie das Kennwort ein, um das Gerät zu entsperren. (Entsperrnummer: %2$s) </string>
   <string name="passport_next">Weiter</string>
+  <string name="passport_no">Nein</string> 
   <string name="passport_notification_title">Fehler bei der Anmeldung für %1$s</string>
   <string name="passport_password">Passwort eingeben</string>
   <string name="passport_password_phone_login">Mit Mi Account anmelden</string>
@@ -405,6 +406,7 @@
   <string name="passport_quick_login_dialog_title">Passwort eingeben</string>
   <string name="passport_quick_login_step2_title">2-Schritteverifikation</string>
   <string name="passport_quick_login_title">Passwort eingeben</string>
+  <string name="passport_quick_register">Registrieren</string>
   <string name="passport_quick_register_notice">&lt;u&gt;"Sie haben keinen Mi Account? Erstellen Sie einen!"&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Code erneut abrufen</string>
   <string name="passport_re_register">Erneut anmelden</string>
@@ -453,6 +455,7 @@
   <string name="passport_send_vcode_failed">"Konnte Code nicht senden"</string>
   <string name="passport_sending_vcode">Sende Code…</string>
   <string name="passport_set">Festlegen</string>
+  <string name="passport_set_password_no_phone_msg">Um Ihre Daten zu schützen, verknüpfen Sie bitte zuerst Ihr Telefon</string>
   <string name="passport_setting">Einrichten…</string>
   <string name="passport_sim_index_info">SIM-Karte %1$d - %2$s</string>
   <string name="passport_skip_login">Anmeldung überspringen </string>
@@ -460,8 +463,8 @@
   <string name="passport_skip_setup_account_msg">Sie können ein Mi Konto später in den Einstellungen einrichten</string>
   <string name="passport_skip_setup_account_title">Einrichtung überspringen</string>
   <string name="passport_sms_send_success">Gesendet</string>
-  <string name="passport_sync_account_data">Accountdaten syncen</string>
-  <string name="passport_sync_account_data_failed_warning">Ihr Account ist veraltet und Sie werden nun mit Ihrem Mi Account angemeldet。Wenn Sie Ihre Email/Telefonnummer zum anmelden nutzen, warten Sie ein paar Minuten</string>
+  <string name="passport_sync_account_data">Synchronisiere Accountdaten</string>
+  <string name="passport_sync_account_data_failed_warning">Ihre Kontoinformationen werden jetzt synchronisiert, Sie können sich mit Ihrer Mi Account ID anmelden. Wenn Sie sich mit Ihrem Telefon oder E-Mail anmelden möchten, warten Sie, bis die Daten vollständig synchronisiert sind.</string>
   <string name="passport_title_reg">Konto erstellen</string>
   <string name="passport_trust_device">Diesem Gerät vertrauen</string>
   <string name="passport_trying_read_verify_code_sms">Verfikationscode anfordern…</string>
@@ -490,6 +493,7 @@
   <string name="passport_wrong_password">Das Passwort ist falsch</string>
   <string name="passport_wrong_phone_number_format">Das Format der eingegebenen Mobilrufnummer ist ungültig</string>
   <string name="passport_wrong_vcode">Der eingegebene Code ist ungültig</string>
+  <string name="passport_yes">Ja</string>
   <string name="passport_xiaomi_account_dspt">Nutzen Sie Ihr Mi Konto um überall auf die Mi Cloud, den MIUI Theme Store und weitere Dienste zuzugreifen.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Zur Anmeldung deines Mi Kontos wird eine Internetverbindung benötigt. Anschließend wird die Standortbestimmung, die Mi Cloud und Mi VIP automatisch eingeschaltet.</string>

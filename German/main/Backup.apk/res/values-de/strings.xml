@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To be formatted -->
-  <string name="backup_security_tips_message">Einige Apps können möglicherweise nicht gesichert oder wiederhergestellt werden.</string>
-  <string name="backup_security_tips_title">Backups funktionieren möglicherweise nicht</string>
-  <string name="btn_got_it">Verstanden</string>
-  <string name="trans_security_tips_message">Einige Apps unterstützen Mi Mover nicht</string>
-  <string name="trans_security_tips_title">Mi Mover Unterstützung</string>
-	 
   <string name="abort_backup_confirm">Sicherung nicht abgeschlossen. Trotzdem abbrechen?</string>
   <string name="abort_restore_confirm">Wiederherstellung nicht abgeschlossen. Trotzdem abbrechen?</string>
   <string name="account_contact_backup_info">Google, Mi Konto und Kontaktdaten</string>
@@ -48,8 +41,11 @@
   <string name="backup_new">Neu:</string>
   <string name="backup_progress">Sichern…</string>
   <string name="backup_report">Details anzeigen</string>
+  <string name="backup_security_tips_message">Einige Apps können möglicherweise nicht gesichert oder wiederhergestellt werden.</string>
+  <string name="backup_security_tips_title">Backups funktionieren möglicherweise nicht</string>
   <string name="backup_update">Aktualisieren</string>
   <string name="batch_delete_backup_confirm">Ausgewählte Sicherungen löschen?</string>
+  <string name="btn_got_it">Verstanden</string>
   <string name="button_backup">Sichern</string>
   <string name="button_cancel">Abbrechen</string>
   <string name="button_continue">Fortsetzen</string>
@@ -169,6 +165,7 @@
   <string name="notif_trans_receiving_failed">Datenempfang fehlgeschlagen</string>
   <string name="notif_trans_sending_completed">Daten erfolgreich versandt</string>
   <string name="notif_trans_sending_failed">Datenversand fehlgeschlagen</string>
+  <string name="notif_trans_wait_for_reconnecting">Remotegerät getrennt. Bitte erneut verbinden.</string>
   <string name="page_loading">Einen Moment…</string>
   <string name="progress_backup_hint">Sichern…</string>
   <string name="progress_restore_hint">Wiederherstellen…</string>
@@ -176,6 +173,7 @@
   <string name="prompt_sending">Hochladen…</string>
   <string name="prompt_writing">Speichern…</string>
   <string name="read_encrypt_fail">"Verschlüsselte Sicherung konnte nicht gelesen werden"</string>
+  <string name="reconnect">Erneut verbinden</string>
   <string name="refresh">Aktualisieren</string>
   <string name="remote_receive">Empfangen</string>
   <string name="restore">Wiederherstellen</string>
@@ -267,6 +265,7 @@
   <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
   <string name="trans_cancel_confirm">Übertragung läuft. Jetzt abbrechen?</string>
   <string name="trans_cancelling">Abbrechen</string>
+  <string name="trans_connect_failed_device_incompatible">Gerät ist inkompatibel. Bitte brechen Sie den Übertragungsvorgang ab und versuchen Sie es erneut.</string>
   <string name="trans_connect_failed_message">"Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen &gt; Weitere Einstellungen &gt; Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut."</string>
   <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
   <string name="trans_connect_failed_toast">"Verbindung nicht möglich"</string>
@@ -277,6 +276,7 @@
   <string name="trans_detail_category_sysdata">Systemdaten</string>
   <string name="trans_detail_category_userdata">Apps</string>
   <string name="trans_device_disconnected">Gerät getrennt</string>
+  <string name="trans_device_wait_for_reconnecting">Gerät getrennt. Bitte verbinden Sie sich neu.</string>
   <string name="trans_generate_qr_code_failed">"QR Code konnte nicht erstellt werden"</string>
   <string name="trans_main_tutor">Kontakte, Anrufverlauf, Nachrichten, Bildschirmlayout, Apps, Einstellungen, usw. auf eine neues Gerät verschieben</string>
   <string name="trans_my_device">Mein Gerät</string>
@@ -303,6 +303,10 @@
     Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
     [Ich bin der Sender] antippen"
   </string>
+  <string name="trans_operate_reconnect_new_tips">"Warten bis das neue Gerät \"Gerät getrennt\" anzeigt.
+  Dann [Erneut verbinden] anklicken um einen QR Code zu erstellen."</string>
+  <string name="trans_operate_reconnect_old_tips">"Warten bis das alte Gerät \"Gerät getrennt\" anzeigt.
+  Dann [Erneut verbinden] anklicken um den QR Code zu scannen."</string>
   <string name="trans_please_waiting">Bitte warten ...</string>
   <string name="trans_progress_subdescript_br_receiver">Wiederherstellung von %1$s, %2$s abgeschlossen</string>
   <string name="trans_progress_subdescript_br_sender">Sicherung von %1$s, %2$s abgeschlossen</string>
@@ -326,6 +330,8 @@
   <string name="trans_retry">Wiederholen</string>
   <string name="trans_scan_invalid_qrcode">QR Code ungültig</string>
   <string name="trans_scan_qr_code_tips">Scannen Sie den QR-Code mit dem neuen Gerät</string>
+  <string name="trans_security_tips_message">Einige Apps unterstützen Mi Mover nicht</string>
+  <string name="trans_security_tips_title">Mi Mover Unterstützung</string>
   <string name="trans_select_data">Zu sendende Dateien auswählen</string>
   <string name="trans_select_data_no_space">
     "%s auf neuem Gerät verfügbar

@@ -2,15 +2,12 @@
 <resources>
   <string name="Active">Aktiv</string>
   <string name="PassWordGuard">Zweitprofilpasswort</string>
-  <string name="PrivacyContactDes1">
-    "Kontakte werden privat.
-    Nachrichten erhalten Sie nur im Zweitprofil."
-  </string>
-  <string name="PrivacyContactDes2">
-    "Wenn Sie private Nachrichten im Hauptprofil verwendet haben,
-    wird diese Funktion automatisch im Zweitprofil aktiviert."
-  </string>
+  <string name="PrivacyContactDes1">"Kontakte werden privat.
+    Nachrichten erhalten Sie nur im Zweitprofil."</string>
+  <string name="PrivacyContactDes2">"Wenn Sie private Nachrichten im Hauptprofil verwendet haben,
+    wird diese Funktion automatisch im Zweitprofil aktiviert."</string>
   <string name="add_finger_print">Fingerabdruck hinzufügen</string>
+  <string name="air_space_created">Arbeitsbereich erfolgreich erstellt</string>
   <string name="air_space_deleted">Arbeitsbereich erfolgreich gelöscht</string>
   <string name="air_space_exit">Arbeitsbereich verlassen</string>
   <string name="air_space_setting">Arbeitsbereich Einstellungen</string>
@@ -47,8 +44,7 @@
   <string name="confirm_restore">Nicht anzeigen</string>
   <string name="contactData">Kontakte</string>
   <string name="contact_sub_titile_text">Nachrichten werden zwischen beiden Profilen geteilt</string>
-  <string name="contact_titile_text">
-    "Private Nachrichten im Zweitprofil anzeigen
+  <string name="contact_titile_text">"Private Nachrichten im Zweitprofil anzeigen
     um sie jederzeit zu erhalten"
   </string>
   <string name="contact_us">Kontakt aufnehmen</string>
@@ -57,6 +53,7 @@
   <string name="createUserFail">Erstellen fehlgeschlagen</string>
   <string name="create_app_icon_failed">Verknüpfung konnte nicht erstellt werden</string>
   <string name="create_app_icon_success">Verknüpfung erstellt</string>
+  <string name="create_second_space">Erfolgreich erstellt</string>
   <string name="create_space_loading">Zweitprofil wird erstellt…</string>
   <string name="create_work_space">Arbeitsbereich erstellen</string>
   <string name="creating_app_icon">Verknüpfung wird erstellt…</string>
@@ -114,6 +111,10 @@
     Erreichen Sie das Zweitprofil vom Sperrbildschirm"
   </string>
   <string name="guide_setting_guide_title">Zweitprofil verwalten</string>
+  <string name="guide_start_ads_text">Ein völlig neues Sicherheitslevel</string>
+  <string name="guide_start_text">Zwei Profile. Ein Gerät.</string>
+  <string name="has_created_second_space">"Sie können das Zweitprofil jetzt öffnen.
+Zwei Profile. Ein Gerät. "</string>
   <string name="hidden_app">Zweitprofil</string>
   <string name="imageData">Fotos</string>
   <string name="import_application">Apps importieren</string>
@@ -129,6 +130,8 @@
   <string name="import_photo">Fotos importieren</string>
   <string name="import_photo_desc">Geteilte Ordner im Zweitprofil anzeigen</string>
   <string name="import_photo_suc">Importierte Fotos</string>
+  <string name="input_space_finger">Festlegen</string>
+  <string name="input_space_password">Festlegen</string>
   <string name="invalid_qr_code">Ungültiger QR code</string>
   <string name="list_empty_text">Leer</string>
   <string name="loading">Laden…</string>
@@ -172,6 +175,8 @@
   </string>
   <string name="privacyContactsSummary">Private Elemente im Zweitprofil anzeigen</string>
   <string name="privacyContactsTitle">Private Kontakte und Nachrichten</string>
+  <string name="privacy_password_fingerprint_dialog_message">Platziern Sie Ihren Finger auf dem Sensor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Scannen Sie Ihren Finger</string>
   <string name="private_sms_show_sub_title">Nachrichten Daten zwischen den Profilen synchronisieren​</string>
   <string name="private_sms_show_title">Private Nachrichten im Zweitprofil anzeigen</string>
   <string name="private_space_setting">Verwalten</string>
@@ -212,8 +217,11 @@
   <string name="setSecondSpacePassword">Zweitprofilpasswort festlegen</string>
   <string name="setSecondSpacePasswordGuide">Passwort für Zweitprofil festlegen</string>
   <string name="setSecondSpacePasswordGuideDes">Dieses Passwort verwenden, um vom Sperrbildschirm ins Zweitprofil gelangen</string>
-  <string name="setSpacePasswordGuide">Wählen Sie verschiedene Passwörter fest, um vom Sperrbildschirm ins jeweilige Profil zu gelangen</string>
+  <string name="setSpacePasswordGuide">Legen Sie verschiedene Passwörter fest, um vom Sperrbildschirm ins jeweilige Profil zu gelangen</string>
   <string name="setSuccess">Passwort festgelegt</string>
+  <string name="set_space_finger">Fingerabdruck festlegen</string>
+  <string name="set_space_finger_sub_text_suc">Fingerabdruck erfolgreich festgelegt</string>
+  <string name="set_space_password">Passwort festlegen</string>
   <string name="set_space_pwd_detail">Sie können das Zweitprofil mit diesem Passwort erreichen</string>
   <string name="set_space_pwd_suc">Zweitprofil Passwort festgelegt</string>
   <string name="setting_finger_print_sub_title">Vergewissern Sie sich, dass der Fingerabdruck unterschiedlich zum Hauptprofilfingerabdruck ist</string>
@@ -230,13 +238,20 @@
   <string name="settings_status_icon_title">Zweitprofilverknüpfung</string>
   <string name="settings_switch_shortcut_summary">Startbildschirmverknüpfung im Hauptprofil anzeigen</string>
   <string name="settings_switch_shortcut_title">Zum Umschalten die Verknüpfung antippen</string>
+  <string name="show_decktop_quick_switch_icon">Hauptbildschirmverknüpfung</string>
+  <string name="show_decktop_quick_switch_icon_detail">Eine Verknüpfung auf dem Hauptbildschrim erstellen um die Profile zu wechseln</string>
   <string name="show_normal_content">Private Elemente nicht anzeigen</string>
+  <string name="show_noti_from_owner">Notifications from the other space</string>
+  <string name="show_noti_from_owner_detail">Auf diesem Profil Benachrichtigungen erhalten wenn sie auf dem anderen ankommen</string>
+  <string name="show_noti_quick_switch_icon">Verknüpfung in der Benachrichtigungsleiste</string>
+  <string name="show_noti_quick_switch_icon_detail">Fügt eine Verknüpfung zum wechseln der Profile in die Benachrichtigungsleiste hinzu</string>
   <string name="show_private_content">Private Elemente anzeigen</string>
   <string name="show_private_msg">Private Nachrichten anzeigen</string>
   <string name="show_private_msg_summary">Private Nachrichten im Zweitprofil anzeigen</string>
   <string name="spaceSetting">Einstellungen</string>
   <string name="space_deleted">Dieser Speicher wurde gelöscht</string>
   <string name="space_des_default">Isolierter Bereich mit verschlüsselten Daten</string>
+  <string name="space_finger_sub_text">Fingerabdruck festlegen um schneller die Profile zu wechseln</string>
   <string name="space_name_default">Arbeitsbereich</string>
   <string name="startSet">Festlegen</string>
   <string name="startTransfer">Verschieben</string>
