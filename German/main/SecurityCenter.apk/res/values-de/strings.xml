@@ -30,13 +30,13 @@
   <string name="ac_summaryOff">Ausgeschaltet, es ist kein Entsperrmuster zum Öffnen von Apps erforderlich</string>
   <string name="ac_summaryOn">Eingeschaltet, es ist ein Entsperrmuster zum Öffnen von Apps erforderlich</string>
   <string name="access_control_app_is_launching">App wird gestartet</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Passwort ist erforderlich, um Apps zu öffnen</string>
-  <string name="access_control_fingerprint_not_identified_msg">Fingerabdruckscan fehlgeschlagen</string>
   <string name="access_control_need_password">"%s  erfolgreich hinzugefügt"</string>
   <string name="access_control_need_to_unlock">
     "Fingerabdruck scannen
     oder Passwort für Appsperre eingeben"
   </string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Passwort ist erforderlich, um Apps zu öffnen</string>
+  <string name="access_control_fingerprint_not_identified_msg">Fingerabdruckscan fehlgeschlagen</string>
   <string name="access_control_need_to_unlock_nofingerprint">Muster für Appsperre zeichnen</string>
   <string name="access_control_recording_intro_header">Muster zeichnen, um Appsperre hinzuzufügen</string>
   <string name="access_control_reset_by_account">Melden Sie sich mit Ihrem Mi Konto an, um die Appsperre zurücksetzen</string>
@@ -869,6 +869,7 @@
   <string name="forget_password_button_text">
     <u>Passwort vergessen</u>
   </string>
+  <string name="forget_password_button_text_normal">Passwort vergessen</string>
   <string name="forget_pattern">
     <u>Muster vergessen?</u>
   </string>
@@ -1003,11 +1004,11 @@
   <string name="i_know">Verstanden</string>
   <string name="im">IM</string>
   <string name="info_and_call">Anrufe und Nachrichten</string>
-  <string name="info_antispam_close">AntiSpam Off</string>
+  <string name="info_antispam_close">Sperrliste ist aus</string>
   <string name="info_antispam_current_mode">%s</string>
-  <string name="info_antispam_phone">Block calls</string>
-  <string name="info_antispam_phone_sms">Block calls and SMS</string>
-  <string name="info_antispam_sms">Block SMS</string>
+  <string name="info_antispam_phone">Blockiert Anrufe</string>
+  <string name="info_antispam_phone_sms">Blockiert Anrufe und SMS</string>
+  <string name="info_antispam_sms">Blockiert SMS</string>
   <string name="info_unantispam_phone">Anrufe erlauben</string>
   <string name="info_unantispam_phone_sms">Anrufe und SMS erlauben</string>
   <string name="info_unantispam_sms">SMS erlauben</string>
@@ -1141,6 +1142,7 @@
   <string name="main_button_usage_adjust">Datenverbrauch einstellen</string>
   <string name="main_button_usage_adjust_manual">Datenverbrauch einstellen</string>
   <string name="main_button_usage_adjusting">Wird geändert…</string>
+  <string name="main_button_usage_adjusting_bill">Lade…</string>
   <string name="main_button_usage_package_setting">Datenverbrauch einstellen</string>
   <string name="main_daily_package">Tägliches Datenvolumen</string>
   <string name="main_leisure_remained">Bis zur Verbrauchsgrenze verbleiben</string>
@@ -2530,6 +2532,7 @@
   <string name="tc_sms_report_get_success_notify_title">SMS über Datenverbrauchsübersicht erhalten</string>
   <string name="tc_sms_report_geting_sms">SMS-Details werden abgerufen…</string>
   <string name="tc_sms_report_notify_correction_body">Gehen Sie zur Datennutzungsapp im Sicherheitscenter und versuchen es nochmals manuell.</string>
+  <string name="tc_sms_report_type">Berichtsart</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Datennutzungsinformation konnte nicht aktualisiert werden"</string>
   <string name="tc_sms_report_notify_get_failure_body">Datenverbrauchsübersicht konnte nicht übermittelt werden. Stellen Sie sicher, dass Sie mit dem Netzwerk verbunden sind.</string>
   <string name="tc_sms_report_notify_get_failure_title">Datenverbrauchsübersicht anfordern fehlgeschlagen</string>

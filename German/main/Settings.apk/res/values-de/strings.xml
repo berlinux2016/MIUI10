@@ -169,7 +169,7 @@
     "Um Ihre Fingerabdruckdetails hinzuzufügen, legen Sie Ihren Finger auf den Sensor.
     Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"
   </string>
-  <string name="add_fingerprint_instruction_msg">Der Fingerabdrucksensor befindet sich in der Hometaste ihres Gerätes.</string>
+  <string name="add_fingerprint_instruction_msg">Verwenden Sie Ihren Fingerabdruck, um Ihr Gerät zu entsperren und Zahlungen abzuschließen..</string>
   <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf den Scanner</string>
   <string name="add_fingerprint_name_suggest_text">Fingerabdruckbezeichnung</string>
   <string name="add_fingerprint_put_finger_edge_msg">Nach dem Drücken des Sensors, entfernen Sie den Finger und versuchen es erneut.</string>
@@ -214,8 +214,8 @@
   <string name="alarm_ringtone_title">Standardweckton</string>
   <string name="alarm_sound_dialog_title">Alarmton wählen</string>
   <string name="alarm_sound_title">Alarmton</string>
-  <string name="alarm_stop">Wecker kann den \"Nicht Stören\" Modus beenden</string>
-  <string name="alarm_stop_info">Wenn der Wecker während des Bitte-nicht-Stören Zeitraums klingelt, wird der Modus \"Nicht Stören\" beendet</string>
+  <string name="alarm_stop">Lautlosmodus deaktivieren, wenn der Wecker aus geht</string>
+  <string name="alarm_stop_info">Lautlosmodus wird deaktiviert, wenn der Wecker aus geht</string>
   <string name="alarm_volume_option_title">Alarmlautstärke</string>
   <string name="alarm_volume_title">Wecker</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Der Bildschirmschoner verursacht einen erhöhten Stromverbrauch.</string>
@@ -386,7 +386,7 @@
   <string name="apps_with_restrictions_header">Apps mit Einschränkungen</string>
   <string name="apps_with_restrictions_settings_button">Appeinstellungen erweitern</string>
   <string name="ask_compatibility">Beim Start fragen</string>
-  <string name="ask_for_delete">Möchten Sie die Regel löschen?</string>
+  <string name="ask_for_delete">Diese Regel löschen?</string>
   <string name="assist_access_context_summary">Dem Assistenten erlauben, auf dem Bildschirm angezeigten Text zu verarbeiten</string>
   <string name="assist_access_context_title">Bildschirmtext verwenden</string>
   <string name="assist_access_screenshot_summary">Dem Assistenten erlauben, auf dem Bildschirm angezeigte Bilder zu verarbeiten</string>
@@ -441,8 +441,8 @@
   <string name="auto_replace_summary">Tippfehler korrigieren</string>
   <string name="auto_restore_summary">Nach der Neuinstallation einer App, gesicherte Einstellungen und Daten wiederherstellen</string>
   <string name="auto_restore_title">Autom. Wiederherstellung</string>
-  <string name="auto_rule">Zeitplanregel</string>
-  <string name="auto_silent">Stumm nach Zeit</string>
+  <string name="auto_rule">Timer</string>
+  <string name="auto_silent">Zeitplan Einschaltzeit</string>
   <string name="auto_startup_application_manage">Autostart</string>
   <string name="auto_startup_count">%d Anwendung(en) Autostart erlaubt</string>
   <string name="auto_upload_debug_log_summary">Diagnosedaten können Nutzungsstatistiken Ihrer Hardware, Betriebssystem und Apps enthalten. Die Daten werden verwendet, um Probleme zu finden und zu analysieren und werden nicht verwendet, um Sie persönlich zu identifizieren.</string>
@@ -1044,7 +1044,7 @@
   <string name="close_install_and_connect">Nein danke</string>
   <string name="close_miui_optimization_title">MIUI Optimierung abschalten</string>
   <string name="close_miui_optimization_warning_message">Ihr Gerät wird neu gestartet, um die Änderungen zu übernehmen. Hinweis: Wenn diese Funktion ausgeschaltet wird, werden sehr große Änderungen in der Benutzeroberfläche auftreten.</string>
-  <string name="close_sdcard_optimization_title">Emulierte SD-Karte-Optimierung schließen</string>
+  <string name="close_sdcard_optimization_title">Optimierung der Pseudo SD Karte ausschalten</string>
   <string name="close_sdcard_optimization_warning_message">Gerät wird neu gestartet, um diese Änderung anzuwenden</string>
   <string name="cloud_app_name">Mi Cloud Sicherung</string>
   <string name="cloud_backup_hint">Melden Sie sich an, um auf Ihre Sicherungen zuzugreifen</string>
@@ -1138,7 +1138,7 @@
   <string name="confirm_reset_aaid">OK</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Reset ShortcutManager rate-limiting counters?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Reset ShortcutManager rate-limiting?</string>
-  <string name="connect_mode">Verbindungsmodus</string>
+  <string name="connect_mode">Verbindungstyp</string>
   <string name="connect_to_internet">Verbindung zum Netzwerk</string>
   <string name="connected_via_passpoint">Verbunden via %1$s</string>
   <string name="connected_via_wfa">Verbunden via WLAN-Assistent</string>
@@ -1422,7 +1422,7 @@
   <string name="default_input_method">Standardeingabemethode wählen</string>
   <string name="default_keyboard_layout">Default</string>
   <string name="default_phone_title">Telefonapp</string>
-  <string name="default_rule_name">Zeitplan-Regel 1</string>
+  <string name="default_rule_name">Timer 1</string>
   <string name="default_sound">Standardton</string>
   <string name="default_spell_checker">Default spell checker</string>
   <string name="default_usb_mode">USB-Verbindung</string>
@@ -1437,7 +1437,7 @@
   <string name="delete_rule">Regeln löschen</string>
   <string name="delete_saved_network">Gespeichertes Netzwerk löschen</string>
   <string name="demo_mode">Demo-Modus</string>
-  <string name="demo_mode_summary">Spezielle Statusleistensymbole in Demo-Modus anzeigen</string>
+  <string name="demo_mode_summary">Demo Symbol in der Statusleiste anzeigen</string>
   <string name="deny">Ablehnen</string>
   <string name="deny_sms_message">Installierten Apps das Senden von SMS verbieten</string>
   <string name="deny_sms_title">SMS sperren</string>
@@ -1662,6 +1662,7 @@
   <string name="domain_urls_title">Applinks</string>
   <string name="done">Fertig</string>
   <string name="done_button">Fertig</string>
+  <string name="double_click_power_key">Ein/Aus-Taste doppelt drücken</string>
   <string name="download_current_rom">Erhalte die aktuellste Version von MIUI</string>
   <string name="downloading_description">Lädt herunter…</string>
   <string name="doze_summary">Schalte den Bildschirm an, wenn das Gerät hochgehoben wird oder Benachrichtigungen eingehen</string>
@@ -1693,7 +1694,7 @@
   <string name="edge_mode_photo_summary">Tippen Sie in der Kameraapp auf den Rand des Telefons, um den Blendenverschluss auszulösen und tippen sie erneut, um ein Foto zu machen</string>
   <string name="edge_mode_screenshot">Screenshot</string>
   <string name="edge_mode_screenshot_summary">Auf beide Kanten doppelt tippen, um einen Screenshot zu machen</string>
-  <string name="edge_touch_volume">Lautstärke am Edge-Touch anpassen</string>
+  <string name="edge_touch_volume">Einstellen der Lautstärke an den Rändern</string>
   <string name="edit_rule">Regeln bearbeiten</string>
   <string name="edit_rules">Bearbeiten</string>
   <string name="eighthours">8 Stunden</string>
@@ -2049,6 +2050,7 @@
   <string name="global_font_change_title">Schriftgröße ändern</string>
   <string name="global_locale_change_title">Sprache ändern</string>
   <string name="go_back_button_label">Zurück</string>
+  <string name="go_to_sleep">Bildschirm ausschalten</string>
   <string name="google_backup_enable">Sicherung aktivieren</string>
   <string name="google_backup_section_title">Google Backup &amp; Wiederherstellung</string>
   <string name="google_title">Google</string>
@@ -2209,12 +2211,12 @@
   <string name="key_combination_power_back">Ein/Aus + Zurücktaste</string>
   <string name="key_combination_power_home">Ein/Aus + Hometaste</string>
   <string name="key_combination_power_menu">Ein/Aus + Menütaste</string>
-  <string name="key_gesture_function_dialog_message">%1$s wurde als %2$s Shortcut gesetzt, oder ersetzt durch %3$s</string>
+  <string name="key_gesture_function_dialog_message">%1$s ist eine Verknüpfung für %2$s. Mit %3$s ersetzen?</string>
   <string name="key_gesture_function_dialog_negative">Abbrechen</string>
   <string name="key_gesture_function_dialog_positive">Ersetzen</string>
   <string name="key_gesture_function_optional">Optionale Gesten und Tasten</string>
   <string name="key_gesture_function_preview">Gesten- und Tastenvorschau</string>
-  <string name="key_gesture_function_shortcut">Funktionsshortcut</string>
+  <string name="key_gesture_function_shortcut">Funktionelle Verknüpfungen</string>
   <string name="key_none">Keine</string>
   <string name="key_position_cat">Tastenpositionen</string>
   <string name="key_settings">Gesten- und Tastenshortcut</string>
@@ -2606,17 +2608,17 @@
   <string name="login_account_dialog_message">Melden Sie sich an Ihrem Mi Konto an und schalten Sie die Synchronisation mit Mi Cloud ein.</string>
   <string name="login_account_dialog_title">Melden Sie sich an Ihrem Mi Konto an</string>
   <string name="login_action">Anmelden</string>
-  <string name="long_press_back_key">Zurücktaste gedrückt halten</string>
-  <string name="long_press_buttom_key">Buttomtaste gedrückt halten</string>
-  <string name="long_press_home_key">Hometaste gedrückt halten</string>
-  <string name="long_press_menu_key">Menütaste gedrückt halten</string>
-  <string name="long_press_menu_key_when_lock">Bei gesperrten Gerät Menütaste gedrückt halten</string>
-  <string name="long_press_volume_down">Leiser-Taste lange drücken</string>
-  <string name="lte_4g_settings_4gdisable_summary">4G Disabled</string>
-  <string name="lte_4g_settings_4genable_summary">4G Enabled</string>
-  <string name="lte_4g_settings_disable">Airplane mode or SIM card is not ready</string>
-  <string name="lte_4g_settings_title">Enable 4G</string>
-  <string name="lte_4g_switch_prompt">The phone will change from 3G/2G to 4G, some active task may be stopped</string>
+  <string name="long_press_back_key">Zurücktaste lange drücken</string>
+  <string name="long_press_buttom_key">Buttomtaste lange drücken</string>
+  <string name="long_press_home_key">Hometaste lange drücken</string>
+  <string name="long_press_menu_key">Menütaste lange drücken</string>
+  <string name="long_press_menu_key_when_lock">Menütaste auf dem Sperrbildschirm lange drücken</string>
+  <string name="long_press_volume_down">Leisertaste lange drücken</string>
+  <string name="lte_4g_settings_4gdisable_summary">4G deaktiviert</string>
+  <string name="lte_4g_settings_4genable_summary">4G aktiviert</string>
+  <string name="lte_4g_settings_disable">Flugmodus oder SIM Karte ist nicht bereit</string>
+  <string name="lte_4g_settings_title">4G aktivieren</string>
+  <string name="lte_4g_switch_prompt">Das Handy wechselt von 3G/2G auf 4G, aktive Prozesse können gestoppt werden</string>
   <string name="lte_ram_dump_off">LTE-RAM-Dump ausschalten</string>
   <string name="lte_ram_dump_on">LTE-RAM-Dump einschalten</string>
   <string name="macaddr_label">MAC-Adresse:</string>
@@ -2892,8 +2894,8 @@
   <string name="miui_lab_gallery_search_title">Finde Fotos in der Galerie</string>
   <string name="miui_lab_settings">MIUI Labor</string>
   <string name="miui_lab_slogan">Lernen. Erkunden. Entdecken.</string>
-  <string name="miui_lab_taplus_desc">Drücken und halten, um Verknüpfungen auszulösen</string>
-  <string name="miui_lab_taplus_title">Apps auslösen</string>
+  <string name="miui_lab_taplus_desc">Elemente drücken und halten, um Aktionen auszuführen</string>
+  <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_screen_config_title">MIUI Launcher-Einstellungen</string>
   <string name="miui_screensaver_show_time">Dauer</string>
   <string name="miui_screensaver_show_time_select_title">Diashowdauer</string>
@@ -2915,8 +2917,8 @@
   <string name="mock_location_app">App für vorgetäuschte Standortinformation auswählen</string>
   <string name="mock_location_app_not_set">Keine App für vorgetäuschten Standortinformation ausgewählt</string>
   <string name="mock_location_app_set">App für vorgetäuschte Standortinformation: %1$s</string>
-  <string name="mode_disable">deaktiviert</string>
-  <string name="mode_enable">aktiviert</string>
+  <string name="mode_disable">Aus</string>
+  <string name="mode_enable">An</string>
   <string name="model_number">Modellnummer</string>
   <string name="modem_tool_log">Capture modem logs</string>
   <string name="modem_tool_log_start">Start</string>
@@ -3136,12 +3138,12 @@
   <string name="no_update_found">"Es ist bereits die neueste MIUI-Version installiert"</string>
   <string name="no_updates_found">"Es ist bereits die neueste MIUI-Version installiert"</string>
   <string name="no_updates_warning">Für Ihr Telefon wurden keine Updates gefunden</string>
-  <string name="no_updates_warning2">"Entspannen Sie sich. Wir informieren Sie über neue Updates"</string>
+  <string name="no_updates_warning2">Wir informieren Sie, wenn ein Update verfügbar ist.</string>
   <string name="no_vr_listeners">Keine installierten Apps wurden angefordert, um als VR Hilfe Service ausgeführt zu werden.</string>
   <string name="noise_suppression">Rauschunterdrückung</string>
   <string name="normal">Normal</string>
   <string name="normal_date_format">Lokal (%s)</string>
-  <string name="normal_info">Das ganze Volumen ist normal</string>
+  <string name="normal_info">Alle Töne funktionieren normal</string>
   <string name="normal_smartcover_title">Frontabdeckung Transparenz</string>
   <string name="not_battery_optimizing">Nicht mit Akku-Optimierung</string>
   <string name="not_installed">Nicht installiert</string>
@@ -3237,7 +3239,7 @@
   <string name="notifications_redacted">Am Sperrbildschirm kein persönlicher Inhalt</string>
   <string name="notifications_sensitive">Persönlicher Inhalt verborgen</string>
   <string name="notifications_silenced">Verstummen lasssen</string>
-  <string name="notifications_summary_divider"> / </string>
+  <string name="notifications_summary_divider"> / </string>
   <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
   <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="notify_connect">CMCC WLAN prompt</string>
@@ -3268,7 +3270,7 @@
   <string name="open_personal_assistant_dialog_desc">Sie werden nicht in der Lage sein Smart Assistent zu verwenden. Jetzt abschalten?</string>
   <string name="open_personal_assistant_dialog_title">Smart Assistent abschalten</string>
   <string name="open_personal_assistant_title">Smart Assistent einschalten</string>
-  <string name="open_sdcard_optimization_title">öffne emulierte SD-Karten Optimierung</string>
+  <string name="open_sdcard_optimization_title">Pseudo SD Karten Optimierung öffnen</string>
   <string name="open_sdcard_optimization_warning_message">Ihr Gerät wird neu gestartet um diese Änderung anzuwenden.</string>
   <string name="open_wifi_connect_summary">Tippen um Details anzuzeigen.</string>
   <string name="open_wifi_connect_title">Verbinden mit %1$s</string>
@@ -3593,7 +3595,7 @@
   <string name="pointer_location_summary">Zeigt den Berührungspunkt an.</string>
   <string name="pointer_settings_category">Maus/Touchpad</string>
   <string name="pointer_speed">Zeigergeschwindigkeit</string>
-  <string name="popup_window">Popup Fenster erlauben</string>
+  <string name="popup_window">Schwebende Benachrichtigungen einschränken</string>
   <string name="power_autorun_apps_empty">Keine Autostartapps</string>
   <string name="power_autorun_empty">Keine Apps installiert</string>
   <string name="power_bluetooth">Bluetooth</string>
@@ -3963,7 +3965,7 @@
   <string name="remove_from_frequently_fragment">\"%s\" aus den Allgemeinen Einstellungen entfernen?</string>
   <string name="remove_managed_profile_label">Arbeitsprofil entfernen</string>
   <string name="repeat">Wiederholen</string>
-  <string name="repeat_call">Benachrichtigen beim gleichen Anrufer</string>
+  <string name="repeat_call">Benachrichtigen über wiederholende Anrufe</string>
   <string name="repeat_call_info">Benachrichtigung erlauben, wenn im Nicht-Stören-Modus dieselbe Person innerhalb von 15 Minuten mehrmals anruft</string>
   <string name="repeat_title">Wiederholen</string>
   <string name="reset_aaid">Werbe-ID zurücksetzen</string>
@@ -4025,7 +4027,7 @@
   <string name="restrict_background_data_dialog_summary">"Apps die im Hintergrund laufen können keine Nachrichten empfangen. Hintergrunddaten wirklich einschränken?"</string>
   <string name="restrict_background_data_notification_summary">"Wenn die Hintergrunddaten eingeschränkt sind, können sich die Apps nicht mit dem Netzwerk verbinden"</string>
   <string name="restrict_background_data_title">Hintergrunddaten beschränkt</string>
-  <string name="restrict_max_aspect_ratio_title">Das maximale Seitenverhältnis deaktivieren</string>
+  <string name="restrict_max_aspect_ratio_title">Diese Apps funktionieren nicht gut im Vollbildmodus</string>
   <string name="restriction_bluetooth_config_summary">Änderungen an Bluetoothpairings und -einstellungen zulassen</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Apps die Verwendung Ihrer Standortinformationen gestatten</string>
@@ -4118,8 +4120,8 @@
   <string name="screen_key_press">Kurzer Tastendruck</string>
   <string name="screen_key_press_action">Auslösefunktion</string>
   <string name="screen_locking_sounds_title">Bildschirmsperrentöne</string>
-  <string name="screen_max_aspect_ratio_desc">Wetterapp kann den Vollbildschirm anzeigen</string>
-  <string name="screen_max_aspect_ratio_title">Max. Seitenverhältnis einstellen</string>
+  <string name="screen_max_aspect_ratio_desc">Ausgewählte Anwendungen im Vollbildmodus arbeiten lassen</string>
+  <string name="screen_max_aspect_ratio_title">Vollbildmodus</string>
   <string name="screen_monochrome_mode_apps_loading">Einen Moment…</string>
   <string name="screen_monochrome_mode_apps_title">Monochrom-Modus verwenden</string>
   <string name="screen_monochrome_mode_global_summary">Monochrom-Modus für alle Apps verwenden</string>
@@ -4222,8 +4224,8 @@
   <string name="screensaver_settings_title">Bildschirmschoner</string>
   <string name="screensaver_settings_when_to_dream">Daydream starten</string>
   <string name="screenshot">Screenshot</string>
-  <string name="screenshot_three_gesture">Wischen Sie mit 3 Fingern, um einen Screenshot zu erstellen</string>
-  <string name="screenshot_three_gesture_summary">Andere 3-Finger-Gesten werden deaktiviert</string>
+  <string name="screenshot_three_gesture">Wischen Sie mit 3 Fingern nach unten, um einen Screenshot zu machen</string>
+  <string name="screenshot_three_gesture_summary">Andere 3 Fingergesten werden deaktiviert</string>
   <string name="sd_card_settings_label">USB-Speicher</string>
   <string name="sd_card_storage">USB-Speicher</string>
   <string name="sd_eject">Gemeinsamen Speicher trennen</string>
@@ -4241,11 +4243,11 @@
   <string name="sdcard_format">USB-Speicher löschen</string>
   <string name="sdcard_no_enough_space">Nicht genügend Speicherplatz</string>
   <string name="sdcard_no_enough_space_message">Es ist nicht genügend Speicherplatz auf Ihrer SD-Karte vorhanden</string>
-  <string name="sdcard_optimization">Emulierte SD-Kartenoptimierung</string>
+  <string name="sdcard_optimization">Optimierung Pseudo SD Karte</string>
   <string name="sdcard_optimization_cancel">Abbrechen</string>
   <string name="sdcard_optimization_close">Ausschalten &amp; neu starten</string>
   <string name="sdcard_optimization_open">Einschalten</string>
-  <string name="sdcard_optimization_summary">SD-Karte schneller lesen und schreiben</string>
+  <string name="sdcard_optimization_summary">Machen Sie Ihre SD-Karte viel schneller</string>
   <string name="sdcard_setting">USB-Speicher</string>
   <string name="sdcard_settings_available_bytes_label">Verfügbare Bytes:</string>
   <string name="sdcard_settings_bad_removal_status">USB-Speicher während Verwendung entfernt</string>
@@ -4716,7 +4718,7 @@
   <string name="silent_off">Ausschalten</string>
   <string name="silent_settings">Einstellungen</string>
   <string name="silent_standard">Ruhe</string>
-  <string name="silent_time">Dauer der Ruhe</string>
+  <string name="silent_time">Dauer des Ruhemodus</string>
   <string name="silent_total">DND</string>
   <string name="sim_absent">Keine SIM/RUIM</string>
   <string name="sim_bad_pin">Falsche PIN</string>
@@ -4818,7 +4820,7 @@
   <string name="sim_status_title">SIM-Status</string>
   <string name="simulate_color_space">Farbraum simulieren</string>
   <string name="single_key_use">Verwendung einzelner Schlüssel</string>
-  <string name="single_key_use_summary">Home-Taste anstelle der beiden anderen Schaltflächen für den Normalbetrieb</string>
+  <string name="single_key_use_summary">Verwenden Sie die Home-Taste für die Funktionen der anderen 2 Tasten</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
@@ -4894,11 +4896,10 @@
   <string name="standard_configuration_version_rear_camera">1300 Mpx</string>
   <string name="standard_configuration_version_screen_resolution">1920 x 1080 Pixel</string>
   <string name="standard_configuration_version_screen_size">5.5 Zoll</string>
-  <string name="standard_info">Anrufe und Benachrichtigungen sind verboten, aber Wecker und Musik wird immer noch erklingen</string>
+  <string name="standard_info">Anrufe und Benachrichtigungen werden stummgeschaltet</string>
   <string name="start_backup">Sichern</string>
   <string name="start_restore">Wiederherstellen</string>
-  <string name="start_silent_mode">Stummen Modus einschalten</string>
-  <string name="start_vip_mode">Aktiviere VIP-Modus</string>
+  <string name="start_silent_mode">Lautlosmodus aktivieren</string>
   <string name="starting_android">Android wird gestartet</string>
   <string name="state_mounting">Zugriff auf Ihren Routerspeicher…</string>
   <string name="state_waiting">Einen Moment…</string>
@@ -5176,7 +5177,7 @@
   <string name="sub_deactivate_success">Erfolgreich deaktiviert.</string>
   <string name="subs_settings">SUBS-Status</string>
   <string name="succeed">Abgeschlossen</string>
-  <string name="suggest_unrestrict_max_aspect_ratio_title">Vorschlag für das maximale Seitenverhältnis aktivieren</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">Diese Apps funktionieren besser im Vollbildmodus</string>
   <string name="suggested_fingerprint_lock_settings_summary">Entsperren Sie mit Ihrem Fingerabdruck</string>
   <string name="suggested_lock_settings_summary">Schützen Sie Ihr Gerät</string>
   <string name="suggested_lock_settings_title">Bildschirmsperre</string>
@@ -5325,10 +5326,10 @@
   <string name="tethering_settings_not_available">Tetheringeinstellungen sind für diesen Benutzer nicht verfügbar.</string>
   <string name="tethering_settings_summary">Mobile Datenverbindung des Geräts über USB oder mobile Hotspots teilen</string>
   <string name="theme_settings_title">Themen</string>
-  <string name="three_gesture_down">3-Finger Geste</string>
+  <string name="three_gesture_down">3-Fingergeste nach unten</string>
   <string name="time_picker_title">Uhrzeit</string>
   <string name="time_zone_auto_stub">Zeitzone auswählen</string>
-  <string name="timed_titlei">Zeitplan-Regel %d</string>
+  <string name="timed_titlei">Timer %d</string>
   <string name="timer_switch_settings_title">Geplante Stromversorgung ein- und ausschalten</string>
   <string name="timezone_settings">Zeitzone</string>
   <string name="title_color_calibration">Farbkorrekturvoreinstellung</string>
@@ -5367,7 +5368,7 @@
   <string name="track_frame_time">GPU-Darstellungsprofil</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball aufwachen</string>
-  <string name="traffic_balance">Intelligente Datenverbrauchsstrategie</string>
+  <string name="traffic_balance">Datennutzungsmodus</string>
   <string name="trans_backingup">Sichern…</string>
   <string name="trans_backingup_no_items">Synchronisieren…</string>
   <string name="trans_calculating">Wird berechnet…</string>
@@ -5676,7 +5677,7 @@
   <string name="unlock_set_unlock_summary">Bitte Bildschirmsperre einschalten.</string>
   <string name="unlock_setup_wizard_fingerprint_details">Sobald Sie eine Bildschirmsperre eingerichtet haben, können Sie Ihren Fingerabdruck unter Einstellungen &gt; Sicherheit einrichten.</string>
   <string name="unmount_inform_text">USB-Speicher wird getrennt.</string>
-  <string name="unrestrict_max_aspect_ratio_title">Unterstützung für das maximale Seitenverhältnis</string>
+  <string name="unrestrict_max_aspect_ratio_title">Diese Apps sind für den Vollbildmodus optimiert</string>
   <string name="unrestricted_app_summary">Im Datensparmodus uneingeschränkten Datenzugriff erlauben</string>
   <string name="unrestricted_app_title">Uneingeschränkte Datennutzung</string>
   <string name="unrestricted_data_saver">Uneingeschränkter Datenzugriff</string>
@@ -5912,8 +5913,7 @@
   <string name="vibrate_input_devices_summary">Vibration an Controller weitergeben, wenn verbunden.</string>
   <string name="vibrate_on_touch_title">Bei Berührung vibrieren</string>
   <string name="vibrate_when_ringing_title">Beim Klingeln vibrieren</string>
-  <string name="vip_list">VIP Liste</string>
-  <string name="vip_mode_info">Anrufe oder SMS-Nachrichten von Kontakten aus der VIP-Liste werden im auch Ruhe-Modus mit Ton benachrichtigt</string>
+  <string name="vip_list">Eingehende Anrufe erlauben</string>
   <string name="virtual_keyboard_category">Virtuelle Tastatur</string>
   <string name="virtual_sim_category_title">Virtuelle SIM</string>
   <string name="virtual_sim_description">Zuverlässiger internationaler Roamingdienst</string>

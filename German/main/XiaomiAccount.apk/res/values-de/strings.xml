@@ -24,7 +24,7 @@
   <string name="account_has_been_set">Ändern</string>
   <string name="account_learn_more_title">Mi Konto erstellen</string>
   <string name="account_limit_update_birthday">Geburtstag kann momentan nicht aktualisiert werden</string>
-  <string name="account_mibi_center">Mibi Center</string>
+  <string name="account_mibi_center">Mi Credits</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_name">Konto: %1$s</string>
   <string name="account_no_set">Kein</string>
@@ -85,7 +85,7 @@
   <string name="barcode_add_account_prompt">Zum Hinzufügen eines Kontos scannen sie nach der Anmeldung erneut den QR-Code</string>
   <string name="bind_facebook">Facebook-Konto hinzufügen</string>
   <string name="bind_qq">QQ-Konto hinzufügen</string>
-  <string name="bind_safe_phone_msg">Handy für die nächste Anmeldung für sicher zu erklären</string>
+  <string name="bind_safe_phone_msg">Handy für die nächste Anmeldung in Ihrem Mi Konto für sicher erklären</string>
   <string name="bind_settings">Konten</string>
   <string name="bind_sina_weibo">Sina-Weibo-Konto hinzufügen</string>
   <string name="bind_sns_description">Vervollständigen Sie Ihr Profil mit Ihren persönlichen Informationen über %s</string>
@@ -116,7 +116,7 @@
   <string name="confirm_phone_number_dialog_message">Überprüfungscode wird gesendet an: %s</string>
   <string name="confirm_phone_number_dialog_title">Telefonnummer bestätigen</string>
   <string name="confirm_unbind">Dieses Konto entfernen?</string>
-  <string name="confirm_unbundled_phone_dialog_message">Die Telefonnummer %1$s ist mit %2$s Mi Konto verknüpft. Sie wird nicht länger mit dem Mi Konto %3$s verknüpft. Wollen Sie fortsetzen?</string>
+  <string name="confirm_unbundled_phone_dialog_message">Die Telefonnummer %1$s ist mit dem Mi Konto %2$s verknüpft. Sie wird nicht länger mit dem Mi Konto %3$s verknüpft. Wollen Sie fortsetzen?</string>
   <string name="continue_action">Weiter</string>
   <string name="cta_declaration_agree_and_continue">Zustimmen</string>
   <string name="cta_declaration_exit">Beenden</string>
@@ -233,7 +233,7 @@
   <string name="mi_insurance">Mi Versicherung</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identität</string>
-  <string name="mi_vip_info">Zeige Mi VIP</string>
+  <string name="mi_vip_info">Zugriffsrechte anzeigen</string>
   <string name="mibi_balance">%s Mi Credit</string>
   <string name="micloud_account_name">Mi Konto</string>
   <string name="micloud_area_code_title">Ländervorwahl</string>
@@ -315,6 +315,8 @@
   <string name="passport_completed">Abgeschlossen</string>
   <string name="passport_confirm">Bestätigen</string>
   <string name="passport_confirm_recycle_account">Ja</string>
+  <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red&gt;疑似&lt;/font&gt;是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>  
+  <string name="passport_continue">Weiter</string> 
   <string name="passport_copy_message_text_success">Erfolgreich kopiert</string>
   <string name="passport_copy_message_vcode">Code kopieren</string>
   <string name="passport_delete_account">Abmelden</string>
@@ -383,6 +385,8 @@
   <string name="passport_login_notice">Anmelden…</string>
   <string name="passport_login_other_account">Anderer Account</string>
   <string name="passport_login_prompt">Ein Mi Konto. Alle Mi Services.</string>
+  <string name="passport_login_recycle_account_no">Nein</string>  
+  <string name="passport_login_recycle_account_yes">Ja</string> 
   <string name="passport_login_short">Anmelden</string>
   <string name="passport_login_title">Mit Mi Konto anmelden</string>
   <string name="passport_login_using_other_ways"><u>Andere Anmeldemöglichkeiten</u></string>
@@ -416,6 +420,8 @@
   <string name="passport_reg_new">Erstellen Sie ein kostenloses Mi Konto</string>
   <string name="passport_reg_new_account">Account erstellen</string>
   <string name="passport_reg_prompt">"Sie haben noch kein Mi Konto? Erstellen Sie eines, kostenlos!"</string>
+  <string name="passport_reg_recycle_account_no">Nein</string>  
+  <string name="passport_reg_recycle_account_yes">Ja</string>  
   <string name="passport_reg_success">Konto erstellt</string>
   <string name="passport_reg_success_summary">%1$s wurde mit dem Konto verknüpft. Sie können es verwenden um sich anzumelden oder Ihr Passwort zu ändern.</string>
   <string name="passport_reg_type_email">Konto über E-Mail erstellen</string>
@@ -455,7 +461,7 @@
   <string name="passport_send_vcode_failed">"Konnte Code nicht senden"</string>
   <string name="passport_sending_vcode">Sende Code…</string>
   <string name="passport_set">Festlegen</string>
-  <string name="passport_set_password_no_phone_msg">Um Ihre Daten zu schützen, verknüpfen Sie bitte zuerst Ihr Telefon</string>
+  <string name="passport_set_password_no_phone_msg">Telefonnummer hinzufügen, um Ihr Konto zu schützen</string>
   <string name="passport_setting">Einrichten…</string>
   <string name="passport_sim_index_info">SIM-Karte %1$d - %2$s</string>
   <string name="passport_skip_login">Anmeldung überspringen </string>
