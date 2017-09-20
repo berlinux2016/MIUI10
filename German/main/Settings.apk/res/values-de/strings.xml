@@ -2773,7 +2773,6 @@
   <string name="memory_title">Verfügbar: %1$s\u0009\u0009Gesamt: %2$s</string>
   <string name="memory_usage">Speicherverbrauch</string>
   <string name="memory_usage_apps">Von Apps verwendeter Speicher</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">%1$s durchschn. Verbrauch in den letzten 3 Stunden</string>
   <string name="menu_cancel">Verwerfen</string>
   <string name="menu_check">Erfahrung</string>
@@ -2877,7 +2876,6 @@
   <string name="miracast_wps_setup_msg">WPS starten…</string>
   <string name="misc_files">Sonstige Dateien</string>
   <string name="misc_files_selected_count">%1$d von %2$d ausgewählt</string>
-  <string name="misc_files_selected_count_bytes">%1$s von %2$s</string>
   <string name="miui_allow_alarm">Alarme</string>
   <string name="miui_allow_light">Benachrichtigungslicht</string>
   <string name="miui_allow_music">Medien</string>
@@ -3088,7 +3086,6 @@
   <string name="nfc_how_it_works_got_it">Verstanden</string>
   <string name="nfc_how_it_works_title">Am Terminal bezahlen</string>
   <string name="nfc_more_title">Mehr…</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_default">Zahlunggsstandard</string>
   <string name="nfc_payment_default_not_set">Nicht eingerichtet</string>
   <string name="nfc_payment_favor_default">Immer</string>
@@ -3110,7 +3107,6 @@
   <string name="nfc_se_wallet_title">NFC-Zahlungen</string>
   <string name="night_mode_auto">Automatisch</string>
   <string name="night_mode_no">Hell</string>
-  <string name="night_mode_summary">%s</string>
   <string name="night_mode_title">Thema</string>
   <string name="night_mode_yes">Dunkel</string>
   <string name="no">Nein</string>
@@ -3240,8 +3236,6 @@
   <string name="notifications_sensitive">Persönlicher Inhalt verborgen</string>
   <string name="notifications_silenced">Verstummen lasssen</string>
   <string name="notifications_summary_divider"> / </string>
-  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-  <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="notify_connect">CMCC WLAN prompt</string>
   <string name="notify_connect_summary">Warnen beim Zugriff auf CMCC WLAN</string>
   <string name="now">Jetzt neustarten</string>
@@ -3288,7 +3282,6 @@
   <string name="overlay_display_devices_title">Sekundäre Displays simulieren</string>
   <string name="overlay_settings">Überlagerung von Apps</string>
   <string name="owner_info_settings_edit_text_hint">Hier Eigentümerinformationen eingeben</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Keine</string>
   <string name="owner_info_settings_title">Info zum Eigentümer</string>
   <string name="owner_space">Hauptprofil</string>
@@ -3786,7 +3779,6 @@
   <string name="private_sms_recording_intro_header">Entsperrmuster zeichnen:</string>
   <string name="private_sms_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich bei Ihrem Mi Konto an</string>
   <string name="process_dex2oat_label">App Optimierung</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">Anbieter %1$s wird verwendet.</string>
@@ -4601,11 +4593,9 @@
   <string name="selinux_status_enforcing">Strikt</string>
   <string name="selinux_status_permissive">Moderat</string>
   <string name="service_background_processes">%1$s frei</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s belegt</string>
   <string name="service_manage">Einstellungen</string>
   <string name="service_manage_description">%1$s: wird zurzeit verwendet. Berühren Sie zum Steuern die Einstellungen.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Neustart wird durchgeführt…</string>
   <string name="service_started_by_app">Von der App gestartet</string>
   <string name="service_stop">Beenden</string>
@@ -4811,7 +4801,6 @@
   <string name="sim_reenter_new">Neue PIN erneut eingeben</string>
   <string name="sim_select_card">Eine SIM-Karte auswählen</string>
   <string name="sim_selection_required_pref">Auswahl benötigt</string>
-  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">SIM-Karten</string>
   <string name="sim_setup_wizard_title">SIM-Karten</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -5220,7 +5209,6 @@
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Wird Synchronisiert…</string>
   <string name="sync_is_failing">Bei der Synchronisierung treten momentan Probleme auf. Sie wird in Kürze fortgesetzt.</string>
-  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Synchronisierung abbrechen</string>
   <string name="sync_menu_sync_now">Jetzt synchronisieren</string>
   <string name="sync_now">Synchronisieren</string>
@@ -6639,7 +6627,6 @@
   <string name="zen_mode_rule_name_hint">Geben Sie einen Namen ein</string>
   <string name="zen_mode_rule_name_warning">Regel existiert bereits</string>
   <string name="zen_mode_rule_not_found_text">Regel nicht gefunden.</string>
-  <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
   <string name="zen_mode_rule_summary_enabled_combination">On / %1$s</string>
   <string name="zen_mode_rule_summary_provider_combination">
     "%1$s
