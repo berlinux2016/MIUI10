@@ -162,6 +162,7 @@
   <string name="bugreport_in_power_summary">Ein Button für Fehlerberichte im Power-Menü anzeigen</string>
   <string name="button_convert_fbe">Löschen und konvertieren…</string>
   <string name="call_status_dialing">Wählen</string>
+  <string name="call_status_holding">Halten</string>
   <string name="call_status_ringing">Klingeln</string>
   <string name="camera_key_action_app_title">App öffnen</string>
   <string name="camera_key_action_category_title">Verwenden, wenn die Kamera nicht geöffnet ist</string>
@@ -186,12 +187,10 @@
   <string name="confirm_enable_oem_unlock_title">OEM Entsperrung erlauben?</string>
   <string name="connected_via_passpoint">Verbunden über %1$s</string>
   <string name="connected_via_wfa">Verbunden über Wlan Assistenten</string>
-  <string name="convert_to_fbe_warning">
-    "Datenpartitionen in dateibasierte Verschlüsselung konvertieren.
-    !!Warnung!! Alle Ihre Daten werden gelöscht.
-    Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
-    \"Löschen und konvertieren…\" drücken, um fortzufahren."
-  </string>
+  <string name="convert_to_fbe_warning">"Datenpartitionen in dateibasierte Verschlüsselung konvertieren. 
+!!Warnung!! Alle Ihre Daten werden gelöscht. 
+Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig. 
+\"Löschen und konvertieren…\" drücken, um fortzufahren."</string>
   <string name="convert_to_file_encryption">In Datei-Verschlüsselung umwandeln</string>
   <string name="convert_to_file_encryption_done">Datei bereits verschlüsselt</string>
   <string name="convert_to_file_encryption_enabled">Wird umgewandelt…</string>
@@ -201,10 +200,8 @@
   <string name="daltonizer_mode_protanomaly">Protanomaly (Rot-Grün)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomaly (Blau-Gelb)</string>
   <string name="daltonizer_type_overridden">Überschrieben von %1$s</string>
-  <string name="data_usage_disabled_dialog">
-    "Sie haben Ihre angegebene Datenverwendungsgrenze erreicht.
-    Sie können vom Betreiber aufgeladen werden."
-  </string>
+  <string name="data_usage_disabled_dialog">"Sie haben Ihre angegebene Datenverwendungsgrenze erreicht. 
+  Sie können vom Betreiber aufgeladen werden."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G Daten ausgeschaltet</string>
   <string name="data_usage_disabled_dialog_4g_title">4G Daten ausgeschaltet</string>
   <string name="data_usage_disabled_dialog_enable">Datenverbindung einschalten</string>
@@ -250,7 +247,7 @@
   <string name="dlg_confirm_kill_storage_users_title">USB-Speicher einschalten</string>
   <string name="dlg_error_title">USB-Vorgang fehlgeschlagen</string>
   <string name="dock_forced_resizable">App funktioniert möglicherweise im Splitscreen nicht.</string>
-  <string name="dock_keyguard_locked_failed_to_dock_text">"Splitscreen wird auf dem Sperrbildschirm nicht unterstützt."</string>
+  <string name="dock_keyguard_locked_failed_to_dock_text">Splitscreen wird auf dem Sperrbildschirm nicht unterstützt.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">App unterstützt Splitscreen nicht.</string>
   <string name="drive_mode_tip">Sie sind im Fahrzeugmodus</string>
   <string name="enable_adb">USB-Debugging</string>
@@ -306,10 +303,8 @@
   <string name="inactive_app_active_summary">Aktiv. Tippen, um umzuschalten.</string>
   <string name="inactive_app_inactive_summary">Inaktiv. Tippen, um umzuschalten.</string>
   <string name="inactive_apps_title">Inactive apps</string>
-  <string name="invalid_charger">
-    "Aufladen über USB wird nicht unterstützt.
-    Bitte Ladegerät benutzen."
-  </string>
+  <string name="invalid_charger">"Aufladen über USB wird nicht unterstützt.
+Bitte Ladegerät benutzen."</string>
   <string name="keep_screen_on">Wach bleiben</string>
   <string name="keep_screen_on_summary">Bildschirm geht beim Aufladen nicht aus</string>
   <string name="keyboard_shortcut_group_system_recents">Letzte Apps</string>
@@ -348,6 +343,7 @@
   <string name="media_projection_dialog_text">%s wird alles aufnehmen, was auf Ihrem Bildschirm zusehen ist. </string>
   <string name="media_projection_remember_text">Nicht nochmal anzeigen</string>
   <string name="megabyte_per_second">M/s</string>
+  <string name="miui_size_formatter">%.1f %c</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Mobile Datenverbindung immer aktiv halten, auch wenn WLAN aktiv ist (für schnelle Netzwerkumschaltung).</string>
@@ -440,11 +436,11 @@
   <string name="recents_drag_hint_message">Platzieren Sie hier die Elemente</string>
   <string name="recents_empty_message">Keine neue Artikel</string>
   <string name="recents_empty_message_dismissed_all">Sie haben alle Elemente gelöscht</string>
-  <string name="recents_empty_message_multi_window">Zum Startbildschirm gehen um Apps zu öffnen</string>
+  <string name="recents_empty_message_multi_window">Zum Startbildschirm gehen, um Apps zu öffnen</string>
   <string name="recents_exit_multi_window_mode">Beenden</string>
   <string name="recents_incompatible_app_message">App unterstützt Splitscreen nicht</string>
   <string name="recents_launch_disabled_message">%s ist im abgesicherten Modus deaktiviert</string>
-  <string name="recents_launch_error_message">"Kann %s nicht starten"</string>
+  <string name="recents_launch_error_message">Kann %s nicht starten</string>
   <string name="recents_lock_to_app_button_label">Bildschirm apinnen</string>
   <string name="recents_multi_window_mode">Splitscreen</string>
   <string name="recents_multistack_add_stack_dialog_split_custom">Benutzerdefiniert</string>
@@ -520,14 +516,10 @@
   <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_accessibility_dismiss_recents">Letzte Apps entfernen</string>
   <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
-  <string name="status_bar_date_format">
-    "EEEE
-    d. MMMM"
-  </string>
-  <string name="status_bar_date_format_12">
-    "EEEE
-    d. MMMM"
-  </string>
+    <string name="status_bar_date_format">"EEEE
+d. MMMM"</string>
+    <string name="status_bar_date_format_12">"EEEE
+d. MMMM"</string>
   <string name="status_bar_network_flow_content">"Heute: %1$s   Verbleibend: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Heute: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan überschritten: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Monatliche Grenze: %1$s   "</string>
@@ -535,10 +527,8 @@
   <string name="status_bar_network_flow_today">Heute: %1$s</string>
   <string name="status_bar_no_recent_apps">Keine kürzlich verwendeten Apps</string>
   <string name="status_bar_notification_inspect_item_title">Appinfo</string>
-  <string name="status_bar_recent_guide_all">
-    "Zum Schließen hochwischen und
-    zum Sperren runterwischen"
-  </string>
+    <string name="status_bar_recent_guide_all">"Zum Schließen hochwischen und 
+zum Sperren runterwischen"</string>
   <string name="status_bar_recent_guide_bottom">Zum Sperren runterwischen</string>
   <string name="status_bar_recent_guide_top">Zum Schließen hochwischen</string>
   <string name="status_bar_recent_inspect_item_title">App info</string>
@@ -612,10 +602,8 @@
   <string name="usb_audio_disable_routing">USB-Audio-Routing deaktivieren</string>
   <string name="usb_audio_disable_routing_summary"> Automatische Routing auf USB-Audio-Peripheriegeräte deaktivieren</string>
   <string name="usb_debugging_always">Von diesem Computer immer erlauben</string>
-  <string name="usb_debugging_message">
-    "Der Computer RSA-Schlüsselfingerabdruck ist:
-    %1$s"
-  </string>
+    <string name="usb_debugging_message">"Der Computer RSA-Schlüsselfingerabdruck ist:
+%1$s"</string>
   <string name="usb_debugging_title">USB-Debugging erlauben?</string>
   <string name="usb_device_confirm_prompt">%1$s öffnen, wenn dieses USB-Gerät angeschlossen wird?</string>
   <string name="usb_device_permission_prompt">Der App %1$s erlauben, auf das USB-Gerät zuzugreifen?</string>
