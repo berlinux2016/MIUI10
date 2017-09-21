@@ -11,28 +11,14 @@
     <item>"Achten Sie darauf, während des Pairing-Prozesses das richtige A/C-Modell auszuwählen. Folgen Sie den Anweisungen auf dem Gerät, bis die Anmeldung abgeschlossen ist."</item>
     <item>Nein. Derzeit können nur Mi 4, Mi 4c, Redmi Note 2, Redmi Note 3 und das Redmi 3  als Infrarotfernbedienung verwendet werden</item>
   </string-array>
-  <string-array name="epg_week_tab">
-    <item>So</item>
-    <item>Mo</item>
-    <item>Di</item>
-    <item>Mi</item>
-    <item>Do</item>
-    <item>Fr</item>
-    <item>Sa</item>
-  </string-array>
-  <string-array name="question">
-    <item>Das Telefon kann keine Geräte im WLAN erkennen?</item>
-    <item>"Kann Modi oder Temperatur von der Klimaanlage nicht ändern?"</item>
-    <item>Unterstützen Mi 3, Mi 2 und Redmi Infrarot-Steuerung für Fernseher, Klimaanlage und andere Geräte?</item>
-  </string-array>
   <string-array name="assistant_tab">
     <item>Video</item>
     <item>Screenshots</item>
     <item>App</item>
   </string-array>
   <string-array name="epg_channel_tab">
-    <item>Komplett</item>
-    <item>Sammeln</item>
+    <item>Alle</item>
+    <item>Favoriten</item>
     <item>CCTV</item>
     <item>TV</item>
     <item>HD</item>
@@ -45,6 +31,70 @@
     <item>Sat-TV</item>
     <item>HD Sender</item>
     <item>Kürzlich angesehen</item>
+  </string-array>
+  <string-array name="epg_channel_tab_actionbar_v53">
+    <item>Alle Sender</item>
+    <item>Recently watched</item>
+    <item>HD Sender</item>
+    <item>TV Sender</item>
+    <item>CCTV Sender</item>
+  </string-array>
+  <string-array name="epg_channel_tab_v53">
+    <item>Alle</item>
+    <item>Kürzlich</item>
+    <item>HD</item>
+    <item>TV</item>
+    <item>CCTV</item>
+  </string-array>
+  <string-array name="epg_default_hot_channels">
+    <item>Hunan TV</item>
+    <item>CCTV-6</item>
+    <item>Zhejiang TV</item>
+    <item>CCTV-5</item>
+    <item>CCTV-3</item>
+    <item>Dragon TV</item>
+    <item>Anhui TV</item>
+    <item>Beijing TV</item>
+    <item>Guangdong TV</item>
+  </string-array>
+  <string-array name="epg_program_genre">
+    <item><item/>
+    <item><item/>
+    <item>Unterhaltung</item>
+    <item><item/>
+    <item>Sport</item>
+    <item>Für Kinder</item>
+    <item>Nachrichten</item>
+    <item>Lifestyle</item>
+  </string-array>
+  <string-array name="epg_program_tab">
+    <item>Popular</item>
+    <item>Filme</item>
+    <item>Entertainment</item>
+    <item>Fernsehsendungen</item>
+    <item>Sport</item>
+    <item>Für Kinder</item>
+    <item>Nachrichten</item>
+    <item>Lifestyle</item>
+  </string-array>
+  <string-array name="epg_program_tab_actionbar">
+    <item>Beliebte Sendungen</item>
+    <item>Filme</item>
+    <item>Unterhaltungsprogramme</item>
+    <item>Fernsehsendungen</item>
+    <item>Sport</item>
+    <item>Für Kinder</item>
+    <item>Nachrichten</item>
+    <item>Lifestyleprogramme</item>
+  </string-array>
+  <string-array name="epg_week_tab">
+    <item>So</item>
+    <item>Mo</item>
+    <item>Di</item>
+    <item>Mi</item>
+    <item>Do</item>
+    <item>Fr</item>
+    <item>Sa</item>
   </string-array>
   <string-array name="passport_alphabet_table">
     <item>\#</item>
@@ -74,5 +124,14 @@
     <item>X</item>
     <item>Y</item>
     <item>Z</item>
+  </string-array>
+  <string-array name="question">
+    <item>Das Telefon kann keine Geräte im WLAN erkennen?</item>
+    <item>"Kann Modi oder Temperatur von der Klimaanlage nicht ändern?"</item>
+    <item>Unterstützen Mi 3, Mi 2 und Redmi Infrarot-Steuerung für Fernseher, Klimaanlage und andere Geräte?</item>
+  </string-array>
+  <string-array name="user_notification_tab">
+    <item>\@与我相关</item>
+    <item>系统通知</item>
   </string-array>
 </resources>
