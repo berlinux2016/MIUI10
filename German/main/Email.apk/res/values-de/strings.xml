@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SMTP_independent_verification_text">SMTP-unabhängige Überprüfung</string>
+  <string name="SMTP_password_text">Passwort</string>
+  <string name="SMTP_username_text">Benutzername</string>
   <string name="accessibility_guide_first">Wählen Sie im folgenden Fenster die Registerkarte "Dienste", um die automatische Konfiguration von 139 Mailbox zu aktivieren</string>
   <string name="accessibility_guide_second">Klicken Sie dann auf den Schalter in der oberen rechten Ecke, klicken Sie auf "Bestätigen", um fortzufahren.</string>
+  <string name="account_cache_provider">Konto-Cache-Anbieter</string>
   <string name="account_duplicate_dlg_message_fmt">"Sie verwenden diesen Benutzernamen bereits für dieses Konto \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Identisches Konto</string>
   <string name="account_failure">Sitzung abgelaufen</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">Ein Konto mit diesem Namen existiert bereits</string>
   <string name="account_options_sync_title">Synchronisieren</string>
   <string name="account_password_spaces_error">"Dieses Passwort beginnt oder endet mit einem oder mehreren Leerzeichen. Viele Server unterstützen keine Passwörter mit Leerzeichen."</string>
@@ -25,8 +25,8 @@
   <string name="account_setting_message_body_load_text">Nur Text</string>
   <string name="account_settings_action">Kontoeinstellungen</string>
   <string name="account_settings_background_attachments_label">Anhänge herunterladen</string>
-  <string name="account_settings_background_attachments_summary">Anhänge herunterladen mit WLAN</string>
-  <string name="account_settings_background_attachments_summary_inter">Anhang per WLan herunterladen</string>
+  <string name="account_settings_background_attachments_summary">Anhänge mit WLAN herunterladen</string>
+  <string name="account_settings_background_attachments_summary_inter">Anhänge mit WLAN herunterladen</string>
   <string name="account_settings_data_usage">Datenverbrauch</string>
   <string name="account_settings_description_label">Kontoname</string>
   <string name="account_settings_edit_quick_responses_label">Kurzantworten</string>
@@ -47,6 +47,7 @@
   <string name="account_settings_policies">Sicherheitsrichtlinien</string>
   <string name="account_settings_preference_add_account">Ein E-Mail-Konto hinzufügen</string>
   <string name="account_settings_preference_head_icon">Kontaktfotos anzeigen</string>
+  <string name="account_settings_preference_notify">Merken</string>
   <string name="account_settings_retry_label">Synchronisieren</string>
   <string name="account_settings_retry_summary">Antippen, um Konto zu synchronisieren</string>
   <string name="account_settings_ringtone">Benachrichtigungston</string>
@@ -60,6 +61,7 @@
   <string name="account_settings_sync_email_summary">E-Mails dieses Kontos synchronisieren</string>
   <string name="account_settings_unsupported_label">Nicht unterstützte Richtlinien</string>
   <string name="account_settings_unsupported_summary">Keine</string>
+  <string name="account_settings_user_usage">Kontoeinstellungen</string>
   <string name="account_settings_using_ringtone">Klingelton</string>
   <string name="account_settings_vibrate_when_label">Vibration</string>
   <string name="account_setup_account_type_instructions">Um welchen Kontotyp handelt es sich hierbei?</string>
@@ -118,8 +120,9 @@
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (alle Zertifikate akzeptieren)</string>
   <string name="account_setup_incoming_server_label">Server</string>
   <string name="account_setup_incoming_username_label">Benutzername</string>
-  <string name="account_setup_incoming_username_label_default_hint">Du solltest einen Domainnamen einfügen</string>
+  <string name="account_setup_incoming_username_label_default_hint">Sie sollten einen Domainnamen einfügen</string>
   <string name="account_setup_need_password_verification">Ihr Konto hat eine 2-Weg-Authentifizierung. Eine Authentifizierung ist erforderlich.</string>
+  <string name="account_setup_options_actionbar_title">Allgemeine Einstellungen</string>
   <string name="account_setup_options_mail_check_frequency_10min">Alle 10 Minuten</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Alle 12 Stunden</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Stündlich</string>
@@ -147,6 +150,8 @@
   <string name="account_setup_server_acc_manager_title">Konten</string>
   <string name="account_setup_username_password_toast">Geben Sie eine gültige E-Mailadresse und ein gültiges Passwort ein</string>
   <string name="account_sync_off">Kontosynchronisation ist ausgeschaltet.</string>
+  <string name="account_sync_settings_settings">Kontakte und Kalender synchronisieren</string>
+  <string name="account_sync_settingstip_description">Synchronisierungseinstellungen</string>
   <string name="account_waiting_for_folders_msg">Ordner werden geladen…</string>
   <string name="actionbar_large_unread_count">%1$d+ ungelesene</string>
   <string name="activity_folder_selection">Ordner auswählen</string>
@@ -200,7 +205,6 @@
   <string name="attachment_unknown">%s Datei</string>
   <string name="attachment_video">Video</string>
   <string name="attachments_header">Anhänge</string>
-  <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">Nach dem Löschen einer Nachricht, zeige…</string>
   <string name="auto_advance_label">Automatisch fortfahren</string>
   <string name="auto_advance_summary">Was soll nach dem Löschen einer Nachricht angezeigt werden?</string>
@@ -213,9 +217,9 @@
   <string name="auto_mail_window_description">Automatische Konfiguration von 139 Mailbox</string>
   <string name="auto_mail_window_label">139 Mailbox Autokonfiguration</string>
   <string name="auto_remind_bind">Hinzufügen</string>
-  <string name="auto_remind_discribe_text">Aktivieren um automatische Erinnerungen zu erhalten</string>
+  <string name="auto_remind_discribe_text">Aktivieren, um Erinnerungen automatisch zu bekommen</string>
   <string name="auto_remind_text">Automatische Erinnerungen</string>
-  <string name="auto_remind_unbind">Stop</string>
+  <string name="auto_remind_unbind">Entfernen</string>
   <string name="auto_sync_off">Automatische Synchronisation ist ausgeschaltet</string>
   <string name="automatic_remind_text">Automatisch erinnern</string>
   <string name="bank_card_detail">Kreditkartendetails</string>
@@ -224,8 +228,8 @@
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
   <string name="bill_center_setting">Zahlungseinstellungen</string>
-  <string name="bill_center_setting_head">Importiere Informationen von diesen Account</string>
-  <string name="bill_cycle_text">Abrechnungszyklus</string>
+  <string name="bill_center_setting_head">Informationen von diesen Konten importieren</string>
+  <string name="bill_cycle_text">Abrechnungsrytmus</string>
   <string name="bill_remind">Zahlungserinnerung</string>
   <string name="bill_remind_due">Eine Rückzahlung ist fällig am %s, tippen zum Anzeigen</string>
   <string name="blank_feedback_toast">Bitte geben Sie eine Nachricht ein!</string>
@@ -256,7 +260,6 @@
   <string name="changepw_dialog_tips">Passwort erneut eingeben für %s</string>
   <string name="changepw_dialog_tips_please_clikc_btn">Sehen Sie den Verifizierungscode auf %s an und melden Sie sich erneut an.</string>
   <string name="chat_item_msg_people_unit">Leute</string>
-  <string name="chat_item_msg_user_etc"/>
   <string name="chat_view_description">Zeige E-Mailthemen als Gesprächsblasen</string>
   <string name="chat_view_title">Unterhaltungsansicht</string>
   <string name="check_setup_data">Prüfe Servereinstellungen…</string>
@@ -276,7 +279,7 @@
   <string name="compose_picturesexceedlimits">Es können maximal 5 Bilder eingebettet werden!</string>
   <string name="compose_send">Senden</string>
   <string name="compose_sent">E-Mail gesendet</string>
-  <string name="config">139 Mailbox Phone Number konfiguriert</string>
+  <string name="config">139 Mailbox Telefonnummer konfiguriert</string>
   <string name="config_cancel">Abbrechen</string>
   <string name="config_retry">Wiederholen</string>
   <string name="confirm">OK</string>
@@ -303,7 +306,7 @@
   <string name="contact_in_filter_call_phone_str">anrufen: %s</string>
   <string name="contact_in_filter_title">Kommt von ihm (ihr).</string>
   <string name="contact_info_string">Kontaktinformationen für %1$s anzeigen</string>
-  <string name="contact_info_string_default">Zeige Kontakinformationen</string>
+  <string name="contact_info_string_default">Kontaktinformationen anzeigen</string>
   <string name="contact_list_add_btn">Hinzufügen</string>
   <string name="contact_list_search_hint">Kontakte suchen</string>
   <string name="contact_list_title">Kontaktliste</string>
@@ -327,10 +330,16 @@
   <string name="contextmenu_send_mail">E-Mail senden</string>
   <string name="contextmenu_sharelink">Link teilen</string>
   <string name="contextmenu_sms_dot">SMS senden…</string>
+  <string name="conversation_content_provider">Unterhaltung Inhalt Provider</string>
+  <string name="conversation_detail_hide">Verbergen</string>
+  <string name="conversation_detail_show">Details</string>
   <string name="conversation_folder_moved">Verschoben nach %1$s</string>
   <string name="conversation_item_mark_read">Gelesen</string>
   <string name="conversation_item_mark_unread">Ungelesen</string>
+  <string name="conversation_list">Hauptliste</string>
+  <string name="conversation_msg_header_collapsed_sent_to">"Senden an "</string>
   <string name="conversation_photo_welcome_text">Auf Absenderbild tippen um die entsprechende Konversation auszuwählen</string>
+  <string name="conversation_pull_ad_content">Effizienter Mail-Manager</string>
   <string name="conversation_quick_button_approve">Zustimmen</string>
   <string name="conversation_quick_button_disapprove">Ablehnen</string>
   <string name="conversation_quick_button_received">Empfangen</string>
@@ -349,6 +358,7 @@
   <string name="default_">Standard</string>
   <string name="default_setup">Standardeinstellungen</string>
   <string name="default_signature">Gesendet von meinem %s</string>
+  <string name="default_signature_2">Gesendet von meinem %s</string>
   <string name="del_account_questionnair_hint">"Könnten Sie uns sagen, warum Sie dieses Konto entfernen möchten?"</string>
   <string name="delete">Löschen</string>
   <string name="delete_message_flow">automatisch springen</string>
@@ -393,25 +403,22 @@
   <string name="download_confirm_title">Anhang herunterladen</string>
   <string name="download_message_failed_for_too_large">Die Nachricht ist zu groß zum runterladen.</string>
   <string name="download_whole_email">Den restlichen Inhalt herunterladen</string>
-  <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Kontoauszüge</string>
+  <string name="drawer_bill_title">Rechnungen</string>
   <string name="drawer_classification">Kategorien</string>
   <string name="drawer_close">Navigationsleiste schließen</string>
   <string name="drawer_contacts">Kontakte</string>
   <string name="drawer_open">Navigationsleiste öffnen</string>
-  <string name="due">Due</string>
+  <string name="due">Fällig</string>
   <string name="due_date_text">Endgültige Rückzahlung</string>
   <string name="edit_quick_response_dialog">Kurzantwort</string>
-  <string name="elided_padding_token"> </string>
-  <string name="email_address">E-Mail-Address</string>
-  <string name="email_feedback_uri"/>
+  <string name="edit_signature">Signatur bearbeiten</string>
+  <string name="email_address">E-Mail-Adresse</string>
   <string name="email_netease">NetEase Mail</string>
-  <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_setting">E-Mail-Einstellungen</string>
   <string name="email_setting_keywords">Konten;Konto hinzufügen;Mailkonten;E-Mail-Konto;E-Mail-Konto hinzufügen;Vor dem Löschen bestätigen;Vor dem Senden bestätigen;Nachrichtenverlauf löschen;Weiterleiten;Konversationsansicht;E-mail-Konversation;Mail Akku;Feedback senden</string>
   <string name="email_sina">Sina Mail</string>
-  <string name="email_suggestions_authority">com.android.email.provider</string>
   <string name="empty_account_tip">Konto nicht gefunden</string>
   <string name="empty_email_tip">Leere Nachricht kann nicht gesendet werden</string>
   <string name="empty_spam">Spamordner leeren</string>
@@ -419,7 +426,6 @@
   <string name="empty_trash">Papierkorb leeren</string>
   <string name="empty_trash_dialog_title">Papierkorb leeren?</string>
   <string name="enable_sync_in_account_settings">In %1$s aktivieren</string>
-  <string name="enumeration_delimiter">" | "</string>
   <string name="error">Fehler</string>
   <string name="exception_cancel">Dieses Ereignis wurde abgebrochen für: %s</string>
   <string name="exception_updated">Details für dieses Ereignis wurden geändert für: %s</string>
@@ -436,20 +442,20 @@
   <string name="feedback_sent">Danke für Ihre Feedback</string>
   <string name="feedback_user_edit_hint">Beschreiben Sie hier das Problem. Wir werden Ihnen eine E-Mail senden, sobald wir es bearbeitet haben.</string>
   <string name="feedback_user_edit_tag">Von MIUI </string>
-  <string name="fetch_bank_sender_list_failure">"Info konnte nicht ermitteln werden"</string>
+  <string name="fetch_bank_sender_list_failure">Informationen konnten nicht ermittelt werden</string>
   <string name="fetching_attachment">Anhang wird abgerufen…</string>
   <string name="file_deleted_success">Datei gelöscht!</string>
   <string name="file_not_found">Datei auf dem Mail Server nicht gefunden!</string>
   <string name="file_not_found_redownload">Datei nicht gefunden.</string>
   <string name="file_rar_not_support">Verschlüsselte Rar-Dateien werden nicht unterstützt</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
-  <string name="first_quick_default_reply">Tippen um \"%s\" an alle Personen in der Konversation zu senden</string>
+  <string name="first_quick_default_reply">Tippen, um \"%s\" an alle Personen in der Konversation zu senden</string>
   <string name="float_window_content">Es wurde erkannt, dass Sie 139 Mailbox verwenden. Klicken Sie auf Bestätigen, um von 139 Mailbox automatisch das Konto und Passwort auszufüllen.</string>
   <string name="float_window_info">Bei der Konfiguration von 139 Mailbox bedienen Sie nicht Ihr Telefon, um Konfigurationsfehlern zu vermeiden.</string>
   <string name="float_window_title">Wird konfiguriert…</string>
   <string name="folder_drafts_name_cn0">Entwurf</string>
   <string name="folder_drafts_name_cn1">Entwürfe</string>
-  <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
+  <string name="folder_drafts_name_cn2">[Gmail]/Entwurf</string>
   <string name="folder_drafts_name_en0">Entwürfe</string>
   <string name="folder_drafts_name_en1">Entwurf</string>
   <string name="folder_drafts_name_en2">[Gmail]/Entwürfe</string>
@@ -476,15 +482,14 @@
   <string name="folder_trash_name_en1">gelöschte Nachrichten</string>
   <string name="folder_trash_name_en2">gelöschte Nachricht</string>
   <string name="folder_trash_name_en3">[Gmail]/Bin</string>
-  <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s%2$s</string>
   <string name="forward">Weiterleiten</string>
   <string name="forward_attachment">Weiterleiten</string>
   <string name="forward_attribution">---------- Weitergeleitete Nachricht ----------&lt;br&gt;Von: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Betreff: %3$s&lt;br&gt;An: %4$s&lt;br&gt;</string>
   <string name="forward_attribution_no_headers">---------- Weitergeleitete Nachricht ----------</string>
   <string name="forward_download_failed_ticker">Mindestens ein Anhang wurde nicht weitergeleitet.</string>
   <string name="forward_download_failed_title">Anhang nicht weitergeleitet</string>
-  <string name="free_period_text">Zinslose Laufzeit</string>
+  <string name="forward_subject_label">WG:</string>
+  <string name="free_period_text">Zinsfreie Laufzeit</string>
   <string name="from_heading">"Von: "</string>
   <string name="general_preference_confirm_delete_label">Vor dem Löschen bestätigen</string>
   <string name="general_preference_confirm_send_label">Vor dem Senden bestätigen</string>
@@ -512,16 +517,13 @@
   <string name="help_config">Selbstkonfiguration</string>
   <string name="hide_atts_remaining">%1$d Anhänge ausblenden</string>
   <string name="hide_elided">▼ Zitierten Text ausblenden</string>
-  <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
-  <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
-  <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Allen Antworten</string>
   <string name="ignore_spam_warning">Ignorieren und dieser E-Mail vertrauen</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_or_pop3_name">IMAP/POP3</string>
   <string name="imap_password_error">Das Passwort des Posteingangsserver ist ungültig</string>
   <string name="import_button_text">Importieren</string>
-  <string name="import_from_other_account">Von einen anderen Account importieren</string>
+  <string name="import_from_other_account">Von anderen Konten importieren</string>
   <string name="info_actionbar_normal_detail">Artikeldetails</string>
   <string name="info_actionbar_subscribe">Abonnieren</string>
   <string name="info_item_from">Von</string>
@@ -536,9 +538,7 @@
   <string name="information_subscribe_first_intro">Das ist das erste Mal, dass Sie etwas 「abonnieren」, wählen Sie bitte Themen aus, die Sie interessieren, damit wir personalisierte Vorschläge machen können.~</string>
   <string name="inline_picture_deleted">Fehlendes Bild wird heruntergeladen…</string>
   <string name="input_password_prompt">Passwort eingeben</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
-  <string name="interact_with_server_error">"Verbindung konnte mit den Server nicht hergestellt werden"</string>
+  <string name="interact_with_server_error">Verbindungsfehler mit dem Server</string>
   <string name="invalid_recipient">Die Adresse %s ist ungültig.</string>
   <string name="invalid_recipient_title">Empfängerfehler</string>
   <string name="kilobytes">%s KB</string>
@@ -554,6 +554,7 @@
   <string name="login139">CMCC Ein-Klick-Anmeldung</string>
   <string name="login_failed_ticker">Anmeldung in %s erfolglos</string>
   <string name="login_failed_title">Anmeldung nicht möglich</string>
+  <string name="login_support_tip_text">Unterstützung für alle gängigen E-Mail-Anbieter</string>
   <string name="long_press_to_select_tip">Berühren &amp; halten um eine Email zu markieren und dann weitere auszuwählen.</string>
   <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaang</string>
   <string name="mail">E-Mail</string>
@@ -563,6 +564,7 @@
   <string name="mail_header_network_not_available">Keine Netzwerkverbindung verfügbar</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinierte Ansicht</string>
   <string name="mailbox_name_display_ad">Werbung &amp; Benachrichtigungen</string>
+  <string name="mailbox_name_display_add_account">E-Mail-Konto hinzufügen</string>
   <string name="mailbox_name_display_circular">Benachrichtigungen</string>
   <string name="mailbox_name_display_drafts">Entwürfe</string>
   <string name="mailbox_name_display_inbox">Posteingang</string>
@@ -583,7 +585,6 @@
   <string name="maileditor_fontsize_textitem4">14Pkt</string>
   <string name="maileditor_fontsize_textitem5">16Pkt</string>
   <string name="maileditor_fontsize_textitem6">18Pkt</string>
-  <string name="main_help_context">ttl</string>
   <string name="manual_sync">Synchronisieren</string>
   <string name="mark_important">Als wichtig markieren</string>
   <string name="mark_not_important">Als nicht wichtig markieren</string>
@@ -625,7 +626,6 @@
   <string name="merged_mailbox_compose_select_account">Konto auswählen</string>
   <string name="message_body_load_set_description">Datenmenge für neue E-Mails über Mobilfunknetz</string>
   <string name="message_compose_insert_quick_response_list_title">Kurzantwort einfügen</string>
-  <string name="message_count_spacer">  </string>
   <string name="message_decode_error">Beim Entschlüsseln der Nachricht ist ein Fehler aufgetreten.</string>
   <string name="message_details_title">Nachrichtendetails</string>
   <string name="message_discarded">Nachricht gelöscht</string>
@@ -646,38 +646,32 @@
   <string name="more_context">Mehr</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Verschieben nach</string>
-  <string name="multiple_new_message_notification_item">
-    <b>%1$s</b>"   %2$s"
-  </string>
+  <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Ignorieren</string>
   <string name="net_check_title">Konnte nicht zum Netzwerk verbunden werden. Überprüfen Sie die Netzwerkeinstellungen und versuchen Sie es erneut.</string>
   <string name="network_error">Keine Verbindung</string>
-  <string name="network_invaild">"Verbindung zum Netzwerk konnte nicht hergestellt werden"</string>
+  <string name="network_invaild">Neztzwerkfehler</string>
   <string name="network_not_available">Netzwerkverbindung nicht verfügbar. Versuchen Sie es später erneut</string>
   <string name="network_tip">Authentifizierung ist fehlgeschlagen, bitte überprüfen Sie Ihre Netzwerkverbindung</string>
   <string name="network_try_again">Bitte überprüfen Sie das Netzwerk und versuchen Sie es erneut</string>
   <string name="network_unavailable">Netzwerk ist nicht erreichbar</string>
   <string name="new_incoming_messages_one">Neue Nachricht von %s. anzeigen.</string>
   <string name="new_messages">%1$d neue Nachrichten</string>
+  <string name="new_signature_has_saved">Neue Signatur wurde gespeichert</string>
   <string name="next_action">Weiter</string>
   <string name="no">Nein</string>
-  <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Keine App zum Öffnen des Anhangs gefunden.</string>
   <string name="no_application_found_title">Diesen Anhang öffnen.</string>
-  <string name="no_bill_discribe">
-    "Konnte keine Rechnungen finden.
-    Versuche es mit einen anderen Email-Konto."
-  </string>
+  <string name="no_bill_discribe">Rechnungen wurden nicht gefunden.
+Versuchen Sie, zu einem anderen E-Mail-Konto zu wechseln.</string>
   <string name="no_contacts">Leer</string>
-  <string name="no_content_in_body">[No Body]</string>
+  <string name="no_content_in_body">[Kein Inhalt]</string>
   <string name="no_conversations">Keine Nachrichten</string>
-  <string name="no_filtrable_email_account">Keine Konten zum filtern</string>
+  <string name="no_filtrable_email_account">Keine Konten zum Filtern</string>
   <string name="no_mails">Leer</string>
   <string name="no_matched_attachment">Keine passenden Anhänge!</string>
-  <string name="no_recognize_describe">
-    "E-Mails mit Tickets oder Buchungen wurden nicht gefunden.
-    Versuche es mit einen anderen Posteingang."
-  </string>
+  <string name="no_recognize_describe">"E-Mails mit Tickets oder Buchungen wurden nicht gefunden.
+Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="no_remind">Keine Erinnerungen</string>
   <string name="not_subject">(kein Betreff)</string>
   <string name="not_synced_title">Konto nicht synchronisiert</string>
@@ -731,7 +725,7 @@
   <string name="overlays_tip">Berechtigungen für schwebende Fenster öffnen und sofort 139 Email Autokonfiguration als ultimatives Erlebnis genießen.</string>
   <string name="overlays_title">Berechtigungn für schwebende Fenster öffnen</string>
   <string name="parase_setup_data">Daten werden abgerufen…</string>
-  <string name="parse_bill_discribe">Bearbeitung von Kreditkartenrechnungen…</string>
+  <string name="parse_bill_discribe">Rechnungen werden verarbeitet…</string>
   <string name="parse_recognize_describe">Emails werden analysiert…</string>
   <string name="password_expire_warning_content_title">Sperrpasswort läuft ab</string>
   <string name="password_expire_warning_dialog_content_fmt">Sie müssen Ihre PIN für die Bildschirmsperre bald ändern, ansonsten werden bald die Daten für %s gelöscht. Möchten Sie sie jetzt ändern?</string>
@@ -766,10 +760,8 @@
   <string name="photo_load_failed">Bild konnte nicht geladen werden</string>
   <string name="photo_view_count" formatted="false">%d von %d</string>
   <string name="please_fill_in_your_mailbox_information2">Bitte geben Sie Ihre E-Maildaten ein</string>
-  <string name="pls_parse_bill_discribe">
-    "Analysiert Rechnungen und Reiseinfos in ihren Emails
-    um Erinnerungen für Zahlungen und Reisen zu erstellen"
-  </string>
+  <string name="pls_parse_bill_discribe">"Analysiert Rechnungen und Reiseinfos in Ihren E-Mails,
+um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="policy_app_blacklist">Bestimmte Apps verbieten</string>
   <string name="policy_app_whitelist">Nur bestimmte Apps erlauben</string>
   <string name="policy_bluetooth_restricted">Bluetoothnutzung beschränken</string>
@@ -787,7 +779,7 @@
   <string name="policy_dont_allow_unsigned_apps">Unsignierte Apps nicht erlaubt</string>
   <string name="policy_dont_allow_unsigned_installers">Unsignierte Appinstaller nicht zulassen</string>
   <string name="policy_dont_allow_wifi">WLAN nicht zulassen</string>
-  <string name="policy_dont_allow_wifi_inter">"Wlan nicht erlauben"</string>
+  <string name="policy_dont_allow_wifi_inter">Wlan nicht erlauben</string>
   <string name="policy_email_age">Anzahl synchronisierter E-Mails begrenzen</string>
   <string name="policy_html_truncation">HTML-E-Mailgröße beschränken</string>
   <string name="policy_password_expiration">Ablaufen von Passwörtern erforderlich</string>
@@ -801,7 +793,6 @@
   <string name="policy_text_truncation">E-Mailtextgröße beschränken</string>
   <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">Tippe Aktivieren um den E-Mailserver einzurichten.</string>
-  <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">Bei POP3 werden Anhänge automatisch mit der E-Mail runtergeladen. Bitte achten Sie auf Ihren mobilen Datenverbrauch.</string>
   <string name="preference_sender_image_description">Profilbilder im Posteingang anzeigen</string>
   <string name="preference_sender_image_title">Profilbilder</string>
@@ -812,11 +803,7 @@
   <string name="previous_action">Zurück</string>
   <string name="print">Drucken</string>
   <string name="prompt_title">Nachfragen</string>
-  <string name="protocol_eas">eas</string>
-  <string name="protocol_imap">imap</string>
-  <string name="protocol_legacy_imap">imap</string>
-  <string name="protocol_pop3">pop3</string>
-  <string name="protocol_setting_toast">Nachdem Sie zugestimmt haben, in die obere rechte Ecke tippen um zu den Einstellungen zu gelangen</string>
+  <string name="protocol_setting_toast">Nach der Zustimmung tippen Sie in die obere rechte Ecke, um zu den Einstellungen zu gelangen</string>
   <string name="pull_to_refresh">Zum Aktualisieren nach unten ziehen</string>
   <string name="pull_up_to_load_more">Hochziehen um weitere zu laden</string>
   <string name="push_wps_better_confirm_download">Download</string>
@@ -840,7 +827,7 @@
   <string name="qq_next_generation_auth_toast">Bitte füllen Sie die Anwendung für  zweite Passwortschutzgeneration über einen Browser aus</string>
   <string name="qq_uthentication_failed">Authentifizierung ist fehlgeschlagen. Bitte melden Sie sich erneut an</string>
   <string name="qq_webview_loading">Wird übersprungen, bitte warten…</string>
-  <string name="questionnair_body_invisibility">"Nachrichten werden nicht angezeigt"</string>
+  <string name="questionnair_body_invisibility">Nachrichten werden nicht angezeigt</string>
   <string name="questionnair_confirm_delete">Entfernen</string>
   <string name="questionnair_instability">Stürzt häufig ab</string>
   <string name="questionnair_not_send">"Kann keine e-Mails senden"</string>
@@ -859,7 +846,9 @@
   <string name="quick_reply_hint_cc">"(Im CC) "</string>
   <string name="quick_reply_hint_reply_only_from">Schnelle Antwort (nur Absender)</string>
   <string name="quick_responses_empty_view">Keine Kurzantworten</string>
-  <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
+  <string name="quick_search_add_account">Konto hinzufügen</string>
+  <string name="quick_search_conversation_list">Hauptschnittstelle</string>
+  <string name="quick_search_email_setting">E-Mail-Einstellungen</string>
   <string name="quote_divider_1">-------- Ursprüngliche Nachricht --------</string>
   <string name="quote_divider_11">----- Original -----</string>
   <string name="quote_divider_12"> Ursprüngliche Nachricht </string>
@@ -888,6 +877,7 @@
   <string name="recognize_hotel_check_in_date">Check-in Zeit</string>
   <string name="recognize_hotel_hotel_money">Preis %1$s</string>
   <string name="recognize_hotel_notification_content">Genießen Sie Ihren Aufenthalt!</string>
+  <string name="recognize_hotel_notification_title">Sie haben ein Zimmer in %1$s ab %2$s/%3$s gebucht. Überprüfen Sie Ihre Buchung vor der Ankunft dort.</string>
   <string name="recognize_hotel_order_money">Gesamt</string>
   <string name="recognize_hotel_other_money">Andere Kosten %1$s</string>
   <string name="recognize_hotel_reverse_date">Check-in vor %1$s:%2$s %3$s</string>
@@ -900,7 +890,7 @@
   <string name="recognize_ticket_air_state_stopover">Zwischenstopp</string>
   <string name="recognize_ticket_air_state_transfer">Transfer</string>
   <string name="recognize_ticket_air_user_name">Passagier:</string>
-  <string name="recognize_ticket_title">Flugzeug &amp; Zug Ticket</string>
+  <string name="recognize_ticket_title">Flug- &amp; Zug-Tickets</string>
   <string name="recognize_ticket_train_alter">Geändert</string>
   <string name="recognize_ticket_train_depart_date">Fährt um %3$s:%4$s auf %1$s/%2$s ab</string>
   <string name="recognize_ticket_train_notification_content">Bon Voyage!</string>
@@ -925,7 +915,12 @@
   <string name="reply_add_bodycontent">Kurzantwort hinzufügen?</string>
   <string name="reply_all">Allen Antworten</string>
   <string name="reply_attribution" formatted="false">Am %s, %s schrieb:</string>
+  <string name="reply_subject_label">AW:</string>
   <string name="report_phishing">Phishing melden</string>
+  <string name="report_rendering_improvement">Sieht gut aus</string>
+  <string name="report_rendering_improvement_desc">Diese Meldung sieht gut aus.</string>
+  <string name="report_rendering_problem">Sieht schlecht aus</string>
+  <string name="report_rendering_problem_desc">Diese Meldung sieht schlecht aus.</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Datei ist zu groß!</string>
   <string name="request_permission_activity">Zugriffsanfrage</string>
@@ -935,10 +930,11 @@
   <string name="save_draft_failed">Entwurf konnte nicht gespeichert werden</string>
   <string name="save_power_summary">In der eingestellten Zeit Energie sparen</string>
   <string name="save_power_title">Energie sparen</string>
+  <string name="save_this_new_signature">Diese neue Signatur speichern?</string>
   <string name="saved">Gespeichert,  %s</string>
   <string name="saving">Speichern…</string>
   <string name="sdcard_cannot_use">SD-Karte kann nicht verwendet werden</string>
-  <string name="search_bar_text">Suche nach Mail, Sender, ...</string>
+  <string name="search_bar_text">Suche nach Mail, Absender…</string>
   <string name="search_hint">In E-Mails suchen</string>
   <string name="search_result">Ergebnis</string>
   <string name="search_tabs_name_all">Alle</string>
@@ -963,15 +959,12 @@
   <string name="send_mail">Senden</string>
   <string name="sender_whitelist_cleared">Bilder werden nicht automatisch angezeigt.</string>
   <string name="senders_elided">..</string>
-  <string name="senders_split_token">, </string>
-  <string name="sending">Senden…</string>
+  <string name="sending">Wird gesendet…</string>
   <string name="sending_message">Nachricht wird gesendet…</string>
   <string name="sending_quick_reply">E-Mail %s senden</string>
   <string name="sent_folder_selection_title">Ordner \"Gesendete Elemente\" des Servers für %s auswählen</string>
-  <string name="ser_resp_err_map_certificate_validator_err">
-    "Serverzertifikat konnte nicht validiert werden
-    \u0009 (Stellen Sie sicher, dass die 'Autom. Zeitsynchronisation' in den Einstellungen eingeschaltet ist)"
-  </string>
+  <string name="ser_resp_err_map_certificate_validator_err">"Serverzertifikat konnte nicht validiert werden
+\u0009 (Stellen Sie sicher, dass die 'Autom. Zeitsynchronisation' in den Einstellungen eingeschaltet ist)"</string>
   <string name="ser_resp_err_map_landing_more_failure">Zu viele erfolglose Anmeldeversuche</string>
   <string name="ser_resp_err_map_landing_too_frequently">Zu viele Anmeldeversuche</string>
   <string name="ser_resp_err_map_mailbox_locked">E-Mail-Konto ist passwortgeschützt</string>
@@ -982,10 +975,8 @@
   <string name="ser_resp_err_map_pserr">Falscher Benutzername oder Passwort</string>
   <string name="ser_resp_err_map_serclosed">%s Server ist geschlossen</string>
   <string name="ser_resp_err_map_ssl">"Wählen Sie in 'Sicherheitstyp' 'SSL/TLS (Alle Zertifikate akzeptieren)'"</string>
-  <string name="service_protocol_discribe">
-    <u>"Ich habe die WPS Mail Dienste Vereinbarung gelesen und stimme zu"</u>
-  </string>
-  <string name="service_protocol_title">Dienstleistungsvereinbarung</string>
+  <string name="service_protocol_discribe"><u>Ich habe den WPS E-Mail Dienstleistungsvertrag gelesen und bin damit  einverstanden</u></string>
+  <string name="service_protocol_title">Dienstleistungsvertrag</string>
   <string name="set_network">Netzwerk konfigurieren</string>
   <string name="settings_activity_title">Einstellungen</string>
   <string name="share_choose">Zu teilende Datei auswählen</string>
@@ -1007,7 +998,6 @@
   <string name="special_text_5">schrieb:</string>
   <string name="special_text_colon_en">:</string>
   <string name="special_text_colon_zh">：</string>
-  <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
   <string name="special_text_sender_en">Absender</string>
   <string name="special_text_sender_zh">Absender</string>
   <string name="storage">Speicher</string>
@@ -1015,18 +1005,15 @@
   <string name="str_select_none">Keine auswählen</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Betreff</string>
-  <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_contacts_fail_per_content">Beantrage Kontaktberechtigungen, hier klicken um diese zu beantragen</string>
   <string name="sync_contacts_fail_per_title">Kontaksynchronisierung fehlgeschlagen</string>
   <string name="sync_contacts_fail_permission">Kontaksynchronisierung fehlgeschlagen, Zugriff auf Handykontakte nicht möglich, bitte die Einstellungen unter Rechteverwaltung öffnen</string>
   <string name="sync_contacts_req_per_ignored">Telefonkontakt ist nicht geöffnet und kann nicht synchronisiert werden</string>
   <string name="sync_error">Synchronisierung nicht möglich</string>
-  <string name="syncing_wait_restart">Tippen Sie Erneut versuchen</string>
   <string name="sync_error_message">Das Gerät verfügt nicht über genügend Speicherplatz für die Synchronisierung.</string>
-  <string name="syncing_wait_restart_title">
-    Servertimeout
-    Nachricht kann nicht geladen werden
-  </string>
+  <string name="syncing_wait_restart">Tippen Sie Erneut versuchen</string>
+  <string name="syncing_wait_restart_title">"Servertimeout  
+Nachricht kann nicht geladen werden"</string>
   <string name="system_account_create_failed">Konto konnte nicht erstellt werden. Bitte versuchen Sie es erneut.</string>
   <string name="system_folders_sent_dlg">Ordner \"Gesendete Elemente\" des Servers auswählen</string>
   <string name="system_folders_sent_summary">Ordner \"Gesendete Elemente\" des Servers auswählen</string>
@@ -1052,6 +1039,7 @@
   <string name="too_large_to_attach_multiple">Mindestens eine Datei wurde nicht angehängt. Limit: %1$s</string>
   <string name="too_large_to_attach_single">Dateien größer als %1$s können nicht angehängt werden.</string>
   <string name="topic_merge">Themen zusammenfassen</string>
+  <string name="topic_merge_summary">Modus zusammengefasst nach Themen</string>
   <string name="translation_loading">Wird geladen…</string>
   <string name="translation_no_result">Kein Ergebnis gefunden</string>
   <string name="translation_pronunciation_am">ArE</string>
@@ -1061,17 +1049,12 @@
   <string name="translation_query_failure">Suche fehlgeschlagen</string>
   <string name="translation_technology_support">Technische Unterstützung von PowerWord</string>
   <string name="trash_folder_selection_title">Papierkorb des Servers für %s auswählen</string>
-  <string name="trigger_compose_char">c</string>
-  <string name="trigger_refresh_char">u</string>
-  <string name="trigger_y_char">y</string>
   <string name="try_exchange_login">Melden Sie sich mit EXCHANGE an</string>
   <string name="turn_auto_sync_on_dialog_body">Änderungen, die Sie nicht nur bei Gmail, sondern auf allen Apps und Konten vornehmen, werden zwischen dem Web, Ihren anderen Geräten und Ihrem %1$s synchronisiert.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Aktivieren</string>
   <string name="turn_auto_sync_on_dialog_title">Automatische Synchronisierung aktivieren?</string>
-  <string name="unbind_dialog_text">
-    "Die Emailapp wird danach nicht mehr in der Lage sein Ihre Emails zu analysieren.
-    Account entfernen?"
-  </string>
+  <string name="unbind_dialog_text">"Die Emailapp wird danach nicht mehr in der Lage sein Ihre Emails zu analysieren.
+Account entfernen?"</string>
   <string name="undo">Rückgängig</string>
   <string name="unknow">Unbekannt</string>
   <string name="unread_string">Konversation ungelesen</string>
@@ -1079,6 +1062,7 @@
   <string name="unsent_messages_in_outbox">%1$s nicht gesendete Nachricht(en) in %2$s</string>
   <string name="unzip_file_failed">Datei konnte nicht entpackt werden</string>
   <string name="update_date_format_templete">HH:mm dd.MM.yyyy</string>
+  <string name="update_to_wps_mail">Mehr fortgeschrittene Funktionen, upgraden auf WPS-Mail</string>
   <string name="updated_at">Letzte Aktualisierung: %1$s</string>
   <string name="upload_log">Logs hochladen</string>
   <string name="upload_log_failed">Logs konnten nicht gesendet werden</string>
@@ -1090,16 +1074,10 @@
   <string name="upload_logs_keywords">upload logs</string>
   <string name="uploading_logs">Einen Moment…</string>
   <string name="validation_failed_prompt">Konto konnte nicht überprüft werden. Überprüfen Sie die Servereinstellungen für %s</string>
-  <string name="veiled_address"/>
-  <string name="veiled_alternate_text"/>
-  <string name="veiled_alternate_text_unknown_person"/>
-  <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">über %1$s</string>
   <string name="view_more_conversations">Weitere Konversationen ansehen</string>
-  <string name="wait_for_manual_sync_body">
-    "Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
-    Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronisieren oder <b>Synchronisations Einstellungen ändern</b> um dieses Konto automatisch zu synchronisieren.
-  </string>
+  <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
+    Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronisieren oder <b>Synchronisations Einstellungen ändern</b> um dieses Konto automatisch zu synchronisieren.</string>
   <string name="wait_for_sync_title">Auf Synchronisierung warten</string>
   <string name="webview_logout">Wollen Sie wirklich aufgeben, sich anzumelden? Los, versuchen Sie es erneut!</string>
   <string name="webview_logout_cancel">Keine Versuche mehr</string>
@@ -1108,7 +1086,6 @@
   <string name="webview_sslerror_handle_continue">Fortsetzen</string>
   <string name="webview_sslerror_handle_hitmessage">Zertifikatfehler! Weiter zur Webseite (nicht empfohlen)?</string>
   <string name="widget_all_mail">Alle Mails</string>
-  <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Andere</string>
   <string name="wipe_account_fail_description">Erlauben</string>
   <string name="wipe_account_fail_title">Persönliche Informationen konnten nicht gelöscht werden</string>
@@ -1118,8 +1095,4 @@
   <string name="you_are_in_mobile_network">Log über die mobile Datenverbindung senden?</string>
   <string name="youfuli">Werbung</string>
   <string name="zip_viewer_no_file">Keine Dateien.</string>
-  <string name="SMTP_independent_verification_text">SMTP-unabhängige Überprüfung</string>
-  <string name="SMTP_password_text">Passwort</string>
-  <string name="SMTP_username_text">Benutzername</string>
-
 </resources>
