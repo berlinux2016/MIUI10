@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="copy_begin">
-        <item quantity="other">Copying %1$d files.</item>
-        <item quantity="one">Copying %1$d file.</item>
-    </plurals>
-    <plurals name="move_begin">
-        <item quantity="other">Moving %1$d files.</item>
-        <item quantity="one">Moving %1$d file.</item>
-    </plurals>
-    <plurals name="deleting">
-        <item quantity="other">Deleting %1$d files.</item>
-        <item quantity="one">Deleting %1$d file.</item>
-    </plurals>
-    <plurals name="copy_error_notification_title">
-        <item quantity="other">Couldn’t copy %1$d files</item>
-        <item quantity="one">Couldn’t copy %1$d file</item>
-    </plurals>
-    <plurals name="move_error_notification_title">
-        <item quantity="other">Couldn’t move %1$d files</item>
-        <item quantity="one">Couldn’t move %1$d file</item>
-    </plurals>
-    <plurals name="delete_error_notification_title">
-        <item quantity="other">Couldn’t delete %1$d files</item>
-        <item quantity="one">Couldn’t delete %1$d file</item>
-    </plurals>
-    <plurals name="clipboard_files_clipped">
-        <item quantity="other">Copied %1$d files to clipboard.</item>
-        <item quantity="one">Copied %1$d file to clipboard.</item>
-    </plurals>
-    <plurals name="elements_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
-    </plurals>
-    <plurals name="elements_dragged">
-        <item quantity="other">%1$d items</item>
-        <item quantity="one">%1$d item</item>
-    </plurals>
-    <plurals name="delete_files_confirmation_message">
-        <item quantity="other">Delete %1$d files?</item>
-        <item quantity="one">Delete %1$d file?</item>
-    </plurals>
-    <plurals name="delete_folders_confirmation_message">
-        <item quantity="other">Delete %1$d folders and their contents?</item>
-        <item quantity="one">Delete %1$d folder and its contents?</item>
-    </plurals>
-    <plurals name="delete_items_confirmation_message">
-        <item quantity="other">Delete %1$d items?</item>
-        <item quantity="one">Delete %1$d item?</item>
-    </plurals>
+  <plurals name="clipboard_files_clipped">
+    <item quantity="other">%1$d Dateien in die Zwischenablage kopiert.</item>
+    <item quantity="one">%1$d Datei in die Zwischenablage kopiert.</item>
+  </plurals>
+  <plurals name="copy_begin">
+    <item quantity="other">Kopiere %1$d Dateien.</item>
+    <item quantity="one">Kopiere %1$d Datei.</item>
+  </plurals>
+  <plurals name="copy_error_notification_title">
+    <item quantity="other">%1$d Dateien konnten nicht kopiert werden</item>
+    <item quantity="one">%1$d Datei konnte nicht kopiert werden</item>
+  </plurals>
+  <plurals name="delete_error_notification_title">
+    <item quantity="other">%1$d Dateien konnten nicht gelöscht werden</item>
+    <item quantity="one">%1$d Datei konnte nicht gelöscht werden</item>
+  </plurals>
+  <plurals name="delete_files_confirmation_message">
+    <item quantity="other">%1$d Dateien löschen?</item>
+    <item quantity="one">%1$d Datei löschen?</item>
+  </plurals>
+  <plurals name="delete_folders_confirmation_message">
+    <item quantity="other">%1$d Ordner samt Inhalt löschen?</item>
+    <item quantity="one">%1$d Ordner samt Inhalt löschen?</item>
+  </plurals>
+  <plurals name="delete_items_confirmation_message">
+    <item quantity="other">%1$d Elemente löschen?</item>
+    <item quantity="one">%1$d Element löschen?</item>
+  </plurals>
+  <plurals name="deleting">
+    <item quantity="other">Lösche %1$d Dateien.</item>
+    <item quantity="one">Lösche %1$d Datei.</item>
+  </plurals>
+  <plurals name="elements_dragged">
+    <item quantity="other">%1$d Elemente</item>
+    <item quantity="one">%1$d Element</item>
+  </plurals>
+  <plurals name="elements_selected">
+    <item quantity="other">%1$d ausgewählt</item>
+    <item quantity="one">%1$d ausgewählt</item>
+  </plurals>
+  <plurals name="move_begin">
+    <item quantity="other">Verschiebe %1$d Dateien.</item>
+    <item quantity="one">Verschiebe %1$d Datei.</item>
+  </plurals>
+  <plurals name="move_error_notification_title">
+    <item quantity="other">%1$d Dateien konnten nicht verschoben werden</item>
+    <item quantity="one">%1$d Datei konnte nicht verschoben werden</item>
+  </plurals>
 </resources>

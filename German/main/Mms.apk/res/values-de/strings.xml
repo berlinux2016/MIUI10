@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To be formatted -->
-  <string name="add_miui_contact">Mi Card</string>
-  <string name="pref_sms_storage_title">Speicher</string>
-  <string name="pref_summary_auto_delete">Alte Nachrichten beim Erreichen des Grenzwertes löschen</string>
-  <string name="pref_title_auto_delete">Alte Nachrichten löschen</string>
-  <string name="pref_title_mms_retrieval_during_international_roaming">Bei internaltionalem Roaming MMS Inhalte herrunterladen</string>
-  <string name="pref_title_mms_retrieval_during_national_roaming">Bei nationalem Roaming MMS Inhalte herrunterladen</string>
-	 
   <string name="about_smart_sms_title">Smartnachrichten-Partner</string>
   <string name="action_firewall_setting">Sperrliste</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
@@ -16,6 +8,7 @@
   <string name="add_attachment">Anhänge hinzufügen</string>
   <string name="add_contact">vCard</string>
   <string name="add_festival">Vorlagen</string>
+  <string name="add_miui_contact">Mi Card</string>
   <string name="add_music">Musik hinzufügen</string>
   <string name="add_nickname">Spitzname</string>
   <string name="add_nickname_title">Spitzname ändern</string>
@@ -121,6 +114,7 @@
   <string name="context_menu_view_contact">Kontakt anzeigen</string>
   <string name="context_menu_view_mms">MMS anzeigen</string>
   <string name="conversation">Nachrichten</string>
+  <string name="conversation_listitem_avatar">Avatar</string>
   <string name="conversation_style">Blase</string>
   <string name="converting_to_picture_message">Umwandlung in MMS…</string>
   <string name="converting_to_text_message">Umwandlung in SMS…</string>
@@ -166,15 +160,16 @@
   <string name="edit_phrase">Vorlage ändern</string>
   <string name="edit_slide_activity">Dia ändern</string>
   <string name="edit_slideshow_activity">Diashow ändern</string>
-  <string name="enabled">Aktiviert</string>
   <string name="enable_password_protect">Kennwort erforderlich</string>
   <string name="enable_visible_pattern_title">Muster anzeigen</string>
+  <string name="enabled">Aktiviert</string>
   <string name="english_subject_limit">40 Zeichenlimit</string>
   <string name="enter_edit_mode">Nachrichten ändern</string>
   <string name="error_code_label">"Fehlercode: "</string>
   <string name="error_state">Inkonsistenter Zustand</string>
   <string name="error_state_text">Status der Unterhaltungen und Empfänger ist inkonsistent. Bitte erstellen Sie einen Fehlerbericht und melden Sie ihn über http://go/droidanizer</string>
   <string name="error_timed_msg">Ungültige Uhrzeit</string>
+  <string name="ex_type_guide">Informationen</string>
   <string name="ex_type_mx">Mi Nachrichten</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Maximale Nachrichtengröße erreicht</string>
@@ -385,10 +380,10 @@
   <string name="need_download">Wird synchronisiert</string>
   <string name="network_error">Netzwerkfehler</string>
   <string name="networking_allow_continue">Erlauben</string>
-  <string name="networking_allow_desc2">Mi Message muss sich mit dem Internet verbinden, um normal zu arbeiten. Um freie Text- und Sprachdienste zur Verfügung zu stellen, unbekannte Nummern zu erkennen, Spam zu filtern und andere Funktionen zu aktivieren, muss Mi Message "Gelbe Seiten“ verwenden. Erlaube "Gelbe Seiten", sich mit dem Internet zu verbinden, dein Standort zu erhalten und deine Kontakte zu lesen?</string>
-  <string name="networking_allow_desc_without_mx2">Mi Message muss sich mit dem Internet verbinden, um normal zu arbeiten. Um freie Text- und Sprachdienste zur Verfügung zu stellen, unbekannte Nummern zu erkennen, Spam zu filtern und andere Funktionen zu aktivieren, muss Mi Message "Gelbe Seiten“ verwenden. Erlaube "Gelbe Seiten", sich mit dem Internet zu verbinden, dein Standort zu erhalten und deine Kontakte zu lesen</string>
   <string name="networking_allow_desc">Mi Nachrichten erlaubt Ihnen gratis Text- und Sprachnachrichten zu senden, unbekannte Nummern zu erkennen, bietet einen Spamfilter etc. Wenn Sie diesen Service nutzen, stimmen Sie Xiaomis %1$s und %2$s zu. Sie müssen die Gelben Seiten aktivieren und mit dem Internet verbunden sein, um diesen Service zu verwenden.</string>
+  <string name="networking_allow_desc2">Mi Message muss sich mit dem Internet verbinden, um normal zu arbeiten. Um freie Text- und Sprachdienste zur Verfügung zu stellen, unbekannte Nummern zu erkennen, Spam zu filtern und andere Funktionen zu aktivieren, muss Mi Message "Gelbe Seiten“ verwenden. Erlaube "Gelbe Seiten", sich mit dem Internet zu verbinden, dein Standort zu erhalten und deine Kontakte zu lesen?</string>
   <string name="networking_allow_desc_without_mx">Mi Nachrichten ermöglicht Ihnen, unbekannte Nummern zu erkennen, bietet einen Spamfilter etc. Wenn Sie diesen Service nutzen, stimmen Sie Xiaomis %1$s und %2$s zu. Sie müssen die Gelben Seiten aktivieren und mit dem Internet verbunden sein, um diesen Service zu verwenden.</string>
+  <string name="networking_allow_desc_without_mx2">Mi Message muss sich mit dem Internet verbinden, um normal zu arbeiten. Um freie Text- und Sprachdienste zur Verfügung zu stellen, unbekannte Nummern zu erkennen, Spam zu filtern und andere Funktionen zu aktivieren, muss Mi Message "Gelbe Seiten“ verwenden. Erlaube "Gelbe Seiten", sich mit dem Internet zu verbinden, dein Standort zu erhalten und deine Kontakte zu lesen</string>
   <string name="networking_allow_title">Hinweis</string>
   <string name="new_message">Neue Nachricht</string>
   <string name="new_message_arrived">Sie haben eine neue Nachricht</string>
@@ -409,6 +404,7 @@
   <string name="notification_multiple_title">Neue Nachrichten</string>
   <string name="number_add_hint">Nummer eingeben</string>
   <string name="open_audio_record_panel">Bedienfeld der Audioaufnahme öffnen</string>
+  <string name="open_edit_sms_panel">Editieren des SMS-Fensters öffnen</string>
   <string name="open_url_with_web">Diese URL im Browser öffnen?</string>
   <string name="over_max_mms_size">MMS ist zu groß</string>
   <string name="overwrite_edited_content">Geänderter Inhalt wird überschrieben</string>
@@ -443,8 +439,10 @@
   <string name="pref_show_sms_template_in_summary">Einmalpasswörter (OTP) in SMS automatisch erkennen</string>
   <string name="pref_show_sms_template_summary">Bestätigungscodes automatisch kopieren und einfügen</string>
   <string name="pref_smart_messages_settings">Smartnachrichten</string>
+  <string name="pref_sms_storage_title">Speicher</string>
   <string name="pref_sms_theme_title">Thema</string>
   <string name="pref_summary_allow_si_sl_push">Zulassen von Nachrichten, um Inhalte von Webseiten zu laden</string>
+  <string name="pref_summary_auto_delete">Alte Nachrichten beim Erreichen des Grenzwertes löschen</string>
   <string name="pref_summary_delete_limit">%1$s Nachrichten pro Unterhaltung</string>
   <string name="pref_summary_delivery_reports">Sendebestätigung für jede gesendete Nachricht anfordern</string>
   <string name="pref_summary_delivery_ringtone">Benachrichtigungston bei Sendebestätigung</string>
@@ -468,6 +466,7 @@
   <string name="pref_time_auto_group_title">Gruppierte Nachrichten</string>
   <string name="pref_title_about_smart_sms">Über Smartnachrichten-Partner</string>
   <string name="pref_title_allow_si_sl_push">WAP-Pushmitteilungen erlauben (SI/SL)</string>
+  <string name="pref_title_auto_delete">Alte Nachrichten löschen</string>
   <string name="pref_title_card_format">Kartenteilformat</string>
   <string name="pref_title_delivery_reports">Sendebestätigung</string>
   <string name="pref_title_festival_networking">Verbindungsbenachrichtigung</string>
@@ -478,6 +477,8 @@
   <string name="pref_title_mms_auto_retrieval">MMS automatisch herunterladen</string>
   <string name="pref_title_mms_delete">Maximalanzahl MMS</string>
   <string name="pref_title_mms_read_reports">Lesebestätigungen</string>
+  <string name="pref_title_mms_retrieval_during_international_roaming">Bei internaltionalem Roaming MMS Inhalte herrunterladen</string>
+  <string name="pref_title_mms_retrieval_during_national_roaming">Bei nationalem Roaming MMS Inhalte herrunterladen</string>
   <string name="pref_title_mms_retrieval_during_roaming">MMS runterladen bei Roaming</string>
   <string name="pref_title_mms_validity_period">MMS-Ablauf</string>
   <string name="pref_title_notification_body_enabled">Vorschau anzeigen</string>
@@ -611,7 +612,6 @@
   <string name="sim_card1">SIM-Karte 1</string>
   <string name="sim_card2">SIM-Karte 2</string>
   <string name="sim_card_cloud">%s (Mi Nachricht)</string>
-  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sim_copy_to_phone_memory">In Telefonspeicher kopieren</string>
   <string name="sim_delete">Löschen</string>
   <string name="sim_empty">Keine Nachrichten auf der SIM-Karte</string>
@@ -624,6 +624,7 @@
   <string name="slide_up_to_cancel">Zum Abbrechen nach oben wischen</string>
   <string name="slideshow_activity">Diashow</string>
   <string name="sms_card_partner_label">"SMS-Partnerkarte: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Inhalt:</string>
   <string name="sms_full_body">Die eingehende Nachricht wurde zurückgewiesen, da der Speicher voll ist. Löschen Sie alte Nachrichten.</string>
   <string name="sms_full_title">SMS-Speicher voll</string>
@@ -695,11 +696,11 @@
   <string name="to_count">%d Empfänger</string>
   <string name="to_label">"An "</string>
   <string name="to_send_wrapper">Wird um %s gesendet</string>
-  <string name="today">Heute</string>
   <string name="toast_description_required">Sie können keine leere Nachricht senden</string>
   <string name="toast_feedback_finish">Ihre Meldung wird automatisch gesendet, sobald Sie mit dem WLAN verbunden sind</string>
   <string name="toast_feedback_max">Es können maximal 3 Meldungen pro Tag versendet werden</string>
   <string name="toast_feedback_start">Logdaten werden abgerufen…</string>
+  <string name="today">Heute</string>
   <string name="too_many_attachments">Maximal %1$s Anhänge erlaubt. Nur die ersten %2$s werden hinzugefügt.</string>
   <string name="too_many_recipients">Nachricht hat zu viele Empfänger (%1$s). Die Anzahl der Empfänger ist auf %2$s begrenzt.</string>
   <string name="too_many_unsent_mms">Nachricht kann momentan nicht gesendet werden. Es sind zu viele ungesendete MMS vorhanden.</string>
@@ -724,6 +725,9 @@
   <string name="unsticked_conversation">Aktuelle Unterhaltung wurde gelöst</string>
   <string name="unsupported_media_format">Format %1$s wird nicht unterstützt</string>
   <string name="url_fraud_alert">Die Webseite, die Sie besuchen möchten %s könnte eine betrügerische Seite sein, wollen Sie wirklich fortfahren?</string>
+  <string name="url_fraud_dangerous_alert">"Die Webseite, die Sie besuchen möchten ist unsicher, wollen Sie wirklich fortfahren? %s"</string>
+  <string name="url_fraud_insurance">Betrugsverdacht</string>
+  <string name="url_fraud_risky_alert">"Die Webseite, die Sie besuchen möchten ist unsicher. Trotzdem fortfahren? %s"</string>
   <string name="url_fraud_title">Betrugsverdacht</string>
   <string name="url_fraud_visit">
     <u>Trotzdem fortfahren</u>

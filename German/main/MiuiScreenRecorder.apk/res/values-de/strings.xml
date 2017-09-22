@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-  <string name="cannot_record">"Konnte nicht Aufnehmen, bitte versuchen Sie es später erneut."</string>
-  <string name="frequently_click_toast">Dienst initialisiert bitte Warten Sie einen Moment</string>
-
   <string name="app_info">Aufnahme läuft, zum Beenden antippen</string>
   <string name="app_name">Bildschirmaufnahme</string>
   <string name="app_notification_title">Bildschirmaufnahme</string>
@@ -18,7 +14,8 @@
   <string name="button_goon_recorder">Fortsetzen</string>
   <string name="cancel_edit">Abbrechen</string>
   <string name="cannot_change_parames">Parameter können während der Aufnahme nicht geändert werden</string>
-  <string name="date_day"></string>
+  <string name="cannot_record">"Konnte nicht Aufnehmen, bitte versuchen Sie es später erneut."</string>
+  <string name="date_day"/>
   <string name="date_month">-</string>
   <string name="date_year">,</string>
   <string name="delete_confirm_text">Diese Aufnahme löschen?</string>
@@ -28,6 +25,7 @@
   <string name="error_open_file_failed_no_app_found">Es konnte keine App zum Öffnen dieser Datei gefunden werden</string>
   <string name="frames">Bildfrequenz</string>
   <string name="frames_summary">Eine höhere Bildfrequenz verringert die Bewegungsunschärfe</string>
+  <string name="frequently_click_toast">Dienst initialisiert bitte Warten Sie einen Moment</string>
   <string name="gleam_led_while_recording">LED während der Aufnahme blinken lassen</string>
   <string name="hint_back">Zurück</string>
   <string name="hint_home">Home</string>
@@ -52,6 +50,8 @@
   <string name="operation_delete">Löschen</string>
   <string name="operation_send">Senden</string>
   <string name="quit_recording">Bildschirmaufnahme beenden</string>
+  <string name="recording_failure">Aufzeichnung fehlgeschlagen, bitte starten Sie die Bildschirmaufnahme neu</string>
+  <string name="recording_max_size">Die Aufzeichnung wurde gestoppt und automatisch gespeichert, da die maximale Videogröße erreicht wurde. Sie können eine andere Aufnahme starten, wenn Sie mit der Aufnahme fortfahren möchten.</string>
   <string name="resolution">Auflösung</string>
   <string name="resolution_summary">Videos in besserer Qualität sehen schärfer aus</string>
   <string name="screen_orientation">Ausrichtung</string>
@@ -66,8 +66,10 @@
   <string name="sound_source">Tonquelle</string>
   <string name="sound_source_summary">Systemtöne oder Mikrofon</string>
   <string name="start">Start</string>
+  <string name="start_recording">Aufnahme starten</string>
   <string name="stop_by_second_space">Ändern des Benutzers stoppt die Aufnahme</string>
   <string name="stop_record_while_locking">Bildschirm sperren, um die Aufnahme zu beenden</string>
   <string name="stop_record_while_locking_summary">Aufnahme beenden und das Video speichern, sobald der Bildschirm gesperrt wird</string>
+  <string name="stop_recording">Aufnahme stoppen</string>
   <string name="timer_format">%s</string>
 </resources>

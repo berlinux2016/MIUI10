@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To be formatted -->
   <string name="VideoView_error_button">OK</string>
   <string name="VideoView_error_text_invalid_progressive_playback">"Dieses Video kann nicht auf diesem Gerät abgespielt werden."</string>
   <string name="VideoView_error_text_unknown">"Das Video kann nicht abgespielt werden."</string>
@@ -11,6 +10,7 @@
   <string name="alpha_cancel_cancel">Abbrechen</string>
   <string name="alpha_cancel_ok">OK</string>
   <string name="alpha_no_network">Verbinden Sie sich mit dem Internet um daran teilzunehmen</string>
+  <string name="app_name">Updater</string>
   <string name="apply_title">Wird aktualisiert (%s)</string>
   <string name="auto_agree_clause">Privatsphärenrichtlinien aktualisiert</string>
   <string name="auto_button_examine">Anzeigen</string>
@@ -25,8 +25,20 @@
   <string name="auto_update">Automatisch installieren</string>
   <string name="auto_update_sum">MIUI wird für das Update den besten Moment wählen</string>
   <string name="autosetmode">Automatische Updates</string>
+  <string name="battery_islow">Schließen Sie Ihr Ladegerät an</string>
+  <string name="battery_islow_desc">Batteriezustand ist zu niedrig um die Zip-Datei sicher zu installieren, stecken Sie Ihr Ladegerät und versuchen Sie es später wieder!</string>
   <string name="best_update">Bestes Update bis jetzt</string>
   <string name="boot_recovery">In den Recoverymodus neustarten?</string>
+  <string name="btn_changelog">Changelog</string>
+  <string name="btn_download">Lade (%1$s) herunter</string>
+  <string name="btn_error">Ein Fehler ist aufgetreten. Erneut versuchen?</string>
+  <string name="btn_install">Installieren</string>
+  <string name="btn_no">Beenden</string>
+  <string name="btn_ok">OK</string>
+  <string name="btn_pause">Pausieren</string>
+  <string name="btn_share">Teilen</string>
+  <string name="btn_stop">Stoppen</string>
+  <string name="btn_yes">Ja</string>
   <string name="button_delay_update_reboot">Neustarten &amp; aktualsieren</string>
   <string name="button_text_check">Auf neue Updates überprüfen</string>
   <string name="button_text_reboot">Jetzt neustarten</string>
@@ -51,21 +63,30 @@
   <string name="continue_update_positive_btn">Stopp</string>
   <string name="daily_build">Nightly</string>
   <string name="delay_update_text">Heute nacht aktualisieren</string>
+  <string name="dialog_btn_3g">Trotzdem fortsetzen</string>
+  <string name="dialog_btn_wifi">Auf WLAN wechseln</string>
   <string name="dialog_delay_update_cancel">Abbrechen</string>
   <string name="dialog_delay_update_msg">Updates werden zwischen 2 und 5 Uhr installiert sofern Ihr Akkuladestand über 30% ist.</string>
   <string name="dialog_delay_update_title">Ein neues Update ist vorhanden</string>
   <string name="dialog_delay_update_tonight">OK</string>
+  <string name="dialog_stop_desc">Sie können das Herunterladen entweder pausieren oder stoppen.</string>
+  <string name="dialog_stop_title">Download stoppen?</string>
   <string name="download_again">Versuchen Sie es nochmals</string>
   <string name="download_cancel">Abbrechen</string>
   <string name="download_current_rom">Neustarten um das Update anwenden</string>
   <string name="download_diff">Download diff</string>
+  <string name="download_done">Erfolgreich heruntergeladen!</string>
   <string name="download_error">Etwas ist schief gelaufen. Warten Sie eine oder zwei Minuten und versuchen Sie nochmals.</string>
+  <string name="download_fail">Fehler beim Herunterladen!</string>
+  <string name="download_fail_desc">MD5-Checksumme stimmt nicht überein...</string>
   <string name="download_failed">Download fehlgeschlagen</string>
   <string name="download_full">Download voll</string>
   <string name="download_success_reboot_immediately">Neustarten um Update anzuwenden</string>
   <string name="download_title">Downloaden (%s)</string>
   <string name="download_title_first">Rufe Infos ab...</string>
   <string name="download_title_full_download">Rufe Infos ab...</string>
+  <string name="downloading">Herunterladen…</string>
+  <string name="downloading_desc">Herunterladen wird ausgeführt, überprüfen Sie den Status im Benachrichtigungsbereich.</string>
   <string name="edit_text_default">Schreiben Sie einen Kommentar</string>
   <string name="emegency_build">"Build "</string>
   <string name="expect">Erwartungen</string>
@@ -80,9 +101,14 @@
   <string name="go_on_download">Download</string>
   <string name="important_suggestion">Die Privatsphärenrichtlinien haben sich geändert</string>
   <string name="install">Installieren</string>
+  <string name="install_desc">
+    "Gerät wird neu gestartet, um die Wiederherstellung zu starten und die ausgewählte Datei zu installieren: %1$s
+    Die Daten werden nicht gelöscht."
+  </string>
   <string name="install_failed">Update fehlgeschlagen</string>
   <string name="install_file_explorer">Installieren Sie den Dateiexplorer zuerst</string>
   <string name="install_local">Lokal installieren</string>
+  <string name="install_title">Sind Sie sicher fortzufahren?</string>
   <string name="internal_build">Intern</string>
   <string name="later">Später</string>
   <string name="loading">Wird angefordert…</string>
@@ -91,8 +117,13 @@
   <string name="log_status_locked_summary">Bitte versuchen Sie das Login mit einer zugelassenen XiaoMi ID</string>
   <string name="menu_more_button">Menü</string>
   <string name="menu_title_apply_for_alpha">Registrieren Sie sich im Betatestprogramm</string>
+  <string name="menu_title_current_version_log">Was ist neu? (Changelog)</string>
   <string name="menu_title_download_current_rom">Update herunterladen</string>
+  <string name="menu_title_pick_rom_file">Von SD-Karte installieren</string>
+  <string name="menu_title_recovery">Neustart ins Recovery</string>
   <string name="miui_BBS">
+
+
     " "<a href="http://bbs.miui.com">Zum MIUI forum gehen</a>" "
   </string>
   <string name="miui_summary_has_new_version">"  Update verfügbar  "</string>
@@ -106,11 +137,23 @@
   <string name="my_rank">"Update Status: "</string>
   <string name="my_update_feel">Mein Feedback</string>
   <string name="my_worst_update">Schlechtestes Update</string>
+  <string name="new_version">Neue Version gefunden!</string>
   <string name="next">Weiter</string>
+  <string name="no_info">Keine Informationen verfügbar.</string>
   <string name="no_log">Keine Zusammenfassung verfügbar</string>
+  <string name="no_network">Kein Netzwerkzugriff.</string>
+  <string name="no_update">Sie sind bereits auf dem Laufenden!</string>
   <string name="no_wifi_msg">Die Nutzung über Mobiles Internet kann zusätzliche Kosten erzeugen. Verbinden Sie sich mit dem WLAN um das Update zu laden.</string>
   <string name="no_wifi_title">Mit WLAN verbinden</string>
+  <string name="no_xioamieu">
+    "Du benutzt keine MIUI-Rom, die von Xiaomi.eu erstellt wurde!
+    Updates sind für Sie nicht verfügbar!"
+  </string>
   <string name="not_open">Nein</string>
+  <string name="notif_cancel">Beenden</string>
+  <string name="notif_install">Installieren</string>
+  <string name="notif_new_summary">Tippen Sie auf Details</string>
+  <string name="notif_new_title">Neue Version verfügbar!</string>
   <string name="notification_auto_reboot_seccess_title">Gerät wurde automatisch aktualisert</string>
   <string name="notification_delay_update_low_power">Sieht so aus als ob der Akku zu schwach war heute Nacht</string>
   <string name="notification_delay_update_no_update">"Ihr Gerät wurde nicht aktualisiert"</string>
@@ -135,10 +178,17 @@
   <string name="notification_update_new_version">Update verfügbar</string>
   <string name="notification_update_now">Jetzt Aktualisieren</string>
   <string name="notification_updating">Update…</string>
+  <string name="notifications_switch">Benachrichtigungen anzeigen</string>
   <string name="on_checking">Überprüfe…</string>
   <string name="open_now">Ja</string>
   <string name="particular_build">Besonders</string>
   <string name="pause">Pause</string>
+  <string name="permdesc_cache_filesystem">Ermöglicht der App, Dateien zu schreiben /Speicher</string>
+  <string name="permdesc_reboot">Erlaubt der App, das Gerät neu zu starten.</string>
+  <string name="permlab_cache_filesystem">Speicherzugriff</string>
+  <string name="permlab_reboot">Neustartzugriff</string>
+  <string name="pick_not_found">Es wurde kein geeigneter Dateimanager gefunden.</string>
+  <string name="pick_title">Wählen Sie:</string>
   <string name="pm_root_acquired_button">Rootzugang</string>
   <string name="pm_root_acquired_notification_title">Erhalte Rootzugang</string>
   <string name="pm_root_acquired_rooting">Erhalte Rootzugang %s</string>
@@ -162,6 +212,7 @@
   <string name="provision_toast_server_error">"Verbindung zum Server fehlgeschlagen. Warten Sie 1-2 Minuten und versuchen Sie es erneut."</string>
   <string name="provision_toast_timeout">Verbindung verloren. Überprüfen Sie ihre Netzwerkeinstellungen.</string>
   <string name="reboot">Reboot</string>
+  <string name="recovery_desc">Gerät wird in den Wiederherstellungsmodus neugestartet. Wenn Sie nicht mit dem Modus vertraut sind, brechen Sie diese Aktion ab. Fortsetzen?</string>
   <string name="recovery_failed_button">OK</string>
   <string name="recovery_failed_msg">
     "Ihr Gerät verfügt über zu wenig Speicher um in den Recoverymodus wechseln und aktualisieren zu können. Versuchen Sie es stattdessen mit der Mi PC Suite:
@@ -177,6 +228,7 @@
   <string name="root_acquired">Rootzugang erlauben</string>
   <string name="root_agree_check_box_title">Ich bin mir der Risiken des Rootzugangs bewusst</string>
   <string name="root_dangerous_msg">Das Erlauben von Rootzugriff ist extrem gefährlich und kann Ihr Gerät und Ihre persönlichen Daten Angriffen von bösartigen Apps aussetzen. Sie erklären sich damit einverstanden, dass Sie für Schäden an Ihrem Gerät oder dem Verlust von Daten verantwortlich sind, die sich aus dem Rootzugriff ergeben.</string>
+  <string name="server_error">Server reagiert nicht, die Anwendung funktioniert möglicherweise nicht einwandfrei!</string>
   <string name="set_auto">Automatisch nach Updates suchen</string>
   <string name="set_auto_download_msg">MIUI wird automatisch Updates herunterladen wenn Sie mit dem WLAN verbunden sind.</string>
   <string name="set_auto_download_title">Automatisch updaten?</string>
@@ -193,6 +245,7 @@
   <string name="set_network_title">Mit WLAN verbinden</string>
   <string name="set_only_wifi">Ausschließlich WLAN nutzen</string>
   <string name="share_sina">Auf Sina Weibo posten</string>
+  <string name="share_title">Teilen mit</string>
   <string name="share_update">Updateinformationen teilen</string>
   <string name="share_update_content_sign">"Ich habe MIUI auf %1$s aktualisiert! Ich war damit die %2$s Person. Um den Changelog zu sehen gehen Sie auf %3$s"</string>
   <string name="share_update_content_unsign">"Ich habe MIUI auf %1$s aktualisiert! Um den Changelog zu sehen gehen Sie auf %2$s"</string>
@@ -204,6 +257,7 @@
   <string name="sina_token_invalid_warning">Weibo Account ist ungültig. Fügen Sie den Account erneut hinzu.</string>
   <string name="space_not_enough_msg">"Ihr Gerät hat zu wenig Speicher für das Update. Schaffen Sie Speicherplatz un versuche Sie es erneut."</string>
   <string name="space_not_enough_title">Zu wenig Speicherplatz</string>
+  <string name="stable">Stabil</string>
   <string name="stable_build">Stable</string>
   <string name="submit_fail">"Konnte nicht senden"</string>
   <string name="submit_progress">Sende…</string>
@@ -250,6 +304,7 @@
   <string name="userdata_alert_title">Datenverbrauchswarnung</string>
   <string name="validate_pkg_failed_msg">"Konnte die Quelle des Updates nicht ermitteln. Versuchen Sie es später erneut."</string>
   <string name="validate_pkg_failed_title">"Kann Update nicht überprüfen"</string>
+  <string name="version">Momentan installiert:</string>
   <string name="vote_beta">Betafeedbackprogramm</string>
   <string name="vote_error1">
     "Sieht so aus als ob Sie kein Mitglied
@@ -275,59 +330,8 @@
   <string name="vote_not_recommend">"Nicht empfehlen"</string>
   <string name="vote_recommend">Dieses Update empfehlen</string>
   <string name="vote_submit">Senden</string>
-  <string name="weekly_build">Wöchentlich</string>
-  <string name="worst_update">Schlechtestes Update bis jetzt</string>
-  <string name="app_name">Updater</string>
-  <string name="battery_islow">Schließen Sie Ihr Ladegerät an</string>
-  <string name="battery_islow_desc">Batteriezustand ist zu niedrig um die Zip-Datei sicher zu installieren, stecken Sie Ihr Ladegerät und versuchen Sie es später wieder!</string>
-  <string name="btn_changelog">Changelog</string>
-  <string name="btn_download">Lade (%1$s) herunter</string>
-  <string name="btn_install">Installieren</string>
-  <string name="btn_no">Beenden</string>
-  <string name="btn_ok">OK</string>
-  <string name="btn_share">Teilen</string>
-  <string name="btn_yes">Ja</string>
-  <string name="dialog_btn_3g">Trotzdem fortsetzen</string>
-  <string name="dialog_btn_wifi">Auf WLAN wechseln</string>
-  <string name="dialog_stop_desc">Sind Sie sicher, dass Sie einen laufenden Download stoppen wollen? Alle Fortschritte gehen verloren, Sie können nicht weitermachen. Der nächste Download-Versuch beginnt von Anfang an.</string>
-  <string name="dialog_stop_title">Download stoppen?</string> 
-  <string name="download_done">Erfolgreich heruntergeladen!</string>
-  <string name="download_fail">Fehler beim Herunterladen!</string>
-  <string name="download_fail_desc">MD5-Checksumme stimmt nicht überein...</string>
-  <string name="downloading">Herunterladen…</string>
-  <string name="downloading_desc">Herunterladen wird ausgeführt, überprüfen Sie den Status im Benachrichtigungsbereich.</string>
-  <string name="install_desc">
-    "Gerät wird neu gestartet, um die Wiederherstellung zu starten und die ausgewählte Datei zu installieren: %1$s
-    Die Daten werden nicht gelöscht."
-  </string>
-  <string name="install_title">Sind Sie sicher fortzufahren?</string>
-  <string name="menu_title_current_version_log">Was ist neu? (Changelog)</string>
-  <string name="menu_title_pick_rom_file">Von SD-Karte installieren</string>
-  <string name="menu_title_recovery">Neustart ins Recovery</string>
-  <string name="new_version">Neue Version gefunden!</string>
-  <string name="no_info">Keine Informationen verfügbar.</string>
-  <string name="no_network">Kein Netzwerkzugriff.</string>
-  <string name="no_update">Sie sind bereits auf dem Laufenden!</string>
-  <string name="no_xioamieu">
-    "Du benutzt keine MIUI-Rom, die von Xiaomi.eu erstellt wurde!
-    Updates sind für Sie nicht verfügbar!"
-  </string>
-  <string name="notif_cancel">Beenden</string>
-  <string name="notif_install">Installieren</string>
-  <string name="notif_new_summary">Tippen Sie auf Details</string>
-  <string name="notif_new_title">Neue Version verfügbar!</string>
-  <string name="notifications_switch">Benachrichtigungen anzeigen</string>
-  <string name="permdesc_cache_filesystem">Ermöglicht der App, Dateien zu schreiben /Speicher</string>
-  <string name="permdesc_reboot">Erlaubt der App, das Gerät neu zu starten.</string>
-  <string name="permlab_cache_filesystem">Speicherzugriff</string>
-  <string name="permlab_reboot">Neustartzugriff</string>
-  <string name="pick_not_found">Es wurde kein geeigneter Dateimanager gefunden.</string>
-  <string name="pick_title">Wählen Sie:</string>
-  <string name="recovery_desc">Gerät wird in den Wiederherstellungsmodus neugestartet. Wenn Sie nicht mit dem Modus vertraut sind, brechen Sie diese Aktion ab. Fortsetzen?</string>
-  <string name="server_error">Server reagiert nicht, die Anwendung funktioniert möglicherweise nicht einwandfrei!</string>
-  <string name="share_title">Teilen mit</string>
-  <string name="stable">Stabil</string>
-  <string name="version">Momentan installiert:</string>
   <string name="weekly">wöchentlich</string>
+  <string name="weekly_build">Wöchentlich</string>
   <string name="wifi_recommended">Keine WLAN-Verbindung für schnellen Download!</string>
+  <string name="worst_update">Schlechtestes Update bis jetzt</string>
 </resources>
