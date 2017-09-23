@@ -2,15 +2,15 @@
 <resources>
   <plurals name="add_game_notification_title">
     <item quantity="other">%d Spiele hinzugefügt</item>
-    <item quantity="one">%d Spiel hinzugefügt</item>
+    <item quantity="one">Ein Spiel hinzugefügt</item>
   </plurals>
   <plurals name="app_manager_reject_count">
     <item quantity="other">%d mal blockiert</item>
-    <item quantity="one">%d mal blockiert</item>
+    <item quantity="one">Einmal blockiert</item>
   </plurals>
   <plurals name="app_manager_start_count">
     <item quantity="other">%d mal</item>
-    <item quantity="one">%d mal</item>
+    <item quantity="one">Einmal</item>
   </plurals>
   <plurals name="app_usage_day">
     <item quantity="other">Vor %d Tagen verwendet</item>
@@ -31,14 +31,14 @@
       Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Daten berechnen."
     </item>
     <item quantity="one">
-      "Sie haben bereits %s vom täglichen Datenlimit verwendet.
+      "Sie haben bereits einen vom täglichen Datenlimit verwendet.
 
       Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Daten berechnen."
     </item>
   </plurals>
   <plurals name="daily_sim_over_limit_notify_title">
     <item quantity="other">"Sie haben die täglichen Datenlimits von %s bereits benutzt."</item>
-    <item quantity="one">"Sie haben das tägliche Datenlimit von %s bereits benutzt."</item>
+    <item quantity="one">"Sie haben das tägliche Datenlimit von Einem bereits benutzt."</item>
   </plurals>
   <plurals name="fw_blocked_count_call">
     <item quantity="other">%d Anrufe</item>
@@ -180,7 +180,7 @@
   <plurals name="view_num">
     <item quantity="other">%1$d Aufrufe</item>
     <item quantity="zero">%1$d Aufrufe</item>
-    <item quantity="one">Ein Aufruf</item>
+    <item quantity="one">Einen Aufruf</item>
     <item quantity="two">%1$d Aufrufe</item>
     <item quantity="few">%1$d Aufrufe</item>
     <item quantity="many">%1$d Aufrufe</item>
