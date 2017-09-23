@@ -226,7 +226,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="always_running">Dauerbetrieb (%s)</string>
   <string name="amber_alerts_summary">Erhalten Sie Meldungen über Kindesentführungen</string>
   <string name="amber_alerts_title">AMBER Alarmbereitschaft</string>
-  <string name="android_beam_disabled_summary">Bitte NFC einschalten</string>
+  <string name="android_beam_disabled_summary">Bitte NFC aktivieren</string>
   <string name="android_beam_explained">Sie können Webseiten, ein Video oder andere Inhalte auf ein anderes Gerät senden, das Android Beam unterstützt, indem Sie die Geräte dicht nebeneinander halten.(Normalerweise Rückseite an Rückseite)</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Aus</string>
@@ -280,7 +280,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_factory_reset_dlg_title">Updates entfernen?</string>
     <string name="app_floating_window_dlg_disable">"Ausschalten von %1$s's Popupeinstellungen wird die App beenden.
  Möchten Sie es wirklich ausschalten?"</string>
-    <string name="app_floating_window_dlg_enable">"Einschalten von %1$s's Popupeinstellungen erfordert einen Neustart der App. Sie können die Anwendung auch manuell neustarten.
+    <string name="app_floating_window_dlg_enable">"Aktivieren von %1$s's Popupeinstellungen erfordert einen Neustart der App. Sie können die Anwendung auch manuell neustarten.
  Möchten Sie es wirklich einschalten?"</string>
     <string name="app_forget_pattern"><u>Muster vergessen?</u></string>
   <string name="app_forward_locked">Diese App ist kopiergeschützt.</string>
@@ -1108,8 +1108,8 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="confirm_convert_to_fbe_warning">Möchten Sie Benutzerdaten löschen und in Dateiverschlüsselung konvertieren?</string>
   <string name="confirm_download_cancelation_dialog_message">Download abbrechen?</string>
   <string name="confirm_enable_multi_window_text">WARNUNG: Dies ist eine hochexperimentelle Funktion, die es erlaubt, mehrere Aktivitäten über den Appverlauf gleichzeitig am Bildschirm anzuzeigen. Einige Apps könnten dadurch abstürzen.</string>
-  <string name="confirm_enable_multi_window_title">Multifenstermodus einschalten?</string>
-  <string name="confirm_enable_oem_unlock_text">WARNUNG: Funktionen zum Schutz dieses Gerätes werden deaktiviert, wenn Sie dieses Feature einschalten.</string>
+  <string name="confirm_enable_multi_window_title">Multifenstermodus aktivieren?</string>
+  <string name="confirm_enable_oem_unlock_text">WARNUNG: Funktionen zum Schutz dieses Gerätes werden deaktiviert, wenn Sie dieses Feature aktivieren.</string>
   <string name="confirm_enable_oem_unlock_title">OEM-Unlocking erlauben?</string>
   <string name="confirm_erase">Löschen</string>
   <string name="confirm_fingerprint_icon_content_description">Benutzen Sie Ihren Fingerabdruck, um fortzufahren.</string>
@@ -1148,7 +1148,7 @@ Drücken Sie löschen und konvertieren um fortzufahren."</string>
   <string name="credential_storage_type_hardware">Hardware</string>
   <string name="credential_storage_type_software">Nur Software</string>
   <string name="credentials_configure_lock_screen_hint">Zur Speicherung von Anmeldeinformationen müssen Sie erst eine Sperre für den Sperrbildschirm festlegen</string>
-  <string name="credentials_enabled">Der Anmeldedatenspeicher ist eingeschaltet.</string>
+  <string name="credentials_enabled">Der Anmeldedatenspeicher ist aktiviert.</string>
   <string name="credentials_erased">Anmeldedatenspeicher wurde gelöscht.</string>
   <string name="credentials_install">Von Speicher installieren</string>
   <string name="credentials_install_gesture_explanation">Sie müssen Ihr Entsperrmuster eingeben, um das Installieren der Anmeldedaten zu bestätigen.</string>
@@ -1284,7 +1284,7 @@ Unter \"Einstellungen &gt; Konten\" können Sie auswählen, welche Informationen
   <string name="data_usage_forground_label">Vordergrund:</string>
   <string name="data_usage_label_background">Hintergrund</string>
   <string name="data_usage_label_foreground">Vordergrund</string>
-    <string name="data_usage_limit_dialog_mobile">"Ihre Datenverbindung wird ausgeschaltet, sobald das angegebene Limit erreicht ist.
+  <string name="data_usage_limit_dialog_mobile">"Ihre Datenverbindung wird ausgeschaltet, sobald das angegebene Limit erreicht ist.
 
 Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung Ihres Mobilfunkanbieters abweichen. Ziehen Sie deshalb die Verwendung eines niedrigen Limits in Betracht."</string>
   <string name="data_usage_limit_dialog_title">Datenverbrauch begrenzen</string>
@@ -1307,7 +1307,7 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
   <string name="data_usage_metered_mobile">Mobilfunknetze</string>
   <string name="data_usage_metered_title">Mobile Hotspots</string>
   <string name="data_usage_metered_wifi">WLAN-Netzwerke</string>
-  <string name="data_usage_metered_wifi_disabled">WLAN einschalten, um Mobile Hotspots auszuwählen.</string>
+  <string name="data_usage_metered_wifi_disabled">WLAN aktivieren, um Mobile Hotspots auszuwählen.</string>
   <string name="data_usage_other_apps">Andere Apps inbegriffen in Nutzung</string>
   <string name="data_usage_pick_cycle_day">Tag, an dem Datenverbrauchszyklus zurückgesetzt wird:</string>
   <string name="data_usage_received_sent">%1$s erhalten, %2$s gesendet</string>
@@ -1498,7 +1498,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="disable_text">Deaktivieren</string>
   <string name="disable_wifi_master_key_service">Deaktivieren</string>
   <string name="disable_wifi_master_key_service_first">Deaktivieren</string>
-  <string name="disabled">Ausgeschaltet</string>
+  <string name="disabled">Deaktiviert</string>
   <string name="disabled_because_no_backup_security">Um diese Funktion zu verwenden, muss zuerst eine Bildschirmsperre eingerichtet werden</string>
   <string name="disabled_by_admin">Deaktiviert durch Administrator</string>
   <string name="disabled_by_admin_summary_text">Kontrolliert durch admin</string>
@@ -1673,9 +1673,9 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="enable_adb_summary_charging">Das Gerät ist im Lademodus, USB-Debugging ist ausgeschaltet</string>
   <string name="enable_compatibility">App skalieren</string>
   <string name="enable_crypt_keeper_encrypt">Aktivieren der Verschlüsselung</string>
-  <string name="enable_data_string">Datenverbindung einschalten</string>
+  <string name="enable_data_string">Datenverbindung aktivieren</string>
   <string name="enable_drive_mode">Fahrzeugmodus</string>
-  <string name="enable_encrypt">Verschlüsselung einschalten</string>
+  <string name="enable_encrypt">Verschlüsselung aktivieren</string>
   <string name="enable_encrypt_fail">Verschlüsselung fehlgeschlagen</string>
   <string name="enable_encrypt_indicator">Zum Verschlüsseln antippen</string>
   <string name="enable_encrypt_ok">OK</string>
@@ -1685,7 +1685,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="enable_encrypt_xiaomi_account">Diese Sicherung wurde am %1$s erstellt. Zum Wiederherstellen löschen Sie das aktuelle Konto und melden Sie sich als %2$s an.</string>
   <string name="enable_freeform_support">Freihand-Fenster aktivieren</string>
   <string name="enable_freeform_support_summary">Aktivieren Sie die Unterstützung für experimentelle Freihand-Fenster.</string>
-  <string name="enable_mobile_data_when_opening_hotspot">Mobile Datenverbindung einschalten?</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Mobile Datenverbindung aktivieren?</string>
   <string name="enable_multi_window">Multifenstermodus</string>
   <string name="enable_multi_window_summary">Mehrere Aktivitäten gleichzeitig am Bildschirm anzeigen.</string>
   <string name="enable_opengl_traces_title">OpenGL-Traces aktivieren</string>
@@ -1826,7 +1826,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="filter_all_apps">Alle Apps</string>
   <string name="filter_apps_all">Alle</string>
   <string name="filter_apps_cached">Cache</string>
-  <string name="filter_apps_disabled">Ausgeschaltet</string>
+  <string name="filter_apps_disabled">Deaktiviert</string>
   <string name="filter_apps_onsdcard">USB-Speicher</string>
   <string name="filter_apps_running">Aktiv</string>
   <string name="filter_apps_third_party">Installierte</string>
@@ -2020,12 +2020,12 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="has_screenshot_sound">Screenshot-Auslöseton</string>
   <string name="hdcp_checking_dialog_title">HDCP-Prüfverhalten festlegen</string>
   <string name="hdcp_checking_title">HDCP-Prüfung</string>
-  <string name="hdmi_3d_display_enable_summary">3D-Spielunterstützung einschalten</string>
+  <string name="hdmi_3d_display_enable_summary">3D-Spielunterstützung aktivieren</string>
   <string name="hdmi_3d_display_enable_title">3D-Anzeige</string>
   <string name="hdmi_3d_help_title">3D-Stereoskopieunterstützung über HDMI </string>
   <string name="hdmi_3d_stereo_separation_label">3D</string>
-  <string name="hdmi_3dplay_control_disable_subtext">3D-Stereoskopie auf externem 3D-Bildschirm ausgeschaltet</string>
-  <string name="hdmi_3dplay_control_enable_subtext">Stereoskopie auf externem 3D-Bildschirm eingeschaltet</string>
+  <string name="hdmi_3dplay_control_disable_subtext">3D-Stereoskopie auf externem 3D-Bildschirm deaktiviert</string>
+  <string name="hdmi_3dplay_control_enable_subtext">3D Stereoskopie auf externem 3D-Bildschirm aktiviert</string>
   <string name="hdmi_3dplay_control_text">3D einschalten</string>
   <string name="hdmi_3dplay_settings_title">HDMI</string>
   <string name="hdmi_color_calibration_none">Nativ</string>
@@ -3307,7 +3307,7 @@ Betriebssystem auswählen:"</string>
   <string name="path_battery_settings">Einstellungen/Akku</string>
   <string name="path_bluetooth_device_name">Einstellungen/Bluetooth/Gerätename</string>
   <string name="path_bluetooth_device_searchable">Einstellungen/Bluetooth/Sichtbarkeit</string>
-  <string name="path_bluetooth_enable">Einstellungen/Bluetooth/Bluetooth einschalten</string>
+  <string name="path_bluetooth_enable">Einstellungen/Bluetooth/Bluetooth aktivieren</string>
   <string name="path_bluetooth_settings">Einstellungen/Bluetooth</string>
   <string name="path_brightness_settings">Einstellungen/Bildschirm/Helligkeit</string>
   <string name="path_button_light_timeout">Einstellungen/Erweiterte Einstellungen/Tasten/Keep button lights on</string>
@@ -3451,7 +3451,7 @@ Betriebssystem auswählen:"</string>
   <string name="path_wifi_advanced_ip_address_title">Einstellungen/WLAN/Erweiterte Einstellungen/IP Adresse</string>
   <string name="path_wifi_advanced_mac_address_title">Einstellungen/WLAN/Erweiterte Einstellungen/WLAN MAC address</string>
   <string name="path_wifi_display_settings">Einstellungen/Mehr/Kabellose Übertragung</string>
-  <string name="path_wifi_enable">Einstellungen/WLAN/WLAN einschalten</string>
+  <string name="path_wifi_enable">Einstellungen/WLAN/WLAN aktivieren</string>
   <string name="path_wifi_install_credentials">Einstellungen/WLAN/Erweiterte Einstellungen/Zertifikate isntallieren</string>
   <string name="path_wifi_menu_p2p">Einstellungen/WLAN/Erweiterte Einstellungen/WLAN Direct</string>
   <string name="path_wifi_menu_wps_pin">Einstellungen/WLAN/Erweiterte Einstellungen/WPS-PINEingabe</string>
@@ -3538,7 +3538,7 @@ Betriebssystem auswählen:"</string>
   <string name="power_idle">Ruhezustand</string>
   <string name="power_mgr">Akku</string>
   <string name="power_mode">Energieeinstellungen</string>
-  <string name="power_mode_balanced_title">Ausgeglichen einschalten</string>
+  <string name="power_mode_balanced_title">Ausgeglichen</string>
   <string name="power_optimize">Energie sparen</string>
   <string name="power_overcounted">Überzählt</string>
   <string name="power_phone">Anrufe</string>
@@ -3619,7 +3619,7 @@ Betriebssystem auswählen:"</string>
   <string name="print_search_box_hidden_utterance">Suchfeld ausgeblendet</string>
   <string name="print_search_box_shown_utterance">Suchfeld angezeigt</string>
   <string name="print_searching_for_printers">Suche nach Druckern…</string>
-  <string name="print_service_disabled">Dienst ausgeschaltet</string>
+  <string name="print_service_disabled">Dienst deaktiviert</string>
   <string name="print_service_security_warning_summary">Ihr Dokument passiert bei der Übermittlung an den Drucker möglicherweise einen oder mehrere Server.</string>
   <string name="print_service_security_warning_title">%1$s verwenden?</string>
   <string name="print_settings">Drucken</string>
@@ -4502,7 +4502,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="select_webview_provider_title">WebView implementation</string>
   <string name="select_webview_provider_toast_text">This choice is no longer valid. Try again.</string>
   <string name="selinux_status">SELinux-Status</string>
-  <string name="selinux_status_disabled">Ausgeschaltet</string>
+  <string name="selinux_status_disabled">Deaktiviert</string>
   <string name="selinux_status_enforcing">Strikt</string>
   <string name="selinux_status_permissive">Moderat</string>
   <string name="service_background_processes">%1$s frei</string>
@@ -4638,7 +4638,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="sim_change_data_title">Daten-SIM ändern?</string>
     <string name="sim_change_failed">"PIN kann nicht geändert werden.
 Möglicherweise ist die PIN falsch."</string>
-  <string name="sim_change_failed_enable_sim_lock">SIM-Sperre einschalten</string>
+  <string name="sim_change_failed_enable_sim_lock">SIM-Sperre aktivieren</string>
   <string name="sim_change_pin">PIN für SIM-Karte</string>
   <string name="sim_change_succeeded">SIM-PIN erfolgreich geändert</string>
   <string name="sim_disable_sim_lock">SIM-Karte entsperren</string>
@@ -5066,8 +5066,8 @@ Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string
   <string name="sync_calendar">Kalender</string>
   <string name="sync_contacts">Kontakte</string>
   <string name="sync_disabled">Synchronisation ist aus</string>
-  <string name="sync_enable">Auto-Synchronisation einschalten</string>
-  <string name="sync_enabled">Synchronisation ist eingeschaltet</string>
+  <string name="sync_enable">Auto-Synchronisation aktivieren</string>
+  <string name="sync_enabled">Synchronisation ist aktiviert</string>
   <string name="sync_error">Synchronisierungsfehler</string>
   <string name="sync_failed">Synchronisierung fehlgeschlagen</string>
   <string name="sync_gmail">Gmail</string>
@@ -5305,7 +5305,7 @@ Bitte bereinigen Sie mindestens %s"</string>
   <string name="trusted_credentials_disable_confirmation">System-CA-Zertifikat deaktivieren?</string>
   <string name="trusted_credentials_disable_label">Ausschalten</string>
   <string name="trusted_credentials_enable_confirmation">System-CA-Zertifikat aktivieren?</string>
-  <string name="trusted_credentials_enable_label">Einschalten</string>
+  <string name="trusted_credentials_enable_label">Aktivieren</string>
   <string name="trusted_credentials_remove_confirmation">CA-Zertifikat des Nutzers endgültig entfernen?</string>
   <string name="trusted_credentials_remove_label">Entfernen</string>
   <string name="trusted_credentials_summary">Vertrauenswürdige CA-Zertifikate ansehen</string>
@@ -5647,7 +5647,7 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="user_dict_settings_title">Mein Wörterbuch</string>
   <string name="user_enable_calling">Anrufe erlauben</string>
   <string name="user_enable_calling_and_sms_confirm_message">Anruf- und Nachrichtenverlauf wird mit diesem Benutzer geteilt</string>
-  <string name="user_enable_calling_and_sms_confirm_title">Anrufe &amp; SMS einschalten?</string>
+  <string name="user_enable_calling_and_sms_confirm_title">Anrufe &amp; SMS aktivieren?</string>
   <string name="user_enable_calling_confirm_message">Anrufhistorie wird mit diesem Nutzer geteilt</string>
   <string name="user_enable_calling_confirm_title">Anrufe erlauben?</string>
   <string name="user_enable_calling_sms">Anrufe und SMS erlauben</string>
@@ -5869,8 +5869,8 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="wfd_disconnect_diag_msg">Wenn Sie die WLAN-Bildschirmsitzung beenden, wird die Verbindung mit %1$s getrennt.</string>
   <string name="wfd_disconnect_diag_title">Sitzung abbrechen?</string>
   <string name="wfd_disconnect_multiple_diag_message">Wenn Sie die WLAN-Bildschirmsitzung beenden, wird die Verbindung mit %1$s und %2$s anderen Geräten getrennt.</string>
-  <string name="wfd_enable_wifi_diag_title">Sie können WLAN-Bildschirm nur nutzen, wenn WLAN eingeschaltet ist. Jetzt einschalten?</string>
-  <string name="wfd_enabler_title">WLAN-Bildschirm einschalten</string>
+  <string name="wfd_enable_wifi_diag_title">Sie können WLAN-Bildschirm nur nutzen, wenn WLAN aktiviert ist. Jetzt einschalten?</string>
+  <string name="wfd_enabler_title">WLAN-Bildschirm aktivieren</string>
   <string name="wfd_menu_search">Nach Geräten suchen</string>
   <string name="wfd_menu_searching">Suche läuft…</string>
   <string name="wfd_menu_teardown">Anhalten</string>
@@ -5953,7 +5953,7 @@ WLAN Assistent"</string>
   <string name="wifi_data_usage">WLAN-Datennutzung</string>
   <string name="wifi_datanetwork_switch_not_remind">"Nicht nochmal anzeigen"</string>
   <string name="wifi_dialog_remind_type_title">Mobiles Datennetzwerk</string>
-  <string name="wifi_disabled_generic">Ausgeschaltet</string>
+  <string name="wifi_disabled_generic">Deaktiviert</string>
   <string name="wifi_disabled_help">WLAN wurde aufgrund der schlechten Verbindung getrennt</string>
   <string name="wifi_disabled_network_failure">Schlechte Internetverbindung</string>
   <string name="wifi_disabled_password_failure">Authentifizierungsproblem</string>
@@ -5977,7 +5977,7 @@ WLAN Assistent"</string>
   <string name="wifi_display_pause">Pause</string>
   <string name="wifi_display_resume">Fortsetzen</string>
   <string name="wifi_display_session_info">Session Info</string>
-  <string name="wifi_display_settings_empty_list_wifi_display_disabled">Kabellose Übertragung ist ausgeschaltet, weil WLAN ausgeschaltet ist.</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">Kabellose Übertragung ist deaktiviert, weil WLAN ausgeschaltet ist.</string>
   <string name="wifi_display_settings_title">Bildschirmübertragung</string>
   <string name="wifi_display_status_connected">Verbunden</string>
   <string name="wifi_display_status_connecting">Verbindung wird hergestellt…</string>
@@ -6213,10 +6213,10 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_ssid_hint">SSID eingeben</string>
   <string name="wifi_starting">WLAN wird eingeschaltet…</string>
-  <string name="wifi_state_disabled">Ausgeschaltet</string>
-  <string name="wifi_state_disabling">Ausschalten</string>
-  <string name="wifi_state_enabled">Eingeschaltet</string>
-  <string name="wifi_state_enabling">Einschalten</string>
+  <string name="wifi_state_disabled">Deaktiviert</string>
+  <string name="wifi_state_disabling">Deaktivieren</string>
+  <string name="wifi_state_enabled">Aktiviert</string>
+  <string name="wifi_state_enabling">Aktivieren</string>
   <string name="wifi_state_label">WLAN-Status:</string>
   <string name="wifi_state_unknown">Unbekannt</string>
   <string name="wifi_status">Status</string>
