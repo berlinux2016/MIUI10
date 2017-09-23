@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!-- To Translate -->
-  <string name="default_alarm_alert">Default alarm sound</string>
-  <string name="default_alarm_title">Default ringtone</string>
+  <string name="default_alarm_alert">Standard Alarmton</string>
+  <string name="default_alarm_title">Standard Klingelton</string>
   <string name="default_label">Alarm</string>
-  <string name="install_weather_app_error">"Couldn't load app"</string>
-  <string name="install_weather_app_loading">Just a sec…</string>
-  <string name="life_post_setting_FBE_remind">Due to system restriction, weather info in morning report may not display correctly after reboot</string>
+  <string name="install_weather_app_error">"App konnte nicht geladen werden"</string>
+  <string name="install_weather_app_loading">Nur eine Sekunde...</string>
+  <string name="life_post_setting_FBE_remind">Aufgrund von Systemeinschränkungen kann es vorkommen, dass Wetterinformationen im Morgenbericht nach einem Neustart nicht korrekt angezeigt werden.</string>
   <string name="life_post_weather_degree_invalid">--</string>
   <string name="life_post_weather_description">%1$s, %2$s</string>
   <string name="symbol_colon">:</string>
   <string name="temperature_unit">%1$s°</string>
 
-  <string name="add_alarm">"  Neuer Wecker  "</string>
-  <string name="alarm_alert_alert_silenced">Wecker verstummt nach %d Minuten.</string>
+  <string name="add_alarm">" Neuer Wecker "</string>
+  <string name="alarm_alert_alert_silenced">Wecker verstummt nach %d Minute(n).</string>
   <string name="alarm_alert_dismiss_now_text">Abstellen jetzt</string>
   <string name="alarm_alert_dismiss_text">Abstellen</string>
   <string name="alarm_alert_off_action_text">Abstellen</string>
@@ -24,7 +24,7 @@
   <string name="alarm_ascending_mode_title">Ansteigende Lautstärke</string>
   <string name="alarm_count">Wecker mehrmals automatisch verstummt</string>
   <string name="alarm_count_never_summary">，nicht abstellen</string>
-  <string name="alarm_count_summary">，abstellen nach %d Mal</string>
+  <string name="alarm_count_summary">，abstellen nach %d mal</string>
   <string name="alarm_deleted">Wecker gelöscht.</string>
   <string name="alarm_disabled">Aus</string>
   <string name="alarm_duration">Weckintervall (in Min)</string>
@@ -54,12 +54,12 @@
   <string name="analog_gadget">Analoguhr</string>
   <string name="app_label">Uhr</string>
   <string name="auto_silence_never">Nie</string>
-  <string name="auto_silence_summary">Alarm stoppt nach %d Minuten</string>
+  <string name="auto_silence_summary">Alarm stoppt nach %d Minute(n)</string>
   <string name="auto_silence_title">Automatische Stummschaltung</string>
-  <string name="automatic_home_clock">Automatische Heimzeit</string>
-  <string name="automatic_home_clock_summary">Fügen Sie Heimzeit hinzu, bei Reisen in anderen Zeitzonen</string>
+  <string name="automatic_home_clock">Automatische Heimatzeit</string>
+  <string name="automatic_home_clock_summary">Fügen Sie Heimatzeit hinzu, bei Reisen in anderen Zeitzonen</string>
   <string name="birthday_alarm">Geburtstagsalarm</string>
-  <string name="birthday_alarm_summary">Spiele \"Happy Birthday\" an deinem Geburtstag anstelle des Standardwecktons</string>
+  <string name="birthday_alarm_summary">Spiele \"Happy Birthday\" an Deinem Geburtstag anstelle des Standardwecktons</string>
   <string name="cancel">Abbrechen</string>
   <string name="close_alarm">Schließen</string>
   <string name="common_settings">Einstellungen</string>
@@ -161,13 +161,13 @@
   <string name="snooze_duration_title">Schlummerdauer</string>
   <string name="start">Start</string>
   <string name="start_up">Starten</string>
-  <string name="stat_repeat_everyday">täglich</string>
-  <string name="stat_repeat_legal_off_day">an Feiertagen</string>
-  <string name="stat_repeat_legal_workday">an Werktagen</string>
-  <string name="stat_repeat_none">niemals</string>
-  <string name="stat_repeat_self_define">benutzerdefiniert</string>
+  <string name="stat_repeat_everyday">Täglich</string>
+  <string name="stat_repeat_legal_off_day">An Feiertagen</string>
+  <string name="stat_repeat_legal_workday">An Werktagen</string>
+  <string name="stat_repeat_none">Niemals</string>
+  <string name="stat_repeat_self_define">Benutzerdefiniert</string>
   <string name="stat_repeat_weekdays">Mo - Fr</string>
-  <string name="stat_repeat_weekends">am Wochenende</string>
+  <string name="stat_repeat_weekends">Am Wochenende</string>
   <string name="stopwatch_lap_empty_text">Keine Rundenzeit</string>
   <string name="stopwatch_title">Stoppuhr</string>
   <string name="system_time_setting">Einstellungen</string>
