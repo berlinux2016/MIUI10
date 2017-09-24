@@ -1,8 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="availability">
+    <item>Beschäftigt</item>
+    <item>Verfügbar</item>
+    <item>Vorläufig</item>
+  </string-array>
+  <string-array name="buttons_list">
+    <item>Tag</item>
+    <item>Woche</item>
+    <item>Monat</item>
+    <item>Termine</item>
+  </string-array>
+  <string-array name="change_response_labels">
+    <item>Nur diesen Termin</item>
+    <item>Alle Termine in der Reihe</item>
+  </string-array>
   <string-array name="date_calculate_spinner">
     <item>Zukunft</item>
     <item>Vergangenheit</item>
+  </string-array>
+  <string-array name="default_reminder_labels">
+    <item>Zum Termin</item>
+    <item>5 Minuten vorher</item>
+    <item>10 Minuten vorher</item>
+    <item>15 Minuten vorher</item>
+    <item>30 Minuten vorher</item>
+    <item>1 Stunde vorher</item>
+    <item>1 Tag vorher</item>
+    <item>2 Tage vorher</item>
+    <item>1 Woche vorher</item>
+  </string-array>
+  <string-array name="delete_repeating_labels">
+    <item>Nur dieser Termin</item>
+    <item>Dieser und zukünftige Termine</item>
+    <item>Alle Termine</item>
+  </string-array>
+  <string-array name="delete_repeating_labels_no_selected">
+    <item>Dieser &amp; und zukünftige Termine</item>
+    <item>Alle Termine</item>
+  </string-array>
+  <string-array name="fortune_gender">
+    <item>männlich</item>
+    <item>weiblich</item>
+  <string-array name="miui_preferences_default_reminder_labels">
+    <item>Nicht erinnern</item>
+    <item>0 Minuten</item>
+    <item>5 Minuten</item>
+    <item>10 Minuten</item>
+    <item>15 Minuten</item>
+    <item>30 Minuten</item>
+    <item>1 Stunde</item>
+    <item>1 Tag</item>
+    <item>2 Tage</item>
+    <item>1 Woche</item>
+  </string-array>
+  <string-array name="miui_reminder_minutes_labels">
+    <item>Nicht erinnern</item>
+    <item>0 Minuten</item>
+    <item>5 Minuten</item>
+    <item>10 Minuten</item>
+    <item>15 Minuten</item>
+    <item>30 Minuten</item>
+    <item>1 Stunde</item>
+    <item>1 Tag</item>
+    <item>2 Tage</item>
+    <item>1 Woche</item>
+  </string-array>
+  <string-array name="ordinal_labels">
+    <item>1.</item>
+    <item>2.</item>
+    <item>3.</item>
+    <item>4.</item>
+    <item>Letzte</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_vibrateWhen">
+    <item>Immer</item>
+    <item>Nur wenn lautlos</item>
+    <item>Niemals</item>
+  </string-array>
+  <string-array name="preferences_week_start_day_labels">
+    <item>Lokaler Standard</item>
+    <item>Samstag</item>
+    <item>Sonntag</item>
+    <item>Montag</item>
   </string-array>
   <string-array name="reminder_methods_labels">
     <item>Benachrichtigung</item>
@@ -17,98 +97,10 @@
     <item>10 Minuten</item>
     <item>15 Minuten</item>
     <item>30 Minuten</item>
-    <item>1 Stunden</item>
-    <item>1 Tag</item>
-    <item>2 Tage</item>
-    <item>1 Woche</item>
-  </string-array>
-  <string-array name="preferences_week_start_day_labels">
-    <item>Lokaler Standard</item>
-    <item>Samstag</item>
-    <item>Sonntag</item>
-    <item>Montag</item>
-  </string-array>
-  <string-array name="availability">
-    <item>Beschäftigt</item>
-    <item>Verfügbar</item>
-    <item>Vorläufig</item>
-  </string-array>
-  <string-array name="visibility">
-    <item>Standard</item>
-    <item>Privat</item>
-    <item>Öffentlich</item>
-  </string-array>
-  <string-array name="ordinal_labels">
-    <item>1.</item>
-    <item>2.</item>
-    <item>3.</item>
-    <item>4.</item>
-    <item>Letzte</item>
-  </string-array>
-  <string-array name="response_labels1">
-    <item>Keine Antwort</item>
-    <item>Ja</item>
-    <item>Vielleicht</item>
-    <item>Nein</item>
-  </string-array>
-  <string-array name="delete_repeating_labels">
-    <item>Nur dieser Termin</item>
-    <item>Dieser und zukünftige Termine</item>
-    <item>Alle Termine</item>
-  </string-array>
-  <string-array name="delete_repeating_labels_no_selected">
-    <item>Dieser &amp; und zukünftige Termine</item>
-    <item>Alle Termine</item>
-  </string-array>
-  <string-array name="change_response_labels">
-    <item>Nur diesen Termin</item>
-    <item>Alle Termine in der Reihe</item>
-  </string-array>
-  <string-array name="buttons_list">
-    <item>Tag</item>
-    <item>Woche</item>
-    <item>Monat</item>
-    <item>Termine</item>
-  </string-array>
-  <string-array name="prefEntries_alerts_vibrateWhen">
-    <item>Immer</item>
-    <item>Nur wenn lautlos</item>
-    <item>Niemals</item>
-  </string-array>
-  <string-array name="widget_style_list">
-    <item>Transparent</item>
-    <item>Weißer Hintergrund</item>
-  </string-array>
-  <string-array name="miui_reminder_minutes_labels">
-    <item>Nicht erinnern</item>
-    <item>0 Minuten</item>
-    <item>5 Minuten</item>
-    <item>10 Minuten</item>
-    <item>15 Minuten</item>
-    <item>30 Minuten</item>
     <item>1 Stunde</item>
     <item>1 Tag</item>
     <item>2 Tage</item>
     <item>1 Woche</item>
-  </string-array>
-  <string-array name="travel_reminder_minutes_labels">
-    <item>3 Stunden</item>
-    <item>4 Stunden</item>
-    <item>5 Stunden</item>
-    <item>6 Stunden</item>
-    <item>1 Tag</item>
-  </string-array>
-  <string-array name="repeat_frequency_spinner">
-    <item>Tag</item>
-    <item>Woche</item>
-    <item>Monat</item>
-    <item>Jahr</item>
-  </string-array>
-  <string-array name="repeat_frequency_spinner_plural">
-    <item>Tage</item>
-    <item>Wochen</item>
-    <item>Monate</item>
-    <item>Jahre</item>
   </string-array>
   <string-array name="repeat_choose_day">
     <item>1.</item>
@@ -143,14 +135,10 @@
     <item>30.</item>
     <item>31.</item>
   </string-array>
-  <string-array name="repeat_choose_weekday">
-    <item>Mo</item>
-    <item>Di</item>
-    <item>Mi</item>
-    <item>Do</item>
-    <item>Fr</item>
-    <item>Sa</item>
-    <item>So</item>
+  <string-array name="repeat_choose_end">
+    <item>Niemals</item>
+    <item>Zeit</item>
+    <item>Anzahl</item>
   </string-array>
   <string-array name="repeat_choose_month">
     <item>Jan</item>
@@ -178,10 +166,37 @@
     <item>Wochenende</item>
     <item>Ganze Woche</item>
   </string-array>
-  <string-array name="repeat_choose_end">
-    <item>Niemals</item>
-    <item>Zeit</item>
-    <item>Anzahl</item>
+  <string-array name="repeat_choose_weekday">
+    <item>Mo</item>
+    <item>Di</item>
+    <item>Mi</item>
+    <item>Do</item>
+    <item>Fr</item>
+    <item>Sa</item>
+    <item>So</item>
+  </string-array>
+  <string-array name="repeat_countdown">
+    <item>Nie</item>
+    <item>Monatlich</item>
+    <item>Jährlich</item>
+  </string-array>
+  <string-array name="repeat_frequency_spinner">
+    <item>Tag</item>
+    <item>Woche</item>
+    <item>Monat</item>
+    <item>Jahr</item>
+  </string-array>
+  <string-array name="repeat_frequency_spinner_plural">
+    <item>Tage</item>
+    <item>Wochen</item>
+    <item>Monate</item>
+    <item>Jahre</item>
+  </string-array>
+  <string-array name="response_labels1">
+    <item>Keine Antwort</item>
+    <item>Ja</item>
+    <item>Vielleicht</item>
+    <item>Nein</item>
   </string-array>
   <string-array name="timezone_labels">
     <item>Marshallinseln</item>
@@ -269,25 +284,17 @@
     <item>Fidschi</item>
     <item>Tonga</item>
   </string-array>
-  <string-array name="fortune_gender">
-    <item>männlich</item>
-    <item>weiblich</item>
+  <string-array name="travel_reminder_minutes_labels">
+    <item>3 Stunden</item>
+    <item>4 Stunden</item>
+    <item>5 Stunden</item>
+    <item>6 Stunden</item>
+    <item>1 Tag</item>
   </string-array>
-  <string-array name="default_reminder_labels">
-    <item>Zum Termin</item>
-    <item>5 Minuten vorher</item>
-    <item>10 Minuten vorher</item>
-    <item>15 Minuten vorher</item>
-    <item>30 Minuten vorher</item>
-    <item>1 Stunde vorher</item>
-    <item>1 Tag vorher</item>
-    <item>2 Tage vorher</item>
-    <item>1 Woche vorher</item>
-  </string-array>
-  <string-array name="repeat_countdown">
-    <item>Nie</item>
-    <item>Monatlich</item>
-    <item>Jährlich</item>
+  <string-array name="visibility">
+    <item>Standard</item>
+    <item>Privat</item>
+    <item>Öffentlich</item>
   </string-array>
   <string-array name="week_header_name">
     <item>SO</item>
@@ -297,5 +304,9 @@
     <item>DO</item>
     <item>FR</item>
     <item>SA</item>
+  </string-array>
+  <string-array name="widget_style_list">
+    <item>Transparent</item>
+    <item>Weißer Hintergrund</item>
   </string-array>
 </resources>
