@@ -2,44 +2,44 @@
 <resources>
   <string-array name="wifi_status">
     <item></item>
-    <item>Scanning…</item>
-    <item>Connecting…</item>
-    <item>Authenticating…</item>
-    <item>Obtaining IP address…</item>
-    <item>Connected</item>
-    <item>Suspended</item>
-    <item>Disconnecting…</item>
-    <item>Disconnected</item>
-    <item>Unsuccessful</item>
-    <item>Blocked</item>
-    <item>Temporarily avoiding poor connection</item>
+    <item>Scannen…</item>
+    <item>Verbinden…</item>
+    <item>Authentifizieren…</item>
+    <item>IP-Adresse beziehen…</item>
+    <item>Verbunden</item>
+    <item>Angehalten</item>
+    <item>Verbindung trennen…</item>
+    <item>Getrennt</item>
+    <item>Nicht erfolgreich</item>
+    <item>Blockiert</item>
+    <item>Schlechte Verbindung temporär vermeiden</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item></item>
-    <item>Scanning…</item>
-    <item>Connecting to %1$s…</item>
-    <item>Authenticating with %1$s…</item>
-    <item>Obtaining IP address from %1$s…</item>
-    <item>Connected to %1$s</item>
-    <item>Suspended</item>
-    <item>Disconnecting from %1$s…</item>
-    <item>Disconnected</item>
-    <item>Unsuccessful</item>
-    <item>Blocked</item>
-    <item>Temporarily avoiding poor connection</item>
+    <item>Scannen…</item>
+    <item>Verbunden mit %1$s…</item>
+    <item>Authentifizieren mit %1$s…</item>
+    <item>IP-Adresse beziehen von %1$s…</item>
+    <item>Verbunden mit %1$s</item>
+    <item>Angehalten</item>
+    <item>Verbindung von %1$s trennen…</item>
+    <item>Getrennt</item>
+    <item>Nicht erfolgreich</item>
+    <item>Blockiert</item>
+    <item>Schlechte Verbindung temporär vermeiden</item>
   </string-array>
   <string-array name="hdcp_checking_titles">
-    <item>Never check</item>
-    <item>Check for DRM content only</item>
-    <item>Always check</item>
+    <item>Niemals prüfen</item>
+    <item>Nur DRM-Inhalte prüfen</item>
+    <item>Immer prüfen</item>
   </string-array>
   <string-array name="hdcp_checking_summaries">
-    <item>Never use HDCP checking</item>
-    <item>Use HDCP checking for DRM content only</item>
-    <item>Always use HDCP checking</item>
+    <item>Niemals HDCP-Prüfung verwenden</item>
+    <item>HDCP-Prüfung nur für DRM-Inhalte verwenden</item>
+    <item>Immer HDCP-Prüfung verwenden</item>
   </string-array>
   <string-array name="select_logd_size_titles">
-    <item>Off</item>
+    <item>Aus</item>
     <item>64K</item>
     <item>256K</item>
     <item>1M</item>
@@ -47,48 +47,48 @@
     <item>16M</item>
   </string-array>
   <string-array name="select_logd_size_lowram_titles">
-    <item>Off</item>
+    <item>Aus</item>
     <item>64K</item>
     <item>256K</item>
     <item>1M</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
-    <item>Off</item>
-    <item>64K per log buffer</item>
-    <item>256K per log buffer</item>
-    <item>1M per log buffer</item>
-    <item>4M per log buffer</item>
-    <item>16M per log buffer</item>
+    <item>Aus</item>
+    <item>64K pro Log-Puffer</item>
+    <item>256K pro Log-Puffer</item>
+    <item>1M pro Log-Puffer</item>
+    <item>4M pro Log-Puffer</item>
+    <item>16M pro Log-Puffer</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
-    <item>Animation off</item>
-    <item>Animation scale .5x</item>
-    <item>Animation scale 1x</item>
-    <item>Animation scale 1.5x</item>
-    <item>Animation scale 2x</item>
-    <item>Animation scale 5x</item>
-    <item>Animation scale 10x</item>
+    <item>Animation aus</item>
+    <item>Animation Skala 0.5x</item>
+    <item>Animation Skala 1x</item>
+    <item>Animation Skala 1.5x</item>
+    <item>Animation Skala 2x</item>
+    <item>Animation Skala 5x</item>
+    <item>Animation Skala 10x</item>
   </string-array>
   <string-array name="transition_animation_scale_entries">
-    <item>Animation off</item>
-    <item>Animation scale .5x</item>
-    <item>Animation scale 1x</item>
-    <item>Animation scale 1.5x</item>
-    <item>Animation scale 2x</item>
-    <item>Animation scale 5x</item>
-    <item>Animation scale 10x</item>
+    <item>Animation aus</item>
+    <item>Animation Skala 0.5x</item>
+    <item>Animation Skala 1x</item>
+    <item>Animation Skala 1.5x</item>
+    <item>Animation Skala 2x</item>
+    <item>Animation Skala 5x</item>
+    <item>Animation Skala 10x</item>
   </string-array>
   <string-array name="animator_duration_scale_entries">
-    <item>Animation off</item>
-    <item>Animation scale .5x</item>
-    <item>Animation scale 1x</item>
-    <item>Animation scale 1.5x</item>
-    <item>Animation scale 2x</item>
-    <item>Animation scale 5x</item>
-    <item>Animation scale 10x</item>
+    <item>Animation aus</item>
+    <item>Animation Skala 0.5x</item>
+    <item>Animation Skala 1x</item>
+    <item>Animation Skala 1.5x</item>
+    <item>Animation Skala 2x</item>
+    <item>Animation Skala 5x</item>
+    <item>Animation Skala 10x</item>
   </string-array>
   <string-array name="overlay_display_devices_entries">
-    <item>None</item>
+    <item>Keine</item>
     <item>480p</item>
     <item>480p (secure)</item>
     <item>720p</item>
@@ -96,39 +96,39 @@
     <item>1080p</item>
     <item>1080p (secure)</item>
     <item>4K</item>
-    <item>4K (secure)</item>
-    <item>4K (upscaled)</item>
-    <item>4K (upscaled, secure)</item>
-    <item>720p, 1080p (dual screen)</item>
+    <item>4K (sicher)</item>
+    <item>4K (skaliert)</item>
+    <item>4K (skaliert, sicher)</item>
+    <item>720p, 1080p (Dualbildschirm)</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
-    <item>None</item>
+    <item>Keine</item>
     <item>Logcat</item>
     <item>Systrace (Graphics)</item>
     <item>Call stack on glGetError</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
-    <item>Off</item>
-    <item>Draw non-rectangular clip region in blue</item>
-    <item>Highlight tested drawing commands in green</item>
+    <item>Aus</item>
+    <item>Nicht rechteckiger Clipbereich in blau zeichnen</item>
+    <item>Geprüfte Zeichenbefehle grün hervorheben</item>
   </string-array>
   <string-array name="track_frame_time_entries">
-    <item>Off</item>
-    <item>On screen as bars</item>
+    <item>Aus</item>
+    <item>Auf dem Bildschirm als Balken</item>
     <item>In adb shell dumpsys gfxinfo</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
-    <item>Off</item>
-    <item>Show overdraw areas</item>
-    <item>Show areas for Deuteranomaly</item>
+    <item>Aus</item>
+    <item>Überzeichnungsbereiche anzeigen</item>
+    <item>Bereiche für Deuteranomalie anzeigen</item>
   </string-array>
   <string-array name="app_process_limit_entries">
-    <item>Standard limit</item>
-    <item>No background processes</item>
-    <item>At most 1 process</item>
-    <item>At most 2 processes</item>
-    <item>At most 3 processes</item>
-    <item>At most 4 processes</item>
+    <item>Standard Grenzwert</item>
+    <item>Keine Hintergrundprozesse</item>
+    <item>Maximal ein Prozesse</item>
+    <item>Maximal 2 Prozessee</item>
+    <item>Maximal 3 Prozesse</item>
+    <item>Maximal 4 Prozesse</item>
   </string-array>
   <string-array name="usb_configuration_titles">
     <item>Charging</item>
@@ -139,15 +139,15 @@
     <item>MIDI</item>
   </string-array>
   <string-array name="tts_rate_entries">
-    <item>Very slow</item>
-    <item>Slow</item>
+    <item>Sehr langsam</item>
+    <item>Langsam</item>
     <item>Normal</item>
-    <item>Fast</item>
-    <item>Faster</item>
-    <item>Very fast</item>
-    <item>Rapid</item>
-    <item>Very rapid</item>
-    <item>Fastest</item>
+    <item>Schnell</item>
+    <item>Schneller</item>
+    <item>Sehr schnell</item>
+    <item>Rasand</item>
+    <item>Sehr Rasand</item>
+    <item>Am schnellsten</item>
   </string-array>
   <string-array name="tts_demo_strings">
     <item>This is an example of speech synthesis in English.</item>
@@ -158,22 +158,23 @@
     <item>이것은 한국어 음성 합성의 예입니다.</item>
   </string-array>
   <string-array name="tts_demo_string_langs">
-    <item>eng</item>
-    <item>fra</item>
-    <item>deu</item>
-    <item>ita</item>
-    <item>spa</item>
-    <item>kor</item>
+    <item>Eng</item>
+    <item>Fra</item>
+    <item>Deu</item>
+    <item>Ita</item>
+    <item>Spa</item>
+    <item>Kor</item>
   </string-array>
   <string-array name="color_mode_names">
-    <item>Vibrant (default)</item>
-    <item>Natural</item>
+    <item>Lebendig (Standard)</item>
+    <item>Natürlich
+</item>
     <item>Standard</item>
   </string-array>
   <string-array name="color_mode_descriptions">
-    <item>Enhanced colors</item>
-    <item>Natural colors as seen by the eye</item>
-    <item>Colors optimized for digital content</item>
+    <item>Erweiterte Farben</item>
+    <item>Natürliche Farben wie vom Auge gesehen</item>
+    <item>Farben für digitale Inhalte optimiert</item>
   </string-array>
   <string-array name="battery_labels">
     <item>0%</item>
