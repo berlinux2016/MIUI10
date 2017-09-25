@@ -352,13 +352,13 @@
   </string-array>
   <string-array name="hdcp_checking_summaries">
     <item>Never use HDCP checking</item>
-    <item>Use HDCP checking for DRM content only</item>
-    <item>Always use HDCP checking</item>
+    <item>HDCP-Prüfung nur für DRM-Inhalte verwenden</item>
+    <item>Immer HDCP-Prüfung verwenden</item>
   </string-array>
   <string-array name="hdcp_checking_titles">
-    <item>Never check</item>
-    <item>Check for DRM content only</item>
-    <item>Always check</item>
+    <item>Niemals überprüfen</item>
+    <item>Nur DRM-Inhalte prüfen</item>
+    <item>Immer prüfen</item>
   </string-array>
   <string-array name="install_non_market_app_contents">
     <item>Fragen</item>
@@ -399,12 +399,12 @@
     <item>30 Minuten</item>
   </string-array>
   <string-array name="lock_screen_secure_after_timeout_entries">
-    <item>Immediately</item>
-    <item>After 30 seconds</item>
-    <item>After 1 minute</item>
-    <item>After 2 minutes</item>
-    <item>After 5 minutes</item>
-    <item>Never</item>
+    <item>Sofort</item>
+    <item>Nach 30 Sekunden</item>
+    <item>Nach 1 Minuten</item>
+    <item>Nach 2 Minuten</item>
+    <item>Nach 5 Minuten</item>
+    <item>Niemals</item>
   </string-array>
   <string-array name="long_press_timeout_selector_titles">
     <item>Kurz</item>
@@ -928,7 +928,7 @@
     <item>Authentifizierung…</item>
     <item>IP-Adresse erhalten…</item>
     <item>Verbunden</item>
-    <item>Suspendiert</item>
+    <item>Angehalten</item>
     <item>Trennen…</item>
     <item>Getrennt</item>
     <item>Erfolglos</item>
@@ -942,7 +942,7 @@
     <item>Authentifizierung mit %1$s…</item>
     <item>IP Adresse erhalten von %1$s…</item>
     <item>Verbunden mit %1$s</item>
-    <item>Suspendiert</item>
+    <item>Angehalten</item>
     <item>Trennen von %1$s…</item>
     <item>Getrennt</item>
     <item>Erfolglos</item>
