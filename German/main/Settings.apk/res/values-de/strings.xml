@@ -497,7 +497,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_stats_duration">%1$s seit dem Ausstecken</string>
   <string name="battery_stats_flashlight_on_label">Taschenlampe ein</string>
   <string name="battery_stats_gps_on_label">GPS aktiv</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s mit Akku</string>
   <string name="battery_stats_phone_signal_label">Mobilfunksignal</string>
   <string name="battery_stats_screen_on_label">Bildschirm an</string>
@@ -814,7 +813,6 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="calendar_sound_title">Kalenderton</string>
   <string name="call_manager_enable_summary">Diesem Dienst die Verwaltung erlauben, wie Ihre Anrufe getätigt werden.</string>
   <string name="call_manager_enable_title">Anrufmanager aktivieren</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_settings_primary_user_only">Anrufeinstellungen im Erstprofil ändern</string>
   <string name="call_settings_summary">Voicemail, Anrufweiterleitung, Anklopfen, Anrufer-ID einrichten</string>
   <string name="call_settings_title">Anrufeinstellungen</string>
@@ -1365,7 +1363,6 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dndm_auto_button_title">Zeitplan</string>
   <string name="dndm_auto_setting_group">Zeitplan</string>
   <string name="dndm_auto_time_setting">Zeitraum</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">bis</string>
   <string name="dndm_auto_time_turn_off_title">\"Nicht stören\" automatisch ausschalten</string>
   <string name="dndm_auto_time_turn_on">Von</string>
@@ -1715,7 +1712,6 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="gadget_picker_title">Gadget auswählen</string>
   <string name="gadget_state_off">aus</string>
   <string name="gadget_state_on">an</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">Wird ausgeschaltet…</string>
   <string name="gadget_state_turning_on">Wird eingeschaltet…</string>
   <string name="gadget_sync">Synchronisieren</string>
@@ -1853,12 +1849,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="input_method">Eingabemethode</string>
   <string name="input_method_selector">Auswahl der Eingabemethoden</string>
   <string name="input_method_selector_always_hide_title">Nie anzeigen</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Immer anzeigen</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Automatisch</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Einstellungen</string>
   <string name="input_method_settings_button">Einstellungen</string>
   <string name="input_methods_and_subtype_enabler_title">Aktive Eingabemethoden auswählen</string>
@@ -2028,7 +2020,6 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="lift_to_wake_title">Zum Aufwecken anheben</string>
   <string name="line_breaking_summary">Zeilenumbruch optimieren</string>
   <string name="line_breaking_title">Textoptimierung</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Verbindungsgeschwindigkeit::</string>
   <string name="loading_notification_apps">Apps werden geladen…</string>
   <string name="local_auto_backup_off">Aus</string>
@@ -2384,7 +2375,6 @@ für Zweitprofil"</string>
   <string name="memory_title">Verfügbar: %1$s\u0009\u0009Gesamt: %2$s</string>
   <string name="memory_usage">Speicherverbrauch</string>
   <string name="memory_usage_apps">Von Apps verwendeter Speicher</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">%1$s durchschn. Verbrauch in den letzten 3 Stunden</string>
   <string name="menu_cancel">Verwerfen</string>
   <string name="menu_check">Erfahrung</string>
@@ -2415,7 +2405,6 @@ für Zweitprofil"</string>
   <string name="mi_shopping_mall">Mi Market</string>
   <string name="misc_files">Sonstige Dateien</string>
   <string name="misc_files_selected_count">%1$d von %2$d ausgewählt</string>
-  <string name="misc_files_selected_count_bytes">%1$s von %2$s</string>
   <string name="miui_allow_alarm">Alarme</string>
   <string name="miui_allow_light">Benachrichtigungslicht</string>
   <string name="miui_allow_music">Medien</string>
@@ -2736,7 +2725,6 @@ Betriebssystem auswählen:"</string>
   <string name="overlay_display_devices_title">Sekundäre Displays simulieren</string>
   <string name="overlay_settings">Überlagerung von Apps</string>
   <string name="owner_info_settings_edit_text_hint">Hier Eigentümerinformationen eingeben</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Keine</string>
   <string name="owner_info_settings_title">Info zum Eigentümer</string>
   <string name="owner_space">Hauptprofil</string>
@@ -2832,7 +2820,6 @@ Betriebssystem auswählen:"</string>
   <string name="phone_info_label">Über das Telefon</string>
   <string name="phone_language">Sprache</string>
   <string name="phone_language_summary" />
-  <string name="physical_device_title">%1$s - %2$s</string>
   <string name="physical_keyboard_title">Hardware Tastatur</string>
   <string name="picture_color_mode">Bildfarben-Modus</string>
   <string name="picture_color_mode_desc">sRGB verwenden</string>
@@ -3016,7 +3003,6 @@ Betriebssystem auswählen:"</string>
   <string name="private_sms_recording_intro_header">Entsperrmuster zeichnen:</string>
   <string name="private_sms_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich bei Ihrem Mi Konto an</string>
   <string name="process_dex2oat_label">App Optimierung</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">Anbieter %1$s wird verwendet.</string>
@@ -3667,11 +3653,9 @@ Betriebssystem auswählen:"</string>
   <string name="selinux_status_enforcing">Strikt</string>
   <string name="selinux_status_permissive">Moderat</string>
   <string name="service_background_processes">%1$s frei</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s belegt</string>
   <string name="service_manage">Einstellungen</string>
   <string name="service_manage_description">%1$s: wird zurzeit verwendet. Berühren Sie zum Steuern die Einstellungen.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Neustart wird durchgeführt…</string>
   <string name="service_started_by_app">Von der App gestartet</string>
   <string name="service_stop">Beenden</string>
@@ -3831,7 +3815,6 @@ Betriebssystem auswählen:"</string>
   <string name="sim_reenter_new">Neue PIN erneut eingeben</string>
   <string name="sim_select_card">Eine SIM-Karte auswählen</string>
   <string name="sim_selection_required_pref">Auswahl benötigt</string>
-  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">SIM-Karten</string>
   <string name="sim_setup_wizard_title">SIM-Karten</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -3845,7 +3828,6 @@ Betriebssystem auswählen:"</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
-  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Trotzdem überspringen</string>
   <string name="skip_label">Überspringen</string>
@@ -4092,8 +4074,6 @@ Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. U
 <string name="suggestions_title">Vorschläge (%1$d)</string>
 <string name="sum_carrier_select">Netzbetreiber auswählen</string>
 <string name="summary_divider_text">", "</string>
-<string name="summary_font_size">%1$s</string>
-<string name="summary_range_symbol_combination">%1$s - %2$s</string>
 <string name="summary_range_verbal_combination">%1$s bis %2$s</string>
 <string name="supl_not_set">&lt;Nicht festgelegt&gt;</string>
 <string name="supplicant_state_label">Supplikantstatus:</string>
@@ -4119,7 +4099,6 @@ Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. U
 <string name="sync_gmail">Gmail</string>
 <string name="sync_in_progress">Wird Synchronisiert…</string>
 <string name="sync_is_failing">Bei der Synchronisierung treten momentan Probleme auf. Sie wird in Kürze fortgesetzt.</string>
-<string name="sync_item_title">%s</string>
 <string name="sync_menu_sync_cancel">Synchronisierung abbrechen</string>
 <string name="sync_menu_sync_now">Jetzt synchronisieren</string>
 <string name="sync_now">Synchronisieren</string>
@@ -4933,11 +4912,9 @@ Durch Berühren der Schaltfläche \"+\" ein Wort hinzufügen."</string>
 <string name="wifi_security_eap">802.1x EAP</string>
 <string name="wifi_security_none">Unverschlüsselt</string>
 <string name="wifi_security_passpoint">Passpoint</string>
-<string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
 <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
 <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
 <string name="wifi_security_short_eap">802.1x</string>
-<string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
 <string name="wifi_security_short_wep">WEP</string>
 <string name="wifi_security_short_wpa">WPA</string>
 <string name="wifi_security_short_wpa2">WPA2</string>
@@ -5237,7 +5214,6 @@ können Sie auch auf das WLAN von anderen Benutzern zugreifen."</string>
 <string name="zen_mode_summary_alarms_only_by_time">Nur Alarme bis %1$s</string>
 <string name="zen_mode_summary_alarms_only_indefinite">Nur Alarme auf unbestimmte Zeit</string>
 <string name="zen_mode_summary_always">Wechseln zu immer stören</string>
-<string name="zen_mode_summary_combination">%1$s: %2$s</string>
 <string name="zen_mode_visual_interruptions_settings_title">Visuelle Störungen blockieren</string>
 <string name="zen_mode_when">Automatisch einschalten</string>
 <string name="zen_mode_when_every_night">Jede Nacht</string>
