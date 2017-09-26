@@ -1836,7 +1836,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="filter_notif_blocked_apps">Blockiert</string>
   <string name="filter_notif_hide_notifications_apps">Nie auf dem Sperrbildschirm anzeigen</string>
   <string name="filter_notif_priority_apps">Über Nicht stören hinwegsetzen</string>
-  <string name="filter_notif_priority_apps">Priorität</string>
   <string name="filter_notif_sensitive_apps">Sensitiver Inhalt versteckt</string>
   <string name="filter_notif_silent">Anzeigen lautlos</string>
   <string name="filter_overlay_apps">Apps mit Berechtigungen</string>
@@ -4260,7 +4259,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="search_do_not_disturb_mode">Nicht stören</string>
   <string name="search_dtmf_tone_enable_title">Wähltastentöne</string>
   <string name="search_edge_handgrip">Edge controls</string>
-  <string name="search_empty">Entschuldigung, es wurden keine relevanten Einstellungen gefunden</string>
   <string name="search_empty">Keine Suchergebnisse</string>
   <string name="search_enable_adb">USB-Debugging</string>
   <string name="search_equalizer">Equalizer</string>
@@ -4514,7 +4512,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="select_runtime_dialog_title">Laufzeit auswählen</string>
   <string name="select_runtime_title">Laufzeit auswählen</string>
   <string name="select_runtime_warning_message">Neustart zum Ändern der Laufzeit von %1$s an %2$s?</string>
-  <string name="select_sim_card">Select SIM card</string>
   <string name="select_sim_card">SIM Karte auswählen</string>
   <string name="select_sim_for_calls">Anrufen mit</string>
   <string name="select_sim_for_data">SIM für Daten auswählen</string>
@@ -5424,32 +5421,23 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
     Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, ein Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Profilschutz funktioniert nicht ohne Ihr Passwort.
     Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Profil freizuschalten, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Geräteschutzfunktionen werden ohne ein Passwort nicht funktionieren.Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, ein Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Profilschutz funktioniert nicht ohne Ihr Passwort.Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Profil freizuschalten, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_password_profile">Profilschutz wird ohne Ihr Passwort nicht funktionieren.</string>
   <string name="unlock_disable_frp_warning_content_pattern">Geräteschutz funktioniert ohne ein Entsperrmuster nicht.</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren.
-    Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren.
     Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren.Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren.Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_pattern_profile">Profilschutz wird ohne ein Entsperrmuster nicht funktionieren.</string>
   <string name="unlock_disable_frp_warning_content_pin">Geräteschutz funktioniert nicht ohne eine PIN.</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Geräteschutzfunktionen werden ohne eine PIN nicht funktionieren.
     Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Profilschutz wird ohne Ihre PIN nicht funktionieren.
     Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Geräteschutzfunktionen werden ohne eine PIN nicht funktionieren.Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Profilschutz wird ohne Ihre PIN nicht funktionieren.Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Profilschutz wird ohne Ihre PIN nicht funktionieren.</string>
   <string name="unlock_disable_frp_warning_content_unknown">Geräteschutz funktioniert nicht ohne eine Bildschirmsperre.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Geräteschutzfunktionen werden ohne eine Bildschirmsperre nicht funktionieren.
     Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Profilschutz wird ohne Ihre Bildschirmsperre nicht funktionieren.
     Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Geräteschutzfunktionen werden ohne eine Bildschirmsperre nicht funktionieren.Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Profilschutz wird ohne Ihre Bildschirmsperre nicht funktionieren.Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_unknown_profile">Profilschutz wird ohne Ihre Bildschirmsperre nicht funktionieren.</string>
   <string name="unlock_disable_frp_warning_ok">Ja, löschen</string>
   <string name="unlock_disable_frp_warning_title">Geräteschutz löschen?</string>
