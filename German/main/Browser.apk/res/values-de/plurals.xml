@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="adblock_rules_number_text">
+    <item quantity="other">%d Elemente blockiert</item>
+    <item quantity="one">Ein Element blockiert</item>
+  </plurals>
+  <plurals name="find_on_page_matches">
+    <item quantity="other">%d Übereinstimmungen</item>
+    <item quantity="one">Eine Übereinstimmung</item>
+  </plurals>
   <plurals name="last_num_days">
     <item quantity="other">Die letzten %d Tage</item>
     <item quantity="one">Letzter Tag</item>
@@ -12,13 +20,17 @@
     <item quantity="other">%1$d ausgewählt</item>
     <item quantity="one">Eine ausgewählt</item>
   </plurals>
+  <plurals name="video_download_clear_info">
+    <item quantity="other">%1$d Videos erfolgreich gelöscht.</item>
+    <item quantity="one">Ein Video erfolgreich gelöscht.</item>
+  </plurals>
   <plurals name="video_download_clear_prompt">
     <item quantity="other">%1$d Videos löschen?</item>
     <item quantity="one">Ein Video löschen?</item>
   </plurals>
-  <plurals name="video_download_clear_info">
-    <item quantity="other">%1$d Videos erfolgreich gelöscht.</item>
-    <item quantity="one">Ein Video erfolgreich gelöscht.</item>
+  <plurals name="video_history_clear_info">
+    <item quantity="other">%1$d Dateien aus dem Verlauf gelöscht.</item>
+    <item quantity="one">Eine Datei aus dem Verlauf gelöscht.</item>
   </plurals>
   <plurals name="video_history_clear_prompt">
     <item quantity="other">Lösche %1$d Dateien aus dem Verlauf?</item>
@@ -27,17 +39,5 @@
   <plurals name="video_subtitle_last_message">
     <item quantity="other">%d Minuten verbleibend</item>
     <item quantity="one">Eine Minute verbleibend</item>
-  </plurals>
-  <plurals name="video_history_clear_info">
-    <item quantity="other">%1$d Dateien aus dem Verlauf gelöscht.</item>
-    <item quantity="one">Eine Datei aus dem Verlauf gelöscht.</item>
-  </plurals>
-  <plurals name="find_on_page_matches">
-    <item quantity="other">%d Übereinstimmungen</item>
-    <item quantity="one">Eine Übereinstimmung</item>
-  </plurals>
-  <plurals name="adblock_rules_number_text">
-    <item quantity="other">%d Elemente blockiert</item>
-    <item quantity="one">Ein Element blockiert</item>
   </plurals>
 </resources>
