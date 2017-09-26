@@ -109,6 +109,8 @@
   <string name="always_rotate_alert_positive_button_text">Einschalten</string>
   <string name="always_rotate_alert_title">Drehe Bilder automatisch</string>
   <string name="and"> und </string>
+  <string name="app_is_launching">Starte %s ...</string>
+  <string name="app_is_launching_common">Starte App</string>
   <string name="androidesk_wallpapers">Androidhintergründe</string>
   <string name="aperture">Blende</string>
   <string name="app_error">Ein Fehler ist aufgetreten, App wird geschlossen…</string>
@@ -1031,7 +1033,16 @@
   <string name="photo_editor_long_crop">Zuschneiden</string>
   <string name="photo_editor_mosaic">Mosaik</string>
   <string name="photo_editor_navigator_cancel">Abbrechen</string>
+  <string name="photo_editor_navigator_download_network_metered_msg">Für das Herunterladen von %s werden ca. 4 MB mobile Daten benötigt. Jetzt herunterladen?</string>
+  <string name="photo_editor_navigator_download_network_metered_title">Datenverbrauchswarnung</string>
   <string name="photo_editor_navigator_export">Fertig</string>
+  <string name="photo_editor_navigator_module_download_failed">Konnte nicht %s herunterladen</string>
+  <string name="photo_editor_navigator_module_download_now">Herunterladen</string>
+  <string name="photo_editor_navigator_module_download_success">Erfolgreich heruntergeladen</string>
+  <string name="photo_editor_navigator_module_download_wait_wlan">Warten auf WLAN Verbindung</string>
+  <string name="photo_editor_navigator_module_downloading">Lade %s herunter..</string>
+  <string name="photo_editor_navigator_need_download">Verbindung zum Internet herstellen, um %s herunterzuladen.</string>
+  <string name="photo_editor_remover">Löschen</string>
   <string name="photo_editor_rotate">Drehen</string>
   <string name="photo_editor_saving">Speichern…</string>
   <string name="photo_editor_sticker">Sticker</string>
@@ -1131,6 +1142,10 @@
   <string name="remove_recent_album">Aus Favoriten entfernen</string>
   <string name="remove_to_album_title">Zusammenführen mit</string>
   <string name="remove_to_other_album">Zusammenführen mit einer anderen Person</string>
+  <string name="remover_edit_type_free">Objekte</string>
+  <string name="remover_edit_type_line">Linien</string>
+  <string name="remover_erase_aera_too_big">Der Löschbereich ist zu groß</string>
+  <string name="remover_menu_processing">Verarbeite</string>
   <string name="rename_album">Album umbenennen</string>
   <string name="rename_album_failed">Umbenennen fehlgeschlagen</string>
   <string name="rename_album_succeeded">Umbenennen erfolgreich</string>
@@ -1287,7 +1302,6 @@
   <string name="share_album_needs_auto_upload_tip">Backup kann für geteilte Alben nicht deaktiviert werden</string>
   <string name="share_album_owner">Eigentümer</string>
   <string name="share_album_space_full">Nicht genügend Speicherplatz in diesem Album</string>
-  <string name="share_app_is_launching">{0,choice,0#Launching app…|1#%s wird gestartet…}</string>
   <string name="share_by_email_start">%1$s im Hintergrund teilen</string>
   <string name="share_by_email_successfully">%1$s geteilt</string>
   <string name="share_current_album">Aktuelles Album teilen</string>

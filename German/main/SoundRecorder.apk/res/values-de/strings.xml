@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-  <string name="head_set_tip_dialog_msg">Trennen Sie den Kopfhörer, um Ton mit bestimmten Voreinstellungen aufnehmen zu können (z. B. Musik, Stimme).</string>
-  <string name="record_list_category_title_format">d. MMMM yyyy</string>
-  <string name="rename_fail_tip">"Konnte nicht umbenennen. Das Element mit diesem Namen existiert bereits."</string>
-  <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-
   <string name="alert_message_clear_records">Ausgewählte Aufnahme(n) löschen?</string>
   <string name="alert_message_delete_record">Ausgewählte Aufnahme(n) löschen?</string>
   <string name="alert_message_delete_record_title">Lösche Aufnahme</string>
@@ -48,6 +42,7 @@
   <string name="error_sdcard_unmounted">SD-Karte nicht eingebunden, SD-Karte einsetzen</string>
   <string name="export_to_note">Notiz exportieren</string>
   <string name="fm_record">Radioaufnahmen (%d)</string>
+  <string name="head_set_tip_dialog_msg">Trennen Sie den Kopfhörer, um Ton mit bestimmten Voreinstellungen aufnehmen zu können (z. B. Musik, Stimme).</string>
   <string name="head_set_tip_dialog_ok">Ich habs</string>
   <string name="head_set_tip_dialog_title">Internen Mikrofon verwenden</string>
   <string name="invalid_argument">Ungültiges Argument</string>
@@ -62,8 +57,8 @@
   <string name="menu_view_record_list">Liste mit Aufnahmen anzeigen</string>
   <string name="message_file_size_error">Die maximal unterstützte Aufnahmelänge für %s wurde erreicht</string>
   <string name="network_tip_dialog_cancel">Abbrechen</string>
-  <string name="network_tip_dialog_content">Die Spracherkennung benötige eine Internetverbindung, um ordnungsgemäß zu funktionieren</string>
-  <string name="network_tip_dialog_ok">Erlauben</string>
+  <string name="network_tip_dialog_content">Rekorder benötige eine Internetverbindung, um ordnungsgemäß zu funktionieren</string>
+  <string name="network_tip_dialog_ok">Zustimmen</string>
   <string name="network_tip_dialog_title">Internetverbindung erforderlich</string>
   <string name="new_record_name">Neue Aufnahme</string>
   <string name="no_downloading_file">Momentan werden keine Dateien heruntergeladen</string>
@@ -119,6 +114,7 @@
   <string name="record_downloading_notification_count">%d geladen</string>
   <string name="record_list">Aufnahmen</string>
   <string name="record_list_call">Anrufaufnahmen</string>
+  <string name="record_list_category_title_format">d. MMMM yyyy</string>
   <string name="record_list_cloud">Cloudaufnahmen</string>
   <string name="record_list_cloud_call">Cloudanrufaufnahmen</string>
   <string name="record_list_cloud_fm">Cloud-FM-Aufnahmen</string>
@@ -137,6 +133,7 @@
   <string name="rename">Umbenennen</string>
   <string name="rename_dialog_title">Aufnahme umbenennen</string>
   <string name="rename_duplicate">Bitte neu eingeben: Eine Aufnahme mit demselben Namen ist bereit vorhanden.</string>
+  <string name="rename_fail_tip">"Konnte nicht umbenennen. Das Element mit diesem Namen existiert bereits."</string>
   <string name="rename_no_more_tip">Nicht wieder anzeigen</string>
   <string name="retry">Wiederholen</string>
   <string name="runtime_permission_ungranted">Recorder kann ohne erteilten Berechtigungen nicht verwendet werden</string>
@@ -171,6 +168,7 @@
   <string name="text_btn_wave">Wellen</string>
   <string name="text_finish">Bestätigen</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
+  <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_file_is_downloading">Datei wird geladen</string>
   <string name="toast_max_record_time">%1$s kann Aufnehmen für %2$s</string>
   <string name="toast_uninstall_fileexplorer">Dateibrowser nicht installiert</string>

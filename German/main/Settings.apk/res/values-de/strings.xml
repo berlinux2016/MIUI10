@@ -611,7 +611,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="binded_xiaomi_summary">Aktuelles Konto: %s</string>
   <string name="biometric_weak_improve_matching_title">Gesichtserkennung verbessern</string>
   <string name="biometric_weak_liveliness_summary">Augenzwinkern beim Entsperren erforderlich</string>
-  <string name="biometric_weak_liveliness_title">Lebendigkeitscheck</string>
+  <string name="biometric_weak_liveliness_title">Personenechtheitsprüfung</string>
   <string name="ble_scan_notify_text">Um die Standortgenauigkeit zu erhöhen, können Systemanwendungen nachwievor Bluetooth Geräte in der Nähe erkennen. Sie können dies in den LINK_BEGINScaneinstellungenLINK_END ändern.</string>
   <string name="block_list_connected_devices">Verbundene Geräte</string>
   <string name="block_list_diaglog_cancle">Abbrechen</string>
@@ -1000,7 +1000,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="charge_length_format">vor %1$s</string>
   <string name="charging_sounds_title">Ladetöne</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
-  <string name="check_importance">Wichtigkeit prüfen</string>
+  <string name="check_importance">Als wichtig markieren?</string>
   <string name="check_update">Updates suchen</string>
   <string name="checkbox_notification_same_as_incoming_call">Lautstärke von eingehenden Anrufen für Benachrichtigungen verwenden.</string>
   <string name="checking_decryption">Wird überprüft</string>
@@ -1763,8 +1763,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="erase_optional">Optional</string>
   <string name="erase_personal_data">Alle Daten auf dem Gerät</string>
   <string name="erase_personal_data_description">Löscht alle Daten, inkl. Konten, Fotos, Kontakten, Appdaten und Einstellungen</string>
-  <string name="erase_sd_data">SD-Karte formatieren</string>
-  <string name="erase_sd_data_description">Beim Formatieren ferden sämtliche Daten auf der SD-Karte gelöscht</string>
+  <string name="erase_sd_data">Emulierte SD-Karte formatieren</string>
+  <string name="erase_sd_data_description">Beim Formatieren werden sämtliche Daten auf der SD-Karte gelöscht</string>
   <string name="erase_sure">Erforderlich</string>
   <string name="err_authentication_failed">Anmeldung fehlgeschlagen</string>
   <string name="err_bakfile_broken">Diese Sicherung kann nicht verwendet werden</string>
@@ -1854,8 +1854,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="fingerprint_enable_keyguard_toggle_title">Bildschirmsperre</string>
   <string name="fingerprint_enroll_button_add">Einen weiteren hinzufügen</string>
   <string name="fingerprint_enroll_button_next">Weiter</string>
-  <string name="fingerprint_first_open_screen_password_face_tittle">Biometrie （Passwort einrichten, bevor Sie es verwenden）</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Fingerabdruck (legen Sie vorher ein Sperrbildschirmpasswort fest)</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Gesicht (Bildschirmsperre vorher einstellen)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Fingerabdruck (Bildschirmsperre vorher einstellen)</string>
   <string name="fingerprint_for_keyguard_disabled">Fingerabdruck wurde in den Sicherheitseinstellungen deaktiviert.</string>
   <string name="fingerprint_identificating_msg">Fingerabdruck wird gescannt…</string>
   <string name="fingerprint_identify_input_password_msg">Passwort eingeben</string>
@@ -3675,7 +3675,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="privacy_factory_reset_dlg_title">Sichern Sie Ihre Daten</string>
   <string name="privacy_file">Dateien</string>
   <string name="privacy_gallery">Fotos</string>
-  <string name="privacy_header_text_less_than_half">Zu wenig Raumplatz für diese App. Ziehen Sie den Separator weiter.</string>
+  <string name="privacy_header_text_less_than_half">Zu klein. Ein bisschen weiter ziehen.</string>
   <string name="privacy_mms">Nachrichten</string>
   <string name="privacy_mode_dialog_message">Nachrichten, Notizen, Fotos, Einstellungen und eingehende Anrufe ausblenden</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
@@ -4564,15 +4564,12 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="settings_toggle_position_divider_list">Schalter über der Trennlinie sind aktiv</string>
   <string name="setup_add_fingerprint_failed_retry_text">Fingerabdruck hinzufügen fehlgeschlagen</string>
   <string name="setup_choose_unlock_fingerprint_msg">Sie müssen eine Bildschirmsperre einrichten, bevor Sie ein Fingerabdruck hinzufügen können</string>
-  <string name="setup_choose_unlock_mixed_password_color_normal">&lt;font color=#000000&gt;Passwort&lt;/font&gt;</string>
-  <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;font color=#009dff&gt;Passwort&lt;/font&gt;</string>
+  <string name="setup_choose_unlock_mixed_password">Passwort</string>
   <string name="setup_choose_unlock_mixpassword_title">Passwort festlegen</string>
-  <string name="setup_choose_unlock_password_color_normal">&lt;font color=#000000&gt;PIN&lt;/font&gt;</string>
-  <string name="setup_choose_unlock_password_color_pressed">&lt;font color=#009dff&gt;PIN&lt;/font&gt;</string>
+  <string name="setup_choose_unlock_password">PIN</string>
   <string name="setup_choose_unlock_password_msg">4 Ziffern eingeben</string>
   <string name="setup_choose_unlock_password_title">PIN festlegen</string>
-  <string name="setup_choose_unlock_pattern_color_normal">&lt;font color=#000000&gt;MUSTER&lt;/font&gt;</string>
-  <string name="setup_choose_unlock_pattern_color_pressed">&lt;font color=#009dff&gt;MUSTER&lt;/font&gt;</string>
+  <string name="setup_choose_unlock_pattern">Sperrmuster</string>
   <string name="setup_choose_unlock_pattern_title">Sperrmuster zeichnen</string>
   <string name="setup_choose_unlock_type_title">Passwort festlegen</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Sie haben sich entschieden, Ihren Fingerabdruck als eine Möglichkeit zu verwenden, um Ihr Telefon zu entsperren. Wenn Sie jetzt überspringen, müssen Sie dieses später einstellen. Setup dauert nur eine Minute oder so.</string>
@@ -4901,7 +4898,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="status_wifi_mac_address">WLAN-MAC-Adresse</string>
   <string name="status_wimax_mac_address">4G-MAC-Adresse</string>
   <string name="status_write_success">Erfolgreich!</string>
-  <string name="statusbar_permission_desc">Berechtigungen sind nur für wichtige Benachrichtigungen verfügbar</string>
+  <string name="statusbar_permission_desc">Die folgenden Berechtigungen gelten nur für wichtige Benachrichtigungen</string>
   <string name="storage_detail_apps">Apps</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Daten im Cache</string>
@@ -5449,7 +5446,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="unlock_set_do_later_title">Nicht jetzt</string>
   <string name="unlock_set_enter_system">Bildschirmsperre überspringen</string>
   <string name="unlock_set_enter_system_summary">Direkt zum Desktop gehen</string>
-  <string name="unlock_set_unlock_biometric_weak_summary">Geringe Sicherheit, experimentell</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">Experimentelle Funktion mit niedriger Sicherheit</string>
   <string name="unlock_set_unlock_biometric_weak_title">Gesichtserkennung</string>
   <string name="unlock_set_unlock_disabled_summary">Von Admin, Richtlinie oder Anmeldedaten deaktiviert</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Sperre (Muster, PIN, Passwort) ändern oder ausschalten</string>

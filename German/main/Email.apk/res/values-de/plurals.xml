@@ -29,7 +29,8 @@
     <item quantity="many">Diese Unterhaltungen enhalten zusammengeführte Einträge. Dennoch löschen?</item>
   </plurals>
   <plurals name="confirm_delete_draft">
-     <item quantity="other">Entwurf %1$d löschen?</item>
+    <item quantity="other">%1$d Entwürfe löschen?</item>
+    <item quantity="one">1 Entwurf löschen?</item>
   </plurals>
   <plurals name="contact_num_selected">
     <item quantity="other">%d ausgewählt</item>
@@ -40,40 +41,54 @@
     <item quantity="many">%d ausgewählt</item>
   </plurals>
   <plurals name="conversation_archived">
-    <item quantity="other"><b>%1$d</b> Archiviert</item>
-    <item quantity="one"><b>%1$d</b> Archiviert</item>
+    <item quantity="other">
+      <b>%1$d</b> Archiviert</item>
+    <item quantity="one">
+      <b>%1$d</b> Archiviert</item>
   </plurals>
   <plurals name="conversation_deleted">
-    <item quantity="other"><b>%1$d</b> gelöscht</item>
-    <item quantity="one"><b>%1$d</b> gelöscht</item>
+    <item quantity="other">
+      <b>%1$d</b> gelöscht</item>
+    <item quantity="one">
+      <b>%1$d</b> gelöscht</item>
   </plurals>
   <plurals name="conversation_folder_changed">
     <item quantity="other">Geänderte Ordner</item>
     <item quantity="one">Geänderter Ordner</item>
   </plurals>
   <plurals name="conversation_msg_header_count">
-    <item quantity="other">… %1$d Personen</item>
-    <item quantity="one">… %1$d Person</item>
+    <item quantity="other">+%1$d Personen</item>
+    <item quantity="one">+%1$d Person</item>
   </plurals>
   <plurals name="conversation_muted">
-    <item quantity="other"><b>%1$d</b> stumm geschaltet</item>
-    <item quantity="one"><b>%1$d</b> stumm geschaltet</item>
+    <item quantity="other">
+      <b>%1$d</b> stumm geschaltet</item>
+    <item quantity="one">
+      <b>%1$d</b> stumm geschaltet</item>
   </plurals>
   <plurals name="conversation_not_important">
-    <item quantity="other"><b>%1$d</b>" Nachrichten aus "Wichtig" Ordner entfernt"</item>
-    <item quantity="one"><b>%1$d</b>" aus "Wichtig" Ordner entfernt"</item>
+    <item quantity="other">
+      <b>%1$d</b>" Nachrichten aus "Wichtig" Ordner entfernt"</item>
+    <item quantity="one">
+      <b>%1$d</b>" aus "Wichtig" Ordner entfernt"</item>
   </plurals>
   <plurals name="conversation_not_spam">
-    <item quantity="other"><b>%1$d</b>" aus "Spam" Ordner entfernt"</item>
-    <item quantity="one"><b>%1$d</b>" aus "Spam" Ordner entfernt"</item>
+    <item quantity="other">
+      <b>%1$d</b>" aus "Spam" Ordner entfernt"</item>
+    <item quantity="one">
+      <b>%1$d</b>" aus "Spam" Ordner entfernt"</item>
   </plurals>
   <plurals name="conversation_phished">
-    <item quantity="other"><b>%1$d</b> Nachrichten als Spam gemeldet</item>
-    <item quantity="one"><b>%1$d</b> Nachricht als Spam gemeldet</item>
+    <item quantity="other">
+      <b>%1$d</b> Nachrichten als Spam gemeldet</item>
+    <item quantity="one">
+      <b>%1$d</b> Nachricht als Spam gemeldet</item>
   </plurals>
   <plurals name="conversation_spammed">
-    <item quantity="other"><b>%1$d</b> als Spam markiert</item>
-    <item quantity="one"><b>%1$d</b> als Spam markiert</item>
+    <item quantity="other">
+      <b>%1$d</b> als Spam markiert</item>
+    <item quantity="one">
+      <b>%1$d</b> als Spam markiert</item>
   </plurals>
   <plurals name="day">
     <item quantity="other">%d Tage</item>
