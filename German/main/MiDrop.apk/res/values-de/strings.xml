@@ -2,11 +2,19 @@
 <resources>
   <string name="Connect">Verbinden</string>
   <string name="Disconnect">Trennen</string>
+  <string name="HIPS_Perm_External_Storage">Auf Dateien im internen Speicher zugreifen und ändern</string>
+  <string name="HIPS_Perm_Location">Standortinformationen erhalten</string>
+  <string name="HIPS_Perm_PhoneID">Geräteinfo erhalten</string>
+  <string name="HIPS_Perm_Settings">Systemeinstellungen ändern</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">WLAN-Konnektivität ändern</string>
+  <string name="HIPS_Perm_background_start_activity">Im Hintergrund starten</string>
+  <string name="HIPS_Perm_get_accounts">Konten auf dem Gerät aufrufen</string>
+  <string name="HIPS_Perm_get_installed_apps">Infos über installierte Apps erhalten</string>
   <string name="Register">Registrieren</string>
   <string name="Start">Start</string>
-  <string name="StartScan">Start Scan</string>
+  <string name="StartScan">Scan starten</string>
   <string name="Stop">Stopp</string>
-  <string name="StopScan">Stop Scan</string>
+  <string name="StopScan">Scan stoppen</string>
   <string name="TestBonjour">Teste Bonjour</string>
   <string name="TestP2pGc">Teste P2pGroupClient</string>
   <string name="TestP2pGo">Teste P2pGroupOwner</string>
@@ -16,11 +24,14 @@
   <string name="Unregister">Abmelden</string>
   <string name="action_settings">Einstellungen</string>
   <string name="app_name">Mi Drop</string>
+  <string name="btn_goto_grant">Berechtigungen öffnen</string>
   <string name="cancel_confirm">Abbrechen</string>
   <string name="cancel_confirm_title">Übertragung unvollständig. Abbrechen?</string>
   <string name="cancel_receive_confirm">Abbrechen</string>
   <string name="cancel_receive_stop">Empfang halten</string>
   <string name="cancel_stop">Senden halten</string>
+  <string name="description_content">Mi Drop wird zur Datenübertragung verwendet.Stellen Sie sicher, dass Sie auf diese Funktionen verzichten können, bevor Sie die App deinstallieren.</string>
+  <string name="description_title">Über Mi Drop</string>
   <string name="file_not_support">"Dieser Dateityp wird nicht unterstützt"</string>
   <string name="help">Hilfe</string>
   <string name="i_know">Verstanden</string>
@@ -77,6 +88,8 @@
   <string name="receiver_video_file_current_multi">Empfange %2$d​ Video(s) von %1$s…</string>
   <string name="receiver_video_file_current_single">%2$d​ Video von %1$s empfagnen…</string>
   <string name="receiver_video_file_num">%2$d​ Videos von %1$s</string>
+  <string name="request_permission_msg">Mi Drop benötigt %s, bitte Berechtigung erteilen</string>
+  <string name="request_permission_title">Berechtigung erteilen</string>
   <string name="runtime_permission_ungranted">Mi Drop kann aufgrund fehlender Berechtigungen nicht verwendet werden</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
@@ -98,6 +111,7 @@
   <string name="sender_transfer_interrupt">"Übertragung abgebrochen. WLAN während der Übertragung nicht ausschalten."</string>
   <string name="sender_wait">Warten</string>
   <string name="sender_wait_queue">Warten</string>
+  <string name="split_comma">,</string>
   <string name="transfer_interrupt">Übertragung abgebrochen</string>
   <string name="transmission_click_send">Senden</string>
   <string name="transmission_connect">"Empfänger nicht gefunden"</string>
