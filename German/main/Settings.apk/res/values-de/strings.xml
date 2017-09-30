@@ -319,7 +319,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_notification_peekable_summary">Dieser App erlauben, bestimmte Benachrichtigungen kurz am aktuellen Bildschirm einzublenden</string>
   <string name="app_notification_peekable_title">Vorschau erlauben</string>
   <string name="app_notification_preferences">Appeinstellungen</string>
-  <string name="app_notification_priority_summary">Benachrichtigungen an der Spitze der Liste anzeigen lassen und sie weiterhin zulassen, wenn das Gerät nur auf Prioritätsunterbrechungen festgelegt ist</string>
+  <string name="app_notification_priority_summary">Benachrichtigungen an der Spitze der Liste anzeigen lassen und diese weiterhin zulassen, wenn das Gerät nur auf Prioritätsunterbrechungen festgelegt ist</string>
   <string name="app_notification_priority_title">Priorität</string>
   <string name="app_notification_row_banned">Blockiert</string>
   <string name="app_notification_row_priority">Priorität</string>
@@ -452,7 +452,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="background_location_control_summary">Schütze od. erlaube den Zugriff von Apps auf Standortinfos vom Gerät im Hintergrund</string>
   <string name="background_location_control_title">Standortzugriff im Hintergrund</string>
   <string name="background_location_deselect_apps">Auswahl aufheben</string>
-  <string name="background_location_requests_summary">Erlaube Apps Zugriff auf Standortservice wenn du sie nicht benutzt</string>
+  <string name="background_location_requests_summary">Erlaube Apps Zugriffe auf Standortservice wenn Sie diese nicht benutzten</string>
   <string name="background_location_requests_title">Standortlokalisierung im Hintergrund zulassen</string>
   <string name="background_location_select_apps">Alle auswählen</string>
   <string name="background_process_stop_description">Hierbei handelt es sich um einen alten Appprozess, der für den Fall, dass er wieder benötigt wird, beibehalten wird. Normalerweise gibt es keinen Grund ihn zu beenden.</string>
@@ -567,7 +567,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_level_title">Akkuladung</string>
   <string name="battery_light_summary">LED während dem Laden einschalten</string>
   <string name="battery_light_title">Ladekontrollleuchte</string>
-  <string name="battery_msg_unaccounted">Der Akkuverbrauch ist eine Näherung von Stromverbrauch und enthält nicht jede Quelle von Batterieentladung. Sonstiges ist die Differenz von dem berechneten ungefähren Stromverbrauch und der eigentlichen beobachteten Entladung der Batterie.</string>
+  <string name="battery_msg_unaccounted">Der Akkuverbrauch ist eine Näherung von Stromverbrauch und enthält nicht jede Quelle von Akkuentladung. Sonstiges ist die Differenz von dem berechneten ungefähren Stromverbrauch und der eigentlichen beobachteten Entladung des Akkus.</string>
   <string name="battery_saver">Battery Saver</string>
   <string name="battery_saver_desc_turn_on_auto_never">Nie automatisch einschalten</string>
   <string name="battery_saver_desc_turn_on_auto_pct">Automatisch bei %1$s Akkustand einschalten</string>
@@ -1663,7 +1663,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="edge_mode_notification_summary">Antippen, um mehr zu erfahren.</string>
   <string name="edge_mode_notification_title">Nutze die Kantensteuerung</string>
   <string name="edge_mode_photo">Ein Foto machen</string>
-  <string name="edge_mode_photo_summary">Tippen Sie in der Kameraapp auf den Rand des Telefons, um den Blendenverschluss auszulösen und tippen sie erneut, um ein Foto zu machen</string>
+  <string name="edge_mode_photo_summary">Tippen Sie in der Kamera auf den Rand des Telefons, um den Blendenverschluss auszulösen und tippen Sie erneut, um ein Foto zu machen</string>
   <string name="edge_mode_screenshot">Screenshot</string>
   <string name="edge_mode_screenshot_summary">Auf beide Kanten doppelt tippen, um einen Screenshot zu machen</string>
   <string name="edge_touch_volume">Einstellen der Lautstärke an den Rändern</string>
@@ -2106,7 +2106,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="hotspot_accout_check_server_url"/>
   <string name="hotspot_accout_up_sell_url"/>
   <string name="http_invoke_app">Web Apps</string>
-  <string name="http_invoke_app_summary">Öffnen Sie Apps schneller, ohne sie zu installieren</string>
+  <string name="http_invoke_app_summary">Öffnen Sie Apps schneller, ohne diese zu installieren</string>
   <string name="ignore_optimizations_off">Optimieren</string>
   <string name="ignore_optimizations_off_desc">Empfohlen für mehr Akkulaufzeit</string>
   <string name="ignore_optimizations_on">Nicht optimieren</string>
@@ -2150,7 +2150,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="install_applications">Unbekannte Herkunft</string>
   <string name="install_applications_title">Alle Appquellen zulassen</string>
   <string name="install_master_key_and_connect">Mit dem WLAN Master Key können Sie eine Verbindung mit dem Netzwerk herstellen. Dieses Werkzeug installieren?</string>
-  <string name="install_no_market_app_summary">Installation von Apps aus anderen Quellen als dem Appstore zulassen</string>
+  <string name="install_no_market_app_summary">Installation von Apps aus anderen Quellen als dem App Store zulassen</string>
   <string name="install_no_market_app_title">Unbekannte Quellen</string>
   <string name="install_preinstall_app">Lade Apps…</string>
   <string name="install_text">Installieren</string>
@@ -2637,7 +2637,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="master_clear_all">"Alle Daten vom internen Telefonspeicher löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
   <string name="master_clear_apply_step_1">
     <b>“Werksreset” löscht alle Daten auf Ihrem Telefon</b>, inkl. Fotos, Musik, Notizen und andere persönliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
-  <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden währen dem Rücksetzen von Ihrem Gerät gelöscht. <b>Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.</b>
+  <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass Sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden währen dem Rücksetzen von Ihrem Gerät gelöscht. <b>Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.</b>
   </string>
   <string name="master_clear_apply_title">Hinweis</string>
   <string name="master_clear_button_text">Telefon zurücksetzen</string>
@@ -2927,7 +2927,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="multi_user_mode_backup_message">Sicherung kann im Mehrbenutzermodus nicht verwendet werden. Schalten Sie den Mehrbenutzermodus aus um fortzufahren.</string>
   <string name="multi_user_mode_dialog_message">Mi Mover kann im Mehrbenutzermodus nicht verwendet werden. Schalten Sie den Mehrbenutzermodus aus um fortzufahren.</string>
   <string name="multi_user_mode_dialog_title">Sie sind im Mehrbenutzermodus</string>
-  <string name="music_app_unavailable">Musikapp wird benötigt, stellen Sie sicher, dass sie installiert ist</string>
+  <string name="music_app_unavailable">Musikapp wird benötigt, stellen Sie sicher, dass diese installiert ist</string>
   <string name="music_audio_effect_optimize">Audioeinstellungen</string>
   <string name="music_audio_effect_optimize_summary">Dirac, Kopfhörer und weitere Audioeinstellungen</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD-Sound, Kopfhörer und weitere Audioeinstellungen</string>
@@ -4107,7 +4107,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="screen_resolution_dialog_title">Anzeigegröße</string>
   <string name="screen_resolution_high_format">Hoch (%1$s)</string>
   <string name="screen_resolution_normal_format">Normal (%1$s)</string>
-  <string name="screen_resolution_summary">"Wenn Sie die Bildschirmauflösung senken, dann kann die Batterielebensdauer und Systemgeschwindigkeit erhöht werden, allerdings können Bilder weniger scharf erscheinen. Ihr Gerät muss neu gestartet werden, um diese Änderung zu übernehmen."</string>
+  <string name="screen_resolution_summary">"Wenn Sie die Bildschirmauflösung senken, dann kann die Akkulebensdauer und Systemgeschwindigkeit erhöht werden, allerdings können Bilder weniger scharf erscheinen. Ihr Gerät muss neu gestartet werden, um diese Änderung zu übernehmen."</string>
   <string name="screen_resolution_switch">Auflösung umstellen</string>
   <string name="screen_resolution_title">Bildschirmauflösung</string>
   <string name="screen_resolution_ultrahigh_format">Sehr hoch (%1$s)</string>
@@ -4631,7 +4631,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="show_wifi_master_key_summary">Mit geteilten WLAN-Netzwerken über WLAN Master Key verbinden</string>
   <string name="show_wifi_master_key_title">Geteilte WLAN-Netzwerke erkennen</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
-  <string name="shut_down_find_device_network_failure_content">"Konnte Gerät nicht herunterfahren. Stellen sie sicher, dass das Gerät mit dem Internet verbunden ist."</string>
+  <string name="shut_down_find_device_network_failure_content">"Konnte Gerät nicht herunterfahren. Stellen Sie sicher, dass das Telefon mit dem Internet verbunden ist."</string>
   <string name="shut_down_find_device_network_failure_title">"Konnte nicht mit dem Internet verbinden"</string>
   <string name="shuting_down_find_device">Gerät finden ausschalten…</string>
   <string name="silent_duration">Dauer</string>
@@ -4930,9 +4930,9 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="storage_internal_format_details">"Nach dem Formatieren können Sie diesen ^1 in anderen Geräten verwenden.
     Alle Daten auf diesem ^1 werden gelöscht. Erwägen Sie eine Sicherung.
     "<b>Fotos &amp; andere Medien sichern</b>"
-    Verschieben Sie Ihre Medien auf einen anderen Speicher in diesem Gerät oder kopieren Sie sie über USB auf einen PC.
+    Verschieben Sie Ihre Medien auf einen anderen Speicher in diesem Telefon oder kopieren Sie diese über USB auf einen PC.
     "<b>Apps sichern</b>"
-    Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie sie auf einen anderen Speicher auf diesem Gerät."</string>
+    Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie diese auf einen anderen Speicher auf diesem Telefon."</string>
   <string name="storage_internal_title">Interner Speicher</string>
   <string name="storage_internal_unmount_details">
     <b>Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein.</b>"
@@ -5506,7 +5506,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="usage_type_on_time">Laufzeit</string>
   <string name="usage_type_phone">Telefon</string>
   <string name="usage_type_radio_active">Mobilfunk aktiv</string>
-  <string name="usage_type_total_battery_capacity">Gesamtbatteriekapazität</string>
+  <string name="usage_type_total_battery_capacity">Gesamte Akkukapazität</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Aktiv lassen</string>
   <string name="usage_type_wifi_running">WLAN aktiv</string>

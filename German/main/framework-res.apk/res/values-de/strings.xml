@@ -145,7 +145,7 @@ Möchten Sie ihn beenden?"</string>
   <string name="back_button_label">Zurück</string>
   <string name="badPin">Die alte PIN ist falsch</string>
   <string name="badPuk">PUK ist falsch</string>
-  <string name="battery_saver_description">"Der Energiesparmodus hilft den Akku zu schonen, indem er die Leistung des Geräts reduziert und die Vibrationsfunktion und die meisten Hintergrunddatenaktivitäten einschränkt. E-Mail-, SMS/MMS- und andere Apps, die die Synchronisierungsfunktion benötigen, werden möglicherweise nicht aktualisiert, bis Sie sie öffnen.
+  <string name="battery_saver_description">"Der Energiesparmodus hilft den Akku zu schonen, indem er die Leistung des Geräts reduziert und die Vibrationsfunktion und die meisten Hintergrunddatenaktivitäten einschränkt. E-Mail-, SMS/MMS- und andere Apps, die die Synchronisierungsfunktion benötigen, werden möglicherweise nicht aktualisiert, bis Sie diese öffnen.
 
 Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="beforeOneMonthDurationPast">Vor mehr als einem Monat</string>
@@ -827,10 +827,10 @@ Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanb
   <string name="peerTtyModeOff">Peer angefordert TTY Mode Aus</string>
   <string name="peerTtyModeVco">Peer angefordert TTY Mode VCO</string>
   <string name="perm_costs_money">Hierfür können Gebühren anfallen.</string>
-  <string name="permdesc_accessCoarseLocation">Ermöglicht der App, Ihren ungefähren Standort zu ermitteln. Diese Standortangabe stammt von Standortdiensten, die Netzwerkstandortquellen wie etwa Sendemasten oder WLAN verwenden. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App sie verwenden kann. Apps können Ihren ungefähren Standort anhand dieser Daten ermitteln.</string>
+  <string name="permdesc_accessCoarseLocation">Ermöglicht der App, Ihren ungefähren Standort zu ermitteln. Diese Standortangabe stammt von Standortdiensten, die Netzwerkstandortquellen wie etwa Sendemasten oder WLAN verwenden. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App diese verwenden kann. Apps können Ihren ungefähren Standort anhand dieser Daten ermitteln.</string>
     <string name="permdesc_accessContentProvidersExternally">Berechtigt den Inhaber, extern auf Content-Anbieter zuzugreifen. Bei normalen Apps nicht notwendig</string>
   <string name="permdesc_accessDrmCertificates">Ermöglicht einer App die Bereitstellung und Nutzung von DRM-Zertifikaten. Sollte für normale Apps nie benötigt werden</string>
-  <string name="permdesc_accessFineLocation">Ermöglicht der App, Ihre genaue Position anhand von GPS-Daten (Global Positioning System) oder über Netzwerkstandortquellen wie Sendemasten oder WLAN zu ermitteln. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App sie verwenden kann. Apps können Ihren Standort anhand dieser Daten ermitteln und verbrauchen eventuell zusätzliche Akkuleistung.</string>
+  <string name="permdesc_accessFineLocation">Ermöglicht der App, Ihre genaue Position anhand von GPS-Daten (Global Positioning System) oder über Netzwerkstandortquellen wie Sendemasten oder WLAN zu ermitteln. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App diese verwenden kann. Apps können Ihren Standort anhand dieser Daten ermitteln und verbrauchen eventuell zusätzliche Akkuleistung.</string>
     <string name="permdesc_accessImsCallService">Ermöglicht der App, den IMS-Service zu verwenden, um Anrufe ohne Ihr Eingreifen zu machen</string>
   <string name="permdesc_accessInputFlinger">Ermöglicht der App, die systemnahen InputFlinger-Funktionen zu verwenden</string>
   <string name="permdesc_accessLocationExtraCommands">Ermöglicht der App, auf zusätzliche Standortanbieterbefehle zuzugreifen. Damit könnte die App die Funktionsweise von GPS oder anderen Standortquellen beeinträchtigen.</string>
@@ -841,7 +841,7 @@ Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanb
   <string name="permdesc_accessNotifications">Ermöglicht der App das Abrufen, Überprüfen und Löschen von Benachrichtigungen, einschließlich Benachrichtigungen, die von anderen Apps gepostet wurden</string>
     <string name="permdesc_accessSurfaceFlinger">Ermöglicht der App, die systemnahen SurfaceFlinger-Funktionen zu verwenden</string>
   <string name="permdesc_accessWifiState">Ermöglicht der App, Informationen zu WLANs abzurufen, etwa ob ein WLAN aktiviert ist, und den Namen verbundener WLAN-Geräte</string>
-  <string name="permdesc_accessWimaxState">Ermöglicht der App festzustellen, ob WiMAX aktiviert ist. Zudem kann sie Informationen zu verbundenen WiMAX-Netzwerken abrufen.</string>
+  <string name="permdesc_accessWimaxState">Ermöglicht der App festzustellen, ob WiMAX aktiviert ist. Zudem kann diese Informationen zu verbundenen WiMAX-Netzwerken abrufen.</string>
     <string name="permdesc_access_keyguard_secure_storage">Ermöglicht einer App den Zugriff auf mit Keyguard geschützten Speicher</string>
   <string name="permdesc_access_notification_policy">Ermöglicht der App, die \"Nicht stören\"-Konfiguration zu lesen</string>
     <string name="permdesc_accountManagerService">Ermöglicht der App, Anrufe an Kontoauthentifizierer zu tätigen</string>
@@ -893,7 +893,7 @@ Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanb
   <string name="permdesc_broadcastSticky">Ermöglicht der App, dauerhafte Broadcasts zu senden, die auch nach Ende des Broadcasts bestehen bleiben. Ein zu intensiver Einsatz kann das Telefon langsam oder instabil machen, weil zu viel Arbeitsspeicher belegt wird.</string>
     <string name="permdesc_broadcastWapPush">Ermöglicht der App, eine Benachrichtigung zu senden, dass eine WAP PUSH-Nachricht empfangen wurde. Schädliche Apps können so den Empfang von MMS vortäuschen oder unbemerkt den Inhalt einer beliebigen Webseite durch schädliche Inhalte ersetzen.</string>
     <string name="permdesc_cache_filesystem">Ermöglicht der App Lese- und Schreibzugriff auf das Cache-Dateisystem</string>
-    <string name="permdesc_callPhone">Ermöglicht der App, ohne Ihr Eingreifen Telefonnummern zu wählen. Dies kann zu unerwarteten Kosten und Anrufen führen. Beachten Sie, dass die App keine Notrufnummern wählen kann. Schädliche Apps verursachen möglicherweise Kosten, indem sie Anrufe ohne Ihre Bestätigung tätigen.</string>
+    <string name="permdesc_callPhone">Ermöglicht der App, ohne Ihr Eingreifen Telefonnummern zu wählen. Dies kann zu unerwarteten Kosten und Anrufen führen. Beachten Sie, dass die App keine Notrufnummern wählen kann. Schädliche Apps verursachen möglicherweise Kosten, indem diese Anrufe ohne Ihre Bestätigung tätigen.</string>
     <string name="permdesc_callPrivileged">Ermöglicht der App, ohne Ihr Eingreifen eine beliebige Telefonnummer zu wählen, einschließlich Notrufnummern. Schädliche Apps können so unnötige und illegale Notrufe tätigen.</string>
     <string name="permdesc_camera">Ermöglicht der App, Bilder und Videos mit der Kamera aufzunehmen. Die Berechtigung erlaubt der App, die Kamera jederzeit und ohne Ihre Bestätigung zu nutzen.</string>
   <string name="permdesc_cameraDisableTransmitLed">Vorinstallierte System-Apps können die LED-Anzeige für die Kameranutzung deaktivieren.</string>
@@ -926,8 +926,8 @@ Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanb
     <string name="permdesc_deletePackages">Ermöglicht der App, Android-Pakete zu löschen. Schädliche Apps können so wichtige Apps löschen.</string>
     <string name="permdesc_devicePower">Ermöglicht der App, das Telefon ein- oder auszuschalten</string>
     <string name="permdesc_diagnostic">Ermöglicht der App, alle Elemente in der Diagnosegruppe zu lesen und zu bearbeiten, etwa Dateien in \"/dev\". Dies könnte eine potenzielle Gefährdung für die Stabilität und Sicherheit des Systems darstellen und sollte NUR für hardwarespezifische Diagnosen des Herstellers oder Mobilfunkanbieters verwendet werden.</string>
-    <string name="permdesc_disableKeyguard">Ermöglicht der App, die Tastensperre sowie den damit verbundenen Passwortschutz zu deaktivieren. Das Telefon deaktiviert die Tastensperre beispielsweise, wenn ein Anruf eingeht, und aktiviert sie wieder, nachdem das Gespräch beendet wurde.</string>
-    <string name="permdesc_dump">Ermöglicht der App, den internen Systemstatus abzurufen. Schädliche Apps können so eine Vielzahl an privaten und geschützten Daten abrufen, die sie in der Regel nicht benötigen.</string>
+    <string name="permdesc_disableKeyguard">Ermöglicht der App, die Tastensperre sowie den damit verbundenen Passwortschutz zu deaktivieren. Das Telefon deaktiviert die Tastensperre beispielsweise, wenn ein Anruf eingeht, und aktiviert diese wieder, nachdem das Gespräch beendet wurde.</string>
+    <string name="permdesc_dump">Ermöglicht der App, den internen Systemstatus abzurufen. Schädliche Apps können so eine Vielzahl an privaten und geschützten Daten abrufen, die diese in der Regel nicht benötigen.</string>
   <string name="permdesc_enableCarMode">Ermöglicht der App, den Automodus zu aktivieren</string>
   <string name="permdesc_expandStatusBar">Ermöglicht der App, die Statusleiste ein- oder auszublenden</string>
     <string name="permdesc_factoryTest">Führt einen systemnahen Herstellertest durch, in dessen Rahmen auf die gesamte Telefon-Hardware zugegriffen werden kann. Nur verfügbar, wenn ein Telefon im Herstellertestmodus ausgeführt wird.</string>
@@ -1000,7 +1000,7 @@ Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanb
     <string name="permdesc_readFrameBuffer">Ermöglicht der App, den Inhalt des Frame-Puffers zu lesen</string>
   <string name="permdesc_readHistoryBookmarks">Ermöglicht der App, den Verlauf aller mit dem Browser besuchten URLs und sämtliche Lesezeichen des Browsers zu lesen. Hinweis: Diese Berechtigung kann nicht von Browsern von Drittanbietern oder anderen Apps mit Internetfunktionen erzwungen werden.</string>
     <string name="permdesc_readInputState">Ermöglicht der App, die von Ihnen gedrückten Tasten zu überwachen, etwa bei der Eingabe eines Passworts. Dies gilt auch für die Interaktion mit anderen Apps. Sollte nie für normale Apps benötigt werden.</string>
-  <string name="permdesc_readInstallSessions">Ermöglicht der App, Installationssitzungen zu lesen. Dadurch kann sie Details aktiver Paketinstallationen abrufen.</string>
+  <string name="permdesc_readInstallSessions">Ermöglicht der App, Installationssitzungen zu lesen. Dadurch kann diese Details aktiver Paketinstallationen abrufen.</string>
     <string name="permdesc_readLogs">Ermöglicht der App, die verschiedenen Protokolldateien des Systems zu lesen. So können allgemeine Informationen zu den auf Ihrem Telefon durchgeführten Aktionen eingesehen werden, darunter auch personenbezogene oder vertrauliche Daten.</string>
   <string name="permdesc_readNetworkUsageHistory">Ermöglicht der App, Daten zur bisherigen Netzwerkauslastung für bestimmte Netzwerke und Apps zu lesen</string>
     <string name="permdesc_readPhoneBlacklist">Ermöglicht einer App, Informationen über Blocknummern für eingehende Anrufe oder Nachrichten zu lesen.</string>
@@ -1013,12 +1013,12 @@ Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanb
   <string name="permdesc_readSyncStats">Ermöglicht der App, die Synchronisierungsstatistiken eines Kontos zu lesen, einschließlich des Verlaufs von Synchronisierungsereignissen und der Menge synchronisierter Daten.</string>
     <string name="permdesc_readVoicemail">Ermöglicht der App das Abrufen Ihrer Mailboxnachrichten</string>
     <string name="permdesc_reboot">Ermöglicht der App, einen Neustart des Telefons zu erzwingen</string>
-    <string name="permdesc_receiveBluetoothMap">Ermöglicht der App, Bluetooth MAP-Mitteilungen zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne sie Ihnen anzuzeigen.</string>
+    <string name="permdesc_receiveBluetoothMap">Ermöglicht der App, Bluetooth MAP-Mitteilungen zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne Ihnen diese anzuzeigen.</string>
   <string name="permdesc_receiveBootCompleted">Ermöglicht der App, sich selbst zu starten, sobald das System gebootet wurde. Dadurch kann es länger dauern, bis das Telefon gestartet wird, und durch die ständige Aktivität der App wird die gesamte Leistung des Telefons beeinträchtigt.</string>
     <string name="permdesc_receiveEmergencyBroadcast">Ermöglicht der App, Notfall-Broadcasts zu empfangen und zu verarbeiten. Diese Berechtigung steht nur System-Apps zur Verfügung.</string>
-    <string name="permdesc_receiveMms">Ermöglicht der App, MMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne sie Ihnen anzuzeigen.</string>
-  <string name="permdesc_receiveSms">Ermöglicht der App, SMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne sie Ihnen anzuzeigen.</string>
-    <string name="permdesc_receiveWapPush">Ermöglicht der App, WAP-Nachrichten zu empfangen und zu verarbeiten. Mit der Berechtigung können Nachrichten, die an Sie gesendet wurden, überwacht und gelöscht werden, bevor sie Ihnen angezeigt werden.</string>
+    <string name="permdesc_receiveMms">Ermöglicht der App, MMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne Ihnen diese anzuzeigen.</string>
+  <string name="permdesc_receiveSms">Ermöglicht der App, SMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne Ihnen diese anzuzeigen.</string>
+    <string name="permdesc_receiveWapPush">Ermöglicht der App, WAP-Nachrichten zu empfangen und zu verarbeiten. Mit der Berechtigung können Nachrichten, die an Sie gesendet wurden, überwacht und gelöscht werden, bevor Ihnen diese angezeigt werden.</string>
     <string name="permdesc_recordAudio">Ermöglicht der App, Ton mithilfe des Mikrofons aufzunehmen. Die Berechtigung erlaubt der App, Tonaufnahmen jederzeit und ohne Ihre Bestätigung durchzuführen.</string>
     <string name="permdesc_recovery">Ermöglicht einer App die Interaktion mit dem Wiederherstellungssystem und den Systemupdates</string>
   <string name="permdesc_register_call_provider">Ermöglicht der App, neue Telekom- Anschlüsse registrieren</string>
@@ -1038,10 +1038,10 @@ Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanb
   <string name="permdesc_sdcardRead">Ermöglicht der App, den USB-Speicher zu lesen</string>
   <string name="permdesc_sdcardWrite">Ermöglicht der App, in den USB-Speicher zu schreiben</string>
     <string name="permdesc_sendRespondViaMessageRequest">Ermöglicht der App, Anfragen an andere SMS/MMS-Apps zu senden, um Antwort-per-SMS/MMS-Ereignisse für eingehende Anrufe zu verarbeiten</string>
-    <string name="permdesc_sendSms">Ermöglicht der App, SMS zu senden. Dies kann zu unerwarteten Kosten führen. Schädliche Apps können Kosten verursachen, indem sie Nachrichten ohne Ihre Bestätigung senden.</string>
+    <string name="permdesc_sendSms">Ermöglicht der App, SMS zu senden. Dies kann zu unerwarteten Kosten führen. Schädliche Apps können Kosten verursachen, indem diese Nachrichten ohne Ihre Bestätigung senden.</string>
     <string name="permdesc_serialPort">Ermöglicht dem Inhaber den Zugriff auf serielle Schnittstellen über das SerialManager-API</string>
     <string name="permdesc_setAlarm">Ermöglicht der App, einen Alarm in einer installierten Wecker-App einzurichten. Einige Wecker-Apps implementieren diese Funktion möglicherweise nicht.</string>
-    <string name="permdesc_setAlwaysFinish">Überlässt der App die Entscheidung, ob Aktivitäten immer beendet werden, sobald sie in den Hintergrund rücken. Wird nie für normale Apps benötigt.</string>
+    <string name="permdesc_setAlwaysFinish">Überlässt der App die Entscheidung, ob Aktivitäten immer beendet werden, sobald diese in den Hintergrund rücken. Wird nie für normale Apps benötigt.</string>
     <string name="permdesc_setAnimationScale">Ermöglicht der App, die allgemeine Animationsgeschwindigkeit (langsamere oder schnellere Animationen) jederzeit anzupassen.</string>
     <string name="permdesc_setDebugApp">Ermöglicht der App, die Fehlerbeseitigung für eine andere App zu aktivieren. Schädliche Apps können so andere Apps beenden.</string>
     <string name="permdesc_setInputCalibration">Ermöglicht der App, die Kalibrierungsparameter des Touchscreens zu ändern. Für normale Apps sollte dies nie erforderlich sein.</string>
@@ -1080,7 +1080,7 @@ Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanb
   <string name="permdesc_vibrate">Ermöglicht der App, den Vibrationsalarm zu steuern</string>
   <string name="permdesc_wakeLock">Ermöglicht der App, den Ruhezustand des Telefons zu deaktivieren</string>
     <string name="permdesc_writeApnSettings">Ermöglicht der App, Netzwerkeinstellungen zu ändern und Netzwerkverkehr abzufangen und zu überprüfen, um beispielsweise den Proxy und den Port eines beliebigen Zugriffspunkts zu ändern. Schädliche Apps können so Netzwerkpakete ohne Ihr Wissen überwachen, weiterleiten oder ändern.</string>
-  <string name="permdesc_writeCalendar">Ermöglicht der App, Termine, die Sie auf Ihrem Telefon ändern können, hinzuzufügen, zu entfernen und zu ändern, einschließlich der von Freunden und Kollegen. Damit kann die App Nachrichten senden, die so erscheinen, als stammten sie vom jeweiligen Kalenderinhaber, oder Termine ohne Wissen des Inhabers ändern.</string>
+  <string name="permdesc_writeCalendar">Ermöglicht der App, Termine, die Sie auf Ihrem Telefon ändern können, hinzuzufügen, zu entfernen und zu ändern, einschließlich der von Freunden und Kollegen. Damit kann die App Nachrichten senden, die so erscheinen, als stammten diese vom jeweiligen Kalenderinhaber, oder Termine ohne Wissen des Inhabers ändern.</string>
   <string name="permdesc_writeCallLog">Ermöglicht der App, die Anrufliste Ihres Telefons zu ändern, einschließlich der Daten über ein- und ausgehende Anrufe. Schädliche Apps können so Ihre Anrufliste löschen oder ändern.</string>
   <string name="permdesc_writeContacts">Ermöglicht der App, Daten zu Kontakten, die auf Ihrem Telefon gespeichert sind, zu ändern, einschließlich der Häufigkeit, mit der Sie bestimmte Kontakte angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert haben. Die Berechtigung erlaubt Apps, Kontaktdaten zu löschen.</string>
     <string name="permdesc_writeDictionary">Ermöglicht der App, neue Einträge zum Nutzerwörterbuch hinzuzufügen</string>
@@ -1371,7 +1371,7 @@ für Konto %s"</string>
   <string name="permlab_removeDrmCertificates">DRM-Zertifikate entfernen</string>
     <string name="permlab_removeTasks">Aktive Apps beenden</string>
   <string name="permlab_reorderTasks">Aktive Apps neu ordnen</string>
-  <string name="permlab_requestIgnoreBatteryOptimizations">Fragen, um die Batterieoptimierungen zu ignorieren</string>
+  <string name="permlab_requestIgnoreBatteryOptimizations">Fragen, um die Akkuoptimierungen zu ignorieren</string>
   <string name="permlab_requestInstallPackages">Paketinstallation anfordern</string>
     <string name="permlab_retrieveWindowToken">Fenstertoken abrufen</string>
     <string name="permlab_retrieve_window_content">Bildschirminhalt abrufen</string>
