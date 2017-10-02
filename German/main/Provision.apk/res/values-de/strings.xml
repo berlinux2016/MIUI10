@@ -25,7 +25,7 @@
   <string name="enable_accessibility_dialog_message">Sie haben TalkBack aktiviert, indem Sie den Bildschirm mit zwei Fingern länger als 10 Sekunden gedrückt haben. TalkBack liefert Sprachfeedback für Personen mit Sehbehinderung. Wenn Sie diese Funktion versehentlich aktiviert haben, tippen Sie auf Abbrechen und dann 2x auf den Bildschirm.</string>
   <string name="enable_accessibility_dialog_negative_btn">Abbrechen</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
-  <string name="fail_to_generate_qr_code">Fehler beim Erstellen von QR-Code, bitte diese Seite erneut eingeben.</string>
+  <string name="fail_to_generate_qr_code">QR-Code konnte nicht generiert werden. Öffnen Sie diese Seite erneut.</string>
   <string name="ime_privacy_policy">Datenschutzbestimmungen der ausgewählten Tastatur</string>
   <string name="ime_privacy_policy_no_network">Keine Netzwerkverbindung. Sehen Sie sich die Datenschutzrichtlinien für die Tastatur auf %s an</string>
   <string name="input_method_category">"Standardeingabemethode wählen, die z.B. beim Schreiben von E-Mails oder Notizen verwendet wird. Weitere Drittanbietertastaturen können später installiert werden."</string>
@@ -82,12 +82,13 @@
   <string name="terms_of_use">Nutzungsbedingungen</string>
   <string name="terms_of_use_label">
     "Ihre Privatsphäre ist uns sehr wichtig. Bitte lesen Sie die Nutzungsbedingungen und Datenschutzrichtlinien, um zu verstehen, welche Informationen wir sammeln, wie wir diese nutzen und welche Möglichkeiten Sie haben.
-    Sie müssen die Nutzungsbedingungen und die Datenschutzrichtlinien akzeptieren, bevor Sie MIUI nutzen können."
+    Sie müssen die Nutzungsbedingungen und die Datenschutzrichtlinien akzeptieren, bevor Sie MIUI nutzen können.
+    Mi-Dienste, Mi SIM-Aktivierungsdienste, Mi Cloud, Gerät finden, Startbildschirm, Game Center, MAB- und MSA-Systemkomponenten, Webanwendungen, Quick Cards, Statistiken, Smartcards, Mi Link und Mi Account-Komponenten verbinden sich mit dem Internet und erfassen Ihren Standort."
   </string>
   <string name="title_congratulation">Glückwunsch, jetzt können Sie loslegen!</string>
   <string name="title_fingerprint">Fingerabdruck hinzufügen</string>
   <string name="two_dimensional_code_scan">QR-Code scannen</string>
   <string name="user_agreement">Nutzervereinbarung</string>
-  <string name="user_strayed_warning">Die Seite ist für die Werksprüfung ausgelegt.</string>
+  <string name="user_strayed_warning">Die Seite ist für die Werksprüfung ausgelegt.\"Zurück\" tippen zum beenden.</string>
   <string name="welcome">Willkommen</string>
 </resources>

@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="actionbar_button_up_description">zurück</string>
-  <string name="actionbar_immersion_button_more_description">mehr</string>
-  <string name="sar">RF Belichtungsinformationen</string>
-  <string name="search_mode_button_back_description">zurück</string>
-  <string name="xiaomi_mobile">Mi Mobile</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="action_mode_deselect_all">Nicht ausgewählt</string>
   <string name="action_mode_select_all">Alle auswählen</string>
   <string name="action_mode_title_empty">Wähle aus</string>
+  <string name="actionbar_button_up_description">Zurück</string>
+  <string name="actionbar_immersion_button_more_description">Mehr</string>
   <string name="activate">Aktivieren</string>
   <string name="activate_fail_notification_title">Synchronisation reaktivieren</string>
   <string name="activating">Aktiviere…</string>
@@ -19,6 +16,7 @@
   <string name="birthday">Geburtstag</string>
   <string name="check_phone_error_title">Synchronisation ist deaktiviert</string>
   <string name="check_phone_io_error">"Verbindung kann nicht aufgebaut werden"</string>
+  <string name="clearable_edittext_clear_description">Löschen</string>
   <string name="close">Schließen</string>
   <string name="copyright">Urheberrecht</string>
   <string name="date_picker_dialog_title">Termin festlegen</string>
@@ -105,7 +103,7 @@
   <string name="heavenly_stems_yi">#乙</string>
   <string name="hybrid_provider">Die Internetseite von %1$s</string>
   <string name="im">IM</string>
-  <string name="immersion_button_close_description">schließen</string>
+  <string name="immersion_button_close_description">Schließen</string>
   <string name="instruction">Anleitung</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
@@ -165,10 +163,12 @@
   <string name="phone">Telefon</string>
   <string name="pm">PM</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
+  <string name="sar">RF Belichtungsinformationen</string>
   <string name="saturday">Samstag</string>
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>
-  <string name="search_input_description">suchen</string>
+  <string name="search_input_description">Suchen</string>
+  <string name="search_mode_button_back_description">Zurück</string>
   <string name="select_all">Alle auswählen</string>
   <string name="select_item">Auswählen</string>
   <string name="send">Senden</string>
@@ -275,5 +275,6 @@
   <string name="wednesday">Mittwoch</string>
   <string name="wednesday_short">Mi</string>
   <string name="wednesday_shortest">M</string>
+  <string name="xiaomi_mobile">Mi Mobile</string>
   <string name="yesterday">Gestern</string>
 </resources>

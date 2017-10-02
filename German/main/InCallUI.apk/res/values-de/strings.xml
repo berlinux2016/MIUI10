@@ -1,31 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="card_title_answering">Anruf annehmen</string>
-  <string name="card_title_answering_time_out">Konnte Anruf nicht annehmen. Bitte erneut probieren.</string>
-  <string name="card_title_hanging_up_fail">Konnte Anruf nicht beenden. Bitte erneut probieren.</string>
-  <string name="card_title_in_video">Video </string>
-  <string name="close_camera_failed">Konnte Kamera nicht abschalten…</string>
-  <string name="close_camera_requesting">Schalte Kamera ab…</string>
-  <string name="dialpad_abc">ABC</string>
-  <string name="dialpad_def">DEF</string>
-  <string name="dialpad_eight">8</string>
-  <string name="dialpad_five">5</string>
-  <string name="dialpad_four">4</string>
-  <string name="dialpad_ghi">GHI</string>
-  <string name="dialpad_jkl">JKL</string>
-  <string name="dialpad_mno">MNO</string>
-  <string name="dialpad_nine">9</string>
-  <string name="dialpad_one">1</string>
-  <string name="dialpad_pqrs">PQRS</string>
-  <string name="dialpad_seven">7</string>
-  <string name="dialpad_six">6</string>
-  <string name="dialpad_three">3</string>
-  <string name="dialpad_tuv">TUV</string>
-  <string name="dialpad_two">2</string>
-  <string name="dialpad_wxyz">WXYZ</string>
-  <string name="dialpad_zero">0</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
-
   <string name="accept_modify_call_request_prompt">Modifizierten Anruf annehmen?</string>
   <string name="add_vm_number_str">Nummer hinzufügen</string>
   <string name="antispam_local_marked">Lokal markiert</string>
@@ -83,14 +57,18 @@
   <string name="can_not_call_oneself">Diese Nummer kann nicht angerufen werden</string>
   <string name="can_not_use">Kann nicht verwendet werden</string>
   <string name="cancel">Abbrechen</string>
+  <string name="card_title_answering">Anruf annehmen</string>
+  <string name="card_title_answering_time_out">Konnte Anruf nicht annehmen. Bitte erneut probieren.</string>
   <string name="card_title_call_ended">Anruf beendet</string>
   <string name="card_title_conf_call">Telefonkonferenz</string>
   <string name="card_title_dialing">Rufaufbau</string>
   <string name="card_title_hanging_up">Auflegen</string>
+  <string name="card_title_hanging_up_fail">Konnte Anruf nicht beenden. Bitte erneut probieren.</string>
   <string name="card_title_hanging_up_restart">Gespräch kann nicht beendet werden. Starten Sie Ihr Gerät neu.</string>
   <string name="card_title_hanging_up_weak_signal">Schlechtes Signal. Gespräch wird beendet.</string>
   <string name="card_title_in_call">Im Gespräch</string>
   <string name="card_title_in_call_short">Im Gespräch</string>
+  <string name="card_title_in_video">Video </string>
   <string name="card_title_incoming_call">Eingehender Anruf</string>
   <string name="card_title_incoming_conference">Konferenzeinladung</string>
   <string name="card_title_incoming_conference_call">Eingehende Konferenz</string>
@@ -106,6 +84,8 @@
   <string name="card_video_hold_swap">Tauschen</string>
   <string name="cb_dialog_title_language_choice">Sprache wählen</string>
   <string name="cb_error_language_select">Wählen Sie mindestens eine Sprache</string>
+  <string name="close_camera_failed">Konnte Kamera nicht abschalten…</string>
+  <string name="close_camera_requesting">Schalte Kamera ab…</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s Leute</string>
   <string name="conference_call_single_description" formatted="false">%s etc. | Gesamt %s</string>
@@ -138,6 +118,24 @@
   <string name="dialog_activate_livetalk">Verify number</string>
   <string name="dialog_call_ordinary_telephone">Regulärer Anruf</string>
   <string name="dialog_purchase">Aufladen</string>
+  <string name="dialpad_abc">ABC</string>
+  <string name="dialpad_def">DEF</string>
+  <string name="dialpad_eight">8</string>
+  <string name="dialpad_five">5</string>
+  <string name="dialpad_four">4</string>
+  <string name="dialpad_ghi">GHI</string>
+  <string name="dialpad_jkl">JKL</string>
+  <string name="dialpad_mno">MNO</string>
+  <string name="dialpad_nine">9</string>
+  <string name="dialpad_one">1</string>
+  <string name="dialpad_pqrs">PQRS</string>
+  <string name="dialpad_seven">7</string>
+  <string name="dialpad_six">6</string>
+  <string name="dialpad_three">3</string>
+  <string name="dialpad_tuv">TUV</string>
+  <string name="dialpad_two">2</string>
+  <string name="dialpad_wxyz">WXYZ</string>
+  <string name="dialpad_zero">0</string>
   <string name="do_not_ask">Nicht mehr anzeigen</string>
   <string name="do_not_support_video_calls_by_remote">"Videoanrufe werden beim anderen Gerät nicht unterstützt"</string>
   <string name="emergency_call_dialog_number_for_display">Notfallnummer</string>
@@ -170,7 +168,6 @@
   <string name="livetalk_dial">Aufladen</string>
   <string name="livetalk_hangup">Auflegen</string>
   <string name="manageConferenceLabel">Telefonkonferenz verwalten</string>
-  <string name="miprofile_stranger_card">Fremde Karte</string>
   <string name="modify_call_failure_str">"Ändern der Anrufanforderung fehlgeschlagen"</string>
   <string name="modify_call_option_title">Welcher Anruftyp?</string>
   <string name="modify_call_option_voice">Nur Sprache</string>
@@ -179,6 +176,7 @@
   <string name="modify_call_option_vt_tx">Video gesendet</string>
   <string name="modify_call_prompt_no">Nein</string>
   <string name="modify_call_prompt_yes">Ja</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="network_error_message">Netzwerk ist instabil. Es wird auf reguläre Anrufe über Ihren Netzbetreiber umgeschaltet.</string>
   <string name="network_error_title">Instabiles Netzwerk</string>
   <string name="no_balance_message">Zu wenig Guthaben. Sie können nach wie vor reguläre Anrufe machen.</string>

@@ -34,7 +34,7 @@
   <string-array name="debug_hw_overdraw_entries">
     <item>Aus</item>
     <item>Zeige überzogene Bereiche</item>
-    <item>Zeige Bereiche für Deuteranomaly</item>
+    <item>Zeige Bereiche für Farbenfehlsichtige</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Keine</item>
@@ -128,7 +128,7 @@
     <item>Keine Daten</item>
   </string-array>
   <string-array name="wifi_status">
-    <item></item>
+    <item/>
     <item>Scannen…</item>
     <item>Verbinden…</item>
     <item>Authentifizieren…</item>
@@ -142,7 +142,7 @@
     <item>Vorübergehende schlechte Verbindung vermeiden</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
-    <item></item>
+    <item/>
     <item>Scannen…</item>
     <item>Verbinden mit %1$s…</item>
     <item>Authentifizieren mit %1$s…</item>
@@ -155,6 +155,13 @@
     <item>Blockiert</item>
     <item>Vorübergehende schlechte Verbindung vermeiden</item>
   </string-array>
+  <string-array name="select_logd_size_summaries">
+    <item>64KB pro Logpuffer</item>
+    <item>256KB pro Logpuffer</item>
+    <item>1MB pro Logpuffer</item>
+    <item>4MB pro Logpuffer</item>
+    <item>16MB pro Logpuffer</item>
+    </string-array>
   <string-array name="window_animation_Skala_entries">
     <item>Animation aus</item>
     <item>Animation Skala 0.5x</item>
