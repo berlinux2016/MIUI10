@@ -131,6 +131,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="antivirus_choose_engine_update_disable_toast">Während dem Update können die Definitionen nicht geändert werden</string>
   <string name="antivirus_longtime_no_update">Ihre Virendefinitionen sind veraltet. Regelmäßige Updates verbessern das Scanergebnis. Sicherheit erlauben, sich mit dem Internet zu verbinden und die Virendefinitionen zu aktualisieren?</string>
   <string name="antivirus_longtime_no_update1">Ihre Virendefinitionen sind veraltet. Regelmäßige Updates verbessern das Scanergebnis. Aktualisieren Sie die Virendefinitionen und versuchen Sie es erneute.</string>
+   <string name="antivirus_main_activity_back">Zurück zum Sicherheitsscan</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Riskante Apps löschen</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Viren entfernen</string>
   <string name="antivirus_monitor_clean_tips">%s löschen</string>
@@ -393,8 +394,8 @@ falls Sie es vergissen"</string>
   <string name="auto_task_operation_vibration">Vibration</string>
   <string name="auto_task_operation_wifi">WLAN</string>
   <string name="back">Zurück</string>
-  <string name="back_app_name">Back App lock</string>  
-  <string name="back_modifypassword">Passwort ändern</string> 
+  <string name="back_app_name">Zurück zur Appsperre</string>  
+  <string name="back_modifypassword">Zurück zum Passwort ändern</string> 
   <string name="background_restrict_app_dialog_message">Die Einschränkung des Hintergrundnetzwerkzugriffs kann die richtige Funktion der App, den Nachrichtenempfang, das Herunterladen etc. beeinträchtigen. Trotzdem einschränken?</string>
   <string name="background_traffic">Hintergrund %s</string>
   <string name="backsound_set_hint">Abwesenheitsnachricht in %s ändern?</string>
@@ -655,6 +656,8 @@ falls Sie es vergissen"</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tippen, um die mobile Datenverbindung einzuschalten.</string>
   <string name="daily_limit_over_message">Sie haben Ihr tägliches Limit überschritten.</string>
   <string name="daily_pkg_traffic">Datenlimit eingeben</string>
+  <string name="data_booster_desc">Deaktivieren Sie andere SIM-Plätze, um die Verbindung stabil zu halten.</string>
+  <string name="data_booster_title">Datenverbindung stabilisieren</string>
   <string name="daily_sim_over_limit_dialog_message">"Sie haben bereits %s des täglichen Datenlimits verbraucht.
 
 Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätzliche Gebühren in Rechnung stellen."</string>
@@ -889,6 +892,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="fw_blocked">Sperrliste</string>
   <string name="fw_blocked_count">"Blockiert "</string>
   <string name="fw_blocked_join">" und "</string>
+  <string name="game_anti_disturb_msg">Nicht stören</string>
   <string name="game_booster">Game Speed Booster</string>
   <string name="game_booster_intro">Über Game Speed Booster</string>
   <string name="game_booster_title">Optimieren</string>
@@ -900,6 +904,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="game_net_text2">Die Verbindungsgeschwindigkeit des Spiels erhöhen und gleichzeitig die Downloadgeschwindigkeit im Hintergrund begrenzen, um die Netzwerkverzögerung zu reduzieren.</string>
   <string name="game_net_title">Verbindungsgeschwindigkeit optimieren</string>
   <string name="game_setting">Spieleinstellungen</string>
+   <string name="gamebooster_main_activity_back">Zurück zum Game Speed Booster</string>
   <string name="gamebooster_network_dialog_message">Netzwerkverbindung für Sicherheitsapp erlauben, um alle Funktionen des Game Speed Boosters nutzen zu können?</string>
   <string name="gamebooster_network_dialog_title">Einige Funktionen sind nicht verfügbar</string>
   <string name="garbage_clean_detail">Details</string>
@@ -1477,7 +1482,7 @@ Diese Aktivität verkürzt die Akkulaufzeit."</string>
   <string name="om_settings_lock_app">Apps sperren</string>
   <string name="om_settings_lock_app_manage">Apps sperren</string>
   <string name="om_settings_memocy_occupy_too_large_summary">Bei zu vollem Cache benachrichtigen</string>
-  <string name="om_settings_memory_clean_lock_screen">Cache bereinigen, wenn der Bildschirm aus ist</string>
+  <string name="om_settings_memory_clean_lock_screen">Cache bereinigen, wenn das Gerät gesperrt ist</string>
   <string name="om_settings_memory_occupy_notify">Cache ist zu voll</string>
   <string name="om_settings_memory_occupy_notify_never">Niemals</string>
   <string name="om_settings_notify_manage">Benachrichtigungen</string>
@@ -2851,5 +2856,6 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="xiaomi_traffic_pass_warning">Keine mobilen Daten bei Ihrem Mi Datentarif verfügbar</string>
   <string name="xiaomi_traffic_return">Zurück</string>
   <string name="xunyou_pay_webview">Xunyou Dienste</string>
+  <string name="xunyou_server_expired">Sitzung ist abgelaufen.</string>
 </resources>
 

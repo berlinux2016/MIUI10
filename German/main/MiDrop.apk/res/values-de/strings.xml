@@ -24,13 +24,13 @@
   <string name="Unregister">Abmelden</string>
   <string name="action_settings">Einstellungen</string>
   <string name="app_name">Mi Drop</string>
-  <string name="btn_goto_grant">Berechtigungen öffnen</string>
+  <string name="btn_goto_grant">Erlauben</string>
   <string name="cancel_confirm">Abbrechen</string>
   <string name="cancel_confirm_title">Übertragung unvollständig. Abbrechen?</string>
   <string name="cancel_receive_confirm">Abbrechen</string>
   <string name="cancel_receive_stop">Empfang halten</string>
   <string name="cancel_stop">Senden halten</string>
-  <string name="description_content">Mi Drop wird zur Datenübertragung verwendet. Stellen Sie sicher, dass Sie auf diese Funktionen verzichten können, bevor Sie die App deinstallieren.</string>
+  <string name="description_content">Mi Drop wird für die Übertragung von Dateien an Personen in der Nähe verwendet. Stellen Sie sicher, dass Sie auf diese Funktionen verzichten können, bevor Sie die App deinstallieren.</string>
   <string name="description_title">Über Mi Drop</string>
   <string name="file_not_support">Dieser Dateityp wird nicht unterstützt</string>
   <string name="help">Hilfe</string>
@@ -88,8 +88,8 @@
   <string name="receiver_video_file_current_multi">Empfange %2$d​ Video(s) von %1$s…</string>
   <string name="receiver_video_file_current_single">%2$d​ Video von %1$s empfagnen…</string>
   <string name="receiver_video_file_num">%2$d​ Videos von %1$s</string>
-  <string name="request_permission_msg">Mi Drop benötigt %s, bitte Berechtigung erteilen.</string>
-  <string name="request_permission_title">Berechtigung erteilen</string>
+  <string name="request_permission_msg">Mi Drop benötigt folgende Berechtigungen: %s. Erlauben?</string>
+  <string name="request_permission_title">Berechtigungen werden benötigt</string>
   <string name="runtime_permission_ungranted">Mi Drop kann aufgrund fehlender Berechtigungen nicht verwendet werden</string>
   <string name="sender_cancel">Nicht senden</string>
   <string name="sender_complete">Fertig</string>

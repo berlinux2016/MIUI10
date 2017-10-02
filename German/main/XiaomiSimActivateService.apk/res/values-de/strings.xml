@@ -112,17 +112,17 @@
   <string name="activate_status_desc_wait_for_sms_success">Aktivierungs-SMS erhalten</string>
   <string name="activate_status_title_activating">SIM-Karte wird aktiviert…</string>
   <string name="activate_status_title_activating_msim">SIM-Karte %d wird aktiviert…</string>
-  <string name="agree">Zustimmen</string>
+  <string name="agree">Erlauben</string>
   <string name="app_name">Xiaomi Aktivierungsservice für SIM-Karten</string>
   <string name="error_device_id_message">Ungültige Geräte-ID: %s</string>
   <string name="explain_send_sms_permission_button">Verifizieren</string>
   <string name="explain_send_sms_permission_msg">Zum Aktivieren Ihrer %s wird Xiaomi-Service eine SMS senden, um Ihre Telefonnummer zu verifizieren. Es fallen dafür Gebühren bei Ihrem Netzbetreiber an.</string>
   <string name="explain_send_sms_permission_title">Verifizieren Sie Ihre Telefonnummer</string>
-  <string name="phone_get_processing">erhalte…</string>
-  <string name="phone_get_text">Stimmen Sie zu, dass %1$s Ihre Telefonnummer erhalten darf: %2$s</string>
-  <string name="phone_get_title">%1$s erlauben die Telefonnummer zu erhalten</string>
-  <string name="phone_verify_processing">verifiziere…</string>
-  <string name="phone_verify_text">%1$s erhält Ihre Telefonnummer nicht. Überprüfen Sie einfach, ob Ihre Telefonnummer stimmt.</string>
+  <string name="phone_get_processing">Erhalten...</string>
+  <string name="phone_get_text">Erlauben Sie %1$s Ihre Telefonnummer zu erhalten (%2$s)?</string>
+  <string name="phone_get_title">Erlauben Sie %1$s Ihre Telefonnummer zu erhalten</string>
+  <string name="phone_verify_processing">Verifiziere...</string>
+  <string name="phone_verify_text">%1$s wird deine Telefonnummer nicht erhalten. Es wird nur sicherstellen, dass die Nummer gültig ist. Zustimmen?.</string>
   <string name="phone_verify_title">%1$s zustimmen um die Telefonnummer zu verifizieren</string>
   <string name="sim_unactivated_title">SIM-Karte ist nicht aktiviert</string>
 </resources>

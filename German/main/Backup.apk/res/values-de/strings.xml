@@ -165,7 +165,7 @@
   <string name="notif_trans_receiving_failed">Datenempfang fehlgeschlagen</string>
   <string name="notif_trans_sending_completed">Daten erfolgreich versandt</string>
   <string name="notif_trans_sending_failed">Datenversand fehlgeschlagen</string>
-  <string name="notif_trans_wait_for_reconnecting">Remotegerät getrennt. Bitte erneut verbinden.</string>
+  <string name="notif_trans_wait_for_reconnecting">Verbindung wurde getrennt.Erneut verbinden.</string>
   <string name="page_loading">Einen Moment…</string>
   <string name="progress_backup_hint">Sichern…</string>
   <string name="progress_restore_hint">Wiederherstellen…</string>
@@ -264,19 +264,19 @@
   <string name="trans_calculating_app_sd_size">Datengröße wird berechnet, %s gescannt</string>
   <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
   <string name="trans_cancel_confirm">Übertragung läuft. Jetzt abbrechen?</string>
-  <string name="trans_cancelling">Abbrechen</string>
-  <string name="trans_connect_failed_device_incompatible">Gerät ist inkompatibel. Bitte brechen Sie den Übertragungsvorgang ab und versuchen Sie es erneut.</string>
+  <string name="trans_cancelling">Abbrechen...</string>
+  <string name="trans_connect_failed_device_incompatible">Gerät ist inkompatibel. Brechen Sie die Übertragung ab und versuchen Sie es erneut.</string>
   <string name="trans_connect_failed_message">"Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen &gt; Weitere Einstellungen &gt; Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut."</string>
   <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
   <string name="trans_connect_failed_toast">"Verbindung nicht möglich"</string>
   <string name="trans_connecting_toast">Verbinden…</string>
-  <string name="trans_connection_failed">Gerät getrennt</string>
+  <string name="trans_connection_failed">Verbindung wurde getrennt</string>
   <string name="trans_detail_category_account">Konten und Kontakte</string>
   <string name="trans_detail_category_files">Dateien</string>
   <string name="trans_detail_category_sysdata">Systemdaten</string>
   <string name="trans_detail_category_userdata">Apps</string>
-  <string name="trans_device_disconnected">Gerät getrennt</string>
-  <string name="trans_device_wait_for_reconnecting">Gerät getrennt. Bitte verbinden Sie sich neu.</string>
+  <string name="trans_device_disconnected">Verbindung wurde getrennt</string>
+  <string name="trans_device_wait_for_reconnecting">Verbindung wurde getrennt. Erneut verbinden um fortzufahren .</string>
   <string name="trans_generate_qr_code_failed">"QR Code konnte nicht erstellt werden"</string>
   <string name="trans_intro_desc_2">Brechen Sie die Übertragung ab, verlassen Sie Mi Mover und fangen Sie von vorne an. Doppelte Dateien werden bei der neuen Übertragung überschrieben.</string>
   <string name="trans_intro_desc_3">Mi Mover nutzt WLAN, um Dateien zu übertragen. Deshalb können Sie während des Transfers keine Verbindung zum Internet über WLAN auf beiden Geräten herstellen. Sie können jedoch weiterhin mobile Daten verwenden. Einige neuere Geräte (z. B. Mi 6) könnten sich jedoch während des Transfers immer noch über WLAN mit dem Internet verbinden.</string>
@@ -300,7 +300,7 @@
   <string name="trans_intro_question_8">8. Welche Positionen können nicht übernommen werden?</string>
   <string name="trans_intro_title">FAQ</string>
   <string name="trans_intro_title_account">Konten und Passwörter:</string>
-  <string name="trans_intro_title_multiapp">Daten von geklonten Apps</string>
+  <string name="trans_intro_title_multiapp">Daten von geklonten Apps:</string>
   <string name="trans_intro_title_multiuser">Zweitprofildaten:</string>
   <string name="trans_intro_title_new">Auf einem neuen Telefon:</string>
   <string name="trans_intro_title_old">Auf einem alten Telefon:</string>
@@ -330,9 +330,9 @@
     Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
     [Ich bin der Sender] antippen"
   </string>
-  <string name="trans_operate_reconnect_new_tips">"Warten bis das neue Gerät \"Gerät getrennt\" anzeigt.
+  <string name="trans_operate_reconnect_new_tips">"Warten bis das neue Gerät \"Verbindung wurde getrennt\" anzeigt.
   Dann [Erneut verbinden] anklicken um einen QR Code zu erstellen."</string>
-  <string name="trans_operate_reconnect_old_tips">"Warten bis das alte Gerät \"Gerät getrennt\" anzeigt.
+  <string name="trans_operate_reconnect_old_tips">"Warten bis das alte Gerät \"Verbindung wurde getrennt\" anzeigt.
   Dann [Erneut verbinden] anklicken um den QR Code zu scannen."</string>
   <string name="trans_please_waiting">Bitte warten ...</string>
   <string name="trans_progress_subdescript_br_receiver">Wiederherstellung von %1$s, %2$s abgeschlossen</string>
