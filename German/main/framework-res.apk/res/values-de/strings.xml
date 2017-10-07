@@ -567,7 +567,7 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="keyguard_password_wrong_pin_code">Falscher PIN-Code</string>
   <string name="kg_emergency_call_label">Notruf</string>
   <string name="kg_enter_confirm_pin_hint">Gewünschten PIN-Code bestätigen</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mithilfe eines E-Mail-Kontos zu entsperren.
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mit Hilfe eines E-Mail-Kontos zu entsperren.
 
     Versuchen Sie es in %d Sekunden erneut."</string>
   <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf die Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
@@ -649,7 +649,7 @@ Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."</string>
   <string name="lockscreen_charged">Aufgeladen</string>
   <string name="lockscreen_emergency_call">Notruf</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d Mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf die Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mithilfe Ihrer Google-Anmeldeinformationen zu entsperren.
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mit Hilfe Ihrer Google-Anmeldeinformationen zu entsperren.
 
 Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Das Telefon wird nun auf die Werkseinstellungen zurückgesetzt.</string>
@@ -907,7 +907,7 @@ Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanb
   <string name="permdesc_changeNetworkState">Ermöglicht der App, den Status der Netzwerkkonnektivität zu ändern</string>
     <string name="permdesc_changePhoneBlacklist">Ermöglicht der App, Blocknummern für eingehende Anrufe oder Nachrichten zu ändern.</string>
   <string name="permdesc_changeTetherState">Ermöglicht der App, den Status der Tethering-Konnektivität zu ändern</string>
-  <string name="permdesc_changeWifiMulticastState">Ermöglicht der App, Pakete zu empfangen, die mithilfe von Multicast-Adressen an sämtliche Geräte in einem WLAN versendet wurden, nicht nur an Ihr Telefon. Dies kostet mehr Leistung als der Nicht-Multicast-Modus.</string>
+  <string name="permdesc_changeWifiMulticastState">Ermöglicht der App, Pakete zu empfangen, die mit Hilfe von Multicast-Adressen an sämtliche Geräte in einem WLAN versendet wurden, nicht nur an Ihr Telefon. Dies kostet mehr Leistung als der Nicht-Multicast-Modus.</string>
   <string name="permdesc_changeWifiState">Ermöglicht der App, eine Verbindung zu WLAN-Zugriffspunkten herzustellen und solche zu trennen und Änderungen an der Gerätekonfiguration für WLAN-Netzwerke vorzunehmen.</string>
   <string name="permdesc_changeWimaxState">Ermöglicht der App, eine Verbindung zwischen dem Telefon und WiMAX-Netzwerken herzustellen und solche zu trennen.</string>
     <string name="permdesc_checkinProperties">Ermöglicht der App Schreib-/Lesezugriff auf vom Check-in-Service hochgeladene Elemente. Nicht für normale Apps vorgesehen.</string>
@@ -1019,7 +1019,7 @@ Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanb
     <string name="permdesc_receiveMms">Ermöglicht der App, MMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne Ihnen diese anzuzeigen.</string>
   <string name="permdesc_receiveSms">Ermöglicht der App, SMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne Ihnen diese anzuzeigen.</string>
     <string name="permdesc_receiveWapPush">Ermöglicht der App, WAP-Nachrichten zu empfangen und zu verarbeiten. Mit der Berechtigung können Nachrichten, die an Sie gesendet wurden, überwacht und gelöscht werden, bevor Ihnen diese angezeigt werden.</string>
-    <string name="permdesc_recordAudio">Ermöglicht der App, Ton mithilfe des Mikrofons aufzunehmen. Die Berechtigung erlaubt der App, Tonaufnahmen jederzeit und ohne Ihre Bestätigung durchzuführen.</string>
+    <string name="permdesc_recordAudio">Ermöglicht der App, Ton mit Hilfe des Mikrofons aufzunehmen. Die Berechtigung erlaubt der App, Tonaufnahmen jederzeit und ohne Ihre Bestätigung durchzuführen.</string>
     <string name="permdesc_recovery">Ermöglicht einer App die Interaktion mit dem Wiederherstellungssystem und den Systemupdates</string>
   <string name="permdesc_register_call_provider">Ermöglicht der App, neue Telekom- Anschlüsse registrieren</string>
   <string name="permdesc_register_sim_subscription">Ermöglicht der App, neue Telekom- SIM -Verbindungen registrieren</string>

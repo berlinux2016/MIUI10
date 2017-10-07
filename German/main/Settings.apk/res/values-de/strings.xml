@@ -361,7 +361,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="applications_settings">Alle Apps</string>
   <string name="applications_settings_header">Appeinstellungen</string>
   <string name="applications_settings_summary">Apps verwalten, Verknüpfungen für Schnellstart festlegen</string>
-  <string name="apply_fingerprint_to_category_title">Fingerabdruck anwenden…</string>
+  <string name="apply_fingerprint_to_category_title">Fingerabdruck anwenden</string>
   <string name="apply_now_button_text">Update</string>
   <string name="apply_password_to_category_title">Erfordern entsperren</string>
   <string name="apply_update_fail">Update fehlgeschlagen</string>
@@ -449,7 +449,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="background_data_dialog_message">Durch das Ausschalten von Hintergrunddaten kann die Akkulaufzeit verlängert und die Verwendung von Daten verringert werden. Einige Apps nutzen die Hintergrunddatenverbindung eventuell weiterhin.</string>
   <string name="background_data_dialog_title">Hintergrunddaten ausschalten?</string>
   <string name="background_data_summary">Apps können jederzeit Daten synchronisieren, senden und empfangen</string>
-  <string name="background_location_control_summary">Schütze od. erlaube den Zugriff von Apps auf Standortinfos vom Gerät im Hintergrund</string>
+  <string name="background_location_control_summary">Schütze oder erlaube den Zugriff von Apps auf Standortinfos vom Gerät im Hintergrund</string>
   <string name="background_location_control_title">Standortzugriff im Hintergrund</string>
   <string name="background_location_deselect_apps">Auswahl aufheben</string>
   <string name="background_location_requests_summary">Erlaube Apps Zugriffe auf Standortservice wenn Sie diese nicht benutzten</string>
@@ -2332,7 +2332,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="lift_to_wake_title">Zum Aufwecken anheben</string>
   <string name="line_breaking_summary">Zeilenumbruch optimieren</string>
   <string name="line_breaking_title">Textoptimierung</string>
-  <string name="link_speed_label">Verbindungsgeschwindigkeit::</string>
+  <string name="link_speed_label">Verbindungsgeschwindigkeit:</string>
   <string name="loading_notification_apps">Apps werden geladen…</string>
   <string name="local_app_name">Sicherung</string>
   <string name="local_auto_backup_off">Aus</string>
@@ -2423,7 +2423,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="location_scanning_wifi_always_scanning_title">WLAN wird gesucht</string>
   <string name="location_settings_title">Standortzugriff</string>
   <string name="location_sources_heading">Standortquellen</string>
-  <string name="location_street_level">Apps dürfen Ihren Standort mithilfe von GPS bestimmen</string>
+  <string name="location_street_level">Apps dürfen Ihren Standort mit Hilfe von GPS bestimmen</string>
   <string name="location_title">Ihr Standort</string>
   <string name="lock_after_timeout">Automatisch sperren</string>
   <string name="lock_after_timeout_summary">%1$s nach dem Sperren</string>
@@ -3441,7 +3441,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="path_screen_timeout_settings">Einstellungen/Bildschirmsperre &amp; Passwort/Sleep</string>
   <string name="path_second_space">Einstellungen/Zweitprofil</string>
   <string name="path_security_encryption_title">Einstellungen/Erweiterte Einstellungen/System Security/Encrypt device using lock screen password</string>
-  <string name="path_security_passwords_title">Einstellungen/Bildschirmsperre &amp; Passwort/Screen Lock</string>
+  <string name="path_security_passwords_title">Einstellungen/Bildschirmsperre &amp; Passwort/Bildschirmsperre</string>
   <string name="path_security_settings">Einstellungen/Erweiterte Einstellungen/Privacy</string>
   <string name="path_slot_status_title">Einstellungen/Über das Gerät/IMEI information</string>
   <string name="path_sms_delivered_sound_title">Einstellungen/Ton &amp; Vibration/Nachricht zugestellt</string>
@@ -3471,7 +3471,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="path_touch_sensitive_title">Einstellungen/Bildschirm/Glove mode</string>
   <string name="path_trusted_credentials">Einstellungen/Erweiterte Einstellungen/System Security/Trusted credentials</string>
   <string name="path_tts_settings_title">Einstellungen/Erweiterte Einstellungen/Sprache &amp; Eingabe/Text-to-speech output</string>
-  <string name="path_turn_on_security_lock">Einstellungen/Bildschirmsperre &amp; Passwort/Screen Lock/Change screen lock</string>
+  <string name="path_turn_on_security_lock">Einstellungen/Bildschirmsperre &amp; Passwort/Bildschirmsperre/Ändern der Bildschirmsperre</string>
   <string name="path_unlock_set_settings">Einstellungen/Bildschirmsperre &amp; Passwort</string>
   <string name="path_user_dict_settings_title">Einstellungen/Erweiterte Einstellungen/Sprache &amp; Eingabe/Persönliches Wörterbuch</string>
   <string name="path_vibrate_in_silent_title">Einstellungen/Ton &amp; Vibration/Vibrate in silent mode</string>
@@ -4232,7 +4232,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="search_camera_key_action_shortcut_screenshot">Screenshot</string>
   <string name="search_captioning_locale">Sprache</string>
   <string name="search_change_password">Bildschrimsperre ändern;Bildschirmsperre;Bildschrimsperre bearbeiten</string>
-  <string name="search_children_mode_settings">Kindersicherung;Lock sms</string>
+  <string name="search_children_mode_settings">Kindersicherung;SMS sperren</string>
   <string name="search_children_mode_title">Kindersicherung</string>
   <string name="search_choose_timezone">Zeitzone wählen</string>
   <string name="search_cloud_backup_settings_section_title">Einstellungen sichern</string>
@@ -4577,7 +4577,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Fingerabdruck-Einstellungen überspringen?</string>
   <string name="setup_fingerprint_enroll_finish_message">Tippen Sie einfach auf den Fingerabdrucksensor, um Ihr Gerät aufzuwecken oder zu entsperren.</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Wenn Sie dieses Symbol sehen, können Sie Ihren Fingerabdruck verwenden.</string>
-  <string name="setup_fingerprint_enroll_finish_secondary_message">Um Ihre Einstellungen zu ändern, gehe zu Einstellungen &gt; Sicherheit&gt; Fingerprint.</string>
+  <string name="setup_fingerprint_enroll_finish_secondary_message">Um Ihre Einstellungen zu ändern, gehe zu Einstellungen &gt; Sicherheit&gt; Fingerabdruck.</string>
   <string name="setup_lock_settings_picker_fingerprint_message">Ihr Fingerabdruck kann weniger sicher sein als ein starkes Muster, eine PIN oder ein Kennwort. Für zusätzliche Sicherheit, richten Sie eine Bildschirmsperre ein.</string>
   <string name="setup_lock_settings_picker_message">Verhindern Sie, dass andere Benutzer dieses Telefon ohne Ihre Erlaubnis verwenden, in dem Sie Geräte-Schutz-Funktionen aktivieren. Wählen Sie die gewünschte Bildschirm-Sperre aus.</string>
   <string name="setup_lock_settings_picker_title">Schützen Sie Ihr Telefon</string>
@@ -5358,9 +5358,9 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="turn_off_keyguard_password_alert_title">Einschalten</string>
   <string name="turn_off_keyguard_password_confirm_msg">Sperrbildschirmpasswort deaktivieren?</string>
   <string name="turn_off_keyguard_password_wait_dialog">Deaktiviere Passwort…</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nachdem Sie das Sperrbildschirmpasswort deaktiviert haben, können Sie Ihren Fingerabdruck zum Entsperren nicht mehr verwenden</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Nachdem Deaktivieren des Passworts, werden gespeicherte Fingerabdrücke gelöscht. Sie werden Ihr Gerät nicht mehr mit dem Fingerabdruck entsperren können.</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Nach dem Deaktivieren des Lock-Screen-Passworts werden aufgezeichnete Fingerabdrücke gelöscht. Sie können dann das Gerät mit Ihrem Fingerabdruck nicht entsperren.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nach dem Sie das Sperrbildschirmpasswort deaktiviert haben, können Sie Ihren Fingerabdruck zum Entsperren nicht mehr verwenden</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Nach dem Deaktivieren des Passworts, werden gespeicherte Fingerabdrücke gelöscht. Sie werden Ihr Gerät nicht mehr mit dem Fingerabdruck entsperren können.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Nach dem Deaktivieren des Sperrbildschirm-Passworts werden aufgezeichnete Fingerabdrücke gelöscht. Sie können dann das Gerät mit Ihrem Fingerabdruck nicht entsperren.</string>
   <string name="turn_off_radio">Mobilfunkverbindung ausschalten</string>
   <string name="turn_off_security_lock">Sperre ausschalten</string>
   <string name="turn_on_keyguard_password">Sperrbildschirmpasswort aktivieren</string>
@@ -5543,9 +5543,9 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="usb_msd_driver_installer_title">Installertreiberdiskette (MSD)</string>
   <string name="usb_msd_summary">Erlaube Dateien über Windows und OSX zu übertragen</string>
   <string name="usb_msd_title">Massenspeicher</string>
-  <string name="usb_mtp_summary">Ermöglicht die Übertragung von Mediendateien auf Windows- oder, mithilfe der Anwendung Android File Transfer, auf Mac-Computer (siehe www.android.com/filetransfer)</string>
+  <string name="usb_mtp_summary">Ermöglicht die Übertragung von Mediendateien auf Windows- oder, mit Hilfe der Anwendung Android File Transfer, auf Mac-Computer (siehe www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Mediengerät (MTP)</string>
-  <string name="usb_ptp_summary">Ermöglicht die Übertragung von Fotos mithilfe der Kamerasoftware sowie die Übertragung von Dateien auf Computer, die MTP nicht unterstützen</string>
+  <string name="usb_ptp_summary">Ermöglicht die Übertragung von Fotos mit Hilfe der Kamerasoftware sowie die Übertragung von Dateien auf Computer, die MTP nicht unterstützen</string>
   <string name="usb_ptp_title">Kamera (PTP)</string>
   <string name="usb_sdcard_summary">Damit können Sie Mediendateien auf der SD-Karte zum Computer übertragen</string>
   <string name="usb_sdcard_title">SD-Karte einlegen</string>
