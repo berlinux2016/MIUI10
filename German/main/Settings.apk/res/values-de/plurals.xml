@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-    <item quantity="other">Extrem kurze Verzögerungen (%1$d ms)</item>
-    <item quantity="one">Extrem kurze Verzögerung (%1$d ms)</item>
+    <item quantity="other">extrem kurze Verzögerungen (%1$d ms)</item>
+    <item quantity="one">extrem kurze Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-    <item quantity="other">Lange Verzögerungen (%1$d ms)</item>
-    <item quantity="one">Lange Verzögerung (%1$d ms)</item>
+    <item quantity="other">lange Verzögerungen (%1$d ms)</item>
+    <item quantity="one">lange Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-    <item quantity="other">Kurze Verzögerungen (%1$d ms)</item>
-    <item quantity="one">Kurze Verzögerung (%1$d ms)</item>
+    <item quantity="other">kurze Verzögerungen (%1$d ms)</item>
+    <item quantity="one">kurze Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-    <item quantity="other">Sehr lange Verzögerungen (%1$d ms)</item>
-    <item quantity="one">Sehr lange Verzögerung (%1$d ms)</item>
+    <item quantity="other">sehr lange Verzögerungen (%1$d ms)</item>
+    <item quantity="one">sehr lange Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-    <item quantity="other">Sehr kurze Verzögerungen (%1$d ms)</item>
-    <item quantity="one">Sehr kurze Verzögerung (%1$d ms)</item>
+    <item quantity="other">sehr kurze Verzögerungen (%1$d ms)</item>
+    <item quantity="one">sehr kurze Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="data_saver_unrestricted_summary">
-    <item quantity="other">Es ist %1$d Apps erlaubt Daten zu nutzen, wenn der Daten Saver aktiv ist</item>
-    <item quantity="one">Es ist eine App erlaubt Daten zu nutzen, wenn der Daten Saver aktiv ist</item>
+    <item quantity="other">Es ist %1$d Apps erlaubt Daten zu nutzen, wenn der Daten Retter aktiv ist.</item>
+    <item quantity="one">Es ist einer App erlaubt Daten zu nutzen, wenn der Daten Retter aktiv ist.</item>
   </plurals>
   <plurals name="dlg_remove_locales_title">
     <item quantity="other">Ausgewählte Sprachen entfernen?</item>
@@ -37,8 +37,8 @@
     <item quantity="one">PIN muss ein Zeichen lang sein</item>
   </plurals>
   <plurals name="lockpattern_recording_incorrect_too_short">
-    <item quantity="other">Mindestens %d Punkte verbinden. Erneut probieren.</item>
-    <item quantity="one">Mindestens einen Punkt verbinden. Erneut probieren.</item>
+    <item quantity="other">Mindestens %d Punkte verbinden, erneut probieren.</item>
+    <item quantity="one">Mindestens einen Punkt verbinden, erneut probieren.</item>
   </plurals>
   <plurals name="lockpattern_too_many_failed_confirmation_attempts">
     <item quantity="other">Zu viele falsche Versuche. Erneut in %d Sekunden versuchen.</item>
@@ -50,11 +50,11 @@
   </plurals>
   <plurals name="notification_summary">
     <item quantity="other">%d Apps vom Senden blockiert</item>
-    <item quantity="one">Eine App vom Senden blockiert</item>
+    <item quantity="one">eine App vom Senden blockiert</item>
   </plurals>
   <plurals name="print_settings_title">
     <item quantity="other">%d Druckaufträge</item>
-    <item quantity="one">Ein Druckauftrag</item>
+    <item quantity="one">ein Druckauftrag</item>
   </plurals>
   <plurals name="ssl_ca_cert_dialog_title">
     <item quantity="other">Zertifikaten vertrauen oder entfernen</item>
@@ -90,19 +90,19 @@
   </plurals>
   <plurals name="uri_permissions_text">
     <item quantity="other">%d Objekte</item>
-    <item quantity="one">Ein Objekt</item>
+    <item quantity="one">ein Objekt</item>
   </plurals>
   <plurals name="status_bar_settings_disabled_header_title">
-    <item quantity="other">"%s Apps dürfen keine Benachrichtigungen anzeigen"</item>
-    <item quantity="one">"Eine App darf keine Benachrichtigungen anzeigen"</item>
+    <item quantity="other">"%s Apps dürfen keine Benachrichtigungen anzeigen."</item>
+    <item quantity="one">"Eine App darf keine Benachrichtigungen anzeigen."</item>
   </plurals>
   <plurals name="status_bar_settings_enabled_header_title">
     <item quantity="other">%s Apps dürfen Benachrichtungen anzeigen</item>
     <item quantity="one">Eine App darf Benachrichtigungen anzeigen</item>
   </plurals>
   <plurals name="settings_toggle_position_divider_page">
-    <item quantity="other">%1$d Kippschalter werden in der Benachrichtigunsleiste angezeigt</item>
-    <item quantity="one">Ein Kippschalter wird in der Benachrichtigungsleiste angezeigt</item>
+    <item quantity="other">%1$d Schalter werden in der Benachrichtigunsleiste angezeigt.</item>
+    <item quantity="one">Ein Schalter wird in der Benachrichtigungsleiste angezeigt.</item>
   </plurals>
   <plurals name="show_dev_countdown">
     <item quantity="other">In %1$d Schritten sind Sie ein Entwickler.</item>
@@ -110,7 +110,7 @@
   </plurals>
   <plurals name="security_settings_fingerprint_preference_summary">
     <item quantity="other">%1$d Fingerabdrücke eingerichtet</item>
-    <item quantity="one">Einen Fingerabdruck eingerichtet</item>
+    <item quantity="one">einen Fingerabdruck eingerichtet</item>
   </plurals>
   <plurals name="lockpassword_password_requires_letters">
     <item quantity="other">Das Passwort muss mindestens %d Buchstaben enthalten.</item>
@@ -138,7 +138,7 @@
   </plurals>
   <plurals name="manage_notification_access_summary_nonzero">
     <item quantity="other">%d Apps können Benachrichtigungen lesen</item>
-    <item quantity="one">Eine App kann Benachrichtigungen lesen</item>
+    <item quantity="one">eine App kann Benachrichtigungen lesen</item>
   </plurals>
   <plurals name="zen_mode_summary_alarms_only_by_minute">
     <item quantity="other">Änderung der Alarme nur für %1$d Minuten (bis %2$s)</item>
@@ -150,36 +150,36 @@
   </plurals>
   <plurals name="permissions_summary">
     <item quantity="other">%d Berechtigungen erteilt</item>
-    <item quantity="one">Eine Berechtigung erteilt</item>
+    <item quantity="one">eine Berechtigung erteilt</item>
   </plurals>
   <plurals name="runtime_permissions_summary">
     <item quantity="other">%1$d von %2$d Berechtigungen erteilt</item>
-    <item quantity="one">Eine von %2$d Berechtigung erteilt</item>
+    <item quantity="one">eine von %2$d Berechtigung erteilt</item>
   </plurals>
   <plurals name="runtime_permissions_additional_count">
     <item quantity="other">%d zusätzliche Berechtigungen</item>
-    <item quantity="one">Eine zusätzliche Berechtigung</item>
+    <item quantity="one">eine zusätzliche Berechtigung</item>
   </plurals>
   <plurals name="domain_urls_apps_summary">
     <item quantity="other">%d Apps können unterstützte Links öffnen</item>
-    <item quantity="zero">Keine App kann unterstütze Links öffnen</item>
-    <item quantity="one">Eine App kann unterstütze Links öffnen</item>
+    <item quantity="zero">keine App kann unterstütze Links öffnen</item>
+    <item quantity="one">eine App kann unterstütze Links öffnen</item>
   </plurals>
   <plurals name="high_power_count">
-    <item quantity="other">%d Apps dürfen Akkuoptimierung umgehen</item>
-    <item quantity="one">Eine App darf Akkuoptimierung umgehen</item>
+    <item quantity="other">%d Apps dürfen Akkuoptimierung umgehen.</item>
+    <item quantity="one">Eine App darf Akkuoptimierung umgehen.</item>
   </plurals>
   <plurals name="wrong_pin_code">
     <item quantity="other">Falsche PIN. Sie haben noch %d Versuche.</item>
     <item quantity="one">Falsche PIN. Sie haben noch einen Versuch, bevor Sie das Gerät von Ihrem Mobilfunkanbieter entsperren lassen müssen.</item>
   </plurals>
   <plurals name="memory_usage_apps_summary">
-    <item quantity="other">%1$d Apps hat in den letzten %2$s Speicher verbraucht</item>
-    <item quantity="one">Eine App hat in den letzten %2$s Speicher verbraucht</item>
+    <item quantity="other">%1$d Apps hat in den letzten %2$s Speicher verbraucht.</item>
+    <item quantity="one">Eine App hat in den letzten %2$s Speicher verbraucht.</item>
   </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d Geräte</item>
-    <item quantity="one">Ein Gerät</item>
+    <item quantity="one">ein Gerät</item>
   </plurals>
   <plurals name="show_pho_countdown">
     <item quantity="other">Sie sind %1$d Schritte von den Telefoninformationen entfernt.</item>
@@ -195,27 +195,27 @@
   </plurals>
   <plurals name="auto_disable_screenbuttons_enabled_header_title">
     <item quantity="other">Für %d Apps immer deaktivieren</item>
-    <item quantity="one">Für eine App immer deaktivieren</item>
+    <item quantity="one">für eine App immer deaktivieren</item>
   </plurals>
   <plurals name="auto_disable_screenbuttons_disabled_header_title">
     <item quantity="other">Für %d Apps niemals deaktivieren</item>
-    <item quantity="one">Für eine App niemals deaktivieren</item>
+    <item quantity="one">für eine App niemals deaktivieren</item>
   </plurals>
   <plurals name="auto_startup_count">
     <item quantity="other">%d Apps dürfen automatisch starten</item>
-    <item quantity="one">Eine App darf automatisch starten</item>
+    <item quantity="one">eine App darf automatisch starten</item>
   </plurals>
   <plurals name="free_wifi_connected_count">
     <item quantity="other">%1$d Personen sind verbunden</item>
-    <item quantity="one">Eine Person ist verbunden</item>
+    <item quantity="one">eine Person ist verbunden</item>
   </plurals>
   <plurals name="virus_scan_app_find_risk">
     <item quantity="other">%d Risiken gefunden</item>
-    <item quantity="one">Ein Risiko gefunden</item>
+    <item quantity="one">ein Risiko gefunden</item>
   </plurals>
   <plurals name="wifi_share_count">
     <item quantity="other">%d geteilte Netzwerke</item>
-    <item quantity="one">Ein geteiltes Netzwerk</item>
+    <item quantity="one">ein geteiltes Netzwerk</item>
   </plurals>
   <plurals name="lockpassword_pin_fixed_length">
     <item quantity="other">PIN muss %d Ziffern lang sein</item>

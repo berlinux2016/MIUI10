@@ -21,30 +21,30 @@
     <item quantity="many">Lösche diese %1$d Unterhaltungen?</item>
   </plurals>
   <plurals name="confirm_delete_conversation_with_sub">
-    <item quantity="other">Diese Unterhaltungen enhalten zusammengeführte Einträge. Dennoch löschen?</item>
-    <item quantity="zero">Diese Unterhaltungen enhalten zusammengeführte Einträge. Dennoch löschen?</item>
-    <item quantity="one">Die Unterhaltung enthält zusammengeführte Einträge. Dennoch löschen?</item>
-    <item quantity="two">Diese Unterhaltungen enhalten zusammengeführte Einträge. Dennoch löschen?</item>
-    <item quantity="few">Diese Unterhaltungen enhalten zusammengeführte Einträge. Dennoch löschen?</item>
-    <item quantity="many">Diese Unterhaltungen enhalten zusammengeführte Einträge. Dennoch löschen?</item>
+    <item quantity="other">Diese Unterhaltungen enhalten zusammengeführte Einträge, dennoch löschen?</item>
+    <item quantity="zero">Diese Unterhaltungen enhalten zusammengeführte Einträge, dennoch löschen?</item>
+    <item quantity="one">Die Unterhaltung enthält zusammengeführte Einträge, dennoch löschen?</item>
+    <item quantity="two">Diese Unterhaltungen enhalten zusammengeführte Einträge, dennoch löschen?</item>
+    <item quantity="few">Diese Unterhaltungen enhalten zusammengeführte Einträge, dennoch löschen?</item>
+    <item quantity="many">Diese Unterhaltungen enhalten zusammengeführte Einträge, dennoch löschen?</item>
   </plurals>
   <plurals name="confirm_delete_draft">
     <item quantity="other">%1$d Entwürfe löschen?</item>
-    <item quantity="one">1 Entwurf löschen?</item>
+    <item quantity="one">Einen Entwurf löschen?</item>
   </plurals>
   <plurals name="contact_num_selected">
     <item quantity="other">%d ausgewählt</item>
     <item quantity="zero">%d ausgewählt</item>
-    <item quantity="one">%d ausgewählt</item>
+    <item quantity="one">eine ausgewählt</item>
     <item quantity="two">%d ausgewählt</item>
     <item quantity="few">%d ausgewählt</item>
     <item quantity="many">%d ausgewählt</item>
   </plurals>
   <plurals name="conversation_archived">
     <item quantity="other">
-      <b>%1$d</b> Archiviert</item>
+      <b>%1$d</b> archiviert</item>
     <item quantity="one">
-      <b>%1$d</b> Archiviert</item>
+      <b>%1$d</b> archiviert</item>
   </plurals>
   <plurals name="conversation_deleted">
     <item quantity="other">
@@ -53,8 +53,8 @@
       <b>%1$d</b> gelöscht</item>
   </plurals>
   <plurals name="conversation_folder_changed">
-    <item quantity="other">Geänderte Ordner</item>
-    <item quantity="one">Geänderter Ordner</item>
+    <item quantity="other">geänderte Ordner</item>
+    <item quantity="one">geänderter Ordner</item>
   </plurals>
   <plurals name="conversation_msg_header_count">
     <item quantity="other">+%1$d Personen</item>
@@ -92,15 +92,15 @@
   </plurals>
   <plurals name="day">
     <item quantity="other">%d Tage</item>
-    <item quantity="one">%d Tag</item>
+    <item quantity="one">ein Tag</item>
   </plurals>
   <plurals name="day_after">
-    <item quantity="other">In %d Tagen</item>
-    <item quantity="one">In %d Tag</item>
+    <item quantity="other">in %d Tagen</item>
+    <item quantity="one">morgen</item>
   </plurals>
   <plurals name="day_before">
-    <item quantity="other">Vor %d Tagen</item>
-    <item quantity="one">Vor %d Tag</item>
+    <item quantity="other">vor %d Tagen</item>
+    <item quantity="one">gestern</item>
   </plurals>
   <plurals name="draft">
     <item quantity="other">Entwürfe</item>
@@ -109,14 +109,14 @@
   <plurals name="empty_folder_dialog_message">
     <item quantity="other">%1$d Nachrichten werden dauerhaft gelöscht</item>
     <item quantity="zero">%1$d Nachrichten werden dauerhaft gelöscht</item>
-    <item quantity="one">%1$d Nachricht wird dauerhaft gelöscht</item>
+    <item quantity="one">Nachricht wird dauerhaft gelöscht</item>
     <item quantity="two">%1$d Nachrichten werden dauerhaft gelöscht</item>
     <item quantity="few">%1$d Nachrichten werden dauerhaft gelöscht</item>
     <item quantity="many">%1$d Nachrichten werden dauerhaft gelöscht</item>
   </plurals>
   <plurals name="month">
     <item quantity="other">%d Monaten</item>
-    <item quantity="one">%d Monat</item>
+    <item quantity="one">ein Monat</item>
   </plurals>
   <plurals name="move_conversation">
     <item quantity="other">Verschiebe %1$d Unterhaltungen</item>
@@ -129,7 +129,7 @@
   <plurals name="new_incoming_messages_many">
     <item quantity="other">Zeige %1$d neue Nachrichten</item>
     <item quantity="zero">Zeige %1$d neue Nachrichten</item>
-    <item quantity="one">Zeige %1$d neue Nachricht</item>
+    <item quantity="one">Zeige neue Nachricht</item>
     <item quantity="two">Zeige %1$d neue Nachrichten</item>
     <item quantity="few">Zeige %1$d neue Nachrichten</item>
     <item quantity="many">Zeige %1$d neue Nachrichten</item>
@@ -137,7 +137,7 @@
   <plurals name="num_selected">
     <item quantity="other">%d ausgewählt</item>
     <item quantity="zero">%d ausgewählt</item>
-    <item quantity="one">%d ausgewählt</item>
+    <item quantity="one">eine ausgewählt</item>
     <item quantity="two">%d ausgewählt</item>
     <item quantity="few">%d ausgewählt</item>
     <item quantity="many">%d ausgewählt</item>
@@ -145,7 +145,7 @@
   <plurals name="show_messages_read">
     <item quantity="other">%1$d ältere Nachrichten</item>
     <item quantity="zero">%1$d ältere Nachrichten</item>
-    <item quantity="one">%1$d ältere Nachricht</item>
+    <item quantity="one">eine ältere Nachricht</item>
     <item quantity="two">%1$d ältere Nachrichten</item>
     <item quantity="few">%1$d ältere Nachrichten</item>
     <item quantity="many">%1$d ältere Nachrichten</item>

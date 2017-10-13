@@ -7,7 +7,7 @@
      </plurals>
      <plurals name="duration_days_relative">
         <item quantity="other">vor %d Tagen</item>
-        <item quantity="one">vor einem Tag</item>
+        <item quantity="one">gestern</item>
      </plurals>
      <plurals name="duration_days_relative_future">
         <item quantity="other">in %d Tagen</item>
@@ -71,7 +71,7 @@
      </plurals>
      <plurals name="ssl_ca_cert_warning">
         <item quantity="other">Autorisierte Zertifikate installiert</item>
-        <item quantity="one">Autorisierte Zertifikate installiert</item>
+        <item quantity="one">Autorisiertes Zertifikat installiert</item>
      </plurals>
   
   <plurals name="zen_mode_duration_hours_summary">
@@ -83,8 +83,8 @@
     <item quantity="one">Für eine Minute (bis %2$s)</item>
   </plurals>
   <plurals name="pinpuk_attempts">
-    <item quantity="other">Sie haben noch %d Versuche, bevor Ihre SIM-Karte gesperrt wird</item>
-    <item quantity="one">Sie haben noch einen Versuch, bevor Ihre SIM-Karte gesperrt wird</item>
+    <item quantity="other">Sie haben noch %d Versuche, bevor Ihre SIM-Karte gesperrt wird.</item>
+    <item quantity="one">Sie haben noch einen Versuch, bevor Ihre SIM-Karte gesperrt wird.</item>
   </plurals>
   <plurals name="num_seconds_ago">
     <item quantity="other">vor %d Sekunden</item>
@@ -156,15 +156,15 @@
   </plurals>
   <plurals name="duration_seconds">
     <item quantity="other">%d Sekunden</item>
-    <item quantity="one">Eine Sekunde</item>
+    <item quantity="one">eine Sekunde</item>
   </plurals>
   <plurals name="duration_minutes">
     <item quantity="other">%d Minuten</item>
-    <item quantity="one">Eine Minute</item>
+    <item quantity="one">eine Minute</item>
   </plurals>
   <plurals name="duration_hours">
     <item quantity="other">%d Stunden</item>
-    <item quantity="one">Eine Stunde</item>
+    <item quantity="one">eine Stunde</item>
   </plurals>
   <plurals name="wifi_available">
     <item quantity="other">WLAN-Netzwerke verfügbar</item>
@@ -176,38 +176,38 @@
   </plurals>
   <plurals name="matches_found">
     <item quantity="other">%1$d von %2$d</item>
-    <item quantity="one">Einen Treffer</item>
+    <item quantity="one">einen Treffer</item>
   </plurals>
   <plurals name="restr_pin_countdown">
-    <item quantity="other">In %d Sek. wiederholen</item>
-    <item quantity="one">In einer Sek. wiederholen</item>
+    <item quantity="other">in %d Sek. wiederholen</item>
+    <item quantity="one">in einer Sek. wiederholen</item>
   </plurals>
   <plurals name="zen_mode_duration_minutes">
-    <item quantity="other">Für %d Minuten</item>
-    <item quantity="one">Für eine Minute</item>
+    <item quantity="other">für %d Minuten</item>
+    <item quantity="one">für eine Minute</item>
   </plurals>
   <plurals name="zen_mode_duration_hours">
-    <item quantity="other">Für %d Stunden</item>
-    <item quantity="one">Für eine Stunde</item>
+    <item quantity="other">für %d Stunden</item>
+    <item quantity="one">für eine Stunde</item>
   </plurals>
   <plurals name="selected_count">
     <item quantity="other">%1$d ausgewählt</item>
-    <item quantity="one">Einen ausgewählt</item>
+    <item quantity="one">einen ausgewählt</item>
   </plurals>
   <plurals name="zen_mode_duration_hours_short">
-    <item quantity="other">Für %d Std.</item>
-    <item quantity="one">Für eine Std.</item>
+    <item quantity="other">für %d Std.</item>
+    <item quantity="one">für eine Std.</item>
   </plurals>
   <plurals name="zen_mode_duration_hours_summary_short">
-    <item quantity="other">Für %1$d Std. (bis %2$s)</item>
-    <item quantity="one">Für eine Std. (bis %2$s)</item>
+    <item quantity="other">für %1$d Std. (bis %2$s)</item>
+    <item quantity="one">für eine Std. (bis %2$s)</item>
   </plurals>
   <plurals name="zen_mode_duration_minutes_short">
-    <item quantity="other">Für %d Min.</item>
-    <item quantity="one">Für eine Min.</item>
+    <item quantity="other">für %d Min.</item>
+    <item quantity="one">für eine Min.</item>
   </plurals>
   <plurals name="zen_mode_duration_minutes_summary_short">
-    <item quantity="other">Für %1$d Min. (bis %2$s)</item>
-    <item quantity="one">Für eine Min. (bis %2$s)</item>
+    <item quantity="other">für %1$d Min. (bis %2$s)</item>
+    <item quantity="one">für eine Min. (bis %2$s)</item>
   </plurals>
 </resources>
