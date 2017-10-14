@@ -305,6 +305,40 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_list_memory_use">Appnutzung</string>
   <string name="app_list_preference_none">Keine</string>
   <string name="app_lock_role_instruction">Schützen Sie Ihre privaten Apps</string>
+
+  <string name="app_manager_app_info_label">App Info</string>
+  <string name="app_manager_app_info_name">App Name</string>
+  <string name="app_manager_app_ifno_version">App Version</string>
+  <string name="app_manager_app_info_pkg">APK Name</string>
+  <string name="app_manager_copy_pkg_to_clip">Kopiert in die Zwischenablage</string>
+  <string name="app_manager_show_all_apps">Alle Apps anzeigen</string>
+  <string name="app_manager_hide_system_server">Systemdienste ausblenden</string>
+  <string name="app_manager_back">Zurück</string>
+  <string name="app_manager_defaults_setting">Standardwerte</string>
+  <string name="app_manager_clear_cache">Cache löschen</string>
+  <string name="app_manager_reset_app_preferences">App-Einstellungen zurücksetzen</string>
+  <string name="app_manager_reset_app_preferences_title">Reset app preferences?</string>
+  <string name="app_manager_reset_app_preferences_desc">"Dies setzt alle Einstellungen zurück für
+
+ "<li>Deaktivierte Apps</li>"
+ "<li>Benachrichtigungen über deaktivierte Anwendungen</li>"
+ "<li>Standardanwendungen für Aktionen</li>"
+ "<li>Beschränkungen für Hintergrunddaten bei Apps</li>"
+
+ Sie verlieren keine App-Daten."</string>
+  <string name="app_manager_reset_app_preferences_button">Apps zurücksetzen</string>
+  <string name="app_manager_disable_text">Deaktivieren</string>
+  <string name="app_manager_enable_text">Aktivieren</string>
+  <string name="app_manager_disable_dlg_title">Integrierte App deaktivieren?</string>
+  <string name="app_manager_disable_dlg_text">Wenn Sie diese App deaktivieren, funktionieren andere Apps möglicherweise nicht mehr wie vorgesehen.</string>
+  <string name="app_manager_disabled">Deaktivieren</string>
+  <string name="app_manager_enabled">Aktivieren</string>
+  <string name="app_manager_globel_perm_title">App Berechtigungen</string>
+  <string name="app_manager_globel_perm_summary">Verwalten Sie Berechtigungen in Bezug auf Speicherort, Speicherung, Telefon, Nachrichten und Kontakte.</string>
+  <string name="app_manager_globel_other_perm_title">Andere Berechtigungen</string>
+  <string name="app_manager_uninstall_protected_dlg_title">Systemanwendungen deinstallieren</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">Uninstalling system apps may prevent some MIUI components from working properly. Trotzdem deinstallieren?</string>
+
   <string name="app_memory_use">Speichernutzung</string>
   <string name="app_name">Sicherung</string>
   <string name="app_name_label">App</string>
