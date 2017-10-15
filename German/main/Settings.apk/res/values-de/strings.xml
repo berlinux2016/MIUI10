@@ -23,8 +23,8 @@
   <string name="abc_shareactionprovider_share_with">Teilen</string>
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
   <string name="abc_toolbar_collapse_description">Einklappen</string>
-  <string name="abort_backup_confirm">Sicherung ist noch nicht vollständig. Trotzdem beenden?</string>
-  <string name="abort_restore_confirm">Wiederherstellung ist noch nicht abgeschlossen. Trotzdem beenden?</string>
+  <string name="abort_backup_confirm">Sicherung ist noch nicht vollständig, trotzdem beenden?</string>
+  <string name="abort_restore_confirm">Wiederherstellung ist noch nicht abgeschlossen, trotzdem beenden?</string>
   <string name="about_ad_service_instructions">Über Ad-Dienste und Datenschutz</string>
   <string name="about_phone_enter_xiaomi_net">Mehr erfahren</string>
   <string name="about_settings">Über das Gerät</string>
@@ -80,8 +80,8 @@
   <string name="accessibility_personal_account_title">Persönliches Konto - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Ein/Aus-Taste beendet Anruf</string>
   <string name="accessibility_screen_magnification_enable">Vergrößerungsgesten</string>
-  <string name="accessibility_screen_magnification_short_summary">3 Mal tippen, um zu vergrößern</string>
-  <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/rauszoomen, indem Sie drei Mal auf den Bildschirm tippen. Wenn Sie reingezoomt haben, können Sie:
+  <string name="accessibility_screen_magnification_short_summary">3 mal tippen, um zu vergrößern</string>
+  <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/rauszoomen, indem Sie 3 mal auf den Bildschirm tippen. Wenn Sie reingezoomt haben, können Sie:
   <li>
     <ul>"Verschieben: Ziehen Sie zwei oder mehr Finger über den Bildschirm.
       <li>Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.</li>
@@ -317,7 +317,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_manager_defaults_setting">Standardwerte</string>
   <string name="app_manager_clear_cache">Cache löschen</string>
   <string name="app_manager_reset_app_preferences">App-Einstellungen zurücksetzen</string>
-  <string name="app_manager_reset_app_preferences_title">Reset app preferences?</string>
+  <string name="app_manager_reset_app_preferences_title">App-Einstellungen zurücksetzen?</string>
   <string name="app_manager_reset_app_preferences_desc">"Dies setzt alle Einstellungen zurück für
 
  "<li>Deaktivierte Apps</li>"
@@ -590,7 +590,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_info_status_discharging">Entlädt</string>
   <string name="battery_info_status_full">Voll</string>
   <string name="battery_info_status_label">Akkustatus:</string>
-  <string name="battery_info_status_not_charging">Entlädt</string>
+  <string name="battery_info_status_not_charging">wird entladen</string>
   <string name="battery_info_status_unknown">Unbekannt</string>
   <string name="battery_info_technology_label">Akkutechnologie:</string>
   <string name="battery_info_temperature_label">Akkutemperatur:</string>
@@ -602,7 +602,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_light_summary">LED während dem Laden einschalten</string>
   <string name="battery_light_title">Ladekontrollleuchte</string>
   <string name="battery_msg_unaccounted">Der Akkuverbrauch ist eine Näherung von Stromverbrauch und enthält nicht jede Quelle von Akkuentladung. Sonstiges ist die Differenz von dem berechneten ungefähren Stromverbrauch und der eigentlichen beobachteten Entladung des Akkus.</string>
-  <string name="battery_saver">Battery Saver</string>
+  <string name="battery_saver">Akkusparer</string>
   <string name="battery_saver_desc_turn_on_auto_never">Nie automatisch einschalten</string>
   <string name="battery_saver_desc_turn_on_auto_pct">Automatisch bei %1$s Akkustand einschalten</string>
   <string name="battery_saver_off_summary">Aus / %1$s</string>
@@ -663,11 +663,11 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="bluetooth_a2dp_profile_summary_connected">"Verbunden mit Audiosystem von Medien"</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Für Audiosystem von Medien verwenden</string>
   <string name="bluetooth_advanced_titlebar">Bluetooth - Erweitert</string>
-  <string name="bluetooth_ask_discovery">Eine App versucht, Ihr Telefon für %1$d Sekunden für andere Bluetoothgeräte sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_discovery">Eine App versucht, Ihr Telefon für %1$d Sekunden für andere Bluetoothgeräte sichtbar zu machen, erlauben?</string>
   <string name="bluetooth_ask_enablement">Eine App versucht, Bluetooth zu aktivieren.</string>
-  <string name="bluetooth_ask_enablement_and_discovery">Eine App versucht, Bluetooth zu aktivieren und Ihr Telefon für %1$d Sekunden für andere Telefone sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_enablement_and_discovery">Eine App versucht, Bluetooth zu aktivieren und Ihr Telefon für %1$d Sekunden für andere Telefone sichtbar zu machen, erlauben?</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte %1$d Sekunden lang sichtbar machen."</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery">Eine App versucht, Bluetooth zu aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">Eine App versucht, Bluetooth zu aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen, erlauben?</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen. Sie können das in den Bluetootheinstellungen ändern."</string>
   <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s möchte Bluetooth und Bluetoothbroadcasting aktivieren, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetootheinstellungen ändern.</string>
   <string name="bluetooth_ask_enablement_detected">" möchte Bluetooth aktivieren."</string>
@@ -1032,7 +1032,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="change_security_lock">Andere Entsperrmethoden</string>
   <string name="change_storage">Speicher tauschen</string>
   <string name="charge_length_format">vor %1$s</string>
-  <string name="charging_sounds_title">Ladetöne</string>
+  <string name="charging_sounds_title">Ton bei Ladekabel an/ab</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_importance">Als wichtig markieren?</string>
   <string name="check_update">Updates suchen</string>
@@ -1507,7 +1507,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="device_status_summary">Telefonnummer, Signal, etc.</string>
   <string name="device_total_memory">Speicherplatz insgesamt</string>
   <string name="dial_application_title">Wählen</string>
-  <string name="dial_pad_tones_title">Wähltastenfeldtöne</string>
+  <string name="dial_pad_tones_title">Wähltastentöne</string>
   <string name="dialog_content_login">Für das Update mit Ihrem Mi Konto anmelden?</string>
   <string name="dialog_no">Nein</string>
   <string name="dialog_not_show_again">Nicht wieder anzeigen</string>
@@ -1628,22 +1628,22 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="dndm_wristband_detailed2">\"Nicht stören\" ausschalten, wenn das Mi Band erkennt, dass Sie innerhalb einer Stunde vor der geplanten Zeit aufwachen</string>
   <string name="do_not_disturb_mode">Nicht stören</string>
   <string name="dock_audio_media_disabled">Alle Töne</string>
-  <string name="dock_audio_media_enabled">Nur Medientöne</string>
+  <string name="dock_audio_media_enabled">Nur Medienton</string>
   <string name="dock_audio_media_title">Docklautsprecher spielt</string>
   <string name="dock_audio_settings_title">Audio</string>
   <string name="dock_audio_summary_car">Einstellungen für angeschlossenes Autodock</string>
   <string name="dock_audio_summary_desk">Einstellungen für angeschlossenes Desktopdock</string>
   <string name="dock_audio_summary_none">Telefon nicht angedockt</string>
   <string name="dock_audio_summary_unknown">Einstellungen für angeschlossenes Dock</string>
-  <string name="dock_not_found_text">Zum Einrichten des Dockaudios muss das Telefon angedockt sein.</string>
+  <string name="dock_not_found_text">Zum Einrichten von Dockaudio muss das Telefon angedockt sein.</string>
   <string name="dock_not_found_title">Dock nicht gefunden</string>
   <string name="dock_settings">Dock</string>
   <string name="dock_settings_summary">Audioeinstellungen für angeschlossenes Dock</string>
   <string name="dock_settings_title">Dockeinstellungen</string>
-  <string name="dock_sounds_enable_summary_off">Beim Anschließen oder Trennen des Telefons vom Dock keinen Ton abspielen</string>
-  <string name="dock_sounds_enable_summary_on">Beim Anschließen oder Trennen des Telefons vom Dock Ton abspielen</string>
-  <string name="dock_sounds_enable_title">Ton bei Dockanschluss</string>
-  <string name="docking_sounds_title">Dockingtöne</string>
+  <string name="dock_sounds_enable_summary_off">Beim Verbinden oder Trennen des Telefons mit der Dock keinen Ton abspielen</string>
+  <string name="dock_sounds_enable_summary_on">Beim Verbinden oder Trennen des Telefons mit der Dock Ton abspielen</string>
+  <string name="dock_sounds_enable_title">Dockington</string>
+  <string name="docking_sounds_title">Ton für Docking</string>
   <string name="does_not_exist">App ist nicht vorhanden</string>
   <string name="dolby_bassboost_high">Stark</string>
   <string name="dolby_bassboost_low">Schwächer</string>
@@ -2225,7 +2225,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="key_combination_power_back">Ein/Aus + Zurücktaste</string>
   <string name="key_combination_power_home">Ein/Aus + Hometaste</string>
   <string name="key_combination_power_menu">Ein/Aus + Menütaste</string>
-  <string name="key_gesture_function_dialog_message">%1$s ist eine Verknüpfung für %2$s. Mit %3$s ersetzen?</string>
+  <string name="key_gesture_function_dialog_message">%1$s ist eine Verknüpfung für %2$s, mit %3$s ersetzen?</string>
   <string name="key_gesture_function_dialog_negative">Abbrechen</string>
   <string name="key_gesture_function_dialog_positive">Ersetzen</string>
   <string name="key_gesture_function_optional">Optionale Gesten und Tasten</string>
@@ -2905,17 +2905,17 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="mode_disable">Aus</string>
   <string name="mode_enable">An</string>
   <string name="model_number">Modellnummer</string>
-  <string name="modem_tool_log">Capture modem logs</string>
+  <string name="modem_tool_log">Modemprotokolle aufnehmen</string>
   <string name="modem_tool_log_start">Start</string>
-  <string name="modem_tool_log_start_toast">Das Speichern des Modemlogs nach %s starten</string>
+  <string name="modem_tool_log_start_toast">Das Speichern der Modemprotokolle nach %s starten</string>
   <string name="modem_tool_log_stop">Stopp</string>
-  <string name="modem_tool_log_stop_toast">Das Laden des Modemlogs aus %s anhalten</string>
+  <string name="modem_tool_log_stop_toast">Das Laden des Modemprotokolle aus %s anhalten</string>
   <string name="modify_instruction_password_settings">Passwort festlegen</string>
   <string name="modify_privacy_password">Passwort ändern</string>
   <string name="move_app">Verschieben</string>
   <string name="move_app_app_label">App</string>
   <string name="move_app_data_label">Daten</string>
-  <string name="move_app_dlg_text">This may take a few minutes. Do not remove the SD card during this operation.</string>
+  <string name="move_app_dlg_text">Dies kann einige Minuten dauern. Entfernen Sie während dieses Vorgangs nicht die SD-Speicherkarte.</string>
   <string name="move_app_failed_dlg_text">App kann nicht verschoben werden. %1$s</string>
   <string name="move_app_free_on_device">%1$s frei auf SHIELD</string>
   <string name="move_app_free_on_sdcard">%1$s frei auf SD-Karte</string>
@@ -2989,7 +2989,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="music_dirac_mode_piston_youth">Jugend Edition</string>
   <string name="music_dolby_dialogue_enhancer">Dialog Enhancer</string>
   <string name="music_dolby_effects">Dolby Effekte</string>
-  <string name="music_dolby_eq_enter_alert_msg">Sie können den Equalizer nur im Dolby Musik-Modus verwenden. Jetzt aktivieren?</string>
+  <string name="music_dolby_eq_enter_alert_msg">Sie können den Equalizer nur im Dolby Musik-Modus verwenden, jetzt aktivieren?</string>
   <string name="music_dolby_eq_enter_alert_title">Dolby-Musik einschalten</string>
   <string name="music_dolby_ieq_flat">Aus</string>
   <string name="music_dolby_ieq_focused">Fokussiert</string>
@@ -3106,7 +3106,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="no_device_admins">Keine Geräteadministratoren verfügbar</string>
   <string name="no_encrypt_password">Kein Passwort</string>
   <string name="no_internet_access_remember">Für dieses Netzwerk nicht mehr nachfragen</string>
-  <string name="no_internet_access_text">Netzwerk hat keinen Internetzugang. Verbunden bleiben?</string>
+  <string name="no_internet_access_text">Netzwerk hat keinen Internetzugang, verbunden bleiben?</string>
   <string name="no_media_button_receiver">Nein</string>
   <string name="no_memory_use_summary">Kein Speicher in den letzten 3 Stunden verbraucht</string>
   <string name="no_nearby_wifi">Keine Netzwerke gefunden.</string>
@@ -3254,7 +3254,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="open_miui_optimization_warning_message">Ihr Gerät wird neu gestartet, um diese Änderungen zu übernehmen</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Abbrechen</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Schließen</string>
-  <string name="open_personal_assistant_dialog_desc">Sie werden nicht in der Lage sein Smart Assistent zu verwenden. Jetzt abschalten?</string>
+  <string name="open_personal_assistant_dialog_desc">Sie werden nicht in der Lage sein Smart Assistent zu verwenden, jetzt abschalten?</string>
   <string name="open_personal_assistant_dialog_title">Smart Assistent abschalten</string>
   <string name="open_personal_assistant_title">Smart Assistent einschalten</string>
   <string name="open_sdcard_optimization_title">Pseudo-SD-Kartenoptimierung öffnen</string>
@@ -3480,7 +3480,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="path_slot_status_title">Einstellungen/Über das Gerät/IMEI-Information</string>
   <string name="path_sms_delivered_sound_title">Einstellungen/Ton &amp; Vibration/Nachricht zugestellt</string>
   <string name="path_sms_received_settings">Einstellungen/Ton &amp; Vibration/Nachricht empfangen</string>
-  <string name="path_sound_effects_enable_title">Einstellungen/Ton &amp; Vibration/Töne bei Berührung</string>
+  <string name="path_sound_effects_enable_title">Einstellungen/Ton &amp; Vibration/Ton bei Berührung</string>
   <string name="path_sound_settings">Einstellungen/Ton &amp; Vibration</string>
   <string name="path_status_bar_settings">Einstellungen/Benachrichtigungen &amp; Statusleiste</string>
   <string name="path_status_bar_settings_custom_carrier">Einstellungen/Benachrichtigungen &amp; Statusleiste/Netzbetreiber bearbeiten</string>
@@ -4087,7 +4087,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="screen_key_position">Navigationstasten</string>
   <string name="screen_key_press">Kurzer Tastendruck</string>
   <string name="screen_key_press_action">Auslösefunktion</string>
-  <string name="screen_locking_sounds_title">Töne für Bildschirmsperre</string>
+  <string name="screen_locking_sounds_title">Ton für Bildschirmsperre</string>
   <string name="screen_max_aspect_ratio_desc">Ausgewählte Anwendungen im Vollbildmodus arbeiten lassen</string>
   <string name="screen_max_aspect_ratio_title">Vollbildmodus</string>
   <string name="screen_monochrome_mode_apps_loading">Einen Moment…</string>
@@ -4802,11 +4802,11 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="sort_max_use">Nach max. Verwendung sortieren</string>
   <string name="sort_order_alpha">Nach Namen sortieren</string>
   <string name="sort_order_size">Nach Größe sortieren</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Klingelton &amp; Benachrichtigungstöne</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Klingelton &amp; Benachrichtigungston</string>
   <string name="sound_category_notification_title">Benachrichtigungen</string>
   <string name="sound_category_sound_title">Allgemein</string>
   <string name="sound_category_system_title">System</string>
-  <string name="sound_effects_enable_title">Töne bei Berührung</string>
+  <string name="sound_effects_enable_title">Ton bei Berührung</string>
   <string name="sound_settings">Töne</string>
   <string name="sound_settings_example_summary">Klingellaustärke auf 80%</string>
   <string name="sound_settings_summary">Klingellaustärke auf %1$s</string>
@@ -5238,7 +5238,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="touch_sensitive_turn_off_confirm">Bestätigen</string>
   <string name="touch_sensitive_turn_off_summary">Fehlbedienungsmodus ausschalten?</string>
   <string name="touch_sensitive_turn_off_title">Handschuhmodus ausschalten</string>
-  <string name="touch_sounds_title">Berührungstöne</string>
+  <string name="touch_sounds_title">Ton bei Berührung</string>
   <string name="touch_title">Berühren</string>
   <string name="track_frame_time">GPU-Darstellungsprofil</string>
   <string name="trackball_settings">Trackball</string>
@@ -5432,7 +5432,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="uninstall_device_admin">App deinstallieren</string>
   <string name="uninstall_dlg_msg">Deinstallieren löscht auch die Anwendungsdaten.</string>
   <string name="uninstall_dlg_title">Jetzt deinstallieren?</string>
-  <string name="uninstall_protected_dlg_msg">Die Deinstallation von System-Anwendungen verhindert möglicherweise einwandfreie Funktion einiger MIUI Komponenten. Trotzdem deinstallieren?</string>
+  <string name="uninstall_protected_dlg_msg">Die Deinstallation von System-Anwendungen verhindert möglicherweise einwandfreie Funktion einiger MIUI Komponenten, trotzdem deinstallieren?</string>
   <string name="uninstall_protected_dlg_title">System-Apps deinstallieren</string>
   <string name="uninstall_text">Entfernen</string>
   <string name="uninstall_wifi_master_key">WLAN Master Key entfernen</string>
@@ -5779,13 +5779,13 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="vision_settings_description">Sie können dieses Gerät an Ihre Bedürfnisse anpassen. Diese Eingabehilfen können später in Einstellungen geändert werden.</string>
   <string name="vision_settings_title">Vision Einstellungen</string>
   <string name="voice_category">Sprache</string>
-  <string name="voice_input_output_settings">Spracheingabe &amp;-ausgabe</string>
-  <string name="voice_input_output_settings_title">Spracheingabe &amp; -ausgabeeinstellungen</string>
+  <string name="voice_input_output_settings">Sprachein- &amp;ausgabe</string>
+  <string name="voice_input_output_settings_title">Sprachein- &amp; ausgabeeinstellungen</string>
   <string name="voice_input_settings">Spracheingabeeinstellungen</string>
   <string name="voice_input_settings_title">Spracheingabe</string>
   <string name="voice_interaction_security_warning">Dieser Spracheingabedienst ist in der Lage immer aktive Stimmenüberwachung auszuführen und sprachbereite Apps Ihretwegen zu kontrollieren. Es wird von der %s Anwendung durchgeführt. Wollen Sie diesen Dienst aktivieren?</string>
   <string name="voice_interactor_preference_summary">Komplettes Hotword und Interaktion</string>
-  <string name="voice_over_lte">Voice over LTE</string>
+  <string name="voice_over_lte">Sprachausgabe über LTE</string>
   <string name="voice_recognizer_preference_summary">Vereinfachte Sprache in Text</string>
   <string name="voice_search_settings_title">Sprachsuche</string>
   <string name="voice_service_preference_section_title">Spracheingabeservices</string>
@@ -5891,7 +5891,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="wfd_disconnect_diag_msg">Wenn Sie die WLAN-Bildschirmsitzung beenden, wird die Verbindung mit %1$s getrennt.</string>
   <string name="wfd_disconnect_diag_title">Sitzung abbrechen?</string>
   <string name="wfd_disconnect_multiple_diag_message">Wenn Sie die WLAN-Bildschirmsitzung beenden, wird die Verbindung mit %1$s und %2$s anderen Geräten getrennt.</string>
-  <string name="wfd_enable_wifi_diag_title">Sie können WLAN-Bildschirm nur nutzen, wenn WLAN aktiviert ist. Jetzt einschalten?</string>
+  <string name="wfd_enable_wifi_diag_title">Sie können WLAN-Bildschirm nur nutzen, wenn WLAN aktiviert ist, jetzt einschalten?</string>
   <string name="wfd_enabler_title">WLAN-Bildschirm aktivieren</string>
   <string name="wfd_menu_search">Nach Geräten suchen</string>
   <string name="wfd_menu_searching">Suche läuft…</string>
@@ -6245,7 +6245,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="wifi_show_advanced">Erweiterte Optionen einblenden</string>
   <string name="wifi_show_password">Passwort anzeigen</string>
   <string name="wifi_signal">Signalstärke</string>
-  <string name="wifi_signal_found_msg">WLAN AP gefunden. Jetzt verbinden?</string>
+  <string name="wifi_signal_found_msg">WLAN AP gefunden, jetzt verbinden?</string>
   <string name="wifi_skip_anyway">Trotzdem überspringen</string>
   <string name="wifi_skipped_message">"Achtung: Es können zusätzliche Kosten für die Datenübertragung vonseiten des Mobilfunkanbieters anfallen.
     Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</string>
@@ -6433,7 +6433,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="zen_mode_event_rule_summary_any_calendar">Alle Kalender</string>
   <string name="zen_mode_event_rule_summary_calendar_template">Während Ereignissen für %1$s</string>
   <string name="zen_mode_event_rule_summary_reply_template">Wenn die Antwort %1$s lautet</string>
-  <string name="zen_mode_events">Events </string>
+  <string name="zen_mode_events">Veranstaltungen </string>
   <string name="zen_mode_from">Anrufe/Nachrichten von</string>
   <string name="zen_mode_from_anyone">Vom jedem</string>
   <string name="zen_mode_from_call">"Anrufe von "</string>

@@ -46,7 +46,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="action_source_sms_title">SMS blockieren</string>
   <string name="activate_fingerprint_dialog_message">Dieser Fingerabdruck ist nicht aktiv. Geben Sie Ihr Passwort ein, um diesen Fingerabdruck zu aktivieren.</string>
   <string name="activate_fingerprint_dialog_title">Passwort eingeben</string>
-  <string name="activity_title_ad">Logs</string>
+  <string name="activity_title_ad">Protokolldaten</string>
   <string name="activity_title_antispam">Sperrliste</string>
   <string name="activity_title_antivirus">Virenscanner</string>
   <string name="activity_title_apk">Installationsdateien</string>
@@ -813,10 +813,10 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="downloading">Wird heruntergeladen</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
-  <string name="email">Email</string>
+  <string name="email">E-Mail</string>
   <string name="empty_app">Keine Apps</string>
   <string name="empty_title_auto_start_list">Kein Autostartapps</string>
-  <string name="empty_title_garbage_virus_white_list">Die Elemente können mit einem Langdruck zu der Ausnahmeliste hinzugefügt werden</string>
+  <string name="empty_title_garbage_virus_white_list">Die Elemente können mit einem lange Drücken zur Ausnahmeliste hinzugefügt werden</string>
   <string name="empty_title_manual_item_white_list">Keine Ausnahmen</string>
   <string name="empty_title_perm_apps">Leer</string>
   <string name="empty_title_permission_apps_list">Leer</string>
@@ -989,10 +989,10 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="hints_risk_name_title">Risiko:</string>
   <string name="hints_scan_danger_result">Risiko gefunden, jetzt beheben</string>
   <string name="hints_scan_progress">Fertig: %d</string>
-  <string name="hints_scan_result_no_finish">Scan nicht abgeschlossen. Tippen, um erneut zu versuchen.</string>
+  <string name="hints_scan_result_no_finish">Scan abgebrochen, nochmal versuchen!</string>
   <string name="hints_scan_result_phone_safe">Sieht gut aus</string>
   <string name="hints_scan_result_risk">Risiken entdeckt</string>
-  <string name="hints_scan_result_safe">Sicher</string>
+  <string name="hints_scan_result_safe">Kein Risiko</string>
   <string name="hints_scan_result_virus">Viren gefunden</string>
   <string name="hints_scanning">Wird gescannt…</string>
   <string name="hints_scanning_text">Wird überprüft…</string>
@@ -1393,7 +1393,7 @@ Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermute
   <string name="network_test_speed">WLAN Geschwindigkeit testen</string> 
   <string name="networkchanged_exception_summary">Netzwerkverbindung wurde gewechselt. Bitte erneut testen.</string>
   <string name="networkchanged_exception_title">Verbindung gewechselt</string>
-  <string name="never">1 Mal</string>
+  <string name="never">Nie</string>
   <string name="news_change">Ändern</string>
   <string name="next_step_button">Weiter</string>
   <string name="nickname">Nickname</string>
@@ -1547,7 +1547,7 @@ Diese Aktivität verkürzt die Akkulaufzeit."</string>
   <string name="optmizingbar_stop_optmize">Stop</string>
   <string name="optmizingbar_title_acceleration">Wird optimiert…</string>
   <string name="optmizingbar_title_clear">Cache leeren</string>
-  <string name="optmizingbar_title_security">Sicherheit</string>
+  <string name="optmizingbar_title_security">Überprüfen & Scannen</string>
   <string name="optmizingbar_title_system">Systemsicherheit</string>
   <string name="organization">Organisation</string>
   <string name="other">Andere Einstellungen</string>
@@ -1957,7 +1957,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="preferred_app_entries_browser">Browser</string>
   <string name="preferred_app_entries_camera">Kamera</string>
   <string name="preferred_app_entries_dial">Telefon</string>
-  <string name="preferred_app_entries_email">Mail</string>
+  <string name="preferred_app_entries_email">E-Mail</string>
   <string name="preferred_app_entries_gallery">Galerie</string>
   <string name="preferred_app_entries_launcher">Launcher</string>
   <string name="preferred_app_entries_messaging">Nachrichten</string>
@@ -2364,7 +2364,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="suffix_virus_count_bottom">Gesamt</string>
   <string name="suffix_virus_count_top">Risiko</string>
   <string name="suggest_app_tolock">Vorschläge</string>
-  <string name="suggest_scan_again">Es wird ein vollständiger Scan empfohlen, um die Sicherheit zu gewährleisten</string>
+  <string name="suggest_scan_again">Vollständiger Scan empfohlen, um die Sicherheit zu gewährleisten</string>
   <string name="summary_antivirus">Appnamen sowie Appdetails hochladen und online überprüfen</string>
   <string name="summary_antivirus_oversea">Virusdefinitionen automatisch aktualisieren</string>
   <string name="summary_app_lock_disable">Apps sperren, um Ihre Privatsphäre zu schützen</string>
@@ -2447,7 +2447,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="tc_diagnostic_location_error_notification_summary">Antippen, um Standort festzulegen</string>
   <string name="tc_diagnostic_location_error_notification_title">Falscher Standort</string>
   <string name="tc_diagnostic_notification_sumarry">Antippen, um Ergebnisse anzuzeigen</string>
-  <string name="tc_diagnostic_notification_summary">Justierung 5 Mal hintereinander fehlgeschlagen. Tippen, um Diagnose zu starten.</string>
+  <string name="tc_diagnostic_notification_summary">Justierung 5 mal hintereinander fehlgeschlagen. Tippen, um Diagnose zu starten.</string>
   <string name="tc_diagnostic_notification_title">Netzbetreiberdiagnose</string>
   <string name="tc_diagnostic_onekey_repair_botton">Beheben</string>
   <string name="tc_diagnostic_operator_error_notification_summary">Antippen, um die Netzbetreibereinstellungen zu ändern</string>

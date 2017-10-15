@@ -54,7 +54,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s Probleme \"%2$s\"</string>
   <string name="feedback_choose_module">Modul auswählen</string>
   <string name="feedback_choose_module_hint">Erforderlich</string>
-  <string name="feedback_collect_log_failed">Logs konnten nicht gelesen werden</string>
+  <string name="feedback_collect_log_failed">Protokolldaten konnten nicht gelesen werden</string>
   <string name="feedback_contact_info_hint">Telefonnummer/E-Mail</string>
   <string name="feedback_continue">Weiter mit Feedback</string>
   <string name="feedback_description">Beschreibung</string>
@@ -67,7 +67,7 @@
   <string name="feedback_history_remind_login_desc">"Sign in with your Mi Account to view details and your report's progress"</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Key: %s</string>
-  <string name="feedback_package_log_failed">Logs konnten nicht komprimiert werden</string>
+  <string name="feedback_package_log_failed">Protokolldaten konnten nicht komprimiert werden</string>
   <string name="feedback_phone_model_label">Telefonmodell</string>
   <string name="feedback_probability_label">Wahrscheinlichkeit</string>
   <string name="feedback_remind_login_btn">Anmelden</string>
@@ -75,10 +75,10 @@
   <string name="feedback_report_remind_login_desc2">"Sie können den Fortschritt Ihrer Berichte unter \"Meine Berichte\" verfolgen"</string>
   <string name="feedback_retest_label">Schritte zum Reproduzieren</string>
   <string name="feedback_select_images">Bilder hinzufügen</string>
-  <string name="feedback_select_modem_log">Modem Logs anhängen</string>
+  <string name="feedback_select_modem_log">Modem Protokolldaten anhängen</string>
   <string name="feedback_select_problem">Probleme</string>
   <string name="feedback_select_suggestion">Vorschläge</string>
-  <string name="feedback_select_upload_log">Logs hinzufügen</string>
+  <string name="feedback_select_upload_log">Protokolldaten hinzufügen</string>
   <string name="feedback_status_answered">Beantwortet</string>
   <string name="feedback_status_change_notification_title">Die Bearbeitung Ihres Berichts wurde aktualisiert</string>
   <string name="feedback_status_commit_failed_title">Bericht konnte nicht gesendet werden</string>
@@ -188,7 +188,7 @@
   <string name="mobile_data_note_dialog_cancel">Warte auf WLAN</string>
   <string name="mobile_data_note_dialog_confirm">Hochladen</string>
   <string name="mobile_data_note_dialog_content">Das Hochladen über Mobiles Internet kann zusätzliche Kosten verursachen.</string>
-  <string name="mobile_data_note_dialog_content_with_file_size">Das Hochladen der Logs über Mobiles Internet benötigt %sMB an Daten.</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Das Hochladen der Protokolldaten über Mobiles Internet benötigt %sMB an Daten.</string>
   <string name="mobile_data_note_dialog_title">Datenverbrauchswarnung</string>
   <string name="modem_tool_log_dumping_desc">Zum Anhalten auf das Symbol klicken</string>
   <string name="modem_tool_log_dumping_title">Modemfehlerbericht speichern</string>
@@ -300,7 +300,7 @@
   <string name="toast_title_required">Beschreiben Sie Ihr Problem</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Erneut versuchen</string>
-  <string name="upload_log_failed">Logs konnten nicht gesendet werden</string>
+  <string name="upload_log_failed">Protokolldaten konnten nicht gesendet werden</string>
   <string name="warning_field_empty">Geben Sie %1$s ein</string>
   <string name="warning_field_invalid">Wählen Sie einen gültigen %1$s</string>
 </resources>
