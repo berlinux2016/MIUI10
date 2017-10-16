@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To be formatted -->
-  <string name="switch_brand_desc_tv">Sicherheitsdienstleistungen zur Verfügung gestellt von Graphite</string>
-   <string name="switch_desc_tv">Zwei Benutzer. Ein Gerät.</string>
-   <string name="switching_tv">Umschalten…</string>
-  <string name="status_bar_toggle_silent_mode_action">com.android.settings/com.android.settings.Settings$MiuiSilentModeAcivity</string>
-
   <string name="activity_package_delete_confirm_title">Wichtige Warnung</string>
   <string name="add_frequent_phrases">Häufig verwendete Sätze hinzufügen</string>
   <string name="all_call_livetalk_enable">Aufladepakete für nationale und internationale Anrufe verwenden</string>
@@ -47,9 +41,8 @@
   <string name="fc_dialog_body">Fehlerbericht zur Analyse an Xiaomi senden? Dieser Bericht enthält möglicherweise persönliche Informationen. Ihr Bericht wird nicht mit Dritten geteilt, sondern ausschließlich zur Behebung des Fehlers verwendet.</string>
   <string name="fc_dialog_jump_to_preview">Zusammenfassung anzeigen</string>
   <string name="first_back_long_press_message">
-    "Langer Druck auf die Zurücktaste beendet den aktuellen Prozess.
-
-    Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tasten."
+  "Langer Druck auf die Zurücktaste beendet den aktuellen Prozess.
+  Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tasten."
   </string>
   <string name="fm_record_smaple_prefix_miui">FM Aufnahme</string>
   <string name="force_exit_message">"\"%1$s\" wurde beendet"</string>
@@ -112,6 +105,8 @@
   <string name="screen_button_enabled_message">Navigationstasten aktiviert</string>
   <string name="screen_button_notification_text">Zum Einschalten, die Home- und Powertaste gleichzeitig drücken</string>
   <string name="screen_button_notification_title">Navigationstasten deaktiviert</string>
+  <string name="screen_on_proximity_sensor_hint">Um diese Funktion auszuschalten, drücken Sie die Lauter- und Zurücktaste gleichzeitig.</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Um diese Funktion auszuschalten, drücken Sie die Lautertaste.</string>
   <string name="screen_on_proximity_sensor_summary">Bedecken Sie nicht den orangen Bereich des Bildschirms</string>
   <string name="screen_on_proximity_sensor_title">Ungewollte Anrufe verhindern</string>
   <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können ihn jederzeit unter Einstellungen &gt; Lesemodus aktivieren oder deaktivieren.</string>
@@ -161,12 +156,16 @@
   <string name="status_bar_toggle_rotate">Nicht drehen</string>
   <string name="status_bar_toggle_screen_button">Tasten</string>
   <string name="status_bar_toggle_screenshot">Screenshot</string>
+  <string name="status_bar_toggle_silent_mode_action">com.android.settings/com.android.settings.Settings$MiuiSilentModeAcivity</string>
   <string name="status_bar_toggle_sync">Sync</string>
   <string name="status_bar_toggle_torch">Lampe</string>
   <string name="status_bar_toggle_vibrate">Vibration</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="switch_brand_desc_tv">Sicherheitsdienstleistungen zur Verfügung gestellt von Graphite</string>
+  <string name="switch_desc_tv">Zwei Benutzer. Ein Gerät.</string>
+  <string name="switching_tv">Umschalten…</string>
   <string name="total">Nicht stören</string>
   <string name="total_description">Schaltet Vibrationen und Sound für alle Apps außer dem Wecker aus</string>
   <string name="total_title">Nicht stören</string>

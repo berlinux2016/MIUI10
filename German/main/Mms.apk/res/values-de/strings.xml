@@ -221,7 +221,7 @@
   <string name="group_message_failed_title">Senden an %d Kontakte fehlgeschlagen</string>
   <string name="group_resend_message">Erneut senden(%d)</string>
   <string name="group_verification_codes_summary">Einmalpasswörter (OTP) automatisch gruppieren</string>
-  <string name="group_verification_codes_title">OTP Nachrichten gruppieren</string>
+  <string name="group_verification_codes_title">Einmalpasswörter für Gruppen</string>
   <string name="guild_add_attachments">Berühren um Smileys oder Dateien einzufügen</string>
   <string name="guild_add_recipients">Berühren um Empfänger aus dem Adressbuch hinzuzufügen</string>
   <string name="guild_msim_switcher">Berühren um SIM-Karten zu wechseln</string>
@@ -287,7 +287,7 @@
   <string name="message_number">Telefonnummer:</string>
   <string name="message_pending">Wird gesendet</string>
   <string name="message_queued">Nachricht kann momentan nicht gesendet werden. Sie wird gesendet, sobald der Dienst verfügbar ist.</string>
-  <string name="message_queued_second_space">"Kann die Nachricht zur Zeit nicht senden. Bitte öffnen Sie die Netzwerkverbindung</string>
+  <string name="message_queued_second_space">Nachricht kann nicht gesendet werden. Mobile Daten zum Senden einschalten.</string>
   <string name="message_readed">Lesen</string>
   <string name="message_received">Empfangen</string>
   <string name="message_rejected">Verworfen</string>
@@ -340,9 +340,6 @@
   <string name="mx_activate_status_desc_query_activte_info">SIM-Karteninformationen werden überprüft…</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Die eingegebene Telefonnummer ist ungültig</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">"Mi Message konnte nicht aktiviert werden"</string>
-  <string name="mx_and_voip_enable">Mi Message &amp; Sprache</string>
-  <string name="mx_and_voip_enable_popup_msg">"Senden Sie Nachrichten und Anrufe zu anderen MIUI Nutzer ohne Gebühren von Ihrem Mobilfunkanbieter. VoIP wird unterstützt von Weihui. Siehe Weihui's Datenschutzrichtlinien."</string>
-  <string name="mx_and_voip_enable_popup_msg2">Datenschutzrichtlinien</string>
   <string name="mx_auto_resend_mms">Als MMS senden</string>
   <string name="mx_auto_resend_mms_summary">Als MMS senden wenn WLAN nicht verfügbar ist (providerabhängige Gebühr)</string>
   <string name="mx_auto_resend_sms">Als SMS senden</string>
@@ -357,7 +354,6 @@
   <string name="mx_dspt">Senden Sie kostenlos Nachrichten an andere MIUI-Nutzer, wenn Sie mit einem WLAN verbunden sind</string>
   <string name="mx_dspt_listview">Senden Sie kostenlos Nachrichten an andere MIUI-Nutzer</string>
   <string name="mx_dspt_provision">Mit Mi Message können Sie kostenlos Nachrichten zwischen MIUI-Benutzern versenden</string>
-  <string name="mx_dspt_provision_ex">"Senden Sie Nachrichten und tätigen Sie Anrufe zu anderen MIUI-Benutzern, ohne Gebühren durch Ihrem Anbieter. VoIP wird unterstützt von Weihui. Siehe Weihui's Datenschutzrichtlinien."</string>
   <string name="mx_dspt_provision_ex2">Datenschutzrichtlinien</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_ex">Mi Message &amp; Sprache</string>
@@ -403,8 +399,8 @@
   <string name="notification_multiple">%s ungelesene Nachrichten</string>
   <string name="notification_multiple_title">Neue Nachrichten</string>
   <string name="number_add_hint">Nummer eingeben</string>
-  <string name="open_audio_record_panel">Bedienfeld der Audioaufnahme öffnen</string>
-  <string name="open_edit_sms_panel">Editieren des SMS-Fensters öffnen</string>
+  <string name="open_audio_record_panel">Bedienfeld für die Audioaufnahme öffnen</string>
+  <string name="open_edit_sms_panel">Fenster zum Bearbeiten von Nachrichten öffnen</string>
   <string name="open_url_with_web">Diese URL im Browser öffnen?</string>
   <string name="over_max_mms_size">MMS ist zu groß</string>
   <string name="overwrite_edited_content">Geänderter Inhalt wird überschrieben</string>
@@ -453,7 +449,6 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Nachrichten, Fotos und Videos bei Roaming automatisch abrufen</string>
   <string name="pref_summary_mx_feedback">Melden Sie Fehler und senden Sie Ihr Feedback direkt an Xiaomi</string>
   <string name="pref_summary_notification_body_enabled">Nachrichtenvorschau im Sperrbildschirm und Statusleiste anzeigen</string>
-  <string name="pref_summary_notification_body_enabled_when_secure">Nachrichtenvorschau im Gastmodus nicht anzeigen</string>
   <string name="pref_summary_off_system_mms_priority">Drittanbieterapps zum Senden/Empfangen von MMS benutzen</string>
   <string name="pref_summary_on_system_mms_priority">MIUI SMS/MMS-App als Standard zum Senden/Empfangen von MMS benutzen</string>
   <string name="pref_summary_send_delivery_reports">Sende Lieferbestätigungsmeldung an den Absender, wenn Sie eine Multimedia-Mitteilung erhalten</string>
@@ -646,7 +641,8 @@
   <string name="sp_mark_as_read_menu_title">Als gelesen markieren</string>
   <string name="sp_mark_as_read_progress">Als gelesen markieren…</string>
   <string name="sp_mark_as_read_title">Alle Benachrichtigungen als gelesen markieren ?</string>
-  <string name="sqlite_low_memory">Wenig Speicherplatz</string>
+  <string name="sqlite_disk_full">Der Speicherplatz auf Ihrem Gerät ist voll.</string>
+  <string name="sqlite_low_memory">Nicht genügend Speicherplatz</string>
   <string name="status_failed">Fehlgeschlagen</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">Ausstehend</string>
@@ -752,9 +748,6 @@
   <string name="view_hms_attachment_fail">Bild konnte nicht geladen werden</string>
   <string name="view_hms_details">Details</string>
   <string name="view_message_details">Zeige Details</string>
-  <string name="voip_enable">Mi Message und Sprache</string>
-  <string name="voip_enable_popup_msg">"Tätigen Sie Anrufe zu anderen MIUI Benutzern, ohne Gebühren durch Ihren Anbieter. VoIP wird unterstützt durch Weihui. Siehe Weihui's Datenschutzrichtlinien."</string>
-  <string name="voip_enable_popup_msg2">Datenschutzrichtlinien</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Senden in %ds</string>
   <string name="wild_msg_processing">Verarbeitung…</string>

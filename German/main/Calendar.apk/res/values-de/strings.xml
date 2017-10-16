@@ -266,7 +266,9 @@
   <string name="electricity_bill_event_title">Stromrechnung：</string>
   <string name="electricity_detail_title">Stomrechnung</string>
   <string name="electricity_event_delete_successfully">Stromrechnung gelöscht</string>
-  <string name="email_install_hint">E-Mail wurde deinstalliert. Durch erneutes Installieren können Sie die Daten des Kalenderkontos wiederherstellen oder ein neues Konto hinzufügen.</string>  
+  <string name="email_guests_label">E-Mail Gäste</string>
+  <string name="email_install_hint">E-Mail wurde deinstalliert. Durch erneutes Installieren können Sie die Daten des Kalenderkontos wiederherstellen oder ein neues Konto hinzufügen.</string>
+  <string name="email_picker_label">E-Mail mit</string>
   <string name="install_email_app">Installiere E-Mail</string>
   <string name="install_email_finished">E-Mail installiert</string>
   <string name="installing_email">Wird installiert…</string>
@@ -277,7 +279,7 @@
   <string name="email_subject_prefix">"AW: "</string>
   <string name="empty_event">Leerer Termin nicht erstellt</string>
   <string name="endByDate">; bis %s</string>
-  <string name="english_premium_league">English Premium League</string>
+  <string name="english_premium_league">Englische Bundesliga</string>
   <string name="enter_calendar">Kalendar beitreten</string>
   <string name="event_account">Konto</string>
   <string name="event_action_delete">Löschen</string>
@@ -395,9 +397,9 @@
   <string name="label_recent_events">Aktuelle Veranstaltungen</string>
   <string name="life_card_credit_primary">Kreditkartenrückzahlung（Nr.%1$s）</string>
   <string name="life_card_credit_primary_no_account">Kreditkartenrückzahlung</string>
-  <string name="life_card_credit_secondary">Rückzahlungstag：%1$s  |  spätestens am %2$s</string>
+  <string name="life_card_credit_secondary">Rückzahlungstag：%1$s  |  spätestens am %2$s</string>
   <string name="life_card_credit_secondary_no_countdown">Rückzahlungstag：%1$s</string>
-  <string name="life_card_credit_secondary_overdue">Rückzahlungstag：%1$s  |  überfällig</string>
+  <string name="life_card_credit_secondary_overdue">Rückzahlungstag：%1$s  |  überfällig</string>
   <string name="life_card_electricity_bill_primary">Stromrechnung（Kontonummer: %1$s）</string>
   <string name="life_card_electricity_bill_primary_no_account">Stromrechnung</string>
   <string name="life_card_gas_bill_primary">Gasrechnung（Kontonummer: %1$s）</string>
@@ -422,7 +424,7 @@
   <string name="match_ed">Beendet</string>
   <string name="match_ing">Laufend</string>
   <string name="match_not_started">Noch nicht begonnen</string>
-  <string name="match_select_activity_label">Treffer auswählen</string>
+  <string name="match_select_activity_label">Ligen</string>
   <string name="menu_about_preferences">Über Kalender</string>
   <string name="menu_general_preferences">Allgemein</string>
   <string name="menu_preferences">Einstellungen</string>
@@ -744,7 +746,6 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="travel_event_title_flight">Flug: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train">Zug: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Zug: %1$s %2$s</string>
-  <string name="travel_item_hotel">Hotel</string>
   <string name="travel_item_reminder">Erinnerung</string>
   <string name="travel_item_reminder_overdue">Erinnerung überfällig</string>
   <string name="travel_item_trafic">Verkehr</string>
@@ -759,12 +760,12 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="travel_seat_number_text">Sitz</string>
   <string name="travel_train_number_text">Zug</string>
   <string name="travel_train_station">Bahnhof</string>
-  <string name="trip_card_flight_primary">%1$s Flug  %2$s - %3$s</string>
+  <string name="trip_card_flight_primary">%1$s Flug  %2$s - %3$s</string>
   <string name="trip_card_hotel_secondary">Aufenthalt heute</string>
-  <string name="trip_card_movie_secondary">Heute anschauen | %1$s</string>
+  <string name="trip_card_movie_secondary">Heute anschauen | %1$s</string>
   <string name="trip_card_movie_secondary_no_cinema">Heute anschauen</string>
   <string name="trip_card_title">Reisebenachrichtigungen</string>
-  <string name="trip_card_train_primary">Reise %1$s %2$s - %3$s</string>
+  <string name="trip_card_train_primary">Reise %1$s %2$s - %3$s</string>
   <string name="trip_card_train_primary_no_arr">Reise %1$s Abreise: %2$s</string>
   <string name="trip_card_travel_secondary">Abreise %1$s</string>
   <string name="unsubscribe_card">Abmelden</string>

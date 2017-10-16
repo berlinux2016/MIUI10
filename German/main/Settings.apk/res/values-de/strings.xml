@@ -158,7 +158,7 @@
   <string name="add_fingerprint_finished_button_text">Fertig</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Um Ihre Fingerabdruckdetails hinzuzufügen, legen Sie Ihren Finger auf den Sensor.
 Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
-  <string name="add_fingerprint_instruction_msg">Verwenden Sie Ihren Fingerabdruck, um Ihr Gerät zu entsperren und Zahlungen abzuschließen</string>
+  <string name="add_fingerprint_instruction_msg">Fingerabdrucksensor ist in der Home-Taste Ihres Geräts eingebaut</string>
   <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf den Scanner</string>
   <string name="add_fingerprint_name_suggest_text">Fingerabdruckbezeichnung</string>
   <string name="add_fingerprint_put_finger_edge_msg">Nach dem Drücken des Sensors, entfernen Sie den Finger und versuchen es erneut.</string>
@@ -189,7 +189,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="advanced_apps">Erweitert</string>
   <string name="advanced_section_header">Erweitert</string>
   <string name="advanced_security_title">Erweitert</string>
-  <string name="advanced_settings">Erweiterte Einstellungen</string>
+  <string name="advanced_settings">Zusätzliche Einstellungen</string>
   <string name="advanced_settings_summary">Weitere Einstellungsoptionen aktivieren</string>
   <string name="advanced_text_layout">Aktivieren Sie erweiterte Textlayouts</string>
   <string name="agps_roaming">A-GPS bei Datenroaming</string>
@@ -227,8 +227,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="android_beam_disabled_summary">Bitte NFC aktivieren</string>
   <string name="android_beam_explained">Sie können Webseiten, ein Video oder andere Inhalte auf ein anderes Gerät senden, das Android Beam unterstützt, indem Sie die Geräte dicht nebeneinander halten. (Normalerweise Rückseite an Rückseite)</string>
   <string name="android_beam_label">Android Beam</string>
-  <string name="android_beam_off_summary">Aus</string>
-  <string name="android_beam_on_summary">Bereit zur Übertragung von Appinhalten über NFC</string>
+  <string name="android_beam_off_summary">NFC Inhaltsübertragung ist deaktiviert</string>
+  <string name="android_beam_on_summary">NFC Inhaltsübertragung ist aktiviert</string>
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="android_beam_tips">Stellen Sie sicher, dass sich die beiden Geräte berühren, und wählen Sie dann die Inhalte aus, die Sie senden möchten.</string>
   <string name="android_beam_witch_label">Android Beam einschalten</string>
@@ -362,7 +362,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_notification_sensitive_title">Sensibel</string>
   <string name="app_notification_visibility_override_title">Auf dem Sperrbildschirm</string>
   <string name="app_notifications_dialog_done">Fertig</string>
-  <string name="app_notifications_switch_label">Benachrichtigungen</string>
+  <string name="app_notifications_switch_label">Benutzerdefinierte Benachrichtigungen</string>
   <string name="app_notifications_title">App Benachrichtigungen</string>
   <string name="app_ops_never_used">(Nie verwendet)</string>
   <string name="app_ops_permiss_name">App Netzwerkzugriff</string>
@@ -392,7 +392,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="application_permissions">Appberechtigungen</string>
   <string name="application_restrictions">Apps und Inhalte zulassen</string>
   <string name="application_size_label">App</string>
-  <string name="applications_settings">Alle Apps</string>
+  <string name="applications_settings">Installierte Apps</string>
   <string name="applications_settings_header">Appeinstellungen</string>
   <string name="applications_settings_summary">Apps verwalten, Verknüpfungen für Schnellstart festlegen</string>
   <string name="apply_fingerprint_to_category_title">Fingerabdruck anwenden</string>
@@ -749,7 +749,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="bluetooth_incoming_pairing_msg">Von: %1$s Paaren mit diesem Gerät durchführen?</string>
   <string name="bluetooth_is_disconnect_question">Trenne %1$s?</string>
   <string name="bluetooth_is_discoverable">Sichtbar für alle Bluetoothgeräte in der Nähe (%1$s)</string>
-  <string name="bluetooth_is_discoverable_always">Sichtbar für alle Bluetoothgeräte in der Nähe</string>
+  <string name="bluetooth_is_discoverable_always">Dieses Gerät für Bluetoothgeräte in der Nähe sichtbar machen</string>
   <string name="bluetooth_is_visible_message">%1$s ist für Geräte in der Umgebung sichtbar, wenn die Bluetootheinstellungen geöffnet sind.</string>
   <string name="bluetooth_lock_voice_dialing">Sprachwahl sperren</string>
   <string name="bluetooth_lock_voice_dialing_summary">Verwendung der Sprachwahl über Bluetooth bei gesperrtem Bildschirm verhindern</string>
@@ -1202,7 +1202,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="credentials_install_summary">Zertifikate von Speicher installieren</string>
   <string name="credentials_not_erased">Anmeldedaten nicht gelöscht</string>
   <string name="credentials_old_password">Aktuelles Passwort:</string>
-  <string name="credentials_password_too_short">Passwort eingeben</string>
+  <string name="credentials_password_too_short">Mindestens 8 Zeichen</string>
   <string name="credentials_reset">Anmeldedaten löschen</string>
   <string name="credentials_reset_hint">Alle Inhalte entfernen?</string>
   <string name="credentials_reset_summary">Alle Zertifikate entfernen</string>
@@ -1343,7 +1343,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="data_usage_menu_show_wifi">WLAN-Nutzung anzeigen</string>
   <string name="data_usage_menu_sim_cards">SIM-Karten</string>
   <string name="data_usage_menu_split_4g">4G-Nutzung separat anzeigen</string>
-  <string name="data_usage_metered_body">Wählen Sie die WLAN-Netzwerke aus, die mobile Hotspots sind. Die Verwendung dieser Netzwerke kann für Apps im Hintergrund eingeschränkt werden. Eventuell senden Apps auch eine Warnung, bevor diese Netzwerke für umfangreiche Downloads verwendet werden.</string>
+  <string name="data_usage_metered_body">Wählen sie die WLAN-Netzwerke aus, die portable Hotspots sind. Apps können von der Nutzung dieser Netzwerke im Hintergrund eingeschränkt werden. Apps benachrichtigen Sie auch, bevor Sie diese Netzwerke für große Downloads nutzen.</string>
   <string name="data_usage_metered_mobile">Mobilfunknetze</string>
   <string name="data_usage_metered_title">Mobile Hotspots</string>
   <string name="data_usage_metered_wifi">WLAN-Netzwerke</string>
@@ -1940,7 +1940,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="font_size_preview_text_subtitle">Kapitel 11: Die wunderbare Smaragdstadt von Oz</string>
   <string name="font_size_preview_text_title">Die wunderbare Smaragdstadt von Oz</string>
   <string name="font_size_save">OK</string>
-  <string name="font_size_small">Klein</string>
+  <string name="font_size_small">Kleiner</string>
   <string name="font_size_summary">Schriftgröße des Systems ändern</string>
   <string name="font_size_summary1">"Wenn Ihr Systemtext noch zu klein ist, versuche "</string>
   <string name="font_size_summary2">Lite Modus.</string>
@@ -2077,7 +2077,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="header_category_device">Gerät</string>
   <string name="header_category_personal">Benutzer</string>
   <string name="header_category_system">System</string>
-  <string name="header_category_wireless_networks">Drahtlos &amp; Netzwerke</string>
+  <string name="header_category_wireless_networks">Netzwerk</string>
   <string name="header_data_and_synchronization">Daten &amp; Synchronisation</string>
   <string name="heads_up_enabled_title">Popup bei hoher Priorität</string>
   <string name="heavy_weight_stop_description">Diese App kann nicht sicher beendet werden. Beim Beenden könnten aktuelle Daten verloren gehen.</string>
@@ -2168,7 +2168,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="incoming_call_breathing_light_freq_title">Anrufpulsfrequenz</string>
   <string name="incoming_call_volume_title">Klingelton</string>
   <string name="information_dialog_button_text">Verstanden</string>
-  <string name="input_method">Eingabemethode</string>
+  <string name="input_method">Tastatur</string>
   <string name="input_method_selector">Auswahl der Eingabemethoden</string>
   <string name="input_method_selector_always_hide_title">Nie anzeigen</string>
   <string name="input_method_selector_always_show_title">Immer anzeigen</string>
@@ -2243,7 +2243,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="keyboard_layout_dialog_switch_hint">Zum Umschalten STRG+Leertaste drücken</string>
   <string name="keyboard_layout_dialog_title">Tastaturlayout ändern</string>
   <string name="keyboard_layout_picker_title">Tastaturlayouts</string>
-  <string name="keyboard_settings_category">Tastatur &amp; Eingabemethoden</string>
+  <string name="keyboard_settings_category">Eingabemethoden</string>
   <string name="keyboard_settings_title">Androidtastatur</string>
   <string name="keyboard_shortcuts_helper">Tastatur Verknüpfungshilfe</string>
   <string name="keyboard_shortcuts_helper_summary">Verfügbare Verknüpfungen anzeigen</string>
@@ -2480,9 +2480,9 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="lock_screen_notifications_interstitial_title_profile">Profil-Benachrichtigungen</string>
   <string name="lock_screen_notifications_summary_disable">"Zeige überhaupt keine Benachrichtigungen an"</string>
   <string name="lock_screen_notifications_summary_disable_profile">Keine Benachrichtigungen bei allen anzeigen</string>
-  <string name="lock_screen_notifications_summary_hide">Blende sensiblen Benachrichtigungsinhalt aus</string>
+  <string name="lock_screen_notifications_summary_hide">Alle Benachrichtigungen anzeigen, aber deren Inhalt ausblenden</string>
   <string name="lock_screen_notifications_summary_hide_profile">Vertrauliche Benachrichtigungsinhalte ausblenden</string>
-  <string name="lock_screen_notifications_summary_show">Alle Benachrichtigungsinhalte anzeigen</string>
+  <string name="lock_screen_notifications_summary_show">Alle Benachrichtigungen und deren Inhalt anzeigen</string>
   <string name="lock_screen_notifications_summary_show_profile">Alle Benachrichtigungsinhalte anzeigen</string>
   <string name="lock_screen_notifications_title">Wenn das Gerät gesperrt ist</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Passwort sofort erforderlich</string>
@@ -2777,7 +2777,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="menu_proc_stats_type_background">Hintergrund</string>
   <string name="menu_proc_stats_type_cached">Im Cache</string>
   <string name="menu_proc_stats_type_foreground">Vordergrund</string>
-  <string name="menu_restore">Standard</string>
+  <string name="menu_restore">Zurücksetzen</string>
   <string name="menu_save">Speichern</string>
   <string name="menu_share">Teilen</string>
   <string name="menu_show_percentage">Prozent anzeigen</string>
@@ -3623,7 +3623,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="power_usage_list_summary">In Gebrauch seit der letzten Vollladung</string>
   <string name="power_usage_not_available">Keine Daten zum Akkuverbrauch</string>
   <string name="power_usage_summary">Was zum Akkuverbrauch beiträgt</string>
-  <string name="power_usage_summary_title">Akku</string>
+  <string name="power_usage_summary_title">Akku &amp; Leistung</string>
   <string name="power_wifi">WLAN</string>
   <string name="pre_installed_application">Vorinstallierte Apps</string>
   <string name="pref_button_light">Tastenbeleuchtung</string>
@@ -4149,7 +4149,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="screen_shot">Screenshot aufnehmen</string>
   <string name="screen_timeout">Ruhezustand</string>
   <string name="screen_timeout_summary">Nach %1$s ohne Aktivität</string>
-  <string name="screen_timeout_title">Bildschirm aus</string>
+  <string name="screen_timeout_title">Standbymodus</string>
   <string name="screen_zoom_conversation_icon_alex">A</string>
   <string name="screen_zoom_conversation_icon_pete">P</string>
   <string name="screen_zoom_conversation_message_1">Hallo Pete!</string>
@@ -4677,7 +4677,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="silent_time">Dauer des Ruhemodus</string>
   <string name="silent_total">Nicht stören</string>
   <string name="sim_absent">Keine SIM/RUIM</string>
-  <string name="sim_bad_pin">Falsche PIN</string>
+  <string name="sim_bad_pin">PIN muss 4-8 Stellen lang sein</string>
   <string name="sim_call_back_title">Von der Standard-SIM zurückrufen</string>
   <string name="sim_calls_always_use">Immer diese für Anrufe nutzen</string>
   <string name="sim_calls_ask_first_prefs_title">Zuerst fragen</string>
@@ -4724,8 +4724,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="sim_lock_failed">"Status der SIM-Kartensperrung kann nicht geändert werden.
     Möglicherweise falsche PIN."</string>
   <string name="sim_lock_off">PIN zur Verwendung des Telefons erforderlich</string>
+  <string name="f">Einstellungen für SIM-Sperre</string>
   <string name="sim_lock_on">PIN zur Verwendung des Telefons erforderlich</string>
-  <string name="sim_lock_settings">Einstellungen für SIM-Sperre</string>
   <string name="sim_lock_settings_category">SIM-Sperre einrichten</string>
   <string name="sim_lock_settings_title">SIM-Kartensperre</string>
   <string name="sim_management_title">SIM-Verwaltung</string>
@@ -5201,6 +5201,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="tethering_settings_not_available">Tetheringeinstellungen sind für diesen Benutzer nicht verfügbar.</string>
   <string name="tethering_settings_summary">Mobile Datenverbindung des Geräts über USB oder mobile Hotspots teilen</string>
   <string name="theme_settings_title">Themen</string>
+  <string name="thememanager_not_found">Themen kann nicht geöffnet werden. Stellen Sie sicher, das diese App installiert ist.</string>
   <string name="three_gesture_down">3-Fingergeste nach unten</string>
   <string name="time_picker_title">Uhrzeit</string>
   <string name="time_zone_auto_stub">Zeitzone auswählen</string>
@@ -5499,11 +5500,11 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="unlock_set_unlock_none_title">Ziehen</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Keine</string>
-  <string name="unlock_set_unlock_password_summary">Hohe Sicherheit</string>
+  <string name="unlock_set_unlock_password_summary">4 oder mehr Buchstaben oder Zahlen eingeben zum entsperren</string>
   <string name="unlock_set_unlock_password_title">Passwort</string>
-  <string name="unlock_set_unlock_pattern_summary">Mittlere Sicherheit</string>
+  <string name="unlock_set_unlock_pattern_summary">Ein einfaches Muster mit dem Finger zeichnen zum entsperren</string>
   <string name="unlock_set_unlock_pattern_title">Muster</string>
-  <string name="unlock_set_unlock_pin_summary">Mittlere bis hohe Sicherheit</string>
+  <string name="unlock_set_unlock_pin_summary">4 Zahlen eingeben zum entsperren</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Bitte Bildschirmsperre einschalten.</string>
   <string name="unlock_setup_wizard_fingerprint_details">Sobald Sie eine Bildschirmsperre eingerichtet haben, können Sie Ihren Fingerabdruck unter Einstellungen &gt; Sicherheit einrichten.</string>
