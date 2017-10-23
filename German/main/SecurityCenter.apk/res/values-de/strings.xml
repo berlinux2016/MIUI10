@@ -579,7 +579,7 @@
   <string name="card_main_deepclean_action">Bereinigen</string>
   <string name="card_main_deepclean_qq_title">QQ Cleaner</string>
   <string name="card_main_deepclean_summary">Unnötige Dateien löschen</string>
-  <string name="card_main_deepclean_title">Tiefen-Reinigung</string>  
+  <string name="card_main_deepclean_title">Tiefen-Reinigung</string>
   <string name="card_main_deepclean_wechat_action">Bereinigen</string>
   <string name="card_main_deepclean_wechat_summary">WeChat Cache bereinigen, um Speicherplatz freizugeben</string>
   <string name="card_main_deepclean_wechat_title">WeChat cache</string>
@@ -896,6 +896,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="firewall_wifi_dialog_message">Die installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter deaktiviert ist.</string>
   <string name="five_percent_total_pkg">%s (5%% Ihrer monatlichen Daten)</string>
   <string name="flow_rank_title">Datenverbrauch</string>
+  <string name="forbid_autobright_title">Bildschirmhelligkeit fixieren</string>
   <string name="force_stop_dlg_text">Wenn Sie die Hintergrunddaten beschränken, werden einige Apps und Dienste nicht funktionieren.</string>
   <string name="force_stop_dlg_title">Hintergrunddaten beschränken</string>
   <string name="foreground_traffic">Vordergrund %s</string>
@@ -916,7 +917,10 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="game_anti_disturb_msg">Nicht stören</string>
   <string name="game_booster">Game Speed Booster</string>
   <string name="game_booster_intro">Über Game Speed Booster</string>
+  <string name="game_booster_jump_webview">Einen Moment…</string>
+  <string name="game_booster_tab_top">Top</string>
   <string name="game_booster_title">Optimieren</string>
+  <string name="game_bootser_tab_settings">Boostereinstellungen</string>
   <string name="game_improve_text1">Cache bereinigen, um Speicher für Spiele freizugeben</string>
   <string name="game_improve_text2">Cache bereinigen, um Speicher für Spiele freizugeben und die CPU Performance zu verbessern</string>
   <string name="game_improve_title">Performance optimieren</string>
@@ -925,7 +929,9 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="game_net_text2">Die Verbindungsgeschwindigkeit des Spiels erhöhen und gleichzeitig die Downloadgeschwindigkeit im Hintergrund begrenzen, um die Netzwerkverzögerung zu reduzieren.</string>
   <string name="game_net_title">Verbindungsgeschwindigkeit optimieren</string>
   <string name="game_setting">Spieleinstellungen</string>
-  <string name="gamebooster_main_activity_back">Zurück zum Game Speed Booster</string>
+l  <string name="gamebooster_lowbattery_notification_summary">Laden Sie Ihr Gerät auf, bevor es sich abschaltet..</string>
+  <string name="gamebooster_lowbattery_notification_title">Akku ist niedriger als 5%%</string>
+  <string name="gamebooster_main_activity_back">Zurück</string>
   <string name="gamebooster_network_dialog_message">Netzwerkverbindung für Sicherheitsapp erlauben, um alle Funktionen des Game Speed Boosters nutzen zu können?</string>
   <string name="gamebooster_network_dialog_title">Einige Funktionen sind nicht verfügbar</string>
   <string name="garbage_clean_detail">Details</string>
@@ -942,8 +948,11 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="gs_app_back_self_start">Energiesparrmodus</string>
   <string name="gs_auto_clean_memory">Cache bereinigen</string>
   <string name="gs_auto_clean_memory_detail">Cache automatisch bereinigen um Spiele zu optimieren</string>
+  <string name="gs_call_handsfree">Anrufe freihändig annehmen</string>
+  <string name="gs_call_handsfree_mute">Lautlosmodus</string>
   <string name="gs_dialog_confirm_close_msg">Die Verknüpfung wird vom Startbildschirm entfernt. Gehen Sie zu Sicherheit > Einstellungen, um diese wiederherzustellen.</string>
   <string name="gs_dialog_confirm_close_title">Ausschalten</string>
+  <string name="gs_forbid_autosync">Hintergrundsynchronisation einschränken</string>
   <string name="gs_game_disturb_msg">Nicht stören</string>
   <string name="gs_game_duration">Laufzeit</string>
   <string name="gs_game_net_priority">Verbindungspriorität</string>
@@ -1051,6 +1060,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="install_title">Via USB installieren</string>
   <string name="installed">Installiert</string>
   <string name="installing">Installiere</string>
+  <string name="international_Ad">Hinzufügen</string>
   <string name="international_roaming_setting">Datenroaming</string>
   <string name="international_roaming_whitelist_count">%d Apps können auf die mobile Datenverbindung zugreifen, wenn Roaming aktiviert ist</string>
   <string name="intro_improve">Spiele auf Systemebene optimieren</string>
@@ -1071,6 +1081,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="keywords_auto_restart">Autostart; Berechtigungen;Autostart;Autostart; Autostart verwalten; MIUI Autostart; App Autostart; Autostart Apps;Verketteter Start;Startverkettung;ausgelöster Start</string>
   <string name="keywords_buy_flow">Daten;Mobile Daten;Daten kaufen;Mobile Daten kaufen;Daten aufladen;Datenplan</string>
   <string name="keywords_cleanmaster">Müll;Löschen;Bereinigen;Geschwindigkeit;Speicher;Cache</string>
+  <string name="keywords_gamebooster">Game;speed booster;Leistungsmodus;Nicht stören</string>
   <string name="keywords_monthreport">Bericht;Monatlicher Bericht;Jahresbericht;Sicherheitsbericht</string>
   <string name="keywords_networkassistant_1">Daten;Verkehr</string>
   <string name="keywords_networkassistant_2">Daten;Datentarif</string>
@@ -1165,6 +1176,8 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="main_alert_message_slot_no_data_connection">"Der SIM-Kartenslot unterstützt keine
   mobile Datenverbindung"</string>
   <string name="main_bill_remained">Guthaben</string>
+  <string name="main_button_mi_sim_close">Mi SIM aktivieren</string>
+  <string name="main_button_mi_sim_open">Details anzeigen</string>
   <string name="main_button_idel_traffic">Nebenzeit</string>
   <string name="main_button_normal_traffic">Hauptzeit</string>
   <string name="main_button_usage_adjust">Datenverbrauch einstellen</string>
@@ -1173,6 +1186,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="main_button_usage_adjusting_bill">Wird aufgeladen…</string>
   <string name="main_button_usage_package_setting">Datenverbrauch einstellen</string>
   <string name="main_daily_package">Tägliches Datenvolumen</string>
+  <string name="main_indicator_title">Warte auf Aktivierung</string>
   <string name="main_leisure_remained">Bis zur Verbrauchsgrenze verbleiben</string>
   <string name="main_message_no_package_by_dual">Datenverbrauchsgrenze %s</string>
   <string name="main_month_total_used">Verbraucht in diesem Monat</string>
@@ -1208,6 +1222,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   um zu kalibrieren"</string>
   <string name="main_tc_wait_result">"Wird auf Antwort des
   Mobilfunkanbieters gewartet"</string>
+  <string name="main_tobe_added_desc">Mobile Daten für ¥0.03/MB</string>
   <string name="main_today_used">Heute verbraucht</string>
   <string name="main_toolbar_firewall">Beschränken</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobile Daten</string>
@@ -1351,6 +1366,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="net_booster">Netzwerkgeschwindigkeit optimieren</string>
   <string name="net_booster_expire_notification">Netzwerkoptimierung ist fast fertig</string>
   <string name="net_booster_expire_notification_tip">%d Tage verbleiben, bis die Netzwerkoptimierung Session beendet ist. Erneuern Sie die Session, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</string>
+  <string name="net_booster_expire_notification_tip">%d d verbleibt, bevor die Netzwerkgeschwindigkeitserhöhung beendet wird. Erneuern Sie die Sitzung, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</string>
   <string name="net_booster_overdue_notification">Netzwerkoptimierung wird beendet</string>
   <string name="net_booster_overdue_notification_tip">Die Netzwerkoptimierung wird jeden Moment beendet. Session erneuern?</string>
   <string name="net_booster_tip">Aktivieren Sie die Netzwerkoptimierung, um die WLAN Verbindung stabiler zu machen und Netzwerkverzögerungen zu reduzieren.</string>
@@ -1581,6 +1597,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="path_auto_restart">Systemanwendungen/Sicherheit/Berechtigungen/Autostartverwaltung</string>
   <string name="path_buy_flow">Systemanwendungen/Sicherheit/Datenverbrauch/Mobile Daten kaufen</string>
   <string name="path_cleanmaster">Systemanwendungen/Sicherheit/Bereinigung</string>
+  <string name="path_gamebooster">Systemanwendungen/Sicherheit/Game speed booster</string>
   <string name="path_monthreport">Systemanwendungen/Sicherheit</string>
   <string name="path_networkassistant_1">Systemanwendungen/Sicherheit/Netzwerkassistent</string>
   <string name="path_networkassistant_2">Systemanwendungen/Sicherheit/Netzwerkassistent</string>
@@ -2030,6 +2047,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="resource_auto_restart">Autostart verwalten</string>
   <string name="resource_buy_flow">Mobile Daten kaufen</string>
   <string name="resource_cleanmaster">Müllbereinigung</string>
+  <string name="resource_gamebooster">Game speed booster</string>
   <string name="resource_monthreport">Sicherheitsbericht</string>
   <string name="resource_networkassistant_1">Datenverbrauch</string>
   <string name="resource_networkassistant_2">Datentarif festlegen</string>
@@ -2518,6 +2536,8 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="text_button">Verstanden</string>
   <string name="text_lock_info">Entsperrmuster zeichnen</string>
   <string name="there_is_no">Sieht gut aus, kommen Sie später wieder</string>
+  <string name="thermal_tips_message">Das Spielen von Spielen im Leistungsmodus kann zu Überhitzungsproblemen führen.</string>
+  <string name="thermal_tips_title">Achtung!</string>
   <string name="third_application">Installierte Apps</string>
   <string name="three_percent_total_pkg">%s (3%% der monatlichen Daten)</string>
   <string name="timeshow_h">%.1fh</string>
@@ -2806,9 +2826,11 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_fail">Udapte fehlgeschlagen</string>
   <string name="virus_update_success">Update erfolgreich</string>
-  <string name="virus_update_tips_title">Verbinden Sie sich mit einem WLAN</string>
-  <string name="virus_wait_network_dialog_message">Updates sind groß. Verbinden Sie sich zum Herunterladen mit einem WLAN.</string>
+  <string name="virus_update_tips_title">Warnung</string>
+  <string name="virus_wait_network_dialog_message">Ihr Telefon ist nicht mit dem WLAN verbunden. Es werden mobile Daten verwendet. Fortfahren?</string>
   <string name="voltage_symbol">V</string>
+  <string name="vpn_disabled_by_user">Designierte Datenverbindung ist ausgeschaltet</string>
+  <string name="vpn_unbale_get_phonenum">"Telefonnummer kann bei Designierter Datenverbindung nicht abgerufen werden"</string>
   <string name="wakepath_confirm_start_activity">%1$s erlauben %2$s zu öffnen?</string>
   <string name="warning_open_mi_sim">Aktivieren Sie Mi SIM</string>
   <string name="website">Website</string>

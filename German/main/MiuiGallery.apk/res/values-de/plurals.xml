@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="add_secret_ensure_message">
+    <item quantity="other">Diese Dateien verstecken?</item>
+    <item quantity="one">Diese Datei verstecken?</item>
+  </plurals>
   <plurals name="add_to_album_cloud_photo_count_tip">
     <item quantity="other">%d Cloudfotos hinzugefügt, schalten Sie \"Nur lokale Alben anzeigen\" aus, um diese anzusehen.</item>
     <item quantity="one">Ein Cloudfoto hinzugefügt, schalten Sie \"Nur lokale Alben anzeigen\" aus, um es anzusehen.</item>
