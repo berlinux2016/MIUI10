@@ -69,8 +69,9 @@
   <string name="account_setup_autodiscover_dlg_authfail_message">Bestätigen Sie, dass der Benutzername, das Passwort und die Kontoeinstellungen richtig sind.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Kontoeinrichtung fehlgeschlagen</string>
   <string name="account_setup_basics_email_label">Konto ID eingeben</string>
-  <string name="account_setup_basics_login_gmail_without_proxy">Anmeldung über das aktuelle Netzwerk</string> 
+  <string name="account_setup_basics_login_gmail_without_proxy">Anmeldung über das aktuelle Netzwerk</string>
   <string name="account_setup_basics_manual_setup_action">Manuell einrichten</string>
+  <string name="account_setup_basics_mi_mail_login_help">Mi Mail Login erfolgreich, überprüfen Sie die SMS und aktivieren Sie den Link um Mails senden und erhalten zu können</string>
   <string name="account_setup_basics_password_label">Passwort eingeben</string>
   <string name="account_setup_basics_title">Kontoeinrichtung</string>
   <string name="account_setup_check_settings_check_incoming_msg">Servereinstellungen werden überprüft…</string>
@@ -597,6 +598,7 @@
   <string name="meeting_canceled">Abgebrochene: %s</string>
   <string name="meeting_declined">Abgelehnt: %s</string>
   <string name="meeting_recurring">Wann: %s (wiederkehrend)</string>
+  <string name="meeting_responded_failed">Antwort fehlgeschlagen</string>
   <string name="meeting_tentative">Vorläufig: %s</string>
   <string name="meeting_updated">Aktualisiert: %s</string>
   <string name="meeting_when">Wann: %s</string>
@@ -694,7 +696,7 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="open_calendar_and_contacts_permission">Bitte aktivieren Sie die Kalender und Kontakte Berechtigung in den Systemeinstellungen</string>
   <string name="open_external_storage_and_calendar_permission">Bitte aktiviern Sie die Berechtigung für externe Speicher und Kalender in den Systemeinstellungen</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Bitte aktivieren Sie die Berechtigung für externe Speicherung, Kalender, Kontakte in den Systemeinstellungen</string>
-  <string name="open_external_storage_and_contacts_permission">Bitte aktivieren Sie die Berechtigung für externe Speicher und Kontakte in den Systemeinstellungen</string> 
+  <string name="open_external_storage_and_contacts_permission">Bitte aktivieren Sie die Berechtigung für externe Speicher und Kontakte in den Systemeinstellungen</string>
   <string name="outbox_alert_button_no_resend">Nicht senden</string>
   <string name="outbox_alert_button_resend">Erneut senden</string>
   <string name="outbox_alert_certificate_error">"Kontaktieren Sie Ihren E-Mailsystemadministrator und aktualisieren Sie Ihr Zertifikat."</string>
@@ -994,7 +996,7 @@ um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="special_text_sender_zh">Absender</string>
   <string name="storage">Speicher</string>
   <string name="str_select_all">Alles auswählen</string>
-  <string name="str_select_none">Keine auswählen</string>
+  <string name="str_select_none">Alles abwählen</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Betreff</string>
   <string name="sync_contacts_fail_per_content">Beantrage Kontaktberechtigungen, hier klicken um diese zu beantragen</string>
@@ -1025,12 +1027,12 @@ um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="toast_bar_invalid_account">Sitzung abgelaufen. Bitte erneut anmelden.</string>
   <string name="toast_bar_no_connection_network">Keine Internetverbindung</string>
   <string name="toast_bar_open_gmail_synchronization">Drücken um Gmail über einen Proxyserver zu verwenden</string>
-  <string name="toastbar_calendar_and_contacts_permission_switch_close">Kalender- und Kontaktberechtigungen sind deaktiviert. Kalender und Kontakte können nicht synchronisiert werden</string>  
-  <string name="toastbar_calendar_permission_switch_close">Kalenderberechrigungen sind deaktiviert. Kalender kann nicht synchronisiert werden</string>  
-  <string name="toastbar_contacts_permission_switch_close">Kontaktberechtigungen sind deaktiviert. Kontakte können nicht synchronisiert werden</string>  
-  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Der Schalter für die Synchronisierung von Kalender und Kontakten ist deaktiviert. Kalender und Kontakte können nicht synchronisiert werden</string>  
-  <string name="toastbar_local_calendar_sync_switch_close">Der Schalter für die Kalendersynchronisation ist deaktiviert. Kalender kann nicht synchronisiert werden</string>  
-  <string name="toastbar_local_contacts_sync_swtich_close">Der Schalter für die Kontaksynchronisation ist deaktiviert. Kontakte können nicht synchronisiert werden</string>  
+  <string name="toastbar_calendar_and_contacts_permission_switch_close">Kalender- und Kontaktberechtigungen sind deaktiviert. Kalender und Kontakte können nicht synchronisiert werden</string>
+  <string name="toastbar_calendar_permission_switch_close">Kalenderberechrigungen sind deaktiviert. Kalender kann nicht synchronisiert werden</string>
+  <string name="toastbar_contacts_permission_switch_close">Kontaktberechtigungen sind deaktiviert. Kontakte können nicht synchronisiert werden</string>
+  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Der Schalter für die Synchronisierung von Kalender und Kontakten ist deaktiviert. Kalender und Kontakte können nicht synchronisiert werden</string>
+  <string name="toastbar_local_calendar_sync_switch_close">Der Schalter für die Kalendersynchronisation ist deaktiviert. Kalender kann nicht synchronisiert werden</string>
+  <string name="toastbar_local_contacts_sync_swtich_close">Der Schalter für die Kontaksynchronisation ist deaktiviert. Kontakte können nicht synchronisiert werden</string>
   <string name="today_text">Heute</string>
   <string name="too_large_to_attach_additional">Dateigröße darf %1$s nicht überschreiten.</string>
   <string name="too_large_to_attach_multiple">Mindestens eine Datei wurde nicht angehängt. Limit: %1$s</string>
