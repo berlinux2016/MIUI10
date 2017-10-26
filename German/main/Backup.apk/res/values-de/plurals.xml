@@ -1,15 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="data_item_count">
-         <item quantity="other">%d Elemente</item>
-         <item quantity="one">ein Element</item>
-    </plurals>
-    <plurals name="trans_time_format_minute">
-        <item quantity="other">%d Minuten</item>
-        <item quantity="one">eine Minute</item>
-    </plurals>
-    <plurals name="trans_time_format_hours">
-        <item quantity="other">%d Stunden</item>
-        <item quantity="one">eine Stunde</item>
-    </plurals>
+  <plurals name="backup_items_app_tailer">
+    <item quantity="other">%d Appdateien</item>
+    <item quantity="one">eine Appdatei</item>
+  </plurals>
+  <plurals name="backup_items_sysdata_tailer">
+    <item quantity="other">%d Systemdateien</item>
+    <item quantity="one">eine Systemdatei</item>
+  </plurals>
+  <plurals name="data_item_count">
+    <item quantity="other">%d Elemente</item>
+    <item quantity="one">ein Element</item>
+  </plurals>
+  <plurals name="select_item_summary">
+    <item quantity="other">%1$s | %2$d Elemente</item>
+    <item quantity="one">%1$s | %2$d Element</item>
+  </plurals>
+  <plurals name="select_item_count_unit">
+    <item quantity="other">Elemente</item>
+    <item quantity="one">Element</item>
+  </plurals>
+  <plurals name="save_item_saving_summary">
+    <item quantity="other">%d Elemente wurden wiederhergestellt</item>
+    <item quantity="one">%d Element wurde wiederhergestellt</item>
+  </plurals>
+  <plurals name="save_item_saved_summary">
+    <item quantity="other">%d Elemente wurden importiert und wiederhergestellt</item>
+    <item quantity="one">%d Element wurde importiert und wiederhergestellt</item>
+  </plurals>
+  <plurals name="save_item_failed_summary_seg1">
+    <item quantity="other">"%d Elemente importiert, "</item>
+    <item quantity="one">"%d Element importiert, "</item>
+  </plurals>
+  <plurals name="save_item_failed_summary_seg2">
+    <item quantity="other">%d Elemente müssen erneut importiert werden</item>
+    <item quantity="one">%d Element muss erneut importiert werden</item>
+  </plurals>
+  <plurals name="trans_time_format_hours">
+    <item quantity="other">%d Stunden</item>
+    <item quantity="one">eine Stunde</item>
+  </plurals>
+  <plurals name="trans_time_format_minute">
+    <item quantity="other">%d Minuten</item>
+    <item quantity="one">eine Minute</item>
+  </plurals>
 </resources>
