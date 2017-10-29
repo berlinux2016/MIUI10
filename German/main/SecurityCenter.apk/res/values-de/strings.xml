@@ -532,8 +532,8 @@
   <string name="button_text_fix">Beheben</string>
   <string name="button_text_fix_now">Beheben</string>
   <string name="button_text_forbid_now">Verbieten</string>
-  <string name="button_text_ignore">Ignorieren</string>
-  <string name="button_text_ignore_alert_title">Diese Warnung ignorieren?</string>
+  <string name="button_text_ignore">Zur Ausnahmeliste hinzufügen?</string>
+  <string name="button_text_ignore_alert_title">Diese Warnung ignorieren und?</string>
   <string name="button_text_known">OK</string>
   <string name="button_text_let_me_select">Ich habs</string>
   <string name="button_text_next_step">Weiter</string>
@@ -947,7 +947,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="go_to_setting_fingerprint">Einstellungen</string>
   <string name="google_base_app_install_choice">\"%s\" benötigt Google Service Framework, um richtig zu funktionieren. Jetzt herunterladen und installieren?</string>
   <string name="goto_set">Einstellen</string>
-  <string name="gs_anto_clean_memory_whitelist">Ausnahmen</string>
+  <string name="gs_anto_clean_memory_whitelist">Ausnahmeliste</string>
   <string name="gs_app_back_self_start">Energiesparrmodus</string>
   <string name="gs_auto_clean_memory">Cache bereinigen</string>
   <string name="gs_auto_clean_memory_detail">Cache automatisch bereinigen um Spiele zu optimieren</string>
@@ -2218,7 +2218,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="sp_background_risk_type_virus">Virenapp läuft im Hintergrund</string>
   <string name="sp_background_risk_type_wifi">WLAN-Verbindung ist unsicher</string>
   <string name="sp_button_text_ignore_alert_title">Dieses Kontrollkästchen ignorieren?</string>
-  <string name="sp_empty_title_sign_exception">App in Ergebnisliste lange drücken, um zu Ausnahmen hinzufügen</string>
+  <string name="sp_empty_title_sign_exception">App in der Ergebnisliste mit 'lange Drücken' der Ausnahmeliste hinzufügen</string>
   <string name="sp_monitored_apps_count_zero">Keine Zahlungsapp ist geschützt</string>
   <string name="sp_monitored_apps_list_title">Überwachungseinstellungens</string>
   <string name="sp_network_privacy_dialog_message">Die Sicherheitsapp kann Zahlungen nicht verifizieren, da der Internetzugriff eingeschränkt wurde. Internetzugriff erlauben?</string>
@@ -2231,7 +2231,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="sp_settings_check_item_title_root">ROOT - Zugang!</string>
   <string name="sp_settings_check_item_title_sign_exception">Virenscan</string>
   <string name="sp_settings_check_item_title_update">Systemupdate</string>
-  <string name="sp_settings_check_item_title_virus_exception">Virenscan-Whitelist</string>
+  <string name="sp_settings_check_item_title_virus_exception">Virenscan-Ausnahmeliste</string>
   <string name="sp_settings_check_item_title_wifi">WLAN</string>
   <string name="sp_settings_exception_count_zero">Leere Liste</string>
   <string name="sp_settings_group_title_check_item">Weitere Einstellungen prüfen</string>
@@ -2282,7 +2282,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="st_antispam_title_contactandanoy_group">Einstellungen</string>
   <string name="st_antispam_title_null_incoming">Private Nummern</string>
   <string name="st_antispam_title_service_sms">Servicemeldungen</string>
-  <string name="st_antispam_title_whitelist">Ausnahmen</string>
+  <string name="st_antispam_title_whitelist">Ausnahmeliste</string>
   <string name="st_block_all">Anrufe und Nachrichten sperren</string>
   <string name="st_block_mute">Anrufe und Nachrichten sperren</string>
   <string name="st_block_private_call_button">Private Nummern sperren</string>
@@ -2375,7 +2375,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="st_title_show_antispam_notification">Sperrlistenbenachrichtigungen</string>
   <string name="st_title_show_antispamnotification">Sperrbenachrichtigungen</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
-  <string name="st_title_whitelist_numbers">Ausnahmen</string>
+  <string name="st_title_whitelist_numbers">Ausnahmeliste</string>
   <string name="start">Starten</string>
   <string name="start_diagnostic_botton">Starten</string>
   <string name="start_downloading_app">Download wird gestartet: %1$s</string>
@@ -2743,7 +2743,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="traffic_saving_whitelist_btn_add_app">Hinzufügen</string>
   <string name="traffic_saving_whitelist_btn_added">Hinzugefügt</string>
   <string name="traffic_saving_whitelist_btn_remove">Entfernen</string>
-  <string name="traffic_saving_whitelist_btn_removed">Die App wurde von der Liste entfernt</string>
+  <string name="traffic_saving_whitelist_btn_removed">Die App wurde von der Ausnahmeliste entfernt</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; Apps' Datennutzung ist nicht begrenzt"</string>
   <string name="traffic_saving_whitelist_no_app">Keine Apps</string>
   <string name="traffic_saving_wifi_usage">WLAN Verbrauch</string>
@@ -2852,7 +2852,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="wifi_optizition_loading">Xunyou Netzwerkgeschwindigkeitsoptimierung aktivieren…</string>
   <string name="wifi_optizition_tip">WLAN Geschwindigkeitsoptimierung aktivieren, um die WLAN Verbindung stabiler zu machen. Dazu werden zu einem kleinen Teil mobile Daten genutzt.</string>
   <string name="wifi_optizition_title">WLAN Geschwindigkeitsoptimierung</string>
-  <string name="wl_no_whitelist">Keine Ausnahmen</string>
+  <string name="wl_no_whitelist">Keine Ausnahmeliste</string>
   <string name="wlan_booster">WLAN Geschwindigkeitsoptimierung</string>
   <string name="wlan_change_protection_detail">Automatischen Wechsel in ein WLAN Netzwerk bei aktivierten mobilen Daten verhindern</string>
   <string name="wlan_change_protection_title">Netzwerkwechsel verhindern</string>
