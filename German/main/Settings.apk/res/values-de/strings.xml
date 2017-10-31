@@ -82,12 +82,11 @@
   <string name="accessibility_screen_magnification_enable">Vergrößerungsgesten</string>
   <string name="accessibility_screen_magnification_short_summary">3 mal tippen, um zu vergrößern</string>
   <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/rauszoomen, indem Sie 3 mal auf den Bildschirm tippen. Wenn Sie reingezoomt haben, können Sie:
-  <li>
-    <ul>"Verschieben: Ziehen Sie zwei oder mehr Finger über den Bildschirm.
-      <li>Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.</li>
-    </ul>
-  </li>Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifaches Antippen und Halten vergrößern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren.
-  Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für die Tastatur und Navigationsleiste."</string>
+  <li><ul>"Verschieben: Ziehen Sie zwei oder mehr Finger über den Bildschirm.
+      <li>Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.</li></ul></li>
+      
+Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifaches Antippen und Halten vergrößern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren.
+Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für die Tastatur und Navigationsleiste."</string>
   <string name="accessibility_screen_magnification_title">Vergrößerungsgesten</string>
   <string name="accessibility_service_default_description">Keine Beschreibung verfügbar.</string>
   <string name="accessibility_service_no_apps_message">TalkBack bietet blinden und sehbehinderten Benutzern gesprochenes Feedback. Möchten Sie diese Funktion kostenlos aus dem Playstore installieren?</string>
@@ -344,7 +343,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">Die App wurde nicht in der Liste der installierten Apps gefunden.</string>
   <string name="app_not_supported_in_limited">Diese App wird in eingeschränkten Profilen nicht unterstützt.</string>
-  <string name="app_not_found_dlg_title"/>
   <string name="app_notification_block_summary">Benachrichtigungen für diese App niemals anzeigen</string>
   <string name="app_notification_block_title">Blockieren</string>
   <string name="app_notification_importance_title">Wichtigkeit</string>
@@ -486,7 +484,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="background_location_control_summary">Schütze oder erlaube den Zugriff von Apps auf Standortinfos vom Gerät im Hintergrund</string>
   <string name="background_location_control_title">Standortzugriff im Hintergrund</string>
   <string name="background_location_deselect_apps">Auswahl aufheben</string>
-  <string name="background_location_requests_summary">Erlaube Apps Zugriffe auf Standortservice wenn Sie diese nicht benutzten</string>
+  <string name="background_location_requests_summary">Erlaube Apps Zugriffe auf Standortservice, wenn Sie diese nicht benutzen</string>
   <string name="background_location_requests_title">Standortlokalisierung im Hintergrund zulassen</string>
   <string name="background_location_select_apps">Alle auswählen</string>
   <string name="background_process_stop_description">Hierbei handelt es sich um einen alten Appprozess, der für den Fall, dass er wieder benötigt wird, beibehalten wird. Normalerweise gibt es keinen Grund ihn zu beenden.</string>
@@ -503,7 +501,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="backup_empty_info">Sichern Sie Ihre Daten, Einstellungen und Apps</string>
   <string name="backup_empty_info_onpad">Sichern Sie Ihre Daten, Einstellungen und Apps</string>
   <string name="backup_erase_dialog_message">Möchten Sie die Sicherung Ihrer WLAN-Passwörter, Lesezeichen und anderen Einstellungen sowie Appdaten beenden und alle Kopien auf den Google-Servern löschen?</string>
-  <string name="backup_erase_dialog_title"/>
   <string name="backup_error">Sicherung fehlgeschlagen</string>
   <string name="backup_failed">Sicherung fehlgeschlagen</string>
   <string name="backup_file_error">Sicherung fehlgeschlagen</string>
@@ -1967,12 +1964,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="force_touch_enable">3D Touch aktivieren</string>
   <string name="force_touch_enable_tips">Wenn 3D Touch aktiviert ist, zeigt starkes Drücken eines App-Symbols am Startbildschirm Kontextmenü der App.</string>
   <string name="forget">Vergessen</string>
-  <string name="forget_password_button_text">
-    <u>Passwort vergessen</u>
-  </string>
-  <string name="forget_pattern">
-    <u>Muster vergessen?</u>
-  </string>
+  <string name="forget_password_button_text"><u>Passwort vergessen</u></string>
+  <string name="forget_pattern"><u>Muster vergessen?</u></string>
   <string name="forget_privacy_password_setting">Mi Konto hinzufügen</string>
   <string name="forget_privacy_password_summary">Mi Konto verwenden, um das Passwort zurückzusetzen</string>
   <string name="forget_wifi_message">Die Netzwerkverbindung wird automatisch beendet.</string>
@@ -2083,39 +2076,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="heavy_weight_stop_description">Diese App kann nicht sicher beendet werden. Beim Beenden könnten aktuelle Daten verloren gehen.</string>
   <string name="help_feedback_label">Hilfe &amp; Rückmeldung</string>
   <string name="help_label">Hilfe &amp; Rückmeldung</string>
-  <string name="help_uri_about"/>
-  <string name="help_uri_accessibility"/>
-  <string name="help_uri_apps"/>
-  <string name="help_uri_beam"/>
-  <string name="help_uri_dashboard"/>
-  <string name="help_uri_default"/>
-  <string name="help_uri_display"/>
-  <string name="help_uri_interruptions"/>
-  <string name="help_uri_notifications"/>
-  <string name="help_uri_other_sounds"/>
-  <string name="help_uri_printing"/>
-  <string name="help_uri_storage"/>
-  <string name="help_uri_wallpaper"/>
-  <string name="help_url_accounts"/>
-  <string name="help_url_backup_reset"/>
-  <string name="help_url_battery"/>
-  <string name="help_url_bluetooth"/>
-  <string name="help_url_choose_lockscreen"/>
-  <string name="help_url_data_saver"/>
-  <string name="help_url_data_usage"/>
-  <string name="help_url_dreams"/>
-  <string name="help_url_fingerprint"/>
-  <string name="help_url_location_access"/>
-  <string name="help_url_more_networks"/>
-  <string name="help_url_nfc_payment"/>
-  <string name="help_url_remote_display"/>
-  <string name="help_url_security"/>
-  <string name="help_url_sound"/>
-  <string name="help_url_tether"/>
-  <string name="help_url_unrestricted_data_access"/>
-  <string name="help_url_users"/>
-  <string name="help_url_vpn"/>
-  <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Verborgene SSID:</string>
   <string name="hide">Verbergen</string>
   <string name="hide_screen_button">Bildschirmtasten verbergen</string>
@@ -2260,7 +2220,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="keywords_airplane">Flugzeug; Flugzeug-Modus; Flugzeug; Flugzeug-Modus; Flug; Flug-Modus</string>
   <string name="keywords_all_apps">Apps Download Anwendungen System</string>
   <string name="keywords_app">RAM</string>
-  <string name="keywords_app_permissions">Apps Berechtigungen Security Sicherheit</string>
+  <string name="keywords_app_permissions">Apps Berechtigungen Sicherheit</string>
   <string name="keywords_auto_rotate">Rotation; Bildschirm drehen; Bildschirm Orientierung; Portrait-Modus; Landschaft-Modus; vertikal; horizontal</string>
   <string name="keywords_battery">Leistung</string>
   <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
@@ -2588,8 +2548,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="lockpattern_restart_button_text">Neu aufzeichnen</string>
   <string name="lockpattern_retry_button_text">Wiederholen</string>
   <string name="lockpattern_settings_change_lock_pattern">Muster ändern</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">Ein/Aus Taste sperrt Gerät</string>
   <string name="lockpattern_settings_choose_lock_pattern">Entsperrmuster</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Ein/Aus Taste sperrt Gerät</string>
   <string name="lockpattern_settings_enable_summary">Zum Entsperren muss ein Muster gezeichnet werden</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Bei Berührung vibrieren</string>
   <string name="lockpattern_settings_enable_title">Muster erforderlich</string>
@@ -2669,10 +2629,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="master_clear_accounts">"    Sie sind zurzeit in folgenden Konten angemeldet:
     "</string>
   <string name="master_clear_all">"Alle Daten vom internen Telefonspeicher löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
-  <string name="master_clear_apply_step_1">
-    <b>“Werksreset” löscht alle Daten auf Ihrem Telefon</b>, inkl. Fotos, Musik, Notizen und andere persönliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
-  <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass Sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden währen dem Rücksetzen von Ihrem Gerät gelöscht. <b>Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.</b>
-  </string>
+  <string name="master_clear_apply_step_1"><b>“Werksreset” löscht alle Daten auf Ihrem Telefon</b>, inkl. Fotos, Musik, Notizen und andere persönliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
+  <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass Sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden währen dem Rücksetzen von Ihrem Gerät gelöscht. <b>Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.</b></string>
   <string name="master_clear_apply_title">Hinweis</string>
   <string name="master_clear_button_text">Telefon zurücksetzen</string>
   <string name="master_clear_confirm_title">Zurücksetzen?</string>
@@ -2923,7 +2881,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="move_app_progress_to_device">Verschiebe %1$s auf SHIELD…</string>
   <string name="move_app_progress_to_sdcard">Verschiebe %1$s auf SD-Karte…</string>
   <string name="move_app_to_device_dlg_title">App auf SHIELD verschieben?</string>
-  <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">In den internen Speicher verschieben</string>
   <string name="move_app_to_sdcard">Auf die SD-Karte verschieben</string>
   <string name="move_app_to_sdcard_dlg_title">App auf SD-Karte verschieben?</string>
@@ -3227,7 +3184,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="now">Jetzt neustarten</string>
   <string name="nsd_quick_toggle_summary">Anwendungen auf anderen Geräten erlauben, Anwendungen auf diesem Gerät zu finden</string>
   <string name="nsd_quick_toggle_title">Netzwerkerkennungsdienst</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_radio_info_label">OEM-spezifische Infos/Einstellungen</string>
   <string name="oem_unlock_enable">OEM-Entriegelung aktivieren</string>
   <string name="oem_unlock_enable_summary">Erlaube dem Gerät per OEM entsperrt zu werden</string>
@@ -3462,7 +3418,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="path_power_mode_settings">Einstellungen/Akku/Akkueinstellungen</string>
   <string name="path_power_optimize">Einstellungen/Zusätzlich/Betafunktionen/Batteriesparmodus</string>
   <string name="path_pref_volume_wake_title">Einstellungen/Bildschirmsperre &amp; Passwort/Aufwachen mit Lautstärketasten</string>
-  <string name="path_preferred_network_type_settings">Einstellungen/SIM Karten &amp; mobile Netzwerke/Bevorzugter Netzwerktyp</string>
+  <string name="path_preferred_network_type_settings">Einstellungen/SIM-Karten &amp; mobile Netzwerke/Bevorzugter Netzwerktyp</string>
   <string name="path_privacy_policy">Einstellungen/Über das Gerät/Rechtliche Hinweise/Datenschutzerklärung</string>
   <string name="path_privacy_settings">Einstellungen/Erweiterte Einstellungen/Sichern &amp; Wiederherstellen</string>
   <string name="path_ringer_volume_settings">Einstellungen/Ton &amp; Vibration/Volumes/Klingelton &amp; Benachrichtigungen</string>
@@ -3749,8 +3705,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="privacy_password_settings_titles_elder_mode">Das Datenschutzpasswort schützt Ihre Fotos, Dateien und Notizen</string>
   <string name="privacy_password_settings_titles_second_space">Das Datenschutzpasswort schützt Ihre Nachrichten, Fotos und Notizen</string>
   <string name="privacy_password_title">Datenschutzpasswort</string>
-  <string name="privacy_password_toggle_summary">Passwort jedes Mal wenn auf private Elemente zugegriffen wird verlangen.</string>
-  <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_toggle_summary">Passwort jedes Mal verlangen, wenn auf private Elemente zugegriffen wird.</string>
   <string name="privacy_password_use_finger_dialog_mess">Sie können Ihren Fingerabdruck auch als Datenschutzpasswort verwenden.</string>
   <string name="privacy_password_use_finger_dialog_open">Einstellungen</string>
   <string name="privacy_password_use_finger_dialog_title">Entsperren mit Fingerabdruck</string>
@@ -3937,7 +3892,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="recompute_size">Größe wird neuberechnet…</string>
   <string name="record_anr_in_background">Hintergrund ANR Fälle aufzeichnen</string>
   <string name="refresh">Aktualisieren</string>
-  <string name="regulatory_info_text"/>
   <string name="regulatory_information">Regulierungsinformationen</string>
   <string name="remaining_length_format">%1$s verblieben</string>
   <string name="remote_receive">Empfangen</string>
@@ -4199,7 +4153,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="sd_insert_summary">USB-Speicher für Bereitstellung einlegen</string>
   <string name="sd_memory">USB-Speicher</string>
   <string name="sd_mount">USB-Speicher bereitstellen</string>
-  <string name="sd_mount_summary"/>
   <string name="sd_not_available">Keine SD-Karte gefunden</string>
   <string name="sdcard_changes_instructions">Die Änderungen werden nach dem erneuten Anschließen des USB-Kabels übernommen</string>
   <string name="sdcard_format">USB-Speicher löschen</string>
@@ -4381,7 +4334,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="search_screen_paper_mode_title">Lesemodus;Lesen;Blaulicht;Gelblicht;Nachtmodus</string>
   <string name="search_screen_saver_settings">Bildschirmschoner</string>
   <string name="search_screen_timeout">Bildschirmtimeout</string>
-  <string name="search_screenshot">Bildschirmfoto</string>
+  <string name="search_screenshot">Screenshot</string>
   <string name="search_second_space">Zweitprofil</string>
   <string name="search_security_encryption_title">Gerät mit Sperrbildschirmpasswort verschlüsseln</string>
   <string name="search_security_passwords_title">Passwort</string>
@@ -4532,7 +4485,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="security_settings_fingerprint_enroll_start_title">"Los geht's!"</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_message">Verwenden Sie einen Fingerabdruck auf Ihrem Gerät.</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_title">Hoppla, das ist nicht der Sensor</string>
-  <string name="security_settings_fingerprint_preference_summary_none"/>
   <string name="security_settings_fingerprint_preference_title">Fingerabdruck</string>
   <string name="security_settings_premium_sms_desc">Premium-SMS senden?</string>
   <string name="security_settings_summary">Meinen Standort, Bildschirmsperre, SIM-Kartensperre und Sperre für Anmeldeinformationsspeicher festlegen</string>
@@ -4549,7 +4501,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="select_runtime_dialog_title">Laufzeit auswählen</string>
   <string name="select_runtime_title">Laufzeit auswählen</string>
   <string name="select_runtime_warning_message">Neustart zum Ändern der Laufzeit von %1$s an %2$s?</string>
-  <string name="select_sim_card">SIM Karte auswählen</string>
+  <string name="select_sim_card">SIM-Karte auswählen</string>
   <string name="select_sim_for_calls">Anrufen mit</string>
   <string name="select_sim_for_data">SIM für Daten auswählen</string>
   <string name="select_ssid_type_title">SSID auswählen</string>
@@ -4724,14 +4676,14 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="sim_enter_pin">PIN für SIM-Karte</string>
   <string name="sim_lock_change_not_supported">"Kann SIM-Sperre nicht ändern."</string>
   <string name="sim_lock_failed">"Status der SIM-Kartensperrung kann nicht geändert werden.
-    Möglicherweise falsche PIN."</string>
+Möglicherweise falsche PIN."</string>
   <string name="sim_lock_off">PIN zur Verwendung des Telefons erforderlich</string>
-  <string name="f">Einstellungen für SIM-Sperre</string>
   <string name="sim_lock_on">PIN zur Verwendung des Telefons erforderlich</string>
+  <string name="sim_lock_settings">Einstellungen für SIM-Sperre</string>
   <string name="sim_lock_settings_category">SIM-Sperre einrichten</string>
   <string name="sim_lock_settings_title">SIM-Kartensperre</string>
   <string name="sim_management_title">SIM-Verwaltung</string>
-  <string name="sim_management_title_cr_kolbi">SIM Karte &amp; Mobiles Netzwerk</string>
+  <string name="sim_management_title_cr_kolbi">SIM-Karte &amp; Mobiles Netzwerk</string>
   <string name="sim_missing">Fehlt oder Fehler</string>
   <string name="sim_multi_sims_summary">Wählen Sie die SIM-Karte, die Sie für mobile Daten bevorzugen.</string>
   <string name="sim_multi_sims_title">Mehrere SIM-Karten gefunden</string>
@@ -4925,7 +4877,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="status_serialno">Seriennummer</string>
   <string name="status_service_state">Servicestatus</string>
   <string name="status_signal_strength">Signalstärke</string>
-  <string name="status_sim">SIM Karten Status</string>
+  <string name="status_sim">SIM-Karten Status</string>
   <string name="status_sim_1">SIM 1</string>
   <string name="status_sim_2">SIM 2</string>
   <string name="status_summary">Drücke für Details.</string>
@@ -4967,11 +4919,11 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
     Alle Daten auf diesem ^1 werden gelöscht. Erwägen Sie eine Sicherung.
     "<b>Fotos &amp; andere Medien sichern</b>"
     Verschieben Sie Ihre Medien auf einen anderen Speicher in diesem Telefon oder kopieren Sie diese über USB auf einen PC.
-    "<b>Apps sichern</b>"
-    Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie diese auf einen anderen Speicher auf diesem Telefon."</string>
+
+"<b>Apps sichern</b>"
+Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie diese auf einen anderen Speicher auf diesem Telefon."</string>
   <string name="storage_internal_title">Interner Speicher</string>
-  <string name="storage_internal_unmount_details">
-    <b>Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein.</b>"
+  <string name="storage_internal_unmount_details"><b>Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein.</b>"
     Dieser ^1 ist formatiert, um nur auf diesem Gerät zu funktionieren. Er wird auf andern Geräten nicht funktionieren."</string>
   <string name="storage_label">Speicher</string>
   <string name="storage_low_summary">Einige Systemfunktionen wie die Synchronisierung funktionieren möglicherweise nicht richtig. Versuchen Sie Speicher freizugeben, indem Sie Apps oder Medieninhalte löschen.</string>
@@ -5028,9 +4980,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="storage_wizard_init_title">Richten Sie ^1 ein</string>
   <string name="storage_wizard_migrate_body">"Sie können Fotos, Dateien und einige Apps auf diesen neuen ^1 verschieben.
     Das Verschieben dauert etwa ^2 und wird ^3 auf dem internen Speicher freigeben. Einige Apps werden während diesem Vorgang nicht funktionieren."</string>
-  <string name="storage_wizard_migrate_confirm_body">
-    <b>Das Verschieben dauert etwa ^1 und wird ^2 auf dem ^3 freigeben.</b>
-  </string>
+  <string name="storage_wizard_migrate_confirm_body"><b>Das Verschieben dauert etwa ^1 und wird ^2 auf dem ^3 freigeben.</b></string>
   <string name="storage_wizard_migrate_confirm_next">Verschieben</string>
   <string name="storage_wizard_migrate_confirm_title">Jetzt verschieben</string>
   <string name="storage_wizard_migrate_details">"Während dem Verschieben:
@@ -5136,7 +5086,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="system_package">Systemupdates können nicht auf externen Datenträgern installiert werden.</string>
   <string name="system_storage">Systemspeicher</string>
   <string name="system_ui_settings">SystemUI-Tuner anzeigen</string>
-  <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">System Updates</string>
   <string name="talkback_summary">Der Screenreader ist in erster Linie für Blinde und Menschen mit eingeschränkten Sehvermögen bestimmt</string>
   <string name="talkback_title">Talkback</string>
@@ -5181,7 +5130,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="tether_devices_max_number">Begrenzung der verbundenen Geräte</string>
   <string name="tether_settings_disabled">Persönlicher Hotspot ist deaktiviert</string>
   <string name="tether_settings_disabled_on_data_saver">Tethering oder Verwendung von mobilen Hotspots nicht möglich, während der Datensparmodus aktiviert ist</string>
-  <string name="tether_settings_launch_title">Mobile Hotspot</string>
+  <string name="tether_settings_launch_title">Mobiler Hotspot</string>
   <string name="tether_settings_title_all">Tethering &amp; Hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetoothtethering</string>
   <string name="tether_settings_title_usb">USB-Tethering</string>
@@ -5203,7 +5152,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="tethering_settings_not_available">Tetheringeinstellungen sind für diesen Benutzer nicht verfügbar.</string>
   <string name="tethering_settings_summary">Mobile Datenverbindung des Geräts über USB oder mobile Hotspots teilen</string>
   <string name="theme_settings_title">Themen</string>
-  <string name="thememanager_not_found">Themen kann nicht geöffnet werden. Stellen Sie sicher, das diese App installiert ist.</string>
+  <string name="thememanager_not_found">Theme kann nicht geöffnet werden. Stellen Sie sicher, das diese App installiert ist.</string>
   <string name="three_gesture_down">3-Fingergeste nach unten</string>
   <string name="time_picker_title">Uhrzeit</string>
   <string name="time_zone_auto_stub">Zeitzone auswählen</string>
@@ -5228,7 +5177,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="toast_lockscreen_glogin_empty_password">Passwort eingeben</string>
   <string name="toast_need_login">Melden Sie sich bei Ihrem Mi Konto an</string>
   <string name="total">Nicht stören</string>
-  <string name="total_info">Ton und Vibration für alles außer für den Wecker ausschalten</string>
+  <string name="total_info">Ton und Vibration für alles ausschalten, außer für den Wecker</string>
   <string name="total_memory">Gesamter Speicher</string>
   <string name="total_num">%d Elemente,</string>
   <string name="total_size">Insgesamt: %s</string>
@@ -5331,7 +5280,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
     Mi Mover aktiviert sein"</string>
   <string name="trans_waiting_for_sender">Warte auf Verbindung mit dem alten Gerät…</string>
   <string name="transition_animation_scale_title">Übergangsanimation</string>
-  <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Mitwirkende</string>
   <string name="trust_agent_disabled_device_admin">Vom Administrator deaktiviert</string>
   <string name="trusted_credentials">Vertrauenswürdige Anmeldedaten</string>
@@ -5458,9 +5406,11 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
     Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Profil freizuschalten, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_password_profile">Profilschutz wird ohne Ihr Passwort nicht funktionieren.</string>
   <string name="unlock_disable_frp_warning_content_pattern">Geräteschutz funktioniert ohne ein Entsperrmuster nicht.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren.
+  
+Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren.
     Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_pattern_profile">Profilschutz wird ohne ein Entsperrmuster nicht funktionieren.</string>
   <string name="unlock_disable_frp_warning_content_pin">Geräteschutz funktioniert nicht ohne eine PIN.</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Geräteschutzfunktionen werden ohne eine PIN nicht funktionieren.
@@ -5500,7 +5450,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="unlock_set_unlock_mode_pin">PIN</string>
   <string name="unlock_set_unlock_none_summary">Keine Sicherheit</string>
   <string name="unlock_set_unlock_none_title">Ziehen</string>
-  <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Keine</string>
   <string name="unlock_set_unlock_password_summary">4 oder mehr Buchstaben oder Zahlen eingeben zum entsperren</string>
   <string name="unlock_set_unlock_password_title">Passwort</string>
@@ -5575,7 +5524,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="usb_midi_summary">Unterstützte Anwendungen können über USB mit einer MIDI Software auf einem Computer zusammenarbeiten.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">USB-Speicher einbinden</string>
-  <string name="usb_mount_summary"/>
   <string name="usb_msd_driver_installer_summary">Treiber für Windows und OSX erhalten Sie hier</string>
   <string name="usb_msd_driver_installer_title">Installertreiberdiskette (MSD)</string>
   <string name="usb_msd_summary">Erlaube Dateien über Windows und OSX zu übertragen</string>
@@ -5782,7 +5730,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="vision_settings_description">Sie können dieses Gerät an Ihre Bedürfnisse anpassen. Diese Eingabehilfen können später in Einstellungen geändert werden.</string>
   <string name="vision_settings_title">Vision Einstellungen</string>
   <string name="voice_category">Sprache</string>
-  <string name="voice_input_output_settings">Sprachein- &amp;ausgabe</string>
+  <string name="voice_input_output_settings">Sprachein- &amp; ausgabe</string>
   <string name="voice_input_output_settings_title">Sprachein- &amp; ausgabeeinstellungen</string>
   <string name="voice_input_settings">Spracheingabeeinstellungen</string>
   <string name="voice_input_settings_title">Spracheingabe</string>
@@ -6009,10 +5957,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="wifi_display_status_in_use">In Verwendung</string>
   <string name="wifi_display_status_not_available">Nicht verfügbar</string>
   <string name="wifi_display_wps_config">WPS Konfiguration</string>
-  <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
-  <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_do_not_provide_eap_user_cert">Nicht verfügbar</string>
   <string name="wifi_do_not_validate_eap_server">Nicht bestätigt</string>
   <string name="wifi_do_not_validate_eap_server_warning">Kein Zertifikat angegeben. Es wird keine private Verbindung hergestellt.</string>
@@ -6284,7 +6228,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="wifi_tether_starting">HotSpot einschalten…</string>
   <string name="wifi_tether_stopping">HotSpot ausschalten…</string>
   <string name="wifi_title">WLAN-Einstellungen</string>
-  <string name="wifi_type_approval"/>
   <string name="wifi_type_approval_dialog_title">NTC NO.</string>
   <string name="wifi_type_approval_title">Genehmigungstyp</string>
   <string name="wifi_unchanged">(nicht geändert)</string>
@@ -6436,7 +6379,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="zen_mode_event_rule_summary_any_calendar">Alle Kalender</string>
   <string name="zen_mode_event_rule_summary_calendar_template">Während Ereignissen für %1$s</string>
   <string name="zen_mode_event_rule_summary_reply_template">Wenn die Antwort %1$s lautet</string>
-  <string name="zen_mode_events">Veranstaltungen </string>
+  <string name="zen_mode_events">Veranstaltungen</string>
   <string name="zen_mode_from">Anrufe/Nachrichten von</string>
   <string name="zen_mode_from_anyone">Vom jedem</string>
   <string name="zen_mode_from_call">"Anrufe von "</string>
