@@ -29,8 +29,10 @@
   <string name="ac_unmask_all_apps">Einblenden für alle Apps</string>  
   <string name="ac_firstUseApplock_subTitle">Verwenden Sie die Appsperre, um Ihre Privatsphäre zu schützen</string>
   <string name="ac_firstUseApplock_title">Ausgewählte Apps mit einem Muster sperren</string>
+  <string name="ac_mask_all_apps">Für alle Apps ausblenden</string>
   <string name="ac_summaryOff">Ausgeschaltet, es ist kein Entsperrmuster zum Öffnen von Apps erforderlich</string>
   <string name="ac_summaryOn">Eingeschaltet, es ist ein Entsperrmuster zum Öffnen von Apps erforderlich</string>
+  <string name="ac_unmask_all_apps">Für alle Apps einblenden</string>
   <string name="access_control_app_is_launching">App wird gestartet</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Um einen neuen Fingerabdruck hizufügen zu können, zeichnen Sie Ihr Muster</string>
   <string name="access_control_fingerprint_not_identified_msg">Fingerabdruckscan fehlgeschlagen</string>
@@ -190,6 +192,8 @@
   <string name="app_manager_apps_generatioin">Updates</string>
   <string name="app_manager_apps_generation_summary">Für die neusten Funktionen aktualisieren</string>
   <string name="app_manager_appupdate_remind">Über Updates benachrichtigen</string>
+  <string name="app_manager_as_dlg_msg">Damit Apps automatisch gestartet werden können, wird zusätzliche RAM- und Akkuleistung benötigt. Trotzdem erlauben?</string>
+  <string name="app_manager_as_dlg_title">Achtung</string>
   <string name="app_manager_back">Zurück</string>
   <string name="app_manager_bipartition">Dualapps</string>
   <string name="app_manager_card_permission_title">Rechte</string>
@@ -199,6 +203,7 @@
   <string name="app_manager_clear_failed_dlg_message">Löschen der Appdaten fehlgeschlagen</string>
   <string name="app_manager_clear_failed_dlg_title">Daten löschen</string>
   <string name="app_manager_copy_pkg_to_clip">In die Zwischenablage kopiert</string>
+  <string name="app_manager_default_cleared">bereinigt</string>
   <string name="app_manager_default_close_summary">Kein Standard eingestellt.</string>
   <string name="app_manager_default_open">Standardmässig öffnen</string>
   <string name="app_manager_default_open_summary">Sie haben diese App für einige Aktionen als Standard gewählt.</string>
@@ -224,12 +229,14 @@
   <string name="app_manager_globel_other_perm_title">Sonstige Berechtigungen</string>
   <string name="app_manager_globel_perm_summary">Verwaltung von Berechtigungen in Bezug auf Speicherort, Speicherung, Telefon, Nachrichten und Kontakte.</string>
   <string name="app_manager_globel_perm_title">Appberechtigungen</string>
+  <string name="app_manager_has_not_data">Keine Daten</string>
   <string name="app_manager_go_to_manger_app">Verwalten</string>
   <string name="app_manager_have_not_consume">Keine</string>
   <string name="app_manager_hide_system_server">Systemdienste ausblenden</string>
   <string name="app_manager_instruction">Anleitung</string>
   <string name="app_manager_loading_data">Daten werden geladen…</string>
   <string name="app_manager_manage_space">Speicherplatz verwalten</string>
+  <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Daten löschen</string>
   <string name="app_manager_more_times">100000+ mal zugegriffen</string>
   <string name="app_manager_my_app">Meine Apps</string>
@@ -1365,6 +1372,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="monitor_requests_from_pc">Installation von Apps via USB verwalten</string>
   <string name="month_report_month_report_switch">Monatsbericht anzeigen</string>
   <string name="more_game">Mehr Spiele</string>
+  <string name="more_lock">Mehr</string>
   <string name="msg_update_error_code_success">Erledigt</string>
   <string name="msg_update_up">Verbergen</string>
   <string name="name">Name</string>
@@ -1440,8 +1448,10 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="notification_exit_power_save_mode">Energiesparmodus ist deaktiviert</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku zu %s aufgeladen</string>
   <string name="notification_item">Ausgewählte Apps mit einer Appsperre sichern</string>
-  <string name="notification_mask_summary">Keine Inhalte der Benachrichtigungen auf dem Sperrbildschirm und in der Benachrichtigungsleiste anzeigen</string>
+  <string name="notification_mask_summary">Benachrichtigungen auf dem Sperrbildschirm und in der Benachrichtigungsleiste verbergen</string>
   <string name="notification_mask_title">Nachrichteninhalt verbergen</string>
+  <string name="notification_masked_item">Benachrichtigungen verbergen</string>
+  <string name="notification_masked_subtitle">Benachrichtigungen vor Apps, die mit App Lock geschützt sind, verbergen</string>
   <string name="notification_quick_charging_title">Schnelles Aufladen</string>
   <string name="notification_subtitle">Zum Einschalten antippen</string>
   <string name="notification_summary_cmcc_app_check">Berühren für mehr Details.</string>
@@ -2382,6 +2392,13 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="start_diagnostic_botton">Starten</string>
   <string name="start_downloading_app">Download wird gestartet: %1$s</string>
   <string name="start_game">Starten</string>
+  <string name="status_bar_network_flow_content">Heute: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Verbleibend: %2$s</string>
+  <string name="status_bar_network_flow_content_not_setting">Heute: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Diesen Monat: %2$s</string>
+  <string name="status_bar_network_flow_exceed_content">Heute: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan überschritten: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_phone_balance">"   Telefonguthaben:%1$s "</string>
+  <string name="status_bar_network_flow_purchase">"   Einkaufen &gt;"</string>
+  <string name="status_bar_network_flow_setup_data_plan">"   Datenplan einrichten &gt;"</string>
+  <string name="status_bar_network_flow_today">Heute: %1$s</string>
   <string name="start_install">Jetzt installieren</string>
   <string name="start_tc_button">Kalibrieren</string>
   <string name="still_retain_btn">Behalten</string>
@@ -2391,6 +2408,8 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="suffix_virus_count_bottom">Gesamt</string>
   <string name="suffix_virus_count_top">Risiko</string>
   <string name="suggest_app_tolock">Vorschläge</string>
+  <string name="suggest_app_tolock_masked">Versteckt</string>
+  <string name="suggest_app_tolock_unmasked">Sichtbare Benachrichtigungen</string>
   <string name="suggest_scan_again">Vollständiger Scan empfohlen, um die Sicherheit zu gewährleisten</string>
   <string name="summary_antivirus">Appnamen sowie Appdetails hochladen und online überprüfen</string>
   <string name="summary_antivirus_oversea">Virusdefinitionen automatisch aktualisieren</string>
