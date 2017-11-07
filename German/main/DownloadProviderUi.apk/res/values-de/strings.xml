@@ -74,7 +74,7 @@
   <string name="dialog_media_not_found">Der Download ist nicht möglich, da kein externes Speichermedium vorhanden ist.</string>
   <string name="dialog_msg_disabled_net">%1$s schränkt Downloads für das derzeitige Netzwerk ein. Klicke auf Netzwerkeinstellungen, um zur Sicherheitsapp zu gelangen.</string>
   <string name="dialog_msg_recommend">Nach dem Ausschalten können Sie keine empfohlenen Quellen mehr anzeigen.</string>
-  <string name="dialog_queued_body">Datei wurde zum späteren Download auf die Warteschlange gesetzt.</string>
+  <string name="dialog_queued_body">Datei wurde zum späteren Download in die Warteschlange gesetzt.</string>
   <string name="dialog_speed_cancel">Abbrechen</string>
   <string name="dialog_speed_msg">Die Verwendung der mobilen Datenverbindung für den Netzwerktest kann große Datenmengen verursachen. Trotzdem fortsetzen?</string>
   <string name="dialog_speed_ok">Weiter</string>
@@ -163,7 +163,7 @@
   <string name="file_exist_hint">Die Datei ist bereits vorhanden</string>
   <string name="file_picker">Standort auswählen</string>
   <string name="file_size">Größe:</string>
-  <string name="force_touch_newdownload">Neues Download</string>
+  <string name="force_touch_newdownload">Neuer Download</string>
   <string name="force_touch_rank">Rang</string>
   <string name="force_touch_search">Web durchsuchen</string>
   <string name="free_high_speed_channel">Xunlei-Beschleuniger (Kostenlos)</string>
@@ -236,7 +236,7 @@
   <string name="open">Öffnen</string>
   <string name="open_download">Öffnen</string>
   <string name="open_folder">Ordner öffnen</string>
-  <string name="open_vip_hint">Tippen um ein Xunlei-Mitglied zu werden</string>
+  <string name="open_vip_hint">Tippen, um ein Xunlei-Mitglied zu werden</string>
   <string name="open_vip_speedup"/>
   <string name="open_xunlei_speed_service">Xunlei-Downloadbeschleuniger starten</string>
   <string name="original_price">Preis</string>
@@ -326,7 +326,7 @@
   <string name="search_website_more">Mehr</string>
   <string name="select_all">Alles auswählen</string>
   <string name="select_operation_items">Elemente auswählen</string>
-  <string name="select_sub_file_download">Wähle eine Datei zum runterladen</string>
+  <string name="select_sub_file_download">Wähle eine Datei zum Download</string>
   <string name="select_subfile_all">Alle auswählen</string>
   <string name="selected_count">%1$d aus %2$d ausgewählt</string>
   <string name="setting_close_debug">Debugmodus deaktiviert</string>
@@ -336,7 +336,7 @@
   <string name="shortcut_dialog_create">Erstellen</string>
   <string name="shortcut_dialog_title">Verknüpfung auf dem Startbildschirm erstellen?</string>
   <string name="show_more">%s weitere anzeigen</string>
-  <string name="sniff_associate_text">Tippen Sie auf das Schlüsselwort weiter unten um mehr Quellen zu finden</string>
+  <string name="sniff_associate_text">Tippen Sie auf das Schlüsselwort weiter unten, um mehr Quellen zu finden</string>
   <string name="sniff_bt_text">Torrentdatei</string>
   <string name="sniff_btn_text">Quelle</string>
   <string name="sniff_cannot_use">"Link kann nicht verwendet werden, tippen Sie zum Download auf die URL."</string>
@@ -365,13 +365,13 @@
   <string name="sniff_shortcut_exist">Verknüpfung ist bereits vorhanden.</string>
   <string name="sniff_shortcut_failed">"Verknüpfung konnte nicht erstellt werden."</string>
   <string name="sniff_shortcut_name">Quelle finden</string>
-  <string name="sniff_shortcut_tip">Fügen Sie weitere Verknüpfungen hinzu um Quellen schneller ausfindig zu machen.</string>
+  <string name="sniff_shortcut_tip">Fügen Sie weitere Verknüpfungen hinzu, um Quellen schneller ausfindig zu machen.</string>
   <string name="sniff_shortcut_tip2">Finden Sie Quellen für Ihre Downloads auf dem Startbildschirm.</string>
   <string name="sniff_sniffing_btn_text">Suche nach Quelle…</string>
   <string name="sniff_terms_agree">Annehmen</string>
   <string name="sniff_terms_agree_new">Zustimmen</string>
   <string name="sniff_terms_check_text">Nutzungsbedingungen zustimmen</string>
-  <string name="sniff_terms_msg">Sie müssen den \"Allgemeinen Geschäftsbedingungen\" zustimmen um eine Drittanbietersuche zu verwenden.</string>
+  <string name="sniff_terms_msg">Sie müssen den \"Allgemeinen Geschäftsbedingungen\" zustimmen, um eine Drittanbietersuche zu verwenden.</string>
   <string name="sniff_terms_msg_a">Diese Suchfunktion wird von einem Drittanbieter bereitgestellt. Sie müssen den Nutzungsbedingungen zustimmen, um fortzufahren.</string>
   <string name="sniff_terms_msg_b">Diese Suchfunktion wird von einem Drittanbieter bereitgestellt. Sie müssen den Nutzungsbedingungen zustimmen, um fortzufahren. Wenn Sie den Bedingungen zustimmen, tippen Sie unten auf das Häkchen.</string>
   <string name="sniff_terms_msg_bold">Nutzungsbedingungen</string>
@@ -395,7 +395,7 @@
   <string name="speed_title_result">WLAN-Geschwindigkeit testen</string>
   <string name="start_analysis">Jetzt überprüfen</string>
   <string name="start_download">Download</string>
-  <string name="start_xunlei_speedup_info">Anmelden um Ihre Downloads zu beschleunigen.</string>
+  <string name="start_xunlei_speedup_info">Anmelden, um Ihre Downloads zu beschleunigen.</string>
   <string name="starting_analysis">Details abrufen…</string>
   <string name="storage_internal">Interner Speicher</string>
   <string name="storage_sd_card">SD-Karte</string>
@@ -420,7 +420,7 @@
   <string name="title_homepage_infoflow">Kürzliche Aktualisierungen</string>
   <string name="title_tips">Achtung</string>
   <string name="title_unbind_xunlei">Xunlei-Konto entfernen</string>
-  <string name="toast_only_wifi_download">Verbinden Sie das Telefon mit einem WLAN-Netzwerk, um dieses Objekt herunterzuladen</string>
+  <string name="toast_only_wifi_download">Verbinden Sie das Telefon mit einem WLAN-Netzwerk zum Download dieses Objekts</string>
   <string name="toast_update_data_limit_fail">Einstellen fehlgeschlagen</string>
   <string name="toast_xunlei_engine_open">Xunlei-Beschleuniger ist eingeschaltet</string>
   <string name="torrent_file_error">"Diese Torrentdatei konnte nicht analysiert werden"</string>
@@ -444,7 +444,7 @@
   <string name="vip_expire_today_show_info">Xunlei-Mitgliedschaft abgelaufen.</string>
   <string name="vip_show_info">
     "5 Millionen Mitglieder.
-    Beschleunige Downloads auf allen Ihren Geräten."
+    Beschleunigen Sie Downloads auf allen Ihren Geräten."
   </string>
   <string name="vip_speedup">Geschwindigkeitssteigerung:</string>
   <string name="web_dialog_cancel">Abbrechen</string>
