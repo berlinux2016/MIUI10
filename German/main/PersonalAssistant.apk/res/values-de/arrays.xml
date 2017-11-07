@@ -1,40 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="day_time_space">
-        <item>Mitten in der Nacht</item>
-        <item>Am frühen Morgen</item>
-        <item>Morgen</item>
-        <item>Mittag</item>
-        <item>Nachmittag</item>
-        <item>Abend</item>
-        <item>Nacht</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>Luft%1$s</item>
-        <item>Luft%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s Umweltverschmutzung</item>
-        <item>%1$s Umweltverschmutzung</item>
-        <item>%1$s Umweltverschmutzung</item>
-        <item>%1$s Umweltverschmutzung</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>Ausgezeichnet</item>
-        <item>Gut</item>
-        <item>Milde </item>
-        <item>Moderate</item>
-        <item>Schlechte</item>
-        <item>Kritische</item>
-    </string-array>
-    <string-array name="stock_color_schema">
-        <item>Rot - oben, Grün - unten</item>
-        <item>Grün - oben, Rot - unten</item>
-    </string-array>
+  <string-array name="aqi_title">
+    <item>Ausgezeichnet</item>
+    <item>Gut</item>
+    <item>Milde </item>
+    <item>Moderate</item>
+    <item>Schlechte</item>
+    <item>Kritische</item>
+  </string-array>
+  <string-array name="aqi_title_append">
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s Umweltverschmutzung</item>
+    <item>%1$s Umweltverschmutzung</item>
+    <item>%1$s Umweltverschmutzung</item>
+    <item>%1$s Umweltverschmutzung</item>
+  </string-array>
+  <string-array name="aqi_title_prefix">
+    <item>Luft%1$s</item>
+    <item>Luft%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+  </string-array>
+  <string-array name="day_time_space">
+    <item>Mitten in der Nacht</item>
+    <item>Am frühen Morgen</item>
+    <item>Morgen</item>
+    <item>Mittag</item>
+    <item>Nachmittag</item>
+    <item>Abend</item>
+    <item>Nacht</item>
+  </string-array>
+  <string-array name="detail_font_size">
+    <item>Klein</item>
+    <item>Standart</item>
+    <item>Groß</item>
+  </string-array> 
+  <string-array name="express_status_all">
+    <item>Unterwegs</item>
+    <item>Versendet</item>
+    <item>Zugestellt</item>
+    <item>Unbekannt</item>
+    <item>Erhalten</item>
+    <item>Abgelehnt</item>
+    <item>Rücksendung</item>
+    <item>Unbekannt</item>
+  </string-array>  
+  <string-array name="express_status_detail">
+    <item>Unterwegs</item>
+    <item>Versendet</item>
+  </string-array>  
+  <string-array name="express_watched_app_filter">
+    <item>Speditionsfirma:</item>
+    <item>Frachtbriefnummer:</item>
+    <item>Informationsquellen：</item>
+    <item>Logistik-Informationen：</item>
+  </string-array> 
+  <string-array name="keyword_recommend_unit">
+    <item>要</item>
+    <item>Solange wie</item>
+  </string-array>  
+  <string-array name="map_keyword">
+    <item>Stau</item>
+    <item>Kilometer Stau</item>
+    <item>Stockende Kilometer</item>
+    <item>Bauarbeiten</item>
+  </string-array>  
+  <string-array name="map_title">
+    <item>Schlechte Fahrt</item>
+    <item>Schwere Staus</item>
+    <item>Der Verkehr ist gleichmäßig</item>
+    <item>Kein Stau</item>
+    <item>Ungewöhnlich viel Verkehr</item>
+  </string-array>  
+  <string-array name="payment_chooser">
+    <item>SMS(Speicherkarten, Kreditkartenabrechnung)</item>
+    <item>WeChat Zahlung</item>
+    <item>Alipay Zahlung</item>
+  </string-array>  
+  <string-array name="sms_exclude_category">
+    <item>Rückzahlung</item>
+  </string-array>
+  <string-array name="stock_color_schema">
+    <item>Rot - oben, Grün - unten</item>
+    <item>Grün - oben, Rot - unten</item>
+  </string-array>
 </resources>

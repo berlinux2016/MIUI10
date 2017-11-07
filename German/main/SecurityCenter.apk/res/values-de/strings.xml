@@ -115,6 +115,7 @@
   <string name="alarm_lockscreen_btn">Sperrbildschirm</string>
   <string name="alarm_setting_title">Einstellungen</string>
   <string name="all_address_choose_hint">Alle Nummern in diesem Ort</string>
+  <string name="already_close_gamebooster">Game Speed Booster ist deaktiviert</string>
   <string name="anim_gamebooster_text">Einen Moment…</string>
   <string name="anti_disturb_msg_detail">Schalten Sie alle Benachrichtigungen außer für eingehende Anrufe aus</string>
   <string name="anti_disturb_msg_title">Nicht stören</string>
@@ -210,7 +211,7 @@
   <string name="app_manager_details_electric_title">Akku</string>
   <string name="app_manager_details_storage_title">Speicher</string>
   <string name="app_manager_details_traffic_title">Mobiler Datenverbrauch</string>
-  <string name="app_manager_disable">Keine Verbindung</string>  
+  <string name="app_manager_disable">Keine Verbindung</string>
   <string name="app_manager_disable_dlg_text">Wenn Sie diese App deaktivieren, funktionieren andere Apps möglicherweise nicht mehr wie vorgesehen.</string>
   <string name="app_manager_disable_dlg_title">Systemintegrierte App deaktivieren?</string>
   <string name="app_manager_disable_text">Deaktivieren</string>
@@ -278,12 +279,12 @@
   <string name="app_manager_reset_app_preferences">App-Voreinstellungen zurücksetzen</string>
   <string name="app_manager_reset_app_preferences_button">Apps zurücksetzen</string>
   <string name="app_manager_reset_app_preferences_desc">"Dies setzt alle Einstellungen zurück für:
-  
+
   "<li>Deaktivierte Apps</li>"
   "<li>Deaktivierte Appbenachrichtigungen</li>"
   "<li>Standardanwendungen für Aktionen</li>"
   "<li>Einschränkungen für Hintergrunddaten für Apps</li>"
-  
+
   Sie verlieren keine App-Daten."</string>
   <string name="app_manager_reset_app_preferences_title">App-Voreinstellungen zurücksetzen?</string>
   <string name="app_manager_show_all_apps">Alle Apps anzeigen</string>
@@ -485,6 +486,7 @@
   <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Anrufe: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="boost_done">Erfolgreich optimiert</string>
+  <string name="boost_stop">Speed Booster deaktivieren</string>
   <string name="booster_immediately">Boost</string>
   <string name="booster_suc">Erfolgreich optimiert</string>
   <string name="boostering">Optimiere Geschwindigkeit…</string>
@@ -709,7 +711,9 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="data_usage_warning_body">Datenverbrauchsdetails anzeigen</string>
   <string name="data_usage_warning_body_notify">Tippen, um Details zu sehen</string>
   <string name="data_usage_warning_title">Datenverbrauchswarnung</string>
-  <string name="data_usage_warning_title_notify">Sie gingen über Ihre Datenverbrauchsgrenze</string>
+  <string name="data_usage_warning_title_notify">Datenverbrauchsgrenze überschritten</string>
+  <string name="databooster_tips_message">Schalten Sie diese Option ein, um alle SIM-Karten außer der Datenkarte einzuschränken. Deaktivieren Sie diese Funktion, wenn bei Ihren Spielen Fehler auftreten.</string>
+<string name="databooster_tips_title">Achtung</string>
   <string name="datausage_ignore_app_list_count">Datenverbrauch von %d Apps ignorieren</string>
   <string name="datausage_purchase_backto_ns">Zurück</string>
   <string name="datausage_purchase_banner_title">%s Top Angebot (Xiaomi Exklusiv)</string>
@@ -903,6 +907,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="firewall_wifi_dialog_message">Die installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter deaktiviert ist.</string>
   <string name="five_percent_total_pkg">%s (5%% Ihrer monatlichen Daten)</string>
   <string name="flow_rank_title">Datenverbrauch</string>
+  <string name="forbid_autobright_summary">Die Bildschirmhelligkeit bleibt beim Spielen gleich.</string>
   <string name="forbid_autobright_title">Bildschirmhelligkeit fixieren</string>
   <string name="force_stop_dlg_text">Wenn Sie die Hintergrunddaten beschränken, werden einige Apps und Dienste nicht funktionieren.</string>
   <string name="force_stop_dlg_title">Hintergrunddaten beschränken</string>
@@ -926,6 +931,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="game_ad_recommendation">Jeder spielt</string>
   <string name="game_anti_disturb_msg">Nicht stören</string>
   <string name="game_booster">Game Speed Booster</string>
+  <string name="game_booster_close">Game Speed Booster deaktiviert</string>
   <string name="game_booster_intro">Über Game Speed Booster</string>
   <string name="game_booster_jump_webview">Einen Moment…</string>
   <string name="game_booster_tab_top">Top</string>
@@ -1149,7 +1155,7 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="lockpattern_need_to_unlock_wrong">Nochmals versuchen</string>
   <string name="lockpattern_pattern_confirmed_header">Neues Entsperrmuster</string>
   <string name="lockpattern_pattern_entered_header">Muster hinzugefügt</string>
-  <string name="lockpattern_recording_incorrect_too_short">Verbinden Sie mindestens %d Punkte</string> 
+  <string name="lockpattern_recording_incorrect_too_short">Verbinden Sie mindestens %d Punkte</string>
   <string name="lockpattern_recording_inprogress">Finger wegnehmen, wenn das Muster vollständig ist</string>
   <string name="lockpattern_recording_intro_header">Verbinden Sie mindestens 4 Punkte, um ein Muster zu erstellen</string>
   <string name="lockpattern_retry_button_text">Nochmal zeichnen</string>
@@ -2875,6 +2881,8 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="wlan_booster">WLAN Geschwindigkeitsoptimierung</string>
   <string name="wlan_change_protection_detail">Automatischen Wechsel in ein WLAN Netzwerk bei aktivierten mobilen Daten verhindern</string>
   <string name="wlan_change_protection_title">Netzwerkwechsel verhindern</string>
+  <string name="xunyou_net_booster">Netzwerkgeschwindigkeitsoptimierung</string>
+  <string name="xunyou_net_booster_detail">Xunyou-Dienste für Geschwindigkeitsoptimierung nutzen</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Erwerben Sie mehr</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Mi Datentarif Benachrichtigung</string>
   <string name="xiaomi_traffic_pass_exhausted">Keine mobilen Daten bei Ihrem Mi Datentarif. Zum Datentarif Ihres Betreibers gewechselt.</string>

@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-  <string name="dialog_button_cancel">Abbrechen</string>
-  <string name="dialog_button_ok">OK</string>
-  <string name="dialog_content_limit0">Downloads beschränken</string>
-  <string name="dialog_content_limit_max">Unbeschränkt</string>
-  <string name="dialog_data_limit_button1">Warte auf WLAN-Verbindung</string>
-  <string name="dialog_data_limit_button2">Jetzt herunterladen</string>
-  <string name="dialog_data_limit_msg1">%s werden genutzt um die Datei herunterzuladen. Jetzt herunterladen?</string>
-  <string name="dialog_data_limit_msg3">Limit ändern</string>
-  <string name="dialog_data_limit_title">Datenverbrauchswarnung</string>
-  <string name="dialog_tip_limit">Warnen, wenn Daten größer als %s sind</string>
-  <string name="dialog_tip_limit0">Jedes Mal warnen</string>
-  <string name="dialog_tip_no_limit">"Nicht warnen"</string>
-
   <string name="app_label">Downloadmanager</string>
   <string name="auto_restart_under_wifi">Runterladen der Datei bei aktiver WLAN-Verbindung automatisch starten</string>
   <string name="button_cancel_download">Abbrechen</string>
@@ -63,13 +49,6 @@
   <string name="permdesc_downloadManagerAdvanced">"Ermöglicht der App, auf die erweiterten Funktionen des Downloadmanagers zuzugreifen. Schadprogramme könnten damit Downloads unterbrechen und auf persönliche Informationen zugreifen."</string>
   <string name="permdesc_downloadWithoutNotification">Ermöglicht der App Dateien über den Downloadmanager herunterzuladen, ohne dass dem Nutzer Benachrichtigungen angezeigt werden</string>
   <string name="permdesc_seeAllExternal">Ermöglicht der App, alle Downloads auf die SD-Karte anzuzeigen, unabhängig davon, von welcher App diese heruntergeladen wurden</string>
-  <string name="permlab_accessAllDownloads">Zugriff auf alle Systemdownloads</string>
-  <string name="permlab_downloadCacheNonPurgeable">Speicherplatz im Downloadcache reservieren</string>
-  <string name="permlab_downloadCompletedIntent">Benachrichtigungen zu Ladevorgängen senden</string>
-  <string name="permlab_downloadManager">Auf Downloadmanager zugreifen</string>
-  <string name="permlab_downloadManagerAdvanced">Erweiterte Funktionen des Downloadmanagers</string>
-  <string name="permlab_downloadWithoutNotification">Dateien ohne Benachrichtigung herunterladen</string>
-  <string name="permlab_seeAllExternal">Alle Downloads im USB-Speicher anz.</string>
   <string name="privacy_notif_content">Berühren, um Details anzuzeigen</string>
   <string name="privacy_notif_title">Xunlei-Downloadbeschleuniger ist an</string>
   <string name="privacy_tip_cancel">Abbrechen</string>
@@ -78,12 +57,21 @@
   <string name="privacy_tip_title">Benutze Xunlei-Beschleuniger?</string>
   <string name="recommended_file_size_download_in_mobile">%s des mobilen Datenvolumens verwenden um diese Datei herunterzuladen?</string>
   <string name="recommended_no_file_size_download_in_mobile">Mobile Datenverbindung zum Herunterladen dieser Datei verwenden?</string>
+  <string name="permlab_accessAllDownloads">Zugriff auf alle Systemdownloads</string>
+  <string name="permlab_downloadCacheNonPurgeable">Speicherplatz im Downloadcache reservieren</string>
+  <string name="permlab_downloadCompletedIntent">Benachrichtigungen zu Ladevorgängen senden</string>
+  <string name="permlab_downloadManager">Auf Downloadmanager zugreifen</string>
+  <string name="permlab_downloadManagerAdvanced">Erweiterte Funktionen des Downloadmanagers</string>
+  <string name="permlab_downloadWithoutNotification">Dateien ohne Benachrichtigung herunterladen</string>
+  <string name="permlab_seeAllExternal">Alle Downloads im USB-Speicher anz.</string>
+  <string name="permlab_accessAllDownloads">Zugriff auf alle Systemdownloads</string>
+  <string name="permlab_downloadCacheNonPurgeable">Speicherplatz im Downloadcache reservieren</string>
+  <string name="permlab_downloadCompletedIntent">Benachrichtigungen zu Ladevorgängen senden</string>
+  <string name="permlab_downloadManager">Auf Downloadmanager zugreifen</string>
+  <string name="permlab_downloadManagerAdvanced">Erweiterte Funktionen des Downloadmanagers</string>
+  <string name="permlab_downloadWithoutNotification">Dateien ohne Benachrichtigung herunterladen</string>
+  <string name="permlab_seeAllExternal">Alle Downloads im USB-Speicher anz.</string>
   <string name="root_downloads">Downloads</string>
-  <string name="task_already_exist">Bereits vorhanden</string>
-  <string name="warning_tip_cancel">Download</string>
-  <string name="warning_tip_content">"Sie sind nicht mehr mit einem WLAN verbunden. Das Fertigstellen dieses Downloads wird Ihren mobilen Datenverbrauch merklich erhöhen."</string>
-  <string name="warning_tip_ok">Pause</string>
-  <string name="warning_tip_title">Datenverbrauchswarnung</string>
   <string name="wifi_recommended_body" formatted="false">
     "Der Download von %s kann die Akkulaufzeit verkürzen/die mobile Datenverbindung überlasten. Je nach Vertrag können zusätzliche Kosten entstehen.
 

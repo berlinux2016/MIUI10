@@ -1,39 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="time_minute_ago">
-        <item quantity="other">%d Minuten her</item>
-        <item quantity="one">%d Minute her</item>
-    </plurals>
-    <plurals name="time_hour_ago">
-        <item quantity="other">%d Stunden her</item>
-        <item quantity="one">%d Stunde her</item>
-    </plurals>
-    <plurals name="main_delete_desc">
-        <item quantity="other">%s Elemente aus den Favoriten entfernen?</item>
-        <item quantity="one">%s Element aus den Favoriten entfernen?</item>
-    </plurals>
-    <plurals name="main_mark_select_num">
-        <item quantity="other">%s Elemente ausgewählt</item>
-        <item quantity="one">%s Element ausgewählt</item>
-    </plurals>
-    <plurals name="main_mark_fav_num">
-        <item quantity="other">%s Elemente als unwichtig markiert</item>
-        <item quantity="one">%s Element als unwichtig markiert</item>
-    </plurals>
-    <plurals name="sms_minute_suffix">
-        <item quantity="other">In %d Minuten</item>
-        <item quantity="one">In einer Minute</item>
-    </plurals>
-    <plurals name="sms_hour_suffix">
-        <item quantity="other">In %d Stunden</item>
-        <item quantity="one">In einer Stunde</item>
-    </plurals>
-    <plurals name="sms_title_hours">
-        <item quantity="other">%d Stunden</item>
-        <item quantity="one">%d Stunde</item>
-    </plurals>
-    <plurals name="sms_title_minutes">
-        <item quantity="other">%d Minuten</item>
-        <item quantity="one">%d Minute</item>
-    </plurals>
+  <plurals name="payment_record_menu_select_num">
+    <item quantity="other">%s Elemente ausgewählt</item>
+    <item quantity="one">%s Element ausgewählt</item>
+  </plurals>
+  <plurals name="payment_record_dialog_delete_message">
+    <item quantity="other">%s Elemente von der Rechnung entfernen?</item>
+    <item quantity="one">%s Element von der Rechnung entfernen?</item>
+  </plurals>
+  <plurals name="time_minute_ago">
+    <item quantity="other">%d Minuten her</item>
+    <item quantity="one">%d Minute her</item>
+  </plurals>
+  <plurals name="time_hour_ago">
+    <item quantity="other">%d Stunden her</item>
+    <item quantity="one">%d Stunde her</item>
+  </plurals>
+  <plurals name="main_delete_desc">
+    <item quantity="other">%s Elemente aus den Favoriten entfernen?</item>
+    <item quantity="one">%s Element aus den Favoriten entfernen?</item>
+  </plurals>
+  <plurals name="main_mark_select_num">
+    <item quantity="other">%s Elemente ausgewählt</item>
+    <item quantity="one">%s Element ausgewählt</item>
+  </plurals>
+  <plurals name="main_mark_fav_num">
+    <item quantity="other">%s Elemente als unwichtig markiert</item>
+    <item quantity="one">%s Element als unwichtig markiert</item>
+  </plurals>
+  <plurals name="sms_minute_suffix">
+    <item quantity="other">In %d Minuten</item>
+    <item quantity="one">In einer Minute</item>
+  </plurals>
+  <plurals name="sms_hour_suffix">
+    <item quantity="other">In %d Stunden</item>
+    <item quantity="one">In einer Stunde</item>
+  </plurals>
+  <plurals name="sms_day_suffix">
+    <item quantity="other">In %d Tagen</item>
+    <item quantity="one">In einem day</item>
+  </plurals>
+  <plurals name="sms_title_hours">
+    <item quantity="other">%d Stunden</item>
+    <item quantity="one">%d Stunde</item>
+  </plurals>
+  <plurals name="sms_title_minutes">
+    <item quantity="other">%d Minuten</item>
+    <item quantity="one">%d Minute</item>
+  </plurals>
+  <plurals name="mins_ago">
+    <item quantity="other">%1$dmin her</item>
+  </plurals>
+  <plurals name="hours_ago">
+    <item quantity="other">%1$dhr her</item>
+  </plurals>
+  <plurals name="days_ago">
+    <item quantity="other">%1$dd her</item>
+  </plurals>
+  <plurals name="steps">
+    <item quantity="other">%d|Schritten</item>
+    <item quantity="zero">%d|Schritten</item>
+    <item quantity="one">%d|Schritt</item>
+  </plurals>
+  <plurals name="assistant_day">
+    <item quantity="other">In %d Tagen</item>
+    <item quantity="one">In einem Tag</item>
+  </plurals>
 </resources>
