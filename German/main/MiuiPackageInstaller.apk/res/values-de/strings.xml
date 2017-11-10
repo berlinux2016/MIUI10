@@ -18,7 +18,6 @@
   <string name="miui_virus_scanning_2">Scanne.. </string>
   <string name="miui_virus_scanning_3">Scanne...</string>
   <string name="unlike">Nein Danke</string>
-
   <string name="Parse_error_dlg_text">Beim Parsen des Pakets ist ein Problem aufgetreten</string>
   <string name="Parse_error_dlg_title">Parsingfehler</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
@@ -155,7 +154,7 @@
   <string name="btn_text_security_install">Ersetzen mit sicherer Version</string>
   <string name="bugreport_in_power">Verknüpfung Fehler melden</string>
   <string name="bugreport_in_power_summary">Zeige im Power-Menü einen Fehler-melden-Knopf</string>
-     <string name="button_convert_fbe">Löschen und Konvertieren</string>
+  <string name="button_convert_fbe">Löschen und Konvertieren</string>
   <string name="button_text_cancel">Abbrechen</string>
   <string name="button_text_delete">Löschen</string>
   <string name="button_text_delete_timer">Löschen (%d)</string>
@@ -233,28 +232,28 @@
     Alle Ihre bisherigen Benutzerdaten werden gespeichert."
   </string>
   <string name="done">Fertig</string>
-  <string name="enable_adb">USB debugging</string>
-  <string name="enable_adb_summary">Debug mode when USB is connected</string>
+  <string name="enable_adb">USB-Debugging</string>
+  <string name="enable_adb_summary">Debug-Modus, wenn USB angeschlossen ist</string>
   <string name="enable_freeform_support">Enable freeform windows</string>
   <string name="enable_freeform_support_summary">Enable support for experimental freeform windows.</string>
-  <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
-  <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
-  <string name="enable_terminal_title">Local terminal</string>
+  <string name="enable_opengl_traces_title">OpenGL-Traces aktivieren</string>
+  <string name="enable_terminal_summary">Terminalanwendung aktivieren, die lokalen Shell-Zugriff bietet</string>
+  <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_webview_multiprocess">Multiprocess WebView</string>
   <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
   <string name="enabled_by_admin">Enabled by administrator</string>
   <string name="force_allow_on_external">Force allow apps on external</string>
-  <string name="force_allow_on_external_summary">Makes any app eligible to be written to external storage, regardless of manifest values</string>
-  <string name="force_hw_ui">Force GPU rendering</string>
-  <string name="force_hw_ui_summary">Force use of GPU for 2d drawing</string>
-  <string name="force_msaa">Force 4x MSAA</string>
-  <string name="force_msaa_summary">Enable 4x MSAA in OpenGL ES 2.0 apps</string>
-  <string name="force_resizable_activities">Force activities to be resizable</string>
-  <string name="force_resizable_activities_summary">Make all activities resizable for multi-window, regardless of manifest values.</string>
-  <string name="force_rtl_layout_all_locales">Force RTL layout direction</string>
-  <string name="force_rtl_layout_all_locales_summary">Force screen layout direction to RTL for all locales</string>
-  <string name="generic_disabled">DISABLED</string>
-  <string name="generic_enabled">ENABLED</string>
+  <string name="force_allow_on_external_summary">Macht jede App unabhängig von den Manifestwerten für externe Speicherplätze schreibbar</string>
+  <string name="force_hw_ui">GPU-Rendering erzwingen</string>
+  <string name="force_hw_ui_summary">Erzwungene Verwendung des Grafikprozessors für 2D-Zeichnung</string>
+  <string name="force_msaa">Erzwinge 4x MSAA</string>
+  <string name="force_msaa_summary">Aktiviere 4x MSAA in OpenGL ES 2.0 Apps</string>
+  <string name="force_resizable_activities">Erzwingen der Änderung der Größe von Aktivitäten</string>
+  <string name="force_resizable_activities_summary">Ändern Sie die Größe aller Aktivitäten für mehrere Fenster, unabhängig von den Manifestwerten.</string>
+  <string name="force_rtl_layout_all_locales">RTL-Layoutrichtung erzwingen</string>
+  <string name="force_rtl_layout_all_locales_summary">Erzwingen der Bildschirm-Layout-Richtung zu RTL für alle Gebietsschemen</string>
+  <string name="generic_disabled">DEAKTIVIERT</string>
+  <string name="generic_enabled">AKTIVIERT</string>
   <string name="grant_confirm_question">Möchten Sie die folgenden Berechtigungen gewähren? Diese ermöglichen den Zugriff auf Folgendes:</string>
   <string name="grant_dialog_button_allow">Zulassen</string>
   <string name="grant_dialog_button_deny">Verweigern</string>
@@ -597,7 +596,7 @@
   <string name="tts_status_requires_network">%1$s erfordert Netzwerkverbindung</string>
   <string name="tts_status_title">Standardsprachstatus</string>
   <string name="uninstall_activity_text">%1$s gehört zu folgender App:</string>
-  <string name="uninstall_all_blocked_profile_owner">Diese App wird für einzelne Benutzer benötigt und wurde für andere Benutzer deinstalliert</string>
+  <string name="uninstall_all_blocked_profile_owner">Diese App wird für einzelne Benützer benötigt und wurde für andere Benutzer deinstalliert</string>
   <string name="uninstall_application_text">Möchten Sie diese App deinstallieren?</string>
   <string name="uninstall_application_text_all_users">Möchten Sie diese App für &lt;b&gt;all&lt;/b&gt; Benutzer entfernen? Die App und alle zugehörigen Daten werden für &lt;b&gt;alle&lt;/b&gt; Benutzer des Geräts entfernt.</string>
   <string name="uninstall_application_text_user">Möchten Sie diese App für den Benutzer %1$s deinstallieren?</string>
