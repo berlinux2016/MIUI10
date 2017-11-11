@@ -58,7 +58,7 @@
   <string name="aminus">A-</string>
   <string name="animator_duration_scale_title">Animationsgeschwindigkeit</string>
   <string name="aplus">A+</string>
-  <string name="apn_settings_not_available">Zugangspunktname-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
+  <string name="apn_settings_not_available">Zugangspunkt-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="app_label">Notfallinformationen</string>
   <string name="app_process_limit_title">Prozessbegrenzung im Hintergrund</string>
   <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
@@ -86,7 +86,7 @@
   <string name="bluetooth_connected_no_map">Verbunden (kein Nachrichtenzugriff)</string>
   <string name="bluetooth_connecting">Verbinden…</string>
   <string name="bluetooth_disable_absolute_volume">Absolute Lautstärke deaktivieren</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Deaktiviert die absolute BT-Lautstärke bei Problemen mit der Lautstärke bei Remote-Geräten wie z.B. unzulässige Lautstärke oder mangelnder Kontrolle.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Deaktiviert die absolute BT-Lautstärke bei Problemen mit der Lautstärke bei Remote-Geräten wie z.B. unzulässige Lautstärke oder mangelnde Kontrolle.</string>
   <string name="bluetooth_disconnected">Getrennt</string>
   <string name="bluetooth_disconnecting">Trennen…</string>
   <string name="bluetooth_dun_profile_summary_connected">Mit DUN-Server verbunden</string>
@@ -104,8 +104,8 @@
   <string name="bluetooth_pairing_accept">Gekoppelt</string>
   <string name="bluetooth_pairing_accept_all_caps">GEKOPPELT</string>
   <string name="bluetooth_pairing_decline">Beenden</string>
-  <string name="bluetooth_pairing_device_down_error_message">"Kann nicht mit %1$s kommuniziern."</string>
-  <string name="bluetooth_pairing_error_message">"Konnte mit %1$s nicht."</string>
+  <string name="bluetooth_pairing_device_down_error_message">"Kann nicht mit %1$s kommunizieren."</string>
+  <string name="bluetooth_pairing_error_message">"Konnte mit %1$s nicht kommunizieren."</string>
   <string name="bluetooth_pairing_pin_error_message">"Kann nicht mit dem %1$s verbunden werden, weil die PIN oder der Hauptschlüssel falsch sind."</string>
   <string name="bluetooth_pairing_rejected_error_message">Koppeln wird von %1$s abgelehnt.</string>
   <string name="bluetooth_pairing_will_share_phonebook">Das Koppeln ermöglicht den Zugriff auf Ihre Kontakte und die Anrufliste, wenn eine Verbindung hergestellt wurde.</string>
@@ -230,7 +230,7 @@
   <string name="launch_defaults_none">Keine Standardeinstellungen gesetzt</string>
   <string name="launch_defaults_some">Einige Standardwerte gesetzt</string>
   <string name="legacy_dhcp_client_summary">Verwenden Sie den DHCP-Client von Lollipop anstelle des neuen Android DHCP-Clients.</string>
-  <string name="local_backup_password_summary_change">Tippen Sie auf Ändern oder entfernen Sie das Passwort für Desktop-Voll-Sicherung</string>
+  <string name="local_backup_password_summary_change">Tippen Sie auf Ändern oder entfernen Sie das Passwort für Desktop-Vollsicherung</string>
   <string name="local_backup_password_summary_none">Vollständige Desktop-Sicherungen sind derzeit nicht geschützt</string>
   <string name="local_backup_password_title">Kennwort für die Desktop-Sicherung</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Neues Passwort und Bestätigung stimmen nicht überein</string>
@@ -315,7 +315,7 @@
   <string name="show_hw_layers_updates">Hardware-Layer-Updates anzeigen</string>
   <string name="show_hw_layers_updates_summary">Flash-Hardware-Layer grün beim Update</string>
   <string name="show_hw_screen_updates">Zeige GPU-Anzeigeupdates</string>
-  <string name="show_hw_screen_updates_summary">Blitz innerhalb des Fensters wenn die Darstellung über die GPU erfolgt</string>
+  <string name="show_hw_screen_updates_summary">Blitz innerhalb des Fensters, wenn die Darstellung über die GPU erfolgt</string>
   <string name="show_non_rect_clip">Debuggen von nicht rechteckigen Clip-Operationen</string>
   <string name="show_screen_updates">Bildschirmupdates anzeigen</string>
   <string name="show_screen_updates_summary">Blitzen in der gesamten Fensteroberfläche bei Aktualisierung</string>
@@ -351,7 +351,7 @@
   <string name="tts_general_section_title">Allgemein</string>
   <string name="tts_install_data_summary">Installation der für die Sprachsynthese erforderlichen Sprachdaten</string>
   <string name="tts_install_data_title">Sprache installieren</string>
-  <string name="tts_lang_not_selected">keine Sprache ausgewählt</string>
+  <string name="tts_lang_not_selected">Keine Sprache ausgewählt</string>
   <string name="tts_lang_use_system">Systemsprache verwenden</string>
   <string name="tts_play_example_summary">Spielen Sie eine kurze Demonstration der Sprachsynthese ab</string>
   <string name="tts_play_example_title">Beispiel anhören</string>
@@ -385,7 +385,7 @@
   <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="wait_for_debugger">Warten auf Debugger</string>
   <string name="wait_for_debugger_summary">Debugged-Anwendung wartet darauf, dass der Debugger angehängt wird, bevor er ausgeführt wird</string>
-  <string name="wifi_aggressive_handover">Aggressive WLAN-zu-Datenübergabe</string>
+  <string name="wifi_aggressive_handover">Aggressive WLAN-zu-Daten-Übergabe</string>
   <string name="wifi_aggressive_handover_summary">Wenn aktiviert, ist WLAN aggressiver bei der Übergabe der Datenverbindung an Daten, wenn das WLAN-Signal niedrig ist.</string>
   <string name="wifi_allow_scan_with_traffic">WLAN-Roam-Scans immer erlauben</string>
   <string name="wifi_allow_scan_with_traffic_summary">Erlauben/Deaktivieren von WLAN-Roam Scans basierend auf der Menge des an der Schnittstelle vorhandenen Datenverkehrs</string>
