@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="default_folder_name">Ordner nicht benannt</string>
-  <string name="note_description_content">Die Notiz-App ist eine großartiges Tool um Ihre Ideen zu notieren. Sie kann Sie Erinnern und synchronisiert Ihre Notizen in die MI-Cloud. Somit haben Sie von jedem Gerät und jederzeit Zugriff auf Ihre Notizen. Stellen Sie sicher, das Sie ohne diese Funktionen weiterarbeiten können, bevor Sie die App löschen.</string>
+  <string name="note_description_content">Die Notiz-App ist ein großartiges Tool, um Ihre Ideen zu notieren. Sie kann Sie erinnern und synchronisiert Ihre Notizen in die MI-Cloud. Somit haben Sie von jedem Gerät und jederzeit Zugriff auf Ihre Notizen. Stellen Sie sicher, das Sie ohne diese Funktionen weiterarbeiten können, bevor Sie die App löschen.</string>
   <string name="note_description_title">Über Notizen</string>
   <string name="refuse_to_share_as_pic_because_of_content">Diese Notiz ist zu groß zum Teilen</string>
   <string name="refuse_to_share_as_pic_because_of_loading">Bitte warten, bis die Notiz geladen ist</string>
@@ -21,7 +21,7 @@
   <string name="alert_message_delete_folders_notes">Möchten Sie die %1$s ausgewählten Ordner und %2$s Notizen wirklich löschen?</string>
   <string name="alert_message_delete_note">Diese Notiz löschen?</string>
   <string name="alert_message_edit_anyway">Diese Notiz enthält nicht unterstützte Inhalte. Bearbeiten kann zu Datenverlust führen.</string>
-  <string name="alert_message_restore">Diese Notiz konnte nicht geöffnet werden. Sie muss wiederhergestellt werden, um deren Inhalt bearbeiten zu können.</string>
+  <string name="alert_message_restore">Diese Notiz konnte nicht geöffnet werden. Sie muss wiederhergestellt werden, um den Inhalt bearbeiten zu können.</string>
   <string name="alert_title_delete">Notiz löschen?</string>
   <string name="alert_title_edit_anyway">Bearbeiten kann zu Datenverlust führen. Wirklich bearbeiten?</string>
   <string name="alert_title_hidden_note">Eine versteckte Notizerinnerung wurde erhalten</string>
@@ -38,7 +38,7 @@
   <string name="call_record_folder_name">Anrufnotizen</string>
   <string name="cancel_alarm_description">Alarm beenden</string>
   <string name="cloud_trash_bin_title">Notizen auf Mi Cloud löschen</string>
-  <string name="cta_reminder">Diese App muss eine Verbindung zum Internet herstellen, um Notizen an Mi Cloud zu sichern sowie die Kontakte zu lesen, um die Notizen zu markieren, die Sie während der Anrufe entgegennehmen.</string>
+  <string name="cta_reminder">Diese App muss eine Verbindung zum Internet herstellen, um Notizen auf Mi Cloud zu sichern sowie die Kontakte zu lesen, um die Notizen zu markieren, die Sie während der Anrufe entgegennehmen.</string>
   <string name="db_downgrade_clear_button">App-Daten löschen</string>
   <string name="db_downgrade_clear_date_reminder">Wenn Sie auf eine andere MIUI Version wechseln, müssen Sie die Appdaten von Notizen löschen. Bevor Sie das tun, vergewissern Sie sich, dass Sie Ihre Notizen auf Mi Cloud gesichert haben.</string>
   <string name="delete_folder_dialog_tile">Ordner löschen</string>
@@ -76,7 +76,7 @@
   <string name="enable_sync">Synchronisieren</string>
   <string name="enable_sync_desc">Notizen mit dem Mi Konto synchronisieren (%1$s)?</string>
   <string name="error_contact_not_exist">Kontakt nicht gefunden</string>
-  <string name="error_hide_empty_note">Eine Leere Notiz kann nicht versteckt werden</string>
+  <string name="error_hide_empty_note">Eine leere Notiz kann nicht versteckt werden</string>
   <string name="error_note_empty_for_clock">Für eine leere Notiz kann keine Uhrzeit festgelegt werden</string>
   <string name="error_note_empty_for_send_to_desktop">Eine leere Notiz kann nicht an den Desktop gesendet werden</string>
   <string name="error_note_not_exist">Notiz nicht vorhanden</string>
@@ -148,7 +148,7 @@
   <string name="pref_title_skip_confirm_for_quick_delete">Schnell löschen</string>
   <string name="privacy_hint">Privatsphäre</string>
   <string name="privacy_notes_fragment_title">Versteckte Notizen</string>
-  <string name="recover_notes_hint">Abnormale Notzendaten wurden entdeckt, versuchen Sie diese von i.mi.com wiederherzustellen</string>
+  <string name="recover_notes_hint">Ein Fehler ist aufgetreten, stellen Sie Ihre Notizen von i.mi.com wieder her</string>
   <string name="redo">Wiederholen</string>
   <string name="rename_folder_dialog_tile">Ordner umbenennen</string>
   <string name="root_folder_name">Schnellnotizen</string>
@@ -176,15 +176,15 @@
   <string name="sns_desc_preview_wechat">WeChat Nachrichtenvorschau</string>
   <string name="sns_desc_preview_weibo">Weibo Nachrichtenvorschau</string>
   <string name="sns_footer_text">Mit MIUI 7 erstellt</string>
-  <string name="sns_hint_content">Was denken Sie?</string>
+  <string name="sns_hint_content">Nachricht eingeben</string>
   <string name="sns_hint_title">Betreff (Optional)</string>
   <string name="sns_message_building">Post wird erstellt…</string>
-  <string name="sns_message_disconnect">"Netzwerkverbindungsfehler. Überprüfen Sie Ihre Verbindung und versuchen Sie es erneut."</string>
+  <string name="sns_message_disconnect">"Netzwerkverbindungsfehler. Prüfen Sie Ihre Verbindung und versuchen Sie es erneut."</string>
   <string name="sns_title_edit">Titel bearbeiten</string>
   <string name="sns_title_send">Nachricht senden</string>
-  <string name="sns_toast_empty">Leerer Post kann nicht gesendet werden</string>
+  <string name="sns_toast_empty">Leere Nachricht kann nicht gesendet werden</string>
   <string name="sns_toast_over_limit">Bei Überlänge des Textes als Bild senden</string>
-  <string name="sync_tips">Antippen um Notizen mit Mi Cloud zu synchronisieren</string>
+  <string name="sync_tips">Tippen, um Notizen mit Mi Cloud zu synchronisieren</string>
   <string name="theme_blue_description">Blau</string>
   <string name="theme_green_description">Grün</string>
   <string name="theme_red_description">Rot</string>
@@ -226,7 +226,7 @@
   <string name="toolbar_theme_description">Wählen Sie ein Thema</string>
   <string name="toolbar_undo_description">Rückgängig</string>
   <string name="trash_folder_name">Papierkorb</string>
-  <string name="trash_folder_reminder">Gelöschte Notizen, werden in 30 Tagen dauerhaft gelöscht.</string>
+  <string name="trash_folder_reminder">Gelöschte Notizen werden in 30 Tagen dauerhaft gelöscht.</string>
   <string name="undo">Rückgängig</string>
   <string name="unknown_source">Unbekannte Quelle</string>
   <string name="welcome_note_for_cm">
@@ -235,7 +235,7 @@
     - Erinnerungen festlegen
   </string>
   <string name="widget_content_loading">Einen Moment…</string>
-  <string name="widget_havenot_content">"Konnte Notiz nicht finden. Berühren um eine Notiz zu erstellen. Zum Ändern der Größe, berühren &amp; und an einer Ecke ziehen."</string>
+  <string name="widget_havenot_content">"Konnte Notiz nicht finden. Berühren, um eine Notiz zu erstellen. Zum Ändern der Größe, berühren &amp; und an einer Ecke ziehen."</string>
   <string name="widget_under_privacy_mode">"Notizen können im Gastmodus nicht angezeigt werden"</string>
   <string name="widget_under_visit_mode">Notizen werden im Gastmodus nicht angezeigt</string>
 </resources>
