@@ -172,8 +172,8 @@
   <string name="alipay_mini_str_null"/>
   <string name="alipay_more">Mehr</string>
   <string name="alipay_msp_bl_bt_shutdown">Bluetooth ist deaktiviert. Funktion kann nicht verwendet werden</string>
-  <string name="alipay_msp_bl_timeout">Fehler bei der Bluetoothverbindung. Bluetoothgeräte können für geheimes bezahlen nicht verwendet werden.</string>
-  <string name="alipay_msp_bl_verify_error">Überprüfung des Gerätes fehlgeschlagen. Zahlungspasswort eingeben zum bezahlen.</string>
+  <string name="alipay_msp_bl_timeout">Fehler bei der Bluetoothverbindung. Bluetoothgeräte können für geheimes Bezahlen nicht verwendet werden.</string>
+  <string name="alipay_msp_bl_verify_error">Überprüfung des Gerätes fehlgeschlagen. Zahlungspasswort eingeben zum Bezahlen.</string>
   <string name="alipay_net_error">Keine Verbindung zum Server. Erneut versuchen?</string>
   <string name="alipay_newUserRegister">Neues Konto</string>
   <string name="alipay_password">Passwort</string>
@@ -197,8 +197,8 @@
   <string name="alipay_reg_phone_hint">Telefonnummer eingeben</string>
   <string name="alipay_reg_phone_protocol">Bei der Registrierung stimmen Sie den Nutzungsbedingungen von $ALipay und $Taobao zu</string>
   <string name="alipay_reg_pwd_hint">Passwort eingeben</string>
-  <string name="alipay_reg_pwd_sub_title">6-20 Zeichen lang (nicht nur Nummern)</string>
-  <string name="alipay_reg_pwd_supply">6-20 (nicht nur Nummern)</string>
+  <string name="alipay_reg_pwd_sub_title">6-20 Zeichen lang (nicht nur Ziffern)</string>
+  <string name="alipay_reg_pwd_supply">6-20 (nicht nur Ziffern)</string>
   <string name="alipay_reg_pwd_title">Passwort festlegen</string>
   <string name="alipay_reg_read_sms_doing">Bitte waren, wir verifizieren Ihre Telefonnummer</string>
   <string name="alipay_reg_read_sms_title">Telefonnummer verifizieren</string>
@@ -209,7 +209,7 @@
   <string name="alipay_register_password_error">Das Passwort muss</string>
   <string name="alipay_reigsterSuccess">Erfolgreich registriert</string>
   <string name="alipay_reinput">Erneut eingeben</string>
-  <string name="alipay_risk_account_dialog_tip">Das Konto kann sich nicht vorübergehend anmelden, können Sie dies über die folgenden Möglichkeiten tun</string>
+  <string name="alipay_risk_account_dialog_tip">Das Konto kann sich vorübergehend nicht anmelden, können Sie dies über die folgenden Möglichkeiten tun</string>
   <string name="alipay_risk_process_cancel">Abbrechen</string>
   <string name="alipay_risk_process_change_account">Konto wechseln</string>
   <string name="alipay_risk_process_verify_by_alipay">Telefon von Alipay verifizieren lassen</string>
@@ -240,7 +240,7 @@
   <string name="alipay_text_phone_register">Telefonnummer registrieren</string>
   <string name="alipay_title_back">Zurück</string>
   <string name="alipay_tryAgain">Aktualisieren</string>
-  <string name="alipay_use_follow_service">Folgende Dienste können direkt verwendete werden</string>
+  <string name="alipay_use_follow_service">Folgende Dienste können direkt verwendet werden</string>
   <string name="alipay_used_other_account">Anderes Konto anmelden</string>
   <string name="alipay_verify_identity_fail">Verifikation fehlgeschlagen. Erneut versuchen</string>
   <string name="alipay_wait">Einen Moment</string>
@@ -291,8 +291,8 @@
   <string name="ball_recent_no_data">Keine Informationen über die kommenden Spiele.</string>
   <string name="beijing">Peking</string>
   <string name="bicycle">Fahrrad</string>
-  <string name="bl_open_failed">Auf Armband kann nicht zugegriffen werden. Auf das andere Armband tippen um es erneut zu versuchen</string>
-  <string name="bl_open_failed_exit">Auf Armband kann nicht zugegriffen werden.</string>
+  <string name="bl_open_failed">Auf das Armband kann nicht zugegriffen werden. Auf das andere Armband tippen, um es erneut zu versuchen</string>
+  <string name="bl_open_failed_exit">Auf das Armband kann nicht zugegriffen werden.</string>
   <string name="bl_validate_failed_change_pwd">Kein Armband gefunden. Sie werden zur Passworteingabe weitergeleitet</string>
   <string name="bluetooth_open_ok">Bluetooth erfolgreich geöffnet</string>
   <string name="book_assistant">Reise buchen</string>
@@ -325,7 +325,7 @@
   <string name="card_bookall_train_started">Übrige Stationen</string>
   <string name="card_detail">Reiseführer</string>
   <string name="card_example">Karte</string>
-  <string name="card_hint_noteboard">Hier tippen um eine Notiz zu machen.</string>
+  <string name="card_hint_noteboard">Hier tippen, um eine Notiz zu machen.</string>
   <string name="card_menu_edit">Bearbeiten</string>
   <string name="card_menu_setting">Einstellung</string>
   <string name="card_note_finish">Fertig</string>
@@ -352,7 +352,7 @@
   <string name="category_other">Andere</string>
   <string name="category_red_packet">Rote Pakete</string>
   <string name="category_remain">Verbleibend</string>
-  <string name="category_remittance">Transferred</string>
+  <string name="category_remittance">Übertragen</string>
   <string name="category_shopping">Einkaufen</string>
   <string name="category_spending">Zahlungen</string>
   <string name="category_telephone_charge">Kommunikation</string>
@@ -420,7 +420,7 @@
   <string name="didi_home">Zuhause</string>
   <string name="didi_input">Auswählen</string>
   <string name="didi_local">Startpunkt</string>
-  <string name="didi_not_installed">DiDi installieren um diese Karte nutzen zu können</string>
+  <string name="didi_not_installed">DiDi installieren, um diese Karte nutzen zu können</string>
   <string name="didi_other_dest">Anderes Ziel</string>
   <string name="didi_price">Fahrpreis</string>
   <string name="didi_price_unit">EUR</string>
@@ -431,7 +431,7 @@
   <string name="drive">Fahren</string>
   <string name="dummy_tip">Bitte legen Sie die Vorderseite der Bankkarte in diesen Bereich und versuchen Sie, die Kanten auszurichten.</string>
   <string name="duokan_open">Karte für Duokan hinzufügen</string>
-  <string name="duokan_setting_brief">An der Stelle weiterlesen an der Sie aufgehört haben.</string>
+  <string name="duokan_setting_brief">An der Stelle weiterlesen, an der Sie aufgehört haben.</string>
   <string name="edit_amount_hint">Betrag eingeben</string>
   <string name="edit_category_dialog_title">Zahlungsart auswählen</string>
   <string name="edit_comment_hint">Anmerkung</string>
@@ -439,7 +439,7 @@
   <string name="edit_record_category">Kategorie: </string>
   <string name="edit_record_label">Details</string>
   <string name="empty_card_btn">App öffnen</string>
-  <string name="empty_card_tip">Sieht so aus, als wären Sie nicht angemeldet oder haben diese Karte noch nicht eingerichtet.</string>
+  <string name="empty_card_tip">Sieht so aus, als sind Sie nicht angemeldet oder haben diese Karte noch nicht eingerichtet.</string>
   <string name="empty_card_title">Keine Daten</string>
   <string name="empty_duokan_card_btn">Buchungen anzeigen</string>
   <string name="empty_duokan_card_tip">Zur Zeit lesen Sie nichts</string>
@@ -707,7 +707,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="flybird_baoxian_close_text">Sicherheit für offene Konten, genießen Sie 1 Million Versicherungen</string>
   <string name="flybird_baoxian_open_text">Kontosicherheitsschutz</string>
   <string name="flybird_baoxian_open_title">Kontosicherheit</string>
-  <string name="flybird_baoxian_open_webview_title">##保单详情</string>
+  <string name="flybird_baoxian_open_webview_title">##保单详情Richtliniendetails</string>
   <string name="flybird_baoxian_webview_title">Kontosicherheit</string>
   <string name="flybird_bl_tips">Bitte verifizieren Sie das Armband</string>
   <string name="flybird_bl_val_failed">Armbandprüfung fehlgeschlagen, überweisen Sie mit Passwort</string>
@@ -741,7 +741,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="flybird_setting_find_pwd">Passwort vergessen</string>
   <string name="flybird_setting_label">Zahlungseinstellungen</string>
   <string name="flybird_setting_nopwdcheck_label">Der folgende ##Szenariobetrag&lt;= %s，Sie müssen kein Zahlungspasswort eingeben</string>
-  <string name="flybird_setting_nopwduncheck_label">Nach dem Öffnen eines kleinen Geheimnisses, in den folgenden Diensten mit Handys für kleine Zahlungen, ohne dass Sie das Zahlungspasswort eingeben müssen. (Ausgenommen Alipay-Client Zahlungscode und ##Sound Wave Payment)</string>
+  <string name="flybird_setting_nopwduncheck_label">##Nach dem Öffnen eines kleinen Geheimnisses, in den folgenden Diensten mit Handys für kleine Zahlungen, ohne dass Sie das Zahlungspasswort eingeben müssen. (Ausgenommen Alipay-Client Zahlungscode und ##Sound Wave Payment)</string>
   <string name="flybird_setting_thirdpard_nopwd_label">Drittanbieterservice</string>
   <string name="flybird_setting_thirdpart_label">Automatische Rückbuchung</string>
   <string name="flybird_setting_use_default">Standard</string>
@@ -802,7 +802,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="greeting_alarm_desc">Der Alarm wird morgen um %1$s klingeln</string>
   <string name="greeting_alarm_desc_with_duration">Der Alarm klingelt morgen um %1$s. Gehen Sie jetzt schlafen, um %2$s Schlaf zu bekommen.</string>
   <string name="greeting_birth_desc">Heute hat %1$s Geburtstag</string>
-  <string name="greeting_news_morning">Das ist passiert während Sie geschlafen haben</string>
+  <string name="greeting_news_morning">Das ist passiert, während Sie geschlafen haben</string>
   <string name="greeting_news_night">Heute war ein anstrengender Tag voller Ereignisse</string>
   <string name="greeting_no_alarm">Keine Alarme geplant, schlafen Sie ruhig.!</string>
   <string name="greeting_no_schedule">Keine Termine für heute</string>
@@ -929,9 +929,9 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="mini_already_download">Heruntergeladen</string>
   <string name="mini_app_error">Überlastet, versuchen Sie es später noch einmal.</string>
   <string name="mini_auth_bracelet">Armband verifizieren</string>
-  <string name="mini_auth_service_down_tips">Alipay Sicherheits-Plug-ins sind blockiert. Stellen Sie bitte sicher, das auf dem Telefon folgende Software nicht installiert ist, wie: z.B. Green Guardian, LBE Security Master, Guard 360 Geek Edition</string>
+  <string name="mini_auth_service_down_tips">Alipay Sicherheits-Plugins sind blockiert. Stellen Sie bitte sicher, dass auf dem Telefon folgende Software nicht installiert ist, wie: z.B. Green Guardian, LBE Security Master, Guard 360 Geek Edition</string>
   <string name="mini_back">Zurück</string>
-  <string name="mini_bl_open_failed">Das Armband konnte nicht geöffnet werden, Sie können auf das andere Armband klicken und es erneut versuchen</string>
+  <string name="mini_bl_open_failed">Armband konnte nicht geöffnet werden, Sie können auf das andere Armband klicken und es erneut versuchen</string>
   <string name="mini_bl_open_failed_exit">Armband konnte nicht geöffnet werden</string>
   <string name="mini_bl_setting">Einrichten</string>
   <!-- To Translate start -->
@@ -949,7 +949,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="mini_date_hint">Monat/Jahr</string>
   <string name="mini_debug_app_error">Programmfehler! Klicken Sie auf OK, um das Programm zu beenden.</string>
   <string name="mini_download">Herunterladen</string>
-  <string name="mini_error_title_default">提示</string>
+  <string name="mini_error_title_default">##提示</string>
   <string name="mini_expiry_date_content">Das Ablaufdatum der Kreditkartennummer wird hinter dem Standardformat des Monats, dem Jahr nach einer Reihe von Zahlen, angegeben.</string>
   <string name="mini_expiry_date_title">Ablaufdatum</string>
   <string name="mini_format_error">Falsches Format</string>
@@ -972,7 +972,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="mini_open_bluetooth_tips">Bitte schalten Sie Bluetooth ein, damit das Armband mit dem Zubehör verbunden werden kann</string>
   <string name="mini_page_add_hint">Bankkartennummer</string>
   <string name="mini_page_add_other_pay">Andere Zahlungsmethoden</string>
-  <string name="mini_page_add_tips">Doppelter Schutz durch Passwort- und SMS Verifizierung</string>
+  <string name="mini_page_add_tips">Doppelter Schutz durch Passwort- und SMS-Verifizierung</string>
   <string name="mini_page_add_title">Eine Bankkarte hinzufügen</string>
   <string name="mini_page_input_id_hint">ID-Nummer</string>
   <string name="mini_page_input_name_hint">Name des Karteninhabers</string>
@@ -994,8 +994,8 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="mini_temp_support_xiaomi">Vorübergehend nur Unterstützung für das Millet Armband</string>
   <string name="mini_to_open">Öffnen</string>
   <string name="mini_to_open_error">Unregelmäßigkeiten beim Starten der Software zur Fingerabdruckerfassung, bitte überprüfen Sie die Systemstarts.</string>
-  <string name="mini_weakpassword_error_same">Bitte verwenden Sie nicht dieselbe Nummer</string>
-  <string name="mini_weakpassword_error_serial">Bitte verwenden Sie keine fortlaufenden Nummern</string>
+  <string name="mini_weakpassword_error_same">Bitte verwenden Sie nicht dieselbe Zahl</string>
+  <string name="mini_weakpassword_error_serial">Bitte verwenden Sie keine fortlaufenden Zahlen</string>
   <string name="miuishare_account_activate_confirmation">Freischaltung erforderlich</string>
   <string name="miuishare_account_activate_ok">Freischalten</string>
   <string name="miuishare_account_login_cancel">Abbrechen</string>
@@ -1011,7 +1011,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="miuishare_share_editor_title">Teilen</string>
   <string name="miuishare_title_more">Mehr</string>
   <string name="miuishare_title_share">Teilen</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Zeitleiste</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Zeitleiste</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="month_day_format">dd.MM</string>
   <string name="month_day_hour_minute_format_en">dd.MM HH:mm</string>
@@ -1039,7 +1039,7 @@ Sendungsverfolgungsnummer prüfen."</string>
 
 Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Sie sich bitte an den Bankkundenservice Update."</string>
   <string name="msp_phone_num_title">Telefonnummerbeschreibung</string>
-  <string name="msp_secure_key_and">Undzeichen</string>
+  <string name="msp_secure_key_and">Und-Zeichen</string>
   <string name="msp_secure_key_apostrophe">Hochkomma</string>
   <string name="msp_secure_key_ask">Fragezeichen</string>
   <string name="msp_secure_key_at">At-Zeichen</string>
@@ -1124,7 +1124,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="notification_title_success">Zahlung erfolgreich hinzugefügt</string>
   <string name="open_bluetooth">Bluetooth einschalten</string>
   <string name="open_bluetooth_now">Bluetooth ist eingeschaltet…</string>
-  <string name="open_bluetooth_tips">Bitte schalten Sie Bluetooth ein, damit das Armband mit dem Zubehör verbunden werden kann</string>
+  <string name="open_bluetooth_tips">Bitte schalten Sie Bluetooth ein, damit das Armband mit dem Zubehör verbunden wird</string>
   <string name="open_installed_app">Öffnen</string>
   <string name="opened">An</string>
   <string name="order_date_label">Auftragsdatum: %1$s</string>
@@ -1181,7 +1181,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="payment_pref_source_alipay_summary">Zahlungsinformationen von Alipay erhalten</string>
   <string name="payment_pref_source_alipay_title">Alipay</string>
   <string name="payment_pref_source_category_title">Quelle für Zahlungsinformationen</string>
-  <string name="payment_pref_source_mms_summary">Zahlungsinformationen von SMS erhalten</string>
+  <string name="payment_pref_source_mms_summary">Zahlungsinformationen mit SMS erhalten</string>
   <string name="payment_pref_source_mms_title">SMS</string>
   <string name="payment_pref_source_wechat_summary">Zahlungsinformationen von WeChat erhalten</string>
   <string name="payment_pref_source_wechat_title">WeChat</string>
@@ -1240,7 +1240,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="quickstart_accessibility_description">##该服务为 [ 桌面信息助手 - 快捷功能卡片 ] 提供部分第三方应用页面的跳转支持，关闭该服务会导致页面跳转失效。</string>  
   <!-- To Translate end -->
   <string name="quickstart_accessibility_dialog_confirm">Öffnen</string>
-  <string name="quickstart_accessibility_dialog_content">Diese Funktion muss den Hilfsfunktion Service verwenden, um auf der Seite weiter zu springen, öffnen?</string>  
+  <string name="quickstart_accessibility_dialog_content">Diese Funktion muss den Hilfsfunktionsservice verwenden, um auf der Seite weiter zu springen. Öffnen?</string>  
   <string name="quickstart_accessibility_dialog_title">Eingabehilfen aktivieren</string>
   <string name="quickstart_accessibility_service">Informationsassistent</string>
   <string name="recharge_flow">Mobile Daten kaufen</string>
@@ -1261,7 +1261,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="save_edit">Änderungen speichern</string>
   <string name="scan">Scannen</string>
   <string name="scan_app">Einscannen</string>
-  <string name="scan_card">Karte für Business</string>
+  <string name="scan_card">Business-Karte</string>
   <string name="scan_code">QR Code</string>
   <string name="scan_doc">Dokument</string>
   <string name="scan_exercise">Studieren</string>
@@ -1282,7 +1282,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="security">Sicherheit</string>
   <string name="send_action_title">Zu den Favoriten hinzufügen</string>
   <string name="send_shortcut_failed">Senden fehlgeschlagen</string>
-  <string name="send_shortcut_success">Verknüpfung auf Startbildschirm erstelln</string>
+  <string name="send_shortcut_success">Verknüpfung auf Startbildschirm erstellen</string>
   <string name="service_unavailiable">Netzwerkverbindung prüfen und erneut versuchen</string>
   <string name="setting_address">Häufig besuchte Orte hinzufügen</string>
   <string name="setting_authorization_canceled_dialog_cancel">Abbrechen</string>
@@ -1322,7 +1322,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="setting_football_fav_null">Sie folgen keinem Team</string>
   <string name="setting_football_hupu">HuPu Sports</string>
   <string name="setting_football_loading">Einen Moment…</string>
-  <string name="setting_football_select_title">Teams, denen Sie folgen wollen auswählen</string>
+  <string name="setting_football_select_title">Teams auswählen, denen Sie folgen wollen</string>
   <string name="setting_football_toast_max">Sie können bis zu 4 Teams auswählen</string>
   <string name="setting_home_label">Wohnadresse hinzufügen</string>
   <string name="setting_launch_all_added">Hinzufügen weiterer Elemente nicht möglich</string>
@@ -1363,8 +1363,8 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="sms_hao">Sitz</string>
   <string name="sms_happened">Vorüber</string>
   <string name="sms_hotel">Hotel</string>
-  <string name="sms_hour_suffix">std übrig</string>
-  <string name="sms_minute_suffix">min übrig</string>
+  <string name="sms_hour_suffix">Std übrig</string>
+  <string name="sms_minute_suffix">Min übrig</string>
   <string name="sms_passenger">Passagier</string>
   <string name="sms_phone">Telefon</string>
   <string name="sms_platform">Plattform</string>
@@ -1420,7 +1420,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="taxi_open">Karte für Taxis</string>
   <string name="taxi_setting_brief">Mit einem Fingertipp zum Taxi.</string>
   <string name="taxi_target">Zielort</string>
-  <string name="temp_support_xiaomi">Vorrübergehend wird nur das Mi Band unterstützt</string>
+  <string name="temp_support_xiaomi">Vorübergehend wird nur das Mi Band unterstützt</string>
   <string name="template_args_invalid">Der Kontextparameter ist ungültig</string>
   <string name="template_bussiness_data_error">Der Server gibt eine anormale Datenanalyse zurück und kann die Schnittstelle nicht anzeigen</string>
   <string name="template_data_error">Popularity ist zu beschäftigt, später erneut versuchen</string>
@@ -1454,12 +1454,12 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="uninstall">Nicht installiert</string>
   <string name="unusual_weather">Wetterwarnungen</string>
   <string name="unusual_weather_open">Wetterwarnungen einschalten</string>
-  <string name="unusual_weather_setting_brief">Benachrichtigungen erhalten, wenn sich gefährliches Wetter Ihrem Standort nähert.</string>
+  <string name="unusual_weather_setting_brief">Benachrichtigungen erhalten, wenn sich bedrohliches Wetter Ihrem Standort nähert.</string>
   <string name="unusual_weather_setting_tip">Die Städte, die für die Warnungen verwendet werden, können in der Wetter-App geändert werden.</string>
   <string name="uploads_disabled">Dateien können nicht hochgeladen werden</string>
   <string name="user_id">Nutzer ID: %s</string>
   <string name="user_notice_title">Achtung</string>
-  <string name="vr_pay_not_support">Dieser Auftrag unterstützt keine VR-Zahlung. Öffnen Sie die Bestellliste um später zu bezahlen</string>
+  <string name="vr_pay_not_support">Dieser Auftrag unterstützt keine VR-Zahlung. Öffnen Sie die Bestellliste, um später zu bezahlen</string>
   <string name="walk">Gehen</string>
   <string name="weibo_name">Neuer Post</string>
   <string name="weibo_parent">Weibo</string>
