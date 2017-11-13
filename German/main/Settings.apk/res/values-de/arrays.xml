@@ -23,16 +23,21 @@
     <item>Dauer der Animation: 5x</item>
     <item>Dauer der Animation: 10x</item>
   </string-array>
+  <string-array name="anr_record_interval_entries">
+    <item>10s</item>
+    <item>20s</item>
+    <item>30s</item>
+    <item>1 Min</item>
+  </string-array>
+  <string-array name="ap_identify">
+    <item>Standard</item>
+    <item>iPhone</item>
+  </string-array>
   <string-array name="apn_auth_entries">
     <item>Keine</item>
     <item>PAP</item>
     <item>CHAP</item>
     <item>PAP oder CHAP</item>
-  </string-array>
-  <string-array name="apn_protocol_entries">
-    <item>IPv4</item>
-    <item>IPv6</item>
-    <item>IPv4/IPv6</item>
   </string-array>
   <string-array name="app_install_location_entries">
     <item>Interner Gerätespeicher</item>
@@ -195,14 +200,6 @@
     <item>20 Sekunden</item>
     <item>Immer</item>
   </string-array>
-  <string-array name="common_password_business_names">
-    <item>Sperrbildschirm</item>
-    <item>Datenschutzpasswort</item>
-    <item>Kindermodus</item>
-    <item>Dateimanager</item>
-    <item>Appsperre</item>
-    <item>Second space</item>
-  </string-array>
   <string-array name="captioning_edge_type_selector_titles">
     <item>Standard</item>
     <item>Ohne</item>
@@ -275,7 +272,15 @@
     <item>Lila</item>
     <item>Rosa</item>
     <item>Rot</item>
-      </string-array>
+  </string-array>
+  <string-array name="common_password_business_names">
+    <item>Sperrbildschirm</item>
+    <item>Datenschutzpasswort</item>
+    <item>Kindermodus</item>
+    <item>Dateimanager</item>
+    <item>Appsperre</item>
+    <item>Second space</item>
+  </string-array>
   <string-array name="connect_mode_entries">
     <item>Kompatibilität</item>
     <item>Hochgeschwindigkeit</item>
@@ -299,6 +304,12 @@
     <item>10 Minuten</item>
     <item>30 Minuten</item>
   </string-array>
+  <string-array name="edge_touch_volume_action">
+    <item>Tippen anpassen - Doppelklick-Steuerung</item>
+    <item>Schieben anpassen - Schiebesteuerung</item>
+    <item>Tippen anpassen - Klicksteuerung</item>
+    <item>Tippen anpassen - Langdrucksteuerung</item>
+  </string-array>
   <string-array name="emergency_tone_entries">
     <item>Aus</item>
     <item>Benachrichtigung</item>
@@ -310,11 +321,20 @@
     <item>Systrace (Grafik)</item>
     <item>Aufrufliste für glGetError</item>
   </string-array>
+  <string-array name="entries_color_calibration">
+    <item>sRGB</item>
+    <item>Original</item>
+  </string-array>
   <string-array name="entries_font_size">
     <item>Klein</item>
     <item>Normal</item>
     <item>Groß</item>
     <item>Extra Groß</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Aus</item>
+        <item>Eingeschränkte Unterbrechungen</item>
+        <item>Keine Unterbrechungen</item>
   </string-array>
   <string-array name="fluency_mode_confirms">
     <item>Glatt- und Geschmeidigmodus, starten Sie Ihr Gerät neu, um diese Einstellung zu übernehmen?</item>
@@ -353,6 +373,14 @@
     <item>Niemals überprüfen</item>
     <item>Nur DRM-Inhalte prüfen</item>
     <item>Immer prüfen</item>
+  </string-array>
+  <string-array name="high_configuration_version_description_secondary">
+     <item>MediaTek Helio X25</item>
+     <item>4050mAh(typ)</item>
+     <item>1300 + 500 Dual-Kamera</item>
+     <item>5.5 Zoll</item>
+     <item>1920 x 1080 Pixel</item>
+     <item>6.0</item>
   </string-array>
   <string-array name="install_non_market_app_contents">
     <item>Fragen</item>
@@ -395,7 +423,7 @@
   <string-array name="lock_screen_secure_after_timeout_entries">
     <item>Sofort</item>
     <item>Nach 30 Sekunden</item>
-    <item>Nach 1 Minuten</item>
+    <item>Nach 1 Minute</item>
     <item>Nach 2 Minuten</item>
     <item>Nach 5 Minuten</item>
     <item>Niemals</item>
@@ -433,13 +461,10 @@
     <item>Violett</item>
     <item>Lila</item>
   </string-array>
-  <string-array name="miui_entries_font_size">
-    <item>S</item>
-    <item>M</item>
-    <item>L</item>
-    <item>XL</item>
-    <item>XXL</item>
-    <item>XXXL</item>
+  <string-array name="miracast_policies">
+    <item>Geringe Verzögerungen</item>
+    <item>Standard</item>
+    <item>Bessere Qualität</item>
   </string-array>
   <string-array name="msd_pc_system">
     <item>Windows XP oder ältere Versionen</item>
@@ -451,13 +476,13 @@
     <item>@string/msd_pc_system_install_finish_summary_xp</item>
     <item>@string/msd_pc_system_install_finish_summary_vista</item>
     <item>Der USB Speicher wird sich öffnen, sobald Sie mit einem Computer verbunden sind.</item>
-    <item/>
+    <item></item>
   </string-array>
   <string-array name="msd_pc_system_install_summary">
     <item>2. Folgen Sie den Bildschirmanweisungen</item>
-    <item/>
-    <item/>
-    <item/>
+    <item></item>
+    <item></item>
+    <item></item>
   </string-array>
   <string-array name="msd_pc_system_retry_linux">
     <item>Installationstool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
@@ -484,7 +509,7 @@
     <item>Verschieben…</item>
   </string-array>
   <string-array name="no_cache_clear_package_list">
-    <item/>
+    <item></item>
   </string-array>
   <string-array name="overlay_display_devices_entries">
     <item>Aus</item>
@@ -531,6 +556,16 @@
     <item>E-mail</item>
     <item>Video</item>
   </string-array>
+    <string-array name="preferred_app_excluded_regions">
+        <item>IN</item>
+        <item>ID</item>
+        <item>RU</item>
+        <item>SG</item>
+        <item>MY</item>
+        <item>HK</item>
+        <item>TW</item>
+        <item>UA</item>
+    </string-array>
   <string-array name="priority_storage_entries">
     <item>Interner Speicher</item>
     <item>Externer Speicher</item>
@@ -611,6 +646,10 @@
     <item>Erhöhter Kontrast</item>
     <item>Standard</item>
   </string-array>
+  <string-array name="screen_resolution_entries">
+    <item>Ultrahoch (2K)</item>
+    <item>Normal (720p)</item>
+  </string-array>
   <string-array name="screen_saturation_title">
     <item>Hell</item>
     <item>Normal</item>
@@ -673,6 +712,10 @@
     <item>2 Stunden</item>
     <item>8 Stunden</item>
   </string-array>
+  <string-array name="sim_card_data_range">
+    <item>Letzten 4 Ziffern</item>
+    <item>Ersten 4 Ziffern</item>
+  </string-array>
   <string-array name="slideshow_time_entries">
     <item>5 Minuten</item>
     <item>15 Minuten</item>
@@ -693,6 +736,14 @@
     <item>Traditionelles Chinesisch (Hongkong)</item>
     <item>Spanisch (Amerika)</item>
     <item>Portugisisch (Brasilien)</item>
+  </string-array>
+  <string-array name="standard_configuration_version_description_primary">
+     <item>CPU</item>
+     <item>Akkukapazität</item>
+     <item>Hintere Kamera</item>
+     <item>Bildschirmgröße</item>
+     <item>Auflösung</item>
+     <item>Android Version</item>
   </string-array>
   <string-array name="startup_hips_action">
     <item>Zulassen</item>
@@ -799,14 +850,6 @@
     <item>Zeitüberschreitung</item>
     <item>Nicht erfolgreich</item>
   </string-array>
-  <string-array name="vpn_types">
-    <item>PPTP</item>
-    <item>L2TP/IPSec PSK</item>
-    <item>L2TP/IPSec RSA</item>
-    <item>IPSec Xauth PSK</item>
-    <item>IPSec Xauth RSA</item>
-    <item>IPSec Hybrid RSA</item>
-  </string-array>
   <string-array name="vpn_types_long">
     <item>PPTP-VPN</item>
     <item>L2TP-/IPSec-VPN mit vorinstallierten Schlüsseln</item>
@@ -819,7 +862,7 @@
     <item>Erstelle Sitzung…</item>
     <item>Sitzung erstellt</item>
     <item>Sitzung abbrechen…</item>
-    <item>"Sitzung fehlgeschlagen"</item>
+    <item>Sitzung fehlgeschlagen</item>
     <item>Timeout, erneuter Versuch…</item>
     <item>Gerät angeschlossen</item>
   </string-array>
@@ -842,12 +885,6 @@
     <item>Automatisch verbinden</item>
     <item>Manuell verbinden</item>
     <item>Immer fragen</item>
-  </string-array>
-  <string-array name="wifi_eap_entries">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
   </string-array>
   <string-array name="wifi_frequency_band_entries">
     <item>Automatisch</item>
@@ -908,7 +945,7 @@
     <item>Manuell verbinden</item>
   </string-array>
   <string-array name="wifi_status">
-    <item/>
+    <item></item>
     <item>Suchen…</item>
     <item>Verbinden…</item>
     <item>Authentifizierung…</item>
@@ -917,12 +954,12 @@
     <item>Angehalten</item>
     <item>Trennen…</item>
     <item>Getrennt</item>
-    <item>Erfolglos</item>
+    <item>Fehlgeschlagen</item>
     <item>Blockiert</item>
     <item>Vermeidung von schlechten Verbindungen</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
-    <item/>
+    <item></item>
     <item>Suchen…</item>
     <item>Verbinden mit %1$s…</item>
     <item>Authentifizierung mit %1$s…</item>
@@ -931,7 +968,7 @@
     <item>Angehalten</item>
     <item>Trennen von %1$s…</item>
     <item>Getrennt</item>
-    <item>Erfolglos</item>
+    <item>Fehlgeschlagen</item>
     <item>Blockiert</item>
     <item>Vermeidung von schlechten Verbindungen</item>
   </string-array>
