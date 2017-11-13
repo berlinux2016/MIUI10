@@ -35,7 +35,7 @@
   <string name="aqi_quality_index_dangerous">Riskant</string>
   <string name="aqi_quality_index_good">Gut</string>
   <string name="aqi_quality_index_hazardous">Gefährlich</string>
-  <string name="aqi_quality_index_light_pollution">Caution</string>
+  <string name="aqi_quality_index_light_pollution">Warnung</string>
   <string name="aqi_quality_index_moderate">Moderat</string>
   <string name="aqi_quality_index_unhealthy">Ungesund</string>
   <string name="bad_wallpaper_source_prompt">Hintergrund konnte nicht geladen werden</string>
@@ -49,7 +49,7 @@
   <string name="change_wallpaper">Ändern</string>
   <string name="children_folder_title">Kinderordner</string>
   <string name="children_mode_exit">Beenden</string>
-  <string name="children_mode_tips">Zurück zu Einstellungen um den Zugriff auf Anwendungen zu verwalten</string>
+  <string name="children_mode_tips">Zurück zu Einstellungen, um den Zugriff auf Anwendungen zu verwalten</string>
   <string name="children_mode_tips_message">Keine Anwendung für die Kindersicherung. Bitte Anwendung auswählen.</string>
   <string name="children_mode_tips_title">Bitte Anwendung auswählen</string>
   <string name="choose_wallpaper">Hintergrund auswählen</string>
@@ -70,7 +70,7 @@
   <string name="default_folder_title_security">System</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Tools</string>
-  <string name="default_screen_preview_title">Tippen um als Standardbildschirm zu setzen</string>
+  <string name="default_screen_preview_title">Tippen, um als Standardbildschirm zu setzen</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Löschen</string>
   <string name="delete_screen">Bildschirm löschen</string>
@@ -91,7 +91,7 @@
   <string name="editing_set_transition_effect_tips">Übergangseffekt auswählen</string>
   <string name="editing_set_wallpaper_tips">Hintergrund auswählen</string>
   <string name="editing_tips">Startbildschirm bearbeiten</string>
-  <string name="emptyplaylist">Antippen um Lieder hinzuzufügen</string>
+  <string name="emptyplaylist">Tippen, um Lieder hinzuzufügen</string>
   <string name="enable_wallpaper_scroll">Hintergrundscrollen einschalten</string>
   <string name="encryption">Verschlüsselung</string>
   <string name="failed_to_delete_temporary">Löschen nicht möglich</string>
@@ -122,7 +122,7 @@
   <string name="gadget_clock_14_label">Uhr 4x1</string>
   <string name="gadget_clock_22_label">Uhr 2x2</string>
   <string name="gadget_clock_24_label">Uhr 4x2</string>
-  <string name="gadget_clock_label">Uhr </string>
+  <string name="gadget_clock_label">Uhr</string>
   <string name="gadget_error_text">Laden des Widgets fehlgeschlagen</string>
   <string name="gadget_google_search_label">Googlesuche</string>
   <string name="gadget_load_error">Wird geladen…</string>
@@ -134,7 +134,7 @@
   <string name="gadget_photo_label">Bild</string>
   <string name="gadget_power_clear_button_label">Gründliche Bereinigung</string>
   <string name="gadget_search_label">Suchen</string>
-  <string name="gadget_weather_app_not_installed">Berühren um MIUI Wetter zu installieren</string>
+  <string name="gadget_weather_app_not_installed">Berühren, um MIUI Wetter zu installieren</string>
   <string name="gadget_weather_aqi_title">"Luftqualität: "</string>
   <string name="gadget_weather_download_message">Folgender Anwendungsinhalt wird benötigt: %1$s (%2$s). App nach dem Download neu starten.</string>
   <string name="gadget_weather_download_start">Download</string>
@@ -143,8 +143,8 @@
   <string name="gadget_weather_loading">Keine Daten</string>
   <string name="gadget_weather_low_temp">Niedrige Temperatur</string>
   <string name="gadget_weather_theme_type">Gadget-Typ</string>
-  <string name="gadget_weather_time_format">EEE, d.MM</string>
-  <string name="gadget_weather_title">Wetter </string>
+  <string name="gadget_weather_time_format">EEE, d.MMMM</string>
+  <string name="gadget_weather_title">Wetter</string>
   <string name="gadget_weather_title_14">Wetter</string>
   <string name="gadget_weather_title_24">Wetter</string>
   <string name="global_search_hint">Suche</string>
@@ -160,7 +160,7 @@
   <string name="invalid_contact_shortcut">Ungültiger Kontakt</string>
   <string name="is_setting_wallpaper_message">Hintergrund wird eingerichtet…</string>
   <string name="is_system_wallpaper_message">Systemkomponenten können nicht gelöscht werden</string>
-  <string name="launcher_not_exist">Launcher wurde gestoppt, kehren Sie bitte zurück und versuchen Sie es erneut.</string>
+  <string name="launcher_not_exist">Launcher wurde gestoppt, bitte zurückkehren und erneut versuchen.</string>
   <string name="like">Favorit</string>
   <string name="liked">Favorisiert</string>
   <string name="loading_desktop">Einen Moment…</string>
@@ -192,19 +192,19 @@
   <string name="menu_workspace_preview">Vorschau</string>
   <string name="mi_wallpaper">MIUI-Theme-Store</string>
   <string name="mtzgadget_missing_text">Widget nicht verfügbar</string>
-  <string name="multi_selecting_tips">Symbol berühren um App auszuwählen</string>
+  <string name="multi_selecting_tips">Symbol berühren, um App auszuwählen</string>
   <string name="no_detail_page">Keine Detailseite</string>
   <string name="no_space_toast">Nicht genug Platz</string>
   <string name="normal_wallpaper">Hintergrundbild</string>
   <string name="notification_installed">Erfolgreich installiert</string>
   <string name="notification_open_button">Öffnen</string>
   <string name="online_wallpaper">Online</string>
-  <string name="out_of_space">Auf dem Startbildschirm ist kein Platz mehr vorhanden.</string>
-  <string name="permdesc_install_shortcut">Ermöglicht einer Anwendung das Hinzufügen von Verknüpfungen ohne Eingriff des Nutzers</string>
-  <string name="permdesc_install_widget">Ermöglicht einer Anwendung, Widgets ohne Eingreifen des Benutzers hinzuzufügen</string>
-  <string name="permdesc_read_settings">Ermöglicht einer Anwendung, die Einstellungen und Verknüpfungen auf der Startseite zu lesen</string>
-  <string name="permdesc_uninstall_shortcut">Ermöglicht einer Anwendung das Entfernen von Verknüpfungen ohne Eingriff des Nutzers</string>
-  <string name="permdesc_write_settings">Ermöglicht einer Anwendung, die Einstellungen und Verknüpfungen auf der Startseite zu ändern</string>
+  <string name="out_of_space">Kein Platz mehr auf dem Startbildschirm.</string>
+  <string name="permdesc_install_shortcut">Erlaubt einer Anwendung das Hinzufügen von Verknüpfungen ohne Eingriff des Nutzers</string>
+  <string name="permdesc_install_widget">Erlaubt einer Anwendung, Widgets ohne Eingreifen des Nutzers hinzuzufügen</string>
+  <string name="permdesc_read_settings">Erlaubt einer Anwendung, die Einstellungen und Verknüpfungen auf der Startseite zu lesen</string>
+  <string name="permdesc_uninstall_shortcut">Erlaubt einer Anwendung das Entfernen von Verknüpfungen ohne Eingriff des Nutzers</string>
+  <string name="permdesc_write_settings">Erlaubt einer Anwendung, die Einstellungen und Verknüpfungen auf der Startseite zu ändern</string>
   <string name="permlab_install_shortcut">Verknüpfungen installieren</string>
   <string name="permlab_install_widget">Widgets installieren</string>
   <string name="permlab_read_settings">Einstellungen und Verknüpfungen für Startseite lesen</string>
@@ -214,13 +214,13 @@
   <string name="photo_confirm">Übernehmen</string>
   <string name="photo_load_failed">Foto konnte nicht geladen werden!</string>
   <string name="pref_cell_layout_size">Rastergröße</string>
-  <string name="pref_enable_drawing_cache_summary">Deaktivieren Sie das um Speicherplatz freizugeben. Dadurch kann die Leistung beeinträchtigt werden.</string>
+  <string name="pref_enable_drawing_cache_summary">Deaktivieren, um Speicherplatz freizugeben. Dies kann die Leistung beeinträchtigen.</string>
   <string name="pref_enable_drawing_cache_title">Zeichnungscache</string>
-  <string name="pref_icon_shadow_summary">Ausschalten um Speicherplatz freizugeben</string>
+  <string name="pref_icon_shadow_summary">Ausschalten, um Speicherplatz freizugeben</string>
   <string name="pref_icon_shadow_title">Grafikcache</string>
   <string name="pref_keep_in_memory_summary">Launcher im Speicher behalten</string>
   <string name="pref_keep_in_memory_title">MIUI im Speicher behalten</string>
-  <string name="pref_keep_layout_summary">Apppositionen bei Änderung des Rasters beibehalten</string>
+  <string name="pref_keep_layout_summary">Appposition bei Änderung des Rasters beibehalten</string>
   <string name="pref_keep_layout_title">Appposition beibehalten</string>
   <string name="pref_render_in_truecolor_summary">Abschaltung verbessert die Darstellung</string>
   <string name="pref_render_in_truecolor_title">Hochwertige Grafiken</string>
@@ -233,7 +233,7 @@
   <string name="recommend_apps_notice">Empfohlene Apps</string>
   <string name="recommend_apps_notice_nodata">Empfohlene Apps (Keine Daten)</string>
   <string name="recommend_apps_switch_title">Empfohlene Apps</string>
-  <string name="recommend_apps_tips">Diese Funktion benötigt eine Internetverbindung. Tippen Sie auf den Ordnername um die Funktion auszuschalten.</string>
+  <string name="recommend_apps_tips">Diese Funktion benötigt eine Internetverbindung. Auf den Ordnernamen tippen, um die Funktion auszuschalten.</string>
   <string name="reset_scene_prompt">Standardlayout zurücksetzen</string>
   <string name="screen_locked_toast">Startbildschirmlayout ist gesperrt</string>
   <string name="screen_number">%d Bildschirm</string>
@@ -259,7 +259,7 @@
   <string name="status_pending">Ausstehend</string>
   <string name="title_select_live_folder">Ordner auswählen</string>
   <string name="title_select_shortcut">Tastenkürzel auswählen</string>
-  <string name="toast_screen_icons_misplaced">Von einer anderen Datenbank wiederhergestellt, einige Symbole könnten falsch platziert sein</string>
+  <string name="toast_screen_icons_misplaced">Von anderer Datenbank wiederhergestellt, einige Symbole könnten falsch platziert sein</string>
   <string name="toggle_select_title">Schalter auswählen</string>
   <string name="toggle_title">Schalter</string>
   <string name="transformation_type_classic">Normal</string>
@@ -281,7 +281,7 @@
   <string name="uninstall_result_two_failed">%s und 1 weitere App kann nicht entfernt werden</string>
   <string name="uninstall_with_xspace_dialog_message">Die entsprechenden Dualapps werden zusammen mit den Appdaten entfernt</string>
   <string name="uninstall_xspace_dialog_message">Alle Appdaten der Dualapps werden deinstalliert und entfernt</string>
-  <string name="uninstall_xspace_dialog_title_format">Geklonte \"%s\" deinstallieren</string>
+  <string name="uninstall_xspace_dialog_title_format">Dual \"%s\" deinstallieren</string>
   <string name="unknown_artist_name">Unbekannter Künstler</string>
   <string name="unnamed_folder_name">Unbenannter Ordner</string>
   <string name="wallpaper">Hintergrund</string>
@@ -296,5 +296,5 @@
   <string name="widget_favorite_contacts_style">Größe ändern</string>
   <string name="widget_gadget_player">Musik </string>
   <string name="widget_global_search">Suche</string>
-  <string name="widget_quick_function">Schnell Funktionen</string>
+  <string name="widget_quick_function">Schnellfunktionen</string>
 </resources>
