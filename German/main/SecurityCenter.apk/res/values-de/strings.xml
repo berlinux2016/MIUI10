@@ -35,7 +35,7 @@
   <string name="access_control_failed_need_to_unlock_nofingerprint">Um einen neuen Fingerabdruck hinzuzufügen, zeichnen Sie Ihr Muster</string>
   <string name="access_control_fingerprint_not_identified_msg">Fingerabdruckscan fehlgeschlagen</string>
   <string name="access_control_need_password">"%s erfolgreich hinzugefügt"</string>
-  <string name="access_control_need_to_unlock">"Fingerabdruck scannen oder Passwort für Appsperre eingeben"</string>
+  <string name="access_control_need_to_unlock">Fingerabdruck scannen oder Passwort für Appsperre eingeben</string>
   <string name="access_control_need_to_unlock_nofingerprint">Muster für Appsperre zeichnen</string>
   <string name="access_control_recording_intro_header">Muster zeichnen, um Appsperre hinzuzufügen</string>
   <string name="access_control_reset_by_account">Melden Sie sich mit Ihrem Mi Konto an, um die Appsperre zurückzusetzen</string>
@@ -80,8 +80,8 @@
   <string name="activity_title_settings">Einstellungen</string>
   <string name="activity_title_system">System</string>
   <string name="activity_title_trash">Cache</string>
-  <string name="activity_title_uninstall_apps">"Apps"</string>
-  <string name="activity_title_virus">"Malware"</string>
+  <string name="activity_title_uninstall_apps">Apps</string>
+  <string name="activity_title_virus">Malware</string>
   <string name="activity_title_virus_detail">Virusdetails</string>
   <string name="activity_title_virus_settings">Antiviruseinstellungen</string>
   <string name="activity_title_white_list">Ausnahmeliste</string>
@@ -230,8 +230,8 @@
   <string name="app_manager_globel_other_perm_title">Sonstige Berechtigungen</string>
   <string name="app_manager_globel_perm_summary">Verwaltung von Berechtigungen in Bezug auf Speicherort, Speicherung, Telefon, Nachrichten und Kontakte.</string>
   <string name="app_manager_globel_perm_title">Appberechtigungen</string>
-  <string name="app_manager_has_not_data">Keine Daten</string>
   <string name="app_manager_go_to_manger_app">Verwalten</string>
+  <string name="app_manager_has_not_data">Keine Daten</string>
   <string name="app_manager_have_not_consume">Keine</string>
   <string name="app_manager_hide_system_server">Systemdienste ausblenden</string>
   <string name="app_manager_install_other_app">Apps aus unbekannten Quellen installieren</string>
@@ -284,12 +284,12 @@
   <string name="app_manager_reset_app_preferences_button">Apps zurücksetzen</string>
   <string name="app_manager_reset_app_preferences_desc">"Dies setzt alle Einstellungen zurück für:
 
-  "<li>Deaktivierte Apps</li>"
-  "<li>Deaktivierte Appbenachrichtigungen</li>"
-  "<li>Standardapps</li>"
-  "<li>Einschränkungen für Hintergrunddaten der Apps</li>"
+<li>Deaktivierte Apps</li>
+<li>Deaktivierte Appbenachrichtigungen</li>
+<li>Standardapps</li>
+<li>Einschränkungen für Hintergrunddaten der Apps</li>
 
-  Sie verlieren keine Appdaten."</string>
+Sie verlieren keine Appdaten."</string>
   <string name="app_manager_reset_app_preferences_title">Appvoreinstellungen zurücksetzen?</string>
   <string name="app_manager_show_all_apps">Alle Apps anzeigen</string>
   <string name="app_manager_show_detail_infos">Alle zeigen</string>
@@ -476,6 +476,8 @@
   <string name="battery_temperature_title">Akkutemperatur</string>
   <string name="begin_date">Zurückgesetzt am</string>
   <string name="best_booster_status">Spiel ist bereits optimiert.</string>
+  <string name="best_warning_dialog_button">Ich habe es</string>
+  <string name="best_warning_dialog_title">Tipps</string>
   <string name="bind_xiaomi_account_cancel">Abbrechen</string>
   <string name="bind_xiaomi_account_confirm">Hinzufügen</string>
   <string name="bind_xiaomi_account_dialog_summery">Sie fügen das Mi Konto %s hinzu. Falls Sie Ihr Passwort vergessen haben, können Sie das Konto zum Zurücksetzen verwenden. Konto wird nach dem Abmelden automatisch entfernt.</string>
@@ -717,7 +719,7 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="data_usage_warning_title">Datenverbrauchswarnung</string>
   <string name="data_usage_warning_title_notify">Datenverbrauchsgrenze überschritten</string>
   <string name="databooster_tips_message">Schalten Sie diese Option ein, um alle SIM-Karten außer der Datenkarte einzuschränken. Deaktivieren Sie diese Funktion, wenn bei Ihren Spielen Fehler auftreten.</string>
-<string name="databooster_tips_title">Achtung</string>
+  <string name="databooster_tips_title">Achtung</string>
   <string name="datausage_ignore_app_list_count">Datenverbrauch von %d Apps ignorieren</string>
   <string name="datausage_purchase_backto_ns">Zurück</string>
   <string name="datausage_purchase_banner_title">%s Top Angebot (Xiaomi Exklusiv)</string>
@@ -839,6 +841,9 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="dlg_white_address_antispam_message">Diesen Ort zu den Ausnahmen hinzufügen?</string>
   <string name="dlg_white_antispam_hint">Ausnahmen</string>
   <string name="dlg_white_antispam_message">Diese Nummer zu den Ausnahmen hinzufügen?</string>
+  <string name="dnd_mode_type">Nicht stören</string>
+  <string name="dnd_no_everything">Nicht erinneren</string>
+  <string name="dnd_no_sound">Nur Tönne deaktivieren</string>
   <string name="dns_exception_summary">DNS-Einstellungen des Routers überprüfen</string>
   <string name="dns_exception_title">DNS-Einstellungen überprüfen</string>
   <string name="do_clean">Lösche…</string>
@@ -853,7 +858,7 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="email">E-Mail</string>
   <string name="empty_app">Keine Apps</string>
   <string name="empty_title_auto_start_list">Kein Autostartapps</string>
-  <string name="empty_title_garbage_virus_white_list">"Apps und Apks können mit einem 'lange Drücken' zur Ausnahmeliste hinzugefügt werden"</string>
+  <string name="empty_title_garbage_virus_white_list">Apps und Apks können mit einem Langdruck zur Ausnahmeliste hinzugefügt werden</string>
   <string name="empty_title_manual_item_white_list">Keine Ausnahmen</string>
   <string name="empty_title_perm_apps">Leer</string>
   <string name="empty_title_permission_apps_list">Leer</string>
@@ -863,6 +868,7 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="empty_title_system_process_list">Keine Systemprozesse</string>
   <string name="empty_title_virus_list">Keine Viren</string>
   <string name="enable_network">Zuerst Netzwerkverbindung aktivieren</string>
+  <string name="enter">Eingeben</string>
   <string name="every_day">Jeden Tag</string>
   <string name="examination_score_100">Alles in Ordnung!</string>
   <string name="examination_score_100_with_recommend">%d können optmiert werden</string>
@@ -871,6 +877,10 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="examination_score_80_100_with_recommend">%d können optmiert werden</string>
   <string name="examination_score_80_60">Einige Punkte können optimiert werden</string>
   <string name="examination_score_has_virus">Einige Apps sind verdächtig.</string>
+  <string name="exception_dialog_message">Datenverwendungsstatistiken konnten aufgrund eines Fehlers nicht berechnet werden. Ohne genaue Statistiken kann die Sicherheitsapp die Datennutzung nicht überwachen. Neu starten, um diese Funktion wiederherzustellen?</string>
+  <string name="exception_dialog_ok_button">Neu starten</string>
+  <string name="exception_notify_message">Datenstatistik konnte aufgrund eines Fehlers nicht berechnet werden. Neu starten, um zu wiederherzustellen</string>
+  <string name="exception_titile">Ein Fehler ist aufgetreten</string>
   <string name="exit">Beenden</string>
   <string name="finger_remind_message">Sie können auch Ihren Fingerabdruck zur Appsperre verwenden</string>
   <string name="fingerprint_identify_msg">Entsperren per Fingerabruck aktiviern</string>
@@ -1108,6 +1118,7 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="keywords_networkassistant_2">Daten;Datentarif</string>
   <string name="keywords_networkassistant_3">Daten;Sparen</string>
   <string name="keywords_networkassistant_4">Verbindung;Internet;Test</string>
+  <string name="keywords_payment_security">Zahlungssicherheit prüfen;Zahlungssicherheit;Sichere Bezahlung;Sichere Zahlungen;Zahlungsschutz;Zahlungen schützen;geschützte Zahlungen;Sichere Zone;Zahlungszone</string>
   <string name="keywords_permcenter">Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte</string>
   <string name="keywords_powercenter">Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain</string>
   <string name="keywords_powercenter_powerrank">Akkunutzung</string>
@@ -1197,9 +1208,9 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="main_alert_message_slot_no_data_connection">"Der SIM-Kartenslot unterstützt keine
   mobile Datenverbindung"</string>
   <string name="main_bill_remained">Guthaben</string>
+  <string name="main_button_idel_traffic">Nebenzeit</string>
   <string name="main_button_mi_sim_close">Mi SIM aktivieren</string>
   <string name="main_button_mi_sim_open">Details anzeigen</string>
-  <string name="main_button_idel_traffic">Nebenzeit</string>
   <string name="main_button_normal_traffic">Hauptzeit</string>
   <string name="main_button_usage_adjust">Datenverbrauch einstellen</string>
   <string name="main_button_usage_adjust_manual">Datenverbrauch einstellen</string>
@@ -1374,7 +1385,6 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="mi_service_traffic_detail">Frameworkdetails</string>
   <string name="mian_page_primary_txt">Datenroaming</string>
   <string name="modify_password_info">Entsperrmuster</string>
-  <string name="modify_password_mode"><u>Passworttyp ändern</u></string>
   <string name="modifypassword">Passwort ändern</string>
   <string name="monitor_app_add">hinzufügen</string>
   <string name="monitor_app_more">mehr</string>
@@ -1414,17 +1424,24 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="network_route_exception_detail">"Möglicherweise liegt der Fehler bei Ihrem Router:
   "<b>1. Problem mit einem öffentlichen WLAN-Netzwerk</b>"
   Wenn Sie mit einem öffentlichem WLAN-Netzwerk verbunden sind, kann je nach Anzahl der verbundenen Benutzer die Geschwindigkeit beeinträchtigt werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
+
   "<b>2. Problem mit dem Internetanbieter</b>"
   Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Internetanbieter besitzen.
+
   "<b>3. Problem mit der Routerhardware</b>"
   Versuchen Sie, Ihren Router neu zu starten und/oder überprüfen Sie die Routereinstellungen.
+
   "<b>4. Weitere Probleme</b>"
   Lesen Sie die Bedienungshilfen, die bei Ihrem Router mitgeliefert wurden und stellen Sie die Werkseinstellungen des Router wieder her.
+
   "<b>5. Stellen Sie sicher, dass der Router korrekt verbunden ist</b>"
   Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermuten, dass der Fehler an der Verbindung liegt, dann kontaktieren Sie Ihren Internetanbieter."</string>
   <string name="network_sim_exception_detail">"Möglichweise liegt der Fehler an Ihrer SIM-Karte:
+
   1. Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Netzanbieter besitzen. Versuchen Sie die SIM-Karte eines Freundes und prüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
+
   2. Wenn Sie zwei SIM-Karten verwenden, versuchen Sie es mit der anderen SIM-Karte und prüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
+
   3. Stellen Sie sicher, das Ihre SIM-Karte und der zugehörige Geräteslot nicht beschädigt sind. Überprüfen Sie, ob die SIM-Karte ordnungsgemäß im SIM-Kartenschacht eingesteckt ist."</string>
   <string name="network_speed_for_apps_close">Beenden</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Diese App beenden?</string>
@@ -2055,8 +2072,8 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="renew_now">Aktualisieren</string>
   <string name="repair">Reparieren</string>
   <string name="repair_loading_text">Einen Moment…</string>
-  <string name="repeated_marked_number_summary">"Blockieren Sie keinen zweiten Anruf von der gleichen gemeldeten Nummer innerhalb von 3 Minuten"</string>
-  <string name="repeated_marked_number_title">"Blockieren Sie keine wiederholten Anrufe von gemeldeten Rufnummern"</string>
+  <string name="repeated_marked_number_summary">Blockieren Sie keinen zweiten Anruf von der gleichen gemeldeten Nummer innerhalb von 3 Minuten</string>
+  <string name="repeated_marked_number_title">Blockieren Sie keine wiederholten Anrufe von gemeldeten Rufnummern</string>
   <string name="replace_dns">DNS automatisch ersetzen</string>
   <string name="report">Melden</string>
   <string name="report_error">Nachricht konnte nicht gemeldet werden</string>
@@ -2242,7 +2259,7 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="sp_background_risk_type_virus">Virenapp läuft im Hintergrund</string>
   <string name="sp_background_risk_type_wifi">WLAN-Verbindung ist unsicher</string>
   <string name="sp_button_text_ignore_alert_title">Dieses Kontrollkästchen ignorieren?</string>
-  <string name="sp_empty_title_sign_exception">"App in der Ergebnisliste mit 'lange Drücken' der Ausnahmeliste hinzufügen"</string>
+  <string name="sp_empty_title_sign_exception">App in der Ergebnisliste mit Langdruck zur Ausnahmeliste hinzufügen</string>
   <string name="sp_monitored_apps_count_zero">Keine Zahlungsapp ist geschützt</string>
   <string name="sp_monitored_apps_list_title">Überwachungseinstellungens</string>
   <string name="sp_network_privacy_dialog_message">Die Sicherheitsapp kann Zahlungen nicht verifizieren, da der Internetzugriff eingeschränkt wurde. Internetzugriff erlauben?</string>
@@ -2404,6 +2421,8 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="start_diagnostic_botton">Starten</string>
   <string name="start_downloading_app">Download wird gestartet: %1$s</string>
   <string name="start_game">Starten</string>
+  <string name="start_install">Jetzt installieren</string>
+  <string name="start_tc_button">Kalibrieren</string>
   <string name="status_bar_network_flow_content">Heute: %1$s | Verbleibend: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Heute: %1$s | Diesen Monat: %2$s</string>
   <string name="status_bar_network_flow_exceed_content">Heute: %1$s | Plan überschritten: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
@@ -2411,8 +2430,6 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="status_bar_network_flow_purchase">"   Einkaufen &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Datenplan einrichten &gt;"</string>
   <string name="status_bar_network_flow_today">Heute: %1$s</string>
-  <string name="start_install">Jetzt installieren</string>
-  <string name="start_tc_button">Kalibrieren</string>
   <string name="still_retain_btn">Behalten</string>
   <string name="stop_app_button">Stopp</string>
   <string name="suffix_pay_risk_count_bottom">Risiken</string>
@@ -2470,9 +2487,10 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="sys_app_prot_cracked_confirm">Ich hab\'s</string>
   <string name="sys_app_prot_cracked_login">Mit Mi Konto anmelden</string>
   <string name="sys_app_prot_cracked_text_login">"Die aktuelle Version von MIUI wurde geändert, dies gefährdet Ihre Gerätesicherheit.
-  Stellen Sie sicher, dass Sie die Herkunft dieses Geräts wissen und kontaktieren Sie ein autorisiertes Xiaomi-Servicecenter in Ihrer Nähe, um Hilfe zu erhalten."</string>
+Stellen Sie sicher, dass Sie die Herkunft dieses Geräts wissen und kontaktieren Sie ein autorisiertes Xiaomi-Servicecenter in Ihrer Nähe, um Hilfe zu erhalten."</string>
   <string name="sys_app_prot_cracked_text_unlogin">"Die aktuelle Version von MIUI wurde geändert, dies gefährdet Ihre Gerätesicherheit. Melden Sie sich mit Ihrem Mi Konto an, um diese Warnung auszuschalten.
-  Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die Herkunft dieses Geräts kennen und kontaktieren Sie ein autorisiertes Xiaomi-Servicecenter in Ihrer Nähe."</string>
+
+Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die Herkunft dieses Geräts kennen und kontaktieren Sie ein autorisiertes Xiaomi-Servicecenter in Ihrer Nähe."</string>
   <string name="sys_app_prot_cracked_title">Sicherheitsrisiko</string>
   <string name="sys_cpu_title">CPU-Nutzung</string>
   <string name="sys_freememory_title">Verfügbar</string>
@@ -2715,6 +2733,7 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="traffic_limit_error_alert_body">Ihr Anbieter übermittelt, dass Ihnen noch %1$s diesen Monat verbleiben. Das ist mehr als das %2$s Limit, das Sie eingestellt haben.</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
   <string name="traffic_limit_error_alert_package">"
+
   Der verbleibende Datenverbrauch beinhaltet auch jenen Verbrauch, welcher in dem letzten Monat überschritten wurde."</string>
   <string name="traffic_limit_error_alert_reset">Limit zurücksetzen</string>
   <string name="traffic_limit_error_alert_title">Erinnerung der Datenbeschränkung %s</string>
@@ -2743,6 +2762,8 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">"Diesen Monat gespart: "</string>
   <string name="traffic_saving_history_total_month_default">Durchschnittliche Ersparnis pro Monat</string>
+  <string name="traffic_saving_history_total_month_value">"&lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Lieder hören / Chatten für &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Stunden / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Artikel lesen"</string>
+  <string name="traffic_saving_history_total_month_value_default">"&lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Lieder hören / Chatten für &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Stunden / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Artikel lesen"</string>
   <string name="traffic_saving_history_total_rate">Tarif</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Daten reduziert</string>
@@ -2889,8 +2910,6 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="wlan_booster">WLAN Geschwindigkeitsoptimierung</string>
   <string name="wlan_change_protection_detail">Automatischen Wechsel in ein WLAN Netzwerk bei aktivierten mobilen Daten verhindern</string>
   <string name="wlan_change_protection_title">Netzwerkwechsel verhindern</string>
-  <string name="xunyou_net_booster">Netzwerkgeschwindigkeitsoptimierung</string>
-  <string name="xunyou_net_booster_detail">Xunyou-Dienste für Geschwindigkeitsoptimierung nutzen</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Erwerben Sie mehr</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Mi Datentarif Benachrichtigung</string>
   <string name="xiaomi_traffic_pass_exhausted">Keine mobilen Daten bei Ihrem Mi Datentarif. Zum Datentarif Ihres Betreibers gewechselt.</string>
@@ -2915,6 +2934,8 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="xiaomi_traffic_pass_used">Verbrauch %s von Ihrem Mi Datentarif</string>
   <string name="xiaomi_traffic_pass_warning">Keine mobilen Daten bei Ihrem Mi Datentarif verfügbar</string>
   <string name="xiaomi_traffic_return">Zurück</string>
+  <string name="xunyou_net_booster">Netzwerkgeschwindigkeitsoptimierung</string>
+  <string name="xunyou_net_booster_detail">Xunyou-Dienste für Geschwindigkeitsoptimierung nutzen</string>
   <string name="xunyou_pay_webview">Xunyou Dienste</string>
   <string name="xunyou_server_expired">Sitzung ist abgelaufen.</string>
 </resources>
