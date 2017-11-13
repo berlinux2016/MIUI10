@@ -133,7 +133,7 @@
   <string name="antivirus_choose_engine_update_disable_toast">Während des Updates kann das Virenscanmodul nicht geändert werden</string>
   <string name="antivirus_longtime_no_update">Ihre Virendefinitionen sind veraltet. Regelmäßige Updates verbessern das Scanergebnis. Sicherheit erlauben, sich mit dem Internet zu verbinden und die Virendefinitionen zu aktualisieren?</string>
   <string name="antivirus_longtime_no_update1">Ihre Virendefinitionen sind veraltet. Regelmäßige Updates verbessern das Scanergebnis. Aktualisieren Sie die Virendefinitionen und versuchen Sie es erneut.</string>
-  <string name="antivirus_main_activity_back">Zurück zum Sicherheitsscan</string>
+  <string name="antivirus_main_activity_back">Zurück</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Riskante Apps löschen</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Viren entfernen</string>
   <string name="antivirus_monitor_clean_tips">%s löschen</string>
@@ -178,6 +178,8 @@
   <string name="app_install_tips_go_to">Öffnen</string>
   <string name="app_install_tips_install_success">%1$s erfolgreich installiert</string>
   <string name="app_maanger_app_uninstalled_toast">Diese App wurde deinstalliert</string>
+  <string name="app_manager_advanced_setting">Erweiterte Einstellungen</string>
+  <string name="app_manager_allow">Ja</string>
   <string name="app_manager_app_ifno_version">Appversion</string>
   <string name="app_manager_app_info_label">Appinfo</string>
   <string name="app_manager_app_info_name">Appname</string>
@@ -202,9 +204,8 @@
   <string name="app_manager_clear_failed_dlg_message">Löschen der Appdaten fehlgeschlagen</string>
   <string name="app_manager_clear_failed_dlg_title">Daten löschen</string>
   <string name="app_manager_copy_pkg_to_clip">In die Zwischenablage kopiert</string>
-  <string name="app_manager_default_cleared">bereinigt</string>
+  <string name="app_manager_default_cleared">Bereinigt</string>
   <string name="app_manager_default_close_summary">Kein Standard eingestellt.</string>
-  <string name="app_manager_default_open">Standardmäßig öffnen</string>
   <string name="app_manager_default_open_summary">Sie haben diese App für einige Aktionen als Standard gewählt.</string>
   <string name="app_manager_default_open_title">Standards löschen</string>
   <string name="app_manager_defaults_setting">Standardapps</string>
@@ -212,10 +213,11 @@
   <string name="app_manager_details_storage_title">Speicher</string>
   <string name="app_manager_details_traffic_title">Mobiler Datenverbrauch</string>
   <string name="app_manager_disable">Keine Verbindung</string>
-  <string name="app_manager_disable_dlg_text">Wenn Sie diese App deaktivieren, funktionieren andere Apps möglicherweise nicht mehr wie vorgesehen.</string>
-  <string name="app_manager_disable_dlg_title">Systemintegrierte App deaktivieren?</string>
+  <string name="app_manager_disable_dlg_text">Wenn Sie diese App deaktivieren, arbeiten andere Apps möglicherweise nicht mehr wie vorgesehen.</string>
+  <string name="app_manager_disable_dlg_title">Systemapp deaktivieren?</string>
   <string name="app_manager_disable_text">Deaktivieren</string>
   <string name="app_manager_disabled">Deaktiviert</string>
+  <string name="app_manager_disabled_by_admin">Durch Admin deaktiviert</string>
   <string name="app_manager_dlg_cancel">Abbrechen</string>
   <string name="app_manager_dlg_ok">OK</string>
   <string name="app_manager_enable_text">Deaktiviert</string>
@@ -232,6 +234,7 @@
   <string name="app_manager_go_to_manger_app">Verwalten</string>
   <string name="app_manager_have_not_consume">Keine</string>
   <string name="app_manager_hide_system_server">Systemdienste ausblenden</string>
+  <string name="app_manager_install_other_app">Apps aus unbekannten Quellen installieren</string>
   <string name="app_manager_instruction">Anleitung</string>
   <string name="app_manager_loading_data">Daten werden geladen…</string>
   <string name="app_manager_manage_space">Speicherplatz verwalten</string>
@@ -242,6 +245,7 @@
   <string name="app_manager_net_control_title">Datenverbrauch einschränken</string>
   <string name="app_manager_net_mobile">Mobile Daten</string>
   <string name="app_manager_net_wifi">WLAN</string>
+  <string name="app_manager_not_allow">Nein</string>
   <string name="app_manager_not_record">Keine Einträge vorhanden</string>
   <string name="app_manager_notify_bar">Appsymbol</string>
   <string name="app_manager_notify_floating">Schwebende Benachrichtigungen</string>
@@ -282,8 +286,8 @@
 
   "<li>Deaktivierte Apps</li>"
   "<li>Deaktivierte Appbenachrichtigungen</li>"
-  "<li>Standardanwendungen für Aktionen</li>"
-  "<li>Einschränkungen für Hintergrunddaten für Apps</li>"
+  "<li>Standardapps</li>"
+  "<li>Einschränkungen für Hintergrunddaten der Apps</li>"
 
   Sie verlieren keine Appdaten."</string>
   <string name="app_manager_reset_app_preferences_title">Appvoreinstellungen zurücksetzen?</string>
@@ -779,6 +783,7 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="dialog_msg_auto_start_declare">Einige Sicherheitsapps können fälschlicherweise angeben, dass MIUI Ihren Start verhindert. Um die Berechtigungen, die einzelnen Anwendungen erteilt wurden, zu überprüfen, gehen Sie zu Einstellungen &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zahlungssicherheitscheck ausschalten?</string>
   <string name="dialog_msg_stop_virus_scan">Sind Sie sicher?</string>
+  <string name="dialog_no_longer_alert">Nicht erneut anzeigen</string>
   <string name="dialog_remobe_luckymoney_cancle">Alt</string>
   <string name="dialog_remobe_luckymoney_ok">Neu</string>
   <string name="dialog_remove_luckymoney">Sie können den neuen intergrierten Roten Umschlagsassistenten oder den vorhandenen verwenden. Welchen bevorzugen Sie?</string>
@@ -2130,7 +2135,7 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="safe_result_item_info_wifi_encryption">WLAN ist verschlüsselt</string>
   <string name="safe_result_item_info_wifi_fake">Keine Fälschung</string>
   <string name="safepay_alert_dialog_button_continue">Fortsetzen</string>
-  <string name="safepay_alert_dialog_button_risk">Beheben</string>
+  <string name="safepay_alert_dialog_button_fix">Beheben</string>
   <string name="safepay_alert_dialog_button_unknown">Noch einmal prüfen</string>
   <string name="safepay_alert_dialog_title_risk"><font color="#ec2700">Risiko gefunden! Brechen Sie die Zahlung ab!</font></string>
   <string name="safepay_alert_dialog_title_unknown">"<font color="#f59c00">Zahlungssicherheit konnte nicht überprüft werden. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.</font>"</string>
@@ -2142,7 +2147,7 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="saving_conflict_restrictbackground_msg">Die Datenreduzierung kann bei Beschränkung der Hintergrunddaten nicht verwendet werden. Möchten Sie die Datenreduzierung und die Beschränkung der Hintergrunddaten einschalten?</string>
   <string name="sc_allow_network_dialog_message">Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt werden zu können.</string>
   <string name="sc_allow_network_dialog_tiltle">"Diese Funktion kann nicht benutzt werden"</string>
-  <string name="sc_system_risk_fix_info_xspace">Dieses Problem kann nicht im Zweitprofil behoben werden, wechseln sie dazu in das Hauptprofil.</string>
+  <string name="sc_system_risk_fix_info_xspace">Problem kann im Zweitprofil nicht behoben werden. Dazu ins Hauptprofil wechseln.</string>
   <string name="scan_installed_games">Überprüfe installierte Spiele…</string>
   <string name="scan_status_risk">Riskant</string>
   <string name="scan_status_safe">Sicher</string>
@@ -2228,7 +2233,9 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="sorted_dialog_title">Sortieren nach</string>
   <string name="sp_back_title_text_zero">Sicher</string>
   <string name="sp_background_risk_dialog_summary">, bitte beachten Sie die Warnungen für eventuell unsichere Zahlungen</string>
-  <string name="sp_background_risk_dialog_title">Gefährlich</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Sie sind mit einem öffentlichen WLAN verbunden, das unsicher sein kann. Vergewissern Sie sich, dass Ihre Zahlung geschützt ist, bevor Sie sie abschließen.</string>
+  <string name="sp_background_risk_dialog_title">Achtung</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">Meldung über öffentliches WLAN</string>
   <string name="sp_background_risk_type_messaging">Systemnachrichten-App wurde ausgetauscht</string>
   <string name="sp_background_risk_type_root">System ist gerootet</string>
   <string name="sp_background_risk_type_sign">Inoffizielle App läuft im Hintergrund</string>
@@ -2855,7 +2862,7 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="virus_update_fail">Udapte fehlgeschlagen</string>
   <string name="virus_update_success">Update erfolgreich</string>
   <string name="virus_update_tips_title">Warnung</string>
-  <string name="virus_wait_network_dialog_message">Ihr Telefon ist nicht mit dem WLAN verbunden. Es werden mobile Daten verwendet. Fortfahren?</string>
+  <string name="virus_wait_network_dialog_message">Ihr Telefon ist nicht mit dem WLAN verbunden. Mobile Daten nutzen?</string>
   <string name="voltage_symbol">V</string>
   <string name="vpn_disabled_by_user">Designierte Datenverbindung ist ausgeschaltet</string>
   <string name="vpn_unbale_get_phonenum">"Telefonnummer kann bei designierter Datenverbindung nicht abgerufen werden"</string>

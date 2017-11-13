@@ -84,7 +84,7 @@
   <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/rauszoomen, indem Sie 3 mal auf den Bildschirm tippen. Wenn Sie reingezoomt haben, können Sie:
   <li><ul>"Verschieben: Ziehen Sie zwei oder mehr Finger über den Bildschirm.
       <li>Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.</li></ul></li>
-      
+
 Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifaches Antippen und Halten vergrößern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren.
 Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für die Tastatur und Navigationsleiste."</string>
   <string name="accessibility_screen_magnification_title">Vergrößerungsgesten</string>
@@ -2444,6 +2444,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="lock_screen_notifications_summary_show">Alle Benachrichtigungen und deren Inhalt anzeigen</string>
   <string name="lock_screen_notifications_summary_show_profile">Alle Benachrichtigungsinhalte anzeigen</string>
   <string name="lock_screen_notifications_title">Wenn das Gerät gesperrt ist</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Passwort niemals erforderlich.</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Passwort sofort erforderlich</string>
   <string name="lock_screen_secure_after_timeout_summary">Passwort erforderlich in %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Passwort erforderlich</string>
@@ -3210,10 +3211,10 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="open_miui_optimization_title">MIUI-Optimierung einschalten</string>
   <string name="open_miui_optimization_warning_message">Ihr Gerät wird neu gestartet, um diese Änderungen zu übernehmen</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Abbrechen</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Schließen</string>
-  <string name="open_personal_assistant_dialog_desc">Sie werden nicht in der Lage sein Smart Assistent zu verwenden, jetzt abschalten?</string>
-  <string name="open_personal_assistant_dialog_title">Smart Assistent abschalten</string>
-  <string name="open_personal_assistant_title">Smart Assistent einschalten</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Deaktivieren</string>
+  <string name="open_personal_assistant_dialog_desc">Sie können den App Tresor nicht mehr verwenden und erhalten dafür keine Updates mehr. Deaktivieren?</string>
+  <string name="open_personal_assistant_dialog_title">App Tresor abschalten</string>
+  <string name="open_personal_assistant_title">App Tresor einschalten</string>
   <string name="open_sdcard_optimization_title">Pseudo-SD-Kartenoptimierung öffnen</string>
   <string name="open_sdcard_optimization_warning_message">Ihr Gerät wird neu gestartet um diese Änderung anzuwenden.</string>
   <string name="open_wifi_connect_summary">Tippen um Details anzuzeigen.</string>
@@ -3520,6 +3521,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="phone_language">Sprache</string>
   <string name="phone_language_summary" />
   <string name="physical_keyboard_title">Hardware Tastatur</string>
+  <string name="pick_up_gesture_wakeup_title">Beim Aufhebegeste Gerät aufwecken</string>
   <string name="pico_installed">Installiert</string>
   <string name="pico_languages_and_voices">Sprachen und Stimmen</string>
   <string name="pico_not_installed">Nicht installiert</string>
@@ -5405,7 +5407,7 @@ Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. U
   <string name="unlock_disable_frp_warning_content_password_profile">Profilschutz wird ohne Ihr Passwort nicht funktionieren.</string>
   <string name="unlock_disable_frp_warning_content_pattern">Geräteschutz funktioniert ohne ein Entsperrmuster nicht.</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren.
-  
+
 Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren.
     Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden."</string>
