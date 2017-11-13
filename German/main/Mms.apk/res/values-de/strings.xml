@@ -137,6 +137,7 @@
   <string name="delete_wild_sims_title">Ausgewählte Nummern löschen</string>
   <string name="delivery_report_activity">Zustellbericht</string>
   <string name="delivery_toast_body">%s hat die Nachricht erhalten.</string>
+  <string name="dialog_message_sms_report">Spam-Nachrichten und Absenderinformationen werden nach der Meldung an MIUI gesendet. Sie werden nur zur Verbesserung der MIUI-Spamfilter verwendet.</string>
   <string name="disable_notifications_dialog_message">Doppelte SMS-Benachrichtigungen von der Standardnachrichtenapp verhindern?</string>
   <string name="disabled">Deaktiviert</string>
   <string name="discard">Verwerfen</string>
@@ -425,7 +426,7 @@
   <string name="pref_message_recovery_introduction_title">Nachrichten wiederherstellen</string>
   <string name="pref_messages_to_save">Anzahl zu speichernder Nachrichten festlegen</string>
   <string name="pref_mms_settings_title">MMS</string>
-  <string name="pref_msg_trash_bin_title">Kürzlich gelöschte Nachrichten</string>
+  <string name="pref_msg_trash_bin_title">SMS Papierkorb</string>
   <string name="pref_notification_settings_title">Benachrichtigungen</string>
   <string name="pref_other_title">Andere</string>
   <string name="pref_show_blocked_messages_summary">Gesperrte SMS in der Unterhaltungsliste anzeigen</string>
@@ -438,6 +439,7 @@
   <string name="pref_sms_storage_title">Speicher</string>
   <string name="pref_sms_theme_title">Thema</string>
   <string name="pref_summary_allow_si_sl_push">Zulassen von Nachrichten, um Inhalte von Webseiten zu laden</string>
+  <string name="pref_summary_allow_upload_message_info">Spam-Nachrichten und Absenderinformationen werden nach der Meldung an MIUI gesendet.</string>  
   <string name="pref_summary_auto_delete">Alte Nachrichten beim Erreichen des Grenzwertes löschen</string>
   <string name="pref_summary_delete_limit">%1$s Nachrichten pro Unterhaltung</string>
   <string name="pref_summary_delivery_reports">Sendebestätigung für jede gesendete Nachricht anfordern</string>
@@ -461,6 +463,7 @@
   <string name="pref_time_auto_group_title">Gruppierte Nachrichten</string>
   <string name="pref_title_about_smart_sms">Über Smartnachrichten-Partner</string>
   <string name="pref_title_allow_si_sl_push">WAP-Pushmitteilungen erlauben (SI/SL)</string>
+  <string name="pref_title_allow_upload_message_info">Spam-Nachrichten hochladen</string> 
   <string name="pref_title_auto_delete">Alte Nachrichten löschen</string>
   <string name="pref_title_card_format">Kartenteilformat</string>
   <string name="pref_title_delivery_reports">Sendebestätigung</string>
@@ -625,6 +628,7 @@
   <string name="sms_full_title">SMS-Speicher voll</string>
   <string name="sms_rejected_body">Eine eingehende Nachricht wurde aus unbekanntem Grund zurückgewiesen</string>
   <string name="sms_rejected_title">SMS abgelehnt</string>
+  <string name="sms_report">Spam-Nachricht melden</string> 
   <string name="sms_report_dialog_content">Bericht konnte nicht gesendet werden, versuchen Sie es noch einmal.</string>
   <string name="sms_report_dialog_retry">Erneut versuchen</string>
   <string name="sms_report_dialog_title">Erneut versuchen</string>

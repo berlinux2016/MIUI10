@@ -23,14 +23,14 @@
   <string name="action_menu_account_not_login_hint">Cloudeinstellungen zum Anmelden verwenden</string>
   <string name="action_menu_bookshelf">Bücherregal</string>
   <string name="action_menu_current_version">Aktuelle Version</string>
-  <string name="action_menu_request_desktop_site">Desktopversion anfordern</string>
-  <string name="action_menu_request_desktop_site_off">Desktopversion anfordern/aus</string>
-  <string name="action_menu_request_desktop_site_on">Desktopversion anfordern/an</string>
+  <string name="action_menu_request_desktop_site">Website-Zugriff</string>
+  <string name="action_menu_request_desktop_site_off">Website-Zugriff ist aus</string>
+  <string name="action_menu_request_desktop_site_on">Website-Zugriff ist an</string>
   <string name="action_menu_text_add_bookmark">Lesezeichen hinzufügen</string>
   <string name="action_menu_text_bandwidth">Datenreduzierung</string>
   <string name="action_menu_text_bandwidth_off">Datenreduzierung</string>
   <string name="action_menu_text_bandwidth_on">Datenreduzierung</string>
-  <string name="action_menu_text_bookmark_add_off">Website kann nicht hinzugefügt werden.</string>
+  <string name="action_menu_text_bookmark_add_off">Website konnte nicht hinzugefügt werden.</string>
   <string name="action_menu_text_bookmark_added">Lesezeichen hinzugefügt</string>
   <string name="action_menu_text_copy_url">URL kopieren</string>
   <string name="action_menu_text_create_qr_code">QR-Code</string>
@@ -65,7 +65,7 @@
   <string name="add_favorites_to">Favoriten hinzufügen</string>
   <string name="add_new_bookmark">Lesezeichen hinzufügen</string>
   <string name="add_new_quicklink">Auf Startseite hinzufügen</string>
-  <string name="add_pwa_to_homescreen">Diese Seite zum Startbildschirm hinzufügen?</string>
+  <string name="add_pwa_to_homescreen">Eine Verknüpfung auf dem Startbildschirm hinzufügen?</string>
   <string name="add_ql_bm_title">Speichern</string>
   <string name="add_quicklink_to_popular">Auf Startseite hinzufügen</string>
   <string name="add_quicklinks">Hinzufügen</string>
@@ -79,7 +79,7 @@
   <string name="added_to_bookmarks">Zu Lesezeichen hinzugefügt</string>
   <string name="adjust_text_zoom_toast">Wenn Sie die Textgröße verändern, könnte das dazu führen, dass die Webseite nicht mehr korrekt angezeigt wird</string>
   <string name="agree">Zustimmen</string>
-  <string name="agree_permissions_request">Zustimmen</string>
+  <string name="agree_permissions_request">Erlauben</string>
   <string name="alert_tips">Diese Website kann ein Sicherheitsrisiko darstellen</string>
   <string name="allow">Erlauben</string>
   <string name="app_new_version">Die neueste Version dieser App ist bereits installiert</string>
@@ -296,7 +296,7 @@ dieses private Fenster​"</string>
   <string name="empty_app_name">andere App</string>
   <string name="empty_bookmark">Leer</string>
   <string name="empty_cloud_tab_login_hint">Keine Cloud-Tabs</string>
-  <string name="empty_cloud_tab_logout_hint">"Mit Mi Konto anmelden Tabs, die in anderen Geräten geöffnet sind, werden hier angezeigt"</string>
+  <string name="empty_cloud_tab_logout_hint">Um Tabs von anderen Geräten zu sehen mit Ihrem Mi Konto anmelden.</string>
   <string name="empty_history_hint">Verlauf ist leer</string>
   <string name="empty_snapshot_hint">Leer</string>
   <string name="enable_geolocation_confirm_message">Das Deaktivieren dieser Funktion könnte auf einigen Seiten zu Fehlverhalten führen.</string>
@@ -575,10 +575,10 @@ Diese Seite verlassen?"</string>
   <string name="permission_alert_window">Um diese Funktion zu verwenden, aktivieren Sie die Systemeinstellung \"Popups anzeigen\".</string>
   <string name="permission_notification">Ihnen Benachrichtigungen senden</string>
   <string name="permission_unknown">Unbekannte Option</string>
-  <string name="permissions_prompt_message">"%s möchte "</string>
+  <string name="permissions_prompt_message">%s möchte </string>
   <string name="popup_window_attempt">Erlauben Sie dieser Seite ein Popup-Fenster zu öffnen?</string>
   <string name="positive_confirm_message">Trotzdem ausschalten</string>
-  <string name="pref_accept_quicklink_push">Startseite drücken</string>
+  <string name="pref_accept_quicklink_push">News-Feed</string>
   <string name="pref_accessibility">Eingabehilfen</string>
   <string name="pref_accessibility_title">Eingabehilfen</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Einfache Buchstabenkombinationen können mit einem Druck in die Adressleiste eingefügt werden</string>
@@ -694,14 +694,14 @@ Diese Seite verlassen?"</string>
   <string name="pull_to_refresh_pull_label">Zum Aktualisieren ziehen</string>
   <string name="pull_to_refresh_refreshing_label">Wird geladen…</string>
   <string name="pull_to_refresh_release_label">Zum Aktualisieren und für Empfehlungen loslassen</string>
-  <string name="pwa_app_name">Webapp</string>
+  <string name="pwa_app_name">Webapps</string>
   <string name="qr_code_title">QR-Code</string>
   <string name="qr_description">QR Code scannen</string>
   <string name="quicklink_bookmark_save">LESEZEICHENSPEICHERORT</string>
   <string name="quicklink_cannot_save_url">Diese URL kann nicht hinzugefügt werden</string>
   <string name="quicklink_folder_text">Top App</string>
   <string name="quicklink_not_saved">"Konnte nicht zur Startseite hinzugefügt werden"</string>
-  <string name="quicklink_push_confirm_message">Das Ausschalten dieser Funktion wirkt sich auf das Drücken der Startseite aus.</string>
+  <string name="quicklink_push_confirm_message">Nach dem Ausschalten dieser Funktion wird Ihr Feed keine Updates mehr erhalten. Jetzt deaktivieren?</string>
   <string name="quicklink_saved">Auf Startseite gespeichert</string>
   <string name="quicklink_saved_before">Diese Seite wurde bereits hinzugefügt</string>
   <string name="quicklink_user_define_webpage_title">Name</string>
@@ -724,7 +724,7 @@ Diese Seite verlassen?"</string>
   <string name="readmode_recommend_message">"Sie haben das Buch bereits gelesen :-)"</string>
   <string name="readmode_refresh">Aktualisieren</string>
   <string name="readmodelist_bookmarks_to_show">Leseliste</string>
-  <string name="refuse_permissions_request">Müll</string>
+  <string name="refuse_permissions_request">Einschränken</string>
   <string name="remember_passwords_confirm_message">Bedienung kann durch Deaktivieren beeinflusst werden.</string>
   <string name="remove_bookmark">Lesezeichen löschen</string>
   <string name="remove_bookmark_group">Gruppe löschen</string>
@@ -810,8 +810,8 @@ Diese Seite verlassen?"</string>
   <string name="skip_button_label">Überspringen</string>
   <string name="skip_current_version">Überspringe diese Version</string>
   <string name="snapshot">Lokal</string>
-  <string name="snapshot_failed">"Konnte das nicht zum Offlinelesen speichern"</string>
-  <string name="snapshot_successed">Zum Offlinelesen gespeichert</string>
+  <string name="snapshot_failed">Seite konnte nicht gespeichert werden</string>
+  <string name="snapshot_successed">Öffnen Sie Lesez. &amp; Verlauf um unter LOKAL die Seite anzusehen</string>
   <string name="ssl_bad_clock_date_settings">Datumseinstellungen</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Eine private Verbindung zu %s1 kann nicht hergestellt werden, da Ihre Datums- und Uhrzeiteinstellungen (%s2) ungültig sind."</string>
   <string name="ssl_certificate">Sicherheitszertifikat</string>
@@ -974,7 +974,7 @@ Diese Seite verlassen?"</string>
   <string name="voice_title">Sagen Sie Ihr Kommando…</string>
   <string name="voice_title_distinguish">Verarbeiten…</string>
   <string name="voice_title_listening">Zuhören…</string>
-  <string name="voice_title_please">Sprechen Sie…</string>
+  <string name="voice_title_please">Jetzt sprechen…</string>
   <string name="voice_title_speech_again">"Konnte Sie nicht verstehen"</string>
   <string name="weather_location_confirm_message">Das Deaktivieren dieser Funktion kann die Anwendung beeinflussen.</string>
   <string name="webpage_bookmark_title">Lesezeichen</string>

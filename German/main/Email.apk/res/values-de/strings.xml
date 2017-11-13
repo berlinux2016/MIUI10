@@ -36,6 +36,8 @@
   <string name="account_settings_login_dialog_content_fmt">Der Benutzername oder das Passwort für %s ist falsch. Möchten Sie die Daten jetzt ändern?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Fehler bei Ihrer Anmeldung in %s, Servermeldung: %s. Möchten Sie Ihren Benutzernamen und/oder Ihr Passwort aktualisieren?</string>
   <string name="account_settings_login_dialog_title">Anmeldung nicht möglich</string>
+  <string name="account_settings_mail_check_frequency_dialog_title">E-Mail muss manuell aktualisiert werden, um E-Mails zu synchronisieren</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">Wenn Sie zu manuell wechseln, müssen Sie manuell aktualisieren, um Nachrichten und Kalender zu synchronisieren</string>
   <string name="account_settings_mail_check_frequency_label">Häufigkeit</string>
   <string name="account_settings_mibill_resolve_label">Rechnungen automatisch verwalten</string>
   <string name="account_settings_name_label">Ihr Name</string>
@@ -45,6 +47,7 @@
   <string name="account_settings_param">Kontoeinstellungen</string>
   <string name="account_settings_policies">Sicherheitsrichtlinien</string>
   <string name="account_settings_preference_add_account">Ein E-Mail-Konto hinzufügen</string>
+  <string name="account_settings_preference_att_save_path">Standardspeicherort für Anhänge</string>
   <string name="account_settings_preference_head_icon">Kontaktfotos anzeigen</string>
   <string name="account_settings_preference_notify">Benachrichtigungen</string>
   <string name="account_settings_retry_label">Synchronisieren</string>
@@ -68,10 +71,10 @@
   <string name="account_setup_address_label">E-Mail</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Bestätigen Sie, dass der Benutzername, das Passwort und die Kontoeinstellungen richtig sind.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Kontoeinrichtung fehlgeschlagen</string>
-  <string name="account_setup_basics_email_label">Konto ID eingeben</string>
+  <string name="account_setup_basics_email_label">E-Mail-Adresse eingeben</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Anmeldung über das aktuelle Netzwerk</string>
   <string name="account_setup_basics_manual_setup_action">Manuell einrichten</string>
-  <string name="account_setup_basics_mi_mail_login_help">Mi Mail Login erfolgreich, überprüfen Sie die SMS und aktivieren Sie den Link um Mails senden und erhalten zu können</string>
+  <string name="account_setup_basics_mi_mail_login_help">Eventuell müssen Sie Ihr Konto per SMS bestätigen, um E-Mails zu erhalten.</string>
   <string name="account_setup_basics_password_label">Passwort eingeben</string>
   <string name="account_setup_basics_title">Kontoeinrichtung</string>
   <string name="account_setup_check_settings_check_incoming_msg">Servereinstellungen werden überprüft…</string>
@@ -222,6 +225,7 @@
   <string name="auto_remind_unbind">Entfernen</string>
   <string name="auto_sync_off">Automatische Synchronisation ist ausgeschaltet</string>
   <string name="automatic_remind_text">Automatisch erinnern</string>
+  <string name="back">Zurück</string>
   <string name="bank_card_detail">Kreditkartendetails</string>
   <string name="battery_saver">Energiesparmodus</string>
   <string name="battery_saver_keywords">Energie sparen;E-Mail Akku</string>
@@ -376,8 +380,8 @@
   <string name="dialog_gmail_proxy_server_is_error">Gmail-Proxyserver Fehler.</string>
   <string name="dialog_insufficient_space_on_external">Anhang kann nicht heruntergeladen werden. Nicht genügend externer Speicher.</string>
   <string name="dialog_insufficient_space_on_internal">Nicht genügend interner Speicher.</string>
-  <string name="dialog_system_auto_sync_account_no_open">Die Kontosynchronisation ist ausgeschaltet. E-Mails können nicht synchronisiert werden</string>
-  <string name="dialog_system_auto_sync_master_no_open">Die Systemsynchronisation ist ausgeschaltet. E-Mails können nicht synchronisiert werden</string>
+  <string name="dialog_system_auto_sync_account_no_open">Aktivieren Sie die Kontosynchronisation, um E-Mails automatisch zu erhalten</string>
+  <string name="dialog_system_auto_sync_master_no_open">Aktivieren Sie die Synchronisierung, um E-Mails automatisch zu erhalten</string>
   <string name="disable_admin_warning">ACHTUNG: Wenn Sie die Berechtigung der E-Mailapp zur Verwaltung Ihres Geräts deaktivieren, werden alle E-Mailkonten, die diese Berechtigung benötigen, mit allen zugehörigen E-Mails, Kontakten, Terminen und weiteren Daten gelöscht.</string>
   <string name="discard">Löschen</string>
   <string name="discard_drafts">Entwürfe löschen</string>
@@ -419,6 +423,7 @@
   <string name="email_setting">E-Mail-Einstellungen</string>
   <string name="email_setting_keywords">Konten;Konto hinzufügen;Mailkonten;E-Mail-Konto;E-Mail-Konto hinzufügen;Vor dem Löschen bestätigen;Vor dem Senden bestätigen;Nachrichtenverlauf löschen;Weiterleiten;Konversationsansicht;E-mail-Konversation;Mail Akku;Feedback senden</string>
   <string name="email_sina">Sina Mail</string>
+  <string name="eml_parse_message">Langsames Auflösen von eml-Dateien, bitte warten…</string>
   <string name="empty_account_tip">Konto nicht gefunden</string>
   <string name="empty_email_tip">Leere Nachricht kann nicht gesendet werden</string>
   <string name="empty_spam">Spamordner leeren</string>
@@ -434,6 +439,7 @@
   <string name="expand_recipient_details">Empfängerdetails erweitern</string>
   <string name="fail_get_email_message">Nachricht Laden fehlgeschlagen.</string>
   <string name="failed">Bild kann nicht geladen werden</string>
+  <string name="failed_parse_eml_file">Email Auflösung fehlgeschlagen, bitte versuchen Sie es erneut</string>
   <string name="failed_read_phone_state_permission">Zugriff auf Gerätestatus erlauben</string>
   <string name="failed_read_write_calendar_permission">Zugriff zum Kalender erlauben</string>
   <string name="failed_read_write_contacts_permission">Zugriff auf Kontakte erlauben</string>
@@ -444,10 +450,14 @@
   <string name="feedback_user_edit_tag">Von MIUI </string>
   <string name="fetch_bank_sender_list_failure">Informationen konnten nicht ermittelt werden</string>
   <string name="fetching_attachment">Anhang wird abgerufen…</string>
+  <string name="file_defailt_save_path">Anhänge werden standardmäßig im Ordner %s gespeichert. Sie können den Ordner in den Einstellungen ändern.</string>
+  <string name="file_default_save_path_title">Standardspeicherort für Anhänge</string>
   <string name="file_deleted_success">Datei gelöscht!</string>
   <string name="file_not_found">Datei auf dem Mail Server nicht gefunden!</string>
   <string name="file_not_found_redownload">Datei nicht gefunden.</string>
   <string name="file_rar_not_support">Verschlüsselte Rar-Dateien werden nicht unterstützt</string>
+  <string name="file_save_path_dialog_cancel">Abbrechen</string>
+  <string name="file_save_path_dialog_ok">Jetzt ändern</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="first_quick_default_reply">Tippen, um \"%s\" an alle Personen in der Konversation zu senden</string>
   <string name="float_window_content">Es wurde erkannt, dass Sie 139 Mailbox verwenden. Klicken Sie auf Bestätigen, um von 139 Mailbox automatisch das Konto und Passwort auszufüllen.</string>
@@ -558,7 +568,7 @@
   <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaang</string>
   <string name="mail">E-Mail</string>
   <string name="mail_body_turncated">Diese E-mail ist zu groß zum laden, darum wird nur ein Teil angezeigt. Die vollständige E-mail können Sie an einem Computer abrufen.</string>
-  <string name="mail_description_content">E-Mail ist ein Mail Client, der mehrere Konten verwalten kann. Er unterstützt Senden, Empfangen, Kategorisieren und bietet Services wie Sitzungsmodus, Zahlungsmails, Sortierung und andere Dienste. Wenn Sie diese App deinstallieren, werden Ihre Mails gelöscht.</string>
+  <string name="mail_description_content">E- Mail ist ein E-Mail-Client, der mehrere Konten verwalten, E-Mails senden und empfangen sowie Kalenderinformationen und Kontakte synchronisieren kann. Stellen Sie sicher, dass Sie auf diese Funktionen verzichten können, bevor Sie die App deinstallieren. Ihre Exchange-Kontakte und Kalenderinfo werden ebenfalls gelöscht.</string>
   <string name="mail_description_title">Über E-Mail</string>
   <string name="mail_header_network_not_available">Keine Netzwerkverbindung verfügbar</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinierte Ansicht</string>
@@ -598,7 +608,7 @@
   <string name="meeting_canceled">Abgebrochene: %s</string>
   <string name="meeting_declined">Abgelehnt: %s</string>
   <string name="meeting_recurring">Wann: %s (wiederkehrend)</string>
-  <string name="meeting_responded_failed">Antwort fehlgeschlagen</string>
+  <string name="meeting_responded_failed">Keine Antwort</string>
   <string name="meeting_tentative">Vorläufig: %s</string>
   <string name="meeting_updated">Aktualisiert: %s</string>
   <string name="meeting_when">Wann: %s</string>
@@ -648,6 +658,7 @@
   <string name="move_to_selection_dialog_title">Verschieben nach</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Ignorieren</string>
+  <string name="navigation_menu">Navigationsmenü</string>
   <string name="net_check_title">Konnte nicht zum Netzwerk verbunden werden. Überprüfen Sie die Netzwerkeinstellungen und versuchen Sie es erneut.</string>
   <string name="network_error">Keine Verbindung</string>
   <string name="network_invaild">Neztzwerkfehler</string>
@@ -693,10 +704,10 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="oauth_login_usr_proxy">Anmeldung über Proxy</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
-  <string name="open_calendar_and_contacts_permission">Bitte aktivieren Sie die Kalender und Kontakte Berechtigung in den Systemeinstellungen</string>
-  <string name="open_external_storage_and_calendar_permission">Bitte aktiviern Sie die Berechtigung für externe Speicher und Kalender in den Systemeinstellungen</string>
-  <string name="open_external_storage_and_contacts_and_calendar_permission">Bitte aktivieren Sie die Berechtigung für externe Speicherung, Kalender, Kontakte in den Systemeinstellungen</string>
-  <string name="open_external_storage_and_contacts_permission">Bitte aktivieren Sie die Berechtigung für externe Speicher und Kontakte in den Systemeinstellungen</string>
+  <string name="open_calendar_and_contacts_permission">E-Mail den Zugriff auf Kontakte und Kalenderinfo in den Einstellungen erlauben</string>
+  <string name="open_external_storage_and_calendar_permission">E-Mail den Zugriff auf Speicher- und Kalenderinformationen in den Einstellungen erlauben</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">E-Mail den Zugriff auf Speicher-, Kontakt- und Kalenderinformationen in den Einstellungen erlauben</string>
+  <string name="open_external_storage_and_contacts_permission">E-Mail den Zugriff auf Speicherplatz und Kontakte in den Einstellungen erlauben</string>
   <string name="outbox_alert_button_no_resend">Nicht senden</string>
   <string name="outbox_alert_button_resend">Erneut senden</string>
   <string name="outbox_alert_certificate_error">"Kontaktieren Sie Ihren E-Mailsystemadministrator und aktualisieren Sie Ihr Zertifikat."</string>
@@ -823,7 +834,7 @@ um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="qq_login_open_imap">"Aktivieren" klicken, um "IMAP/SMTP" zu aktivieren</string>
   <string name="qq_login_origin_setting">Zur Anmeldung Benutzername und Passwort eingeben &gt;</string>
   <string name="qq_login_send_message">"SMS senden" klicken, um Berechtigungscode zu erhalten</string>
-  <string name="qq_login_webview">Bei QQ E-Mail über Web-Seite anmelden. Bitte geben Sie Ihr Passwort ein.</string>
+  <string name="qq_login_webview">Zum anmelden beim QQ-Webclient tippen Sie auf Anmelden mit dem Passwort.</string>
   <string name="qq_next_generation_auth_toast">Bitte füllen Sie die Anwendung für  zweite Passwortschutzgeneration über einen Browser aus</string>
   <string name="qq_uthentication_failed">Authentifizierung ist fehlgeschlagen. Bitte melden Sie sich erneut an</string>
   <string name="qq_webview_loading">Wird übersprungen, bitte warten…</string>
@@ -979,6 +990,7 @@ um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="shortcut_name_title">Ordnerverknüpfung benennen</string>
   <string name="show_elided">▶ Zitierten Text anzeigen</string>
   <string name="show_images">Bilder anzeigen</string>
+  <string name="show_password">Passwort anzeigen</string>
   <string name="signature">"%s"</string>
   <string name="silent_ringtone">Lautlos</string>
   <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
@@ -999,10 +1011,10 @@ um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="str_select_none">Alles abwählen</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Betreff</string>
-  <string name="sync_contacts_fail_per_content">Beantrage Kontaktberechtigungen, hier klicken um diese zu beantragen</string>
-  <string name="sync_contacts_fail_per_title">Kontaksynchronisierung fehlgeschlagen</string>
-  <string name="sync_contacts_fail_permission">Kontaksynchronisierung fehlgeschlagen, Zugriff auf Telefonkontakte nicht möglich, bitte die Einstellungen unter Rechteverwaltung öffnen</string>
-  <string name="sync_contacts_req_per_ignored">Telefonkontakt ist nicht geöffnet und kann nicht synchronisiert werden</string>
+  <string name="sync_contacts_fail_per_content">Tippen Sie hier, um den Zugriff auf Kontakte zu ermöglichen</string>
+  <string name="sync_contacts_fail_per_title">Kontakte konnten nicht synchronisiert werden</string>
+  <string name="sync_contacts_fail_permission">Kontakte konnten nicht synchronisiert werden, E-Mail den Zugriff auf Ihre Kontakte in den Einstellungen erlauben.</string>
+  <string name="sync_contacts_req_per_ignored">E-Mail den Zugriff auf Ihre Kontakte zum synchronisieren erlauben</string>
   <string name="sync_error">Synchronisierung nicht möglich</string>
   <string name="sync_error_message">Das Gerät verfügt nicht über genügend Speicherplatz für die Synchronisierung.</string>
   <string name="syncing_wait_restart">Erneut versuchen</string>
@@ -1015,7 +1027,9 @@ um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="system_folders_trash_dlg">Papierkorb des Servers auswählen</string>
   <string name="system_folders_trash_summary">Papierkorb des Servers auswählen</string>
   <string name="system_folders_trash_title">Papierkorb</string>
-  <string name="system_setup_open_error">Synchronisation in den Einstellungen zulassen</string>
+  <string name="system_root_path">Einstellungen Interner Speicher</string>
+  <string name="system_security_open_error">Um Sicherheitseinstellungen anzupassen, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
+  <string name="system_setup_open_error">Synchronisation für E-Mail in den Einstellungen zulassen</string>
   <string name="tablet">Tablet</string>
   <string name="tap_to_configure">Zum Einrichten antippen</string>
   <string name="tap_to_enable_sync">Zum Aktivieren berühren</string>
@@ -1023,16 +1037,17 @@ um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="to">An</string>
   <string name="to_heading">"An: "</string>
   <string name="toast_bar_fail_synchronization">Verbindung zum Netzwerk konnte nicht hergestellt werden</string>
-  <string name="toast_bar_insufficient_memory_space">Nicht genügend Speicherplatz</string>
-  <string name="toast_bar_invalid_account">Sitzung abgelaufen. Bitte erneut anmelden.</string>
+  <string name="toast_bar_insufficient_memory_space">E-Mails konnten nicht abgerufen werden. Nicht genügend Speicherplatz</string>
+  <string name="toast_bar_invalid_account">Kontodaten abgelaufen. Tippen, um sich erneut anzumelden.</string>
   <string name="toast_bar_no_connection_network">Keine Internetverbindung</string>
-  <string name="toast_bar_open_gmail_synchronization">Drücken um Gmail über einen Proxyserver zu verwenden</string>
-  <string name="toastbar_calendar_and_contacts_permission_switch_close">Kalender- und Kontaktberechtigungen sind deaktiviert. Kalender und Kontakte können nicht synchronisiert werden</string>
-  <string name="toastbar_calendar_permission_switch_close">Kalenderberechrigungen sind deaktiviert. Kalender kann nicht synchronisiert werden</string>
-  <string name="toastbar_contacts_permission_switch_close">Kontaktberechtigungen sind deaktiviert. Kontakte können nicht synchronisiert werden</string>
-  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Der Schalter für die Synchronisierung von Kalender und Kontakten ist deaktiviert. Kalender und Kontakte können nicht synchronisiert werden</string>
-  <string name="toastbar_local_calendar_sync_switch_close">Der Schalter für die Kalendersynchronisation ist deaktiviert. Kalender kann nicht synchronisiert werden</string>
-  <string name="toastbar_local_contacts_sync_swtich_close">Der Schalter für die Kontaksynchronisation ist deaktiviert. Kontakte können nicht synchronisiert werden</string>
+  <string name="toast_bar_open_gmail_synchronization">Keine Verbindung zu Google Mail. Gmail-Proxy einschalten</string>
+  <string name="toast_bar_send_fail_remind">E-Mail senden fehlgeschlagen. Mail wurde im Ordner \"Postausgang\" gespeichert</string>
+  <string name="toastbar_calendar_and_contacts_permission_switch_close">Um Kalenderinfo und Kontakte zu synchronisieren, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
+  <string name="toastbar_calendar_permission_switch_close">Um Kalendererinnerungen zu erhalten, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
+  <string name="toastbar_contacts_permission_switch_close">Um Kontakte hinzuzufügen, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
+  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Kalender- und Kontaktsynchronisierung aktivieren, um Kalender und Kontakte zu synchronisieren</string>
+  <string name="toastbar_local_calendar_sync_switch_close">Kalendersynchronisierung einschalten, um Kalendererinnerungen zu empfangen</string>
+  <string name="toastbar_local_contacts_sync_swtich_close">Kontaktsynchronisation einschalten, um Kontakte hinzuzufügen</string>
   <string name="today_text">Heute</string>
   <string name="too_large_to_attach_additional">Dateigröße darf %1$s nicht überschreiten.</string>
   <string name="too_large_to_attach_multiple">Mindestens eine Datei wurde nicht angehängt. Limit: %1$s</string>
