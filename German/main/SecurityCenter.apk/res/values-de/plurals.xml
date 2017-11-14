@@ -41,8 +41,8 @@
     <item quantity="one">"Sie haben das tägliche Datenlimit von Einem bereits benutzt."</item>
   </plurals>
   <plurals name="fw_blocked_count_call">
-    <item quantity="other">%1$d eingehende: %2$s andere</item>
-    <item quantity="one">%1$d eingehender Anrufe: %2$s</item>
+    <item quantity="other">%1$d Anrufe: %2$s etc.</item>
+    <item quantity="one">%1$d Anruf: %2$s etc.</item>
   </plurals>
   <plurals name="fw_blocked_count_sms">
     <item quantity="other">%d Nachrichten</item>
@@ -284,7 +284,7 @@
   <plurals name="number_to_mask_text">
      <item quantity="other">%d Benachrichtigungen werden anzeigt</item>
      <item quantity="one">%d Benachrichtigung wird angezeigt</item>
-  </plurals>  
+  </plurals>
   <plurals name="find_applications">
     <item quantity="other">%d Apps durchsuchen</item>
     <item quantity="one">Eine App durchsuchen</item>
