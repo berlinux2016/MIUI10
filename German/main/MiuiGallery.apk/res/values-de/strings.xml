@@ -108,8 +108,8 @@
   <string name="already_create_baby_album">Baby Album existiert in Mi Cloud</string>
   <string name="always_rotate_alert_msg">Sie können diese Funktion jederzeit in den Galerieeinstellungen ein- und ausschalten</string>
   <string name="always_rotate_alert_positive_button_text">Einschalten</string>
-  <string name="always_rotate_alert_title">Drehe Fotos automatisch</string>
-  <string name="and"> und </string>
+  <string name="always_rotate_alert_title">Fotos automatisch drehen</string>
+  <string name="and">" und "</string>
   <string name="androidesk_wallpapers">Androidhintergründe</string>
   <string name="aperture">Blende</string>
   <string name="app_error">Ein Fehler ist aufgetreten, App wird geschlossen…</string>
@@ -155,10 +155,8 @@
   <string name="baby_album_no_share_user_tip">Zurzeit keine Follower</string>
   <string name="baby_album_picker_default_title">"Wähle %1$s Gesicht"</string>
   <string name="baby_album_setting_title">Baby info</string>
-  <string name="baby_album_sharer_accept_dialog_msg">
-    "%1$s's %2$s,
-    %3$s's %4$s teilte %5$s's Alben mit Ihnen"
-  </string>
+  <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
+%3$s's %4$s teilte %5$s's Alben mit Ihnen"</string>
   <string name="baby_album_sharer_recommand_face">Vorhandenen Fotos von %1$s hinzufügen?</string>
   <string name="baby_album_sharers_page_title">Mit Familie teilen</string>
   <string name="baby_birthday">Geburtstag</string>
@@ -285,7 +283,7 @@
   <string name="cloud_be_shared_guide_message">Sie können Fotos von Freunden sehen und auch Fotos zum Album hinzufügen</string>
   <string name="cloud_be_shared_guide_title">Dieses Album kommt von einem Freund</string>
   <string name="cloud_camera_display_name">Kamerafotos</string>
-  <string name="cloud_folder_chooser_move">Fortos vom Originalalbum löschen</string>
+  <string name="cloud_folder_chooser_move">Fotos vom Originalalbum löschen</string>
   <string name="cloud_full_tip_str">Nicht genügend Cloudspeicher</string>
   <string name="cloud_gallery_recyclebin_full">Ihr Papierkorb ist voll. Leeren Sie ihren Papierkorbs auf i.xiaomi.com.</string>
   <string name="cloud_gallery_space_full">Nicht genug Speicherplatz in ihrer Cloud</string>
@@ -496,7 +494,7 @@
   <string name="enable_face_album_title">Nach Personen sortieren</string>
   <string name="enable_slim_title">Optimieren</string>
   <string name="enabling_face_feature">Einen Moment bitte…</string>
-  <string name="enter_email_hint">E-Mailadresse eingeben</string>
+  <string name="enter_email_hint">E-Mail-Adresse eingeben</string>
   <string name="error_album_not_exist">Album existiert nicht</string>
   <string name="error_build_thumbnail_action">Originaldatei herunterladen</string>
   <string name="error_build_thumbnail_msg">Download des Vorschaubilds fehlgeschlagen. Versuchen Sie die Originaldatei herunterzuladen.</string>
@@ -642,6 +640,7 @@
   <string name="filter_japan_style_cool">Kalt</string>
   <string name="filter_loft_twilight">Zwielicht</string>
   <string name="filter_original">Original</string>
+  <string name="filter_people_blackwhite">S&amp;W</string>
   <string name="filter_people_fairytale">Kinder</string>
   <string name="filter_people_heart">Emotionen</string>
   <string name="filter_people_japanese">Frisch</string>
@@ -682,7 +681,7 @@
   <string name="frame_semicircle">Halbkreis</string>
   <string name="frame_white">Weiß</string>
   <string name="free">Frei</string>
-  <string name="free_view_tip">Kippen Sie das Telefon leicht, um den 3D-Effekt zu sehen</string>
+  <string name="free_view_tip">Kippen Sie leicht das Telefon, um den 3D-Effekt zu sehen</string>
   <string name="gallery_cloud_provider_name">Cloudalbum</string>
   <string name="gallery_setting">Einstellungen</string>
   <string name="gallery_sync_disable_toast">Synchronisation der Galerie ist deaktiviert</string>
@@ -694,11 +693,9 @@
   <string name="grain">Filmkörnung</string>
   <string name="grant_permission_go_and_set">Einstellen</string>
   <string name="grant_permission_item">\"%s\"</string>
-  <string name="grant_permission_text">
-    "Galerie benötigt Zugriff auf
-    %s,
-    um richtig zu funktionieren. Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."
-  </string>
+  <string name="grant_permission_text">"Galerie benötigt Zugriff auf
+%s,
+um richtig zu funktionieren. Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="grant_permission_title">Zugriff erlauben</string>
   <string name="grayscale">Grautöne</string>
   <string name="group_by">Gruppieren nach</string>
@@ -1091,10 +1088,7 @@
   <string name="picker_no_network_message">Keine Netzwerkverbindung, verbinden Sie sich zum Herunterladen</string>
   <string name="picker_origin_need_download">"%1$d der ausgewählten Fotos (%2$dMB) befinden sich nicht auf diesem Gerät. Über mobile Datenverbindung herunterladen?"</string>
   <string name="picker_select_album_title_empty">Album auswählen</string>
-  <string name="picker_skip_unavailable_images">
-    <item quantity="one">Ein Foto übersprungen, das nicht auf dem Gerät ist.</item>
-    <item quantity="other">%d Fotos übersprungen, die nicht auf dem Gerät sind.</item>
-  </string>
+  <string name="picker_skip_unavailable_images"><item quantity="one">Ein Foto übersprungen, das nicht auf dem Gerät ist.</item> <item quantity="other">%d Fotos übersprungen, die nicht auf dem Gerät sind.</item></string>
   <string name="picker_tab_photo">Foto</string>
   <string name="picker_title_format">%1$d bis %2$d Fotos auswählen</string>
   <string name="picker_title_selection_format">%d ausgewählt</string>
@@ -1250,6 +1244,7 @@
   <string name="search_login_sub_title">Einloggen für mehr Fotos</string>
   <string name="search_login_title">Mi Konto</string>
   <string name="search_login_title_full_screen">Melden Sie sich in Ihrem Mi Konto an, um mehr Objekte und Personen zu finden</string>
+  <string name="search_mark_feedback_all_false_negative_title">Alle sind &quot;%s&quot;</string>
   <string name="search_mark_feedback_false_negative_title">OK</string>
   <string name="search_mark_feedback_false_positive_title">Fix</string>
   <string name="search_net_error">Netzwerkfehler, verbinden Sie sich mit einem anderen Netzwerk und versuchen Sie es erneut.</string>
@@ -1427,7 +1422,7 @@
   <string name="sync_history_power_on">Bilderverlauf nur während des Ladevorgangs synchronisieren</string>
   <string name="sync_in_progress_message">Alben werden heruntergeladen…</string>
   <string name="sync_metatata_wait_title">Auf Datensynchronisation mit Mi Cloud wird gewartet</string>
-  <string name="sync_not_allow_cta_title">"Kein Netzwerkzugriff"</string>
+  <string name="sync_not_allow_cta_title">Kein Netzwerkzugriff</string>
   <string name="sync_off_button_text">Sync einschalten</string>
   <string name="sync_off_title">Aktivieren Sie die Synchronisierung mit Mi Cloud, um Fotos und Videos automatisch zu sichern</string>
   <string name="sync_only_in_wifi">Nur über WLAN hochladen</string>
@@ -1447,9 +1442,6 @@
   <string name="tags">Markierungen</string>
   <string name="taken_time">Aufgenommen</string>
   <string name="temperature">Farbton</string>
-  <string name="tencent_mobile_qq_img_save">QQ</string>
-  <string name="tencent_qq_hd_pic">QQ HD</string>
-  <string name="tencent_qzonepic">Qzone</string>
   <string name="terabyteShort">TB</string>
   <string name="text_append">Text</string>
   <string name="text_append_color">Farbe</string>
