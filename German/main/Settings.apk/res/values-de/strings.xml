@@ -943,7 +943,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="button_text_next_step">Weiter</string>
   <string name="button_text_next_step_timer">Weiter (%d)</string>
   <string name="button_text_ok">OK</string>
-  <string name="button_text_ok_timer">OK(%d)</string>
+  <string name="button_text_ok_timer">OK (%d)</string>
   <string name="button_text_reboot_now">Neustarten</string>
   <string name="button_text_reject">Ablehnen</string>
   <string name="cache_header_label">Cache</string>
@@ -1464,7 +1464,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="device_admin_status">Dieser Administrator ist aktiv und ermöglicht der App %1$s, folgende Vorgänge auszuführen:</string>
   <string name="device_admin_title">Geräteverwaltung</string>
   <string name="device_admin_warning">Die Aktivierung dieses Administrators ermöglicht der App %1$s, folgende Vorgänge auszuführen:</string>
-  <string name="device_available_memory">Speicherplatz verfügbar</string>
+  <string name="device_available_memory">Verfügbarer Speicher</string>
   <string name="device_battery">Akku</string>
   <string name="device_build_id">Versionsnummer</string>
   <string name="device_complete_parameters">Vollständig</string>
@@ -1502,7 +1502,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Telefonnummer, Signal, etc.</string>
-  <string name="device_total_memory">Speicherplatz insgesamt</string>
+  <string name="device_total_memory">Gesamter Speicher</string>
   <string name="dial_application_title">Wählen</string>
   <string name="dial_pad_tones_title">Wähltastentöne</string>
   <string name="dialog_content_login">Für das Update mit Ihrem Mi Konto anmelden?</string>
@@ -3052,7 +3052,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="night_mode_title">Thema</string>
   <string name="night_mode_yes">Dunkel</string>
   <string name="no">Nein</string>
-  <string name="no_account_found">Keine Anwendung unterstützt das Hinzufügen von Konten</string>
+  <string name="no_account_found">Keine App gefunden, die Konten hinzufügen kann.</string>
   <string name="no_all_caps">NEIN</string>
   <string name="no_application">Keine</string>
   <string name="no_applications">Keine Apps</string>
@@ -3521,7 +3521,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="phone_language">Sprache</string>
   <string name="phone_language_summary" />
   <string name="physical_keyboard_title">Hardware Tastatur</string>
-  <string name="pick_up_gesture_wakeup_title">Beim Aufhebegeste Gerät aufwecken</string>
+  <string name="pick_up_gesture_wakeup_title">Gerät aufheben um es aufzuwecken</string>
   <string name="pico_installed">Installiert</string>
   <string name="pico_languages_and_voices">Sprachen und Stimmen</string>
   <string name="pico_not_installed">Nicht installiert</string>
@@ -4183,7 +4183,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="se_wallet_hce">HCE-App verwenden</string>
   <string name="se_wallet_uicc">SIM%1$s Bezahlung verwenden</string>
   <string name="search_about">Über</string>
-  <string name="search_about_settings">Über das Gerät;Modellnummer;Androidversion;MIUI Version;CPU;RAM;Interner Speicher;Basisbandversion;Kernelversion;Buildnummer</string>
+  <string name="search_about_settings">Über das Gerät;Modellnummer;Androidversion;MIUI Version;CPU;RAM;Interner Speicher;Speicher;Basisbandversion;Kernelversion;Buildnummer</string>
   <string name="search_accelerometer">Beschleunigungsmesser</string>
   <string name="search_accelerometer_title">Automatisch drehen;Bildschrim drehen;Ausrichtung;Hochformat;Querformat</string>
   <string name="search_access_control">Privatsphäre-Einstellungen;Sicherheit Privatsphäre; Gast; Gast; Gast-Modus</string>
@@ -4537,7 +4537,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="settings_backup">Einstellungen sichern</string>
   <string name="settings_backup_summary">Meine Einstellungen sichern</string>
   <string name="settings_button">Einstellung</string>
-  <string name="settings_forbidden_message">Diese Einstellung ist deaktiviert.</string>
+  <string name="settings_forbidden_message">Diese Einstellung ist eingeschränkt.</string>
   <string name="settings_label">Einstellungen</string>
   <string name="settings_label_launcher">Einstellungen</string>
   <string name="settings_license_activity_loading">Wird geladen…</string>

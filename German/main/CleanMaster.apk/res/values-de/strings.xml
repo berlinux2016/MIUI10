@@ -1,38 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="byteShort">B</string>
-  <string name="default_cache_type">Dateien</string>
-  <string name="empty">" "</string>
-  <string name="engine_cm">Clean Master</string>
-  <string name="engine_init">Starte…</string>
-  <string name="engine_tm">Tencent</string>
-  <string name="gigabyteShort">GB</string>
-  <string name="kilobyteShort">KB</string>
-  <string name="petabyteShort">PB</string>
-  <string name="qq_cache_files">QQ Cache</string>
-  <string name="qq_clean">QQ Cleaner</string>
-  <string name="qq_clean_exit_confirm_msg">Scan stoppen und beenden?</string>
-  <string name="qq_data_type_cache">QQ Cache</string>
-  <string name="qq_data_type_cache_desc">"Sie können diese Daten wiederherstellen, nachdem Sie mit dem Internet verbunden sind."</string>
-  <string name="qq_data_type_chat">Chat Verlauf</string>
-  <string name="qq_data_type_chat_desc">"Sie werden nicht mehr in der Lage sein den Chat Verlauf wiederherzustellen."</string>
-  <string name="qq_data_type_normal">Müll</string>
-  <string name="qq_data_type_normal_clean_tips">"Dies sind Technische Daten. Sie zu löschen würde die Nutzung nicht beeinflussen"</string>
-  <string name="qq_data_type_normal_desc">"Sie zu löschen würde die Nutzung nicht beeinflussen."</string>
-  <string name="qq_data_type_other">Andere</string>
-  <string name="qq_data_type_other_desc">Vorsicht! Möglicherweise können Sie diese Daten nach dem Löschen nicht wiederherstellen.</string>
-  <string name="resutl_function_deep_clean_summary">
-    " "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> mehr Dateien können gelöscht werden. Schaffen Sie Platz!</Data>" "
-  </string>
-  <string name="resutl_function_qq_clean_summary">
-    " "<Data>Sie können &lt;font color=#ff0000 >%1$s&lt;/font> durch QQ verursachten Cach löschen</Data>" "
-  </string>
-  <string name="resutl_function_wechat_clean_summary">
-    " "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat Cache. Schaffen Sie Platz!</Data>" "
-  </string>
-  <string name="terabyteShort">TB</string>
-  <string name="wechat_qq_chat_files">Chat Verlauf</string>
-  <string name="wechat_qq_normal_files">Müll</string>
   <string name="activity_title_ad">Werbung</string>
   <string name="activity_title_apk">Pakete</string>
   <string name="activity_title_brightness_image">Unter- und überbelichtet</string>
@@ -120,6 +87,7 @@
   <string name="buy_a_new_phone">Holen Sie sich mehr Speicherplatz</string>
   <string name="buy_immediately">Kaufen</string>
   <string name="buy_traffic_pack">Mehr Datenvolumen kaufen</string>
+  <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Leerer Ordner (%d)</string>
   <string name="cache_title_empty_folder2">Leerer Ordner</string>
   <string name="cache_title_system_cache">Systemcache</string>
@@ -188,6 +156,7 @@
   <string name="deepclean_title_uninstall_apps">Selten verwendete Apps</string>
   <string name="deepclean_video_content">Lösche bereits angesehene bzw. nicht benötigte Videos</string>
   <string name="deepclean_video_summary_empty">Alles in Ordnung</string>
+  <string name="default_cache_type">Dateien</string>
   <string name="delete_confirm">Löschen</string>
   <string name="delete_confirm_msg">Alle ausgewählten Dateien dauerhaft löschen?</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Fotos auch aus der Mi Cloud löschen</string>
@@ -196,9 +165,9 @@
   <string name="dialog_msg_add_white_list_error">Diese Datei kann nicht zu den Ausnahmen hinzugefügt werden</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Apps sichern und entfernen?</string>
   <string name="dialog_msg_check_all">Auswahl von %1$s mit %2$d enthaltenen Elementen bestätigen</string>
-  <string name="dialog_msg_esc_cleanmaster">Die laufende Überprüfung anhalten?</string>
+  <string name="dialog_msg_esc_cleanmaster">Suchlauf stoppen und Cleaner verlassen?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Bereinigungsmodul fehlerhaft!</string>
-  <string name="dialog_msg_stop_scan">"Möchten Sie die Bereinigung wirklich abbrechen?"</string>
+  <string name="dialog_msg_stop_scan">Suchlauf jetzt stoppen?</string>
   <string name="dialog_msg_uninstall_apps">Diese Apps entfernen?</string>
   <string name="dialog_msg_uninstall_apps_xspace">Diese Apps (inklusive geklonte Apps) entfernen?</string>
   <string name="dialog_ok_add_white_list_error">Verstanden</string>
@@ -212,6 +181,7 @@
   <string name="dialog_title_uninstall_apps">Entfernen</string>
   <string name="download">Herunterladen</string>
   <string name="downloading">Wird heruntergeladen</string>
+  <string name="empty">" "</string>
   <string name="empty_content_no_ignore_image">Leer</string>
   <string name="empty_content_no_privacy">Leer</string>
   <string name="empty_content_no_similar_image">Keine Duplikate</string>
@@ -224,6 +194,9 @@
   <string name="empty_title_photos">Keine Fotos gefunden</string>
   <string name="empty_title_residual">Keine Reste gefunden</string>
   <string name="empty_title_video">Keine Videos zum Löschen​</string>
+  <string name="engine_cm">Clean Master</string>
+  <string name="engine_init">Starte…</string>
+  <string name="engine_tm">Tencent</string>
   <string name="file">Dateien</string>
   <string name="file_not_found">Datei wurde nicht gefunden</string>
   <string name="flow_rank_title">Datenverbrauch</string>
@@ -231,6 +204,7 @@
   <string name="garbage_clean_detail">Details</string>
   <string name="garbage_cleanup_detail">%1$d mal, %2$s bereinigt</string>
   <string name="garbage_month">Diesen Monat %s bereinigt</string>
+  <string name="gigabyteShort">GB</string>
   <string name="go_to">Fortfahren</string>
   <string name="goto_set">Einrichten</string>
   <string name="grabage_rank_title">Heute bereinigt</string>
@@ -308,6 +282,7 @@
   <string name="junk_tag_RF_EmptyFolders">Leere Ordner</string>
   <string name="junk_tag_RF_ImageThumbnails">Vorschaubilder</string>
   <string name="just_now">Gerade eben</string>
+  <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Keine</string>
   <string name="label_preserve_the_best_image">Die besten Fotos speichern</string>
   <string name="last_check_canceled">Die letzte Suche wurde abgebrochen</string>
@@ -366,6 +341,7 @@
   <string name="optimizecenter_data_support_cm">Unterstützt von Clean Master</string>
   <string name="optimizecenter_data_support_tc">Unterstützt von Tencent</string>
   <string name="output_videos">Videos exportieren</string>
+  <string name="petabyteShort">PB</string>
   <string name="phone_search">Google Suche</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Automatisch bereinigen</string>
@@ -420,9 +396,30 @@
   <string name="privacy_search_desc">Suchverlauf</string>
   <string name="privacy_search_type">Google-Suche</string>
   <string name="promotion">Werbung</string>
+  <string name="qq_cache_files">QQ Cache</string>
+  <string name="qq_clean">QQ Cleaner</string>
+  <string name="qq_clean_exit_confirm_msg">Scan stoppen und beenden?</string>
+  <string name="qq_data_type_cache">QQ Cache</string>
+  <string name="qq_data_type_cache_desc">"Sie können diese Daten wiederherstellen, nachdem Sie mit dem Internet verbunden sind."</string>
+  <string name="qq_data_type_chat">Chat Verlauf</string>
+  <string name="qq_data_type_chat_desc">"Sie werden nicht mehr in der Lage sein den Chat Verlauf wiederherzustellen."</string>
+  <string name="qq_data_type_normal">Müll</string>
+  <string name="qq_data_type_normal_clean_tips">"Dies sind Technische Daten. Sie zu löschen würde die Nutzung nicht beeinflussen"</string>
+  <string name="qq_data_type_normal_desc">"Sie zu löschen würde die Nutzung nicht beeinflussen."</string>
+  <string name="qq_data_type_other">Andere</string>
+  <string name="qq_data_type_other_desc">Vorsicht! Möglicherweise können Sie diese Daten nach dem Löschen nicht wiederherstellen.</string>
   <string name="recommend_news">Empfohlene Quellen</string>
   <string name="recommend_the_following">Führen Sie die folgenden Schritte aus, um mehr aus Ihrem Gerät zu holen.</string>
   <string name="recommended">Empfohlen</string>
+  <string name="resutl_function_deep_clean_summary">
+    " "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> mehr Dateien können gelöscht werden. Schaffen Sie Platz!</Data>" "
+  </string>
+  <string name="resutl_function_qq_clean_summary">
+    " "<Data>Sie können &lt;font color=#ff0000 >%1$s&lt;/font> durch QQ verursachten Cach löschen</Data>" "
+  </string>
+  <string name="resutl_function_wechat_clean_summary">
+    " "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat Cache. Schaffen Sie Platz!</Data>" "
+  </string>
   <string name="safety_check_detail">%1$d mal, %2$d Punkte verdient</string>
   <string name="safety_rank">Sie sind den MIUI-Nutzern in puncto Sicherheit %d%% voraus.</string>
   <string name="sc_allow_network_dialog_button">Erlauben</string>
@@ -447,6 +444,7 @@
   <string name="summary_delete_large_file">"Einige große Dateien können nützlich sein, wenn Sie keine Internetverbindung haben (z.B. Karten, Zeitpläne, usw.). Stellen Sie sicher, dass Sie diese Dateien nicht benötigen."</string>
   <string name="summary_delete_video">Ausgewählte Videos dauerhaft löschen?</string>
   <string name="summary_optimizer">"Diese Funktion lädt Ordnernamen in Cheetah Mobile's Onlinedatenbank hoch und benötigt dafür Ihre Geräte-ID."</string>
+  <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Ordnernamen hochladen</string>
   <string name="there_is_no">Sieht alles gut aus, schauen Sie später wieder vorbei</string>
   <string name="tips_of_app_manage">Kaum verwendete Apps löschen, um Speicherplatz zu sparen</string>
@@ -533,6 +531,8 @@
   <string name="wechat_copying_video_empty">Keine Videos zum Export</string>
   <string name="wechat_copying_video_success">Erfolgreich exportiert</string>
   <string name="wechat_normal_files">Papierkorb</string>
+  <string name="wechat_qq_chat_files">Chat Verlauf</string>
+  <string name="wechat_qq_normal_files">Müll</string>
   <string name="white_list_ad_header">Werbung: %d</string>
   <string name="white_list_apk_header">Installationspakete: %d</string>
   <string name="white_list_cache_header">Zwischengespeicherte Dateien: %d</string>
