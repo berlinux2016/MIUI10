@@ -25,20 +25,20 @@
   <string name="face_data_input_ok_msg">Bildschirm aktivieren, um sich mit Ihrem Gesicht anzumelden.</string>
   <string name="face_data_input_ok_title">Erfolgreich hinzugefügt</string>
   <string name="face_data_input_title">Gesicht hinzufügen</string>
-  <string name="face_data_introduction_msg">Ihr Gesicht kann verwendet werden, um Ihr Gerät zu entsperren oder Ihre Identität zu verifizieren. Sie müssen ein Bildschirmpasswort festlegen, bevor Sie Ihr Gesicht hinzufügen können.</string>
+  <string name="face_data_introduction_msg">Ihr Gesicht kann verwendet werden, um Ihr Telefon zu entsperren oder Ihre Identität zu verifizieren. Sie müssen ein Bildschirmpasswort festlegen, bevor Sie Ihr Gesicht hinzufügen können.</string>
   <string name="face_data_introduction_next">Weiter</string>
   <string name="face_data_introduction_title">Gesichtserkennung</string>
   <string name="face_data_manage_delete">Gesicht entfernen?</string>
   <string name="face_data_manage_delete_msg">Gesicht entfernen</string>
-  <string name="face_data_manage_delete_sure">Sie können das Gerät nicht mehr mit Ihrem Gesicht entsperren, nachdem Sie es entfernt haben."."</string>
+  <string name="face_data_manage_delete_sure">Sie können das Telefon nicht mehr mit Ihrem Gesicht entsperren, nachdem Sie es entfernt haben."."</string>
   <string name="face_data_manage_delete_title">Gesichtsdaten</string>
-  <string name="face_data_manage_unlock_msg">Gerät mit Hilfe Ihres Gesichtes entsperren</string>
-  <string name="face_data_manage_unlock_title">Gerät mit Hilfe Ihres Gesichtes entsperren</string>
-  <string name="face_data_suggesstion_first">Das Entsperren Ihres Geräts mit Hilfe Ihres Gesichts ist unsicherer als das Bildschirmpasswort zu verwenden. Möglicherweise kann Ihr Gerät von Leuten entsperrt werden, die wie Sie aussehen.</string>
+  <string name="face_data_manage_unlock_msg">Telefon mit Hilfe Ihres Gesichtes entsperren</string>
+  <string name="face_data_manage_unlock_title">Telefon mit Hilfe Ihres Gesichtes entsperren</string>
+  <string name="face_data_suggesstion_first">Das Entsperren Ihres Telefons mit Hilfe Ihres Gesichts ist unsicherer als das Bildschirmpasswort zu verwenden. Möglicherweise kann Ihr Telefon von Leuten entsperrt werden, die wie Sie aussehen.</string>
   <string name="face_data_suggesstion_second">Vergewissern Sie sich, dass Ihr Gesicht nicht von Gegenständen verdeckt wird und gut beleuchtet ist.</string>
   <string name="face_unlock_adjust_distance">Achten Sie darauf, dass der Abstand zwischen Ihrem Gesicht und dem Bildschirm optimal ist.</string>
-  <string name="face_unlock_be_on_the_screen">Halten Sie das Gerät vor Ihr Gesicht</string>
-  <string name="face_unlock_by_notification_screen_on_msg">Sie können das Gerät mit Ihrem Gesicht entsperren, wenn der Bildschirm bei Benachrichtigungen aktiviert wird. Dies kann den Akku schneller entladen.</string>
+  <string name="face_unlock_be_on_the_screen">Halten Sie das Telefon vor Ihr Gesicht</string>
+  <string name="face_unlock_by_notification_screen_on_msg">Sie können das Telefon mit Ihrem Gesicht entsperren, wenn der Bildschirm bei Benachrichtigungen aktiviert wird. Dies kann den Akku schneller entladen.</string>
   <string name="face_unlock_by_notification_screen_on_title">Gesichtsentsperrung erlauben, wenn der Bildschirm aktiviert wird</string>
   <string name="face_unlock_check_failed">Gesichtserkennung fehlgeschlagen</string>
   <string name="face_unlock_close_screen">Kommen Sie näher an den Bildschirm heran</string>
@@ -62,12 +62,12 @@
   <string name="find_device_turn_off_flight_mode">Flugmodus ausschalten</string>
   <string name="fingerprint_add_text">Die Fingerabdruck-Schnittstelle wurde aktualisiert. Fügen Sie Ihren Fingerabdruck noch einmal hinzu</string>
   <string name="fingerprint_add_title">Fingerabdruck hinzufügen</string>
-  <string name="fingerprint_again_identified_msg">Ihr Fingerabdruck ist jetzt aktiv. Verwenden Sie diesen oder ein Passwort, um Ihr Gerät zu entsperren</string>
+  <string name="fingerprint_again_identified_msg">Ihr Fingerabdruck ist jetzt aktiv. Verwenden Sie diesen oder ein Passwort, um Ihr Telefon zu entsperren</string>
   <string name="fingerprint_enter_second_psw_msg">Geben Sie nach dem Neustart Ihr Zweitprofilpasswort ein, um die Fingerabdruckerkennung zu verwenden</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Im Lightmodus kann nicht auf das Zweitprofil zugegriffen werden</string>
   <string name="fingerprint_enter_second_psw_title">Zweitprofilpasswort eingeben</string>
   <string name="fingerprint_lockout_msg">Warten Sie eine Minute. Versuchen Sie dann nochmals, per Fingerabdruck zu entsperren</string>
-  <string name="fingerprint_not_identified_msg">Um Ihr Gerät zu entsperren, geben Sie Ihr Passwort ein.</string>
+  <string name="fingerprint_not_identified_msg">Um Ihr Telefon zu entsperren, geben Sie Ihr Passwort ein.</string>
   <string name="fingerprint_not_identified_title">Passwort eingeben</string>
   <string name="fingerprint_try_again_msg"> Konnte Fingerabruck nicht prüfen, bitte erneut versuchen</string>
   <string name="fingerprint_try_again_text">Erneut versuchen</string>
@@ -76,9 +76,9 @@
   <string name="incorrect_pincode_remaining_attempts">Falscher PIN-Code, %d Versuche verbleiben</string>
   <string name="incorrect_pukcode">Falscher PUK-Code</string>
   <string name="incorrect_pukcode_remaining_attempts">Falscher PUK-Code, %d Versuche verbleiben</string>
-  <string name="input_password_after_boot_msg">"Sie müssen das Passwort eingeben, nachdem das Gerät neu gestartet wurde"</string>
+  <string name="input_password_after_boot_msg">"Sie müssen das Passwort eingeben, nachdem das Telefon neu gestartet wurde"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Während eines Gesprächs kann nicht zwischen den Profilen gewechselt werden</string>
-  <string name="input_password_after_boot_msg_must_enter_owner_space">Sie müssen nach dem Neustart des Geräts das Hauptprofil aufrufen</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">Sie müssen nach dem Neustart des Telefons das Hauptprofil aufrufen</string>
   <string name="input_password_handle_sdcard_fs">Zweitprofil kann nicht vom Sperrbildschirm gestartet werden. Vom Hauptprofil starten.</string>
   <string name="input_password_hint_text">Passwort eingeben</string>
   <string name="input_pattern_hint_text">Zeichnen Sie Ihr Entsperrmuster</string>
@@ -113,7 +113,7 @@
   <string name="keyguard_charging_info_last_charge_yesterday_time">Gestern %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Letztes Aufladen</string>
   <string name="keyguard_charging_info_tip_text1">Entladen Sie Ihren Akku nicht unter 10%, das verlängert seine Lebensdauer.</string>
-  <string name="keyguard_charging_info_tip_text2">Überladen Sie Ihr Gerät nicht. Mehrere kürzere Ladungen sind besser als eine Übernachtladung.</string>
+  <string name="keyguard_charging_info_tip_text2">Überladen Sie Ihr Telefon nicht. Mehrere kürzere Ladungen sind besser als eine Übernachtladung.</string>
   <string name="keyguard_charging_info_tip_text3">Laden Sie Ihr Telefon nicht auf, wenn die Umgebungstemperatur niedriger als 0 ℃ ist.</string>
   <string name="keyguard_charging_info_tip_text4">Verwenden Sie Ihr Telefon nicht beim Laden, um eine Überhitzung zu vermeiden.</string>
   <string name="keyguard_charging_info_tip_text5">Der Akku wird länger geladen, wenn seine Temperatur höher ist als üblich.</string>
@@ -137,9 +137,9 @@
   <string name="lockscreen_access_pattern_start">Muster gestartet</string>
   <string name="lockscreen_charging_msg">Aufladen</string>
   <string name="lockscreen_emergency_call">Notruf</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie hatten %d Fehlversuche beim Entsperren des Geräts. Nach %d weiteren Fehlversuchen wird das Gerät auf die Werkseinstellungen zurückgesetzt. Dabei gehen alle Daten verloren.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben das Passwort %d mal falsch eingegeben. Nach %d weiteren Fehlversuchen werden Sie aufgefordert, das Gerät mit Ihrem Mi Konto zu entsperren. In  %d Sekunden erneut versuchen."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Sie hatten %d Fehlversuche beim Entsperren des Geräts. Das Gerät wird auf die Werkseinstellungen zurückgesetzt.</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie hatten %d Fehlversuche beim Entsperren des Telefons. Nach %d weiteren Fehlversuchen wird das Telefon auf die Werkseinstellungen zurückgesetzt. Dabei gehen alle Daten verloren.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben das Passwort %d mal falsch eingegeben. Nach %d weiteren Fehlversuchen werden Sie aufgefordert, das Telefon mit Ihrem Mi Konto zu entsperren. In  %d Sekunden erneut versuchen."</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Sie hatten %d Fehlversuche beim Entsperren des Telefons. Das Telefon wird auf die Werkseinstellungen zurückgesetzt.</string>
   <string name="lockscreen_forgot_pattern_button_text">Vergessen?</string>
   <string name="lockscreen_glogin_checking_password">Überprüfen…</string>
   <string name="lockscreen_glogin_invalid_input">Falscher Benutzername oder Passwort</string>
@@ -164,8 +164,8 @@
   <string name="open_remote_center_hint_text">Nach rechts wischen, um Mi Remote zu öffnen</string>
   <string name="open_wifi_settings">Netzwerkverbindung öffnen</string>
   <string name="phone_locked_foget_password">Passwort vergessen?</string>
-  <string name="phone_locked_foget_password_content">Sie können sich bei i.mi.com mit dem Mi-Konto anmelden, das mit diesem Gerät verknüpft ist, und löschen Sie alle Daten. Dadurch werden alle auf diesem Gerät gespeicherten persönlichen Daten gelöscht. Danach können Sie das Gerät neu starten und Kontakte, Nachrichten, Fotos und andere Elemente von Mi Cloud wiederherstellen. Sie können das nur, wenn Sie sich in Ihrem Mi-Konto auf diesem Gerät angemeldet haben. Ansonsten müssen Sie das Gerät wieder löschen.</string>
-  <string name="phone_locked_foget_password_footer">"Schritte: Melden Sie sich bei i.mi.com an, gehen Sie auf "Gerät suchen", wählen Sie das Gerät aus und drücken Sie auf Gerät löschen."</string>
+<string name="phone_locked_foget_password_content">Sie können sich mit dem an das Telefon gebundene Mi-Konto bei i.mi.com anmelden und die Daten löschen. Alle Ihre persönlichen Daten werden gelöscht. Danach können Sie das Telefon neu starten und Kontakte, Nachrichten, Fotos und andere Daten aus Mi Cloud wiederherstellen. Das Telefon muss im Mi-Konto angemeldet sein.</string>
+  <string name="phone_locked_foget_password_footer">"Schritte: Melden Sie sich bei i.mi.com an, gehen Sie auf "Telefon suchen", wählen Sie das Telefon aus und drücken Sie auf Telefon löschen."</string>
   <string name="phone_locked_foget_password_header">Was soll ich tun, wenn ich mein Passwort vergessen habe?</string>
   <string name="phone_locked_foget_password_mehod_back">Zurück</string>
   <string name="phone_locked_foget_password_method">Passwort vergessen?</string>
@@ -173,7 +173,7 @@
   <string name="phone_locked_forget_password_suggesstion_one_content"><Data>"Halten Sie gleichzeitig die [Einschalttaste]&lt;/font>und &lt;font color=#e6e6e6>[Laustärke +]&lt;/font>gedrückt, bis Sie das&lt;img src=''>Mi Logo sehen"</Data></string>
   <string name="phone_locked_forget_password_suggesstion_two_content"><Data>"Wählen Sie&lt;font color=#e6e6e6>[Daten löschen]&lt;/font> und warten Sie, bis das Telefon neu gestartet wird"</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Wie lösche ich die Daten?</string>
-  <string name="phone_locked_string">Gerät ist gesperrt</string>
+  <string name="phone_locked_string">Telefon ist gesperrt</string>
   <string name="phone_locked_timeout_minutes_string">Nach %d Minuten erneut versuchen</string>
   <string name="phone_locked_timeout_seconds_string">Nach %d Sekunden erneut versuchen</string>
   <string name="symbol_colon">:</string>
