@@ -376,6 +376,7 @@
   <string name="corpus_hint_apps">Apps durchsuchen</string>
   <string name="corpus_label_apps">Apps</string>
   <string name="cta_desc">Verkehrs- und Paketinfos und vieles mehr erhalten.</string>
+  <string name="cta_dialog_content">Wenn der Assistant verwendet wird, muss eine Inernetverbindung hergestellt werden und auf Ihr Standort zugegriffen werden. Sind Sie damit einverstanden?</string>
   <string name="cta_dialog_negative">Beenden</string>
   <string name="cta_dialog_positive">Zustimmen</string>
   <string name="cta_dialog_text1">Um den Smart Assistant verwenden zu können, sollten Sie die</string>
@@ -391,8 +392,8 @@
   <string name="currency_china">CNY</string>
   <string name="daily_greeting">Tägliche Grüße</string>
   <string name="data_error">Ein Fehler ist aufgetreten, warten Sie ein oder zwei Minuten und versuchen Sie es erneut.</string>
-  <string name="delete">Löschen</string>
   <string name="data_error_show">Die Bestellung ist abgeschlossen, Details werden nicht angezeigt</string>
+  <string name="delete">Löschen</string>
   <string name="detail_action_delete">Löschen</string>
   <string name="detail_action_open_in_browser">Im Browser öffnen</string>
   <string name="detail_action_report_format_problem">Das Format ist ungültig</string>
@@ -466,7 +467,7 @@
   <string name="exception_network_error_retry">Netzwerkfehler. Erneut versuchen.</string>
   <string name="exception_network_error_wait_retry">Keine Netzwerkverbindung.Erneut versuchen.</string>
   <string name="exception_network_slow">Netzwerkverbindung ist langsam</string>
-  <string name="exception_too_many_people_wait_retry">Popularity ist zu beschäftigt, später erneut versuchen</string>
+  <string name="exception_too_many_people_wait_retry">Zu großer Zulauf, später erneut versuchen</string>
   <string name="exercise_setting_brief">Entfernungen messen und Ihre täglichen Schritte zählen</string>
   <string name="exercise_setting_misport_detail">Entfernungen messen und Ihre täglichen Schritte zählen (Mi Fit den Autostart erlauben unter Sicherheit &gt; Apps verwalten &gt; Berechtigungen &gt; Autostart).</string>
   <string name="express">Expressversand</string>
@@ -676,13 +677,11 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="fav_search_nodata_tip">Keine Ergebnisse</string>
   <string name="fav_share_fail">Teilen fehlgeschlagen, momentan werden nur URLs unterstützt</string>
   <string name="fav_success">Zu Favoriten erfolgreich hinzugefügt</string>
-  <!-- To Translate start -->
-  <string name="fav_support_introduce">##管理各应用中的收藏是否自动加入到我的收藏</string>
+  <string name="fav_support_introduce">Verwalten der Sammlung jeder Anwendung, die automatisch zu meiner Sammlung hinzugefügt wird</string>
   <string name="fav_support_label">Automatisches Inkasso-Management</string>
   <string name="fav_support_more">Alle Support-Anwendungen</string>
   <string name="fav_support_not_title">Automatisches Erfassung von Anwendungen deaktivieren</string>
   <string name="fav_support_title">Automatisches Erfassung von Anwendungen aktivieren</string>
-  <!-- To Translate end -->
   <string name="favorite">Favoriten</string>
   <string name="favorite_add_home">Zur Startseite hinzufügen</string>
   <string name="favorite_add_home_add">Hinzufügen</string>
@@ -702,7 +701,6 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="feedback_tip_msg">Sind Sie auf ein Problem gestoßen? Senden Sie uns den Fehlerbericht</string>
   <string name="flow_open">Karte für Mobile Daten anzeigen</string>
   <string name="flow_setting_brief">Infos über Mobile Daten anzeigen (Datenverbrauchsplan unter Sicherheit &gt; Datenverbrauch einstellen).</string>
-  <!-- To Translate start -->
   <string name="flybird_auto_switch_channel">Empfohlenes System</string>
   <string name="flybird_baoxian_close_text">Sicherheit für offene Konten, genießen Sie 1 Million Versicherungen</string>
   <string name="flybird_baoxian_open_text">Kontosicherheitsschutz</string>
@@ -752,10 +750,8 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="flybird_verifying">Überprüfen…</string>
   <string name="flybird_yuan_bi">##元/笔Yuan/Stift</string>
   <string name="flybird_yuan_ri">Yuan pro Tag</string>
-  <!-- To Translate end -->
   <string name="focus">Status verfolgen</string>
   <string name="focus_stocks">Meine Unternehmen</string>
-  <!-- To Translate start -->
   <string name="function_aiqiyi_record">##观看历史/Watch history/View history</string>
   <string name="function_aiqiyi_title">##爱奇艺/Ich liebe fantastische Kunst</string>
   <string name="function_bilibili_record">##历史记录/history record</string>
@@ -783,7 +779,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="function_qq_scan">Scannen</string>
   <string name="function_qq_title">QQ</string>
   <string name="function_shopping_parent">E-Commerce-Einkaufen</string>
-  <string name="function_social_title">##聊天社交/Chat social</string>
+  <string name="function_social_title">Social Chat</string>
   <string name="function_taobao_cart">Warenkorb</string>
   <string name="function_taobao_favorite">Abholung von Waren</string>
   <string name="function_taobao_store">##Concerned about the store/Betroffenes Geschäft</string>
@@ -1381,6 +1377,8 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="step_cal_unit">Kcal</string>
   <string name="step_km">km</string>
   <string name="step_setting_tip">Quelle für Schrittzählung</string>
+  <string name="step_vip_action_bar">Schritte</string>
+  <string name="steps">Schritt</string>
   <string name="steps_auto_misport">Autostart erlauben</string>
   <string name="steps_get_misport">Mi Fit installieren</string>
   <string name="steps_misport">Mi Fit ausgewählt</string>
@@ -1394,8 +1392,9 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="steps_sport_des">Erhalten Sie genaue Informationen von der Mi Fit App.</string>
   <string name="steps_vip">Schritte</string>
   <string name="steps_vip_des">Schritte zählen ohne Drittanbieteranwendungen zu installieren.</string>
-  <string name="step_vip_action_bar">Schritte</string>
-  <string name="steps">Schritt</string>
+  <string name="stock_card_add">Firmen hinzufügen</string>
+  <string name="stock_card_title">Vorräte</string>
+  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="stock_color_schema">Farbschema</string>
   <string name="stock_list_empty_text">Sie folgen keiner Firma.</string>
   <string name="stock_search_empty">Keine Ergebnisse</string>
