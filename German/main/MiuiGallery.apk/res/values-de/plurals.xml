@@ -209,8 +209,8 @@
     <item quantity="one">Ein Downloadfehler</item>
   </plurals>
   <plurals name="download_retry_message">
-    <item quantity="other">"Konnte %1$d Dateien nicht herunterladen, Netzwerkverbindung überprüfen und erneut versuchen."</item>
-    <item quantity="one">"Konnte eine Datei nicht herunterladen, Netzwerkverbindung überprüfen und erneut versuchen."</item>
+    <item quantity="other">"Konnte %1$d Dateien nicht herunterladen, Netzwerkverbindung prüfen und erneut versuchen."</item>
+    <item quantity="one">"Konnte eine Datei nicht herunterladen, Netzwerkverbindung prüfen und erneut versuchen."</item>
   </plurals>
   <plurals name="face_count">
     <item quantity="other">Total %d Fotos</item>
@@ -329,12 +329,12 @@
     <item quantity="one">Download des verbleibenden Fotos abbrechen?</item>
   </plurals>
   <plurals name="picker_no_network_retry_image_confirm_message">
-    <item quantity="other">%1$d Fotos konnten nicht heruntergeladen werden. Stellen Sie eine Internetverbindung her und versuchen Sie es noch einmal.</item>
-    <item quantity="one">Foto konnte nicht heruntergeladen werden. Stellen Sie eine Internetverbindung her und versuchen Sie es noch einmal.</item>
+    <item quantity="other">%1$d Fotos konnten nicht heruntergeladen werden. Internetverbindung herstellen und nochmals versuchen.</item>
+    <item quantity="one">Foto konnte nicht heruntergeladen werden. Internetverbindung herstellen und nochmals versuchen.</item>
   </plurals>
   <plurals name="picker_no_network_retry_origin_confirm_message">
-    <item quantity="other">1$d Fotos (%2$dMB) konnten nicht heruntergeladen werden. Stellen Sie eine Internetverbindung her und versuchen Sie es noch einmal.</item>
-    <item quantity="one">Ein Foto (%2$dMB) konnten nicht heruntergeladen werden. Stellen Sie eine Internetverbindung her und versuchen Sie es noch einmal.</item>
+    <item quantity="other">1$d Fotos (%2$dMB) konnten nicht heruntergeladen werden. Internetverbindung herstellen und nochmals versuchen.</item>
+    <item quantity="one">Ein Foto (%2$dMB) konnten nicht heruntergeladen werden. Internetverbindung herstellen und nochmals versuchen.</item>
   </plurals>
   <plurals name="picker_retry_image_confirm_message">
     <item quantity="other">%1$d Fotos konnten nicht heruntergeladen werden, noch einmal versuchen?</item>
@@ -377,7 +377,7 @@
     <item quantity="one">eine Sekunde</item>
   </plurals>
   <plurals name="sync_error_title">
-    <item quantity="other">%d Fotos und Videos wurde nicht gesichert.</item>
+    <item quantity="other">%d Fotos und Videos wurden nicht gesichert.</item>
     <item quantity="one">Ein Foto oder Video wurde nicht gesichert.</item>
   </plurals>
   <plurals name="sync_off">
