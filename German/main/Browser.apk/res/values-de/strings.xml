@@ -174,6 +174,7 @@
   <string name="color_picker_dialog_title">Wähle Farbe</string>
   <string name="color_picker_hue">Schattierung</string>
   <string name="color_picker_saturation">Sättigung</string>
+  <string name="color_picker_value">Wert</string>
   <string name="comment_app_menu">Kommentieren</string>
   <string name="comment_description">Kommentieren</string>
   <string name="comment_hint">Kommentieren</string>
@@ -355,7 +356,7 @@ dieses private Fenster​"</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Löschen</string>
   <string name="homepage_get_location">Standort bestimmen</string>
-  <string name="homepage_get_location_failed">"Standort konnte nicht abgerufen werden, wählen Sie einen Ort"</string>
+  <string name="homepage_get_location_failed">Standort konnte nicht abgerufen werden, wählen Sie einen Ort</string>
   <string name="homepage_more_cards">Weitere Karten</string>
   <string name="homepage_more_sites">Weitere Seiten</string>
   <string name="homepage_search_hint">Suche</string>
@@ -511,6 +512,7 @@ Diese Seite verlassen?"</string>
   <string name="miuichromium_error_page_suggestion_title">. Probieren Sie das:</string>
   <string name="miuichromium_error_page_title">Ein Fehler ist aufgetreten</string>
   <string name="miuichromium_error_page_unknown_error">Ups, etwas ist schiefgegangen</string>
+  <string name="miuichromium_error_page_url">Überprüfen Sie die URL-Adresse der Website</string>
   <string name="miuichromium_error_page_wlan">WLAN einschalten</string>
   <string name="miuishare_account_activate_confirmation">Aktivierung erforderlich</string>
   <string name="miuishare_account_activate_ok">Aktivieren</string>
@@ -683,7 +685,7 @@ Diese Seite verlassen?"</string>
   <string name="pref_ua_string">Benutzeragent</string>
   <string name="pref_version_info">Versionsinfo</string>
   <string name="pref_volume_key_action">Blättern mit den Lautstärketasten</string>
-  <string name="pref_weather_location_summary">"Wird von dem Wetterplugin des Browsers verwendet"</string>
+  <string name="pref_weather_location_summary">Wird von dem Wetterplugin des Browsers verwendet</string>
   <string name="pref_weather_location_title">Wetterstandort</string>
   <string name="private_browsing_warning">Diese Funktionalität wird in dieser Androidversion leider nicht unterstützt.</string>
   <string name="profiler_error_toast">Konnte Profiler nicht starten</string>
@@ -701,7 +703,7 @@ Diese Seite verlassen?"</string>
   <string name="quicklink_cannot_save_url">Diese URL kann nicht hinzugefügt werden</string>
   <string name="quicklink_folder_text">Top App</string>
   <string name="quicklink_not_saved">"Konnte nicht zur Startseite hinzugefügt werden"</string>
-  <string name="quicklink_push_confirm_message">Nach dem Ausschalten dieser Funktion wird Ihr Feed keine Updates mehr erhalten. Jetzt deaktivieren?</string>
+  <string name="quicklink_push_confirm_message">Nach dem Ausschalten dieser Funktion, erhalten Sie keine Feed-Updates mehr. Jetzt deaktivieren?</string>
   <string name="quicklink_saved">Auf Startseite gespeichert</string>
   <string name="quicklink_saved_before">Diese Seite wurde bereits hinzugefügt</string>
   <string name="quicklink_user_define_webpage_title">Name</string>
@@ -738,7 +740,6 @@ Diese Seite verlassen?"</string>
   <string name="retry_after_network_available">"Keine Netzwerkverbindung"</string>
   <string name="retry_download">Nochmals versuchen</string>
   <string name="return_to_homepage">Gehe zur Anfangsseite</string>
-  <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">nichts</string>
   <string name="router_download_exist">Dieser Download existiert bereits</string>
   <string name="router_download_failed">Download fehlgeschlagen</string>
@@ -811,7 +812,7 @@ Diese Seite verlassen?"</string>
   <string name="skip_current_version">Überspringe diese Version</string>
   <string name="snapshot">Lokal</string>
   <string name="snapshot_failed">Seite konnte nicht gespeichert werden</string>
-  <string name="snapshot_successed">Öffnen Sie Lesez. &amp; Verlauf um unter LOKAL die Seite anzusehen</string>
+  <string name="snapshot_successed">Öffnen Sie Lesez. &amp; Verlauf, um unter LOKAL die Seite anzusehen</string>
   <string name="ssl_bad_clock_date_settings">Datumseinstellungen</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Eine private Verbindung zu %s1 kann nicht hergestellt werden, da Ihre Datums- und Uhrzeiteinstellungen (%s2) ungültig sind."</string>
   <string name="ssl_certificate">Sicherheitszertifikat</string>
