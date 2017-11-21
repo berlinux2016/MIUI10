@@ -705,7 +705,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="flybird_baoxian_close_text">Sicherheit für offene Konten, genießen Sie 1 Million Versicherungen</string>
   <string name="flybird_baoxian_open_text">Kontosicherheitsschutz</string>
   <string name="flybird_baoxian_open_title">Kontosicherheit</string>
-  <string name="flybird_baoxian_open_webview_title">##保单详情Richtliniendetails</string>
+  <string name="flybird_baoxian_open_webview_title">Richtliniendetails</string>
   <string name="flybird_baoxian_webview_title">Kontosicherheit</string>
   <string name="flybird_bl_tips">Bitte verifizieren Sie das Armband</string>
   <string name="flybird_bl_val_failed">Armbandprüfung fehlgeschlagen, überweisen Sie mit Passwort</string>
@@ -738,7 +738,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="flybird_setting_close">Schließen</string>
   <string name="flybird_setting_find_pwd">Passwort vergessen</string>
   <string name="flybird_setting_label">Zahlungseinstellungen</string>
-  <string name="flybird_setting_nopwdcheck_label">Der folgende ##Szenariobetrag&lt;= %s，Sie müssen kein Zahlungspasswort eingeben</string>
+  <string name="flybird_setting_nopwdcheck_label">Der folgende Szenariobetrag&lt;= %s，Sie müssen kein Zahlungspasswort eingeben</string>
   <string name="flybird_setting_nopwduncheck_label">##Nach dem Öffnen eines kleinen Geheimnisses, in den folgenden Diensten mit Handys für kleine Zahlungen, ohne dass Sie das Zahlungspasswort eingeben müssen. (Ausgenommen Alipay-Client Zahlungscode und ##Sound Wave Payment)</string>
   <string name="flybird_setting_thirdpard_nopwd_label">Drittanbieterservice</string>
   <string name="flybird_setting_thirdpart_label">Automatische Rückbuchung</string>
@@ -1232,9 +1232,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="preferences_label">Voreinstellungen</string>
   <string name="qq_new">Neuer Status</string>
   <string name="qq_qzone">Qzone</string>
-  <!-- To Translate start --> 
-  <string name="quickstart_accessibility_description">##该服务为 [ 桌面信息助手 - 快捷功能卡片 ] 提供部分第三方应用页面的跳转支持，关闭该服务会导致页面跳转失效。</string>  
-  <!-- To Translate end -->
+  <string name="quickstart_accessibility_description">Der Personal Assistant ist ein Dienst der Unterstützung für die Migration zu Anwendungsseiten von Drittanbietern bietet. Das Schließen dieses Dienstes wird es unmöglich machen, dahin zu gelangen.</string>  
   <string name="quickstart_accessibility_dialog_confirm">Öffnen</string>
   <string name="quickstart_accessibility_dialog_content">Diese Funktion muss den Hilfsfunktionsservice verwenden, um auf der Seite weiter zu springen. Öffnen?</string>  
   <string name="quickstart_accessibility_dialog_title">Eingabehilfen aktivieren</string>
