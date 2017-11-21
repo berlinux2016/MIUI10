@@ -186,6 +186,8 @@ Zwei Profile. Ein Gerät. "</string>
   <string name="public_app">Beide Profile</string>
   <string name="removeSuccess">Erfolgreich gelöscht</string>
   <string name="remove_second_space_msg">Wenn Sie das Zweitprofil löschen, gehen alle Zweitprofil-Appdaten verloren. Zweitprofil jetzt löschen?</string>
+  <string name="remove_user_click_message">"*Wenn Sie keine wichtigen Daten im Zweitprofil mehr haben, %s"</string>  
+  <string name="remove_user_click_message_action">können Sie diesen löschen und Ihr Gerät neu starten.</string> 
   <string name="removingSpace">Wird gelöscht</string>
   <string name="repeat_scanner_fingerprint">Nochmal hinzufügen</string>
   <string name="reset_passwd_success">Passwort wurde erfolgreich zurückgesetzt</string>
@@ -208,7 +210,14 @@ Zwei Profile. Ein Gerät. "</string>
   <string name="scanner_fingerprint_tips_desc">Vorhandenen Fingerabdruck für das Zweitprofil auswählen. Sie können Ihn dann nicht mehr für das Hauptprofil verwenden.</string>
   <string name="scanner_fingerprint_tips_title">Mit einem vorhandenen Fingerabdruck auf das Zweitprofil zugreifen</string>
   <string name="scanner_second_space_fingerprint">Zweitprofilfingerabdruck scannen</string>
-  <string name="sdcardfs_dialog_message">Ihre alten Daten sind möglicherweise mit dem neuen Dateisystem nicht kompatibel. Optimieren Sie diese, bevor Sie das Zweitprofil nutzen.</string>
+  <string name="sdcardfs_dialog_message">MIUI 9 hat ein neues Dateisystem. Alte Daten können damit inkompatibel sein. Führen Sie zur Behebung dieses Problems die folgenden Schritte aus, um ein Update zu installieren. Ihr Gerät wird während dieses Updates zweimal neu gestartet.</string>  
+  <string name="sdcardfs_dialog_title">Wichtiges Update</string>  
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 hat ein neues Dateisystem. Alte Daten können damit inkompatibel sein. Zum aktualisieren, verschieben Sie Elemente aus dem Zweitprofil, starten Sie Ihr Gerät neu und erstellen Sie das Zweitprofil erneut.  
+Wenn Sie das Update nicht durchführen, funktionieren Dualapps möglicherweise nicht richtig."</string>  
+  <string name="sdcradfs_dialog_in_owner_title">Zweitprofil</string>  
+  <string name="sdcradfs_dialog_in_sec_message">"Zum aktualisieren, sollten Sie Ihr Zweitprofil löschen und es dann erneut erstellen. Verschieben Sie die Daten vom Zweitprofil in das Hauptprofil. Starten Sie dann Ihr Gerät neu, um das Update abzuschließen.  
+Wenn Sie das Update nicht durchführen, funktionieren Dualapps möglicherweise nicht richtig."</string>  
+  <string name="sdcradfs_dialog_in_sec_title">Wichtiges Update</string> 
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"Konnte keine Apps finden"</string>
   <string name="secondSpace">Zweitprofil</string>
@@ -252,6 +261,7 @@ Zwei Profile. Ein Gerät. "</string>
   <string name="show_private_msg">Private Nachrichten anzeigen</string>
   <string name="show_private_msg_summary">Private Nachrichten im Zweitprofil anzeigen</string>
   <string name="spaceSetting">Einstellungen</string>
+  <string name="space_created_success">Zweitprofil erfolgreich erstellt</string> 
   <string name="space_deleted">Dieser Speicher wurde gelöscht</string>
   <string name="space_des_default">Isolierter Bereich mit verschlüsselten Daten</string>
   <string name="space_finger_sub_text">Fingerabdruck festlegen um schneller die Profile zu wechseln</string>
