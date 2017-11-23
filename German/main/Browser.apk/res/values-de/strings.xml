@@ -35,6 +35,7 @@
   <string name="action_menu_text_copy_url">URL kopieren</string>
   <string name="action_menu_text_create_qr_code">QR-Code</string>
   <string name="action_menu_text_download">Downloads verwalten</string>
+  <string name="action_menu_text_drop">Menu beenden</string>
   <string name="action_menu_text_exit">Beenden</string>
   <string name="action_menu_text_find_in_page">Suche auf Seite</string>
   <string name="action_menu_text_fullscreen">Vollbild</string>
@@ -115,6 +116,7 @@
   <string name="bookmark_cannot_save_url">" Das Lesezeichen für diese Adresse konnte nicht gespeichert werden."</string>
   <string name="bookmark_folder_needs_title">Geben Sie einen Gruppennamen ein</string>
   <string name="bookmark_group_lable">Gruppe</string>
+  <string name="bookmark_move_to">Verschieben nach</string>
   <string name="bookmark_needs_title">Lesezeichen benötigt einen Namen.</string>
   <string name="bookmark_needs_url">Lesezeichen müssen eine Adresse beinhalten.</string>
   <string name="bookmark_not_saved">"Lesezeichen konnte nicht gespeichert werden"</string>
@@ -140,6 +142,8 @@
   <string name="cancel">Abbrechen</string>
   <string name="cancle_sync_cloud_tabs">Synchronisation abbrechen</string>
   <string name="cannot_download">Download nur von \"http\" oder \"https\" URLs</string>
+  <string name="check_security_tip_privacy_policy">Datenschutzerklärung</string>
+  <string name="check_security_tip_user_agreement">Nutzungsbedingungen</string>
   <string name="choosertitle_sharevia">Teilen über</string>
   <string name="clear_history">Verlauf löschen</string>
   <string name="clear_most_visited">Meistbesuchte Seiten löschen</string>
@@ -225,6 +229,7 @@ dieses private Fenster​"</string>
   <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
   <string name="delete">Löschen</string>
   <string name="delete_bookmark">Löschen</string>
+  <string name="delete_bookmark_action_warning">Lesezeichen löschen?</string>
   <string name="delete_bookmark_group_warning">\"%s\" löschen? Alle Lesezeichen in dieser Gruppe werden gelöscht.</string>
   <string name="delete_bookmark_warning">Lesezeichen löschen \"%s\"?</string>
   <string name="delete_download">Löschen</string>
@@ -343,6 +348,7 @@ dieses private Fenster​"</string>
   <string name="geolocation_settings_page_summary_allowed">Diese Seite kann auf Ihren Standort zugreifen</string>
   <string name="geolocation_settings_page_summary_not_allowed">"Diese Seite kann nicht auf Ihren Standort zugreifen"</string>
   <string name="geolocation_settings_page_title">Lokalen Zugang löschen</string>
+  <string name="go_back_descirption">Zurück</string>
   <string name="go_supermarket_button">Gehen</string>
   <string name="go_supermarket_title">Weitere Apps, höhere Geschwindigkeit und weniger Datenverbrauch im App Store</string>
   <string name="gold_medals">Goldmedaillen</string>
@@ -535,9 +541,14 @@ Diese Seite verlassen?"</string>
   <string name="more_option">Weitere Funktionen</string>
   <string name="nav_bottom_bar_back">Zurück</string>
   <string name="nav_bottom_bar_close_all">Alle schließen</string>
+  <string name="nav_bottom_bar_close_description">Schließen</string>
   <string name="nav_bottom_bar_new_tab">Neuer Tab</string>
   <string name="nav_screen_container_tab_incognito">Privater Tab</string>
   <string name="nav_screen_container_tab_normal">Normaler Tab</string>
+  <string name="nav_screen_incognito_message">"Ihr Browser- und Suchverlauf wird im Inkognito-Modus nicht gespeichert.
+Denken Sie daran, dass die heruntergeladenen Dateien und die hinzugefügten Lesezeichen weiterhin gespeichert werden."</string>
+  <string name="nav_screen_incognito_time">Neue Seite wird automatisch nach %s Sekunden erstellt</string>
+  <string name="nav_screen_incognito_title">Inkognito-Modus</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Abbrechen</string>
   <string name="navigationbar_rightbutton_actiontext_go">Los</string>
   <string name="navigationbar_rightbutton_actiontext_search">Suchen</string>
@@ -798,10 +809,18 @@ Diese Seite verlassen?"</string>
   <string name="send_comment_title">Kommentieren</string>
   <string name="senddesktop">Desktop</string>
   <string name="sendstartpage">Startseite</string>
+  <string name="sequence_bookmark_description">Reihenfolge der Lesezeichen ändern</string>
   <string name="share_by_yidianzixun">【YidianZixun】</string>
   <string name="share_image_text">Sieh was ich geteilt habe! @MIUI</string>
   <string name="share_page_text">"Ich genieße 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">"Die Adresse dieser Seite wird an Xiaomis Server gesendet, um deren Sicherheit zu prüfen. Sie können diese Funktion jederzeit in den Einstellungen deaktivieren."</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"Wir werden Ihre personenbezogenen Daten erheben und verwenden, wenn Sie sich für die Nutzung unserer Dienste entscheiden. 
+Nachfolgend sind die Daten, die wir sammeln:  
+1. Sichere URLs: Wir erfassen die URLs der Websites, die Sie bei der Nutzung unserer Dienste besuchen.
+2. Standortdaten: Wir greifen auf Ihre Standortinformationen zu.
+So verwenden wir die Daten, die wir sammeln:
+1. Sicherheit: Wir verwenden Ihre Daten, um Ihr Gerät vor Betrug und Viren zu schützen sowie für Backup- und Wiederherstellungsanlässe.
+2. Inhalt: Ihre Daten helfen uns relevante lokalisierte Nachrichteninhalte Ihnen bereitzustellen.
+Für richtige Funktion muss Browser mit dem Internet vebunden sein. Sie müssen unseren %2$s und %1$s zustimmen, um den Browser nutzen zu können."</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Browser muss eine Verbindung zum Internet herstellen, um richtig zu funktionieren. Um mehr relevante Empfehlungen zu erhalten, erlauben Sie Browser, die URLs der Webseiten zu erhalten, die Sie besuchen und auf Ihren Standortinformationen zugreifen.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Überprüfe URL-Sicherheit</string>
   <string name="show_security_tip_dialog_title">Nutzungsbedingungen</string>
@@ -812,6 +831,7 @@ Diese Seite verlassen?"</string>
   <string name="snapshot">Lokal</string>
   <string name="snapshot_failed">Seite konnte nicht gespeichert werden</string>
   <string name="snapshot_successed">Öffnen Sie Lesez. &amp; Verlauf, um unter LOKAL die Seite anzusehen</string>
+  <string name="soft_toast_see_view">Anzeigen</string>
   <string name="ssl_bad_clock_date_settings">Datumseinstellungen</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Eine private Verbindung zu %s1 kann nicht hergestellt werden, da Ihre Datums- und Uhrzeiteinstellungen (%s2) ungültig sind."</string>
   <string name="ssl_certificate">Sicherheitszertifikat</string>
@@ -849,6 +869,7 @@ Diese Seite verlassen?"</string>
   <string name="suggest_access_item_site_mark">SEITEN</string>
   <string name="suggest_access_item_video_mark">VIDEO</string>
   <string name="suggest_access_item_website_mark">WEBSITE</string>
+  <string name="suggest_access_item_yellow_mark">GELBE SEITEN</string>
   <string name="suggest_access_music">Mi Musik</string>
   <string name="suggest_item_delete_text">Löschen</string>
   <string name="suggest_open_app_failed">"Konnte die App nicht öffnen"</string>
@@ -869,6 +890,8 @@ Diese Seite verlassen?"</string>
   <string name="title_bar_loading">Lade…</string>
   <string name="too_many_windows_dialog_message">"Browser kann keine neue Registerkarte öffnen, solange nicht eine andere geschlossen wird."</string>
   <string name="too_many_windows_dialog_title">"Kann keine weiteren Registerkarten öffnen"</string>
+  <string name="transfer_prompt_0">Video abspielen</string>
+  <string name="transfer_restart">Von Anfang abspielen</string>
   <string name="unSwitchText">NEIN</string>
   <string name="undo">Rückgängig</string>
   <string name="unknown_title">Unbekannt</string>
@@ -913,6 +936,7 @@ Diese Seite verlassen?"</string>
   <string name="video_buffering_percent_string">"Pufferung "</string>
   <string name="video_collect_cancel">Unfavorisieren</string>
   <string name="video_collect_success">Favorisiert</string>
+  <string name="video_doenload_complete">Video erfolgreich heruntergeladen</string>
   <string name="video_download_clear_info">d ausgewählte Videos aus Cache gelöscht</string>
   <string name="video_download_clear_prompt">%d ausgewählte Videos aus Cache löschen?</string>
   <string name="video_download_complete">Videodownload abgeschlossen</string>
@@ -953,6 +977,7 @@ Diese Seite verlassen?"</string>
   <string name="video_push_multi_message">%1$d Updates verfügbar.</string>
   <string name="video_push_multi_title">Update verfügbar</string>
   <string name="video_push_single_message">Für Update %1$d antippen.</string>
+  <string name="video_service_notification_title">Video im Pop-up-Fenster abspielen</string>
   <string name="video_subtitle_last_message1">Weniger als eine Minute verbleibend</string>
   <string name="video_subtitle_prefix1">Angesehen</string>
   <string name="video_subtitle_prefix2">" angesehen"</string>
