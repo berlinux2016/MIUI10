@@ -25,7 +25,20 @@
   <string name="accessibility_data_signal_full">Voller Datenempfang.</string>
   <string name="accessibility_data_three_bars">Daten 3 Balken.</string>
   <string name="accessibility_data_two_bars">Daten 2 Balken.</string>
+  <string name="accessibility_desc_app_allow_block">%1$s Benachrichtigungen können ausgeblendet werden</string>
+  <string name="accessibility_desc_app_unallow_block">%1$s Benachrichtigungen können nicht ausgeblendet werden</string>
+  <string name="accessibility_desc_block_notification">Benachrichtigungen verbergen</string>
+  <string name="accessibility_desc_cancel_block">Nicht verbergen</string>
+  <string name="accessibility_desc_check_block_notification">%1$s Benachrichtigungen auswählen</string>
+  <string name="accessibility_desc_confirm_block">Verbergen</string>
+  <string name="accessibility_desc_details_page">%1$s Detailseite</string>
+  <string name="accessibility_desc_notification_shade">Benachrichtigungsleiste</string>
+  <string name="accessibility_desc_quick_settings">Schnelle Einstellungen</string>
   <string name="accessibility_desc_recent_apps">Geöffnete Apps</string>
+  <string name="accessibility_desc_reconfirm_block">Jetzt verbergen?</string>
+  <string name="accessibility_desc_select_block_notification">Benachrichtigungen zum Verbergen auswählen</string>
+  <string name="accessibility_desc_uncheck_block_notification">%1$s Benachrichtigungen Abwählen</string>
+  <string name="accessibility_desc_weather_temperature">Wetter %1s°C</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Diese Funktion ist experimentell und kann die Leistung beeinträchtigen.</string>
   <string name="accessibility_display_daltonizer_preference_title">Farbkorrektur</string>
   <string name="accessibility_divider">Splitscreenteiler</string>
@@ -57,6 +70,9 @@
   <string name="accessibility_recents_task_header">%1$s %2$s</string>
   <string name="accessibility_remove_notification">Benachrichtigung löschen</string>
   <string name="accessibility_ringer_silent">Lautlos</string>
+  <string name="accessibility_ringer_vibrate">Weckervibration</string>
+  <string name="accessibility_search_light">Suchen</string>
+  <string name="accessibility_search_scanner">Scanner</string>
   <string name="accessibility_settings">Einstellungen</string>
   <string name="accessibility_tty_enabled">TTY aktiviert</string>
   <string name="accessibility_wifi_off">WLAN aus.</string>
@@ -188,9 +204,9 @@
   <string name="confirm_enable_oem_unlock_title">OEM Entsperrung erlauben?</string>
   <string name="connected_via_passpoint">Verbunden über %1$s</string>
   <string name="connected_via_wfa">Verbunden über Wlan Assistenten</string>
-  <string name="convert_to_fbe_warning">"Datenpartitionen in dateibasierte Verschlüsselung konvertieren.
-!!Warnung!! Alle Ihre Daten werden gelöscht.
-Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
+  <string name="convert_to_fbe_warning">"Datenpartitionen in dateibasierte Verschlüsselung konvertieren. 
+!!Warnung!! Alle Ihre Daten werden gelöscht. 
+Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig. 
 \"Löschen und konvertieren…\" drücken, um fortzufahren."</string>
   <string name="convert_to_file_encryption">In Datei-Verschlüsselung umwandeln</string>
   <string name="convert_to_file_encryption_done">Datei bereits verschlüsselt</string>
