@@ -238,7 +238,7 @@ um ein Panoramafoto aufzunehmen"</string>
   <string name="portait_effect_entry_romance">Romantik</string>
   <string name="portrait_mode_depth_effect_success_hint">Tiefeneffekt</string>
   <string name="portrait_mode_lowlight_hint">Mehr Licht erforderlich</string>
-  <string name="portrait_mode_too_close_hint">Weiter weg verschieben</string>
+  <string name="portrait_mode_too_close_hint">Das Motiv weiter weg platzieren</string>
   <string name="portrait_mode_too_far_hint">Das Motiv innerhalb von 2,5 m platzieren</string>
   <string name="portrait_mode_use_hint">"Im Portrait-Modus wird Hintergrund unscharf dargestellt,
 so dass die Personen in den Vordergrund rücken."</string>
@@ -658,7 +658,7 @@ so dass die Personen in den Vordergrund rücken."</string>
   <string name="spaceIsLow_content_primary_storage_priority">Speicherplatz auf USB-Speicher wird knapp</string>
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Süß</string>
-  <string name="sticker_tab2">Lustig</string> 
+  <string name="sticker_tab2">Lustig</string>
   <string name="success_message_import_from_account">Importiert</string>
   <string name="tags">Tags</string>
   <string name="tap_to_exposure">Berühren, um Belichtung einzustellen</string>
@@ -672,10 +672,15 @@ so dass die Personen in den Vordergrund rücken."</string>
   <string name="toast_burst_snap_finished_start">Serienaufnahme beendet</string>
   <string name="toast_burst_snap_finished_summary">Serienaufnahme abgeschlossen, %1$s Fotos gemacht</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Serienaufnahme wird bei aktivierter Tonaufnahme nicht unterstützt</string>
+  <string name="toast_burst_snap_forbidden_when_face_beauty_open">Serienaufnahme wird bei aktivierter Hautverschönerung nicht unterstützt</string>
+  <string name="toast_burst_snap_forbidden_when_hdr_open">Serienaufnahme wird nicht unterstützt, wenn HDR aktiviert ist</string>
+  <string name="toast_burst_snap_forbidden_when_iso_not_auto">Sie müssen ISO auf &apos;automatisch&apos; umstellen</string>
   <string name="toast_saving">Fotos werden gespeichert…</string>
   <string name="toast_start_audio_capture">Machen Sie ein Geräusch, um ein Foto zu schießen</string>
   <string name="ubi_focus_capture_fail">"Es konnte kein Foto geschossen werden"</string>
   <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse, sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Objekte enthalten</string>
+  <string name="undo">Zurück</string>
+  <string name="unit_mm">mm</string>
   <string name="user_agree">Zustimmen</string>
   <string name="user_agreement2">Nutzungsbedingungen</string>
   <string name="user_agreement4">Datenschutzbestimmungen</string>
@@ -690,6 +695,24 @@ so dass die Personen in den Vordergrund rücken."</string>
   <string name="video_err">Videowiedergabe fehlgeschlagen</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Maximale Größe erreicht.</string>
+  <string name="video_snapshot_hint">Machen Sie während der Videoaufnahme ein Foto, indem Sie den Bildschirm berühren.</string>
+  <string name="videocamera_settings_label">Video Einstellungen</string>
+  <string name="visit_cloud_album">Cloud-Album besuchen</string>
   <string name="wait">Abwarten</string>
+  <string name="web_url_apk_warning">Diese App stammt aus einer unbekannten Quelle und kann ein Sicherheitsrisiko darstellen. Installieren Sie Apps nur aus vertrauenswürdigen Quellen.</string>
+  <string name="web_url_warning">Die verlinkte Website stammt aus einer unbekannten Quelle und kann ein Sicherheitsrisiko darstellen.</string>
+  <string name="website_details">Webseite Details:</string>
+  <string name="wechat_details">WeChat Details:</string>
+  <string name="white_balance">Weißabgleich</string>
   <string name="width">Breite</string>
+  <string name="wifi_connect_current_connetion">Sie sind mit WLAN verbunden</string>
+  <string name="wifi_connect_fail">Zeitüberschreitung beim Verbinden</string>
+  <string name="wifi_connect_not_found">WLAN-Verbindung fehlgeschlagen</string>
+  <string name="wifi_connect_success">Verbunden</string>
+  <string name="wifi_connecting">Wird verbunden…</string>
+  <string name="wifi_details">WLAN Details:</string>
+  <string name="wifi_open_fail">WLAN-Aktivierung fehlgeschlagen</string>
+  <string name="wifi_pwd">Passwort:</string>
+  <string name="wifi_security">Sicherheit:</string>
+  <string name="wifi_warning">Vergewissern Sie sich vor dem Verbinden, dass das Netzwerk sicher ist.</string>
 </resources>
