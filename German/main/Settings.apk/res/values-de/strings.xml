@@ -3,7 +3,7 @@
   <string name="Accounts_settings_title">Konten</string>
   <string name="aaid_info">"Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende verwenden diese, um Ihnen auf Sie zugeschnittene Werbung anbieten zu können.
 
-    Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessanter Werbung wird deutlich sinken."</string>
+Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessanter Werbung wird deutlich sinken."</string>
   <string name="abc_action_bar_home_description">Zum Hauptbildschirm navigieren</string>
   <string name="abc_action_bar_home_description_format" formatted="false">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format" formatted="false">%1$s, %2$s, %3$s</string>
@@ -172,7 +172,7 @@ Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt."</string
   <string name="add_rule">Regeln hinzufügen</string>
   <string name="add_virtual_keyboard">Tastaturen verwalten</string>
   <string name="adding_profile_owner_warning">"Wenn Sie weitermachen, wird Ihr Benutzerkonto von Ihrem Administrator verwaltet, der dann auch zugehörige Daten neben Ihren persönlichen Daten speichern kann.
-Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu überwachen und zu verwalten, die mit diesem Benutzerkonto verknüpft sind, einschließlich Netzwerkaktivität und Standortinformationen Ihres Geräts."</string>
+Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu überwachen und zu verwalten, die mit diesem Benutzerkonto verknüpft sind, einschließlich Netzwerkaktivität und Standortinformationen Ihres Geräts."</string>
   <string name="additional_permissions">Weitere Berechtigungen</string>
   <string name="additional_permissions_more">%1$d weitere</string>
   <string name="additional_system_update" />
@@ -282,9 +282,9 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="app_factory_reset_dlg_text">Alle Updates dieser Androidsystemapp werden entfernt.</string>
   <string name="app_factory_reset_dlg_title">Updates entfernen?</string>
   <string name="app_floating_window_dlg_disable">"Ausschalten von %1$s's Popupeinstellungen wird die App beenden.
-    Möchten Sie sie wirklich ausschalten?"</string>
+Möchten Sie sie wirklich ausschalten?"</string>
   <string name="app_floating_window_dlg_enable">"Aktivieren von %1$s's Popupeinstellungen erfordert einen Neustart der App. Sie können die Anwendung auch manuell neustarten.
-    Möchten Sie sie wirklich einschalten?"</string>
+Möchten Sie sie wirklich einschalten?"</string>
   <string name="app_forget_pattern"><u>Muster vergessen?</u></string>
   <string name="app_forward_locked">Diese App ist kopiergeschützt.</string>
   <string name="app_install_details_group_title">Store</string>
@@ -304,7 +304,6 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="app_list_memory_use">Appnutzung</string>
   <string name="app_list_preference_none">Keine</string>
   <string name="app_lock_role_instruction">Schützen Sie Ihre privaten Apps</string>
-
   <string name="app_manager_app_info_label">Appinfo</string>
   <string name="app_manager_app_info_name">Appname</string>
   <string name="app_manager_app_ifno_version">Appversion</string>
@@ -337,7 +336,6 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="app_manager_globel_other_perm_title">Andere Berechtigungen</string>
   <string name="app_manager_uninstall_protected_dlg_title">Systemanwendungen deinstallieren</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Die Deinstallation von Systemanwendungen kann verhindern, dass einige MIUI-Komponenten ordnungsgemäß funktionieren. Trotzdem deinstallieren?</string>
-
   <string name="app_memory_use">Speichernutzung</string>
   <string name="app_name">Sicherung</string>
   <string name="app_name_label">App</string>
@@ -673,6 +671,7 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="bluetooth_auto_connect">Automatisch verbinden</string>
   <string name="bluetooth_broadcasting">Broadcasting</string>
   <string name="bluetooth_broadcasting_explaination">"Wenn diese Funktion eingestellt ist, kann Ihr Telefon mit anderen Geräten in der Umgebung kommunizieren.
+  
     Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="bluetooth_confirm_passkey_msg">Zum Koppeln mit: %1$s Stellen Sie sicher, dass dieser Hauptschlüssel angezeigt wird: %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Verbinden…</string>
@@ -1219,7 +1218,8 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="crypt_keeper_content_title">Gerät verschlüsseln</string>
   <string name="crypt_keeper_cooldown">Versuchen Sie es in ^1 Sekunden erneut.</string>
   <string name="crypt_keeper_data_corrupt_summary">"Das eingegebene Passwort ist korrekt, aber leider sind Ihre Daten beschädigt.
-    Um Ihr Telefon wieder nutzen zu können, müssen Sie es auf Werkszustand zurücksetzen. Wenn Sie Ihr Telefon nach dem Reset eingestellt haben, können Sie alle auf Ihr Google-Konto gesicherten Daten wiederherstellen."</string>
+  
+Um Ihr Telefon wieder nutzen zu können, müssen Sie es auf Werkszustand zurücksetzen. Wenn Sie Ihr Telefon nach dem Reset eingestellt haben, können Sie alle auf Ihr Google-Konto gesicherten Daten wiederherstellen."</string>
   <string name="crypt_keeper_data_corrupt_title">Entschlüsselung fehlgeschlagen</string>
   <string name="crypt_keeper_decrypt_methods">Nachdem Sie Ihr Telefon verschlüsselt haben, vorausgesetzt Sie haben eine Bildschirmsperre eingerichtet (ein Muster, eine numerische PIN oder ein Passwort), müssen Sie nach jedem Einschalten den Bildschirm entsperren, um das Telefon zu entschlüsseln. Die einzige andere Möglichkeit zu entschlüsseln ist, das Gerät auf Werkseinstellungen zurückzusetzen und dabei alle Ihre Daten zu löschen.</string>
   <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Wenn Sie Ihr Telefon verschlüsseln, müssen Sie Ihr Passwort, PIN oder Muster nach dem Neustart des Gerätes jedes Mal eingeben, um es zu entschlüsseln.</string>
@@ -1233,7 +1233,8 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="crypt_keeper_encrypted_summary">Verschlüsselt</string>
   <string name="crypt_keeper_enter_password">Passwort eingeben</string>
   <string name="crypt_keeper_failed_summary">"Die Verschlüsselung wurde unterbrochen und kann nicht abgeschlossen werden. Daher ist der Zugriff auf die Daten des Geräts nicht mehr möglich.
-    Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinstellungen zurücksetzen. Wenn Sie Ihr Gerät nach dem Zurücksetzen wieder einrichten, können Sie gegebenenfalls gesicherte Daten von Ihrem Google-Konto wiederherstellen."</string>
+  
+Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinstellungen zurücksetzen. Wenn Sie Ihr Gerät nach dem Zurücksetzen wieder einrichten, können Sie gegebenenfalls gesicherte Daten von Ihrem Google-Konto wiederherstellen."</string>
   <string name="crypt_keeper_failed_title">Verschlüsselung fehlgeschlagen</string>
   <string name="crypt_keeper_final_desc">"Dieser Vorgang ist nicht umkehrbar und jede Unterbrechung ist mit einem Datenverlust verbunden. Die Verschlüsselung dauert mindestens eine Stunde. In dieser Zeit wird das Telefon mehrfach neu gestartet."</string>
   <string name="crypt_keeper_force_power_cycle">Um Ihr Gerät zu entsperren, schalten Sie es aus und wieder ein.</string>
@@ -1762,17 +1763,17 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="encryption_continue_button">Weiter</string>
   <string name="encryption_interstitial_header">Verschlüsselung</string>
   <string name="encryption_interstitial_message_password">"Sie können Ihr Gerät zusätzlich durch Abfrage eines Passworts schützen.
-    Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="encryption_interstitial_message_password_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts können Sie es durch Abfrage eines Passworts schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen.
-    Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="encryption_interstitial_message_pattern">"Sie können dieses Gerät zusätzlich durch Abfrage Ihres Entsperrmusters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen.
-    Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="encryption_interstitial_message_pattern_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts, können Sie es durch Abfrage eines Musters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen.
-    Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="encryption_interstitial_message_pin">"Sie können dieses Gerät zusätzlich durch Abfrage Ihrer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen.
-    Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts können Sie es durch Abfrage einer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen.
-    Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="encryption_progress_summary">Verschlüsseln, starten Sie Ihr Gerät nicht neu</string>
   <string name="enforce_read_external_confirm_title">USB-Speicher schützen?</string>
   <string name="enforce_read_external_summary">Apps benötigen die Berechtigung zum Lesen des USB-Speichers</string>
@@ -1903,6 +1904,7 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="fingerprint_manage_tittle">Fingerabdruck</string>
   <string name="fingerprint_not_identified_msg">Fingerabdruck wurde nicht erkannt. Geben Sie Ihr Passwort ein.</string>
   <string name="fingerprint_not_recognized">Nicht erkannt</string>
+  <string name="fingerprint_payment">Fingerabdruckzahlungen</string>
   <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht entfernt werden</string>
   <string name="fingerprint_unlock_set_unlock_password">Fingerabdruck + Password</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Fingerabdruck + Muster</string>
@@ -2478,12 +2480,12 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="lockpassword_choose_for_second_user">Passwort für Zweitprofil festlegen</string>
   <string name="lockpassword_choose_lock_generic_header">Sperre einrichten</string>
   <string name="lockpassword_choose_your_password_header">Passwort festlegen</string>
-  <string name="lockpassword_choose_your_password_second_space">Passwort
-    für Zweitprofil</string>
+  <string name="lockpassword_choose_your_password_second_space">"Passwort
+für Zweitprofil"</string>
   <string name="lockpassword_choose_your_pattern_header">Muster wählen</string>
   <string name="lockpassword_choose_your_pin_header">PIN festlegen</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"PIN
-    für Zweitprofil"</string>
+für Zweitprofil"</string>
   <string name="lockpassword_confirm_for_second_user">Passwort für Zweitprofil bestätigen</string>
   <string name="lockpassword_confirm_passwords_dont_match">Die Passwörter stimmen nicht überein.</string>
   <string name="lockpassword_confirm_pins_dont_match">Die PINs stimmen nicht überein.</string>
@@ -2635,12 +2637,12 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="master_clear_button_text">Telefon zurücksetzen</string>
   <string name="master_clear_confirm_title">Zurücksetzen?</string>
   <string name="master_clear_desc">"Alle Daten in Ihrem "<b>Internen Speicher</b>" werden gelöscht, inklusive:
-    "&lt;li&gt;Ihrem Google Konto&lt;/li&gt;"
-    "&lt;li&gt;System- und Appdaten und Einstellungen&lt;/li&gt;"
-    "&lt;li&gt;Heruntergeladene Apps&lt;/li&gt;" "</string>
+"&lt;li&gt;Ihrem Google Konto&lt;/li&gt;"
+"&lt;li&gt;System- und Appdaten und Einstellungen&lt;/li&gt;"
+"&lt;li&gt;Heruntergeladene Apps&lt;/li&gt;" "</string>
   <string name="master_clear_desc_also_erases_external">" "&lt;li&gt;Musik&lt;/li&gt;"
-    "&lt;li&gt;Fotos&lt;/li&gt;"
-    "&lt;li&gt;und andere Benutzerdaten&lt;/li&gt;" "</string>
+"&lt;li&gt;Fotos&lt;/li&gt;"
+"&lt;li&gt;und andere Benutzerdaten&lt;/li&gt;" "</string>
   <string name="master_clear_desc_erase_external_storage">"Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Speicher</b> gelöscht werden.</string>
   <string name="master_clear_erase_application_progress">Lösche Anwendungen…</string>
   <string name="master_clear_failed">Die Zurücksetzung konnte nicht durchgeführt werden, weil der Dienst zur Systembereinigung nicht verfügbar ist.</string>
@@ -2840,7 +2842,6 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="miui_lab_taplus_desc">Elemente drücken und halten, um Aktionen auszuführen</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_screen_config_title">MIUI Launchereinstellungen</string>
-  <string name="miui_updater">Systemupdate</string>
   <string name="miui_screensaver_show_time">Dauer</string>
   <string name="miui_screensaver_show_time_select_title">Diashowdauer</string>
   <string name="miui_screensaver_state_off">Aus</string>
@@ -2848,6 +2849,7 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="miui_screensaver_title">Bildschirmschoner</string>
   <string name="miui_screensaver_usage">Einmal eingeschaltet, werden Bilder aus dem ausgewählten Album alle 5 Sekunden nach Abschalten des Bildschirms angezeigt.</string>
   <string name="miui_silent_title">Lautlosmodus</string>
+  <string name="miui_updater">Systemupdate</string>
   <string name="mms_breathing_light_color_title">Nachrichtenfarbe</string>
   <string name="mms_breathing_light_freq_title">Nachrichtenpulsfrequenz</string>
   <string name="mms_privacy_password_role_instruction">Ihre Unterhaltungen mit privaten Kontakten werden hier gespeichert</string>
@@ -2908,7 +2910,7 @@ Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu
   <string name="msd_install_succeed">Treiber installiert</string>
   <string name="msd_pc_system_install_finish_summary_vista">Bei Windows Vista oder aktueller wird %1$s als ein USB-Speichergerät angezeigt, wenn es mit dem Computer verbunden wird.</string>
   <string name="msd_pc_system_install_finish_summary_xp">"Nach der Treiberinstallation, wird
-    %1$s als ein USB-Speichergerät angezeigt, wenn es mit dem Computer verbunden wird."</string>
+%1$s als ein USB-Speichergerät angezeigt, wenn es mit dem Computer verbunden wird."</string>
   <string name="msd_pc_system_install_summary_xp">1. Starten Sie die setup.exe, um die Installation zu starten.</string>
   <string name="msg_wlan_signal_found">Mit %s verbinden?</string>
   <string name="msim_sim_radio_off">Aus</string>
