@@ -5743,9 +5743,9 @@
   <string name="vpn_no_ca_cert">(Server nicht verifizieren)</string>
   <string name="vpn_no_network">Es ist keine Netzwerkverbindung verfügbar. Bitte versuchen Sie es später erneut.</string>
   <string name="vpn_no_selected">VPN auswählen</string>
-  <string name="vpn_no_server_cert">(vom Server erhalten)</string>
+  <string name="vpn_no_server_cert">(Vom Server erhalten)</string>
   <string name="vpn_no_vpns_added">Keine VPNs hinzugefügt</string>
-  <string name="vpn_not_used">(nicht verwendet)</string>
+  <string name="vpn_not_used">(Nicht verwendet)</string>
   <string name="vpn_off">Aus</string>
   <string name="vpn_on">Ein</string>
   <string name="vpn_password">Passwort</string>
@@ -5777,8 +5777,8 @@
   <string name="wait_for_debugger_summary">App wartet vor der Ausführung auf den Start des Debuggers</string>
   <string name="wakeup_for_keyguard_notification_title">Bei Benachrichtigungen Bildschirmbeleuchtung einschalten</string>
   <string name="wallpaper_attributions">Hintergründe</string>
-  <string name="wallpaper_attributions_values">"Satellitenbildanbieter:
-    ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
+  <string name="wallpaper_attributions_values">Satellitenbildanbieter:
+    ©2014 CNES / Astrium, DigitalGlobe, Bluesky</string>
   <string name="wallpaper_desktop">Desktop</string>
   <string name="wallpaper_live">Livehintergrund</string>
   <string name="wallpaper_lockscreen">Sperrbildschirm</string>
@@ -5818,7 +5818,7 @@
   <string name="wifi_alert_lockdown_by_device_owner">%1$s verwaltet Ihr Gerät und erlaubt nicht, dieses WLAN zu ändern oder zu löschen. Für weitere Informationen kontaktieren Sie ihren Administrator.</string>
   <string name="wifi_allow_scan_with_traffic">WLAN-Roamingscans immer erlauben</string>
   <string name="wifi_allow_scan_with_traffic_summary">WLAN-Roamingscans erlauben/verbieten bezogen auf die Menge des Datenverkehrs an der Schnittstelle</string>
-  <string name="wifi_and_mobile_skipped_message">"ACHTUNG: Wenn Sie WLAN überspringen, wird Ihr Telefon keine Internetverbindung haben, um anfallende Downloads oder Updates zu nutzen."</string>
+  <string name="wifi_and_mobile_skipped_message">ACHTUNG: Wenn Sie WLAN überspringen, wird Ihr Telefon keine Internetverbindung haben, um anfallende Downloads oder Updates zu nutzen</string>
   <string name="wifi_ap_band_config">AP-Band auswählen</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
   <string name="wifi_ap_choose_5G">5 GHz Band</string>
@@ -5826,8 +5826,7 @@
   <string name="wifi_assistant_card_message">Verbinde automatisch mit verfügbaren Netzwerken mit dem WLAN-Assistenten</string>
   <string name="wifi_assistant_dialog_message">WLAN-Assistent möchte eine VPN-Verbindung einrichten, um den Netzwerkverkehr zu überwachen. Stimmen Sie nur dann zu, wenn Sie der Quelle vertrauen.</string>
   <string name="wifi_assistant_explanation_message">Google WLAN-Assistent erkennt für Sie verfügbare Netzwerke und verbindet Ihr Gerät mit einem zuverlässigen Netzwerk, das die beste Geschwindigkeit hat</string>
-  <string name="wifi_assistant_intro_setup">Vorstellung 
-    WLAN Assistent"</string>
+  <string name="wifi_assistant_intro_setup">Vorstellung WLAN Assistent</string>
   <string name="wifi_assistant_no_thanks">NEIN, DANKE</string>
   <string name="wifi_assistant_open_app">OFFENE APP</string>
   <string name="wifi_assistant_permission_accepted">Sie haben dem Google WLAN-Assistent erlaubt, eine VPN-Verbindung einzurichten. Das bedeutet, dass diese App den Netzwerkverkehr überwachen kann.</string>
@@ -5866,7 +5865,7 @@
   <string name="wifi_connect_cmcc_dialog_content">Verbunden mit CMCC-Netzwerkdatendiensten.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Nicht nochmal anzeigen</string>
   <string name="wifi_connect_cmcc_dialog_title">Datennutzungsbenachrichtigung</string>
-  <string name="wifi_connect_failed_message">Das Telefon konnte sich nicht mit diesem WLAN verbinden.</string>
+  <string name="wifi_connect_failed_message">Das Telefon konnte sich nicht mit diesem WLAN verbinden</string>
   <string name="wifi_connected_no_internet">Verbunden, kein Internet</string>
   <string name="wifi_context_menu_change_password">Passwort ändern</string>
   <string name="wifi_context_menu_change_wapi_certificate">WAPI-Zertifikate ändern</string>
@@ -5881,7 +5880,7 @@
   <string name="wifi_disabled_network_failure">Schlechte Internetverbindung</string>
   <string name="wifi_disabled_password_failure">Authentifizierungsproblem</string>
   <string name="wifi_disabled_wifi_failure">WLAN-Verbindungsfehler</string>
-  <string name="wifi_disconnected_notification_summary">Sie sind nicht länger mit dem WLAN verbunden.</string>
+  <string name="wifi_disconnected_notification_summary">Sie sind nicht länger mit dem WLAN verbunden</string>
   <string name="wifi_disconnected_notification_title">WLAN getrennt</string>
   <string name="wifi_display_autonomous_go">Autonomes GO aktivieren</string>
   <string name="wifi_display_certification">Kabellose Übertragung</string>
@@ -5918,14 +5917,14 @@
   <string name="wifi_eap_method">EAP-Methode</string>
   <string name="wifi_eap_sim_simcard">Wähle SIM</string>
   <string name="wifi_eap_user_cert">Nutzerzertifikat</string>
-  <string name="wifi_empty_list_user_restricted">Sie haben keine Berechtigung, das WLAN-Netzwerk zu wechseln.</string>
+  <string name="wifi_empty_list_user_restricted">Sie haben keine Berechtigung, das WLAN-Netzwerk zu wechseln</string>
   <string name="wifi_empty_list_wifi_off">WLAN einschalten, um verfügbare Netze anzuzeigen</string>
   <string name="wifi_empty_list_wifi_on">Suche WLAN-Netzwerke…</string>
   <string name="wifi_enable">WLAN</string>
   <string name="wifi_enable_data_and_wifi_roam">Daten- und WLAN-Roaming aktivieren</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Auf die mobile Datenverbindung umschalten, wenn über WLAN keine Internetverbindung möglich ist</string>
   <string name="wifi_enable_hs2_title">Passpoint an</string>
-  <string name="wifi_enable_watchdog_service_summary">Nur gute Verbindungen verwenden.</string>
+  <string name="wifi_enable_watchdog_service_summary">Nur gute Verbindungen verwenden</string>
   <string name="wifi_error">Fehler</string>
   <string name="wifi_fail_to_scan">Netzwerksuche nicht möglich</string>
   <string name="wifi_failed_connect_message">Verbindung zum Netzwerk fehlgeschlagen</string>
@@ -5974,7 +5973,7 @@
   <string name="wifi_menu_wfd">WLAN-Anzeige</string>
   <string name="wifi_menu_wps_pbc">WPS-Pushtaste</string>
   <string name="wifi_menu_wps_pin">WPS-PIN-Eingabe</string>
-  <string name="wifi_menu_write_to_nfc">Schreiben Sie an NFC-Tag</string>
+  <string name="wifi_menu_write_to_nfc">An NFC-Tag schreiben</string>
   <string name="wifi_more">Mehr</string>
   <string name="wifi_multiple_cert_added">(Mehrere Zertifikate hinzugefügt)</string>
   <string name="wifi_network_prefix_length">Länge Netzwerkpräfix</string>
@@ -5988,7 +5987,7 @@
   <string name="wifi_notify_open_networks_summary">Benachrichtigen, wenn offenes Netzwerk verfügbar</string>
   <string name="wifi_off_airplane_on_cancel">Abbrechen</string>
   <string name="wifi_off_airplane_on_confirm">OK</string>
-  <string name="wifi_off_airplane_on_content">Sie können WLAN manuell aktivieren, wenn Sie sich im Flugmodus befinden.</string>
+  <string name="wifi_off_airplane_on_content">Sie können WLAN manuell aktivieren, wenn Sie sich im Flugmodus befinden</string>
   <string name="wifi_off_airplane_on_not_remind">"Nicht nochmal anzeigen"</string>
   <string name="wifi_off_airplane_on_title">WLAN im Flugmodus</string>
   <string name="wifi_on_time">WLAN-Aktivzeit</string>
@@ -6032,7 +6031,7 @@
   <string name="wifi_saved_access_points_titlebar">Gespeicherte Netzwerke</string>
   <string name="wifi_scan_always_available">Scannen immer verfügbar</string>
   <string name="wifi_scan_always_available_summary">Google-Standortservice und andere Apps können Netzwerke scannen, auch wenn WLAN ausgeschaltet ist</string>
-  <string name="wifi_scan_always_available_title">Erlaube immer Scannen</string>
+  <string name="wifi_scan_always_available_title">Scannen immer erlauben</string>
   <string name="wifi_scan_always_confirm_allow">Erlauben</string>
   <string name="wifi_scan_always_confirm_deny">Verweigern</string>
   <string name="wifi_scan_always_turnoff_message">Um dies zu deaktivieren, gehen Sie auf Erweitert im Überlaufmenü</string>
@@ -6043,7 +6042,7 @@
   <string name="wifi_scan_notify_text_location_off">Anwendungen können in der Nähe von Netzwerken scannen (Sie können auch gescannt werden, wenn WLAN ausgeschaltet ist). Wenn Sie dies nicht tun möchten, gehen Sie zu "Erweitert" und "Scannen zu jeder Zeit"-Einstellungen.</string>
   <string name="wifi_scan_notify_text_location_on">Um die Genauigkeit der Standortinformationen und andere Zwecke zu verbessern, können Google und andere Anwendungen in der Nähe von Netzwerken (die auch beim Schließen von WLAN gescannt werden können) scannen. Wenn Sie dies nicht tun möchten, gehen Sie zu "Erweitert" und "Scannen zu jeder Zeit"-Einstellungen.</string>
   <string name="wifi_secured_first_item">Gesichert mit %1$s</string>
-  <string name="wifi_secured_second_item">, gesichert mit %1$s</string>
+  <string name="wifi_secured_second_item">", gesichert mit %1$s"</string>
   <string name="wifi_security">Sicherheit</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
@@ -6081,8 +6080,8 @@
   <string name="wifi_setup_back">Zurück</string>
   <string name="wifi_setup_cancel">Abbrechen</string>
   <string name="wifi_setup_connect">Verbinden</string>
-  <string name="wifi_setup_description_connected">Drücken Sie <b>Weiter</b>", um mit der Einrichtung fortzufahren.
-    Drücken Sie "<b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
+  <string name="wifi_setup_description_connected">Drücken Sie <b>Weiter</b>, um mit der Einrichtung fortzufahren.
+    Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
   <string name="wifi_setup_description_connecting">Der Verbindungsaufbau kann einige Minuten dauern…</string>
   <string name="wifi_setup_detail">Netzwerkdetails</string>
   <string name="wifi_setup_eap_not_supported">Während der Einrichtung können Sie keine EAP-WLAN-Verbindung konfigurieren. Sie können dies anschließend in den Einstellungen unter \"Drahtlos &amp; Netzwerke\" vornehmen.</string>
@@ -6112,7 +6111,7 @@
   <string name="wifi_share_action_turn_off">WLAN teilen ausschalten</string>
   <string name="wifi_share_action_turn_on">WLAN teilen</string>
   <string name="wifi_share_action_turn_on_summary">Zum Teilen bitte mit Ihrem Mi Konto anmelden.</string>
-  <string name="wifi_share_add">Mein öffentliches WLAN teilen.</string>
+  <string name="wifi_share_add">Mein öffentliches WLAN teilen</string>
   <string name="wifi_share_add_summary">Wenn Sie Ihr öffentliches WLAN teilen, können Sie auch auf das WLAN von anderen Benutzern zugreifen</string>
   <string name="wifi_share_connect">Verbinden</string>
   <string name="wifi_share_connected_summary">Sie sind mit einem öffentlichen WLAN verbunden, das von einem anderen Benutzer bereitgestellt wurde</string>
@@ -6163,7 +6162,7 @@
   <string name="wifi_suspend_optimizations_summary">Akkuverbrauch bei aktiviertem WLAN minimieren</string>
   <string name="wifi_switch_away_when_unvalidated">Zur mobilen Datenverbindung wechseln, wenn die Internetverbindung im WLAN verloren geht</string>
   <string name="wifi_switch_to_gsm_message">Verbindung mit WLAN verloren. Wollen Sie stattdessen mobile Datenverbindung nutzen?</string>
-  <string name="wifi_switch_to_gsm_title">Nutze GSM?</string>
+  <string name="wifi_switch_to_gsm_title">GSM nutzen?</string>
   <string name="wifi_tether_checkbox_text">Mobiler WLAN-Hotspot</string>
   <string name="wifi_tether_configure_ap_text">WLAN-Hotspot einrichten</string>
   <string name="wifi_tether_configure_ssid_default">Android-Hotspot</string>
@@ -6178,8 +6177,8 @@
   <string name="wifi_title">WLAN-Einstellungen</string>
   <string name="wifi_type_approval_dialog_title">NTC NO.</string>
   <string name="wifi_type_approval_title">Genehmigungstyp</string>
-  <string name="wifi_unchanged">(nicht geändert)</string>
-  <string name="wifi_unspecified">(keine Angabe)</string>
+  <string name="wifi_unchanged">(Nicht geändert)</string>
+  <string name="wifi_unspecified">(Keine Angabe)</string>
   <string name="wifi_update">Statistik aktualisieren</string>
   <string name="wifi_use_system_certs">Systemzertifikate verwenden</string>
   <string name="wifi_verbose_logging">Detailliertes WLAN-Logging aktivieren</string>
@@ -6191,7 +6190,7 @@
   <string name="wifi_wapi_cert_install">WAPI-Zertifikat installieren</string>
   <string name="wifi_wapi_cert_install_button">Installieren</string>
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">Auf der SD-Karte wurde kein AS-Zertifikat gefunden</string>
-  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Das AS-Zertifikatsformat ist falsch.</string>
+  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">AS-Zertifikatsformat ist falsch</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Bitte geben Sie den AS-Zertifikatsnamen ein</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Erstellen des Ordners fehlgeschlagen</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Bitte geben Sie einen anderen Ordnernamen ein. Dieser ist bereits vorhanden.</string>
@@ -6203,9 +6202,9 @@
   <string name="wifi_wapi_cert_uninstall">WAPI-Zertifikat deinstallieren</string>
   <string name="wifi_wapi_cert_uninstall_button">Entfernen</string>
   <string name="wifi_wapi_certification_dont_exist">Das eingegebene Netzwerkpasswort ist falsch. Bitte versuchen Sie es erneut.</string>
-  <string name="wifi_wapi_user_cert">Benutzer Zertifikat</string>
+  <string name="wifi_wapi_user_cert">Benutzerzertifikat</string>
   <string name="wifi_wps_available_first_item">WPS verfügbar</string>
-  <string name="wifi_wps_available_second_item">" (WPS verfügbar)"</string>
+  <string name="wifi_wps_available_second_item">(WPS verfügbar)</string>
   <string name="wifi_wps_complete">WPS erfolgreich. Netzwerkverbindung wird hergestellt…</string>
   <string name="wifi_wps_connected">Mit WLAN-Netzwerk %s verbunden</string>
   <string name="wifi_wps_failed_auth">Authentifizierungsfehler. Bitte versuchen Sie es erneut.</string>
@@ -6222,7 +6221,7 @@
   <string name="wifi_wps_setup_title">Geschützte WLAN-Einrichtung</string>
   <string name="wifiap_configure_ap_text">WLAN wifiap einrichten</string>
   <string name="wifiap_configure_subtext">%1$s%2$s portable WLAN wifiap</string>
-  <string name="wifiap_settings_desc">WLAN wifiap kann die Datenverbindung dieses Mobiltelefons über WLAN mit anderen PC/mobilen Geräten austauschen.</string>
+  <string name="wifiap_settings_desc">WLAN wifiap kann die Datenverbindung dieses Mobiltelefons über WLAN mit anderen PC/mobilen Geräten austauschen</string>
   <string name="wifiap_settings_indication">Nach Einschalten der WLAN wifiap können andere PC/mobile Geräte eine Verbindung herstellen und mit dem Internet beginnen, indem Sie folgende Schritte ausführen:</string>
   <string name="wifiap_settings_indication_step1">1. Schalten Sie WLAN auf dem PC und mobilem Gerät ein</string>
   <string name="wifiap_settings_indication_step2">2. Finden Sie “%s” in der Liste der WLAN-Netzwerke</string>
@@ -6239,7 +6238,7 @@
   <string name="wlan_to_cellular_hint_title">WLAN-&gt;Mobilfunktipp</string>
   <string name="work_mode_label">Arbeitsprofil</string>
   <string name="work_mode_summary">Arbeitsprofil aktivieren, einschließlich Apps, Synchronisierung im Hintergrund und verknüpfter Funktionen</string>
-  <string name="work_profile_confirm_remove_message">Alle Anwendungen und Daten in diesem Profil werden gelöscht.</string>
+  <string name="work_profile_confirm_remove_message">Alle Anwendungen und Daten in diesem Profil werden gelöscht</string>
   <string name="work_profile_confirm_remove_title">Arbeitsprofil entfernen?</string>
   <string name="work_profile_usage_access_warning">Das Ausschalten des Datenzugriffs für diese App verhindert nicht, dass Ihr Administrator die Datennutzung für Apps in Ihrem Arbeitsprofil ermitteln kann</string>
   <string name="work_sim_title">Arbeits-SIM</string>
@@ -6265,8 +6264,8 @@
   <string name="xiaomi_cloud_service_description">Mi Cloud synchronisiert Kontakte, Fotos und andere Elemente auf Ihren Geräten. \"Gerät finden\" benötigt Mi Cloud ebenfalls, um normal zu funktionieren.</string>
   <string name="xiaomi_cloud_service_disabled">Aus</string>
   <string name="xiaomi_cloud_service_unknown">Unbekannt</string>
-  <string name="xiaomi_connect_download_manager_fail">Verbindung mit dem Downloadmanager ist fehlgeschlagen, bitte überprüfen Sie den Downloadmanagerstatus im Appmanagement.</string>
-  <string name="xiaomi_external_storage_unavailable">Kein Speicherplatz verfügbar, überprüfen Sie die SD-Karte.</string>
+  <string name="xiaomi_connect_download_manager_fail">Verbindung mit dem Downloadmanager ist fehlgeschlagen, bitte überprüfen Sie den Downloadmanagerstatus im Appmanagement</string>
+  <string name="xiaomi_external_storage_unavailable">Kein Speicherplatz verfügbar, überprüfen Sie die SD-Karte</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_money_service">Mi Credit</string>
@@ -6358,8 +6357,7 @@
   <string name="zen_mode_rule_name_warning">Regel existiert bereits</string>
   <string name="zen_mode_rule_not_found_text">Regel nicht gefunden</string>
   <string name="zen_mode_rule_summary_enabled_combination">Aktiv / %1$s</string>
-  <string name="zen_mode_rule_summary_provider_combination">"%1$s
-    %2$s"</string>
+  <string name="zen_mode_rule_summary_provider_combination">"%1$s %2$s"</string>
   <string name="zen_mode_rule_type">Regeltyp</string>
   <string name="zen_mode_rule_type_unknown">Unbekannt</string>
   <string name="zen_mode_schedule_alarm_summary">Zur Schlusszeit oder beim nächsten Weckruf stoppen, je nachdem, was zuerst eintritt</string>
