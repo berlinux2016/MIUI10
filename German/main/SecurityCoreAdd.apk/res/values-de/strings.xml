@@ -29,6 +29,7 @@
   <string name="closeSecondSpace">Zweitprofil löschen</string>
   <string name="closeSecondSpaceSummary">Zweitprofil und sämtliche Daten löschen</string>
   <string name="closeSuccess">Ausgeschaltet</string>
+  <string name="close_second_space">Zweitprofil gelöscht</string>
   <string name="close_second_space_success">Zweitprofil gelöscht</string>
   <string name="closed">Aus</string>
   <string name="complete_setting">Abschließen</string>
@@ -39,14 +40,13 @@
   <string name="confirmCloseSpaceDes">Sie können das Zweitprofil nach dem Löschen nicht mehr erreichen. Alle Daten werden verschoben oder gelöscht.</string>
   <string name="confirmDelete">Löschen</string>
   <string name="confirmSecondSpacePassword">Zweitprofilpasswort bestätigen</string>
-  <string name="confirm_airspace_password">Bestätige %s Passwort</string>
+  <string name="confirm_airspace_password">Passwort %s bestätigen</string>
   <string name="confirm_main_space_password">Hauptprofilpasswort bestätigen</string>
   <string name="confirm_restore">Nicht anzeigen</string>
   <string name="contactData">Kontakte</string>
   <string name="contact_sub_titile_text">Nachrichten werden zwischen beiden Profilen geteilt</string>
-  <string name="contact_titile_text">"Private Nachrichten im Zweitprofil anzeigen
-    um diese jederzeit zu erhalten"
-  </string>
+  <string name="contact_titile_text">"Persönliche Nachrichten im Zweitprofil anzeigen,
+um diese jederzeit sehen zu können"</string>
   <string name="contact_us">Kontakt aufnehmen</string>
   <string name="continueButton">Weiter</string>
   <string name="createANewSpace">Erstellen Sie ein zweites, separates Profil.</string>
@@ -57,7 +57,7 @@
   <string name="create_space_loading">Zweitprofil wird erstellt…</string>
   <string name="create_work_space">Arbeitsbereich erstellen</string>
   <string name="creating_app_icon">Verknüpfung wird erstellt…</string>
-  <string name="current_space">Aktueller Speicher</string>
+  <string name="current_space">Aktuelles Profil</string>
   <string name="dataSafe">Ein Zweitprofil ist wie ein zweites Telefon zu haben.</string>
   <string name="declare_dialog_title">Über geklonte Apps</string>
   <string name="deleteAll">Alles löschen</string>
@@ -75,7 +75,7 @@
   <string name="dont_import">Nicht jetzt</string>
   <string name="downloading_space">Herunterladen</string>
   <string name="enable">Einschalten</string>
-  <string name="enter_air_space">Gehe zum Arbeitsbereich</string>
+  <string name="enter_air_space">Zum Arbeitsbereich gehen</string>
   <string name="err_copy_contacts">Kontakte kopieren fehlgeschlagen</string>
   <string name="err_copy_files">Dateien verschieben fehlgeschlagen</string>
   <string name="err_copy_photos">Fotos kopieren fehlgeschlagen</string>
@@ -93,25 +93,21 @@
   <string name="finger_print_of_use">Fingerabdruck verwenden</string>
   <string name="fingerprint_number_upper_limit">Zu viele falsche Entsperrversuche</string>
   <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht gelöscht werden</string>
-  <string name="function_not_support">Dieses Gerät wird nicht unterstützt</string>
-  <string name="gms_message">Die Anwendung muss auf Google Play Dienste zugreifen</string>
+  <string name="function_not_support">Dieses Telefon wird nicht unterstützt</string>
+  <string name="gms_message">Die App muss auf Google Play Dienste zugreifen</string>
   <string name="gms_open_button">Öffnen</string>
   <string name="gms_title">Google Play Dienste</string>
   <string name="goToSecondSpacce">Zum Zweitprofil wechseln</string>
   <string name="go_on_import">Weiter importieren</string>
   <string name="gpg_message">Google Play Store muss auf Google Play Dienste zugreifen auch wenn Sie die App nicht klonen</string>
   <string name="gpg_title">Google Play Store</string>
-  <string name="guide_contact_sub_title_desc">
-    "Kontakte, die im Zweitprofil angelegt werden, sind privat.
-    Nachrichten erhalten Sie nur im Zweitprofil."
-  </string>
+  <string name="guide_contact_sub_title_desc">"Kontakte, die im Zweitprofil angelegt werden, sind privat.
+Nachrichten erhalten Sie nur im Zweitprofil."</string>
   <string name="guide_contact_suc_sub_title_desc">Nur private Kontakte und Nachrichten werden im Zweitprofil angezeigt</string>
   <string name="guide_contact_suc_title_desc">Erfolgreich eingrichtet</string>
   <string name="guide_contact_title_desc">Private Elemente im Zweitprofil anzeigen?</string>
-  <string name="guide_pwd_detail_title">
-    "Schützen Sie Ihre Daten
-    Erreichen Sie das Zweitprofil vom Sperrbildschirm"
-  </string>
+  <string name="guide_pwd_detail_title">"Schützen Sie Ihre Daten
+Erreichen Sie das Zweitprofil vom Sperrbildschirm"</string>
   <string name="guide_setting_guide_title">Zweitprofil verwalten</string>
   <string name="guide_start_ads_text">Ein völlig neues Sicherheitslevel</string>
   <string name="guide_start_text">Zwei Profile. Ein Gerät.</string>
@@ -120,10 +116,8 @@ Zwei Profile. Ein Gerät. "</string>
   <string name="hidden_app">Zweitprofil</string>
   <string name="imageData">Fotos</string>
   <string name="import_application">Apps importieren</string>
-  <string name="import_application_desc">
-    "Apps ins Zweitprofil importieren.
-    Sie können Sie auch separat installieren."
-  </string>
+  <string name="import_application_desc">"Apps ins Zweitprofil importieren.
+    Sie können Sie auch separat installieren."</string>
   <string name="import_contacts">Kontakte importieren</string>
   <string name="import_contacts_desc">Importierte Kontakte als privat markieren</string>
   <string name="import_contacts_suc">Importierte Kontakte</string>
@@ -135,7 +129,10 @@ Zwei Profile. Ein Gerät. "</string>
   <string name="input_space_finger">Festlegen</string>
   <string name="input_space_password">Festlegen</string>
   <string name="invalid_qr_code">Ungültiger QR code</string>
+  <string name="keywords_sspace">Second space;Two spaces;2 spaces;Hide apps;Hide files;Hide photos;Lock screen;Lock screen password;Privacy;Privacy mode;Private mode;Private;Guest mode;Guest session;Guest access;Guest account;Guest</string>
+  <string name="keywords_xspace">Dual app;Dual apps;Double app;Double apps;Clone app;Clone apps;App clone;App clones;Two accounts;2 accounts</string>
   <string name="list_empty_text">Leer</string>
+  <string name="list_empty_text_xspace">Installieren Sie WeChat/QQ/Weibo, erstellen Sie geklonte Apps und versuchen Sie es erneut.</string>
   <string name="loading">Laden…</string>
   <string name="loading_apps">Apps werden geladen…</string>
   <string name="loading_space">Einen Moment…</string>
@@ -147,14 +144,14 @@ Zwei Profile. Ein Gerät. "</string>
   <string name="needSetKeyguardFirst">Paswort für Hauptprofil festlegen</string>
   <string name="needSetKeyguardFirstDes">Legen Sie ein Passwort für das Hauptprofil fest, bevor Sie ein Passwort für das Zweitprofil festlegen</string>
   <string name="need_network_when_create">Verbinden Sie sich mit dem Netzwerk, bevor Sie einen Arbeitsbereich erstellen</string>
-  <string name="need_reset_passwd">Passwort zurücksetzen um zum Arbeitsbereich wechseln</string>
+  <string name="need_reset_passwd">Passwort zurücksetzen, um zum Arbeitsbereich zu wechseln</string>
   <string name="need_set_second_space_desc">Legen Sie ein Passwort für das Hauptprofil fest, bevor Sie eine Fingerabdruck für das Zweitprofil festlegen</string>
   <string name="need_set_second_space_pwd_first">Legen Sie zuerst ein Passwort für das Hauptprofil fest</string>
   <string name="newSecondSpace">Zweitprofil aktivieren</string>
   <string name="next_setp">Weiter</string>
   <string name="no_match_repate_scanner">Keine Übereinstimmung gefunden, nochmal scannen</string>
   <string name="normal_app">Hauptprofil</string>
-  <string name="not_support_air_space">"Dieses Feature wird von ihrem Telefon nicht unterstützt"</string>
+  <string name="not_support_air_space">Diese Funktion wird von ihrem Telefon nicht unterstützt</string>
   <string name="not_support_multiple_users">Mehrere Benutzer werden nicht unterstützt</string>
   <string name="notificationSetPassword">Passwort festlegen</string>
   <string name="notificationSetPasswordDes">Daten im Zweitprofil schützen</string>
@@ -172,10 +169,10 @@ Zwei Profile. Ein Gerät. "</string>
   <string name="otherSettings">Andere Einstellungen</string>
   <string name="passWordGuardSummary">Erreichen Sie das Zweitprofil vom Sperrbildschirm mittels Passwort</string>
   <string name="passwordProtect">Passwort</string>
-  <string name="please_diff_finger_print">
-    Verwenden Sie unterschiedliche Fingerabdrücke für Haupt- und Zweitprofil.
-    Andernfalls können Sie das Zweitprofil nicht vom Sperrbildschirm aus erreichen.
-  </string>
+  <string name="path_sspace">Einstellungen/Zeitprofil</string>
+  <string name="path_xspace">Einstellungen/Geklonte Apps</string>
+  <string name="please_diff_finger_print">"Verwenden Sie unterschiedliche Fingerabdrücke für Haupt- und Zweitprofil.
+Andernfalls können Sie das Zweitprofil nicht vom Sperrbildschirm aus erreichen."</string>
   <string name="privacyContactsSummary">Private Elemente im Zweitprofil anzeigen</string>
   <string name="privacyContactsTitle">Private Kontakte und Nachrichten</string>
   <string name="privacy_password_fingerprint_dialog_message">Platziern Sie Ihren Finger auf dem Sensor</string>
@@ -184,16 +181,19 @@ Zwei Profile. Ein Gerät. "</string>
   <string name="private_sms_show_title">Private Nachrichten im Zweitprofil anzeigen</string>
   <string name="private_space_setting">Verwalten</string>
   <string name="public_app">Beide Profile</string>
+  <string name="qq_send">An QQ Freunde/Geräte senden</string>
   <string name="removeSuccess">Erfolgreich gelöscht</string>
   <string name="remove_second_space_msg">Wenn Sie das Zweitprofil löschen, gehen alle Zweitprofil-Appdaten verloren. Zweitprofil jetzt löschen?</string>
   <string name="remove_user_click_message">"*Wenn Sie keine wichtigen Daten im Zweitprofil mehr haben, %s"</string>  
-  <string name="remove_user_click_message_action">können Sie diesen löschen und Ihr Gerät neu starten.</string> 
+  <string name="remove_user_click_message_action">können Sie dieses löschen und Ihr Gerät neu starten.</string> 
   <string name="removingSpace">Wird gelöscht</string>
   <string name="repeat_scanner_fingerprint">Nochmal hinzufügen</string>
   <string name="reset_passwd_success">Passwort wurde erfolgreich zurückgesetzt</string>
-  <string name="restore_normal_show">Private Nachrichten nicht anzeigen</string>
-  <string name="restore_show_desc">"Private Nachrichten im Zweitprofil nicht anzeigen. Sie können diese im Hauptprofil ansehen."</string>
-  <string name="restore_show_toast">Private Nachrichten werden nicht anzeigt</string>
+  <string name="resource_sspace">Zweitprofil</string>
+  <string name="resource_xspace">Geklonte Apps</string>
+  <string name="restore_normal_show">Persönliche Nachrichten nicht anzeigen</string>
+  <string name="restore_show_desc">Persönliche Nachrichten im Zweitprofil nicht anzeigen. Sie können diese im Hauptprofil ansehen.</string>
+  <string name="restore_show_toast">Persönliche Nachrichten werden nicht angezeigt</string>
   <string name="retain_src_file">Dateien behalten</string>
   <string name="retain_src_photo">Fotos behalten</string>
   <string name="same_qr_code_create_space">Erstelle einen weiteren</string>
@@ -201,10 +201,8 @@ Zwei Profile. Ein Gerät. "</string>
   <string name="same_qr_code_enter_space">Gehe zu Arbeitsbereich</string>
   <string name="same_qr_code_title">%s existieren bereits</string>
   <string name="scanner_fingerprint">Fingerabdruck scannen…</string>
-  <string name="scanner_fingerprint_enter_second">
-    "Zweitprofilfingerabdruck scannen
-    um das Zweitprofil vom Sperrbildschirm aus zu erreichen"
-  </string>
+  <string name="scanner_fingerprint_enter_second">"Zweitprofilfingerabdruck scannen,
+um das Zweitprofil vom Sperrbildschirm aus zu erreichen"</string>
   <string name="scanner_fingerprint_error_tips_desc">Keine Übereinstimmung gefunden. Zweitprofilfingerabdruck hinzufügen?</string>
   <string name="scanner_fingerprint_error_tips_title">Keine Übereinstimmung gefunden</string>
   <string name="scanner_fingerprint_tips_desc">Vorhandenen Fingerabdruck für das Zweitprofil auswählen. Sie können Ihn dann nicht mehr für das Hauptprofil verwenden.</string>
@@ -212,14 +210,14 @@ Zwei Profile. Ein Gerät. "</string>
   <string name="scanner_second_space_fingerprint">Zweitprofilfingerabdruck scannen</string>
   <string name="sdcardfs_dialog_message">MIUI 9 hat ein neues Dateisystem. Alte Daten können damit inkompatibel sein. Führen Sie zur Behebung dieses Problems die folgenden Schritte aus, um ein Update zu installieren. Ihr Gerät wird während dieses Updates zweimal neu gestartet.</string>  
   <string name="sdcardfs_dialog_title">Wichtiges Update</string>  
-  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 hat ein neues Dateisystem. Alte Daten können damit inkompatibel sein. Zum aktualisieren, verschieben Sie Elemente aus dem Zweitprofil, starten Sie Ihr Gerät neu und erstellen Sie das Zweitprofil erneut.  
-Wenn Sie das Update nicht durchführen, funktionieren Dualapps möglicherweise nicht richtig."</string>  
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 hat ein neues Dateisystem. Alte Daten können damit inkompatibel sein. Zum aktualisieren, verschieben Sie Elemente aus dem Zweitprofil, starten Sie Ihr Gerät neu und erstellen Sie das Zweitprofil erneut.
+Wenn Sie das Update nicht durchführen, funktionieren geklonte Apps möglicherweise nicht richtig."</string>  
   <string name="sdcradfs_dialog_in_owner_title">Zweitprofil</string>  
-  <string name="sdcradfs_dialog_in_sec_message">"Zum aktualisieren, sollten Sie Ihr Zweitprofil löschen und es dann erneut erstellen. Verschieben Sie die Daten vom Zweitprofil in das Hauptprofil. Starten Sie dann Ihr Gerät neu, um das Update abzuschließen.  
-Wenn Sie das Update nicht durchführen, funktionieren Dualapps möglicherweise nicht richtig."</string>  
+  <string name="sdcradfs_dialog_in_sec_message">"Zum aktualisieren, sollten Sie Ihr Zweitprofil löschen und es dann neu erstellen. Verschieben Sie die Daten vom Zweitprofil in das Hauptprofil. Starten Sie dann Ihr Gerät neu, um das Update abzuschließen.
+Wenn Sie das Update nicht durchführen, funktionieren geklonte Apps möglicherweise nicht richtig."</string>  
   <string name="sdcradfs_dialog_in_sec_title">Wichtiges Update</string> 
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="search_result_text">"Konnte keine Apps finden"</string>
+  <string name="search_result_text">Keine App gefunden</string>
   <string name="secondSpace">Zweitprofil</string>
   <string name="second_owner_finger_print">Zweitprofilfingerabdruck</string>
   <string name="second_space_finger_printf_desc">Einen Fingerabdruck speziell für das Zweitprofil hinzufügen</string>
@@ -251,38 +249,37 @@ Wenn Sie das Update nicht durchführen, funktionieren Dualapps möglicherweise n
   <string name="settings_switch_shortcut_summary">Startbildschirmverknüpfung im Hauptprofil anzeigen</string>
   <string name="settings_switch_shortcut_title">Zum Umschalten die Verknüpfung antippen</string>
   <string name="show_decktop_quick_switch_icon">Hauptbildschirmverknüpfung</string>
-  <string name="show_decktop_quick_switch_icon_detail">Eine Verknüpfung auf dem Hauptbildschirm erstellen um die Profile zu wechseln</string>
+  <string name="show_decktop_quick_switch_icon_detail">Eine Verknüpfung auf dem Hauptbildschirm erstellen, um die Profile zu wechseln</string>
   <string name="show_normal_content">Private Elemente nicht anzeigen</string>
   <string name="show_noti_from_owner">Mitteilungen aus dem anderen Profil</string>
-  <string name="show_noti_from_owner_detail">Auf diesem Profil Benachrichtigungen erhalten wenn diese auf dem Anderen ankommen</string>
+  <string name="show_noti_from_owner_detail">Auf diesem Profil Benachrichtigungen erhalten, wenn diese auf dem Anderen ankommen</string>
   <string name="show_noti_quick_switch_icon">Verknüpfung in der Benachrichtigungsleiste</string>
   <string name="show_noti_quick_switch_icon_detail">Fügt eine Verknüpfung zum wechseln der Profile in die Benachrichtigungsleiste hinzu</string>
   <string name="show_private_content">Private Elemente anzeigen</string>
-  <string name="show_private_msg">Private Nachrichten anzeigen</string>
-  <string name="show_private_msg_summary">Private Nachrichten im Zweitprofil anzeigen</string>
+  <string name="show_private_msg">Persönliche Nachrichten anzeigen</string>
+  <string name="show_private_msg_summary">Persönliche Nachrichten im Zweitprofil anzeigen</string>
+  <string name="skip">Überspringen</string>
   <string name="spaceSetting">Einstellungen</string>
   <string name="space_created_success">Zweitprofil erfolgreich erstellt</string> 
-  <string name="space_deleted">Dieser Speicher wurde gelöscht</string>
+  <string name="space_deleted">Dieses Profil wurde gelöscht</string>
   <string name="space_des_default">Isolierter Bereich mit verschlüsselten Daten</string>
-  <string name="space_finger_sub_text">Fingerabdruck festlegen um schneller die Profile zu wechseln</string>
+  <string name="space_finger_sub_text">Fingerabdruck festlegen, um schneller zwischen den Profilen zu wechseln</string>
   <string name="space_name_default">Arbeitsbereich</string>
   <string name="startSet">Festlegen</string>
   <string name="startTransfer">Verschieben</string>
   <string name="start_input_finger_print">Fingerabdruck hinzufügen</string>
   <string name="start_new_fingerprint">Einen neuen Fingerabdruck hinzufügen</string>
-  <string name="start_new_fingerprint_tips">
-    "Zweitprofilfingerabdruck verwenden
-    um das Zweitprofil vom Sperrbildschirm aus zu erreichen"
-  </string>
+  <string name="start_new_fingerprint_tips">"Zweitprofilfingerabdruck verwenden,
+um das Zweitprofil vom Sperrbildschirm aus zu erreichen"</string>
   <string name="start_setting_guide_desc_title">Es müssen einige Dinge eingerichtet werden</string>
   <string name="summary_switch_apps_settings">Apps für das Zweitprofil auswählen</string>
-  <string name="support_desc">Sicherheitsdienste durch Graphite zur Verfügung gestellt</string>
+  <string name="support_desc">Sicherheitsdienste von Graphite zur Verfügung gestellt</string>
   <string name="sure_to_use">Bestätigen</string>
   <string name="switchDataSummary">Daten zwischen den Profilen verschieben</string>
   <string name="switch_apps_settings">Appeinstellungen</string>
   <string name="switch_data_app">Daten ins Zweitprofil verschieben</string>
   <string name="switch_data_settings">Daten verschieben</string>
-  <string name="switch_download_space">Arbeitsbereicht wechseln</string>
+  <string name="switch_download_space">Arbeitsbereich wechseln</string>
   <string name="switch_failed">Verschieben fehlgeschlagen</string>
   <string name="switch_file_success">Verschieben erfolgreich</string>
   <string name="switch_in_contacts">Kontakte importieren</string>
@@ -317,13 +314,20 @@ Wenn Sie das Update nicht durchführen, funktionieren Dualapps möglicherweise n
   <string name="transferMessage">Nachrichten werden vom Zweitprofil ins Hauptprofil verschoben</string>
   <string name="tryNow">Jetzt ausprobieren</string>
   <string name="wating">Einen Moment…</string>
+  <string name="weibo_send">An Weibo senden</string>
+  <string name="weixin_pay">WeChat Bezahlungen</string>
+  <string name="weixin_share">Mit Moments teilen</string>
   <string name="xpsace_guide_button">Erstellen</string>
   <string name="xspace_account">Zweitprofil Konto</string>
   <string name="xspace_chocie">Andere Apps</string>
   <string name="xspace_creating">App wird geklont…</string>
+  <string name="xspace_default_app_summary">Standard-App für Zahlungen, Teilen, Favoriten usw. festlegen.</string>
+  <string name="xspace_default_app_title">Standard-App</string>
+  <string name="xspace_default_setting_dialog_title">Standard</string>
+  <string name="xspace_default_setting_label">Standard-App</string>
   <string name="xspace_description">Klonen Sie Apps, um diese separat zu nutzen. Geklonte Apps erhalten ein spezielles Symbol.</string>
-  <string name="xspace_guide_des">Verwende 2 Accounts ohne umzuschalten</string>
-  <string name="xspace_guide_title">Erstelle Geklonte App für %s</string>
+  <string name="xspace_guide_des">Verwende 2 Konten ohne umzuschalten</string>
+  <string name="xspace_guide_title">Geklonte App für %s erstellen</string>
   <string name="xspace_header">Geklonte Apps</string>
   <string name="xspace_install_completed">Verknüpfung auf dem Startbildschirm hinzugefügt</string>
   <string name="xspace_install_failed">Konnte nicht erstellt werden</string>
@@ -331,9 +335,12 @@ Wenn Sie das Update nicht durchführen, funktionieren Dualapps möglicherweise n
   <string name="xspace_introduce">Empfohlen</string>
   <string name="xspace_label">Geklonte Apps</string>
   <string name="xspace_loading_msg">Apps werden geladen…</string>
+  <string name="xspace_qq_title">QQ</string>
   <string name="xspace_setting_label">Einstellungen Geklonte Apps</string>
   <string name="xspace_uninstall_completed">Geklonte App erfolgreich deinstalliert</string>
   <string name="xspace_uninstall_dialog_content">Bei der Deinstallation werden sämtliche Anwendungsdaten gelöscht</string>
   <string name="xspace_uninstall_dialog_title">Geklonte App deinstallieren</string>
   <string name="xspace_uninstalling">Wird deinstalliert…</string>
+  <string name="xspace_weibo_title">Weibo</string>
+  <string name="xspace_weixin_title">WeChat</string>
 </resources>
