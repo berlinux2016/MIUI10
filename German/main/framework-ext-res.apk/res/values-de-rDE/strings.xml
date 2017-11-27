@@ -20,6 +20,7 @@
   <string name="auto_start_warning_allow">Erlauben</string>
   <string name="auto_start_warning_deny">Verweigern</string>
   <string name="auto_start_warning_title">Automatischen Start von %s erlauben?</string>
+    <string name="autofill">Autofill</string>
   <string name="button_text_cancel">Abbrechen</string>
   <string name="button_text_delete">Deinstallieren</string>
   <string name="button_text_delete_timer">Deinstalliere (%d)</string>
@@ -40,10 +41,9 @@
   <string name="enable_livetalk_title">Schalten Sie Aufladepakete ein </string>
   <string name="fc_dialog_body">Fehlerbericht zur Analyse an Xiaomi senden? Dieser Bericht enthält möglicherweise persönliche Informationen. Ihr Bericht wird nicht mit Dritten geteilt, sondern ausschließlich zur Behebung des Fehlers verwendet.</string>
   <string name="fc_dialog_jump_to_preview">Zusammenfassung anzeigen</string>
-  <string name="first_back_long_press_message">
-  "Langer Druck auf die Zurücktaste beendet den aktuellen Prozess.
-  Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tasten."
-  </string>
+  <string name="first_back_long_press_message">"Langer Druck auf die Zurücktaste beendet den aktuellen Prozess.
+
+Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tasten."</string>
   <string name="fm_record_smaple_prefix_miui">FM Aufnahme</string>
   <string name="force_exit_message">"\"%1$s\" wurde beendet"</string>
   <string name="force_exit_skip_message">"Systemkomponente \"%1$s\" kann nicht beendet werden"</string>
@@ -57,6 +57,7 @@
   <string name="global_actions_reboot">Neustart</string>
   <string name="global_actions_shutdown">Herunterfahren</string>
   <string name="global_actions_silent_mode">Lautlos</string>
+  <string name="gotosetting">Festlegen</string>
   <string name="group_name_contacts">Kontakte</string>
   <string name="group_name_coworkers">Kollegen</string>
   <string name="group_name_family">Familie</string>
@@ -80,14 +81,15 @@
   <string name="maml_component_customization_title">Einstellungen</string>
   <string name="memory_clear_nothing_result">Nichts zum Löschen im Cache vorhanden</string>
   <string name="memory_clear_result">%1$sB gelöscht</string>
-  <string name="miui_screen_ratio_hint_dont_show_again">"Nicht wieder anzeigen"</string>
-  <string name="miui_screen_ratio_hint_go_to_settings">Gehe zu den Einstellungen</string>
-  <string name="miui_screen_ratio_hint_message">Diese App darf im Vollbildmodus laufen, was dazu führen kann, dass diese falsch angezeigt wird. Sie können dies unter Einstellungen&gt; Erweiterte Einstellungen&gt; Schaltflächen ändern.</string>
+  <string name="miui_screen_ratio_hint">Probleme mit dem Bildschirmverhältnis</string>
+  <string name="miui_screen_ratio_hint_dont_show_again">Nicht wieder anzeigen</string>
+  <string name="miui_screen_ratio_hint_go_to_settings">Zu den Einstellungen gehen</string>
+  <string name="miui_screen_ratio_hint_message">Diese App darf im Vollbildmodus laufen und dadurch kann fehlerhafte Darstellung der Inhalte entstehen. Sie können dies unter Einstellungen &gt; Erweiterte Einstellungen &gt; Schaltflächen ändern.</string>
   <string name="miui_screen_ratio_hint_ok">OK</string>
   <string name="miui_upgrading_notification_title">System wird geladen, einige Funktionen können eingeschränkt sein</string>
   <string name="onehour">30 Min.</string>
   <string name="package_delete_confirm_step_1">%s deinstallieren?</string>
-  <string name="package_delete_confirm_step_2">Wenn Sie diese App deinstallieren, kann es zu Systeminstabilitäten kommen.</string>
+  <string name="package_delete_confirm_step_2">Wenn Sie diese App deinstallieren, kann dies zu Systeminstabilitäten führen.</string>
   <string name="package_delete_confirm_step_3">Sie können diese App nach dem Deinstallieren nicht mehr öffnen</string>
   <string name="paste">Einfügen</string>
   <string name="perm_send_push_dspt">Pushnachrichten erlauben</string>
@@ -95,8 +97,8 @@
   <string name="permdesc_manageLocationPolicy">Erlaubt der App die Lokalisierungsregeln zu verwalten</string>
   <string name="permlab_manageLocationPolicy">Lokalisierungsregeln verwalten</string>
   <string name="reboot_confirm_title">Ihr Gerät wird neu gestartet</string>
-  <string name="reboot_info_auto_boot">Nachdem dem Herunterfahren wird das Telefon automatisch in %s starten</string>
-  <string name="reboot_info_shutdown_alarm">Der Alarm ertönt nach dem Herunterfahren um %s.</string>
+  <string name="reboot_info_auto_boot">Ihr Telefon wird nach Zeitplan eingeschaltet (%s)</string>
+  <string name="reboot_info_shutdown_alarm">Ihr Telefon wird eingeschaltet und Wecker ausgelöst (%s)</string>
   <string name="reboot_progress">Neustart…</string>
   <string name="remain">Verbleibend: %s</string>
   <string name="replace">Ersetzen</string>
@@ -105,8 +107,8 @@
   <string name="screen_button_enabled_message">Navigationstasten aktiviert</string>
   <string name="screen_button_notification_text">Zum Einschalten, die Home- und Powertaste gleichzeitig drücken</string>
   <string name="screen_button_notification_title">Navigationstasten deaktiviert</string>
-  <string name="screen_on_proximity_sensor_hint">Um diese Funktion auszuschalten, drücken Sie die Lauter- und Zurücktaste gleichzeitig.</string>
-  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Um diese Funktion auszuschalten, drücken Sie die Lautertaste.</string>
+  <string name="screen_on_proximity_sensor_hint">Drücken Sie die Lauter- und Zurücktaste gleichzeitig, um diese Funktion zu deaktivieren.</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Drücken Sie die Lauter-Taste, um diese Funktion zu deaktivieren.</string>
   <string name="screen_on_proximity_sensor_summary">Bedecken Sie nicht den orangen Bereich des Bildschirms</string>
   <string name="screen_on_proximity_sensor_title">Ungewollte Anrufe verhindern</string>
   <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können ihn jederzeit unter Einstellungen &gt; Lesemodus aktivieren oder deaktivieren.</string>
@@ -133,8 +135,8 @@
   <string name="softap_notifif_summary">%d verbunden</string>
   <string name="softap_notifif_title">Hotspot \"%s\" ist aktiv</string>
   <string name="standard">Lautlos</string>
-  <string name="standard_description">Klingeltöne für eingehende Anrufe und Benachrichtigung stummschalten</string>
-  <string name="standard_title">Lautlos</string>
+  <string name="standard_description">Eingehende Anrufe und Benachrichtigung stummschalten</string>
+  <string name="standard_title">Lautlos…</string>
   <string name="start_security_permission_verify_text">Berechtigungen mit Ihrem Mi Konto verifizieren</string>
   <string name="status_bar_toggle_ac">Zugriff</string>
   <string name="status_bar_toggle_auto_brightness">Helligkeit</string>
@@ -164,10 +166,10 @@
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="subinfo_default_name">SIM %d</string>
   <string name="switch_brand_desc_tv">Sicherheitsdienstleistungen zur Verfügung gestellt von Graphite</string>
-  <string name="switch_desc_tv">Zwei Benutzer. Ein Gerät.</string>
+  <string name="switch_desc_tv">Zwei Profile. Ein Gerät.</string>
   <string name="switching_tv">Umschalten…</string>
   <string name="total">Nicht stören</string>
-  <string name="total_description">Schaltet Vibrationen und Sound für alle Apps außer dem Wecker aus</string>
+  <string name="total_description">Vibrationen und Töne aller Apps außer des Weckes werden ausgeschaltet</string>
   <string name="total_title">Nicht stören</string>
   <string name="translation_more">Mehr</string>
   <string name="translation_query_error">Keine Ergebnisse gefunden</string>
