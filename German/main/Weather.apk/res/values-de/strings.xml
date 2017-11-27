@@ -24,11 +24,11 @@
   <string name="activity_main_update_time">Aktualisiert %1$s</string>
   <string name="activity_main_update_time_expire">Daten nicht mehr aktuell</string>
   <string name="activity_main_update_time_right_now">gerade eben</string>
-  <string name="activity_minute_rain_location_fail_msg">Lokalisierung fehlgeschlagen, Zeige Peking als Standart</string>
+  <string name="activity_minute_rain_location_fail_msg">Lokalisierung fehlgeschlagen, Zeige Peking als Standard-Ort</string>
   <string name="activity_weathermain_locationg">Lokalisieren…</string>
   <string name="activity_weathermain_locationg_error">"Konnte nicht lokalisiert werden"</string>
   <string name="add_city">Hinzufügen</string>
-  <string name="alert_detail_title">Alarmdetails</string>
+  <string name="alert_detail_title">Warnungsdetails</string>
   <string name="alert_warning">Wetterwarnung</string>
   <string name="already_voted">Bereits abgestimmt</string>
   <string name="already_voted_toast">Sie haben heute bereits abgestimmt</string>
@@ -97,10 +97,8 @@
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
   <string name="daily_forecast_detail">Vorhersage</string>
   <string name="daily_forecast_detail_date">d.M.</string>
-  <string name="daily_forecast_no_data">
-    Daten konnten nicht geladen werden
-    nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstellungen
-  </string>
+  <string name="daily_forecast_no_data">"Daten konnten nicht geladen werden
+nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstellungen"</string>
   <string name="data_provided_by">Zur Verfügung gestellt von</string>
   <string name="delete">Löschen</string>
   <string name="edit_alert_city_title">Warnungen verwalten</string>
@@ -135,6 +133,7 @@
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Luftfeuchtigkeit %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
+  <string name="indices_desc_pressure_mm">%1$s mmHg</string>
   <string name="indices_desc_visibility">%1$s km</string>
   <string name="indices_no_restriction">Keine</string>
   <string name="indices_title">Empfohlene Aktivitäten</string>
@@ -203,10 +202,15 @@
   <string name="precipitation_degree_three">mäßig</string>
   <string name="precipitation_degree_two">leicht</string>
   <string name="pressure_connect">%1$s hPa</string>
+  <string name="pull_fresh_updated">Erfolgreich aktualisiert</string>
+  <string name="pull_fresh_updating">Wird aktualisiert…</string>
   <string name="radar_cloud_image_title">Wetterkarte</string>
   <string name="rainfall_settings_summary">Niederschlagswarnungen</string>
   <string name="rainfall_settings_title">Niederschlag</string>
+  <string name="real_time_sunrise">Sonnenaufgang %1$s</string>
+  <string name="real_time_sunset">Sonnenuntergang %1$s</string>
   <string name="realtime_aqi_title">Luftqualität</string>
+  <string name="realtime_cityname_default">Standort</string>
   <string name="realtime_humidity_title">Relative Luftfeuchte</string>
   <string name="realtime_temperature_no_data">n.v.</string>
   <string name="realtime_wind_default_title">Wind</string>
@@ -250,17 +254,19 @@
   <string name="unit_temperature">Temperatureinheit</string>
   <string name="unit_wind">Windgeschwindigkeitseinheit</string>
   <string name="update_night_setting_summary_text">Wird zwischen 23:00 und 7:00 automatisch aktualisiert</string>
-  <string name="update_night_setting_title_text">Nachts automatisch aktualisieren</string>
+  <string name="update_night_setting_title_text">Aktualisierungen nachts</string>
   <string name="update_setting_title_text">Wetterinformationen aktualisieren</string>
   <string name="updated_a_moment_ago">Vor einem Moment aktualisiert</string>
+  <string name="updating">Wird aktualisiert…</string>
   <string name="view_forecast_item_yesterday">Gestern</string>
   <string name="view_indexes_item_today">Heute</string>
   <string name="view_indexes_item_tommorrow">Morgen</string>
+  <string name="view_indexes_wind_unit">km/h</string>
   <string name="weather_alert">Wetterwarnungen</string>
   <string name="wind_direction_no_data">Wind</string>
   <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">Wetter stellt Ihnen genaue Wetterdaten zur Verfügung. Ohne diese App funktioniert das Wetterwidget und die Statusleiste nicht richtig.</string>
+  <string name="xiaomi_weather_description_content">Xiaomi Wetter App stellt Ihnen genaue Wetterdaten zur Verfügung. Ohne diese App funktioniert das Wetterwidget und die Statusleiste nicht richtig.</string>
   <string name="xiaomi_weather_description_title">Über Wetter</string>
   <string name="yes_vote_ratio">%1$s%% dafür</string>
   <string name="your_location">Ihr Standort</string>
