@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Apps</string>
-  <string name="Dashboard_HIPS_Disable_Content">"MIUI wird Rechteanforderungen von Apps nicht mehr überwachen."</string>
+  <string name="Dashboard_HIPS_Disable_Content">MIUI wird Rechteanforderungen von Apps nicht mehr überwachen</string>
   <string name="Dashboard_HIPS_Disable_Title">Berechtigungen</string>
   <string name="Dashboard_Log">Protokolldaten</string>
-  <string name="Dashboard_Log_Clear_Content">Alle Protokolldaten werden gelöscht.</string>
+  <string name="Dashboard_Log_Clear_Content">Alle Protokolldaten werden gelöscht</string>
   <string name="Dashboard_Log_Clear_Title">Protokolldaten löschen</string>
   <string name="Dashboard_Perm">Berechtigungen</string>
   <string name="Dashboard_Perm_AutoStart">Autostartberechtigungen</string>
-  <string name="Dashboard_Perm_AutoStart_Desc">Steuern Sie welche Apps beim Hochfahren des Geräts automatisch starten dürfen</string>
+  <string name="Dashboard_Perm_AutoStart_Desc">Steuern Sie, welche Apps beim Hochfahren des Geräts automatisch starten dürfen</string>
   <string name="Dashboard_Perm_HIPS">Berechtigung verwalten</string>
   <string name="Dashboard_Perm_HIPS_Desc">Überwache %1$d Apps</string>
   <string name="Dashboard_Perm_HIPS_Desc2">Überwache %1$d Apps</string>
@@ -22,10 +22,9 @@
   <string name="Dashboard_Perm_SU_Desc">Überwachung von %1$d Apps mit Rootzugriff</string>
   <string name="Dashboard_Perm_SU_Disabled">Rootzugriff ist aus</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Rootzugriff ist in der Stable-Version von MIUI nicht verfügbar</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">
-    "Wenn Sie Drittanbieterapps Rootberechtigung gewähren könnte das zur Systeminstabiltät, Datenverlust oder zu Hardwarebeschädigung führen.
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Wenn Sie Drittanbieterapps Rootberechtigung gewähren, könnte das zur Systeminstabiltät, Datenverlust oder zu Hardwarebeschädigung führen.
 
-    Um Rootzugriff zu erhalten müssen Sie die Entwicklerversion von MIUI installieren."
+    Um Rootzugriff zu erhalten, müssen Sie die Entwicklerversion von MIUI installieren.
   </string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI herunterladen</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://miui.eu</string>
@@ -86,7 +85,7 @@
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Bluetooth aktivieren</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s Apps dürfen Bluetooth aktivieren</string>
   <string name="HIPS_Perm_Body_Sensors">Körpersensoren</string>
-  <string name="HIPS_Perm_Body_Sensors_Desc">Auf Körpersensoren (z.B., Herzfrequenzsensor) zugreifen</string>
+  <string name="HIPS_Perm_Body_Sensors_Desc">Auf Körpersensoren (z.B. Herzfrequenzsensor) zugreifen</string>
   <string name="HIPS_Perm_Calendar">Kalender</string>
   <string name="HIPS_Perm_Calendar_Desc">Auf Ihren Kalender zugreifen</string>
   <string name="HIPS_Perm_Calendar_Hint">%1$s Apps dürfen auf Ihren Kalender zugreifen</string>
@@ -119,21 +118,21 @@
   <string name="HIPS_Perm_ListenCallState">Ihren Anrufstatus abfragen (z.B. eingehend, besetzt)</string>
   <string name="HIPS_Perm_Location">Standort</string>
   <string name="HIPS_Perm_Location_Access">auf Ihren Standort zugreifen</string>
-  <string name="HIPS_Perm_Location_CellInfo">Informationen zu der Netzbasis abfragen</string>
+  <string name="HIPS_Perm_Location_CellInfo">Informationen zur Netzbasis abfragen</string>
   <string name="HIPS_Perm_Location_CellLocation">den Standort der Netzbasis abfragen</string>
   <string name="HIPS_Perm_Location_Desc">Netzwerk und GPS verwenden, um Ihre Position zu lokalisieren</string>
   <string name="HIPS_Perm_Location_Hint">%1$s Apps dürfen Netzwerk und GPS verwenden, um Ihre Position zu lokalisieren</string>
   <string name="HIPS_Perm_Location_Monitor">Ihre Bewegungen verfolgen</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Ihren Standort über die Basisstation zu ermittlen</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">Ihren Standort über die Basisstation ermitteln</string>
   <string name="HIPS_Perm_Location_Source_GPS">Ihren Standort über GPS bestimmen</string>
-  <string name="HIPS_Perm_Location_Source_Network">Ihren Standort über das Netzwerk ermittlen</string>
+  <string name="HIPS_Perm_Location_Source_Network">Ihren Standort über das Netzwerk ermitteln</string>
   <string name="HIPS_Perm_MMS">MMS</string>
   <string name="HIPS_Perm_MMS_Access">Ihre MMS lesen</string>
   <string name="HIPS_Perm_MMS_Desc">MMS schreiben und löschen</string>
-  <string name="HIPS_Perm_MMS_Hint">%1$s Apps kann Ihre MMS zugreifen</string>
+  <string name="HIPS_Perm_MMS_Hint">%1$s Apps können auf Ihre MMS zugreifen</string>
   <string name="HIPS_Perm_MobileNetwork">Datenverbindung</string>
-  <string name="HIPS_Perm_MobileNetwork_Desc">die mobile Datenverbindung verwenden, um eine Verbindung mit dem Internet herzustellen</string>
-  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s Apps dürfen die mobile Datenverbindung verwenden, um eine Verbindung mit dem Internet herzustellen</string>
+  <string name="HIPS_Perm_MobileNetwork_Desc">die mobile Datenverbindung verwenden, um eine Verbindung zum Internet herzustellen</string>
+  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s Apps dürfen die mobile Datenverbindung verwenden, um eine Verbindung zum Internet herzustellen</string>
   <string name="HIPS_Perm_Mobile_Connectivity">Datenverbindung</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">die mobile Datenverbindung aktivieren</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s Apps dürfen die mobile Datenverbindung aktivieren</string>
@@ -146,7 +145,7 @@
   <string name="HIPS_Perm_Network_UnknownAddr">Unbekannte Adresse</string>
   <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
   <string name="HIPS_Perm_Notification">Pushbenachrichtigungen</string>
-  <string name="HIPS_Perm_Notification_Desc">Pushbenachrichtigungen zu verwenden</string>
+  <string name="HIPS_Perm_Notification_Desc">Pushbenachrichtigungen verwenden</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s Apps dürfen Push-Benachrichtigungen verwenden</string>
   <string name="HIPS_Perm_PhoneID">Gerät</string>
   <string name="HIPS_Perm_PhoneID_Desc">die Geräte-IMEI und IMSI abfragen</string>
@@ -173,10 +172,10 @@
   <string name="HIPS_Perm_Read_SMS">Zugriff auf SMS</string>
   <string name="HIPS_Perm_Read_SMS_Desc">Zugriff auf SMS erhalten</string>
   <string name="HIPS_Perm_Read_SMS_Hint">%1$s Apps haben Zugriff auf Ihre SMS</string>
-  <string name="HIPS_Perm_Recorder_Audio">Audio aufzunehmen</string>
-  <string name="HIPS_Perm_Recorder_AudioVideo">Audio und Video aufzunehmen</string>
+  <string name="HIPS_Perm_Recorder_Audio">Audio aufnehmen</string>
+  <string name="HIPS_Perm_Recorder_AudioVideo">Audio und Video aufnehmen</string>
   <string name="HIPS_Perm_Recorder_Camera">Fotos aufnehmen</string>
-  <string name="HIPS_Perm_Recorder_Video">Audio und Video aufzunehmen</string>
+  <string name="HIPS_Perm_Recorder_Video">Audio und Video aufnehmen</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">Anrufe aufzeichen</string>
   <string name="HIPS_Perm_RejectAll">Alle verweigern</string>
   <string name="HIPS_Perm_SMS">SMS und MMS</string>
@@ -199,7 +198,7 @@
   <string name="HIPS_Perm_Settings">Systemeinstellungen</string>
   <string name="HIPS_Perm_Settings_Desc">Systemeinstellungen verändern</string>
   <string name="HIPS_Perm_Settings_Hint">%1$s Apps dürfen Systemeinstellungen verändern</string>
-  <string name="HIPS_Perm_Settings_Modify">Systemeinstellungen zu verändern</string>
+  <string name="HIPS_Perm_Settings_Modify">Systemeinstellungen verändern</string>
   <string name="HIPS_Perm_SilenceRinger">App kann eingehende Anrufe lautlos stellen</string>
   <string name="HIPS_Perm_SystemAlert">Popupbenachrichtigungen</string>
   <string name="HIPS_Perm_SystemAlert_Desc">Popupbenachrichtigungen anzeigen</string>
@@ -208,8 +207,8 @@
   <string name="HIPS_Perm_VideoRecorder_Desc">auf die Kamera zugreifen</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s Apps dürfen auf die Kamera zugreifen</string>
   <string name="HIPS_Perm_WIFINetwork">WLAN</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">WLAN zu verwenden, um eine Verbindung mit dem Internet herzustellen</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s Apps dürfen WLAN verwenden, um eine Verbindung mit dem Internet herzustellen</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">WLAN verwenden, um eine Verbindung zum Internet herzustellen</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s Apps dürfen WLAN verwenden, um eine Verbindung zum Internet herzustellen</string>
   <string name="HIPS_Perm_WIFI_Connectivity">WLAN</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">WLAN aktivieren</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s Apps dürfen WLAN aktivieren</string>
@@ -228,11 +227,11 @@
   <string name="HIPS_Perm_get_installed_apps">Informationen über installierte Apps erhalten</string>
   <string name="HIPS_Perm_get_installed_apps_Desc">Informationen über installierte Apps auf diesem Gerät erhalten</string>
   <string name="HIPS_Perm_get_tasks">Aufgaben lesen</string>
-  <string name="HIPS_Perm_get_tasks_Desc">Aufgaben zu lesen</string>
+  <string name="HIPS_Perm_get_tasks_Desc">Aufgaben lesen</string>
   <string name="HIPS_Perm_install_shortcut">Startbildschirmverknüpfungen</string>
   <string name="HIPS_Perm_install_shortcut_Desc">Verknüpfungen auf dem Startbildschirm anlegen</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
-  <string name="HIPS_Perm_process_nfc_Desc">Zugriff auf Nahfeldkommunikation (NFC) zu erhalten</string>
+  <string name="HIPS_Perm_process_nfc_Desc">Zugriff auf Nahfeldkommunikation (NFC) erhalten</string>
   <string name="HIPS_Perm_process_outgoing_calls">Telefonzugang</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Anrufe annehmen, überwachen und beenden</string>
   <string name="HIPS_Perm_read_notification_sms">Servicenachricht</string>
@@ -250,10 +249,10 @@
   <string name="HIPS_SecurityPrompt_Next">Weiter</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Rootzugriff</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">%1$s Rootzugriff gewähren?</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step2">Ihr Gerät könnte instabil werden, wenn Sie Apps Rootzugriff gewähren.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step3">Die Sicherheit Ihrer Benutzerdaten (Konten, Passwörter und Nachrichten) kann beeinträchtigt werden.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step4">Wenn Sie Apps Rootzugriff gewähren, könnte dies auch die Hardware Ihres Geräts beschädigen.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step5">Gewähren Sie Anwendungen Rootzugriff auf Ihr eigenes Risiko.</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step2">Ihr Gerät könnte instabil werden, wenn Sie Apps Rootzugriff gewähren</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">Die Sicherheit Ihrer Benutzerdaten (Konten, Passwörter und Nachrichten) kann beeinträchtigt werden</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step4">Wenn Sie Apps Rootzugriff gewähren, könnte dies auch die Hardware Ihres Geräts beschädigen</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step5">Gewähren Sie Anwendungen Rootzugriff auf Ihr eigenes Risiko</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s Rootzugriff gewähren?</string>
   <string name="HIPS_SecurityPrompt_Reject">Verweigern (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Einmal verweigern (%d)</string>
@@ -267,13 +266,13 @@
   <string name="Privacy_App_Log">Protokolle</string>
   <string name="Privacy_App_Manage">Details</string>
   <string name="Privacy_App_Trust">Berechtigung nachfragen</string>
-  <string name="Privacy_App_TrustDialog_Content">Es wird nicht nachgefragt, wenn die App versucht Zugriff auf andere Bereiche des Systems zu erlangen.</string>
-  <string name="Privacy_App_TrustDialog_Title">App-Berechtigungen</string>
-  <string name="Privacy_App_Trust_Summary_Off">Nachfragen, wenn die App versucht Zugriff auf weitere Bereiche des Systems zu erlangen</string>
-  <string name="Privacy_App_Trust_Summary_On">Nachfragen, wenn die App versucht Zugriff auf weitere Bereiche des Systems zu erlangen</string>
+  <string name="Privacy_App_TrustDialog_Content">Es wird nicht nachgefragt, wenn die App versucht, Zugriff auf andere Bereiche des Systems zu erlangen</string>
+  <string name="Privacy_App_TrustDialog_Title">Appberechtigungen</string>
+  <string name="Privacy_App_Trust_Summary_Off">Nachfragen, wenn die App versucht, Zugriff auf weitere Bereiche des Systems zu erlangen</string>
+  <string name="Privacy_App_Trust_Summary_On">Nachfragen, wenn die App versucht, Zugriff auf weitere Bereiche des Systems zu erlangen</string>
   <string name="Privacy_App_Uninstall">Entfernen</string>
   <string name="Privacy_Perm_Count">%1$d zugelassen | %2$d verweigert</string>
-  <string name="Su_Enable_Dialog">%1$s fordert Rootzugriff an.</string>
+  <string name="Su_Enable_Dialog">%1$s fordert Rootzugriff an</string>
   <string name="Su_Package_Forbidden">%1$s hat keinen Rootzugriff</string>
   <string name="Su_Package_Forbidden2">hat keinen Rootzugriff</string>
   <string name="Su_Unavailable">Rootzugriff ist in der Stable-Version von MIUI nicht verfügbar. Sie müssen die Entwickler-Version von MIUI installieren, um Rootzugriff zu erhalten.</string>
@@ -284,7 +283,7 @@
   <string name="app_name">Berechtigungsverwaltung</string>
   <string name="current_permission_template">%1$s von %2$s</string>
   <string name="default_permission_description">Unbekannte Aktionen ausführen</string>
-  <string name="grant_confirm_question">Möchten Sie die folgenden Berechtigungen zu erteilen? Sie erhalten Zugang zu:</string>
+  <string name="grant_confirm_question">Möchten Sie die folgenden Berechtigungen erteilen? Sie erhalten Zugang zu:</string>
   <string name="grant_dialog_button_allow">Zulassen</string>
   <string name="grant_dialog_button_deny">Abbrechen</string>
   <string name="location_settings">Standorteinstellungen</string>
@@ -298,7 +297,7 @@
   <string name="permission_request_title">Berechtigungsverwaltung</string>
   <string name="permission_warning_template">Zulassen %1$s von %2$s?</string>
   <string name="permission_warning_template_ask">%1$s die folgende Berechtigung erlauben?</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" hat keinen Zugriff auf \"%2$s\". Sie können die App-Berechtigungen jederzeit unter Sicherheit > Berechtigungen ändern."</string>
+  <string name="permisson_reject_notice_toast_text">"\"%1$s\" hat keinen Zugriff auf \"%2$s\". Sie können die Appberechtigungen jederzeit unter Sicherheit > Berechtigungen ändern."</string>
   <string name="permisson_reject_notice_toast_text2">hat keinen Zugriff auf %1$s</string>
   <string name="screen_overlay_button">Einstellungen</string>
   <string name="screen_overlay_message">Um diese Berechtigung zu ändern, müssen Sie die Bildschirmüberlagerung unter Einstellungen &gt; Apps ausschalten.</string>
