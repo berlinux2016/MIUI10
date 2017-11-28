@@ -2,9 +2,8 @@
 <resources>
   <string name="allow_backup_button_label">Meine Daten sichern</string>
   <string name="allow_restore_button_label">Meine Daten wiederherstellen</string>
-  <string name="backup_confirm_text">Eine vollständige Sicherung aller Daten auf einem angeschlossenen PC wurde angefordert. Wollen Sie das zulassen? ?
-
-Wenn Sie die Sicherung nicht selbst angefordert haben, lassen Sie den Vorgang nicht fortsetzen.</string>
+  <string name="backup_confirm_text">Eine vollständige Sicherung aller Daten auf einem angeschlossenen PC wurde angefordert. Wollen Sie das zulassen?
+    Wenn Sie die Sicherung nicht selbst angefordert haben, stoppen Sie den Vorgang.</string>
   <string name="backup_confirm_title">Vollständige Sicherung</string>
   <string name="backup_enc_password_optional">Wenn Sie die Sicherungsdaten verschlüsseln möchten, geben Sie unten ein Passwort ein:</string>
   <string name="backup_enc_password_required">Da Ihr Gerät verschlüsselt ist, müssen Sie Ihr Backup verschlüsseln. Bitte geben Sie ein Passwort ein:</string>
@@ -15,8 +14,7 @@ Wenn Sie die Sicherung nicht selbst angefordert haben, lassen Sie den Vorgang ni
   <string name="device_encryption_backup_text">Bitte geben Sie unten Ihr Verschlüsselungspasswort ein. Dies wird auch verwendet, um das Sicherungsarchiv zu verschlüsseln.</string>
   <string name="device_encryption_restore_text">Bitte geben Sie hier Ihr Verschlüsselungspasswort ein.</string>
   <string name="restore_confirm_text">Eine vollständige Wiederherstellung aller Daten von einem angeschlossenen PC wurde angefordert. Wollen Sie das zulassen?
-
-Wenn Sie die Wiederherstellung nicht selbst angefordert haben, lassen Sie den Vorgang nicht fortsetzen. Dadurch werden alle aktuellen Daten auf dem Gerät ersetzt.!</string>
+    Wenn Sie die Wiederherstellung nicht selbst angefordert haben, stoppen Sie den Vorgang. Dadurch werden alle aktuellen Daten auf dem Gerät ersetzt!</string>
   <string name="restore_confirm_title">Vollständige Wiederherstellung</string>
   <string name="restore_enc_password_text">Wenn die Wiederherstellungsdaten verschlüsselt sind, geben Sie bitte das Passwort ein:</string>
   <string name="toast_backup_ended">Sicherung beendet</string>
