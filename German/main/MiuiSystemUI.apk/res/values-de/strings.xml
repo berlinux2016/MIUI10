@@ -442,15 +442,15 @@ Bitte Ladegerät benutzen."</string>
   <string name="recents_app_info_button_label">App-Info</string>
   <string name="recents_caption_resize">Ein neues Aufgabenlayout auswählen</string>
   <string name="recents_drag_hint_message">Platzieren Sie hier die Elemente</string>
-  <string name="recents_empty_message">Keine neue Artikel</string>
+  <string name="recents_empty_message">Keine geöffneten Apps</string>
   <string name="recents_empty_message_dismissed_all">Sie haben alle Elemente gelöscht</string>
   <string name="recents_empty_message_multi_window">Öffnen Sie Apps vom Startbildschirm aus</string>
   <string name="recents_exit_multi_window_mode">Beenden</string>
   <string name="recents_incompatible_app_message">App unterstützt Splitscreen nicht</string>
   <string name="recents_launch_disabled_message">%s kann im abgesicherten Modus nicht gestartet werden</string>
   <string name="recents_launch_error_message">Kann %s nicht starten</string>
-  <string name="recents_lock_to_app_button_label">Bildschirm apinnen</string>
-  <string name="recents_multi_window_mode">Splitscreen</string>
+  <string name="recents_lock_to_app_button_label">Bildschirm anpinnen</string>
+  <string name="recents_multi_window_mode">Geteilter Bildschirm</string>
   <string name="recents_multistack_add_stack_dialog_split_custom">Benutzerdefiniert</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Horizontal teilen</string>
   <string name="recents_multistack_add_stack_dialog_split_vertical">Vertikal teilen</string>
@@ -525,19 +525,16 @@ Bitte Ladegerät benutzen."</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_accessibility_dismiss_recents">Letzte Apps entfernen</string>
   <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
-    <string name="status_bar_date_format">"EEEE
-d. MMMM"</string>
-    <string name="status_bar_date_format_12">"EEEE
-d. MMMM"</string>
-  <string name="status_bar_network_flow_content">"Heute: %1$s   Verbleibend: %2$s"</string>
+    <string name="status_bar_date_format">"EEEEd. MMMM"</string>
+    <string name="status_bar_date_format_12">"EEEE d. MMMM"</string>
+  <string name="status_bar_network_flow_content">"Heute: %1$s | Verbleibend: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Heute: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan überschritten: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Monatliche Grenze: %1$s   "</string>
   <string name="status_bar_network_flow_purchase">"   Kaufe &gt;"</string>
   <string name="status_bar_network_flow_today">Heute: %1$s</string>
   <string name="status_bar_no_recent_apps">Keine kürzlich verwendeten Apps</string>
   <string name="status_bar_notification_inspect_item_title">Appinfo</string>
-    <string name="status_bar_recent_guide_all">"Zum Schließen hochwischen und
-zum Sperren runterwischen"</string>
+    <string name="status_bar_recent_guide_all">"Zum Schließen hoch- und zum Sperren runterwischen"</string>
   <string name="status_bar_recent_guide_bottom">Zum Sperren runterwischen</string>
   <string name="status_bar_recent_guide_top">Zum Schließen hochwischen</string>
   <string name="status_bar_recent_inspect_item_title">App info</string>
@@ -548,7 +545,7 @@ zum Sperren runterwischen"</string>
   <string name="status_bar_recording_pause">Recorder pausiert</string>
   <string name="status_bar_safepay_risk">Zahlungsumfeld ist riskant!</string>
   <string name="status_bar_safepay_safe">Zahlungsumfeld ist sicher</string>
-  <string name="status_bar_safepay_scanning">Zahlungsumfeld wird erkannt…</string>
+  <string name="status_bar_safepay_scanning">Zahlungsumfeld wird gescannt…</string>
   <string name="status_bar_safepay_unknown">Zahlungssicherheit ist unbekannt</string>
   <string name="status_bar_settings_airplane">Flugmodus</string>
   <string name="status_bar_settings_signal_meter_disconnected">Keine Internetverbindung</string>
@@ -557,7 +554,7 @@ zum Sperren runterwischen"</string>
   <string name="status_bar_volte_label">HD</string>
   <string name="strict_mode">Strict-Modus aktiv</string>
   <string name="strict_mode_summary">Bildschirm blinkt, wenn Apps lange Operationen ausführen</string>
-  <string name="task_access_locked_app_msg">"Die Daten der App sind verborgen."</string>
+  <string name="task_access_locked_app_msg">Die Daten der App werden nicht angezeigt</string>
   <string name="tether_settings_title_all">Tethering &amp; portabler Hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth-Tethering</string>
   <string name="tether_settings_title_usb">USB-Tethering</string>
@@ -567,7 +564,7 @@ zum Sperren runterwischen"</string>
   <string name="title_convert_fbe">In dateibasierte Verschlüsselung umwandeln</string>
   <string name="title_usb_accessory">USB-Zubehör</string>
   <string name="toast_rotation_locked">Bildschirm ist jetzt im Landscape Format fixiert.</string>
-  <string name="torch_activity_hint">Halten Sie das [Symbol] im Sperrbildschirm gedrückt, um die Taschenlampe zu aktivieren</string>
+  <string name="torch_activity_hint">"Halten Sie das [Symbol] im Sperrbildschirm gedrückt, um die Taschenlampe zu aktivieren"</string>
   <string name="torch_activity_name">Lampe</string>
   <string name="torch_closed">Lampe aus</string>
   <string name="torch_opened">Lampe an</string>
