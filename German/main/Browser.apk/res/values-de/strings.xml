@@ -23,14 +23,14 @@
   <string name="action_menu_account_not_login_hint">Cloudeinstellungen zum Anmelden verwenden</string>
   <string name="action_menu_bookshelf">Bücherregal</string>
   <string name="action_menu_current_version">Aktuelle Version</string>
-  <string name="action_menu_request_desktop_site">Website-Zugriff</string>
-  <string name="action_menu_request_desktop_site_off">Website-Zugriff ist aus</string>
-  <string name="action_menu_request_desktop_site_on">Website-Zugriff ist an</string>
+  <string name="action_menu_request_desktop_site">Webseiten-Zugriff</string>
+  <string name="action_menu_request_desktop_site_off">Webseiten-Zugriff ist aus</string>
+  <string name="action_menu_request_desktop_site_on">Webseiten-Zugriff ist an</string>
   <string name="action_menu_text_add_bookmark">Lesezeichen hinzufügen</string>
   <string name="action_menu_text_bandwidth">Datenreduzierung</string>
   <string name="action_menu_text_bandwidth_off">Datenreduzierung</string>
   <string name="action_menu_text_bandwidth_on">Datenreduzierung</string>
-  <string name="action_menu_text_bookmark_add_off">Website konnte nicht hinzugefügt werden.</string>
+  <string name="action_menu_text_bookmark_add_off">Webseite konnte nicht hinzugefügt werden.</string>
   <string name="action_menu_text_bookmark_added">Lesezeichen hinzugefügt</string>
   <string name="action_menu_text_copy_url">URL kopieren</string>
   <string name="action_menu_text_create_qr_code">QR-Code</string>
@@ -78,10 +78,10 @@
   <string name="add_to_desk_success">Auf Startbildschirm hinzugefügt</string>
   <string name="add_to_quicklink">Startseite</string>
   <string name="added_to_bookmarks">Zu Lesezeichen hinzugefügt</string>
-  <string name="adjust_text_zoom_toast">Wenn Sie die Textgröße verändern, könnte das dazu führen, dass die Website nicht mehr korrekt angezeigt wird</string>
+  <string name="adjust_text_zoom_toast">Wenn Sie die Textgröße verändern, kann es dazu führen, dass die Webseite nicht mehr korrekt angezeigt wird</string>
   <string name="agree">Zustimmen</string>
   <string name="agree_permissions_request">Erlauben</string>
-  <string name="alert_tips">Diese Website kann ein Sicherheitsrisiko darstellen</string>
+  <string name="alert_tips">Diese Webseite kann ein Sicherheitsrisiko darstellen</string>
   <string name="allow">Erlauben</string>
   <string name="app_new_version">Die neueste Version dieser App ist bereits installiert</string>
   <string name="app_update_install">Bereit, um Update zu installieren</string>
@@ -107,7 +107,7 @@
   <string name="block">Blockieren</string>
   <string name="block_ads_choice_block">Blockieren</string>
   <string name="block_ads_choice_continue">Fortfahren</string>
-  <string name="block_ads_message">Wollen Sie Nachrichten von dieser Website blockieren?</string>
+  <string name="block_ads_message">Wollen Sie Nachrichten von dieser Webseite blockieren?</string>
   <string name="block_ads_title">Inhalt kann Werbung enthalten.</string>
   <string name="bookmark">Lesezeichen</string>
   <string name="bookmark_add_to">Hinzufügen zu</string>
@@ -341,7 +341,7 @@
   <string name="geolocation_permissions_prompt_toast_allowed">Diese Seite kann auf Ihren Standort zugreifen. Um dies zu ändern, gehen Sie zu den Einstellungen &gt; Erweitert &gt; Webseitendaten.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Diese Seite kann nicht auf Ihren Standort zugreifen</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Abbrechen</string>
-  <string name="geolocation_settings_page_dialog_message">Standortdaten für diese Website löschen?</string>
+  <string name="geolocation_settings_page_dialog_message">Standortdaten für diese Webseite löschen?</string>
   <string name="geolocation_settings_page_dialog_ok_button">OK</string>
   <string name="geolocation_settings_page_summary_allowed">Diese Seite kann auf Ihren Standort zugreifen</string>
   <string name="geolocation_settings_page_summary_not_allowed">Diese Seite kann nicht auf Ihren Standort zugreifen</string>
@@ -365,7 +365,7 @@
   <string name="homepage_search_hint">Suche</string>
   <string name="homepage_top_card_menu">Top</string>
   <string name="ignore_add_pwa_dialog_today">Heute nicht mehr zeigen</string>
-  <string name="in_incognito">Sie sind inkognito! Websites, die Sie besuchen, werden in Ihrem Browserverlauf nicht angezeigt.</string>
+  <string name="in_incognito">Sie sind inkognito! Webseites, die Sie besuchen, werden in Ihrem Browserverlauf nicht angezeigt.</string>
   <string name="in_secureaccess">Browser ist im sicheren Modus</string>
   <string name="isReplacePage">Die Datei existiert bereits, ersetzen?</string>
   <string name="is_first_history_item">Dies ist die erste Seite in Ihrem Browserverlauf</string>
@@ -381,7 +381,7 @@
   <string name="js_dialog_before_unload_title">Navigation bestätigen</string>
   <string name="js_dialog_title">Die Seite \"%s\" meldet:</string>
   <string name="js_dialog_title_default">JavaScript</string>
-  <string name="js_disable_confirm_message">Deaktivieren von JavaScript führt möglicherweise dazu, dass einige Websites nicht korrekt angezeigt werden</string>
+  <string name="js_disable_confirm_message">Deaktivieren von JavaScript führt möglicherweise dazu, dass einige Webseiten nicht korrekt angezeigt werden</string>
   <string name="js_disable_confirm_title">JavaScript deaktivieren?</string>
   <string name="keep_queued_download">Behalten</string>
   <string name="last_month">Letzten Monat</string>
@@ -450,7 +450,7 @@
   <string name="miuichromium_error_page_diagnose_proxy_server">Proxyserverfehler</string>
   <string name="miuichromium_error_page_diagnose_success">Schwaches Signal</string>
   <string name="miuichromium_error_page_diagnose_timeout">Verbindungstimeout</string>
-  <string name="miuichromium_error_page_diagnose_website">Diese Website ist nicht verfügbar</string>
+  <string name="miuichromium_error_page_diagnose_website">Diese Webseite ist nicht verfügbar</string>
   <string name="miuichromium_error_page_diagnosing">Netzwerk wird überprüft</string>
   <string name="miuichromium_error_page_homepage">Nach Hause</string>
   <string name="miuichromium_error_page_mobile">Mobile Daten</string>
@@ -514,7 +514,7 @@
   <string name="miuichromium_error_page_suggestion_title">Probieren Sie das:</string>
   <string name="miuichromium_error_page_title">Ein Fehler ist aufgetreten</string>
   <string name="miuichromium_error_page_unknown_error">Ups, etwas ist schiefgegangen</string>
-  <string name="miuichromium_error_page_url">Überprüfen Sie die URL-Adresse der Website</string>
+  <string name="miuichromium_error_page_url">Überprüfen Sie die URL-Adresse dieser Webseite</string>
   <string name="miuichromium_error_page_wlan">WLAN einschalten</string>
   <string name="miuishare_account_activate_confirmation">Aktivierung erforderlich</string>
   <string name="miuishare_account_activate_ok">Aktivieren</string>
@@ -594,13 +594,13 @@
   <string name="pref_accessibility_url_shortcut_enter_title">Eingabe Quick-URL</string>
   <string name="pref_adblock_counts">%d geblockt</string>
   <string name="pref_adblock_title">Adblocker</string>
-  <string name="pref_advert_null">Keine als Werbung gekennzeichneten Elemente. Halten Sie ein Element auf der Website gedrückt, um es zu markieren.</string>
+  <string name="pref_advert_null">Keine als Werbung gekennzeichneten Elemente. Halten Sie ein Element auf der Webseite gedrückt, um es zu markieren.</string>
   <string name="pref_auto_update_under_wifi">Automatisch über WLAN aktualisieren</string>
   <string name="pref_automatic_matching_searchengines_title">Suchmaschine automatisch auswählen</string>
   <string name="pref_cancel_screen">Nicht mehr blockieren</string>
   <string name="pref_category_hint">Kategorie</string>
   <string name="pref_check_security_url_summary">Sende Seitenadresse an Mi Server für eine Sicherheitsüberprüfung</string>
-  <string name="pref_check_security_url_summary_international">Erlaube Browser, auf die URLs der Websites zuzugreifen, die Sie besuchen, um relevantere Empfehlungen zu erhalten</string>
+  <string name="pref_check_security_url_summary_international">Erlaube Browser, auf die URLs der Webseite zuzugreifen, die Sie besuchen, um relevantere Empfehlungen zu erhalten</string>
   <string name="pref_check_security_url_title">Überprüfe URL-Sicherheit</string>
   <string name="pref_check_security_url_title_international">Die URL holen</string>
   <string name="pref_clear_adblock_statistics">Lösche Werbeblockerverlauf</string>
@@ -638,9 +638,9 @@
   <string name="pref_fling_on_border_enabled">Tabs wechseln</string>
   <string name="pref_fling_on_border_enabled_title_summary">Wischen Sie vom linken oder rechten Rand des Bildschirmes, um die Registerkarten zu wechseln</string>
   <string name="pref_fling_on_border_title_summary">Von der rechten oder linken Kante aus nach innen wischen</string>
-  <string name="pref_font_size_category">Textgröße der Website</string>
+  <string name="pref_font_size_category">Textgröße der Webseite</string>
   <string name="pref_force_userscalable">Erzwinge Vergrößerung</string>
-  <string name="pref_force_userscalable_summary">Websites die Kontolle über die Zoom-Funktion entziehen</string>
+  <string name="pref_force_userscalable_summary">Der Webseite die Kontolle über die Zoom-Funktion entziehen</string>
   <string name="pref_general_title">Allgemein</string>
   <string name="pref_key_gesture_title">Tasten &amp; Gesten</string>
   <string name="pref_label_advert_manager">Markierte Werbung verwalten</string>
@@ -662,8 +662,8 @@
   <string name="pref_privacy_clear_form_data_dlg">Lösche alle gespeicherten Formulardaten?</string>
   <string name="pref_privacy_clear_form_data_summary">Lösche alle gespeicherten Formulardaten</string>
   <string name="pref_privacy_clear_geolocation_access">Standortzugriff löschen</string>
-  <string name="pref_privacy_clear_geolocation_access_dlg">Standortzugriff für Websites löschen?</string>
-  <string name="pref_privacy_clear_geolocation_access_summary">Standortzugriff für alle Websites löschen</string>
+  <string name="pref_privacy_clear_geolocation_access_dlg">Standortzugriff für Webseite löschen?</string>
+  <string name="pref_privacy_clear_geolocation_access_summary">Standortzugriff für alle Webseiten löschen</string>
   <string name="pref_privacy_clear_history">Verlauf löschen</string>
   <string name="pref_privacy_clear_history_by_group_dlg">Browserverlauf löschen?</string>
   <string name="pref_privacy_clear_history_dlg">Verlauf löschen?</string>
@@ -673,20 +673,20 @@
   <string name="pref_privacy_clear_passwords_summary">Lösche alle gespeicherten Passwörter</string>
   <string name="pref_privacy_cookies_title">Cookies</string>
   <string name="pref_privacy_enable_geolocation">Standort</string>
-  <string name="pref_privacy_enable_geolocation_summary">Websites erlauben, auf Ihren Standort zuzugreifen</string>
+  <string name="pref_privacy_enable_geolocation_summary">Webseiten erlauben, auf Ihren Standort zuzugreifen</string>
   <string name="pref_privacy_formdata_title">Formulardaten</string>
   <string name="pref_privacy_location_title">Standortzugriff</string>
   <string name="pref_privacy_security_title">Privatsphäre &amp; Sicherheit</string>
   <string name="pref_save_bandwidth_mode_title">Daten reduzieren</string>
   <string name="pref_security_accept_cookies">Cookies akzeptieren</string>
-  <string name="pref_security_accept_cookies_summary">Websites erlauben, Cookiedaten zu speichern und zu lesen</string>
+  <string name="pref_security_accept_cookies_summary">Webseiten erlauben, Cookiedaten zu speichern und zu lesen</string>
   <string name="pref_security_passwords_title">Passwörter</string>
   <string name="pref_security_remember_passwords">Passwörter merken</string>
-  <string name="pref_security_remember_passwords_summary">Benutzernamen und Passwörter für Websites speichern</string>
+  <string name="pref_security_remember_passwords_summary">Benutzernamen und Passwörter für Webseiten speichern</string>
   <string name="pref_security_save_form_data">Formulardaten merken</string>
   <string name="pref_security_save_form_data_summary">Eingegebene Formulardaten zur späteren Verwendung speichern</string>
   <string name="pref_security_show_security_warning">Sicherheitswarnungen anzeigen</string>
-  <string name="pref_security_show_security_warning_summary">Warnung bei Zertifikatsproblemen von Websites anzeigen</string>
+  <string name="pref_security_show_security_warning_summary">Warnung bei Zertifikatsproblemen von Webseiten anzeigen</string>
   <string name="pref_set_homepage_to">Einstellen</string>
   <string name="pref_setting_title">Seiteneinstellungen</string>
   <string name="pref_ua_string">Benutzeragent</string>
@@ -718,7 +718,7 @@
   <string name="quicklinks_group_default_subtitle">Leer</string>
   <string name="quicklinks_management">Beliebt</string>
   <string name="quicklinks_most_visited">An Startseite anheften</string>
-  <string name="quicklinks_most_visited_subtitle">Zeige die kürzlich besuchten Websites in neuen Registerkarten</string>
+  <string name="quicklinks_most_visited_subtitle">Zeige die kürzlich besuchten Webseiten in neuen Registerkarten</string>
   <string name="quicklinks_most_visited_title">Auf Startseite hinzufügen</string>
   <string name="readmode_already_add_to_bookshelf">Zum Bücherregal hinzugefügt</string>
   <string name="readmode_battery">Akku</string>
@@ -812,13 +812,13 @@
   <string name="share_page_text">"Ich genieße 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Wir werden Ihre personenbezogenen Daten erheben und verwenden, wenn Sie sich für die Nutzung unserer Dienste entscheiden. 
     Nachfolgend sind die Daten, die wir sammeln:  
-    1. Sichere URLs: Wir erfassen die URLs der Websites, die Sie bei der Nutzung unserer Dienste besuchen.
+    1. Sichere URLs: Wir erfassen die URLs der Webseiten, die Sie bei der Nutzung unserer Dienste besuchen.
     2. Standortdaten: Wir greifen auf Ihre Standortinformationen zu.
     So verwenden wir die Daten, die wir sammeln:
     1. Sicherheit: Wir verwenden Ihre Daten, um Ihr Gerät vor Betrug und Viren zu schützen sowie für Backup- und Wiederherstellungszwecke.
     2. Inhalt: Ihre Daten helfen uns, Ihnen relevante lokalisierte Nachrichteninhalte bereitzustellen.
     Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie müssen unseren %2$s und %1$s zustimmen, um den Browser nutzen zu können.</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Browser muss eine Verbindung zum Internet herstellen, um richtig zu funktionieren. Um mehr relevante Empfehlungen zu erhalten, erlauben Sie Browser, die URLs Ihrer besuchten Websites zu erhalten und auf Ihre Standortinformationen zuzugreifen.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Browser muss eine Verbindung zum Internet herstellen, um richtig zu funktionieren. Um mehr relevante Empfehlungen zu erhalten, erlauben Sie dem Browser, die URLs Ihrer besuchten Webseiten zu erhalten und auf Ihre Standortinformationen zuzugreifen.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Prüfe URL-Sicherheit</string>
   <string name="show_security_tip_dialog_title">Nutzungsbedingungen</string>
   <string name="show_weather_location_getter_tip_dialog_description">Der Wetterdienst des Browsers benötigt Ihre Position, um Sie mit aktuellen Wetterinfos versorgen zu können. Sie können diese Funktion in den Einstellungen deaktivieren.</string>
@@ -865,7 +865,7 @@
   <string name="suggest_access_item_singer_pop">%d beliebte Titel</string>
   <string name="suggest_access_item_site_mark">SEITEN</string>
   <string name="suggest_access_item_video_mark">VIDEO</string>
-  <string name="suggest_access_item_website_mark">WEBSITE</string>
+  <string name="suggest_access_item_website_mark">WEBSEITEN</string>
   <string name="suggest_access_item_yellow_mark">GELBE SEITEN</string>
   <string name="suggest_access_music">Mi Musik</string>
   <string name="suggest_item_delete_text">Löschen</string>
