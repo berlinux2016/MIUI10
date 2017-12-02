@@ -16,7 +16,7 @@
   <string name="action_item_follow">Folgen</string>
   <string name="action_item_hide">Verbergen</string>
   <string name="action_item_hifi">Kopfhörer &amp; Audioeffekte</string>
-  <string name="action_item_modify_info">Modify info</string>
+  <string name="action_item_modify_info">Info ändern</string>
   <string name="action_item_multiple">Bearbeiten</string>
   <string name="action_item_play_all">Alle abspielen</string>
   <string name="action_item_play_next">Später abspielen</string>
@@ -47,8 +47,8 @@
   <string name="alert_msg_vip_songs_for_download">Holen Sie sich ein Premiumpaket, um mehrere Titel herunterladen zu können</string>
   <string name="alert_msg_vip_songs_for_download_upgrade">Sie haben Ihr Downloadlimit für diesen Monat verbraucht. Stocken Sie auf ein Premiumpaket auf, um mehrere Titel herunterzuladen zu können.</string>
   <string name="alert_msg_vip_songs_for_stream">Mehrere Titel können nur mit dem Premiumpaket abgespielt werden</string>
-  <string name="alert_title_vip_song">Premiummusik</string>
-  <string name="alert_title_vip_songs">Premiumpaket</string>
+  <string name="alert_title_vip_song">Premiumpaket</string>
+  <string name="alert_title_vip_songs">Premiumpakete</string>
   <string name="alert_title_vip_songs_upgrade">Aktualisieren Sie Ihr Premiumpaket</string>
   <string name="all_artist">Alle Interpreten</string>
   <string name="all_downloads">Alle Downloads</string>
@@ -169,13 +169,13 @@
   <string name="confirm_to_renew">Verlängern</string>
   <string name="connecting_apk">Connecting...</string>  
   <string name="continue_backup">Fortsetzen</string>
-  <string name="cp_info_first">Streamingdient wird von Ultimate Inc. bereitgestellt</string>
+  <string name="cp_info_first">Streamingdienst wird von Ultimate Inc. bereitgestellt</string>
   <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">Auftrag konnte nicht erstellt werden, versuchen Sie erneut</string>
   <string name="create_playlist">Wiedergabeliste erstellen</string>
   <string name="create_playlist_failure">Wiedergabeliste konnte nicht erstellt werden</string>
-  <string name="current_album">Current Album</string>
-  <string name="current_lyric">Current Lyric</string>  
+  <string name="current_album">Aktuelles Album</string>
+  <string name="current_lyric">Aktuelles Songtext</string>  
   <string name="current_services">Aktuelle Dienste</string>
   <string name="current_version">Aktuelle Version</string>
   <string name="data_usage_warning">Datennutzung</string>
@@ -463,7 +463,7 @@
   <string name="handle_later">Jetzt nicht</string>
   <string name="headset_settings">Kopfhörer &amp; Audioeffekte</string>
   <string name="hide_album">Album vertsecken</string>
-  <string name="hide_lyric">Text verstecken</string>  
+  <string name="hide_lyric">Songtext verstecken</string>  
   <string name="high_quality">Höher</string>
   <string name="higher_quality_music">Hohe Wiedergabequalität</string>
   <string name="higher_quality_music_summary">Den Titel mit hoher Bitrate streamen und herunterladen</string>
@@ -491,7 +491,7 @@
   <string name="input_hint_prefix">Bitte %1$s eingeben</string>
   <string name="installing_apk">Installing...</string>  
   <string name="insufficient_space">Zu wenig Speicherplatz auf internem Speicher</string>
-  <string name="intelligent_recognize">Intelligent optimize album and lyric</string>  
+  <string name="intelligent_recognize">Intelligent Album und Songtext optimieren</string>  
   <string name="is_loading_data">Musik wird noch heruntergeladen. Versuche es nach ein bis zwei Minuten erneut.</string>
   <string name="is_scanning">Scanne, bitte warten.</string>
   <string name="is_scanning_support_online">"Überprüfe Speicher… (In der Zwischenzeit können Sie Musik online streamen)"</string>
@@ -534,7 +534,7 @@
   <string name="lrc_searching">Suche…</string>
   <string name="lyric">Songtexte</string>
   <string name="lyric_is_empty">Keine Songtexte verfügbar</string>
-  <string name="lyric_label">Lyric</string>  
+  <string name="lyric_label">Songtexte</string>  
   <string name="lyric_open_other_connect">Lade Songtexte über mobile Datenverbindung</string>
   <string name="lyric_setting">Songtext Einstellungen</string>
   <string name="male_artist">Männlicher Interpret</string>
@@ -673,7 +673,7 @@
   <string name="notification_headset_info">Tippen Sie hier, um die Einstellungen anzuzeigen.</string>
   <string name="notification_headset_settings">Kopfhörer angeschlossen</string>
   <string name="notification_need_wifi_for_size">Downloadgröße erfordert WLAN.</string>
-  <string name="notification_play_summary">Anzeige des aktuellen, nächsten Song und Lyrics auf Startbildschirm</string>
+  <string name="notification_play_summary">Anzeige des aktuellen, nächsten Song und Songtexte auf Startbildschirm</string>
   <string name="notification_play_title">Benachrichtigungswidget</string>
   <string name="notification_recommend_summary">Weitere Informationen über neue Musiktrends und Appaktionen</string>
   <string name="notification_recommend_title">Wichtige Benachrichtigungen</string>
@@ -708,8 +708,8 @@
   <string name="open_download">Öffnen</string>
   <string name="open_online_service">Für diese Funktion müssen Sie die Onlinedienste einschalten. Jetzt einschalten?</string>
   <string name="open_service">Einschalten</string>
-  <string name="optimize_all_until_optimized">Optimize song info, album and lyric</string>
-  <string name="optimize_all_until_scanned">Scanning local song, please try later</string>  
+  <string name="optimize_all_until_optimized">Optimiere Songinfo, Album und Songtext</string>
+  <string name="optimize_all_until_scanned">Lokales Song scannen, bitte später versuchen</string>  
   <string name="order_pending">Erwarte Bestätigung</string>
   <string name="order_process_fail">"Konto konnte nicht autorisiert werden. Warten Sie einen Moment und versuchen Sie es erneut."</string>
   <string name="other_filter">Andere</string>
