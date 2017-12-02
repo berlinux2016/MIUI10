@@ -2,11 +2,11 @@
 <resources>
   <string name="add_alarm">" Neuer Wecker "</string>
   <string name="add_timezone_title">Zeitzone hinzufügen</string>
-  <string name="alarm_alert_alert_silenced">Wecker verstummt nach %d Minute(n).</string>
-  <string name="alarm_alert_dismiss_now_text">Abstellen jetzt</string>
+  <string name="alarm_alert_alert_silenced">Wecker verstummt nach %d Minute(n)</string>
+  <string name="alarm_alert_dismiss_now_text">Jetzt abstellen</string>
   <string name="alarm_alert_dismiss_text">Abstellen</string>
   <string name="alarm_alert_off_action_text">Abstellen</string>
-  <string name="alarm_alert_snooze_set">Für %d Minuten schlummern.</string>
+  <string name="alarm_alert_snooze_set">Für %d Minuten schlummern</string>
   <string name="alarm_alert_snoozed_text">Schlummern</string>
   <string name="alarm_alert_wake_up">Aufwachen!</string>
   <string name="alarm_ascending_mode_summary">Weckerlautstärke steigt allmählich an</string>
@@ -14,14 +14,14 @@
   <string name="alarm_count">Wecker mehrmals automatisch verstummt</string>
   <string name="alarm_count_never_summary">，nicht abstellen</string>
   <string name="alarm_count_summary">，abstellen nach %d mal</string>
-  <string name="alarm_deleted">Wecker gelöscht.</string>
+  <string name="alarm_deleted">Wecker gelöscht</string>
   <string name="alarm_disabled">Aus</string>
   <string name="alarm_duration">Weckintervall (in Min)</string>
   <string name="alarm_duration_summary">Alle %d Minuten</string>
   <string name="alarm_duration_title">Weckzeiteinstellung</string>
   <string name="alarm_in_silent_mode_summary">Alarmton bleibt laut, auch wenn Telefon im Lautlosmodus ist</string>
   <string name="alarm_in_silent_mode_title">Wecker im Lautlosmodus</string>
-  <string name="alarm_klaxon_service_desc">Tonwiedergabedienst eingestellte Wecker</string>
+  <string name="alarm_klaxon_service_desc">Tonwiedergabedienst für eingestellte Wecker</string>
   <string name="alarm_label_hint">Weckername</string>
   <string name="alarm_list_title">Wecker</string>
   <string name="alarm_notify_snooze_label">Schlummern (%s)</string>
@@ -46,7 +46,7 @@
   <string name="auto_silence_summary">Alarm stoppt nach %d Minute(n)</string>
   <string name="auto_silence_title">Automatische Stummschaltung</string>
   <string name="automatic_home_clock">Automatische Heimatzeit</string>
-  <string name="automatic_home_clock_summary">Fügen Sie Heimatzeit hinzu, bei Reisen in anderen Zeitzonen</string>
+  <string name="automatic_home_clock_summary">Fügen Sie Heimatzeit hinzu bei Reisen in andere Zeitzonen</string>
   <string name="birthday_alarm">Geburtstagsalarm</string>
   <string name="birthday_alarm_summary">Spiele \"Happy Birthday\" an Deinem Geburtstag anstelle des Standardwecktons</string>
   <string name="cancel">Abbrechen</string>
@@ -58,8 +58,8 @@
   <string name="day">1 Tag</string>
   <string name="day_concat">". "</string>
   <string name="days">%d Tage</string>
-  <string name="default_alarm_alert">Standard Alarmton</string>
-  <string name="default_alarm_title">Standard Klingelton</string>
+  <string name="default_alarm_alert">Standardalarmton</string>
+  <string name="default_alarm_title">Standardklingelton</string>
   <string name="default_label">Alarm</string>
   <string name="delelte_selected_timezone">Ausgewählte Zeitzone löschen?</string>
   <string name="delete">Löschen</string>
@@ -91,7 +91,7 @@
   <string name="hours">%d Stunden</string>
   <string name="hours_label">Std</string>
   <string name="hours_label_description">Stunden</string>
-  <string name="install_weather_app_error">"App konnte nicht geladen werden"</string>
+  <string name="install_weather_app_error">App konnte nicht geladen werden</string>
   <string name="install_weather_app_loading">Nur eine Sekunde…</string>
   <string name="keep_screen_on">Bildschirm immer an</string>
   <string name="label">Bezeichnung</string>
@@ -106,9 +106,9 @@
   <string name="legal_workday_invalidate_message">(Daten ungültig. Aktualisiere die Einstellungen)</string>
   <string name="legal_workday_message">" (Nicht an gesetzl. Feiertagen)"</string>
   <string name="life_post_setting">Wetterreport</string>
-  <string name="life_post_setting_FBE_remind">Aufgrund von Systemeinschränkungen kann es vorkommen, dass Wetterinformationen im Morgenbericht nach einem Neustart nicht korrekt angezeigt werden.</string>
+  <string name="life_post_setting_FBE_remind">Aufgrund von Systemeinschränkungen kann es vorkommen, dass Wetterinformationen im Morgenbericht nach einem Neustart nicht korrekt angezeigt werden</string>
   <string name="life_post_setting_close_title">Morgenbericht schließen</string>
-  <string name="life_post_setting_open_subtitle">Lassen Sie sich das lokale Wetter nach dem Aufwachen zwischen 4:00-9:30 Uhr anzeigen.</string>
+  <string name="life_post_setting_open_subtitle">Lassen Sie sich das lokale Wetter nach dem Aufwachen zwischen 4:00-9:30 Uhr anzeigen</string>
   <string name="life_post_setting_open_title">Wetterreport einschalten</string>
   <string name="life_post_setting_wake_up_list_title">Weckerverlauf</string>
   <string name="life_post_wake_up_acumu_day_title">Tag</string>
@@ -150,9 +150,9 @@
   <string name="setting_alarm_arriving_summary">Vor dem Weckton eine Nachricht senden</string>
   <string name="setting_alarm_arriving_title">Nachricht vor Weckton</string>
   <string name="settings">Einstellungen</string>
-  <string name="shutdown_alarm_disable_summary">Standby Alarm ist AUS</string>
-  <string name="shutdown_alarm_enable_summary">Standby Alarm ist AN</string>
-  <string name="shutdown_alarm_title">Standby Alarm</string>
+  <string name="shutdown_alarm_disable_summary">Standby-Alarm ist AUS</string>
+  <string name="shutdown_alarm_enable_summary">Standby-Alarm ist AN</string>
+  <string name="shutdown_alarm_title">Standby-Alarm</string>
   <string name="silent_alarm_summary">Lautlosmodus</string>
   <string name="skip_alarm_once_hint">Am %s einmalig ausschalten</string>
   <string name="slash">/</string>
@@ -176,7 +176,7 @@
   <string name="temperature_unit">%1$s°</string>
   <string name="time">Uhrzeit</string>
   <string name="timer_alarm_alert_pad">%s</string>
-  <string name="timer_alarm_cancel_pad">Auf den Bildschirm tippen, um den Alarm zu beenden.</string>
+  <string name="timer_alarm_cancel_pad">Auf den Bildschirm tippen, um den Alarm zu beenden</string>
   <string name="timer_alarm_dot_matrix_label">TIMER</string>
   <string name="timer_alert_alert_silenced">Timer verstummt nach %d Minuten</string>
   <string name="timer_clock_alert_text">Bitte Timer einstellen</string>
