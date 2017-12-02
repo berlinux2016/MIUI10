@@ -503,5 +503,5 @@
 	"share_end_note": "Von Mi Musik",
 	"share_text_list": "Ich fand eine geniale Wiedergabeliste auf Mi Musik:",
 	"share_text_song": "Ich fand einen genialen Song auf Mi Musik:",
-	"share_append_text": "Von @小米音乐"
+	"share_append_text": "Von @Millet Musik"
 }
