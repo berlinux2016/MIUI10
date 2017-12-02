@@ -440,6 +440,7 @@
   <string name="download_paused">Download pausiert</string>
   <string name="download_paused_in_power_save_mode">Aufgrund dem Stromsparmodus pausieren alle Downloads</string>
   <string name="download_pending">Download wartet</string>
+  <string name="download_percent">%d%%</string>  
   <string name="download_processing">Lade runter…</string>
   <string name="download_quality">Titel die heruntergeladen werden</string>
   <string name="download_quality_summary">Additional settings for songs that you download</string>  
@@ -481,6 +482,9 @@
   <string name="downloading_empty">Empty</string>
   <string name="downloading_pause_apk">Paused...Continue to download in notificationbar or desktop</string>  
   <string name="downloads_operating">Wird bearbeitet…</string>
+  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+  <string name="durationformatshort">%2$d:%5$02d</string>
+  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>  
   <string name="editmode_menu_delete">Löschen</string>
   <string name="editmode_menu_share">Teilen</string>
   <string name="empty_page_no_album">Keine Alben</string>
@@ -650,11 +654,13 @@
   <string name="local_music_is_not_available">Lokale Titel sind nicht verfügbar.</string>
   <string name="local_page_album_more">View all</string>  
   <string name="local_page_artist">Abbonierte Künstler</string>
+  <string name="local_page_artist_more">More works of %s</string>  
   <string name="local_page_custom_subtitle">Jeden Tag neue Musik</string>
   <string name="local_page_custom_title">Für dich</string>
   <string name="local_page_playlist">Wiedergabelisten</string>
   <string name="local_page_song_all">Alle Titel</string>
   <string name="local_page_song_download">Lokale Titel</string>
+  <string name="local_page_song_download_history">Downloads</string>  
   <string name="local_page_song_favorite">Lieblingsmusik</string>
   <string name="local_tracks_short">Offline</string>
   <string name="login_first">Zuerst mit Mi Konto anmelden</string>
@@ -662,8 +668,10 @@
   <string name="lrc_searching">Suche…</string>
   <string name="lyric">Songtexte</string>
   <string name="lyric_is_empty">Keine Songtexte verfügbar</string>
+  <string name="lyric_label">Lyric</string>  
   <string name="lyric_open_other_connect">Lade Songtexte über mobile Datenverbindung</string>
   <string name="lyric_setting">Songtext Einstellungen</string>
+  <string name="manager_cloud_space">Manage Mi Cloud storage</st  
   <string name="male_artist">Männlicher Interpret</string>
   <string name="max_sleep_time">%d</string>
   <string name="media_filter">Media</string>
@@ -677,9 +685,17 @@
   <string name="message_delete_playlist">Wiedergabeliste |%s| löschen?</string>
   <string name="metered_alert">Datennutzung-Warnung</string>
   <string name="metered_alert_msg">Durch das Hören von Musik kann sich die Nutzung der mobilen Daten erhöhen. Wird das Limit zur Datennutzung überschritten, können Kosten entstehen. </string>
+  <string name="metered_alert_msg_with_data">You have %s of mobile data left. Use mobile data to play songs?</string>  
   <string name="metered_allow">Streamen</string>
+  <string name="metered_beyond_alert">Data usage exceeded</string>  
   <string name="metered_disallow">Abbrechen</string>
   <string name="metered_play_toast">Nutze mobile Datenverbindung für Streaming</string>
+  <string name="metered_play_toast_with_beyond_data">Using mobile data to play songs. Exceeded limit by %s</string>
+  <string name="metered_play_toast_with_data">Using mobile data to play songs, %s remaining</string>
+  <string name="metered_serious_alert">Too little mobile data left</string>
+  <string name="metered_serious_alert_msg_with_beyond_data">"You've already exceeded your mobile data limit by %s. Use mobile data to play songs?"</string>
+  <string name="metered_serious_alert_msg_with_data">You have only %s of mobile data left. Use mobile data to play songs?</string>
+  <string name="metered_serious_allow">Play anyway</string>  
   <string name="milink_unavaliable_please_update">Mi Linkfunktion nicht verfügbar. MIUI-Systemupdate notwendig.</string>
   <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Unbekannt&gt;</string>
@@ -701,10 +717,12 @@
   <string name="miuishare_wechat_timeline_title">WeChatchronik</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="mobile_recommended_title">mobile Datenverbindung benutzen</string>
+  <string name="modify_info_disable_note">If you want to modify info manually, shutdown auto optimize info first</string>  
   <string name="modify_lyric">Songtext bearbeiten</string>
   <string name="modify_progress">Fließgeschwindigkeit des Songtextes ändern</string>
   <string name="modify_progress_helper">Wische auf oder ab um den Fortschritt des Songtextes anzupassen.</string>
   <string name="modify_song_info">Musikinformationen bearbeiten</string>
+  <string name="modify_song_info_success">Song info has been updated</string>  
   <string name="monthly_price">Mi Credits</string>
   <string name="more">Mehr</string>
   <string name="more_about_artist">Mehr über %s</string>
@@ -761,8 +779,10 @@
   <string name="no_local_source_find">"Titel konnte nicht gefunden werden"</string>
   <string name="no_online_song_selected">Keine Titel ausgewählt</string>
   <string name="no_results_return">Keine Suchergebnisse</string>
+  <string name="no_scanned_songs">Empty</string>  
   <string name="no_song">Keine Titel</string>
   <string name="no_song_downloaded">"Verbindung zum Server fehlgeschlagen"</string>
+  <string name="no_system_cropper_find">"System doesn't have cropper for image"</string>  
   <string name="normal_quality">Gut</string>
   <string name="no_system_cropper_find">"System hat keinen Bildausschnitt"</string>
   <string name="not_login">Nicht angemeldet</string>
@@ -820,11 +840,12 @@
   <string name="open_download">Öffnen</string>
   <string name="open_online_service">Für diese Funktion müssen Sie die Onlinedienste einschalten. Jetzt einschalten?</string>
   <string name="open_service">Einschalten</string>
+  <string name="optimize_all_until_optimized">Optimize song info, album and lyric</string>
+  <string name="optimize_all_until_scanned">Scanning local song, please try later</string>  
   <string name="order_pending">Erwarte Bestätigung</string>
   <string name="order_process_fail">"Konto konnte nicht autorisiert werden. Warten Sie einen Moment und versuchen Sie es erneut."</string>
   <string name="other_filter">Andere</string>
   <string name="other_song_in_album">Andere Titel vom selben Album</string>
-  <string name="othor_song_in_album">Andere Titel vom selben Album</string>
   <string name="package_filter">Pakete</string>
   <string name="pause_download">Pause</string>
   <string name="paused_by_app">Pausiert</string>
@@ -838,6 +859,7 @@
   <string name="pay_now">Jetzt bezahlen</string>
   <string name="payment_fail">Zahlung fehlgeschlagen</string>
   <string name="payment_success">Zahlung erfolgreich</string>
+  <string name="pending_apk">Pending...</string>  
   <string name="period_format">%1$s-%2$s</string>
   <string name="permission_declaration_message">Erlauben Sie \"Musik\" den Speicherzugriff unter Sicherheit &gt; Rechte &gt; Rechteverwaltung &gt; Speicher &gt; Musik, damit die Anwendung ordungsgemäß funktioniert.</string>
   <string name="permission_declaration_negative_text">Später</string>
@@ -847,6 +869,7 @@
   <string name="play_next">Nächsten abspielen</string>
   <string name="playback_failed_no_title_by_bad_file">"Das Audioformat wird nicht unterstützt oder die Datei existiert nicht."</string>
   <string name="playlist_deleted_message">Wiedergabeliste gelöscht</string>
+  <string name="playlist_empty">No playlists found.</string>  
   <string name="playlist_renamed_message">Wiedergabeliste umbenannt</string>
   <string name="playlist_type_album">Alben</string>
   <string name="playlist_type_artist">Artist</string>
@@ -895,6 +918,21 @@
   <string name="really_pay">Jetzt bezahlen?</string>
   <string name="recently_played">Kürzlich angehört</string>
   <string name="recently_played_songs">Kürzlich angehört</string>
+  <string name="recognition_reverted_message">"Song' info, album and lyric have been reverted. You can revert all info of songs that have been optimize in Settings."</string>
+  <string name="recognition_reverted_title">Intelligent optimize album and lyric</string>
+  <string name="recognize_call">Optimize</string>
+  <string name="recognize_call_summary">"Song' info, album and lyric have not been optimized"</string>
+  <string name="recognize_calling">"Optimizing song' info, album and lyric…"</string>
+  <string name="recognize_calling_fail">No information of this song was found now. We will add as soon as possible</string>
+  <string name="recognize_calling_network_error">Network is unavailable, please try again later</string>
+  <string name="recognize_revert">Revert</string>
+  <string name="recognize_revert_summary">"Song' info, album and lyric have been optimized"</string>
+  <string name="recognize_reverting">"Reverting song' info, album and lyric…"</string>
+  <string name="recognize_switch_off_alert_not_now">Not now</string>
+  <string name="recognize_switch_off_alert_revert">Revert</string>
+  <string name="recognize_switch_off_alert_title">Intelligent optimize album and lyric</string>
+  <string name="recognized_alert_message">"Music app has automatically optimize song' info, album and lyric. You could click「...」and modify them manually"</string>
+  <string name="recognized_alert_title">Intelligent optimize album and lyric</string>  
   <string name="recommend_fragment_title">Empfohlen</string>
   <string name="recommended_file_size_download_in_mobile">%s der mobilen Datenverbindung verwenden, um diese Datei herunterzuladen?</string>
   <string name="recommended_no_file_size_download_in_mobile">Mobile Datenverbindung verwenden, um diese Datei herunterzuladen?</string>
@@ -915,11 +953,17 @@
   <string name="retry_download">Wiederholen</string>
   <string name="ringtone_not_support">"Das Audioformat wird nicht unterstützt"</string>
   <string name="root_downloads">Downloads</string>
+  <string name="save">Save</string>  
   <string name="save_to_playlist">Als Wiedergabeliste speichern</string>
+  <string name="search_album_and_lyric">Search albums and lyric by above info</string>
+  <string name="search_empty">"Couldn't find any results"</string>  
   <string name="search_album">Suche Album</string>
   <string name="search_for_album">Album</string>
   <string name="search_for_artist">Interpret</string>
   <string name="search_hint">Suche</string>
+  <string name="search_hint_not_support_online">Search for artists, songs, and albums</string>
+  <string name="search_history_clear_all">Clear</string>
+  <string name="search_instant_online_music">Online</string>  
   <string name="search_lyric">Suche Songtext</string>
   <string name="search_title">Suche</string>
   <string name="search_title_album">Alben</string>
@@ -948,6 +992,7 @@
   <string name="set_id3_not_have_read_or_write_permission">"Sie verfügen nicht über die nötigen Rechte"</string>
   <string name="set_id3_not_support_format">"Audioformat kann nicht bearbeitet werden"</string>
   <string name="set_id3_successful">Musikinformationen gespeichert</string>
+  <string name="set_ringtones_failed">"Couldn't set ringtone"</string>  
   <string name="set_lyric_successful">Songtext gespeichert</string>
   <string name="set_now">Gehen Sie zu den Einstellungen</string>
   <string name="set_ringtones_failed">"Klingelton konnte nicht eingestellt werden"</string>
@@ -956,6 +1001,12 @@
   <string name="settings">Einstellungen</string>
   <string name="settings_notification_text">Zeige Playerwidget in Benachrichtigungsbildschirm</string>
   <string name="settings_notification_title">Benachrichtigungsschattenwidget</string>
+  <string name="settings_search_key_desktop_lyric">Home screen lyrics;Lyrics;Music;Songs</string>
+  <string name="settings_search_key_download_quality">Download quality;Quality;Music;Download;Songs</string>
+  <string name="settings_search_key_download_when_favorite">Download favorites;Download;Favorites;Music;Songs</string>
+  <string name="settings_search_key_main">Music;Songs;Song</string>
+  <string name="settings_search_key_notification">Music notifications;Music;Notifications;songs</string>
+  <string name="settings_search_key_vip_service">Premium songs;VIP;Song pack;Premium Song Pack;Member;Subscription;Music;Songs</string>  
   <string name="settings_search_path_advance">System/Musik/Dienste und Einstellungen/erweiterte Einstellungen</string>
   <string name="settings_search_path_main">Systemapps/Musik</string>
   <string name="settings_search_path_normal">System/Musik/Dienste und Einstellungen</string>
@@ -998,6 +1049,8 @@
   <string name="start_to_play">Abspielen</string>
   <string name="start_to_use">Genießen Sie</string>
   <string name="start_update">Aktualisieren Sie auf die aktuellste Version von Mi Musik</string>
+  <string name="stop">Stop</string>
+  <string name="stop_backup">Stop</string>  
   <string name="storage_internal">Interner Speicher</string>
   <string name="storage_sd_card">SD-Karte</string>
   <string name="storage_usb">USB-Speicher</string>
@@ -1044,6 +1097,7 @@
   <string name="title_online_artist">Beliebte Interpreten</string>
   <string name="title_online_billboard">Charts</string>
   <string name="title_online_fm">Radio</string>
+  <string name="title_online_fm_recommend">Featured FM</string>  
   <string name="title_online_recommend">Verbundene Wiedergabelisten</string>
   <string name="title_online_release">Neu</string>
   <string name="title_online_song">Beliebte Titel</string>
@@ -1088,6 +1142,7 @@
   <string name="unknown_album_name">Unbekanntes Album</string>
   <string name="unknown_artist_name">Unbekanntes Album</string>
   <string name="update_now">Jetzt aktualisieren</string>
+  <string name="update_time">(%s)</string>  
   <string name="upgrade">Aktualisierung:</string>
   <string name="upgrade_force">"Wir stellen unseren derzeitigen Steamingdienst wegen Problemen mit dem Urheberrecht ein. Aktualisiere die App um Musik in höchster Qualität zu hören."</string>
   <string name="upgrade_immediate">Jetzt aktualisieren</string>
@@ -1116,15 +1171,14 @@
   <string name="vip_renew_title">Abonnement abgelaufen</string>
   <string name="vip_required">"Holen Sie sich ein Premiumpaket, um diese Musik abzuspielen. Wir haben es jetzt übersprungen."</string>
   <string name="vip_required_with_song">"Sie erhalten ein Premiumpaket "%s", wir haben es jetzt übersprungen."</string>
+  <string name="vip_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically tomorrow evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
+  <string name="vip_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
   <string name="warning_tip_cancel">Download</string>
   <string name="warning_tip_content">Sie sind nicht länger mit einem WLAN verbunden. Wenn Sie die mobile Datenverbindung verwenden um den Download fortzusetzen, wird Ihr Datenverbrauch signifikant ansteigen. Wenn Sie dabei Ihr Datenvolumen überschreiten, kann dies zu erhöhten Kosten bei Ihrem Netzbetreiber führen.</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">Datenverbrauchswarnung</string>
   <string name="welcome_to_new_music">Willkommen bei einer neuen Version von Mi Musik</string>
-  <string name="wifi_required_body" formatted="false">
-    "Sie müssen mit einem WLAN verbunden sein, um diesen Download |%s| abzuschließen.
-
-    %s antippen, um den Download zu starten, sobald Sie mit einem WLAN verbunden sind."
-  </string>
+  <string name="wifi_required_body" formatted="false">"Sie müssen mit einem WLAN verbunden sein, um diesen Download |%s| abzuschließen.
+  %s antippen, um den Download zu starten, sobald Sie mit einem WLAN verbunden sind."</string>
   <string name="wifi_required_title">Downloadgröße übersteigt das Limit des Netzbetreibers</string>
 </resources>
