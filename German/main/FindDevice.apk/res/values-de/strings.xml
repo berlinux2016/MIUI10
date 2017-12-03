@@ -4,31 +4,31 @@
   <string name="adding_or_updating_account">Konto wird aktualisiert…</string>
   <string name="app_name">Gerät finden</string>
   <string name="captcha">Captcha</string>
-  <string name="change_find_device_status_failed">"Entsperren fehlgeschlagen. %s."</string>
+  <string name="change_find_device_status_failed">Entsperren fehlgeschlagen. %s.</string>
   <string name="default_debt_msg_words">"Dieses Gerät ist aufgrund einer überfälligen Zahlung gesperrt.
-    Kontaktieren Sie ihren Verkäufer für weitere Details."</string>
-  <string name="default_lock_msg_words">Dieses Gerät ist bereits mit einem Mi Account verknüpft. Geben Sie das Passwort ein um das Gerät zu Verifizieren.</string>
+Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
+  <string name="default_lock_msg_words">Dieses Gerät ist bereits mit einem Mi Account verknüpft. Geben Sie das Passwort ein, um das Gerät zu verifizieren.</string>
   <string name="default_lock_msg_words_with_phone">Hi! Ich habe mein Telefon verloren. Würden Sie mich bitte kontaktieren? Vielen Dank!</string>
   <string name="device_locked">Dieses Gerät ist gesperrt</string>
   <string name="device_lost">Dieses Gerät wurde verloren</string>
-  <string name="disable_find_device_error">"\"Gerät finden\" konnte nicht deaktiviert werden. %1$s"</string>
-  <string name="disable_find_device_success">"\"Gerät finden\" ist deaktiviert"</string>
+  <string name="disable_find_device_error">\"Gerät finden\" konnte nicht deaktiviert werden. %1$s</string>
+  <string name="disable_find_device_success">\"Gerät finden\" ist deaktiviert</string>
   <string name="doing_extra_login_steps">Anmeldung wird verifiziert…</string>
-  <string name="enable_find_device_error">"\"Gerät finden\" konnte nicht aktiviert werden. %1$s"</string>
-  <string name="enable_find_device_success">"\"Gerät finden\" ist aktiviert"</string>
+  <string name="enable_find_device_error">\"Gerät finden\" konnte nicht aktiviert werden. %1$s</string>
+  <string name="enable_find_device_success">\"Gerät finden\" ist aktiviert</string>
   <string name="find_device">Gerät finden</string>
   <string name="find_device_crash">Das Gerät wurde unerwartet beendet</string>
-  <string name="find_device_error_access_denied">Zugriff verweigert.</string>
-  <string name="find_device_error_account_sys_timeout">"Konnte nicht mit Mi Konto verbinden."</string>
+  <string name="find_device_error_access_denied">Zugriff verweigert</string>
+  <string name="find_device_error_account_sys_timeout">Konnte nicht mit Mi Konto verbinden</string>
   <string name="find_device_error_account_unknown_error">Mi Konto Fehler (%s)</string>
   <string name="find_device_error_network">Verbindung zum Netzwerk fehlgeschlagen, versuchen Sie es später erneut</string>
-  <string name="find_device_error_password_changed">Passwort wurde vor kurzem geändert.</string>
+  <string name="find_device_error_password_changed">Passwort wurde vor kurzem geändert</string>
   <string name="find_device_error_server">Serverfehler (%s)</string>
   <string name="find_device_error_unknown">Unbekannter Fehler (%s)</string>
   <string name="find_device_noise_title">Gerät finden</string>
   <string name="find_device_notice_p1">Besuchen Sie</string>
   <string name="find_device_notice_p3">"um Ihr Gerät zu finden, zu sperren oder wiederherzustellen.
-    Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Funktion zu reaktivieren."</string>
+Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Funktion zu reaktivieren."</string>
   <string name="find_device_stop_noise">OK antippen, um stumm zu schalten</string>
   <string name="find_device_storage_corrupted">Gerätespeicher beschädigt. Ihr Gerät ist jetzt unsicher.</string>
   <string name="find_device_success_title">Gerät finden</string>
@@ -36,7 +36,7 @@
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Kontaktinformation: %s</string>
   <string name="login_extra_steps">Anmeldeverifikation</string>
-  <string name="login_failed">"Anmeldung fehlgeschlagen. %s."</string>
+  <string name="login_failed">Anmeldung fehlgeschlagen. %s.</string>
   <string name="passport_checking_vcode">Passwort wird überprüft…</string>
   <string name="passport_error_empty_vcode">Verifikationscode eingeben</string>
   <string name="passport_notification_need_unlock_again">Nochmals versuchen</string>
@@ -45,44 +45,44 @@
   <string name="passport_vcode_prompt_long">Verifikationscode eingeben</string>
   <string name="passport_verify">Verifizieren</string>
   <string name="password">Passwort</string>
-  <string name="phone_locked">Dieses Gerät ist möglicherweise mit einem bestehenden Mi Konto(%s) verknüpft. Melden Sie sich an, um das Gerät zu aktivieren.</string>
+  <string name="phone_locked">Dieses Gerät ist möglicherweise mit einem bestehenden Mi Konto (%s) verknüpft. Melden Sie sich an, um das Gerät zu aktivieren.</string>
   <string name="phone_locked_account_email">, verknüpfte E-Mail: %s</string>
   <string name="phone_locked_account_phone">, verknüpfte Telefonnummer: %s</string>
-  <string name="stop_on_empty_captcha">"Captcha darf nicht leer sein"</string>
-  <string name="stop_on_empty_password">"Passwort darf nicht leer sein"</string>
-  <string name="sys_notification_async_open_failed_content">Tippen um es erneut zu versuchen oder abzubrechen.</string>
-  <string name="sys_notification_async_open_failed_title">""Gerät finden" konnte nicht aktiviert werden"</string>
-  <string name="sys_notification_async_verify_content">Unsere aktualisierten Sicherheitsrichtlinien erfordern die Aktivierung von "Gerät finden".</string>
+  <string name="stop_on_empty_captcha">Captcha darf nicht leer sein</string>
+  <string name="stop_on_empty_password">Passwort darf nicht leer sein</string>
+  <string name="sys_notification_async_open_failed_content">Tippen, um es erneut zu versuchen oder abzubrechen</string>
+  <string name="sys_notification_async_open_failed_title">\"Gerät finden\" konnte nicht aktiviert werden</string>
+  <string name="sys_notification_async_verify_content">Unsere aktualisierten Sicherheitsrichtlinien erfordern die Aktivierung von \"Gerät finden\"</string>
   <string name="sys_notification_async_verify_title">Gerät finden aktivieren</string>
-  <string name="time_correction_failure">"Uhrzeit kann nicht korrigiert werden (%s)"</string>
+  <string name="time_correction_failure">Uhrzeit kann nicht korrigiert werden (%s)</string>
   <string name="time_correction_failure_network">Netzwerkfehler</string>
-  <string name="time_correction_failure_no_ntp">"NTP-Server nicht verfügbar"</string>
+  <string name="time_correction_failure_no_ntp">NTP-Server nicht verfügbar</string>
   <string name="time_correction_success">Uhrzeit korrigiert</string>
   <string name="unlock">Aktivieren</string>
   <string name="unlock_access_denied">Zugang verweigert</string>
   <string name="unlock_bad_authentication">Ungültiger Benutzername oder Passwort</string>
   <string name="unlock_error_abort">Abbruch durch Benutzer</string>
-  <string name="unlock_error_device_id">"Geräte-ID kann nicht ermittelt werden"</string>
+  <string name="unlock_error_device_id">Geräte-ID kann nicht ermittelt werden</string>
   <string name="unlock_error_interrupted">Unterbrochen</string>
-  <string name="unlock_error_network">"Keine Netzwerkverbindung"</string>
-  <string name="unlock_error_passport_sdk_timeout">"Mi Konto SDK antwortet nicht"</string>
+  <string name="unlock_error_network">Keine Netzwerkverbindung</string>
+  <string name="unlock_error_passport_sdk_timeout">Mi Konto SDK antwortet nicht</string>
   <string name="unlock_error_rpc">RPC-Fehler</string>
   <string name="unlock_error_server">Serverfehler</string>
-  <string name="unlock_error_ssl_hand_shake">"Keine Verbindung zum Server, stellen Sie Datum und Uhrzeit manuell ein."</string>
-  <string name="unlock_error_unknown">"Anmeldung nicht möglich"</string>
+  <string name="unlock_error_ssl_hand_shake">Keine Verbindung zum Server, stellen Sie Datum und Uhrzeit manuell ein</string>
+  <string name="unlock_error_unknown">Anmeldung nicht möglich</string>
   <string name="unlock_error_user_name">Ungültiger Benutzername</string>
   <string name="unlock_error_wrong_vcode">Der eingegebene Code ist falsch</string>
-  <string name="unlock_help">"Bleiben Sie mit dem Netzwerk verbunden
-    Stellen Sie sicher, dass eine gültige SIM-Karte eingelegt ist, und Ihr Gerät nicht mit einem nicht funktionierenden WLAN verbunden ist.
+  <string name="unlock_help">"Bleiben Sie mit dem Netzwerk verbunden.
+Stellen Sie sicher, dass eine gültige SIM-Karte eingelegt ist, und Ihr Gerät nicht mit einem nicht funktionierenden WLAN verbunden ist.
 
-    Passwort vergessen?
-    Gehen Sie auf id.mi.com, um Ihr Passwort zurückzusetzen
+Passwort vergessen?
+Gehen Sie auf id.mi.com, um Ihr Passwort zurückzusetzen.
 
-    Andere Gründe
-    Melden Sie sich unter i.mi.com an und versuchen Sie dort, Ihr Gerät zu entsperren."</string>
+Andere Gründe
+Melden Sie sich unter i.mi.com an und versuchen Sie dort, Ihr Gerät zu entsperren."</string>
   <string name="unlock_help_title">Entsperrhilfe:</string>
   <string name="unlock_wrong_captcha">Der eingegebene Code ist falsch</string>
   <string name="unlocking">Aktivierung…</string>
   <string name="verifing_account">Passwort wird verifiziert…</string>
-  <string name="verify_password_failed">"Mi Konto-ID konnte nicht überprüft werden. %s."</string>
+  <string name="verify_password_failed">Mi Konto-ID konnte nicht überprüft werden. %s.</string>
 </resources>
