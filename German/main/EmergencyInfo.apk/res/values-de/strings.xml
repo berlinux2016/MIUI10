@@ -37,9 +37,9 @@
   <string name="abc_toolbar_collapse_description">Ausbreiten</string>
   <string name="abminus">AB-</string>
   <string name="abplus">AB+</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Diese Funktion ist experimentell und kann die Leistung beeinträchtigen.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Diese Funktion ist experimentell und kann die Leistung beeinträchtigen</string>
   <string name="accessibility_display_daltonizer_preference_title">Farbkorrektur</string>
-  <string name="accessibility_no_wifi">WLAN getrennt.</string>
+  <string name="accessibility_no_wifi">WLAN getrennt</string>
   <string name="accessibility_wifi_off">WLAN aus</string>
   <string name="accessibility_wifi_one_bar">WLAN ein Balken</string>
   <string name="accessibility_wifi_signal_full">WLAN-Signal voll</string>
@@ -86,7 +86,7 @@
   <string name="bluetooth_connected_no_map">Verbunden (kein Nachrichtenzugriff)</string>
   <string name="bluetooth_connecting">Verbinden…</string>
   <string name="bluetooth_disable_absolute_volume">Absolute Lautstärke deaktivieren</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Deaktiviert die absolute BT-Lautstärke bei Problemen mit der Lautstärke bei Remote-Geräten wie z.B. unzulässige Lautstärke oder mangelnde Kontrolle.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Deaktiviert die absolute BT-Lautstärke bei Problemen mit der Lautstärke bei Remote-Geräten wie z.B. unzulässige Lautstärke oder mangelnde Kontrolle</string>
   <string name="bluetooth_disconnected">Getrennt</string>
   <string name="bluetooth_disconnecting">Trennen…</string>
   <string name="bluetooth_dun_profile_summary_connected">Mit DUN-Server verbunden</string>
@@ -104,13 +104,13 @@
   <string name="bluetooth_pairing_accept">Gekoppelt</string>
   <string name="bluetooth_pairing_accept_all_caps">GEKOPPELT</string>
   <string name="bluetooth_pairing_decline">Beenden</string>
-  <string name="bluetooth_pairing_device_down_error_message">"Kann nicht mit %1$s kommunizieren."</string>
-  <string name="bluetooth_pairing_error_message">"Konnte mit %1$s nicht kommunizieren."</string>
-  <string name="bluetooth_pairing_pin_error_message">"Kann nicht mit dem %1$s verbunden werden, weil die PIN oder der Hauptschlüssel falsch sind."</string>
-  <string name="bluetooth_pairing_rejected_error_message">Koppeln wird von %1$s abgelehnt.</string>
-  <string name="bluetooth_pairing_will_share_phonebook">Das Koppeln ermöglicht den Zugriff auf Ihre Kontakte und die Anrufliste, wenn eine Verbindung hergestellt wurde.</string>
+  <string name="bluetooth_pairing_device_down_error_message">Kann nicht mit %1$s kommunizieren</string>
+  <string name="bluetooth_pairing_error_message">Konnte mit %1$s nicht kommunizieren</string>
+  <string name="bluetooth_pairing_pin_error_message">Kann nicht mit dem %1$s verbunden werden, weil die PIN oder der Hauptschlüssel falsch sind</string>
+  <string name="bluetooth_pairing_rejected_error_message">Koppeln wird von %1$s abgelehnt</string>
+  <string name="bluetooth_pairing_will_share_phonebook">Koppeln ermöglicht den Zugriff auf Ihre Kontakte und die Anrufliste, wenn eine Verbindung hergestellt wurde</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Gemeinsame Nutzung der lokalen Internetverbindung mit dem Gerät</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Use for Internet access</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Für Internetzugang nutzen</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Mit dem Gerät für Internetzugang verbunden</string>
   <string name="bluetooth_profile_a2dp">Medien Audio</string>
   <string name="bluetooth_profile_dun">Einwahl Netzwerkzugriff</string>
@@ -148,12 +148,10 @@
   <string name="confirm_enable_oem_unlock_title">OEM-Entsperrung zulassen?</string>
   <string name="connected_via_passpoint">Verbunden per %1$s</string>
   <string name="connected_via_wfa">Per WLAN-Assistent verbunden</string>
-  <string name="convert_to_fbe_warning">
-    "Datenpartition in Datei-basierte Verschlüsselung konvertieren.
-    !!Achtung!! Dadurch werden alle Ihre Daten gelöscht.
-    Diese Funktion ist Alpha und funktioniert möglicherweise nicht richtig.
-    Um fortzufahren, drücken Sie 'Löschen und konvertieren…'."
-  </string>
+  <string name="convert_to_fbe_warning">"Datenpartition in Datei-basierte Verschlüsselung konvertieren.
+!!Achtung!! Dadurch werden alle Ihre Daten gelöscht.
+Diese Funktion ist Alphastadium und funktioniert möglicherweise nicht richtig.
+Um fortzufahren, drücken Sie 'Löschen und konvertieren…'."</string>
   <string name="convert_to_file_encryption">Umwandlung in Dateiverschlüsselung</string>
   <string name="convert_to_file_encryption_done">Bereits verschlüsselte Datei</string>
   <string name="convert_to_file_encryption_enabled">Konvertieren…</string>
@@ -173,7 +171,7 @@
   <string name="debug_debugging_category">Debugging</string>
   <string name="debug_drawing_category">Zeichnung</string>
   <string name="debug_hw_drawing_category">Hardwarebeschleunigtes Rendering</string>
-  <string name="debug_hw_overdraw">Debug GPU überzeichnen</string>
+  <string name="debug_hw_overdraw">Debug-GPU überzeichnen</string>
   <string name="debug_input_category">Eingabe</string>
   <string name="debug_layout">Layoutgrenzen anzeigen</string>
   <string name="debug_layout_summary">Anzeigen von Clip-Grenzen, Rändern, etc.</string>
@@ -184,7 +182,7 @@
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar</string>
-  <string name="development_settings_summary">Optionen für App-Entwicklung einstellen</string>
+  <string name="development_settings_summary">Optionen für Appentwicklung einstellen</string>
   <string name="development_settings_title">Optionen für Entwickler</string>
   <string name="disable_overlays">HW-Overlays deaktivieren</string>
   <string name="disable_overlays_summary">Verwenden Sie für Bildschirm-Compositing immer GPUs</string>
@@ -202,7 +200,7 @@
   <string name="enable_terminal_summary">Terminalanwendung aktivieren, die lokalen Shell-Zugriff bietet</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_webview_multiprocess">Multiprozess WebView</string>
-  <string name="enable_webview_multiprocess_desc">WebView Renderer separat ausführen</string>
+  <string name="enable_webview_multiprocess_desc">WebView-Renderer separat ausführen</string>
   <string name="enabled_by_admin">Vom Administrator aktiviert</string>
   <string name="force_allow_on_external">Apps auf externe Anwendungen erzwingen</string>
   <string name="force_allow_on_external_summary">Macht jede App unabhängig von den Manifestwerten für externe Speicherplätze schreibbar</string>
@@ -211,7 +209,7 @@
   <string name="force_msaa">4x MSAA erzwingen</string>
   <string name="force_msaa_summary">4x MSAA in OpenGL ES 2.0 Apps einschalten</string>
   <string name="force_resizable_activities">Erzwingen der Änderung der Größe von Aktivitäten</string>
-  <string name="force_resizable_activities_summary">Ändern Sie die Größe aller Aktivitäten für mehrere Fenster, unabhängig von den Manifestwerten.</string>
+  <string name="force_resizable_activities_summary">Ändern Sie die Größe aller Aktivitäten für mehrere Fenster, unabhängig von den Manifestwerten</string>
   <string name="force_rtl_layout_all_locales">RTL-Layout erzwingen</string>
   <string name="force_rtl_layout_all_locales_summary">RTL-Bildschirmlayout für alle Sprachen erzwingen</string>
   <string name="h_h">H H</string>
@@ -222,14 +220,14 @@
   <string name="home">Einstellungen Startseite</string>
   <string name="immediately_destroy_activities">Aktionen nicht speichern</string>
   <string name="immediately_destroy_activities_summary">Aktivitäten löschen, sobald der Nutzer diese beendet</string>
-  <string name="inactive_app_active_summary">Aktiv. Tippen auf Schalter.</string>
-  <string name="inactive_app_inactive_summary">Inaktiv. Tippen auf Schalter</string>
+  <string name="inactive_app_active_summary">Aktiv, auf Schalter tippen</string>
+  <string name="inactive_app_inactive_summary">Inaktiv, auf Schalter tippen</string>
   <string name="inactive_apps_title">Inaktive Apps</string>
   <string name="keep_screen_on">Aktiv lassen</string>
   <string name="keep_screen_on_summary">Bildschirm während des Ladevorgangs nicht ausschalten</string>
   <string name="launch_defaults_none">Keine Standardeinstellungen gesetzt</string>
   <string name="launch_defaults_some">Einige Standardwerte gesetzt</string>
-  <string name="legacy_dhcp_client_summary">Verwenden Sie den DHCP-Client von Lollipop anstelle des neuen Android DHCP-Clients.</string>
+  <string name="legacy_dhcp_client_summary">Verwenden Sie den DHCP-Client von Lollipop anstelle des neuen Android DHCP-Clients</string>
   <string name="local_backup_password_summary_change">Tippen Sie auf Ändern oder entfernen Sie das Passwort für Desktop-Vollsicherung</string>
   <string name="local_backup_password_summary_none">Vollständige Desktop-Sicherungen sind derzeit nicht geschützt</string>
   <string name="local_backup_password_title">Kennwort für die Desktop-Sicherung</string>
@@ -243,7 +241,7 @@
   <string name="medications">Medikamente</string>
   <string name="medications_hint">Zum Beispiel Aspirin</string>
   <string name="mobile_data_always_on">Mobile Datenverbindung immer ein</string>
-  <string name="mobile_data_always_on_summary">Datenverbindung aufrecht erhalten, auch wenn WLAN aktiv ist (zum schnellen Wechsel zwischen Netzwerken).</string>
+  <string name="mobile_data_always_on_summary">Datenverbindung aufrecht erhalten, auch wenn WLAN aktiv ist (zum schnellen Wechsel zwischen Netzwerken)</string>
   <string name="mock_location_app">App für vorgetäuschte Standortinformation auswählen</string>
   <string name="mock_location_app_not_set">Keine App für vorgetäuschte Standortinformation ausgewählt</string>
   <string name="mock_location_app_set">App für vorgetäuschte Standortinformation: %1$s</string>
@@ -306,10 +304,10 @@
   <string name="select_usb_configuration_title">USB-Konfiguration auswählen</string>
   <string name="select_webview_provider_dialog_title">WebView-Implementierung einstellen</string>
   <string name="select_webview_provider_title">WebView-Implementierung</string>
-  <string name="select_webview_provider_toast_text">Diese Wahl ist nicht mehr gültig, versuchen Sie es nochmal.</string>
+  <string name="select_webview_provider_toast_text">Diese Wahl ist nicht mehr gültig, versuchen Sie es nochmal</string>
   <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">Zeige alle ANRs</string>
-  <string name="show_all_anrs_summary">Dialog "App antwortet nicht" im Hintergrund anzeigen</string>
+  <string name="show_all_anrs_summary">Dialog \"App antwortet nicht\" im Hintergrund anzeigen</string>
   <string name="show_cpu_usage">CPU-Nutzung anzeigen</string>
   <string name="show_cpu_usage_summary">Bildschirmüberlagerung mit Anzeige der aktuellen CPU-Auslastung</string>
   <string name="show_hw_layers_updates">Hardware-Layer-Updates anzeigen</string>
@@ -319,8 +317,8 @@
   <string name="show_non_rect_clip">Debuggen von nicht rechteckigen Clip-Operationen</string>
   <string name="show_screen_updates">Bildschirmupdates anzeigen</string>
   <string name="show_screen_updates_summary">Blitzen in der gesamten Fensteroberfläche bei Aktualisierung</string>
-  <string name="show_touches">Show taps</string>
-  <string name="show_touches_summary">Show visual feedback for taps</string>
+  <string name="show_touches">Berührungen anzeigen</string>
+  <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
   <string name="simulate_color_space">Farbraum simulieren</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="strict_mode">Strikter Modus aktivieren</string>
@@ -343,7 +341,7 @@
   <string name="tts_default_rate_summary">Geschwindigkeit, mit der der Text gesprochen wird</string>
   <string name="tts_default_rate_title">Sprechgeschwindigkeit</string>
   <string name="tts_default_sample_string">Dies ist ein Beispiel für Sprachsynthese</string>
-  <string name="tts_engine_network_required">Diese Sprache erfordert eine funktionierende Netzwerkverbindung für die Sprachausgabe.</string>
+  <string name="tts_engine_network_required">Diese Sprache erfordert eine funktionierende Netzwerkverbindung für die Sprachausgabe</string>
   <string name="tts_engine_preference_section_title">Bevorzugte Engine</string>
   <string name="tts_engine_security_warning">Diese Sprachsyntheseengine kann in der Lage sein, den gesamten Text zu erfassen, der gesprochen wird, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Es kommt von der %s Engine. Aktivieren Sie die Verwendung dieser Sprachsynthese-Engine?</string>
   <string name="tts_engine_settings_button">Engineeinstellungen starten</string>
@@ -355,10 +353,10 @@
   <string name="tts_lang_use_system">Systemsprache verwenden</string>
   <string name="tts_play_example_summary">Spielen Sie eine kurze Demonstration der Sprachsynthese ab</string>
   <string name="tts_play_example_title">Beispiel anhören</string>
-  <string name="tts_reset_speech_pitch_summary">Setzen Sie die Tonhöhe zurück, in der der Text gesprochen wird.</string>
+  <string name="tts_reset_speech_pitch_summary">Setzen Sie die Tonhöhe zurück, in der der Text gesprochen wird</string>
   <string name="tts_reset_speech_pitch_title">Sprachtonhöhe zurücksetzen</string>
   <string name="tts_settings">Text-zu-Sprache-Einstellungen</string>
-  <string name="tts_settings_title">Text-zu-Sprach-Ausgabe</string>
+  <string name="tts_settings_title">Text-zu-Sprache-Ausgabe</string>
   <string name="tts_status_checking">Überprüfung…</string>
   <string name="tts_status_not_supported">%1$s wird nicht unterstützt</string>
   <string name="tts_status_ok">%1$s wird voll unterstützt</string>
@@ -375,18 +373,18 @@
   <string name="unknown_organ_donor">Unbekannt</string>
   <string name="usb_audio_disable_routing">USB Audio-Routing deaktivieren</string>
   <string name="usb_audio_disable_routing_summary">Automatisches Routing zu USB-Audio-Peripheriegeräten deaktivieren</string>
-  <string name="user_emergency_info_consent">Informationen, die Sie hier eingeben, können Ersthelfern im Notfall helfen. Es wird nur auf Ihrem Gerät gespeichert, und jeder kann es von der Notrufnummer ablesen, ohne Ihr Telefon zu entsperren.</string>
-  <string name="user_emergency_info_title">Notfall-Informationen</string>
+  <string name="user_emergency_info_consent">Informationen, die Sie hier eingeben, können Ersthelfern im Notfall helfen. Sie werden nur auf Ihrem Gerät gespeichert, und jeder kann sie von der Notrufnummer ablesen, ohne Ihr Telefon zu entsperren.</string>
+  <string name="user_emergency_info_title">Notfallinformationen</string>
   <string name="user_guest">Gast</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">EIN</string>
-  <string name="verify_apps_over_usb_summary">Überprüfen Sie über ADB/ADT installierte Anwendungen auf schädliches Verhalten.</string>
-  <string name="verify_apps_over_usb_title">Apps über USB überprüfen</string>
+  <string name="verify_apps_over_usb_summary">Prüfen Sie über ADB/ADT installierte Anwendungen auf schädliches Verhalten</string>
+  <string name="verify_apps_over_usb_title">Apps über USB prüfen</string>
   <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="wait_for_debugger">Warten auf Debugger</string>
   <string name="wait_for_debugger_summary">Debugged-Anwendung wartet darauf, dass der Debugger angehängt wird, bevor er ausgeführt wird</string>
   <string name="wifi_aggressive_handover">Aggressive WLAN-zu-Daten-Übergabe</string>
-  <string name="wifi_aggressive_handover_summary">Wenn aktiviert, ist WLAN aggressiver bei der Übergabe der Datenverbindung an Daten, wenn das WLAN-Signal niedrig ist.</string>
+  <string name="wifi_aggressive_handover_summary">Wenn aktiviert, ist WLAN aggressiver bei der Übergabe der Datenverbindung an Daten, wenn das WLAN-Signal niedrig ist</string>
   <string name="wifi_allow_scan_with_traffic">WLAN-Roam-Scans immer erlauben</string>
   <string name="wifi_allow_scan_with_traffic_summary">Erlauben/Deaktivieren von WLAN-Roam Scans basierend auf der Menge des an der Schnittstelle vorhandenen Datenverkehrs</string>
   <string name="wifi_auth_password_wrong">Passwort kann falsch sein</string>
@@ -399,11 +397,11 @@
   <string name="wifi_display_certification_summary">Zeige Optionen für die Zertifizierung von Wireless-Anzeigen</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2_hint">8.8.4.4</string>
-  <string name="wifi_fail_to_scan">"Kann nicht nach Netzwerken scannen"</string>
+  <string name="wifi_fail_to_scan">Kann nicht nach Netzwerken scannen</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_network_prefix_length_hint">24</string>
-  <string name="wifi_no_internet">"Kein Internetzugang erkannt, wird nicht automatisch wieder hergestellt."</string>
+  <string name="wifi_no_internet">Kein Internetzugang erkannt, wird nicht automatisch wieder hergestellt</string>
   <string name="wifi_not_in_range">Nicht in Reichweite</string>
   <string name="wifi_remembered">Gesichert</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
