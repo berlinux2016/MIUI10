@@ -471,27 +471,27 @@
   <string name="miuichromium_error_page_problem_page_not_working">Diese Seite funktioniert nicht</string>
   <string name="miuichromium_error_page_problem_security_error">Diese Seite kann keine sichere Verbindung anbieten</string>
   <string name="miuichromium_error_page_problem_server_fault">%s0 kann zurzeit diese Anfrage nicht bearbeiten</string>
-  <string name="miuichromium_error_page_reason_bad_client_cert">Weil %s0 Ihr Zertifikat nicht akzeptiert hat</string>
+  <string name="miuichromium_error_page_reason_bad_client_cert">" weil %s0 Ihr Zertifikat nicht akzeptiert hat"</string>
   <string name="miuichromium_error_page_reason_bad_server_cert">%s0 hält sich nicht an die Sicherheitsstandards</string>
   <string name="miuichromium_error_page_reason_blocked_by_response">Zugriff ist durch %s0 blockiert</string>
   <string name="miuichromium_error_page_reason_connection_closed">%s0 unterbrochene Verbindung</string>
   <string name="miuichromium_error_page_reason_connection_refused">%s0 hat die Verbindung abgelehnt</string>
   <string name="miuichromium_error_page_reason_connection_reset">Die Verbindung wurde zurückgesetzt</string>
-  <string name="miuichromium_error_page_reason_device_slept">Während Ihr Gerät in den Schlafmodus wechselte</string>
-  <string name="miuichromium_error_page_reason_empty_response">Weil %s0 keine Daten gesendet hat</string>
+  <string name="miuichromium_error_page_reason_device_slept">" während Ihr Gerät in den Schlafmodus wechselte"</string>
+  <string name="miuichromium_error_page_reason_empty_response">" weil %s0 keine Daten gesendet hat"</string>
   <string name="miuichromium_error_page_reason_invalid_address">IP-Adresse oder Portnummer ungültig ist</string>
-  <string name="miuichromium_error_page_reason_invalid_response">Weil %s0 eine ungültige Antwort lieferte</string>
-  <string name="miuichromium_error_page_reason_invalid_url">Weil die URL ungültig ist</string>
+  <string name="miuichromium_error_page_reason_invalid_response">" weil %s0 eine ungültige Antwort lieferte"</string>
+  <string name="miuichromium_error_page_reason_invalid_url">" weil die URL ungültig ist"</string>
   <string name="miuichromium_error_page_reason_moved_or_deleted">Sie wurde vermutlich verschoben oder gelöscht</string>
   <string name="miuichromium_error_page_reason_name_collision">Diese Intranet-Seite hat die gleiche Adresse wie eine externe Seite</string>
   <string name="miuichromium_error_page_reason_name_not_resolved">Die DNS-Adresse von %s0 konnte nicht gefunden werden</string>
   <string name="miuichromium_error_page_reason_network">Prüfen Sie die Netzwerkeinstellungen</string>
-  <string name="miuichromium_error_page_reason_network_changed">Wegen eines Netzwerkwechsels</string>
+  <string name="miuichromium_error_page_reason_network_changed">" wegen eines Netzwerkwechsels"</string>
   <string name="miuichromium_error_page_reason_proxy_error">Etwas stimmt mit dem Proxy-Server nicht oder die Proxy-Adresse ist falsch</string>
   <string name="miuichromium_error_page_reason_server">Seite kann nicht geladen werden</string>
   <string name="miuichromium_error_page_reason_site_unreachable">%s0 ist aktuell nicht erreichbar</string>
   <string name="miuichromium_error_page_reason_timed_out">%s0 hat zulange nicht geantwortet</string>
-  <string name="miuichromium_error_page_reason_too_many_redirects">Weil %s0 Sie zu oft weitergeleitet hat</string>
+  <string name="miuichromium_error_page_reason_too_many_redirects">" weil %s0 Sie zu oft weitergeleitet hat"</string>
   <string name="miuichromium_error_page_reason_unsafe_port">%s0 nutzt einen unsicheren Port</string>
   <string name="miuichromium_error_page_reason_unsafe_redirect">%s0 leitet Sie unsicher weiter</string>
   <string name="miuichromium_error_page_reason_unsupported_protocol">%s0 nutzt ein nicht unterstütztes Protokoll</string>
@@ -542,8 +542,8 @@
   <string name="nav_bottom_bar_new_tab">Neuer Tab</string>
   <string name="nav_screen_container_tab_incognito">Privater Tab</string>
   <string name="nav_screen_container_tab_normal">Normaler Tab</string>
-  <string name="nav_screen_incognito_message">Ihr Browser- und Suchverlauf wird im Inkognito-Modus nicht gespeichert.
-    Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen weiterhin gespeichert werden.</string>
+  <string name="nav_screen_incognito_message">"Ihr Browser- und Suchverlauf wird im Inkognito-Modus nicht gespeichert.
+Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen weiterhin gespeichert werden."</string>
   <string name="nav_screen_incognito_time">Neue Seite wird automatisch nach %s Sekunden erstellt</string>
   <string name="nav_screen_incognito_title">Inkognito-Modus</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Abbrechen</string>
@@ -810,14 +810,14 @@
   <string name="share_by_yidianzixun">【YidianZixun】</string>
   <string name="share_image_text">Sieh, was ich geteilt habe! @MIUI</string>
   <string name="share_page_text">"Ich genieße 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Wir werden Ihre personenbezogenen Daten erheben und verwenden, wenn Sie sich für die Nutzung unserer Dienste entscheiden. 
-    Nachfolgend sind die Daten, die wir sammeln:  
-    1. Sichere URLs: Wir erfassen die URLs der Webseiten, die Sie bei der Nutzung unserer Dienste besuchen.
-    2. Standortdaten: Wir greifen auf Ihre Standortinformationen zu.
-    So verwenden wir die Daten, die wir sammeln:
-    1. Sicherheit: Wir verwenden Ihre Daten, um Ihr Gerät vor Betrug und Viren zu schützen sowie für Backup- und Wiederherstellungszwecke.
-    2. Inhalt: Ihre Daten helfen uns, Ihnen relevante lokalisierte Nachrichteninhalte bereitzustellen.
-    Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie müssen unseren %2$s und %1$s zustimmen, um den Browser nutzen zu können.</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"Wir werden Ihre personenbezogenen Daten erheben und verwenden, wenn Sie sich für die Nutzung unserer Dienste entscheiden. 
+Nachfolgend sind die Daten, die wir sammeln:  
+1. Sichere URLs: Wir erfassen die URLs der Webseiten, die Sie bei der Nutzung unserer Dienste besuchen.
+2. Standortdaten: Wir greifen auf Ihre Standortinformationen zu.
+So verwenden wir die Daten, die wir sammeln:
+1. Sicherheit: Wir verwenden Ihre Daten, um Ihr Gerät vor Betrug und Viren zu schützen sowie für Backup- und Wiederherstellungszwecke.
+2. Inhalt: Ihre Daten helfen uns, Ihnen relevante lokalisierte Nachrichteninhalte bereitzustellen.
+Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie müssen unseren %2$s und %1$s zustimmen, um den Browser nutzen zu können."</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Browser muss eine Verbindung zum Internet herstellen, um richtig zu funktionieren. Um mehr relevante Empfehlungen zu erhalten, erlauben Sie dem Browser, die URLs Ihrer besuchten Webseiten zu erhalten und auf Ihre Standortinformationen zuzugreifen.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Prüfe URL-Sicherheit</string>
   <string name="show_security_tip_dialog_title">Nutzungsbedingungen</string>
