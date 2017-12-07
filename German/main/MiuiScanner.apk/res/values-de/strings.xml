@@ -37,7 +37,7 @@
   <string name="document_color_picture_tip">Konvertieren in Farbe…</string>
   <string name="document_crop_title">Dokument zuschneiden</string>
   <string name="document_grayscale">Graustufen</string>
-  <string name="document_grayscale_tip_msg">Konvertiere in Grausten…</string>
+  <string name="document_grayscale_tip_msg">Konvertiere in Graustufen…</string>
   <string name="document_ocr">OCR</string>
   <string name="document_ocr_result_copy">Text kopieren</string>
   <string name="document_ocr_result_save">Speichern als Notiz</string>
@@ -45,7 +45,7 @@
   <string name="document_ocr_tip_msg">Lese…</string>
   <string name="document_ocr_vendor_info">OCR unterstützt von Kingsoft</string>
   <string name="document_recognize_fail_tip">Dokument konnte nicht gelesen werden</string>
-  <string name="document_recognize_null_tip">Dokument kann nicht erkannt werden</string>
+  <string name="document_recognize_null_tip">Dokument wurde nicht erkannt</string>
   <string name="document_rectify">Anpassen</string>
   <string name="document_rectify_tip_msg">Passe an…</string>
   <string name="document_save_succeed_tip">Dokument gespeichert in %1$s</string>
@@ -64,7 +64,7 @@
   <string name="error_invalid_request">Authentifizierungsfehler</string>
   <string name="error_media_storage_failure">Bild konnte nicht gespeichert werden</string>
   <string name="error_minute_limit">Zu viele Versuche in einer Minute</string>
-  <string name="error_permissions">Scanner hat keine Berechtigungen, die für richtige Scanfunktion erforderlich sind. Um fortzufahren prüfen Sie die Berechtigungen in den Einstellungen.</string>
+  <string name="error_permissions">Scanner hat keine Berechtigungen, die für richtige Scanfunktion erforderlich sind. Um fortzufahren, prüfen Sie die Berechtigungen in den Einstellungen.</string>
   <string name="error_server_error">Serverfehler</string>
   <string name="feed_search_fail">Keine Ergebnisse, versuchen Sie erneut</string>
   <string name="feedback_description_camera_access">Scanner kann nicht mit Kamera verbinden</string>
@@ -72,7 +72,7 @@
   <string name="flash_lable">Blitz</string>
   <string name="image_file_name_format">"'scanner'_ddMMyyyy_HHmmss"</string>
   <string name="import_contact">Kontaktimport</string>
-  <string name="impunity_declaration_content">Diese App braucht eine Internetverbindung für richtige Funktion.</string>
+  <string name="impunity_declaration_content">Diese App braucht eine Internetverbindung für richtige Funktion</string>
   <string name="impunity_declaration_negative_text">Beenden</string>
   <string name="impunity_declaration_positive_text">Erlauben</string>
   <string name="impunity_declaration_title">Nutzungsbedingungen</string>
@@ -117,7 +117,7 @@
   <string name="nickname">Nickname:</string>
   <string name="no_network">Konnte nicht mit dem Netzwerk verbinden</string>
   <string name="no_storage">Installieren Sie SD-Karte vor der Kamerabenutzung</string>
-  <string name="not_insert_contact">Kontak konnte nicht hinzufügt werden</string>
+  <string name="not_insert_contact">Kontakt konnte nicht hinzufügt werden</string>
   <string name="not_recommend_access_web_url">Trotzdem gehen</string>
   <string name="not_tips">Nicht wieder anzeigen</string>
   <string name="note">Anmerkung:</string>
@@ -131,13 +131,13 @@
   <string name="pref_camera_jpeg_quality_fine">fein</string>
   <string name="pref_camera_jpeg_quality_normal">normal</string>
   <string name="pref_camera_jpeg_quality_superfine">extrafein</string>
-  <string name="preparing_sd">Vorbereite SD-Karte…</string>
+  <string name="preparing_sd">SD-Karte vorbereiten…</string>
   <string name="previous">Zurück</string>
   <string name="qr_code_details">QR-Code Details:</string>
   <string name="recognition_error_download_cancel">Später</string>
-  <string name="recognition_error_download_data_msg">Laden Sie die Erkennungssoftware runter um Karten zu scannen (ca. 15 MB). Mobile Daten für den Download benützen?</string>
-  <string name="recognition_error_download_fail">Konnte die Erkennungssoftware nicht runterladen.</string>
-  <string name="recognition_error_download_msg">Laden Sie die Erkennungssoftware runter um Karten zu scannen (ca. 15 MB).</string>
+  <string name="recognition_error_download_data_msg">Laden Sie Erkennungssoftware runter, um Karten zu scannen (ca. 15 MB). Mobile Daten für den Download nutzen?</string>
+  <string name="recognition_error_download_fail">Konnte Erkennungssoftware nicht runterladen</string>
+  <string name="recognition_error_download_msg">Laden Sie Erkennungssoftware runter, um Karten zu scannen (ca. 15 MB)</string>
   <string name="recognition_error_download_no_network">Download funktioniert nicht. Stellen Sie sicher, dass Sie mit dem Netzwerk verbunden sind.</string>
   <string name="recognition_error_download_ok">Runterladen</string>
   <string name="recognition_error_download_success">Erfolgreich runtergeladen</string>
@@ -148,7 +148,7 @@
   <string name="scan_fail">Code konnte nicht gescannt werden</string>
   <string name="scan_result">Ergebnis</string>
   <string name="sdk_not_ready">SDK wird vorbereitet. Versuchen Sie es später noch einmal.</string>
-  <string name="secure_access_web_url">Gehe zu Webseite</string>
+  <string name="secure_access_web_url">Gehe zur Webseite</string>
   <string name="see_app_details">Zeitappdetails</string>
   <string name="settings">Einstellungen</string>
   <string name="shopping_searching">Suche…</string>
@@ -165,7 +165,7 @@
   <string name="tae_sdk_login_qr_icon_taobao"></string>
   <string name="tae_sdk_qr_login_icon_password"></string>
   <string name="tae_sdk_qr_login_icon_scan"></string>
-  <string name="tips_message">Stellen Sie eine Internetverbindung her, um die zu besuchende Seite auf die Sicherheit zu überprüfen.</string>
+  <string name="tips_message">Stellen Sie eine Internetverbindung her, um die zu besuchende Seite auf Sicherheit zu prüfen</string>
   <string name="title">Name:</string>
   <string name="translation_language_chinese">Chinesisch</string>
   <string name="translation_language_english">Englisch</string>
@@ -176,7 +176,7 @@
   <string name="translation_language_spanish">Spanisch</string>
   <string name="translation_prompt_cannot_find">Wort oder Ausdruck konnte nicht gefunden werden</string>
   <string name="translation_prompt_maintain_level">Richten Sie Text entlang der Linie aus</string>
-  <string name="translation_prompt_recapture">Bild ist zu verschwommen, nehmen Sie ein Anderes auf</string>
+  <string name="translation_prompt_recapture">Bild ist zu verschwommen, nehmen Sie ein anderes auf</string>
   <string name="translation_prompt_sentence">Wählen Sie den Text zum Übersetzen aus</string>
   <string name="translation_prompt_translating">Übersetze…</string>
   <string name="translation_prompt_translating_sentence">Übersetze…</string>
@@ -187,13 +187,13 @@
   <string name="translation_type_word">Wort</string>
   <string name="url_is_phish">Das könnte eine Phishing-Webseite sein</string>
   <string name="url_is_safety">Diese Webseite ist sicher</string>
-  <string name="url_is_unknown">Konnte nicht überprüft werden, ob diese Seite sicher ist</string>
+  <string name="url_is_unknown">Konnte nicht geprüft werden, ob diese Seite sicher ist</string>
   <string name="url_is_unsafety">Diese Webseite ist nicht sicher</string>
   <string name="vender_info_translation_kingsoft">Unterstützt durch Kingsoft</string>
   <string name="view_study_report">Zeige Bericht</string>
   <string name="web">Webseite:</string>
   <string name="website_details">Webseite:</string>
-  <string name="weixin_code_tip">Bitte benutzen Sie WeChat um diesen QR Code zu scannen</string>
+  <string name="weixin_code_tip">Bitte benutzen Sie WeChat, um diesen QR Code zu scannen</string>
   <string name="wifi_details">WLAN:</string>
   <string name="wifi_open_fail">WLAN konnte nicht eingeschaltet werden</string>
   <string name="wifi_pwd">Passwort:</string>
