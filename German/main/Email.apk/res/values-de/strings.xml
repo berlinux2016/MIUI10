@@ -37,8 +37,8 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Fehler bei Ihrer Anmeldung in %s, Servermeldung: %s. Möchten Sie Ihren Benutzernamen und/oder Ihr Passwort aktualisieren?</string>
   <string name="account_settings_login_dialog_title">Anmeldung nicht möglich</string>
   <string name="account_settings_mail_check_frequency_dialog_title">E-Mail muss manuell aktualisiert werden, um E-Mails zu synchronisieren</string>
-  <string name="account_settings_mail_check_frequency_dialog_title_eas">Wenn Sie zu manuell wechseln, müssen Sie manuell aktualisieren, um Nachrichten und Kalender zu synchronisieren</string>
-  <string name="account_settings_mail_check_frequency_label">Häufigkeit</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">Sie müssen Mails manuell synchronisieren, um Nachrichten und Kalenderereignisse synchronisieren zu können.</string>
+  <string name="account_settings_mail_check_frequency_label">Synchronisationshäufigkeit</string>
   <string name="account_settings_mibill_resolve_label">Rechnungen automatisch verwalten</string>
   <string name="account_settings_name_label">Ihr Name</string>
   <string name="account_settings_notifications">Benachrichtigungen</string>
@@ -418,7 +418,7 @@
   <string name="email_setting">E-Maileinstellungen</string>
   <string name="email_setting_keywords">Konten;Konto hinzufügen;Mailkonten;E-Mailkonto;E-Mailkonto hinzufügen;Vor dem Löschen bestätigen;Vor dem Senden bestätigen;Nachrichtenverlauf löschen;Weiterleiten;Konversationsansicht;E-Mailkonversation;Mail Akku;Feedback senden</string>
   <string name="email_sina">Sina Mail</string>
-  <string name="eml_parse_message">Langsames Auflösen von eml-Dateien, bitte warten…</string>
+  <string name="eml_parse_message">EML-Datei öffnen…</string>
   <string name="empty_account_tip">Konto nicht gefunden</string>
   <string name="empty_email_tip">Leere Nachricht kann nicht gesendet werden</string>
   <string name="empty_spam">Spamordner leeren</string>
@@ -434,7 +434,7 @@
   <string name="expand_recipient_details">Empfängerdetails erweitern</string>
   <string name="fail_get_email_message">Nachrichtladen fehlgeschlagen.</string>
   <string name="failed">Bild kann nicht geladen werden</string>
-  <string name="failed_parse_eml_file">E-Mailauflösung fehlgeschlagen, bitte versuchen Sie es erneut</string>
+  <string name="failed_parse_eml_file">EML-Datei konnte nicht geöffnet werden, erneut versuchen.</string>
   <string name="failed_read_phone_state_permission">Zugriff auf Gerätestatus erlauben</string>
   <string name="failed_read_write_calendar_permission">Zugriff zum Kalender erlauben</string>
   <string name="failed_read_write_contacts_permission">Zugriff auf Kontakte erlauben</string>
@@ -951,6 +951,7 @@ um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="security_unsupported_ticker_fmt">Konto \"%s\" kann aufgrund von Sicherheitsanforderungen nicht synchronisiert werden</string>
   <string name="select_attachment_type">Anhang auswählen von</string>
   <string name="select_no_file">Keine Anhänge ausgewählt</string>
+  <string name="select_path">Dateipfad auswählen</string> 
   <string name="selected_lable">Ausgewählt</string>
   <string name="send">Senden</string>
   <string name="send_failed">Nicht gesendet</string>
