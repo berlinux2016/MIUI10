@@ -885,10 +885,10 @@ Sie verlieren keine Appdaten."</string>
   <string name="bootloader_status_unlocked">Entsperrt</string>
   <string name="bootloader_status_unlocked_info">Dieses Gerät ist entsperrt</string>
   <string name="bootloader_summary">Flashen Sie Ihr Gerät über USB</string>
-  <string name="breathing_light_color_menu_title">Lichtfarbe</string>
-  <string name="breathing_light_color_summary">Lichtfarbe bei Eingang einer Benachrichtigung</string>
+  <string name="breathing_light_color_menu_title">LED-Farbe</string>
+  <string name="breathing_light_color_summary">LED-Farbe bei Eingang einer Benachrichtigung</string>
   <string name="breathing_light_freq_summary">Zeit zwischen dem Blinken der LED</string>
-  <string name="breathing_light_freq_title">Lichtpulsfrequenzbenachrichtigung</string>
+  <string name="breathing_light_freq_title">LED-Leuchtfrequenz für Benachrichtigungen</string>
   <string name="brightness">Helligkeit</string>
   <string name="brightness_auto_adjust_off">Bildschirmhelligkeit bleibt in jeder Umgebung unverändert</string>
   <string name="brightness_auto_adjust_on">Bildschirmhelligkeit wird an die Lichtverhältnisse angepasst</string>
@@ -2806,7 +2806,7 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="misc_files">Sonstige Dateien</string>
   <string name="misc_files_selected_count">%1$d von %2$d ausgewählt</string>
   <string name="miui_allow_alarm">Alarme</string>
-  <string name="miui_allow_light">Benachrichtigungslicht</string>
+  <string name="miui_allow_light">LED-Benachrichtigung</string>
   <string name="miui_allow_music">Medien</string>
   <string name="miui_allow_vibrate">Vibrationen</string>
   <string name="miui_data_usage_menu_metered">Mobile Hotspots</string>
@@ -3123,7 +3123,7 @@ Betriebssystem auswählen:"</string>
   <string name="notification_log_details_package">pkg</string>
   <string name="notification_log_details_parcel">Paketgröße</string>
   <string name="notification_log_details_priority">Priorität</string>
-  <string name="notification_log_details_public_version">publicVersion</string>
+  <string name="notification_log_details_public_version">Öffentliche Version</string>
   <string name="notification_log_details_ranking_none">Ranking-Objekt enthält diesen Schlüssel nicht</string>
   <string name="notification_log_details_ranking_null">Ranking-Objekt fehlt</string>
   <string name="notification_log_details_remoteinput">Remote-Eingänge</string>
@@ -3133,7 +3133,7 @@ Betriebssystem auswählen:"</string>
   <string name="notification_log_details_visibility">Sichtweite</string>
   <string name="notification_log_no_title">(Keine)</string>
   <string name="notification_log_title">Benachrichtigungsprotokoll</string>
-  <string name="notification_pulse_title">Benachrichtigungslicht pulsieren lassen</string>
+  <string name="notification_pulse_title">LED pulsieren lassen</string>
   <string name="notification_reboot_btn">Neustart</string>
   <string name="notification_reboot_summary_hm">Tippen zum Neustart des Geräts</string>
   <string name="notification_reboot_title">Neustarten, um das Update anzuwenden</string>
@@ -3357,7 +3357,7 @@ Betriebssystem auswählen:"</string>
   <string name="path_lab_functions_title">Einstellungen/Zusätzlich/Betafunktionen</string>
   <string name="path_language_picker_title">Einstellungen/Erweiterte Einstellungen/Sprache &amp; Eingabe/Sprache</string>
   <string name="path_language_settings">Einstellungen/Erweiterte Einstellungen/Sprache &amp; Eingabe</string>
-  <string name="path_led_settings">Einstellungen/Erweiterte Einstellungen/Benachrichtigungslicht</string>
+  <string name="path_led_settings">Einstellungen/Erweiterte Einstellungen/LED-Benachrichtigung</string>
   <string name="path_legal_information">Einstellungen/Über das Gerät/Rechtliche Hinweise</string>
   <string name="path_legal_user_agreement">Einstellungen/Über das Gerät/Rechtliche Hinweise/Nutzungsbedingungen</string>
   <string name="path_local_auto_backup_section_title">Einstellungen/Erweiterte Einstellungen/Sichern &amp; Wiederherstellen/Autom. Sicherungen</string>
@@ -4246,7 +4246,7 @@ Betriebssystem auswählen:"</string>
   <string name="search_language_picker_title">Sprache</string>
   <string name="search_language_settings">Sprache &amp; Eingabe;Sprache;Sprache und Eingabe;Eingabe;Tastatur</string>
   <string name="search_led">LED</string>
-  <string name="search_led_settings">LED;Benachrichtigungslicht;LED Licht;Benachrichtigungs-LED;Benachrichtigungs LED</string>
+  <string name="search_led_settings">LED;Benachrichtigungslicht;LED Licht;LED-Benachrichtigung;Benachrichtigungs LED</string>
   <string name="search_legal_information">Rechtliche Informationen</string>
   <string name="search_local_auto_backup_section_title">Automatische Sicherung</string>
   <string name="search_local_backup_section_title">Lokale Sicherung</string>
@@ -4275,7 +4275,7 @@ Betriebssystem auswählen:"</string>
   <string name="search_oldman_mode">Lite-Modus;Seniorenmodus</string>
   <string name="search_oldman_mode_entry_name">Light-Modus;Seniorenmodus;Lightmodus</string>
   <string name="search_onekey_migrate">Transfer;Ein-Tasten-Migration</string>
-  <string name="search_other_advanced_settings">Weitere Einstellungen;Privatsphäreeinstellungen;Datum &amp; Uhrzeit;Sprache &amp; Eingabe;Einhandmodus;Akku;Speicher;Benachrichtigungs-LED;LED;Kopfhörer &amp; Audioeffekte;Tasten;Schlüssel;Bedienungshilfen;Betafunktionen;Laborfunktionen;Entwicklereinstellungen;Sichern &amp; Wiederherstellen;Transfer;Ein-Tasten-Migration</string>
+  <string name="search_other_advanced_settings">Weitere Einstellungen;Privatsphäreeinstellungen;Datum &amp; Uhrzeit;Sprache &amp; Eingabe;Einhandmodus;Akku;Speicher;LED-Benachrichtigung;LED;Kopfhörer &amp; Audioeffekte;Tasten;Schlüssel;Bedienungshilfen;Betafunktionen;Laborfunktionen;Entwicklereinstellungen;Sichern &amp; Wiederherstellen;Transfer;Ein-Tasten-Migration</string>
   <string name="search_owner_info_settings">Eigentümerinfo</string>
   <string name="search_owner_info_settings_title">Eigentümerinfo</string>
   <string name="search_page_layout_settings">Textgröße</string>
