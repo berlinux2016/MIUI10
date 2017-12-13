@@ -1427,13 +1427,13 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie mobile
   <string name="network_route_exception_detail">"Möglicherweise liegt der Fehler bei Ihrem Router:
 &lt;b&gt;1. Problem mit einem öffentlichen WLAN-Netzwerk&lt;/b&gt;
 Wenn Sie mit einem öffentlichem WLAN-Netzwerk verbunden sind, kann je nach Anzahl der verbundenen Benutzer die Geschwindigkeit beeinträchtigt werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
-&lt;b&gt;2. Problem mit dem Internetanbieter&lt;/b&gt
+&lt;b&gt;2. Problem mit dem Internetanbieter&lt;/b&gt;
 Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Internetanbieter besitzen.
-&lt;b&gt;3. Problem mit der Routerhardware&lt;/b&gt
+&lt;b&gt;3. Problem mit der Routerhardware&lt;/b&gt;
 Versuchen Sie, Ihren Router neu zu starten und/oder prüfen Sie die Routereinstellungen.
-&lt;b&gt;4. Weitere Probleme&lt;/b&gt
+&lt;b&gt;4. Weitere Probleme&lt;/b&gt;
 Lesen Sie die Bedienungshilfen, die bei Ihrem Router mitgeliefert wurden und stellen Sie die Werkseinstellungen des Router wieder her.
-&lt;b&gt;5. Stellen Sie sicher, dass der Router korrekt verbunden ist&lt;/b&gt
+&lt;b&gt;5. Stellen Sie sicher, dass der Router korrekt verbunden ist&lt;/b&gt;
 Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermuten, dass der Fehler an der Verbindung liegt, dann kontaktieren Sie Ihren Internetanbieter."</string>
   <string name="network_sim_exception_detail">"Möglichweise liegt der Fehler an Ihrer SIM-Karte:
 1. Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Netzanbieter besitzen. Versuchen Sie die SIM-Karte eines Freundes und prüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
@@ -2146,8 +2146,8 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="safepay_alert_dialog_button_continue">Fortsetzen</string>
   <string name="safepay_alert_dialog_button_fix">Beheben</string>
   <string name="safepay_alert_dialog_button_unknown">Noch einmal prüfen</string>
-  <string name="safepay_alert_dialog_title_risk">&lt;font color="#ec2700"&gt;Risiko gefunden! Brechen Sie die Zahlung ab!&lt;/font&gt;</string>
-  <string name="safepay_alert_dialog_title_unknown">&lt;font color="#f59c00"&gt;Zahlungssicherheit konnte nicht geprüft werden. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.&lt;/font&gt;</string>
+  <string name="safepay_alert_dialog_title_risk">"&lt;font color="#ec2700"&gt;Risiko gefunden! Brechen Sie die Zahlung ab!&lt;/font&gt;"</string>
+  <string name="safepay_alert_dialog_title_unknown">"&lt;font color="#f59c00"&gt;Zahlungssicherheit konnte nicht geprüft werden. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.&lt;/font&gt;"</string>
   <string name="save_energy_text">Begrenzen Sie Autostart und Synchronisierung für Apps im Hintergrund, um das Beste aus dem Akku Ihres Geräts herauszuholen</string>
   <string name="save_energy_title">Akku optimieren</string>
   <string name="saving_conflict_dialog_cancel">Abbrechen</string>
@@ -2503,7 +2503,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="tc_diagnostic_all_error_notification_title">Diagnose kann nicht abgeschlossen werden</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Tippen, um Netzwerktyp festzulegen</string>
   <string name="tc_diagnostic_brand_error_notification_title">Falscher Netzwerktyp</string>
-  <string name="tc_diagnostic_brand_result">&lt;font color='#CC0000'&gt;Ergebnis: Falscher Netzanbietername&lt;br/&gt;&lt;br/&gt;Setze: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktueller Betreiber: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Ergebnis: Falscher Netzanbietername&lt;br/&gt;&lt;br/&gt;Setze: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktueller Betreiber: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Fertig</string>
   <string name="tc_diagnostic_fragment_default">"Über Diagnose
 1. Das Gerät stellt eine Verbindung zum Netzwerk des Netzbetreibers her, sendet eine kostenlose Nachricht und wartet auf die Antwort des Netzbetreibers. Das kann bis zu 5 Minuten dauern.
@@ -2516,24 +2516,24 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="tc_diagnostic_onekey_repair_botton">Beheben</string>
   <string name="tc_diagnostic_operator_error_notification_summary">Tippen, um die Netzbetreibereinstellungen zu ändern</string>
   <string name="tc_diagnostic_operator_error_notification_title">Falscher Netzbetreiber</string>
-  <string name="tc_diagnostic_operator_result">&lt;font color='#CC0000'&gt;Ergebnis: Falscher Netzanbieter&lt;br/&gt;&lt;br/&gt;Setze Anbieter: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktueller Betreiber: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g&gt;&lt;/font&gt;</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Ergebnis: Falscher Netzanbieter&lt;br/&gt;&lt;br/&gt;Setze Anbieter: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktueller Betreiber: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Beheben und fortfahren</string>
-  <string name="tc_diagnostic_repair_location">&lt;font color='#3EC234'&gt;Diagnose abgeschlossen, Standortprobleme behoben.&lt;/font&gt;</string>
-  <string name="tc_diagnostic_repair_location_and_operator">&lt;font color='#3EC234'&gt;Diagnose abgeschlossen,  Standort- und Betreiberprobleme behoben.&lt;/font&gt;</string>
+  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnose abgeschlossen, Standortprobleme behoben.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnose abgeschlossen,  Standort- und Betreiberprobleme behoben.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">Erfolgreich geändert</string>
-  <string name="tc_diagnostic_result">&lt;font color='#CC0000'&gt;Ergebnis: Diagnose konnte nicht abgeschlossen werden&lt;br/&gt;&lt;br/&gt;Diesen Fehler melden, um die MIUI Diagnose zu verbessern&lt;/font&gt;</string>
-  <string name="tc_diagnostic_sim_location_result">&lt;font color='#CC0000'&gt;Ergebnis: Falscher Standort&lt;br/&gt;&lt;br/&gt;Set location: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktueller Standort: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Ergebnis: Diagnose konnte nicht abgeschlossen werden&lt;br/&gt;&lt;br/&gt;Diesen Fehler melden, um die MIUI Diagnose zu verbessern&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Ergebnis: Falscher Standort&lt;br/&gt;&lt;br/&gt;Set location: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktueller Standort: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">Netzbetreiber konnte nicht ermittelt werden</string>
-  <string name="tc_diagnostic_status_failure">&lt;font color='#CC0000'&gt;Fehler&lt;/font&gt;</string>
-  <string name="tc_diagnostic_status_no_network">&lt;font color='#ED9523'&gt;Keine Netzwerkverbindung&lt;/font&gt;</string>
-  <string name="tc_diagnostic_status_not_get">&lt;font color='#ED9523'&gt;Konnte nicht gelesen werden&lt;/font&gt;</string>
-  <string name="tc_diagnostic_status_success">&lt;font color='#3EC234'&gt;Korrekt&lt;/font&gt;</string>
-  <string name="tc_diagnostic_status_success_brand">&lt;font color='#3EC234'&gt;Antwort vom Netzbetreiber&lt;/font&gt;</string>
-  <string name="tc_diagnostic_status_timeout">&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;</string>
+  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Fehler&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Keine Netzwerkverbindung&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Konnte nicht gelesen werden&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Korrekt&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Antwort vom Netzbetreiber&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_updating">Wird getestet…</string>
   <string name="tc_diagnostic_success_notification_summary">Dieses Problem melden, um die MIUI-Diagnosetools zu verbessern</string>
   <string name="tc_diagnostic_success_notification_title">Netzbetreiber korrekt</string>
-  <string name="tc_diagnostic_success_result">&lt;font color='#CC0000'&gt;Ergebnis: Netzanbieter und Betreiber korrekt eingestellt&lt;br/&gt;&lt;br/&gt;Justierung konnte nicht eingestellt werden:&lt;br/&gt;1. Am Anfang oder Ende des Monats können die Netzwerkstatistiken möglicherweise nicht zuverlässig sein.&lt;br/&gt;2. Funktionen der Sicherheitsapp wurden nicht aktualisiert.&lt;br/&gt;&lt;br/&gt;Diesen Fehler melden, um die MIUI Diagnose zu verbessern.&lt;/font&gt;</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Ergebnis: Netzanbieter und Betreiber korrekt eingestellt&lt;br/&gt;&lt;br/&gt;Justierung konnte nicht eingestellt werden:&lt;br/&gt;1. Am Anfang oder Ende des Monats können die Netzwerkstatistiken möglicherweise nicht zuverlässig sein.&lt;br/&gt;2. Funktionen der Sicherheitsapp wurden nicht aktualisiert.&lt;br/&gt;&lt;br/&gt;Diesen Fehler melden, um die MIUI Diagnose zu verbessern.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Netzbetreiberdiagnose</string>
   <string name="tc_diagnostic_upload_button">Melden</string>
   <string name="tc_diagnostic_upload_no_network">Vielen Dank für Ihr Feedback! Ihr Report wird gesendet, sobald eine Internetverbindung verfügbar ist.</string>
@@ -2560,44 +2560,44 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="tc_sms_report_notify_get_timeout_body">Zeitüberschreitung. Stellen Sie sicher, dass der eingegebene Code korrekt ist.</string>
   <string name="tc_sms_report_notify_get_timeout_title">Datenverbrauchsübersicht anfordern fehlgeschlagen</string>
   <string name="tc_sms_report_receive_content">SMS-Nutzungsberichtinhalt (Nutzungsbericht bestätigen)</string>
-  <string name="tc_sms_report_receive_content_null">Helfen Sie bei der Verbesserung dieser Funktion mit!<br/>So geht es:<br/>1. Gehen Sie auf \"SMS-Befehl prüfen\" und \"Empfängernummer\"<br/>2. Wählen Sie \"SMS-Vorlage abrufen\";br/>3. Warten Sie auf die SMS Ihres Anbieters ;br/>4. Wählen Sie \"Zu MIUI hochladen\"</string>
+  <string name="tc_sms_report_receive_content_null">Helfen Sie mit bei der Verbesserung dieser Funktion!&lt;br/&gt;So geht es:&lt;br/&gt;1. Gehen Sie auf \"SMS-Befehl prüfen\" und \"Empfängernummer\"&lt;br/&gt;2. Wählen Sie \"SMS-Vorlage abrufen\"&lt;br/&gt;3. Warten Sie auf die SMS Ihres Anbieters &lt;br/&gt;4. Wählen Sie \"Zu MIUI hochladen\"</string>
   <string name="tc_sms_report_receive_num">Nummer des Empfängers</string>
   <string name="tc_sms_report_send_num">Anbieternummer</string>
   <string name="tc_sms_report_summary">Helfen Sie uns, diese Funktion zu verbessern, indem Sie uns eine fehlerhafte Datenverbrauchsübersicht oder Aktualisierungsfehler melden</string>
-  <string name="tc_sms_report_tips_dialog_message">"Eine SMS wird an Ihren Netzbetreiber geschickt, um die aktuellsten Informationen zur Datennutzung zu erhalten. Wenn Sie der Meinung sind, dass die Info nicht korrekt ist, senden Sie uns Ihr Feedback."</string>
+  <string name="tc_sms_report_tips_dialog_message">Eine SMS wird an Ihren Netzbetreiber geschickt, um die aktuellsten Informationen zur Datennutzung zu erhalten. Wenn Sie der Meinung sind, dass die Info nicht korrekt ist, senden Sie uns Ihr Feedback.</string>
   <string name="tc_sms_report_tips_dialog_title">Datenverbrauchs-SMS</string>
   <string name="tc_sms_report_title">Datenverbrauchsfehler melden</string>
   <string name="tc_sms_report_title_bill">Datennutzung-Fehlerbericht</string>
   <string name="tc_sms_report_title_calltime">Datennutzung-Fehlerbericht</string>
   <string name="tc_sms_report_toast_text">Details werden abgerufen…</string>
   <string name="tc_sms_report_type">Berichtsart</string>
-  <string name="tc_sms_report_upload_success">"Datenverbrauchs-SMS übermittelt. Wir werden uns gleich darum kümmern!"</string>
+  <string name="tc_sms_report_upload_success">Datenverbrauchs-SMS übermittelt. Wir werden uns gleich darum kümmern!</string>
   <string name="tc_sms_report_upload_when_net">Vielen Dank für Ihr Feedback!</string>
-  <string name="ten_percent_total_pkg">%s (10%% der monatlichen Daten)</string>
-  <string name="text_antivirus">App-Namen und Details hochladen</string>
+  <string name="ten_percent_total_pkg">%s (10 % der monatlichen Daten)</string>
+  <string name="text_antivirus">Appnamen und Details hochladen</string>
   <string name="text_antivirus_oversea">Virusdefinitionen aktualisieren</string>
   <string name="text_button">Verstanden</string>
   <string name="text_lock_info">Entsperrmuster zeichnen</string>
   <string name="there_is_no">Sieht gut aus, kommen Sie später wieder</string>
-  <string name="thermal_tips_message">Das Spielen von Spielen im Leistungsmodus kann zu Überhitzungsproblemen führen.</string>
+  <string name="thermal_tips_message">Spielen von Spielen im Leistungsmodus kann zu Überhitzungsproblemen führen</string>
   <string name="thermal_tips_title">Achtung!</string>
   <string name="third_application">Installierte Apps</string>
-  <string name="three_percent_total_pkg">%s (3%% der monatlichen Daten)</string>
-  <string name="timeshow_h">%.1fh</string>
-  <string name="timeshow_h_int">%dh</string>
-  <string name="timeshow_h_m">%1$dh %2$dm</string>
-  <string name="timeshow_m">%dm</string>
-  <string name="timeshow_m_s">%1$dm %2$ds</string>
-  <string name="timeshow_s">%ds</string>
+  <string name="three_percent_total_pkg">%s (3 % der monatlichen Daten)</string>
+  <string name="timeshow_h">%.1f h</string>
+  <string name="timeshow_h_int">%d h</string>
+  <string name="timeshow_h_m">%1$d h %2$d m</string>
+  <string name="timeshow_m">%d m</string>
+  <string name="timeshow_m_s">%1$d m %2$d s</string>
+  <string name="timeshow_s">%d s</string>
   <string name="tips_dialog_title">Sie kennen Ihr Limit nicht</string>
-  <string name="tips_message">Um Details zu Ihrem Datentarif zu erhalten, wählen Sie %2$s (%1$s)."</string>
+  <string name="tips_message">Um Details zu Ihrem Datentarif zu erhalten, wählen Sie %2$s (%1$s)</string>
   <string name="tips_of_app_manage">Löschen Sie selten benutzte Apps, um Speicherplatz zu sparen</string>
   <string name="tips_of_auto_launch_manage">Autostart der selten benutzten Apps verhindern</string>
   <string name="tips_of_operators_set">Datenstatistik automatisch anpassen</string>
   <string name="tips_of_package_set">Legen Sie Ihren Datenverbrauch fest und steuern Sie das Verbindungsaufkommen</string>
   <string name="tips_of_traffic_pack_threshold">Mehr Datenvolumen kaufen, wenn Datenverbrauchsgrenze fast erreicht wurde</string>
   <string name="tips_of_virus_scan">Scannen Sie Ihr Gerät regelmäßig auf Viren, um es sicher zu halten</string>
-  <string name="title_antivirus">Tencents Datenschutzbestimmungen</string>
+  <string name="title_antivirus">Tencent\'s Datenschutzbestimmungen</string>
   <string name="title_app_lock_disable">Apps sperren</string>
   <string name="title_app_update">Updates vorhanden</string>
   <string name="title_auto_update">Automatisch aktualisieren</string>
@@ -2606,7 +2606,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="title_cloud_account">Mi Konto</string>
   <string name="title_cloud_service">Mi Cloud</string>
   <string name="title_cloud_space_almost_full">Cloudspeicher ist fast voll, es kann zu Synchronisierungsproblemen kommen</string>
-  <string name="title_cloud_space_full">"Cloudspeicher voll, Synchronisieren nicht möglich"</string>
+  <string name="title_cloud_space_full">Cloudspeicher voll, Synchronisieren nicht möglich</string>
   <string name="title_cmcc_app_check">Prüfung unvollständig</string>
   <string name="title_consume_power">Akkuprobleme gefunden</string>
   <string name="title_consume_power_rank">Akkuverbrauch</string>
@@ -2614,22 +2614,22 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="title_data_flow_monitor">Datenverbrauchsanzeige ist aktiviert</string>
   <string name="title_data_flow_no">Überwachung aus</string>
   <string name="title_data_flow_yes">Überwachung an</string>
-  <string name="title_default_app">"MIUI %s ist nicht der Standard"</string>
+  <string name="title_default_app">MIUI %s ist nicht der Standard</string>
   <string name="title_dev_model_off">Entwickleroptionen sind ausgeschaltet</string>
   <string name="title_dev_no">Entwickleroptionen an</string>
   <string name="title_dev_yes">Entwickleroptionen aus</string>
   <string name="title_device_not_root">Root konnte nicht gewährt werden</string>
   <string name="title_find_device">\"Gerät finden\" einschalten</string>
-  <string name="title_flow_notification">Datenverbrauch Report</string>
+  <string name="title_flow_notification">Datenverbrauchsreport</string>
   <string name="title_flow_purchase">Datenpaket kaufen</string>
   <string name="title_flow_rank">Mobiler Datenverbrauch</string>
   <string name="title_flow_verify">Vergleichen</string>
   <string name="title_flow_verify_failed">Prüfung 5 Tage in Folge fehlgeschlagen</string>
   <string name="title_garbage_clean">Cache-Größe der Apps ist %s</string>
-  <string name="title_garbage_less">App-Cache ist voll</string>
+  <string name="title_garbage_less">Appcache ist voll</string>
   <string name="title_garbage_lib">Automatische Updates</string>
-  <string name="title_install_virus_no">Installationsmonitor Aus</string>
-  <string name="title_install_virus_yes">Installationsmonitor An</string>
+  <string name="title_install_virus_no">Installationsmonitor aus</string>
+  <string name="title_install_virus_yes">Installationsmonitor an</string>
   <string name="title_limit_traffic_per_day">Tägliches Datenlimit</string>
   <string name="title_live_talk_purchase">Aufladepaket einschalten</string>
   <string name="title_mifi_insurance">Erweiterte Garantie</string>
@@ -2637,8 +2637,8 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="title_miui_update_latest">MIUI ist aktuell</string>
   <string name="title_miui_update_no">Update MIUI gefunden: %s</string>
   <string name="title_miui_update_yes">MIUI aktualisiert</string>
-  <string name="title_mms_no">Nachrichtenfilter ist aus</string>
-  <string name="title_mms_yes">Nachrichtenfilter ist an</string>
+  <string name="title_mms_no">Nachrichtenfilter aus</string>
+  <string name="title_mms_yes">Nachrichtenfilter an</string>
   <string name="title_more_setting">Weitere Einstellungen</string>
   <string name="title_network_switch">Internetverbindung erlauben</string>
   <string name="title_of_app_manage">Apps</string>
@@ -2648,7 +2648,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="title_payment_protection">Zahlungen sind sicher</string>
   <string name="title_payment_risk">Zahlungsrisiken gefunden</string>
   <string name="title_permission_no">Zugriffsmanager aus</string>
-  <string name="title_permission_root">Rootzugriff Warnung</string>
+  <string name="title_permission_root">Warnung Rootzugriff</string>
   <string name="title_permission_yes">Zugriffsmanager an</string>
   <string name="title_power_optimizer">Energiesparmodus</string>
   <string name="title_realname_verify">Identitätsverifikation</string>
@@ -2657,15 +2657,15 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="title_show_notification">Benachrichtigungen</string>
   <string name="title_system_auto_download">Updates werden automatisch heruntergeladen</string>
   <string name="title_telecom_operator">Anbieterwerte verwenden</string>
-  <string name="title_usb_no">USB-Debugging An</string>
-  <string name="title_usb_yes">USB-Debugging Aus</string>
+  <string name="title_usb_no">USB-Debugging an</string>
+  <string name="title_usb_yes">USB-Debugging aus</string>
   <string name="title_virus_cloudscan">Onlinevirusdefinitionen verwenden</string>
   <string name="title_virus_no">Virus gefunden</string>
-  <string name="title_virus_update_no">Virendefinitionen Update AUS</string>
-  <string name="title_virus_update_yes">Virendefinitionen Update AN</string>
+  <string name="title_virus_update_no">Virendefinitionen Update aus</string>
+  <string name="title_virus_update_yes">Virendefinitionen Update an</string>
   <string name="title_virus_yes">Keine Viren gefunden</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
-  <string name="toast_add_virus_white_list_no_need_repeat">Die Virus-Ausnahme exestiert bereits!</string>
+  <string name="toast_add_virus_white_list_no_need_repeat">Virusausnahme existiert bereits!</string>
   <string name="toast_add_virus_white_list_success">Zu den Ausnahmen hinzugefügt. Elemente in Einstellung anzeigen.</string>
   <string name="toast_auto_traffic_correct">Automatische Kalibrierung ist aktiviert</string>
   <string name="toast_cleaner_cloudscan">Bereinigung nutzt Onlinedefinitionen</string>
@@ -2692,53 +2692,45 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="top_game">Top Spiele</string>
   <string name="top_load_fail_detail">Laden fehlgeschlagen. Tippen, um erneut zu versuchen.</string>
   <string name="top_no_network_detial">Laden fehlgeschlagen. Netzwerkverbindung prüfen und erneut versuchen</string>
-  <string name="traffic_alert_auto_modify_notification_sumarry">Monatlicher Plan geändert zu %s.</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Monatlicher Plan geändert zu %s</string>
   <string name="traffic_alert_auto_modify_notification_titile">Datenverbrauchsplan aktualisiert</string>
-  <string name="traffic_alert_auto_modify_package_summary">"Datenpakete automatisch anpassen, je nach Trägerinformationen"</string>
+  <string name="traffic_alert_auto_modify_package_summary">Datenpakete automatisch anpassen, je nach Trägerinformationen</string>
   <string name="traffic_config_alert_auto_modify">Datenverbrauchsplan automatisch aktualisieren</string>
   <string name="traffic_config_alert_body">"Ihr Anbieter übermittelt ein monatliches Datenlimit von %s.
-  Wollen Sie diese Daten übernehmen?"</string>
-  <string name="traffic_config_alert_body_extra">"
-  Sie kauften diesen Monat %1$s zusätzliches Datenvolumen. Dies unterscheidet sich vom %2$s, was Sie manuell eingerichtet haben."</string>
-  <string name="traffic_config_alert_body_extra_notset">"
-  kauften diesen Monat %1$s zusätzliches Datenvolumen. Dieses ist nicht im monatlichen Limit enthalten, welches Sie manuell eingerichtet haben."</string>
-  <string name="traffic_config_alert_body_leisure">"
-  monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manuell eingestellten %2$s."</string>
-  <string name="traffic_config_alert_body_leisure_notset">"
-  Ihr monatlich eingestelltes Limit ist %1$s. Sie haben kein maximales Datenlimit festgelegt."</string>
-  <string name="traffic_config_alert_body_normal">"
-  Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manuell eingestellten %2$s."</string>
+Wollen Sie diese Daten übernehmen?"</string>
+  <string name="traffic_config_alert_body_extra">Sie kauften diesen Monat %1$s zusätzliches Datenvolumen. Dies unterscheidet sich vom %2$s, was Sie manuell eingerichtet haben.</string>
+  <string name="traffic_config_alert_body_extra_notset">Sie kauften diesen Monat %1$s zusätzliches Datenvolumen. Dieses ist nicht im monatlichen Limit enthalten, welches Sie manuell eingerichtet haben.</string>
+  <string name="traffic_config_alert_body_leisure">Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom manuell eingestellten %2$s.</string>
+  <string name="traffic_config_alert_body_leisure_notset">Ihr monatlich eingestelltes Limit ist %1$s. Sie haben kein maximales Datenlimit festgelegt.</string>
+  <string name="traffic_config_alert_body_normal">Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom manuell eingestellten %2$s.</string>
   <string name="traffic_config_alert_cancel">Abbrechen</string>
-  <string name="traffic_config_alert_nomore">"Nicht mehr zeigen"</string>
+  <string name="traffic_config_alert_nomore">Nicht mehr zeigen</string>
   <string name="traffic_config_alert_ok">OK</string>
-  <string name="traffic_config_alert_package">"
-  Extradatenverbrauch überschritten"</string>
+  <string name="traffic_config_alert_package">Extradatenverbrauch überschritten</string>
   <string name="traffic_config_alert_setted">Einstellungen wurden übernommen</string>
   <string name="traffic_config_alert_title">%s Korrektur</string>
-  <string name="traffic_correction_failed">"Information nicht verfügbar"</string>
+  <string name="traffic_correction_failed">Information nicht verfügbar</string>
   <string name="traffic_correction_start_correction">Verbinde mit dem Anbieterserver…</string>
-  <string name="traffic_correction_start_correction_failed">Anforderung fehlgeschlagen. Bitte Anbietereinstellungen prüfen</string>
+  <string name="traffic_correction_start_correction_failed">Anforderung fehlgeschlagen. Bitte Anbietereinstellungen prüfen.</string>
   <string name="traffic_correction_success">Datenverbrauch aktualisiert</string>
-  <string name="traffic_correction_success_notify_message">Details anzeigen.</string>
+  <string name="traffic_correction_success_notify_message">Details anzeigen</string>
   <string name="traffic_limit_error_alert_body">Ihr Anbieter übermittelt, dass Ihnen noch %1$s diesen Monat verbleiben. Das ist mehr als das %2$s Limit, das Sie eingestellt haben.</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
-  <string name="traffic_limit_error_alert_package">"
-
-  Der verbleibende Datenverbrauch beinhaltet auch jenen Verbrauch, welcher in dem letzten Monat überschritten wurde."</string>
+  <string name="traffic_limit_error_alert_package">Verbleibender Datenverbrauch beinhaltet auch jenen Verbrauch, welcher in dem letzten Monat überschritten wurde</string>
   <string name="traffic_limit_error_alert_reset">Limit zurücksetzen</string>
   <string name="traffic_limit_error_alert_title">Erinnerung der Datenbeschränkung %s</string>
   <string name="traffic_none">Keine</string>
-  <string name="traffic_over_purchase_body">Antippen, um Details anzuzeigen.</string>
-  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten. Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen. <font color='#ccffffff'><u>Top up now and save 50%.</u></font>"</string>
+  <string name="traffic_over_purchase_body">Antippen, um Details anzuzeigen</string>
+  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten. Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen. &lt;font color='#ccffffff'&gt;&lt;u&gt;Top up now and save 50%.&lt;/u&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Datenlimit überschritten</string>
   <string name="traffic_protection_data_usage_summary">Einstellen einer Datenverbrauchswarnung, um Ihr monatliches Limit nicht zu überschreiten.</string>
   <string name="traffic_protection_label">Datenverbrauchswarnung</string>
   <string name="traffic_protection_next">Weiter</string>
-  <string name="traffic_protection_summary">Alarm wenn der Datenverbrauch eine bestimmte Grenze überschreitet</string>
+  <string name="traffic_protection_summary">Alarm, wenn der Datenverbrauch eine bestimmte Grenze überschreitet</string>
   <string name="traffic_protection_text_hint">Datenlimit für %s einstellen</string>
-  <string name="traffic_protection_unknown"><u>Später einstellen</u></string>
+  <string name="traffic_protection_unknown">&lt;u&gt;Später einstellen&lt;/u&gt;</string>
   <string name="traffic_protection_use_data">Mobile Datenverbindung</string>
-  <string name="traffic_purchase_body">Tippen, um Ihr Guthaben aufzuladen.</string>
+  <string name="traffic_purchase_body">Tippen, um Ihr Guthaben aufzuladen</string>
   <string name="traffic_purchse_suggestion">Datenlimit überschritten</string>
   <string name="traffic_saving_button_mng">Apps verwalten</string>
   <string name="traffic_saving_button_sorted">Details</string>
@@ -2757,19 +2749,19 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="traffic_saving_history_total_traffic">Daten reduziert</string>
   <string name="traffic_saving_mobile_usage">Mobilverbrauch</string>
   <string name="traffic_saving_msg_month">Diesen Monat gespart</string>
-  <string name="traffic_saving_msg_not_started">Datenreduzierer ist AUS</string>
-  <string name="traffic_saving_msg_today">heute gespart</string>
+  <string name="traffic_saving_msg_not_started">Datenreduzierer ist aus</string>
+  <string name="traffic_saving_msg_today">Heute gespart</string>
   <string name="traffic_saving_need_optimize">Kann optimiert werden</string>
   <string name="traffic_saving_notification_button_start">Aktivieren</string>
   <string name="traffic_saving_notify_no_apps_saving">Datenverbrauch reduzieren</string>
-  <string name="traffic_saving_notify_no_apps_saving_content">Tippen, um die Datenreduzierung zu aktivieren.</string>
-  <string name="traffic_saving_notify_start_content">Diesen Monat %s gespart.</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Tippen, um die Datenreduzierung zu aktivieren</string>
+  <string name="traffic_saving_notify_start_content">Diesen Monat %s gespart</string>
   <string name="traffic_saving_notify_start_title">Datenverbrauch reduziert</string>
   <string name="traffic_saving_one_key_optimize">Optimieren, um Datenverbrauch zu reduzieren</string>
   <string name="traffic_saving_optimized">Bereits optimiert</string>
   <string name="traffic_saving_pic_compress_orig">Original</string>
   <string name="traffic_saving_ratio">Datenverbrauch reduziert %.2f%%</string>
-  <string name="traffic_saving_ratio_low">"Datenverbrauch kann nicht deutlich reduziert werden"</string>
+  <string name="traffic_saving_ratio_low">Datenverbrauch kann nicht deutlich reduziert werden</string>
   <string name="traffic_saving_recommanded_close">Dieses Element ausschalten</string>
   <string name="traffic_saving_recommanded_open">Dieses Element ausschalten</string>
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Datenreduzierer automatisch aktivieren, um mobile Datennutzung von Apps zu reduzieren.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Wenn Sie einen monatliche Datentarif haben, denken Sie daran, Datenreduzierer für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu vermeiden.&lt;/font&gt;"</string>
@@ -2786,7 +2778,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="traffic_saving_whitelist_btn_added">Hinzugefügt</string>
   <string name="traffic_saving_whitelist_btn_remove">Entfernen</string>
   <string name="traffic_saving_whitelist_btn_removed">Die App wurde von der Ausnahmeliste entfernt</string>
-  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; Apps' Datennutzung ist nicht begrenzt"</string>
+  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; Appdatennutzung ist nicht begrenzt"</string>
   <string name="traffic_saving_whitelist_no_app">Keine Apps</string>
   <string name="traffic_saving_wifi_usage">WLAN Verbrauch</string>
   <string name="traffic_setting_app_count">%d Apps</string>
@@ -2806,7 +2798,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="traffic_setting_fragment_get_template_falure">Kann nicht zum Netzwerk verbinden. Prüfe die Verbindung und versuche es erneut.</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Nicht mehr anzeigen</string>
   <string name="traffic_setting_fragment_loading_text">Fordere Netzwerkinformationen an…</string>
-  <string name="traffic_setting_fragment_no_network">"Kann nicht zum Netzwerk verbunden werden"</string>
+  <string name="traffic_setting_fragment_no_network">Kann nicht zum Netzwerk verbunden werden</string>
   <string name="traffic_setting_fragment_null">Leer</string>
   <string name="traffic_setting_fragment_operator">Mobilfunkbetreiber</string>
   <string name="traffic_setting_fragment_operator_setting">Einstellungen Mobilfunkbetreiber</string>
@@ -2814,26 +2806,26 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="traffic_setting_fragment_send_num">Nummer des Mobilfunkbetreibers</string>
   <string name="traffic_setting_fragment_send_num_tips">Telefonnummer eingeben</string>
   <string name="traffic_setting_fragment_sms_content">Nachrichteninhalt</string>
-  <string name="traffic_setting_fragment_sms_content_tips">Tippen Sie hier ihre Nachricht ein</string>
+  <string name="traffic_setting_fragment_sms_content_tips">Tippen Sie hier Ihre Nachricht ein</string>
   <string name="traffic_setting_fragment_template">Nachrichtenvorlage</string>
   <string name="traffic_setting_fragment_title">Abfrage zur Datennutzung</string>
   <string name="traffic_setting_open">An</string>
   <string name="traffic_setting_step_num">Datentarifeinstellungen</string>
   <string name="traffic_warning_purchase_title">Warnung wegen mobiler Datennutzung</string>
   <string name="try_game">Testen</string>
-  <string name="try_recommended_function">Schützen Sie Ihr Gerät mit Hilfe von neuen Sicherheitsfunktionen</string>
+  <string name="try_recommended_function">Schützen Sie Ihr Gerät mit Hilfe neuer Sicherheitsfunktionen</string>
   <string name="two_address_choose_hint">%1$s und %2$s</string>
   <string name="unable_connect_internet">Keine Internetverbindung</string>
-  <string name="uninstall_app_dialog_msg">Nach Deinstallation werden alle Appdaten gelöscht.</string>
+  <string name="uninstall_app_dialog_msg">Nach Deinstallation werden alle Appdaten gelöscht</string>
   <string name="uninstall_app_dialog_title">Jetzt deinstallieren?</string>
   <string name="uninstall_app_done">Deinstallation durchgeführt</string>
   <string name="uninstall_danagerous_btn">Deinstallieren</string>
   <string name="uninstall_danagerous_desc">\"%s\" kann Ihr Gerät beschädigen</string>
-  <string name="uninstall_danagerous_msg">\"%s\" kann Ihr Gerät beschädigen, die Leistung beeinträchtigen oder ungewollte Neustarts verursachen.</string>
+  <string name="uninstall_danagerous_msg">\"%s\" kann Ihr Gerät beschädigen, die Leistung beeinträchtigen oder ungewollte Neustarts verursachen</string>
   <string name="uninstall_danagerous_title">Bösartige Apps deinstallieren</string>
   <string name="unlike">Nein danke</string>
-  <string name="unlock_pattern"><u>Muster</u></string>
-  <string name="unlock_pattern_to_bind_fingerprint">Passwort eingeben um Fingerabruckerkennung zu aktivieren</string>
+  <string name="unlock_pattern">&lt;u&gt;Muster&lt;/u&gt;</string>
+  <string name="unlock_pattern_to_bind_fingerprint">Passwort eingeben, um Fingerabruckerkennung zu aktivieren</string>
   <string name="updating_diagnostic_botton">Daten werden analysiert…</string>
   <string name="usage_sorted_activity_lable">Datenverbrauch</string>
   <string name="usage_sorted_empty_text">Leer</string>
@@ -2852,13 +2844,13 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Aktiv lassen</string>
   <string name="usage_type_wifi_running">WLAN aktiv</string>
-  <string name="usb_adb_input_apply_step_1">Ihr Computer kann ohne Ihr Wissen die Einstellungen und die Berechtigungen ändern, wenn Ihr Telefon über USB angeschlossen wird</string>
+  <string name="usb_adb_input_apply_step_1">Ihr Computer kann ohne Ihr Wissen Einstellungen und Berechtigungen ändern, wenn Ihr Telefon über USB angeschlossen wird</string>
   <string name="usb_adb_input_apply_step_2">Dies kann zu Privatdatenlecks, wie zum Beispiel Konten oder Nachrichten führen</string>
   <string name="usb_adb_input_apply_step_3">Stellen Sie sicher, dass Sie die damit verbundenen Risiken verstanden haben. Jetzt erlauben?</string>
   <string name="usb_install_desc">Diese App via USB installieren?</string>
-  <string name="usbsharenet_exception_summary">Es kann keine Internetverbindung über USB hergestellt werden. Prüfen Sie die USB-Verbindung und starten Sie Mi Suite erneut.</string>
+  <string name="usbsharenet_exception_summary">Internetverbindung über USB kann nicht hergestellt werden. Prüfen Sie die USB-Verbindung und starten Sie Mi Suite erneut.</string>
   <string name="usbsharenet_exception_title">USB-Internetfreigabe testen</string>
-  <string name="usbsharenet_pc_exception_summary">Es kann keine Internetverbindung über die geteilte Verbindung hergestellt werden. Prüfen Sie die Internetverbindung des Computers.</string>
+  <string name="usbsharenet_pc_exception_summary">Internetverbindung über die geteilte Verbindung kann nicht hergestellt werden. Prüfen Sie die Internetverbindung des Computers.</string>
   <string name="use_immediately">Verwenden</string>
   <string name="user_define_title">Regeln hinzufügen</string>
   <string name="virus_ad_icon_text">Adware</string>
@@ -2871,10 +2863,10 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="virus_update_fail">Udapte fehlgeschlagen</string>
   <string name="virus_update_success">Update erfolgreich</string>
   <string name="virus_update_tips_title">Warnung</string>
-  <string name="virus_wait_network_dialog_message">Ihr Telefon ist nicht mit dem WLAN verbunden. Mobile Daten nutzen?</string>
+  <string name="virus_wait_network_dialog_message">Ihr Telefon ist nicht mit WLAN verbunden. Mobile Daten nutzen?</string>
   <string name="voltage_symbol">V</string>
   <string name="vpn_disabled_by_user">Designierte Datenverbindung ist ausgeschaltet</string>
-  <string name="vpn_unbale_get_phonenum">"Telefonnummer kann bei designierter Datenverbindung nicht abgerufen werden"</string>
+  <string name="vpn_unbale_get_phonenum">Telefonnummer kann bei designierter Datenverbindung nicht abgerufen werden</string>
   <string name="wakepath_confirm_start_activity">%1$s erlauben %2$s zu öffnen?</string>
   <string name="warning_open_mi_sim">Aktivieren Sie Mi SIM</string>
   <string name="website">Webseite</string>
@@ -2892,7 +2884,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="wifi_item_title_fake">Gefälschtes WLAN erkannt</string>
   <string name="wifi_network_blocked_notification_title">Keine Internetverbindung verfügbar</string>
   <string name="wifi_optizition_loading">Xunyou Netzwerkgeschwindigkeitsoptimierung aktivieren…</string>
-  <string name="wifi_optizition_tip">WLAN Geschwindigkeitsoptimierung aktivieren, um die WLAN Verbindung stabiler zu machen. Dazu werden zu einem kleinen Teil mobile Daten genutzt.</string>
+  <string name="wifi_optizition_tip">WLAN Geschwindigkeitsoptimierung aktivieren, um WLAN Verbindung stabiler zu machen. Dazu werden zu einem kleinen Teil mobile Daten genutzt.</string>
   <string name="wifi_optizition_title">WLAN Geschwindigkeitsoptimierung</string>
   <string name="wl_no_whitelist">Keine Ausnahmeliste</string>
   <string name="wlan_booster">WLAN Geschwindigkeitsoptimierung</string>
@@ -2903,7 +2895,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="xiaomi_traffic_pass_exhausted">Keine mobilen Daten bei Ihrem Mi Datentarif. Zum Datentarif Ihres Betreibers gewechselt.</string>
   <string name="xiaomi_traffic_pass_expiry_date">Aktiv bis %s</string>
   <string name="xiaomi_traffic_pass_in_use">In Verwendung</string>
-  <string name="xiaomi_traffic_pass_not_current_simcard">Wechseln Sie die mobile Datenkarten, um Mi Datendienste zu nutzen. Jetzt wechseln?</string>
+  <string name="xiaomi_traffic_pass_not_current_simcard">Wechseln Sie die mobilen Datenkarten, um Mi Datendienste zu nutzen. Jetzt wechseln?</string>
   <string name="xiaomi_traffic_pass_not_support">Ihr Mobilfunkanbieter unterstützt diese Funktion nicht</string>
   <string name="xiaomi_traffic_pass_notify_content_using">Verbleiben %s</string>
   <string name="xiaomi_traffic_pass_notify_title_using">Verwende Mi Datentarif</string>
@@ -2925,5 +2917,5 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="xunyou_net_booster">Netzwerkgeschwindigkeitsoptimierung</string>
   <string name="xunyou_net_booster_detail">Xunyou-Dienste für Geschwindigkeitsoptimierung nutzen</string>
   <string name="xunyou_pay_webview">Xunyou Dienste</string>
-  <string name="xunyou_server_expired">Sitzung ist abgelaufen.</string>
+  <string name="xunyou_server_expired">Sitzung ist abgelaufen</string>
 </resources>
