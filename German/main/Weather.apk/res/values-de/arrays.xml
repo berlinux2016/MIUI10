@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!-- To Translate -->
   <string-array name="aqi_title_prefix">
     <item>AQI %1$s</item>
     <item>AQI %1$s</item>
@@ -20,19 +19,18 @@
   </string-array>
   <string-array name="breeze">
     <item>&lt;Force 2</item>
-    <item>&lt;6.0km/h</item>
-    <item>&lt;1.7m/s</item>
-    <item>&lt;3.7mph</item>
-    <item>&lt;3.2kn</item>
+    <item>&lt;6.0 km/h</item>
+    <item>&lt;1.7 m/s</item>
+    <item>&lt;3.7 mph</item>
+    <item>&lt;3.2 kn</item>
   </string-array>
   <string-array name="wind_unit_simple">
-    <item>Beaufort-Skala</item>
+    <item>Beaufortskala</item>
     <item>km/h</item>
     <item>m/s</item>
     <item>mph</item>
     <item>kn</item>
   </string-array>
-
   <string-array name="aqi_detail_title">
     <item>Gut</item>
     <item>Mäßig</item>
@@ -129,7 +127,7 @@
     <item>NW</item>
   </string-array>
   <string-array name="wind_unit_detail">
-    <item>Beafortskala</item>
+    <item>Beaufortskala</item>
     <item>Kilometer pro Stunde (km/h)</item>
     <item>Meter pro Sekunde (m/s)</item>
     <item>Meile pro Stunde (mph)</item>
@@ -137,10 +135,10 @@
   </string-array>
   <string-array name="wind_unit_replace">
     <item>Stärke %1$s</item>
-    <item>%1$skm/h</item>
-    <item>%1$sm/s</item>
-    <item>%1$smph</item>
-    <item>%1$skn</item>
+    <item>%1$s km/h</item>
+    <item>%1$s m/s</item>
+    <item>%1$s mph</item>
+    <item>%1$s kn</item>
   </string-array>
   <string-array name="minute_rain_array">
     <item>Stark</item>
