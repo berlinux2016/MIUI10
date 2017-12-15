@@ -936,7 +936,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="cache_size_label">Cache</string>
   <string name="cached">Hintergrundprozess im Cache</string>
   <string name="calendar_sound_dialog_title">Kalenderton wählen</string>
-  <string name="calendar_sound_title">Kalenderton</string>
+  <string name="calendar_sound_title">Kalenderereignis</string>
   <string name="call_manager_enable_summary">Diesem Dienst die Verwaltung erlauben, wie Ihre Anrufe getätigt werden</string>
   <string name="call_manager_enable_title">Anrufmanager aktivieren</string>
   <string name="call_manager_title">Anrufmanager</string>
@@ -3138,12 +3138,12 @@ Betriebssystem auswählen:"</string>
   <string name="notification_reboot_summary_hm">Tippen zum Neustart des Geräts</string>
   <string name="notification_reboot_title">Neustarten, um das Update anzuwenden</string>
   <string name="notification_reboot_title_hm">Neustarten, um das Update anzuwenden</string>
-  <string name="notification_ringtone_title">Standardbenachrichtigungsklingelton</string>
+  <string name="notification_ringtone_title">Standardbenachrichtigungston</string>
   <string name="notification_section_header">Benachrichtigung</string>
   <string name="notification_settings">Töne &amp; Benachrichtigungen</string>
   <string name="notification_settings_apps_title">Appbenachrichtigungen</string>
-  <string name="notification_sound_dialog_title">Standardbenachrichtigungston</string>
-  <string name="notification_sound_title">Standardbenachrichtigungston</string>
+  <string name="notification_sound_dialog_title">Standardbenachrichtigung</string>
+  <string name="notification_sound_title">Standardbenachrichtigung</string>
   <string name="notification_suggestion_summary">Anzeigen oder Ausblenden von Benachrichtigungsinhalten</string>
   <string name="notification_suggestion_title">Sperrbildschirmbenachrichtigungen steuern</string>
   <string name="notification_summary_level">Ebene %d</string>
@@ -3384,8 +3384,8 @@ Betriebssystem auswählen:"</string>
   <string name="path_no_fingerprint_unlock_set_settings">Bildschirm &amp; Kennwort festlegen/Sperren</string>
   <string name="path_no_fingerprint_wakeup_for_keyguard_notification_title">Festlegen/Sperrbildschirm &amp; Passwort/Password/Sperrbildschirm zu benachrichtigen, wenn der Bildschirm</string>
   <string name="path_notification_app_list_settings">Einstellungen/Benachrichtigungen &amp; Statusleiste/Appbenachrichtigungen</string>
-  <string name="path_notification_sound">Einstellungen/Ton &amp; Vibration/Standardbenachrichtigungston</string>
-  <string name="path_notification_sound_title">Einstellungen/Ton &amp; Vibration/Standardbenachrichtigungston</string>
+  <string name="path_notification_sound">Einstellungen/Ton &amp; Vibration/Standardbenachrichtigung</string>
+  <string name="path_notification_sound_title">Einstellungen/Ton &amp; Vibration/Standardbenachrichtigung</string>
   <string name="path_ntts_settings_title">Einstellungen/Weitere Einstellungen/Bedienungshilfen/ntts_settings_title</string>
   <string name="path_oldman_mode">Einstellungen/Lite Modus</string>
   <string name="path_onekey_migrate">Einstellungen/Weitere Einstellungen/Transfer</string>
@@ -3403,7 +3403,7 @@ Betriebssystem auswählen:"</string>
   <string name="path_preferred_network_type_settings">Einstellungen/SIM-Karten &amp; Mobile Netzwerke/Bevorzugter Netzwerktyp</string>
   <string name="path_privacy_policy">Einstellungen/Über das Gerät/Rechtliche Hinweise/Datenschutzerklärung</string>
   <string name="path_privacy_settings">Einstellungen/Weitere Einstellungen/Sichern &amp; Wiederherstellen</string>
-  <string name="path_ringer_volume_settings">Einstellungen/Ton &amp; Vibration/Volumes/Klingelton &amp; Benachrichtigungen</string>
+  <string name="path_ringer_volume_settings">Einstellungen/Ton &amp; Vibration/Klingel- &amp; Benachrichtigungton</string>
   <string name="path_ringtone_settings">Einstellungen/Ton &amp; Vibration/Klingelton</string>
   <string name="path_safe_result_header_title_system">Einstellungen/Weitere Einstellungen/Systemsicherheit</string>
   <string name="path_screen_effect_settings">Einstellungen/Bildschirm/Farben &amp; Sättigung</string>
@@ -4193,7 +4193,7 @@ Betriebssystem auswählen:"</string>
   <string name="search_bluetooth_tether_checkbox_text">Bluetoothtethering;Tethering</string>
   <string name="search_brightness">Helligkeit</string>
   <string name="search_button_light_timeout">Tastenbeleuchtung eingeschaltet lassen</string>
-  <string name="search_calendar_sound_title">Kalenderton</string>
+  <string name="search_calendar_sound_title">Kalenderereignis</string>
   <string name="search_camera_key_action_shortcut_screenshot">Bildschirmfoto</string>
   <string name="search_captioning_locale">Sprache</string>
   <string name="search_change_password">Bildschirmsperre ändern;Bildschirmsperre;Bildschirmsperre bearbeiten</string>
@@ -4270,7 +4270,7 @@ Betriebssystem auswählen:"</string>
   <string name="search_nfc_quick_toggle_title">NFC</string>
   <string name="search_nfc_se_route_title">Sichere Elemente</string>
   <string name="search_notification_app_list_settings">Appbenachrichtigungen</string>
-  <string name="search_notification_sound_title">Standardbenachrichtigungston</string>
+  <string name="search_notification_sound_title">Standardbenachrichtigung</string>
   <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
   <string name="search_oldman_mode">Lite-Modus;Seniorenmodus</string>
   <string name="search_oldman_mode_entry_name">Light-Modus;Seniorenmodus;Lightmodus</string>
@@ -4327,7 +4327,7 @@ Betriebssystem auswählen:"</string>
   <string name="search_sms_received">SMS empfangen</string>
   <string name="search_sms_received_sound_title">Nachricht empfangen;Nachrichtenton;empfangene Nachrichten;Benachrichtigungston</string>
   <string name="search_sound_effects_enable_title">Berührungstöne</string>
-  <string name="search_sound_settings">Ton;Lautstärke;Lautlosmodus;Alarm;Musik;Vibration;Klingelton;Standardbenachrichtigungston;Nachricht empfangen;Nachricht zugestellt;Berührung;Bildschirmsperrton;Audioeinstellungen;Rauschunterdrückung</string>
+  <string name="search_sound_settings">Ton;Lautstärke;Lautlosmodus;Alarm;Musik;Vibration;Klingelton;Standardbenachrichtigung;Nachricht empfangen;Nachricht zugestellt;Berührung;Bildschirmsperrton;Audioeinstellungen;Rauschunterdrückung</string>
   <string name="search_status_bar">Statusleiste</string>
   <string name="search_status_bar_settings">Benachrichtigungen &amp; Statusleiste;Benachrichtigungen;Statusleiste</string>
   <string name="search_status_bar_settings_custom_carrier">Netzbetreibernamen ändern</string>
@@ -4727,7 +4727,7 @@ Betriebssystem auswählen:"</string>
   <string name="sort_max_use">Nach max. Verwendung sortieren</string>
   <string name="sort_order_alpha">Nach Namen sortieren</string>
   <string name="sort_order_size">Nach Größe sortieren</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Klingelton &amp; Benachrichtigungston</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Klingel- &amp; Benachrichtigungston</string>
   <string name="sound_category_notification_title">Benachrichtigungen</string>
   <string name="sound_category_sound_title">Allgemein</string>
   <string name="sound_category_system_title">System</string>
