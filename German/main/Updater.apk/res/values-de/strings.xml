@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">Updater</string>
   <string name="battery_islow">&lt;font color=#f37981&gt;Ladegerät anschließen&lt;/font&gt;</string>
-  <string name="battery_islow_desc">Der Akkuzustand ist zu niedrig, um die Zip-Datei sicher zu installieren. Stecken Sie Ihr Ladegerät an und versuchen Sie es später wieder!</string>
+  <string name="battery_islow_desc">Akkuzustand zu niedrig, um die Zip-Datei sicher zu installieren. Stecken Sie Ihr Ladegerät an und versuchen Sie es später wieder!</string>
   <string name="btn_changelog">Änderungsprotokoll</string>
   <string name="btn_download">Lade (%1$s) herunter</string>
   <string name="btn_error">Ein Fehler ist aufgetreten. Erneut versuchen?</string>
@@ -14,46 +14,44 @@
   <string name="btn_stop">Stoppen</string>
   <string name="btn_yes">Ja</string>
   <string name="check_new_version">Auf neue Updates überprüfen</string>
-  <string name="dialog_3g_desc">Beachten Sie, wenn Sie eine ROM herunterladen, dass bei einer mobilen Datenverbindung ein großer Teil Ihres Datenvolumens verbraucht wird.</string>
+  <string name="dialog_3g_desc">Beachten Sie, dass bei mobiler Datenverbindung beim Runterladen von ROMs ein erheblicher Teil Ihres Datenvolumens verbraucht wird</string>
   <string name="dialog_3g_title">Warnung!</string>
   <string name="dialog_btn_3g">Trotzdem fortsetzen</string>
   <string name="dialog_btn_wifi">Auf WLAN wechseln</string>
-  <string name="dialog_stop_desc">Sie können das Herunterladen entweder pausieren oder stoppen.</string>
+  <string name="dialog_stop_desc">Sie können das Runterladen entweder pausieren oder stoppen</string>
   <string name="dialog_stop_title">Download stoppen?</string>
-  <string name="download_done">Erfolgreich heruntergeladen!</string>
-  <string name="download_fail">Fehler beim Herunterladen!</string>
+  <string name="download_done">Erfolgreich runtergeladen!</string>
+  <string name="download_fail">Fehler beim Runterladen!</string>
   <string name="download_fail_desc">MD5-Checksumme stimmt nicht überein…</string>
-  <string name="downloading">Herunterladen…</string>
-  <string name="downloading_desc">Download wird ausgeführt, überprüfen Sie den Status in der Benachrichtigungsleiste.</string>
-  <string name="install_desc">"Das Telefon wird in den Recoverymodus neugestartet, um die ausgewählte Datei zu installieren: %1$s. 
-Die Daten werden nicht gelöscht."</string>
+  <string name="downloading">Runterladen…</string>
+  <string name="downloading_desc">Download wird ausgeführt, überprüfen Sie den Status in der Benachrichtigungsleiste</string>
+  <string name="install_desc">"Telefon wird in den Recoverymodus neugestartet, um die ausgewählte Datei zu installieren: %1$s. 
+Daten werden nicht gelöscht."</string>
   <string name="install_title">Diese Datei installieren?</string>
   <string name="menu_title_current_version_log">Was ist neu? (Änderungen)</string>
   <string name="menu_title_pick_rom_file">Von SD-Karte installieren</string>
   <string name="menu_title_recovery">Neustart in den Recoverymodus</string>
   <string name="message">%1$s</string>
-  <string name="message_checkbox">Zukünftige Nachrichten vom Xiaomi.eu Team ausblenden</string>
+  <string name="message_checkbox">Zukünftige Nachrichten vom Xiaomi.eu-Team ausblenden</string>
   <string name="message_title">HINWEIS!</string>
   <string name="new_version">Neue Version gefunden!</string>
   <string name="no_info">Keine Informationen verfügbar</string>
   <string name="no_network">Kein Netzwerkzugriff</string>
   <string name="no_update">Sie haben bereits die aktuellste Version!</string>
-  <string name="no_xioamieu">
-    "Sie benutzten keine MIUI-Rom, die von Xiaomi.eu erstellt wurde!
-    Keine Updates verfügbar!"
-  </string>
+  <string name="no_xioamieu">"Sie benutzten keine MIUI-Rom, die von Xiaomi.eu erstellt wurde!
+Keine Updates verfügbar!"</string>
   <string name="notif_cancel">Abbrechen</string>
   <string name="notif_install">Installieren</string>
   <string name="notif_new_summary">Tippen Sie auf Details</string>
   <string name="notif_new_title">Neue Version verfügbar!</string>
   <string name="notifications_switch">Benachrichtigungen anzeigen</string>
-  <string name="permdesc_cache_filesystem">Ermöglicht der App, Dateien zu schreiben /Speicher</string>
-  <string name="permdesc_reboot">Erlaubt der App, das Telefon neu zu starten.</string>
-  <string name="permlab_cache_filesystem">Speicherzugriff</string>
+  <string name="permdesc_cache_filesystem">Erlaubt der App, Dateien auf /Zwischenspeicher zu schreiben</string>
+  <string name="permdesc_reboot">Erlaubt der App, das Telefon neu zu starten</string>
+  <string name="permlab_cache_filesystem">Zwischenspeicherzugriff</string>
   <string name="permlab_reboot">Neustartzugriff</string>
-  <string name="pick_not_found">Es wurde kein geeigneter Dateimanager gefunden.</string>
+  <string name="pick_not_found">Kein geeigneter Dateimanager gefunden</string>
   <string name="pick_title">Wählen Sie:</string>
-  <string name="recovery_desc">Das Telefon wird in den Recoverymodus neugestartet. Wenn Sie mit dem Modus nicht vertraut sind, brechen Sie diese Aktion ab. Fortsetzen?</string>
+  <string name="recovery_desc">Telefon wird in den Recoverymodus neugestartet. Wenn Sie mit dem Modus nicht vertraut sind, brechen Sie diese Aktion ab. Fortsetzen?</string>
   <string name="server_error">Server reagiert nicht, die Anwendung funktioniert möglicherweise nicht einwandfrei!</string>
   <string name="share_title">Teilen mit</string>
   <string name="stable">Stabil</string>
@@ -61,4 +59,3 @@ Die Daten werden nicht gelöscht."</string>
   <string name="weekly">Wöchentlich</string>
   <string name="wifi_recommended">Keine WLAN-Verbindung für schnellen Download!</string>
 </resources>
-
