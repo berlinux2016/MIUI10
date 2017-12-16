@@ -17,14 +17,14 @@
   <string name="activate_feature_remote_assist">Fernassistent</string>
   <string name="activate_feature_verify_mx_token">Mi Konto Überprüfung</string>
   <string name="activate_history_canceled_overview">Aktivierung der SIM-Karte wurde abgebrochen. Aktivierung wird mit \"%1$s\" ausgelöst.</string>
-  <string name="activate_history_cancelled">abgebrochen</string>
+  <string name="activate_history_cancelled">Abgebrochen</string>
   <string name="activate_history_multisim_canceled_overview">Aktivierung der SIM-Karte %2$d wurde abgebrochen. Aktivierung wird mit \"%1$s\" ausgelöst.</string>
-  <string name="activate_history_multisim_overview">Aktivierung der SIM-Karte %3$d %1$s. Es wird mit \"%2$s\" ausgelöst.</string>
-  <string name="activate_history_multisim_success_overview">SIM-Karte %2$d wurde erfolgreich aktiviert. Es wird mit \"%1$s\" ausgelöst.</string>
-  <string name="activate_history_overview">Aktivierung für SIM-Karte %1$s. Es wird ausgelöst mit der Funktion \"%2$s\".</string>
-  <string name="activate_history_sms">Eine SMS wurde während des Aktivierungsvorgangs gesendet.</string>
+  <string name="activate_history_multisim_overview">Aktivierung der SIM-Karte %3$d %1$s. Wird mit \"%2$s\" ausgelöst.</string>
+  <string name="activate_history_multisim_success_overview">SIM-Karte %2$d wurde erfolgreich aktiviert. Wird mit \"%1$s\" ausgelöst.</string>
+  <string name="activate_history_overview">Aktivierung für SIM-Karte %1$s. Wird ausgelöst mit der Funktion \"%2$s\".</string>
+  <string name="activate_history_sms">Eine SMS wurde während des Aktivierungsvorgangs gesendet</string>
   <string name="activate_history_success">Erfolgreich</string>
-  <string name="activate_history_success_overview">SIM-Karte wurde erfolgreich aktiviert. Es wird mit \"%1$s\" ausgelöst.</string>
+  <string name="activate_history_success_overview">SIM-Karte wurde erfolgreich aktiviert. Wird mit \"%1$s\" ausgelöst.</string>
   <string name="activate_history_title">SIM-Kartenaktivierung</string>
   <string name="activate_phone_cancel_notif_title">Aktivierung der SIM-Karte abgebrochen</string>
   <string name="activate_phone_cancel_notif_title_msim">Aktivierung der SIM-Karte %d abgebrochen</string>
@@ -42,20 +42,16 @@
   <string name="activate_popup_confirm_failed_server">Wiederholen</string>
   <string name="activate_popup_desc_2_intl_sim_cards">Zum Aktivieren Ihrer %s werden 2 internationale SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
   <string name="activate_popup_desc_2_sim_cards">Zum Aktivieren Ihrer %s werden 2 SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
-  <string name="activate_popup_desc_all_gateway_failed_query_info">
-    "Telefonnummer kann nicht gefunden werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
-    Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktivieren"
-  </string>
-  <string name="activate_popup_desc_all_gateway_failed_send_sms">
-    "Aktivierungsnachricht konnte nicht gesendet werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
-    Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"
-  </string>
-  <string name="activate_popup_desc_error_device_id">Wählen Sie *#06# um Ihre IMEI-Nummer anzuzeigen</string>
-  <string name="activate_popup_desc_failed_phone_error">Die eingegebene Nummer ist ungültig</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">"Telefonnummer kann nicht gefunden werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
+Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktivieren."</string>
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivierungsnachricht konnte nicht gesendet werden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.
+Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktivieren."</string>
+  <string name="activate_popup_desc_error_device_id">Wählen Sie *#06#, um Ihre IMEI-Nummer anzuzeigen</string>
+  <string name="activate_popup_desc_failed_phone_error">Eingegebene Nummer ist ungültig</string>
   <string name="activate_popup_desc_failed_query_info">Ihre Telefonnummer kann nicht abgerufen werden. Bitte stellen Sie sicher, dass Ihre SIM-Karte aktiviert ist.</string>
-  <string name="activate_popup_desc_failed_receive_sms">Bitte überprüfen Sie die eingegebene Nummer und stellen Sie sicher, dass Ihre SIM-Karte aktiviert ist.</string>
+  <string name="activate_popup_desc_failed_receive_sms">Bitte überprüfen Sie die eingegebene Nummer und stellen Sie sicher, dass Ihre SIM-Karte aktiviert ist</string>
   <string name="activate_popup_desc_failed_send_sms">Aktivierungs-SMS konnte nicht gesendet werden. Bitte stellen Sie sicher, dass Ihre SIM-Karte aktiviert ist.</string>
-  <string name="activate_popup_desc_failed_server">Serverfehler. Bitte prüfen Sie Ihrer Netzwerkverbindung.</string>
+  <string name="activate_popup_desc_failed_server">Serverfehler. Bitte prüfen Sie Ihre Netzwerkverbindung.</string>
   <string name="activate_popup_desc_find_device_postfix">Wenn Sie die SIM-Karte wechseln, wird möglicherweise eine Aktivierungs-SMS gesendet</string>
   <string name="activate_popup_desc_intl_sim_card">Zum Aktivieren Ihrer %s wird eine internationale SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
   <string name="activate_popup_desc_mixed_sim_cards">Zum Aktivieren Ihrer %s werden 2 SMS (nationale und internationale) verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
@@ -67,7 +63,7 @@
   <string name="activate_popup_desc_new_sim_card_downlink">Ihre SIM-Karte wurde gewechselt. Zum Aktivieren Ihrer %s geben Sie bitte Telefonnummer Ihrer SIM-Karte ein.</string>
   <string name="activate_popup_desc_register_account">Zum Registrieren Ihres Mi Kontos wird eine SMS verschickt</string>
   <string name="activate_popup_desc_register_account_downlink">Geben Sie bitte die Telefonnummer Ihrer SIM-Karte ein</string>
-  <string name="activate_popup_desc_register_account_intl">Zum registrieren Ihres Mi Kontos wird eine internationale SMS verschickt</string>
+  <string name="activate_popup_desc_register_account_intl">Zum Registrieren Ihres Mi Kontos wird eine internationale SMS verschickt</string>
   <string name="activate_popup_desc_sim_card">Zum Aktivieren Ihrer %s wird eine SMS verschickt. Abrechnung erfolgt über Tarif Ihres Mobilfunkanbieters.</string>
   <string name="activate_popup_desc_sim_card_downlink">Zum Aktivieren Ihrer %s geben Sie bitte die Telefonnummer Ihrer SIM-Karte ein</string>
   <string name="activate_popup_desc_voip_privacy">Datenschutzerklärung</string>
@@ -83,11 +79,11 @@
   <string name="activate_popup_title_manual">%s aktivieren</string>
   <string name="activate_popup_title_new_sim_card">%s reaktivieren</string>
   <string name="activate_popup_title_register_account">Mi Konto erstellen</string>
-  <string name="activate_sms_postfix">Diese SMS wird für die Aktivierung des Mi Services benötigt</string>
-  <string name="activate_status_desc_acquire_phone_number">Telefonnummer wird überprüft…</string>
+  <string name="activate_sms_postfix">Diese SMS wird für die Aktivierung des Mi Dienstes benötigt</string>
+  <string name="activate_status_desc_acquire_phone_number">Telefonnummer wird geprüft…</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Bei Abfrage der Telefonnummer ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Telefonnummer konnte nicht abgerufen werden</string>
-  <string name="activate_status_desc_checking_xiaomi_account">Mi Konto wird überprüft…</string>
+  <string name="activate_status_desc_checking_xiaomi_account">Mi Konto wird geprüft…</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Bei der Prüfung des Mi Kontos ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_completed_with_sms_sent">SMS zur Aktivierung der SIM-Karte gesendet</string>
   <string name="activate_status_desc_device_id_error">Ungültige IMEI-Nummer</string>
@@ -102,7 +98,7 @@
   <string name="activate_status_desc_registering_sim_account_server_error">Bei der Registrierung der SIM-Karte ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_registering_xiaomi_account">Mi Konto wird registriert…</string>
   <string name="activate_status_desc_registering_xiaomi_account_server_error">Beim Erstellen des Mi Kontos ist ein Serverfehler aufgetreten</string>
-  <string name="activate_status_desc_request_activation_sms">Aktivierungs-SMS wir angefordert…</string>
+  <string name="activate_status_desc_request_activation_sms">Aktivierungs-SMS wird angefordert…</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Bei der Anforderung einer Aktivierungs-SMS ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_sending_sms">Aktivierung-SMS wird gesendet…</string>
   <string name="activate_status_desc_sending_sms_fail">Aktivierungs-SMS konnte nicht gesendet werden</string>
@@ -119,10 +115,10 @@
   <string name="explain_send_sms_permission_msg">Zum Aktivieren Ihrer %s wird Xiaomi-Service eine SMS senden, um Ihre Telefonnummer zu verifizieren. Es fallen dafür Gebühren bei Ihrem Netzbetreiber an.</string>
   <string name="explain_send_sms_permission_title">Verifizieren Sie Ihre Telefonnummer</string>
   <string name="phone_get_processing">Erhalten…</string>
-  <string name="phone_get_text">Erlauben Sie %1$s Ihre Telefonnummer zu erhalten (%2$s)?</string>
-  <string name="phone_get_title">Erlauben Sie %1$s Ihre Telefonnummer zu erhalten</string>
+  <string name="phone_get_text">Erlauben Sie %1$s, Ihre Telefonnummer zu erhalten (%2$s)?</string>
+  <string name="phone_get_title">Erlauben Sie %1$s, Ihre Telefonnummer zu erhalten</string>
   <string name="phone_verify_processing">Verifiziere…</string>
-  <string name="phone_verify_text">%1$s wird deine Telefonnummer nicht erhalten. Es wird nur sicherstellen, dass die Nummer gültig ist. Zustimmen?.</string>
-  <string name="phone_verify_title">%1$s zustimmen um die Telefonnummer zu verifizieren</string>
+  <string name="phone_verify_text">%1$s wird deine Telefonnummer nicht erhalten. Es wird nur sichergestellt, dass die Nummer gültig ist. Zustimmen?</string>
+  <string name="phone_verify_title">%1$s zustimmen, um die Telefonnummer zu verifizieren</string>
   <string name="sim_unactivated_title">SIM-Karte ist nicht aktiviert</string>
 </resources>
