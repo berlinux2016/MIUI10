@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="accessibility_desc_weather_temperature">
+    <item quantity="other">Wetter %d Grad</item>
+    <item quantity="zero">Wetter %d Grad</item>
+    <item quantity="one">Wetter %d Grad</item>
+  </plurals>
   <plurals name="accessibility_recent_task_enter">
     <item quantity="other">Öffnet kürzlich verfügbare Apps: %d.</item>
     <item quantity="one">Öffnet kürzlich verfügbare App: Eine.</item>
