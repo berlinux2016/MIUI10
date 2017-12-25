@@ -24,9 +24,9 @@
     <item>Dauer der Animation: 10x</item>
   </string-array>
   <string-array name="anr_record_interval_entries">
-    <item>10s</item>
-    <item>20s</item>
-    <item>30s</item>
+    <item>10 s</item>
+    <item>20 s</item>
+    <item>30 s</item>
     <item>1 Min</item>
   </string-array>
   <string-array name="ap_identify">
@@ -252,8 +252,8 @@
   </string-array>
   <string-array name="check_importance_summary">
     <item>MIUI wählt Benachrichtigungen zum Anzeigen automatisch aus</item>
-    <item>Benachrichtigungen werden in der Benachrichtigungsleiste angezeigt</item>
-    <item>Benachrichtigungen werden in einem separaten Ordner angezeigt</item>
+    <item>Benachrichtigungen werden in Benachrichtigungsleiste angezeigt</item>
+    <item>Benachrichtigungen werden in separatem Ordner angezeigt</item>
   </string-array>
   <string-array name="color_mode_descriptions">
     <item>Erweiterte Farben</item>
@@ -287,7 +287,7 @@
   </string-array>
   <string-array name="data_usage_data_range">
     <item>Die letzten 30 Tage</item>
-    <item>Zykluszeit festlegen…</item>
+    <item>Nutzungszyklus festlegen…</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Aus</item>
@@ -337,16 +337,16 @@
         <item>Keine Unterbrechungen</item>
   </string-array>
   <string-array name="fluency_mode_confirms">
-    <item>Glatt- und Geschmeidigmodus, starten Sie Ihr Gerät neu, um diese Einstellung zu übernehmen?</item>
-    <item>Effekt-Modus, starten Sie Ihr Gerät neu, um diese Einstellung zu übernehmen?</item>
+    <item>Glatt- und Geschmeidigmodus, Ihr Gerät neustarten, um diese Einstellung zu übernehmen?</item>
+    <item>Effektmodus, Ihr Gerät neustarten, um diese Einstellung zu übernehmen?</item>
   </string-array>
   <string-array name="fluency_mode_entries">
     <item>Systemanimationen ausschalten</item>
     <item>Systemanimationen einschalten</item>
   </string-array>
   <string-array name="fluency_mode_summaries">
-    <item>Verbessert die Systemleistung</item>
-    <item>Kann sich negativ auf die Systemleistung auswirken</item>
+    <item>Verbessert Systemleistung</item>
+    <item>Kann sich negativ auf Systemleistung auswirken</item>
   </string-array>
   <string-array name="handy_mode_size_text_entries">
     <item>4.5 Zoll</item>
@@ -434,9 +434,9 @@
     <item>Lang</item>
   </string-array>
   <string-array name="long_press_volume_down_action">
-    <item>Keine Action</item>
-    <item>Foto Aufnahmemodus</item>
-    <item>Video Aufnahmemodus</item>
+    <item>Keine Aktion</item>
+    <item>Fotoaufnahmemodus</item>
+    <item>Videoaufnahmemodus</item>
     <item>NFC</item>
   </string-array>
   <string-array name="max_number_titles">
@@ -475,7 +475,7 @@
   <string-array name="msd_pc_system_install_finish_summary">
     <item>@string/msd_pc_system_install_finish_summary_xp</item>
     <item>@string/msd_pc_system_install_finish_summary_vista</item>
-    <item>Der USB Speicher wird sich öffnen, sobald Sie mit einem Computer verbunden sind.</item>
+    <item>USB Speicher wird sich öffnen, sobald Sie mit einem Computer verbunden sind</item>
     <item></item>
   </string-array>
   <string-array name="msd_pc_system_install_summary">
@@ -490,11 +490,11 @@
     <item>"Bestätigen Sie die Benutzergruppenrechte in der aktuellen 'fuse user group'"</item>
     <item>Erneut anmelden</item>
     <item>Zugang zum gemounteten Gerät über: mtpfs /media/mtp via Dateimanager; Lokalverzeichnis</item>
-    <item>"Gerät entfernen: fusermount -u /media/mtp Hinweis: Nur für Ubuntu 8.04!"</item>
+    <item>Gerät entfernen: fusermount -u /media/mtp; Hinweis: Nur für Ubuntu 8.04!</item>
   </string-array>
   <string-array name="msd_pc_system_retry_xp">
     <item>@string/msd_install_retry_connect</item>
-    <item>MiPhoneManager erneut installieren.</item>
+    <item>MiPhoneManager erneut installieren</item>
   </string-array>
   <string-array name="mvno_type_entries">
     <item>Keine</item>
@@ -504,8 +504,8 @@
     <item>ICCID</item>
   </string-array>
   <string-array name="network_speed_slow_summary">
-    <item>Netzwerk ist aufgrund des hohen Datenverkehrs langsam</item>
-    <item>Netzwerk ist aufgrund der schwachen Signalstärke langsam</item>
+    <item>Netzwerk langsam aufgrund des hohen Datenverkehrs</item>
+    <item>Netzwerk langsam aufgrund der schwachen Signalstärke</item>
     <item>Verschieben…</item>
   </string-array>
   <string-array name="no_cache_clear_package_list">
@@ -713,8 +713,8 @@
     <item>8 Stunden</item>
   </string-array>
   <string-array name="sim_card_data_range">
-    <item>Letzten 4 Ziffern</item>
-    <item>Ersten 4 Ziffern</item>
+    <item>Letzte 4 Ziffern</item>
+    <item>Erste 4 Ziffern</item>
   </string-array>
   <string-array name="slideshow_time_entries">
     <item>5 Minuten</item>
@@ -750,8 +750,8 @@
     <item>Verweigern</item>
   </string-array>
   <string-array name="status_bar_show_carrier_entries">
-    <item>Nur auf dem Sperrbildschirm und in der Benachrichtigungsleiste anzeigen</item>
-    <item>Netzanbieter immer anzeigen</item>
+    <item>Nur auf Sperrbildschirm anzeigen</item>
+    <item>Nur in Statusleiste anzeigen</item>
     <item>Netzanbieter niemals anzeigen</item>
   </string-array>
   <string-array name="status_bar_style_entries">
@@ -814,7 +814,7 @@
   <string-array name="usage_stats_display_order_types">
     <item>Nutzungszeit</item>
     <item>Zuletzt benutzt</item>
-    <item>App-Name</item>
+    <item>Appname</item>
   </string-array>
   <string-array name="usb_configuration_titles">
     <item>Lade</item>
@@ -837,9 +837,9 @@
     <item>Affe</item>
   </string-array>
   <string-array name="vip_mode_text">
-    <item>Von Jedem</item>
+    <item>Von jedem</item>
     <item>Nur von Kontakten</item>
-    <item>Nur von Favorisierten Kontakten</item>
+    <item>Nur von favorisierten Kontakten</item>
     <item>Keine</item>
   </string-array>
   <string-array name="vpn_states">
@@ -963,7 +963,7 @@
     <item>Suchen…</item>
     <item>Verbinden mit %1$s…</item>
     <item>Authentifizierung mit %1$s…</item>
-    <item>IP Adresse erhalten von %1$s…</item>
+    <item>IP-Adresse erhalten von %1$s…</item>
     <item>Verbunden mit %1$s</item>
     <item>Angehalten</item>
     <item>Trennen von %1$s…</item>
