@@ -25,6 +25,8 @@
   <string name="face_data_input_msg">Platzieren Sie Ihr Gesicht innerhalb des Rahmens</string>
   <string name="face_data_input_ok">Abgeschlossen</string>
   <string name="face_data_input_ok_msg">Bildschirm aktivieren, um sich mit Ihrem Gesicht anzumelden</string>
+  <string name="face_data_input_ok_msg_angle">"Entriegeln Sie das Gerät mit dem Gesicht, wenn der Bildschirm eingeschaltet ist.
+(Zeichnen Sie Ihre Gesichtsdaten mit allen erforderlichen Ansichten auf.)​"</string>  
   <string name="face_data_input_ok_title">Erfolgreich hinzugefügt</string>
   <string name="face_data_input_title">Gesicht hinzufügen</string>
   <string name="face_data_introduction_msg">Verwenden Sie Ihr Gesicht, um Ihr Telefon zu entsperren oder Ihre Identität zu verifizieren. Sie müssen ein Bildschirmpasswort festlegen, bevor Sie Ihr Gesicht hinzufügen können.</string>
@@ -35,8 +37,10 @@
   <string name="face_data_manage_delete_sure">Sie können das Telefon nicht mehr mit Ihrem Gesicht entsperren, nachdem Sie es entfernt haben</string>
   <string name="face_data_manage_delete_title">Gesichtsdaten</string>
   <string name="face_data_manage_unlock_msg">Telefon mit Hilfe Ihres Gesichtes entsperren</string>
-  <string name="face_data_manage_unlock_title">Telefon mit Hilfe Ihres Gesichtes entsperren</string>
-  <string name="face_data_suggesstion_first">Das Entsperren Ihres Telefons mit Hilfe Ihres Gesichts ist unsicherer als das Bildschirmpasswort zu verwenden. Möglicherweise kann Ihr Telefon von Leuten entsperrt werden, die wie Sie aussehen.</string>
+  <string name="face_data_manage_unlock_title">Telefon mit Hilfe Ihres Gesichtes entsperren</string>  
+  <string name="face_data_siggesstion_next">Nächste</string>
+  <string name="face_data_siggesstion_next_time">Nächste(%ds)</string>  
+  <string name="face_data_suggesstion_first">Sicherheitsprobleme: Die Gesichtsfreischaltung ist weniger sicher als eine PIN, ein Passwort oder ein Muster. Möglicherweise kann Ihr Gerät mit Ihrem Foto, aber auch von Personen oder Gegenständen mit ähnlichem Aussehen freigeschaltet werden.</string>
   <string name="face_data_suggesstion_second">Vergewissern Sie sich, dass Ihr Gesicht nicht von Gegenständen verdeckt wird und gut beleuchtet ist.</string>
   <string name="face_unlock_adjust_distance">Achten Sie darauf, dass der Abstand zwischen Ihrem Gesicht und dem Bildschirm optimal ist.</string>
   <string name="face_unlock_be_on_the_screen">Halten Sie das Telefon vor Ihr Gesicht</string>
@@ -55,6 +59,8 @@
   <string name="face_unlock_passwork">Passwort verwenden</string>
   <string name="face_unlock_passwork_and_fingerprint">Passwort oder Fingerabdruck verwenden</string>
   <string name="face_unlock_quality">Gesicht konnte nicht klar erkannt werden</string>
+  <string name="face_unlock_reenter_content">Der Gesichtsentsperrungsalgorithmus wird gerade aktualisiert. Tippen Sie, um die Gesichtsdaten erneut aufzuzeichnen.</string>
+  <string name="face_unlock_reenter_title">Nehmen Sie Ihre Gesichtsdaten erneut auf.</string>  
   <string name="face_unlock_reveal_eye">Zeigen Sie Ihre Augen</string>
   <string name="face_unlock_reveal_mouth">Zeigen Sie Ihre Lippen</string>
   <string name="face_unlock_rise">Senken Sie Ihren Kopf</string>
