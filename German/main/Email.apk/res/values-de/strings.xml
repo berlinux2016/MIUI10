@@ -211,6 +211,8 @@
   <string name="auto_advance_help_title">Nach dem Löschen einer Nachricht, zeige…</string>
   <string name="auto_advance_label">Automatisch fortfahren</string>
   <string name="auto_advance_summary">Was soll nach dem Löschen einer Nachricht angezeigt werden?</string>
+  <string name="auto_login_fail">Automatische Anmeldung fehlgeschlagen</string>
+  <string name="auto_login_fail_to_retry">Die automatische Anmeldung ist fehlgeschlagen. Versuchen Sie es erneut</string>  
   <string name="auto_mail_describe">Die automatische Konfiguration von 139 Mailbox hilft Ihnen beim Ausfüllen der Anmeldedaten Ihres Postfachs. Möchten Sie diese Funktion aktivieren?</string>
   <string name="auto_mail_disable_txt">Deaktiviert</string>
   <string name="auto_mail_enable_txt">Einstellungen starten</string>
@@ -821,6 +823,9 @@ um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="push_wps_confirm_message">Versuchen Sie, diesen Anhang mit WPS Office zu öffnen</string>
   <string name="push_wps_confirm_title">WPS Office empfohlen</string>
   <string name="push_wps_no_response_app">Keine App installiert, um diese Aktion auszuführen</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">Erfolgreich kopiert;  Bitte kehren Sie zur Anmeldeseite zurück und fügen Sie dieses ein, um das Passwortfeld auszufüllen.</string>
+  <string name="qq_auto_login_failed_dialog_message">Bitte kopieren Sie den Autorisierungscode, kehren Sie dann zur Anmeldeseite zurück und klicken Sie auf \"Geben Sie Benutzername und Passwort ein, um sich einzuloggen.\"; einfügen, um das Passwortfeld auszufüllen</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">Kopieren Sie den Autorisierungscode</string>
   <string name="qq_bar_open_imap">Aktivieren</string>
   <string name="qq_bar_send_message">SMS senden</string>
   <string name="qq_login_basecode">Bei QQ E-Mail über die Webseite anmelden. Bitte geben Sie Ihr eigenes Passwort ein.</string>
@@ -924,6 +929,7 @@ um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Datei ist zu groß!</string>
   <string name="request_permission_activity">Zugriffsanfrage</string>
+  <string name="retry_login">Bitte melden Sie sich erneut an</string>  
   <string name="respond_inline">Im Text antworten</string>
   <string name="save_action">Speichern</string>
   <string name="save_attachment">Speichern</string>
