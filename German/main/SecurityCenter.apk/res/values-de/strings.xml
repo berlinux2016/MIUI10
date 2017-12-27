@@ -366,6 +366,8 @@ Sie verlieren keine Appdaten."</string>
   <string name="apps_list_header_title_sms_access">Zugang zu Verifikationscodes einschränken</string>
   <string name="auto_atsk_condition_battery_level_text_down">Wenn der Akkustand %s erreicht</string>
   <string name="auto_atsk_condition_battery_level_text_up">Wenn der Akku zu %s geladen ist</string>
+  <string name="auto_back_booster">Geschwindigkeitserhöhung beenden</string>
+  <string name="auto_booster_suc">Geschwindigkeitserhöhung erfolgreich</string>  
   <string name="auto_clean_close">Automatische Bereinigungen sind ausgeschaltet</string>
   <string name="auto_handle_title">ALLGEMEIN</string>
   <string name="auto_import_games">Alle Spiele an einen Ort verschieben</string>
@@ -696,7 +698,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="current_network_state_not_need_diagnose">Internetverbindung ist normal</string>
   <string name="customize_limit_pkg">%s (benutzerdefiniert)</string>
   <string name="customizer_mode_user_define_name">Meine Regeln</string>
-  <string name="daily_limit_and_lock_screen">Datenlimit &amp; Benachrichtigungen</string>
+  <string name="daily_limit_and_lock_screen">Warnhinweis zur Datennutzung</string>  
   <string name="daily_limit_network_available_body">Berühren, um Datenverbrauchsstatistiken anzuzeigen.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tippen, um die mobile Datenverbindung einzuschalten</string>
   <string name="daily_limit_over_message">Sie haben Ihr tägliches Limit überschritten.</string>
@@ -977,6 +979,9 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="gateway_exception_summary">Prüfen Sie Ihren Router und versuchen Sie es erneut</string>
   <string name="gateway_exception_summary2">Verbindung zum Server fehlgeschlagen</string>
   <string name="gateway_exception_title">Routertest</string>
+  <string name="gb_description_image_button_answer">Antworten</string>
+  <string name="gb_description_image_button_reject">Ablehnen</string>
+  <string name="gb_description_image_button_video_answer">Videoanruf</string>  
   <string name="get_sys_info">Infos abrufen…</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Fortsetzen</string>
@@ -985,6 +990,9 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="goto_set">Einstellen</string>
   <string name="gs_anto_clean_memory_whitelist">Ausnahmeliste</string>
   <string name="gs_app_back_self_start">Energiesparmodus</string>
+  <string name="gs_autobooster">Automatische Geschwindigkeitserhöhung</string>
+  <string name="gs_autobooster_detail">Automatische Erhöhung der Geschwindigkeit für ausgewählte Spiele</string>
+  <string name="gs_autobooster_dialog_message">Wenn Sie Xunyou Speed-Boost verwenden, öffnen Sie Spiele auf der dafür vorgesehenen Seite.</string>
   <string name="gs_auto_clean_memory">Cache bereinigen</string>
   <string name="gs_auto_clean_memory_detail">Cache automatisch bereinigen, um Spiele zu optimieren</string>
   <string name="gs_call_handsfree">Anrufe freihändig annehmen</string>
@@ -1952,14 +1960,14 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="pref_more_settings">Weitere Einstellungen</string>
   <string name="pref_more_traffic_settings">Erweiterte Einstellungen</string>
   <string name="pref_new_installed_preconfig_title">Standard für neue Apps</string>
-  <string name="pref_normal_traffic_limit">Bei Überschreitung</string>
+<string name="pref_normal_traffic_limit">Wenn das Datentarif aufgebraucht ist</string>
   <string name="pref_open_adjust_traffic">Synchronisation der Datenverbrauchsstatistiken mit dem Anbieter</string>
   <string name="pref_operator_not_set">Mobilfunkanbieter nicht eingestellt</string>
   <string name="pref_over_traffic_limit">Wenn Sie Ihr Datenvolumen überschreiten</string>
   <string name="pref_package_traffic_leisure">%1$s | Nebenzeit: %2$s</string>
   <string name="pref_package_traffic_normal">Enthalten: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Zusätzlich: %2$s</string>
-  <string name="pref_package_traffic_settings">Mobiles Datenlimit</string>
+  <string name="pref_package_traffic_settings">Datentarif</string>
   <string name="pref_pkg_begin_date">Startdatum</string>
   <string name="pref_roaming_daily_limit_setting">Tägliches Datenroaminglimit</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Tägliches Datenlimit</string>
