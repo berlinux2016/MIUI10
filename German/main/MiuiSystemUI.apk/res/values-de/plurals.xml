@@ -25,6 +25,14 @@
     <item quantity="other">%d unwichtige Benachrichtigungen</item>
     <item quantity="one">eine unwichtige Benachrichtigung</item>
   </plurals>
+  <plurals name="notification_group_child_count">
+    <item quantity="other">%1$d Benachrichtigungen</item>
+    <item quantity="one">%1$d Benachrichtigung</item>
+  </plurals>
+  <plurals name="notification_group_overflow_description">
+    <item quantity="other">%s Benachrichtigungen mehr enthalten</item>
+    <item quantity="one">%s Benachrichtigung mehr enthalten</item>
+  </plurals>    
   <plurals name="settings_toggle_position_divider_page">
     <item quantity="other">%1$d Kippschalter werden in der Benachrichtigungsleiste gezeigt.</item>
     <item quantity="one">Ein Kippschalter wird in der Benachrichtigungsleiste gezeigt.</item>
