@@ -161,6 +161,7 @@
   <string name="antivirus_update_btn_open">Erlauben</string>
   <string name="antivirus_update_btn_update">Aktualisieren</string>
   <string name="antivirus_update_db">%s</string>
+  <string name="app_bg_restrict_dialog_message">Die Einschränkung der Netzwerkverbindung im Hintergrund kann dazu führen, dass die App nicht normal funktioniert. Zum Beispiel kann diese nicht mehr in der Lage sein, Nachrichten zu empfangen oder Inhalte zu aktualisieren. Trotzdem einschränken?</string>
   <string name="apn_exception_summary">Zugangspunktnamen vom Netzbetreiber prüfen</string>
   <string name="apn_exception_title">APN-Konfigurationen</string>
   <string name="app_check_no_issue">Keine Probleme mit dem Akku. Cool!</string>
@@ -257,6 +258,7 @@
   <string name="app_manager_notify_bar">Appsymbol</string>
   <string name="app_manager_notify_floating">Schwebende Benachrichtigungen</string>
   <string name="app_manager_notify_keyguard">Sperrbildschirm</string>
+  <string name="app_manager_open_show_all_apps_immediate">Alle Ergebnisse anzeigen</string>
   <string name="app_manager_perm">Berechtigungen</string>
   <string name="app_manager_perm_monitor_make_calls">Anrufe tätigen</string>
   <string name="app_manager_perm_monitor_read_call_history">Anrufprotokoll lesen</string>
@@ -296,7 +298,9 @@
 &lt;li&gt;Einschränkungen für Hintergrunddaten der Apps&lt;/li&gt;
 Sie verlieren keine Appdaten."</string>
   <string name="app_manager_reset_app_preferences_title">Appvoreinstellungen zurücksetzen?</string>
+  <string name="app_manager_search_prompt">Konnten Sie keine Ergebnisse finden? Versuchen Sie, Ergebnisse aus allen Anwendungen anzuzeigen.</string>
   <string name="app_manager_show_all_apps">Alle Apps anzeigen</string>
+  <string name="app_manager_show_all_apps_opened">Anzeige der Ergebnisse aller Apps…</string>     
   <string name="app_manager_show_detail_infos">Alle zeigen</string>
   <string name="app_manager_sort">Sortieren nach</string>
   <string name="app_manager_start_by">Gestartet durch %s</string>
@@ -440,6 +444,10 @@ Sie verlieren keine Appdaten."</string>
   <string name="back_app_name">Zurück zur Appsperre</string>
   <string name="back_description_securitycenter">Zurück</string>
   <string name="back_modifypassword">Zurück zum Passwort ändern</string>
+  <string name="back_sound_data">Es erfordert ein Mobilfunknetz, bitte versuchen Sie es erneut!</string>
+  <string name="back_sound_fail">Fehlgeschlagen!string>
+  <string name="back_sound_success">Erfolgreich!</string>
+  <string name="back_sound_support">Die aktuellen Netzbetreiber unterstützen dies nicht!</string>  
   <string name="background_restrict_app_dialog_message">Einschränkung des Hintergrundnetzwerkzugriffs kann die richtige Funktion der App, den Nachrichtenempfang, das Runterladen etc. beeinträchtigen. Trotzdem einschränken?</string>
   <string name="background_traffic">Hintergrund %s</string>
   <string name="backsound_set_hint">Abwesenheitsnachricht in %s ändern?</string>
@@ -488,6 +496,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="best_booster_status">Spiel ist bereits optimiert</string>
   <string name="best_warning_dialog_button">Verstanden</string>
   <string name="best_warning_dialog_title">Tipps</string>
+  <string name="bg_network_exception_title">Eingeschränkte Hintergrundverbindung</string>
   <string name="bind_xiaomi_account_cancel">Abbrechen</string>
   <string name="bind_xiaomi_account_confirm">Hinzufügen</string>
   <string name="bind_xiaomi_account_dialog_summery">Sie fügen das Mi Konto %s hinzu. Falls Sie Ihr Passwort vergessen haben, können Sie das Konto zum Zurücksetzen verwenden. Konto wird nach dem Abmelden automatisch entfernt.</string>
@@ -813,6 +822,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s und %2$s andere Kontakte sind bereits in der Ausnahmeliste</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Ausnahmenkonflikt</string>
   <string name="dlg_add_keyword">Stichworte hinzufügen</string>
+  <string name="dlg_add_white">Neue Anrufe und Nachrichten von den zu den Ausnahmen hinzugefügten Nummern, werden im Anrufverlauf und im Nachrichten-Posteingang angezeigt. Zuvor blockierte nummern werden jedoch nicht angezeigt. Ausgewählte Nummern zu Ausnahmen hinzufügen?"</string>
   <string name="dlg_antispam_mode_delete_message">Sie können Regeln nach dem Löschen nicht mehr wiederherstellen</string>
   <string name="dlg_antispam_mode_delete_title">Regeln löschen?</string>
   <string name="dlg_antispam_using_mode_delete_message">Regeln, die Sie gerade verwenden, löschen und zurück zu den Standardregeln der Sperrliste wechseln?</string>
@@ -832,7 +842,10 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="dlg_import_whitelist">Hinzufügen…</string>
   <string name="dlg_keyword_ok">Speichern</string>
   <string name="dlg_message_not_open_stranger_identify">Um diese Funktion einzuschalten, gehen Sie zu Einstellungen &gt; Telefon</string>
+  <string name="dlg_move_to_white">Zu Ausnahmen hinzufügen</string>
   <string name="dlg_no_block">Diese Nummer freigeben und Anrufe von dieser Nummer in der Anruferliste wiederherstellen?</string>
+  <string name="dlg_not_block_call">Ausgewählte Nummern freigeben? Sie werden zu Ausnahmen hinzugefügt, aber zuvor blockierte nummern werden nicht in der Anrufliste angezeigt.</string>
+  <string name="dlg_not_block_sms">Ausgewählte Nummern freigeben? Sie werden zu Ausnahmen hinzugefügt, aber zuvor blockierte Nummern werden nicht im Nachrichten-Posteingang angezeigt.</string>  
   <string name="dlg_no_block_ok">Freigeben</string>
   <string name="dlg_remove_address_blacklist">Diesen Ort von der Sperrliste entfernen?</string>
   <string name="dlg_remove_address_whitelist">Diesen Ort von den Ausnahmen entfernen?</string>
@@ -984,6 +997,8 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="gb_description_image_button_video_answer">Videoanruf</string>  
   <string name="get_sys_info">Infos abrufen…</string>
   <string name="gigabyteShort">GB</string>
+  <string name="gmscore_support_remind">Aktivieren Sie diese Funktion, wenn Probleme bei der Verwendung von Google Mail, Google Maps und anderen Google-Anwendungen auftreten. Die Lebensdauer des Akkus wird dadurch geringfügig verkürzt.</string>
+  <string name="gmscore_support_service">Google Dienste</string>  
   <string name="go_to">Fortsetzen</string>
   <string name="go_to_setting_fingerprint">Einstellungen</string>
   <string name="google_base_app_install_choice">\"%s\" benötigt Google Service Framework, um richtig zu funktionieren. Jetzt herunterladen und installieren?</string>
@@ -1910,6 +1925,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="pref_auto_adjust_traffic">Autosync Datenverbrauchsstatistiken</string>
   <string name="pref_automatic_adjust">Autosync Datenverbrauchsstatistiken</string>
   <string name="pref_avaible_traffic">Datenvolumen</string>
+  <string name="pref_bg_network_title">Hintergrundverbindung</string>  
   <string name="pref_category_daily_package_tile">Tägliches Datenvolumen</string>
   <string name="pref_category_extra_package_tile">Extra Datenpaket</string>
   <string name="pref_category_half_year_package_tile">Halbjähriges Datenpaket</string>
