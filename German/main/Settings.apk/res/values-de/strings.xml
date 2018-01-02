@@ -2150,7 +2150,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="internal_format">Internen Speicher löschen</string>
   <string name="internal_format_summary">Löscht alle Daten vom internen Speicher, z.B. Musik und Fotos</string>
   <string name="internal_media_format_button_text">Internen Speicher löschen</string>
-  <string name="internal_media_format_desc">Internen Speicher löschen? Es werden &lt;b&gt;alle&lt;/b&gt; gespeicherten Daten gelöscht und das Telefon neugestartet!</string>
+  <string name="internal_media_format_desc">Internen Speicher löschen? Es werden <b>alle</b> gespeicherten Daten gelöscht und das Telefon neugestartet!</string>
   <string name="internal_media_format_final_desc">Internen Speicher und alle darin enthaltenen Daten löschen? Dieser Vorgang kann nicht rückgängig gemacht werden! Das Telefon startet nach Abschluss des Vorgangs neu.</string>
   <string name="internal_media_format_title">Internen Speicher löschen</string>
   <string name="internal_memory">Interner Speicher</string>
@@ -2614,19 +2614,19 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="manually_add_network">Netzwerk hinzufügen</string>
   <string name="master_clear_accounts">"Sie sind zurzeit in folgenden Konten angemeldet: "</string>
   <string name="master_clear_all">"Alle Daten vom internen Telefonspeicher löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
-  <string name="master_clear_apply_step_1">&lt;b&gt;\"Werksreset\" löscht alle Daten auf Ihrem Telefon&lt;/b&gt;, inkl. Fotos, Musik, Notizen und andere persönliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
-  <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass Sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden während des Rücksetzens von Ihrem Gerät gelöscht. &lt;b&gt;Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.&lt;/b&gt;</string>
+  <string name="master_clear_apply_step_1"><b>\"Werksreset\" löscht alle Daten auf Ihrem Telefon</b>, inkl. Fotos, Musik, Notizen und andere persönliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
+  <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass Sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden während des Rücksetzens von Ihrem Gerät gelöscht. <b>Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.</b></string>
   <string name="master_clear_apply_title">Hinweis</string>
   <string name="master_clear_button_text">Telefon zurücksetzen</string>
   <string name="master_clear_confirm_title">Zurücksetzen?</string>
-  <string name="master_clear_desc">"Alle Daten in Ihrem &lt;b&gt;Internen Speicher&lt;/b&gt; werden gelöscht, inkl.:
+  <string name="master_clear_desc">"Alle Daten in Ihrem <b>Internen Speicher</b> werden gelöscht, inkl.:
 &lt;li&gt;Ihrem Google Konto&lt;/li&gt;
 &lt;li&gt;System- und Appdaten sowie Einstellungen&lt;/li&gt;
 &lt;li&gt;Heruntergeladene Apps&lt;/li&gt;"</string>
   <string name="master_clear_desc_also_erases_external">"&lt;li&gt;Musik&lt;/li&gt;
 &lt;li&gt;Fotos&lt;/li&gt;
 &lt;li&gt;und andere Benutzerdaten&lt;/li&gt;"</string>
-  <string name="master_clear_desc_erase_external_storage">Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der &lt;b&gt;USB-Speicher&lt;/b&gt; gelöscht werden</string>
+  <string name="master_clear_desc_erase_external_storage">Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Speicher</b> gelöscht werden</string>
   <string name="master_clear_erase_application_progress">Lösche Apps…</string>
   <string name="master_clear_failed">Zurücksetzung konnte nicht durchgeführt werden, weil der Dienst zur Systembereinigung nicht verfügbar ist</string>
   <string name="master_clear_final_button_text">Alles löschen</string>
@@ -2655,7 +2655,7 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="media_category">Medien</string>
   <string name="media_feedback_enable_title">Mit dem Rhythmus vibrieren</string>
   <string name="media_format_button_text">USB-Speicher löschen</string>
-  <string name="media_format_desc">Kompletten USB-Speicher löschen? Sie werden &lt;b&gt;alle&lt;/b&gt; gespeicherten Daten verlieren!</string>
+  <string name="media_format_desc">Kompletten USB-Speicher löschen? Sie werden <b>alle</b> gespeicherten Daten verlieren!</string>
   <string name="media_format_final_button_text">Alles löschen</string>
   <string name="media_format_final_desc">USB-Speicher und alle darauf gespeicherten Dateien löschen? Diese Aktion kann nicht rückgängig gemacht werden!</string>
   <string name="media_format_gesture_explanation">Sie müssen Ihr Entsperrungsmuster zeichnen, um die Löschung des USB-Speichers zu bestätigen</string>
@@ -4910,12 +4910,12 @@ Wenn Sie Speicher vergessen auswählen, gehen alle Daten darauf verloren.
 Sie können Apps später wieder installieren, aber deren Daten sind für immer verloren."</string>
   <string name="storage_internal_format_details">"Nach dem Formatieren können Sie diesen ^1 in anderen Geräten verwenden.
 Alle Daten auf diesem ^1 werden gelöscht. Erwägen Sie eine Sicherung.
-&lt;b&gt;Fotos &amp; andere Medien sichern&lt;/b&gt;
+<b>Fotos &amp; andere Medien sichern</b>
 Verschieben Sie Ihre Medien auf einen anderen Speicher in diesem Telefon oder kopieren Sie diese über USB auf einen PC.
-&lt;b&gt;Apps sichern&lt;/b&gt;
+<b>Apps sichern</b>
 Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie diese auf einen anderen Speicher auf diesem Telefon."</string>
   <string name="storage_internal_title">Interner Speicher</string>
-  <string name="storage_internal_unmount_details">"&lt;b&gt;Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein&lt;/b&gt;
+  <string name="storage_internal_unmount_details">"<b>Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein</b>
 Dieser ^1 ist formatiert, um nur auf diesem Gerät zu funktionieren. Er wird auf andern Geräten nicht funktionieren."</string>
   <string name="storage_label">Speicher</string>
   <string name="storage_low_summary">Einige Systemfunktionen wie die Synchronisierung funktionieren möglicherweise nicht richtig. Versuchen Sie Speicher freizugeben, indem Sie Apps oder Medieninhalte löschen.</string>
@@ -4956,10 +4956,10 @@ Dieser ^1 ist formatiert, um nur auf diesem Gerät zu funktionieren. Er wird auf
   <string name="storage_volume_used_total">Gesamt verwendet von %1$s</string>
   <string name="storage_wizard_format_confirm_body">"Es ist erforderlich, ^1 zu formatieren, um es sicher zu machen.
 Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren.
-&lt;b&gt;Formatieren löscht alle Daten, die auf ^1 gespeichert sind.&lt;/b&gt; Um Datenverlust zu vermeiden, erstellen Sie eine Sicherung."</string>
+<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b> Um Datenverlust zu vermeiden, erstellen Sie eine Sicherung."</string>
   <string name="storage_wizard_format_confirm_next">Löschen &amp; Formatieren</string>
   <string name="storage_wizard_format_confirm_public_body">"Es ist erforderlich, ^1 zu formatieren.
-&lt;b&gt;Formatieren löscht alle Daten, die auf ^1 gespeichert sind.&lt;/b&gt; Um Datenverlust zu vermeiden, erstellen Sie eine Sicherung."</string>
+<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b> Um Datenverlust zu vermeiden, erstellen Sie eine Sicherung."</string>
   <string name="storage_wizard_format_confirm_public_title">Als tragbaren Speicher formatieren</string>
   <string name="storage_wizard_format_confirm_third_body">Wird formatiert</string>
   <string name="storage_wizard_format_confirm_title">Als internen Speicher formatieren</string>
@@ -4972,7 +4972,7 @@ Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren.
   <string name="storage_wizard_init_title">Richten Sie ^1 ein</string>
   <string name="storage_wizard_migrate_body">"Sie können Fotos, Dateien und einige Apps auf diesen neuen ^1 verschieben.
 Das Verschieben dauert etwa ^2 und wird ^3 auf dem internen Speicher freigeben. Einige Apps werden während dieses Vorgangs nicht funktionieren."</string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Das Verschieben dauert etwa ^1 und wird ^2 auf dem ^3 freigeben.&lt;/b&gt;</string>
+  <string name="storage_wizard_migrate_confirm_body"><b>Das Verschieben dauert etwa ^1 und wird ^2 auf dem ^3 freigeben.</b></string>
   <string name="storage_wizard_migrate_confirm_next">Verschieben</string>
   <string name="storage_wizard_migrate_confirm_title">Jetzt verschieben</string>
   <string name="storage_wizard_migrate_details">"Während des Verschiebens:
@@ -5130,11 +5130,11 @@ Mit dieser Google-Funktion können Sie Ihre Daten synchronisieren, um von übera
   <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
   <string name="tether_share_qrcode_title">QR-Code teilen</string>
   <string name="tethering_help_button_text">Hilfe</string>
-  <string name="tethering_help_dialog_text">"&lt;b&gt;USB-Tethering&lt;/b&gt;
+  <string name="tethering_help_dialog_text">"<b>USB-Tethering</b>
 Sie können Ihr Androidtelefon mit einem USB-Kabel an den Computer anschließen, um die Internetverbindung Ihres Telefons mit dem Computer zu teilen.
 1. USB-Tethering funktioniert mit Windows Vista, Windows 7, Windows 8, Windows 8.1 and Linux.
 2. Die SD-Karte oder der USB-Speicher Ihres Telefons können nicht mit Ihrem Computer verbunden werden, wenn USB-Tethering ausgeführt wird.
-&lt;b&gt;Portabler WLAN-Hotspot&lt;/b&gt;
+<b>Portabler WLAN-Hotspot</b>
 Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um die Internetverbindung Ihres Telefons mit einem oder mehreren Computern oder anderen Geräten zu teilen.
 1. Wenn Ihr Telefon als WLAN-Hotspot verwendet wird, können die Apps Ihres Telefons über die WLAN-Verbindung nicht auf das Internet zugreifen (aber Sie bleiben natürlich über Ihr mobiles Datennetz mit dem Internet verbunden).
 2. Sie können den Hotspot in den WLAN-Hotspot-Einstellungen konfigurieren."</string>
@@ -5349,7 +5349,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="uicc_format_summary">Löscht alle Daten auf dem UICC-Speicher, wie z.B. Musik und Fotos</string>
   <string name="uicc_insert_summary">Legen Sie einen UICC-Speicher ein, um ihn einzuhängen</string>
   <string name="uicc_media_format_button_text">Lösche UICC-Speicher</string>
-  <string name="uicc_media_format_desc">Wollen Sie den UICC-Speicher löschen? Sie werden &lt;b&gt;alle&lt;/b&gt; Daten auf dem Speicher verlieren!</string>
+  <string name="uicc_media_format_desc">Wollen Sie den UICC-Speicher löschen? Sie werden <b>alle</b> Daten auf dem Speicher verlieren!</string>
   <string name="uicc_media_format_final_desc">Wollen Sie den UICC-Speicher löschen, was alle gespeicherten Dateien löschen wird? Sie können diese Aktion nicht rückgängig machen!</string>
   <string name="uicc_media_format_gesture_explanation">Sie müssen Ihr Entsperrmuster zeichnen, um die Löschung des UICC-Speichers zu bestätigen.</string>
   <string name="uicc_media_format_summary">Löscht alle Daten auf dem UICC-Speicher</string>
@@ -5491,7 +5491,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="usb_install_app_desc">Appinstallation über USB erlauben</string>
   <string name="usb_label_installer_cd">Installieren Sie Datentransfertools</string>
   <string name="usb_media_format_button_text">USB-Speicher löschen</string>
-  <string name="usb_media_format_desc">Wollen Sie den USB-Speicher löschen? Sie werden &lt;b&gt;alle&lt;/b&gt; Daten auf dem Speicher verlieren!</string>
+  <string name="usb_media_format_desc">Wollen Sie den USB-Speicher löschen? Sie werden <b>alle</b> Daten auf dem Speicher verlieren!</string>
   <string name="usb_media_format_final_desc">Wollen Sie den USB-Speicher löschen, was alle gespeicherten Dateien löschen wird? Sie können diese Aktion nicht rückgängig machen!</string>
   <string name="usb_media_format_gesture_explanation">Sie müssen Ihr Entsperrmuster zeichnen, um die Löschung des USB-Speichers zu bestätigen</string>
   <string name="usb_media_format_summary">Löscht alle Daten auf dem USB-Speicher</string>
@@ -5535,7 +5535,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="use_default_tts_settings_title">Immer meine Einstellungen verwenden</string>
   <string name="use_location_summary">Google darf Suchergebnisse und andere Dienste an Ihren Standort anpassen</string>
   <string name="use_location_title">Standort &amp; Google-Suche</string>
-  <string name="use_media_format_desc">USB-Speicher formatieren? Sie verlieren alle &lt;b&gt;alle&lt;/b&gt; gespeicherten Daten!</string>
+  <string name="use_media_format_desc">USB-Speicher formatieren? Sie verlieren alle <b>alle</b> gespeicherten Daten!</string>
   <string name="use_nuplayer">NuPlayer benutzen (experimental)</string>
   <string name="use_nuplayer_summary">Verwenden Sie NuPlayer anstatt dem AwesomePlayer</string>
   <string name="use_personalized_ad_service">Personalisierte Werbung anzeigen</string>
@@ -6102,8 +6102,8 @@ Für alle Apps, die scannen möchten, erlauben?"</string>
   <string name="wifi_setup_back">Zurück</string>
   <string name="wifi_setup_cancel">Abbrechen</string>
   <string name="wifi_setup_connect">Verbinden</string>
-  <string name="wifi_setup_description_connected">"Drücken Sie &lt;b&gt;Weiter&lt;/b&gt;, um mit der Einrichtung fortzufahren.
-Drücken Sie &lt;b&gt;Zurück&lt;/b&gt;, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen."</string>
+  <string name="wifi_setup_description_connected">"Drücken Sie <b>Weiter</b>, um mit der Einrichtung fortzufahren.
+Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen."</string>
   <string name="wifi_setup_description_connecting">Verbindungsaufbau kann einige Minuten dauern…</string>
   <string name="wifi_setup_detail">Netzwerkdetails</string>
   <string name="wifi_setup_eap_not_supported">Während der Einrichtung können Sie keine EAP-WLAN-Verbindung konfigurieren. Sie können dies anschließend in den Einstellungen unter \"Drahtlos &amp; Netzwerke\" vornehmen.</string>

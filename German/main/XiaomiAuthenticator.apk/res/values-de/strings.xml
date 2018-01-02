@@ -109,7 +109,7 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Datenschutzerklärung</string>
   <string name="progress_loading">Lädt…</string>
-  <string name="remove_Xiaomi_account_dialog_message">"Entfernen dieses Kontos wird &lt;b&gt;Ihnen die Möglichkeit nehmen&lt;/b&gt;, Codes zu generieren, jedoch wird &lt;b&gt;nicht&lt;/b&gt; die 2-stufige Verifikation deaktiviert. Dies kann Sie daran hindern, sich an Ihrem Konto anzumelden. Vor dem Entfernen:
+  <string name="remove_Xiaomi_account_dialog_message">"Entfernen dieses Kontos wird <b>Ihnen die Möglichkeit nehmen</b>, Codes zu generieren, jedoch wird <b>nicht</b> die 2-stufige Verifikation deaktiviert. Dies kann Sie daran hindern, sich an Ihrem Konto anzumelden. Vor dem Entfernen:
   &lt;ul&gt; &lt;li&gt;Deaktivieren Sie die 2-stufige Verifikation für dieses Konto, oder&lt;/li&gt; 
   &lt;li&gt;Stellen Sie sicher, dass sie eine Alternative zum Generieren von Codes haben.&lt;/li&gt; &lt;/ul&gt;"</string>
   <string name="remove_account">Konto entfernen</string>
@@ -138,7 +138,7 @@ Vor dem Entfernen:
   <string name="timesync_about_feature_preference_title">Über diese Funktion</string>
   <string name="timesync_about_feature_screen_details">"Wenn Sie &quot;Jetzt syncen&quot; drücken, wird Authenticator einmal versuchen, seine interne Uhr mit Google Servern zu syncen. Die Einstellungen Datum &amp; Uhrzeit des Geräts werden dabei nicht geändert.
  Während der Synchronisation der internen Uhr mit Google Servern wird Authenticator keine persönlichen Daten oder Kontoinformationen übermitteln.
- &lt;b&gt;Warum das nützlich ist:&lt;/b&gt;
+ <b>Warum das nützlich ist:</b>
  Authenticator generiert 2-stufige Verifikationscodes basierend auf 1) der aktuellen Zeit und 2) einer nur der App und dem Server bekannten Geheimnummer.
  Wenn Authenticator und der Server nicht übereinstimmen, wie spät es ist, werden die von der App generierten Codes eventuell beim Anmelden nicht akzeptiert.
  Standardmäßig nutzt Authenticator die Einstellungen Datum &amp; Uhrzeit des Geräts, und in den meisten Fällen können Sie gültige Codes generieren, indem Sie sicherstellen, dass Ihre Zeit-, Datums- und Zeitzoneneinstellungen korrekt konfiguriert sind. Wenn jedoch Zeitunterschiede auftauchen, kann es schwierig sein, diese zu beheben."</string>
