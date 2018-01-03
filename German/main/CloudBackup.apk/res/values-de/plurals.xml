@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="cloud_backup_detail_frequence_day">
+        <item quantity="other">Alle %d Tage sichern</item>
+         <item quantity="one">Jeden Tag sichern</item>
+     </plurals>
+     <plurals name="cloud_backup_detail_manage_summary">
+         <item quantity="other">%1$s Sicherungen, Größe: %2$s</item>
+         <item quantity="one">%1$s Sicherung, Größe: %2$s</item>
+     </plurals> 
     <plurals name="restoring_file_tile">
         <item quantity="other">Wiederherstellen von %d Dateien</item>
         <item quantity="one">Wiederherstellen von %d Datei</item>
