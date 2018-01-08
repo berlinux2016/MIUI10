@@ -45,9 +45,12 @@
   <string name="auto_set_nickname">Auto</string>
   <string name="back_view_description">Zurück</string>
   <string name="batch_delete">Mehrere löschen</string>
+  <string name="batch_delete_msg">%d Kontakte löschen?</string>
   <string name="blacklist">Blockieren</string>
   <string name="bluetooth_connection_failed_toast">Bluetoothverbindung wurde unterbrochen</string>
   <string name="blurbJoinContactDataWith">Wählen Sie den Kontakt aus, den Sie mit %s zusammenführen möchten</string>
+  <string name="btn_delete_multi_contacts">%d Kontakte löschen</string>
+  <string name="btn_delete_one_contact">Kontakt löschen</string>
   <string name="btn_rotation">Drehen</string>
   <string name="btn_split_contact">Separater Kontakt</string>
   <string name="button_cancel_scan">Abbrechen</string>
@@ -80,7 +83,7 @@
   <string name="call_main">Hauptnummer anrufen</string>
   <string name="call_mms">Anruf (MMS)</string>
   <string name="call_mobile">Anruf (Mobil)</string>
-  <string name="call_not_found"> --</string>
+  <string name="call_not_found">" --"</string>
   <string name="call_operator_init">Betreiber auswählen</string>
   <string name="call_other">Anruf</string>
   <string name="call_other_fax">Fax anrufen</string>
@@ -89,7 +92,7 @@
   <string name="call_radio">Anruf (Funk)</string>
   <string name="call_record_setting_miui">Aufnahmeeinstellungen</string>
   <string name="call_settings">Einstellungen</string>
-  <string name="call_settings_primary_user_only">Anrufeinstellungen können nur vom primären Benutzer geändert werden</string>
+  <string name="call_settings_primary_user_only">Anrufeinstellungen können nur vom Hauptbenutzer geändert werden</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Mit SIM 1 anrufen</string>
   <string name="call_sim2_description">SIM 2</string>
@@ -101,6 +104,8 @@
   <string name="call_work">Anruf (geschäftl.)</string>
   <string name="call_work_mobile">Anruf Mobiltelefon (geschäftl.)</string>
   <string name="call_work_pager">Anruf Pager (geschäftl.)</string>
+  <string name="calllog_call_note_menu">Anrufnotizen</string>
+  <string name="calllog_call_record_menu">Anrufaufnahmen</string>
   <string name="calllog_menu_blacklist">Blockieren</string>
   <string name="calllog_menu_edit_before_call">Bearbeiten</string>
   <string name="calllog_menu_send_sms">SMS senden</string>
@@ -182,13 +187,12 @@
   <string name="cloud_state_loading">Bitte warten…</string>
   <string name="cloud_state_sync_finished">Synchronisieren mit Mi Cloud</string>
   <string name="cloud_state_syncing">Mit Mi Cloud synchronisiert</string>
-  <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
-  <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s%2$s"</string>
   <string name="composer_failed_to_get_database_infomation">Abrufen der Datenbankinformationen nicht möglich</string>
   <string name="composer_has_no_exportable_contact">Es sind keine exportierbaren Kontakte vorhanden. Falls sich Kontakte auf Ihrem Telefon befinden, ist das Exportieren der Kontakte möglicherweise durch den Datenanbieter gesperrt.</string>
   <string name="composer_not_initialized">Programm zum Erstellen der vCard wurde nicht richtig ausgeführt</string>
   <string name="confirm_delete_contact_all_call_logs">Anruflisten löschen?</string>
   <string name="confirm_delete_selected_all_call_logs">Anruflisten löschen?</string>
+  <string name="confirm_delete_sim_entry_miui">%d Kontakte von der SIM-Karte löschen?</string>
   <string name="confirm_delete_sim_entry_miui_title">SIM-Karte löschen</string>
   <string name="confirm_export_message">Ihre Kontaktliste wird in die Datei \"%s\" exportiert</string>
   <string name="confirm_export_title">Kontakte exportieren?</string>
@@ -224,6 +228,7 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="contact_detail_miprofile_save_success_toast">Kontaktkarte empfangen</string>
   <string name="contact_detail_miprofile_settings_header">WEITERE EINSTELLUNGEN</string>
   <string name="contact_detail_miprofile_subtitle">Karten bereits ausgetauscht</string>
+    <string name="contact_detail_picture_description">Auswählen, um Bild auszutauschen</string>
   <string name="contact_detail_profile_switch_fail_network_toast">Netzwerkverbindung fehlgeschlagen</string>
   <string name="contact_detail_profile_switch_fail_toast">Es ist ein Fehler mit unserem Server aufgetreten</string>
   <string name="contact_detail_profile_switch_off">Kontaktkarten sind aus</string>
@@ -241,6 +246,7 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="contact_editor_prompt_multiple_accounts">Kontakt speichern unter</string>
   <string name="contact_editor_prompt_one_account">Neuer Kontakt wird mit %1$s synchronisiert</string>
   <string name="contact_editor_prompt_zero_accounts">Im Telefon speichern oder ein neues Konto anlegen</string>
+  <string name="contact_import_methods_dialog_title">Importmethode auswählen</string>
   <string name="contact_is_readOnly">Nur-lesen Kontakte können nicht geändert werden</string>
   <string name="contact_list_loading">Lade…</string>
   <string name="contact_pick_photo">Bild</string>
@@ -259,6 +265,7 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="contacts_unavailable_add_account">Mit einem Konto anmelden</string>
   <string name="contacts_unavailable_create_contact">Neuen Kontakt erstellen</string>
   <string name="contacts_unavailable_import_contacts">Kontakte aus Datei importieren</string>
+  <string name="contacts_unavailable_import_from_old_device">Von einem älteren Telefon importieren</string>
   <string name="contacts_unavailable_import_sim_contacts">Kontakte von SIM importieren</string>
   <string name="convenient_service">Dienste</string>
   <string name="copy_number">Kopieren</string>
@@ -343,7 +350,7 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="details_list_group_header_other">WEITERE</string>
   <string name="device_bluetooth_title">Kontakte übertragen</string>
   <string name="device_import_account_dialog_title">Konto auswählen</string>
-  <string name="device_import_account_dialog_title_suffix">"(%1$s Kontakte gefunden)"</string>
+  <string name="device_import_account_dialog_title_suffix">(%1$s Kontakte gefunden)</string>
   <string name="device_import_failed_message">Import fehlgeschlagen</string>
   <string name="device_import_local_account">Lokales Konto</string>
   <string name="device_import_message">Importiere</string>
@@ -359,12 +366,21 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="device_paired_dialog_title">Kontakte abrufen…</string>
   <string name="device_pairing_dialog_message">Verbinden…</string>
   <string name="device_pairing_dialog_title">Geräte verbinden</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Bitte schalten Sie "Bluetooth" auf dem anderen Gerät ein;
-   - Auf Androidgeräten finden Sie "Bluetooth" normalerweise bei den Netzwerkeinstellungen
-   - Auf iOS-Geräten sollten Sie "Bluetooth" in den Einstellungen suchen
-2. Auf Androidgeräten sollten Sie außerdem die "Sichtbarkeit für andere Geräte" einschalten;
-3. Klicken Sie "Weiter"und erlauben Sie im nächsten Schritt den Zugriff auf die Kontakte."</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Bitte schalten Sie \"Bluetooth\" auf dem anderen Gerät ein;
+        
+
+- Auf Androidgeräten finden Sie \"Bluetooth\" normalerweise bei den Netzwerkeinstellungen
+        
+- Auf iOS-Geräten sollten Sie \"Bluetooth\" in den Einstellungen suchen
+        
+
+2. Auf Androidgeräten sollten Sie außerdem die \"Sichtbarkeit für andere Geräte\" einschalten;
+        
+
+3. Klicken Sie \"Weiter\" und erlauben Sie im nächsten Schritt den Zugriff auf die Kontakte."</string>
   <string name="device_transfer_by_sim_message">"1. Speichern Sie die Kontakte des anderen Geräts auf der SIM-Karte;
+        
+
 2. Gehen Sie zu "Kontakteinstellungen" -- "Kontakte importieren/exportieren" -- "Von SIM-Karte importieren", halten Sie einen Kontakt gedrückt, wählen Sie die zu importierenden Kontakte aus, dann klicken Sie "Importieren"."
   </string>
   <string name="device_version_header_bluetooth">Stellen Sie sicher, dass Bluetooth an ist</string>
