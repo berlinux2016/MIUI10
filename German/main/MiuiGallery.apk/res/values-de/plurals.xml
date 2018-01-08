@@ -8,6 +8,14 @@
     <item quantity="other">%d Cloudfotos hinzugefügt, schalten Sie \"Nur lokale Alben anzeigen\" aus, um diese anzusehen</item>
     <item quantity="one">Ein Cloudfoto hinzugefügt, schalten Sie \"Nur lokale Alben anzeigen\" aus, um es anzusehen</item>
   </plurals>
+  <plurals name="add_to_album_failed_with_reason_and_count">
+    <item quantity="other">%2$d Elemente können nicht zum Album hinzugefügt werden. %1$s.</item>
+    <item quantity="one">Das Element %2$d kann nicht zum Album hinzugefügt werden. %1$s.</item>
+   </plurals>
+   <plurals name="add_to_secret_failed_with_reason_and_count">
+    <item quantity="other">%2$d Elemente können nicht zu einem versteckten Album hinzugefügt werden. %1$s.</item>
+    <item quantity="one">Das Element %2$d kann nicht zu einem versteckten Album hinzugefügt werden. %1$s.</item>
+  </plurals>   
   <plurals name="add_to_secret_successful">
     <item quantity="other">%1$d Fotos zum versteckten Album hinzugefügt</item>
     <item quantity="one">1 Foto zum versteckten Album hinzugefügt</item>
@@ -216,6 +224,10 @@
     <item quantity="other">%d Fotos total</item>
     <item quantity="one">ein Foto total</item>
   </plurals>
+  <plurals name="fail_reason_processing_file">
+    <item quantity="other">Bearbeitung von Fotos…</item>
+    <item quantity="one">Bearbeitung eines Fotos…</item>
+  </plurals>  
   <plurals name="fast_share_auto_render_failed">
     <item quantity="other">%1$d Fotos konnten nicht gerendert werden und wurden übersprungen</item>
     <item quantity="one">Ein Foto konnte nicht gerendert werden und wurde übersprungen</item>
@@ -356,6 +368,10 @@
     <item quantity="other">insgesamt %d Fotos</item>
     <item quantity="one">insgesamt ein Foto</item>
   </plurals>
+  <plurals name="remove_from_secret_failed_with_reason_and_count">
+    <item quantity="other">%2$d Elemente können nicht aus dem versteckten Album entfernt werden. %1$s.</item>
+    <item quantity="one">Das Element %2$d kann nicht aus dem versteckten Album entfernt werden. %1$s.</item>
+  </plurals>  
   <plurals name="search_feedback_done_mark_and_contribute_false_negative">
     <item quantity="other">%1$d Fotos zu \"2$s\ und zur Datenbank hinzugefügt</item>
     <item quantity="one">Ein Foto zu \"2$s\ und zur Datenbank hinzugefügt</item>
@@ -376,6 +392,10 @@
     <item quantity="other">%d Sekunden</item>
     <item quantity="one">eine Sekunde</item>
   </plurals>
+  <plurals name="send_processing_files_error">
+    <item quantity="other">Konnte nicht teilen. %d Fotos werden immer noch bearbeitet…</item>
+    <item quantity="one">Konnte nicht teilen. Ein Foto wird immer noch bearbeitet…</item>
+  </plurals>  
   <plurals name="sync_error_title">
     <item quantity="other">%d Fotos und Videos wurden nicht gesichert</item>
     <item quantity="one">Ein Foto oder Video wurde nicht gesichert</item>
