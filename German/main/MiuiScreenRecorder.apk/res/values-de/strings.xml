@@ -2,6 +2,7 @@
 <resources>
   <string name="app_info">Aufnahme läuft, zum Beenden antippen</string>
   <string name="app_name">Bildschirmaufnahme</string>
+  <string name="app_notification_info">Bildschirmrekorder arbeitet im Hintergrund</string>
   <string name="app_notification_title">Bildschirmaufnahme</string>
   <string name="auto_stop_title">Video erfolgreich gespeichert</string>
   <string name="battery_not_allowed" formatted="false">Die Aufnahme kann bei weniger als 3% Akkustand nicht gestartet werden, mehr als 20% werden empfohlen</string>
@@ -38,20 +39,21 @@
   <string name="low_battery">Laden Sie Ihr Telefon auf, bevor Sie eine Aufnahme starten</string>
   <string name="low_battery_title">Niedriger Akkustand</string>
   <string name="low_battery_warning">Der Akkustand ist zu niedrig. Die Aufnahme wurde gestoppt und das Video gespeichert.</string>
-  <string name="low_memory">Es sind weniger als 200MB freier Speicher verfügbar. Sie können maximal bis zu 5 Minuten aufnehmen.</string>
+  <string name="low_memory">Es sind weniger als 1GB freier Speicher verfügbar. Sie können maximal bis zu 20 Minuten aufnehmen.</string>
   <string name="low_memory_dior">Es sind weniger als 500MB freier Speicher verfügbar. Sie können maximal bis zu 12 Minuten aufnehmen.</string>
   <string name="low_memory_title">Zu wenig freier Speicher</string>
   <string name="low_momery_warning">Zu wenig freier Speicher. Aufnahme angehalten und Video gespeichert.</string>
   <string name="memory_not_allowed">Zu wenig freier Speicher für eine Bildschirmaufnahme. Bereinigen Sie den Speicher und versuchen Sie es erneut.</string>
   <string name="mic_sound">Ton über Mikrofon</string>
   <string name="no_recorder_info">Keine Videos gefunden</string>
-  <string name="no_recorder_info2">Auf die Kamera tippen, um eine Aufnahme hinzuzufügen</string>
+  <string name="no_recorder_info2">Auf die Kamera tippen, um eine Aufnahme zu starten</string>
   <string name="no_sound">Kein Ton</string>
   <string name="operation_delete">Löschen</string>
   <string name="operation_send">Senden</string>
   <string name="quit_recording">Bildschirmaufnahme beenden</string>
   <string name="recording_failure">Aufzeichnung fehlgeschlagen, bitte starten Sie die Bildschirmaufnahme neu</string>
   <string name="recording_max_size">Die Aufzeichnung wurde gestoppt und gespeichert, da die maximale Videogröße erreicht wurde. Beginnen Sie mit der Aufnahme von dort, wo Sie aufgehört haben, wenn Sie noch nicht fertig sind.</string>
+  <string name="recording_without_mic">Mikrofon wird schon verwendet und kann nicht aufnehmen!</string>
   <string name="resolution">Auflösung</string>
   <string name="resolution_summary">Videos in besserer Qualität sehen schärfer aus</string>
   <string name="screen_orientation">Ausrichtung</string>
