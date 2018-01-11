@@ -382,8 +382,7 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="device_transfer_by_sim_message">"1. Speichern Sie die Kontakte des anderen Geräts auf der SIM-Karte;
         
 
-2. Gehen Sie zu "Kontakteinstellungen" -- "Kontakte importieren/exportieren" -- "Von SIM-Karte importieren", halten Sie einen Kontakt gedrückt, wählen Sie die zu importierenden Kontakte aus, dann klicken Sie "Importieren"."
-  </string>
+2. Gehen Sie zu "Kontakteinstellungen" -- "Kontakte importieren/exportieren" -- "Von SIM-Karte importieren", halten Sie einen Kontakt gedrückt, wählen Sie die zu importierenden Kontakte aus, dann klicken Sie "Importieren"."</string>
   <string name="device_version_header_bluetooth">Stellen Sie sicher, dass Bluetooth an ist</string>
   <string name="device_version_header_no_bluetooth">Kontakte von SIM-Karte importieren</string>
   <string name="dial">Wählen</string>
@@ -425,6 +424,8 @@ Die Guthabeninformationen werden einmal täglich aktualisiert, um die Anzahl der
   <string name="display_sim_contacts">SIM-Kontakte anzeigen</string>
   <string name="display_ungrouped">Alle anderen Kontakte</string>
   <string name="display_warn_remove_ungrouped">Wenn \"%s\" aus der Synchronisation entfernt wird, werden auch alle nicht gruppierten Kontakte aus der Synchronisation entfernt</string>
+  <string name="dlg_add_blacklist">Diese Nummer sperren?</string>
+  <string name="dlg_remove_blacklist">Diese Nummer freigeben?</string>
   <string name="duplicate_group_name">Gruppe ist bereits vorhanden</string>
   <string name="editContactDescription">Kontakt bearbeiten</string>
   <string name="editContactNameExpandCloseDescription">Weniger</string>
@@ -450,7 +451,10 @@ Die Guthabeninformationen werden einmal täglich aktualisiert, um die Anzahl der
   <string name="expandCloseViewDescription">Weniger</string>
   <string name="expandOpenViewDescription">Mehr</string>
   <string name="export_sim_contact_finish">Export abgeschlossen</string>
+  <string name="export_sim_contact_finish_failure">%1$d übertragen | %2$d verbleiben</string>
   <string name="export_sim_contact_finish_msg">%1$d übertragen | %2$d übersprungen | %3$d verbleibend %4$s</string>
+  <string name="export_sim_contact_finish_success">%d Kontakte kopiert</string>
+  <string name="export_sim_contacts_dialog_message">Ihre SIM-Karte kann %d Kontakte speichern</string>
   <string name="export_to_sdcard">Auf die SD-Karte exportieren</string>
   <string name="export_to_sim">Auf SIM-Karte exportieren</string>
   <string name="export_to_sim1">Auf SIM-Karte 1 exportieren</string>
@@ -516,9 +520,6 @@ Grund: \"%s\""</string>
   <string name="group_sms_progress_msg">Gruppiere…</string>
   <string name="groupsLabel">Gruppen</string>
   <string name="groups_list_empty">Keine Gruppen</string>
-  <string name="help_url_people_add" />
-  <string name="help_url_people_edit" />
-  <string name="help_url_people_main" />
   <string name="hint_distance" />
   <string name="hint_findContacts">Kontakte suchen</string>
   <string name="hint_more_contact">Doppelte Kontakte zusammenführen</string>
@@ -550,6 +551,7 @@ Grund: \"%s\""</string>
   <string name="import_one_vcard_string">1 vCard-Datei importieren</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Ausgewählte Kontakte importieren</string>
+  <string name="import_sim_contacts_hint_title">Kontakte von der SIM-Karte importieren</string>
   <string name="import_sim_entries_finish">Kontakte von SIM-Karte importiert</string>
   <string name="import_sim_entry_miui">Importieren</string>
   <string name="import_to_xiaomi_account_confirm">Importieren</string>
@@ -648,6 +650,7 @@ Grund: \"%s\""</string>
   <string name="menu_editContact">Bearbeiten</string>
   <string name="menu_editGroup">Bearbeiten</string>
   <string name="menu_edit_mode">Bearbeitungsmodus</string>
+  <string name="menu_export_database">Datenbank exportieren</string>
   <string name="menu_help">Hilfe</string>
   <string name="menu_import_export">Importieren/Exportieren</string>
   <string name="menu_joinAggregate">Zusammenführen</string>
@@ -764,176 +767,67 @@ Grund: \"%s\""</string>
   <string name="noContactHelpTextAccountsInfo" />
   <string name="noContactHelpTextImportXiaomiAccountInfo">Xiaomi-, Google- und Exchange-Kontakte synchronisieren</string>
   <string name="noContacts">Keine Kontakte</string>
-  <string name="noContactsHelpText">
-    "Keine Kontakte zum Anzeigen vorhanden.
+  <string name="noContactsHelpText">"Keine Kontakte zum Anzeigen vorhanden.
 
-    Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;
-    &lt;/b&gt;", dann drücken Sie:
+    Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", dann drücken Sie:
 
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Neue Kontakte, um einen neuen Kontakt zu erstellen
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Importieren/Exportieren, um Kontakte von der SIM- oder SD-Karte zu importieren
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "
-  </string>
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Neue Kontakte, um einen neuen Kontakt zu erstellen
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importieren/Exportieren, um Kontakte von der SIM- oder SD-Karte zu importieren
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"</string>
   <string name="noContactsHelpTextForCreateShortcut">Keine Kontakte zum Anzeigen vorhanden</string>
-  <string name="noContactsHelpTextWithSync">
-    "Keine Kontakte zum Anzeigen vorhanden. (Sollten Sie gerade ein Konto hinzugefügt haben, kann es einen Moment bis zur Anzeige dauern.)
+  <string name="noContactsHelpTextWithSync">"Keine Kontakte zum Anzeigen vorhanden. (Sollten Sie gerade ein Konto hinzugefügt haben, kann es einen Moment bis zur Anzeige dauern.)
 
-    Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;
-    &lt;/b&gt;" und dann wählen Sie:
+Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;&lt;/b&gt;" und dann wählen Sie:
 
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Anzeigeoptionen, um die anzuzeigenden Kontakte auszuwählen
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Neue Kontakte, um einen neuen Kontakt zu erstellen
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Importieren/Exportieren, um Kontakte von der SIM- oder SD-Karte zu importieren
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "
-  </string>
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Anzeigeoptionen, um die anzuzeigenden Kontakte auszuwählen
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Neue Kontakte, um einen neuen Kontakt zu erstellen
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importieren/Exportieren, um Kontakte von der SIM- oder SD-Karte zu importieren
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">Keine Kontakte zum Anzeigen vorhanden. (Sollten Sie gerade ein Konto hinzugefügt haben, kann es einen Moment bis zur Anzeige dauern.)</string>
-  <string name="noContactsNoSimHelpText">
-    "Keine Kontakte zum Anzeigen vorhanden.
+  <string name="noContactsNoSimHelpText">"Keine Kontakte zum Anzeigen vorhanden.
 
-    Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;
-    &lt;/b&gt;" und dann wählen Sie:
+Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;&lt;/b&gt;" und dann wählen Sie:
+ 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Neue Kontakte, um einen neuen Kontakt zu erstellen
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importieren/Exportieren, um Kontakte von der SD-Karte zu importieren
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"</string>
+  <string name="noContactsNoSimHelpTextWithSync">"Keine Kontakte zum Anzeigen vorhanden. (Sollten Sie gerade ein Konto hinzugefügt haben, kann es einen Moment bis zur Anzeige dauern.)
 
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Neue Kontakte, um einen neuen Kontakt zu erstellen
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Importieren/Exportieren, um Kontakte von der SD-Karte zu importieren
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "
-  </string>
-  <string name="noContactsNoSimHelpTextWithSync">
-    "Keine Kontakte zum Anzeigen vorhanden. (Sollten Sie gerade ein Konto hinzugefügt haben, kann es einen Moment bis zur Anzeige dauern.)
-
-    Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;
-    &lt;/b&gt;", und dann wählen Sie:
-
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Anzeigeoptionen, um die anzuzeigenden Kontakte auszuwählen
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Neue Kontakte, um einen neuen Kontakt zu erstellen
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "&lt;b&gt;
-      &lt;font fgcolor="#ffffffff"&gt;
-        &lt;li&gt;
-          "Importieren/Exportieren, um Kontakte von der SD-Karte zu importieren
-          "
-        &lt;/li&gt;
-      &lt;/font&gt;
-    &lt;/b&gt;"
-    "
-  </string>
+Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;&lt;/b&gt;", und dann wählen Sie:
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Anzeigeoptionen, um die anzuzeigenden Kontakte auszuwählen
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Neue Kontakte, um einen neuen Kontakt zu erstellen
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importieren/Exportieren, um Kontakte von der SD-Karte zu importieren
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"</string>
   <string name="noContactsWithPhoneNumbers">Keine Kontakte mit Telefonnummer vorhanden</string>
-  <string name="noFavoritesHelpText">
-    "Keine Favoriten vorhanden.
+  <string name="noFavoritesHelpText">"Keine Favoriten vorhanden.
 
     Um einen Kontakt zu den Favoriten hinzuzufügen:
 
-    "&lt;li&gt;
-      Berühre &lt;b&gt;Kontakte&lt;/b&gt;" tab
-      "
-    &lt;/li&gt;"
-    "&lt;li&gt;
-      "Kontakt wählen, der zu den Favoriten hinzugefügt werden soll
-      "
-    &lt;/li&gt;"
-    "&lt;li&gt;
-      "Stern neben dem Kontaktnamen antippen
-      "
-    &lt;/li&gt;"
-    "
-  </string>
+"&lt;li&gt;Berühre &lt;b&gt;Kontakte&lt;/b&gt;" tab
+"&lt;/li&gt;" 
+"&lt;li&gt;"Kontakt wählen, der zu den Favoriten hinzugefügt werden soll
+"&lt;/li&gt;" 
+"&lt;li&gt;"Stern neben dem Kontaktnamen antippen
+"&lt;/li&gt;"
+"</string>
   <string name="noGroups">Keine Gruppen</string>
   <string name="noMatchingContacts">Keine passenden Kontakte gefunden</string>
   <string name="noRecentContacts">Keine aktuellen Kontakte</string>
@@ -949,6 +843,7 @@ Grund: \"%s\""</string>
   <string name="non_phone_add_to_contacts">Zu einem existierenden Kontakt hinzufügen</string>
   <string name="non_phone_caption">Telefonnummer</string>
   <string name="non_phone_close">Schließen</string>
+  <string name="none_found">Kein Gerät gefunden</string>
   <string name="none_paired">Zurzeit sind keine Geräte verbunden</string>
   <string name="not_applied">Nicht angewendet</string>
   <string name="notification_action_voicemail_play">Abspielen</string>
