@@ -339,6 +339,7 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="description_minus_button">Minus</string>
   <string name="description_plus_button">Plus</string>
   <string name="description_quick_contact_for">Schnellkontakt für %1$s</string>
+  <string name="description_quick_dial_button">Kurzwahl</string>  
   <string name="description_search_button">Suchen</string>
   <string name="description_send_message">Nachricht an %1$s senden</string>
   <string name="description_send_text_message">SMS an %1$s senden</string>
@@ -988,6 +989,7 @@ Grund: \"%s\""</string>
   <string name="path_key_rebuild_t9_index_title">Systemanwendungen/Kontakte/Kontaktoptionen/Indexdaten neu erstellen</string>
   <string name="path_key_sim_manage">Systemanwendungen/Kontakte/Kontaktoptionen/SIM-Karten</string>
   <string name="path_preference_contacts_filter">Systemanwendungen/Kontakte/Anzeigeeinstellungen/Kontaktlisteneinstellungen</string>
+  <string name="path_quick_dial_setting">Systemapps/Kontakte/Kurzwahl</string>  
   <string name="path_remove_duplicate">Systemanwendungen/Kontakte/Kontaktoptionen/Duplikate zusammenführen</string>
   <string name="path_share_visible_contacts">Systemanwendungen/Kontakte/Importieren und Exportieren/Sichtbare Kontakte teilen</string>
   <string name="path_sim_capacity">Systemanwendungen/Kontakte/SIM-Kartenkapazität</string>
@@ -1100,7 +1102,13 @@ Grund: \"%s\""</string>
   <string name="qr_card_card">Mein QR-Code</string>
   <string name="qrcode_card_title">QR-Code Karte</string>
   <string name="qrcode_editor_flash_failed">QR-Code konnte nicht aktualisiert</string>
-  <string name="quickcontact_missing_app">Für diese Aktion wurde keine Anwendung gefunden</string>
+  <string name="quickcontact_missing_app">Für diese Aktion wurde keine Anwendung gefunden</string>  
+  <string name="quick_dial_setting_delete_dialog_message">Zugeordnete Kurzwahlnummer löschen?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Löschen</string>
+  <string name="quick_dial_setting_hint">Tippen Sie auf eine Schaltfläche, um eine Kurzwahlnummer zuzuweisen oder zu entfernen. Halten Sie die Taste mit der zugewiesenen Nummer gedrückt, um zu wählen.</string>
+  <string name="quick_dial_setting_set_dialog_message">Dieser Taste eine Kurzwahlnummer zuweisen?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Ja</string>
+  <string name="quick_dial_setting_title">Kurzwahl</string>
   <string name="quit_dialog_confirm_message">Sie haben noch keine Kontakte zusammengeführt</string>
   <string name="quit_dialog_confirm_title">Sie haben noch keine Kontakte zusammengeführt</string>
   <string name="readOnlyContactDeleteConfirmation">Dieser Kontakt enthält Informationen von mehreren Konten. Informationen von schreibgeschützten Konten werden nicht gelöscht, sondern in Ihren Kontaktlisten ausgeblendet.</string>
@@ -1170,6 +1178,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
   <string name="search_key_rebuild_t9_index_title">Organisieren;Kontakte;t9</string>
   <string name="search_key_sim_manage">Organisieren;Kontakte</string>
   <string name="search_preference_contacts_filter">Kontakte;Anzeige</string>
+  <string name="search_quick_dial_setting">Kontakte</string>  
   <string name="search_remove_duplicate">Organisieren;Kontakte</string>
   <string name="search_results_searching">Suche läuft…</string>
   <string name="search_settings_description">Namen Ihrer Kontakte</string>
