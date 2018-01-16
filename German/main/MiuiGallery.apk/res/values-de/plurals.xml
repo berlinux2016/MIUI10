@@ -395,7 +395,19 @@
   <plurals name="send_processing_files_error">
     <item quantity="other">Konnte nicht teilen. %d Fotos werden immer noch bearbeitet…</item>
     <item quantity="one">Konnte nicht teilen. Ein Foto wird immer noch bearbeitet…</item>
-  </plurals>  
+  </plurals>
+  <plurals name="slim_complete_photo_count">
+    <item quantity="other">%d Fotos optimiert</item>
+    <item quantity="one">Ein Foto optimiert</item>
+  </plurals>
+  <plurals name="slim_exit_dialog_message">
+    <item quantity="other">%d Fotos wurden nicht optimiert. Jetzt aufhören?</item>
+    <item quantity="one">Ein Foto wurde nicht optimiert. Jetzt aufhören?</item>
+  </plurals>
+  <plurals name="slim_remain_photo_count">
+    <item quantity="other">%d Fotos übrig</item>
+    <item quantity="one">Ein Foto übrig</item>
+  </plurals>
   <plurals name="sync_error_title">
     <item quantity="other">%d Fotos und Videos wurden nicht gesichert</item>
     <item quantity="one">Ein Foto oder Video wurde nicht gesichert</item>
