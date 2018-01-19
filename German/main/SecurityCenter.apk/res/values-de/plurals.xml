@@ -358,4 +358,8 @@
     <item quantity="other">%d Tage verbleibend, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Erneuern Sie die Sitzung, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</item>
     <item quantity="one">Ein Tag verbleibend, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Erneuern Sie die Sitzung, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</item>
   </plurals>
+  <plurals name="network_restrict_count">
+    <item quantity="other">"Der Netzwerkzugang ist beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> Apps"</item>
+    <item quantity="one">"Der Netzwerkzugang ist beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> App"</item>
+  </plurals>
 </resources>
