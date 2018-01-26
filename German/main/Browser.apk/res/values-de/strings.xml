@@ -98,13 +98,13 @@
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="at_miui_browser">\@MIUI Browser</string>
-  <string name="autoSwithcingSearchEngineTips">Zur meistgenutzten Suchmaschine geändert</string>
   <string name="autofill_keyboard_accessory_content_description">Verfügbare Vorschläge</string>
   <string name="autofill_popup_content_description">Autofill-Popup anzeigen</string>
   <string name="autologin_bar_error">Anmeldung fehlgeschlagen</string>
   <string name="autologin_bar_hide_text">Verwerfen</string>
   <string name="autologin_bar_login_text">Anmelden</string>
   <string name="autologin_bar_text">Anmelden als</string>
+  <string name="autoSwithcingSearchEngineTips">Zur meistgenutzten Suchmaschine geändert</string>
   <string name="back_button_label">Zurück</string>
   <string name="back_description">Zurück</string>
   <string name="block">Blockieren</string>
@@ -370,7 +370,6 @@
   <string name="ignore_add_pwa_dialog_today">Heute nicht mehr zeigen</string>
   <string name="in_incognito">Sie sind inkognito! Webseites, die Sie besuchen, werden in Ihrem Browserverlauf nicht angezeigt.</string>
   <string name="in_secureaccess">Browser ist im sicheren Modus</string>
-  <string name="isReplacePage">Die Datei existiert bereits, ersetzen?</string>
   <string name="is_first_history_item">Dies ist die erste Seite in Ihrem Browserverlauf</string>
   <string name="is_first_tab">Dies ist der erste Tab</string>
   <string name="is_last_history_item">Dies ist die letzte Seite Ihres Browserverlaufs</string>
@@ -378,6 +377,7 @@
   <string name="is_page_bottom">Sie haben das Ende der Seite erreicht</string>
   <string name="is_page_top">Sie sind am oberen Seitenrand</string>
   <string name="isreplace">Die Datei existiert bereits, ersetzen?</string>
+  <string name="isReplacePage">Die Datei existiert bereits, ersetzen?</string>
   <string name="js_dialog_before_unload">%s. Diese Seite verlassen?</string>
   <string name="js_dialog_before_unload_negative_button">Bleiben</string>
   <string name="js_dialog_before_unload_positive_button">Verlassen</string>
@@ -547,7 +547,6 @@
   <string name="nav_screen_container_tab_incognito">Privater Tab</string>
   <string name="nav_screen_container_tab_normal">Normaler Tab</string>
   <string name="nav_screen_incognito_message">"Ihr Browser- und Suchverlauf wird im Inkognito-Modus nicht gespeichert.
-Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen weiterhin gespeichert werden."</string>
   <string name="nav_screen_incognito_time">Neue Seite wird automatisch nach %s Sekunden erstellt</string>
   <string name="nav_screen_incognito_title">Inkognito-Modus</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Abbrechen</string>
@@ -816,6 +815,8 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="share_by_yidianzixun">【YidianZixun】</string>
   <string name="share_image_text">Sieh, was ich geteilt habe! @MIUI</string>
   <string name="share_page_text">"Ich genieße 【%1$s】 | %2$s"</string>
+Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen weiterhin gespeichert werden."</string>
+ 
   <string name="show_check_security_url_check_tip_dialog_description">"Wir werden Ihre personenbezogenen Daten erheben und verwenden, wenn Sie sich für die Nutzung unserer Dienste entscheiden. 
 Nachfolgend sind die Daten, die wir sammeln:  
 1. Sichere URLs: Wir erfassen die URLs der Webseiten, die Sie bei der Nutzung unserer Dienste besuchen.
@@ -878,9 +879,9 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="suggest_access_music">Mi Musik</string>
   <string name="suggest_item_delete_text">Löschen</string>
   <string name="suggest_open_app_failed">Konnte die App nicht öffnen</string>
-  <string name="switchText">JA</string>
   <string name="switch_proxy_dialog_msg">Netzwerk-Hijacking erkannt. Verwenden Sie die integrierte Sicherheitsapp oder melden Sie diesen Vorfall bei Ihrem Netzbetreiber.</string>
   <string name="switch_proxy_dialog_title">Netzwerk-Hijacking</string>
+  <string name="switchText">JA</string>
   <string name="sync_and_backup_bookmark">Synchronisieren und Lesezeichen sichern</string>
   <string name="sync_and_backup_history">Synchronisieren und Sichern von Ereignissen</string>  
   <string name="sync_cloud_tabs">Synchronisation</string>
@@ -900,10 +901,10 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="too_many_windows_dialog_title">Kann keine weiteren Registerkarten öffnen</string>
   <string name="transfer_prompt_0">Video abspielen</string>
   <string name="transfer_restart">Vom Anfang abspielen</string>
-  <string name="unSwitchText">NEIN</string>
   <string name="undo">Rückgängig</string>
   <string name="unknown_title">Unbekannt</string>
   <string name="unsecurity_url_toast">Diese Seite ist unsicher</string>
+  <string name="unSwitchText">NEIN</string>
   <string name="up_to_loading_tips">Loslassen zum Aktualisieren</string>
   <string name="update_no_network_toast">Kann nicht mit dem Netzwerk verbinden</string>
   <string name="updating_chrome">Chrome wird aktualisiert…</string>
@@ -987,9 +988,9 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="video_push_single_message">Für Update %1$d antippen</string>
   <string name="video_service_notification_title">Video im Popup-Fenster abspielen</string>
   <string name="video_subtitle_last_message1">Weniger als eine Minute verbleibend</string>
+  <string name="video_subtitle_prefix_message">Angesehen:</string>
   <string name="video_subtitle_prefix1">Angesehen</string>
   <string name="video_subtitle_prefix2">" angesehen"</string>
-  <string name="video_subtitle_prefix_message">Angesehen:</string>
   <string name="video_title_prefix_message">Offline:</string>
   <string name="video_unknown_duration">Unbekannte Dauer</string>
   <string name="view_certificate">Zertifikat anzeigen</string>
@@ -1015,5 +1016,5 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="webpage_title">Lesezeichen &amp; Verlauf</string>
   <string name="webview_find_on_page">Auf Seite suchen</string>
   <string name="webviewchromium_private_browsing_warning">Diese Funktionalität wird in dieser Androidversion leider nicht unterstützt</string>
-  <string name="week_picker_dialog_title">Woche einstellen</string>
+  <string name="week_picker_dialog_title">Woche einstellen</string> 
 </resources>
