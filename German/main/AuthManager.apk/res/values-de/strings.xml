@@ -22,7 +22,7 @@
   <string name="Dashboard_Perm_SU_Desc">Überwachung von %1$d Apps mit Rootzugriff</string>
   <string name="Dashboard_Perm_SU_Disabled">Rootzugriff ist aus</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Rootzugriff ist in der Stable-Version von MIUI nicht verfügbar</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Wenn Sie Drittanbieterapps Rootberechtigung gewähren, könnte das zur Systeminstabiltät, Datenverlust oder zu Hardwarebeschädigung führen.
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Wenn Sie Drittanbieterapps Rootberechtigung gewähren, könnte das zu Systeminstabiltät, Datenverlust oder zu Hardwarebeschädigung führen.
 
     Um Rootzugriff zu erhalten, müssen Sie die Entwicklerversion von MIUI installieren.
   </string>
@@ -49,7 +49,7 @@
   <string name="Generic_ShowSystemApp">Systemapps anzeigen</string>
   <string name="Generic_Summary_Disabled">Aus</string>
   <string name="Generic_Summary_Enabled">An</string>
-  <string name="Generic_SystemApp">Systemapps(%d)</string>
+  <string name="Generic_SystemApp">Systemapps (%d)</string>
   <string name="Generic_SystemApp_Label">Systemapp</string>
   <string name="Generic_TrustedApp">Vertrauenswürdige Apps (%1$d)</string>
   <string name="Generic_Update">Softwareupgrade</string>
@@ -146,7 +146,7 @@
   <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
   <string name="HIPS_Perm_Notification">Pushbenachrichtigungen</string>
   <string name="HIPS_Perm_Notification_Desc">Pushbenachrichtigungen verwenden</string>
-  <string name="HIPS_Perm_Notification_Hint">%1$s Apps dürfen Push-Benachrichtigungen verwenden</string>
+  <string name="HIPS_Perm_Notification_Hint">%1$s Apps dürfen Pushbenachrichtigungen verwenden</string>
   <string name="HIPS_Perm_PhoneID">Gerät</string>
   <string name="HIPS_Perm_PhoneID_Desc">die Geräte-IMEI und IMSI abfragen</string>
   <string name="HIPS_Perm_PhoneID_Hint">%1$s Apps dürfen die Geräte-IMEI und IMSI abfragen</string>
@@ -188,7 +188,7 @@
   <string name="HIPS_Perm_SendSMS">SMS senden</string>
   <string name="HIPS_Perm_SendSMS_Content">Inhalt</string>
   <string name="HIPS_Perm_SendSMS_Data">SMS-Daten %1$s:%2$d</string>
-  <string name="HIPS_Perm_SendSMS_Desc">Der App das Senden von SMS erlauben</string>
+  <string name="HIPS_Perm_SendSMS_Desc">App das Senden von SMS erlauben</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s Apps dürfen SMS senden</string>
   <string name="HIPS_Perm_SendSMS_Port">Port</string>
   <string name="HIPS_Perm_SendSMS_Recipient">Empfänger</string>
@@ -241,7 +241,7 @@
   <string name="HIPS_Perm_show_when_locked">Am Sperrbildschirm anzeigen</string>
   <string name="HIPS_Perm_show_when_locked_Desc">am Sperrbildschirm angezeigt werden</string>
   <string name="HIPS_Perm_use_sip">Videodienste</string>
-  <string name="HIPS_Perm_use_sip_Desc">Session Initiation Log zum Streamen von Videos zu verwenden</string>
+  <string name="HIPS_Perm_use_sip_Desc">Session Initiation Protokoll zum Streamen von Videos verwenden</string>
   <string name="HIPS_SecurityPrompt_Accept">Zulassen (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Zulassen</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Einmalig zulassen (%d)</string>
@@ -250,7 +250,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Rootzugriff</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">%1$s Rootzugriff gewähren?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">Ihr Gerät könnte instabil werden, wenn Sie Apps Rootzugriff gewähren</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step3">Die Sicherheit Ihrer Benutzerdaten (Konten, Passwörter und Nachrichten) kann beeinträchtigt werden</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">Sicherheit Ihrer Benutzerdaten (Konten, Passwörter und Nachrichten) kann beeinträchtigt werden</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Wenn Sie Apps Rootzugriff gewähren, könnte dies auch die Hardware Ihres Geräts beschädigen</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Gewähren Sie Anwendungen Rootzugriff auf Ihr eigenes Risiko</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s Rootzugriff gewähren?</string>
@@ -297,7 +297,7 @@
   <string name="permission_request_title">Berechtigungsverwaltung</string>
   <string name="permission_warning_template">%1$s: %2$s?</string>
   <string name="permission_warning_template_ask">%1$s die folgende Berechtigung erlauben?</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" hat keinen Zugriff auf \"%2$s\". Sie können die Appberechtigungen jederzeit unter Sicherheit > Berechtigungen ändern."</string>
+  <string name="permisson_reject_notice_toast_text">\"%1$s\" hat keinen Zugriff auf \"%2$s\". Sie können die Appberechtigungen jederzeit unter Sicherheit &gt; Berechtigungen ändern.</string>
   <string name="permisson_reject_notice_toast_text2">hat keinen Zugriff auf %1$s</string>
   <string name="screen_overlay_button">Einstellungen</string>
   <string name="screen_overlay_message">Um diese Berechtigung zu ändern, müssen Sie die Bildschirmüberlagerung unter Einstellungen &gt; Apps ausschalten.</string>
