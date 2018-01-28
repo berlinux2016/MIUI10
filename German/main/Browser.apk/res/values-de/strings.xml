@@ -116,7 +116,7 @@
   <string name="bookmark_add_to">Hinzufügen zu</string>
   <string name="bookmark_btn_select_all">Alle auswählen</string>
   <string name="bookmark_btn_select_none">Keine auswählen</string>
-  <string name="bookmark_cannot_save_url">Das Lesezeichen für diese Adresse konnte nicht gespeichert werden</string>
+  <string name="bookmark_cannot_save_url">Lesezeichen für diese Adresse konnte nicht gespeichert werden</string>
   <string name="bookmark_folder_needs_title">Geben Sie einen Gruppennamen ein</string>
   <string name="bookmark_group_lable">Gruppe</string>
   <string name="bookmark_move_to">Verschieben nach</string>
@@ -264,7 +264,7 @@
   <string name="download_complete">Download fertig</string>
   <string name="download_completed">Heruntergeladen</string>
   <string name="download_default_path_txt">Meine Auswahl merken</string>
-  <string name="download_dialog_default_path_invalid">Der Downloadpfad ist ungültig. Wird auf Standard zurückgesetzt…</string>
+  <string name="download_dialog_default_path_invalid">Downloadpfad ist ungültig. Wird auf Standard zurückgesetzt…</string>
   <string name="download_dialog_file_length_hint_txt">"Dateigröße: "</string>
   <string name="download_dialog_file_length_lessthan1kb">Weniger als 1Kb</string>
   <string name="download_dialog_file_length_nolength_error_txt">Download fehlgeschlagen</string>
@@ -305,7 +305,7 @@
   <string name="empty_cloud_tab_logout_hint">In Ihrem Mi Konto anmelden, um Tabs von anderen Geräten zu sehen</string>
   <string name="empty_history_hint">Verlauf ist leer</string>
   <string name="empty_snapshot_hint">Leer</string>
-  <string name="enable_geolocation_confirm_message">Das Deaktivieren dieser Funktion könnte auf einigen Seiten zu Fehlverhalten führen</string>
+  <string name="enable_geolocation_confirm_message">Deaktivieren dieser Funktion könnte auf einigen Seiten zu Fehlverhalten führen</string>
   <string name="enter_developer_mode">Entwicklermodus</string>
   <string name="enter_incongnito_mode">Tarnmodus (Inkognito) betreten</string>
   <string name="error_console_eval_button_text">Auswerten</string>
@@ -368,7 +368,7 @@
   <string name="homepage_search_hint">Suche</string>
   <string name="homepage_top_card_menu">Top</string>
   <string name="ignore_add_pwa_dialog_today">Heute nicht mehr zeigen</string>
-  <string name="in_incognito">Sie sind inkognito! Webseites die Sie besuchen, werden in Ihrem Browserverlauf nicht angezeigt.</string>
+  <string name="in_incognito">Sie sind inkognito! Webseiten, die Sie besuchen, werden in Ihrem Browserverlauf nicht angezeigt.</string>
   <string name="in_secureaccess">Browser ist im sicheren Modus</string>
   <string name="is_first_history_item">Dies ist die erste Seite in Ihrem Browserverlauf</string>
   <string name="is_first_tab">Dies ist der erste Tab</string>
@@ -400,14 +400,14 @@
   <string name="media_error_action_refresh">Neu laden</string>
   <string name="media_error_action_replace_video_source">Quelle konnte nicht gewechselt werden</string>
   <string name="media_error_failure">Video kann nicht abgespielt werden</string>
-  <string name="media_error_format">Das Videoformat wird nicht unterstützt</string>
+  <string name="media_error_format">Videoformat wird nicht unterstützt</string>
   <string name="media_error_network_unreachable">Netzwerk nicht erreichbar</string>
   <string name="media_error_nomemory">Nicht genügend Speicher</string>
   <string name="media_error_source">Kann Quelle nicht finden</string>
   <string name="media_error_timeout">Zeitüberschreitung der Netzwerkverbindung</string>
   <string name="media_error_video_not_exist">Video existiert nicht</string>
   <string name="media_player_error_button">OK</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Leider ist das Video nicht für das Streaming auf diesen Gerät geeignet</string>
+  <string name="media_player_error_text_invalid_progressive_playback">Leider ist das Video nicht für das Streaming auf diesem Gerät geeignet</string>
   <string name="media_player_error_text_unknown">Es tut mir leid, dieses Video kann leider nicht abgespielt werden</string>
   <string name="media_player_error_title">Kann Video nicht abspielen</string>
   <string name="media_player_loading_video">Video wird geladen</string>
@@ -444,7 +444,7 @@
   <string name="miuichromium_error_page_btn_close">Schließen</string>
   <string name="miuichromium_error_page_btn_refresh">Aktualisieren</string>
   <string name="miuichromium_error_page_btn_report_issue">Problem melden</string>
-  <string name="miuichromium_error_page_description_no_connection" formatted="false">Verbindung zum Netzwerk konnte aufgrund von schwachem Signal oder falscher Netzwerkkonfiguration nicht hergestellt werden. Überprüfen Sie Ihre %s1Netzwerkeinstellungen%s2 und versuchen Sie es erneut.</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">Verbindung zum Netzwerk konnte aufgrund von schwachem Signal oder falscher Netzwerkkonfiguration nicht hergestellt werden. Überprüfen Sie Ihre %s1 Netzwerkeinstellungen %s2 und versuchen Sie es erneut.</string>
   <string name="miuichromium_error_page_diagnose">Netzwerkdiagnose</string>
   <string name="miuichromium_error_page_diagnose_banner">Netzwerkdiagnose</string>
   <string name="miuichromium_error_page_diagnose_certificate">Netzwerkprotokoll konnte nicht geprüft werden</string>
@@ -464,23 +464,23 @@
   <string name="miuichromium_error_page_problem_access_denied">Zugang zu %s0 wurde verweigert</string>
   <string name="miuichromium_error_page_problem_cache_miss">Diese Seite kann nicht aus dem Cache geladen werden</string>
   <string name="miuichromium_error_page_problem_cannot_open_page">Diese Seite kann nicht geöffnet werden</string>
-  <string name="miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">Die Seite kann nicht geöffnet werden. Verbindung blockiert durch %s0.</string>
-  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">Die Seite kann nicht geöffnet werden. %s0 hat die Verbindung abgebrochen.</string>
-  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">Die Seite kann nicht geöffnet werden. %s0 hat die Verbindung abgelehnt.</string>
-  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">Die Seite kann nicht geöffnet werden. Die Verbindung wurde zurückgesetzt.</string>
-  <string name="miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">Die Seite kann nicht geöffnet werden, da die URL ungültig ist.</string>
-  <string name="miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">Die Seite kann nicht geöffnet werden. %s0 ist aktuell nicht erreichbar.</string>
-  <string name="miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">Die Seite kann nicht geöffnet werden. %s0 leitet dich unsicher weiter.</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">Seite kann nicht geöffnet werden. Verbindung blockiert durch %s0.</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">Seite kann nicht geöffnet werden. %s0 hat die Verbindung abgebrochen.</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">Seite kann nicht geöffnet werden. %s0 hat die Verbindung abgelehnt.</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">Seite kann nicht geöffnet werden. Verbindung wurde zurückgesetzt.</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">Seite kann nicht geöffnet werden, da die URL ungültig ist.</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">Seite kann nicht geöffnet werden. %s0 ist aktuell nicht erreichbar.</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">Seite kann nicht geöffnet werden. %s0 leitet dich unsicher weiter.</string>
   <string name="miuichromium_error_page_problem_cannot_reach_site">Diese Seite kann nicht erreicht werden</string>
-  <string name="miuichromium_error_page_problem_connection_interrupted">Die Verbindung wurde unterbrochen</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted">Verbindung wurde unterbrochen</string>
   <string name="miuichromium_error_page_problem_file_not_found">Konnte die Datei nicht finden</string>
-  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">Die Seite ist nicht erreichbar. Die Seite im Intranet hat die selbe URL wie eine im Internet.</string>
-  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">Die Seite ist nicht erreichbar. DNS Adresse von %s0 konnte nicht gefunden werden.</string>
-  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">Die Seite ist nicht erreichbar. IP Adresse oder Portnummer ist ungültig.</string>
-  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">Die Seite ist nicht erreichbar. %s0 antwortet zu lange nicht mehr.</string>
-  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">Die Seite ist nicht erreichbar. %s0 verwendet eine unsichere Portnummer.</string>
-  <string name="miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Die Verbindung wurde unterbrochen als dein Gerät in den Ruhemodus ging.</string>
-  <string name="miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Die Verbindung wurde wegen Netzwerkveränderungen unterbrochen.</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">Seite ist nicht erreichbar. Seite im Intranet hat die selbe URL wie eine im Internet.</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">Seite ist nicht erreichbar. DNS-Adresse von %s0 konnte nicht gefunden werden.</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">Seite ist nicht erreichbar. IP-Adresse oder Portnummer ist ungültig.</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">Seite ist nicht erreichbar. %s0 antwortet zu lange nicht mehr.</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">Seite ist nicht erreichbar. %s0 verwendet eine unsichere Portnummer.</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Verbindung wurde unterbrochen, als dein Gerät in den Ruhemodus ging.</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Verbindung wurde wegen Netzwerkveränderungen unterbrochen.</string>
   <string name="miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Datei konnte nicht gefunden werden. Sie wurde vielleicht verschoben oder gelöscht.</string>
   <string name="miuichromium_error_page_problem_gateway_timed_out">Für %s0 dauert es zu lange, um eine Antwort zu erhalten</string>
   <string name="miuichromium_error_page_problem_network_access_denied">Netzwerkzugriff ist eingeschränkt</string>
@@ -496,7 +496,7 @@
   <string name="miuichromium_error_page_reason_blocked_by_response">Zugriff ist durch %s0 blockiert</string>
   <string name="miuichromium_error_page_reason_connection_closed">%s0 unterbrochene Verbindung</string>
   <string name="miuichromium_error_page_reason_connection_refused">%s0 hat die Verbindung abgelehnt</string>
-  <string name="miuichromium_error_page_reason_connection_reset">Die Verbindung wurde zurückgesetzt</string>
+  <string name="miuichromium_error_page_reason_connection_reset">Verbindung wurde zurückgesetzt</string>
   <string name="miuichromium_error_page_reason_device_slept">" während Ihr Gerät in den Schlafmodus wechselte"</string>
   <string name="miuichromium_error_page_reason_empty_response">" weil %s0 keine Daten gesendet hat"</string>
   <string name="miuichromium_error_page_reason_invalid_address">IP-Adresse oder Portnummer ungültig ist</string>
@@ -504,7 +504,7 @@
   <string name="miuichromium_error_page_reason_invalid_url">" weil die URL ungültig ist"</string>
   <string name="miuichromium_error_page_reason_moved_or_deleted">Sie wurde vermutlich verschoben oder gelöscht</string>
   <string name="miuichromium_error_page_reason_name_collision">Diese Intranet-Seite hat die gleiche Adresse wie eine externe Seite</string>
-  <string name="miuichromium_error_page_reason_name_not_resolved">Die DNS-Adresse von %s0 konnte nicht gefunden werden</string>
+  <string name="miuichromium_error_page_reason_name_not_resolved">DNS-Adresse von %s0 konnte nicht gefunden werden</string>
   <string name="miuichromium_error_page_reason_network">Prüfen Sie die Netzwerkeinstellungen</string>
   <string name="miuichromium_error_page_reason_network_changed">" wegen eines Netzwerkwechsels"</string>
   <string name="miuichromium_error_page_reason_proxy_error">Etwas stimmt mit dem Proxy-Server nicht oder die Proxy-Adresse ist falsch</string>
@@ -520,11 +520,11 @@
   <string name="miuichromium_error_page_server_error">Es versuchen zu viele Geräte, sich zu verbinden</string>
   <string name="miuichromium_error_page_suggestion_check_app_proxy">Prüfen Sie die Einstellungen der auf Ihrem Gerät installierten Proxy-Apps</string>
   <string name="miuichromium_error_page_suggestion_check_connetion">Prüfen Sie Ihre Internetverbindung</string>
-  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobiles Internet) %s1APN Einstellungen%s2 zurücksetzen</string>
+  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobiles Internet) %s1 APN-Einstellungen %s2 zurücksetzen</string>
   <string name="miuichromium_error_page_suggestion_check_url">Prüfen Sie die eingegebene URL</string>
-  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WLAN) Prüfen Sie die %s1Proxy-Einstellungen%s2</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Cache leeren (%s1Einstellungen%s2 - Daten löschen)</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Cache und Cookies löschen (%s1Einstellungen%s2 - Ihre Kontoinformationen gehen möglicherweise verloren)</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WLAN) Prüfen Sie die %s1 Proxy-Einstellungen %s2</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Cache leeren (%s1 Einstellungen %s2 - Daten löschen)</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Cache und Cookies löschen (%s1 Einstellungen %s2 - Ihre Kontoinformationen gehen möglicherweise verloren)</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Cache und Cookies löschen (Ihre Kontoinformationen gehen möglicherweise verloren)</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Cache leeren</string>
   <string name="miuichromium_error_page_suggestion_connect_and_retry">Laden Sie neu, nachdem Sie mit dem Internet verbunden sind</string>
@@ -588,7 +588,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="older">Älter</string>
   <string name="open_app_confirm_message">Dieser Seite erlauben, %s zu öffnen?</string>
   <string name="open_cloud_sync">Öffne Cloud-Synchronisation</string>
-  <string name="open_cloud_sync_desc">Lesezeichen hinzugefügen. Aktivieren Sie die Cloud-Synchronisierung und auf anderen Geräten hinzugefügte Lesezeichen werden mit diesem Computer synchronisiert. Wollen Sie sich jetzt anmelden und diese starten?</string>
+  <string name="open_cloud_sync_desc">Lesezeichen hinzugefügt. Aktivieren Sie die Cloud-Synchronisierung und auf anderen Geräten hinzugefügte Lesezeichen werden mit diesem Computer synchronisiert. Wollen Sie sich jetzt anmelden und diese starten?</string>
   <string name="open_file_explorer_failed">Dateimanager konnte nicht geöffnet werden</string>
   <string name="open_voice_permission">Dem Mikrofon den Zugriff aufs Internet erlauben</string>
   <string name="opening_file_error">Fehler beim Öffnen der ausgewählten Datei</string>
@@ -747,7 +747,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="readmode_battery">Akku</string>
   <string name="readmode_login">Anmelden</string>
   <string name="readmode_login_message">Sie müssen angemeldet sein, um mehr zu lesen</string>
-  <string name="readmode_page_load_error">"Seite kann nicht geladen werden"</string>
+  <string name="readmode_page_load_error">Seite kann nicht geladen werden</string>
   <string name="readmode_page_loading">Nur einen Moment…</string>
   <string name="readmode_pay">Kapitel kaufen</string>
   <string name="readmode_pay_message">Sie müssen bezahlen, um das nächste Kapitel zu lesen</string>
@@ -782,7 +782,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="save_file">%s Datei speichern</string>
   <string name="save_file_already_exist_alert_message">Eine Datei mit demselben Namen existiert bereits, wollen Sie diese überschreiben?</string>
   <string name="save_file_already_exist_alert_title">Überschreibe Datei?</string>
-  <string name="save_form_data_confirm_message">Das Deaktivieren dieser Funktion kann die Anwendung beeinflussen</string>
+  <string name="save_form_data_confirm_message">Deaktivieren dieser Funktion kann die Anwendung beeinflussen</string>
   <string name="save_image_failed">Bild konnte nicht gespeichert werden</string>
   <string name="save_image_success">Bild gespeichert</string>
   <string name="save_page_capture_tip">Öffne Nachrichtenleiste, um den Screenshot zu sehen</string>
@@ -822,9 +822,9 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="secure_download_in_xiaomi_market">Im App-Store laden</string>
   <string name="secureaccess">In den sicheren Modus wechseln</string>
   <string name="secureaccess_cancel">Ignorieren</string>
-  <string name="security_url_confirm_message">Das Deaktivieren dieser Funktion kann zu Sicherheitsrisiken führen</string>
+  <string name="security_url_confirm_message">Deaktivieren dieser Funktion kann zu Sicherheitsrisiken führen</string>
   <string name="security_warning">Sicherheitswarnung</string>
-  <string name="security_warnings_confirm_message">Das Deaktivieren dieser Funktion kann zu Sicherheitsrisiken führen</string>
+  <string name="security_warnings_confirm_message">Deaktivieren dieser Funktion kann zu Sicherheitsrisiken führen</string>
   <string name="select_dot">Text auswählen</string>
   <string name="select_download_device">Gerät auswählen</string>
   <string name="send_comment_button">Senden</string>
@@ -834,7 +834,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="sequence_bookmark_description">Reihenfolge der Lesezeichen ändern</string>
   <string name="share_by_yidianzixun">【YidianZixun】</string>
   <string name="share_image_text">Sieh, was ich geteilt habe! @MIUI</string>
-  <string name="share_page_text">"Ich genieße 【%1$s】 | %2$s"</string>
+  <string name="share_page_text">Ich genieße 【%1$s】 | %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Wir werden Ihre personenbezogenen Daten erheben und verwenden, wenn Sie sich für die Nutzung unserer Dienste entscheiden. 
 Nachfolgend sind die Daten, die wir sammeln:
 1. Sichere URLs: Wir erfassen die URLs der Webseiten, die Sie bei der Nutzung unserer Dienste besuchen.
@@ -846,7 +846,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="show_check_security_url_check_tip_dialog_description_international">Browser muss eine Verbindung zum Internet herstellen, um richtig zu funktionieren. Um mehr relevante Empfehlungen zu erhalten, erlauben Sie dem Browser, die URLs Ihrer besuchten Webseiten zu erhalten und auf Ihre Standortinformationen zuzugreifen.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Prüfe URL-Sicherheit</string>
   <string name="show_security_tip_dialog_title">Nutzungsbedingungen</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Der Wetterdienst des Browsers benötigt Ihre Position, um Sie mit aktuellen Wetterinfos versorgen zu können. Sie können diese Funktion in den Einstellungen deaktivieren.</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Wetterdienst des Browsers benötigt Ihre Position, um Sie mit aktuellen Wetterinfos versorgen zu können. Sie können diese Funktion in den Einstellungen deaktivieren.</string>
   <string name="sign_and_open">Signieren und öffnen</string>
   <string name="sign_in_to" formatted="false">Anmelden zu %s1 \"%s2\"</string>
   <string name="skip_button_label">Überspringen</string>
@@ -861,12 +861,12 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="ssl_certificate">Sicherheitszertifikat</string>
   <string name="ssl_certificate_is_valid">Dieses Zertifikat ist gültig</string>
   <string name="ssl_continue">Fortfahren</string>
-  <string name="ssl_date_error_warnings_header">Das Zertifikat der Seite ist abgelaufen oder gilt noch nicht. Es wird empfohlen, die Seite zu verlassen.</string>
+  <string name="ssl_date_error_warnings_header">Zertifikat der Seite ist abgelaufen oder gilt noch nicht. Es wird empfohlen, die Seite zu verlassen.</string>
   <string name="ssl_date_invalid">Dieses Zertifikat hat ein ungültiges Datum</string>
   <string name="ssl_expired">Dieses Zertifikat ist abgelaufen</string>
   <string name="ssl_go_back">Zurück</string>
   <string name="ssl_invalid">Dieses Zertifikat ist ungültig</string>
-  <string name="ssl_mismatch">Der Name dieser Seite passt nicht zum Namen im Zertifikat</string>
+  <string name="ssl_mismatch">Name dieser Seite passt nicht zum Namen im Zertifikat</string>
   <string name="ssl_not_yet_valid">Dieses Zertifikat ist noch nicht gültig</string>
   <string name="ssl_unknown">Unbekannter Zertifikatsfehler</string>
   <string name="ssl_untrusted">Dieses Zertifikat ist nicht von einer vertrauenswürdigen Stelle</string>
