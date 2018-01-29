@@ -24,6 +24,14 @@
     <item quantity="other">Vor %d Jahren verwendet</item>
     <item quantity="one">Vor einem Jahr verwendet</item>
   </plurals>
+  <plurals name="bg_network_allow_count">
+    <item quantity="other">%d Apps können sich im Hintergrund mit dem Netzwerk verbinden.</item>
+    <item quantity="one">%d App kann sich im Hintergrund mit dem Netzwerk verbinden.</item>
+  </plurals>
+  <plurals name="bg_network_restrict_count">
+    <item quantity="other">%d Apps können sich im Hintergrund nicht mit dem Netzwerk verbinden.</item>
+    <item quantity="one">%d App kann sich im Hintergrund nicht mit dem Netzwerk verbinden.</item>
+  </plurals>  
   <plurals name="daily_sim_over_limit_dialog_message">
     <item quantity="other">
       "Sie haben bereits %s vom täglichen Datenlimit verwendet.
