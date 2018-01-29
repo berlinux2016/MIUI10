@@ -65,7 +65,8 @@
     <item quantity="one">Eine Playliste löschen?</item>
   </plurals>
   <plurals name="Nnew_tracks_count">
-    <item quantity="other">%d Neue(r)</item>
+    <item quantity="other">%d Neue Songs</item>
+    <item quantity="one">%d neuer Song</item>    
   </plurals>
   <plurals name="Ntracks_count">
     <item quantity="other">%d Titel</item>
@@ -121,13 +122,12 @@
   </plurals>
   <plurals name="Nsong_group_detail_subtitle">
     <item quantity="other">erstellt am %1$s | insgesamt %2$d Lieder</item>
-    <item quantity="zero">erstellt am %1$s | insgesamt %2$d Lieder</item>
     <item quantity="one">erstellt am %1$s | insgesamt %2$d Lied</item>
   </plurals>
   <plurals name="Nalbum_total_songs">
-    <item quantity="other">Insgesamt %d Lieder</item>
-    <item quantity="zero">Insgesamt %d Lieder</item>
-    <item quantity="one">Insgesamt %d Lied</item>
+        <item quantity="other">Insgesamt %d Songs</item>
+        <item quantity="one">Insgesamt %d Song</item>
+     </plurals>
    </plurals>  
   <plurals name="Nupload_Titel_button">
     <item quantity="other">%1$d Titel gesichert (%2$.1fMB).</item>
