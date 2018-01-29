@@ -8,10 +8,18 @@
     <item quantity="other">%d Systemdaten-Dateien</item>
     <item quantity="one">eine Systemdaten-Datei</item>
   </plurals>
+  <plurals name="custom_progress">
+    <item quantity="other">%d Elemente</item>
+    <item quantity="one">%d Element</item>
+  </plurals>  
   <plurals name="data_item_count">
     <item quantity="other">%d Elemente</item>
     <item quantity="one">ein Element</item>
   </plurals>
+  <plurals name="total_num">
+    <item quantity="other">%d Elemente,</item>
+    <item quantity="one">%d Element,</item>
+  </plurals>  
   <plurals name="select_item_summary">
     <item quantity="other">%1$s | %2$d Elemente</item>
     <item quantity="one">%1$s | %2$d Element</item>
