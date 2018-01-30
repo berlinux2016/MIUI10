@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <!-- To Translate -->
+  <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">Delete %s items from express?</item>
+        <item quantity="one">Delete %s item from express?</item>
+  </plurals>
+  <plurals name="express_history_menu_select_num">
+        <item quantity="other">Selected %s items</item>
+        <item quantity="one">Selected %s item</item>
+  </plurals>
+  
   <plurals name="payment_record_menu_select_num">
     <item quantity="other">%s Elemente ausgewählt</item>
     <item quantity="one">%s Element ausgewählt</item>

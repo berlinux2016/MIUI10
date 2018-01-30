@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- To Translate -->
+  <string name="system_shortcut_wake">Wake with button shortcuts</string>
+  
   <string name="Accounts_settings_title">Konten</string>
   <string name="aaid_info">"Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende verwenden diese, um Ihnen auf Sie zugeschnittene Werbung anbieten zu können.
 Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessanter Werbung wird deutlich sinken."</string>
@@ -3078,7 +3081,7 @@ Betriebssystem auswählen:"</string>
   <string name="no_device_admins">Keine Geräteadministratoren verfügbar</string>
   <string name="no_encrypt_password">Kein Passwort</string>
   <string name="no_internet_access_remember">Für dieses Netzwerk nicht mehr nachfragen</string>
-  <string name="no_internet_access_text">Netzwerk hat keinen Internetzugang, verbunden bleiben?</string>
+  <string name="no_internet_access_text">WLAN Netzwerk %1$s hat keinen Internetzugang, verbunden bleiben?</string>
   <string name="no_media_button_receiver">Nein</string>
   <string name="no_memory_use_summary">Kein Speicher in den letzten 3 Stunden verbraucht</string>
   <string name="no_nearby_wifi">Keine Netzwerke gefunden</string>

@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- To Translate -->
+  <string name="call_oversea_block">Block calls from abroad</string>
+  <string name="firewall_mobile">Mobile data</string>
+  <string name="firewall_system_title">Data usage for system apps</string>
+  <string name="fw_oversea">Block calls from abroad</string>
+  <string name="fw_oversea_content">Block incoming calls from foreign phone numbers</string>
+  <string name="pref_key_tethering_setting">One-time data limit</string>
+  <string name="pref_key_tethering_title">One-time data limit</string>
+  <string name="sc_warning_updater_not_found">"Couldn't find the Updater app"</string>
+  <string name="st_call_intercept_oversea">Block calls from abroad</string>
+     <string name="st_confirm_dialog_summary_oversea_call">Turn on to block all incoming calls from foreign phone numbers</string>
+     <string name="st_filter_keywords_setting_summary3">Messages from unknown numbers that contain the words in this list will be allowed in</string>
+     <string name="st_msg_keyword_black">Keyword blocklist</string>
+     <string name="st_msg_keyword_white">Keyword exceptions</string>
+     <string name="st_title_keywords_whitelist">Keyword exceptions</string>
+     <string name="tether_custom_dialog_title">Mobile data limit</string>
+     <string name="tether_limit_dialog_title">Mobile data limit</string>
+     <string name="tether_limit_value_custom">Custom</string>
+     <string name="tether_over_limit_dialog_cancle_btn">Reset hotspot</string>
+     <string name="tether_over_limit_dialog_message">You reached portable hotspot data limit</string>
+     <string name="tether_over_limit_dialog_title">Data usage warning</string>
+     <string name="tether_over_limit_warning_notify_message">Turn off portable hotspot</string>
+     <string name="tether_over_limit_warning_notify_title">Reached hotspot data limit</string>
+	 
   <string name="Call_ADRESS">Gebietsperrliste</string>
   <string name="Call_BLACKLIST">Anrufsperrliste</string>
   <string name="Call_PREFIX">Vorwahlsperrliste</string>
@@ -1542,7 +1566,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="numeric_password_confirmed_header_confirm">Erfolgreich gesetzt. Tippen Sie zum Bestätigen.</string>
   <string name="numeric_password_confirmed_header_continue">"Erfolgreich gesetzt. Tippen Sie auf \"Weiter\".</string>
   <string name="numeric_pattern_entered_header">PIN erfolgreich gesetzt</string>
-  <string name="numeric_recording_incorrect_too_short">Geben Sie mindestens 4 Zahlen ein.</string>
+  <string name="numeric_recording_incorrect_too_short">Geben Sie mindestens %d Zahlen ein</string>
   <string name="numeric_recording_intro_header">Passwort eingeben</string>
   <string name="numeric_retry_button_text">Abbrechen</string>
   <string name="numeric_settings_help_how_to_record">So legen Sie die PIN fest</string>

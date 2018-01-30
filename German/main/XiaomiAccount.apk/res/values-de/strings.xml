@@ -1,5 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- To Translate -->
+  <string name="account_error_user_name">The name you entered is invalid</string>
+     <string name="account_global_region">Overseas</string>
+     <string name="action_add_phone">Add phone number</string>
+     <string name="action_update_phone">Change phone number</string>
+     <string name="identity">Identification</string>
+     <string name="no_phone">No phone number</string>
+     <string name="passport_get_innetdate_agree">Check</string>
+     <string name="passport_get_innetdate_disagree">No</string>
+     <string name="passport_get_innetdate_msg">&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier. Check when the number went online?</string>
+     <string name="passport_get_innetdate_title">Check when the number went online</string>
+     <string name="passport_license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
+     <string name="passport_privacy_policy">Privacy Policy</string>
+     <string name="passport_reg_failed">"Can't set up account"</string>
+     <string name="passport_register">Create an account</string>
+     <string name="passport_uplink_slot1_reg">Use SIM 1</string>
+     <string name="phone_num_use_for">Phone number is used for:</string>
+     <string name="recycle_phone_notification_msg">Looks like your phone number has been recycled. Tap to update.</string>
+     <string name="recycle_phone_notification_title">Mi Account security risk</string>
+     <string name="set_success">Changed successfully</string>
+     <string name="sign_in">Signing in</string>
+     <string name="sim_changed_notification_msg">Tap to update your recovery phone and keep your account more secure</string>
+     <string name="sim_changed_notification_title">Changed phone number?</string>
+     <string name="update_phone_notice">Change security settings</string>
+  
   <string name="about_device_info">Geräteinfo anzeigen</string>
   <string name="access_denied">Zugang verweigert</string>
   <string name="access_token_expired_warning">Weibo Konto abgelaufen</string>
