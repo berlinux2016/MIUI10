@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="fingerprint_not_identified_msg_lock">Too many unsuccessful attempts. Enter password now.</string>
-  <string name="keyguard_left_view_lock_wallpaper">Wallpaper Carousel</string>
-  <string name="lock_screen_no_sim_card">No SIM card</string>
-  <string name="phone_locked_foget_password_method_content"><Data>You have to &lt;font color=#a5220e>erase all data &lt;/font> on your device, including photos and contacts, and then set a new Lock screen password.</Data></string>
-  <string name="phone_locked_foget_password_method_next">Next</string>
-  
   <string name="accessibility_enter_lock_wallpaper">Klicken Sie auf die Bildschirmsperre</string>
   <string name="btn_camera">Fügen Sie Ihr Gesicht hinzu</string>
   <string name="click_to_enter_text">Zum Anzeigen antippen</string>
@@ -83,6 +76,7 @@
   <string name="fingerprint_enter_second_psw_title">Zweitprofilpasswort eingeben</string>
   <string name="fingerprint_lockout_msg">Warten Sie eine Minute. Versuchen Sie dann nochmals, per Fingerabdruck zu entsperren.</string>
   <string name="fingerprint_not_identified_msg">Um Ihr Telefon zu entsperren, geben Sie Ihr Passwort ein</string>
+  <string name="fingerprint_not_identified_msg_lock">Zu viele erfolglose Versuche. Geben Sie jetzt das Passwort ein.</string>
   <string name="fingerprint_not_identified_title">Passwort eingeben</string>
   <string name="fingerprint_try_again_msg">Konnte Fingerabruck nicht prüfen, bitte erneut versuchen</string>
   <string name="fingerprint_try_again_text">Erneut versuchen</string>
@@ -137,12 +131,14 @@
   <string name="keyguard_left_buscard">Notizen</string>
   <string name="keyguard_left_remotecentral">Kalender</string>
   <string name="keyguard_left_smarthome">Kontakte</string>
+  <string name="keyguard_left_view_lock_wallpaper">Hintergrundbilder-Karussell</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Schnellladen, klicken Sie für Details</string>
   <string name="keyguard_quickly_charging_info_charging_text">Schnellladen…</string>
   <string name="keyguard_torch_cover_text">Halten Sie die Einschalttaste gedrückt, um die Lampe dauerhaft einzuschalten</string>
   <string name="left_action_default_hint_text">Telefon</string>
   <string name="lock_screen_date">EEEE, d.MMMM</string>
   <string name="lock_screen_date_12">EEEE, d.MMMM</string>
+  <string name="lock_screen_no_sim_card">Keine SIM-Karte</string>
   <string name="lock_wallpaper_enter">Anmelden</string>
   <string name="lock_wallpaper_learn_more">Mehr erfahren &gt;</string>
   <string name="lock_wallpaper_see_more">Mehr anzeigen &gt;</string>
@@ -161,6 +157,7 @@
   <string name="lockscreen_glogin_password_hint">Passwort</string>
   <string name="lockscreen_glogin_submit_button">Anmelden</string>
   <string name="login_website_in_case_forget_password">Besuchen Sie www.mi.com/micloud, um das Passwort zurückzusetzen</string>
+ 
   <string name="missed_call_text">%d entgangene Anrufe</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Mit Bluetoothgerät entsperrt</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
@@ -184,6 +181,8 @@
   <string name="phone_locked_foget_password_header">Was soll ich tun, wenn ich mein Passwort vergessen habe?</string>
   <string name="phone_locked_foget_password_mehod_back">Zurück</string>
   <string name="phone_locked_foget_password_method">Passwort vergessen?</string>
+  <string name="phone_locked_foget_password_method_content"><Data>Sie müssen &lt;font color=#a5220e>alle Daten &lt;/font> auf Ihrem Telefon löschen., including photos and contacts, and then set a new Lock screen password.</Data></string>
+  <string name="phone_locked_foget_password_method_next">Weiter</string>  
   <string name="phone_locked_foget_password_ok">Verstanden</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Halten Sie gleichzeitig die &lt;font color=#e6e6e6&gt;[Einschalttaste]&lt;/font&gt; und &lt;font color=#e6e6e6&gt;[Laustärke+]&lt;/font&gt;gedrückt, bis Sie das Mi Logo sehen&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Wählen Sie &lt;font color=#e6e6e6&gt;[Daten löschen]&lt;/font&gt; und warten Sie, bis das Telefon neu gestartet wird&lt;/Data&gt;</string>
