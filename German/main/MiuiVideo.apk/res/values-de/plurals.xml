@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!-- To Translate -->
   <plurals name="favor_short_selected_counts">
-        <item quantity="other">Selected %1$s items</item>
-        <item quantity="one">Selected %1$s item</item>
+        <item quantity="other">%1$s Elemente ausgewählt</item>
+        <item quantity="one">%1$s Element ausgewählt</item>
      </plurals>
      <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">Subtitles are moved %.1f seconds forward</item>
-        <item quantity="one">Subtitles are moved %.1f second forward</item>
+        <item quantity="other">Untertitel werden um %.1f Sekunden vorwärts verschoben</item>
+        <item quantity="one">Untertitel wird um %.1f Sekunde vorwärts verschoben</item>
      </plurals>
      <plurals name="subtitle_offset_delay_times">
-        <item quantity="other">Subtitles are delayed for %.1f seconds</item>
-        <item quantity="one">Subtitles are delayed for %.1f second</item>
+        <item quantity="other">Untertitel werden um %.1f Sekunden verzögert</item>
+        <item quantity="one">Untertitel wird um %.1f Sekunde verzögert</item>
      </plurals>
      <plurals name="subtitle_onlinesub_size_float_kb">
-        <item quantity="other">Size: %.2fKB</item>
-        <item quantity="one">Size: %.2fKB</item>
+        <item quantity="other">Größe: %.2fKB</item>
+        <item quantity="one">Größe: %.2fKB</item>
      </plurals>
   <plurals name="comment_count">
     <item quantity="other">%d Kommentare</item>
