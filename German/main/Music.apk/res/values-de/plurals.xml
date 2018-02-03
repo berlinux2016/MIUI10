@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!-- To Translate -->
-  <plurals name="Ndownload_fee_alert_message">
-        <item quantity="other">At the request of the copyright owner, %d songs selected do not support free downloads. These songs Have been added to download management for you.</item>
-        <item quantity="one">At the request of the copyright owner, %d song selected does not support free downloads. These songs Have been added to download management for you.</item>
-  </plurals>
   <plurals name="comment_count">
     <item quantity="other">%d Kommentare</item>
     <item quantity="one">Ein Kommentar</item>
@@ -53,6 +48,10 @@
     <item quantity="other">%d Künstler</item>
     <item quantity="one">Ein Künstler</item>
   </plurals>
+  <plurals name="Ndownload_fee_alert_message">
+    <item quantity="other">Auf Wunsch des Copyright-Inhabers unterstützen die ausgewählten %d-Songs keine kostenlosen Downloads. Diese Songs wurden der Download-Verwaltung für Sie hinzugefügt.</item>
+    <item quantity="one">Auf Wunsch des Copyright-Inhabers unterstützt der ausgewählte %d-Song keinen kostenlosen Download. Dieser Song wurde der Download-Verwaltung für Sie hinzugefügt.</item>
+  </plurals>  
   <plurals name="Nexpired_remind">
     <item quantity="other">%d verbleibende Tage</item>
     <item quantity="one">Ein verbleibender Tag</item>
