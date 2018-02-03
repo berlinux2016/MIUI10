@@ -1,27 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="card_expand_note_clear">Clear</string>
-     <string name="card_expand_note_dialog_button">Got it</string>
-     <string name="card_expand_note_dialog_message">A new note is created every time you tap the \"Save\" button in App vault.</string>
-     <string name="card_expand_note_dialog_title">Saving notes</string>
-     <string name="card_expand_note_toast_clear_null">Cleared successfully</string>
-     <string name="card_expand_note_toast_save_done">Saved to Notes</string>
-     <string name="card_expand_note_toast_save_dup">Saved successfully</string>
-     <string name="cta_dialog_text_all">To use App vault, you should read and agree with %1$s\"User Agreement\" %2$s and %3$s \"Privacy Policy\" %4$s. The service also requires internet connection and access to the location services. The content catcher used by some services also requires internet connection. Agree?</string>
-     <string name="didi_taximeter">Calculate taxi fare</string>
-  <string name="express_install_cainiao_not_found">Not find Mimarket</string>
-  <string name="fav_tab_all">All</string>
-     <string name="fav_tab_article">Articles</string>
-     <string name="fav_tab_new">New</string>
-     <string name="fav_tab_shopping">Products</string>
-     <string name="fav_tab_video">Videos</string>
-     <string name="favorite_title_limit">Enter up to 40 characters</string>
-     <string name="favorite_title_modify">Modify</string>
-     <string name="favorite_title_modify_success">Modified successfully</string>
-	 <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
-     <string name="memory_clear_result">%1$sB cleared</string>
-	 
   <string name="access_change_text" formatted="false">Aktuell sind die %d und die %d Tauschpositionen ausgewählt</string>
   <string name="access_select">Ausgewählt:%s</string>
   <string name="access_unselect">Abgewählt:%s</string>
@@ -335,6 +313,13 @@
   <string name="calendar_parent">Kalender</string>
   <string name="call">Anrufen</string>
   <string name="cannot_get_download_url">Downloadadresse für den Sicherheitsdienst kann nicht abgerufen werden</string>
+  <string name="card_expand_note_clear">Löschen</string>
+  <string name="card_expand_note_dialog_button">Ok</string>
+  <string name="card_expand_note_dialog_message">Eine neue Notiz wird jedes Mal erstellt, wenn Sie auf die Schaltfläche \"Speichern"\ im App-Tresor tippen.</string>
+  <string name="card_expand_note_dialog_title">Notizen speichern</string>
+  <string name="card_expand_note_toast_clear_null">Erfolgreich gelöscht</string>
+  <string name="card_expand_note_toast_save_done">In Notizen gespeichert</string>
+  <string name="card_expand_note_toast_save_dup">Erfolgreich gespeichert</string>
   <string name="card_agenda_settings">Einstellungen</string>
   <string name="card_already_fly">Erfolgreich gestartet</string>
   <string name="card_book_all">Alle Buchungen</string>
@@ -401,6 +386,7 @@
   <string name="cta_dialog_content">Wenn Assistant verwendet wird, muss eine Inernetverbindung hergestellt werden und auf Ihren Standort zugegriffen werden. Sind Sie damit einverstanden?</string>
   <string name="cta_dialog_negative">Beenden</string>
   <string name="cta_dialog_positive">Zustimmen</string>
+  <string name="cta_dialog_text_all">"Um App-Tresor nutzen zu können, sollten Sie %1$s \"User Agreement\" %2$s und %3$s \"Privacy Policy\" %4$s lesen und akzeptieren. Der Dienst erfordert außerdem eine Internetverbindung und den Zugang zu den Ortungsdiensten. Der Content Catcher, der von einigen Diensten genutzt wird, benötigt ebenfalls eine Internetverbindung. Einverstanden?"</string>
   <string name="cta_dialog_text1">Um den Smart Assistant verwenden zu können, sollten Sie die</string>
   <string name="cta_dialog_text2">\"Nutzungsvereinbarung\"</string>
   <string name="cta_dialog_text3">und die</string>
@@ -448,6 +434,7 @@
   <string name="didi_price">Fahrpreis</string>
   <string name="didi_price_unit">EUR</string>
   <string name="didi_target">"Zielort "</string>
+  <string name="didi_taximeter">Taxi-Tarif berechnen</string>  
   <string name="didi_trip">Taxi</string>
   <string name="didi_trip_content">Schätzen Sie den Fahrpreis ab und rufen Sie ein Taxi</string>
   <string name="didi_trip_content_detail">Schätzen Sie den ungefähren Fahrpreis ab und rufen Sie ein Taxi</string>
@@ -571,6 +558,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_inquiry_status_unknown">Unbekannt</string>
   <string name="express_install_cainiao_description">%s benötigt die Cainiao-App. Jetzt installieren?</string>
   <string name="express_install_cainiao_hidden"><u>Nicht nochmal anzeigen</u></string>
+  <string name="express_install_cainiao_not_found">Im Mi-Markt nicht gefunden</string>  
   <string name="express_install_cainiao_ok">Installieren</string>
   <string name="express_install_cainiao_title">Cainiao installieren</string>
   <string name="express_install_delivery_service">Sendung verfolgen, den Zusteller kontaktieren, und mehr</string>
@@ -682,6 +670,14 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_view_status">Sendung</string>
   <string name="expresss_inquiry_all_logistics">Alle</string>
   <string name="expresss_inquiry_frequently_used_logistics">Häufig benutzt</string>
+  <string name="fav_tab_all">Alle</string>
+  <string name="fav_tab_article">Artikel</string>
+  <string name="fav_tab_new">Neu</string>
+  <string name="fav_tab_shopping">Produkte</string>
+  <string name="fav_tab_video">Videos</string>  
+  <string name="favorite_title_limit">Geben Sie bis zu 40 Zeichen ein</string>
+  <string name="favorite_title_modify">Modifizieren</string>
+  <string name="favorite_title_modify_success">Erfolgreich modifiziert</string>
   <string name="fav_category_article">Artikel</string>
   <string name="fav_category_shopping">Einkaufen</string>
   <string name="fav_category_video">Videos</string>
@@ -923,6 +919,8 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="map_title_office">Zum Unternehmen</string>
   <string name="map_title_prve">Zu</string>
   <string name="map_title_smooth">Insgesamt reibungslos</string>
+  <string name="memory_clear_result">%1$sB gelöscht</string>
+  <string name="memory_clear_nothing_result">Nichts zum Löschen im Zwischenspeicher</string>  
   <string name="menu_new">Hinzufügen</string>
   <string name="metre">m</string>
   <string name="mi_agenda">Kalendertermine</string>
