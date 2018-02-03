@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="cancel">Cancel</string>
-  <string name="degDesc">Angle</string>
-  <string name="deleteDesc">delete</string>
-  <string name="install">Install</string>
-  <string name="install_scanner_to_continued_use">Scanner is uninstalled. Install again?</string>
-  <string name="negDesc">Switch between temperatures below and above zero</string>
-  <string name="radDesc">Radian</string>
-  <string name="reciprocalDesc">Reciprocal</string>
-  <string name="scannerDesc">Scanner</string>
-  <string name="scanner_had_been_uninstalled">Scanner is uninstalled</string>
-  <string name="secondFunctionDesc">Switch to the second function</string>
-  
   <string name="app_name">Rechner</string>
   <string name="app_name_danfa">Mi Taschenrechner</string>
   <string name="cal_convert_to_word_figure">Finanzmathematik</string>
@@ -21,12 +8,13 @@
   <string name="cal_paste">Einfügen</string>
   <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">Text kopiert</string>
+  <string name="cancel">Abbrechen</string>
   <string name="choose_currency">Wählen Sie eine Währung</string>
   <string name="choose_unit">Wählen Sie eine Einheit</string>
   <string name="city">Stadt</string>
   <string name="clear">C</string>
-  <string name="clearDesc">Löschen</string>
   <string name="clear_history">Lösche Verlauf</string>
+  <string name="clearDesc">Löschen</string>
   <string name="combine_loan">Kombinierte Darlehen</string>
   <string name="commercial_loan">Kommerzielle Darlehen</string>
   <string name="convert_currency">Währungsumrechnung</string>
@@ -45,7 +33,9 @@
   <string name="current_rate_remind_fund"/>
   <string name="dateformat">dd.MM.yyyy</string>
   <string name="day">Tag</string>
+  <string name="degDesc">Winkel</string>
   <string name="del">LÖSCHEN</string>
+  <string name="deleteDesc">löschen</string>
   <string name="description_content">Neben den Basisfunktionen fungiert Rechner auch als Umrechner, Kredit- und Steuerrechner. Wenn Sie diese App deinstallieren, können Sie diese Funktionen nicht mehr nutzen.</string>
   <string name="description_title">Über Rechner</string>
   <string name="devided_by_zero_reminder_message">Division durch Null nicht möglich</string>
@@ -94,6 +84,8 @@
   <string name="golbal_search_path_calculator_setting">System Apps/Rechner/Einstellungen</string>
   <string name="home_title_calculator">Taschenrechner</string>
   <string name="income_type">Einkunftsart</string>
+  <string name="install">Installieren</string>
+  <string name="install_scanner_to_continued_use">Scanner ist deinstalliert. Neu installieren?</string>
   <string name="item_title_aa_payment">Zahlung splitten</string>
   <string name="item_title_area_conversion">Fläche</string>
   <string name="item_title_calculator">Rechner</string>
@@ -161,10 +153,11 @@
   <string name="mortgage_years_amount">Hypothekenlaufzeit</string>
   <string name="mul">×</string>
   <string name="mulDesc">Multiplikation</string>
+  <string name="negDesc">Umschalten zwischen Minus- und Minustemperaturen</string>
   <string name="network_confirm_content">Währungsrechner, Steuer- und Hypothekenrechner müssen eine Verbindung zum Internet herstellen und auf Ortungsdienste zugreifen, um normal arbeiten zu können.</string>
   <string name="network_confirm_title">Netzwerkanforderung</string>
-  <string name="percentDesc">Prozent</string>
   <string name="percentage">%</string>
+  <string name="percentDesc">Prozent</string>
   <string name="pi">π</string>
   <string name="piDesc">Pi</string>
   <string name="plus">+</string>
@@ -190,9 +183,14 @@
   <string name="preference_settings">Einstellungen</string>
   <string name="preference_use_degress_summary">Ersetzen Sie in den Trigonometriefunktionen Radiant durch Winkel</string>
   <string name="preference_use_degress_title">Winkel verwenden</string>
+  <string name="radDesc">Radiant</string>
   <string name="rate_data_provider">Die Zinssätze werden von hexun.com bereitgestellt</string>
+  <string name="reciprocalDesc">Reziproke</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">Klammer zu</string>
+  <string name="scanner_had_been_uninstalled">Scanner wird deinstalliert</string>
+  <string name="scannerDesc">Scanner</string>
+  <string name="secondFunctionDesc">Umschalten auf die zweite Funktion</string>  
   <string name="settingsDesc">Einstellungen</string>
   <string name="sin">sin</string>
   <string name="sinDesc">Sinus</string>
@@ -289,16 +287,16 @@
   <string name="unit_data_display_length_um">Mikrometer</string>
   <string name="unit_data_display_length_yd">Yard</string>
   <string name="unit_data_display_length_zhang">Zhang</string>
-  <string name="unit_data_display_temperature_C">Celsius</string>
-  <string name="unit_data_display_temperature_F">Fahrenheit</string>
-  <string name="unit_data_display_temperature_K">Kelvin</string>
-  <string name="unit_data_display_temperature_R">Rankine</string>
-  <string name="unit_data_display_temperature_Re">Reaumur</string>
   <string name="unit_data_display_temperature_c">Celsius</string>
+  <string name="unit_data_display_temperature_C">Celsius</string>
   <string name="unit_data_display_temperature_f">Fahrenheit</string>
+  <string name="unit_data_display_temperature_F">Fahrenheit</string>
   <string name="unit_data_display_temperature_k">Kelvin</string>
+  <string name="unit_data_display_temperature_K">Kelvin</string>
   <string name="unit_data_display_temperature_r">Rankine</string>
+  <string name="unit_data_display_temperature_R">Rankine</string>
   <string name="unit_data_display_temperature_re">Reaumur</string>
+  <string name="unit_data_display_temperature_Re">Reaumur</string>
   <string name="unit_data_display_time_day">Tag</string>
   <string name="unit_data_display_time_h">Stunde</string>
   <string name="unit_data_display_time_min">Minute</string>
@@ -383,16 +381,16 @@
   <string name="unit_data_short_length_nmi">NM</string>
   <string name="unit_data_short_length_um">μm</string>
   <string name="unit_data_short_length_zhang">zhang</string>
-  <string name="unit_data_short_temperature_C">°C</string>
-  <string name="unit_data_short_temperature_F">°F</string>
-  <string name="unit_data_short_temperature_K">K</string>
-  <string name="unit_data_short_temperature_R">°R</string>
-  <string name="unit_data_short_temperature_Re">°Re</string>
   <string name="unit_data_short_temperature_c">°C</string>
+  <string name="unit_data_short_temperature_C">°C</string>
   <string name="unit_data_short_temperature_f">°F</string>
+  <string name="unit_data_short_temperature_F">°F</string>
   <string name="unit_data_short_temperature_k">K</string>
+  <string name="unit_data_short_temperature_K">K</string>
   <string name="unit_data_short_temperature_r">°R</string>
+  <string name="unit_data_short_temperature_R">°R</string>
   <string name="unit_data_short_temperature_re">°Re</string>
+  <string name="unit_data_short_temperature_Re">°Re</string>
   <string name="unit_data_short_time_us">μs</string>
   <string name="unit_data_short_time_week">wk</string>
   <string name="unit_data_short_velocity_c">c</string>
@@ -440,6 +438,6 @@
     Version %1$s ist verfügbar
     Deltagröße: %2$s
   </string>
-  <string name="xiaomi_update_dialog_title">%1$s aktialisieren!</string>
+  <string name="xiaomi_update_dialog_title">%1$s aktualisieren!</string>
   <string name="year">Jahr</string>
 </resources>
