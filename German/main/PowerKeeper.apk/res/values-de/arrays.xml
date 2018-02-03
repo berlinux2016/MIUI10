@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!-- To Translate -->
-  <string-array name="power_mode_entries">
-        <item>Performance</item>
-        <item>Balanced</item>
-  </string-array>
-  
   <string-array name="action_name_translate">
     <item>Max Bildschirmhelligkeit</item>
     <item>Max CPU-Frequenz</item>
@@ -89,6 +83,10 @@
     <item>CPU belegen</item>
     <item>Gerät häufig aufwecken</item>
   </string-array>
+  <string-array name="power_mode_entries">
+    <item>Leistung</item>
+    <item>Ausgeglichen</item>
+  </string-array>  
   <string-array name="thermal_entries">
     <item>Standardmodus</item>
     <item>Hochleistungsmodus</item>

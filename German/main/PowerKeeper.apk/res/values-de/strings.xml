@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="performance_category">Performance</string>
-     <string name="power_center">Power</string>
-     <string name="power_mode">Power settings</string>
-     <string name="power_usage">Power usage</string>
-     <string name="sleep_config_enhance_description_non_nfc">"Whenever MIUI detects that you're sleeping, it will close background apps, restrict Bluetooth, GPS, mobile data and WLAN usage, and won't light up screen for notifications."</string>
-	 
   <string name="about_hide_mode">Über Akkusparer</string>
   <string name="action_bar_delete">Löschen</string>
   <string name="action_settings">Einstellungen</string>
@@ -108,6 +101,8 @@ Akkusparer wird wichtige Apps bevorzugt behandeln."</string>
   <string name="normal">Standardmodus</string>
   <string name="operation_create_group">Name</string>
   <string name="operation_create_group_message">Neuen Gruppennamen eingeben</string>
+  <string name="performance_category">Performance</string>
+  <string name="power_center">Leistung</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s laufen unnormal</string>
   <string name="power_checker_background_cpu_title">%1$s läuft unnormal</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s rufen Standortinformationen häufig auf</string>
@@ -189,6 +184,7 @@ Akkusparer wird wichtige Apps bevorzugt behandeln."</string>
   <string name="power_hide_mode_summary">Hintergrundprozesse, WLAN und mobile Datenverbindung von bestimmten Apps einschränken, um Energieverbrauch zu begrenzen</string>
   <string name="power_hide_mode_title">Akku &amp; Leistung</string>
   <string name="power_keeper">Energie sparen</string>
+  <string name="power_mode">Leistung-Einstellungen</string>
   <string name="power_mode_cpu_state_high">Leistung</string>
   <string name="power_mode_cpu_state_high_desc">Priorität: Leistung vor Akkulaufzeit</string>
   <string name="power_mode_cpu_state_low">Energie sparen</string>
@@ -198,6 +194,7 @@ Akkusparer wird wichtige Apps bevorzugt behandeln."</string>
   <string name="power_mode_view_app_list_title">Apps</string>
   <string name="power_mode_view_event_title">Ereignisse</string>
   <string name="power_mode_view_user_define_title">Neues Ereignis</string>
+  <string name="power_usage">Stromverbrauch</string>  
   <string name="power_optimize_activity_profile_file_error">Fehler Energie sparen</string>
   <string name="quick_disconnect_description">Apps können im Hintergrund nur kurz auf die Netzwerkverbindung zugreifen. Der dauerhafte Zugriff ist beschränkt.</string>
   <string name="quick_disconnect_title">Getrennt</string>
@@ -219,6 +216,7 @@ Akkusparer wird wichtige Apps bevorzugt behandeln."</string>
   <string name="sleep_config_disable_description">MIUI wird nachts die Standbyzeit nicht verbessern</string>
   <string name="sleep_config_disable_title">Aus</string>
   <string name="sleep_config_enhance_description">Wenn MIUI erkennt, dass Sie schlafen, werden Hintergrundanwendungen geschlossen, NFC, Bluetooth, GPS, mobile Daten und WLAN-Nutzung eingeschränkt und der Bildschirm aktiviert sich bei Benachrichtigungen nicht.</string>
+  <string name="sleep_config_enhance_description_non_nfc">Immer wenn MIUI erkennt dass Sie schlafen, schließt es Hintergrundanwendungen. Schränkt die Nutzung von Bluetooth, GPS, mobile Daten und WLAN ein und der Bildschirm leuchtet bei Benachrichtigungen nicht auf.</string>
   <string name="sleep_config_enhance_title">Schlafmodus</string>
   <string name="sleep_config_mode_title">Schlafmodus</string>
   <string name="still">Bild</string>
