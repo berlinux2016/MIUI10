@@ -1,30 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="account_error_user_name">The name you entered is invalid</string>
-     <string name="account_global_region">Overseas</string>
-     <string name="action_add_phone">Add phone number</string>
-     <string name="action_update_phone">Change phone number</string>
-     <string name="identity">Identification</string>
-     <string name="no_phone">No phone number</string>
-     <string name="passport_get_innetdate_agree">Check</string>
-     <string name="passport_get_innetdate_disagree">No</string>
-     <string name="passport_get_innetdate_msg">&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier. Check when the number went online?</string>
-     <string name="passport_get_innetdate_title">Check when the number went online</string>
-     <string name="passport_license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
-     <string name="passport_privacy_policy">Privacy Policy</string>
-     <string name="passport_reg_failed">"Can't set up account"</string>
-     <string name="passport_register">Create an account</string>
-     <string name="passport_uplink_slot1_reg">Use SIM 1</string>
-     <string name="phone_num_use_for">Phone number is used for:</string>
-     <string name="recycle_phone_notification_msg">Looks like your phone number has been recycled. Tap to update.</string>
-     <string name="recycle_phone_notification_title">Mi Account security risk</string>
-     <string name="set_success">Changed successfully</string>
-     <string name="sign_in">Signing in</string>
-     <string name="sim_changed_notification_msg">Tap to update your recovery phone and keep your account more secure</string>
-     <string name="sim_changed_notification_title">Changed phone number?</string>
-     <string name="update_phone_notice">Change security settings</string>
-  
   <string name="about_device_info">Geräteinfo anzeigen</string>
   <string name="access_denied">Zugang verweigert</string>
   <string name="access_token_expired_warning">Weibo Konto abgelaufen</string>
@@ -46,6 +21,8 @@
   <string name="account_error_longer_user_name">Maximal 20 Zeichen</string>
   <string name="account_error_shorter_user_name">Name muss mehr als 2 Zeichen haben</string>
   <string name="account_error_user_birthday">Eingegebener Geburtstag ist ungültig</string>
+  <string name="account_error_user_name">Der eingegebene Name ist ungültig</string>
+  <string name="account_global_region">Übersee</string>
   <string name="account_has_been_set">Ändern</string>
   <string name="account_learn_more_title">Mi Konto erstellen</string>
   <string name="account_limit_update_birthday">Geburtstag kann momentan nicht aktualisiert werden</string>
@@ -66,6 +43,8 @@
   <string name="account_security_info_pref_title">Sicherheitsinfos</string>
   <string name="account_security_question">Sicherheitsfrage</string>
   <string name="account_settings">Konto</string>
+  <string name="action_add_phone">Telefonnummer hinzufügen</string>
+  <string name="action_update_phone">Telefonnummer ändern</string>
   <string name="account_token_expired_msg">"Verifikationscode abgelaufen, erneut versuchen oder abmelden.
 Ihre Konto ID: %s"</string>
   <string name="account_token_expired_title">Authentifikation fehlgeschlagen</string>
@@ -222,6 +201,7 @@ Ihre Konto ID: %s"</string>
   <string name="get_phone_verifycode_exceed_limit">Zu viele Verifikationscodes wurden an diese Telefonnummer versendet. Warten Sie 24 Stunden und versuchen Sie es erneut.</string>
   <string name="guest_account_label">Mi Gastkonto</string>
   <string name="i_know">Ist bekannt</string>
+  <string name="identity">Identifizierung</string>  
   <string name="ignore">Nicht jetzt</string>
   <string name="input_captcha_hint">Code eingeben</string>
   <string name="input_email_address_notice">Wir verwenden diese Adresse, um Ihr Konto zu überprüfen</string>
@@ -291,6 +271,7 @@ Ihre Konto ID: %s"</string>
   <string name="next">Weiter</string>
   <string name="no_network_btn">Aktualisieren</string>
   <string name="no_network_title">Keine Netzwerkverbindung</string>
+  <string name="no_phone">Keine Telefonnummer</string>
   <string name="no_response_retry">Keine Rückmeldung. Erneut versuchen.</string>
   <string name="no_sim_card">Keine SIM-Karte</string>
   <string name="no_sim_card_or_unactivated">SIM-Karte nicht installiert oder aktiviert</string>
@@ -381,6 +362,10 @@ Ihre Konto ID: %s"</string>
   <string name="passport_forget_password"><u>Passwort vergessen</u></string>
   <string name="passport_forget_password_no_underline">Passwort vergessen</string>
   <string name="passport_get_back_pwd">Kontopasswort abrufen</string>
+  <string name="passport_get_innetdate_agree">Prüfen</string>
+  <string name="passport_get_innetdate_disagree">Nein</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier. Check when the number went online?</string>
+  <string name="passport_get_innetdate_title">Überprüfen Sie, wann die Nummer online gegangen ist</string>
   <string name="passport_get_verify_code">Code abrufen</string>
   <string name="passport_getting_activator_phone">Erhalte SIM-Karteninfo…</string>
   <string name="passport_getting_verify_code">Code erneut abrufen</string>
@@ -395,6 +380,7 @@ Ihre Konto ID: %s"</string>
   <string name="passport_input_phone_hint">Telefonnummer eingeben</string>
   <string name="passport_input_vcode_hint">Verifikationscode eingeben</string>
   <string name="passport_input_verify_code_hint">Verifikationscode eingeben</string>
+  <string name="passport_license_host_unreachable">Verbindung zum Netzwerk nicht möglich. Sie können diese Seite unter %s anzeigen.</string>  
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Anmelden</string>
   <string name="passport_login_check_find_device">Gerätelokalisierungstatus wird überprüft…</string>
@@ -426,8 +412,11 @@ Ihre Konto ID: %s"</string>
   <string name="passport_phone_num_hint_text">Telefonnummer</string>
   <string name="passport_phone_ticket_login">Mit SMS anmelden</string>
   <string name="passport_prev">Zurück</string>
+  <string name="passport_privacy_policy">Datenschutz-Bestimmungen</string>
   <string name="passport_pwd_generate_failure">Passwort konnte nicht generiert werden</string>
   <string name="passport_pwd_generating">Generieren…</string>
+  <string name="passport_reg_failed">Konto kann nicht eingerichtet werden</string>
+  <string name="passport_register">Ein Konto erstellen</string>  
   <string name="passport_querying_phone_info">Fordere Kontoinfo an…</string>
   <string name="passport_quick_login">Anmelden</string>
   <string name="passport_quick_login_dialog_step2_title">2-stufige Verifizierung</string>
@@ -500,6 +489,7 @@ Ihre Konto ID: %s"</string>
   <string name="passport_trust_device">Diesem Gerät vertrauen</string>
   <string name="passport_trying_read_verify_code_sms">Verfikationscode anfordern…</string>
   <string name="passport_uplink_reg">Nutze Telefonnummer</string>
+  <string name="passport_uplink_slot1_reg">SIM 1 verwenden</string>
   <string name="passport_uplink_slot2_reg">SIM 2 verwenden</string>
   <string name="passport_use_generated_pwd_message">Merken Sie sich Ihr Passwort. Sie können sich damit auch bei anderen Mi Diensten anmelden.</string>
   <string name="passport_use_generated_pwd_title">Merken Sie sich Ihr Passwort!</string>
@@ -538,6 +528,7 @@ Ihre Konto ID: %s"</string>
   <string name="passwort_set">Festlegen</string>
   <string name="passwort_uplink_slot1_reg">SIM 1 verwenden</string>
   <string name="phone_activated">%s aktiviert</string>
+  <string name="phone_num_use_for">Telefonnummer wird verwendet für:</string>
   <string name="phone_send_verify_code_prompt">Sende Verifikationscode an %s</string>
   <string name="phone_unactivated">Nicht bestätigt</string>
   <string name="phone_unknown">Unbekannt</string>
@@ -555,6 +546,8 @@ Ihre Konto ID: %s"</string>
   <string name="quick_login_step2_title">2-stufige Verifizierung</string>
   <string name="quick_login_title">Passwort eingeben</string>
   <string name="re_register">Erstellen Sie kostenlos ein Mi Konto</string>
+  <string name="recycle_phone_notification_msg">Ihre Telefonnummer wurde anscheinend wiederhergestellt. Tippen Sie zum Aktualisieren.</string>
+  <string name="recycle_phone_notification_title">Mi-Konto Sicherheitsrisiko</string>
   <string name="reg_failed">Konto kann nicht erstellt werden</string>
   <string name="reging">Konto wird erstellt…</string>
   <string name="register">Mi Konto erstellen</string>
@@ -619,6 +612,10 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="send_email_activate_message">Verifikationsmail gesendet</string>
   <string name="service_error">Dienstfehler</string>
   <string name="set_security_question_title">Sicherheitsfragen festlegen</string>
+  <string name="set_success">Erfolgreich geändert</string>
+  <string name="sign_in">Anmelden</string>
+  <string name="sim_changed_notification_msg">Tap to update your recovery phone und geben Sie Ihrem Konto mehr Sicherheit.</string>
+  <string name="sim_changed_notification_title">Telefonnummer ändern?</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_register">Schritt überspringen</string>
   <string name="sms_send_success">Gesendet</string>
@@ -646,6 +643,7 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="update_contacts_description">Lassen Sie Sina Weibo Ihr Mi Konto nutzen, um alle Kontakte zwischen den Plattformen zu synchronisieren</string>
   <string name="update_email_address_dialog_message">Vor der Aktualisierung der E-Mailadresse müssen Sie Ihre Identität nachweisen</string>
   <string name="update_email_address_dialog_title">E-Mailadresse aktualisieren</string>
+  <string name="update_phone_notice">Sicherheitseinstellungen ändern</string>
   <string name="update_phone_number_notice_message">Vor der Aktualisierung der Telefonnummer müssen Sie Ihre Identität nachweisen</string>
   <string name="update_recovery_info_dialog_message">Vor der Aktualisierung der E-Mailadresse müssen Sie Ihre Identität nachweisen</string>
   <string name="update_recovery_info_dialog_title">E-Mailadresse aktualisieren</string>

@@ -1,17 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="abrupt_weather_settings_summary_type_a">Unusual Weather Warning Switch</string>
-     <string name="abrupt_weather_settings_summary_type_b">Unusual Weather Warning Switch</string>
-     <string name="abrupt_weather_settings_title">Unusual Weather Warning</string>
-     <string name="activity_main_clickable">></string>
-     <string name="content_desc_back_button">Back</string>
-     <string name="content_desc_close_button">Close</string>
-     <string name="content_desc_edit_city_manage">Manage cities</string>
-     <string name="menu_speaker">Voice broadcast</string>
-     <string name="minute_rain">Minutely forecast</string>
-     <string name="missing_required_permission">You have disabled a required permission.</string>
-  
+  <string name="abrupt_weather_settings_summary_type_a">Ungewöhnlicher Wetterwarnschalter</string>
+  <string name="abrupt_weather_settings_summary_type_b">Ungewöhnlicher Wetterwarnschalter</string>
+  <string name="abrupt_weather_settings_title">Ungewöhnliche Wetterwarnung</string>
   <string name="act_find_city_hint">Ort eingeben</string>
   <string name="act_find_city_hot_attractions_title">Beliebte Standorte</string>
   <string name="act_find_city_hot_city_title">Beliebte Städte</string>
@@ -30,6 +21,7 @@
   <string name="activity_find_city_dialog_set">Einstellungen</string>
   <string name="activity_find_city_dialog_title">Standort abrufen</string>
   <string name="activity_main_alert"/>
+  <string name="activity_main_clickable">></string>
   <string name="activity_main_one_alert"/>
   <string name="activity_main_refresh_fail">Netzwerkverbindung fehlgeschlagen</string>
   <string name="activity_main_time_format">E</string>
@@ -97,6 +89,9 @@
   <string name="content_desc_activity_main_add_city">Stadt hinzufügen</string>
   <string name="content_desc_activity_main_add_city_manage">Städteverwaltung</string>
   <string name="content_desc_activity_main_more_settings">Mehr Einstellungen</string>
+  <string name="content_desc_back_button">Zurück</string>
+  <string name="content_desc_close_button">Schließen</string>
+  <string name="content_desc_edit_city_manage">Städte verwalten</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
   <string name="daily_forcast_drawer_on_top">Weitere Tage</string>
   <string name="daily_forcast_no_stable_direction">Windstill</string>
@@ -180,7 +175,9 @@ Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellung
   <string name="menu_add_city">Neuer Ort</string>
   <string name="menu_location">Orte</string>
   <string name="menu_minute_rain">Zweistündliche Regenvorhersage</string>
+  <string name="menu_speaker">Sprachübertragung</string>
   <string name="menu_speeker">Sprachübertragung</string>
+  <string name="minute_rain">Minutengenaue Vorhersage</string>
   <string name="minute_rain_after_an_hour">Eine Stunde später</string>
   <string name="minute_rain_after_two_hour">Zwei Stunden später</string>
   <string name="minute_rain_feedback_subtitle">Teilen Sie uns das aktuelle Wetter mit</string>
@@ -192,6 +189,7 @@ Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellung
   <string name="minute_rain_progress_indicator_original_time">- -</string>
   <string name="minute_rain_pull_down_refresh">Zum Aktualisieren nach unten ziehen</string>
   <string name="minute_rain_refreshing_now">Wird aktualisiert</string>
+  <string name="missing_required_permission">Sie haben eine erforderliche Berechtigung deaktiviert.</string>
   <string name="more_details">Mehr Details</string>
   <string name="network_not_available">Kann mich nicht mit dem Netzwerk verbinden</string>
   <string name="network_unavailable">Verbindung zum Netzwerk nicht möglich</string>

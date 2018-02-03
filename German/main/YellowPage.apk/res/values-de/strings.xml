@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="mark_number_notification_title">Report suspicious number</string>
-     <string name="turn_on_online_antispam_enable">Turn on</string>
-     <string name="turn_on_online_antispam_summary">Turn on Caller ID to recognize unknown numbers</string>
-     <string name="turn_on_online_antispam_title">Turn on Caller ID</string>
-     <string name="turn_on_smart_antispam_summary">Upload and identify unknown phone numbers from call history and text messages</string>
-  
   <string name="about_fraud_num_online_identification">Über diese Funktion</string>
   <string name="about_phone_event">Über Serviceinfo</string>
   <string name="about_smart_antispam_summary">Über diese Funktion</string>
@@ -138,6 +131,7 @@
   <string name="mark_number_feedback_success">Feedbackerfolg, die Zahl wird nachgeprüft</string>
   <string name="mark_number_marked_maintitle">Ändern</string>
   <string name="mark_number_marked_subtitle">Ich habe als %s markiert</string>
+  <string name="mark_number_notification_title">Verdächtige Nummer melden</string>
   <string name="mark_number_remove">Eingabe entfernen</string>
   <string name="mark_title_null_hint">Eingabe darf nicht leer sein</string>
   <string name="menu_add_black_list">Zur Blacklist hinzufügen</string>
@@ -286,10 +280,14 @@
   <string name="turn_off_hint_title">Anrufer-ID ausschalten?</string>
   <string name="turn_off_phone_event_hint">Sie können die Flaginfo für unbekannte Telefonnummern nicht sehen</string>
   <string name="turn_off_smart_antispam_hint">Sie können die Flag-Informationen für eingehende Anrufe von unbekannten Telefonnummern nicht sehen</string>
+  <string name="turn_on_online_antispam_enable">Einschalten</string>
+  <string name="turn_on_online_antispam_summary">Schalten Sie die Anrufer-ID ein, um unbekannte Nummern zu erkennen.</string>
+  <string name="turn_on_online_antispam_title">Anrufer-ID einschalten</string>
   <string name="turn_on_phone_event_dialog_title">Anrufer-ID-Datenbank aktualisieren</string>
   <string name="turn_on_phone_event_summary">Erlauben Sie Gelbe Seiten, die Servicenformationen der verifizierten Service Provider zu empfangen und hochzuladen</string>
   <string name="turn_on_phone_event_title">Erhalte Serviceinfo</string>
   <string name="turn_on_smart_antispam_hint">"Unbekannte Nummern mit Xiaomi's Label Directory identifizieren"</string>
+  <string name="turn_on_smart_antispam_summary">Upload und Identifizierung unbekannter Telefonnummern aus dem Anrufverlauf und SMS-Nachrichte</string>
   <string name="turn_on_smart_antispam_summary_off">Nur gespeicherte Nummern auf dem Gerät durchsuchen</string>
   <string name="turn_on_smart_antispam_summary_on">Identifizieren Sie unbekannte Nummern in Anruflisten und SMS</string>
   <string name="turn_on_smart_antispam_title">Unbekannte Nummern identifizieren</string>

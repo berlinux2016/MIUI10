@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="other_available_phone_accounts">Other available accounts</string>
-  <string name="preferred_phone_account">Preferred calling account</string>
-  <string name="sim_accounts">SIM accounts</string>
-  <string name="volte_switch_not_support_summary2">"VoLTE calls aren't supported by the carrier"</string>
-  
   <string name="CFActivate">Aktivieren</string>
   <string name="CFDeactivate">Deaktivieren</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM Firmen-PIN entsperren</string>
@@ -1706,6 +1700,7 @@ Nachdem Sie 'Aktivieren' drücken, hören Sie den Anweisungen zu, um das Telefon
 Möglicherweise müssen Sie einen Bereich mit besserem Empfang finden (nahe eines Fensters oder draußen).
 Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</string>
   <string name="other">Anderes</string>
+  <string name="other_available_phone_accounts">Andere verfügbare Konten</string>  
   <string name="other_countries_and_regions">Andere Standorte</string>
   <string name="other_settings">Weitere Anrufeinstellungen</string>
   <string name="other_settings_category">Andere</string>
@@ -1838,6 +1833,7 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="preferred_network_type_pref_entries_only_3g">Nur 3G-Netzwerke</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Bevorzugter Netzwerktyp</string>
+  <string name="preferred_phone_account">Bevorzugtes Anrufkonto</string>
   <string name="primary_account_summary_with">Hauptkonto %s</string>
   <string name="private_num">Unterdrückte Nummer</string>
   <string name="proceed">Weiter</string>
@@ -2017,10 +2013,11 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="setting_duration_title">Verbleibende Zeit</string>
   <string name="setting_for_3G_service">3G Dienst</string>
   <string name="settings_label">Netzwerkeinstellungen</string>
-  <string name="sim1_activated">SIM-Karte 1</string>
-  <string name="sim1_no_activated">SIM1 bestätigt</string>
-  <string name="sim2_activated">, SIM-Karte 2</string>
-  <string name="sim2_no_activated">, SIM2 nicht bestätigt</string>
+  <string name="sim_accounts">SIM-Konten</string>
+  <string name="sim1_activated">SIM 1</string>
+  <string name="sim1_no_activated">SIM 1 nicht bestätigt</string>
+  <string name="sim2_activated">SIM 2</string>
+  <string name="sim2_no_activated">SIM 2 nicht bestätigt</string>
   <string name="simContacts_airplaneMode">Deaktivieren Sie zum Importieren der Kontakte von der SIM-Karte zunächst den Flugmodus</string>
   <string name="simContacts_empty">Keine Kontakte auf Ihrer SIM-Karte</string>
   <string name="simContacts_emptyLoading">SIM-Karte wird gelesen…</string>
@@ -2290,6 +2287,7 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="volte_ss_not_available_tips_data">Um den Vorgang zu beenden, müssen Sie mobile Daten auf %s aktivieren</string>
   <string name="volte_ss_not_available_tips_data_roaming">Um den Vorgang zu beenden, müssen Sie mobile Daten sowie Roaming auf %s aktivieren</string>
   <string name="volte_ss_not_available_tips_roaming">Um den Vorgang zu beenden, müssen Sie Roaming auf %s aktivieren</string>
+  <string name="volte_switch_not_support_summary2">VoLTE-Anrufe werden vom Netzbetreiber nicht unterstützt.</string>  
   <string name="volte_switch_summary">Verwenden Sie VoLTE, um die Qualität der Sprach- und Videoanrufe zu verbessern</string>
   <string name="volte_switch_title">VoLTE</string>
   <string name="vvm_unsupported_message_format">Nicht unterstützer Nachrichtentyp, rufen Sie zum Abhören %s an</string>
