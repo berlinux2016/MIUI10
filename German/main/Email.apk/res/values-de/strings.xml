@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="bcc">Bcc</string>
-  <string name="cc">Cc</string>
-  <string name="cc_bcc">Cc/Bcc</string>
-  <string name="message_count_spacer">  </string>
-  <string name="to">To</string>
-  
   <string name="SMTP_independent_verification_text">SMTP-unabhängige Überprüfung</string>
   <string name="SMTP_password_text">Passwort</string>
   <string name="SMTP_username_text">Benutzername</string>
@@ -238,6 +231,7 @@
   <string name="bank_card_detail">Kreditkartendetails</string>
   <string name="battery_saver">Energiesparmodus</string>
   <string name="battery_saver_keywords">Energie sparen;E-Mail Akku</string>
+  <string name="bcc">Bcc</string>
   <string name="bill_center_setting">Zahlungseinstellungen</string>
   <string name="bill_center_setting_head">Informationen von diesen Konten importieren</string>
   <string name="bill_cycle_text">Abrechnungsrhythmus</string>
@@ -262,6 +256,8 @@
   <string name="cancel_action">Abbrechen</string>
   <string name="cancel_pop3_attchemt_downloading">Bei einem POP3-Konto kann der Download des Anhangs nicht abgebrochen werden</string>
   <string name="cant_move_or_change_labels">Kann nicht verschoben werden, da die Auswahl aus mehreren Konten besteht</string>
+  <string name="cc">Cc</string>
+  <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Cc: "</string>
   <string name="change_folders_selection_dialog_title">Ordner wechseln</string>
   <string name="change_sync_settings">Synchronisationseinstellungen ändern</string>
@@ -638,6 +634,7 @@
   <string name="menu_search">Suche</string>
   <string name="menu_settings">Einstellungen</string>
   <string name="merged_mailbox_compose_select_account">Konto auswählen</string>
+  <string name="message_count_spacer">  </string>
   <string name="message_body_load_set_description">Datenmenge für neue E-Mails über Mobilfunknetz</string>
   <string name="message_compose_insert_quick_response_list_title">Kurzantwort einfügen</string>
   <string name="message_decode_error">Beim Entschlüsseln der Nachricht ist ein Fehler aufgetreten</string>
@@ -1041,6 +1038,7 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="tap_to_configure">Zum Einrichten antippen</string>
   <string name="tap_to_enable_sync">Zum Aktivieren berühren</string>
   <string name="tip_cannot_switchview_in_unread_folder">Im zusammengefassten Ungelesenmodus kann die Ansicht nicht gewechselt werden</string>
+  <string name="to">Nach</string>
   <string name="to_heading">"An: "</string>
   <string name="toast_bar_fail_synchronization">Verbindung zum Netzwerk konnte nicht hergestellt werden</string>
   <string name="toast_bar_insufficient_memory_space">E-Mails konnten nicht abgerufen werden. Nicht genügend Speicherplatz</string>
