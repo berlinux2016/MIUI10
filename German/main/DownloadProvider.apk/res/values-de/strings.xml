@@ -1,24 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="dialog_button_cancel">Cancel</string>
-  <string name="dialog_button_ok">OK</string>
-  <string name="dialog_content_limit0">Restrict downloads</string>
-  <string name="dialog_content_limit_max">Unlimited</string>
-  <string name="dialog_data_limit_button1">Wait for WLAN</string>
-  <string name="dialog_data_limit_button2">Download now</string>
-  <string name="dialog_data_limit_msg1">%s of mobile data will be used to download this file. Download now?</string>
-  <string name="dialog_data_limit_msg3">Change limit</string>
-  <string name="dialog_data_limit_title">Data usage warning</string>
-  <string name="dialog_tip_limit">Warn when downloading file bigger than %s</string>
-  <string name="dialog_tip_limit0">Warn every time</string>
-  <string name="dialog_tip_no_limit">"Don't warn"</string>
-  <string name="task_already_exist">Task already exists</string>
-  <string name="warning_tip_cancel">Download</string>
-  <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
-  <string name="warning_tip_ok">Pause</string>
-  <string name="warning_tip_title">Data usage warning</string>
-  
   <string name="app_label">Downloadmanager</string>
   <string name="auto_restart_under_wifi">Runterladen der Datei bei aktiver WLAN-Verbindung automatisch starten</string>
   <string name="button_cancel_download">Abbrechen</string>
@@ -26,9 +7,21 @@
   <string name="button_queue_for_wifi">Warteschlange</string>
   <string name="button_start_now">Jetzt starten</string>
   <string name="button_wait_for_wifi">Warten</string>
+  <string name="dialog_button_cancel">abbrechen</string>
+  <string name="dialog_button_ok">OK</string>
+  <string name="dialog_content_limit_max">Unbegrenzt</string>
+  <string name="dialog_content_limit0">Downloads einschränken</string>
+  <string name="dialog_data_limit_button1">Warten auf WLAN</string>
+  <string name="dialog_data_limit_button2">Jetzt herunterladen</string>
+  <string name="dialog_data_limit_msg1">%s der mobilen Daten werden verwendet, um diese Datei herunterzuladen. Jetzt herunterladen?</string>
+  <string name="dialog_data_limit_msg3">Limit ändern</string>
+  <string name="dialog_data_limit_title">Warnung bei mobilem Datenverkehr</string>
   <string name="dialog_insufficient_space_on_cache">Nicht genügend Speicherplatz auf dem internen Speicher</string>
   <string name="dialog_insufficient_space_on_external">Nicht genügend Speicherplatz auf dem externen Speicher</string>
   <string name="dialog_not_show_again">"Nicht mehr anzeigen"</string>
+  <string name="dialog_tip_limit">Warnung beim Herunterladen von Dateien größer als %s</string>
+  <string name="dialog_tip_limit0">Jedes Mal warnen</string>
+  <string name="dialog_tip_no_limit">Nicht warnen</string>
   <string name="download_apk_desktop_installing">Installiert</string>
   <string name="download_apk_desktop_pause">Angehalten</string>
   <string name="download_apk_desktop_pending">Ausstehend</string>
@@ -40,6 +33,7 @@
   <string name="download_remaining">Noch %s</string>
   <string name="download_running">In Bearbeitung</string>
   <string name="download_running_percent">Wird heruntergeladen: %d%%</string>
+  <string name="task_already_exist">Aufgabe ist bereits vorhanden</string>
   <string name="download_unknown_title">&lt;Unbenannt&gt;</string>
   <string name="enter_garbage_clean">Internen Speicher bereinigen</string>
   <string name="insufficient_space">Nicht genügend Speicherplatz auf dem internen Speicher</string>
@@ -84,6 +78,10 @@
   <string name="permlab_downloadWithoutNotification">Dateien ohne Benachrichtigung herunterladen</string>
   <string name="permlab_seeAllExternal">Alle Downloads im USB-Speicher anz.</string>
   <string name="root_downloads">Downloads</string>
+  <string name="warning_tip_cancel">Download</string>
+  <string name="warning_tip_content">Sie sind nicht mehr mit WLAN verbunden. Wenn Sie Ihre mobile Datenverbindung nutzen, um diesen Download abzuschließen, erhöht sich Ihre Datennutzung. Wenn Sie das Datenlimit Ihres Tarifs überschreiten, kann Ihr Netzbetreiber Ihnen zusätzliche Gebühren in Rechnung stellen.</string>
+  <string name="warning_tip_ok">Pause</string>
+  <string name="warning_tip_title">Datennutzung Warnhinweis</string>
   <string name="wifi_recommended_body" formatted="false">
     "Der Download von %s kann die Akkulaufzeit verkürzen/die mobile Datenverbindung überlasten. Je nach Vertrag können zusätzliche Kosten entstehen.
 
