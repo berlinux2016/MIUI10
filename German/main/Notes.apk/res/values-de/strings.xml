@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="cloud_service_state_open_reminder">Turn on sync with Mi Cloud to sync notes</string>
-  <string name="toast_reach_text_limit_checkbox">"Can't add checkbox because note is too long"</string>
-  
   <string name="default_folder_name">Ordner nicht benannt</string>
   <string name="note_description_content">Die Notiz-App ist ein großartiges Tool, um Ihre Ideen zu notieren. Sie kann Sie erinnern und synchronisiert Ihre Notizen in die MI Cloud. Somit haben Sie von jedem Gerät und jederzeit Zugriff auf Ihre Notizen. Stellen Sie sicher, das Sie ohne diese Funktionen weiterarbeiten können, bevor Sie die App löschen.</string>
   <string name="note_description_title">Über Notizen</string>
@@ -40,6 +36,7 @@
   <string name="call_record_folder_name">Anrufnotizen</string>
   <string name="cancel_alarm_description">Alarm beenden</string>
   <string name="cloud_trash_bin_title">Notizen auf Mi Cloud löschen</string>
+  <string name="cloud_service_state_open_reminder">Aktivieren Sie die Synchronisation mit Mi-Cloud, um Notizen zu synchronisieren</string>  
   <string name="cta_reminder">Diese App muss eine Verbindung zum Internet herstellen, um Notizen auf Mi Cloud zu sichern sowie die Kontakte zu lesen, um die Notizen zu markieren, die Sie während der Anrufe entgegennehmen.</string>
   <string name="db_downgrade_clear_button">App-Daten löschen</string>
   <string name="db_downgrade_clear_date_reminder">Wenn Sie auf eine andere MIUI Version wechseln, müssen Sie die Appdaten von Notizen löschen. Bevor Sie das tun, vergewissern Sie sich, dass Sie Ihre Notizen auf Mi Cloud gesichert haben.</string>
@@ -218,6 +215,7 @@
   <string name="toast_notes_unhidden_count">%1$s erfolgreich sichtbar gemacht</string>
   <string name="toast_privacy_mode">Kann für versteckte Notizen nicht durchgeführt werden</string>
   <string name="toast_reach_text_limit_attachment">Der Inhalt der Notiz ist zu lang, um neue Anhänge einzufügen</string>
+  <string name="toast_reach_text_limit_checkbox">Auswahlfeld kann nicht hinzugefügt werden, weil die Notiz zu lang ist</string>
   <string name="toast_reach_text_limit_truncate">Aufgrund der Überlänge wurde der Inhalt der Notiz zugeschnitten</string>
   <string name="toast_unmark_privacy_notes">Erfolgreich</string>
   <string name="toast_unmark_privacy_notes_count">%1$s Notizen sind nicht mehr versteckt</string>
