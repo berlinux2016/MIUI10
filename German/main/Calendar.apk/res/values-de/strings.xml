@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="action_bar_return">Back</string>
-  <string name="date_calculate_direction_content_description">Current direction: %1s</string>
-  <string name="talk_back_read_date">Current date: %1$s (%2$s according to lunar calendar)</string>
-  
   <string name="accessbility_suggestion_dropdown_closed">Keine Vorschläge verfügbar</string>
   <string name="accessbility_suggestion_dropdown_opened">Kontaktempfehlungen geöffnet</string>
   <string name="accessibility_add_attendee">Teilnehmer hinzufügen</string>
@@ -34,6 +29,7 @@
   <string name="acessibility_selected_marker_description">Ausgewählter Termin</string>
   <string name="acessibility_snooze_notification">Schlummerbenachrichtigung</string>
   <string name="action_bar_more_menu_view_description">Mehr</string>
+  <string name="action_bar_return">Zurück</string></string>
   <string name="action_label">Zurück</string>
   <string name="action_text_card_manager">Abos</string>
   <string name="action_text_new_event">Neuer Termin</string>
@@ -178,7 +174,7 @@
   <string name="date_calculate">Datum berechnen</string>
   <string name="date_calculate_days">Geben Sie die Anzahl der Tage ein</string>
   <string name="date_calculate_description">Erfahren Sie, welches Datum vor oder nach einem bestimmten Tag liegt</string>
-  <string name="date_calculate_direction">Richtung</string>
+  <string name="date_calculate_direction_content_description">Aktuelle Richtung: %1s</string><string name="date_calculate_direction">Richtung</string>
   <string name="date_calculate_result">Ergebnis</string>
   <string name="date_calculate_tab">Datum berechnen</string>
   <string name="date_calculate_today">0 Tage</string>
@@ -729,6 +725,7 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="tab_local">Abonniert</string>
   <string name="tab_online">Online</string>
   <string name="taishen">Kind Gottes</string>
+  <string name="talk_back_read_date">Aktuelles Datum: %1$s (%2$s entspricht dem Mondkalender)    
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Termin %1$s von %2$s</string>
   <string name="template_week_num">Kalenderwoche %1$s</string>
