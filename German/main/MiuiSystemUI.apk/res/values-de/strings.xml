@@ -1,35 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="dlg_ok">OK</string>
-  <string name="legacy_vpn_name">VPN</string>
-  <string name="monitoring_button_view_policies">View Policies</string>
-  <string name="monitoring_description_ca_certificate">A certificate authority is installed on this device. Your secure network traffic may be monitored or modified.</string>
-  <string name="monitoring_description_managed_profile_ca_certificate">Your organization installed a certificate authority in your work profile. Your secure network traffic may be monitored or modified.</string>
-  <string name="monitoring_description_managed_profile_named_vpn">Your work profile is connected to %1$s, which can monitor your network activity, including emails, apps, and websites.</string>
-  <string name="monitoring_description_management">"Your device is managed by your organization.
-
-Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information.
-
-For more information, contact your admin."</string>
-  <string name="monitoring_description_management_ca_certificate">Your organization installed a certificate authority on this device. Your secure network traffic may be monitored or modified.</string>
-  <string name="monitoring_description_management_network_logging">Your admin has turned on network logging, which monitors traffic on your device.</string>
-  <string name="monitoring_description_named_management">"Your device is managed by %1$s.
-
-Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information.
-
-For more information, contact your admin."</string>
-  <string name="monitoring_description_named_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
-  <string name="monitoring_description_personal_profile_named_vpn">Your personal profile is connected to %1$s, which can monitor your network activity, including emails, apps, and websites.</string>
-  <string name="monitoring_description_two_named_vpns">"You're connected to %1$s and %2$s, which can monitor your network activity, including emails, apps, and websites."</string>
-  <string name="monitoring_description_vpn_settings">Open VPN Settings</string>
-  <string name="monitoring_description_vpn_settings_separator">" "</string>
-  <string name="monitoring_subtitle_ca_certificate">CA certificates</string>
-  <string name="monitoring_subtitle_network_logging">Network logging</string>
-  <string name="monitoring_subtitle_vpn">VPN</string>
-  <string name="monitoring_title">Network monitoring</string>
-  <string name="monitoring_title_device_owned">Device management</string>
-  
   <string name="accessibility_action_divider_bottom_full">Vollbildschirm unten</string>
   <string name="accessibility_action_divider_left_30">Links 30%</string>
   <string name="accessibility_action_divider_left_50">Links 50%</string>
@@ -300,6 +270,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="dlg_confirm_kill_storage_users_text">Wenn Sie den USB-Speicher einschalten, werden einige Apps angehalten und möglicherweise nicht mehr verfügbar sein, bis Sie das USB-Speichergerät ausschalten.</string>
   <string name="dlg_confirm_kill_storage_users_title">USB-Speicher einschalten</string>
   <string name="dlg_error_title">USB-Vorgang fehlgeschlagen</string>
+  <string name="dlg_ok">OK</string>
   <string name="dock_forced_resizable">App funktioniert möglicherweise im Splitscreen nicht.</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Splitscreen wird auf dem Sperrbildschirm nicht unterstützt</string>
   <string name="dock_non_resizeble_failed_to_dock_text">App unterstützt Splitscreen nicht</string>
@@ -426,6 +397,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="launch_defaults_none">Keine Voreinstellungen festlegen</string>
   <string name="launch_defaults_some">Einige Standardwerte einstellen</string>
   <string name="legacy_dhcp_client_summary">Den DHCP-Client von Lollipop anstelle des neuen Android DHCP-Clients verwenden.</string>
+  <string name="legacy_vpn_name">VPN</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Einen Moment…</string>
@@ -462,6 +434,31 @@ Bitte Ladegerät benutzen."</string>
   <string name="mock_location_app">App für vorgetäuschte Standorte auswählen</string>
   <string name="mock_location_app_not_set">Keine App für vorgetäuschte Standorte ausgewählt</string>
   <string name="mock_location_app_set">App für vorgetäuschte Orte: %1$s</string>
+  <string name="monitoring_description_ca_certificate">Auf diesem Gerät ist eine Zertifizierungsstelle installiert. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
+  <string name="monitoring_description_managed_profile_ca_certificate">Ihre Organisation hat in Ihrem Arbeitsprofil eine Zertifizierung eingerichtet. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
+  <string name="monitoring_description_managed_profile_named_vpn">Ihr Arbeitsprofil ist mit %1$s verbunden, das Ihre Netzwerkaktivität überwachen kann, einschließlich E-Mails, Apps und Webseiten.</string>
+  <string name="monitoring_description_management">"Ihr Gerät wird von Ihrer Organisation verwaltet.
+
+Ihr Administrator kann Einstellungen, Unternehmenszugriff, Apps, mit Ihrem Telefon verknüpfte Daten und Standortinformationen überwachen und verwalten.
+
+Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</string>
+  <string name="monitoring_description_management_ca_certificate">Ihre Organisation hat eine Zertifizierung auf diesem Telefon installiert. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
+  <string name="monitoring_description_management_network_logging">Ihr Administrator hat die Netzwerkprotokollierung aktiviert, die den Datenverkehr auf Ihrem Telefon überwacht.</string>
+  <string name="monitoring_description_named_management">"Ihr Gerät wird von %1$s verwaltet.
+
+Ihr Administrator kann Einstellungen, Unternehmenszugriff, Apps, Daten, die mit Ihrem Gerät verknüpft sind, und die Standortinformationen überwachen und verwalten.
+
+Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</string>
+  <string name="monitoring_description_named_vpn">Sie sind mit %1$s verbunden, die Ihre Netzwerkaktivität überwachen können, einschließlich E-Mails, Apps und Webseiten.</string>
+  <string name="monitoring_description_personal_profile_named_vpn">Ihr persönliches Profil ist mit %1$s verbunden, das Ihre Netzwerkaktivität überwachen kann, einschließlich E-Mails, Apps und Webseiten.</string>
+  <string name="monitoring_description_two_named_vpns">"Sie sind mit %1$s und %2$s verbunden, die Ihre Netzwerkaktivitäten überwachen können, einschließlich E-Mails, Apps und Webseiten.</string>
+  <string name="monitoring_description_vpn_settings">Öffne VPN-Einstellungen</string>
+  <string name="monitoring_description_vpn_settings_separator">" "</string>
+  <string name="monitoring_subtitle_ca_certificate">CA-Zertifikate</string>
+  <string name="monitoring_subtitle_network_logging">Netzwerk-Protokollierung</string>
+  <string name="monitoring_subtitle_vpn">VPN</string>
+  <string name="monitoring_title">Netzwerküberwachung</string>
+  <string name="monitoring_title_device_owned">Telefonverwaltung</string>  
   <string name="mount_storage">Ja</string>
   <string name="nav_guide_cancel">Ignorieren</string>
   <string name="nav_guide_message">Gesten verwenden, um Soft Buttons ein- oder auszublenden.</string>
