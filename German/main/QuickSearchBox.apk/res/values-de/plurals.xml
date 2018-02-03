@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!-- To Translate -->
   <plurals name="favor_delete_message">
-        <item quantity="other">Delete %d selected items?</item>
-        <item quantity="one">Delete %d selected item?</item>
+        <item quantity="other">%d ausgewählte Elemente löschen?</item>
+        <item quantity="one">Ein ausgewähltes Element löschen?</item>
      </plurals>
      <plurals name="favor_delete_succeed">
-        <item quantity="other">Deleted %d items</item>
-        <item quantity="one">Deleted %d item</item>
+        <item quantity="other">%d Elemente gelöscht</item>
+        <item quantity="one">Ein Elemente gelöscht</item>
      </plurals>
      <plurals name="favor_select_num">
-        <item quantity="other">Selected %d items</item>
-        <item quantity="one">Selected %d item</item>
+        <item quantity="other">%d Elemente ausgewählt</item>
+        <item quantity="one">%d Element ausgewählt</item>
      </plurals>
   
   <plurals name="switch_prompt_content">
