@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="app_search">Search apps</string>
-  <string name="feedback_choose_reproductivity">Reproductivity</string>
-  <string name="feedback_title_reproductivity">Select reproductivity</string>
-  <string name="network_unavailable_dialog_button_ok">OK</string>
-  
   <string name="action_cancel">Abbrechen</string>
   <string name="action_confirm">Auswählen</string>
   <string name="action_submit">Senden</string>
@@ -13,6 +7,7 @@
   <string name="app_empty">Keine heruntergeladenen Apps vorhanden</string>
   <string name="app_label">Fehlerbericht</string>
   <string name="app_name">Fehlerbericht</string>
+  <string name="app_search">Apps suchen</string>
   <string name="btn_send">Senden</string>
   <string name="bugreport_dialog_not_show_again">Nicht wieder anzeigen</string>
   <string name="bugreport_dialog_submit_content">Ihr Feedback enthält persönliche Informationen</string>
@@ -63,6 +58,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s Probleme \"%2$s\"</string>
   <string name="feedback_choose_module">Kategorie auswählen</string>
   <string name="feedback_choose_module_hint">Erforderlich</string>
+  <string name="feedback_choose_reproductivity">Reproduzierbarkeit</string>
   <string name="feedback_choose_third_app_name">Appname auswählen</string>
   <string name="feedback_collect_log_failed">Protokolldaten konnten nicht gelesen werden</string>
   <string name="feedback_contact_info_hint">Telefonnummer/E-Mail</string>
@@ -110,9 +106,9 @@
   <string name="feedback_submit_failed_notification_retry">Nochmals senden</string>
   <string name="feedback_submit_failed_notification_title">Bericht konnte nicht gesendet werden</string>
   <string name="feedback_submit_hint">Melden Sie Fehler jedes Mal, wenn Probleme auftreten, damit wir diese schneller beheben können</string>
+  <string name="feedback_submit_hint_gone">Nachricht geschlossen</string>
   <string name="feedback_submit_hint1">Wir werden Sie über den Fortschritt der Bearbeitung informieren</string>
   <string name="feedback_submit_hint2">Gehen Sie zu \"Meine Berichte\", um Details anzuzeigen</string>
-  <string name="feedback_submit_hint_gone">Nachricht geschlossen</string>
   <string name="feedback_submit_succ">Erfolgreich gesendet</string>
   <string name="feedback_submit_succ_button">Erledigt</string>
   <string name="feedback_submitting">Wird übermittelt…</string>
@@ -120,6 +116,7 @@
   <string name="feedback_third_packagename_hint">Welche Drittanbieterapp verursacht Probleme?</string>
   <string name="feedback_title">Titel</string>
   <string name="feedback_title_hint">Beschreiben Sie kurz das Problem</string>
+  <string name="feedback_title_reproductivity">Reproduzierbarkeit wählen</string>
   <string name="feedback_tracking">Probleme verfolgen</string>
   <string name="feedback_version_label">Version</string>
   <string name="feesback_list">Berichte</string>
@@ -244,6 +241,7 @@
   <string name="network_errortip_server">Serverfehler, versuchen Sie es nochmal</string>
   <string name="network_errortip_timeout">Servertimeout, versuchen Sie es nochmal</string>
   <string name="network_errortip_unknow">Unbekannter Fehler</string>
+  <string name="network_unavailable_dialog_button_ok">OK</string>
   <string name="network_unavailable_dialog_content">Bericht wird gesendet, sobald eine Netzwerkverbindung besteht</string>
   <string name="network_unavailable_dialog_title">Netzwerk nicht verfügbar</string>
   <string name="non_system_app_select">Heruntergeladene Apps</string>
