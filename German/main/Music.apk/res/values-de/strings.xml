@@ -1,24 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- To Translate -->
-  <string name="comment_action_title">Comment of %s</string>
-     <string name="comment_input_empty">Empty content</string>
-     <string name="comment_input_hint">Please input your comment</string>
-     <string name="comment_ref_reply_format">Reply@%1$s:%2$s</string>
-     <string name="delete_comment_failed">Delete comment failed</string>
-     <string name="download_fee_alert_title">Download pay songs</string>
-     <string name="impunity_declaration_content">By touching agree, you agree to the terms stated in our %1$s and %2$s.</string>
-     <string name="impunity_declaration_content_agreement">User Agreement</string>
-     <string name="impunity_declaration_content_policy">Privacy Policy</string>
-     <string name="like_comment_failed">Like comment failed</string>
-     <string name="paused_waiting_to_pay">Waiting to pay</string>
-     <string name="post_comment_failed">Comment posted failed</string>
-     <string name="reply_comment">Reply</string>
-     <string name="reply_comment_hint">Reply@%s</string>
-     <string name="send_comment">Comment</string>
-     <string name="show_download_manager">To Download Manager</string>
-     <string name="to_be_downloaded">To be downloaded</string>
-	 
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_home_description_format">%1$s: %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s: %3$s</string>
@@ -228,6 +209,10 @@
   <string name="com_facebook_smart_login_confirmation_continue_as">Weiter als %1$s</string>
   <string name="com_facebook_smart_login_confirmation_title">Anmeldung bestätigen</string>
   <string name="com_facebook_tooltip_default">Sie haben die Kontrolle - wählen Sie, welche Informationen Sie mit Apps teilen möchten.</string>
+  <string name="comment_action_title">Kommentar von %s</string>
+  <string name="comment_input_empty">Leerer Inhalt</string>
+  <string name="comment_input_hint">Bitte geben Sie Ihren Kommentar ein</string>
+  <string name="comment_ref_reply_format">"Antwort@%1$s: %2$s"</string>
   <string name="common_google_play_services_enable_button">Aktivieren</string>
   <string name="common_google_play_services_enable_text">"1$s funktioniert nur, wenn Sie die Google-Play-Dienste aktivieren.</string>
   <string name="common_google_play_services_enable_title">Google-Play-Dienste aktivieren</string>
@@ -258,6 +243,7 @@
   <string name="data_usage_warning_summary">Die Nutzung der mobilen Daten zum Streamen von Musik mit hoher Qualität kann die Datennutzung erhöhen.</string>
   <string name="date_format_str">dd.MM.yyyy</string>
   <string name="delete">Löschen</string>
+  <string name="delete_comment_failed">Kommentar löschen fehlgeschlagen</string>  
   <string name="delete_download">Löschen</string>
   <string name="delete_downloads_records">Downloads löschen</string>
   <string name="delete_file_as_well">Lokale Dateien zusätzlich löschen</string>
@@ -359,6 +345,7 @@
   <string name="download_error">Fehlgeschlagen</string>
   <string name="download_error_insufficient_space">Zu wenig Speicherplatz</string>
   <string name="download_fail_to_fetch_info">Konnte nicht herunterladen, versuchen Sie es erneut</string>
+  <string name="download_fee_alert_title">Download von Bezahl-Songs</string>    
   <string name="download_filesize_unknown">Unbekannt</string>
   <string name="download_in_process">WIRD HERUNTERGELADEN</string>
   <string name="download_info_count_deleted_tasks">%s Downloads entfernt</string>
@@ -541,6 +528,9 @@
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="i_know">Bestätigen</string>
   <string name="i_know_it">Bestätigen</string>
+  <string name="impunity_declaration_content">Wenn Sie zustimmen, stimmen Sie den Bedingungen in unseren %1$s und %2$s zu.</string>
+  <string name="impunity_declaration_content_agreement">Nutzungsbedingungen</string>
+  <string name="impunity_declaration_content_policy">Datenschutz-Bestimmungen</string>
   <string name="impunity_declaration">Die App benötigt eine Internetverbindung, um Onlineinhalte anzuzeigen und zu streamen.</string>
   <string name="impunity_declaration_content1">"Mit der Bestätigung akzeptieren Sie unsere "</string>
   <string name="impunity_declaration_content2">Nutzungsbedingungen</string>
@@ -576,6 +566,7 @@
   <string name="ktv_playlist">KTV Wiedergabeliste</string>
   <string name="latest_song">Wiedergabeverlauf (%d)</string>
   <string name="like">Gefällt mir</string>
+  <string name="like_comment_failed">Like Kommentar fehlgeschlagen</string>  
   <string name="list_detail_title">Details</string>
   <string name="list_item_play_all_tracks">Alle abspielen</string>
   <string name="list_item_play_FM_radio">Berühren, um FM-Radio abzuspielen</string>
@@ -789,6 +780,7 @@
   <string name="paused_queued_for_wifi">Auf Netzwerkverbindung warten</string>
   <string name="paused_unknown">Pausiert</string>
   <string name="paused_waiting_for_network">Auf Netzwerkverbindung warten</string>
+  <string name="paused_waiting_to_pay">Warten auf die Bezahlung</string>  
   <string name="paused_waiting_to_retry">Auf neuerlichen Versuch warten</string>
   <string name="pay">"Zahlung: "</string>
   <string name="pay_now">Jetzt bezahlen</string>
@@ -816,6 +808,7 @@
   <string name="please_download_first">Sie müssen den Titel herunterladen bevor er als Klingelton verwendet werden kann</string>
   <string name="please_search_or_select">Suchen oder Bereich auswählen</string>
   <string name="please_select_song">Bitte wählen Sie zuerst einen Titel</string>
+  <string name="post_comment_failed">Kommentar posten fehlgeschlagen</string>
   <string name="power_save_mode_dialog_msg">Das Gerät befindet sich im Energiesparmodus. Download jetzt beginnen?</string>
   <string name="pref_download_settings_title">Downloadgrößenlimit</string>
   <string name="pref_summary_any_bytes_popup">Immer auf WLAN warten, um Dateien herunterzuladen</string>
@@ -880,6 +873,8 @@
   <string name="renew_period">"Gültig bis: "</string>
   <string name="repeat_all_notif">Alle Titel wiederholen</string>
   <string name="repeat_current_notif">Aktuellen Titel wiederholen</string>
+  <string name="reply_comment">Antwort</string>
+  <string name="reply_comment_hint">Antwot@%s</string>  
   <string name="restart_download">Neustarten</string>
   <string name="restart_immediate">Jetzt neustarten</string>
   <string name="resume_download">Fortsetzen</string>
@@ -916,6 +911,7 @@
   <string name="select_none">Alles abwählen</string>
   <string name="select_operation_items">Elemente auswählen</string>
   <string name="selected_count">%1$d von %2$d ausgewählt</string>
+  <string name="send_comment">Kommentar</string>  
   <string name="send_to">Teilen</string>
   <string name="send_to_title">Senden an (%1$s)</string>
   <string name="server_error">Serverfehler, bitte versuchen Sie es später nochmal</string>
@@ -957,6 +953,7 @@
   <string name="share_image_error">Bild konnte wegen Downloadfehlers nicht geteilt werden</string>
   <string name="share_text_list">"Ich habe eine Wiedergabeliste auf Mi Musik gefunden: "</string>
   <string name="share_text_song">"Ich habe einen Titel auf Mi Musik gefunden: "</string>
+  <string name="show_download_manager">Zum Download-Manager</string>
   <string name="show_more">%s weitere anzeigen</string>
   <string name="shuffle_music">Zufällige Wiedergabe</string>
   <string name="shuffle_off_notif">Zufallswiedergabe ist aus</string>
@@ -1051,6 +1048,7 @@
   <string name="title_online_suggest">Das könnte dir gefallen</string>
   <string name="title_search_history">Chronik durchsuchen</string>
   <string name="title_search_hot">Besondere Vorschläge</string>
+  <string name="to_be_downloaded">Zum Herunterladen</string>     
   <string name="to_mi_pay">Mi Kredite</string>
   <string name="toast_cancel_download">Download abgebrochen</string>
   <string name="toast_cancel_play">Wiedergabe abgebrochen</string>
