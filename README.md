@@ -9,6 +9,8 @@ This repository contains the german translation of the MIUI V9 Weekly ROM Releas
 
 All strings were translated by the community - special thanks go to:
 
+Sorted in alphabetical order
+
 Benny1995, berlinux2016, bReathl3sS, cpu82, energY8989, FireEmerald, he-leon, Hen Ry [DE], ingbrzy, jnsfe, johndebur, lynx7, malchik-solnce, muhamed89, MeiGuddet, pareh, reflexxx, ScratchBuild, vivanco-vivanco, Wackelblume, WorXeN, wpm936 and more..!
 
 ## Reporting issues
