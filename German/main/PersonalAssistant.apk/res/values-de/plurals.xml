@@ -2,11 +2,11 @@
 <resources>
   <plurals name="express_history_dialog_delete_message">
     <item quantity="other">%s Elemente aus dem Express löschen?</item>
-    <item quantity="one">Ein Elemente aus dem Express löschen?</item>
+    <item quantity="one">%s Elemente aus dem Express löschen?</item>
   </plurals>
   <plurals name="express_history_menu_select_num">
     <item quantity="other">%s Elemente ausgewählt</item>
-    <item quantity="one">Ein Element ausgewählt</item>
+    <item quantity="one">%s Element ausgewählt</item>
   </plurals>
   <plurals name="payment_record_menu_select_num">
     <item quantity="other">%s Elemente ausgewählt</item>
@@ -38,15 +38,15 @@
   </plurals>
   <plurals name="sms_minute_suffix">
     <item quantity="other">In %d Minuten</item>
-    <item quantity="one">In einer Minute</item>
+    <item quantity="one">In %d Minute</item>
   </plurals>
   <plurals name="sms_hour_suffix">
     <item quantity="other">In %d Stunden</item>
-    <item quantity="one">In einer Stunde</item>
+    <item quantity="one">In %d Stunde</item>
   </plurals>
   <plurals name="sms_day_suffix">
     <item quantity="other">In %d Tagen</item>
-    <item quantity="one">In einem Tag</item>
+    <item quantity="one">In %d Tag</item>
   </plurals>
   <plurals name="sms_title_hours">
     <item quantity="other">%d Stunden</item>
@@ -57,13 +57,13 @@
     <item quantity="one">%d Minute</item>
   </plurals>
   <plurals name="mins_ago">
-    <item quantity="other">%1$dmin her</item>
+    <item quantity="other">%1$d Min. her</item>
   </plurals>
   <plurals name="hours_ago">
-    <item quantity="other">%1$dhr her</item>
+    <item quantity="other">%1$d Std. her</item>
   </plurals>
   <plurals name="days_ago">
-    <item quantity="other">%1$dd her</item>
+    <item quantity="other">%1$d Tg. her</item>
   </plurals>
   <plurals name="steps">
     <item quantity="other">%d|Schritte</item>
@@ -72,6 +72,6 @@
   </plurals>
   <plurals name="assistant_day">
     <item quantity="other">In %d Tagen</item>
-    <item quantity="one">In einem Tag</item>
+    <item quantity="one">In %d Tag</item>
   </plurals>
 </resources>

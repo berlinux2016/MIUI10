@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_change_text" formatted="false">Aktuell sind die %d und die %d Tauschpositionen ausgewählt</string>
+  <string name="access_change_text" formatted="false">Aktuell sind die %d und %d Tauschpositionen ausgewählt</string>
   <string name="access_select">Ausgewählt:%s</string>
   <string name="access_unselect">Abgewählt:%s</string>
   <string name="accessibility_title">Smart Assistant</string>
@@ -64,7 +64,7 @@
   <string name="alipay_confirm_cancel">Abbrechen</string>
   <string name="alipay_confirm_title">Abbrechen</string>
   <string name="alipay_conn_check_3g">• Mobile Daten sind aktiviert</string>
-  <string name="alipay_conn_check_alipay">• Netzwerkberechtigung für Alipay wurden geöffnet</string>
+  <string name="alipay_conn_check_alipay">• Netzwerkberechtigung für Alipay wurde geöffnet</string>
   <string name="alipay_conn_check_wifi">• WLAN ist aktiviert</string>
   <string name="alipay_conn_err_and_check">Verbindung fehlgeschlagen, Netzwerkeinstellungen prüfen</string>
   <string name="alipay_conn_reopen">• Netzwerkeinstellungen erneut öffnen</string>
@@ -195,18 +195,18 @@
   <string name="alipay_reg_manual_sms_tip">Wir haben eine Verifikations-SMS an %1$s gesendet. Nachricht öffnen und Verifikationscode eingeben.</string>
   <string name="alipay_reg_manual_sms_title">Verifikationscode eingeben</string>
   <string name="alipay_reg_phone_hint">Telefonnummer eingeben</string>
-  <string name="alipay_reg_phone_protocol">Bei der Registrierung stimmen Sie den Nutzungsbedingungen von $ALipay und $Taobao zu</string>
+  <string name="alipay_reg_phone_protocol">Bei der Registrierung stimmen Sie den Nutzungsbedingungen von $Alipay und $Taobao zu</string>
   <string name="alipay_reg_pwd_hint">Passwort eingeben</string>
   <string name="alipay_reg_pwd_sub_title">6-20 Zeichen lang (nicht nur Ziffern)</string>
   <string name="alipay_reg_pwd_supply">6-20 (nicht nur Ziffern)</string>
   <string name="alipay_reg_pwd_title">Passwort festlegen</string>
-  <string name="alipay_reg_read_sms_doing">Bitte waren, wir verifizieren Ihre Telefonnummer</string>
+  <string name="alipay_reg_read_sms_doing">Bitte warten, wir verifizieren Ihre Telefonnummer</string>
   <string name="alipay_reg_read_sms_title">Telefonnummer verifizieren</string>
   <string name="alipay_registNew">Registrieren</string>
   <string name="alipay_registNewAccount">Neues Konto registrieren</string>
   <string name="alipay_regist_now">Jetzt registrieren</string>
   <string name="alipay_regist_rds_suspect">Ihre Eingabe war zu schnell. Erneut versuchen.</string>
-  <string name="alipay_register_password_error">Das Passwort muss</string>
+  <string name="alipay_register_password_error">Das Passwort muss sein</string>
   <string name="alipay_reigsterSuccess">Erfolgreich registriert</string>
   <string name="alipay_reinput">Erneut eingeben</string>
   <string name="alipay_risk_account_dialog_tip">Konto kann sich vorübergehend nicht anmelden, können Sie dies über die folgenden Möglichkeiten tun</string>
@@ -383,10 +383,10 @@
   <string name="corpus_hint_apps">Apps durchsuchen</string>
   <string name="corpus_label_apps">Apps</string>
   <string name="cta_desc">Verkehrs- und Paketinfos und vieles mehr erhalten</string>
-  <string name="cta_dialog_content">Wenn Assistant verwendet wird, muss eine Inernetverbindung hergestellt werden und auf Ihren Standort zugegriffen werden. Sind Sie damit einverstanden?</string>
+  <string name="cta_dialog_content">Wenn Assistant verwendet wird, muss eine Internetverbindung hergestellt werden und auf Ihren Standort zugegriffen werden. Sind Sie damit einverstanden?</string>
   <string name="cta_dialog_negative">Beenden</string>
   <string name="cta_dialog_positive">Zustimmen</string>
-  <string name="cta_dialog_text_all">"Um App-Tresor nutzen zu können, sollten Sie %1$s \"User Agreement\" %2$s und %3$s \"Privacy Policy\" %4$s lesen und akzeptieren. Der Dienst erfordert außerdem eine Internetverbindung und den Zugang zu den Ortungsdiensten. Der Content Catcher, der von einigen Diensten genutzt wird, benötigt ebenfalls eine Internetverbindung. Einverstanden?"</string>
+  <string name="cta_dialog_text_all">"Um App-Tresor nutzen zu können, sollten Sie %1$s \"Nutzungsvereinbarung\" %2$s und %3$s \"Datenschutzerklärung\" %4$s lesen und akzeptieren. Der Dienst erfordert außerdem eine Internetverbindung und den Zugang zu den Ortungsdiensten. Der Content Catcher, der von einigen Diensten genutzt wird, benötigt ebenfalls eine Internetverbindung. Einverstanden?"</string>
   <string name="cta_dialog_text1">Um den Smart Assistant verwenden zu können, sollten Sie die</string>
   <string name="cta_dialog_text2">\"Nutzungsvereinbarung\"</string>
   <string name="cta_dialog_text3">und die</string>
@@ -530,7 +530,7 @@
   <string name="express_inquiry_delete_warning_multiple">%d Einträge löschen?</string>
   <string name="express_inquiry_delete_warning_single">Diesen Eintrag löschen?</string>
   <string name="express_inquiry_delivered">Zugestellt</string>
-  <string name="express_inquiry_detail">Expressversand Details</string>
+  <string name="express_inquiry_detail">Expressversanddetails</string>
   <string name="express_inquiry_edit_logistics">Kurier</string>
   <string name="express_inquiry_history">Verlauf</string>
   <string name="express_inquiry_history_remark">Kommentare</string>
@@ -631,7 +631,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_setting_count_down_time">Noch einmal versuchen in %ds</string>
   <string name="express_setting_dialog_authority_description">Die Überprüfung der Telefonnummer erfolgt über Gelbe Seiten. Gelbe Seiten müssen sich mit dem Netzwerk verbinden, um normal zu funktionieren. Einverstanden?</string>
   <string name="express_setting_dialog_delete_cancel">Beenden</string>
-  <string name="express_setting_dialog_delete_description">"Gelbe Seiten können die Zustellinformationen nicht automatisch verfolgen, nachdem Sie die Telefonnummer gelöscht haben. Trotzdem löschen?"</string>
+  <string name="express_setting_dialog_delete_description">Gelbe Seiten können die Zustellinformationen nicht automatisch verfolgen, nachdem Sie die Telefonnummer gelöscht haben. Trotzdem löschen?</string>
   <string name="express_setting_dialog_delete_failed">Telefonnummer konnte nicht gelöscht werden</string>
   <string name="express_setting_dialog_delete_ok">Löschen</string>
   <string name="express_setting_dialog_delete_success">Löschen erfolgreich</string>
@@ -725,18 +725,18 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="flybird_bl_val_failed">Armbandprüfung fehlgeschlagen, überweisen Sie mit Passwort</string>
   <string name="flybird_bl_val_ok">Smart-Gerät erkennen…</string>
   <string name="flybird_channel">Zahlungsmethode</string>
-  <string name="flybird_channel_label">##Das System basiert auf folgender Anordnung in Reihenfolge der Gebühren, klicken Sie auf \"Bearbeiten Bestellungsliste\".</string>
+  <string name="flybird_channel_label">##Das System basiert auf folgender Anordnung in Reihenfolge der Gebühren, klicken Sie auf \"Bearbeiten Bestellliste\".</string>
   <string name="flybird_channel_list_label">Bestellabzug</string>
   <string name="flybird_default_channel">Standardzahlungsmethode</string>
   <string name="flybird_default_channel_main">Standardzahlungsmethode</string>
   <string name="flybird_down">Nach unten</string>
   <string name="flybird_fp_open">Bitte verifizieren Sie den Fingerabdruck, um die Fingerabdruckzahlung zu öffnen</string>
-  <string name="flybird_fp_retry_tips">Bei Fingerabdruckwiederholungen Limit erreicht, wird beendet</string>
+  <string name="flybird_fp_retry_tips">Limit bei Fingerabdruckwiederholungen erreicht, wird beendet</string>
   <string name="flybird_fp_tips">Bitte überprüfen Sie den Fingerabdruck</string>
   <string name="flybird_fp_unavailable">Fingerabdruckzahlung vorübergehend nicht verfügbar, bitte versuchen Sie es später noch einmal</string>
   <string name="flybird_fp_val_failed">Fingerabdruckprüfung fehlgeschlagen, bitte versuchen Sie es erneut</string>
   <string name="flybird_fp_val_ok">Fingerabdruckprüfung erfolgreich eingereicht…</string>
-  <string name="flybird_fp_validate_too_often">Die Prüfung des Fingerabdrucks erfolgte zu oft. Bitte versuchen Sie es später noch einmal.</string>
+  <string name="flybird_fp_validate_too_often">Prüfung des Fingerabdrucks erfolgte zu oft. Bitte versuchen Sie es später noch einmal.</string>
   <string name="flybird_fp_validating">Fingerabdruck geprüft…</string>
   <string name="flybird_mobilegwerror_tips">Überlastet, später erneut versuchen</string>
   <string name="flybird_no_pwd_check_item">System wählt automatisch</string>
@@ -757,6 +757,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="flybird_setting_thirdpard_nopwd_label">Drittanbieterservice</string>
   <string name="flybird_setting_thirdpart_label">Automatische Rückbuchung</string>
   <string name="flybird_setting_use_default">Standard</string>
+    <!-- To Translate start -->
   <string name="flybird_system_error">##人气大爆发，一会接待您。/Popular outbreak, a reception for you/Viewed the outbreak, one will receive you./Betrachtet man den Ausbruch, wird man Sie empfangen.</string>
   <string name="flybird_up">Nach oben</string>
   <string name="flybird_use_hongbao">Verfügbare rote Umschläge</string>
@@ -807,12 +808,13 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="function_zhihu_search">Suche</string>
   <string name="function_zhihu_title">Zhihu</string>
   <string name="generate_view_failed">##全国人民都来了? 稍候再试试/Die Menschen im ganzen Land auch? Warten Sie und versuchen Sie es dann erneut.</string>
+      <!-- To Translate end -->
   <string name="go_to_school">Zur Schule oder Arbeit und zurück</string>
   <string name="greeting_alarm_desc">Alarm wird morgen um %1$s klingeln</string>
   <string name="greeting_alarm_desc_with_duration">Alarm klingelt morgen um %1$s. Gehen Sie jetzt ins Bett, um %2$s Schlaf zu bekommen.</string>
   <string name="greeting_birth_desc">Heute hat %1$s Geburtstag</string>
-  <string name="greeting_news_morning">Das ist passiert, während Sie geschlafen haben</string>
-  <string name="greeting_news_night">Heute war ein anstrengender Tag voller Ereignisse</string>
+  <string name="greeting_news_morning">Das ist passiert, während Sie geschlafen haben.</string>
+  <string name="greeting_news_night">Heute war ein anstrengender Tag voller Ereignisse.</string>
   <string name="greeting_no_alarm">Keine Alarme geplant, schlafen Sie ruhig</string>
   <string name="greeting_no_schedule">Keine Termine für heute</string>
   <string name="greeting_open">Tägliche Grüße einschalten</string>
@@ -920,7 +922,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="map_title_prve">Zu</string>
   <string name="map_title_smooth">Insgesamt reibungslos</string>
   <string name="memory_clear_result">%1$sB gelöscht</string>
-  <string name="memory_clear_nothing_result">Nichts zum Löschen im Zwischenspeicher</string>  
+  <string name="memory_clear_nothing_result">Nichts zu löschen im Zwischenspeicher</string>  
   <string name="menu_new">Hinzufügen</string>
   <string name="metre">m</string>
   <string name="mi_agenda">Kalendertermine</string>
@@ -960,7 +962,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="mini_debug_app_error">Programmfehler! Klicken Sie auf OK, um das Programm zu beenden.</string>
   <string name="mini_download">Herunterladen</string>
   <string name="mini_error_title_default">Tipp</string>
-  <string name="mini_expiry_date_content">Der Gültigkeitszeitraum ist auf der Vorderseite der Kreditkartennummer, unterhalb des Standardformats für den Monat des Vorjahres, auf der Rückseite einer Ziffernfolge aufgedruckt</string>
+  <string name="mini_expiry_date_content">Der Gültigkeitszeitraum ist auf der Vorderseite der Kreditkartennummer, unterhalb des Standardformats für den Monat des Vorjahres, hinter einer Ziffernfolge aufgedruckt.</string>
   <string name="mini_expiry_date_title">Ablaufdatum</string>
   <string name="mini_format_error">Falsches Format</string>
   <string name="mini_fp_no_open_pay">Ihre Fingerabdruckinformationen ändern sich, bitte öffnen Sie das Fingerabdruckpasswort erneut</string>
@@ -1230,7 +1232,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="pie_chart_label_red_packet">Rote Pakete:</string>
   <string name="pie_chart_label_remain">Verbleibend:</string>
   <string name="pie_chart_label_remittance">Übertragen:</string>
-  <string name="pie_chart_label_shopping">Shopping:</string>
+  <string name="pie_chart_label_shopping">Einkaufen:</string>
   <string name="pie_chart_label_spending">Zahlungen:</string>
   <string name="pie_chart_label_telephone_charge">Kommunikation:</string>
   <string name="pie_chart_label_tenement">Leihen:</string>
@@ -1253,7 +1255,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="recharge_title_remaining">Verbleibende Daten</string>
   <string name="recharge_title_used">Heute verwendet</string>
   <string name="record_name">Neue Aufnahem</string>
-  <string name="record_parent">Recorder</string>
+  <string name="record_parent">Rekorder</string>
   <string name="red_dowm_blue_grow">Grün - oben, Rot - unten</string>
   <string name="red_grow_blue_dowm">Rot - oben, Grün - unten</string>
   <string name="remain_flow">Mobile Daten</string>
@@ -1274,7 +1276,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="search">Favoriten</string>
   <string name="search_add_header">Titelbild hinzufügen</string>
   <string name="search_category_article">Artikel</string>
-  <string name="search_category_shopping">Shopping</string>
+  <string name="search_category_shopping">Einkaufen</string>
   <string name="search_category_video">Videos</string>
   <string name="search_change_header">Titelbild ersetzen</string>
   <string name="search_clear_header">Titelbild entfernen</string>
@@ -1307,7 +1309,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="setting_dialog_quit">Beenden</string>
   <string name="setting_dialog_title">Alle Änderungen gehen verloren. Jetzt beenden?</string>
   <string name="setting_didi_always_sdk">DiDi-Client immer verwenden</string>
-  <string name="setting_didi_default_way">Standard Taxiroute</string>
+  <string name="setting_didi_default_way">Standardtaxiroute</string>
   <string name="setting_disable">Aus</string>
   <string name="setting_fav_authorize">Zugriff auf alle Favoriten auf Ihrem Gerät zulassen</string>
   <string name="setting_fav_notification">Benachrichtigen, wenn etwas zu den Favoriten hinzugefügt wird</string>
@@ -1464,8 +1466,8 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="upgrade_being">Erfolgreich installiert, Starten Sie den Startbildschirm neu</string>
   <string name="upgrade_find">Neue Version gefunden</string>
   <string name="upgrade_later">Später</string>
-  <string name="upgrade_log_default">"1.Leistung optimieren；
-2.Bekannte Probleme beheben；"</string>
+  <string name="upgrade_log_default">"1. Leistung optimieren;
+2. Bekannte Probleme beheben;"</string>
   <string name="upgrade_log_subtitle">(Bereits im WLAN heruntergeladen)</string>
   <string name="upgrade_log_title">Neue Version von Persönlich Assistent</string>
   <string name="upgrade_now">Jetzt installieren</string>
