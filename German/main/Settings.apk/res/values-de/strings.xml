@@ -1513,6 +1513,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dirac_mode_piston_100">Mi Piston</string>
   <string name="dirac_mode_piston_2">Mi Piston 2</string>
   <string name="dirac_mode_piston_youth">Young Version</string>
+  <string name="disabled_authorised_apps_title">Widerruf der Berechtigung</string>
   <string name="disable_data_string">Datenverbindung deaktivieren</string>
   <string name="disable_encrypt_title">Verschlüsselung ausschalten</string>
   <string name="disableNetwork">Netzwerk ausschalten</string>
@@ -1697,6 +1698,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="enable_adb">USB-Debugging</string>
   <string name="enable_adb_summary">Debugmodus bei Anschluss über USB</string>
   <string name="enable_adb_summary_charging">Gerät ist im Lademodus, USB-Debugging ist ausgeschaltet</string>
+  <string name="enabled_authorised_apps_summary">Ihre Berechtigung wird widerrufen, nachdem Sie die Schalter der einzelnen Apps umgeschaltet haben.</string>
+  <string name="enabled_authorised_apps_title">Erteilte Berechtigung</string>
   <string name="enable_compatibility">App skalieren</string>
   <string name="enable_crypt_keeper_encrypt">Aktivieren der Verschlüsselung</string>
   <string name="enable_data_string">Datenverbindung aktivieren</string>
@@ -2025,6 +2028,8 @@ werden gefangen genommen, die Vogelscheuche und der Blechmann werden von den Gef
   <string name="free_xiaomi_wifi_connect_summary">Tippen, um mit %1$s zu verbinden</string>
   <string name="frequently_fragment_delete">Löschen</string>
   <string name="frequently_fragment_tempty">Oft genutzte Inhalte werden hier aufgelistet</string>
+  <string name="fsg_mistake_touch_summary">In einigen Szenen, wie z.B. bei Vollbild-Spielen und -Videos, müssen Gesten doppelt gewischt werden, um wirksam zu werden.</string>
+  <string name="fsg_mistake_touch_title">Doppelkontrolle der Gesten</string>  
   <string name="full_transparent_smarrcover_title">Transparente Frontabdeckung</string>
   <string name="fullbackup_data_summary">"Gerätedaten (wie WLAN Passwörter und Gesprächsverlauf) und Appdaten (wie Einstellungen und von Apps gespeicherte Dateien) automatisch sichern.
 Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten periodisch in der Cloud gespeichert. Dies können beliebige Daten, auch persönliche Daten wie Kontakte, Nachrichten und Fotos sein."</string>
@@ -2774,6 +2779,7 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="menu_stats_unplugged">%1$s seit dem Ausstecken</string>
   <string name="menu_use_uss">USS verwenden</string>
   <string name="mi_shopping_mall">Mi Market</string>
+  <string name="mi_upi_settings">Mi-Pay Konto</string>  
   <string name="miliao_account_guide">"Erstellen Sie ein Mi Konto und profitieren Sie von Xiaomi's Online Diensten"</string>
   <string name="miliao_account_login">Mit Mi Talk anmelden</string>
   <string name="miracast_PC2THOR_streaming_on">Kabellose Anzeige ist nicht verfügbar, ein anderer Rechner streamt bereits auf dieses Gerät</string>
@@ -2849,7 +2855,7 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="miracast_wps_setup_msg">WPS starten…</string>
   <string name="misc_files">Sonstige Dateien</string>
   <string name="misc_files_selected_count">%1$d von %2$d ausgewählt</string>
-  <string name="misc_files_selected_count_bytes">%1$s | %2$s</string>  
+  <string name="misc_files_selected_count_bytes">%1$s | %2$s</string>
   <string name="miui_allow_alarm">Alarme</string>
   <string name="miui_allow_light">LED-Benachrichtigung</string>
   <string name="miui_allow_music">Medien</string>
@@ -3708,8 +3714,23 @@ Betriebssystem auswählen:"</string>
   <string name="priority_storage_app_settings">Benutzerdaten speichern unter %1$s</string>
   <string name="priority_storage_settings_summary">Wenn keine SD-Karte vorhanden ist, werden die Benutzerdaten automatisch im internen Speicher des Gerätes gespeichert</string>
   <string name="priority_storage_summary">Standardverzeichnis zum Speichern der Daten auswählen</string>
-  <string name="priority_storage_title">Speichereinstellungen</string>
+  <string name="priority_storage_title">Speichereinstellungen</string>  
   <string name="privacy_applock">Appsperre</string>
+  <string name="privacy_authorize_dialog_agree">Zustimmen</string>
+  <string name="privacy_authorize_dialog_exit">Beenden</string>
+  <string name="privacy_authorize_dialog_message">%1$s setzt voraus, dass Sie %2$s lesen und akzeptieren. Die App muss sich mit dem Netzwerk verbinden, um normal zu funktionieren. Einverstanden?</string>
+  <string name="privacy_authorize_network_error">Verbinden Sie sich mit dem Netzwerk und versuchen Sie es erneut.</string>
+  <string name="privacy_authorize_privacy_policy">Datenschutzerklärung</string>
+  <string name="privacy_authorize_revoke">Widerrufen</string>
+  <string name="privacy_authorize_revoke_dialog_msg">Nachdem Sie die Autorisierung widerrufen haben, stoppt die Anwendung die Datenerfassung, und alle zugehörigen Daten werden von den Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Die Autorisierung trotzdem widerrufen?</string>
+  <string name="privacy_authorize_revoke_dialog_title">Berechtigung widerrufen</string>
+  <string name="privacy_authorize_revoke_failed">Die Autorisierung konnte nicht widerrufen werden.</string>
+  <string name="privacy_authorize_revoke_success">Berechtigung widerrufen erfolgreich</string>
+  <string name="privacy_authorize_revoke_time">Widerrufen (%1$ds)</string>
+  <string name="privacy_authorize_revoke_title">Autorisierung &amp; Widerruf</string>
+  <string name="privacy_authorize_revoking">Berechtigung widerrufen…</string>
+  <string name="privacy_authorize_success">Berechtigung erfolgreich erteilt</string>
+  <string name="privacy_authorize_title">Berechtigung erteilen</string>
   <string name="privacy_childmode">Kindersicherung</string>
   <string name="privacy_close_dlg_button_ok">Ausschalten</string>
   <string name="privacy_close_dlg_msg">Wenn das Datenschutzpasswort ausgeschaltet ist, werden Ihre Objekte nicht mehr geschützt</string>
@@ -5174,6 +5195,8 @@ Mit dieser Google-Funktion können Sie Ihre Daten synchronisieren, um von übera
   <string name="testing_usage_stats">Nutzungsstatistik</string>
   <string name="testing_wifi_info">WLAN-Information</string>
   <string name="tether_and_hotspot_title">Tethering &amp; Hotspot</string>
+  <string name="tether_auto_disable_summary">Hotspot automatisch schließen, wenn keine Geräte angeschlossen sind.</string>
+  <string name="tether_auto_disable_title">Hotspot automatisch schließen</string>
   <string name="tether_data_usage_limit">Einmaliges Datenlimit</string>
   <string name="tether_data_usage_limit_summary">Das Datenlimit wird angewendet, wenn Ihr Hotspot das nächste Mal aktiviert wird.</string>
   <string name="tether_devices_management_title">Geräte verwalten</string>
@@ -5528,6 +5551,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Aktiv lassen</string>
   <string name="usage_type_wifi_running">WLAN aktiv</string>
+  <string name="use_personalized_ad_service_summary">Wenn die Empfehlungsfunktion ausgeschaltet ist, sehen Sie immer noch die gleiche Anzahl von Anzeigen wie bei aktivierter Funktion, jedoch nicht auf der Grundlage Ihrer Verhaltensdaten oder Ihrer persönlichen Daten.</string>
   <string name="usb_adb_input">USB-Debugging (Sicherheitseinstellungen)</string>
   <string name="usb_adb_input_desc">Erlauben Sie die Berechtigungen und die Eingabesimulation über USB-Debugging</string>
   <string name="usb_audio_disable_routing">Deaktiviere USB-Audiorouting</string>
