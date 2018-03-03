@@ -6,6 +6,12 @@
   <string name="ac_firstUseApplock_subTitle">Verwenden Sie die Appsperre, um Ihre Privatsphäre zu schützen</string>
   <string name="ac_firstUseApplock_title">Ausgewählte Apps mit einem Muster sperren</string>
   <string name="ac_mask_all_apps">Für alle Apps ausblenden</string>
+  <string name="ac_notification_contentText">Zum Einschalten tippen</string>
+  <string name="ac_notification_contentTitle">Apps mit App-Lock schützen</string>
+  <string name="ac_post_notification_contentText">Holen Sie sich Schutz auf Systemebene</string>
+  <string name="ac_post_notification_contentTitle">App-Lock einschalten</string>
+  <string name="ac_pre_notification_contentText">Schützen Sie Ihre persönlichen Daten</string>
+  <string name="ac_pre_notification_contentTitle">App-Lock ausprobieren</string>
   <string name="ac_summaryOff">Ausgeschaltet, es ist kein Entsperrmuster zum Öffnen von Apps erforderlich</string>
   <string name="ac_summaryOn">Eingeschaltet, es ist ein Entsperrmuster zum Öffnen von Apps erforderlich</string>
   <string name="ac_unmask_all_apps">Für alle Apps einblenden</string>
@@ -1720,6 +1726,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="permit_running_network">Hintergrunddaten erlauben</string>
   <string name="person_hotpot">Mobile Hotspots</string>
   <string name="phone">Telefon</string>
+  <string name="Phonepass">Anrufe zulassen</string>>     
   <string name="pkg_traffic">Datenlimit einstellen</string>
   <string name="please_continue_keep">Behalten</string>
   <string name="pm_auto_start_basic_services_lock">Sperren</string>
@@ -2235,6 +2242,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="set_pattern_password_name">Muster setzen</string>
   <string name="seton_immediately">Einschalten</string>
   <string name="setting">Einstellungen</string>
+  <string name="Setting_lock">Einstellungen</string>  
   <string name="setting_privacy_password">Persönliches Schutzpasswort festlegen</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
@@ -2245,9 +2253,14 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="settings_category_other">Andere Einstellungen</string>
   <string name="settings_category_overheat">Überhitzung</string>
   <string name="settings_choice_no_notification">Aus</string>
-  <string name="settings_power_save_ontime_title">Zeitplan</string>
+  <string name="settings_power_save_ontime_title">Zeitplan</string>  
+  <string name="Settings_title_anti_spam">Blocklisteneinstellungen</string>
+  <string name="Settings_title_anti_virus">Sicherheits-Scan-Einstellungen</string>
+  <string name="Settings_title_garbage_cleanup">Bereinigungs-Einstellungen</string>
+  <string name="Settings_title_network_assistants">Einstellungen zur Datennutzung</string>
   <string name="settings_title_payment_security">Zahlungssicherheitseinstellungen</string>
   <string name="settings_title_permission">Berechtigungseinstellungen</string>
+  <string name="Settings_title_power_center">Akku-Einstellungen</string>
   <string name="share">Teilen</string>
   <string name="shield_keyboard_detail">Tasten zweimal antippen, um diese wieder zu aktivieren</string>
   <string name="shield_keyboard_title">Tasten deaktivieren</string>
@@ -2274,6 +2287,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="skin_change_close_btn_text">Als Standardhintergrund einstellen</string>
   <string name="skin_change_close_toast">Änderungen werden beim nächsten Start von Sicherheitsapp angewendet</string>
   <string name="sms_address">Regionensperrliste</string>
+  <string name="SMS_and_MMS">SMS und MMS</string>  
   <string name="sms_blacklist">SMS-Sperrliste</string>
   <string name="sms_cloud_block">Cloudsperrliste</string>
   <string name="sms_contact_block">SMS von Kontakten blockieren</string>
@@ -2288,6 +2302,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="sms_service">Dienstleistungs-SMS blockieren</string>
   <string name="sms_smart_engine_update">SMS-Filter automatisch aktualisieren</string>
   <string name="sms_stranger_block">SMS von Unbekannten blockieren</string>
+  <string name="SMSpass">SMS zulassen</string>  
   <string name="songs_number">18 Songs</string>
   <string name="songs_unit">" Songs"</string>
   <string name="sorted_button">Sortieren nach</string>
