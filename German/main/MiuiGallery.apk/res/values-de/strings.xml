@@ -1,6 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Import">Importieren</string>
+  <string name="album_bluetooth">Bluetooth</string>
+  <string name="album_midrop">Mi-Drop</string>
+  <string name="filter_bi_memory">Speicher</string>
+  <string name="filter_bi_mono">Mono</string>
+  <string name="filter_bi_pink">Pink</string>
+  <string name="filter_bi_portrait">Portrait</string>
+  <string name="filter_bi_retro">Retro</string>
+  <string name="filter_bi_romantic">Romantik</string>
+  <string name="filter_bi_strong">Stark</string>
+  <string name="filter_bi_sunny">Sonnig</string>
+  <string name="filter_bi_sweet">Süß</string>
+  <string name="filter_bi_warm">Warm</string>
+  <string name="filter_bi_young">Jung</string>
+  <string name="grant_permission_item">\"%s\"</string>
+  <string name="mark_myself_default_name">Ich</string>
+  <string name="mark_myself_suggestion_load_more">Das bin ich nicht.</string>
+  <string name="mark_myself_suggestion_title">Wählen Sie Fotos mit Ihrem Gesicht aus, um die Galerie zu personalisieren.</string>
+  <string name="mark_operation_failed">Konnte nicht hinzugefügt werden</string>
+  <string name="mark_operation_processing">Bearbeitung…</string>
+  <string name="mark_operation_succeeded">Erfolgreich hinzugefügt</string>
+  <string name="mark_people_ignore_info_message">Halten Sie Fotos von Personen gedrückt, um sie zu Gruppen hinzuzufügen.</string>
   <string name="accept">Annehmen</string>
   <string name="accept_or_deny">%1$s teilt das Album %2$s mit Ihnen</string>
   <string name="activity_not_found">Für diese Aktion ist keine App verfügbar</string>
@@ -78,10 +98,9 @@
   <string name="album_page_empty">Leer</string>
   <string name="album_page_label">Alben</string>
   <string name="album_pano_name">Panorama</string>
+  <string name="album_quota_fulfiled">Zu viele Alben. Löschen Sie einige Alben und versuchen Sie es erneut.</string>
   <string name="album_scanner">Scanner</string>
   <string name="album_screen_recorder">Bildschirmaufnahme</string>
-  <string name="album_wallpaper">Hintergrundbilder</string>  
-  <string name="album_quota_fulfiled">Zu viele Alben. Löschen Sie einige Alben und versuchen Sie es erneut.</string>
   <string name="album_screenshot_name">Screenshot</string>
   <string name="album_setting_show_in_photo_tab_success">Dieses Album ist bereits auf der Startseite</string>
   <string name="album_share_exit_confirm">Album schließen?</string>
@@ -101,6 +120,7 @@
   <string name="album_type_share">Geteiltes Album</string>
   <string name="album_type_system">Systemalbum</string>
   <string name="album_videos_name">Videos</string>
+  <string name="album_wallpaper">Hintergrundbilder</string>  
   <string name="albums">Alben</string>
   <string name="alert">Achtung</string>
   <string name="alert_init_merged_message">Fotos auf dem Gerät und in der Mi Cloud werden zusammen angezeigt.</string>
@@ -167,7 +187,7 @@
   <string name="baby_album_no_share_user_tip">Zurzeit keine Follower</string>
   <string name="baby_album_picker_default_title">Wähle %1$s Gesicht</string>
   <string name="baby_album_setting_title">Kinderinfo</string>
-  <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s, 
+  <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
 %3$s's %4$s teilte %5$s's Alben mit Ihnen"</string>
   <string name="baby_album_sharer_recommand_face">Vorhandene Fotos von %1$s hinzufügen?</string>
   <string name="baby_album_sharers_page_title">Mit Familie teilen</string>
@@ -266,9 +286,9 @@
   <string name="camera_view_none_message">Hier werden Fotos und Videos angezeigt, die Sie mit der Kamera aufgenommen haben</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Standardhintergrund wiederherstellen?</string>
+  <string name="cancel_download_btn_text">Beenden</string>  
   <string name="cancel_hint">Vorgang abgebrochen</string>
   <string name="cannot_delete_sharer_photo">Kann %s Elemente nicht löschen, die von anderen Benutzern hinzugefügt wurden</string>
-  <string name="cancel_download_btn_text">Beenden</string>  
   <string name="cannot_remove_creator">Kann Ersteller nicht entfernen</string>
   <string name="cannot_send_message">Nachricht kann nicht gesendet werden</string>
   <string name="cannot_send_message_reason">Keine gültigen Empfänger</string>
@@ -525,8 +545,8 @@
   <string name="effect">Effekt</string>
   <string name="email_picker_title">Geteilte E-Mail hinzufügen</string>
   <string name="empty_query_text_msg">Keine Ahnung, wonach ich suchen soll…</string>
-  <string name="empty_recommend_Back">Zurück</string>
   <string name="empty_recommend_back">Zurück</string>
+  <string name="empty_recommend_Back">Zurück</string>
   <string name="empty_recommend_button_view">Zurück</string>
   <string name="empty_recommend_face_page_view">Keine weiteren Empfehlungen</string>
   <string name="empty_relation">Gruppenname kann nicht leer sein</string>
@@ -737,7 +757,7 @@
   <string name="go_setting">Einstellungen anzeigen</string>
   <string name="grain">Filmkörnung</string>
   <string name="grant_permission_go_and_set">Einstellen</string>
-  <string name="grant_permission_text">"Galerie benötigt Zugriff auf %s, um richtig zu funktionieren. 
+  <string name="grant_permission_text">"Galerie benötigt Zugriff auf %s, um richtig zu funktionieren.
 Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="grant_permission_title">Zugriff erlauben</string>
   <string name="grant_permission_unlock_and_set">Entsperren und einstellen</string>
@@ -788,6 +808,7 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="image_not_found">Foto konnte nicht gefunden werden</string>
   <string name="image_quota_fulfiled">Zu viele Fotos. Nicht mehr benötigte Fotos löschen und erneut versuchen.</string>
   <string name="immomo_camera">Immomo</string>
+  <string name="Import">Importieren</string>
   <string name="import_complete">Importierung abgeschlossen</string>
   <string name="import_fail">Importierung fehlgeschlagen</string>
   <string name="impunity_declaration">Durch die Verwendung dieses Dienstes akzeptieren Sie Xiaomi\'s %1$s und %2$s. Einige Funktionen erfordern eine Internetverbindung, um normal funktionieren.</string>
@@ -1229,6 +1250,7 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="remove_from_album_message">Dieses Foto wird hier nicht mehr angezeigt</string>
   <string name="remove_from_album_title">Aus diesem Album entfernen</string>
   <string name="remove_from_current_album">Aus diesem Album entfernen</string>
+  <string name="remove_from_favorites_failed">Konnte nicht aus den Favoriten entfernt werden</string>
   <string name="remove_from_other_albums_tip">Synchronisation mit Mi Cloud sollte aktiviert werden, wenn Sie es aus den anderen Alben entfernen. Album jetzt entfernen?</string>
   <string name="remove_from_secret_fail">Entfernen aus verstecktem Album fehlgeschlagen</string>
   <string name="remove_from_secret_failed_message_with_count">%2$s Elemente konnten nicht aus %1$s entfernt werden</string>
@@ -1245,7 +1267,6 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="remover_edit_type_line">Linien</string>
   <string name="remover_erase_aera_too_big">Der Löschbereich ist zu groß</string>
   <string name="remover_menu_processing">Verarbeite</string>
-  <string name="remove_from_favorites_failed">Konnte nicht aus den Favoriten entfernt werden</string>
   <string name="removing_from_favorites">Aus Favoriten entfernen…</string>
   <string name="rename_album">Album umbenennen</string>
   <string name="rename_album_failed">Umbenennen fehlgeschlagen</string>
@@ -1711,4 +1732,5 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="yesterday">Gestern</string>
   <string name="you_are">Ihr Baby</string>
   <string name="yunyi_pocket_camera">Sportkamera</string>
+ 
 </resources>
