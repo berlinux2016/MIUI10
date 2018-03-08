@@ -103,7 +103,6 @@
   <string name="current_pad_location">Tablet</string>
   <string name="current_phone_location">Telefon</string>
   <string name="current_sim">Aktuelle SIM-Karte</string>
-  <string name="custom_progress">%d Elemente</string>
   <string name="data_detail_description">Details</string>
   <string name="data_item_desc">Daten</string>
   <string name="data_no_enough_space_message">Auf Ihrem Gerät ist nicht genügend Speicherplatz vorhanden</string>
@@ -171,7 +170,7 @@
   <string name="hsa_verify_shutdown">Deaktivieren</string>
   <string name="icloud_backup_tip">Melden Sie sich beim iCloud-Account Ihres alten iOS-Geräts an</string>
   <string name="icloud_how_to_backup_tip_steps">1. Wählen Sie in den Einstellungen in Ihrem iOS-Gerät die Option iCloud aus.
-    2. Schalter für Kontakte betätigen.
+    2. Schalter für Kontakte betätigen und andere Element.
     3. Wählen Sie Fotos und betätigen Sie den Schalter für die iCloud-Fotobibliothek.</string>
   <string name="icloud_how_to_backup_tip_summary">Um Daten von iOS zu importieren, müssen Sie eine iCloud-Sicherung erstellen</string>
   <string name="icloud_how_to_backup_tip_title">Tipps:</string>
@@ -187,8 +186,7 @@
     2.\u0009In die Mi Talk-Einstellungen wechseln und \"Kontakte im Mi Konto sichern\" wählen.</string>
   <string name="import_from_xiaomi_account_hint2">Falls Sicherung bereits vorhanden ist, weiter drücken</string>
   <string name="import_from_xiaomi_account_hint_title">Mi Talk verwenden, um Kontakte auf anderen Geräten wiederherzustellen</string>
-  <string name="import_tip_summary">Wegen Kompatibilitätsproblemen können Sie nur Kontakte und Fotos von iOS-Geräten übertragen. Stellen Sie sicher, dass Sie vor dem Start der Übertragung ein iCloud-Backup erstellen.</string>
-  <string name="import_tip_title">Tipps:</string>
+  <string name="import_tip_summary">Wegen Kompatibilitätsproblemen können Sie nur Teildaten von iOS-Geräten übertragen. Stellen Sie sicher, dass Sie vor dem Start der Übertragung ein iCloud-Backup erstellen.</string>
   <string name="list_footer_tip_title">Tipps:</string>  
   <string name="loading_data">Lade Daten</string>
   <string name="local_app_name">Sicherungen</string>
@@ -306,7 +304,7 @@
   <string name="select_empty">Elemente zum Importieren auswählen</string>
   <string name="select_item_calendar">Kalender</string>
   <string name="select_item_contacts">Kontakte</string>
-  <string name="select_item_empty_summary">Keine Daten</string>
+  <string name="select_item_empty_summary">Keine Inhalte</string>
   <string name="select_item_notes">Notizen</string>
   <string name="select_item_photos">Fotos</string>
   <string name="select_item_summary_loading">Lade Daten…</string>
@@ -359,7 +357,6 @@
   <string name="task_running_restore_hint">Vorgang läuft bereits im Hintergrund</string>
   <string name="task_service_not_launched">Vorgang wurde noch nicht gestartet</string>
   <string name="task_stopped_exception">Wiederherstellung abgebrochen</string>
-  <string name="total_num">%d Elemente,</string>
   <string name="total_size">, %s</string>
   <string name="trans_backingup">Sichern…</string>
   <string name="trans_backingup_no_items">Synchronisieren…</string>
@@ -385,7 +382,8 @@
   <string name="trans_detail_category_account">Konten und Kontakte</string>
   <string name="trans_detail_category_audio_video_doc">Audio, Video und Dateien</string>  
   <string name="trans_detail_category_files">Dateien</string>
-  <string name="trans_detail_category_sysdata">Systemdaten</string>
+  <string name="trans_detail_category_sysdata">Systemdaten (einschließlich Nachrichten, Kontakte und Anrufverlauf)</string>
+  <string name="trans_detail_category_user_app_data">App-Daten</string>
   <string name="trans_detail_category_userdata">Apps</string>
   <string name="trans_detail_category_user_app_data">App-Daten</string>
   <string name="trans_detail_category_wechat_qq">WeChat und QQ Daten (inklusive Chat-Verlauf)</string>
@@ -476,6 +474,8 @@ Es wird empfohlen, nur wichtige Daten selbstständig zu migrieren.</string>
   <string name="trans_select_data">Zu sendende Dateien auswählen</string>
   <string name="trans_select_data_no_space">"%s auf neuem Gerät verfügbar. Erneut auswählen oder zusätzlichen Speicher frei machen.</string>
   <string name="trans_select_data_tips">Dateien zur Übertragung auswählen. Dateien mit identischem Namen werden überschrieben.</string>
+<string name="trans_select_data_too_large">"Sie haben zu viele Positionen ausgewählt, die Sie übernehmen möchten.
+Wählen Sie nur wichtige Elemente aus, um die Übertragung zu beschleunigen."</string>
   <string name="trans_select_device_receive">Gerät zum Datenempfang auswählen</string>
   <string name="trans_select_device_send">Wählen Sie ein Gerät, um Daten zu senden</string>
   <string name="trans_sender">Ich bin der Sender</string>
