@@ -996,6 +996,8 @@ Sie verlieren keine Appdaten."</string>
   <string name="carrier_enabled">APN ein/aus</string>
   <string name="carrier_enabled_summaryOff">APN Aus</string>
   <string name="carrier_enabled_summaryOn">APN An</string>
+  <string name="carrier_show_in_lock_screen">Nur im Sperrbildschirm anzeigen</string>
+  <string name="carrier_show_none">Niemals den Namen des Netzbetreibers anzeigen</string>  
   <string name="category_personal">Persönlich</string>
   <string name="category_work">Arbeit</string>
   <string name="cdma_security_settings_summary">Meinen Standort, Bildschirmsperre, SIM-Kartensperrung und Sperrung des Anmeldeinformationsspeichers festlegen</string>
@@ -2747,7 +2749,9 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="memory_rightvalue">Gesamt: %s</string>
   <string name="memory_settings_title">Speicher</string>
   <string name="memory_size">Gesamtspeicher</string>
-  <string name="memory_summary">Durchschn. %1$s von %2$s Speicher verwendet</string>
+  <string name="memory_summary">"Im 'Ø' %1$s von %2$s Speicher verwendet"</string>
+  <string name="memory_system_rom">Systemspeicher ROM</string>
+  <string name="memory_system_space">Systemspeichergröße</string>
   <string name="memory_title">Verfügbar: %1$s\u0009\u0009Gesamt: %2$s</string>
   <string name="memory_usage">Speicherverbrauch</string>
   <string name="memory_usage_apps">Von Apps verwendeter Speicher</string>
@@ -5522,7 +5526,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="untitled_apn">Unbenannt</string>
   <string name="update_new_version">Update ist verfügbar</string>
   <string name="update_progress_for_updates">Aktualisiere (%s)</string>
-  <string name="upload_debug_log_summary">Helfen Sie Xiaomi bei der Verbesserung der Produkt- und Servicequalität, indem Sie anonyme Diagnose- und Nutzungsdaten senden</string>
+  <string name="upload_debug_log_summary">Nutzungsstatistiken, die uns helfen Probleme zu lokalisieren und zu lösen, können Ihre persönlichen Daten enthalten.</string>
   <string name="upload_debug_log_title">Benutzererfahrungen</string>
   <string name="usage">Verwendung</string>
   <string name="usage_access">Datenzugriff</string>
@@ -5684,7 +5688,7 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="user_exit_guest_dialog_remove">Entfernen</string>
   <string name="user_exit_guest_title">Gast entfernen</string>
   <string name="user_experience_program">Benutzererfahrungsprogramm</string>
-  <string name="user_experience_program_summary">Helfen Sie, MIUI zu verbessern, indem Sie anonyme Nutzungsdaten bereitstellen</string>
+  <string name="user_experience_program_summary">Helfen Sie uns, unsere Produkte und Dienstleistungen zu verbessern, indem Sie uns Ihre Nutzungsstatistiken mitteilen.</string>
   <string name="user_experience_program_title">Benutzererfahrungsprogramm</string>
   <string name="user_guest">Gast</string>
   <string name="user_image_choose_photo">Foto aus Galerie auswählen</string>
