@@ -823,6 +823,7 @@
   <string name="close">Schließen</string>
   <string name="close_dialog">Ok</string>
   <string name="close_profile">Schließen</string>
+  <string name="close_volte">VoLTE ausschalten</string>  
   <string name="cloud_antispam_title">Unbekannte Nummern identifizieren</string>
   <string name="cmcc_ut_data_enable_prompt">Verbindung mit dem VoLTE-Netz ist nicht möglich. Schalten Sie mobiles Internet ein.</string>
   <string name="command_error_fdn_failure">Sie müssen erst Rufnummernbeschränkung ausschalten</string>
@@ -1819,6 +1820,7 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="preferred_network_mode_wcdma_only_summary">Bevorzugter Netzwerkmodus: WCDMA only</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Bevorzugter Netzwerkmodus: WCDMA bevorzugt</string>
   <string name="preferred_network_restrict_network_changed_incall">Mobilfunknetz kann während eines Anrufs nicht geändert werden</string>
+  <string name="prefered_network_type_3g_promp">Sie sollten VoLTE ausschalten, bevor Sie 3G als bevorzugten Netzwerktyp auswählen. Jetzt ausschalten?</string>
   <string name="preferred_network_type_3g_only_warning">Wenn Ihre SIM-Karte kein 3G unterstützt, können Sie sich nicht mit einem Mobilfunknetz verbinden</string>
   <string name="preferred_network_type_cdma">CDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">Bevorzugt 3G-Netzwerke</string>
@@ -1836,6 +1838,10 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="private_num">Unterdrückte Nummer</string>
   <string name="proceed">Weiter</string>
   <string name="progress_dialog_exiting_ecm">Notfallrückrufmodus wird beendet…</string>
+  <string name="prompt_to_turnoff_volte_when_failed">VoLTE-Dienste sind nicht verfügbar. Schalten Sie VoLTE aus, um einen Anruf zu tätigen.</string>
+  <string name="prompt_to_turnoff_volte_when_supp_service">Service ist nicht verfügbar. Deaktivieren Sie VoLTE in den Einstellungen.</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">Wählen Sie LTE als bevorzugten Netzwerktyp, bevor Sie VoLTE einschalten.</string>
+  <string name="prompt_when_turnon_volte_without_lte">LTE-Netzwerke sind derzeit nicht verfügbar. Das Einschalten von VoLTE kann Sie daran hindern, regelmäßige Anrufe zu tätigen.</string>
   <string name="propmpt_dialog_do_not_ask">Nicht wieder anzeigen</string>
   <string name="propmpt_dialog_network_failed_title">Zeitüberschreitung</string>
   <string name="propmpt_dialog_no_call_back_content">Verbindungsaufbau dauert zu lange. Wechseln zum Standardanruf, für den Kosten entstehen können.</string>
