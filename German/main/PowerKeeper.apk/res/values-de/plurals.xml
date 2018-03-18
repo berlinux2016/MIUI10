@@ -2,11 +2,11 @@
 <resources>
   <plurals name="app_list_total">
     <item quantity="other">%d Apps</item>
-    <item quantity="one">eine App</item>
+    <item quantity="one">%d App</item>
   </plurals>
   <plurals name="select_items">
     <item quantity="other">%1$d ausgewählt</item>
-    <item quantity="one">eine ausgewählt</item>
+    <item quantity="one">%d ausgewählt</item>
   </plurals>
   <plurals name="power_config_ultimate_on_count">
     <item quantity="other">%1$d Schritte vom Ultimativmodus entfernt.</item>
@@ -20,4 +20,8 @@
     <item quantity="other">Beenden Sie %1$d Schritte, um alle Elemente freizuschalten.</item>
     <item quantity="one">Beenden Sie einen Schritt, um alle Elemente freizuschalten.</item>
   </plurals>
+  <plurals name="search_app_count_txt_na">
+    <item quantity="other">%d Apps durchsuchen</item>
+    <item quantity="one">%d App durchsuchen</item>
+    </plurals>
 </resources>
