@@ -41,8 +41,8 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
 Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Daten berechnen."</item>
   </plurals>
   <plurals name="daily_sim_over_limit_notify_title">
-    <item quantity="other">Sie haben die täglichen Datenlimits von %s bereits benutzt.</item>
-    <item quantity="one">Sie haben das tägliche Datenlimit von Einem bereits benutzt.</item>
+    <item quantity="other">Sie haben bereits %s vom täglichen Datenlimit genutzt.</item>
+    <item quantity="one">Sie haben bereits %s tägliches Datenlimit genutzt.</item>
   </plurals>
   <plurals name="fw_blocked_count_call">
     <item quantity="other">%1$d Anrufe von %2$s und andere</item>
@@ -367,7 +367,7 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
     <item quantity="one">"Der Netzwerkzugang ist beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> App"</item>
   </plurals>
   <plurals name="gb_signed_days_sum">
-    <item quantity="other">Angemeldet %d Tage in Folge</item>
-    <item quantity="one">Angemeldungszeit %d</item>
+    <item quantity="other">%d Tage in Folge angemeldet</item>
+    <item quantity="one">%d Anmeldezeit</item>
   </plurals>  
 </resources>
