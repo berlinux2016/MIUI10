@@ -193,7 +193,7 @@
   <string name="invalid_contact_shortcut">Ungültiger Kontakt</string>
   <string name="is_setting_wallpaper_message">Hintergrund wird eingerichtet…</string>
   <string name="is_system_wallpaper_message">Systemkomponenten können nicht gelöscht werden</string>
-  <string name="launcher_auto_fill_empty_title">Leere Positionen automatisch auffüllen</string>
+  <string name="launcher_auto_fill_empty_title">Leere Stellen füllen</string>
   <string name="launcher_not_exist">Launcher wurde gestoppt, bitte zurückkehren und erneut versuchen</string>
   <string name="launcher_title">Launcher</stri
   <string name="like">Favorit</string>
@@ -202,7 +202,7 @@
   <string name="loading_wallpaper">Einen Moment…</string>
   <string name="local_wallpaper">Runtergeladen</string>
   <string name="lock_screen">Sperrbildschirm</string>
-  <string name="lock_screen_cells_title">Symbolpositionen sperren</string>
+  <string name="lock_screen_cells_title">Änderungen nicht zulassen</string>
   <string name="lock_screen_failed_message">Sperrbildschirmhintergrund kann nicht angewendet werden</string>
   <string name="lock_screen_success_message">Auf Sperrbildschirm angewendet</string>
   <string name="lock_screen_wallpaper">Sperrbildschirmhintergrund </string>
@@ -228,7 +228,7 @@
   <string name="menu_trans_effect">Übergangseffekt</string>
   <string name="menu_wallpaper">Hintergrund</string>
   <string name="menu_workspace_preview">Vorschau</string>
-  <string name="miui_screen_config_title">MIUI Launchereinstellungen</string>
+  <string name="miui_screen_config_title">Einstellungen Startbildschirm</string>
   <string name="mi_wallpaper">MIUI-Theme-Store</string>
   <string name="mtzgadget_missing_text">Widget nicht verfügbar</string>
   <string name="multi_selecting_tips">Symbol berühren, um App auszuwählen</string>
@@ -239,10 +239,10 @@
   <string name="notification_open_button">Öffnen</string>
   <string name="online_wallpaper">Online</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Abbrechen</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Deaktivieren</string>
-  <string name="open_personal_assistant_dialog_desc">Sie können den Smart Assistant nicht mehr verwenden und erhalten für ihn keine Updates mehr. Deaktivieren?</string>
-  <string name="open_personal_assistant_dialog_title">Smart Assistant abschalten</string>
-  <string name="open_personal_assistant_title">Smart Assistant einschalten</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Ausschalten</string>
+  <string name="open_personal_assistant_dialog_desc">Sie werden nicht in der Lage sein, den Smart Assistant zu verwenden und Updates zu erhalten. Jetzt ausschalten?</string>
+  <string name="open_personal_assistant_dialog_title">Smart Assistant deaktivieren</string>
+  <string name="open_personal_assistant_title">Smart Assistant aktivieren</string>
   <string name="out_of_space">Kein Platz mehr auf dem Startbildschirm</string>
   <string name="permdesc_install_shortcut">Erlaubt einer Anwendung das Hinzufügen von Verknüpfungen ohne Eingriff des Nutzers</string>
   <string name="permdesc_install_widget">Erlaubt einer Anwendung, Widgets ohne Eingreifen des Nutzers hinzuzufügen</string>
@@ -272,9 +272,9 @@
   <string name="pref_wallpaper_scroll_type_title">Hintergrundausrichtung</string>
   <string name="preferences_general_title">Erweiterte Einstellungen</string>
   <string name="preferences_title">Launchereinstellungen</string>
-  <string name="preferred_app_settings_not_selected">Nichts ausgewählt</string>
+>  <string name="preferred_app_settings_not_selected">Nichts ausgewählt</string
   <string name="process" />
-  <string name="recents_config_title">Taskmanagereinstellungen</string>
+  <string name="recents_config_title">Kürzlich geöffnet</string>
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_apps_default_title">Leer</string>
   <string name="recommend_apps_no_data">Keine Daten</string>
@@ -284,7 +284,7 @@
   <string name="recommend_apps_tips">Diese Funktion benötigt eine Internetverbindung. Auf den Ordnernamen tippen, um die Funktion auszuschalten.</string>
   <string name="recommend_loading">Laden</string>
   <string name="reset_scene_prompt">Standardlayout zurücksetzen</string>
-  <string name="screen_cells_config_title">Weitere Symbolraster einstellen</string>
+  <string name="screen_cells_config_title">Startbildschirm Layout</strin
   <string name="screen_locked_toast">Startbildschirmlayout ist gesperrt</string>
   <string name="screen_number">%d Bildschirm</string>
   <string name="scroll_tip_format_when_announce_accessibility">Auf Seite %1$d, %2$d Apps</string>
@@ -297,7 +297,7 @@
   <string name="share">Teilen</string>
   <string name="sharedUserId" />
   <string name="show_all">Alle anzeigen</string>
-  <string name="show_mem_info_title">Speicherinfo anzeigen</string>
+  <string name="show_mem_info_title">RAM Infos anzeigen</string>
   <string name="sort_by_abc">Nach Name sortieren</string>
   <string name="sort_by_frequency">Nach Nutzung sortieren</string>
   <string name="sort_by_not_defined">Autom. Sortierung</string>
