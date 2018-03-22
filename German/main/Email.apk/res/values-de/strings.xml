@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="SMTP_independent_verification_text">SMTP-unabhängige Überprüfung</string>
-  <string name="SMTP_password_text">Passwort</string>
-  <string name="SMTP_username_text">Benutzername</string>
   <string name="accessibility_guide_first">Wählen Sie im folgenden Fenster die Registerkarte \"Dienste\", um die automatische Konfiguration von 139 Mailbox zu aktivieren</string>
   <string name="accessibility_guide_second">Klicken Sie dann auf den Schalter in der oberen rechten Ecke, klicken Sie auf \"Bestätigen\", um fortzufahren</string>
   <string name="account_duplicate_dlg_message_fmt">Sie verwenden diesen Benutzernamen bereits für dieses Konto \"%s\"</string>
@@ -468,6 +465,8 @@
   <string name="folder_drafts_name_en0">Entwürfe</string>
   <string name="folder_drafts_name_en1">Entwurf</string>
   <string name="folder_drafts_name_en2">[Gmail]/Entwürfe</string>
+  <string name="folder_junk_name_cn0">Spam</string>
+  <string name="folder_junk_name_cn1">Papierkorb</string>
   <string name="folder_junk_name_cn2">[Gmail]/Spam</string>
   <string name="folder_junk_name_en0">Papierkorb</string>
   <string name="folder_junk_name_en1">Massenversand</string>
@@ -478,6 +477,9 @@
   <string name="folder_list_display_only_import">Nur wichtige Ordner anzeigen</string>
   <string name="folder_picker_title">Ordner auswählen</string>
   <string name="folder_removed">Aus %1$s entfernt</string>
+  <string name="folder_sent_name_cn0">Gesendet</string>
+  <string name="folder_sent_name_cn1">Gesendete Nachricht</string>
+  <string name="folder_sent_name_cn2">Gesendete Objekte</string>
   <string name="folder_sent_name_cn3">[Gmail]/Gesendete Nachrichten</string>
   <string name="folder_sent_name_en0">Gesendet</string>
   <string name="folder_sent_name_en1">Gesendete Nachrichten</string>
@@ -486,10 +488,12 @@
   <string name="folder_sent_name_en4">[Gmail]/Gesendete Nachrichten</string>
   <string name="folder_shortcut_widget_label">E-Mailordner</string>
   <string name="folder_synchronization_mail_settings">Ordnersynchronisationeinstellungen</string>
+  <string name="folder_trash_name_cn0">Gelöscht</string>
+  <string name="folder_trash_name_cn1">Gelöschte Nachrichten</string>  
   <string name="folder_trash_name_cn2">[Gmail]/Papierkorb</string>
   <string name="folder_trash_name_en0">Papierkorb</string>
-  <string name="folder_trash_name_en1">gelöschte Nachrichten</string>
-  <string name="folder_trash_name_en2">gelöschte Nachricht</string>
+  <string name="folder_trash_name_en1">Gelöschte Nachrichten</string>
+  <string name="folder_trash_name_en2">Gelöschte Nachricht</string>
   <string name="folder_trash_name_en3">[Gmail]/Bin</string>
   <string name="forward">Weiterleiten</string>
   <string name="forward_attachment">Weiterleiten</string>
@@ -857,6 +861,7 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="quick_reply_hint_bcc">"(Im BCC) "</string>
   <string name="quick_reply_hint_cc">"(Im CC) "</string>
   <string name="quick_reply_hint_reply_only_from">Schnelle Antwort (nur Absender)</string>
+  <string name="quick_reply_pattern">.*Zustimmung.*|.*Zustimmung.*|.*Antrag.*|.*Berichterstattung.*|.*Siehe Beispiel.*|.*Anfrage.*</string>  
   <string name="quick_responses_empty_view">Keine Kurzantworten</string>
   <string name="quick_search_add_account">Konto hinzufügen</string>
   <string name="quick_search_conversation_list">Hauptschnittstelle</string>
@@ -928,6 +933,10 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="reply_all">Allen Antworten</string>
   <string name="reply_attribution" formatted="false">Am %s schrieb %s:</string>
   <string name="report_phishing">Phishing melden</string>
+  <string name="report_rendering_improvement">Sieht gut aus</string>
+  <string name="report_rendering_improvement_desc">Diese Nachricht sieht gut aus.</string>
+  <string name="report_rendering_problem">Sieht schlecht aus</string>
+  <string name="report_rendering_problem_desc">Diese Nachricht sieht schlecht aus.</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Datei ist zu groß!</string>
   <string name="request_permission_activity">Zugriffsanfrage</string>
@@ -951,12 +960,13 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="search_tabs_name_subject">Betreff</string>
   <string name="search_title">Einheitliche E-Mail</string>
   <string name="search_txt_size_limit_prompt">Suchbegriffe müssen mehr als 3 Zeichen lang sein</string>
-  <string name="security_changed_ticker_fmt">Die Sicherheitseinstellungen des Kontos \"%s\" haben sich geändert. Es sind keine Maßnahmen durch den Nutzer erforderlich.</string>
+  <string name="security_changed_ticker_fmt">Sicherheitseinstellungen des Kontos \"%s\" haben sich geändert. Es sind keine Maßnahmen durch den Nutzer erforderlich.</string>
   <string name="security_needed_ticker_fmt">Für das Konto \"%s\" müssen die Sicherheitseinstellungen aktualisiert werden</string>
   <string name="security_notification_content_change_title">Richtlinien wurden geändert</string>
   <string name="security_notification_content_unsupported_title">Richtlinien können nicht eingehalten werden</string>
   <string name="security_notification_content_update_title">Sicherheitsupdate erforderlich</string>
   <string name="security_unsupported_ticker_fmt">Konto \"%s\" kann aufgrund von Sicherheitsanforderungen nicht synchronisiert werden</string>
+  <string name="see_more_content">Mehr Inhalt ansehen</string>
   <string name="select_attachment_type">Anhang auswählen von</string>
   <string name="select_no_file">Keine Anhänge ausgewählt</string>
   <string name="select_path">Dateipfad auswählen</string> 
@@ -994,15 +1004,19 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="show_images">Bilder anzeigen</string>
   <string name="show_password">Passwort anzeigen</string>
   <string name="signature">" %s"</string>
+  <string name="signature_black_shark">Gesendet von meinem Blackshark Telefon</string>
   <string name="silent_ringtone">Lautlos</string>
   <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
   <string name="sms_tip">Authentifizierung fehlgeschlagen. Prüfen Sie, ob die Antiviren-Software Ihre SMS abfängt.</string>
+  <string name="SMTP_independent_verification_text">SMTP-unabhängige Überprüfung</string>
   <string name="smtp_password_error">Das Passwort des Postausgangsservers ist ungültig</string>
+  <string name="SMTP_password_text">Passwort</string>
+  <string name="SMTP_username_text">Benutzername</string>
   <string name="sort_attachment">Sortiere nach</string>
   <string name="special_text_1">schrieb:</string>
-  <string name="special_text_2">schrieb：</string>
+  <string name="special_text_2">schrieb:</string>
   <string name="special_text_3">schrieb:</string>
-  <string name="special_text_4">schrieb：</string>
+  <string name="special_text_4">schrieb:</string>
   <string name="special_text_5">schrieb:</string>
   <string name="special_text_sender_en">Absender</string>
   <string name="special_text_sender_zh">Absender</string>
@@ -1093,7 +1107,8 @@ Konto entfernen?"</string>
   <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
 Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchronisieren oder <b>Synchronisationseinstellungen ändern</b>, um dieses Konto automatisch zu synchronisieren."</string>
   <string name="wait_for_sync_title">Auf Synchronisierung warten</string>
-  <string name="webview_logout">Nicht mehr anmlden? Versuchen Sie es erneut!</string>
+  <string name="wait_help_context">Warten</string>
+  <string name="webview_logout">Nicht mehr anmelden? Versuchen Sie es erneut!</string>
   <string name="webview_logout_cancel">Keine Versuche mehr</string>
   <string name="webview_logout_sure">Noch einmal versuchen</string>
   <string name="webview_sslerror_handle_cancel">Abbrechen</string>

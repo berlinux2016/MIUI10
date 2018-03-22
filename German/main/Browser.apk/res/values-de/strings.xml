@@ -313,6 +313,9 @@
   <string name="enable_geolocation_confirm_message">Deaktivieren dieser Funktion könnte auf einigen Seiten zu Fehlverhalten führen</string>
   <string name="enter_developer_mode">Entwicklermodus</string>
   <string name="enter_incongnito_mode">Tarnmodus (Inkognito) betreten</string>
+  <string name="enter_the_group_name">Bitte den Gruppennamen eingeben</string>
+  <string name="enter_the_password">Bitte Passwort eingeben</string>
+  <string name="enter_the_user_name">Bitte Benutzernamen eingeben</string>  
   <string name="error_console_eval_button_text">Auswerten</string>
   <string name="error_console_eval_text_hint">JavaScript auswerten</string>
   <string name="error_console_header_text_maximized">JavaScript Konsole</string>
@@ -640,6 +643,8 @@
   <string name="mw_color_picker_dialog_title">Farbe auswählen</string>
   <string name="mw_color_picker_hue">Farbton</string>
   <string name="mw_color_picker_saturation">Sättigung</string>
+  <string name="mw_color_picker_value">Wert</string>
+  <string name="mw_date_picker_dialog_clear">Löschen</string>
   <string name="mw_common_google_play_services_enable_button">Aktivieren</string>
   <string name="mw_common_google_play_services_enable_text">%1$s funktioniert nur, wenn Sie Google-Play-Dienste aktivieren.</string>
   <string name="mw_common_google_play_services_enable_title">Aktivieren der Google-Play-Dienste</string>
@@ -741,6 +746,7 @@
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Verbindung wurde unterbrochen, als Ihr Gerät in den Ruhezustand versetzt wurde.</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Verbindung wurde unterbrochen wergen eines Netzwerkwechsels.</string>
   <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Datei wurde nicht gefunden. Sie wurde entweder verschoben oder gelöscht.</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Datei konnte nicht gelesen werden. Dateiberechtigungen können den Zugriff verhindern.</string>
   <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 braucht zu lange, um zu antworten.</string>
   <string name="mw_miuichromium_error_page_problem_network_access_denied">Netzwerkzugriff ist eingeschränkt.</string>
   <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">Verbindung zum Internet nicht möglich, etwas stimmt nicht mit dem Proxyserver oder Proxyadresse ist inkorrekt.</string>
@@ -1181,6 +1187,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="save_to_camera">Speichere in Kamera</string>
   <string name="save_to_camera_failed">Bild konnte nicht gespeichert werden</string>
   <string name="save_to_camera_success">In Kamera gespeichert</string>
+  <string name="save_to_bookmark">Als Lesezeichen speichern</string>
   <string name="scanner_uninstalled_text">Scanner installieren zum Fortsetzen</string>
   <string name="scanner_uninstalled_title">Scanner wurde deinstalliert</string>
   <string name="sdcard_error">Überprüfen Sie Ihre SD-Karte</string>
@@ -1260,7 +1267,9 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="ssl_untrusted">Dieses Zertifikat ist nicht von einer vertrauenswürdigen Stelle</string>
   <string name="ssl_warnings_header">Es gibt Probleme mit dem Sicherheitszertifikat dieser Seite</string>
   <string name="start_save_page_capture">Screenshot wird gespeichert…</string>
+  <string name="storage_close">Schließen</string>
   <string name="storage_internal">Interner Datenspeicher</string>
+  <string name="storage_open">Öffnen</string>
   <string name="storage_permission_request_toast">Download benötigt Zugriff auf den Speicher</string>
   <string name="storage_sd_card">SD-Karte</string>
   <string name="storage_usb">USB-Speicher</string>
