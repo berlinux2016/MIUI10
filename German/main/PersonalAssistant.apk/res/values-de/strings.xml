@@ -784,10 +784,10 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="function_music_recognize">Musik anhören</string>
   <string name="function_music_title">Musik</string>
   <string name="function_not_support">Diese Funktion wird auf diesem Telefon nicht unterstützt</string>
-  <string name="function_open_error_content">Diese Verknüpfung funktioniert nicht, da die App deinstalliert wurde. Wählen Sie eine andere Verknüpfung oder installieren Sie die App erneut.</string>
+  <string name="function_open_error_content">Die Anwendung, zu der diese Verknüpfung gehört, ist nicht installiert und kann daher nicht gestartet werden. Sie können eine Verknüpfung ersetzen oder die Anwendung installieren.</string>
   <string name="function_open_error_content_app">Diese App wurde deinstalliert. Wählen Sie eine andere Verknüpfung oder installieren Sie die App erneut.</string>
-  <string name="function_open_error_content_app_xspace">Diese Verknüpfung funktioniert nicht, da die Dual-App deinstalliert wurde. Wählen Sie eine andere Verknüpfung oder erstellen Sie eine neue Dual-App.</string>
-  <string name="function_open_error_content_xspace">Diese Verknüpfung funktioniert nicht, da die App deinstalliert wurde. Wählen Sie eine andere Verknüpfung oder erstellen Sie eine neue Dual-App.</string>
+  <string name="function_open_error_content_app_xspace">Die Dual-App ist nicht installiert und kann daher nicht gestartet werden. Sie können wählen, ob Sie eine Schnellfunktion ersetzen oder doppelte offene Einstellungen anwenden möchten.</string>
+  <string name="function_open_error_content_xspace">Die Dual-App, zu der die Funktion gehört, ist nicht installiert und kann daher nicht gestartet werden. Sie können wählen, ob Sie eine Verknüpfungsfunktion ersetzen oder die Einstellungen für die doppelte Öffnung anwenden möchten.</string>
   <string name="function_open_error_title">"'%s' konnte nicht geöffnet werden"</string>
   <string name="function_qq_new_shuoshuo">Neues Gespräch</string>
   <string name="function_qq_recent">Freunde aktualisieren</string>
@@ -858,7 +858,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="launch_label">Schnellzugriff</string>
   <string name="launch_no_dapp_dialog_reset">Dual-Apps-Einstellungen</string>
   <string name="launch_noapp_dialog_cancel">Abbrechen</string>
-  <string name="launch_noapp_dialog_redownload">Erneut herunterladen</string>
+  <string name="launch_noapp_dialog_redownload">Jetzt installieren</string>
   <string name="launch_noapp_dialog_replace">Verknüpfungen bearbeiten</string>
   <string name="launch_noapp_dialog_title">App wurde gelöscht</string>
   <string name="launch_order_change">Reihenfolge ändern</string>
@@ -1413,10 +1413,10 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="stock_web_lable">Vorräte</string>
   <string name="study_parent">Bürostudie</string>
   <string name="system_favorite_dialog_link">Sicherheit &amp; Privatsphäre</string>
-  <string name="system_favorite_dialog_message">Fügen Sie hier Ihre Favoriten aus anderen Apps hinzu</string>
-  <string name="system_favorite_dialog_negative">Abbrechen</string>
-  <string name="system_favorite_dialog_positive">Erlauben</string>
-  <string name="system_favorite_dialog_title_confirm">Favoriten</string>
+  <string name="system_favorite_dialog_message">Meine Sammlung synchronisiert die neuen Favoriten in jeder Anwendung für einen einfachen Zugriff. Sind Sie damit einverstanden, die Eröffnung zu genehmigen?</string>
+  <string name="system_favorite_dialog_negative">Beenden</string>
+  <string name="system_favorite_dialog_positive">Zustimmen und fortfahrten</string>
+  <string name="system_favorite_dialog_title_confirm">Meine Anweisungen zur Autorisierung der Sammlung</string>
   <string name="take_off">Start</string>
   <string name="taobao_auth_login">Taobao Schnellanmeldung</string>
   <string name="taobao_protocol">Taobao Servicevereinbarung</string>
