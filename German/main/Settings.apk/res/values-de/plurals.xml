@@ -225,4 +225,16 @@
     <item quantity="other">%1$d Druckaufträge</item>
     <item quantity="one">ein Druckauftrag</item>
   </plurals>
+  <plurals name="bg_network_allow_count">
+     <item quantity="other">%d Apps können sich mit dem Netzwerk verbinden</item>
+     <item quantity="one">Eine App kann sich mit dem Netzwerk verbinden</item>
+  </plurals>
+  <plurals name="bg_network_restrict_count">
+     <item quantity="other">%d Apps können sich nicht mit dem Netzwerk verbinden</item>
+     <item quantity="one">App kann sich nicht mit dem Netzwerk verbinden</item>
+  </plurals>
+  <plurals name="firewall_item_summary">
+     <item quantity="other">Eingeschränkte Verbindung für %s Anwendungen</item>
+     <item quantity="one">Eingeschränkte Verbindung für eine Anwendung</item>
+  </plurals>
 </resources>

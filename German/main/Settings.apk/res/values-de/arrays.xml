@@ -978,4 +978,26 @@
     <item>Dauer der Animation: 5x</item>
     <item>Dauer der Animation: 10x</item>
   </string-array>
+  <string-array name="date_of_app_all">
+    <item>Daten heute</item>
+    <item>Daten diesen Monat</item>
+    <item>Daten letzten Monat</item>
+    <item>WLAN heute</item>
+    <item>WLAN diesen Monat</item>
+    <item>WLAN letzten Monat</item>
+   </string-array>
+   <string-array name="date_of_traffic">
+     <item>"Heute "</item>
+     <item>"Diesen Monat "</item>
+      <item>"Letzten Monat "</item>
+   </string-array>
+   <string-array name="date_of_traffic_prefix">
+      <item>"Heute: "</item>
+      <item>"Diesen Monat: "</item>
+         <item>"Letzten Monat: "</item>
+     </string-array>
+     <string-array name="traffic_type">
+         <item>"Mobile-Nutzung "</item>
+         <item>"WLAN-Nutzung "</item>
+     </string-array>
 </resources>
