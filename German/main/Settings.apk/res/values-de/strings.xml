@@ -266,6 +266,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="apn_user">Benutzername</string>
   <string name="app_backup">Sicherungen</string>
   <string name="app_data_usage">Appdatenverbrauch</string>
+  <string name="app_detail">Detail</string>
   <string name="app_disable_dlg_positive">App deaktivieren</string>
   <string name="app_disable_dlg_text">Durch Ausschalten dieser App kommt es möglicherweise zu unerwünschtem Verhalten anderer Apps</string>
   <string name="app_disable_dlg_title">Systemapp ausschalten?</string>
@@ -313,21 +314,23 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
 &lt;li&gt;Standardapps für Aktionen&lt;/li&gt;
 &lt;li&gt;Beschränkungen für Hintergrunddaten bei Apps&lt;/li&gt;
 Sie verlieren keine Appdaten."</string>
-  <string name="app_manager_reset_app_preferences_button">Apps zurücksetzen</string>
-  <string name="app_manager_disable_text">Deaktivieren</string>
-  <string name="app_manager_enable_text">Aktivieren</string>
-  <string name="app_manager_disable_dlg_title">Systemapp deaktivieren?</string>
   <string name="app_manager_disable_dlg_text">Wenn Sie diese App deaktivieren, funktionieren andere Apps möglicherweise nicht mehr wie vorgesehen</string>
+  <string name="app_manager_disable_dlg_title">Systemapp deaktivieren?</string>
+  <string name="app_manager_disable_text">Deaktivieren</string>
   <string name="app_manager_disabled">Deaktivieren</string>
+  <string name="app_manager_enable_text">Aktivieren</string>
   <string name="app_manager_enabled">Aktivieren</string>
-  <string name="app_manager_globel_perm_title">Appberechtigungen</string>
-  <string name="app_manager_globel_perm_summary">Verwalten Sie Berechtigungen in Bezug auf Speicherort, Speicherung, Telefon, Nachrichten und Kontakte</string>
   <string name="app_manager_globel_other_perm_title">Andere Berechtigungen</string>
-  <string name="app_manager_uninstall_protected_dlg_title">Systemapps deinstallieren</string>
+  <string name="app_manager_globel_perm_summary">Verwalten Sie Berechtigungen in Bezug auf Speicherort, Speicherung, Telefon, Nachrichten und Kontakte</string>
+  <string name="app_manager_globel_perm_title">Appberechtigungen</string>
+  <string name="app_manager_reset_app_preferences_button">Apps zurücksetzen</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Deinstallation von Systemapps kann verhindern, dass einige MIUI-Komponenten ordnungsgemäß funktionieren. Trotzdem deinstallieren?</string>
+  <string name="app_manager_uninstall_protected_dlg_title">Systemapps deinstallieren</string>
   <string name="app_memory_use">Speichernutzung</string>
+  <string name="app_mobile">Mobil</string>
   <string name="app_name">Sicherung</string>
   <string name="app_name_label">App</string>
+  <string name="app_name_na">Datennutzung</string>
   <string name="app_not_found_dlg_text">App wurde nicht in der Liste der installierten Apps gefunden</string>
   <string name="app_not_supported_in_limited">Diese App wird in eingeschränkten Profilen nicht unterstützt</string>
   <string name="app_notification_block_summary">Benachrichtigungen für diese App niemals anzeigen</string>
@@ -366,6 +369,8 @@ Sie verlieren keine Appdaten."</string>
   <string name="app_special_disable_dlg_title">Daten löschen und App ausschalten?</string>
   <string name="app_switch_key">Menü</string>
   <string name="app_usage_preference">Appnutzungseinstellungen</string>
+  <string name="app_version">Version</string>
+  <string name="app_wifi">WLAN</string>
   <string name="application_forbid_auto_startup">%s das Starten im Hintergrund verweigern</string>
   <string name="application_info_label">Appinfo</string>
   <string name="application_item_already_permission">Erlaubt</string>
@@ -476,6 +481,8 @@ Sie verlieren keine Appdaten."</string>
   <string name="background_location_requests_title">Standortlokalisierung im Hintergrund zulassen</string>
   <string name="background_location_select_apps">Alle auswählen</string>
   <string name="background_process_stop_description">Hierbei handelt es sich um einen alten Appprozess, der für den Fall, dass er wieder benötigt wird, beibehalten wird. Normalerweise gibt es keinen Grund, ihn zu beenden.</string>
+  <string name="background_restrict_app_dialog_message">Die Einschränkung des Hintergrund-Netzwerkzugriffs für diese Anwendung kann dazu führen, dass die Anwendung nicht mehr normal arbeitet, Nachrichten empfängt, Inhalte herunterlädt, etc. Trotzdem einschränken?</string>
+  <string name="background_traffic">Hintergrund %s</string>
   <string name="backtouch_enable_title">Lautstärke auf der Rückseite anpassen</string>
   <string name="backup">Sicherung</string>
   <string name="backup_configure_account_default_summary">Gesicherte Daten werden zurzeit in keinem Konto gespeichert</string>
@@ -901,6 +908,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="bt_rarely_used_device_title">Selten verwendete Geräte (%d)</string>
   <string name="bt_trace_log">Bluetooth-Tracelog einschalten</string>
   <string name="bt_trace_log_summary">Bluetooth-Tracelog einschalten</string>
+  <string name="btn_back">Zurück</string>
   <string name="btn_got_it">Verstanden</string>
   <string name="bug_report_settings">Fehlerberichte einstellen</string>
   <string name="bugreport_in_power">Fehlerberichtverknüpfung</string>
@@ -933,6 +941,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="button_text_ok_timer">OK (%d)</string>
   <string name="button_text_reboot_now">Neustarten</string>
   <string name="button_text_reject">Ablehnen</string>
+  <string name="byteShort">B</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
   <string name="cached">Hintergrundprozess im Cache</string>
@@ -997,7 +1006,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="carrier_enabled_summaryOff">APN Aus</string>
   <string name="carrier_enabled_summaryOn">APN An</string>
   <string name="carrier_show_in_lock_screen">Nur im Sperrbildschirm anzeigen</string>
-  <string name="carrier_show_none">Niemals den Namen des Netzbetreibers anzeigen</string>  
+  <string name="carrier_show_none">Niemals den Betreibernamen anzeigen</string>
   <string name="category_personal">Persönlich</string>
   <string name="category_work">Arbeit</string>
   <string name="cdma_security_settings_summary">Meinen Standort, Bildschirmsperre, SIM-Kartensperrung und Sperrung des Anmeldeinformationsspeichers festlegen</string>
@@ -1418,6 +1427,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="default_spell_checker">Standardrechtschreibprüfung</string>
   <string name="default_usb_mode">USB-Verbindung</string>
   <string name="delete">Löschen</string>
+  <string name="deleted_apps">Gelöschte Anwendungen</string>
   <string name="delete_backup_process">Wird gelöscht…</string>
   <string name="delete_backup_title">Sicherung löschen</string>
   <string name="delete_failed_backup_confirm">Diese Sicherung ist fehlerhaft</string>
@@ -1433,6 +1443,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="deny_sms_message">Installierten Apps das Senden von SMS verbieten</string>
   <string name="deny_sms_title">SMS sperren</string>
   <string name="deselect_all">Nichts auswählen</string>
+  <string name="detail_app_button">Appinfo</string>
   <string name="details_subtitle">Details</string>
   <string name="details_title">Details zum Verbrauch</string>
   <string name="dev_settings_warning_message">Diese Einstellungen sind ausschließlich für Entwicklungszwecke geeignet. Sie können Ihr Gerät und die darauf installierten Apps beschädigen oder zu unerwünschtem Verhalten führen.</string>
@@ -1494,9 +1505,16 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_total_memory">Gesamter Speicher</string>
   <string name="dial_application_title">Wählen</string>
   <string name="dial_pad_tones_title">Wähltastentöne</string>
+  <string name="dialog_chose_item">Wählen Sie ein Element aus, das angezeigt werden soll</string>
   <string name="dialog_content_login">Für das Update mit Ihrem Mi Konto anmelden?</string>
   <string name="dialog_no">Nein</string>
   <string name="dialog_not_show_again">Nicht wieder anzeigen</string>
+  <string name="dialog_restrict_all_mobile_summary">"Nach der Einstellung ist die mobile Datenverbindung (%s) in allen Anwendungen eingeschränkt."</string>
+  <string name="dialog_restrict_all_mobile_title">Einschränken der mobilen Datenverbindung in %s</string>
+  <string name="dialog_restrict_all_wlan_summary">Danach wird die WLAN-Verbindung für alle Anwendungen eingeschränkt.</string>
+  <string name="dialog_restrict_all_wlan_title">WLAN-Verbindung einschränken</string>
+  <string name="dialog_restrict_negative">Einschränken…</string>
+  <string name="dialog_restrict_positive">Abbrechen</string>
   <string name="dialog_title_color_calibration">Standardfarbkorrektur</string>
   <string name="dialog_title_font_size">Schriftgröße</string>
   <string name="dialog_title_hdmi_color_calibration">Standardfarbkorrektur</string>
@@ -1945,6 +1963,28 @@ Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string
   <string name="finish_application">Beenden</string>
   <string name="finish_button">Fertig</string>
   <string name="finish_button_label">Fertigstellen</string>
+  <string name="firewall_allow_all">Erlauben Sie allen Anwendungen, sich mit der folgenden Methode zu verbinden</string>
+  <string name="firewall_allow_data">Mobile Datennutzung zulassen</string>
+  <string name="firewall_allow_network">Zulassen</string>
+  <string name="firewall_allow_wlan">WLAN-Verbindung zulassen</string>
+  <string name="firewall_applist">Apps</string>
+  <string name="firewall_mobile">Mobile Daten</string>
+  <string name="firewall_network_allow">Erlaubt %1$s, die Verbindung %2$s zu benutzen</string>
+  <string name="firewall_network_restrict_notify_message">Tippen, um die Einstellungen zu ändern.</string>
+  <string name="firewall_network_restrict_notify_mobile">Mobile Daten</string>
+  <string name="firewall_partial">Erlauben Sie einigen Anwendungen, sich mit der folgenden Methode zu verbinden</string>
+  <string name="firewall_permission">Verbindungsberechtigungen</string>
+  <string name="firewall_restrict_all">Beschränken Sie die Verbindung für alle Apps mithilfe der folgenden Methode</string>
+  <string name="firewall_restrict_android_dialog_content">Um sicherzustellen, dass Ihr Gerät normal funktioniert, stellen einige Android-Systemanwendungen weiterhin eine Verbindung zum Internet her. Diese Apps nutzen Ihre mobile Datenverbindung und können von Ihrem Netzbetreiber geringe Kosten verursachen.</string>
+  <string name="firewall_restrict_android_dialog_title">Achtung</string>
+  <string name="firewall_restrict_data">Einschränkung der mobilen Datennutzung</string>
+  <string name="firewall_restrict_notify_title">%s kann das Netzwerk nicht nutzen</string>
+  <string name="firewall_restrict_wlan">Einschränkung über WLAN-Verbindung</string>
+  <string name="firewall_set_bg_firewall_default_dialog_summary">Wenn Sie die Hintergrundverbindung einschränken, können sich neue Anwendungen nach der Installation nicht mehr im Hintergrund mit dem Internet verbinden. Möglicherweise können sie danach keine Nachrichten mehr empfangen oder Inhalte herunterladen. Trotzdem einschränken?</string>
+  <string name="firewall_set_bg_firewall_default_dialog_title">Hintergrundverbindung für neue Apps einschränken</string>
+  <string name="firewall_temp_rule_reason">2$s eingeschränkte Internetverbindung für %1$s</string>
+  <string name="firewall_wifi">WLAN</string>
+  <string name="firewall_wifi_dialog_message">Die installierte Anwendung kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter ausgeschaltet ist.</string>
   <string name="firmware_version">Androidversion</string>
   <string name="floating_window_switch_label">Popups anzeigen</string>
   <string name="floating_window_switch_label_disable">Popups nicht anzeigen</string>
@@ -1996,6 +2036,7 @@ werden gefangen genommen, die Vogelscheuche und der Blechmann werden von den Gef
   <string name="force_touch_demo">Demo</string>
   <string name="force_touch_enable">3D-Touch aktivieren</string>
   <string name="force_touch_enable_tips">Wenn 3D-Touch aktiviert ist, zeigt starkes Drücken eines Appsymbols am Startbildschirm das Kontextmenü der App</string>
+  <string name="foreground_traffic">Vordergrund %s</string>
   <string name="forget">Vergessen</string>
   <string name="forget_password_button_text"><u>Passwort vergessen</u></string>
   <string name="forget_pattern"><u>Muster vergessen?</u></string>
@@ -2059,6 +2100,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="getConfiguredNetworks">Konfiguriertes Netzwerk beziehen</string>
   <string name="getConnectionInfo">Verbindungsinfo bekommen</string>
   <string name="giga_hertz">GHz</string>
+  <string name="gigabyteShort">GB</string>
   <string name="global_change_warning">Diese Einstellung betrifft alle Benutzer auf diesem Telefon</string>
   <string name="global_font_change_title">Schriftgröße ändern</string>
   <string name="global_locale_change_title">Sprache ändern</string>
@@ -2210,6 +2252,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="invalid_size_value">Paketgröße konnte nicht berechnet werden</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="isv_settings_title">Intel Smart Video</string>
+  <string name="item_system_app">System Apps</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s und %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
@@ -2313,8 +2356,11 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="keywords_wifi">WLAN WI-FI wifi Netz Netzwerkverbindung</string>
   <string name="keywords_wifi_calling">wifi wi-fi Anruf anrufen</string>
   <string name="keywords_write_settings">schreiben modifizieren System Einstellungen</string>
+  <string name="kilobyte_per_second">K/s</string>
+  <string name="kilobyteShort">KB</string>
   <string name="lab_functions_title">Betafunktionen</string>
   <string name="label_global_roaming_settings">Roamingeinstellungen</string>
+  <string name="label_mi_stats">Mi Analyse</string>
   <string name="language_keyboard_settings_title">Sprache &amp; Eingabe</string>
   <string name="language_picker_title">Sprache</string>
   <string name="language_settings">Sprache &amp; Eingabe</string>
@@ -2365,6 +2411,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="line_breaking_summary">Zeilenumbruch optimieren</string>
   <string name="line_breaking_title">Textoptimierung</string>
   <string name="link_speed_label">Verbindungsgeschwindigkeit:</string>
+  <string name="list_bg_header_text">Wenn Sie die Hintergrundverbindung einschränken, können sich neue Anwendungen nach der Installation nicht mehr im Hintergrund mit dem Internet verbinden. Möglicherweise können sie danach keine Nachrichten mehr empfangen oder Inhalte herunterladen.</string>
+  <string name="list_empty_text">Leer</string>
   <string name="loading_notification_apps">Apps werden geladen…</string>
   <string name="local_app_name">Sicherung</string>
   <string name="local_auto_backup_off">Aus</string>
@@ -2677,6 +2725,7 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="master_clear_desc_also_erases_external">"&lt;li&gt;Musik&lt;/li&gt;
 &lt;li&gt;Fotos&lt;/li&gt;
 &lt;li&gt;und andere Benutzerdaten&lt;/li&gt;"</string>
+  <string name="main_toolbar_statistic">Datennutzungsstatistik</string>
   <string name="master_clear_desc_erase_external_storage">Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Speicher</b> gelöscht werden</string>
   <string name="master_clear_erase_application_progress">Lösche Apps…</string>
   <string name="master_clear_failed">Zurücksetzung konnte nicht durchgeführt werden, weil der Dienst zur Systembereinigung nicht verfügbar ist</string>
@@ -2717,6 +2766,8 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="media_volume_summary">Lautstärke für Musik und Videos festlegen</string>
   <string name="media_volume_title">Medien</string>
   <string name="medium_font">Mittel</string>
+  <string name="megabyte_per_second">M/s</string>
+  <string name="megabyteShort">MB</string>
   <string name="mem_details_title">Speicherdetails</string>
   <string name="mem_state_subtitle">Speicherzustände</string>
   <string name="mem_use_free_type">Frei</string>
@@ -2783,11 +2834,11 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="menu_stats_total">Verbrauch insgesamt</string>
   <string name="menu_stats_unplugged">%1$s seit dem Ausstecken</string>
   <string name="menu_use_uss">USS verwenden</string>
+  <string name="mi_service_app_detail">Angaben zur Datennutzung</string>
   <string name="mi_shopping_mall">Mi Market</string>
-  <string name="mi_upi_settings">Mi-Pay Konto</string>  
+  <string name="mi_upi_settings">Mi Pay Konto</string>
   <string name="miliao_account_guide">"Erstellen Sie ein Mi Konto und profitieren Sie von Xiaomi's Online Diensten"</string>
   <string name="miliao_account_login">Mit Mi Talk anmelden</string>
-  <string name="miracast_PC2THOR_streaming_on">Kabellose Anzeige ist nicht verfügbar, ein anderer Rechner streamt bereits auf dieses Gerät</string>
   <string name="miracast_add_sink_title">Kabellose Anzeige hinzufügen</string>
   <string name="miracast_airplane_mode_on">Um kabellose Anzeige zu verwenden, müssen Sie den Flugmodus ausschalten</string>
   <string name="miracast_authentication_error">Authentifizierungsfehler</string>
@@ -2824,6 +2875,7 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="miracast_not_visible_to_other_devices">Nicht für andere Geräte sichtbar</string>
   <string name="miracast_password">Passwort</string>
   <string name="miracast_pbc">Mit der WPS-Taste verbinden</string>
+  <string name="miracast_PC2THOR_streaming_on">Kabellose Anzeige ist nicht verfügbar, ein anderer Rechner streamt bereits auf dieses Gerät</string>
   <string name="miracast_pin">Mit Passwort oder PIN verbinden</string>
   <string name="miracast_remem_sink_busy">Gespeichert, besetzt</string>
   <string name="miracast_remem_sink_ready_to_connect">Gespeichert, bereit</string>
@@ -3062,6 +3114,9 @@ Betriebssystem auswählen:"</string>
   <string name="need_reboot_now">Um die Aktualisierung abzuschließen, ist ein Neustart erforderlich</string>
   <string name="netcheck_title">Netzwerkdiagnose</string>
   <string name="network_assistant">Datenverbrauch</string>
+  <string name="network_changed_noti_summary">Nutzung mobiler Daten</string>
+  <string name="network_changed_noti_title">Vom WLAN getrennt</string>
+  <string name="network_control">Appeinstellungen anzeigen</string>
   <string name="network_detail">%s Netzwerkdetails</string>
   <string name="network_error">Netzwerkfehler ist aufgetreten</string>
   <string name="network_name_displayed_summary">Netzwerkname in der Statusleiste anzeigen</string>
@@ -3073,6 +3128,12 @@ Betriebssystem auswählen:"</string>
   <string name="network_scorer_change_active_dialog_title">WLAN-Assistenten ändern?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Wollen Sie %s nutzen, um Ihre Netzwerkverbindungen zu verwalten?</string>
   <string name="network_settings_title">Mobilfunknetze</string>
+  <string name="network_speed_for_apps_close">Stoppen erzwingen</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Erzwingen, diese Anwendung zu stoppen?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">Systemanwendungen können nicht zum stoppen gezwungen werden</string>
+  <string name="network_speed_for_apps_others">Andere</string>
+  <string name="network_speed_for_apps_title">Verbindung</string>
+  <string name="network_speed_for_apps_total">Verbindungsgeschwindigkeit</string>
   <string name="network_state_label">Netzwerkstatus:</string>
   <string name="networkid_label">Netzwerk ID:</string>
   <string name="networks">Betreiberauswahl</string>
@@ -3113,7 +3174,9 @@ Betriebssystem auswählen:"</string>
   <string name="night_light">Nachtlicht</string>
   <string name="night_light_brightness">Nachtlichthelligkeit</string>
   <string name="night_light_color">Nachtlichtfarbe</string>
+  <string name="night_light_color_tip">Änderungen werden wirksam, wenn der Lesemodus ausgeschaltet ist</string>
   <string name="night_light_summary">Minimieren Sie die Hintergrundbeleuchtung bei schlechten Lichtverhältnissen, um in den Nachtlichtmodus zu gelangen.</string>  
+  <string name="night_light_tip">Änderungen werden wirksam, wenn der Nachtmodus eingeschaltet ist</string>
   <string name="night_mode_auto">Automatisch</string>
   <string name="night_mode_no">Hell</string>
   <string name="night_mode_title">Thema</string>
@@ -3372,11 +3435,11 @@ Betriebssystem auswählen:"</string>
   <string name="paper_mode_start_time_title">Startzeit</string>
   <string name="passpoint_content">%1$s Zugangsdaten</string>
   <string name="passpoint_label">Gespeichert via</string>
-  <string name="passwordIncorrect">Eingegebenes Passwort ist falsch</string>
   <string name="password_entrance_title">Bildschirmsperre</string>
   <string name="password_guard">Passwort</string>
   <string name="password_turned_off_text">Passwort wurde deaktiviert</string>
   <string name="password_turned_on_text">Passwort wurde aktiviert</string>
+  <string name="passwordIncorrect">Eingegebenes Passwort ist falsch</string>
   <string name="path_about_about_settings">Einstellungen/Über das Gerät</string>
   <string name="path_accelerometer_settings">Einstellungen/Bildschirm/Bildschirm automatisch drehen</string>
   <string name="path_access_control_settings">Einstellungen/Weitere Einstellungen/Sicherheit/Privatsphäre-Einstellungen</string>
@@ -3581,8 +3644,10 @@ Betriebssystem auswählen:"</string>
   <string name="permission_settings_title">Appberechtigungen</string>
   <string name="permissions_label">Rechte</string>
   <string name="permit_draw_overlay">Überlagerung von Apps erlauben</string>
+  <string name="permit_running_network">Hintergrunddaten</string>
   <string name="permit_usage_access">Nutzungszugang erlauben</string>
   <string name="permit_write_settings">Änderung von Systemeinstellungen erlauben</string>
+  <string name="person_hotpot">Mobile Hotspots</string>
   <string name="personal_data_section_title">Personenbezogene Daten</string>
   <string name="personal_device_admin_title">Persönlich</string>
   <string name="personal_section_title">Persönlich</string>
@@ -3649,12 +3714,18 @@ Betriebssystem auswählen:"</string>
   <string name="power_usage_summary_title">Akku &amp; Leistung</string>
   <string name="power_wifi">WLAN</string>
   <string name="pre_installed_application">Vorinstallierte Apps</string>
+  <string name="pref_bg_network_title">Hintergrundverbindung</string>
   <string name="pref_button_light">Tastenbeleuchtung</string>
   <string name="pref_button_light_summary">Menü-, %1$s und Zurücktaste beleuchten</string>
   <string name="pref_button_light_summary_sub">Home-,</string>
   <string name="pref_edge_handgrip">Kantensteuerungen</string>
+  <string name="pref_key_tethering_setting">Einmaliges Datenlimit</string>
+  <string name="pref_key_tethering_title">Einmaliges Datenlimit</string>
+  <string name="pref_manage_bg_network">Hintergrund-Netzwerkverbindung von Apps verwalten</string>
+  <string name="pref_new_installed_preconfig_title">Standardeinstellungen der neuen Apps</string>
   <string name="pref_operational_key">Tasten</string>
   <string name="pref_title_lang_selection">Spracheinstellungen</string>
+  <string name="pref_title_update_notification">Benachrichtigungen zur Datennutzung</string>
   <string name="pref_volume_launch_camera_summary">Leiser Taste zweimal drücken, um die Kamera zu öffnen</string>
   <string name="pref_volume_launch_camera_title">Kamera öffnen</string>
   <string name="pref_volume_wake_summary">Lautstärketasten drücken, um Telefon aufzuwecken</string>
@@ -3763,6 +3834,7 @@ Betriebssystem auswählen:"</string>
   <string name="privacy_password_add_account_info">Mi Konto hinzufügen, um Ihr Passwort zurückzusetzen, falls Sie es vergessen</string>
   <string name="privacy_password_add_account_setting">Konto &amp; Privatsphäre</string>
   <string name="privacy_password_bind_account">Mi Konto hinzufügen</string>
+  <string name="privacy_password_bind_account">Mi Konto hinzufügen</string>
   <string name="privacy_password_bind_account_immediate">Hinzufügen</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Zweitprofilpasswort bestätigen</string>
   <string name="privacy_password_confirm_use_finger">Per Fingerabdruck entsperren</string>
@@ -3840,8 +3912,8 @@ Betriebssystem auswählen:"</string>
   <string name="prompt_reading">Lesen…</string>
   <string name="prompt_sending">Hochladen…</string>
   <string name="prompt_writing">Speichern…</string>
-  <string name="provision_activation">Aktiv</string>  
   <string name="provider_label">Pushabos</string>
+  <string name="provision_activation">Aktiv</string>  
   <string name="provision_back">Zurück</string>
   <string name="provision_next">Weiter</string>
   <string name="provision_page_layout_confirm_message">Um die Änderungen zu aktivieren, muss das Telefon neu gestartet werden. Dieser Vorgang dauert ungefähr 1 Minute.</string>
@@ -5204,10 +5276,18 @@ Mit dieser Google-Funktion können Sie Ihre Daten synchronisieren, um von übera
   <string name="tether_and_hotspot_title">Tethering &amp; Hotspot</string>
   <string name="tether_auto_disable_summary">Hotspot automatisch schließen, wenn keine Geräte angeschlossen sind.</string>
   <string name="tether_auto_disable_title">Hotspot automatisch schließen</string>
+  <string name="tether_custom_dialog_title">Mobiles Datenlimit</string>
   <string name="tether_data_usage_limit">Einmaliges Datenlimit</string>
   <string name="tether_data_usage_limit_summary">Das Datenlimit wird angewendet, wenn Ihr Hotspot das nächste Mal aktiviert wird.</string>
   <string name="tether_devices_management_title">Geräte verwalten</string>
   <string name="tether_devices_max_number">Begrenzung der verbundenen Geräte</string>
+  <string name="tether_limit_dialog_title">Mobiles Datenlimit</string>
+  <string name="tether_limit_value_custom">Benutzerdefiniert</string>
+  <string name="tether_over_limit_dialog_cancle_btn">Hotspot zurücksetzen</string>
+  <string name="tether_over_limit_dialog_message">Sie haben das Limit für mobile Hotspot-Daten erreicht.</string>
+  <string name="tether_over_limit_dialog_title">Datennutzungswarnung</string>
+  <string name="tether_over_limit_warning_notify_message">Mobilen Hotspot ausschalten</string>
+  <string name="tether_over_limit_warning_notify_title">Hotspot-Datenlimit erreicht</string>  
   <string name="tether_settings_disabled">Persönlicher Hotspot ist deaktiviert</string>
   <string name="tether_settings_disabled_on_data_saver">Tethering oder Verwendung von mobilen Hotspots nicht möglich, während der Datensparmodus aktiviert ist</string>
   <string name="tether_settings_launch_title">Mobiler Hotspot</string>
@@ -5277,6 +5357,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball aufwecken</string>
   <string name="traffic_balance">Datennutzungsmodus</string>
+  <string name="traffic_none">Keine</string>
   <string name="trans_backingup">Sichern…</string>
   <string name="trans_backingup_no_items">Synchronisieren…</string>
   <string name="trans_calculating">Wird berechnet…</string>
