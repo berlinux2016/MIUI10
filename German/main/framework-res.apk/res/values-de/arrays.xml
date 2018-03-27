@@ -60,7 +60,7 @@
     <item>Versucht MMS zu löschen</item>
     <item>Versucht Kontakte zu löschen</item>
     <item>Versucht Anrufliste zu löschen</item>
-    <item>Versucht Datenverbindung an/auszuschalten</item>
+    <item>Versucht Datenverbindung an-/auszuschalten</item>
   </string-array>
   <string-array name="emailAddressTypes">
     <item>Privat</item>
@@ -68,26 +68,55 @@
     <item>Andere</item>
     <item>Eigene</item>
   </string-array>
+  <!-- <string-array name="fingerprint_acquired_vendor"> -->
+    <!-- <item>Reserviert0</item> -->
+    <!-- <item>Reserviert1</item> -->
+    <!-- <item>Legen Sie Ihren Finger auf den Sensor</item> -->
+    <!-- <item>Legen Sie Ihren Finger vollständig auf den Sensor</item> -->
+    <!-- <item>Heben Sie Finger1 an und erfassen Sie den Sensor kräftig und vollständig</item> -->
+    <!-- <item>Heben Sie Finger2 an und erfassen Sie den Sensor kräftig und vollständig</item> -->
+    <!-- <item>Reserviert6</item> -->
+    <!-- <item>Reserviert7</item> -->
+    <!-- <item>Reserviert8</item> -->
+    <!-- <item>Reserviert9</item> -->
+    <!-- <item>Reserviert10</item> -->
+    <!-- <item>Reserviert11</item> -->
+    <!-- <item>Reserviert12</item> -->
+    <!-- <item>Legen Sie Finger3 aufrecht auf den Sensor</item> -->
+    <!-- <item>Bewegen Sie Finger4 leicht zwischen den Scans</item> -->
+    <!-- <item>Legen Sie Finger5</item> -->
+    <!-- <item>Halten Sie Finger6 länger auf dem Sensor</item> -->
+    <!-- <item>Reserviert17</item> -->
+    <!-- <item>Reserviert18</item> -->
+  <!-- </string-array> -->
   <string-array name="fingerprint_acquired_vendor">
-    <item>Reserviert0</item>
-    <item>Reserviert1</item>
-    <item>Legen Sie Ihren Finger auf den Sensor</item>
-    <item>Legen Sie Ihren Finger vollständig auf den Sensor</item>
-    <item>Heben Sie Finger1 an und erfassen Sie den Sensor kräftig und vollständig</item>
-    <item>Heben Sie Finger2 an und erfassen Sie den Sensor kräftig und vollständig</item>
-    <item>Reserviert6</item>
-    <item>Reserviert7</item>
-    <item>Reserviert8</item>
-    <item>Reserviert9</item>
-    <item>Reserviert10</item>
-    <item>Reserviert11</item>
-    <item>Reserviert12</item>
-    <item>Legen Sie Finger3 aufrecht auf den Sensor</item>
-    <item>Bewegen Sie Finger4 leicht zwischen den Scans</item>
-    <item>Legen Sie Finger5</item>
-    <item>Halten Sie Finger6 länger auf dem Sensor</item>
-    <item>Reserviert17</item>
-    <item>Reserviert18</item>
+    <item>Erneut versuchenn</item>
+    <item></item>
+    <item></item>
+    <item>Fingerabdruckscanner vollständig abdecken und Druck ausüben</item>
+    <item></item>
+    <item>Fingerabdruckscanner vollständig abdecken und Druck ausüben</item>
+    <item>Fingerabdruckscanner vollständig abdecken und Druck ausüben</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Fingerabdruckscanner vollständig abdecken und Druck ausüben</item>
+    <item>Fingerabdruckscanner vollständig abdecken und Druck ausüben</item>
+    <item>Zu schnell! Fingerabdruck wurde nicht erkannt.</item>
+    <item>Finger leicht bewegen und erneut versuchen</item>
+    <item>Finger anheben und erneut auf den Scanner legen</item>
+    <item>Finger etwas länger auf dem Scanner lassen</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Finger leicht bewegen</item>
+    <item>Dieser Fingerabdruck wurde hinzugefügt, verwenden Sie einen anderen Finger</item>
   </string-array>
   <string-array name="imAddressTypes">
     <item>Privat</item>
@@ -133,4 +162,13 @@
     <item>Andere</item>
     <item>Eigene</item>
   </string-array>
+  <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Um über WLAN Anrufe zu tätigen und Nachrichten zu versenden, bitten Sie zunächst Ihren Netzbetreiber, diesen Dienst einzurichten. Dann schalten Sie WLAN-Anruf wieder über Einstellungen ein.</item>
+     </string-array>
+     <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registrieren Sie sich bei Ihrem Netzbetreiber</item>
+     </string-array>
+     <string-array name="wfcSpnFormats">
+      <item>%s WLAN Anruf</item>
+     </string-array>
 </resources>
