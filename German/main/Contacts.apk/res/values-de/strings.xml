@@ -212,6 +212,8 @@
   <string name="contact_detail_calllog_call_note_tips">Notizen</string>
   <string name="contact_detail_calllog_call_record_tips">Anrufaufnahme</string>
   <string name="contact_detail_calllog_empty">Kein Gesprächsverlauf</string>
+   <string name="contact_detail_entry_pay">Bezahlen</string>
+   <string name="contact_detail_entry_pay_dialog_title">Telefonnummer auswählen</string>
   <string name="contact_detail_menu_delete_miprofile">Karte löschen</string>
   <string name="contact_detail_miprofile_accept">Kontaktkarten austauschen</string>
   <string name="contact_detail_miprofile_accept_fail_toast">Kontaktkarte konnte nicht abgerufen werden</string>
@@ -340,7 +342,7 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="description_minus_button">Minus</string>
   <string name="description_plus_button">Plus</string>
   <string name="description_quick_contact_for">Schnellkontakt für %1$s</string>
-  <string name="description_quick_dial_button">Kurzwahl</string>  
+  <string name="description_quick_dial_button">Kurzwahl</string>
   <string name="description_search_button">Suchen</string>
   <string name="description_send_message">Nachricht an %1$s senden</string>
   <string name="description_send_text_message">SMS an %1$s senden</string>
@@ -369,19 +371,19 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="device_pairing_dialog_message">Verbinden…</string>
   <string name="device_pairing_dialog_title">Geräte verbinden</string>
   <string name="device_transfer_by_bluetooth_message">"1. Bitte schalten Sie \"Bluetooth\" auf dem anderen Gerät ein;
-        
+
 
 - Auf Androidgeräten finden Sie \"Bluetooth\" normalerweise bei den Netzwerkeinstellungen
-        
+
 - Auf iOS-Geräten sollten Sie \"Bluetooth\" in den Einstellungen suchen
-        
+
 
 2. Auf Androidgeräten sollten Sie außerdem die \"Sichtbarkeit für andere Geräte\" einschalten;
-        
+
 
 3. Klicken Sie \"Weiter\" und erlauben Sie im nächsten Schritt den Zugriff auf die Kontakte."</string>
   <string name="device_transfer_by_sim_message">"1. Speichern Sie die Kontakte des anderen Geräts auf der SIM-Karte;
-        
+
 
 2. Gehen Sie zu "Kontakteinstellungen" -- "Kontakte importieren/exportieren" -- "Von SIM-Karte importieren", halten Sie einen Kontakt gedrückt, wählen Sie die zu importierenden Kontakte aus, dann klicken Sie "Importieren"."</string>
   <string name="device_version_header_bluetooth">Stellen Sie sicher, dass Bluetooth an ist</string>
@@ -396,7 +398,7 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="dialer_empty_text_loading">Einen Moment…</string>
   <string name="dialer_empty_text_no_call_log">Keine Anrufe</string>
   <string name="dialer_empty_text_no_search_result">Keine Kontakte gefunden</string>
-  <string name="dialer_firewall_entry_name">Gesperrte Anrufprotokolle</string>  
+  <string name="dialer_firewall_entry_name">Gesperrte Anrufprotokolle</string>
   <string name="dialer_menu_description">Tippen, um das Wählmenü zu öffnen</string>
   <string name="dialer_menu_title">Optionen</string>
   <string name="dialer_returnToInCallScreen">Zurück zum aktuellen Gespräch</string>
@@ -786,9 +788,9 @@ Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Anzeigeoptionen, um die anzuzeigenden Kontakte auszuwählen
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Neue Kontakte, um einen neuen Kontakt zu erstellen
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importieren/Exportieren, um Kontakte von der SIM- oder SD-Karte zu importieren
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
@@ -796,11 +798,11 @@ Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&
   <string name="noContactsNoSimHelpText">"Keine Kontakte zum Anzeigen vorhanden.
 
 Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;&lt;/b&gt;" und dann wählen Sie:
- 
+
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Neue Kontakte, um einen neuen Kontakt zu erstellen
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importieren/Exportieren, um Kontakte von der SD-Karte zu importieren
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
@@ -808,11 +810,11 @@ Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&
 
 Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;&lt;/b&gt;", und dann wählen Sie:
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Anzeigeoptionen, um die anzuzeigenden Kontakte auszuwählen
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Neue Kontakte, um einen neuen Kontakt zu erstellen
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importieren/Exportieren, um Kontakte von der SD-Karte zu importieren
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
@@ -822,9 +824,9 @@ Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&
     Um einen Kontakt zu den Favoriten hinzuzufügen:
 
 "&lt;li&gt;Berühre &lt;b&gt;Kontakte&lt;/b&gt;" tab
-"&lt;/li&gt;" 
+"&lt;/li&gt;"
 "&lt;li&gt;"Kontakt wählen, der zu den Favoriten hinzugefügt werden soll
-"&lt;/li&gt;" 
+"&lt;/li&gt;"
 "&lt;li&gt;"Stern neben dem Kontaktnamen antippen
 "&lt;/li&gt;"
 "</string>
@@ -884,7 +886,7 @@ Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&
   <string name="path_key_rebuild_t9_index_title">Einstellungen/Systemapps/Kontakte/Kontaktoptionen/Indexdaten neu erstellen</string>
   <string name="path_key_sim_manage">Einstellungen/Systemapps/Kontakte/Kontaktoptionen/SIM-Karten</string>
   <string name="path_preference_contacts_filter">Einstellungen/Systemapps/Kontakte/Anzeigeeinstellungen/Kontaktlisteneinstellungen</string>
-  <string name="path_quick_dial_setting">Einstellungen/Systemapps/Kontakte/Kurzwahl</string>  
+  <string name="path_quick_dial_setting">Einstellungen/Systemapps/Kontakte/Kurzwahl</string>
   <string name="path_remove_duplicate">Einstellungen/Systemapps/Kontakte/Kontaktoptionen/Duplikate zusammenführen</string>
   <string name="path_share_visible_contacts">Einstellungen/Systemapps/Kontakte/Importieren und Exportieren/Sichtbare Kontakte teilen</string>
   <string name="path_sim_capacity">Einstellungen/Systemapps/Kontakte/SIM-Kartenkapazität</string>
@@ -944,12 +946,14 @@ Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&
   <string name="preference_contacts_display">Anzeigeeinstellungen</string>
   <string name="preference_contacts_filter">Kontaktlisteneinstellungen</string>
   <string name="preference_contacts_more">Kontaktoptionen</string>
+  <string name="preference_contacts_moresetting">Mehr</string>
   <string name="preference_dial_pad_touch_tone_default">Standard</string>
   <string name="preference_dial_pad_touch_tone_human">Sprache</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano</string>
   <string name="preference_dial_pad_touch_tone_switch">Wähltastentöne</string>
   <string name="preference_dial_pad_touch_tone_title">Wähltastentöne</string>
-  <string name="preference_display">Bildschirm</string>
+  <string name="preference_display">Anzeige</string>
+  <string name="preference_display_contact">Anzeigeoptionen</string>
   <string name="preference_displayOptions">Anzeigeoptionen</string>
   <string name="preference_export">Exportieren</string>
   <string name="preference_import">Importieren</string>
@@ -996,7 +1000,7 @@ Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&
   <string name="qr_card_card">Mein QR-Code</string>
   <string name="qrcode_card_title">QR-Code Karte</string>
   <string name="qrcode_editor_flash_failed">QR-Code konnte nicht aktualisiert</string>
-  <string name="quickcontact_missing_app">Für diese Aktion wurde keine Anwendung gefunden</string>  
+  <string name="quickcontact_missing_app">Für diese Aktion wurde keine Anwendung gefunden</string>
   <string name="quick_dial_setting_delete_dialog_message">Zugeordnete Kurzwahlnummer löschen?</string>
   <string name="quick_dial_setting_delete_dialog_option_delete">Löschen</string>
   <string name="quick_dial_setting_hint">Tippen Sie auf eine Schaltfläche, um eine Kurzwahlnummer zuzuweisen oder zu entfernen. Halten Sie die Taste mit der zugewiesenen Nummer gedrückt, um zu wählen.</string>
@@ -1072,7 +1076,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
   <string name="search_key_rebuild_t9_index_title">Organisieren;Kontakte;t9</string>
   <string name="search_key_sim_manage">Organisieren;Kontakte</string>
   <string name="search_preference_contacts_filter">Kontakte;Anzeige</string>
-  <string name="search_quick_dial_setting">Kontakte</string>  
+  <string name="search_quick_dial_setting">Kontakte</string>
   <string name="search_remove_duplicate">Organisieren;Kontakte</string>
   <string name="search_results_searching">Suche läuft…</string>
   <string name="search_settings_description">Namen Ihrer Kontakte</string>
