@@ -137,7 +137,6 @@
   <string name="mock_location_app">App für falsche Standorte auswählen</string>
   <string name="mock_location_app_not_set">App für falsche Standorte nicht gesetzt</string>
   <string name="mock_location_app_set">App für falsche Standorte: %1$s</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="no_mobile_data">Mobile Daten nicht verfügbar</string>
   <string name="no_mobile_data_roaming">Datenroaming nicht verfügbar</string>
   <string name="oem_preferred_feedback_reporter" />
@@ -1483,6 +1482,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="modem_dialog_body">Mobilfunknetz ist instabil, was zu Unterbrechungen oder Netzwerkproblemen führt. Fehlerbericht zur Analyse an Mi schicken? Dieser Bericht kann personenbezogene Daten enthalten. Ihr Bericht wird dazu verwendet, diesen Fehler zu beheben und wird niemals in einem kommerziellen Kontext veröffentlicht.</string>
   <string name="modem_dialog_title">Mobilfunknetz ist instabil</string>
   <string name="msim_apn_not_set">Nicht eingerichtet</string>
+  <string name="msim_cmcc_dds_switch_not_support">SIM-Karten können aufgrund von Betreiberbeschränkungen nicht gewechselt werden.</string>
   <string name="msim_default_setting">Standardeinstellungen</string>
   <string name="msim_disable_sim_card_btn_text">Ok</string>
   <string name="msim_disable_sim_card_summary_default_card">Diese Karte wird derzeit als Standard-SIM eingestellt. Wenn Sie diese nicht mehr verwenden, können Sie keine Anrufe mehr tätigen oder mobile Datenverbindungen nutzen. Sie können diese SIM-Karte stoppen, nachdem Sie eine andere SIM-Karte als Standard eingestellt haben.</string>
@@ -1500,6 +1500,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="msim_not_set_summary">Nicht eingerichtet</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Telefon und SMS</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">ICC-Kartenfehler</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Kann während eines Anrufs nicht eingestellt werden</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM-Kartenfehler, bitte versuchen Sie es später erneut</string>
