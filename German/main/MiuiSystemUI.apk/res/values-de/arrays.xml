@@ -2,12 +2,21 @@
 <resources>
   <string-array name="animator_duration_Skala_entries">
     <item>Animation aus</item>
-    <item>Animation Skala 0.5x</item>
-    <item>Animation Skala 1x</item>
-    <item>Animation Skala 1.5x</item>
-    <item>Animation Skala 2x</item>
-    <item>Animation Skala 5x</item>
-    <item>Animation Skala 10x</item>
+    <item>Animationsskala 0.5x</item>
+    <item>Animationsskala 1x</item>
+    <item>Animationsskala 1.5x</item>
+    <item>Animationsskala 2x</item>
+    <item>Animationsskala 5x</item>
+    <item>Animationsskala 10x</item>
+  </string-array>
+  <string-array name="animator_duration_scale_entries">
+    <item>Animation aus</item>
+    <item>Animationsskala 0.5x</item>
+    <item>Animationsskala 1x</item>
+    <item>Animationsskala 1.5x</item>
+    <item>Animationsskala 2x</item>
+    <item>Animationsskala 5x</item>
+    <item>Animationsskala 10x</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Standardgrenze</item>
@@ -16,6 +25,79 @@
     <item>Höchstens 2 Prozesse</item>
     <item>Höchstens 3 Prozesse</item>
     <item>Höchstens 4 Prozesse</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+     <item>Systemauswahl nutzen (Standard)</item>
+	 <item>16 bits/sample</item>
+     <item>24 bits/sample</item>
+     <item>32 bits/sample</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+     <item>Systemauswahl nutzen (Standard)</item>
+	 <item>16 bits/sample</item>
+     <item>24 bits/sample</item>
+     <item>32 bits/sample</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    <item>Optimiert für Audioqualität</item>
+    <item>Ausgewogene Audio- und Verbindungsqualität</item>
+    <item>Optimiert auf Verbindungsqualität</item>
+    <item>Beste Leistung (Adaptive Bitrate)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    <item>Optimiert für Audioqualität (990kbps/909kbps)</item>
+    <item>Ausgewogene Audio- und Verbindungsqualität (660kbps/606kbps)</item>
+    <item>Optimiert auf Verbindungsqualität (330kbps/303kbps)</item>
+    <item>Beste Leistung (Adaptive Bitrate)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>aptX</item>
+    <item>aptX HD</item>
+    <item>LDAC</item>
+    <item>Optionale Codecs aktivieren</item>
+    <item>Optionale Codecs deaktivieren</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>aptX</item>
+    <item>aptX HD</item>
+    <item>LDAC</item>
+    <item>Optionale Codecs aktivieren</item>
+    <item>Optionale Codecs deaktivieren</item>
+  </string-array>
+  <string-array name="bluetooth_avrcp_versions">
+    <item>AVRCP 1.4 (Standard)</item>
+    <item>AVRCP 1.5</item>
+    <item>AVRCP 1.6</item>
   </string-array>
   <string-array name="carrier_name">
     <item>SmarToneVodafone</item>
@@ -36,6 +118,10 @@
     <item>Zeige überzogene Bereiche</item>
     <item>Zeige Bereiche für Farbenfehlsichtige</item>
   </string-array>
+  <string-array name="debug_hw_renderer_entries">
+    <item>OpenGL (Standard)</item>
+    <item>OpenGL (Skia)</item>
+  </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Keine</item>
     <item>Logcat</item>
@@ -52,6 +138,19 @@
     <item>Nur auf DRM-Inhalte prüfen</item>
     <item>Immer Prüfen</item>
   </string-array>
+  <string-array name="hdcp_checking_values">
+    <item>Niemals</item>
+    <item>DRM-Only</item>
+    <item>Immer</item>
+  </string-array>
+  <string-array name="select_logd_size_summaries">
+    <item>Aus</item>
+	<item>64KB pro Logpuffer</item>
+    <item>256KB pro Logpuffer</item>
+    <item>1MB pro Logpuffer</item>
+    <item>4MB pro Logpuffer</item>
+    <item>16MB pro Logpuffer</item>
+  </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Aus</item>
     <item>Zeichnen Sie nicht rechteckige Clip-Region in blau</item>
@@ -64,12 +163,12 @@
   </string-array>
   <string-array name="transition_animation_Skala_entries">
     <item>Animation aus</item>
-    <item>Animation Skala 0.5x</item>
-    <item>Animation Skala 1x</item>
-    <item>Animation Skala 1.5x</item>
-    <item>Animation Skala 2x</item>
-    <item>Animation Skala 5x</item>
-    <item>Animation Skala 10x</item>
+    <item>Animationsskala 0.5x</item>
+    <item>Animationsskala 1x</item>
+    <item>Animationsskala 1.5x</item>
+    <item>Animationsskala 2x</item>
+    <item>Animationsskala 5x</item>
+    <item>Animationsskala 10x</item>
   </string-array>
   <string-array name="tts_demo_strings">
     <item>This is an example of speech synthesis in English.</item>
@@ -155,21 +254,13 @@
     <item>Blockiert</item>
     <item>Vorübergehende schlechte Verbindung vermeiden</item>
   </string-array>
-  <string-array name="select_logd_size_summaries">
-    <item>Aus</item>
-	<item>64KB pro Logpuffer</item>
-    <item>256KB pro Logpuffer</item>
-    <item>1MB pro Logpuffer</item>
-    <item>4MB pro Logpuffer</item>
-    <item>16MB pro Logpuffer</item>
-    </string-array>
   <string-array name="window_animation_Skala_entries">
     <item>Animation aus</item>
-    <item>Animation Skala 0.5x</item>
-    <item>Animation Skala 1x</item>
-    <item>Animation Skala 1.5x</item>
-    <item>Animation Skala 2x</item>
-    <item>Animation Skala 5x</item>
-    <item>Animation Skala 10x</item>
+    <item>Animationsskala 0.5x</item>
+    <item>Animationsskala 1x</item>
+    <item>Animationsskala 1.5x</item>
+    <item>Animationsskala 2x</item>
+    <item>Animationsskala 5x</item>
+    <item>Animationsskala 10x</item>
   </string-array>
 </resources>
