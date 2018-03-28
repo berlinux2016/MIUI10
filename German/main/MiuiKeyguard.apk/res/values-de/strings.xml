@@ -2,13 +2,14 @@
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Klicken, um Musik zu öffnen </string>
   <string name="btn_camera">Fügen Sie Ihr Gesicht hinzu</string>
+  <string name="change_to_ac_charging">Zu kabellosem Laden gewechselt</string>
   <string name="click_to_enter_text">Zum Anzeigen antippen</string>
   <string name="confirm_pin_msg">PIN erneut eingeben</string>
   <string name="custom_lock_wallpaper_enter">Eintreten</string>
   <string name="default_lockscreen_unlock_hint_text">Zum Entsperren nach oben wischen</string>
   <string name="delete">Löschen</string>
   <string name="do_disclosure_generic">Dieses Gerät wird von Ihrer Organisation verwaltet</string>
-  <string name="do_disclosure_with_name">Dieses Gerät wird von %s verwaltet</string>  
+  <string name="do_disclosure_with_name">Dieses Gerät wird von %s verwaltet</string>
   <string name="emergency_call_string">Notruf</string>
   <string name="experimental_try_string">Versuchen</string>
   <string name="experimental_validate">Bestätigen</string>
@@ -26,7 +27,7 @@
   <string name="face_data_input_ok">Abgeschlossen</string>
   <string name="face_data_input_ok_msg">Bildschirm aktivieren, um sich mit Ihrem Gesicht anzumelden</string>
   <string name="face_data_input_ok_msg_angle">"Entriegeln Sie das Gerät mit dem Gesicht, wenn der Bildschirm eingeschaltet ist.
-(Zeichnen Sie Ihre Gesichtsdaten mit allen erforderlichen Ansichten auf.)​"</string>  
+(Zeichnen Sie Ihre Gesichtsdaten mit allen erforderlichen Ansichten auf.)​"</string>
   <string name="face_data_input_ok_title">Erfolgreich hinzugefügt</string>
   <string name="face_data_input_title">Gesicht hinzufügen</string>
   <string name="face_data_introduction_msg">Verwenden Sie Ihr Gesicht, um Ihr Telefon zu entsperren oder Ihre Identität zu verifizieren. Sie müssen ein Bildschirmpasswort festlegen, bevor Sie Ihr Gesicht hinzufügen können.</string>
@@ -37,9 +38,9 @@
   <string name="face_data_manage_delete_sure">Sie können das Telefon nicht mehr mit Ihrem Gesicht entsperren, nachdem Sie es entfernt haben</string>
   <string name="face_data_manage_delete_title">Gesichtsdaten</string>
   <string name="face_data_manage_unlock_msg">Telefon mit Hilfe Ihres Gesichtes entsperren</string>
-  <string name="face_data_manage_unlock_title">Telefon mit Hilfe Ihres Gesichtes entsperren</string>  
+  <string name="face_data_manage_unlock_title">Telefon mit Hilfe Ihres Gesichtes entsperren</string>
   <string name="face_data_siggesstion_next">Nächste</string>
-  <string name="face_data_siggesstion_next_time">Nächste(%ds)</string>  
+  <string name="face_data_siggesstion_next_time">Nächste(%ds)</string>
   <string name="face_data_suggesstion_first">Sicherheitsprobleme: Die Gesichtsfreischaltung ist weniger sicher als eine PIN, ein Passwort oder ein Muster. Möglicherweise kann Ihr Gerät mit Ihrem Foto, aber auch von Personen oder Gegenständen mit ähnlichem Aussehen freigeschaltet werden.</string>
   <string name="face_data_suggesstion_second">Vergewissern Sie sich, dass Ihr Gesicht nicht von Gegenständen verdeckt wird und gut beleuchtet ist.</string>
   <string name="face_unlock_adjust_distance">Achten Sie darauf, dass der Abstand zwischen Ihrem Gesicht und dem Bildschirm optimal ist.</string>
@@ -60,7 +61,7 @@
   <string name="face_unlock_passwork_and_fingerprint">Passwort oder Fingerabdruck verwenden</string>
   <string name="face_unlock_quality">Gesicht konnte nicht klar erkannt werden</string>
   <string name="face_unlock_reenter_content">Der Gesichtsentsperrungsalgorithmus wird gerade aktualisiert. Tippen Sie, um die Gesichtsdaten erneut aufzuzeichnen.</string>
-  <string name="face_unlock_reenter_title">Nehmen Sie Ihre Gesichtsdaten erneut auf.</string>  
+  <string name="face_unlock_reenter_title">Nehmen Sie Ihre Gesichtsdaten erneut auf.</string>
   <string name="face_unlock_reveal_eye">Zeigen Sie Ihre Augen</string>
   <string name="face_unlock_reveal_mouth">Zeigen Sie Ihre Lippen</string>
   <string name="face_unlock_rise">Senken Sie Ihren Kopf</string>
@@ -158,7 +159,6 @@
   <string name="lockscreen_glogin_password_hint">Passwort</string>
   <string name="lockscreen_glogin_submit_button">Anmelden</string>
   <string name="login_website_in_case_forget_password">Besuchen Sie www.mi.com/micloud, um das Passwort zurückzusetzen</string>
- 
   <string name="missed_call_text">%d entgangene Anrufe</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Mit Bluetoothgerät entsperrt</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
@@ -183,7 +183,7 @@
   <string name="phone_locked_foget_password_mehod_back">Zurück</string>
   <string name="phone_locked_foget_password_method">Passwort vergessen?</string>
   <string name="phone_locked_foget_password_method_content"><Data>Sie müssen &lt;font color=#a5220e>alle Daten &lt;/font> auf Ihrem Telefon löschen., including photos and contacts, and then set a new Lock screen password.</Data></string>
-  <string name="phone_locked_foget_password_method_next">Weiter</string>  
+  <string name="phone_locked_foget_password_method_next">Weiter</string>
   <string name="phone_locked_foget_password_ok">Verstanden</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Halten Sie gleichzeitig die &lt;font color=#e6e6e6&gt;[Einschalttaste]&lt;/font&gt; und &lt;font color=#e6e6e6&gt;[Laustärke+]&lt;/font&gt;gedrückt, bis Sie das Mi Logo sehen&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Wählen Sie &lt;font color=#e6e6e6&gt;[Daten löschen]&lt;/font&gt; und warten Sie, bis das Telefon neu gestartet wird&lt;/Data&gt;</string>
@@ -191,6 +191,8 @@
   <string name="phone_locked_string">Telefon ist gesperrt</string>
   <string name="phone_locked_timeout_minutes_string">Nach %d Minuten erneut versuchen</string>
   <string name="phone_locked_timeout_seconds_string">Nach %d Sekunden erneut versuchen</string>
+  <string name="reset_device_detail_tip">Legen Sie Ihr Gerät richtig auf das kabellose Ladegerät, um hohe Ladegeschwindigkeit zu erreichen</string>
+  <string name="reset_device_tip">Ladevorgang ist langsam. Korrigieren Sie Ihr Gerät.</string>
   <string name="unlock_camera_steady">Ruhig halten</string>
   <string name="unlock_failed">Interner Fehler</string>
   <string name="unlock_failed_face_not_found">Erkennung</string>
@@ -202,5 +204,9 @@
   <string name="unlockscreen_recharge_completed">Aufgeladen</string>
   <string name="unlockscreen_recharging_message">Wird geladen %d%%</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Loslassen, um Details zu sehen</string>
+  <string name="wireless_charge_dialog_cancel">Abbrechen</string>
+  <string name="wireless_charge_dialog_title">Korrigieren Sie Ihr Gerät auf dem kabellosen Ladegerät</string>
+  <string name="wireless_charge_stop">Kabelloses Laden gestoppt</string>
+  <string name="wireless_current_charge">Aktuelle Ladung</string>
   <string name="wrong_password">Ungültiges Passwort</string>
 </resources>
