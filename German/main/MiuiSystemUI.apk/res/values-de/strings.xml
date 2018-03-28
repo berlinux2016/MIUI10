@@ -39,7 +39,7 @@
   <string name="accessibility_desc_select_block_notification">Benachrichtigungen zum Verbergen auswählen</string>
   <string name="accessibility_desc_uncheck_block_notification">%1$s Benachrichtigungen Abwählen</string>
   <string name="accessibility_desc_weather_temperature">Wetter %1s°C</string>
-  <string name="accessibility_desc_work_lock">Arbeitssperrbildschirm</string>  
+  <string name="accessibility_desc_work_lock">Arbeitssperrbildschirm</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Diese Funktion ist experimentell und kann die Leistung beeinträchtigen.</string>
   <string name="accessibility_display_daltonizer_preference_title">Farbkorrektur</string>
   <string name="accessibility_divider">Splitscreenteiler</string>
@@ -91,6 +91,7 @@
   <string name="account_info">Nicht angemeldet</string>
   <string name="activate_usb_message">SIM-Karte zum Aktivieren dieses Features einlegen.</string>
   <string name="activate_usb_title">Aktiviere USB</string>
+  <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
   <string name="adb_keys_warning_message">Zugriff auf USB-Debugging von allen Computern, die Sie zuvor autorisiert haben, widerrufen?</string>
   <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke gedacht. Verwenden Sie es, um Daten zwischen Ihrem Computer und Gerät zu kopieren, Apps auf Ihrem Gerät ohne Benachrichtigung zu installieren und Protokolldaten zu lesen.</string>
   <string name="adb_warning_title">USB debugging erlauben?</string>
@@ -111,6 +112,7 @@
   <string name="battery_info_status_charging">Aufladen</string>
   <string name="battery_info_status_charging_ac">Aufladen über Ladegerät</string>
   <string name="battery_info_status_charging_ac_short">Aufladen</string>
+  <string name="battery_info_status_charging_lower">Aufladen</string>
   <string name="battery_info_status_charging_usb">Aufladen über USB</string>
   <string name="battery_info_status_charging_usb_short">Aufladen</string>
   <string name="battery_info_status_charging_wireless">Kabelloses Aufladen</string>
@@ -142,6 +144,8 @@
   <string name="bluetooth_disconnecting">Trennen…</string>
   <string name="bluetooth_dun_profile_summary_connected">Verbunden mit Dun Server</string>
   <string name="bluetooth_dun_profile_summary_use_for">Für Einwahl Netzwerk verwenden</string>
+  <string name="bluetooth_enable_inband_ringing">In-Band-Klingeln aktivieren</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Erlaubt die Wiedergabe von Telefon-Klingeltönen über Bluetooth-Kopfhörer</string>
   <string name="bluetooth_headset_profile_summary_connected">Verbunden mit Telefon Audio</string>
   <string name="bluetooth_headset_profile_summary_use_for">Benutze Telefon Audio</string>
   <string name="bluetooth_hid_profile_summary_connected">Verbunden mit Eingabegerät</string>
@@ -164,7 +168,9 @@
   <string name="bluetooth_pan_profile_summary_use_for">Für Internetzugriff verwenden</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Für Internetzugriff mit Gerät verbunden</string>
   <string name="bluetooth_profile_a2dp">Media Audio</string>
-  <string name="bluetooth_profile_dun">Einwahl Netzwerk Zugriff</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Verwenden Sie hochwertige Audioqualität: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Verwenden Sie hochwertige Audioqualität</string>
+  <string name="bluetooth_profile_dun">DFÜ-Netzwerkzugang</string>
   <string name="bluetooth_profile_headset">Telefon Audio</string>
   <string name="bluetooth_profile_hid">Eingabegerät</string>
   <string name="bluetooth_profile_map">Nachrichten Zugriff</string>
@@ -176,7 +182,19 @@
   <string name="bluetooth_profile_sap">SIM Zugriff</string>
   <string name="bluetooth_sap_profile_summary_connected">Verbunden mit SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Für SIM Zugriff verweden</string>
-  <string name="bluetooth_tethered">Bluetoothinternetfreigabe</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Bluetooth Audio Codec wählen:
+Bits Per Sample"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth-Audiokanalmodus</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Bluetooth Audio Codec wählen:
+Kanalmodus"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Playback-Qualität</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth Audio LDAC Codec wählen:
+Playback-Qualität"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth Audio Codec wählen:
+Sample Rate"</string>
+  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Bluetooth Audio Codec wählen</string>
+  <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP Version wählen</string>
+  <string name="bluetooth_tethered">Bluetooth-Internetfreigabe</string>
   <string name="bt_hci_snoop_log">Bluetooth HCI Snoop Log aktivieren</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth HCI Pakete in einer Datei speichern</string>
   <string name="bugreport_in_power">Verknüpfung zum Fehlerbericht</string>
@@ -205,14 +223,17 @@
   <string name="clear_adb_keys">Berechtigungen für USB-Debugging widerrufen</string>
   <string name="click_expand">Zum Erweitern tippen</string>
   <string name="click_to_return_multi_window">Klicken, um zum Splitscreen zurückzukehren</string>
-  <string name="click_to_return_multi_window_of_notch">Zurück zum geteilten Bildschirm</string>  
+  <string name="click_to_return_multi_window_of_notch">Zurück zum geteilten Bildschirm</string>
   <string name="confirm_enable_oem_unlock_text">WARNUNG: Geräte-Schutz funktioniert auf dem Gerät nicht, solange diese Einstellung aktiv ist.</string>
   <string name="confirm_enable_oem_unlock_title">OEM Entsperrung erlauben?</string>
+  <string name="connected_via_network_scorer">Automatisch verbunden über %1$s</string>
+  <string name="connected_via_network_scorer_default">Automatische Verbindung über Netzwerk-Rating-Provider</string>
   <string name="connected_via_passpoint">Verbunden über %1$s</string>
   <string name="connected_via_wfa">Verbunden über Wlan Assistenten</string>
-  <string name="convert_to_fbe_warning">"Datenpartitionen in dateibasierte Verschlüsselung konvertieren. 
-!!Warnung!! Alle Ihre Daten werden gelöscht. 
-Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig. 
+  <string name="content_description_menu_button">Menü</string>
+  <string name="convert_to_fbe_warning">"Datenpartitionen in dateibasierte Verschlüsselung konvertieren.
+!!Warnung!! Alle Ihre Daten werden gelöscht.
+Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
 \"Löschen und konvertieren…\" drücken, um fortzufahren."</string>
   <string name="convert_to_file_encryption">In Datei-Verschlüsselung umwandeln</string>
   <string name="convert_to_file_encryption_done">Datei bereits verschlüsselt</string>
@@ -240,6 +261,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="debug_drawing_category">Zeichnen</string>
   <string name="debug_hw_drawing_category">Hardware beschleunigtes Rendering</string>
   <string name="debug_hw_overdraw">Debug GPU überziehen</string>
+  <string name="debug_hw_renderer">GPU Renderer einstellen</string>
   <string name="debug_input_category">Eingabe</string>
   <string name="debug_layout">Layout-Rahmen anzeigen</string>
   <string name="debug_layout_summary">Clip-Grenzen, Ränder, etc. anzeigen</string>
@@ -252,12 +274,16 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="description_image_button_answer">Annehmen</string>
   <string name="description_image_button_reject">Ablehnen</string>
   <string name="description_target_search">Suche</string>
+  <string name="dev_logpersist_clear_warning_message">Wenn nicht mehr dauerhaft mit dem Logger überwacht wird, müssen die auf Ihrem Gerät gespeicherten Logger-Daten gelöscht werden.</string>
+  <string name="dev_logpersist_clear_warning_title">Dauerhaften Protokollspeicher löschen?</string>
   <string name="dev_settings_warning_message">Die Einstellungen sind nur für Entwickler bestimmt. Damit können Ihr Gerät und Apps zerstört oder missbraucht werden.</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar</string>
   <string name="development_settings_summary">Optionen für App-Entwicklung einstellen</string>
   <string name="development_settings_title">Entwickler Optionen</string>
+  <string name="direct_boot_unaware_dialog_message">Hinweis: Nach einem Neustart kann diese App nicht gestartet werden, bis Sie Ihr Telefon entsperren</string>
+  <string name="disabled">Deaktiviert</string>
   <string name="disable_notification_summary">Zeige Benachrichtigungen von ausgewählten Apps nie</string>
   <string name="disable_notification_title">Benachrichtigungen verbergen</string>
   <string name="disable_overlays">HW overlays deaktivieren</string>
@@ -304,6 +330,9 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="ext_media_safe_unmount_notification_title">USB-Speicher kann entfernt werden</string>
   <string name="ext_media_unmountable_notification_message">USB-Speicher beschädigt. Eventuell müssen Sie neu formatieren.</string>
   <string name="ext_media_unmountable_notification_title">USB-Speicher beschädigt</string>
+  <string name="external_source_trusted">Erlaubt</string>
+  <string name="external_source_untrusted">Nicht erlaubt</string>
+  <string name="failed_to_open_app_settings_toast">Einstellungen öffnen für %1$s fehlgeschlagen</string>
   <string name="float_incall_ignore">Ignorieren</string>
   <string name="float_incall_message">Nachricht</string>
   <string name="force_allow_on_external">Appzugriff für Externe erzwingen</string>
@@ -337,16 +366,18 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="home">Startbildschirm Einstellungen</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_use_drawer">Wie man die Wischfunktion der App benutzt</string>
-  <string name="how_to_use_drawer_summary">Wischen von oben links</string>  
+  <string name="how_to_use_drawer_summary">Wischen von oben links</string>
   <string name="how_to_back_home">Wie kehren Sie zum Startbildschirm zurück?</string>
   <string name="how_to_switch_recents">Wie wechseln Sie zu den zuletzt geöffneten Apps?</string>
   <string name="how_to_use_fsg">Wie benutzen Sie die Vollbild-Gesten?</string>
+  <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Es kommt von der App %1$s. Verwenden Sie diese Eingabemethode?</string>
   <string name="immediately_destroy_activities">Aktivitäten beenden</string>
   <string name="immediately_destroy_activities_summary">Beendet jede Aktivität, sobald der Benutzer diese verlässt</string>
   <string name="important_desc">Alle wichtigen Benachrichtigungen werden direkt auf der Benachrichtigungsleiste angezeigt.</string>
   <string name="inactive_app_active_summary">Aktiv. Tippen, um umzuschalten.</string>
   <string name="inactive_app_inactive_summary">Inaktiv. Tippen, um umzuschalten.</string>
   <string name="inactive_apps_title">Inaktive Apps</string>
+  <string name="install_other_apps">Installieren unbekannter Apps</string>
   <string name="invalid_charger">"Aufladen über USB wird nicht unterstützt.
 Bitte Ladegerät benutzen."</string>
   <string name="keep_screen_on">Wach bleiben</string>
@@ -391,10 +422,9 @@ Bitte Ladegerät benutzen."</string>
   <string name="keyboard_shortcut_group_system_back">Zurück</string>
   <string name="keyboard_shortcut_group_system_home">Home</string>
   <string name="keyboard_shortcut_group_system_notifications">Benachrichtigungen</string>
-  <string name="keyboard_shortcut_group_system_recents">Letzte Apps</string>  
+  <string name="keyboard_shortcut_group_system_recents">Letzte Apps</string>
   <string name="keyboard_shortcut_group_system_shortcuts_helper">Tastenkombinationen</string>
-  <string name="keyboard_shortcut_group_system_switch_input">Eingabemethode wechseln</string>  
-
+  <string name="keyboard_shortcut_group_system_switch_input">Eingabemethode wechseln</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Anzeigen</string>
   <string name="launch_defaults_none">Keine Voreinstellungen festlegen</string>
@@ -440,6 +470,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="mock_location_app">App für vorgetäuschte Standorte auswählen</string>
   <string name="mock_location_app_not_set">Keine App für vorgetäuschte Standorte ausgewählt</string>
   <string name="mock_location_app_set">App für vorgetäuschte Orte: %1$s</string>
+  <string name="monitoring_button_view_policies">Richtlinien anzeigen</string>
   <string name="monitoring_description_ca_certificate">Auf diesem Gerät ist eine Zertifizierungsstelle installiert. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
   <string name="monitoring_description_managed_profile_ca_certificate">Ihre Organisation hat in Ihrem Arbeitsprofil eine Zertifizierung eingerichtet. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
   <string name="monitoring_description_managed_profile_named_vpn">Ihr Arbeitsprofil ist mit %1$s verbunden, das Ihre Netzwerkaktivität überwachen kann, einschließlich E-Mails, Apps und Webseiten.</string>
@@ -464,7 +495,7 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="monitoring_subtitle_network_logging">Netzwerk-Protokollierung</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
   <string name="monitoring_title">Netzwerküberwachung</string>
-  <string name="monitoring_title_device_owned">Telefonverwaltung</string>  
+  <string name="monitoring_title_device_owned">Telefonverwaltung</string>
   <string name="mount_storage">Ja</string>
   <string name="nav_guide_cancel">Ignorieren</string>
   <string name="nav_guide_message">Gesten verwenden, um Soft Buttons ein- oder auszublenden.</string>
@@ -473,10 +504,10 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="no_application">Keine Apps</string>
   <string name="no_multi_window_app">Keine Apps, die Multi-Window-Modus unterstützen</string>
   <string name="no_notification_tips">Keine Benachrichtigungen</string>
-  <string name="no_sim_card">Keine SIM-Karte</string>  
+  <string name="no_sim_card">Keine SIM-Karte</string>
   <string name="no_weather_description">Wetterinfos erhalten</string>
   <string name="not_support_multi_window">Aktuelle App unterstützt den Multi-Window-Modus nicht</string>
-  <string name="notch_status_bar_date_format_12">EEEE, d. MMMM</string>  
+  <string name="notch_status_bar_date_format_12">EEEE, d. MMMM</string>
   <string name="notification_group_overflow_indicator">+%s</string>
   <string name="notification_group_title_text">%1$s(%2$s)</string>
   <string name="notification_header_title">Benachrichtigungen</string>
@@ -513,7 +544,18 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="overlay_display_devices_title">Sekundärdsplay simulieren</string>
   <string name="picture_color_mode">Bildfarbenmodus</string>
   <string name="picture_color_mode_desc">Benutze sRGB</string>
-  <string name="please_slide_agian">Bitte weiter schieben</string>  
+  <string name="pip_menu_title">Bild-in-Bild-Menü</string>
+  <string name="pip_notification_message">Wenn Sie nicht möchten, dass %s diese Funktion verwendet, öffnen Sie Einstellungen  und deaktivieren Sie sie.</string>
+  <string name="pip_notification_title">%s ist im Bild-in-Bild</string>
+  <string name="pip_pause">Pause</string>
+  <string name="pip_phone_close">Schließen</string>
+  <string name="pip_phone_dismiss_hint">Nach unten ziehen zum Ablehnen</string>
+  <string name="pip_phone_expand">Erweitern</string>
+  <string name="pip_phone_minimize">Minimieren</string>
+  <string name="pip_play">Abspielen</string>
+  <string name="pip_skip_to_next">Zum nächsten springen</string>
+  <string name="pip_skip_to_prev">Zum vorherigen springen</string>
+  <string name="please_slide_agian">Bitte weiter schieben</string>
   <string name="pointer_location">Zeigerposition</string>
   <string name="pointer_location_summary">Bildschirm-Overlay mit aktuellen Touch-Daten</string>
   <string name="power_charging_duration">%1$s - %2$s bis es voll</string>
@@ -522,6 +564,7 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="power_charging_duration_wireless">%1$s - %2$s voll kabellos</string>
   <string name="power_discharging_duration">%1$s - ca. %2$s verstrichen</string>
   <string name="power_discharging_duration_short">%1$s - %2$s verstrichen</string>
+  <string name="power_remaining_charging_duration_only">%1$s übrig bis zur vollständigen Aufladung</string>
   <string name="power_remaining_duration_only">Ca. %1$s verstrichen</string>
   <string name="power_remaining_duration_only_short">%1$s verstrichen</string>
   <string name="prompt_danger">Risiko</string>
@@ -556,7 +599,7 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="quick_settings_wifi_detail_empty_text">Keine WLAN-Netzwerke verfügbar</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Wählen Sie ein Netzwerk in der Nähe</string>
-  <string name="recent_cannot_dock">Geteilter Bidschirm kann nicht im Zweitprofil verwendet werden</string>  
+  <string name="recent_cannot_dock">Geteilter Bidschirm kann nicht im Zweitprofil verwendet werden</string>
   <string name="recent_dock_tip">Klicken, um die Apps auszuwählen</string>
   <string name="recent_task_app_info_text">Details</string>
   <string name="recent_task_cleaning">Anwendung wird gelöscht…</string>
@@ -581,6 +624,9 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="recents_stack_action_button_label">Alles löschen</string>
   <string name="reject_call">Anruf ablehnen</string>
   <string name="remaining_length_format">%1$s verbleiben</string>
+  <string name="retail_demo_reset_message">Passwort eingeben, um im Demomodus einen Werksreset durchzuführen</string>
+  <string name="retail_demo_reset_next">Nächste</string>
+  <string name="retail_demo_reset_title">Passwort erforderlich</string>
   <string name="return_to_incall_screen">Zurück zum Anruf</string>
   <string name="running_process_item_user_label">Benutzer: %1$s</string>
   <string name="runningservices_settings_summary">Aufgeführte Dienste anzeigen und steuern</string>
@@ -616,11 +662,13 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="screenshot_saving_ticker">Bildschirmfoto wird gespeichert…</string>
   <string name="screenshot_saving_title">Bildschirmfoto wird gespeichert…</string>
   <string name="screenshot_send">Senden</string>
-  <string name="screenshot_toalbum_txt">Vorschau</string>  
+  <string name="screenshot_toalbum_txt">Vorschau</string>
   <string name="search_hint">Suche nach Webseiten, Apps, Kontakten und Videos</string>
   <string name="select_application">Apps auswählen</string>
   <string name="select_logd_size_dialog_title">Loggergrößen pro Protokollpuffer auswählen</string>
   <string name="select_logd_size_title">Logger-Puffergrößen</string>
+  <string name="select_logpersist_dialog_title">Wählen Sie die Log-Puffer aus, die dauerhaft auf dem Gerät gespeichert werden sollen</string>
+  <string name="select_logpersist_title">Loggerdaten dauerhaft auf dem Gerät speichern</string>
   <string name="select_usb_configuration_dialog_title">USB-Konfiguration auswählen</string>
   <string name="select_usb_configuration_title">USB-Konfiguration auswählen</string>
   <string name="select_webview_provider_dialog_title">WebView-Implementierung festsetzen</string>
@@ -642,6 +690,8 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="show_hw_screen_updates">GPU-View-Updates anzeigen</string>
   <string name="show_hw_screen_updates_summary">Darstellung in den Fenstern beim Zeichnen mit der GPU blinkt</string>
   <string name="show_non_rect_clip">Nicht rechteckige Clipoperationen debuggen</string>
+  <string name="show_notification_channel_warnings">Benachrichtigungskanalwarnungen anzeigen</string>
+  <string name="show_notification_channel_warnings_summary">Zeigt eine Warnung auf dem Bildschirm an, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
   <string name="show_screen_updates">Oberflächen Updates anzeigen</string>
   <string name="show_screen_updates_summary">Volle Fensterfläche beim Aktualisieren blinkt</string>
   <string name="show_touches">Berührungen anzeigen</string>
@@ -650,8 +700,8 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_accessibility_dismiss_recents">Letzte Apps entfernen</string>
   <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
-    <string name="status_bar_date_format">EEEEd. MMMM</string>
-    <string name="status_bar_date_format_12">EEEE d. MMMM</string>
+  <string name="status_bar_date_format">EEEEd. MMMM</string>
+  <string name="status_bar_date_format_12">EEEE d. MMMM</string>
   <string name="status_bar_network_flow_content">Heute: %1$s | Verbleibend: %2$s</string>
   <string name="status_bar_network_flow_exceed_content">Heute: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan überschritten: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Monatliche Grenze: %1$s   "</string>
@@ -659,7 +709,7 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="status_bar_network_flow_today">Heute: %1$s</string>
   <string name="status_bar_no_recent_apps">Keine kürzlich verwendeten Apps</string>
   <string name="status_bar_notification_inspect_item_title">Appinfo</string>
-    <string name="status_bar_recent_guide_all">"Zum Schließen hoch- und zum Sperren runterwischen"</string>
+  <string name="status_bar_recent_guide_all">"Zum Schließen hoch- und zum Sperren runterwischen"</string>
   <string name="status_bar_recent_guide_bottom">Zum Sperren runterwischen</string>
   <string name="status_bar_recent_guide_top">Zum Schließen hochwischen</string>
   <string name="status_bar_recent_inspect_item_title">App info</string>
@@ -680,6 +730,8 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="strict_mode">Strict-Modus aktiv</string>
   <string name="strict_mode_summary">Bildschirm blinkt, wenn Apps lange Operationen ausführen</string>
   <string name="task_access_locked_app_msg">Die Daten der App werden nicht angezeigt</string>
+  <string name="telephony_monitor_switch">Telefoniemonitor</string>
+  <string name="telephony_monitor_switch_summary">Telephoniemonitor sammelt Protokolle, wenn es ein Problem mit der Telefonie-/Modem-Funktionalität erkennt und fordert den Benutzer auf, einen Bug zu melden</string>
   <string name="tether_settings_title_all">Tethering &amp; portabler Hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth-Tethering</string>
   <string name="tether_settings_title_usb">USB-Tethering</string>
@@ -733,7 +785,7 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="usb_audio_disable_routing">USB-Audio-Routing deaktivieren</string>
   <string name="usb_audio_disable_routing_summary"> Automatische Routing auf USB-Audio-Peripheriegeräte deaktivieren</string>
   <string name="usb_debugging_always">Von diesem Computer immer erlauben</string>
-    <string name="usb_debugging_message">Der Computer RSA-Schlüsselfingerabdruck ist: %1$s</string>
+  <string name="usb_debugging_message">Der Computer RSA-Schlüsselfingerabdruck ist: %1$s</string>
   <string name="usb_debugging_title">USB-Debugging erlauben?</string>
   <string name="usb_device_confirm_prompt">%1$s öffnen, wenn dieses USB-Gerät angeschlossen wird?</string>
   <string name="usb_device_permission_prompt">Der App %1$s erlauben, auf das USB-Gerät zuzugreifen?</string>
@@ -759,6 +811,7 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="usb_storage_stop_notification_title">USB-Speicher beenden</string>
   <string name="usb_storage_stop_title">USB-Speicher in Verwendung</string>
   <string name="usb_storage_title">USB verbunden</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Systemsprachen verwenden</string>
   <string name="user_guest">Gast</string>
   <string name="user_guide_for_notification">Neue Benachrichtigung empfangen, zum lesen die Statusleiste herunterziehen</string>
   <string name="user_guide_for_toggle">Die Schalterliste kann auch horizontal bewegt werden</string>
@@ -778,6 +831,7 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="wifi_allow_scan_with_traffic">WLAN Scans immer erlauben </string>
   <string name="wifi_allow_scan_with_traffic_summary">Wi-Fi Roam Scans erlauben/verbieten, die auf der Menge des Datenverkehrs an der Schnittstelle basieren</string>
   <string name="wifi_connected_no_internet">Verbunden, kein Internet</string>
+  <string name="wifi_disabled_by_recommendation_provider">Nicht verbunden wegen schlechter Netzwerkqualität</string>
   <string name="wifi_disabled_generic">Deaktiviert</string>
   <string name="wifi_disabled_network_failure">IP Konfiguration fehlgeschlagen</string>
   <string name="wifi_disabled_password_failure">Autenfizierungsproblem</string>
@@ -786,7 +840,8 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="wifi_display_certification_summary">Optionen für die drahtlose Display-Zertifizierung anzeigen</string>
   <string name="wifi_fail_to_scan">Kann nicht nach Netzwerken suchen</string>
   <string name="wifi_network_prefix_length_hint">24</string>
-  <string name="wifi_no_internet">Kein Internetzugang erkannt, keine automatische Verbindung.</string>
+  <string name="wifi_no_internet">Kein Internetzugang erkannt, keine automatische Verbindung</string>
+  <string name="wifi_no_internet_no_reconnect">Keine automatische Verbindung</string>
   <string name="wifi_not_in_range">Nicht in Reichweite</string>
   <string name="wifi_remembered">Gespeichert</string>
   <string name="wifi_security_eap">802.1x EAP</string>
