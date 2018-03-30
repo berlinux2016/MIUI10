@@ -15,20 +15,19 @@
   <string name="add_picture">Bild hinzufügen</string>
   <string name="add_private_contact">Privaten Kontakt hinzufügen</string>
   <string name="add_redpackage">Rotpaket</string>
-  <string name="add_slide">Dia hinzufügen (Hinterher)</string>
-  <string name="add_slide_before">Dia hinzufügen (Vorher)</string>
-  <string name="add_slide_hint">Neues Dia hinzufügen</string>
+  <string name="add_slide">Folie hinzufügen (hinterher)</string>
+  <string name="add_slide_before">Folie hinzufügen (vorher)</string>
+  <string name="add_slide_hint">Neue Folie hinzufügen</string>
   <string name="add_smiley">Smiley</string>
   <string name="add_timing">Zeitplan</string>
   <string name="add_to_browser_favorite_failed">fehlgeschlagen</string>
   <string name="add_to_browser_favorite_success">erfolgreich</string>
   <string name="add_video">Video hinzufügen</string>
   <string name="addBlackList">Blockieren</string>
-  <string name="adding_attachments">Bitte warten während die Elemente zur Diashow hinzugefügt werden</string>
+  <string name="adding_attachments">Bitte warten, während die Elemente zur Diashow hinzugefügt werden</string>
   <string name="adding_attachments_title">Anhänge werden hinzugefügt</string>
   <string name="adding_recipients">Empfänger werden hinzugefügt…</string>
   <string name="alert_dlg_cancel_button">Abbrechen</string>
-  <string name="alert_dlg_ok_button">OK</string>
   <string name="already_followed">Sie folgen dieser Nummer bereits</string>
   <string name="app_label">SMS/MMS</string>
   <string name="app_name">Geräteverwaltung</string>
@@ -39,12 +38,13 @@
   <string name="attach_sound">Audio</string>
   <string name="attach_subject">Betreff</string>
   <string name="attach_take_photo">Bild aufnehmen</string>
+  <string name="attach_transaction">Geld senden</string>
   <string name="attach_video">Video</string>
   <string name="audio_download_failed">Audio konnte nicht heruntergeladen werden</string>
   <string name="audio_message_expired">Diese Sprachnachricht ist abgelaufen</string>
   <string name="audio_message_mx_offline">Sprachnachricht konnte nicht geladen werden. Mi Message ist offline oder nicht verfügbar.</string>
   <string name="audio_playing_seconds">%d\"</string>
-  <string name="audio_sim_card_mismatching">Es ist keine Netzwerkverbindung oder falsche SIM-Karte installiert. Installieren Sie die SIM-Karte, von der die Nachricht gesendet wurde, und stellen Sie eine Verbindung zum Netzwerk her.</string>
+  <string name="audio_sim_card_mismatching">Keine Netzwerkverbindung oder falsche SIM-Karte installiert. Installieren Sie die SIM-Karte, von der die Nachricht gesendet wurde, und stellen Sie eine Verbindung zum Netzwerk her.</string>
   <string name="back_to_message_list">Zurück zur Nachrichtenliste</string>
   <string name="batch_adding_progress_message">Wird hinzugefügt…</string>
   <string name="batch_delete_confirm_dialog_message">%1$s Nachricht(en) löschen?</string>
@@ -58,8 +58,8 @@
   <string name="bookmark_empty">Keine Favoriten</string>
   <string name="bookmark_list_title">Favoriten</string>
   <string name="call_sender">Absender anrufen</string>
-  <string name="cannot_add_picture_and_video">Zu einem Dia kann kein Video und Bild eingefügt werden</string>
-  <string name="cannot_add_slide_anymore">Es können keine weiteren Dias hinzugefügt werden</string>
+  <string name="cannot_add_picture_and_video">Video und Bild können nicht zu einer Folie hinzugefügt werden</string>
+  <string name="cannot_add_slide_anymore">Weiteren Folien können nicht hinzugefügt werden</string>
   <string name="cannot_forward_drm_obj">Das in der Nachricht enthaltene DRM-Objekt kann nicht weitergeleitet werden</string>
   <string name="cannot_get_details">Details nicht abrufbar</string>
   <string name="cannot_resend_audio">Aufnahme konnte nicht gesendet werden</string>
@@ -76,7 +76,6 @@
   <string name="cloud_state_sync_finished">Mit Mi Cloud synchronisiert</string>
   <string name="cloud_state_syncing">Synchronisiere mit Mi Cloud…</string>
   <string name="compressing">Bild zu groß. Wird komprimiert…</string>
-  <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Nummer zur Sperrliste hinzufügen?</string>
   <string name="confirm_delete_all_conversations">Alle Unterhaltungen löschen?</string>
   <string name="confirm_delete_all_SIM_messages">Alle SIM-Nachrichten löschen?</string>
@@ -93,7 +92,7 @@
   <string name="confirm_export_dialog_title">Privaten Kontakt entfernen</string>
   <string name="confirm_no_block_positive">Nicht blockieren</string>
   <string name="confirm_no_block_title">Nummer nicht blockieren und alle Nachrichten wiederherstellen?</string>
-  <string name="confirm_rate_limit">Es werden mehrere MMS versendet. Möchten Sie fortfahren?</string>
+  <string name="confirm_rate_limit">Mehrere MMS werden versendet. Möchten Sie fortfahren?</string>
   <string name="confirm_restore_all_title">Alle Nachrichten dieser Nummer wiederherstellen?</string>
   <string name="confirm_restore_checkbox">Blockierte Nachrichten wiederherstellen</string>
   <string name="confirm_restore_message">Ausgewählte Nachrichten wiederherstellen?</string>
@@ -152,14 +151,14 @@
   <string name="downloading_file_can_not_play">Warten bis die Aufnahme vollständig heruntergeladen wurde</string>
   <string name="duration_not_a_number">Dauer muss eine Zahl sein</string>
   <string name="duration_sec">Dauer (%s Sek.)</string>
-  <string name="duration_selector_title">"Dauer für Dia "</string>
+  <string name="duration_selector_title">"Dauer für Folie "</string>
   <string name="duration_zero">Dauer muss mehr als 0 Sekunden betragen</string>
   <string name="earlier">Früher</string>
   <string name="edit">Bearbeiten</string>
   <string name="edit_nickname_for_nocontact">Sie müssen zuerst einen Empfänger hinzufügen</string>
   <string name="edit_nickname_for_nocontact_by_robot">Sie müssen zuerst einen Empfänger hinzufügen</string>
   <string name="edit_phrase">Vorlage ändern</string>
-  <string name="edit_slide_activity">Dia ändern</string>
+  <string name="edit_slide_activity">Folie ändern</string>
   <string name="edit_slideshow_activity">Diashow ändern</string>
   <string name="enable_password_protect">Kennwort erforderlich</string>
   <string name="enable_visible_pattern_title">Muster anzeigen</string>
@@ -192,7 +191,6 @@
   <string name="feedback_description_hint">Hier Feedback hinterlassen</string>
   <string name="feedback_submit">Senden</string>
   <string name="festival">Vorlagen</string>
-  <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">Diese Funktion benötigt eine Internetverbindung</string>
   <string name="festival_networking_title">Hinweis</string>
   <string name="festival_never_remind">Nicht mehr anzeigen</string>
@@ -243,7 +241,6 @@
   <string name="hybrid_pull_to_refresh_release_label">Zum Aktualisieren loslassen…</string>
   <string name="hybrid_service_unavailiable">Service nicht verfügbar</string>
   <string name="hybrid_try_again">Erneut versuchen</string>
-  <string name="i_know">OK</string>
   <string name="importing_progress_private_message">Importiere Nachrichten…</string>
   <string name="in_sms">Nachricht</string>
   <string name="insufficient_drm_rights">Nicht ausreichende DRM-Rechte vorhanden</string>
@@ -319,7 +316,7 @@
   <string name="msglist_release_to_more">Um mehr anzuzeigen, loslassen</string>
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">MMS-Benachrichtigung</string>
-  <string name="mx_activate_allow_notice">Es fallen möglicherweise Kosten für eine Aktivierungs-SMS bei Ihrem Betreiber an, um diesen Service zu aktivieren.</string>
+  <string name="mx_activate_allow_notice">Möglicherweise fallen Kosten für eine Aktivierungs-SMS bei Ihrem Betreiber an, um diesen Service zu aktivieren.</string>
   <string name="mx_activate_dlg_title">Mi Message aktivieren</string>
   <string name="mx_activate_dlg_title_ex">Mi Message &amp; Sprache aktivieren</string>
   <string name="mx_activate_error_malformed_info">Mi Message muss reaktiviert werden</string>
@@ -406,7 +403,7 @@
   <string name="over_max_mms_size">MMS ist zu groß</string>
   <string name="overwrite_edited_content">Geänderter Inhalt wird überschrieben</string>
   <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
-  <string name="phrase_confirm_delete_message">Die gewählte Vorlage wird gelöscht</string>
+  <string name="phrase_confirm_delete_message">Gewählte Vorlage wird gelöscht</string>
   <string name="phrase_empty">Keine Vorlagen</string>
   <string name="phrase_from">Von %1s</string>
   <string name="phrase_list_title">Vorlagen</string>
@@ -438,12 +435,12 @@
   <string name="pref_sms_storage_title">Speicher</string>
   <string name="pref_sms_theme_title">Thema</string>
   <string name="pref_summary_allow_si_sl_push">Zulassen von Nachrichten, um Inhalte von Webseiten zu laden</string>
-  <string name="pref_summary_allow_upload_message_info">Spam-Nachrichten und Absenderinformationen werden nach der Meldung an MIUI gesendet.</string>  
+  <string name="pref_summary_allow_upload_message_info">Spam-Nachrichten und Absenderinformationen werden nach der Meldung an MIUI gesendet.</string>
   <string name="pref_summary_auto_delete">Alte Nachrichten beim Erreichen des Grenzwertes löschen</string>
   <string name="pref_summary_delete_limit">%1$s Nachrichten pro Unterhaltung</string>
   <string name="pref_summary_delivery_reports">Sendebestätigung für jede gesendete Nachricht anfordern</string>
   <string name="pref_summary_delivery_ringtone">Benachrichtigungston bei Sendebestätigung</string>
-  <string name="pref_summary_hide_festival">Es wird empfohlen Tab für Nichtchinesische Sprachen ausblenden</string>
+  <string name="pref_summary_hide_festival">Tab ausblenden empfohlen für Nichtchinesische Sprachen</string>
   <string name="pref_summary_manage_sim_messages">Nachrichten auf der SIM-Karte verwalten</string>
   <string name="pref_summary_mms_auto_retrieval">Fotos und Videos in Nachrichten automatisch herunterladen</string>
   <string name="pref_summary_mms_read_reports">Zeigen Sie Benachrichtigung in der Unterhaltungsansicht an, wenn der Empfänger MMS-Inhalte heruntergeladen hat</string>
@@ -462,7 +459,7 @@
   <string name="pref_time_auto_group_title">Gruppierte Nachrichten</string>
   <string name="pref_title_about_smart_sms">Über Smartnachrichten-Partner</string>
   <string name="pref_title_allow_si_sl_push">WAP-Pushmitteilungen erlauben (SI/SL)</string>
-  <string name="pref_title_allow_upload_message_info">Spam-Nachrichten hochladen</string> 
+  <string name="pref_title_allow_upload_message_info">Spam-Nachrichten hochladen</string>
   <string name="pref_title_auto_delete">Alte Nachrichten löschen</string>
   <string name="pref_title_card_format">Kartenteilformat</string>
   <string name="pref_title_delivery_reports">Sendebestätigung</string>
@@ -489,7 +486,6 @@
   <string name="pref_title_system_mms_priority">Als Standard setzen</string>
   <string name="pref_title_vcard">Senden per vCard</string>
   <string name="pref_title_wake_up_screen">Bildschirm einschalten</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
   <string name="preferences_title">Einstellungen</string>
   <string name="prepare_send">Senden wird vorbereitet…</string>
   <string name="press_recording">Drücken &amp; halten Sie das Mikrosymbol um aufzunehmen</string>
@@ -515,7 +511,6 @@
   <string name="processing">Verarbeitung…</string>
   <string name="prvate_contact">Private Kontakte</string>
   <string name="quick_reply">Schnellantwort</string>
-  <string name="rate_limit_surpassed">OK</string>
   <string name="received_at_time">Empfangen um: %1s</string>
   <string name="received_label">"Empfangen: "</string>
   <string name="recipient_label">"Empfänger: "</string>
@@ -531,7 +526,7 @@
   <string name="remove">Entfernen</string>
   <string name="remove_music">Musik entfernen</string>
   <string name="remove_picture">Bild entfernen</string>
-  <string name="remove_slide">Dia entfernen</string>
+  <string name="remove_slide">Folie entfernen</string>
   <string name="remove_text">Text entfernen</string>
   <string name="remove_video">Video entfernen</string>
   <string name="replace">Ersetzen</string>
@@ -579,9 +574,10 @@
   <string name="select_link_title">Aktion auswählen</string>
   <string name="select_local_audio">Audio auswählen</string>
   <string name="select_local_video">Video auswählen</string>
-  <string name="select_message_send_sim">SIM-Karte wählen</string>
+  <string name="select_message_send_sim">SIM-Karte auswählen</string>
+  <string name="select_phone_number">Telefonnummer auswählen</string>
   <string name="select_recipient">Empfänger auswählen</string>
-  <string name="select_sim">SIM-Karte wählen</string>
+  <string name="select_sim">SIM-Karte auswählen</string>
   <string name="select_top_text">Text oben</string>
   <string name="send">Senden</string>
   <string name="send_hms_editor_hints">Mi Nachricht</string>
@@ -617,7 +613,7 @@
   <string name="sim_full_title">SIM-Karte ist voll</string>
   <string name="sim_manage_messages_title">Nachrichten auf SIM-Karte</string>
   <string name="sim_view">Anzeigen</string>
-  <string name="slide_number">Dia %d</string>
+  <string name="slide_number">Folie %d</string>
   <string name="slide_show_part">Teil %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Zum Abbrechen nach oben wischen</string>
   <string name="slideshow_activity">Diashow</string>
@@ -628,7 +624,7 @@
   <string name="sms_full_title">SMS-Speicher voll</string>
   <string name="sms_rejected_body">Eine eingehende Nachricht wurde aus unbekanntem Grund zurückgewiesen</string>
   <string name="sms_rejected_title">SMS abgelehnt</string>
-  <string name="sms_report">Spam-Nachricht melden</string> 
+  <string name="sms_report">Spam-Nachricht melden</string>
   <string name="sms_report_dialog_content">Bericht konnte nicht gesendet werden, versuchen Sie es noch einmal.</string>
   <string name="sms_report_dialog_retry">Erneut versuchen</string>
   <string name="sms_report_dialog_title">Erneut versuchen</string>
@@ -637,7 +633,7 @@
   <string name="snippet_audio">[Audio]</string>
   <string name="snippet_picture">[Bild]</string>
   <string name="snippet_red_package">[Rot-Paket]</string>
-  <string name="snippet_timed">[Zeitgesteuert]</string>  
+  <string name="snippet_timed">[Zeitgesteuert]</string>
   <string name="sp_category_all">Alle Dienstnachrichten</string>
   <string name="sp_category_bank">Bankdienstnachrichten</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -699,12 +695,12 @@
   <string name="to_send_wrapper">Wird um %s gesendet</string>
   <string name="toast_description_required">Sie können keine leere Nachricht senden</string>
   <string name="toast_feedback_finish">Ihre Meldung wird automatisch gesendet, sobald Sie mit dem WLAN verbunden sind</string>
-  <string name="toast_feedback_max">Es können maximal 3 Meldungen pro Tag versendet werden</string>
+  <string name="toast_feedback_max">Maximal 3 Meldungen pro Tag können versendet werden</string>
   <string name="toast_feedback_start">Logdaten werden abgerufen…</string>
   <string name="today">Heute</string>
   <string name="too_many_attachments">Maximal %1$s Anhänge erlaubt. Nur die ersten %2$s werden hinzugefügt.</string>
   <string name="too_many_recipients">Nachricht hat zu viele Empfänger (%1$s). Die Anzahl der Empfänger ist auf %2$s begrenzt.</string>
-  <string name="too_many_unsent_mms">Nachricht kann momentan nicht gesendet werden. Es sind zu viele ungesendete MMS vorhanden.</string>
+  <string name="too_many_unsent_mms">Nachricht kann momentan nicht gesendet werden, zu viele ungesendete MMS vorhanden.</string>
   <string name="try_to_send">Sendeversuch starten</string>
   <string name="type_attachment">Anhang</string>
   <string name="type_audio">Audio</string>
@@ -713,10 +709,8 @@
   <string name="type_to_compose_text_or_leave_blank">Nachricht eingeben oder leer lassen</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">Video</string>
-  <string name="undelivered_msg_dialog_body">
-    "Nachricht konnte nicht gesendet werden.
-    Bisherige Versuche: %s."
-  </string>
+  <string name="undelivered_msg_dialog_body">"Nachricht konnte nicht gesendet werden.
+Bisherige Versuche: %s."</string>
   <string name="undelivered_msg_dialog_title">Nicht zugestellte Nachricht</string>
   <string name="undelivered_sms_dialog_body">Nachricht konnte nicht gesendet werden</string>
   <string name="unknown_num">Unbekannte Nummer</string>
@@ -726,19 +720,13 @@
   <string name="unsticked_conversation">Aktuelle Unterhaltung wurde gelöst</string>
   <string name="unsupported_media_format">Format %1$s wird nicht unterstützt</string>
   <string name="url_fraud_alert">Die Webseite, die Sie besuchen möchten %s könnte eine betrügerische Seite sein, wollen Sie wirklich fortfahren?</string>
-  <string name="url_fraud_dangerous_alert">
-    "Die Webseite, die Sie besuchen möchten ist unsicher, wollen Sie wirklich fortfahren?
-    %s"
-  </string>
+  <string name="url_fraud_dangerous_alert">"Die Webseite, die Sie besuchen möchten ist unsicher, wollen Sie wirklich fortfahren?
+%s"</string>
   <string name="url_fraud_insurance">Betrugsverdacht</string>
-  <string name="url_fraud_risky_alert">
-    "Die Webseite, die Sie besuchen möchten ist unsicher. Trotzdem fortfahren?
-    %s"
-  </string>
+  <string name="url_fraud_risky_alert">"Die Webseite, die Sie besuchen möchten ist unsicher. Trotzdem fortfahren?
+%s"</string>
   <string name="url_fraud_title">Betrugsverdacht</string>
-  <string name="url_fraud_visit">
-    <u>Trotzdem fortfahren</u>
-  </string>
+  <string name="url_fraud_visit"><u>Trotzdem fortfahren</u></string>
   <string name="url_result_safe">Diese URL ist sicher</string>
   <string name="url_scanning">URL wird überprüft…</string>
   <string name="user_agreement1">Lesen Sie den Abschnitt sorgfältig, bevor Sie weitere Software installieren oder dieses Produkt benutzen.</string>
@@ -746,7 +734,6 @@
   <string name="user_agreement3">" und "</string>
   <string name="user_agreement4">Datenschutzbestimmungen</string>
   <string name="user_agreement5">Wenn Sie auf OK tippen, akzeptieren Sie unsere Nutzungsbedingungen und Datenschutzbestimmungen.</string>
-  <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Bestätigungscodes</string>
   <string name="view">Anzeigen</string>
   <string name="view_bookmark">Originalnachricht anzeigen</string>
@@ -759,6 +746,5 @@
   <string name="wild_msg_title">Wählen Sie die Telefonnummern für die Synchronisierung</string>
   <string name="xiaomi_service_number">Servicenummer</string>
   <string name="yellowpage_recommend_msg">Probieren Sie die MIUI SMS-Funktionen</string>
-  <string name="yes">OK</string>
   <string name="yesterday">Gestern</string>
 </resources>
