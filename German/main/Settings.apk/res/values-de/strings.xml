@@ -783,8 +783,6 @@ Sie verlieren keine Appdaten."</string>
   <string name="bluetooth_pb_remember_choice">Nicht mehr fragen</string>
   <string name="bluetooth_permission_request">Bluetoothberechtigungsanfrage</string>
   <string name="bluetooth_phonebook_request">Anforderung für Telefonbuchzugriff</string>
-  <string name="bluetooth_pin_values_hint">In der Regel 0000 oder 1234</string>
-  <string name="bluetooth_pin_values_hint_16_digits">Es müssen 16 Ziffern sein</string>
   <string name="bluetooth_preference_connected_devices">Verbundene Geräte</string>
   <string name="bluetooth_preference_device_settings">Geräteeinstellungen</string>
   <string name="bluetooth_preference_found_devices">Verfügbar</string>
@@ -1061,7 +1059,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="clear_user_data_text">Daten löschen</string>
   <string name="click_to_view">Zum Anzeigen antippen</string>
   <string name="close_app">App schließen</string>
-  <string name="close_demo_mode">Beenden</string>  
+  <string name="close_demo_mode">Beenden</string>
   <string name="close_dialog">OK</string>
   <string name="close_gesture">Mit Geste schließen</string>
   <string name="close_install_and_connect">Nein, danke</string>
@@ -2072,7 +2070,7 @@ werden gefangen genommen, die Vogelscheuche und der Blechmann werden von den Gef
   <string name="frequently_fragment_delete">Löschen</string>
   <string name="frequently_fragment_tempty">Oft genutzte Inhalte werden hier aufgelistet</string>
   <string name="fsg_mistake_touch_summary">In einigen Szenen, wie z.B. bei Vollbild-Spielen und -Videos, müssen Gesten doppelt gewischt werden, um wirksam zu werden.</string>
-  <string name="fsg_mistake_touch_title">Doppelkontrolle der Gesten</string>  
+  <string name="fsg_mistake_touch_title">Doppelkontrolle der Gesten</string>
   <string name="full_transparent_smarrcover_title">Transparente Frontabdeckung</string>
   <string name="fullbackup_data_summary">"Gerätedaten (wie WLAN Passwörter und Gesprächsverlauf) und Appdaten (wie Einstellungen und von Apps gespeicherte Dateien) automatisch sichern.
 Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten periodisch in der Cloud gespeichert. Dies können beliebige Daten, auch persönliche Daten wie Kontakte, Nachrichten und Fotos sein."</string>
@@ -2249,7 +2247,6 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="internal_storage">Systemspeicher</string>
   <string name="internal_storage_sentence">Interner Speicher</string>
   <string name="invalid_location">Installationspfad ungültig</string>
-  <string name="invalid_size_value">Paketgröße konnte nicht berechnet werden</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="isv_settings_title">Intel Smart Video</string>
   <string name="item_system_app">System Apps</string>
@@ -2657,7 +2654,7 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="lockscreen_glogin_submit_button">Anmelden</string>
   <string name="lockscreen_magazine">Hintergrundbildkarussell</string>
   <string name="lockscreen_magazine_title">Hintergrundbildkarussell</string>
-  <string name="lockscreen_magazine_summary">Hochwertiges Hintergrundbildkarussell</string>  
+  <string name="lockscreen_magazine_summary">Hochwertiges Hintergrundbildkarussell</string>
   <string name="lockscreen_remote_input">Verhindert das Senden von Antworten oder anderem Text in Benachrichtigungen, wenn das Gerät gesperrt ist</string>
   <string name="login_account_dialog_message">Melden Sie sich an Ihrem Mi Konto an und schalten Sie die Synchronisation mit Mi Cloud ein</string>
   <string name="login_account_dialog_title">Melden Sie sich an Ihrem Mi Konto an</string>
@@ -2799,7 +2796,6 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="memory_media_usage">Medien</string>
   <string name="memory_music_usage">Audio (Musik, Klingeltöne, Podcasts, usw.)</string>
   <string name="memory_performance">Leistung</string>
-  <string name="memory_rightvalue">Gesamt: %s</string>
   <string name="memory_settings_title">Speicher</string>
   <string name="memory_size">Gesamtspeicher</string>
   <string name="memory_summary">"Im 'Ø' %1$s von %2$s Speicher verwendet"</string>
@@ -3039,8 +3035,8 @@ Betriebssystem auswählen:"</string>
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Jugend Edition</string>
-  <string name="music_dirac_mode_reduction_noise">Mi Rauschunterdrückung (TypeC)</string>  
-  <string name="music_dirac_mode_cancelling">Mi Rauschunterdrückung (3.5mm Klinke)</string>  
+  <string name="music_dirac_mode_reduction_noise">Mi Rauschunterdrückung (TypeC)</string>
+  <string name="music_dirac_mode_cancelling">Mi Rauschunterdrückung (3.5mm Klinke)</string>
   <string name="music_dolby_dialogue_enhancer">Dialog Enhancer</string>
   <string name="music_dolby_effects">Dolby-Effekte</string>
   <string name="music_dolby_eq_enter_alert_msg">Sie können den Equalizer nur im Dolby-Musikmodus verwenden, jetzt aktivieren?</string>
@@ -3086,12 +3082,12 @@ Betriebssystem auswählen:"</string>
   <string name="music_title_dolby_control">Dolby-Digital Plus</string>
   <string name="music_unsupport_effect_summary">USB-Kopfhörer werden nicht unterstützt</string>
   <string name="musicfx_title">Musikeffekte</string>
-  <string name="mute_music_stream">Musik-Stream stumm schalten</string>  
+  <string name="mute_music_stream">Musik-Stream stumm schalten</string>
   <string name="mvno_match_data">MVNO-Wert</string>
   <string name="mvno_type">MVNO-Typ</string>
   <string name="my_device">Mein Gerät</string>
   <string name="my_device_disclaimer">Hinweis: Hardwareinformationen, inkl. CPU, Akkukapazität, Bildschirmgröße und -auflösung sowie Kameras werden von Xiaomi Labs, Designern und Zulieferern zur Verfügung gestellt</string>
-  <string name="navigation_guide_app_summary">Im oberen Bereich von links oder rechts wischen</string>  
+  <string name="navigation_guide_app_summary">Im oberen Bereich von links oder rechts wischen</string>
   <string name="navigation_guide_app_title">App-Aktion auslösen</string>
   <string name="navigation_guide_back_anim_summary">Zurückgestenanimation einschalten</string>
   <string name="navigation_guide_back_anim_title">Gestenanimation</string>
@@ -3106,10 +3102,10 @@ Betriebssystem auswählen:"</string>
   <string name="navigation_guide_home_title">Zurück zum Startbildschirm</string>
   <string name="navigation_guide_recent_summary">Wischen Sie von unten nach oben, halten und etwas warten, dann loslassen</string>
   <string name="navigation_guide_recent_title">Wechseln Sie zu den zuletzt geöffneten Apps</string>
-  <string name="navigation_guide_settings">Einzelne Gesten lernen</string>  
+  <string name="navigation_guide_settings">Einzelne Gesten lernen</string>
   <string name="navigation_type_radio_text_full_screen">Vollbild-Gesten</string>
   <string name="navigation_type_radio_text_virtual_key">Klassische Navigationsleiste</string>
-  <string name="navigation_type_settings">System Navigationseinstellungen</string>  
+  <string name="navigation_type_settings">System Navigationseinstellungen</string>
   <string name="n_cacrts">%d CA-Zertifikate</string>
   <string name="nearby_wifi">Verfügbare Netzwerke</string>
   <string name="need_reboot_now">Um die Aktualisierung abzuschließen, ist ein Neustart erforderlich</string>
@@ -3176,7 +3172,7 @@ Betriebssystem auswählen:"</string>
   <string name="night_light_brightness">Nachtlichthelligkeit</string>
   <string name="night_light_color">Nachtlichtfarbe</string>
   <string name="night_light_color_tip">Änderungen werden wirksam, wenn der Lesemodus ausgeschaltet ist</string>
-  <string name="night_light_summary">Minimieren Sie die Hintergrundbeleuchtung bei schlechten Lichtverhältnissen, um in den Nachtlichtmodus zu gelangen.</string>  
+  <string name="night_light_summary">Minimieren Sie die Hintergrundbeleuchtung bei schlechten Lichtverhältnissen, um in den Nachtlichtmodus zu gelangen.</string>
   <string name="night_light_tip">Änderungen werden wirksam, wenn der Nachtmodus eingeschaltet ist</string>
   <string name="night_mode_auto">Automatisch</string>
   <string name="night_mode_no">Hell</string>
@@ -3338,9 +3334,9 @@ Betriebssystem auswählen:"</string>
   <string name="only_one_home_message">Launchereinstellungen werden ausgeblendet, bis Sie einen anderen Launcher installieren</string>
   <string name="only_when_charging">Nur während des Ladevorgangs</string>
   <string name="onscreen_keyboard_settings_summary">Einstellungen der Bildschirmtastatur</string>
-  <string name="open_anr_debug">ARN Debugging aktivieren</string>  
+  <string name="open_anr_debug">ARN Debugging aktivieren</string>
   <string name="open_demo_mode">Starten</string>
-  <string name="open_demo_mode_warning_message">Wenn der Demo-Modus eingeschaltet ist, stoppt die Uhr in der Statusleiste, Batterie- und Signalsymbole werden als voll angezeigt. Sie können den Demo-Modus ausschalten oder das Gerät neu starten, um dies zu ändern.</string>  
+  <string name="open_demo_mode_warning_message">Wenn der Demo-Modus eingeschaltet ist, stoppt die Uhr in der Statusleiste, Batterie- und Signalsymbole werden als voll angezeigt. Sie können den Demo-Modus ausschalten oder das Gerät neu starten, um dies zu ändern.</string>
   <string name="open_miui_optimization_title">MIUI-Optimierung einschalten</string>
   <string name="open_miui_optimization_warning_message">Ihr Gerät wird neu gestartet, um diese Änderungen zu übernehmen</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Abbrechen</string>
@@ -3792,9 +3788,9 @@ Betriebssystem auswählen:"</string>
   <string name="priority_storage_app_settings">Benutzerdaten speichern unter %1$s</string>
   <string name="priority_storage_settings_summary">Wenn keine SD-Karte vorhanden ist, werden die Benutzerdaten automatisch im internen Speicher des Gerätes gespeichert</string>
   <string name="priority_storage_summary">Standardverzeichnis zum Speichern der Daten auswählen</string>
-  <string name="priority_storage_title">Speichereinstellungen</string>  
+  <string name="priority_storage_title">Speichereinstellungen</string>
   <string name="privacy_applock">Appsperre</string>
-  <string name="privacy_authorize_cloud_msg">Um die Sicherheit Ihres Kontos zu gewährleisten, melden Sie sich bei i.mi.com an, wenn Sie die Autorisierung für Mi Cloud-Dienste (einschließlich Synchronisation und Backups) widerrufen möchten.</string>  
+  <string name="privacy_authorize_cloud_msg">Um die Sicherheit Ihres Kontos zu gewährleisten, melden Sie sich bei i.mi.com an, wenn Sie die Autorisierung für Mi Cloud-Dienste (einschließlich Synchronisation und Backups) widerrufen möchten.</string>
   <string name="privacy_authorize_dialog_agree">Zustimmen</string>
   <string name="privacy_authorize_dialog_exit">Beenden</string>
   <string name="privacy_authorize_dialog_message">%1$s setzt voraus, dass Sie %2$s lesen und akzeptieren. Die App muss sich mit dem Netzwerk verbinden, um normal zu funktionieren. Einverstanden?</string>
@@ -3913,7 +3909,7 @@ Betriebssystem auswählen:"</string>
   <string name="prompt_sending">Hochladen…</string>
   <string name="prompt_writing">Speichern…</string>
   <string name="provider_label">Pushabos</string>
-  <string name="provision_activation">Aktiv</string>  
+  <string name="provision_activation">Aktiv</string>
   <string name="provision_back">Zurück</string>
   <string name="provision_next">Weiter</string>
   <string name="provision_page_layout_confirm_message">Um die Änderungen zu aktivieren, muss das Telefon neu gestartet werden. Dieser Vorgang dauert ungefähr 1 Minute.</string>
@@ -4698,7 +4694,7 @@ Betriebssystem auswählen:"</string>
   <string name="settings_manual_activity_title">Handbuch</string>
   <string name="settings_manual_activity_unavailable">Es gibt ein Problem beim Laden des Handbuchs</string>
   <string name="settings_notify_need_backup">Sichern Sie Ihre Einstellungen in Mi Cloud, um nach dem Telefonwechsel auf sie zugreifen zu können.</string>
-  <string name="settings_notify_phone_recycled">Die registrierte Telefonnummer wurde bereits wiederverwendet. Tippen Sie, um eine weitere Telefonnummer hinzuzufügen.</string>  
+  <string name="settings_notify_phone_recycled">Die registrierte Telefonnummer wurde bereits wiederverwendet. Tippen Sie, um eine weitere Telefonnummer hinzuzufügen.</string>
   <string name="settings_safetylegal_activity_loading">Wird geladen…</string>
   <string name="settings_safetylegal_activity_title">Sicherheitsinformationen</string>
   <string name="settings_safetylegal_activity_unreachable">Es ist keine Datenverbindung vorhanden. Rufen Sie %s von einem beliebigen, mit dem Internet verbundenen Computer auf, um diese Informationen jetzt anzuzeigen.</string>
@@ -5171,7 +5167,7 @@ Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string
   <string name="suggested_lock_settings_title">Bildschirmsperre</string>
   <string name="suggestion_additional_fingerprints">Einen weiteren Fingerabdruck hinzufügen</string>
   <string name="suggestion_additional_fingerprints_summary">Mit einem anderen Finger entsperren</string>
-  <string name="suggestion_for_phone_recycled">Hinzufügen einer anderen Telefonnummer</string>  
+  <string name="suggestion_for_phone_recycled">Hinzufügen einer anderen Telefonnummer</string>
   <string name="suggestion_remove">Entfernen</string>
   <string name="suggestions_title">Vorschläge (%1$d)</string>
   <string name="sum_carrier_select">Netzbetreiber auswählen</string>
@@ -5231,7 +5227,7 @@ Mit dieser Google-Funktion können Sie Ihre Daten synchronisieren, um von übera
   <string name="system_backup_section_title">Sicherungen</string>
   <string name="system_default_app">(Systemstandardeinstellung)</string>
   <string name="system_package">Systemupdates können nicht auf externen Datenträgern installiert werden</string>
-  <string name="system_shortcut_wake">Aufwachen mit Tastenkombinationen</string>  
+  <string name="system_shortcut_wake">Aufwachen mit Tastenkombinationen</string>
   <string name="system_storage">Systemspeicher</string>
   <string name="system_ui_settings">SystemUI-Tuner anzeigen</string>
   <string name="system_update_settings_list_item_title">Systemupdates</string>
@@ -5282,12 +5278,11 @@ Mit dieser Google-Funktion können Sie Ihre Daten synchronisieren, um von übera
   <string name="tether_devices_management_title">Geräte verwalten</string>
   <string name="tether_devices_max_number">Begrenzung der verbundenen Geräte</string>
   <string name="tether_limit_dialog_title">Mobiles Datenlimit</string>
-  <string name="tether_limit_value_custom">Benutzerdefiniert</string>
   <string name="tether_over_limit_dialog_cancle_btn">Hotspot zurücksetzen</string>
   <string name="tether_over_limit_dialog_message">Sie haben das Limit für mobile Hotspot-Daten erreicht.</string>
   <string name="tether_over_limit_dialog_title">Datennutzungswarnung</string>
   <string name="tether_over_limit_warning_notify_message">Mobilen Hotspot ausschalten</string>
-  <string name="tether_over_limit_warning_notify_title">Hotspot-Datenlimit erreicht</string>  
+  <string name="tether_over_limit_warning_notify_title">Hotspot-Datenlimit erreicht</string>
   <string name="tether_settings_disabled">Persönlicher Hotspot ist deaktiviert</string>
   <string name="tether_settings_disabled_on_data_saver">Tethering oder Verwendung von mobilen Hotspots nicht möglich, während der Datensparmodus aktiviert ist</string>
   <string name="tether_settings_launch_title">Mobiler Hotspot</string>
@@ -5328,7 +5323,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="title_font_current2">Systemschriftart</string>
   <string name="title_font_size">Schriftgröße</string>
   <string name="title_hdmi_color_calibration">Farbkorrekturvoreinstellung</string>
-  <string name="title_jeejen">Jeejen Startbildschirm</string>  
+  <string name="title_jeejen">Jeejen Startbildschirm</string>
   <string name="title_layout_current">Textgröße</string>
   <string name="title_layout_current2">Textgröße</string>
   <string name="title_local_resource">Lokale Quellen</string>
@@ -5562,7 +5557,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Profilschutz wird ohne Ihre PIN nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden.</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Profilschutz wird ohne Ihre PIN nicht funktionieren</string>
   <string name="unlock_disable_frp_warning_content_profile">Profilschutzfunktionen funktionieren nicht ohne Ihr Passwort</string>
-  <string name="unlock_set_unlock_password_none">None</string>  
+  <string name="unlock_set_unlock_password_none">None</string>
   <string name="unlock_disable_frp_warning_content_unknown">Geräteschutz funktioniert nicht ohne eine Bildschirmsperre</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Geräteschutz wird ohne eine Bildschirmsperre nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Profilschutz wird ohne Ihre Bildschirmsperre nicht funktionieren. Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden.</string>
@@ -5871,7 +5866,7 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="vision_settings_description">Sie können dieses Gerät an Ihre Bedürfnisse anpassen. Diese Eingabehilfen können später in Einstellungen geändert werden.</string>
   <string name="vision_settings_title">Visioneinstellungen</string>
   <string name="voice_category">Sprache</string>
-  <string name="voice_helper_title">Sprachassistent</string>  
+  <string name="voice_helper_title">Sprachassistent</string>
   <string name="voice_input_output_settings">Spracheingabe &amp; -ausgabe</string>
   <string name="voice_input_output_settings_title">Spracheingabe- &amp; -ausgabeeinstellungen</string>
   <string name="voice_input_settings">Spracheingabeeinstellungen</string>
@@ -5969,8 +5964,6 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="wait_for_debugger_summary">App wartet vor Ausführung auf den Start des Debuggers</string>
   <string name="wakeup_for_keyguard_notification_title">Bei Benachrichtigungen Bildschirmbeleuchtung einschalten</string>
   <string name="wallpaper_attributions">Hintergründe</string>
-  <string name="wallpaper_attributions_values">"Satellitenbildanbieter:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Desktop</string>
   <string name="wallpaper_live">Livehintergrund</string>
   <string name="wallpaper_lockscreen">Sperrbildschirm</string>
