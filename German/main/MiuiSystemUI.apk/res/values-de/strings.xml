@@ -182,16 +182,18 @@
   <string name="bluetooth_profile_sap">SIM Zugriff</string>
   <string name="bluetooth_sap_profile_summary_connected">Verbunden mit SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Für SIM Zugriff verweden</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits pro Abtastwert</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Bluetooth Audio Codec wählen:
-Bits Per Sample"</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth-Audiokanalmodus</string>
+Bits pro Abtastwert"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth Audio Kanalmodus</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Bluetooth Audio Codec wählen:
 Kanalmodus"</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Playback-Qualität</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Wiedergabequalität</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth Audio LDAC Codec wählen:
-Playback-Qualität"</string>
+Wiedergabequalität"</string>
+<string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Abtastrate</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth Audio Codec wählen:
-Sample Rate"</string>
+Abtastrate"</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Bluetooth Audio Codec wählen</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP Version wählen</string>
   <string name="bluetooth_tethered">Bluetooth-Internetfreigabe</string>
@@ -755,18 +757,18 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="tts_default_rate_title">Sprechtempo</string>
   <string name="tts_default_sample_string">Dies ist ein Beispiel für die Sprachsynthese</string>
   <string name="tts_engine_network_required">Diese Sprache erfordert eine funktionierende Netzwerkverbindung für die Text-zu-Sprache-Ausgabe.</string>
-  <string name="tts_engine_preference_section_title">Bevorzugte Engine</string>
+  <string name="tts_engine_preference_section_title">Bevorzugtes Modul</string>
   <string name="tts_engine_security_warning">Diese Sprachsynthese-Engine kann in der Lage sein, alle Texte zu sammeln die gesprochen werden, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Es kommt aus der %s Engine. Die Verwendung dieser Sprachsynthese-Engine aktivieren?</string>
-  <string name="tts_engine_settings_button">Engine-Einstellungen starten</string>
+  <string name="tts_engine_settings_button">Moduleinstellungen starten</string>
   <string name="tts_engine_settings_title">Einstellungen für %s</string>
   <string name="tts_general_section_title">Allgemein</string>
-  <string name="tts_install_data_summary">Installieren Sie die für die Sprachsynthese benötigten Sprachdaten</string>
+  <string name="tts_install_data_summary">Erforderliche Sprachdaten für Sprachsynthese installieren</string>
   <string name="tts_install_data_title">Sprachdaten installieren</string>
   <string name="tts_lang_not_selected">Sprache nicht ausgewählt</string>
   <string name="tts_lang_use_system">Systemsprache verwenden</string>
   <string name="tts_play_example_summary">Eine kurze Demonstration der Sprachsynthese abspielen</string>
   <string name="tts_play_example_title">Ein Beispiel hören</string>
-  <string name="tts_reset_speech_pitch_summary">Tonhöhe wird auf Standard zurückgesetzt.</string>
+  <string name="tts_reset_speech_pitch_summary">Tonhöhe, in der der Text gesprochen wird, auf Standardeinstellung zurücksetzen</string>
   <string name="tts_reset_speech_pitch_title">Sprachhöhe zurücksetzen</string>
   <string name="tts_settings">Text-zu-Sprache Einstellungen</string>
   <string name="tts_settings_title">Text-zu-Sprache Ausgabe</string>

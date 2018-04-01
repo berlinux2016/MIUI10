@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="default_folder_name">Ordner nicht benannt</string>
-  <string name="note_description_content">Die Notiz-App ist ein großartiges Tool, um Ihre Ideen zu notieren. Sie kann Sie erinnern und synchronisiert Ihre Notizen in die MI Cloud. Somit haben Sie von jedem Gerät und jederzeit Zugriff auf Ihre Notizen. Stellen Sie sicher, das Sie ohne diese Funktionen weiterarbeiten können, bevor Sie die App löschen.</string>
-  <string name="note_description_title">Über Notizen</string>
-  <string name="refuse_to_share_as_pic_because_of_content">Diese Notiz ist zu groß zum Teilen</string>
-  <string name="sns_content_default">Foto teilen</string>
   <string name="action_folder_description">Ordner anzeigen</string>
   <string name="action_mode_switcher_grid_description">Rasteransicht</string>
   <string name="action_mode_switcher_list_description">Listenansicht</string>
@@ -36,11 +31,13 @@
   <string name="call_record_folder_name">Anrufnotizen</string>
   <string name="cancel_alarm_description">Alarm beenden</string>
   <string name="cloud_trash_bin_title">Notizen auf Mi Cloud löschen</string>
-  <string name="cloud_service_state_open_reminder">Aktivieren Sie die Synchronisation mit Mi-Cloud, um Notizen zu synchronisieren</string>  
+  <string name="cloud_service_state_open_reminder">Aktivieren Sie die Synchronisation mit Mi-Cloud, um Notizen zu synchronisieren</string>
   <string name="cta_reminder">Diese App muss eine Verbindung zum Internet herstellen, um Notizen auf Mi Cloud zu sichern sowie die Kontakte zu lesen, um die Notizen zu markieren, die Sie während der Anrufe entgegennehmen.</string>
   <string name="db_downgrade_clear_button">App-Daten löschen</string>
   <string name="db_downgrade_clear_date_reminder">Wenn Sie auf eine andere MIUI Version wechseln, müssen Sie die Appdaten von Notizen löschen. Bevor Sie das tun, vergewissern Sie sich, dass Sie Ihre Notizen auf Mi Cloud gesichert haben.</string>
+  <string name="default_folder_name">Ordner nicht benannt</string>
   <string name="delete_folder_dialog_tile">Ordner löschen</string>
+  <string name="dialog_privacy_revoke_tips">Nachdem Sie die Autorisierung widerrufen haben, stoppt die App die Datenerfassung und alle zugehörigen Daten werden von den Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Autorisierung trotzdem widerrufen? Um die Sicherheit Ihres Kontos zu gewährleisten, melden Sie sich bei i.mi.com an, bevor Sie die Autorisierung für Mi Cloud-Dienste widerrufen.</string>
   <string name="dialog_share_as_pic">Notiz als Bild teilen</string>
   <string name="dialog_share_as_text">Notiz als Text teilen</string>
   <string name="dialog_share_title">Notiz teilen</string>
@@ -122,6 +119,8 @@
   <string name="menu_unstick">Lösen</string>
   <string name="not_now">Jetzt nicht</string>
   <string name="note_alert_expired">Abgelaufen</string>
+  <string name="note_description_content">Die Notiz-App ist ein großartiges Tool, um Ihre Ideen zu notieren. Sie kann Sie erinnern und synchronisiert Ihre Notizen in die MI Cloud. Somit haben Sie von jedem Gerät und jederzeit Zugriff auf Ihre Notizen. Stellen Sie sicher, das Sie ohne diese Funktionen weiterarbeiten können, bevor Sie die App löschen.</string>
+  <string name="note_description_title">Über Notizen</string>
   <string name="note_link_email">E-Mail verfassen</string>
   <string name="note_link_other">Öffnen mit der Kartenapp</string>
   <string name="note_link_select">Text auswählen</string>
@@ -150,6 +149,7 @@
   <string name="recover_notes_hint">Ein Fehler ist aufgetreten, stellen Sie Ihre Notizen von i.mi.com wieder her</string>
   <string name="redo">Wiederholen</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Warten Sie, bis die Notiz geladen ist und versuchen Sie es erneut.</string>
+  <string name="refuse_to_share_as_pic_because_of_content">Diese Notiz ist zu groß zum Teilen</string>
   <string name="rename_folder_dialog_tile">Ordner umbenennen</string>
   <string name="root_folder_name">Schnellnotizen</string>
   <string name="search">Notizen</string>
@@ -172,6 +172,7 @@
   <string name="sns_choose_quality_high">Hoch (%1$s)</string>
   <string name="sns_choose_quality_low">Niedrig</string>
   <string name="sns_choose_quality_title">Bildqualität wählen</string>
+  <string name="sns_content_default">Foto teilen</string>
   <string name="sns_desc_image_preview">Nachrichtenvorschau</string>
   <string name="sns_desc_preview_wechat">WeChat Nachrichtenvorschau</string>
   <string name="sns_desc_preview_weibo">Weibo Nachrichtenvorschau</string>
