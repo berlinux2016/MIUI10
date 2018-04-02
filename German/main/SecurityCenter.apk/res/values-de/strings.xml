@@ -802,6 +802,8 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="diagnostic_attention_dialog_message">Diagnose für %1$s ist in Bearbeitung. Warten Sie, bis der Vorgang abgeschlossen ist und versuchen Sie es noch einmal.</string>
   <string name="dialog_app_roaming_message">Wenn Sie Datenroaming aktiviert haben, können nur Apps der Ausnahmen auf die Datenverbindung zugreifen. %1$s wurde nicht zu den Ausnahmen hinzugefügt. Möchten Sie sich die Ausnahmen anzeigen lassen?</string>
   <string name="dialog_app_roaming_title">Datenroaming ist für %1$s nicht aktiviert</string>
+  <string name="dialog_button_ignore">Ignorieren</string>
+  <string name="dialog_button_yes">Ja</string>
   <string name="dialog_msg_auto_start_declare">Einige Sicherheitsapps können fälschlicherweise angeben, dass MIUI Ihren Start verhindert. Um die Berechtigungen, die einzelnen Apps erteilt wurden, zu prüfen, gehen Sie zu Einstellungen &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zahlungssicherheitscheck ausschalten?</string>
   <string name="dialog_msg_stop_virus_scan">Sind Sie sicher?</string>
@@ -2539,6 +2541,9 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="summary_antivirus_oversea">Virusdefinitionen automatisch aktualisieren</string>
   <string name="summary_app_lock_disable">Apps sperren, um Ihre Privatsphäre zu schützen</string>
   <string name="summary_auto_update">MIUI wird die am besten geeignete Zeit wählen, um Updates herunterzuladen und zu installieren</string>
+  <string name="summary_background_connection">Sie haben die Hintergrundverbindung für diese App eingeschränkt. Tippen zum Reparieren.</string>
+  <string name="summary_block_calls_from_cantacts">Sie benutzen die Blockierliste. Tippen Sie zum Reparieren.</string>
+  <string name="summary_block_calls_from_strangers">Sie erlauben nur Anrufe von Kontakten. Tippen Sie zum Reparieren.</string>
   <string name="summary_cleaner_cloudscan">Unbekannte Ordner hochladen und mit Onlinevirendefinitionen vergleichen</string>
   <string name="summary_cloud_account">Das Optimale aus Ihrem Mi Gerät herausholen</string>
   <string name="summary_cloud_service">Synchronisieren Sie Ihre Fotos, Kontakte und noch viel mehr zwischen all Ihren Geräten</string>
@@ -2549,6 +2554,8 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="summary_data_flow">Überschreiten des monatlichen Datenvolumen vermeiden</string>
   <string name="summary_default_app">%s ist nicht als Standardsystemapp gesetzt</string>
   <string name="summary_dev">Zugriff von Apps auf Benutzerdaten verhindern</string>
+  <string name="summary_do_not_disturb">Sie benutzen den DND-Modus. Tippen zum Reparieren.</string>
+  <string name="summary_eye_shield">Sie benutzten den Lesemodus. Tippen zum Reparieren.</string>
   <string name="summary_find_device">Suchen und Sperren Sie das Gerät von überall</string>
   <string name="summary_flow_notification">Monatlichen Datenverbrauch in der Benachrichtigungsleiste anzeigen</string>
   <string name="summary_flow_purchase">Anscheinend ist nicht viel Datenvolumen übrig. Kaufen Sie Volumen, um verbunden zu bleiben.</string>
@@ -2570,6 +2577,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="summary_permission_root">Ihr Telefon und Ihre persönlichen Daten sind weniger vor Apps mit Rootzugriff geschützt</string>
   <string name="summary_power_optimizer">Reduziert die Leistung, wenn der Akkustand niedrig ist</string>
   <string name="summary_realname_verify">Verifizieren Sie Ihre Identität, um Zahlungen sicherer zu machen</string>
+  <string name="summary_restrict_data_usage">Sie haben die Datenverwendung für diese App eingeschränkt. Tippen zum Reparieren.</string>
   <string name="summary_saving_switch">Verwendung der Datenverbindung zum Datentransfer durch Apps unterbinden</string>
   <string name="summary_show_notification">Steuerung des PIN-Sicherheitscenter in der Benachrichtigungsleiste anzeigen</string>
   <string name="summary_telecom_operator">Monatlichen Datenverbrauch über Ihren Anbieter abfragen</string>
@@ -2712,6 +2720,9 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="title_app_lock_disable">Apps sperren</string>
   <string name="title_app_update">Updates vorhanden</string>
   <string name="title_auto_update">Automatisch aktualisieren</string>
+  <string name="title_background_connection">Können Sie %s nicht im Hintergrund verwenden?</string>
+  <string name="title_block_calls_from_cantacts">Fehlende Anrufe von Ihren Kontakten?</string>
+  <string name="title_block_calls_from_strangers">Wichtige Anrufe verpassen?</string>
   <string name="title_chain_start">Verketteten Start einschränken</string>
   <string name="title_cleaner_cloudscan">Ordnernamen hochladen</string>
   <string name="title_cloud_account">Mi Konto</string>
@@ -2730,6 +2741,8 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="title_dev_no">Entwickleroptionen an</string>
   <string name="title_dev_yes">Entwickleroptionen aus</string>
   <string name="title_device_not_root">Root konnte nicht gewährt werden</string>
+  <string name="title_do_not_disturb">Können Sie Ihren Klingelton nicht hören?</string>
+  <string name="title_eye_shield">Bildschirmfarbe sieht nicht richtig aus?</string>
   <string name="title_find_device">\"Gerät finden\" einschalten</string>
   <string name="title_flow_notification">Datenverbrauchsreport</string>
   <string name="title_flow_purchase">Datenpaket kaufen</string>
@@ -2763,6 +2776,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="title_permission_yes">Zugriffsmanager an</string>
   <string name="title_power_optimizer">Energiesparmodus</string>
   <string name="title_realname_verify">Identitätsverifikation</string>
+  <string name="title_restrict_data_usage">%s kann sich nicht mit dem Internet verbinden?</string>
   <string name="title_saving_switch">Datensparer</string>
   <string name="title_share_link">Link teilen</string>
   <string name="title_show_notification">Benachrichtigungen</string>
