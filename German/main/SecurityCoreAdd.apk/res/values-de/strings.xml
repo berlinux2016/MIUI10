@@ -73,6 +73,7 @@ Nachrichten erhalten Sie nur im Zweitprofil."</string>
   <string name="do_not_ask">Nicht mehr fragen</string>
   <string name="dont_import">Nicht jetzt</string>
   <string name="downloading_space">Herunterladen</string>
+  <string name="enable">Einschalten</string>
   <string name="encrypt_space_delete_dialog_click_message">"*Wenn Sie keine Daten verschieben müssen, %s "</string>
   <string name="encrypt_space_delete_dialog_click_message_action">löschen und Zweitprofil erstellen.</string>
   <string name="encrypt_space_delete_dialog_message">Sie sind dabei, Android zu aktualisieren. Nach dem Update werden die Daten des Zweitprofils inkompatibel. Um dies zu vermeiden, verschieben Sie alle Daten ins Hauptprofil, löschen Sie das Zweitprofil und legen Sie es erneut an.</string>
@@ -80,8 +81,8 @@ Nachrichten erhalten Sie nur im Zweitprofil."</string>
   <string name="encrypt_space_delete_dialog_title">Achtung!</string>
   <string name="encrypt_space_delete_notification_message">Löschen Sie Ihr Zweitprofil und erstellen Sie einen neues, um Ihr Gerät erfolgreich zu aktualisieren.</string>
   <string name="encrypt_space_delete_notification_title">Zweitprofil</string>
-  <string name="enable">Einschalten</string>
   <string name="enter_air_space">Zum Arbeitsbereich gehen</string>
+  <string name="entrance_reopen_toast_msg">Anzeige der zweiten Profilverknüpfung aufgrund unterschiedlicher Passworttypen</string>
   <string name="err_copy_contacts">Kontakte kopieren fehlgeschlagen</string>
   <string name="err_copy_files">Dateien verschieben fehlgeschlagen</string>
   <string name="err_copy_photos">Fotos kopieren fehlgeschlagen</string>
@@ -206,6 +207,9 @@ Andernfalls können Sie das Zweitprofil nicht vom Sperrbildschirm aus erreichen.
   <string name="removingSpace">Wird gelöscht</string>
   <string name="repeat_scanner_fingerprint">Nochmal hinzufügen</string>
   <string name="reset_passwd_success">Passwort wurde erfolgreich zurückgesetzt</string>
+  <string name="reset_password_dialog_message">Sie verwenden verschiedene Passworttypen für das erste Profil und zweite Profil. Das zweite Profil sollte den gleichen Kennworttyp wie das erste Profil verwenden, damit die Verknüpfung ausgeblendet wird.</string>
+  <string name="reset_password_dialog_positve_btn_title">Änderung</string>
+  <string name="reset_password_dialog_title">Ich kann das zweite Profil nicht verstecken.</string>
   <string name="resource_sspace">Zweitprofil</string>
   <string name="resource_xspace">Geklonte Apps</string>
   <string name="restore_normal_show">Persönliche Nachrichten nicht anzeigen</string>
@@ -373,6 +377,7 @@ Wenn Sie das Update nicht durchführen, funktionieren geklonte Apps möglicherwe
   <string name="xspace_guide_title">Geklonte App erstellen</string>
   <string name="xspace_header">Geklonte Apps</string>
   <string name="xspace_install_completed">Verknüpfung auf dem Startbildschirm hinzugefügt</string>
+  <string name="xspace_install_completed_global">Symbol zur Übersicht hinzugefügt</string>
   <string name="xspace_install_failed">Konnte nicht erstellt werden</string>
   <string name="xspace_installing">Wird installiert…</string>
   <string name="xspace_introduce">Empfohlen</string>
