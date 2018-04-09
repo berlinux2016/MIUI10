@@ -67,7 +67,7 @@
     <item>Kontakte ändern</item>
     <item>Anrufliste lesen</item>
     <item>Anrufliste ändern</item>
-    <item>Kalendar lesen</item>
+    <item>Kalender lesen</item>
     <item>Kalender ändern</item>
     <item>Standort</item>
     <item>Benachrichtigung posten</item>
@@ -103,12 +103,27 @@
     <item>Standort</item>
     <item>Standort</item>
     <item>Nutzerstatistik lesen</item>
-    <item>Mikrofon stummschalten</item>
+    <item>Mikrofon stumm-/anschalten</item>
+	<item>Meldung anzeigen</item>
     <item>Medien projizieren</item>
     <item>VPN aktivieren</item>
     <item>Hintergrundbild einrichten</item>
     <item>Strukturassistent</item>
     <item>Screenshotassistent</item>
+	<item>Telefonstatus lesen</item>
+    <item>Sprachnachricht hinzufügen</item>
+    <item>SIP verwenden</item>
+    <item>Ausgehenden Anruf tätigen</item>
+    <item>Fingerabdruck</item>
+    <item>Körpersensoren</item>
+    <item>Cell Broadcasts lesen</item>
+	<item>Falscher Standort</item>
+    <item>Speicher lesen</item>
+    <item>Speicher beschreiben</item>
+    <item>Bildschirm anschalten</item>
+    <item>Konten holen</item>
+    <item>Im Hintergrund laufen</item>
+    <item>Zugang Lautstärke</item>
   </string-array>
   <string-array name="app_ops_summaries">
     <item>Ungefährer Standort</item>
@@ -128,7 +143,7 @@
     <item>SMS lesen</item>
     <item>SMS schreiben</item>
     <item>SMS empfangen</item>
-    <item>Not-SMS empfangen</item>
+    <item>Notfall-SMS empfangen</item>
     <item>MMS empfangen</item>
     <item>WAP-Push erhalten</item>
     <item>SMS senden</item>
@@ -152,15 +167,30 @@
     <item>Benachrichtigungslautstärke</item>
     <item>Bluetoothlautstärke</item>
     <item>Aktiv lassen</item>
-    <item>Standort beobachten</item>
+    <item>Standort überwachen</item>
     <item>Orte mit hohem Stromverbrauch überwachen</item>
     <item>Nutzerstatistik lesen</item>
-    <item>Mikrofon stummschalten</item>
+    <item>Mikrofon stumm-/anschalten</item>
+	<item>Meldung anzeigen</item>
     <item>Medien projizieren</item>
     <item>VPN aktivieren</item>
     <item>Hintergrundbild einrichten</item>
     <item>Strukturassistent</item>
     <item>Screenshotassistent</item>
+	<item>Telefonstatus lesen</item>
+    <item>Sprachnachricht hinzufügen</item>
+    <item>SIP verwenden</item>
+    <item>Ausgehenden Anruf tätigen</item>
+    <item>Fingerabdruck</item>
+    <item>Körpersensoren</item>
+    <item>Cell Broadcasts lesen</item>
+	<item>Falscher Standort</item>
+    <item>Speicher lesen</item>
+    <item>Speicher beschreiben</item>
+    <item>Bildschirm anschalten</item>
+    <item>Konten holen</item>
+    <item>Im Hintergrund laufen</item>
+    <item>Zugang Lautstärke</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Standardlimit</item>
@@ -169,6 +199,11 @@
     <item>Höchstens 2 Prozesse</item>
     <item>Höchstens 3 Prozesse</item>
     <item>Höchstens 4 Prozesse</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item>Über 30 Tage alt</item>
+    <item>Über 60 Tage alt</item>
+    <item>Über 90 Tage alt</item>
   </string-array>
   <string-array name="battery_indicator_style_entries">
     <item>Grafisch</item>
@@ -192,6 +227,79 @@
     <item>1xRTT</item>
     <item>IS95B</item>
     <item>IS95A</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>16 bits/sample</item>
+    <item>24 bits/sample</item>
+    <item>32 bits/sample</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>16 bits/sample</item>
+    <item>24 bits/sample</item>
+    <item>32 bits/sample</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    <item>Optimiert für Audioqualität</item>
+    <item>Ausgewogene Audio- und Verbindungsqualität</item>
+    <item>Optimiert auf Verbindungsqualität</item>
+    <item>Beste Leistung (Adaptive Bit Rate)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    <item>Optimiert für Audioqualität (990kbps/909kbps)</item>
+    <item>Ausgewogene Audio- und Verbindungsqualität (660kbps/606kbps)</item>
+    <item>Optimiert auf Verbindungsqualität (330kbps/303kbps)</item>
+    <item>Beste Leistung (Adaptive Bit Rate)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>aptX</item>
+    <item>aptX HD</item>
+    <item>LDAC</item>
+    <item>Optionale Codecs aktivieren</item>
+    <item>Optional Codecs deaktivieren</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>aptX</item>
+    <item>aptX HD</item>
+    <item>LDAC</item>
+    <item>Optionale Codecs aktivieren</item>
+    <item>Optional Codecs deaktivieren</item>
+  </string-array>
+  <string-array name="bluetooth_avrcp_versions">
+    <item>AVRCP 1.4 (Standard)</item>
+    <item>AVRCP 1.5</item>
+    <item>AVRCP 1.6</item>
   </string-array>
   <string-array name="bluetooth_visibility_timeout_entries">
     <item>2 Minuten</item>
@@ -300,6 +408,10 @@
     <item>Aus</item>
     <item>Überschneidungsbereiche anzeigen</item>
     <item>Bereiche für Farbfehlsichtige anzeigen</item>
+  </string-array>
+  <string-array name="debug_hw_renderer_entries">
+    <item>OpenGL (Standard)</item>
+    <item>OpenGL (Skia)</item>
   </string-array>
   <string-array name="dream_timeout_entries">
     <item>Niemals</item>
@@ -493,11 +605,12 @@
   </string-array>
   <string-array name="msd_pc_system_retry_linux">
     <item>Installationstool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-    <item>Erstellen Sie folgendes Verzeichnis: mkdir /media/mtp</item>
-    <item>"Bestätigen Sie die Benutzergruppenrechte in der aktuellen 'fuse user group'"</item>
+    <item>Verzeichnis erstellen: mkdir /media/mtp</item>
+    <item>"Benutzergruppenrechte in der aktuellen 'fuse user group' bestätigen"</item>
     <item>Erneut anmelden</item>
-    <item>Zugang zum gemounteten Gerät über: mtpfs /media/mtp via Dateimanager; Lokalverzeichnis</item>
-    <item>Gerät entfernen: fusermount -u /media/mtp; Hinweis: Nur für Ubuntu 8.04!</item>
+    <item>Zugang zum gemounteten Gerät über: mtpfs /media/mtp via Dateimanager; wie Lokaler Ordner</item>
+    <item>"Gerät entfernen: fusermount -u /media/mtp
+Hinweis: Nur für Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="msd_pc_system_retry_xp">
     <item>@string/msd_install_retry_connect</item>
@@ -683,13 +796,25 @@
     <item>16M</item>
   </string-array>
   <string-array name="select_logd_system_levels">
-     <item>Off</item>
-     <item>Error</item>
-     <item>Warn</item>
+     <item>Aus</item>
+     <item>Fehler</item>
+     <item>Warnung</item>
      <item>Info</item>
-     <item>Debug</item>
-     <item>Verbose</item>
-  </string-array>  
+     <item>Debugging</item>
+     <item>Ausführlich</item>
+  </string-array>
+  <string-array name="select_logpersist_summaries">
+    <item>Aus</item>
+    <item>Alle Logpuffer</item>
+    <item>Alle außer Funk-Logpuffer</item>
+    <item>Nur Kernel-Logpuffer</item>
+  </string-array>
+  <string-array name="select_logpersist_titles">
+    <item>Aus</item>
+    <item>Alle</item>
+    <item>Alle außer Funk</item>
+    <item>Nur Kernel</item>
+  </string-array>
   <string-array name="select_runtime_summaries">
     <item>Dalvik verwenden</item>
     <item>ART verwenden</item>
@@ -926,8 +1051,9 @@
   </string-array>
   <string-array name="wifi_signal">
     <item>Schwach</item>
+	<item>Schwach</item>
+	<item>Mittelmäßig</item>
     <item>Gut</item>
-    <item>OK</item>
     <item>Ausgezeichnet</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries">
