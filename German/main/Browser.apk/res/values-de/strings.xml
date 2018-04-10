@@ -149,6 +149,7 @@
   <string name="cancel">Abbrechen</string>
   <string name="cancle_sync_cloud_tabs">Synchronisation abbrechen</string>
   <string name="cannot_download">Download nur von \"http\" oder \"https\" URLs</string>
+  <string name="cast_video">Video übertragen</string>
   <string name="check_security_tip_privacy_policy">Datenschutzerklärung</string>
   <string name="check_security_tip_user_agreement">Nutzungsbedingungen</string>
   <string name="choosertitle_sharevia">Teilen über</string>
@@ -171,6 +172,7 @@
   <string name="cloud_tab">Cloud Tabs</string>
   <string name="cloud_time_tips">Letzte Synchronisierung</string>
   <string name="cloud_up_to_loading_tips">Zum Synchronisieren loslassen</string>
+  <string name="collect_video">Video sammeln</string>
   <string name="color_picker_button_black">Schwarz</string>
   <string name="color_picker_button_blue">Blau</string>
   <string name="color_picker_button_cancel">Abbrechen</string>
@@ -302,9 +304,10 @@
   <string name="download_status_pending">Warten</string>
   <string name="download_success">Fertig</string>
   <string name="download_title">Downloads</string>
+  <string name="download_video">Video herunterladen</string>
   <string name="download_wait_connect">Warte auf Netzwerkverbindung</string>
   <string name="edit">Bearbeiten</string>
-  <string name="edit_bookmark">Bearbeiten</string>
+  <string name="edit_bookmark">Lesezeichen bearbeiten</string>
   <string name="edit_quicklink">Bearbeiten</string>
   <string name="empty_app_name">Andere App</string>
   <string name="empty_bookmark">Leer</string>
@@ -328,6 +331,7 @@
   <string name="error_unauthorized">Synchronisation mit Ihrem Mi Konto wurde aufgrund mehrerer Anmeldeversuche deaktiviert</string>
   <string name="exit">Beenden</string>
   <string name="exit_browser_warning">Browser jetzt verlassen?</string>
+  <string name="exit_fullscreen">Vollbildmodus beenden</string>
   <string name="favorite">Favorit</string>
   <string name="file_dir">Verzeichnis</string>
   <string name="file_name">"Name: "</string>
@@ -819,6 +823,16 @@
           &lt;li&gt;Ihren Internetanbieter
         &lt;/ul&gt;"</string>
   <string name="mw_no_matches">Keine Treffer</string>
+  <string name="mw_notification_category_browser">Browser</string>
+  <string name="mw_notification_category_content_suggestions">Inhaltliche Vorschläge</string>
+  <string name="mw_notification_category_downloads">Downloads</string>
+  <string name="mw_notification_category_fullscreen_controls">Vollbilddarstellung</string>
+  <string name="mw_notification_category_group_general">Allgemein</string>
+  <string name="mw_notification_category_incognito">Inkognito</string>
+  <string name="mw_notification_category_media">Medien</string>
+  <string name="mw_notification_category_screen_capture">Bildschirmaufnahme</string>
+  <string name="mw_notification_category_sites">Seiten</string>
+  <string name="mw_notification_hidden_text">Inhalt versteckt</string>
   <string name="mw_ntp_title_no_suggestions">Das ist alles für den Moment</string>
   <string name="mw_older">Älter</string>
   <string name="mw_opening_file_error">Öffnen der gewählten Datei fehlgeschlagen</string>
@@ -1000,6 +1014,9 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="permission_notification">Benachrichtigungen senden</string>
   <string name="permission_unknown">Unbekannte Option</string>
   <string name="permissions_prompt_message">%s möchte</string>
+  <string name="play_pause_video">Video abspielen oder anhalten</string>
+  <string name="play_video">Video abspielen</string>
+  <string name="popup_video">Videopopup</string>
   <string name="popup_window_attempt">Erlauben Sie dieser Seite, ein Popup-Fenster zu öffnen?</string>
   <string name="positive_confirm_message">Trotzdem ausschalten</string>
   <string name="pref_accept_quicklink_push">News-Feed</string>
@@ -1169,6 +1186,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="router_download_exist">Dieser Download existiert bereits</string>
   <string name="router_download_failed">Download fehlgeschlagen</string>
   <string name="router_download_success">Download beendet</string>
+  <string name="share_video">Video teilen</string>
   <string name="same_bookmarks_warning">Sie haben diese Seite bereits zu Ihren Lesezeichen hinzugefügt</string>
   <string name="same_folder_name_warning">Eine Gruppe mit demselben Namen existiert bereits</string>
   <string name="save_button_text">Speichern</string>
