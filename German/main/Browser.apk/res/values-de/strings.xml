@@ -608,7 +608,7 @@
   <string name="mw_autofill_address_summary_separator">", "</string>
   <string name="mw_autofill_card_unmask_expiration_date_separator">/</string>
   <string name="mw_autofill_card_unmask_new_card_link">Neue Karte?</string>
-  <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc">Überprüfen Sie Ihre Kartenrpüfnummer und versuchen Sie es erneut.</string>
+  <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc">Überprüfen Sie Ihre Kartenprüfnummer und versuchen Sie es erneut.</string>
   <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc_and_expiration">Überprüfen Sie Ihr Gültigkeitsdatum und Ihre Kartenprüfnummer, dann versuchen Sie es erneut.</string>
   <string name="mw_autofill_card_unmask_prompt_error_try_again_expiration_date">Überprüfen Sie das Datum und versuchen Sie es erneut.</string>
   <string name="mw_autofill_card_unmask_prompt_error_try_again_expiration_month">Überprüfen Sie den Monat und versuchen Sie es erneut.</string>
@@ -681,7 +681,7 @@
   <string name="mw_external_payment_app_leave_incognito_warning">Verlassen des Inkognito-Modus, um über eine externe Anwendung zu bezahlen. Weiter?</string>
   <string name="mw_find_next">Nächste suchen</string>
   <string name="mw_find_previous">Vorherige suchen</string>
-  <string name="mw_http_post_warning">Die Seite, nach der Sie suchen, verwendete Informationen, die Sie eingegeben haben. Wenn Sie zu dieser Seite zurückkehren, kann es vorkommen, dass eine Aktion, die Sie durchgeführt haben, wiederholt wird. Wollen Sie weitermachen?</string>
+  <string name="mw_http_post_warning">Die Seite, nach der Sie suchen, hat Informationen verwendet, die Sie eingegeben haben. Wenn Sie zu dieser Seite zurückkehren, kann es vorkommen, dass eine Aktion, die Sie durchgeführt haben, wiederholt wird. Wollen Sie weitermachen?</string>
   <string name="mw_http_post_warning_resend">Weiter</string>
   <string name="mw_js_dialog_before_unload">%s 
   Sind Sie sicher, dass Sie von dieser Seite weg navigieren wollen?</string>
@@ -723,8 +723,8 @@
   <string name="mw_miuichromium_error_page_diagnose_certificate">Netzwerkprotolkoll konnte nicht verifiziert werden</string>
   <string name="mw_miuichromium_error_page_diagnose_connection">Verbindung zum Netzwerk nicht möglich</string>
   <string name="mw_miuichromium_error_page_diagnose_dns">URL ist inkorrekt</string>
-  <string name="mw_miuichromium_error_page_diagnose_protocol"> Fehler Netzwerkprotokoll</string>
-  <string name="mw_miuichromium_error_page_diagnose_proxy_server">Fehler Proxyserver</string>
+  <string name="mw_miuichromium_error_page_diagnose_protocol">Netzwerkprotokollfehler</string>
+  <string name="mw_miuichromium_error_page_diagnose_proxy_server">Proxyserverfehler</string>
   <string name="mw_miuichromium_error_page_diagnose_success">Schwaches Netzwerksignal</string>
   <string name="mw_miuichromium_error_page_diagnose_timeout">Timeout der Verbindung</string>
   <string name="mw_miuichromium_error_page_diagnose_website">Webseite ist nicht erreichbar</string>
@@ -788,14 +788,14 @@
   <string name="mw_miuichromium_error_page_unknown_error">Ups, etwas ist schiefgelaufen</string>
   <string name="mw_miuichromium_error_page_wlan">WLAN einschalten</string>
   <string name="mw_month_picker_dialog_title">Monat festlegen</string>
-  <string name="mw_mr_button_content_description">Cast-Knopf</string>
-  <string name="mw_mr_cast_button_connected">Cast-Knopf. Verbunden</string>
-  <string name="mw_mr_cast_button_connecting">Cast-Knopf. Verbinden</string>
-  <string name="mw_mr_cast_button_disconnected">Cast-Knopf. Getrennt</string>
+  <string name="mw_mr_button_content_description">Cast-Taste</string>
+  <string name="mw_mr_cast_button_connected">Cast-Taste verbunden</string>
+  <string name="mw_mr_cast_button_connecting">Cast-Taste verbinden</string>
+  <string name="mw_mr_cast_button_disconnected">Cast-Taste getrennt</string>
   <string name="mw_mr_chooser_searching">Geräte finden</string>
   <string name="mw_mr_chooser_title">Besetzen nach</string>
   <string name="mw_mr_controller_album_art">Albumcover</string>
-  <string name="mw_mr_controller_casting_screen">Casting-Schirm</string>
+  <string name="mw_mr_controller_casting_screen">Castingbildschirm</string>
   <string name="mw_mr_controller_close_description">Schließen</string>
   <string name="mw_mr_controller_collapse_group">Zuklappen</string>
   <string name="mw_mr_controller_disconnect">Trennen</string>
@@ -837,7 +837,7 @@
   <string name="mw_older">Älter</string>
   <string name="mw_opening_file_error">Öffnen der gewählten Datei fehlgeschlagen</string>
   <string name="mw_page_info_permission_ads_subtitle">Seite tendiert dazu, aufdringliche Anzeigen zu zeigen</string>
-  <string name="mw_password_generation_popup_content_description">Popup-Fenster zur Passwortgenerierung anzeigen</string>
+  <string name="mw_password_generation_popup_content_description">Popupfenster zur Passwortgenerierung anzeigen</string>
   <string name="mw_payments_accepted_cards_label">Akzeptierte Karten</string>
   <string name="mw_payments_accepted_credit_cards_label">Akzeptierte Kreditkarten</string>
   <string name="mw_payments_accepted_credit_debit_cards_label">Akzeptierte Kredit- und Debitkarten</string>
@@ -891,7 +891,7 @@
   <string name="mw_payments_method_of_payment_label">Zahlungsmethode</string>
   <string name="mw_payments_more_information_required">Mehr Information erforderlich</string>
   <string name="mw_payments_name_field_in_contact_details">Name</string>
-  <string name="mw_payments_name_on_card_required">Name Karteninhaber erforderlich</string>
+  <string name="mw_payments_name_on_card_required">Name des Karteninhabers erforderlich</string>
   <string name="mw_payments_name_required">Name erforderlich</string>
   <string name="mw_payments_order_summary_label">Bestellübersicht</string>
   <string name="mw_payments_pay_button">Bezahlen</string>
@@ -918,7 +918,7 @@
   <string name="mw_payments_unsupported_shipping_address">An diese Adresse kann nicht versendet werden. Wählen Sie eine andere Adresse.</string>
   <string name="mw_payments_unsupported_shipping_option">Diese Versandmethode ist nicht verfügbar. Wählen Sie eine andere Methode.</string>
   <string name="mw_payments_updated_label">Aktualisiert</string>
-  <string name="mw_permission_alert_window">Um die Funktion nutzen zu können, öffnen Sie bitte die Systemoption Popup-Fenster anzeigen.</string>
+  <string name="mw_permission_alert_window">Um diese Funktion nutzen zu können, öffnen Sie bitte die Systemoption Popupfenster anzeigen.</string>
   <string name="mw_permission_unknown">Unbekannte Option</string>
   <string name="mw_photo_picker_browse">Durchsuchen</string>
   <string name="mw_photo_picker_camera">Kamera</string>
@@ -968,10 +968,10 @@
   <string name="nav_bottom_bar_new_tab">Neuer Tab</string>
   <string name="nav_screen_container_tab_incognito">Privater Tab</string>
   <string name="nav_screen_container_tab_normal">Normaler Tab</string>
-  <string name="nav_screen_incognito_message">"Ihr Browser- und Suchverlauf wird im Inkognito-Modus nicht gespeichert.
+  <string name="nav_screen_incognito_message">"Ihr Browser- und Suchverlauf wird im Inkognitomodus nicht gespeichert.
 Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen weiterhin gespeichert werden."</string>
   <string name="nav_screen_incognito_time">Neue Seite wird automatisch nach %s Sekunden erstellt</string>
-  <string name="nav_screen_incognito_title">Inkognito-Modus</string>
+  <string name="nav_screen_incognito_title">Inkognitomodus</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Abbrechen</string>
   <string name="navigationbar_rightbutton_actiontext_go">Los</string>
   <string name="navigationbar_rightbutton_actiontext_search">Suchen</string>
@@ -999,10 +999,10 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="open_voice_permission">Dem Mikrofon den Zugriff aufs Internet erlauben</string>
   <string name="opening_file_error">Fehler beim Öffnen der ausgewählten Datei</string>
   <string name="page_info">Seiteninfo</string>
-  <string name="page_info_address">Addresse:</string>
+  <string name="page_info_address">Adresse:</string>
   <string name="page_info_view">Seiteninfo ansehen</string>
   <string name="password">Passwort</string>
-  <string name="password_generation_popup_content_description">Passwort-Popup anzeigen</string>
+  <string name="password_generation_popup_content_description">Passwortpopup anzeigen</string>
   <string name="pause_download">Pausiert</string>
   <string name="paused_queued_for_wifi">Warte auf Netzwerkverbindung…</string>
   <string name="paused_unknown">Pausiert</string>
@@ -1017,9 +1017,9 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="play_pause_video">Video abspielen oder anhalten</string>
   <string name="play_video">Video abspielen</string>
   <string name="popup_video">Videopopup</string>
-  <string name="popup_window_attempt">Erlauben Sie dieser Seite, ein Popup-Fenster zu öffnen?</string>
+  <string name="popup_window_attempt">Erlauben Sie dieser Seite, ein Popupfenster zu öffnen?</string>
   <string name="positive_confirm_message">Trotzdem ausschalten</string>
-  <string name="pref_accept_quicklink_push">News-Feed</string>
+  <string name="pref_accept_quicklink_push">Newsfeed</string>
   <string name="pref_accessibility">Eingabehilfen</string>
   <string name="pref_accessibility_title">Eingabehilfen</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Einfache Buchstabenkombinationen können mit einem Druck in die Adressleiste eingefügt werden</string>
@@ -1036,7 +1036,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="pref_check_security_url_title">Überprüfe URL-Sicherheit</string>
   <string name="pref_check_security_url_title_international">Die URL holen</string>
   <string name="pref_clear_adblock_statistics">Lösche Werbeblockerverlauf</string>
-  <string name="pref_clear_adblock_statistics_dlg">Lösche Zähler für geblockte Werbung?</string>
+  <string name="pref_clear_adblock_statistics_dlg">Lösche Zähler für blockierte Werbung?</string>
   <string name="pref_clear_all_data_dlg">Wirklich alle Browserdaten löschen?</string>
   <string name="pref_clear_all_data_title">Alle Browserdaten löschen</string>
   <string name="pref_clear_data_title">Browserdaten löschen</string>
@@ -1070,15 +1070,15 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="pref_fling_on_border_enabled">Tabs wechseln</string>
   <string name="pref_fling_on_border_enabled_title_summary">Wischen Sie vom linken oder rechten Bildschirmrand, um die Registerkarten zu wechseln</string>
   <string name="pref_fling_on_border_title_summary">Von der rechten oder linken Kante aus nach innen wischen</string>
-  <string name="pref_font_size_category">Textgröße der Webseite</string>
+  <string name="pref_font_size_category">Webseitentextgrösse</string>
   <string name="pref_force_userscalable">Erzwinge Vergrößerung</string>
-  <string name="pref_force_userscalable_summary">Der Webseite die Kontolle über die Zoom-Funktion entziehen</string>
+  <string name="pref_force_userscalable_summary">Der Webseite die Kontrolle über die Zoom-Funktion entziehen</string>
   <string name="pref_general_title">Allgemein</string>
   <string name="pref_key_gesture_title">Tasten &amp; Gesten</string>
   <string name="pref_label_advert_manager">Markierte Werbung verwalten</string>
   <string name="pref_nav_mode_summary_pad">Tablet</string>
   <string name="pref_nav_mode_summary_phone">Smartphone</string>
-  <string name="pref_nav_mode_title">Browser-Modus</string>
+  <string name="pref_nav_mode_title">Browsermodus</string>
   <string name="pref_notifications_hint">Benachrichtigungen</string>
   <string name="pref_notifications_receive">Neuer Benachrichtigungsalarm</string>
   <string name="pref_notifications_title">Benachrichtigungen</string>
@@ -1142,7 +1142,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="quicklink_cannot_save_url">Diese URL kann nicht hinzugefügt werden</string>
   <string name="quicklink_folder_text">Top App</string>
   <string name="quicklink_not_saved">Konnte nicht zur Startseite hinzugefügt werden</string>
-  <string name="quicklink_push_confirm_message">Nach dem Ausschalten dieser Funktion erhalten Sie keine Feed-Updates mehr. Jetzt deaktivieren?</string>
+  <string name="quicklink_push_confirm_message">Nach dem Ausschalten dieser Funktion erhalten Sie keine Feedupdates mehr. Jetzt deaktivieren?</string>
   <string name="quicklink_saved">Auf Startseite gespeichert</string>
   <string name="quicklink_saved_before">Diese Seite wurde bereits hinzugefügt</string>
   <string name="quicklink_user_define_webpage_title">Name</string>
@@ -1160,7 +1160,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="readmode_page_load_error">Seite kann nicht geladen werden</string>
   <string name="readmode_page_loading">Nur einen Moment…</string>
   <string name="readmode_pay">Kapitel kaufen</string>
-  <string name="readmode_pay_message">Sie müssen bezahlen, um das nächste Kapitel zu lesen</string>
+  <string name="readmode_pay_message">Um das nächste Kapitel zu lesen, müssen Sie bezahlen</string>
   <string name="readmode_reach_last_page">Dies ist die letzte Seite</string>
   <string name="readmode_recommend">Zur Ansicht empfohlen</string>
   <string name="readmode_recommend_message">Sie haben das Buch bereits gelesen :-)</string>
@@ -1256,7 +1256,7 @@ So verwenden wir die Daten, die wir sammeln:
 1. Sicherheit: Wir verwenden Ihre Daten, um Ihr Gerät vor Betrug und Viren zu schützen sowie für Backup- und Wiederherstellungszwecke.
 2. Inhalt: Ihre Daten helfen uns, Ihnen relevante lokalisierte Nachrichteninhalte bereitzustellen.
 Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie müssen unseren %2$s und %1$s zustimmen, um den Browser nutzen zu können."</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Browser muss eine Verbindung zum Internet herstellen, um richtig zu funktionieren. Um mehr relevante Empfehlungen zu erhalten, erlauben Sie dem Browser, die URLs Ihrer besuchten Webseiten zu erhalten und auf Ihre Standortinformationen zuzugreifen.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Browser muss eine Verbindung zum Internet herstellen, um richtig zu funktionieren. Um relevantere Empfehlungen zu erhalten, erlauben Sie dem Browser, die URLs Ihrer besuchten Webseiten zu erhalten und auf Ihre Standortinformationen zuzugreifen.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Prüfe URL-Sicherheit</string>
   <string name="show_security_tip_dialog_title">Nutzungsbedingungen</string>
   <string name="show_weather_location_getter_tip_dialog_description">Wetterdienst des Browsers benötigt Ihre Position, um Sie mit aktuellen Wetterinfos versorgen zu können. Sie können diese Funktion in den Einstellungen deaktivieren.</string>
@@ -1432,7 +1432,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="video_push_multi_message">%1$d Updates verfügbar</string>
   <string name="video_push_multi_title">Update verfügbar</string>
   <string name="video_push_single_message">Für Update %1$d antippen</string>
-  <string name="video_service_notification_title">Video im Popup-Fenster abspielen</string>
+  <string name="video_service_notification_title">Video im Popupfenster abspielen</string>
   <string name="video_subtitle_last_message1">Weniger als eine Minute verbleibend</string>
   <string name="video_subtitle_prefix_message">Angesehen:</string>
   <string name="video_subtitle_prefix1">Angesehen</string>
@@ -1443,13 +1443,13 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="view_document_downloaded_files">Heruntergeladene Dateien im Downloadmanager anzeigen</string>
   <string name="voice_check_network">Prüfen Sie ihre Netzwerkeinstellungen und versuchen Sie es erneut</string>
   <string name="voice_close_description">Schließen</string>
-  <string name="voice_connect_network">Neztzwerkverbindung fehlgeschlagen</string>
+  <string name="voice_connect_network">Netzwerkverbindung fehlgeschlagen</string>
   <string name="voice_description">Sprachsuche</string>
   <string name="voice_network_connection">Sprachsuche benötigt eine Internetverbindung, um richtig zu funktionieren</string>
   <string name="voice_open_permission_baidu">Bitte gehen Sie zu Einstellungen, um Sprachberechtigungen für Spracherkennungseinstellungen einzuschalten</string>
-  <string name="voice_open_permission_xiaoai">Bitte gehen Sie zu Einstellungen, um Sprachberechtigungen für das Xiaoai-Sprachmodul einzuschalten</string>
+  <string name="voice_open_permission_xiaoai">Bitte gehen Sie zu Einstellungen, um Sprachberechtigungen für das Xiaomi-Sprachmodul einzuschalten</string>
   <string name="voice_open_permission_xunfei">Bitte gehen Sie zu Einstellungen, um Sprachberechtigungen für Spracheinstellungen einzuschalten</string>
-  <string name="voice_search_permission">Sprachsuche muss auf das Mikrofon zugreifen, um richtig zu funktionieren</string>
+  <string name="voice_search_permission">Sprachsuche muss auf das Mikrofon zugreifen können, um richtig zu funktionieren</string>
   <string name="voice_semantic_analysis">Browser wird in der Lage sein, die Bedeutung zu analysieren, wenn Sie einen Verbindungsaufbau erlauben.</string>
   <string name="voice_start_description">Starten</string>
   <string name="voice_stop_description">Beenden</string>
