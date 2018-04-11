@@ -132,6 +132,8 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="accessibility_wifi_signal_full">Voller WLAN Empfang</string>
   <string name="accessibility_wifi_three_bars">WLAN drei Balken</string>
   <string name="accessibility_wifi_two_bars">WLAN zwei Balken</string>
+  <string name="accessibility_wifi_security_type_none">Offenes Netzwerk</string>
+  <string name="accessibility_wifi_security_type_secured">Sicheres Netzwerk</string>
   <string name="accessibility_work_account_title">Arbeitskonto - %s</string>
   <string name="account_add">Hinzufügen</string>
   <string name="account_autostar_label">Autostart</string>
@@ -1288,7 +1290,10 @@ Abtastrate"</string>
   <string name="confirm_enable_oem_unlock_title">OEM-Entsperrung erlauben?</string>
   <string name="confirm_erase">Löschen</string>
   <string name="confirm_fingerprint_icon_content_description">Benutzen Sie Ihren Fingerabdruck, um fortzufahren</string>
-  <string name="confirm_fingerprint_msg">Legen Sie Ihren Finger auf den Fingerabdruckscanner</string>
+  <string name="confirm_fingerprint_msg">Legen Sie Ihren Finger auf den Fingerabdruckscanner</string>  
+  <string name="confirm_frp_credential_message">Ihr Gerät wurde auf Werkseinstellung zurückgesetzt, Sie können es mit Ihrem bisherigen Passwort entsperren.</string>
+  <string name="confirm_frp_credential_skip_txt">BENUTZE STATTDESSEN MEIN GOOGLE-KONTO</string>
+  <string name="confirm_frp_credential_title">Schutz Werkseinstellung </string>
   <string name="confirm_install_and_connect">Installieren &amp; verbinden</string>
   <string name="confirm_new_backup_pw_prompt">Neues Passwort für vollständige Sicherung erneut eingeben</string>
   <string name="confirm_privacy_password">Datenschutzpasswort eingeben</string>
@@ -6600,6 +6605,7 @@ Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk h
   <string name="wifi_tether_configure_ssid_default">Android-Hotspot</string>
   <string name="wifi_tether_configure_subtext">"%1$s" %2$s mobiler WLAN-Hotspot</string>
   <string name="wifi_tether_enabled_subtext">Mobiler Hotspot "%1$s" aktiv</string>
+  <string name="wifi_tether_enabled_summary">%1$s ist aktiv</string>  
   <string name="wifi_tether_failed_subtext">Fehler beim mobilen WLAN-Hotspot</string>
   <string name="wifi_tether_first_use_message">Mobilen Hotspot bei der ersten Verwendung einrichten</string>
   <string name="wifi_tether_setting_title">Basiseinstellungen</string>

@@ -1841,7 +1841,7 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="prompt_to_turnoff_volte_when_failed">VoLTE-Dienste sind nicht verfügbar. Schalten Sie VoLTE aus, um einen Anruf zu tätigen.</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">Service ist nicht verfügbar. Deaktivieren Sie VoLTE in den Einstellungen.</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Wählen Sie LTE als bevorzugten Netzwerktyp, bevor Sie VoLTE einschalten.</string>
-  <string name="prompt_when_turnon_volte_without_lte">LTE-Netzwerke sind derzeit nicht verfügbar. Das Einschalten von VoLTE kann Sie daran hindern, regelmäßige Anrufe zu tätigen.</string>
+  <string name="prompt_when_turnon_volte_without_lte">VoLTE-Netzwerke sind derzeit nicht verfügbar. Das Einschalten von VoLTE kann Sie daran hindern, regelmäßige Anrufe zu tätigen.</string>
   <string name="propmpt_dialog_do_not_ask">Nicht wieder anzeigen</string>
   <string name="propmpt_dialog_network_failed_title">Zeitüberschreitung</string>
   <string name="propmpt_dialog_no_call_back_content">Verbindungsaufbau dauert zu lange. Wechseln zum Standardanruf, für den Kosten entstehen können.</string>
@@ -2129,6 +2129,7 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="sum_xdivert_disabled">Rufumleitung deaktiviert</string>
   <string name="sum_xdivert_enabled">Rufumleitung aktiviert</string>
   <string name="summary_manage_subscriptions">Netzwerkeinstellungen der jeweiligen SIM-Karte verwalten</string>
+  <string name="switch_dds_to_sub_alert">Legen Sie diese Karte als Standard-Datenkarte fest.</string>  
   <string name="t9_indexing_method_pinyin">Pinyin</string>
   <string name="t9_indexing_method_title">T9 Sucheingabe</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
@@ -2239,6 +2240,7 @@ Für Aufladepaket verwenden?"</string>
   <string name="vibrate_after_connected_summary">Beim Annehmen vibieren</string>
   <string name="vibrate_after_connected_title">Nach Verbindung vibrieren</string>
   <string name="vibrate_on_ring_title">Beim Klingeln vibrieren</string>
+  <string name="vice_card_data_in_use_alert">Es können zusätzliche Datengebühren anfallen.</string>
   <string name="video_call">Videoanruf</string>
   <string name="vilte_srvcc_tip">Aus Netzwerkgründen auf Sprachanruf umgeschaltet</string>
   <string name="vm_change_failed">"Die Sprachboxnummer konnte nicht geändert werden.
@@ -2293,6 +2295,8 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="volte_switch_not_support_summary2">VoLTE-Anrufe werden vom Netzbetreiber nicht unterstützt.</string>  
   <string name="volte_switch_summary">Verwenden Sie VoLTE, um die Qualität der Sprach- und Videoanrufe zu verbessern</string>
   <string name="volte_switch_title">VoLTE</string>
+  <string name="volte_switch_title_ct">VoLTE aktiviert</string>
+  <string name="volte_tips_when_turn_on">China Telecom VoLTE-Dienste werden nur in den Gebieten mit VoLTE-Netzabdeckung angeboten. Die VoLTE-Dienste werden vom Netzanbieter bereitgestellt.</string>  
   <string name="vvm_unsupported_message_format">Nicht unterstützer Nachrichtentyp, rufen Sie zum Abhören %s an</string>
   <string name="wait_prompt_str">Folgende Töne senden?</string>
   <string name="wfc_internet_connection_lost">Internetverbindung unterbrochen</string>
