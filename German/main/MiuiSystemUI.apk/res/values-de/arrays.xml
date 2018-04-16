@@ -19,12 +19,12 @@
     <item>Animationsskala 10x</item>
   </string-array>
   <string-array name="app_process_limit_entries">
-    <item>Standardgrenze</item>
-    <item>Keine Hintergrundprozesse</item>
-    <item>Höchstens 1 Prozess</item>
-    <item>Höchstens 2 Prozesse</item>
-    <item>Höchstens 3 Prozesse</item>
-    <item>Höchstens 4 Prozesse</item>
+    <item>Standardlimit</item>
+	<item>Keine Hintergrundprozesse</item>
+	<item>Maximal 1 Prozess</item>
+	<item>Maximal 2 Prozesse</item>
+	<item>Maximal 3 Prozesse</item>
+	<item>Maximal 4 Prozesse</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
      <item>Systemauswahl nutzen (Standard)</item>
@@ -134,9 +134,9 @@
     <item>Verwenden Sie immer die HDCP-Prüfung</item>
   </string-array>
   <string-array name="hdcp_checking_titles">
-    <item>Niemals Prüfen</item>
+    <item>Niemals prüfen</item>
     <item>Nur auf DRM-Inhalte prüfen</item>
-    <item>Immer Prüfen</item>
+    <item>Immer prüfen</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Aus</item>
@@ -164,14 +164,6 @@
     <item>Animationsskala 2x</item>
     <item>Animationsskala 5x</item>
     <item>Animationsskala 10x</item>
-  </string-array>
-  <string-array name="tts_demo_strings">
-    <item>This is an example of speech synthesis in English.</item>
-    <item>Voici un échantillon de synthèse vocale en français.</item>
-    <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-    <item>Questo è un esempio di sintesi vocale in italiano.</item>
-    <item>Este es un ejemplo de síntesis de voz en español.</item>
-    <item>이것은 한국어 음성 합성의 예입니다.</item>
   </string-array>
   <string-array name="tts_rate_entries">
     <item>Sehr langsam</item>

@@ -99,7 +99,7 @@
   <string name="allow_mock_location_summary">Vorgetäuschte Standorte erlauben</string>
   <string name="always_use_accessory">Immer für dieses USB-Zubehör verwenden</string>
   <string name="always_use_device">Immer für dieses USB-Gerät verwenden</string>
-  <string name="animator_duration_scale_title">Animationsdauer</string>
+  <string name="animator_duration_scale_title">Animationsdauerskala</string>
   <string name="apn_settings_not_available">APN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="app_label">System UI</string>
   <string name="app_process_limit_title">Hintergrundprozessgrenze</string>
@@ -145,7 +145,7 @@
   <string name="bluetooth_dun_profile_summary_connected">Verbunden mit Dun Server</string>
   <string name="bluetooth_dun_profile_summary_use_for">Für Einwahl Netzwerk verwenden</string>
   <string name="bluetooth_enable_inband_ringing">In-Band-Klingeln aktivieren</string>
-  <string name="bluetooth_enable_inband_ringing_summary">Erlaubt die Wiedergabe von Telefon-Klingeltönen über Bluetooth-Kopfhörer</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Erlaubt die Wiedergabe von Telefonklingeltönen über Bluetooth-Kopfhörer</string>
   <string name="bluetooth_headset_profile_summary_connected">Verbunden mit Telefon Audio</string>
   <string name="bluetooth_headset_profile_summary_use_for">Benutze Telefon Audio</string>
   <string name="bluetooth_hid_profile_summary_connected">Verbunden mit Eingabegerät</string>
@@ -168,8 +168,8 @@
   <string name="bluetooth_pan_profile_summary_use_for">Für Internetzugriff verwenden</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Für Internetzugriff mit Gerät verbunden</string>
   <string name="bluetooth_profile_a2dp">Media Audio</string>
-  <string name="bluetooth_profile_a2dp_high_quality">Verwenden Sie hochwertige Audioqualität: %1$s</string>
-  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Verwenden Sie hochwertige Audioqualität</string>
+  <string name="bluetooth_profile_a2dp_high_quality">High Quality Audio nutzen: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">High Quality Audio nutzen</string>
   <string name="bluetooth_profile_dun">DFÜ-Netzwerkzugang</string>
   <string name="bluetooth_profile_headset">Telefon Audio</string>
   <string name="bluetooth_profile_hid">Eingabegerät</string>
@@ -276,7 +276,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="description_image_button_answer">Annehmen</string>
   <string name="description_image_button_reject">Ablehnen</string>
   <string name="description_target_search">Suche</string>
-  <string name="dev_logpersist_clear_warning_message">Wenn nicht mehr dauerhaft mit dem Logger überwacht wird, müssen die auf Ihrem Gerät gespeicherten Logger-Daten gelöscht werden.</string>
+  <string name="dev_logpersist_clear_warning_message">Wenn wir nicht mehr mit dem dauerhaften Protokoll überwachen, müssen wir die auf Ihrem Gerät gespeicherten Protokolldaten löschen.</string>
   <string name="dev_logpersist_clear_warning_title">Dauerhaften Protokollspeicher löschen?</string>
   <string name="dev_settings_warning_message">Die Einstellungen sind nur für Entwickler bestimmt. Damit können Ihr Gerät und Apps zerstört oder missbraucht werden.</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
@@ -566,7 +566,7 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="power_charging_duration_wireless">%1$s - %2$s voll kabellos</string>
   <string name="power_discharging_duration">%1$s - ca. %2$s verstrichen</string>
   <string name="power_discharging_duration_short">%1$s - %2$s verstrichen</string>
-  <string name="power_remaining_charging_duration_only">%1$s übrig bis zur vollständigen Aufladung</string>
+  <string name="power_remaining_charging_duration_only">%1$s übrig bis voll geladen</string>
   <string name="power_remaining_duration_only">Ca. %1$s verstrichen</string>
   <string name="power_remaining_duration_only_short">%1$s verstrichen</string>
   <string name="prompt_danger">Gefahr</string>
@@ -670,8 +670,8 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="select_logd_level">Protokollebene auswählen</string>
   <string name="select_logd_size_dialog_title">Loggergrößen pro Protokollpuffer auswählen</string>
   <string name="select_logd_size_title">Logger-Puffergrößen</string>
-  <string name="select_logpersist_dialog_title">Wählen Sie die Log-Puffer aus, die dauerhaft auf dem Gerät gespeichert werden sollen</string>
-  <string name="select_logpersist_title">Loggerdaten dauerhaft auf dem Gerät speichern</string>
+  <string name="select_logpersist_dialog_title">Log-Puffer wählen, die dauerhaft auf dem Gerät gespeichert werden sollen</string>
+  <string name="select_logpersist_title">Protokolldaten dauerhaft auf dem Gerät speichern</string>
   <string name="select_usb_configuration_dialog_title">USB-Konfiguration auswählen</string>
   <string name="select_usb_configuration_title">USB-Konfiguration auswählen</string>
   <string name="select_webview_provider_dialog_title">WebView-Implementierung festsetzen</string>
@@ -735,11 +735,11 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="task_access_locked_app_msg">Die Daten der App werden nicht angezeigt</string>
   <string name="telephony_monitor_switch">Telefoniemonitor</string>
   <string name="telephony_monitor_switch_summary">Telefoniemonitor sammelt Protokolle, wenn es ein Problem mit der Telefonie-/Modemfunktionalität entdeckt, und fordert den Benutzer auf, einen Bug zu melden</string>
-  <string name="tether_settings_title_all">Tethering &amp; portabler Hotspot</string>
+  <string name="tether_settings_title_all">Tethering &amp; mobiler Hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth-Tethering</string>
   <string name="tether_settings_title_usb">USB-Tethering</string>
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
-  <string name="tether_settings_title_wifi">Portabler Hotspot</string>
+  <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
   <string name="tethering_settings_not_available">Tethering-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="title_convert_fbe">In dateibasierte Verschlüsselung umwandeln</string>
   <string name="title_usb_accessory">USB-Zubehör</string>
@@ -843,7 +843,7 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="wifi_display_certification_summary">Optionen für die drahtlose Display-Zertifizierung anzeigen</string>
   <string name="wifi_fail_to_scan">Kann nicht nach Netzwerken suchen</string>
   <string name="wifi_network_prefix_length_hint">24</string>
-  <string name="wifi_no_internet">Kein Internetzugang erkannt, keine automatische Verbindung</string>
+  <string name="wifi_no_internet">Keine Internetverbindung</string>
   <string name="wifi_no_internet_no_reconnect">Keine automatische Verbindung</string>
   <string name="wifi_not_in_range">Nicht in Reichweite</string>
   <string name="wifi_remembered">Gespeichert</string>

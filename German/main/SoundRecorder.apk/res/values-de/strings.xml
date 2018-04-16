@@ -6,7 +6,6 @@
   <string name="app_name">Rekorder</string>
   <string name="back">Zurück</string>
   <string name="btn_clear_records">Aufnahmen löschen (%d Elemente)</string>
-  <string name="button_ok">OK</string>
   <string name="button_queue_for_wifi">Warteschlange</string>
   <string name="button_start_now">Download</string>
   <string name="call_record">Anrufaufnahmen</string>
@@ -21,7 +20,6 @@
   <string name="cloud_status_full_dialog_ok">Erweitern</string>
   <string name="cloud_status_full_dialog_title">Mi Cloudspeicher ist voll</string>
   <string name="data_connection_body">Download im mobilen Datennetzwerk kann erhöhte Kosten verursachen</string>
-  <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Tipp</string>
   <string name="default_record_name">Unbenannte Aufnahme</string>
   <string name="delete">Löschen</string>
@@ -29,10 +27,8 @@
   <string name="deleting_message">Lösche…</string>
   <string name="details">Details</string>
   <string name="dialog_content_storage_full">Aufnahme wurde gestoppt, weil nicht mehr genügend Speicherplatz auf dem Gerät vorhanden ist</string>
+  <string name="dialog_privacy_revoke_tips">Nachdem Sie die Autorisierung widerrufen haben, stoppt die App die Datenerfassung, und alle zugehörigen Daten werden von den Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Autorisierung trotzdem widerrufen? Um die Sicherheit Ihres Kontos zu gewährleisten, melden Sie sich bei i.mi.com an, bevor Sie die Autorisierung für Mi Cloud Dienste widerrufen.</string>
   <string name="dialog_title_storage_full">Nicht genügend Speicherplatz</string>
-  <string name="duration_format_hour">%sh</string>
-  <string name="duration_format_minute">%sm</string>
-  <string name="duration_format_second">%ss</string>
   <string name="empty_recognition_tip">Leer</string>
   <string name="error_app_internal">Möglicherweise wird die Aufnahmesoftware von einer anderen App benutzt. Prüfen und erneut versuchen.</string>
   <string name="error_app_internal_title">Soundrekorderfehler</string>
@@ -52,7 +48,6 @@
   <string name="keywords_search_record_list">Rekorder;Protokoll;Protokolle;Aufnehmen;Aufnahme teilen;Aufnahmen teilen;Aufnahme;Aufnahmen</string>
   <string name="loading_recording">Aufnahmen werden geladen</string>
   <string name="low_battery_error">Akku hat weniger als 5%. Damit die Aufnahme nicht verloren geht, wurde diese gestoppt und gespeichert.</string>
-  <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Niedriger Akkustand</string>
   <string name="mark_point_list_title">Markieren</string>
   <string name="menu">Menü</string>
@@ -110,7 +105,6 @@
   <string name="record_download_msg_reload">Aufnahme nicht vorhanden</string>
   <string name="record_download_paused">Angehalten</string>
   <string name="record_download_pending">Anstehend</string>
-  <string name="record_download_progress">%d%%</string>
   <string name="record_downloading_notification">Wird geladen…</string>
   <string name="record_downloading_notification_complete">Download abgeschlossen</string>
   <string name="record_downloading_notification_count">%d geladen</string>
@@ -169,8 +163,6 @@
   <string name="text_btn_recording">Aufnehmen</string>
   <string name="text_btn_wave">Wellen</string>
   <string name="text_finish">Bestätigen</string>
-  <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_file_is_downloading">Datei wird geladen</string>
   <string name="toast_max_record_time">%1$s kann aufnehmen für ungefähr %2$s</string>
   <string name="toast_uninstall_fileexplorer">Dateibrowser nicht installiert</string>

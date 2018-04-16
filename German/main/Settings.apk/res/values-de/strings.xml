@@ -262,7 +262,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="android_beam_tips">Stellen Sie sicher, dass sich die beiden Geräte berühren, und wählen Sie dann die Inhalte aus, die Sie senden möchten</string>
   <string name="android_beam_witch_label">Android Beam einschalten</string>
-  <string name="animator_duration_scale_title">Animationsgeschwindigkeit</string>
+  <string name="animator_duration_scale_title">Animationsdauerskala</string>
   <string name="another_migration_already_in_progress">Eine andere Migration wird bereits ausgeführt</string>
   <string name="anr_record_interval_title">ANR-Intervalle aufnehmen</string>
   <string name="anti_spam">Sperrliste</string>
@@ -839,7 +839,7 @@ Zuletzt gelaufen am %2$s"</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN enthält Buchstaben oder Symbole</string>
   <string name="bluetooth_enable_inband_ringing">In-Band-Klingeln aktivieren</string>
-  <string name="bluetooth_enable_inband_ringing_summary">Erlaubt die Wiedergabe von Klingeltönen auf dem Telefon über Bluetooth-Headsets</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Erlaubt die Wiedergabe von Telefonklingeltönen über Bluetooth-Kopfhörer</string>
   <string name="bluetooth_enter_passkey_msg">Geben Sie den Pairing-Code ein und drücken Sie Return oder Enter</string>
   <string name="bluetooth_enter_passkey_other_device">Möglicherweise müssen Sie diesen Schlüssel auch auf dem anderen Gerät eingeben</string>
   <string name="bluetooth_enter_pin_msg">Gerät</string>
@@ -1484,7 +1484,7 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
   <string name="data_usage_menu_show_wifi">WLAN-Nutzung anzeigen</string>
   <string name="data_usage_menu_sim_cards">SIM-Karten</string>
   <string name="data_usage_menu_split_4g">4G-Nutzung separat anzeigen</string>
-  <string name="data_usage_metered_body">Wählen Sie WLAN-Netzwerke aus, die portable Hotspots sind. Apps können von der Nutzung dieser Netzwerke im Hintergrund eingeschränkt werden. Apps benachrichtigen Sie auch, bevor Sie diese Netzwerke für große Downloads nutzen.</string>
+  <string name="data_usage_metered_body">Wählen Sie WLAN-Netzwerke aus, die mobile Hotspots sind. Apps können von der Nutzung dieser Netzwerke im Hintergrund eingeschränkt werden. Apps benachrichtigen Sie auch, bevor Sie diese Netzwerke für große Downloads nutzen.</string>
   <string name="data_usage_metered_mobile">Mobilfunknetze</string>
   <string name="data_usage_metered_title">Mobile Hotspots</string>
   <string name="data_usage_metered_wifi">WLAN-Netzwerke</string>
@@ -1602,8 +1602,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="detail_app_button">Appinfo</string>
   <string name="details_subtitle">Details</string>
   <string name="details_title">Details zum Verbrauch</string>
-  <string name="dev_logpersist_clear_warning_message">Wenn wir nicht mehr mit dem dauerhaften Logger überwachen, müssen wir die auf Ihrem Gerät gespeicherten Loggerdaten löschen</string>
-  <string name="dev_logpersist_clear_warning_title">Löschen der dauerhaften Logspeicherung?</string>
+  <string name="dev_logpersist_clear_warning_message">Wenn wir nicht mehr mit dem dauerhaften Protokoll überwachen, müssen wir die auf Ihrem Gerät gespeicherten Protokolldaten löschen.</string>
+  <string name="dev_logpersist_clear_warning_title">Dauerhaften Protokollspeicher löschen?</string>
   <string name="dev_settings_warning_message">Diese Einstellungen sind ausschließlich für Entwicklungszwecke geeignet. Sie können Ihr Gerät und die darauf installierten Apps beschädigen oder zu unerwünschtem Verhalten führen.</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="developer_build">" | Beta"</string>
@@ -2562,7 +2562,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="keywords_gesture">Geste, Gesten</string>
   <string name="keywords_gps">GPS;Standort;Standortdienste;Satelliten</string>
   <string name="keywords_home">Launcher</string>
-  <string name="keywords_hotspot">Hotspot;Tether;Tethering;Personal Hotspot;Portabler Hotspot</string>
+  <string name="keywords_hotspot">Hotspot;Tether;Tethering;Persönlicher Hotspot;Mobiler Hotspot</string>
   <string name="keywords_ignore_optimizations">Optimierungen ignorieren App Standby schlafen</string>
   <string name="keywords_install_other_apps">Apps installieren unbekannte Quellen</string>
   <string name="keywords_keyboard_and_ime">Textkorrektur richtig Ton vibrieren Auto Sprache Geste vorschlagen Anregung Thema offensive Wortart Emoji</string>
@@ -3996,7 +3996,7 @@ Betriebssystem auswählen:"</string>
   <string name="power_optimize">Energie sparen</string>
   <string name="power_overcounted">Überzählt</string>
   <string name="power_phone">Anrufe</string>
-  <string name="power_remaining_charging_duration_only">%1$s bis voll geladen</string>
+  <string name="power_remaining_charging_duration_only">%1$s übrig bis voll geladen</string>
   <string name="power_remaining_duration_only">etwa %1$s übrig</string>
   <string name="power_remaining_duration_only_short">%1$s übrig</string>
   <string name="power_save_mode_enable">Sparmodus</string>
@@ -4983,8 +4983,8 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="select_logd_size_dialog_title">Loggergrößen pro Logpuffer auswählen</string>
   <string name="select_logd_size_title">Loggerpuffergrößen</string>
   <string name="select_logd_level">Protokollebene auswählen</string>
-  <string name="select_logpersist_dialog_title">Wählen Sie die Log-Puffer aus, die dauerhaft auf dem Gerät gespeichert werden sollen</string>
-  <string name="select_logpersist_title">Loggerdaten dauerhaft auf dem Gerät speichern</string>
+  <string name="select_logpersist_dialog_title">Log-Puffer wählen, die dauerhaft auf dem Gerät gespeichert werden sollen</string>
+  <string name="select_logpersist_title">Protokolldaten dauerhaft auf dem Gerät speichern</string>
   <string name="select_runtime_dialog_title">Laufzeit auswählen</string>
   <string name="select_runtime_title">Laufzeit auswählen</string>
   <string name="select_runtime_warning_message">Neustart zum Ändern der Laufzeit von %1$s an %2$s?</string>
@@ -5669,7 +5669,7 @@ Mit dieser Google-Funktion können Sie Ihre Daten synchronisieren, um von übera
   <string name="tether_auto_disable_title">Hotspot automatisch schließen</string>
   <string name="tether_custom_dialog_title">Mobiles Datenlimit</string>
   <string name="tether_data_usage_limit">Einmaliges Datenlimit</string>
-  <string name="tether_data_usage_limit_summary">Das Datenlimit wird angewendet, wenn Ihr Hotspot das nächste Mal aktiviert wird.</string>
+  <string name="tether_data_usage_limit_summary">Datenlimit wird angewendet, wenn Ihr Hotspot das nächste Mal aktiviert wird.</string>
   <string name="tether_devices_management_title">Geräte verwalten</string>
   <string name="tether_devices_max_number">Begrenzung der verbundenen Geräte</string>
   <string name="tether_limit_dialog_title">Mobiles Datenlimit</string>
@@ -6544,7 +6544,7 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="wifi_details_ipv6_address_header">IPv6-Addressen</string>
   <string name="wifi_details_subnet_mask">Subnetzmaske</string>
   <string name="wifi_dialog_remind_type_title">Mobiles Datennetzwerk</string>
-  <string name="wifi_disabled_by_recommendation_provider">Nicht angeschlossen wegen schlechter Netzqualität</string>
+  <string name="wifi_disabled_by_recommendation_provider">Nicht verbunden wegen schlechter Netzwerkqualität</string>
   <string name="wifi_disabled_generic">Deaktiviert</string>
   <string name="wifi_disabled_help">WLAN wurde aufgrund der schlechten Verbindung getrennt</string>
   <string name="wifi_disabled_network_failure">Schlechte Internetverbindung</string>
@@ -6651,7 +6651,7 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_domain_warning">Domäne muss angeben werden</string>
   <string name="wifi_no_internet">Kein Internetzugang erkannt, wird nicht automatisch wieder verbunden</string>
-  <string name="wifi_no_internet_no_reconnect">Wird nicht automatisch verbunden</string>
+  <string name="wifi_no_internet_no_reconnect">Keine automatische Verbindung</string>
   <string name="wifi_not_in_range">Nicht in Reichweite</string>
   <string name="wifi_notify_cmcc_connected_summary">Benachrichtigung anzeigen, wenn mit CMCC-Netzwerk verbunden</string>
   <string name="wifi_notify_cmcc_connected_title">CMCC-Netzwerkbenachrichtigung</string>
@@ -6884,7 +6884,7 @@ Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk h
   <string name="wifiap_settings_indication">Nach Einschalten der WLAN wifiap können andere PC/mobile Geräte eine Verbindung herstellen und mit dem Internet beginnen, indem Sie folgende Schritte ausführen:</string>
   <string name="wifiap_settings_indication_step1">1. Schalten Sie WLAN auf dem PC und mobilem Gerät ein</string>
   <string name="wifiap_settings_indication_step2">2. Finden Sie “%s” in der Liste der WLAN-Netzwerke</string>
-  <string name="wifiap_title">WLAN Hotspot</string>
+  <string name="wifiap_title">WLAN-Hotspot</string>
   <string name="wifiap_turn_on_hint">Zur Verwendung von WLAN wifiap schalten Sie es ein</string>
   <string name="wimax_settings">4G-Einstellungen</string>
   <string name="window_animation_scale_title">Fensteranimation</string>

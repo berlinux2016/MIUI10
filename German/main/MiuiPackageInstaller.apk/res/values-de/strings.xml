@@ -188,8 +188,8 @@ Drücken Sie "Löschen und Konvertieren" zum fortsetzen."</string>
   <string name="debug_networking_category">Vernetzung</string>
   <string name="debug_view_attributes">Ansichtsattributeprüfung aktivieren</string>
   <string name="default_permission_description">Unbekannte Aktion durchführen</string>
-  <string name="dev_logpersist_clear_warning_message">Wenn wir nicht mehr mit dem dauerhaften Logger überwachen, müssen wir die auf Ihrem Gerät gespeicherten Loggerdaten löschen</string>
-  <string name="dev_logpersist_clear_warning_title">Löschen der dauerhaften Logspeicherung?</string>
+  <string name="dev_logpersist_clear_warning_message">Wenn wir nicht mehr mit dem dauerhaften Protokoll überwachen, müssen wir die auf Ihrem Gerät gespeicherten Protokolldaten löschen.</string>
+  <string name="dev_logpersist_clear_warning_title">Dauerhaften Protokollspeicher löschen?</string>
   <string name="dev_settings_warning_message">Diese Einstellungen sind nur für Entwickler gedacht. Sie können dazu führen, dass Ihr Gerät und die darauf befindlichen Anwendungen beschädigt werden oder sich falsch verhalten.</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
@@ -513,8 +513,8 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="select_application">Anwendung auswählen</string>
   <string name="select_logd_size_dialog_title">Loggergrößen pro Log-Puffer auswählen</string>
   <string name="select_logd_size_title">Log-Puffergrößen</string>
-  <string name="select_logpersist_dialog_title">Log-Puffer auswählen, um dauerhaft auf dem Gerät zu speichern</string>
-  <string name="select_logpersist_title">Loggerdaten dauerhaft auf dem Gerät speichern</string>
+  <string name="select_logpersist_dialog_title">Log-Puffer wählen, die dauerhaft auf dem Gerät gespeichert werden sollen</string>
+  <string name="select_logpersist_title">Protokolldaten dauerhaft auf dem Gerät speichern</string>
   <string name="select_usb_configuration_dialog_title">USB-Konfiguration auswählen</string>
   <string name="select_usb_configuration_title">USB-Konfiguration auswählen</string>
   <string name="select_webview_provider_dialog_title">WebView-Implementierung einstellen</string>
@@ -539,11 +539,11 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="strict_mode_summary">Bildschirm aufblitzen, wenn Apps lange Aktionen am Hauptthread durchführen</string>
   <string name="system_apps_decor_title">%1$s Berechtigungen</string>
   <string name="system_warning">Wenn Sie diese Berechtigung deaktivieren, funktionieren grundlegende Funktionen Ihres Geräts möglicherweise nicht mehr ordnungsgemäß</string>
-  <string name="tether_settings_title_all">Tethering &amp; Tragbarer Hotspot</string>
+  <string name="tether_settings_title_all">Tethering &amp; mobiler Hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetoothtethering</string>
   <string name="tether_settings_title_usb">USB-Tethering</string>
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
-  <string name="tether_settings_title_wifi">Tragbarer Hotspot</string>
+  <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
   <string name="tethering_settings_not_available">Tetheringeinstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="title_convert_fbe">Umwandlung in dateibasierte Verschlüsselung</string>
   <string name="toast_network_eror">Netzwerkverbindung fehlgeschlagen</string>
@@ -642,7 +642,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="wifi_display_certification_summary">Zeige Optionen für die Zertifizierung der Drahtlosanzeige</string>
   <string name="wifi_fail_to_scan">Scan nicht möglich</string>
   <string name="wifi_no_internet">Keine Internetverbindung</string>
-  <string name="wifi_no_internet_no_reconnect">Keine Internetverbindung</string>
+  <string name="wifi_no_internet_no_reconnect">Keine automatische Verbindung</string>
   <string name="wifi_not_in_range">Nicht in Reichweite</string>
   <string name="wifi_remembered">Gespeichert</string>
   <string name="wifi_security_eap">802.1x EAP</string>
