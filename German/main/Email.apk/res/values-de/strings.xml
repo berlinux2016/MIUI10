@@ -355,8 +355,8 @@
   <string name="date_heading">"Datum: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Heute, %1$s</string>
-  <string name="debug_mode_preferencecategory">Bitte LOG-Ausgabemodus einstellen</string>
-  <string name="debug_mode_settings">DEBUG-Modus</string>
+  <string name="debug_mode_preferencecategory">Protokollausgabe einrichten</string>
+  <string name="debug_mode_settings">DEBUG-Moduseinstellungen</string>
   <string name="default_">Standard</string>
   <string name="default_setup">Standardeinstellungen</string>
   <string name="default_signature">Gesendet von meinem %s</string>
@@ -456,7 +456,7 @@
   <string name="file_rar_not_support">Verschlüsselte Rar-Dateien werden nicht unterstützt</string>
   <string name="file_save_path_dialog_cancel">Abbrechen</string>
   <string name="file_save_path_dialog_ok">Jetzt ändern</string>
-  <string name="file_save_term">Dateispeicherbegriff</string>
+  <string name="file_save_term">Begriffe zum Speichern von Dateien</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="first_quick_default_reply">Tippen, um \"%s\" an alle Personen in der Konversation zu senden</string>
   <string name="float_window_content">Es wurde erkannt, dass Sie 139 Mailbox verwenden. Klicken Sie auf Bestätigen, um durch 139 Mailbox automatisch das Konto und Passwort auszufüllen.</string>
@@ -498,7 +498,7 @@
   <string name="folder_trash_name_en1">Gelöschte Nachrichten</string>
   <string name="folder_trash_name_en2">Gelöschte Nachricht</string>
   <string name="folder_trash_name_en3">[Gmail]/Bin</string>
-  <string name="forever">Für immer</string>
+  <string name="forever">Immer</string>
   <string name="forward">Weiterleiten</string>
   <string name="forward_attachment">Weiterleiten</string>
   <string name="forward_attribution">---------- Weitergeleitete Nachricht ----------&lt;br&gt;Von: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Betreff: %3$s&lt;br&gt;An: %4$s&lt;br&gt;</string>
@@ -566,7 +566,7 @@
   <string name="loading_from_remote">Auf dem Server…</string>
   <string name="local_search">Lokale Suche</string>
   <string name="local_search_result">%s Treffer in allen lokalen E-Mails</string>
-  <string name="log_save_path">LOG Speicherpfad</string>
+  <string name="log_save_path">LOG Pfad</string>
   <string name="login">Anmelden</string>
   <string name="login139">CMCC Ein-Klick-Anmeldung</string>
   <string name="login_failed_ticker">Anmeldung in %s erfolglos</string>
@@ -741,10 +741,10 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="outbox_alert_select_operation">Bitte Vorgang auswählen</string>
   <string name="outbox_alert_title_sent_failed">E-Mail konnte nicht gesendet werden</string>
   <string name="outbox_no_mails">Leer</string>
-  <string name="output_all_log">"Alle LOG's ausgeben"</string>
+  <string name="output_all_log">Alle Protokolle ausgeben</string>
   <string name="output_db_summary">Dies wird Ihre Datenbank ausgeben</string>
   <string name="output_db_title">Ausgabedatenbank</string>
-  <string name="output_to_disk">LOG in Datei ausgeben</string>
+  <string name="output_to_disk">Protokolle in Datei speichern</string>
   <string name="over_due">Überfällig</string>
   <string name="overlays_fail_tip">Mailbox konnte leider nicht konfiguriert werden. Öffnen Sie die Berechtigungen für schwebende Fenster und versuchen Sie es erneut.</string>
   <string name="overlays_ok">Berechtigungen öffnen</string>
@@ -918,7 +918,7 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="recognize_ticket_air_notification_title">Flug %3$s (%1$s/%2$s) wird bald starten. Zur Sicherheit prüfen Sie Ihre Fluginformation.</string>
   <string name="recognize_ticket_air_state_stopover">Zwischenstopp</string>
   <string name="recognize_ticket_air_state_transfer">Transfer</string>
-  <string name="recognize_ticket_air_user_name">Passagier:</string>
+  <string name="recognize_ticket_air_user_name">Passagier: %1$s</string>
   <string name="recognize_ticket_title">Flug- &amp; Zugtickets</string>
   <string name="recognize_ticket_train_alter">Geändert</string>
   <string name="recognize_ticket_train_depart_date">Fährt um %3$s:%4$s auf %1$s/%2$s ab</string>
@@ -950,7 +950,7 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="report_rendering_problem">Sieht schlecht aus</string>
   <string name="report_rendering_problem_desc">Diese Nachricht sieht schlecht aus.</string>
   <string name="report_spam">Spam melden</string>
-  <string name="request_copy_db_to_disk">E-Mail Anfrage, kopieren Sie Ihre Datenbank in die Datei</string>
+  <string name="request_copy_db_to_disk">E-Mail fordert Sie auf, Ihre Datenbank in eine Datei zu kopieren.</string>
   <string name="request_entity_large">Datei ist zu groß!</string>
   <string name="request_permission_activity">Zugriffsanfrage</string>
   <string name="retry_login">Bitte melden Sie sich erneut an</string>  
@@ -1135,7 +1135,7 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchr
   <string name="wrong_password">Das eingegebene Passwort ist falsch</string>
   <string name="yes">Ja</string>
   <string name="yidianzixun">yidianzixun</string>
-  <string name="you_are_in_mobile_network">Log über die mobile Datenverbindung senden?</string>
+  <string name="you_are_in_mobile_network">Protokoll über die mobile Datenverbindung senden?</string>
   <string name="youfuli">Werbung</string>
   <string name="zip_viewer_no_file">Keine Dateien</string>
 </resources>
