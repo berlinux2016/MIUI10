@@ -2,7 +2,6 @@
 <resources>
   <string name="activate_feature_default_name">Mi Service</string>
   <string name="activate_feature_mi_roaming">Mi Roaming</string>
-  <string name="accept">OK</string>
   <string name="activate">Aktivieren</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS gesendet um \"Gerät finden\" zu aktivieren</string>
   <string name="activate_auto_sms_notification_desc_2_cards">SMS von SIM-Karte %s gesendet um \"Gerät finden\" zu aktivieren</string>
@@ -120,5 +119,7 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktivieren."</string>
   <string name="phone_verify_processing">Verifiziere…</string>
   <string name="phone_verify_text">%1$s wird deine Telefonnummer nicht erhalten. Es wird nur sichergestellt, dass die Nummer gültig ist. Zustimmen?</string>
   <string name="phone_verify_title">%1$s zustimmen, um die Telefonnummer zu verifizieren</string>
+  <string name="privacy_revoke_failed_msg">Aktivierung erfordert die Erteilung einer Berechtigung, damit Messaging Ihre Telefonnummer erhalten kann.</string>
+  <string name="privacy_revoke_tips">Nachdem Sie die Autorisierung widerrufen haben, wird Messaging Ihre Daten nicht mehr sammeln und alle Ihre Daten von seinen Servern löschen. Die Synchronisierung mit Mi Cloud, Mi Message und anderen Messaging-Funktionen ist nicht mehr möglich. Autorisierung trotzdem widerrufen?</string>
   <string name="sim_unactivated_title">SIM-Karte ist nicht aktiviert</string>
 </resources>
