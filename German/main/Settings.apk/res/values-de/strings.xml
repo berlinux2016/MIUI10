@@ -52,6 +52,7 @@ Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Wer
   <string name="accessibility_captioning_title">Untertitel</string>
   <string name="accessibility_category_personal">Persönliche Profilkonten</string>
   <string name="accessibility_category_work">Arbeitsprofilkonten - %s</string>
+  <string name="accessibility_close_tab">Aktuelle Tabs schließen</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Diese Funktion ist experimentell und kann die Leistung beeinträchtigen</string>
   <string name="accessibility_display_daltonizer_preference_title">Farbkorrektur</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Experimentell) Kann die Leistung beeinträchtigen</string>
@@ -71,6 +72,7 @@ Falls das Gerät mehrere Benutzer hat, werden die Bedienungshilfen durch Verwend
   <string name="accessibility_lock_screen_progress">%1$d von %2$d Zeichen verwendet</string>
   <string name="accessibility_long_press_timeout_preference_title">Reaktionszeit Berühren/Halten</string>
   <string name="accessibility_menu_item_settings">Einstellungen</string>
+  <string name="accessibility_more_settings">weitere Einstellungen</string>
   <string name="accessibility_no_service_selected">Kein Dienst gewählt</string>
   <string name="accessibility_no_services_installed">Keine Dienste installiert</string>
   <string name="accessibility_no_wifi">WLAN getrennt</string>
@@ -1173,6 +1175,7 @@ Abtastrate"</string>
   <string name="children_mode_tips_off">Nach Einschalten der Kindersicherung die Hometaste drücken, um zurückzukehren</string>
   <string name="children_mode_tips_on">Nach Ausschalten der Kindersicherung die Hometaste drücken, um zurückzukehren</string>
   <string name="children_mode_title">Kindersicherung</string>
+  <string name="choose_a_card_to_reset">SIM-Karte zum Zurücksetzen auswählen</string>
   <string name="choose_assist_title">Assistenten auswählen</string>
   <string name="choose_profile">Profil auswählen</string>
   <string name="choose_smartcover_type">Smartcovertyp auswählen</string>
@@ -4375,13 +4378,17 @@ UT Interface: %5$s"</string>
   <string name="reset_app_preferences_title">Appeinstellungen zurücksetzen?</string>
   <string name="reset_dashboard_title">Zurücksetzen</string>
   <string name="reset_legacy_password_settings_preface_text">Sie müssen Ihr Sperrbildschirmpasswort zurücksetzen</string>
+  <string name="reset_network_bluetooth">Bluetooth</string>
   <string name="reset_network_button_text">Einstellungen zurücksetzen</string>
+  <string name="reset_network_category">"Dadurch werden alle Netzwerkeinstellungen zurückgesetzt, einschließlich: "</string>
   <string name="reset_network_complete_toast">Netzwerkeinstellungen wurden zurückgesetzt</string>
   <string name="reset_network_confirm_title">Zurücksetzen?</string>
+  <string name="reset_network_data">Mobile Daten</string>
   <string name="reset_network_desc">Dadurch werden alle Netzwerkeinstellungen zurückgesetzt</string>
   <string name="reset_network_final_button_text">Einstellungen zurücksetzen</string>
   <string name="reset_network_final_desc">Alle Netzwerkeinstellungen zurücksetzen? Sie können diese Aktion nicht rückgängig machen!</string>
   <string name="reset_network_title">Einstellungen zurücksetzen</string>
+  <string name="reset_network_wifi">WLAN</string>
   <string name="reset_second_space_passwd">Zweitprofilpasswort zurücksetzen</string>
   <string name="reset_second_space_passwd_cancel">Abbrechen</string>
   <string name="reset_second_space_passwd_confirm">Weiter</string>
@@ -6604,6 +6611,7 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="wifi_frequency">Frequenz</string>
   <string name="wifi_gateway">Gateway</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
+  <string name="wifi_hide_password">Passwort ausblenden</string>
   <string name="wifi_hotspot_checkbox_text">WLAN-Hotspot</string>
   <string name="wifi_hotspot_checkbox_text_summary">Verwenden Sie die Mobilfunkverbindung, um ein WLAN-Netzwerk bereitzustellen</string>
   <string name="wifi_hotspot_configure_ap_text">WLAN-Hotspoteinrichtung</string>
