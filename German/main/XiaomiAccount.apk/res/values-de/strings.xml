@@ -167,7 +167,6 @@ Ihre Konto ID: %s"</string>
   <string name="error_user_name">Benutzername ungültig</string>
   <string name="exceed_binded_phone_times_notice">Diese Telefonnummer wurde bereits mit einem anderen Mi Konto verbunden</string>
   <string name="exit">Beenden</string>
-  <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Diese Telefonnummer ist bereits mit einem anderen Mi Konto verknüpft</string>
   <string name="find_device_access_denied">Status kann nicht überprüft werden, Zugriff verweigert</string>
   <string name="find_device_account_error">Status kann wegen eines Kontofehlers nicht überprüft werden</string>
@@ -201,7 +200,7 @@ Ihre Konto ID: %s"</string>
   <string name="get_phone_verifycode_exceed_limit">Zu viele Verifikationscodes wurden an diese Telefonnummer versendet. Warten Sie 24 Stunden und versuchen Sie es erneut.</string>
   <string name="guest_account_label">Mi Gastkonto</string>
   <string name="i_know">Ist bekannt</string>
-  <string name="identity">Identifizierung</string>  
+  <string name="identity">Identifizierung</string>
   <string name="ignore">Nicht jetzt</string>
   <string name="input_captcha_hint">Code eingeben</string>
   <string name="input_email_address_notice">Wir verwenden diese Adresse, um Ihr Konto zu überprüfen</string>
@@ -317,7 +316,7 @@ Ihre Konto ID: %s"</string>
   <string name="passport_click_email_to_valid">Klicken Sie auf den Link in Ihrem Posteingang, um Ihr Konto zu aktivieren</string>
   <string name="passport_completed">Abgeschlossen</string>
   <string name="passport_confirm">Bestätigen</string>
-  <string name="passport_confirm_login">Weiter</string>  
+  <string name="passport_confirm_login">Weiter</string>
   <string name="passport_confirm_recycle_account">Ja</string>
   <string name="passport_confirm_recycle_account_msg">&lt;font color=Red&gt;%s verdächtig.&lt;/font&gt; Sieht so aus, als ob die Nummer von Ihrem Anbieter recycelt wurde, und es ist ein Mi Konto damit verbunden. Gehört dieses Konto Ihnen?</string>
   <string name="passport_continue">Weiter</string>
@@ -355,6 +354,7 @@ Ihre Konto ID: %s"</string>
   <string name="passport_error_verify_activator_phone_message">Stellen Sie sicher, dass die SIM-Karte aktiv und Ihr Gerät mit dem Internet verbunden ist</string>
   <string name="passport_error_verify_activator_phone_title">Konnte Nummer nicht verifizieren</string>
   <string name="passport_error_verify_code">Eingegebener Code ist ungültig</string>
+  <string name="passport_extra_gdpr_license">Das Erstellen Ihres Mi-Kontos bedeutet, dass Sie damit einverstanden sind, dass Xiaomi Ihre persönlichen Daten sammelt, verarbeitet und nutzt, einschließlich Verifizierungsdaten (z.B. Verifizierungscodes), Zweitprofildaten (z.B. Informationen über die Art und Weise, wie Sie das Zweitprofil nutzen, IDs, die im Haupt- und Zweitprofil verwendet werden) und andere Daten, die in unserer Datenschutzrichtlinie angegeben sind. In unserer Datenschutzrichtlinie erfahren Sie, wie wir personenbezogene Daten verarbeiten und nutzen.</string>
   <string name="passport_failed_to_send_activate_email">Aktivierungs-E-Mail konnte nicht gesendet werden</string>
   <string name="passport_find_device_activate_account">Konto aktivieren</string>
   <string name="passport_find_device_display_id">Nummer freischalten:%s</string>
@@ -380,7 +380,8 @@ Ihre Konto ID: %s"</string>
   <string name="passport_input_phone_hint">Telefonnummer eingeben</string>
   <string name="passport_input_vcode_hint">Verifikationscode eingeben</string>
   <string name="passport_input_verify_code_hint">Verifikationscode eingeben</string>
-  <string name="passport_license_host_unreachable">Verbindung zum Netzwerk nicht möglich. Sie können diese Seite unter %s anzeigen.</string>  
+  <string name="passport_input_voice_captcha_hint">Sprachverifikationscode eingeben</string>
+  <string name="passport_license_host_unreachable">Verbindung zum Netzwerk nicht möglich. Sie können diese Seite unter %s anzeigen.</string>
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Anmelden</string>
   <string name="passport_login_check_find_device">Gerätelokalisierungstatus wird überprüft…</string>
@@ -416,7 +417,7 @@ Ihre Konto ID: %s"</string>
   <string name="passport_pwd_generate_failure">Passwort konnte nicht generiert werden</string>
   <string name="passport_pwd_generating">Generieren…</string>
   <string name="passport_reg_failed">Konto kann nicht eingerichtet werden</string>
-  <string name="passport_register">Ein Konto erstellen</string>  
+  <string name="passport_register">Ein Konto erstellen</string>
   <string name="passport_querying_phone_info">Fordere Kontoinfo an…</string>
   <string name="passport_quick_login">Anmelden</string>
   <string name="passport_quick_login_dialog_step2_title">2-stufige Verifizierung</string>
@@ -482,7 +483,7 @@ Ihre Konto ID: %s"</string>
   <string name="passport_skip_setup_account_msg">Sie können ein Mi Konto später in den Einstellungen einrichten</string>
   <string name="passport_skip_setup_account_title">Einrichtung überspringen</string>
   <string name="passport_sms_send_success">Gesendet</string>
-  <string name="passport_sms_verification_code_login">SMS-Bestätigungscode für Login</string>   
+  <string name="passport_sms_verification_code_login">SMS-Bestätigungscode für Login</string>
   <string name="passport_sync_account_data">Synchronisiere Kontodaten</string>
   <string name="passport_sync_account_data_failed_warning">Ihre Kontoinformationen werden jetzt synchronisiert, Sie können sich mit Ihrer Mi Konto ID anmelden. Wenn Sie sich mit Telefonnummer oder E-Mail anmelden möchten, warten Sie, bis die Daten vollständig synchronisiert sind.</string>
   <string name="passport_title_reg">Konto erstellen</string>
@@ -540,7 +541,6 @@ Ihre Konto ID: %s"</string>
   <string name="push_notification_title">Sie haben sich von einem unbekannten Gerät angemeldet</string>
   <string name="push_notify_dialog_message">Sie haben sich von einem unbekannten Gerät angemeldet. Geben Sie auf diesem Gerät einen Verifikationscode ein. Falls nicht Sie sich angemeldet haben, ändern Sie sofort Ihr Passwort. Geben Sie Verifikationscodes nicht an Dritte weiter.</string>
   <string name="push_notify_dialog_title">Konto bestätigen</string>
-  <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-stufige Verifizierung</string>
   <string name="quick_login_dialog_title">Passwort verifizieren</string>
   <string name="quick_login_step2_title">2-stufige Verifizierung</string>
@@ -616,7 +616,6 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="sign_in">Anmelden</string>
   <string name="sim_changed_notification_msg">Tap to update your recovery phone und geben Sie Ihrem Konto mehr Sicherheit.</string>
   <string name="sim_changed_notification_title">Telefonnummer ändern?</string>
-  <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_register">Schritt überspringen</string>
   <string name="sms_send_success">Gesendet</string>
   <string name="sns_access_token_expired_warning">Anmeldung abgelaufen. Melden Sie sich erneut an, um sich mit Ihrem Konto zu verbinden.</string>
@@ -671,5 +670,4 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="wipe_data_dialog_title">Einige Daten wurden nicht synchronisiert</string>
   <string name="wrong_captcha">Eingegebener Code ist falsch</string>
   <string name="wrong_vcode">Eingegebener Verifikationscode ist falsch</string>
-  <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
