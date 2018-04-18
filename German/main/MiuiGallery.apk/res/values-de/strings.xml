@@ -2,6 +2,7 @@
 <resources>
   <string name="accept">Annehmen</string>
   <string name="accept_or_deny">%1$s teilt das Album %2$s mit Ihnen</string>
+  <string name="actionbar_overflow_item_desc">Mehr Einstellungen</string>
   <string name="activity_not_found">Für diese Aktion ist keine App verfügbar</string>
   <string name="add_account">Konto hinzufügen</string>
   <string name="add_automatically_alert_msg">Fotos von \"%1$s\" automatisch zu diesem Album hinzufügen?</string>
@@ -39,6 +40,7 @@
   <string name="add_to_secret_successfully_message">Zu verstecktem Album hinzugefügt</string>
   <string name="add_to_secret_unfinished_message_with_count">%1$s Dateien wurden nicht zu verstecktem Album hinzugefügt</string>
   <string name="add_to_share_album_not_delete">Foto kann im geteilten Album nicht gelöscht werden</string>
+  <string name="added_to_favorites">Zu Favoriten hinzugefügt</string>
   <string name="added_to_favorites_tip">Hinzugefügt zu \"Favoriten\" Album</string>
   <string name="adding">Wird hinzugefügt</string>
   <string name="adding_recipients">Empfänger hinzufügen…</string>
@@ -130,6 +132,7 @@
   <string name="app_name_edit_picture">Foto bearbeiten</string>
   <string name="app_name_view_picture">Zeige Fotos</string>
   <string name="app_name_view_video">Videos ansehen</string>
+  <string name="application_icon">Appsymbol</string>
   <string name="apply">Übernehmen</string>
   <string name="appwidget_empty_text">Keine Fotos</string>
   <string name="appwidget_title">Galerie</string>
@@ -312,6 +315,8 @@
   <string name="click_to_add_picture">Tippen, um Fotos hinzuzufügen</string>
   <string name="click_top_right">Oben rechts auf das Symbol tippen</string>
   <string name="close">Schließen</string>
+  <string name="close">Schließen</string>
+  <string name="close_dialog_desc">Dialogbox schließen</string>
   <string name="cloud_album_more_settings">Mit Mi Cloud synchronisieren</string>
   <string name="cloud_album_set_create">Neu</string>
   <string name="cloud_album_set_scan_qr_code">QR-Code</string>
@@ -356,6 +361,7 @@
   <string name="cloudfolder_loading_data">Einen Moment…</string>
   <string name="cloudfolder_name_cannot_empty">Ordnernamen eingeben</string>
   <string name="cloudfolder_name_reserved">Ordnername ist reserviert</string>
+  <string name="collage__talkback_effect">%d Effekt</string>
   <string name="collage_choose">Auswählen</string>
   <string name="collage_margin_text">Ränder</string>
   <string name="collage_mirror">Spiegeln</string>
@@ -408,6 +414,9 @@
   <string name="contrast_abbr">K</string>
   <string name="cool">Kühl</string>
   <string name="cool_portrait">Porträt</string>
+  <string name="correct_photo_time">Datum und Uhrzeit für Fotos korrigieren</string>
+  <string name="correct_time_success">Erfolgreich korrigiert</string>
+  <string name="correct_time_tip">Datum und Uhrzeit korrigieren…</string>
   <string name="create_baby_album">Erstelle ein Kinderalbum</string>
   <string name="create_baby_album_dialog_msg">Erstelle ein Album für \"%s\"?</string>
   <string name="create_baby_album_later_toast">Erstelle jederzeit in den Einstellungen ein Kinderalbum</string>
@@ -432,6 +441,7 @@
   <string name="custom_select_title_select_item">Elemente auswählen</string>
   <string name="cut">Ausschneiden</string>
   <string name="damaged_file">Datei beschädigt</string>
+  <string name="debugging_info">Debug-Info wurde erfolgreich generiert. Tippen Sie auf OK, um den Ordner zu öffnen.</string>
   <string name="debugging_tip">Debuginformationen werden generiert</string>
   <string name="defalt_local_mobile">Mobil</string>
   <string name="default_album_name">Neues Album</string>
@@ -611,6 +621,7 @@
   <string name="exit_share_in_process">Beenden \"%s\"…</string>
   <string name="exit_share_successfully">%1$s beendet</string>
   <string name="exit_video_play">Beenden</string>
+  <string name="expand_desc">Mehr</string>
   <string name="expand_people">Weitere Personen anzeigen</string>
   <string name="exposure_time">Belichtungszeit</string>
   <string name="external_sd_card">SD-Karte</string>
@@ -648,6 +659,7 @@
   <string name="fail_to_pick_email">Ungültige E-Mail</string>
   <string name="fail_to_sync_album">Synchronisation des Albums fehlgeschlagen. Netzwerkverbindung prüfen und erneut versuchen.</string>
   <string name="family_member_invitation_text">Andere Familienmitglieder</string>
+  <string name="fancy_color_desc">Farben</string>
   <string name="fancy_color_tip">Tippen Sie auf das Foto, um den Sweetspot einzustellen</string>
   <string name="fancycolor_title">Hintergrundeffekte</string>
   <string name="fast_share_auto_render">Verschönern</string>
@@ -670,6 +682,7 @@
   <string name="filter_bi_young">Jung</string>
   <string name="filter_category_film">Film</string>
   <string name="filter_category_food">Lebensmittel</string>
+  <string name="filter_category_master">Master</string>
   <string name="filter_category_portrait">Porträt</string>
   <string name="filter_category_scene">Landschaft</string>
   <string name="filter_clarendon_fresh">Frisch</string>
@@ -695,6 +708,11 @@
   <string name="filter_hudson_blues">Hudson</string>
   <string name="filter_japan_style_cool">Kalt</string>
   <string name="filter_loft_twilight">Zwielicht</string>
+  <string name="filter_master_hazy">Hazy</string>
+  <string name="filter_master_mellow">Mellow</string>
+  <string name="filter_master_memoire">Memoire</string>
+  <string name="filter_master_rise">Rise</string>
+  <string name="filter_master_somber">Somber</string>
   <string name="filter_original">Original</string>
   <string name="filter_people_blackwhite">S&amp;W</string>
   <string name="filter_people_fairytale">Kinder</string>
@@ -702,9 +720,12 @@
   <string name="filter_people_japanese">Frisch</string>
   <string name="filter_people_maze">Labyrinth</string>
   <string name="filter_people_mint">Minze</string>
+  <string name="filter_people_movie">Movie</string>
   <string name="filter_people_nature">Natur</string>
   <string name="filter_people_pink">Erröten</string>
+  <string name="filter_people_riddle">Riddle</string>
   <string name="filter_people_roman">Romantisch</string>
+  <string name="filter_people_story">Story</string>
   <string name="filter_profoto_cloud">Profoto</string>
   <string name="filter_rise_lomo">LOMO</string>
   <string name="filter_scene_city">Stadt</string>
@@ -737,6 +758,7 @@
   <string name="frame_semicircle">Halbkreis</string>
   <string name="frame_white">Weiß</string>
   <string name="free">Frei</string>
+  <string name="free_view_desc">3D zeigen</string>
   <string name="free_view_tip">Kippen Sie das Telefon leicht, um den 3D-Effekt zu sehen</string>
   <string name="gallery_cloud_provider_name">Cloudalbum</string>
   <string name="gallery_setting">Einstellungen</string>
@@ -1135,6 +1157,27 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="photo_editor_rotate">Drehen</string>
   <string name="photo_editor_saving">Speichern…</string>
   <string name="photo_editor_sticker">Sticker</string>
+  <string name="photo_editor_talkback_cancel">Abbrechen</string>
+  <string name="photo_editor_talkback_confirm">Bestätigen</string>
+  <string name="photo_editor_talkback_crop_1_1">1:1</string>
+  <string name="photo_editor_talkback_crop_16_9">16:9</string>
+  <string name="photo_editor_talkback_crop_3_4">3:4</string>
+  <string name="photo_editor_talkback_crop_4_3">4:3</string>
+  <string name="photo_editor_talkback_crop_9_16">9:16</string>
+  <string name="photo_editor_talkback_crop_free">Frei</string>
+  <string name="photo_editor_talkback_crop_mirror">Spiegeln</string>
+  <string name="photo_editor_talkback_crop_original">Original</string>
+  <string name="photo_editor_talkback_crop_rotate">Rotieren</string>
+  <string name="photo_editor_talkback_doodle_arrow">Pfeil</string>
+  <string name="photo_editor_talkback_doodle_circular">Kreis</string>
+  <string name="photo_editor_talkback_doodle_line">Linie</string>
+  <string name="photo_editor_talkback_doodle_path">Pinsel</string>
+  <string name="photo_editor_talkback_doodle_rectangle">Rechteck</string>
+  <string name="photo_editor_talkback_effect">%d Effekt</string>
+  <string name="photo_editor_talkback_eraser">Radieren</string>
+  <string name="photo_editor_talkback_recently">Kürzlich benutzt</string>
+  <string name="photo_editor_talkback_redo">Wiederholen</string>
+  <string name="photo_editor_talkback_undo">Rückgängig machen</string>
   <string name="photo_editor_text">Text</string>
   <string name="photo_page_save_uri_image_fail">Speichern in Galerie fehlgeschlagen</string>
   <string name="photo_page_save_uri_image_ok">Foto in Galerie gespeichert</string>
@@ -1191,6 +1234,8 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="picker_title_specify_format_one">%d Foto ausgewählt</string>
   <string name="picker_title_unlimit">Foto auswählen</string>
   <string name="places_album_empty_title">Fotos können nach Standorten sortiert werden</string>
+  <string name="play_gif_desc">GIF abspielen</string>
+  <string name="play_video_desc">Video abspielen</string>
   <string name="pocket_camera_picture">Fotos</string>
   <string name="pocket_camera_video">Videos</string>
   <string name="pocketcamera">Pocketkamera</string>
@@ -1231,6 +1276,7 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="redeye_tooltip">Berühren, um rote Augen zu entfernen</string>
   <string name="refocus">Refokussieren</string>
   <string name="refocus_data_downloading">Lade Neufokussierungdaten…</string>
+  <string name="refocus_desc">Erneut fokusieren</string>
   <string name="refocus_tip">Tippen Sie auf das Foto, um es neu zu fokussieren</string>
   <string name="relation_text_empty_alert">Füge Beziehungsinfo hinzu</string>
   <string name="relation_text_family">Familienmitglied</string>
@@ -1363,6 +1409,7 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="search_setting_title">Finde Fotos in der Galerie</string>
   <string name="search_syncing">Datensynchronisation, kommen Sie später wieder</string>
   <string name="search_title_album">Album</string>
+  <string name="search_title_app_screenshot">App-Screenshots</string>
   <string name="search_title_history">Verlauf</string>
   <string name="search_title_location">Orte</string>
   <string name="search_title_more">Mehr</string>
@@ -1402,9 +1449,12 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="select_too_much_to_send_tips">Zu viele Fotos zum Senden ausgewählt (Maximal %d)</string>
   <string name="select_video">Video auswählen</string>
   <string name="send">Senden</string>
+  <string name="send_file_beautify_failed">Konnte nicht teilen</string>
   <string name="send_invitation_fail">Einladung konnte nicht gesendet werden</string>
   <string name="send_multiple_files_hint_format">Senden (%s)</string>
   <string name="send_public_url">Albumlink senden</string>
+  <string name="send_secret_file_failed">Konnte nicht teilen</string>
+  <string name="send_secret_file_space_low">Nicht genügend Speicherplatz</string>
   <string name="send_too_many_files_error">So viele Elemente können nicht gesendet werden (maximal %d Elemente)</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Als Sperrbildschirmhintergrund</string>
@@ -1442,6 +1492,7 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="share_album">Album teilen</string>
   <string name="share_album_needs_auto_upload_tip">Backup kann für geteilte Alben nicht deaktiviert werden</string>
   <string name="share_album_owner">Eigentümer</string>
+  <string name="share_album_qr_code">Alben QR-Code</string>
   <string name="share_album_space_full">Nicht genügend Speicherplatz in diesem Album</string>
   <string name="share_by_email_start">%1$s im Hintergrund teilen</string>
   <string name="share_by_email_successfully">%1$s geteilt</string>
@@ -1706,6 +1757,7 @@ Tippen Sie auf Einstellen, um zu Berechtigungen zu gelangen."</string>
   <string name="view_baby_info">Kinderinfos bearbeiten</string>
   <string name="view_by_gallery_tip">MIUI Galerie</string>
   <string name="view_face_album">Album anzeigen</string>
+  <string name="view_more_face_desc">Weitere Personen anzeigen</string>
   <string name="view_queuing_status">Status überprüfen</string>
   <string name="view_sharers">Benutzer anzeigen</string>
   <string name="vignette">Vignette</string>
