@@ -448,7 +448,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="assist_access_context_summary">Dem Assistenten erlauben, auf dem Bildschirm angezeigten Text zu verarbeiten</string>
   <string name="assist_access_context_title">Bildschirmtext verwenden</string>
   <string name="assist_access_screenshot_summary">Dem Assistenten erlauben, auf dem Bildschirm angezeigte Bilder zu verarbeiten</string>
-  <string name="assist_access_screenshot_title">Bildschirmfoto verwenden</string>
+  <string name="assist_access_screenshot_title">Screenshot verwenden</string>
   <string name="assist_and_voice_input_title">Assistent &amp; Spracheingabe</string>
   <string name="assist_flash_summary">Bildschirmränder blinken lassen, wenn die Hilfsapp auf Text vom Bildschirm oder Screenshot zugreift</string>
   <string name="assist_flash_title">Blinken des Bildschirms</string>
@@ -1097,7 +1097,7 @@ Abtastrate"</string>
   <string name="camera_key_action_setting_title">Mi Taste</string>
   <string name="camera_key_action_shortcut_call">Anruf</string>
   <string name="camera_key_action_shortcut_home">Desktop</string>
-  <string name="camera_key_action_shortcut_screenshot">Bildschirmfoto</string>
+  <string name="camera_key_action_shortcut_screenshot">Screenshot</string>
   <string name="camera_key_action_shortcut_search">Suche</string>
   <string name="camera_key_action_shortcut_title">Verknüpfung</string>
   <string name="camera_key_action_shortcut_wake">Gerät sperren</string>
@@ -1889,8 +1889,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="edge_mode_notification_title">Nutze Kantensteuerung</string>
   <string name="edge_mode_photo">Ein Foto machen</string>
   <string name="edge_mode_photo_summary">Tippen Sie in der Kamera auf den Rand des Telefons, um den Blendenverschluss auszulösen und tippen Sie erneut, um ein Foto zu machen</string>
-  <string name="edge_mode_screenshot">Bildschirmfoto</string>
-  <string name="edge_mode_screenshot_summary">Auf beide Kanten doppelt tippen, um ein Bildschirmfoto zu erstellen</string>
+  <string name="edge_mode_screenshot">Screenshot</string>
+  <string name="edge_mode_screenshot_summary">Auf beide Kanten doppelt tippen, um ein Screenshot zu erstellen</string>
   <string name="edit_rule">Regeln bearbeiten</string>
   <string name="edit_rules">Bearbeiten</string>
   <string name="eighthours">8 Stunden</string>
@@ -2362,7 +2362,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="hardware_info">Modell &amp; Hardware</string>
   <string name="hardware_revision">Hardwareversion</string>
   <string name="hardware_version">Hardwareversion</string>
-  <string name="has_screenshot_sound">Bildschirmfoto-Auslöseton</string>
+  <string name="has_screenshot_sound">Screenshot-Auslöseton</string>
   <string name="hdcp_checking_dialog_title">HDCP-Prüfverhalten festlegen</string>
   <string name="hdcp_checking_title">HDCP-Prüfung</string>
   <string name="hdmi_3d_display_enable_summary">3D-Spieleunterstützung aktivieren</string>
@@ -3769,7 +3769,7 @@ Betriebssystem auswählen:"</string>
   <string name="path_brightness_settings">Einstellungen/Bildschirm/Helligkeit</string>
   <string name="path_button_light_timeout">Einstellungen/Weitere Einstellungen/Tasten/Tastenbeleuchtung an</string>
   <string name="path_calendar_sound_title">Einstellungen/Ton &amp; Vibration/Kalenderton</string>
-  <string name="path_camera_key_action_shortcut_screenshot">Einstellungen/Weitere Einstellungen/Bildschirmfoto</string>
+  <string name="path_camera_key_action_shortcut_screenshot">Einstellungen/Weitere Einstellungen/Screenshot</string>
   <string name="path_children_mode_settings">Einstellungen/Weitere Einstellungen/Kindersicherung</string>
   <string name="path_choose_timezone">Einstellungen/Weitere Einstellungen/Datum &amp; Uhrzeit/Zeitzone wählen</string>
   <string name="path_cloud_backup_settings_section_title">Einstellungen/Weitere Einstellungen/Sichern &amp; Wiederherstellen/Sicherungseinstellungen</string>
@@ -3876,7 +3876,7 @@ Betriebssystem auswählen:"</string>
   <string name="path_status_bar_settings_show_carrier">Einstellungen/Benachrichtigungen &amp; Statusleiste/Zeige Netzbtreiber</string>
   <string name="path_status_bar_settings_show_network_speed">Einstellungen/Benachrichtigungen &amp; Statusleiste/Verbindungsgeschwindigkeit anzeigen</string>
   <string name="path_status_bar_settings_show_notification_icon">Einstellungen/Benachrichtigungen &amp; Statusleiste/Benachrichtigungssymbole anzeigen</string>
-  <string name="path_status_bar_settings_show_screenshot_notification">Einstellungen/Benachrichtigungen &amp; Statusleiste/Bildschirmfoto-Benachrichtigung anzeigen</string>
+  <string name="path_status_bar_settings_show_screenshot_notification">Einstellungen/Benachrichtigungen &amp; Statusleiste/Screenshot-Benachrichtigung anzeigen</string>
   <string name="path_status_bar_settings_style">Einstellungen/Benachrichtigungen &amp; Statusleiste/Aussehen Statusleiste</string>
   <string name="path_status_bar_settings_toggle_collapse_after_clicked">Einstellungen/Benachrichtigungen &amp; Statusleiste/Schließen nach Berührung</string>
   <string name="path_status_sim">Einstellungen/Über das Gerät/SIM-Status</string>
@@ -4582,7 +4582,7 @@ UT Interface: %5$s"</string>
   <string name="screen_resolution_title">Bildschirmauflösung</string>
   <string name="screen_resolution_ultrahigh_format">Sehr hoch (%1$s)</string>
   <string name="screen_saturation">Farbsättigung</string>
-  <string name="screen_shot">Bildschirmfoto aufnehmen</string>
+  <string name="screen_shot">Screenshot aufnehmen</string>
   <string name="screen_timeout">Ruhezustand</string>
   <string name="screen_timeout_summary">Nach %1$s ohne Aktivität</string>
   <string name="screen_timeout_title">Standbymodus</string>
@@ -4623,8 +4623,8 @@ UT Interface: %5$s"</string>
   <string name="screensaver_settings_summary_sleep">Während des Ladevorgangs</string>
   <string name="screensaver_settings_title">Bildschirmschoner</string>
   <string name="screensaver_settings_when_to_dream">Daydream starten</string>
-  <string name="screenshot">Bildschirmfoto</string>
-  <string name="screenshot_three_gesture">Wischen Sie mit 3 Fingern nach unten, um ein Bildschirmfoto aufzunehmen</string>
+  <string name="screenshot">Screenshot</string>
+  <string name="screenshot_three_gesture">Wischen Sie mit 3 Fingern nach unten, um ein Screenshot aufzunehmen</string>
   <string name="screenshot_three_gesture_summary">Andere 3-Fingergesten werden deaktiviert</string>
   <string name="sd_card_settings_label">USB-Speicher</string>
   <string name="sd_card_storage">USB-Speicher</string>
@@ -4702,7 +4702,7 @@ UT Interface: %5$s"</string>
   <string name="search_brightness">Helligkeit</string>
   <string name="search_button_light_timeout">Tastenbeleuchtung eingeschaltet lassen</string>
   <string name="search_calendar_sound_title">Kalenderereignis</string>
-  <string name="search_camera_key_action_shortcut_screenshot">Bildschirmfoto</string>
+  <string name="search_camera_key_action_shortcut_screenshot">Screenshot</string>
   <string name="search_captioning_locale">Sprache</string>
   <string name="search_change_password">Bildschirmsperre ändern;Bildschirmsperre;Bildschirmsperre bearbeiten</string>
   <string name="search_children_mode_settings">Kindersicherung;SMS sperren</string>
@@ -4818,7 +4818,7 @@ UT Interface: %5$s"</string>
   <string name="search_screen_paper_mode_title">Lesemodus;Lesen;Blaulicht;Gelblicht;Nachtmodus</string>
   <string name="search_screen_saver_settings">Bildschirmschoner</string>
   <string name="search_screen_timeout">Bildschirmtimeout</string>
-  <string name="search_screenshot">Bildschirmfoto</string>
+  <string name="search_screenshot">Screenshot</string>
   <string name="search_second_space">Zweitprofil</string>
   <string name="search_security_encryption_title">Gerät mit Sperrbildschirmpasswort verschlüsseln</string>
   <string name="search_security_passwords_title">Passwort</string>
@@ -4845,7 +4845,7 @@ UT Interface: %5$s"</string>
   <string name="search_status_bar_settings_show_carrier">Netzbetreibernamen anzeigen</string>
   <string name="search_status_bar_settings_show_network_speed">Verbindungsgeschwindigkeit anzeigen</string>
   <string name="search_status_bar_settings_show_notification_icon">Benachrichtigungssymbole anzeigen</string>
-  <string name="search_status_bar_settings_show_screenshot_notification">Bildschirmfoto-Benachrichtigung anzeigen</string>
+  <string name="search_status_bar_settings_show_screenshot_notification">Screenshot-Benachrichtigung anzeigen</string>
   <string name="search_status_bar_settings_style">Statusleistenstil</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Nach dem Antippen einklappen</string>
   <string name="search_status_bar_settings_toggle_position">Schalterpositionen;Schalter;Toggle;Schalter ändern</string>
@@ -5355,7 +5355,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_bar_settings_show_keyguard_notification_summary" />
   <string name="status_bar_settings_show_network_speed">Verbindungsgeschwindigkeit anzeigen</string>
   <string name="status_bar_settings_show_notification_icon">Benachrichtigungssymbole anzeigen</string>
-  <string name="status_bar_settings_show_screenshot_notification">Bildschirmfoto-Benachrichtigung anzeigen</string>
+  <string name="status_bar_settings_show_screenshot_notification">Screenshot-Benachrichtigung anzeigen</string>
   <string name="status_bar_settings_show_wifi_name">WLAN anzeigen</string>
   <string name="status_bar_settings_status_bar">Benachrichtigungsleiste</string>
   <string name="status_bar_settings_style">Statusleistenstil</string>
