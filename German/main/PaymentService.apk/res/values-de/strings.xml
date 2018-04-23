@@ -6,6 +6,8 @@
   <string name="abc_action_mode_done">Erledigt</string>
   <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
   <string name="abc_activitychooserview_choose_application">App wählen</string>
+  <string name="abc_capital_off">AUS</string>
+  <string name="abc_capital_on">AN</string>
   <string name="abc_search_hint">Suchen…</string>
   <string name="abc_searchview_description_clear">Anfrage löschen</string>
   <string name="abc_searchview_description_query">Suchanfrage</string>
@@ -20,7 +22,7 @@
   <string name="hfb_confirm">Bestätigen Sie die Zahlung</string>
   <string name="hfb_confirm_code">Bestätigungscode:</string>
   <string name="hfb_customer_service_phone">Kundenservicenummer:</string>
-  <string name="hfb_fail_hint">* Wenn Sie die Nachricht nicht erhalten haben, kontaktieren Sie bitte China Mobile Konten, um die Zahlung abzuschliessen. ：4001125881 (nur für Ortsgespräche, keine Ferngespräche)；</string>
+  <string name="hfb_fail_hint">* Wenn Sie die Nachricht nicht erhalten haben, kontaktieren Sie bitte China Mobile Konten, um die Zahlung abzuschliessen. :4001125881 (nur für Ortsgespräche, keine Ferngespräche):</string>
   <string name="hfb_get_confirm_code">Code erhalten</string>
   <string name="hfb_goods_name">Name:</string>
   <string name="hfb_goods_name_content">M-Münzen</string>
@@ -37,14 +39,12 @@
   <string name="hfb_succ_result">Danke für die Bezahlung mit unserem Dienst</string>
   <string name="hfb_succ_service_phone_tip">Zahlungsdienst Kundenservice: 4001125881</string>
   <string name="mibi_all_license_message">Sie sind dabei, Mi Credit zu nutzen, einen Service von Xiaomi Inc. Bevor Sie diesen Service nutzen können, müssen Sie den in %1$s angegebenen Nutzungsbedingungen zustimmen. Berühren Sie OK, wenn Sie den in den %1$s und %1$s beschriebenen Nutzungsbedingungen zustimmen. Sie müssen eine Verbindung zum Internet herstellen und Ihr Gerät finden, um Mi Credit nutzen zu können.</string>
-  <string name="mibi_app_name">Mi Credit</string>
   <string name="mibi_applock_config">App-Sperre kann nicht gesetzt werden, während Splitscreen genutzt wird</string>
   <string name="mibi_applock_dialog_cancel">Jetzt nicht</string>
   <string name="mibi_applock_dialog_content">Aufgrund eines System-Upgrades ist Ihr aktuelles Sperrmuster abgelaufen. Bitte setzen Sie ein neues Sperrmuster.</string>
   <string name="mibi_applock_dialog_ok">Einstellen</string>
   <string name="mibi_applock_dialog_title">Neues Sperrmuster setzen</string>
-  <string name="mibi_balance_payment_title">Mi Credit</string>
-  <string name="mibi_balance_title">Balance</string>
+  <string name="mibi_balance_title">Kontostand</string>
   <string name="mibi_bill_delete_dialog_title">%1$s löschen</string>
   <string name="mibi_bill_delete_message">\"%1$s\" löschen?</string>
   <string name="mibi_bill_menu_delete_item">Löschen</string>
@@ -71,7 +71,6 @@
   <string name="mibi_button_call_frozen_service">24-Stunden Onlinesupport</string>
   <string name="mibi_button_cancel">Abbrechen</string>
   <string name="mibi_button_confirm">Bestätigen</string>
-  <string name="mibi_button_count_down_finish">OK (%1$s)</string>
   <string name="mibi_button_custom_service_phone">"Ich hab's"</string>
   <string name="mibi_button_next">Nächste</string>
   <string name="mibi_button_pay">Bestätigen</string>
@@ -98,7 +97,6 @@
   <string name="mibi_detail_consume_order">Zahlungs-ID</string>
   <string name="mibi_detail_consume_time">Zeitraum</string>
   <string name="mibi_detail_consume_title">Zahlungsbelege</string>
-  <string name="mibi_detail_giftcard_activity">Promotion</string>
   <string name="mibi_detail_giftcard_expired_time">Ablaufdatum</string>
   <string name="mibi_detail_giftcard_theme">Themes kaufen</string>
   <string name="mibi_detail_giftcard_title">Details Coupons</string>
@@ -185,6 +183,7 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_is_what">Was können Sie mit Mi Credits kaufen?</string>
   <string name="mibi_illegal_intent">Illegale Absichtserklärung</string>
   <string name="mibi_img_captcha_hint">Bild-Captcha eingeben</string>
+  <string name="mibi_label_balance">Kontostand</string>
   <string name="mibi_label_giftcard">Coupon</string>
   <string name="mibi_label_pay_remain">Fälliger Betrag: %1$s Mi Credits</string>
   <string name="mibi_license_message">Sie sind dabei, Mi Credit zu nutzen, ein Service von Xiaomi Inc. Bevor Sie diesen Service nutzen können, müssen Sie den Allgemeinen Geschäftsbedingungen zustimmen, die in %1$s angegeben sind. Tippen Sie auf OK, wenn Sie mit den in den %1$s beschriebenen Bedingungen einverstanden sind. Sie müssen sich mit dem Internet verbinden und Ihr Gerät lokalisieren, um Mi Credit nutzen zu können.</string>
@@ -234,7 +233,6 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_msg_send_send_fail_error">Nachricht senden fehlgeschlagen</string>
   <string name="mibi_msg_telecom_order_denom">￥%1s （exkl. Datengebühren für das Mobilfunknetz）</string>
   <string name="mibi_msg_telecom_order_denom_label">Betrag</string>
-  <string name="mibi_msg_telecom_order_goods">%1s Mi Credits</string>
   <string name="mibi_msg_telecom_order_goods_label">Artikel</string>
   <string name="mibi_msg_telecom_picker_hint_1_1">Wenn Sie \"Kauf bestätigen\" getippt haben, wird Ihr Telefon</string>
   <string name="mibi_msg_telecom_picker_hint_1_2">automatisch Ihren Netzanbieter kontaktieren.</string>
@@ -251,7 +249,6 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_order_pay_uncertain_button">Erhalten</string>
   <string name="mibi_order_pay_uncertain_detail">Wenn die Zahlung fehlschlägt, rufen Sie %1$s an</string>
   <string name="mibi_order_pay_uncertain_summary">Zahlung bestätigen</string>
-  <string name="mibi_order_price">%1$s Mi Credits</string>
   <string name="mibi_order_title">Zahlung</string>
   <string name="mibi_other_denomiantion">Betrag auswählen</string>
   <string name="mibi_partner_giftcard_payment_with_append">%1$s anwenden</string>
@@ -303,7 +300,7 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_progress_prepaid_creating">Auftrag erzeugen…</string>
   <string name="mibi_progress_querying">Bearbeitung…</string>
   <string name="mibi_progress_submit_hint">Das Aufladen wird sich innerhalb von 3 Minuten in Ihrem Kontostand widerspiegeln.</string>
-  <string name="mibi_progress_submit_pay">Die Bezahlung erfolgt in ca. 3 Minuten…</string>
+  <string name="mibi_progress_submit_pay">Bezahlung erfolgt in ca. 3 Minuten…</string>
   <string name="mibi_progress_submit_recharge_summary">Aufladen: %1$s Mi Credits</string>
   <string name="mibi_progress_submit_title">Anfrage eingereicht</string>
   <string name="mibi_progress_success_pay_summary">%1$s Mi Credits aufgeladen，%2$s Mi Credits bezahlt</string>
@@ -311,9 +308,9 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_progress_success_recharge_summary">Kontostand: %1$s Mi Credits</string>
   <string name="mibi_progress_success_recharge_title">%1$s Mi Credit Aufladen vollständig</string>
   <string name="mibi_progress_voucher_creating">Mi Credit Karte aufladen…</string>
-  <string name="mibi_progress_warning_check_with_contact">"Die Zahlung ist noch nicht auf Ihrem Konto vorhanden.
+  <string name="mibi_progress_warning_check_with_contact">"Zahlung ist noch nicht auf Ihrem Konto vorhanden.
 Wir werden dies innerhalb von zwei Werktagen erneut prüfen.
-Kundenservicecenter：400-100-5678"</string>
+Kundenservicecenter: 400-100-5678"</string>
   <string name="mibi_progress_warning_waiting">Zahlung ist noch nicht auf Ihrem Konto vorhanden</string>
   <string name="mibi_prompt_info_button_hint">Achtung (%d)</string>
   <string name="mibi_prompt_info_for_first_use">Mi Credit kann nicht zum Kauf von Hardware auf Mi.com verwendet werden.</string>
@@ -453,6 +450,7 @@ Kundenservicecenter：400-100-5678"</string>
   <string name="passport_getting_verify_code">Abrufen</string>
   <string name="passport_i_know">Erhalten</string>
   <string name="passport_identitfication_expired">Verifizierungscode abgelaufen, neu starten</string>
+  <string name="passport_identification_expired">Verifizierungscode abgelaufen, neu starten</string>
   <string name="passport_imei_permission_denied_message">Wir bitten um Erlaubnis, die IMEI Ihres Geräts zu erhalten. Mi Konto verwendet die IMEI, um das Gerät zu identifizieren, auf dem Sie sich anmelden/registrieren, um Ihr Mi Konto sicher zu halten.</string>
   <string name="passport_imei_permission_denied_title">IMEI-Genehmigung anfordern</string>
   <string name="passport_input_captcha_hint">Geben Sie den Code ein</string>
@@ -474,6 +472,7 @@ Kundenservicecenter：400-100-5678"</string>
   <string name="passport_login_using_other_ways"><u>Andere Anmeldemöglichkeiten</u></string>
   <string name="passport_message_dialog_title">SMS mit Verifizierungscodes</string>
   <string name="passport_next">Nächste</string>
+  <string name="passport_no">Nein</string>
   <string name="passport_notification_title">Anmeldefehler bei %1$s</string>
   <string name="passport_password_phone_login">Mit Mi Konto anmelden</string>
   <string name="passport_password_req_notice">Passwort muss 8-16 Zeichen lang sein und sowohl Ziffern als auch Groß-/Kleinbuchstaben enthalten</string>
