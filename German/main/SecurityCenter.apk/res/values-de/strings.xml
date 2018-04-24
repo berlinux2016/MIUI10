@@ -90,6 +90,7 @@
   <string name="add_whitelist">Zu Ausnahmen hinzufügen</string>
   <string name="address">Adresse</string>
   <string name="address_choose_hint">%1$s, %2$s, und %3$d anderen Orten</string>
+  <string name="adjust_sms_cmd">&lt;u&gt;SMS-Vorlage einrichten&lt;/u&gt;</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Vor über einem Monat aktualisiert</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Vor über einer Woche aktualisiert</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Vorige Woche aktualisiert</string>
@@ -820,6 +821,9 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="dialog_roaming_apps_sorted_title">Sortiert nach</string>
   <string name="dialog_roaming_message">Apps in den Ausnahmen können auf das Datennetz zugreifen, wenn Datenroaming aktiviert ist. App zu den Ausnahmen hinzufügen?</string>
   <string name="dialog_roaming_title">Datenroaming</string>
+  <string name="dialog_roaming_warning_checkbox">Nicht wieder anzeigen</string>
+  <string name="dialog_roaming_warning_message">Der Netzbetreiber berechnet eine Gebühr, nachdem Sie internationales Datenroaming eingeschaltet haben. Trotzdem einschalten?</string>
+  <string name="dialog_roaming_warning_ok">Einschalten</string>
   <string name="dialog_text">Startbildschirmverknüpfung für Game Speed Booster erstellen</string>
   <string name="dialog_title_attention">Warnung</string>
   <string name="dialog_title_auto_start_declare">Über Autostart</string>
@@ -1445,6 +1449,7 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie mobile
   <string name="menu_report">Fehler melden</string>
   <string name="menu_restore">Wiederherstellen</string>
   <string name="menu_sms">SMS senden</string>
+  <string name="menu_setting_traffic">Manuelle Einstellungen</string>
   <string name="menu_text_antispam">Sperrliste</string>
   <string name="menu_text_antivirus">Antivirus</string>
   <string name="menu_text_garbage_cleanup">Müllbeseitigung</string>
@@ -2341,6 +2346,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="sms_contact_block">SMS von Kontakten blockieren</string>
   <string name="sms_delete_hint">Alle Nachrichten von dieser Nummer löschen?</string>
   <string name="sms_delete_title">Nachricht löschen</string>
+  <string name="sms_detail_correct_success_text">Datenverbrauchsstatistiken der vorherigen Kalibrierung (%1$s):</string>
   <string name="sms_detail_fragment_title_bill">Telefonsaldo</string>
   <string name="sms_detail_fragment_title_traffic">Verbleibendes Datenvolumen</string>
   <string name="sms_filter">Intelligenter Filter</string>
@@ -2628,6 +2634,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="tab_guide">Anleitung</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">Sperrliste</string>
+  <string name="tc_cmd_invalid">Vorlage ist ungültig</string>
   <string name="tc_diagnostic_all_error_notification_summary">Tippen, um ein Problem zu melden</string>
   <string name="tc_diagnostic_all_error_notification_title">Diagnose kann nicht abgeschlossen werden</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Tippen, um Netzwerktyp festzulegen</string>
@@ -2667,17 +2674,21 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="tc_diagnostic_upload_button">Melden</string>
   <string name="tc_diagnostic_upload_no_network">Vielen Dank für Ihr Feedback! Ihr Report wird gesendet, sobald eine Internetverbindung verfügbar ist.</string>
   <string name="tc_diagnostic_upload_success">Vielen Dank für Ihr Feedback!</string>
+  <string name="tc_get_cmd_error">Konnte keine Vorlage erhalten</string>
+  <string name="tc_parse_error">SMS konnte nicht analysiert werden</string>
+  <string name="tc_receive_timeout">Kalibrierung ist abgelaufen</string>
+  <string name="tc_send_sms_error">Konnte keine SMS senden</string>
   <string name="tc_sms_report_direction">SMS-Abfragecode</string>
   <string name="tc_sms_report_do_report">Senden</string>
   <string name="tc_sms_report_get_default">Ihnen werden für SMS-Nachrichten, die benötigt werden, um Ihr Datennutzungsguthaben Ihres Mobilfunkanbieter zu erhalten, keine Gebühren in Rechnung gestellt.</string>
   <string name="tc_sms_report_get_sms">SMS erhalten</string>
-  <string name="tc_sms_report_get_sms2">SMS erhalten</string>
   <string name="tc_sms_report_get_sms_again">SMS aktualisieren</string>
   <string name="tc_sms_report_get_sms_bill">SMS bekommen</string>
   <string name="tc_sms_report_get_sms_calltime">SMS bekommen</string>
   <string name="tc_sms_report_get_sms_failure">Datennutzungsinformationen konnten nicht abgerufen werden</string>
   <string name="tc_sms_report_get_sms_successs">Datennutzungsinformationen aktualisiert</string>
   <string name="tc_sms_report_get_sms_timeout">Zeitüberschreitung der Anfrage</string>
+  <string name="tc_sms_report_get_sms2">SMS erhalten</string>
   <string name="tc_sms_report_get_success">SMS über Datenverbrauchsübersicht erhalten. Prüfen Sie die Angaben und senden Sie den Bericht an uns.</string>
   <string name="tc_sms_report_get_success_notify_body">Prüfen Sie die Angaben und senden Sie den Bericht an MIUI</string>
   <string name="tc_sms_report_get_success_notify_title">SMS über Datenverbrauchsübersicht erhalten</string>
@@ -2702,6 +2713,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="tc_sms_report_type">Berichtsart</string>
   <string name="tc_sms_report_upload_success">Datenverbrauchs-SMS übermittelt. Wir werden uns gleich darum kümmern!</string>
   <string name="tc_sms_report_upload_when_net">Vielen Dank für Ihr Feedback!</string>
+  <string name="tc_web_correct_error">Konnte nicht kalibrieren</string>
   <string name="ten_percent_total_pkg">%s (10%% der monatlichen Daten)</string>
   <string name="tether_custom_dialog_title">Mobiles Datenlimit</string>
   <string name="tether_limit_dialog_title">Mobiles Datenlimit</string>
