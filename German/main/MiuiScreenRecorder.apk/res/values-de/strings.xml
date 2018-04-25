@@ -14,8 +14,10 @@
   <string name="button_confirm">OK</string>
   <string name="button_goon_recorder">Fortsetzen</string>
   <string name="cancel_edit">Abbrechen</string>
+  <string name="cannot_change_frames">Die Bildrate kann nur für Aufnahmen mit fester Bildrate angepasst werden.</string>
   <string name="cannot_change_parames">Parameter können während der Aufnahme nicht geändert werden</string>
   <string name="cannot_record">Aufzeichnung fehlgeschlagen, später erneut versuchen</string>
+  <string name="close_screen_record">Aufnahme angehalten</string>
   <string name="date_day"/>
   <string name="date_year">.</string>
   <string name="date_month">.</string>
@@ -29,6 +31,8 @@
   <string name="frames">Bildfrequenz</string>
   <string name="frames_summary">Eine höhere Bildfrequenz verringert die Bewegungsunschärfe</string>
   <string name="frequently_click_toast">Einen Moment…</string>
+  <string name="fixed_frame_rate">Feste Bildrate</string>
+  <string name="fixed_frame_rate_summary">Die Aufnahme von Videos mit fester Bildrate verbessert die Wiedergabe auf Sozialen Netzwerken und verkürzt die Akkulaufzeit.</string>
   <string name="gleam_led_while_recording">LED während der Aufnahme blinken lassen</string>
   <string name="hint_back">Zurück</string>
   <string name="hint_home">Home</string>
@@ -37,6 +41,9 @@
   <string name="hint_volume_down">Leiser</string>
   <string name="hint_volume_up">Lauter</string>
   <string name="home_title_none">Inhalte auswählen</string>
+  <string name="is_checked">Ausgewählt</string>
+  <string name="is_go_home">Zurück zum Bildschirmrecorder</string>
+  <string name="is_go_home_summary">Öffnen Sie die Startseite des Bildschirmrecorders, nachdem Sie die Aufnahme beendet haben.</string>
   <string name="loopback_sound">Loopback-Ton</string>
   <string name="low_battery">Laden Sie Ihr Telefon auf, bevor Sie eine Aufnahme starten</string>
   <string name="low_battery_title">Niedriger Akkustand</string>
@@ -63,6 +70,7 @@
   <string name="screen_record_option">Aufnahmeoptionen</string>
   <string name="screen_record_params">Aufnahmeparameter</string>
   <string name="select_all">Alles auswählen</string>
+  <string name="settings">Einstellungen</string>
   <string name="show_hard_key">Navigationstasten darstellen</string>
   <string name="show_hard_key_summary">Anzeigen einblenden, wenn die Navigationstasten gedrückt werden</string>
   <string name="show_screen_touch">Berührungsgesten darstellen</string>
@@ -75,5 +83,8 @@
   <string name="stop_record_while_locking">Bildschirm sperren, um die Aufnahme zu beenden</string>
   <string name="stop_record_while_locking_summary">Aufnahme beenden und das Video speichern, sobald der Bildschirm gesperrt wird</string>
   <string name="stop_recording">Aufnahme stoppen</string>
+  <string name="storage_location">Speicher</string>
+  <string name="storage_location_summary">Wählen Sie Ihre bevorzugte Speichereinstellung</string>
   <string name="timer_format">%s</string>
+  <string name="unchecked">Nicht ausgewählt</string>
 </resources>
