@@ -95,8 +95,8 @@ Falls das Gerät mehrere Benutzer hat, werden die Bedienungshilfen durch Verwend
 
 Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
   <string name="accessibility_screen_magnification_navbar_title">Mit Taste vergrößern</string>
-  <string name="accessibility_screen_magnification_state_navbar_gesture">Vergrößern mit Taste &amp; 3-fach Tippen</string>
   <string name="accessibility_screen_magnification_short_summary">3 mal tippen, um zu vergrößern</string>
+  <string name="accessibility_screen_magnification_state_navbar_gesture">Vergrößern mit Taste &amp; 3-fach Tippen</string>
   <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein-/rauszoomen, indem Sie 3 mal auf den Bildschirm tippen. Wenn Sie reingezoomt haben, können Sie:
 &lt;li&gt;&lt;ul&gt;Verschieben: Ziehen Sie zwei oder mehr Finger über den Bildschirm.
 &lt;li&gt;Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
@@ -129,13 +129,14 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Vergrößerung autom. aktualisieren</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Bildschirmvergrößerung</string>
   <string name="accessibility_toggle_speak_password_preference_title">Passwörter aussprechen</string>
+  <string name="accessibility_vpn_settings_info">VPN Einstellungen</string>
   <string name="accessibility_wifi_off">WLAN aus</string>
   <string name="accessibility_wifi_one_bar">WLAN ein Balken</string>
+  <string name="accessibility_wifi_security_type_none">Offenes Netzwerk</string>
+  <string name="accessibility_wifi_security_type_secured">Sicheres Netzwerk</string>
   <string name="accessibility_wifi_signal_full">Voller WLAN Empfang</string>
   <string name="accessibility_wifi_three_bars">WLAN drei Balken</string>
   <string name="accessibility_wifi_two_bars">WLAN zwei Balken</string>
-  <string name="accessibility_wifi_security_type_none">Offenes Netzwerk</string>
-  <string name="accessibility_wifi_security_type_secured">Sicheres Netzwerk</string>
   <string name="accessibility_work_account_title">Arbeitskonto - %s</string>
   <string name="account_add">Hinzufügen</string>
   <string name="account_autostar_label">Autostart</string>
@@ -200,7 +201,6 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="add_virtual_keyboard">Tastaturen verwalten</string>
   <string name="adding_profile_owner_warning">Wenn Sie weitermachen, wird Ihr Benutzerkonto von Ihrem Administrator verwaltet, der dann auch zugehörige Daten neben Ihren persönlichen Daten speichern kann. Ihr Administrator hat die Möglichkeit, Einstellungen, Zugang, Apps und Daten zu überwachen und zu verwalten, die mit diesem Benutzerkonto verknüpft sind, einschl. Netzwerkaktivität und Standortinformationen Ihres Geräts.</string>
   <string name="additional_battery_info">Verbrauchswarnungen</string>
-  <string name="advanced_battery_title">Erweiterter Akkuverbrauch</string>
   <string name="additional_permissions">Weitere Berechtigungen</string>
   <string name="additional_permissions_more">%1$d weitere</string>
   <string name="additional_system_update" />
@@ -214,6 +214,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="admin_profile_owner_user_message">Ihr Administrator kann Apps und Daten überwachen und verwalten, die mit diesem Benutzer verknüpft sind, einschl. Einstellungen, Berechtigungen, Unternehmenszugriff, Netzwerkaktivität und Standortinformationen des Geräts</string>
   <string name="admin_support_more_info">Mehr Details</string>
   <string name="advanced_apps">Erweitert</string>
+  <string name="advanced_battery_title">Erweiterter Akkuverbrauch</string>
   <string name="advanced_section_header">Erweitert</string>
   <string name="advanced_security_title">Erweitert</string>
   <string name="advanced_settings">Weitere Einstellungen</string>
@@ -525,21 +526,22 @@ Sie verlieren keine Appdaten."</string>
   <string name="auto_silent">Zeitplan für Einschaltzeit</string>
   <string name="auto_startup_application_manage">Autostart</string>
   <string name="auto_startup_count">%d Apps Autostart erlaubt</string>
-  <string name="auto_sync_account_summary">Automatisches Aktualisieren der Daten durch Apps</string>
-  <string name="auto_sync_account_title">Automatisch Daten synchronisieren</string>
-  <string name="auto_sync_personal_account_title">Automatisch persönl. Daten synchronisieren</string>
-  <string name="auto_sync_work_account_title">Automatisch Arbeitsdaten synchronisieren</string>
+  <string name="auto_sync_account_summary">Daten durch Apps automatisch aktualisieren</string>
+  <string name="auto_sync_account_title">Daten automatisch synchronisieren</string>
+  <string name="auto_sync_personal_account_title">Private Daten automatisch synchronisieren</string>
+  <string name="auto_sync_work_account_title">Arbeitsdaten automatisch synchronisieren</string>
   <string name="auto_upload_debug_log_summary">Diagnosedaten können Nutzungsstatistiken Ihrer Hardware, Betriebssystem und Apps enthalten. Daten werden verwendet, um Probleme zu finden und zu analysieren und nicht, um Sie persönlich zu identifizieren.</string>
   <string name="auto_upload_debug_log_title">Diagnosedaten automatisch senden</string>
   <string name="autofill_app">Autofill-Dienst</string>
-  <string name="autofill_confirmation_message">&lt;b&gt;Vergewissern Sie sich, dass diese App&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; das, was auf Ihrem Bildschirm ist, verwendet, um festzustellen, was automatisch ausgefüllt werden kann.</string>
+  <string name="autofill_confirmation_message">&lt;b&gt;Vergewissern Sie sich, dass dieser App vertrauen&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; verwendet alles auf Ihrem Bildschirm, um festzustellen, was automatisch ausgefüllt werden kann.</string>
+  <string name="autofill_keywords">automatisch, ausfüllen, autofill</string>
   <string name="automatic_brightness">Automatische Helligkeit</string>
   <string name="automatic_storage_manager_activation_warning">Ihr Speicher wird nun vom Speichermanager verwaltet.</string>
   <string name="automatic_storage_manager_days_title">Fotos &amp; Videos entfernen</string>
   <string name="automatic_storage_manager_deactivation_warning">Speichermanager ausschalten?</string>
-  <string name="automatic_storage_manager_freed_bytes">"%1$s total verfügbar gemacht
+  <string name="automatic_storage_manager_freed_bytes">"%1$s insgesamt verfügbar gemacht
 
-Zuletzt gelaufen am %2$s"</string>
+Zuletzt am %2$s ausgeführt"</string>
   <string name="automatic_storage_manager_preference_title">Speichermanager</string>
   <string name="automatic_storage_manager_settings">Speicher verwalten</string>
   <string name="automatic_storage_manager_text">Um Speicherplatz freizugeben, entfernt der Speichermanager gesicherte Fotos und Videos von Ihrem Gerät.</string>
@@ -651,7 +653,6 @@ Zuletzt gelaufen am %2$s"</string>
   <string name="battery_indicator_style">Akkuanzeige</string>
   <string name="battery_info_awake_battery">Aktivzeit bei Akku:</string>
   <string name="battery_info_awake_plugged">Aktivzeit während des Aufladens</string>
-  <string name="battery_info_status_charging_lower">Laden</string>
   <string name="battery_info_health_cold">Kalt</string>
   <string name="battery_info_health_dead">Leer</string>
   <string name="battery_info_health_label">Akkuzustand:</string>
@@ -673,6 +674,7 @@ Zuletzt gelaufen am %2$s"</string>
   <string name="battery_info_status_charging">Wird geladen</string>
   <string name="battery_info_status_charging_ac">Wird über AC aufgeladen</string>
   <string name="battery_info_status_charging_ac_short">Wird aufgeladen</string>
+  <string name="battery_info_status_charging_lower">Laden</string>
   <string name="battery_info_status_charging_usb">Wird über USB aufgeladen</string>
   <string name="battery_info_status_charging_usb_short">Wird aufgeladen</string>
   <string name="battery_info_status_charging_wireless">Wird drahtlos aufgeladen</string>
@@ -688,8 +690,8 @@ Zuletzt gelaufen am %2$s"</string>
   <string name="battery_info_uptime">Zeit seit Start:</string>
   <string name="battery_info_voltage_label">Akkuspannung:</string>
   <string name="battery_info_voltage_units">mV</string>
-  <string name="battery_level_title">Akkuladung</string>
   <string name="battery_last_full_charge">Letzte Vollladung</string>
+  <string name="battery_level_title">Akkuladung</string>
   <string name="battery_light_summary">LED während des Ladens einschalten</string>
   <string name="battery_light_title">LED-Ladekontrolle</string>
   <string name="battery_msg_unaccounted">Akkuverbrauch zeigt den ungefähren Stromverbrauch und umfasst nicht jede Ursache einer Akkuentladung. Sonstiges ist die Differenz des berechneten ungefähren Stromverbrauchs und der tatsächlich beobachteten Akkuentladung.</string>
@@ -705,9 +707,9 @@ Zuletzt gelaufen am %2$s"</string>
   <string name="battery_saver_turn_on_automatically_never">Nie</string>
   <string name="battery_saver_turn_on_automatically_pct">Bei %1$s an Akku</string>
   <string name="battery_saver_turn_on_automatically_title">Automatisch aktivieren</string>
+  <string name="battery_screen_usage">Bildschirmverbrauch ^1</string>
   <string name="battery_settings">Akku</string>
   <string name="battery_settings_title">Akku</string>
-  <string name="battery_screen_usage">Bildschirmverbrauch ^1</string>
   <string name="battery_since_reset">Akkuverbrauch seit Zurücksetzen</string>
   <string name="battery_since_unplugged">Akkuverbrauch seit Stromtrennung</string>
   <string name="battery_stats_camera_on_label">Kamera ein</string>
@@ -769,12 +771,12 @@ Zuletzt gelaufen am %2$s"</string>
   <string name="bluetooth_ask_enablement_and_discovery">Eine App versucht, Bluetooth zu aktivieren und Ihr Telefon für %1$d Sek. für andere Telefone sichtbar zu machen. Erlauben?</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte %1$d Sek. lang sichtbar machen"</string>
   <string name="bluetooth_ask_enablement_and_discovery_no_name">Eine App möchte Bluetooth einschalten und Ihr Telefon für %1$d Sekunden für andere Geräte sichtbar machen</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery">Eine App versucht, Bluetooth zu aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">Eine App versucht Bluetooth zu aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen. Erlauben?</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte sichtbar machen. Sie können das in den Bluetooth-Einstellungen ändern."</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Eine App möchte Bluetooth einschalten und Ihr Telefon für andere Geräte sichtbar machen. Sie können dies später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s möchte Bluetooth und Bluetoothbroadcasting aktivieren, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_ask_enablement_detected">" möchte Bluetooth aktivieren"</string>
-  <string name="bluetooth_ask_enablement_no_name">Eine App will Bluetooth einschalten</string>
+  <string name="bluetooth_ask_enablement_no_name">Eine App möchte Bluetooth einschalten</string>
   <string name="bluetooth_ask_lasting_discovery">Eine App versucht Ihr Gerät für andere Bluetoothgeräte sichtbar zu machen. Dies kann in den Bluetooth-Einstellungen geändert werden.</string>
   <string name="bluetooth_ask_lasting_discovery_no_name">Eine App möchte Ihr Telefon für andere Bluetooth-Geräte sichtbar machen. Sie können dies später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_ask_start_broadcast">%1$s möchte Bluetoothbroadcasting aktivieren, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
@@ -784,12 +786,12 @@ Zuletzt gelaufen am %2$s"</string>
   <string name="bluetooth_confirm_passkey_msg">Zum Koppeln mit %1$s stellen Sie sicher, dass dieser Hauptschlüssel angezeigt wird: %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Verbinden…</string>
   <string name="bluetooth_connected">Verbunden</string>
-  <string name="bluetooth_connected_summary">Verbunden mit %1$s</string>
   <string name="bluetooth_connected_multiple_devices_summary">Mit mehreren Geräten verbunden</string>
   <string name="bluetooth_connected_no_a2dp">Verbunden (außer Audiomedien)</string>
   <string name="bluetooth_connected_no_headset">Verbunden (Kein Gerät)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Verbunden (außer Geräte- und Audiomedien)</string>
   <string name="bluetooth_connected_no_map">Verbunden (ohne Nachrichtenzugriff)</string>
+  <string name="bluetooth_connected_summary">Verbunden mit %1$s</string>
   <string name="bluetooth_connecting">Verbunden</string>
   <string name="bluetooth_connecting_error_message">Verbindung mit %1$s nicht möglich</string>
   <string name="bluetooth_connection_dialog_text">Möchten Sie eine Verbindung mit \"%1$s\" herstellen?</string>
@@ -849,7 +851,6 @@ Zuletzt gelaufen am %2$s"</string>
   <string name="bluetooth_enter_pin_other_device">Möglicherweise müssen Sie diese PIN auch auf dem anderen Gerät eingeben</string>
   <string name="bluetooth_filter_device_display">Alle anzeigen</string>
   <string name="bluetooth_filter_device_filter">Nur typische</string>
-  <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Mit Headset verbunden</string>
   <string name="bluetooth_headset_profile_summary_use_for">Für Audio des Telefons verwenden</string>
   <string name="bluetooth_hid_profile_summary_connected">Mit einem Eingabegerät verbunden</string>
@@ -942,7 +943,7 @@ Zuletzt gelaufen am %2$s"</string>
 Bits pro Abtastwert"</string>
 <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth Audio Kanalmodus</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Bluetooth Audio Codec wählen:
- Kanalmodus"</string>
+Kanalmodus"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Wiedergabequalität</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth Audio LDAC Codec wählen:
 Wiedergabequalität"</string>
@@ -997,7 +998,7 @@ Abtastrate"</string>
   <string name="bluetooth_unlock_turned_on">Eingeschaltet</string>
   <string name="bluetooth_untether_blank">Tethering für %1$s wird ausgeschaltet</string>
   <string name="bluetooth_visibility_timeout">Zeit für Sichtbarkeit</string>
-  <string name="bluetooth_wake">Wecken mit Bluetooth-Audio</string>
+  <string name="bluetooth_wake">Mit Bluetooth-Audio wecken</string>
   <string name="boot_sounds_title">Einschalttöne</string>
   <string name="bootloader">Fastbootmodus</string>
   <string name="bootloader_apply_step_1">Fastbootmodus aktivieren?</string>
@@ -1058,6 +1059,7 @@ Abtastrate"</string>
   <string name="button_convert_fbe">Löschen und Konvertieren…</string>
   <string name="button_disconnect_network">Netzwerk trennen</string>
   <string name="button_finish">Beenden</string>
+  <string name="button_import">Importieren</string>
   <string name="button_light_timeout">Tastenbeleuchtung aktiv lassen</string>
   <string name="button_next">Weiter</string>
   <string name="button_ok">OK</string>
@@ -1111,6 +1113,8 @@ Abtastrate"</string>
   <string name="cancel_backup">Abbrechen</string>
   <string name="cancel_button">Abbrechen</string>
   <string name="cancel_download_buton_text">Abbrechen</string>
+  <string name="cancel_moving_dialog_message">Importieren jetzt abbrechen?</string>
+  <string name="cancel_moving_dialog_title">Importieren abbrechen</string>
   <string name="cancel_restore">Abbrechen</string>
   <string name="cant_sync_dialog_message">Synchronisation hierfür ist ausgeschaltet. Zur Änderung dieser Einstellung schalten Sie vorübergehend Hintergrunddaten und automatische Synchronisation ein.</string>
   <string name="cant_sync_dialog_title">Manuelle Synchronisierung nicht möglich</string>
@@ -1268,7 +1272,7 @@ Abtastrate"</string>
   <string name="condition_expand_show">Anzeigen</string>
   <string name="condition_hotspot_summary">Mobiler WLAN-Hotspot %1$s ist aktiv, WLAN des Gerätes ist ausgeschaltet</string>
   <string name="condition_hotspot_title">Hotspot ist an</string>
-  <string name="condition_night_display_summary">Bildschirm ist bernsteinfarben. Das kann Ihnen helfen, einzuschlafen.</string>
+  <string name="condition_night_display_summary">Bildschirm ist gelb getönt. Das kann Ihnen helfen einzuschlafen.</string>
   <string name="condition_night_display_title">Nachtlicht ist an</string>
   <string name="condition_provider_security_warning_summary">%1$s wird in der Lage sein, Ausgangsbedingungen im Nicht-Stören-Modus hinzuzufügen.</string>
   <string name="condition_provider_security_warning_title">Aktiviere %1$s?</string>
