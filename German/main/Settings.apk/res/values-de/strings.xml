@@ -213,10 +213,10 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="admin_profile_owner_message">Ihr Administrator kann Apps und Daten überwachen und verwalten, die mit diesem Arbeitsprofil verknüpft sind, einschl. Einstellungen, Berechtigungen, Unternehmenszugriff, Netzwerkaktivität und Standortinformationen des Geräts</string>
   <string name="admin_profile_owner_user_message">Ihr Administrator kann Apps und Daten überwachen und verwalten, die mit diesem Benutzer verknüpft sind, einschl. Einstellungen, Berechtigungen, Unternehmenszugriff, Netzwerkaktivität und Standortinformationen des Geräts</string>
   <string name="admin_support_more_info">Mehr Details</string>
-  <string name="advanced_apps">Erweitert</string>
-  <string name="advanced_battery_title">Erweiterter Akkuverbrauch</string>
-  <string name="advanced_section_header">Erweitert</string>
-  <string name="advanced_security_title">Erweitert</string>
+  <string name="advanced_apps">Weiterte Einstellungen</string>
+  <string name="advanced_battery_title">Weiterter Akkuverbrauch</string>
+  <string name="advanced_section_header">Weiterte Einstellungen</string>
+  <string name="advanced_security_title">Weiterte Einstellungen</string>
   <string name="advanced_settings">Weitere Einstellungen</string>
   <string name="advanced_settings_summary">Weitere Einstellungsoptionen aktivieren</string>
   <string name="advanced_text_layout">Aktivieren Sie erweiterte Textlayouts</string>
@@ -534,12 +534,12 @@ Sie verlieren keine Appdaten."</string>
   <string name="auto_upload_debug_log_title">Diagnosedaten automatisch senden</string>
   <string name="autofill_app">Autofill-Dienst</string>
   <string name="autofill_confirmation_message">&lt;b&gt;Vergewissern Sie sich, dass dieser App vertrauen&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; verwendet alles auf Ihrem Bildschirm, um festzustellen, was automatisch ausgefüllt werden kann.</string>
-  <string name="autofill_keywords">automatisch, ausfüllen, autofill</string>
+  <string name="autofill_keywords">Automatische, Eingabe, automatische Eingabe</string>
   <string name="automatic_brightness">Automatische Helligkeit</string>
   <string name="automatic_storage_manager_activation_warning">Ihr Speicher wird nun vom Speichermanager verwaltet.</string>
   <string name="automatic_storage_manager_days_title">Fotos &amp; Videos entfernen</string>
   <string name="automatic_storage_manager_deactivation_warning">Speichermanager ausschalten?</string>
-  <string name="automatic_storage_manager_freed_bytes">"%1$s insgesamt verfügbar gemacht
+  <string name="automatic_storage_manager_freed_bytes">"%1$s insgesamt freigeben
 
 Zuletzt am %2$s ausgeführt"</string>
   <string name="automatic_storage_manager_preference_title">Speichermanager</string>
@@ -2497,6 +2497,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="internal_media_format_final_desc">Internen Speicher und alle darin enthaltenen Daten löschen? Dieser Vorgang kann nicht rückgängig gemacht werden! Das Telefon startet nach Abschluss des Vorgangs neu.</string>
   <string name="internal_media_format_title">Internen Speicher löschen</string>
   <string name="internal_memory">Interner Speicher</string>
+  <string name="invalid_size_value">Paketgröße konnte nicht berechnen werden.</string>
   <string name="internal_storage">Systemspeicher</string>
   <string name="internal_storage_sentence">Interner Speicher</string>
   <string name="invalid_location">Installationspfad ungültig</string>
@@ -4118,7 +4119,7 @@ Betriebssystem auswählen:"</string>
   <string name="privacy_authorize_cloud_msg">Um die Sicherheit Ihres Kontos zu gewährleisten, melden Sie sich bei i.mi.com an, wenn Sie die Autorisierung für Mi Cloud-Dienste (einschließlich Synchronisation und Backups) widerrufen möchten.</string>
   <string name="privacy_authorize_dialog_agree">Zustimmen</string>
   <string name="privacy_authorize_dialog_exit">Beenden</string>
-  <string name="privacy_authorize_dialog_message"><Data>Um die grundlegenden Funktionen dieses Dienstes nutzen zu können, müssen Sie damit einverstanden sein, dass Xiaomi Ihre personenbezogenen Daten erhebt, verarbeitet und nutzt. In unserer Datenschutzerklärung erfahren Sie, wie wir personenbezogene Daten erheben und verarbeiten. >Auswählen \"Einverstanden\" bedeutet, dass Sie unsere &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Benutzervereinbarung&amp;lt;/a&amp;gt;.&amp;#8203;aktzeptieren</Data></string>
+  <string name="privacy_authorize_dialog_message"><Data>Um die grundlegenden Funktionen dieses Dienstes nutzen zu können, müssen Sie damit einverstanden sein, dass Xiaomi Ihre personenbezogenen Daten erhebt, verarbeitet und nutzt. In unserer Datenschutzerklärung erfahren Sie, wie wir personenbezogene Daten erheben und verarbeiten. Auswählen \"Einverstanden\" bedeutet, dass Sie unsere &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Benutzervereinbarung&amp;lt;/a&amp;gt;.&amp;#8203;aktzeptieren</Data></string>
   <string name="privacy_authorize_network_error">Verbinden Sie sich mit dem Netzwerk und versuchen Sie es erneut.</string>
   <string name="privacy_authorize_privacy_policy">Datenschutzerklärung</string>
   <string name="privacy_authorize_revoke">Widerrufen</string>
