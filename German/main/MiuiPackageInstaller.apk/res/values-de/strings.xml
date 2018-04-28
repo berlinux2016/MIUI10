@@ -48,7 +48,7 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="allow_source_dlg_title">Neue Quelle für Apps</string>
   <string name="animator_duration_scale_title">Animationsdauerskala</string>
   <string name="anonymous_source_continue">Weiter</string>
-  <string name="anonymous_source_warning">Ihr Telefon und Ihre persönlichen Daten sind anfälliger für Angriffe durch unbekannte Anwendungen. Durch die Installation dieser App erklären Sie sich damit einverstanden, dass Sie für Schäden an Ihrem Telefon oder Datenverlust, die sich aus der Nutzung ergeben könnten, verantwortlich sind.</string>
+  <string name="anonymous_source_warning">Ihr Telefon und Ihre persönlichen Daten sind anfälliger für Angriffe durch unbekannte Apps. Durch die Installation dieser App erklären Sie sich damit einverstanden, dass Sie für Schäden an Ihrem Telefon oder Datenverlust, die sich aus der Nutzung ergeben könnten, verantwortlich sind.</string>
   <string name="apn_settings_not_available">APN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="app_name">Paketinstaller</string>
   <string name="app_name_unknown">Ungenau</string>
@@ -190,7 +190,7 @@ Drücken Sie "Löschen und Konvertieren" zum fortsetzen."</string>
   <string name="default_permission_description">Unbekannte Aktion durchführen</string>
   <string name="dev_logpersist_clear_warning_message">Wenn wir nicht mehr mit dem dauerhaften Protokoll überwachen, müssen wir die auf Ihrem Gerät gespeicherten Protokolldaten löschen.</string>
   <string name="dev_logpersist_clear_warning_title">Dauerhaften Protokollspeicher löschen?</string>
-  <string name="dev_settings_warning_message">Diese Einstellungen sind nur für Entwickler gedacht. Sie können dazu führen, dass Ihr Gerät und die darauf befindlichen Anwendungen beschädigt werden oder sich falsch verhalten.</string>
+  <string name="dev_settings_warning_message">Diese Einstellungen sind nur für Entwickler gedacht. Sie können dazu führen, dass Ihr Gerät und die darauf befindlichen Apps beschädigt werden oder sich falsch verhalten.</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar</string>
@@ -206,10 +206,10 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) wird die derzeit installierte Version (%3$s) ersetzen. Existierende App Daten bleiben erhalten.</string>
   <string name="dlg_app_replacement_title">App ersetzen?</string>
   <string name="dlg_appstore_notice">Wir können die Echtheit oder Sicherheit von Apps aus anderen Quellen als dem <u>App Store</u> nicht prüfen</string>
-  <string name="dlg_msg_unoffical">Kann Systemanwendungen nicht von inoffiziellen Kanälen aus installieren.</string>
+  <string name="dlg_msg_unoffical">Kann Systemapps nicht von inoffiziellen Kanälen aus installieren.</string>
   <string name="dlg_msg_unoffical_ok">OK</string>  
   <string name="dlg_ok">OK</string>
-  <string name="dlg_sys_app_replacement_statement">"Dies ist eine Systemanwendung.
+  <string name="dlg_sys_app_replacement_statement">"Dies ist eine Systemapp.
 Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="done">Fertig</string>
   <string name="enable_adb">USB-Debugging</string>
@@ -217,7 +217,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="enable_freeform_support">Freiformfenster aktivieren</string>
   <string name="enable_freeform_support_summary">Unterstützung für experimentelle Freiformfenster aktivieren</string>
   <string name="enable_opengl_traces_title">OpenGL-Traces aktivieren</string>
-  <string name="enable_terminal_summary">Terminalanwendung aktivieren, die lokalen Shell-Zugriff bietet</string>
+  <string name="enable_terminal_summary">Terminalapp aktivieren, die lokalen Shell-Zugriff bietet</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_webview_multiprocess">Multiprozess WebView</string>
   <string name="enable_webview_multiprocess_desc">Starte WebView Renderer separat</string>
@@ -251,7 +251,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="immediately_destroy_activities_summary">Jede Aktivität zerstören, sobald der Benutzer sie verlässt</string>
   <string name="inactive_app_active_summary">Aktiv. Tippen Sie auf den Schalter.</string>
   <string name="inactive_app_inactive_summary">Inaktiv. Tippen Sie auf den Schalter.</string>
-  <string name="inactive_apps_title">Inaktive Anwendungen</string>
+  <string name="inactive_apps_title">Inaktive Apps</string>
   <string name="install">Installieren</string>
   <string name="install_confirm_question">Möchten Sie diese App installieren? Sie erhält dann folgende Berechtigungen:</string>
   <string name="install_confirm_question_no_perms">Möchten Sie diese App installieren? Sie benötigt keinen besonderen Zugriff.</string>
@@ -337,7 +337,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="manage_device_administrators">Geräteadministratoren verwalten</string>
   <string name="manage_permissions_decor_title">Appberechtigungen</string>
   <string name="manage_users">Benutzer verwalten</string>
-  <string name="managed_user_title">Alle Anwendungen</string>
+  <string name="managed_user_title">Alle Apps</string>
   <string name="media_category">Medien</string>
   <string name="menu_hide_system">System ausblenden</string>
   <string name="menu_show_system">System anzeigen</string>
@@ -352,7 +352,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="miui_app_detail">Details</string>
   <string name="miui_app_virus">Diese App ist ein Virus, löschen Sie diese!</string>
   <string name="miui_clean">Bereinigen</string>
-  <string name="miui_compatibility_desc">Diese Anwendung ist nicht für dieses Telefon oder dessen Androidversion geeignet und kann daher zu Fehlern führen. Es wird empfohlen mit der Installation zu warten, bis die App optimiert wurde.</string>
+  <string name="miui_compatibility_desc">Diese App ist nicht für dieses Telefon oder dessen Androidversion geeignet und kann daher zu Fehlern führen. Es wird empfohlen mit der Installation zu warten, bis die App optimiert wurde.</string>
   <string name="miui_delete">Löschen</string>
   <string name="miui_failed_already_exists">Diese App ist bereits installiert</string>
   <string name="miui_failed_conflicting_provider">Serviceprovider-Konflikt</string>
@@ -510,7 +510,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="screen_zoom_summary_very_large">Größer</string>
   <string name="search_menu_title">Suchen</string>
   <string name="security_settings_desc">Ermöglicht dieser App:</string>
-  <string name="select_application">Anwendung auswählen</string>
+  <string name="select_application">App auswählen</string>
   <string name="select_logd_size_dialog_title">Loggergrößen pro Log-Puffer auswählen</string>
   <string name="select_logd_size_title">Log-Puffergrößen</string>
   <string name="select_logpersist_dialog_title">Log-Puffer wählen, der dauerhaft auf dem Gerät gespeichert werden soll</string>
@@ -522,7 +522,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="select_webview_provider_toast_text">Diese Wahl ist nicht mehr gültig. Nochmal versuchen.</string>
   <string name="settings">Einstellungen</string>
   <string name="show_all_anrs">Zeige alle ANRs</string>
-  <string name="show_all_anrs_summary">"Zeige Dialogfeld 'App antwortet nicht' für Hintergrundanwendungen"</string>
+  <string name="show_all_anrs_summary">"Zeige Dialogfeld 'App antwortet nicht' für Hintergrundapps"</string>
   <string name="show_cpu_usage">CPU-Nutzung anzeigen</string>
   <string name="show_cpu_usage_summary">Bildschirmüberlagerung mit Anzeige der aktuellen CPU-Auslastung</string>
   <string name="show_hw_layers_updates">Hardware-Layer-Updates anzeigen</string>
@@ -606,7 +606,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="unknown_apps_dlg_title">Installation gesperrt</string>
   <string name="unknown_installer">Nichtidentifizierte PC-Tools</string>
   <string name="unlike">Nein danke</string>
-  <string name="untrusted_external_source_warning">Zu Ihrer Sicherheit ist es Ihrem Telefon nicht gestattet, unbekannte Anwendungen aus dieser Quelle zu installieren.</string>
+  <string name="untrusted_external_source_warning">Zu Ihrer Sicherheit ist es Ihrem Telefon nicht gestattet, unbekannte Apps aus dieser Quelle zu installieren.</string>
   <string name="usb_audio_disable_routing">USB-Audio-Weiterleitung deaktivieren</string>
   <string name="usb_audio_disable_routing_summary">Deaktivieren der automatischen Weiterleitung zu USB-Audio-Peripheriegeräten</string>
   <string name="user_guest">Gast</string>
