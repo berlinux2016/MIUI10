@@ -38,7 +38,7 @@ Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Wer
   <string name="accelerometer_title">Automatisch drehen</string>
   <string name="access_control_app_entry_multiple">Starten %s</string>
   <string name="access_control_app_entry_single">App starten</string>
-  <string name="access_control_need_password">"%s wurde gesperrt"</string>
+  <string name="access_control_need_password">%s wurde gesperrt</string>
   <string name="access_control_need_to_unlock">Passwort erforderlich:</string>
   <string name="access_control_no_back_footer">Zum Beenden das [Symbol] drücken</string>
   <string name="access_control_password_title">Passwort</string>
@@ -200,7 +200,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="additional_permissions">Weitere Berechtigungen</string>
   <string name="additional_permissions_more">%1$d weitere</string>
   <string name="additional_system_update_settings_list_item_title">Zusätzliche Systemupdates</string>
-  <string name="adjust_3d_depth_title">"Spiele anpassen 3D-Tiefe"</string>
+  <string name="adjust_3d_depth_title">Spiele anpassen 3D-Tiefe</string>
   <string name="admin_device_owner_message">Ihr Administrator kann Apps und Daten überwachen und verwalten, die mit diesem Gerät verknüpft sind, einschl. Einstellungen, Berechtigungen, Unternehmenszugriff, Netzwerkaktivität und Standortinformationen des Geräts.</string>
   <string name="admin_disabled_other_options">Weitere Optionen sind von Ihrem Administrator deaktiviert</string>
   <string name="admin_more_details">Mehr Details</string>
@@ -2820,7 +2820,7 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="manual">Manuell</string>
   <string name="manually_add_network">Netzwerk hinzufügen</string>
   <string name="master_clear_accounts">"Sie sind zurzeit in folgenden Konten angemeldet: "</string>
-  <string name="master_clear_all">"Alle Daten vom internen Telefonspeicher löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
+  <string name="master_clear_all">Alle Daten vom internen Telefonspeicher löschen? Diese Aktion kann nicht rückgängig gemacht werden!</string>
   <string name="master_clear_apply_step_1"><b>\"Werksreset\" löscht alle Daten auf Ihrem Telefon</b>, inkl. Fotos, Musik, Notizen und andere persönliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
   <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass Sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden während des Rücksetzens von Ihrem Gerät gelöscht. <b>Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.</b></string>
   <string name="master_clear_apply_title">Hinweis</string>
@@ -4201,7 +4201,7 @@ UT Interface: %5$s"</string>
   <string name="restore_telephony_hit">Wiederherstellung startet die Telefonapp neu</string>
   <string name="restr_pin_enter_admin_pin">Admin-PIN eingeben</string>
   <string name="restrict_background_blacklisted">Hintergrunddaten ausgeschaltet</string>
-  <string name="restrict_background_data_dialog_summary">Apps, die im Hintergrund laufen, können keine Nachrichten empfangen. Hintergrunddaten wirklich einschränken?"</string>
+  <string name="restrict_background_data_dialog_summary">Apps, die im Hintergrund laufen, können keine Nachrichten empfangen. Hintergrunddaten wirklich einschränken?</string>
   <string name="restrict_background_data_notification_summary">Wenn die Hintergrunddaten eingeschränkt sind, können sich die Apps nicht mit dem Netzwerk verbinden</string>
   <string name="restrict_background_data_title">Hintergrunddaten beschränkt</string>
   <string name="restrict_bg_app">Beschränken</string>
@@ -4321,7 +4321,7 @@ UT Interface: %5$s"</string>
   <string name="screen_paper_mode_hdr_toast">Lesemodus wird während der Wiedergabe von HDR-Videos ausgeschaltet. Es wird automatisch wieder eingeschaltet, wenn die Wiedergabe beendet ist.</string>
   <string name="screen_paper_mode_local_summary">Lesemodus nur für ausgewählte Apps verwenden</string>
   <string name="screen_paper_mode_local_title">Ausgewählte Apps</string>
-  <string name="screen_paper_mode_off_apps_title">"Lesemodus nicht verwenden"</string>
+  <string name="screen_paper_mode_off_apps_title">Lesemodus nicht verwenden</string>
   <string name="screen_paper_mode_range_title">Einstellungen</string>
   <string name="screen_paper_mode_set_apps_title">Lesemodusapps</string>
   <string name="screen_paper_mode_summary">Hintergrundblenden reduzieren</string>
@@ -4715,7 +4715,7 @@ UT Interface: %5$s"</string>
 Hinweis: Ihr Fingerabdruck ist möglicherweise weniger sicher als ein starkes Muster oder eine PIN."</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Berühren Sie einfach den Fingerabdrucksensor, um Einkäufe zu autorisieren, oder melden Sie sich bei Apps an. Seien Sie vorsichtig, wessen Fingerabdrücke Sie hinzufügen. Sogar ein zusätzlicher Abdruck kann all diese Dinge tun.
 
-Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu entsperren. Für weitere Informationen wenden Sie sich bitte an den Administrator Ihrer Organisation.."</string>
+Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu entsperren. Für weitere Informationen wenden Sie sich bitte an den Administrator Ihrer Organisation."</string>
   <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Verwenden Sie Ihren Fingerabdruck</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_warning">Hinweis: Ihr Fingerabdruck ist möglicherweise nicht so sicher wie ein starkes Passwort oder eine PIN</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Mehr erfahren</string>
@@ -6632,7 +6632,7 @@ Delta Updategröße: %2$s"</string>
   <string name="yes">Ja</string>
   <string name="yes_all_caps">JA</string>
   <string name="zen_access_disabled_package_warning">Muss aktiviert bleiben, weil der Benachrichtigungszugriff aktiviert ist</string>
-  <string name="zen_access_empty_text">"Keine Apps erfordern Zugriff im \"Nicht stören\"-Modus"</string>
+  <string name="zen_access_empty_text">Keine Apps erfordern Zugriff im \"Nicht stören\"-Modus</string>
   <string name="zen_access_revoke_warning_dialog_summary">Alle von dieser App erstellten \"Nicht stören\"-Regeln werden entfernt</string>
   <string name="zen_access_revoke_warning_dialog_title">Zugriff auf \"Nicht stören\" für %1$s aufheben?</string>
   <string name="zen_access_warning_dialog_summary">Dieser App ist es möglich, \"Nicht stören\" ein-/auszuschalten und relevante Einstellungen zu ändern</string>
@@ -6707,7 +6707,7 @@ Delta Updategröße: %2$s"</string>
   <string name="zen_mode_rule_not_found_text">Regel nicht gefunden</string>
   <string name="zen_mode_rule_rename_button">Umbenennen</string>
   <string name="zen_mode_rule_summary_enabled_combination">Aktiv / %1$s</string>
-  <string name="zen_mode_rule_summary_provider_combination">"%1$s %2$s"</string>
+  <string name="zen_mode_rule_summary_provider_combination">%1$s %2$s</string>
   <string name="zen_mode_rule_type">Regeltyp</string>
   <string name="zen_mode_rule_type_unknown">Unbekannt</string>
   <string name="zen_mode_schedule_alarm_summary">Zur Endzeit oder beim nächsten Weckruf stoppen, je nachdem, was zuerst eintritt</string>
