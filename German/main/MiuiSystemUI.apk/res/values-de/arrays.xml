@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="animator_duration_Skala_entries">
-    <item>Animation aus</item>
-    <item>Animationsskala 0.5x</item>
-    <item>Animationsskala 1x</item>
-    <item>Animationsskala 1.5x</item>
-    <item>Animationsskala 2x</item>
-    <item>Animationsskala 5x</item>
-    <item>Animationsskala 10x</item>
-  </string-array>
   <string-array name="animator_duration_scale_entries">
     <item>Animation aus</item>
     <item>Animationsskala 0.5x</item>
@@ -146,6 +137,18 @@
     <item>4MB pro Logpuffer</item>
     <item>16MB pro Logpuffer</item>
   </string-array>
+  <string-array name="select_logpersist_summaries">
+    <item>Aus</item>
+    <item>Alle Protokollpuffer</item>
+    <item>Alle außer Funkprotokollpuffer</item>
+    <item>Nur Kernel-Protokollpuffer</item>
+  </string-array>
+  <string-array name="select_logpersist_titles">
+    <item>Aus</item>
+    <item>Alle</item>
+    <item>Alle außer Funk</item>
+    <item>Nur Kernel</item>
+  </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Aus</item>
     <item>Zeichnen Sie nicht rechteckige Clip-Region in blau</item>
@@ -249,7 +252,7 @@
     <item>Blockiert</item>
     <item>Vorübergehende schlechte Verbindung vermeiden</item>
   </string-array>
-  <string-array name="window_animation_Skala_entries">
+  <string-array name="window_animation_scale_entries">
     <item>Animation aus</item>
     <item>Animationsskala 0.5x</item>
     <item>Animationsskala 1x</item>
