@@ -1250,10 +1250,13 @@ Abtastrate"</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Drosselung für ShortcutManager zurücksetzen?</string>
   <string name="connect_mode">Verbindungstyp</string>
   <string name="connect_to_internet">Verbindung zum Netzwerk</string>
+  <string name="connect_wifi">Mit WLAN verbunden</string>
+  <string name="connect_wifi_tip">Verbindung mit Netzwerk fehlgeschlagen. Mit WLAN verbinden, um Elemente aus iCloud zu importieren.</string>
   <string name="connected">Verbunden</string>
+  <string name="connected_devices_dashboard_summary">Bluetooth, Cast, NFC</string>
   <string name="connected_devices_dashboard_title">Verbundene Geräte</string>
-  <string name="connected_via_network_scorer">Automatisch verbunden via %1$s</string>
-  <string name="connected_via_network_scorer_default">Automatisch verbunden via Netzwerk-Rating-Provider</string>
+  <string name="connected_via_network_scorer">Automatisch via %1$s verbunden</string>
+  <string name="connected_via_network_scorer_default">Automatisch via Netzwerk-Rating-Provider verbunden</string>
   <string name="connected_via_passpoint">Verbunden via %1$s</string>
   <string name="connected_via_wfa">Verbunden via WLAN-Assistent</string>
   <string name="connected_wifi">Verbunden</string>
@@ -1272,6 +1275,7 @@ Drücken Sie löschen und konvertieren, um fortzufahren."</string>
   <string name="convert_to_file_encryption">In Dateiverschlüsselung konvertieren</string>
   <string name="convert_to_file_encryption_done">Dateien bereits verschlüsselt</string>
   <string name="convert_to_file_encryption_enabled">Wird konvertiert…</string>
+    <string name="cool_color">Kühl</string>
   <string name="copyright_title">Urheberrecht</string>
   <string name="country_name">%s (System)</string>
   <string name="create">Erstellen</string>
@@ -1518,7 +1522,6 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="default_theme">Standard</string>
   <string name="default_usb_mode">USB-Verbindung</string>
   <string name="delete">Löschen</string>
-  <string name="deleted_apps">Gelöschte Apps</string>
   <string name="delete_backup_process">Wird gelöscht…</string>
   <string name="delete_backup_title">Sicherung löschen</string>
   <string name="delete_failed_backup_confirm">Diese Sicherung ist fehlerhaft</string>
@@ -1528,6 +1531,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Diesen Fingerabdruck entfernen?</string>
   <string name="delete_rule">Regeln löschen</string>
   <string name="delete_saved_network">Gespeichertes Netzwerk löschen</string>
+  <string name="deleted_apps">Gelöschte Apps</string>
   <string name="deletion_helper_automatic_title">Automatisch</string>
   <string name="deletion_helper_manual_title">Manuell</string>
   <string name="deletion_helper_preference_title">Jetzt Speicher freigeben</string>
@@ -1541,7 +1545,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="details_subtitle">Nutzungsdetails</string>
   <string name="details_title">Nutzungsdetails</string>
   <string name="dev_logpersist_clear_warning_message">Wenn wir nicht mehr mit dem dauerhaften Protokoll überwachen, müssen wir die auf Ihrem Gerät gespeicherten Protokolldaten löschen.</string>
-  <string name="dev_logpersist_clear_warning_title">Dauerhaften Protokollspeicher löschen?</string>
+  <string name="dev_logpersist_clear_warning_title">Protokoll für Dauerspeicher löschen?</string>
   <string name="dev_settings_warning_message">Diese Einstellungen sind ausschließlich für Entwicklungszwecke geeignet. Sie können Ihr Gerät und die darauf installierten Apps beschädigen oder zu unerwünschtem Verhalten führen.</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="developer_density_summary">%d DPI</string>
@@ -1619,9 +1623,9 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dirac_mode_general_inear">Universeller Kopfhörer</string>
   <string name="dirac_mode_in_ear">Spirit Yue Kopfhörer</string>
   <string name="dirac_mode_off">Ausschalten</string>
-  <string name="direct_boot_unaware_dialog_message">Hinweis: Sie können diese Tastatur nach einem Neustart nur benutzen, wenn Sie Ihr Gerät entsperren.</string>
-  <string name="disabled_authorised_apps_title">Widerruf der Berechtigung</string>
+  <string name="direct_boot_unaware_dialog_message">Hinweis: Nach einem Neustart können Sie diese Tastatur erst nach dem Entsperren des Telefons benutzen.</string>
   <string name="disable_data_string">Datenverbindung deaktivieren</string>
+  <string name="disable_encrypt_description">Nicht verschlüsselt</string>
   <string name="disable_encrypt_title">Verschlüsselung ausschalten</string>
   <string name="disableNetwork">Netzwerk ausschalten</string>
   <string name="disable_overlays">HW-Overlays ausschalten</string>
@@ -1633,6 +1637,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="disable_wifi_master_key_service">Deaktivieren</string>
   <string name="disable_wifi_master_key_service_first">Deaktivieren</string>
   <string name="disabled">Deaktiviert</string>
+  <string name="disabled_authorised_apps_title">Widerruf der Berechtigung</string>
   <string name="disabled_because_no_backup_security">Um diese Funktion zu verwenden, muss zuerst eine Bildschirmsperre eingerichtet werden</string>
   <string name="disabled_by_admin">Durch Admin deaktiviert</string>
   <string name="disabled_by_admin_summary_text">Durch Admin kontrolliert</string>
@@ -1658,8 +1663,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="display_preview_label">Vorschau:</string>
   <string name="display_settings">Bildschirm</string>
   <string name="display_settings_title">Bildschirm</string>
-  <string name="display_summary">Schlafen nach %1$s Inaktivität</string>
-  <string name="display_summary_example">Schlafen nach 10 Minuten Inaktivität</string>
+  <string name="display_summary">Nach %1$s Inaktivität schlafen</string>
+  <string name="display_summary_example">Nach 10 Minuten Inaktivität schlafen</string>
   <string name="display_summary_off">Adaptive Helligkeit ist ausgeschaltet</string>
   <string name="display_summary_on">Adaptive Helligkeit ist eingeschaltet</string>
   <string name="display_vr_pref_low_persistence">Einstellungen für niedrige Bewegungsunschärfe verwenden</string>
@@ -1772,7 +1777,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="done">Fertig</string>
   <string name="done_button">Fertig</string>
   <string name="double_click_power_key">Ein/Aus-Taste zweimal drücken</string>
-  <string name="double_tap_power_for_camera_summary">Um die Kamera schnell zu öffnen, drücken Sie den Netzschalter zweimal. Funktioniert von jedem Bildschirm aus.</string>
+  <string name="double_tap_power_for_camera_summary">Drücken Sie zweimal auf Einschalttaste, um Kamera schnell zu öffnen. Funktioniert von jedem Bildschirm aus.</string>
   <string name="double_tap_power_for_camera_title">Zur Kamera springen</string>
   <string name="double_twist_for_camera_mode_title">Kamera wechseln</string>
   <string name="download_current_rom">Erhalte die aktuellste Version von MIUI</string>
@@ -1783,7 +1788,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="draw_overlay_title">Apps, die andere überlagern können</string>
   <string name="drive_mode">Fahrzeugmodus</string>
   <string name="drive_mode_auto_reply">Schnellantwort</string>
-  <string name="drive_mode_auto_sms_reply_content">Bin am Fahren. Werde mich später melden.</string>
+  <string name="drive_mode_auto_sms_reply_content">Bin am Fahren. Ich melde mich später.</string>
   <string name="drive_mode_auto_sms_reply_content_title">Schnellantwort</string>
   <string name="drive_mode_calling_auto_sms_reply">Anrufe beantworten</string>
   <string name="drive_mode_invert_stop_report">Telefon umdrehen zum Stummstellen</string>
@@ -1829,6 +1834,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="enable_data_string">Datenverbindung aktivieren</string>
   <string name="enable_drive_mode">Fahrzeugmodus</string>
   <string name="enable_encrypt">Verschlüsselung aktivieren</string>
+  <string name="enable_encrypt_description">Verschlüsselung</string>
   <string name="enable_encrypt_fail">Verschlüsselung fehlgeschlagen</string>
   <string name="enable_encrypt_indicator">Zum Verschlüsseln antippen</string>
   <string name="enable_encrypt_summery1">Melden Sie sich mit Ihrem Mi Konto an, um verschlüsselte Sicherungen anzuzeigen</string>
@@ -1858,6 +1864,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="enable_wifi_display">Kabellose Übertragung aktivieren</string>
   <string name="enable_wifi_master_key_service">WLAN Master Key aktivieren</string>
   <string name="enable_wifi_master_key_service_first">Aktivieren</string>
+  <string name="enabled_authorised_apps_summary">Ihre Berechtigung wird widerrufen, nachdem Sie Schalter einzelner Apps umgeschaltet haben.</string>
+  <string name="enabled_authorised_apps_title">Berechtigung erteilt</string>
   <string name="enabled_by_admin">Vom Administrator aktiviert</string>
   <string name="enalbe_identify_iPhone">Geräte-Identifikation</string>
   <string name="encrypt_dont_require_password">Nein, danke</string>
@@ -1866,8 +1874,39 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="encrypt_require_password">Passwort erforderlich, um Gerät zu starten</string>
   <string name="encrypt_require_pattern">Entsperrmuster erforderlich, um Gerät zu starten</string>
   <string name="encrypt_require_pin">PIN erforderlich, um Gerät zu starten</string>
+  <string name="encrypt_talkback_dialog_message_password">Wenn Sie Ihr Passwort eingeben, um das Gerät zu starten, werden Zugangsdienste, wie %1$s, noch nicht zur Verfügung stehen</string>
+  <string name="encrypt_talkback_dialog_message_pattern">Wenn Sie Ihr Entsperrmuster eingeben, um das Gerät zu starten, werden Zugangsdienste, wie %1$s, noch nicht zur Verfügung stehen</string>
+  <string name="encrypt_talkback_dialog_message_pin">Wenn Sie Ihre PIN eingeben, um das Gerät zu starten, werden Zugangsdienste, wie %1$s, noch nicht zur Verfügung stehen</string>
+  <string name="encrypt_talkback_dialog_require_password">Passwort erforderlich?</string>
+  <string name="encrypt_talkback_dialog_require_pattern">Muster erforderlich?</string>
+  <string name="encrypt_talkback_dialog_require_pin">PIN erforderlich?</string>
+  <string name="encryption_and_credential_settings_summary">Telefon verschlüsseln</string>
+  <string name="encryption_and_credential_settings_title">Verschlüsselung &amp; Anmeldedaten</string>
+  <string name="encryption_continue_button">Weiter</string>
+  <string name="encryption_interstitial_header">Verschlüsselung</string>
+  <string name="encryption_interstitial_message_password">"Sie können Ihr Gerät zusätzlich durch Abfrage eines Passworts schützen.
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_interstitial_message_password_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts können Sie es durch Abfrage eines Passworts schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_interstitial_message_pattern">"Sie können dieses Gerät zusätzlich durch Abfrage Ihres Entsperrmusters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts, können Sie es durch Abfrage eines Musters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_interstitial_message_pin">"Sie können dieses Gerät zusätzlich durch Abfrage Ihrer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_interstitial_message_pin_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts können Sie es durch Abfrage einer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
+Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="encryption_interstitial_no">Nein</string>
   <string name="encryption_interstitial_yes">Ja</string>
+  <string name="encryption_progress_summary">Verschlüsseln, starten Sie Ihr Gerät nicht neu</string>
+  <string name="enforce_read_external_confirm_title">USB-Speicher schützen?</string>
+  <string name="enforce_read_external_summary">Apps benötigen die Berechtigung zum Lesen des USB-Speichers</string>
+  <string name="enforce_read_external_title">USB-Speicher schützen</string>
+  <string name="enhanced_4g_lte_mode_summary">Verwenden Sie LTE-Daten, um Sprache und Kommunikation zu verstärken (Empfohlen)</string>
+  <string name="enhanced_4g_lte_mode_title">Verstärkter 4G LTE-Modus</string>
+  <string name="enter_password">Passwort zum Entschlüsseln des Speichers eingeben</string>
+  <string name="enter_pattern">Um Android zu starten, zeichnen Sie Ihr Entsperrmuster</string>
+  <string name="enter_pin">Um Android zu starten, geben Sie Ihre PIN ein</string>
   <string name="enterprise_privacy_always_on_vpn_device">VPN immer an aktiviert</string>
   <string name="enterprise_privacy_always_on_vpn_personal">VPN immer an in Ihrem persönlichen Profil aktiviert</string>
   <string name="enterprise_privacy_always_on_vpn_work">VPN immer an in Ihrem Arbeitsprofil aktiviert</string>
@@ -1901,42 +1940,12 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="enterprise_privacy_settings_summary_with_name">Von %s verwaltete Änderungen &amp; Einstellungen</string>
   <string name="enterprise_privacy_usage_stats">Zeit- und Datenaufwand pro App</string>
   <string name="enterprise_privacy_wipe_device">Admin kann alle Gerätedaten löschen</string>
-  <string name="encrypt_talkback_dialog_message_password">Wenn Sie Ihr Passwort eingeben, um das Gerät zu starten, werden Zugangsdienste, wie %1$s, noch nicht zur Verfügung stehen</string>
-  <string name="encrypt_talkback_dialog_message_pattern">Wenn Sie Ihr Entsperrmuster eingeben, um das Gerät zu starten, werden Zugangsdienste, wie %1$s, noch nicht zur Verfügung stehen</string>
-  <string name="encrypt_talkback_dialog_message_pin">Wenn Sie Ihre PIN eingeben, um das Gerät zu starten, werden Zugangsdienste, wie %1$s, noch nicht zur Verfügung stehen</string>
-  <string name="encrypt_talkback_dialog_require_password">Passwort erforderlich?</string>
-  <string name="encrypt_talkback_dialog_require_pattern">Muster erforderlich?</string>
-  <string name="encrypt_talkback_dialog_require_pin">PIN erforderlich?</string>
-  <string name="encryption_and_credential_settings_summary">Telefon verschlüsseln</string>
-  <string name="encryption_and_credential_settings_title">Verschlüsselung &amp; Anmeldedaten</string>
-  <string name="encryption_continue_button">Weiter</string>
-  <string name="encryption_interstitial_header">Verschlüsselung</string>
-  <string name="encryption_interstitial_message_password">"Sie können Ihr Gerät zusätzlich durch Abfrage eines Passworts schützen.
-Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_password_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts können Sie es durch Abfrage eines Passworts schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
-Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pattern">"Sie können dieses Gerät zusätzlich durch Abfrage Ihres Entsperrmusters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
-Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts, können Sie es durch Abfrage eines Musters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
-Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pin">"Sie können dieses Gerät zusätzlich durch Abfrage Ihrer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
-Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pin_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts können Sie es durch Abfrage einer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
-Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_progress_summary">Verschlüsseln, starten Sie Ihr Gerät nicht neu</string>
-  <string name="enforce_read_external_confirm_title">USB-Speicher schützen?</string>
-  <string name="enforce_read_external_summary">Apps benötigen die Berechtigung zum Lesen des USB-Speichers</string>
-  <string name="enforce_read_external_title">USB-Speicher schützen</string>
-  <string name="enhanced_4g_lte_mode_summary">Verwenden Sie LTE-Daten, um Sprache und Kommunikation zu verstärken (Empfohlen)</string>
-  <string name="enhanced_4g_lte_mode_title">Verstärkter 4G LTE-Modus</string>
-  <string name="enter_password">Passwort zum Entschlüsseln des Speichers eingeben</string>
-  <string name="enter_pattern">Um Android zu starten, zeichnen Sie Ihr Entsperrmuster</string>
-  <string name="enter_pin">Um Android zu starten, geben Sie Ihre PIN ein</string>
   <string name="eq_auto">Benutzerdefiniert</string>
   <string name="eq_cancel">Abbrechen</string>
   <string name="eq_classical">Klassik</string>
   <string name="eq_delete">Entfernen</string>
   <string name="eq_delete_success">Fertig</string>
+  <string name="eq_electronic">Elektronisch</string>
   <string name="eq_flat">Standard</string>
   <string name="eq_preset_create">Erstellen</string>
   <string name="eq_preset_format">Benutzervoreinstellung %d</string>
@@ -1968,6 +1977,7 @@ Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string
   <string name="error_mcc_not3">MCC-Feld muss 3 Zeichen enthalten</string>
   <string name="error_mnc_not23">MNC-Feld muss 2 oder 3 Zeichen enthalten</string>
   <string name="error_name_empty">Namensfeld darf nicht leer sein</string>
+  <string name="error_permissions">Diese App verfügt nicht über die erforderlichen Berechtigungen, um auf den Kalender zuzugreifen. Gehen Sie in die Einstellungen und überprüfen Sie die Berechtigungen, um fortzufahren.</string>
   <string name="estimated_charging_time_left">Bis vollgeladen</string>
   <string name="estimated_time_description">Schätzung kann sich je nach Nutzung ändern</string>
   <string name="estimated_time_left">Geschätzte Restdauer</string>
@@ -1991,6 +2001,7 @@ Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string
   <string name="face_unlock_enable">Gesichtsentsperrung aktiviert</string>
   <string name="factory_reset_summary">Alle Daten aus dem internen Telefonspeicher löschen</string>
   <string name="fail">Fehlgeschlagen</string>
+  <string name="failed_description">Fehlgeschlagen</string>
   <string name="failed_to_check_find_device_status_content">Gerätelokalisierungsstatus konnte nicht überprüft werden. Warten Sie einen Moment und versuchen es dann erneut.</string>
   <string name="failed_to_check_find_device_status_title">Gerätelokalisierungsstatus konnte nicht überprüft werden</string>
   <string name="failed_to_open_app_settings_toast">Einstellungen für %1$s konnten nicht geöffnet werden</string>
@@ -2027,6 +2038,7 @@ Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string
   <string name="filter_notif_dnd_channels">Kategorien: Überschreibt Nicht stören</string>
   <string name="filter_notif_hide_notifications_apps">Nie auf dem Sperrbildschirm anzeigen</string>
   <string name="filter_notif_low_channels">Kategorien: Geringe Wichtigkeit</string>
+  <string name="filter_notif_no_peeking">Nicht gucken</string>
   <string name="filter_notif_priority_apps">Über Nicht stören hinwegsetzen</string>
   <string name="filter_notif_sensitive_apps">Sensitiver Inhalt versteckt</string>
   <string name="filter_notif_silent">Lautlos anzeigen</string>
@@ -2036,11 +2048,11 @@ Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string
   <string name="filter_with_domain_urls_apps">Mit Domain-URLs</string>
   <string name="filter_work_apps">Arbeit</string>
   <string name="filter_write_settings_apps">Kann Systemeinstellungen ändern</string>
-  <string name="findlost_contact">Kontakte wiederherstellen</string>
-  <string name="findlost_contact_online">Kontakte aus der Mi Cloud wiederherstellen</string>
   <string name="find_my_device">Finde mein Gerät</string>
   <string name="find_my_device_disable">Aus</string>
   <string name="find_my_device_enable">An</string>
+  <string name="findlost_contact">Kontakte wiederherstellen</string>
+  <string name="findlost_contact_online">Kontakte aus der Mi Cloud wiederherstellen</string>
   <string name="fingerprint_add_max">Sie können bis zu %d Fingerabdrücke hinzufügen</string>
   <string name="fingerprint_add_title">Fingerabdruck hinzufügen</string>
   <string name="fingerprint_and_password_entrance_title">Sperrbildschirm &amp; Fingerabdruck</string>
