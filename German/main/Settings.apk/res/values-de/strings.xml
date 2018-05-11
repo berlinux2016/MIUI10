@@ -2004,7 +2004,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="failed_description">Fehlgeschlagen</string>
   <string name="failed_to_check_find_device_status_content">Gerätelokalisierungsstatus konnte nicht überprüft werden. Warten Sie einen Moment und versuchen es dann erneut.</string>
   <string name="failed_to_check_find_device_status_title">Gerätelokalisierungsstatus konnte nicht überprüft werden</string>
-  <string name="failed_to_open_app_settings_toast">Einstellungen für %1$s konnten nicht geöffnet werden</string>
+  <string name="failed_to_open_app_settings_toast">Einstellungen öffnen für %1$s fehlgeschlagen</string>
   <string name="failed_to_shut_down_find_device_content">Gerätelokalisierung konnte nicht deaktiviert werden. Warten Sie einen Moment und versuchen es dann erneut.</string>
   <string name="failed_to_shut_down_find_device_title">Gerätelokalisierung konnte nicht deaktiviert werden</string>
   <string name="fcc_equipment_id">Geräte-ID</string>
@@ -2318,7 +2318,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="ignore_optimizations_on">Nicht optimieren</string>
   <string name="ignore_optimizations_on_desc">Ihr Akku wird möglicherweise schneller leer</string>
   <string name="ignore_optimizations_title">%s erlauben, die Optimierung zu ignorieren?</string>
-  <string name="ime_security_warning">%1$s kann den gesamten von Ihnen eingegebenen Text erfassen, einschl. personenbezogener Daten wie Passwörter und Kreditkartennummern</string>
+  <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Sie gehört zur App %1$s. Verwenden Sie diese Eingabemethode?</string>
   <string name="imei_information_summary">Relevante IMEI-Informationen</string>
   <string name="imei_information_title">IMEI-Informationen</string>
   <string name="immediately_destroy_activities">Aktionen nicht speichern</string>
@@ -4239,8 +4239,8 @@ UT Interface: %5$s"</string>
   <string name="restriction_settings_title">Einschränkungen</string>
   <string name="restriction_wifi_config_summary">Änderungen an Einstellungen für WLAN und mobile Nutzung zulassen</string>
   <string name="restriction_wifi_config_title">WLAN und mobile Nutzung</string>
-  <string name="retail_demo_reset_message">Passwort eingeben, um im Demo-Modus einen Factory-Reset durchzuführen</string>
-  <string name="retail_demo_reset_next">Nächste</string>
+  <string name="retail_demo_reset_message">Passwort eingeben, um im Demomodus einen Werksreset durchzuführen</string>
+  <string name="retail_demo_reset_next">Weiter</string>
   <string name="retail_demo_reset_title">Passwort erforderlich</string>
   <string name="retry">Wiederholen</string>
   <string name="reverse_all">Alle löschen</string>
@@ -4259,7 +4259,7 @@ UT Interface: %5$s"</string>
   <string name="roaming_reenable_message">Die Datenverbindung wurde unterbrochen, weil Sie Ihr Heimnetzwerk verlassen haben und Datenroaming nicht aktiviert ist</string>
   <string name="roaming_reenable_title">Datenroaming zulassen?</string>
   <string name="roaming_turn_it_on_button">Aktivieren</string>
-  <string name="roaming_warning">Wenn Sie Datenroaming zulassen, können hohe Roaminggebühren anfallen!</string>
+  <string name="roaming_warning">Ihnen können erhebliche Kosten entstehen</string>
   <string name="roaming_warning_multiuser">Wenn Sie Datenroaming zulassen, können erhebliche Roaminggebühren entstehen. Diese Einstellung betrifft alle Benutzer auf diesem Telefon.</string>
   <string name="root">Root-Zugang</string>
   <string name="router_backup_hint">Lassen Sie Ihr Gerät eingeschaltet</string>
@@ -6544,8 +6544,8 @@ Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk h
   <string name="wifi_unspecified">(Keine Angabe)</string>
   <string name="wifi_update">Statistik aktualisieren</string>
   <string name="wifi_use_system_certs">Systemzertifikate verwenden</string>
-  <string name="wifi_verbose_logging">Detailliertes WLAN-Logging aktivieren</string>
-  <string name="wifi_verbose_logging_summary">Erhöhung der WLAN-Protokollierungsebene, Anzeige per SSID RSSI im WLAN-Leser</string>
+  <string name="wifi_verbose_logging">Ausführliche Protokollierung für WLAN aktivieren</string>
+  <string name="wifi_verbose_logging_summary">WLAN-Logging-Level erhöhen, Anzeige per SSID RSSI im WLAN-Picker</string>
   <string name="wifi_wakeup">WLAN automatisch einschalten</string>
   <string name="wifi_wakeup_summary">WLAN schaltet sich in der Nähe von gespeicherten High Quality-Netzwerken, wie z.B. Ihrem Heimnetzwerk, wieder ein</string>
   <string name="wifi_wakeup_summary_scanning_disabled">Nicht verfügbar, da der WLAN-Scan ausgeschaltet ist</string>

@@ -212,7 +212,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="enabled_by_admin">Vom Admin aktiviert</string>
   <string name="external_source_trusted">Erlaubt</string>
   <string name="external_source_untrusted">Nicht erlaubt</string>
-  <string name="failed_to_open_app_settings_toast">Einstellungen für %1$s konnten nicht geöffnet werden</string>
+  <string name="failed_to_open_app_settings_toast">Einstellungen öffnen für %1$s fehlgeschlagen</string>
   <string name="force_allow_on_external">Apps auf externem Speicher erlauben erzwingen</string>
   <string name="force_allow_on_external_summary">Ermöglicht das Schreiben jeder App auf externen Speicher, unabhängig von Manifestwerten</string>
   <string name="force_hw_ui">GPU-Rendering erzwingen</string>
@@ -230,7 +230,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="headset_plugin_view_title">Kopfhörer</string>
   <string name="help_feedback_label">Hilfe &amp; Feedback</string>
   <string name="home">Einstellungen Home</string>
-  <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Es kommt von der App %1$s. Diese Eingabemethode verwenden?</string>
+  <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Sie gehört zur App %1$s. Verwenden Sie diese Eingabemethode?</string>
   <string name="immediately_destroy_activities">Aktionen nicht speichern</string>
   <string name="immediately_destroy_activities_summary">Aktivität löschen, sobald der Benutzer diese beendet</string>
   <string name="inactive_app_active_summary">Aktiv. Tippen zum Umstellen.</string>
@@ -311,7 +311,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="respond_via_sms_setting_title">Kurzantworten</string>
   <string name="respond_via_sms_setting_title_2">Kurzantworten bearbeiten</string>
   <string name="retail_demo_reset_message">Passwort eingeben, um im Demomodus einen Werksreset durchzuführen</string>
-  <string name="retail_demo_reset_next">Nächster</string>
+  <string name="retail_demo_reset_next">Weiter</string>
   <string name="retail_demo_reset_title">Passwort erforderlich</string>
   <string name="running_process_item_user_label">Benutzer: %1$s</string>
   <string name="runningservices_settings_summary">Anzeigen und Steuern der aktuell ausgeführten Dienste</string>
@@ -461,16 +461,16 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="wifi_ssid_is_empty">SSID-Feld kann nicht leer sein</string>
   <string name="wifi_ssid_length_is_max">SSID darf nicht länger als 32 Zeichen sein</string>
   <string name="wifi_remembered">Gespeichert</string>
-  <string name="wifi_verbose_logging">WLAN-Verbose-Logging aktivieren</string>
-  <string name="wifi_verbose_logging_summary">Erhöhung des WLAN Logging Levels, Anzeige per SSID RSSI im WLAN Picker</string>
+  <string name="wifi_verbose_logging">Ausführliche Protokollierung für WLAN aktivieren</string>
+  <string name="wifi_verbose_logging_summary">WLAN-Logging-Level erhöhen, Anzeige per SSID RSSI im WLAN-Picker</string>
   <string name="wifi_wapi_as_certificate">AS-Zertifikat</string>
-     <string name="wifi_wapi_cert_mode_hand_text">Zertifikat von Hand auswählen</string>
-     <string name="wifi_wapi_certification_dont_exist">WAPI-Zertifikate sind nicht vorhanden. Bitte installieren Sie sie.</string>
-     <string name="wifi_wapi_fail_to_auth">"WAPI-Authentifizierung fehlgeschlagen.
+  <string name="wifi_wapi_cert_mode_hand_text">Zertifikat von Hand auswählen</string>
+  <string name="wifi_wapi_certification_dont_exist">WAPI-Zertifikate sind nicht vorhanden. Bitte installieren Sie sie.</string>
+  <string name="wifi_wapi_fail_to_auth">"WAPI-Authentifizierung fehlgeschlagen.
 Bitte Gültigkeit der Zertifikate prüfen."</string>
-     <string name="wifi_wapi_fail_to_init">"WAPI-Zertifikate können nicht geöffnet werden.
+  <string name="wifi_wapi_fail_to_init">"WAPI-Zertifikate können nicht geöffnet werden.
 Speicherung von Anmeldedaten ist möglicherweise nicht möglich."</string>
-     <string name="wifi_wapi_psk_type">Passworttyp</string>
-     <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
+  <string name="wifi_wapi_psk_type">Passworttyp</string>
+  <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
   <string name="window_animation_scale_title">Skala Fensteranimation</string>
 </resources>
