@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="assistant_day">
+    <item quantity="other">In %d Tagen</item>
+    <item quantity="one">In %d Tag</item>
+  </plurals>
+  <plurals name="days_ago">
+    <item quantity="other">%1$d T. her</item>
+  </plurals>
   <plurals name="express_history_dialog_delete_message">
     <item quantity="other">%s Elemente aus dem Express löschen?</item>
-    <item quantity="one">%s Elemente aus dem Express löschen?</item>
+    <item quantity="one">%s Element aus dem Express löschen?</item>
   </plurals>
   <plurals name="express_history_menu_select_num">
     <item quantity="other">%s Elemente ausgewählt</item>
     <item quantity="one">%s Element ausgewählt</item>
   </plurals>
-  <plurals name="payment_record_menu_select_num">
-    <item quantity="other">%s Elemente ausgewählt</item>
-    <item quantity="one">%s Element ausgewählt</item>
-  </plurals>
-  <plurals name="payment_record_dialog_delete_message">
-    <item quantity="other">%s Elemente von der Rechnung entfernen?</item>
-    <item quantity="one">%s Element von der Rechnung entfernen?</item>
-  </plurals>
-  <plurals name="time_minute_ago">
-    <item quantity="other">%d Minuten her</item>
-    <item quantity="one">%d Minute her</item>
-  </plurals>
-  <plurals name="time_hour_ago">
-    <item quantity="other">%d Stunden her</item>
-    <item quantity="one">%d Stunde her</item>
+  <plurals name="hours_ago">
+    <item quantity="other">%1$d Std. her</item>
   </plurals>
   <plurals name="main_delete_desc">
     <item quantity="other">%s Elemente aus den Favoriten entfernen?</item>
@@ -35,6 +29,21 @@
   <plurals name="main_mark_fav_num">
     <item quantity="other">%s Elemente als unwichtig markiert</item>
     <item quantity="one">%s Element als unwichtig markiert</item>
+  </plurals>
+  <plurals name="mins_ago">
+    <item quantity="other">%1$d Min. her</item>
+  </plurals>
+  <plurals name="payment_record_menu_select_num">
+    <item quantity="other">%s Elemente ausgewählt</item>
+    <item quantity="one">%s Element ausgewählt</item>
+  </plurals>
+  <plurals name="payment_record_dialog_delete_message">
+    <item quantity="other">%s Elemente von der Rechnung entfernen?</item>
+    <item quantity="one">%s Element von der Rechnung entfernen?</item>
+  </plurals>
+  <plurals name="shopping_delete_num">
+    <item quantity="other">Sind Sie sicher, dass Sie die ausgewählten %s-Positionen löschen möchten?</item>
+    <item quantity="one">Sind Sie sicher, dass Sie die ausgewählte %s-Position löschen möchten?</item>
   </plurals>
   <plurals name="sms_minute_suffix">
     <item quantity="other">In %d Minuten</item>
@@ -56,22 +65,17 @@
     <item quantity="other">%d Minuten</item>
     <item quantity="one">%d Minute</item>
   </plurals>
-  <plurals name="mins_ago">
-    <item quantity="other">%1$d Min. her</item>
-  </plurals>
-  <plurals name="hours_ago">
-    <item quantity="other">%1$d Std. her</item>
-  </plurals>
-  <plurals name="days_ago">
-    <item quantity="other">%1$d Tg. her</item>
-  </plurals>
   <plurals name="steps">
     <item quantity="other">%d|Schritte</item>
     <item quantity="zero">%d|Schritte</item>
     <item quantity="one">%d|Schritt</item>
   </plurals>
-  <plurals name="assistant_day">
-    <item quantity="other">In %d Tagen</item>
-    <item quantity="one">In %d Tag</item>
+  <plurals name="time_hour_ago">
+    <item quantity="other">%d Stunden her</item>
+    <item quantity="one">%d Stunde her</item>
+  </plurals>
+  <plurals name="time_minute_ago">
+    <item quantity="other">%d Minuten her</item>
+    <item quantity="one">%d Minute her</item>
   </plurals>
 </resources>
