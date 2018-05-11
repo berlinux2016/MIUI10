@@ -625,6 +625,7 @@ Zuletzt am %2$s ausgeführt"</string>
   <string name="battery_info_awake_plugged">Aktivzeit während des Aufladens</string>
   <string name="battery_info_health_cold">Kalt</string>
   <string name="battery_info_health_dead">Leer</string>
+  <string name="battery_info_health_good">Gut</string>
   <string name="battery_info_health_label">Akkuzustand:</string>
   <string name="battery_info_health_over_voltage">Überspannung</string>
   <string name="battery_info_health_overheat">Überhitzung</string>
@@ -1275,7 +1276,7 @@ Drücken Sie löschen und konvertieren, um fortzufahren."</string>
   <string name="convert_to_file_encryption">In Dateiverschlüsselung konvertieren</string>
   <string name="convert_to_file_encryption_done">Dateien bereits verschlüsselt</string>
   <string name="convert_to_file_encryption_enabled">Wird konvertiert…</string>
-    <string name="cool_color">Kühl</string>
+  <string name="cool_color">Kühl</string>
   <string name="copyright_title">Urheberrecht</string>
   <string name="country_name">%s (System)</string>
   <string name="create">Erstellen</string>
@@ -1656,6 +1657,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="display_auto_rotate_stay_in_landscape">Querformat fixieren</string>
   <string name="display_auto_rotate_stay_in_portrait">Hochformat fixieren</string>
   <string name="display_auto_rotate_title">Bildschirminhalt drehen</string>
+  <string name="display_category_title">Bildschirm</string>
   <string name="display_dashboard_summary">Hintergrund, schlafen, Schriftgröße</string>
   <string name="display_font_size_label">Schriftgröße:</string>
   <string name="display_label">Bildschirm</string>
@@ -2241,9 +2243,19 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="guarded_mode_dialog_backup_message">Backups sind im Gastmodus nicht erlaubt</string>
   <string name="guarded_mode_dialog_title">Sie befinden sich im Gastmodus</string>
   <string name="guarded_mode_dialog_transfer_message">Mi Mover kann im Gastmodus nicht verwendet werden</string>
+  <string name="gxzw_add_fingerprint_continue">Fortfahren</string>
+  <string name="gxzw_add_fingerprint_edge_message">Bewegen Sie Ihren Finger, damit der Sensor die Kanten Ihres Fingerabdrucks erfassen kann</string>
+  <string name="gxzw_add_fingerprint_edge_title">Bewegen Sie Ihren Finger leicht</string>
+  <string name="gxzw_add_fingerprint_finish">Fertig</string>
+  <string name="gxzw_add_fingerprint_indicate">Hier stärker drücken</string>
+  <string name="gxzw_add_fingerprint_know">Fertig</string>
+  <string name="gxzw_add_fingerprint_message">Finger und Bildschirmoberfläche sauber halten</string>
+  <string name="gxzw_add_fingerprint_move_indicate">Bewegen Sie Ihren Finger leicht</string>
   <string name="gxzw_add_fingerprint_move_message">Restliche Bereiche Ihres Fingerabdrucks wurden nicht aufgezeichnet. Bewegen Sie Ihren Finger leicht</string>
+  <string name="gxzw_add_fingerprint_move_title">Bewegen Sie Ihren Finger leicht</string>
   <string name="gxzw_add_fingerprint_put_finger_message">Drücken Sie etwas fester und heben Sie Ihren Finger, nachdem Sie Vibrationen gespürt haben. Mehrmals wiederholen.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Fester drücken und nach dem vibrieren anheben</string>
+  <string name="gxzw_add_fingerprint_title">Fingerabdruck hinzufügen</string>
   <string name="handy_mode">Einhandmodus</string>
   <string name="handy_mode_enable">Einhandmodus</string>
   <string name="handy_mode_enter_ask">Vor Einschalten des Einhandmodus fragen</string>
@@ -3440,6 +3452,7 @@ Betriebssystem auswählen:"</string>
   <string name="number_of_device_admins_none">Keine aktiven Apps</string>
   <string name="oem_radio_info_label">OEM-spezifische Infos/Einstellungen</string>
   <string name="oem_unlock_enable">OEM-Entsperrung</string>
+  <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Bootloader ist bereits entsperrt</string>
   <string name="oem_unlock_enable_disabled_summary_connectivity">Erst mit dem Internet verbinden</string>
   <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Mit dem Internet verbinden oder wenden Sie sich an Ihren Netzbetreiber</string>
   <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Nicht verfügbar bei SIM-Lock-Geräten</string>
