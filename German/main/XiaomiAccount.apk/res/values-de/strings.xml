@@ -26,8 +26,6 @@
   <string name="account_has_been_set">Ändern</string>
   <string name="account_learn_more_title">Mi Konto erstellen</string>
   <string name="account_limit_update_birthday">Geburtstag kann momentan nicht aktualisiert werden</string>
-  <string name="account_mibi_center">Mi Credits</string>
-  <string name="account_mipay_info">Mi Pay</string>
   <string name="account_name">Konto: %1$s</string>
   <string name="account_no_set">Kein</string>
   <string name="account_none">Kein</string>
@@ -69,7 +67,6 @@ Ihre Konto ID: %s"</string>
   <string name="account_user_other_info">Weitere Informationen</string>
   <string name="account_user_phone">Telefonnummer</string>
   <string name="account_user_recovery_phone">Notfalltelefon</string>
-  <string name="account_user_region">Region</string>
   <string name="account_user_secure_info">Telefon &amp; E-Mail</string>
   <string name="account_user_using_facebook_avatar">Facebook-Profilfoto verwenden</string>
   <string name="account_user_using_qq_avatar">QQ-Profilfoto verwenden</string>
@@ -106,7 +103,6 @@ Ihre Konto ID: %s"</string>
   <string name="checking_account">Passwort wird geprüft…</string>
   <string name="checking_input">Prüfen…</string>
   <string name="checking_phone_num_availible">Prüfe Telefon…</string>
-  <string name="cloud_service">Mi Cloud</string>
   <string name="cloud_service_dspt">Synchronisieren Sie Ihre Fotos, Kontakte, Notizen, Apps und mehr auf all Ihren Geräten</string>
   <string name="completed">Fertig</string>
   <string name="confirm">Verifikationscode</string>
@@ -231,9 +227,7 @@ Ihre Konto ID: %s"</string>
   <string name="logout_failed">Abmelden fehlgeschlagen</string>
   <string name="mi_account_dspt_provision">Mit einem Konto an der Mi Cloud, dem MIUI Themenstore und weiteren Mi-Diensten anmelden</string>
   <string name="mi_account_identity_title">Prüfen Sie Ihre Identität</string>
-  <string name="mi_family">Mi Home</string>
   <string name="mi_insurance">Mi Versicherung</string>
-  <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identität</string>
   <string name="mi_vip_info">Zugriffsrechte anzeigen</string>
   <string name="mibi_balance">%s Mi Credit</string>
@@ -249,11 +243,8 @@ Ihre Konto ID: %s"</string>
   <string name="micloud_sync_state_stop">Angehalten</string>
   <string name="micloud_sync_state_synced">Synchronisiert</string>
   <string name="micloud_sync_state_syncing">Synchronisiere</string>
-  <string name="mili_center">Mi Credits</string>
-  <string name="mipay">Mi Pay</string>
   <string name="mipay_balance">Kontostand</string>
   <string name="mipay_bank_card">Bankkarte</string>
-  <string name="mipay_center">Mi Wallet</string>
   <string name="mipay_identitiy_no">Nicht verifiziert </string>
   <string name="mipay_identity">Identität</string>
   <string name="mipay_indentity_done">Verifiziert</string>
@@ -517,7 +508,6 @@ Ihre Konto ID: %s"</string>
   <string name="passport_wrong_vcode">Eingegebener Code ist ungültig</string>
   <string name="passport_yes">Ja</string>
   <string name="passport_xiaomi_account_dspt">Nutzen Sie Ihr Mi Konto, um überall auf die Mi Cloud, den MIUI Theme Store und weitere Dienste zuzugreifen</string>
-  <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Zur Anmeldung Ihres Mi Kontos wird eine Internetverbindung benötigt. Anschließend wird die Standortbestimmung, die Mi Cloud und Mi VIP automatisch eingeschaltet.</string>
   <string name="passport_xiaomi_account_sec_dspt2_vip">Anmelden bei Ihrem Mi Konto erfordert eine Internetverbindung. Darüber hinaus werden Zugangsdaten wie Mi Cloud und Mi VIP automatisch aktiviert.</string>
   <string name="password">Passwort eingeben</string>
@@ -614,7 +604,7 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="set_security_question_title">Sicherheitsfragen festlegen</string>
   <string name="set_success">Erfolgreich geändert</string>
   <string name="sign_in">Anmelden</string>
-  <string name="sim_changed_notification_msg">Tap to update your recovery phone und geben Sie Ihrem Konto mehr Sicherheit.</string>
+  <string name="sim_changed_notification_msg">Tippen, um Ihr Wiederherstellungstelefon zu aktualisieren und Ihr Konto sicherer zu machen</string>
   <string name="sim_changed_notification_title">Telefonnummer ändern?</string>
   <string name="skip_register">Schritt überspringen</string>
   <string name="sms_send_success">Gesendet</string>
@@ -664,9 +654,8 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="verify_phone_prompt">Zu verifizierende Nummer wählen</string>
   <string name="verify_phone_title">Telefonnummer verifizieren</string>
   <string name="vip_account_settings">VIP-Einstellungen</string>
-  <string name="vip_settings_info">VIP-Info</string>
+  <string name="vip_settings_info">VIP-Einstellungen</string>
   <string name="wipe_data_dialog_msg">%s wird nach dem Fortfahren gelöscht</string>
-  <string name="wipe_data_dialog_msg_separator">", "</string>
   <string name="wipe_data_dialog_title">Einige Daten wurden nicht synchronisiert</string>
   <string name="wrong_captcha">Eingegebener Code ist falsch</string>
   <string name="wrong_vcode">Eingegebener Verifikationscode ist falsch</string>
