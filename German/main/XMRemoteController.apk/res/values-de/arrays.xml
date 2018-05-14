@@ -11,11 +11,6 @@
     <item>Achten Sie darauf, während des Pairing-Prozesses das richtige A/C-Modell auszuwählen. Folgen Sie den Anweisungen auf dem Gerät, bis die Anmeldung abgeschlossen ist.</item>
     <item>Nein. Derzeit können nur Mi 4, Mi 4c, Redmi Note 2, Redmi Note 3 und das Redmi 3  als Infrarotfernbedienung verwendet werden</item>
   </string-array>
-  <string-array name="assistant_tab">
-    <item>Video</item>
-    <item>Screenshots</item>
-    <item>App</item>
-  </string-array>
   <string-array name="epg_channel_tab">
     <item>Alle</item>
     <item>Favoriten</item>
@@ -85,35 +80,6 @@
     <item>Fr</item>
     <item>Sa</item>
   </string-array>
-  <string-array name="passport_alphabet_table">
-    <item>\#</item>
-    <item>A</item>
-    <item>B</item>
-    <item>C</item>
-    <item>D</item>
-    <item>E</item>
-    <item>F</item>
-    <item>G</item>
-    <item>H</item>
-    <item>I</item>
-    <item>J</item>
-    <item>K</item>
-    <item>L</item>
-    <item>M</item>
-    <item>N</item>
-    <item>O</item>
-    <item>P</item>
-    <item>Q</item>
-    <item>R</item>
-    <item>S</item>
-    <item>T</item>
-    <item>U</item>
-    <item>V</item>
-    <item>W</item>
-    <item>X</item>
-    <item>Y</item>
-    <item>Z</item>
-  </string-array>
   <string-array name="question">
     <item>Keine Geräte im WLAN erkennbar?</item>
     <item>Modi oder Temperatur der Klimaanlage nicht änderbar?</item>
@@ -122,5 +88,30 @@
   <string-array name="user_notification_tab">
     <item>\@ist mit mir verwandt</item>
     <item>Systembenachrichtigungen</item>
+  </string-array>
+  <string-array name="voice_ac_help">
+    <item>Haier AC im Wohnzimmer einschalten</item>
+    <item>Temperatur auf 25 Grad einstellen</item>
+    <item>Windrichtung auf \"Hoch\" stellen</item>
+  </string-array>
+  <string-array name="voice_fan_help">
+    <item>Gree AC einschalten</item>
+    <item>In den Schwingungsmodus wechseln</item>
+    <item>AC soll kräftiger blasen</item>
+  </string-array>
+  <string-array name="voice_stb_help">
+    <item>Set-Top-Box einschalten</item>
+    <item>Ich will Hunan TV sehen</item>
+    <item>Zurück zu Sender 15</item>
+  </string-array>
+  <string-array name="voice_tips">
+    <item>AC einschalten</item>
+    <item>Ich will Shenzhen TV sehen</item>
+    <item>Zurück zu Sender 12</item>
+  </string-array>
+  <string-array name="voice_tv_help">
+    <item>TV im Schlafzimmer einschalten</item>
+    <item>TV ausschalten</item>
+    <item>TV lauter einstellen</item>
   </string-array>
 </resources>
