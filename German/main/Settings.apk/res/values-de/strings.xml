@@ -2294,6 +2294,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="hidden_ssid_label">Verborgene SSID:</string>
   <string name="hide">Verbergen</string>
   <string name="hide_extra_apps">Appnutzung anzeigen</string>
+  <string name="hide_password_description">Passwort verbergen</string>
   <string name="hide_screen_button">Bildschirmtasten verbergen</string>
   <string name="high_performance_notif_summary">Leistungsmodus eingeschaltet</string>
   <string name="high_performance_notif_title">Akkuverbrauchswarnung</string>
@@ -2310,23 +2311,50 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="home">Einstellungen Startseite</string>
   <string name="home_app">Startseitenapp</string>
   <string name="home_app_uninstall_button">Diese App entfernen</string>
+  <string name="home_key">Startbildschirm</string>
+  <string name="home_settings">Startbildschirm</string>
   <string name="home_work_profile_not_supported">Unterstützt keine Arbeitsprofile</string>
+  <string name="hsa_code_null">Bestätigungscode darf nicht leer sein</string>
+  <string name="hsa_input_hint">Bestätigungscode eingeben</string>
+  <string name="hsa_input_tip">Ihre Apple ID verwendet eine Zwei-Faktor-Authentifizierung. Geben Sie Bestätigungscode ein.</string>
+  <string name="hsa_send_again">Erneut senden</string>
+  <string name="hsa_send_again_countdown">Erneut senden (%ds)</string>
+  <string name="hsa_send_failed">Der Bestätigungscode konnte nicht gesendet werden. Warten Sie ein paar Minuten und versuchen Sie es erneut.</string>
+  <string name="hsa_sending">Wird gesendet…</string>
+  <string name="hsa_tip_title">Tipps:</string>
+  <string name="hsa_title">Zwei-Faktor-Authentifizierung</string>
+  <string name="hsa_verify_failed">Zwei-Faktor-Authentifizierung fehlgeschlagen</string>
+  <string name="hsa_verify_failed_message">Zwei-Faktor-Authentifizierung fehlgeschlagen. Sie können wiederholen oder die Zwei-Faktor-Authentifizierung deaktivieren.</string>
+  <string name="hsa_verify_retry">Nochmal versuchen</string>
+  <string name="hsa_verify_shutdown">Deaktivieren</string>
   <string name="http_invoke_app">Webapps</string>
   <string name="http_invoke_app_summary">Öffnen Sie Apps schneller, ohne diese zu installieren</string>
+  <string name="icloud_backup_tip">Melde dich mit dem iCloud-Konto deines alten iOS-Geräts an</string>
+  <string name="icloud_how_to_backup_tip_summary">Sie müssen ein iCloud-Backup erstellen, um die Daten von iOS zu importieren.</string>
+  <string name="icloud_how_to_backup_tip_title">Tipps:</string>
+  <string name="icloud_login_title">In iCloud anmelden</string>
+  <string name="icloud_need_sync">"Sie sollten erst ein iCloud-Backup erstellen, 
+um die Daten von iOS zu importieren."</string>
+  <string name="icloud_need_wifi_message">Sie sind zurzeit nicht mit dem WLAN verbunden. Um Daten von iCloud zu importieren, stellen Sie eine WLAN-Verbindung her.</string>
+  <string name="icloud_need_wifi_title">Mit WLAN verbinden</string>
   <string name="ignore_optimizations_off">Optimieren</string>
   <string name="ignore_optimizations_off_desc">Empfohlen für mehr Akkulaufzeit</string>
   <string name="ignore_optimizations_on">Nicht optimieren</string>
   <string name="ignore_optimizations_on_desc">Ihr Akku wird möglicherweise schneller leer</string>
   <string name="ignore_optimizations_title">%s erlauben, die Optimierung zu ignorieren?</string>
-  <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Sie gehört zur App %1$s. Verwenden Sie diese Eingabemethode?</string>
+  <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern</string>
   <string name="imei_information_summary">Relevante IMEI-Informationen</string>
   <string name="imei_information_title">IMEI-Informationen</string>
   <string name="immediately_destroy_activities">Aktionen nicht speichern</string>
   <string name="immediately_destroy_activities_summary">Aktivität löschen, sobald der Benutzer diese beendet</string>
+  <string name="import_again">Wieder importieren</string>
+  <string name="import_data_from_icloud">Daten von iCloud importieren</string>
   <string name="import_from_xiaomi_account_hint1">"1. Mi Talk herunterladen und anmelden, http://www.miliao.com
 2. In die Mi Talk-Einstellungen wechseln und \"Kontakte im Mi Konto sichern\" wählen"</string>
   <string name="import_from_xiaomi_account_hint2">Falls Sicherung bereits vorhanden ist, weiter drücken</string>
   <string name="import_from_xiaomi_account_hint_title">Mi Talk verwenden, um Kontakte auf anderen Geräten wiederherzustellen</string>
+  <string name="import_tip_summary">Aufgrund von Kompatibilitätsproblemen können nur Teildaten von iOS-Geräten übertragen werden. Stellen Sie sicher, dass Sie vor dem Start der Übertragung ein iCloud-Backup vorhanden ist.</string>
+  <string name="import_tip_title">Tipps:</string>
   <string name="importance_reset">Zurücksetzen</string>
   <string name="ims_reg_required_off">IMS-Registrierung muss ausgeschaltet werden</string>
   <string name="ims_reg_required_on">IMS-Registrierung muss eingeschaltet werden</string>
@@ -2361,6 +2389,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="install_master_key_and_connect">Mit dem WLAN Master Key können Sie eine Verbindung mit dem Netzwerk herstellen. Dieses Werkzeug installieren?</string>
   <string name="install_no_market_app_summary">Installation von Apps aus anderen Quellen als dem App Store zulassen</string>
   <string name="install_no_market_app_title">Unbekannte Quellen</string>
+  <string name="install_other_apps">Installiere unbekannte Apps</string>
   <string name="install_preinstall_app">Region wird gewechselt…</string>
   <string name="install_text">Installieren</string>
   <string name="install_type_instant">Instant App</string>
@@ -2373,7 +2402,6 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="instruction_privacy_password">Dieses Passwort schützt die folgenden Inhalte</string>
   <string name="instruction_title">Anleitung</string>
   <string name="insufficient_storage">Nicht genügend Speicherplatz</string>
-  <string name="install_other_apps">Installiere unbekannte Apps</string>
   <string name="intent_sender_account_label">Konto:</string>
   <string name="intent_sender_action_label">Aktion:</string>
   <string name="intent_sender_data_label">Daten:</string>
@@ -2439,8 +2467,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="keywords_all_apps">Apps;Download;Anwendungen;System;App</string>
   <string name="keywords_app_permissions">Apps;Berechtigungen;Sicherheit</string>
   <string name="keywords_auto_rotate">Rotation;Bildschirm drehen;Bildschirm Orientierung;Portrait-Modus;Landschaft-Modus;vertikal;horizontal</string>
-  <string name="keywords_battery">Leistung</string>
   <string name="keywords_backup">Backup;back up;Sicherung</string>
+  <string name="keywords_battery">Leistung</string>
   <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
   <string name="keywords_color_mode">Lebendig;RGB;sRGB;Farbe;Natürlich;Standard</string>
   <string name="keywords_color_temperature">Farbtemperatur;D65;D73;weiß;gelb;blau;warm;kalt</string>
@@ -2545,6 +2573,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="link_speed_label">Verbindungsgeschwindigkeit:</string>
   <string name="list_bg_header_text">Wenn Sie die Hintergrundverbindung einschränken, können sich neue Apps nach der Installation nicht mehr im Hintergrund mit dem Internet verbinden. Möglicherweise können sie danach keine Nachrichten mehr empfangen oder Inhalte herunterladen.</string>
   <string name="list_empty_text">Leer</string>
+  <string name="loading_data">Daten laden</string>
   <string name="loading_notification_apps">Apps werden geladen…</string>
   <string name="local_app_name">Sicherung</string>
   <string name="local_auto_backup_off">Aus</string>
@@ -2676,7 +2705,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="lock_settings_profile_unification_dialog_confirm">Gerätesperre ändern</string>
   <string name="lock_settings_profile_unification_dialog_title">Die gleiche Sperre verwenden?</string>
   <string name="lock_settings_profile_unification_dialog_uncompliant_body">"Ihre Profilsperre erfüllt nicht die Sicherheitsanforderungen Ihrer Organisation.
-Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerdings werden alle Sicherheitsanforderungen auch auf Ihre Bildschrimsperre angewendet".</string>
+Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerdings werden alle Sicherheitsanforderungen auch auf Ihre Bildschrimsperre angewendet."</string>
   <string name="lock_settings_profile_unification_dialog_uncompliant_confirm">Sperre ändern</string>
   <string name="lock_settings_profile_unification_summary">Bildschirmsperre übereinstimmend mit Arbeitsprofil ändern</string>
   <string name="lock_settings_profile_unification_title">Dieselbe Sperre verwenden</string>
@@ -2779,13 +2808,16 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="lockscreen_glogin_password_hint">Passwort</string>
   <string name="lockscreen_glogin_submit_button">Anmelden</string>
   <string name="lockscreen_magazine">Hintergrundbildkarussell</string>
-  <string name="lockscreen_magazine_title">Hintergrundbildkarussell</string>
   <string name="lockscreen_magazine_summary">Hochwertiges Hintergrundbildkarussell</string>
+  <string name="lockscreen_magazine_title">Hintergrundbildkarussell</string>
   <string name="lockscreen_remote_input">Verhindert das Senden von Antworten oder anderem Text in Benachrichtigungen, wenn das Gerät gesperrt ist</string>
   <string name="lockscreen_settings_title">Einstellungen Sperrbildschirm</string>
+  <string name="login">Anmelden</string>
   <string name="login_account_dialog_message">Melden Sie sich an Ihrem Mi Konto an und schalten Sie die Synchronisation mit Mi Cloud ein</string>
   <string name="login_account_dialog_title">Melden Sie sich an Ihrem Mi Konto an</string>
   <string name="login_action">Anmelden</string>
+  <string name="login_failed">Anmeldung fehlgeschlagen. Versuchen Sie nochmal.</string>
+  <string name="logining">Anmelden…</string>
   <string name="long_press_back_key">Zurücktaste lange drücken</string>
   <string name="long_press_buttom_key">Hometaste lange drücken</string>
   <string name="long_press_home_key">Hometaste lange drücken</string>
@@ -2809,7 +2841,7 @@ Sie können eine neue Sperre für das Gerät und Ihr Profil festlegen, allerding
   <string name="main_running_process_description">Hauptprozess wird verwendet</string>
   <string name="make_sure_cancel_update">Update abbrechen?</string>
   <string name="man_add_application">App zum Autostart hinzufügen</string>
-  <string name="manage_condition_providers">Konditionsanbieter</string>
+  <string name="manage_condition_providers">Datennutzungsstatistiken</string>
   <string name="manage_condition_providers_summary_zero">Keine App bietet Konditionen an</string>
   <string name="manage_device_admin">Geräteadministratoren</string>
   <string name="manage_device_admin_summary">Geräteadministratoren anzeigen oder deaktivieren</string>
