@@ -54,7 +54,9 @@
   <string name="action_menu_useful_page_added">Zu nützlichen Seiten hinzugefügt</string>
   <string name="action_menu_user_center">Anwenderzentrum</string>
   <string name="action_modify_bookmark">Lesezeichen ändern</string>
+  <string name="action_one_touch">Öffne Benachrichtigungen</string>
   <string name="action_put_in_search_box">Geben Sie %s in das Suchfeld ein.</string>
+  <string name="action_skip">Überspringen</string> 
   <string name="actionbar_share">Teilen</string>
   <string name="actionbar_textselection_title">Textauswahl</string>
   <string name="actionbar_web_search">Websuche</string>
@@ -140,10 +142,6 @@
   <string name="browserFrameFileErrorLabel">Dateifehler</string>
   <string name="browserFrameFormResubmitMessage">Die aufgerufene Seite enthält Daten, die bereits übermittelt wurden. Beim erneuten Versenden der Daten werden bestimmte Aktionen wiederholt (z.B. Suchen oder Einkäufe).</string>
   <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
-  <string name="cloud_tabs_sync_off">Synchronisation aus</string>
-  <string name="context_menu_add_to_desk_id">Zur Startseite hinzufügen</string>
-  <string name="context_menu_orientation_portrait_swap_id">V/H Bildschirm</string>
-  <string name="data_monitor">Datenmonitor</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancle_sync_cloud_tabs">Synchronisation abbrechen</string>
   <string name="cannot_download">Download nur von \"http\" oder \"https\" URLs</string>
@@ -169,6 +167,7 @@
   <string name="cloud_sync_closed_toast">Aktualisierung nicht möglich, da die Synchronisation deaktiviert ist</string>
   <string name="cloud_sync_failed_toast">Aktualisierung fehlgeschlagen</string>
   <string name="cloud_tab">Cloud Tabs</string>
+  <string name="cloud_tabs_sync_off">Synchronisation aus</string>
   <string name="cloud_time_tips">Letzte Synchronisierung</string>
   <string name="cloud_up_to_loading_tips">Zum Synchronisieren loslassen</string>
   <string name="collect_video">Video sammeln</string>
@@ -188,10 +187,12 @@
   <string name="comment_description">Kommentieren</string>
   <string name="comment_hint">Kommentieren</string>
   <string name="comment_max_length">Ihr Kommentar ist zu lang</string>
-  <string name="comment_num_description">Kommentarnummer</string>
   <string name="comment_menu">Kommentieren</string>
+  <string name="comment_num_description">Kommentarnummer</string>
   <string name="common_use_phrase_bottom_bar_text_next">Nächster</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Zurück</string>
+  <string name="context_menu_add_to_desk_id">Zur Startseite hinzufügen</string>
+  <string name="context_menu_orientation_portrait_swap_id">V/H Bildschirm</string>
   <string name="contextmenu_add_contact">Kontakt hinzufügen</string>
   <string name="contextmenu_copy">Kopieren</string>
   <string name="contextmenu_copylink">Kopiere Link-URL</string>
@@ -221,6 +222,7 @@
   <string name="current_version_phone">Smartphone</string>
   <string name="custom_head_card_text">Glauben Sie immer daran, dass etwas Wunderbares geschehen wird</string>
   <string name="custom_head_card_text_incognito">Nur Gott und Sie selbst kennen dieses private Fenster</string>
+  <string name="data_monitor">Datenmonitor</string>
   <string name="data_monitor_dialog_message">Sieht so aus, als ob irgendetwas Ihre mobilen Daten verbraucht. Öffnen Sie die Startseite, um dies zu stoppen.</string>
   <string name="data_traffic_prompt_change">Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
   <string name="data_traffic_prompt_message">Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
@@ -306,6 +308,7 @@
   <string name="enable_geolocation_confirm_message">Deaktivieren dieser Funktion könnte auf einigen Seiten zu Fehlverhalten führen</string>
   <string name="enter_developer_mode">Entwicklermodus</string>
   <string name="enter_incongnito_mode">Tarnmodus (Inkognito) betreten</string>
+  <string name="enter_infoflow_guide">Nach oben wischen, um Neuigkeiten zu sehen</string>
   <string name="enter_the_group_name">Bitte den Gruppennamen eingeben</string>
   <string name="enter_the_password">Bitte Passwort eingeben</string>
   <string name="enter_the_user_name">Bitte Benutzernamen eingeben</string>
@@ -367,9 +370,11 @@
   <string name="homepage_more_cards">Weitere Karten</string>
   <string name="homepage_more_sites">Weitere Seiten</string>
   <string name="homepage_search_hint">Suche</string>
+  <string name="hot_words_item_ads_mark">Werbung</string>
   <string name="ignore_add_pwa_dialog_today">Heute nicht mehr zeigen</string>
   <string name="in_incognito">Sie sind inkognito! Webseiten, die Sie besuchen, werden in Ihrem Browserverlauf nicht angezeigt.</string>
   <string name="in_secureaccess">Browser ist im sicheren Modus</string>
+  <string name="info_flow_description">Infokanal</string>
   <string name="is_first_history_item">Dies ist die erste Seite in Ihrem Browserverlauf</string>
   <string name="is_first_tab">Dies ist der erste Tab</string>
   <string name="is_last_history_item">Dies ist die letzte Seite Ihres Browserverlaufs</string>
@@ -419,6 +424,7 @@
   <string name="menu_title_open_file_management">Dateimanager öffnen</string>
   <string name="menu_title_pause_all">Alle pausieren</string>
   <string name="menu_title_resume_all">Alle starten</string>
+  <string name="message_notice_push">Neueste Hotspots nicht mehr verpassen!</string>
   <string name="miui_autologin_bar_error">Anmeldung fehlgeschlagen</string>
   <string name="miui_autologin_bar_title">Melden Sie sich mit einem Mi Konto an</string>
   <string name="miui_bookmark_action_bar_add_group_title">Gruppe hinzufügen</string>
@@ -1031,6 +1037,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="pref_label_advert_manager">Markierte Werbung verwalten</string>
   <string name="pref_nav_mode_summary_phone">Smartphone</string>
   <string name="pref_nav_mode_title">Browsermodus</string>
+  <string name="pref_navscreen_layoutstate_title">Verwaltung mehrerer Fenster</string>
   <string name="pref_notifications_hint">Benachrichtigungen</string>
   <string name="pref_notifications_receive">Neuer Benachrichtigungsalarm</string>
   <string name="pref_notifications_title">Benachrichtigungen</string>
@@ -1114,6 +1121,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="readmode_recommend_message">Sie haben das Buch bereits gelesen :-)</string>
   <string name="readmode_refresh">Aktualisieren</string>
   <string name="readmodelist_bookmarks_to_show">Leseliste</string>
+  <string name="refresh_description">Aktualisieren</string>
   <string name="refuse_permissions_request">Einschränken</string>
   <string name="remember_passwords_confirm_message">Bedienung kann durch Deaktivieren beeinflusst werden</string>
   <string name="remove_bookmark">Lesezeichen löschen</string>
@@ -1137,7 +1145,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="same_folder_name_warning">Eine Gruppe mit demselben Namen existiert bereits</string>
   <string name="save_button_text">Speichern</string>
   <string name="save_dialog_title">Speichern</string>
-  <string name="save_file">%s Datei speichern</string>
+  <string name="save_file">Speichern</string>
   <string name="save_file_already_exist_alert_message">Eine Datei mit demselben Namen existiert bereits, wollen Sie diese überschreiben?</string>
   <string name="save_file_already_exist_alert_title">Überschreibe Datei?</string>
   <string name="save_form_data_confirm_message">Deaktivieren dieser Funktion kann die App beeinflussen</string>
@@ -1177,6 +1185,8 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="share_by_yidianzixun">【YidianZixun】</string>
   <string name="share_image_text">Sieh, was ich geteilt habe! @MIUI</string>
   <string name="share_page_text">Ich genieße 【%1$s】 | %2$s</string>
+  <string name="short_video_description">Videokanal</string>
+  <string name="short_video_tip">Schauen Sie! Lustiges Video</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Wir werden Ihre personenbezogenen Daten erheben und verwenden, wenn Sie sich für die Nutzung unserer Dienste entscheiden.
 Nachfolgend die Daten, die wir sammeln:
 1. Sichere URLs: Wir erfassen die URLs der Webseiten, die Sie bei der Nutzung unserer Dienste besuchen.
@@ -1237,6 +1247,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="suggest_access_item_yellow_mark">GELBE SEITEN</string>
   <string name="suggest_item_delete_text">Löschen</string>
   <string name="suggest_open_app_failed">Konnte die App nicht öffnen</string>
+  <string name="suggestion_clear_record_message">Bestätigen Sie einen leeren Eingabesatz?</string>
   <string name="suggestion_express_button_query_more">MEHR ANZEIGEN</string>
   <string name="suggestion_express_button_text_query">PRÜFEN</string>
   <string name="suggestion_express_exception_net">Verbindung zum Netzwerk nicht möglich. Prüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>
@@ -1262,6 +1273,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="temp_refuse">Verweigern</string>
   <string name="time_picker_dialog_title">Zeit einstellen</string>
   <string name="title_bar_loading">Lade…</string>
+  <string name="title_notice_push">Hinweis zur Erinnerung</string>
   <string name="too_many_windows_dialog_message">Browser kann keine neue Registerkarte öffnen, solange nicht eine andere geschlossen wird</string>
   <string name="too_many_windows_dialog_title">Kann keine weiteren Registerkarten öffnen</string>
   <string name="transfer_prompt_0">Video abspielen</string>
