@@ -1,7 +1,7 @@
-# ![logo](http://i.imgur.com/pMrGibE.jpg)
-# MIUI V9 German Translation
 
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/berlinux2016/MIUI9-ger.svg)](http://isitmaintained.com/project/berlinux2016/MIUI9-ger "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/berlinux2016/MIUI9-ger.svg)](http://isitmaintained.com/project/berlinux2016/MIUI9-ger "Percentage of issues still open")
+# MIUI V10 German Translation
+
+
 
 ## Introduction
 
