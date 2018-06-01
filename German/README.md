@@ -1,6 +1,6 @@
 ## Regular updates
 
-All phrases are copied and then translated from the English base repository [ingbrzy/Xiaomi.eu-MIUIv9-XML-Compare](https://github.com/ingbrzy/Xiaomi.eu-MIUIv9-XML-Compare).
+All phrases are copied and then translated from the English base repository [ingbrzy/Xiaomi.eu-MIUIv10-XML-Compare](https://github.com/ingbrzy/Xiaomi.eu-MIUIv10-XML-Compare).
 
 ## Automated XML Validation
 
