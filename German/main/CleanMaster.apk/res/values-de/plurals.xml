@@ -102,7 +102,19 @@
     <item quantity="one">Ein Video konnte nicht exportiert werden. Machen Sie Speicherplatz frei und versuchen Sie es noch einmal.</item>
   </plurals>
   <plurals name="wechat_empty_files">
-  <item quantity="other">(%1$d leere Dateien)</item>
-  <item quantity="one">(%1$d leere Datei)</item>
+    <item quantity="other">(%1$d leere Dateien)</item>
+    <item quantity="one">(%1$d leere Datei)</item>
+  </plurals>
+  <plurals name="hour">
+    <item quantity="other">%1$d Stunden</item>
+    <item quantity="one">%1$d Stunde</item>
+  </plurals>
+  <plurals name="minute">
+    <item quantity="other">%1$d Minuten</item>
+    <item quantity="one">%1$d Minute</item>
+  </plurals>
+  <plurals name="second">
+    <item quantity="other">%1$d Sekunden</item>
+    <item quantity="one">%1$d Sekunde</item>
   </plurals>
 </resources>
