@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <item type="plurals" name="public_static_final_host_plurals1">padding</item>
+  <plurals name="comment_count">
+    <item quantity="other">%d Bemerkungen</item>
+    <item quantity="one">%d Bemerkung</item>
+  </plurals>
   <plurals name="favor_short_selected_counts">
-        <item quantity="other">%1$s Elemente ausgewählt</item>
-        <item quantity="one">%1$s Element ausgewählt</item>
-     </plurals>
-     <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">Untertitel werden um %.1f Sekunden vorwärts verschoben</item>
-        <item quantity="one">Untertitel wird um %.1f Sekunde vorwärts verschoben</item>
-     </plurals>
-     <plurals name="subtitle_offset_delay_times">
-        <item quantity="other">Untertitel werden um %.1f Sekunden verzögert</item>
-        <item quantity="one">Untertitel wird um %.1f Sekunde verzögert</item>
-     </plurals>
-     <plurals name="subtitle_onlinesub_size_float_kb">
-        <item quantity="other">Größe: %.2fKB</item>
-        <item quantity="one">Größe: %.2fKB</item>
-     </plurals>
+    <item quantity="other">%1$s Elemente ausgewählt</item>
+    <item quantity="one">%1$s Element ausgewählt</item>
+  </plurals>
+  <plurals name="subtitle_offset_advance_times">
+    <item quantity="other">Untertitel werden um %.1f Sekunden vorwärts verschoben</item>
+    <item quantity="one">Untertitel wird um %.1f Sekunde vorwärts verschoben</item>
+  </plurals>
+  <plurals name="subtitle_offset_delay_times">
+    <item quantity="other">Untertitel werden um %.1f Sekunden verzögert</item>
+    <item quantity="one">Untertitel wird um %.1f Sekunde verzögert</item>
+  </plurals>
+  <plurals name="subtitle_onlinesub_size_float_kb">
+    <item quantity="other">Größe: %.2fKB</item>
+    <item quantity="one">Größe: %.2fKB</item>
+  </plurals>
   <plurals name="comment_count">
     <item quantity="other">%d Kommentare</item>
     <item quantity="one">ein Kommentar</item>
@@ -55,5 +60,13 @@
   <plurals name="video_pre_play_tip">
     <item quantity="other">Eine %1$d-minütige Vorschau ist verfügbar. Um das Video vollständig zu sehen, &lt;Data>&lt;font color=#ffa201>kaufen Sie es jetzt&lt;/font>&lt;/Data>.</item>
     <item quantity="one">Eine einminütige Vorschau ist verfügbar. Um das Video vollständig zu sehen, &lt;Data>&lt;font color=#ffa201>kaufen Sie es jetzt&lt;/font>&lt;/Data>.</item>
+  </plurals>
+  <plurals name="v_cache_videos">
+    <item quantity="other">%d zwischengespeicherte Videos</item>
+    <item quantity="one">%d zwischengespeichertes Video</item>
+  </plurals>
+  <plurals name="v_coin_show">
+    <item quantity="other">%d Münzen</item>
+    <item quantity="one">%d Münze</item>
   </plurals>
 </resources>
