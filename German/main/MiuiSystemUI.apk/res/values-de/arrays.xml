@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="battery_options">
+    <item>Immer Prozente anzeigen</item>
+    <item>Prozente beim Laden anzeigen (Standard)</item>
+    <item>Symbol nicht anzeigen</item>
+  </string-array>
+  <string-array name="clock_options">
+    <item>Stunden, Minuten und Sekunden anzeigen</item>
+    <item>Stunden und Minuten anzeigen (Standard)</item>
+    <item>Symbol nicht anzeigen</item>
+  </string-array>  
+  <string-array name="miui_volume_timer_segments_title">
+    <item>Aus</item>
+    <item>30 Minuten</item>
+    <item>1 Stunde</item>
+    <item>2 Stunden</item>
+    <item>8 Stunden</item>
+  </string-array>
+  <string-array name="nav_bar_buttons">
+    <item>Zwischenablage</item>
+    <item>Tastencode</item>
+    <item>Tastatur umschalter</item>
+    <item>Keine</item>
+  </string-array>
+  <string-array name="nav_bar_layouts">
+    <item>Normal</item>
+    <item>Kompakt</item>
+    <item>Linksbündig</item>
+    <item>Rechtsbündig</item>
+  </string-array>
   <string-array name="animator_duration_scale_entries">
     <item>Animation aus</item>
     <item>Animationsskala 0.5x</item>
