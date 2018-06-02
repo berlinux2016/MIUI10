@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="announce_for_unread">
+    <item quantity="other">%2$s von %1$s ungelesen</item>
+  </plurals>
   <plurals name="announce_for_drag">
     <item quantity="other">%1$d Elemente ziehen</item>
     <item quantity="one">%1$d Element ziehen</item>

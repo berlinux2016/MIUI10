@@ -3,6 +3,7 @@
   <string name="action_add_to_workspace">Zum Arbeitsbereich hinzufügen</string>
   <string name="activity_not_found">App ist nicht auf dem Telefon installiert</string>
   <string name="add_screen">Bildschirm hinzufügen</string>
+  <string name="announce_for_checked">%1$s, überprüft</string>
   <string name="announce_for_choose_default_screen">Bildschirm %1$d als Standard-Startbildschirm festlegen</string>
   <string name="announce_for_close_default_preview">Einstellungen Standard-Startbildschirm schließen</string>
   <string name="announce_for_close_folder">Ordner schließen</string>
@@ -21,10 +22,13 @@
   <string name="announce_for_drop_workspace">Bildschirm Nr. %1$d, Zeile Nr. %2$d, Spalte Nr. %3$d</string>
   <string name="announce_for_edit_mode">In den Bearbeitungsmodus wechseln</string>
   <string name="announce_for_edit_mode_disable">Editiermodus verlassen</string>
+  <string name="announce_for_move">In die Zeile %1$d Spalte %2$d verschieben</string>
+  <string name="announce_for_move_hotseat">Verschiebe in Dockposition %1$d</string>
   <string name="announce_for_open_default_preview">Einstellungen Standard-Startbildschirm geöffnet</string>
   <string name="announce_for_open_folder">Ordner %1$s geöffnet</string>
   <string name="announce_for_open_launcher_menu">Menü öffnen</string>
   <string name="announce_for_show_uninstall_dialog">Deinstallationsdialog erschienen. Abbrechen oder Bestätigen.</string>
+  <string name="announce_for_unchecked">%1$s, überprüft</string>
   <string name="app_already_exist">App bereits vorhanden</string>
   <string name="app_being_backup_message">App wurde gesichert</string>
   <string name="app_being_restored_message">App wurde wiederhergestellt</string>
@@ -57,6 +61,7 @@
   <string name="aqi_quality_index_light_pollution">Leichte Verschmutzung</string>
   <string name="aqi_quality_index_moderate">Mäßig</string>
   <string name="aqi_quality_index_unhealthy">Gesundheitsschädlich</string>
+  <string name="backup_fail">Launchericherung fehlgeschlagen</string>
   <string name="bad_wallpaper_source_prompt">Hintergrund konnte nicht geladen werden</string>
   <string name="buffering">Wird gepuffert…</string>
   <string name="cancel_action">Abbrechen</string>
@@ -84,9 +89,9 @@
   <string name="current_preview">Vorschau</string>
   <string name="current_wallpaper">Aktuell</string>
   <string name="custom_wallpaper_picker">Durchstöbern</string>
+  <string name="defalut_launcher_title">Standardlauncher</string>
   <string name="default_folder_title_game">Spiele</string>
   <string name="default_folder_title_recommend">Mehr Apps</string>
-  <string name="defalut_launcher_title">Standardlauncher</string>
   <string name="default_screen_preview_title">Tippen, um als Standardbildschirm zu setzen</string>
   <string name="delete">Löschen</string>
   <string name="delete_screen">Bildschirm löschen</string>
@@ -157,7 +162,7 @@
   <string name="gadget_weather_loading">Keine Daten</string>
   <string name="gadget_weather_low_temp">Niedrige Temperatur</string>
   <string name="gadget_weather_theme_type">Gadget-Typ</string>
-  <string name="gadget_weather_time_format">EEEE, d.MMMM</string>
+  <string name="gadget_weather_time_format">EEEE, d. MMMM</string>
   <string name="gadget_weather_title">Wetter</string>
   <string name="gadget_weather_title_14">Wetter</string>
   <string name="gadget_weather_title_24">Wetter</string>
@@ -169,6 +174,7 @@
   <string name="guide_install_app_title">App installieren</string>
   <string name="guide_tips_editing_mode">Berühren &amp; halten, um Widget zu greifen</string>
   <string name="home_screen">Startbildschirm</string>
+  <string name="icon_reorganize_channel">Symbolanordnung</string>
   <string name="image_too_small_message">Originalbild ist nicht groß genug</string>
   <string name="install">Installieren</string>
   <string name="invalid_contact_shortcut">Ungültiger Kontakt</string>
@@ -176,12 +182,12 @@
   <string name="is_system_wallpaper_message">Systemkomponenten können nicht gelöscht werden</string>
   <string name="launcher_auto_fill_empty_title">Leere Stellen füllen</string>
   <string name="launcher_not_exist">Launcher wurde gestoppt, bitte zurückkehren und erneut versuchen</string>
-  <string name="launcher_title">Startbildschirm &amp; kürzlich geöffnet</string>
+  <string name="launcher_title">Startbildschirm &amp; Geöffnet Apps</string>
   <string name="like">Favorit</string>
   <string name="liked">Favorisiert</string>
   <string name="loading_desktop">Einen Moment…</string>
   <string name="loading_wallpaper">Einen Moment…</string>
-  <string name="local_wallpaper">Runtergeladen</string>
+  <string name="local_wallpaper">Heruntergeladen</string>
   <string name="lock_screen">Sperrbildschirm</string>
   <string name="lock_screen_cells_title">Änderungen nicht zulassen</string>
   <string name="lock_screen_failed_message">Sperrbildschirmhintergrund kann nicht angewendet werden</string>
@@ -217,6 +223,9 @@
   <string name="normal_wallpaper">Hintergrundbild</string>
   <string name="notification_installed">Erfolgreich installiert</string>
   <string name="notification_open_button">Öffnen</string>
+  <string name="notification_reset_description">%1$s%1$s kann den Launcher auf %2$s zurücksetzen</string>
+  <string name="notification_reset_duration">In zwei Stunden,</string>
+  <string name="notification_reset_title">Automatische Bereinigung beendet</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Abbrechen</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Ausschalten</string>
   <string name="open_personal_assistant_dialog_desc">Sie werden nicht in der Lage sein, den Smart Assistant zu verwenden und Updates zu erhalten. Jetzt ausschalten?</string>
@@ -252,6 +261,7 @@
   <string name="preferences_general_title">Erweiterte Einstellungen</string>
   <string name="preferences_title">Launchereinstellungen</string>
   <string name="preferred_app_settings_not_selected">Nichts ausgewählt</string>
+  <string name="quick_app">Schnelle App</string>
   <string name="recents_config_title">Kürzlich geöffnet</string>
   <string name="recommend_apps_default_title">Leer</string>
   <string name="recommend_apps_no_data">Keine Daten</string>
@@ -260,7 +270,10 @@
   <string name="recommend_apps_switch_title">Empfohlene Apps</string>
   <string name="recommend_apps_tips">Diese Funktion benötigt eine Internetverbindung. Auf den Ordnernamen tippen, um die Funktion auszuschalten.</string>
   <string name="recommend_loading">Laden</string>
+  <string name="refresh">Aktualisieren</string>
+  <string name="reset_fail">Zurücksetzen fehlgeschlagen</string>
   <string name="reset_scene_prompt">Standardlayout zurücksetzen</string>
+  <string name="reset_title">Zurücksetzen</string>
   <string name="screen_cells_config_title">Startbildschirm Layout</string>
   <string name="screen_locked_toast">Startbildschirmlayout ist gesperrt</string>
   <string name="screen_number">%d Bildschirm</string>
