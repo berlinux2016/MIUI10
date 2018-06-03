@@ -33,9 +33,11 @@
   <string name="attach_record_sound">Audio aufnehmen</string>
   <string name="attach_record_video">Video aufnehmen</string>
   <string name="attach_slideshow">Diashow</string>
+  <string name="attach_sound">Audio</string>
   <string name="attach_subject">Betreff</string>
   <string name="attach_take_photo">Bild aufnehmen</string>
   <string name="attach_transaction">Geld senden</string>
+  <string name="attach_video">Video</string>
   <string name="audio_download_failed">Audio konnte nicht heruntergeladen werden</string>
   <string name="audio_message_expired">Diese Sprachnachricht ist abgelaufen</string>
   <string name="audio_message_mx_offline">Sprachnachricht konnte nicht geladen werden. Mi Message ist offline oder nicht verfügbar.</string>
@@ -95,7 +97,8 @@
   <string name="confirm_export_dialog_description">Vorherige Unterhaltungen mit diesem Kontakt werden nicht mehr versteckt</string>
   <string name="confirm_export_dialog_title">Privaten Kontakt entfernen</string>
   <string name="confirm_no_block_positive">Nicht blockieren</string>
-  <string name="confirm_no_block_title">Nummer nicht blockieren und alle Nachrichten wiederherstellen?</string>
+  <string name="confirm_no_block_title">"Nummer nicht blockieren und alle Nachrichten wiederherstellen?
+(Die Nummer wird zu den Ausnahmen hinzugefügt.)"</string>
   <string name="confirm_rate_limit">Mehrere MMS werden versendet. Möchten Sie fortfahren?</string>
   <string name="confirm_restore_all_title">Alle Nachrichten dieser Nummer wiederherstellen?</string>
   <string name="confirm_restore_checkbox">Blockierte Nachrichten wiederherstellen</string>
@@ -106,6 +109,7 @@
   <string name="context_menu_add_calendar">Im Kalender anzeigen</string>
   <string name="context_menu_add_contact">Zu Kontakten hinzufügen</string>
   <string name="context_menu_add_to_browser_favorite">Zu Browserfavoriten hinzufügen</string>
+  <string name="context_menu_browse_web">Browser</string>
   <string name="context_menu_call">Anrufen</string>
   <string name="context_menu_contact">Kontakt: %1$s</string>
   <string name="context_menu_copy">Kopieren</string>
@@ -149,7 +153,8 @@
   <string name="discard_slideshow">Diashow verwerfen</string>
   <string name="dl_failure_notification">Nachricht %1$s von %2$s konnte nicht heruntergeladen werden</string>
   <string name="done">Fertig</string>
-  <string name="download_later">Herunterladen momentan nicht möglich. Später erneut versuchen.</string>
+  <string name="download">Download</string>
+  <string name="download_later">Kann gerade nicht heruntergeladen werden. Später nochmal versuchen."</string>
   <string name="downloading">Wird heruntergeladen</string>
   <string name="downloading_file_can_not_play">Warten bis die Aufnahme vollständig heruntergeladen wurde</string>
   <string name="draft">Entwurf</string>
@@ -173,7 +178,8 @@
   <string name="error_state">Inkonsistenter Zustand</string>
   <string name="error_state_text">Status der Unterhaltungen und Empfänger ist inkonsistent. Bitte erstellen Sie einen Fehlerbericht und melden Sie ihn über http://go/droidanizer</string>
   <string name="error_timed_msg">Ungültige Uhrzeit</string>
-  <string name="ex_type_guide">Informationen</string>
+  <string name="ex_type_mx">Mi Nachricht</string>
+  <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Maximale Nachrichtengröße erreicht</string>
   <string name="exceed_message_size_limitation_add_slide">Nachrichtengröße reicht nicht, um Folie hinzuzufügen</string>
   <string name="exceed_message_text_limitation">Maximale Textlänge erreicht</string>
@@ -351,6 +357,7 @@
   <string name="mx_filter_message_from_stranger_dialog_desc">"Sie können nach wie vor gewöhnliche SMS von unbekannten Nummern empfangen. Sie können diese Funktion jederzeit unter Nachrichten &gt; Einstellungen deaktivieren."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Mi Message von unbekannten Nummern blockieren</string>
   <string name="mx_filter_message_from_stranger_summary">"Sie können nach wie vor gewöhnliche SMS von unbekannten Nummern empfangen"</string>
+  <string name="mx_msg">Mi Nachricht</string>
   <string name="mx_msg_pageview_setting_title">Einstellungen Mi Message </string>
   <string name="mx_on_sim_1">Mi Message mit SIM 1</string>
   <string name="mx_on_sim_2">Mi Message mit SIM 2</string>
@@ -401,6 +408,10 @@
   <string name="pick_too_many_recipients">Zu viele Empfänger</string>
   <string name="play">Abspielen</string>
   <string name="playing_failed">Abspielen nicht möglich</string>
+  <string name="prefDefault_ringtone_repeat">1</string>
+  <string name="prefDefault_vibrateWhen">Nie</string>
+  <string name="prefDefault_vibrate_false">Nie</string>
+  <string name="prefDefault_vibrate_true">Immer</string>
   <string name="pref_advanced_settings_title">Erweiterte Einstellungen</string>
   <string name="pref_allow_network_access_summary">Erhalten Sie Zustellberichte und andere Informationen</string>
   <string name="pref_cell_broadcast">Netzbroadcasts</string>
@@ -553,7 +564,8 @@
   <string name="second_mms_notice">Nur die zweite Nachricht anzeigen</string>
   <string name="second_mms_switch">Benutzer wechseln</string>
   <string name="secs">sek.</string>
-  <string name="security_alert_desc">Absender ist nicht in Ihren Kontakten</string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Absender ist nicht in Ihren Kontakten.
+ "&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">Diese Nummer melden</string>
   <string name="security_alert_dialog_desc">Diese Nummer (%s) und Nachricht zur Überprüfung an Xiaomi senden</string>
   <string name="security_alert_dialog_title">Melde</string>
