@@ -1,38 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-<!-- nicht übersetzte strings Beginn -->
-   <string name="structure_face_data_delete_fail">人脸删除失败，请稍后重试</string>
-  <string name="structure_face_data_input_down">低头</string>
-  <string name="structure_face_data_input_error_away_screen">请稍微远离手机屏幕</string>
-  <string name="structure_face_data_input_error_expose_eye">请露出眼睛</string>
-  <string name="structure_face_data_input_error_expose_features">请露出五官</string>
-  <string name="structure_face_data_input_error_expose_mouth">请露出嘴巴</string>
-  <string name="structure_face_data_input_error_keep_inface">保持面孔在取景框内</string>
-  <string name="structure_face_data_input_error_near_screen">请靠近手机屏幕</string>
-  <string name="structure_face_data_input_error_open_eye">请睁开眼睛</string>
-  <string name="structure_face_data_input_error_overly_light">请避免光线直射</string>
-  <string name="structure_face_data_input_left">向左转头</string>
-  <string name="structure_face_data_input_ok">成功</string>
-  <string name="structure_face_data_input_right">向右转头</string>
-  <string name="structure_face_data_input_success">录入完成!</string>
-  <string name="structure_face_data_input_up">抬头</string>
-  <string name="structure_face_data_introduction_back">返回</string>
-  <string name="structure_face_data_introduction_msg">3D人脸识别有更高的安全性，可用于解锁手机或验证身份，请设置锁屏密码以开启功能</string>
-  <string name="structure_face_data_introduction_next">继续</string>
-  <string name="structure_face_data_introduction_settingpassword">去设置</string>
-  <string name="structure_face_data_introduction_title">添加3D脸部数据</string>
-  <string name="structure_face_data_ir_input_face">请轻微转动头部</string>
-  <string name="structure_face_data_open_cameraing">相机加载中</string>
-  <string name="structure_face_data_rgb_input_face">将面孔放入取景框内</string>
-  <string name="structure_face_data_suggestion_text">录入时，请保证五官清晰可见，避免佩戴帽子、墨镜、口罩等物件，避免阳光直射。</string>
-  <string name="structure_face_data_suggestion_warning_text">注意，3D人脸识别有更高的安全性，但仍可能会被容貌与你相近的人或外形与你相似的物品解锁。</string>
-  <string name="structure_face_delete_data_dialog_msg">摄像头加载失败，无法获取预览界面，请重试</string>
-  <string name="structure_face_delete_data_dialog_msg_retry">重试</string>
-  <string name="structure_face_delete_data_dialog_title">摄像头加载失败</string>
-
-  <!-- nicht übersetzte strings Ende -->
-
   <string name="abbrev_wday_month_day_no_year">EEEE, d. MMMM</string>
   <string name="abbrev_wday_month_day_no_year_alarm">EEE, d. MMM</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
@@ -708,7 +675,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="hdcp_checking_dialog_title">HDCP-Prüfverhalten festlegen</string>
   <string name="hdcp_checking_title">HDCP prüfen</string>
   <string name="help_feedback_label">Hilfe &amp; Feedback</string>
-  <string name="home">Startbildschirm Einstellungen</string>
+  <string name="home">Einstellungen Startbildschirm</string>
   <string name="how_to_use_drawer">Wie man die Wischfunktion der App benutzt</string>
   <string name="how_to_use_drawer_summary">Wischen von oben links</string>
   <string name="how_to_back_home">Wie kehren Sie zum Startbildschirm zurück?</string>
@@ -1256,6 +1223,34 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="stream_voice_call">Anruf</string>
   <string name="strict_mode">Strict-Modus aktiv</string>
   <string name="strict_mode_summary">Bildschirm blinkt, wenn Apps lange Operationen ausführen</string>
+  <string name="structure_face_data_delete_fail">Gesichtslöschung fehlgeschlagen, bitte versuchen Sie es später noch einmal</string>
+  <string name="structure_face_data_input_down">Nach unten schauen</string>
+  <string name="structure_face_data_input_error_away_screen">Sanft weg vom Telefonbildschirm</string>
+  <string name="structure_face_data_input_error_expose_eye">Bitte mit bloßem Auge</string>
+  <string name="structure_face_data_input_error_expose_features">Bitte stellen Sie die Gesichtszüge dar</string>
+  <string name="structure_face_data_input_error_expose_mouth">Bitte den Mund freilegen</string>
+  <string name="structure_face_data_input_error_keep_inface">Halten Sie das Gesicht in der Sucherbox</string>
+  <string name="structure_face_data_input_error_near_screen">Bitte in der Nähe des Bildschirms</string>
+  <string name="structure_face_data_input_error_open_eye">Augen öffnen</string>
+  <string name="structure_face_data_input_error_overly_light">Bitte kein direktes Licht</string>
+  <string name="structure_face_data_input_left">Kopf nach links</string>
+  <string name="structure_face_data_input_ok">Erfolgreich</string>
+  <string name="structure_face_data_input_right">Kopf nach rechts</string>
+  <string name="structure_face_data_input_success">Eingabe ist abgeschlossen!</string>
+  <string name="structure_face_data_input_up">Nach oben schauen</string>
+  <string name="structure_face_data_introduction_back">Zurück</string>
+  <string name="structure_face_data_introduction_msg">3D-Gesichtserkennung bietet ein höheres Sicherheitsniveau, mit dem das Telefon oder die Authentifizierung freigeschaltet werden kann. Legen Sie das Passwort für den Sperrbildschirm fest, um die Funktion zu öffnen.</string>
+  <string name="structure_face_data_introduction_next">Fortfahren</string>
+  <string name="structure_face_data_introduction_settingpassword">Festlegen</string>
+  <string name="structure_face_data_introduction_title">3D-Gesichtsdaten hinzufügen</string>
+  <string name="structure_face_data_ir_input_face">Bitte Kopf drehen</string>
+  <string name="structure_face_data_open_cameraing">Laden der Kamera</string>
+  <string name="structure_face_data_rgb_input_face">Einrahmen des Gesichtes in den Kasten</string>
+  <string name="structure_face_data_suggestion_text">Bitte achten Sie darauf, dass die Gesichtszüge gut sichtbar sind, tragen Sie keine Hüte, Sonnenbrillen, Masken usw., um direkte Sonneneinstrahlung zu vermeiden.</string>
+  <string name="structure_face_data_suggestion_warning_text">Beachten Sie, dass die 3D-Gesichtserkennung die Sicherheit verbessert hat, aber das Telefon möglicherweise immer noch mit Ihnen ähnlichen Elementen entsperrt werden kann.</string>
+  <string name="structure_face_delete_data_dialog_msg">Kamera ist ausgefallen, der Vorschaubildschirm konnte nicht angezeigt werden, bitte versuchen Sie es erneut.</string>
+  <string name="structure_face_delete_data_dialog_msg_retry">Erneut versuchen</string>
+  <string name="structure_face_delete_data_dialog_title">Kamera konnte nicht geladen werden</string>
   <string name="switch_bar_off">Aus</string>
   <string name="switch_bar_on">An</string>
   <string name="task_access_locked_app_msg">Daten der App werden nicht angezeigt</string>
