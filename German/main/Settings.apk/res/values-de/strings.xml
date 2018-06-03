@@ -252,6 +252,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="ambient_display_title">Doppeltipp, um das Telefon zu prüfen</string>
   <string name="android_beam_disabled_summary">Bitte NFC aktivieren</string>
   <string name="android_beam_explained">Sie können Webseiten, ein Video oder andere Inhalte auf ein anderes Gerät senden, das Android Beam unterstützt, indem Sie die Geräte dicht nebeneinander halten. (Normalerweise Rückseite an Rückseite)</string>
+  <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">NFC Inhaltsübertragung ist deaktiviert</string>
   <string name="android_beam_on_summary">NFC Inhaltsübertragung ist aktiviert</string>
   <string name="android_beam_settings_title">Android Beam</string>
@@ -261,8 +262,12 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="another_migration_already_in_progress">Eine andere Migration wird bereits ausgeführt</string>
   <string name="anr_record_interval_title">ANR-Intervalle aufnehmen</string>
   <string name="anti_spam">Sperrliste</string>
-  <string name="aod_mode_summary">Ständig Uhrzeit, Datum und Nachrichten bei ausgeschaltetem Bildschirm anzeigen</string>
-  <string name="aod_mode_title">Ständig-An-Modus</string>
+  <string name="aod_mode_summary">Zeigen Sie immer Uhrzeit, Datum und Meldungen an, wenn der Bildschirm ausgeschaltet ist</string>
+  <string name="aod_mode_time_summary">Planen Sie die Zeit ein, zu der Ihr Gerät in den Immer-An-Modus wechseln soll</string>
+  <string name="aod_mode_title">Immer-An-Modus</string>
+  <string name="aod_mode_turn_off">Aus</string>
+  <string name="aod_mode_turn_on">Ein</string>
+  <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Authentifizierungstyp</string>
   <string name="apn_auth_type_none">Keine</string>
   <string name="apn_auth_type_pap_chap">PAP oder CHAP</string>
@@ -775,6 +780,7 @@ Zuletzt am %2$s ausgeführt"</string>
   <string name="bluetooth_device_context_unpair">Koppeln aufheben</string>
   <string name="bluetooth_device_details">Geräteeinstellungen</string>
   <string name="bluetooth_device_misc_title">Selten verwendete Bluetoothgeräte</string>
+  <string name="bluetooth_device_name">Name:</string>
   <string name="bluetooth_device_searchable">Sichtbarkeit</string>
   <string name="bluetooth_devices">Bluetoothgeräte</string>
   <string name="bluetooth_disable_absolute_volume">Absolute Lautstärke deaktivieren</string>
