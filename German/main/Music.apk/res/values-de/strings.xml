@@ -46,6 +46,7 @@
   <string name="ad_close">Schließen</string>
   <string name="ad_data_exception">Datenfehler</string>
   <string name="ad_extension">Werbung</string>
+  <string name="ad_mark">Werbung</string>
   <string name="ad_recommend">Vorschläge</string>
   <string name="ad_setting">Werbeeinstellungen</string>
   <string name="add_music">Titel hinzufügen</string>
@@ -74,6 +75,8 @@
   <string name="already_download">Wird heruntergeladen, bitte warten…</string>
   <string name="already_download_btn">Wird heruntergeladen…</string>
   <string name="already_favorited">Bereits zu Favoriten hinzugefügt</string>
+  <string name="android_sdk_too_low">Aktualisieren Sie Android, um Musik aktualisieren zu können.</string>
+  <string name="app_downloads">%s Downloads</string>
   <string name="always_use_metered">Immer mobile Daten nutzen</string>
   <string name="android_sdk_too_low">Androidversion ist veraltet, Titel können nicht aktualisiert werden. Bitte Update durchführen.</string>
   <string name="artist">Interpret</string>
@@ -605,6 +608,7 @@
   <string name="miuishare_account_login_ok">Anmelden</string>
   <string name="miuishare_account_need_activate">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi Konto, welches noch nicht aktiviert wurde. Möchten Sie es jetzt aktivieren?</string>
   <string name="miuishare_account_need_login">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi Konto.</string>
+    <string name="miuishare_app_name">MIUI teilen</string>
   <string name="miuishare_no_network">Keine Netzwerkverbindung</string>
   <string name="miuishare_publish">Senden</string>
   <string name="miuishare_share_done">Erfolgreich geteilt</string>
@@ -1101,11 +1105,13 @@
   <string name="vip_required">Holen Sie sich Premium Song Pack, um diesen Song abzuspielen. Song wurde vorerst übersprungen.</string>
   <string name="vip_required_with_song">Holen Sie sich Premium Song Pack, um \"%s\" abzuspielen. Song wurde vorerst übersprungen.</string>
   <string name="vip_tomorrow_auto_renew_message">Ihr Musikabonnement wird morgen automatisch verlängert. Stellen Sie sicher, dass Sie genügend Mi Credits für die Bezahlung besitzen.</string>
-  <string name="vip_tomorrow_renew_message">Sie werden nicht in der Lage sein, Titel in hoher Qualität zu streamen, aber verschiedene werden in normaler Qualität verfügbar sein.</string>
+  <string name="vip_tomorrow_renew_message">Sie werden nicht in der Lage sein, Audio in hoher Qualität zu streamen, aber einige Songs werden in normaler Qualität verfügbar sein.</string>
+    <string name="warning_tip_cancel">Herunterladen</string>
   <string name="warning_tip_content">Sie sind nicht länger mit einem WLAN verbunden. Wenn Sie die mobile Datenverbindung verwenden um den Download fortzusetzen, wird Ihr Datenverbrauch signifikant ansteigen. Wenn Sie dabei Ihr Datenvolumen überschreiten, kann dies zu erhöhten Kosten bei Ihrem Netzbetreiber führen.</string>
   <string name="warning_tip_title">Datenverbrauchswarnung</string>
   <string name="welcome_to_new_music">Willkommen bei einer neuen Version von Mi Musik</string>
   <string name="wifi_required_body" formatted="false">"Sie müssen mit einem WLAN verbunden sein, um diesen %s-Download abzuschließen.
   %s antippen, um den Download zu starten, sobald Sie mit einem WLAN verbunden sind."</string>
   <string name="wifi_required_title">Downloadgröße übersteigt das Limit des Netzbetreibers</string>
+  <string name="share_choice">Auswählen</string>
 </resources>
