@@ -4,96 +4,96 @@
 <!-- nicht übersetzte strings -->
 
      <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">Incorrect PIN code, %d attempts remaining</item>
-        <item quantity="one">Incorrect PIN code, %d attempt remaining</item>
+        <item quantity="other">Falscher PIN Code, noch %d Versuche</item>
+        <item quantity="one">Falscher PIN Code, noch %d Versuch</item>
      </plurals>
      <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">Incorrect PUK code, %d attempts remaining</item>
-        <item quantity="one">Incorrect PUK code, %d attempt remaining</item>
+        <item quantity="other">Falscher PUK Code, %d Versuche übrig</item>
+        <item quantity="one">Falscher PUK Code, %d Versuch übrig</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">About %d hours until full</item>
-        <item quantity="one">About %d hour until full</item>
+        <item quantity="other">Ca. %d Stunden bis voll</item>
+        <item quantity="one">Ca. %d Stunde bis voll</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">About %d minutes until full​</item>
-        <item quantity="one">About %d minute until full​</item>
+        <item quantity="other">Ca. %d Minuten bis voll​</item>
+        <item quantity="one">Ca. %d Minute bis voll​</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">About %1$d h %2$d m until full</item>
-        <item quantity="one">About %1$d h %2$d m until full</item>
+        <item quantity="other">Ca. %1$d h %2$d m bis voll​</item>
+        <item quantity="one">Ca. %1$d h %2$d m bis voll​</item>
      </plurals>
      <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">About %d hours left</item>
-        <item quantity="one">About %d hour left</item>
+        <item quantity="other">Ca. %d Stunden bleiben</item>
+        <item quantity="one">Ca. %d Stunde bleiben</item>
      </plurals>
      <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">About %d minutes left</item>
-        <item quantity="one">About %d minute left</item>
+        <item quantity="other">Ca. %d Minuten bleiben</item>
+        <item quantity="one">Ca. %d Minute bleiben</item>
      </plurals>
      <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">About %1$d h %2$d m left</item>
-        <item quantity="one">About %1$d h %2$d m left</item>
+        <item quantity="other">Ca. %1$d h %2$d m bleiben</item>
+        <item quantity="one">Ca. %1$d h %2$d m bleiben</item>
      </plurals>
      <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">%d hour</item>
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">%d Stunde</item>
      </plurals>
      <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">%d minute</item>
+        <item quantity="other">%d Minuten</item>
+        <item quantity="one">%d Minute</item>
      </plurals>
      <plurals name="keyguard_charging_info_drained_time_format">
         <item quantity="other">%1$d h %2$d m</item>
         <item quantity="one">%1$d h %2$d m</item>
      </plurals>
      <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Enter SIM PIN, you have %d remaining attempts.</item>
-        <item quantity="one">Enter SIM PIN, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">SIM PIN eingeben, Sie haben noch %d Versuche</item>
+        <item quantity="one">SIM PIN eingeben. Sie haben noch %d Versuch, bevor Sie Ihren Netzbetreiber kontaktieren müssen, um Ihr Gerät zu entsperren.</item>
      </plurals>
      <plurals name="kg_password_default_puk_message">
-        <item quantity="other">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
-        <item quantity="one">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempt before SIM becomes permanently unusable. Contact carrier for details.</item>
+        <item quantity="other">SIM ist jetzt gesperrt. PUK Code eingeben, um fortzufahren. Sie haben noch %d Versuche, bevor die SIM-Karte dauerhaft unbrauchbar wird. Netzbetreiber kontaktieren für Details.</item>
+        <item quantity="one">SIM ist jetzt gesperrt. PUK Code eingeben, um fortzufahren. Sie haben noch %d Versuch, bevor die SIM-Karte dauerhaft unbrauchbar wird. Netzbetreiber kontaktieren für Details.</item>
      </plurals>
      <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Falscher SIM PIN Code, Sie haben noch %d Versuche</item>
+        <item quantity="one">Falscher SIM PIN Code. Sie haben noch %d Versuch, bevor Sie Ihren Netzbetreiber kontaktieren müssen, um Ihr Gerät zu entsperren.</item>
      </plurals>
      <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
-        <item quantity="one">Incorrect SIM PUK code, you have %d remaining attempt before SIM becomes permanently unusable.</item>
+        <item quantity="other">Falscher SIM PIN Code. Sie haben noch %d Versuche, bevor die SIM-Karte dauerhaft unbrauchbar wird.</item>
+        <item quantity="one">Falscher SIM PIN Code. Sie haben noch %d Versuch, bevor die SIM-Karte dauerhaft unbrauchbar wird.</item>
      </plurals>
      <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm password."</item>
-        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm password."</item>
+        <item quantity="other">Gerät wurde für %d Stunden nicht entsperrt. Passwort bestätigen.</item>
+        <item quantity="one">Gerät wurde für %d Stunde nicht entsperrt. Passwort bestätigen.</item>
      </plurals>
      <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm pattern."</item>
-        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm pattern."</item>
+        <item quantity="other">Gerät wurde für %d Stunden nicht entsperrt. Muster bestätigen.</item>
+        <item quantity="one">Gerät wurde für %d Stunde nicht entsperrt. Muster bestätigen.</item>
      </plurals>
      <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm PIN."</item>
-        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm PIN."</item>
+        <item quantity="other">Gerät wurde für %d Stunden nicht entsperrt. PIN bestätigen.</item>
+        <item quantity="one">Gerät wurde für %d Stunde nicht entsperrt. PIN bestätigen.</item>
      </plurals>
      <plurals name="new_notifications_msg">
-        <item quantity="other">%d new notifications</item>
-        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d neue Benachrichtigungen</item>
+        <item quantity="one">%d neue Benachrichtigung</item>
      </plurals>
      <plurals name="notification_channels_list_desc_2_and_others">
-        <item quantity="other">%1$s, %2$s, and %3$d others</item>
-        <item quantity="one">%1$s, %2$s, and %3$d other</item>
+        <item quantity="other">%1$s, %2$s, und %3$d andere</item>
+        <item quantity="one">%1$s, %2$s, und %3$d andere</item>
      </plurals>
      <plurals name="notification_num_channels_desc">
-        <item quantity="other">1 out of %d notification categories from this app</item>
-        <item quantity="one">1 out of %d notification category from this app</item>
+        <item quantity="other">1 von %d Benachrichtigungskategorien dieser App</item>
+        <item quantity="one">1 von %d Benachrichtigungskategorie dieser App</item>
      </plurals>
      <plurals name="phone_locked_timeout_minutes_string">
-        <item quantity="other">Try again in %d minutes</item>
-        <item quantity="one">Try again in %d minute</item>
+        <item quantity="other">In %d Minuten erneut versuchen</item>
+        <item quantity="one">In %d Minute erneut versuchen</item>
      </plurals>
      <plurals name="phone_locked_timeout_seconds_string">
-        <item quantity="other">Try again in %d seconds</item>
-        <item quantity="one">Try again in %d second</item>
+        <item quantity="other">In %d Sekunden erneut versuchen</item>
+        <item quantity="one">In %d Sekunde erneut versuchen</item>
      </plurals>
 
 <!-- nicht übersetzte strings -->
