@@ -6,7 +6,7 @@ All phrases are copied and then translated from the English base repository [ing
 
 This repository is tracked by a script which validates all strings of each file against parser errors, double strings, apostrophe syntax error and many more.
 
-- Link to the [XML_MIUI9-German-de](https://translators.xiaomi.eu/XML_MIUI9-German-de.html) report.
+- Link to the [XML_MIUI10-German-de](https://translators.xiaomi.eu/XML_MIUI10-German-de.html) report.
 
 ## Structure
 
