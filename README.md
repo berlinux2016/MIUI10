@@ -1,4 +1,4 @@
-
+# ![logo](https://i62.servimg.com/u/f62/18/23/59/53/miui-110.png)
 # MIUI V10 German Translation
 
 
