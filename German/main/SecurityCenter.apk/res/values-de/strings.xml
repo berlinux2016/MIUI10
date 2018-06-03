@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_autostart">Über Autostart</string>
-  <string name="SMS_and_MMS">SMS und MMS</string>
-  <string name="SMSpass">SMS zulassen</string>
   <string name="ac_enable_title">Appsperre aktivieren</string>
   <string name="ac_enter_applock">Appsperre eingeben</string>
   <string name="ac_firstUseApplock_subTitle">Verwenden Sie die Appsperre, um Ihre Privatsphäre zu schützen</string>
@@ -141,7 +139,6 @@
   <string name="antivirus_update_btn_contiue">Fortsetzen</string>
   <string name="antivirus_update_btn_open">Erlauben</string>
   <string name="antivirus_update_btn_update">Aktualisieren</string>
-  <string name="app_bg_restrict_dialog_message">Einschränkung der Netzwerkverbindung im Hintergrund kann dazu führen, dass die App nicht normal funktioniert. Zum Beispiel kann diese nicht mehr in der Lage sein, Nachrichten zu empfangen oder Inhalte zu aktualisieren. Trotzdem einschränken?</string>
   <string name="apn_exception_summary">Zugangspunktnamen vom Netzbetreiber prüfen</string>
   <string name="apn_exception_title">APN-Konfigurationen</string>
   <string name="app_bg_restrict_dialog_message">Die Einschränkung der Hintergrund-Netzwerkverbindung kann dazu führen, dass die Anwendung nicht mehr normal funktioniert.. Beispielsweise ist es nicht mehr möglich, Nachrichten zu empfangen oder Inhalte zu aktualisieren.</string>
@@ -408,8 +405,6 @@ Sie verlieren keine Appdaten."</string>
   <string name="back_app_name">Zurück zur Appsperre</string>
   <string name="back_description_securitycenter">Zurück</string>
   <string name="back_modifypassword">Zurück zum Passwort ändern</string>
-  <string name="back_sound_data">Mobilfunknetz erforderlich, bitte versuchen Sie es erneut!</string>
-  <string name="back_sound_fail">Fehlgeschlagen!</string>
   <string name="back_sound_data">Schalten Sie mobile Daten ein und versuchen Sie es erneut.</string>
   <string name="back_sound_fail">Die Einstellungen für den Mobilfunkanbieter konnten nicht geändert werden. Legen Sie die aktuelle SIM-Karte als Datenkarte fest, stellen Sie eine Verbindung mit dem Netzwerk her und versuchen Sie es erneut.</string>
   <string name="back_sound_success">Erfolgreich!</string>
@@ -472,7 +467,6 @@ Sie verlieren keine Appdaten."</string>
   <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Anrufe: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="boost_done">Erfolgreich optimiert</string>
-  <string name="boost_stop">Geschwindigkeitsanhebung ausschalten</string>
   <string name="boost_stop">Game Speed Booster deaktivieren</string>
   <string name="booster_suc">Erfolgreich optimiert</string>
   <string name="boostering">Optimiere Geschwindigkeit…</string>
@@ -633,7 +627,6 @@ Sie verlieren keine Appdaten."</string>
   <string name="cmcc_app_check_dialog_positive">Jetzt neu starten</string>
   <string name="cmcc_app_check_dialog_title">System repariert</string>
   <string name="cmd_lucky_float">\u6447\u4e00\u6447</string>
-  <string name="confirmSecondSpacePassword">Zweites Profil, Passwort bestätigen</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Mi-Konto hinzufügen</string>
   <string name="confirm_fingerprint_msg">Überprüfen Sie Ihren Fingerabdruck</string>
   <string name="confirm_prompt_all_permission">Nach Berechtigungen für alle Apps fragen?</string>
@@ -1390,12 +1383,10 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie mobile
   <string name="menu_item_virus_lib_auto_update_summary">Zuletzt aktualisiert: %s</string>
   <string name="menu_mark">Nummer melden</string>
   <string name="menu_remove">Löschen</string>
-  <string name="menu_setting_traffic">Manuell einstellen</string>
   <string name="menu_report">Fehler melden</string>
   <string name="menu_restore">Wiederherstellen</string>
   <string name="menu_sms">SMS senden</string>
   <string name="menu_setting_traffic">Manuelle Einstellungen</string>
-  <string name="menu_text_garbage_cleanup_danger">Über %s</string>
   <string name="menu_text_antispam">Sperrliste</string>
   <string name="menu_text_antivirus">Antivirus</string>
   <string name="menu_text_garbage_cleanup">Müllbeseitigung</string>
@@ -1591,7 +1582,6 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="om_settings_speed_up_auto">Automatisch optimieren</string>
   <string name="om_settings_title">Optimierungseinstellungen</string>
   <string name="online_read">Neu</string>
-  <string name="open_activity_err">Die App wurde nicht gefunden</string>
   <string name="online_songs">Musik</string>
   <string name="open">öffnen</string>
   <string name="open_activity_err">App wurde nicht gefunden</string>
