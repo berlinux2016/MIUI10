@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_autostart">Über Autostart</string>
+  <string name="SMS_and_MMS">SMS und MMS</string>
+  <string name="SMSpass">SMS zulassen</string>
   <string name="ac_enable_title">Appsperre aktivieren</string>
   <string name="ac_enter_applock">Appsperre eingeben</string>
   <string name="ac_firstUseApplock_subTitle">Verwenden Sie die Appsperre, um Ihre Privatsphäre zu schützen</string>
@@ -92,6 +94,8 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Gestern um %s aktualisiert</string>
   <string name="adjust_traffic_data">Datenverbrauch festlegen</string>
   <string name="after_the_lock_screen">Sperrt die App zusammen mit dem Bildschirm</string>
+  <string name="alarm_headsup_bottom">Hirse Handy greifen rote Tasche ist schnell</string>
+  <string name="alarm_lock_screen_summary">Eine große Welle von roten Paketen regnet auf der Straße…</string>
   <string name="alarm_lockscreen_btn">Sperrbildschirm</string>
   <string name="alarm_setting_title">Einstellungen</string>
   <string name="all_address_choose_hint">Alle Nummern an diesem Ort</string>
@@ -140,6 +144,7 @@
   <string name="app_bg_restrict_dialog_message">Einschränkung der Netzwerkverbindung im Hintergrund kann dazu führen, dass die App nicht normal funktioniert. Zum Beispiel kann diese nicht mehr in der Lage sein, Nachrichten zu empfangen oder Inhalte zu aktualisieren. Trotzdem einschränken?</string>
   <string name="apn_exception_summary">Zugangspunktnamen vom Netzbetreiber prüfen</string>
   <string name="apn_exception_title">APN-Konfigurationen</string>
+  <string name="app_bg_restrict_dialog_message">Die Einschränkung der Hintergrund-Netzwerkverbindung kann dazu führen, dass die Anwendung nicht mehr normal funktioniert.. Beispielsweise ist es nicht mehr möglich, Nachrichten zu empfangen oder Inhalte zu aktualisieren.</string>
   <string name="app_check_no_issue">Keine Probleme mit dem Akku. Cool!</string>
   <string name="app_check_optimize_title">Hintergrundaktivitäten optimieren</string>
   <string name="app_check_reason_background_cpu">CPU-Hintergrundaktivität</string>
@@ -306,6 +311,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="app_not_installed_toast">App ist nicht auf Ihrem Gerät installiert</string>
   <string name="app_usage_never">Lange nicht verwendet</string>
   <string name="app_usage_recently">Kürzlich verwendet</string>
+  <string name="app_version">Version: </string>
   <string name="application_item_already_permission">Erlaubt</string>
   <string name="application_item_disable">Eingeschränkt</string>
   <string name="applock_add_account">Hinzufügen</string>
@@ -316,7 +322,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="applock_close_dialog_title">Appsperre deaktivieren?</string>
   <string name="applock_exit_account_info">Konto wird bei der Abmeldung automatisch entfernt</string>
   <string name="applock_header_text_less_than_half">Zu wenig Platz für diese App. Trenner etwas weiter ziehen.</string>
-  <string name="applock_login_and_add_account">Anmelden &amp; hinzufügen</string>
+  <string name="applock_login_and_add_account">Anmelden &amp; Hinzufügen</string>
   <string name="applock_not_add_account">Nicht jetzt</string>
   <string name="applock_not_login_account">Sie sind nicht angemeldet</string>
   <string name="apps_item_sign_dialog_content">\"%s\"Signatur ist unterschiedlich zur Version im Appstore. Diese Version löschen und die offizielle Version installieren? Hinweis: Eine App mit unterschiedlicher Signatur zu installieren, kann zu Datenverlust führen.</string>
@@ -363,7 +369,9 @@ Sie verlieren keine Appdaten."</string>
   <string name="auto_task_edit_condition_title">Bedingung hinzufügen</string>
   <string name="auto_task_edit_my_custom_task">Name</string>
   <string name="auto_task_edit_operation_summary">Zum Beispiel \"Flugmodus einschalten\"</string>
-  <string name="auto_task_main_summary">Ändern Sie abhängig vom Akkustand für eine gewisse Zeit die Systemeinstellungen</string>
+  <string name="auto_task_edit_step1">1.</string>
+  <string name="auto_task_edit_step2">2.</string>
+  <string name="auto_task_edit_task_name">Name</string>
   <string name="auto_task_main_title">Automatische Tasks</string>
   <string name="auto_task_mamange_activity_title">Einstellungen</string>
   <string name="auto_task_manage_delete_prompt">Ausgewählten Task löschen?</string>
@@ -402,6 +410,8 @@ Sie verlieren keine Appdaten."</string>
   <string name="back_modifypassword">Zurück zum Passwort ändern</string>
   <string name="back_sound_data">Mobilfunknetz erforderlich, bitte versuchen Sie es erneut!</string>
   <string name="back_sound_fail">Fehlgeschlagen!</string>
+  <string name="back_sound_data">Schalten Sie mobile Daten ein und versuchen Sie es erneut.</string>
+  <string name="back_sound_fail">Die Einstellungen für den Mobilfunkanbieter konnten nicht geändert werden. Legen Sie die aktuelle SIM-Karte als Datenkarte fest, stellen Sie eine Verbindung mit dem Netzwerk her und versuchen Sie es erneut.</string>
   <string name="back_sound_success">Erfolgreich!</string>
   <string name="back_sound_support">Aktuelle Netzbetreiber unterstützen dies nicht!</string>
   <string name="background_restrict_app_dialog_message">Einschränkung des Hintergrundnetzwerkzugriffs kann die richtige Funktion der App, den Nachrichtenempfang, das Herunterladen etc. beeinträchtigen. Trotzdem einschränken?</string>
@@ -436,14 +446,17 @@ Sie verlieren keine Appdaten."</string>
   <string name="battery_stats_phone_signal_label">Mobilfunksignal</string>
   <string name="battery_stats_screen_on_label">Bildschirm</string>
   <string name="battery_stats_wake_lock_label">Aktiv</string>
+  <string name="battery_stats_wifi_running_label">WLAN</string>
   <string name="battery_status_good">Akku arbeitet normal</string>
   <string name="battery_status_overheat">Akku überhitzt</string>
   <string name="battery_status_unknown">Unbekannter Akkufehler</string>
   <string name="battery_temperature_title">Akkutemperatur</string>
   <string name="begin_date">Zurückgesetzt am</string>
   <string name="best_booster_status">Spiel ist bereits optimiert</string>
-  <string name="best_warning_dialog_button">Verstanden</string>
-  <string name="best_warning_dialog_title">Tipps</string>
+  <string name="best_warning_dialog_button">Ich weiß</string>
+  <string name="best_warning_dialog_message">"Tipps: Nachdem Sie den Xiaomi Red Packet Assistant verwendet haben, erhöht sich die Geschwindigkeit der Aufnahme roter Pakete. Aber wenn Ihre Hände zu schnell sind, ist die Haltung zu schnell, und jedes Mal, wenn Sie den roten Umschlag greifen，&lt;font color='#e56255'&gt;Es besteht eine gewisse Chance, dass WeChat es missversteht, das automatische Grab Red Plugin zu verwenden&lt;/font&gt;，Beeinflusst Sie später mit der roten Umschlagfunktion. Daher kontrollieren manchmal übermütige Hände den Rhythmus und greifen die roten Pakete besser an. Obwohl der rote Umschlag gut ist, sei nicht gierig"</string>
+  <string name="best_warning_dialog_message1">"Wenn Sie den Hirse-Rot-Hüllkurven-Assistenten verwenden, beschleunigen Sie das Aufnehmen von roten Paketen. Aber wenn deine Hände zu schnell sind, ist die Haltung zu schnell, und jedes Mal, wenn du zuerst einen roten Umschlag greifst, &lt;font color='#e56255'&gt;Es besteht eine gewisse Chance, dass WeChat es missversteht, das automatische Grab Red Plugin zu verwenden&lt;/font&gt;，Beeinflusst Sie später mit der roten Umschlagfunktion. Daher kontrollieren manchmal übermütige Hände den Rhythmus und greifen die roten Pakete besser an. Obwohl der rote Umschlag gut ist, sei nicht gierig"</string>
+  <string name="best_warning_dialog_title">Tips</string>
   <string name="bg_network_exception_title">Eingeschränkte Hintergrundverbindung</string>
   <string name="bind_xiaomi_account_cancel">Abbrechen</string>
   <string name="bind_xiaomi_account_confirm">Hinzufügen</string>
@@ -459,6 +472,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Anrufe: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="boost_done">Erfolgreich optimiert</string>
+  <string name="boost_stop">Geschwindigkeitsanhebung ausschalten</string>
   <string name="boost_stop">Game Speed Booster deaktivieren</string>
   <string name="booster_suc">Erfolgreich optimiert</string>
   <string name="boostering">Optimiere Geschwindigkeit…</string>
@@ -618,14 +632,17 @@ Sie verlieren keine Appdaten."</string>
   <string name="cmcc_app_check_dialog_negative">Später</string>
   <string name="cmcc_app_check_dialog_positive">Jetzt neu starten</string>
   <string name="cmcc_app_check_dialog_title">System repariert</string>
-  <string name="confirmSecondSpacePassword">Zweitprofilpasswort bestätigen</string>
-  <string name="confirm_bind_xiaomi_account_dialog_title">Mi Konto wird hinzugefügt</string>
-  <string name="confirm_fingerprint_msg">Legen Sie Ihren Finger auf den Sensor</string>
-  <string name="confirm_prompt_all_permission">Berechtigung für alle Apps anfordern?</string>
-  <string name="confirm_reject_all_permission">Wollen Sie allen Apps die Verwendung dieser Funktion verweigern?</string>
-  <string name="connect_internet_by_mobiledata">Internetverbindung über Mobilfunk herstellen</string>
-  <string name="connect_internet_by_usbshare">Internetverbindung über USB herstellen</string>
-  <string name="connecting">Verbinde…</string>
+  <string name="cmd_lucky_float">\u6447\u4e00\u6447</string>
+  <string name="confirmSecondSpacePassword">Zweites Profil, Passwort bestätigen</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Mi-Konto hinzufügen</string>
+  <string name="confirm_fingerprint_msg">Überprüfen Sie Ihren Fingerabdruck</string>
+  <string name="confirm_prompt_all_permission">Nach Berechtigungen für alle Apps fragen?</string>
+  <string name="confirm_reject_all_permission">Alle Anwendungen daran hindern, diese Funktion zu nutzen?</string>
+  <string name="confirmSecondSpacePassword">Zweites Leerzeichen-Passwort bestätigen</string>
+  <string name="connect_internet_by_mobiledata">Mobile Datenverbindung</string>
+  <string name="connect_internet_by_usbshare">Gemeinsames Internet über USB</string>
+  <string name="connect_internet_by_wifi">WLAN</string>
+  <string name="connecting">Verbinden…</string>
   <string name="continue_install">Installieren</string>
   <string name="convenient_mode">Alle Apps auf einmal entsperren</string>
   <string name="convenient_summary">Nach dem Entsperren der ersten App ist kein Entsperrmuster mehr erforderlich</string>
@@ -757,8 +774,8 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="dialog_msg_stop_paysafety_scan">Zahlungssicherheitscheck ausschalten?</string>
   <string name="dialog_msg_stop_virus_scan">Sind Sie sicher?</string>
   <string name="dialog_no_longer_alert">Nicht erneut anzeigen</string>
-  <string name="dialog_remobe_luckymoney_cancle">Alt</string>
-  <string name="dialog_remobe_luckymoney_ok">Neu</string>
+  <string name="dialog_remobe_luckymoney_cancle">Verwenden Sie eine einzelne Version</string>
+  <string name="dialog_remobe_luckymoney_ok">Gehe zu öffnen</string>
   <string name="dialog_remove_luckymoney">Sie können den neuen intergrierten Roten Umschlagsassistenten oder den vorhandenen verwenden. Welchen bevorzugen Sie?</string>
   <string name="dialog_restrict_all_mobile_summary">%s Mobile Datenverbindung wird danach für alle Apps eingeschränkt</string>
   <string name="dialog_restrict_all_mobile_title">%s mobile Datenverbindung einschränken</string>
@@ -880,6 +897,13 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="exit_dialog_scan_message">Leistungsbewertung Ihres Geräts liegt unter 75 Punkte. Jetzt optimieren?</string>
   <string name="exit_dialog_scan_positive_button">Optimieren</string>
   <string name="exit_dialog_scan_title">Leistung optimieren</string>
+  <string name="fast_open_dialog_message">Nachdem Sie den Speed-Modus aktiviert haben, öffnet das System automatisch die rote Umschlagseite, um rote Pakete schneller und bequemer zu erhalten.</string>
+  <string name="fast_open_dialog_message_summary">Hinweis: Es wird empfohlen, den Schnellzugriffsmodus von Navigations-, Video- und Spielanwendungen zu schließen, um den normalen Betrieb der Anwendung nicht zu beeinträchtigen. Der Bildschirmstatus des Telefons wird nicht rot dargestellt.</string>
+  <string name="fast_open_dialog_ok">Öffnen</string>
+  <string name="fast_open_list_not_open_title">Keine Geschwindigkeitserhöhung in %s Apps</string>
+  <string name="fast_open_list_open_title">Beschleunigen Sie die Geschwindigkeit in %s Apps</string>
+  <string name="fast_open_noti_summary">%s hat Ihnen einen roten Umschlag geschickt</string>
+  <string name="fast_open_summary">Wenn der Speed-Modus aktiviert ist, wird beim Empfang einer neuen Nachricht vom roten Umschlag die aktuell verwendete Anwendung unterbrochen, um zum roten Umschlag-Fenster zu wechseln.</string>
   <string name="finger_remind_message">Sie können auch Ihren Fingerabdruck zur Appsperre verwenden</string>
   <string name="fingerprint_identify_msg">Entsperren per Fingerabruck aktiviern</string>
   <string name="fingerprint_not_identified_msg">Passwort eingeben, um Ihr Gerät zu entsperren</string>
@@ -920,6 +944,8 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="firewall_wifi_dialog_message">Installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter deaktiviert ist</string>
   <string name="five_percent_total_pkg">%s (5%% Ihrer monatlichen Daten)</string>
   <string name="flow_rank_title">Datenverbrauch</string>
+  <string name="float_window_summary">Unterstützt schnelle Sprünge zum Schütteln und Umblättern von Seiten</string>
+  <string name="float_window_tips">Millet Handy ist schnell!</string>
   <string name="forbid_autobright_summary">Bildschirmhelligkeit bleibt beim Spielen gleich</string>
   <string name="forbid_autobright_title">Bildschirmhelligkeit fixieren</string>
   <string name="force_stop_dlg_text">Wenn Sie die Hintergrunddaten beschränken, werden einige Apps und Dienste nicht funktionieren</string>
@@ -949,6 +975,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="game_booster_close">Game Speed Booster deaktiviert</string>
   <string name="game_booster_intro">Über Game Speed Booster</string>
   <string name="game_booster_jump_webview">Einen Moment…</string>
+  <string name="game_booster_tab_top">Top</string>
   <string name="game_booster_title">Boost</string>
   <string name="game_bootser_tab_settings">Boostereinstellungen</string>
   <string name="game_improve_text1">Cache bereinigen, um Speicher für Spiele freizugeben</string>
@@ -964,6 +991,8 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="gamebooster_main_activity_back">Zurück</string>
   <string name="gamebooster_network_dialog_message">Netzwerkverbindung für Sicherheitsapp erlauben, um alle Funktionen des Game Speed Boosters nutzen zu können?</string>
   <string name="gamebooster_network_dialog_title">Einige Funktionen sind nicht verfügbar</string>
+  <string name="gamebox_qq_not_find">Installieren Sie QQ und versuchen Sie es erneut</string>
+  <string name="gamebox_wechat_not_find">Installieren Sie WeChat und versuchen Sie es erneut</string>
   <string name="gateway_exception_summary">Prüfen Sie Ihren Router und versuchen Sie es erneut</string>
   <string name="gateway_exception_summary2">Verbindung zum Server fehlgeschlagen</string>
   <string name="gateway_exception_title">Routertest</string>
@@ -991,6 +1020,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="gb_xunyou_gift_type_three">Xunyou 3-Tage-Boost</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2-Tage-Boost</string>
   <string name="gdpr_msg"><Data>Um die grundlegenden Funktionen von Sicherheit nutzen zu können, müssen Sie sich damit einverstanden erklären, dass Xiaomi Ihre persönlichen Daten erhebt, verarbeitet und nutzt, einschließlich Informationen über die Art und Weise, wie Sie die Funktionen von Sicherheit nutzen (z.B. Statistiken zur Nutzung mobiler Daten, Informationen über Malware sowie Basisinformationen über Ihr Gerät) und andere Arten von Informationen, die in unseren &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Datenschutzerklärungen angegeben sind&amp;lt;/a>.</Data></string>
+  <string name="ge">Eins</string>
   <string name="get_sys_info">Infos abrufen…</string>
   <string name="gmscore_support_remind">Aktivieren Sie diese Funktion, wenn Probleme bei der Verwendung von Google Mail, Google Maps und anderen Google-Apps auftreten. Die Lebensdauer des Akkus wird dadurch geringfügig verkürzt.</string>
   <string name="gmscore_support_service">Google Dienste</string>
@@ -1360,10 +1390,12 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie mobile
   <string name="menu_item_virus_lib_auto_update_summary">Zuletzt aktualisiert: %s</string>
   <string name="menu_mark">Nummer melden</string>
   <string name="menu_remove">Löschen</string>
+  <string name="menu_setting_traffic">Manuell einstellen</string>
   <string name="menu_report">Fehler melden</string>
   <string name="menu_restore">Wiederherstellen</string>
   <string name="menu_sms">SMS senden</string>
   <string name="menu_setting_traffic">Manuelle Einstellungen</string>
+  <string name="menu_text_garbage_cleanup_danger">Über %s</string>
   <string name="menu_text_antispam">Sperrliste</string>
   <string name="menu_text_antivirus">Antivirus</string>
   <string name="menu_text_garbage_cleanup">Müllbeseitigung</string>
@@ -1381,8 +1413,9 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie mobile
   <string name="menu_white">Außer</string>
   <string name="mi_service_app_detail">Datenverbrauchsdetails</string>
   <string name="mi_service_framework">Mi Service Framework</string>
-  <string name="mi_service_traffic_detail">Frameworkdetails</string>
-  <string name="mian_page_primary_txt">Datenroaming</string>
+  <string name="mian_page_primary_txt">Übersee Roaming</string>
+  <string name="midrop_post_notification_contentText"> Mi Drop versuchen. Es ist schnell und werbefrei.</string>
+  <string name="midrop_post_notification_contentTitle">Need to transfer files?</string>
   <string name="mixed_need_to_confirm">Nochmalige Eingabe zur Bestätigung</string>
   <string name="mixed_password_confirmed_header_confirm">Erfolgreich gesetzt. Tippen Sie zum Bestätigen.</string>
   <string name="mixed_password_confirmed_header_continue">"Erfolgreich gesetzt. Tippen Sie auf \"Weiter\"."</string>
@@ -1558,6 +1591,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="om_settings_speed_up_auto">Automatisch optimieren</string>
   <string name="om_settings_title">Optimierungseinstellungen</string>
   <string name="online_read">Neu</string>
+  <string name="open_activity_err">Die App wurde nicht gefunden</string>
   <string name="online_songs">Musik</string>
   <string name="open">öffnen</string>
   <string name="open_activity_err">App wurde nicht gefunden</string>
