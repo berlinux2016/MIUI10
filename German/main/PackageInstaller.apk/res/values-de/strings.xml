@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Parse_error_dlg_text">Es gab ein Problem beim Parsen des Pakets.</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -198,6 +199,7 @@ Abtastrate"</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Nutzer nicht verfügbar</string>
   <string name="development_settings_summary">Optionen für App-Entwicklung einstellen</string>
   <string name="development_settings_title">Entwickleroptionen</string>
+  <string name="devicePerms">Gerätezugriff</string>
   <string name="direct_boot_unaware_dialog_message">Hinweis: Nach einem Neustart kann diese App nicht gestartet werden, bis Sie Ihr Telefon entsperren.</string>
   <string name="disable_overlays">HW-Overlays deaktivieren</string>
   <string name="disable_overlays_summary">Immer GPU für Screen-Compositing verwenden</string>
@@ -267,7 +269,11 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="install_failed_incompatible">App wurde nicht installiert, da sie mit Ihrem Telefon nicht kompatibel ist</string>
   <string name="install_failed_inconsistent_certificates">Ein Paket mit dem gleichen Namen, aber in Konflikt stehender Signatur, ist bereits installiert.</string>
   <string name="install_failed_invalid_apk">Paket ist offenbar beschädigt</string>
+  <string name="installing">Installieren…</string>
+  <string name="installing_app">Installieren %1$s…</string>
+  <string name="keep_screen_on">Bleiben Sie wach</string>
   <string name="install_failed_msg">%1$s konnte nicht auf Ihrem Telefon installiert werden.</string>
+  <string name="launch">Öffnen</string>
   <string name="install_failed_older_sdk">Paket funktioniert nur auf neueren Versionen von Android</string>
   <string name="install_failed_system_incompatible">"Diese App ist nicht mit MIUI kompatibel"</string>
   <string name="install_failed_verify_failed">Paket hat die Prüfung nicht bestanden und kann daher nicht installiert werden.</string>
@@ -275,6 +281,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="install_from_appstore_hint">Wir empfehlen Ihnen, die App aus dem App Store zu installieren</string>
   <string name="install_other_apps">Unbekannte Apps installieren</string>
   <string name="installing_app">%1$s installieren…</string>
+  <string name="lb_guidedaction_continue_title">Weiter</string>
   <string name="installing">Wird installiert…</string>
   <string name="keep_screen_on">Eingeschaltet lassen</string>
   <string name="keep_screen_on_summary">Bildschirm schläft nie während des Ladevorgangs</string>
@@ -562,6 +569,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="uninstall_done">Deinstallation abgeschlossen</string>
   <string name="uninstall_done_app">%1$s deinstalliert</string>
   <string name="uninstall_failed">Deinstallation fehlgeschlagen</string>
+  <string name="uninstall_failed_app">Deinstallation von %1$s fehlgeschlagen.</string>
   <string name="uninstall_failed_device_policy_manager">Deinstallation nicht möglich, Paket ist ein aktiver Geräteadministrator.</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Deinstallation nicht möglich, Paket ist ein aktiver Geräteadministrator für %1$s.</string>
   <string name="uninstall_failed_app">%1$s deinstallieren nicht erfolgreich</string>
