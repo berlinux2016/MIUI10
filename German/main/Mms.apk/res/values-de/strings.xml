@@ -1,5 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
   <string name="about_smart_sms_title">Smartnachrichten-Partner</string>
   <string name="action_firewall_setting">Sperrliste</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
@@ -183,8 +181,8 @@
   <string name="fail_to_view_attachment">"Anhang nicht verfügbar"</string>
   <string name="failed_to_add_media">%1$s konnte nicht zur Nachricht hinzugefügt werden</string>
   <string name="failed_to_resize_image">Bildgröße nicht angepasst</string>
-  <string name="fake_cell_alert_hint">Sieht so aus, als wurde diese Nachricht von einer anderen Nummer als der angezeigten gesendet. Seien Sie vorsichtig, wenn Sie nach sensiblen Daten gefragt werden.</string>
   <string name="fake_cell_alert_detect_error">Das wurde nicht von einer gefälschten Basiszelle geschickt.</string>
+  <string name="fake_cell_alert_hint">Sieht so aus, als wurde diese Nachricht von einer anderen Nummer als der angezeigten gesendet. Seien Sie vorsichtig, wenn Sie nach sensiblen Daten gefragt werden.</string>
   <string name="fake_cell_checking_hint">Sicherheitsüberprüfung…</string>
   <string name="fake_cell_detection_entry">Erkennung der gefälschten Basisstation</string>
   <string name="fake_cell_safe_hint">Diese Nachricht ist sicher</string>
@@ -381,6 +379,9 @@
   <string name="no_subject_view">(Kein Betreff)</string>
   <string name="non_english_subject_limit">Maximal 13 Zeichen</string>
   <string name="nosend_message">Nicht senden</string>
+  <string name="notification_channel_description">Benachrichtigungen von Nachrichten</string>
+  <string name="notification_channel_name">Nachrichten</string>
+  <string name="notification_copy">OTP kopieren</string>  
   <string name="notification_failed_multiple">%s Nachrichten konnten nicht gesendet werden</string>
   <string name="notification_failed_multiple_title">Nachrichten nicht gesendet</string>
   <string name="notification_multiple">%s ungelesene Nachrichten</string>
@@ -680,6 +681,7 @@
   <string name="toast_feedback_finish">Ihre Meldung wird automatisch gesendet, sobald Sie mit dem WLAN verbunden sind</string>
   <string name="toast_feedback_max">Maximal 3 Meldungen pro Tag können versendet werden</string>
   <string name="toast_feedback_start">Logdaten werden abgerufen…</string>
+  <string name="toast_pending_hangup_msg">Die Nachricht wird nach Beendigung des Anrufs gesendet.</string>
   <string name="today">Heute</string>
   <string name="too_many_attachments">Maximal %1$s Anhänge erlaubt. Nur die ersten %2$s werden hinzugefügt.</string>
   <string name="too_many_recipients">Nachricht hat zu viele Empfänger (%1$s). Die Anzahl der Empfänger ist auf %2$s begrenzt.</string>
@@ -710,6 +712,7 @@ Bisherige Versuche: %s."</string>
   <string name="url_fraud_title">Betrugsverdacht</string>
   <string name="url_fraud_visit"><u>Trotzdem fortfahren</u></string>
   <string name="url_result_safe">Diese URL ist sicher</string>
+  <string name="url_scan_again">Nochmals überprüfen</string>
   <string name="url_scanning">URL wird überprüft…</string>
   <string name="user_agreement1">Lesen Sie den Abschnitt sorgfältig, bevor Sie weitere Software installieren oder dieses Produkt benutzen.</string>
   <string name="user_agreement2">" Nutzungsbedingungen"</string>
@@ -729,3 +732,5 @@ Bisherige Versuche: %s."</string>
   <string name="yellowpage_recommend_msg">Probieren Sie die MIUI SMS-Funktionen</string>
   <string name="yesterday">Gestern</string>
 </resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
