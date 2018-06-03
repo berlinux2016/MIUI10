@@ -5,7 +5,7 @@
 (* For all other bugs, please use the forum under: https://xiaomi.eu/community/forums/bugs.20/      *)
 (**********************************************************************************************************)
 (* Please fill in the fields below: *) --->
-- **MIUI Version:** 8.X.X
+- **MIUI Version:** X.X.X
 - **Device name:** Mi XYZ
 
 **Screenshot/Description:**
