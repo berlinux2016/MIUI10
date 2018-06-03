@@ -405,10 +405,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="back_app_name">Zurück zur Appsperre</string>
   <string name="back_description_securitycenter">Zurück</string>
   <string name="back_modifypassword">Zurück zum Passwort ändern</string>
-<<<<<<< HEAD
-=======
   <string name="back_sound_data">Schalten Sie mobile Daten ein und versuchen Sie es erneut.</string>
->>>>>>> 00ca73a98c807d117491eb919ec4eb46ee99c74e
   <string name="back_sound_fail">Die Einstellungen für den Mobilfunkanbieter konnten nicht geändert werden. Legen Sie die aktuelle SIM-Karte als Datenkarte fest, stellen Sie eine Verbindung mit dem Netzwerk her und versuchen Sie es erneut.</string>
   <string name="back_sound_success">Erfolgreich!</string>
   <string name="back_sound_support">Aktuelle Netzbetreiber unterstützen dies nicht!</string>
@@ -1723,7 +1720,6 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="power_apply_toast">Wechseln auf %s-Modus</string>
   <string name="power_auto_save_title">Energiesparmodus</string>
   <string name="power_autorun_apps_empty">Keine Autostart-Apps</string>
-<<<<<<< HEAD
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_consume_rank_hardware">Hardware</string>
@@ -1731,7 +1727,6 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="power_consume_software_total_format">Apps: %s</string>
   <string name="power_dialog_ok">OK</string>
   <string name="power_wifi">WLAN</string>
-=======
   <string name="power_btn_analyze">Akkuverbrauch analysieren</string>
   <string name="power_button_delete">Löschen</string>
   <string name="power_cell">Standby</string>
@@ -2530,7 +2525,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="tc_diagnostic_brand_error_notification_title">Falscher Netzwerktyp</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Ergebnis: Falscher Netzanbietername&lt;br/&gt;&lt;br/&gt;Setze: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktueller Betreiber: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Fertig</string>
-  <string name="tc_diagnostic_fragment_default">"Über Diagnose
+0  <string name="tc_diagnostic_fragment_default">"Über Diagnose
 1. Das Gerät stellt eine Verbindung zum Netzwerk des Netzbetreibers her, sendet eine kostenlose Nachricht und wartet auf die Antwort des Netzbetreibers. Das kann bis zu 5 Minuten dauern.
 2. Sie können die Seite während der Diagnose verlassen, diese wird im Hintergrund ausgeführt."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Antippen, um Standort festzulegen</string>
