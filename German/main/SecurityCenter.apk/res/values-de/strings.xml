@@ -405,7 +405,10 @@ Sie verlieren keine Appdaten."</string>
   <string name="back_app_name">Zurück zur Appsperre</string>
   <string name="back_description_securitycenter">Zurück</string>
   <string name="back_modifypassword">Zurück zum Passwort ändern</string>
-  <string name="back_sound_data">Mobilfunknetz erforderlich, bitte versuchen Sie es erneut!</string>
+<<<<<<< HEAD
+=======
+  <string name="back_sound_data">Schalten Sie mobile Daten ein und versuchen Sie es erneut.</string>
+>>>>>>> 00ca73a98c807d117491eb919ec4eb46ee99c74e
   <string name="back_sound_fail">Die Einstellungen für den Mobilfunkanbieter konnten nicht geändert werden. Legen Sie die aktuelle SIM-Karte als Datenkarte fest, stellen Sie eine Verbindung mit dem Netzwerk her und versuchen Sie es erneut.</string>
   <string name="back_sound_success">Erfolgreich!</string>
   <string name="back_sound_support">Aktuelle Netzbetreiber unterstützen dies nicht!</string>
@@ -1622,7 +1625,6 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="optimize_result_summary_system_default_settings">Verwendung von MIUI-Apps erhöht Stabilität und Sicherheit Ihres Systems</string>
   <string name="optimize_result_title_sucurity_risk">Sicherheitsrisiken gefunden</string>
   <string name="optimize_result_title_system_default_settings">Standardeinstellungen wurden geändert</string>
-  <string name="optimize_result_title_uninstall_apps">Apps</string>
   <string name="optimize_result_toast_system_default_settings">Standardeinstellungen wiederhergestellt</string>
   <string name="optimize_result_toast_system_no_item_selected">Nichts ausgewählt</string>
   <string name="optmizingbar_optimize_done">Optimiert</string>
@@ -1685,36 +1687,62 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="permission_action_reject">Verweigern</string>
   <string name="permission_close_permission_control_dialog_msg">Wenn die Berechtigungsverwaltung ausgeschaltet ist, werden Apps nicht um Erlaubnis fragen vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufprotokolle, Ändern von Systemeinstellungen oder dem Zugriff auf die Kamera und andere Gerätequellen</string>
   <string name="permission_close_permission_control_dialog_title">Ausschalten?</string>
-  <string name="permission_with_SMS_and_MMS">Berechtigungen für SMS und MMS</string>
   <string name="permission_exception_summary">Einige Apps besitzen keine Berechtigung, um sich mit dem Internet zu verbinden</string>
   <string name="permission_exception_title">Eingeschränkte Verbindung für Apps</string>
-  <string name="person_hotpot">Mobile Hotspots</string>
-  <string name="phone">Telefone</string>
   <string name="permission_group_title_charges_related">Kosten</string>
   <string name="permission_group_title_others">Andere</string>
-  <string name="pm_auto_start_by_other_app">Erlaubt das Starten der App durch andere Apps</string>
   <string name="permission_group_title_privacy_related">Datenschutz</string>
-  <string name="pm_auto_start_by_system_event">Apps automatisch starten lassen</string>
   <string name="permission_group_title_settings_related">Einstellungen</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Apps werden nicht um Erlaubnis bitten vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufprotokolle, Ändern von Systemeinstellungen oder dem Zugriff auf Kamera und andere Gerätequellen. Sie können diese Funktion in den Berechtigungseinstellungen einschalten.</string>
-  <string name="pm_root_success_notification_infomation">Stellen Sie sicher, dass Sie die mit dem Root-Zugriff verbundenen Risiken verstehen.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Rechteverwaltung</string>
-  <string name="power_20s_shutdown">Gerät schaltet sich in %d Sekunden aus</string>
+  <string name="permission_send_sms_descx">Apps können SMS und MMS senden</string>
+  <string name="permission_with_SMS_and_MMS">SMS- und MMS-Berechtigungen</string>
+  <string name="permission_with_call_and_contact">Telefonanruf-, Kontaktdetails- und Anruflistenberechtigungen</string>
+  <string name="permit_running_network">Hintergrunddaten erlauben</string>
+  <string name="person_hotpot">Mobile Hotspots</string>
+  <string name="phone">Telefon</string>
+  <string name="Phonepass">Anrufe zulassen</string>
+  <string name="pkg_traffic">Datenlimit einstellen</string>
+  <string name="please_continue_keep">Behalten</string>
+  <string name="pm_auto_start_basic_services_lock">Sperren</string>
+  <string name="pm_auto_start_basic_services_unlock">Entsperren</string>
+  <string name="pm_auto_start_by_basic_services">Basisdienste</string>
+  <string name="pm_auto_start_by_other">Getriggerter Start</string>
+  <string name="pm_auto_start_by_other_app">Anderen Apps erlauben, diese App zu starten</string>
+  <string name="pm_auto_start_by_other_services">Deaktivieren Sie diese Dienste</string>
+  <string name="pm_auto_start_by_system">Apps starten</string>
+  <string name="pm_auto_start_by_system_event">Apps erlauben, automatisch zu starten</string>
+  <string name="pm_auto_start_proc_is_running">Wird ausgeführt</string>
+  <string name="pm_remember_choice">Meine Auswahl merken</string>
+  <string name="pm_root_success_notification_infomation">Seien Sie sich der Risiken durch Rootzugriff bewusst</string>
+  <string name="pm_root_success_notification_title">Rootzugriff gewährt</string>
+  <string name="power_20s_enter_mode">Wechseln von %1$ds zu %2$s</string>
+  <string name="power_20s_shutdown">Telefon schaltet sich in %d Sekunden aus</string>
   <string name="power_analysis_consume_title">Akkuverbrauch</string>
-  <string name="power_analysis_suggestion_need_optimize">Probleme bei der Akkuverwendung entdeckt</string>
+  <string name="power_analysis_suggestion_need_optimize">Probleme mit dem Akku erkannt</string>
+  <string name="power_apply_toast">Wechseln auf %s-Modus</string>
+  <string name="power_auto_save_title">Energiesparmodus</string>
   <string name="power_autorun_apps_empty">Keine Autostart-Apps</string>
+<<<<<<< HEAD
   <string name="power_bluetooth">Bluetooth</string>
-  <string name="power_btn_analyze">Batterieverbrauch analysieren</string>
-  <string name="power_cell">Zellenbereitschaft</string>
-  <string name="power_center_auto_shutdown">Stromversorgung ein/aus planen</string>
-  <string name="power_center_back">Zurück zu Akkubetrieb</string>
-  <string name="power_center_charge_time">%1$ bis voll</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_consume_rank_hardware">Hardware</string>
   <string name="power_consume_rank_software">Apps</string>
   <string name="power_consume_software_total_format">Apps: %s</string>
   <string name="power_dialog_ok">OK</string>
   <string name="power_wifi">WLAN</string>
+=======
+  <string name="power_btn_analyze">Akkuverbrauch analysieren</string>
+  <string name="power_button_delete">Löschen</string>
+  <string name="power_cell">Standby</string>
+  <string name="power_center_auto_shutdown">Ausschalten</string>
+  <string name="power_center_auto_shutdown_summary">Zeit zum Ausschalten oder Starten</string>
+  <string name="power_center_back">Zurück zum Akkuverbrauch</string>
+  <string name="power_center_battery_full">Akku ist voll aufgeladen</string>
+  <string name="power_center_charge_time">Restladezeit: %1$s</string>
+  <string name="power_center_consume_rank">Akkuverbrauch</string>
+  <string name="power_center_consume_time">%1$s verbleibend</string>
+>>>>>>> 00ca73a98c807d117491eb919ec4eb46ee99c74e
   <string name="power_center_custom_summary_default">Optimierte Einstellungen sparen Energie</string>
   <string name="power_center_custom_title">Energieprofile</string>
   <string name="power_center_low_battery_summary_default">Profil wechseln, wenn der Akkustand niedrig ist</string>
