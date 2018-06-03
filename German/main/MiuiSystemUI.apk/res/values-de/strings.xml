@@ -1,5 +1,280 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+
+<!-- To translate BEGIN -->
+
+  <string name="fingerprint_not_recognized">Not recognized</string>
+  <string name="forced_resizable_secondary_display">App may not work on a secondary display.</string>
+  <string name="go_to_web">Go to web</string>
+  <string name="got_it">Got it</string>
+  <string name="guest_exit_guest">Remove guest</string>
+  <string name="guest_exit_guest_dialog_message">All apps and data in this session will be deleted.</string>
+  <string name="guest_exit_guest_dialog_remove">Remove</string>
+  <string name="guest_exit_guest_dialog_title">Remove guest?</string>
+  <string name="guest_new_guest">Add guest</string>
+  <string name="guest_nickname">Guest</string>
+  <string name="guest_notification_remove_action">REMOVE GUEST</string>
+  <string name="guest_notification_text">To delete apps and data, remove guest user</string>
+  <string name="guest_notification_title">Guest user</string>
+  <string name="guest_wipe_session_dontwipe">Yes, continue</string>
+  <string name="guest_wipe_session_message">Do you want to continue your session?</string>
+  <string name="guest_wipe_session_title">Welcome back, guest!</string>
+  <string name="guest_wipe_session_wipe">Start over</string>
+  <string name="gxzw_try_again">Try again</string>
+  <string name="hidden_notifications_cancel">No thanks</string>
+  <string name="hidden_notifications_setup">Set up</string>
+  <string name="hidden_notifications_text">See them before you unlock</string>
+  <string name="hidden_notifications_title">Get notifications faster</string>
+  <string name="high_temp_dialog_message">"Your phone will automatically try to cool down. You can still use your phone, but it may run slower.\n\nOnce your phone has cooled down, it will run normally."</string>
+  <string name="high_temp_notif_message">Some features limited while phone cools down</string>
+  <string name="high_temp_title">Phone is getting warm</string>
+  <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
+  <string name="instant_apps">Instant apps</string>
+  <string name="instant_apps_message">"Instant apps don't require installation."</string>
+  <string name="interruption_level_alarms">Alarms only</string>
+  <string name="interruption_level_alarms_twoline">"Alarms only"</string>
+  <string name="interruption_level_none">Total silence</string>
+  <string name="interruption_level_none_twoline">"Total silence"</string>
+  <string name="interruption_level_none_with_warning">Total silence. This will also silence screen readers.</string>
+  <string name="interruption_level_priority">Priority only</string>
+  <string name="interruption_level_priority_twoline">"Priority only"</string>
+  <string name="invalid_charger_text">Use only the supplied charger.</string>
+  <string name="invalid_charger_title">USB charging not supported.</string>
+  <string name="keyboard_shortcut_group_system_home">Home</string>
+  <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
+  <string name="keyguard_accessibility_pin_area">PIN area</string>
+  <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
+  <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
+  <string name="keyguard_carrier_default">No service.</string>
+  <string name="keyguard_charged">Charged</string>
+  <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
+  <string name="keyguard_indication_charging_time_fast">Charging rapidly (%s until full)</string>
+  <string name="keyguard_indication_charging_time_slowly">Charging slowly (%s until full)</string>
+  <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
+  <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
+  <string name="keyguard_low_battery">Connect your charger.</string>
+  <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
+  <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
+  <string name="keyguard_missing_sim_message">No SIM card in phone.</string>
+  <string name="keyguard_missing_sim_message_short">No SIM card</string>
+  <string name="keyguard_network_locked_message">Network locked</string>
+  <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.\nContact your wireless service provider for another SIM card."</string>
+  <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
+  <string name="keyguard_plugged_in">Charging</string>
+  <string name="keyguard_plugged_in_charging_fast">Charging rapidly</string>
+  <string name="keyguard_plugged_in_charging_slowly">Charging slowly</string>
+  <string name="keyguard_sim_locked_message">SIM card is locked.</string>
+  <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
+  <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+  <string name="keyguard_unlock">Swipe up to unlock</string>
+  <string name="kg_failed_attempts_almost_at_erase_profile">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
+  <string name="kg_failed_attempts_almost_at_erase_user">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
+  <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the phone %d times. The work profile will be removed, which will delete all profile data.</string>
+  <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the phone %d times. This user will be removed, which will delete all user data.</string>
+  <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
+  <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
+  <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
+  <string name="kg_pin_accepted">Code Accepted!</string>
+  <string name="kg_prompt_reason_device_admin">Device locked by admin</string>
+  <string name="kg_prompt_reason_restart_password">Enter password to unlock</string>
+  <string name="kg_prompt_reason_restart_pattern">Draw your pattern to unlock</string>
+  <string name="kg_prompt_reason_restart_pin">Enter PIN to unlock</string>
+  <string name="kg_prompt_reason_switch_profiles_password">Password required when you switch profiles</string>
+  <string name="kg_prompt_reason_switch_profiles_pattern">Pattern required when you switch profiles</string>
+  <string name="kg_prompt_reason_switch_profiles_pin">PIN required when you switch profiles</string>
+  <string name="kg_prompt_reason_timeout_password">Password required for additional security</string>
+  <string name="kg_prompt_reason_timeout_pattern">Pattern required for additional security</string>
+  <string name="kg_prompt_reason_timeout_pin">PIN required for additional security</string>
+  <string name="kg_prompt_reason_user_request">Device was locked manually</string>
+  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
+  <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
+  <string name="lb_guidedaction_continue_title">Continue</string>
+  <string name="lb_guidedaction_finish_title">Finish</string>
+  <string name="lb_media_player_error">MediaPlayer error code %1$d extra %2$d</string>
+  <string name="lb_navigation_menu_contentDescription">Navigation menu</string>
+  <string name="lb_onboarding_accessibility_next">Next</string>
+  <string name="lb_onboarding_get_started">GET STARTED</string>
+  <string name="lb_playback_controls_closed_captioning_disable">Disable Closed Captioning</string>
+  <string name="lb_playback_controls_closed_captioning_enable">Enable Closed Captioning</string>
+  <string name="lb_playback_controls_fast_forward">Fast Forward</string>
+  <string name="lb_playback_controls_fast_forward_multiplier">Fast Forward %1$dX</string>
+  <string name="lb_playback_controls_hidden">Media controls hidden, press d-pad to show</string>
+  <string name="lb_playback_controls_high_quality_disable">Disable High Quality</string>
+  <string name="lb_playback_controls_high_quality_enable">Enable High Quality</string>
+  <string name="lb_playback_controls_more_actions">More Actions</string>
+  <string name="lb_playback_controls_picture_in_picture">Enter Picture In Picture Mode</string>
+  <string name="lb_playback_controls_repeat_all">Repeat All</string>
+  <string name="lb_playback_controls_repeat_none">Repeat None</string>
+  <string name="lb_playback_controls_repeat_one">Repeat One</string>
+  <string name="lb_playback_controls_rewind">Rewind</string>
+  <string name="lb_playback_controls_rewind_multiplier">Rewind %1$dX</string>
+  <string name="lb_playback_controls_shown">Media controls shown</string>
+  <string name="lb_playback_controls_shuffle_disable">Disable Shuffle</string>
+  <string name="lb_playback_controls_shuffle_enable">Enable Shuffle</string>
+  <string name="lb_playback_controls_skip_next">Skip Next</string>
+  <string name="lb_playback_controls_skip_previous">Skip Previous</string>
+  <string name="lb_playback_controls_thumb_down">Deselect Thumb Down</string>
+  <string name="lb_playback_controls_thumb_down_outline">Select Thumb Down</string>
+  <string name="lb_playback_controls_thumb_up">Deselect Thumb Up</string>
+  <string name="lb_playback_controls_thumb_up_outline">Select Thumb Up</string>
+  <string name="lb_search_bar_hint">Search</string>
+  <string name="lb_search_bar_hint_speech">Speak to search</string>
+  <string name="lb_search_bar_hint_with_title">Search %1$s</string>
+  <string name="lb_search_bar_hint_with_title_speech">Speak to search %1$s</string>
+  <string name="left_icon">Left icon</string>
+  <string name="left_keycode">Left keycode</string>
+  <string name="left_nav_bar_button_type">Extra left button type</string>
+  <string name="lockscreen_none">None</string>
+  <string name="lockscreen_shortcut_left">Left shortcut</string>
+  <string name="lockscreen_shortcut_right">Right shortcut</string>
+  <string name="lockscreen_unlock_left">Left shortcut also unlocks</string>
+  <string name="lockscreen_unlock_right">Right shortcut also unlocks</string>
+  <string name="memory_clear_result_giga">%1$sGB cleared</string>
+  <string name="memory_clear_result_mega">%1$sMB cleared</string>
+  <string name="menu_ime">Keyboard switcher</string>
+  <string name="miui_ringer_count_down">Count down</string>
+  <string name="miui_ringer_count_down_time">Count down: %s</string>
+  <string name="miui_ringer_standard">Silent</string>
+  <string name="miui_ringer_standard_description">Silence ringtones for incoming calls and notifications</string>
+  <string name="miui_ringer_total_description">Silence sounds and turn off vibration for all items except the alarm clock</string>
+  <string name="miui_toast_zen_dnd_to_off">Sounds and vibration restored to normal</string>
+  <string name="miui_toast_zen_standard_to_off">Ringtones restored to normal</string>
+  <string name="miui_toast_zen_to_dnd">Sounds silenced and vibration turned off</string>
+  <string name="miui_toast_zen_to_standard">Ringtones for calls and notifications silenced</string>
+  <string name="mland">Marshmallow Land</string>
+  <string name="mobile_data">Mobile data</string>
+  <string name="monitoring_description_app">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
+  <string name="monitoring_description_app_personal">"You're connected to %1$s, which can monitor your personal network activity, including emails, apps, and websites."</string>
+  <string name="monitoring_description_app_personal_work">"Your work profile is managed by %1$s. The profile is connected to %2$s, which can monitor your work network activity, including emails, apps, and websites.\n\nYou're also connected to %3$s, which can monitor your personal network activity."</string>
+  <string name="monitoring_description_app_work">"Your work profile is managed by %1$s. The profile is connected to %2$s, which can monitor your work network activity, including emails, apps, and websites.\n\nFor more information, contact your admin."</string>
+  <string name="monitoring_description_ca_cert_settings">Open trusted credentials</string>
+  <string name="monitoring_description_ca_cert_settings_separator">" "</string>
+  <string name="monitoring_description_do_body">"Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information."</string>
+  <string name="monitoring_description_do_body_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
+  <string name="monitoring_description_do_header_generic">Your device is managed by %1$s.</string>
+  <string name="monitoring_description_do_header_with_name">%1$s uses %2$s to manage your device.</string>
+  <string name="monitoring_description_do_learn_more">Learn more</string>
+  <string name="monitoring_description_do_learn_more_separator">" "</string>
+  <string name="monitoring_description_network_logging">"Your admin has turned on network logging, which monitors traffic on your device.\n\nFor more information, contact your admin."</string>
+  <string name="monitoring_description_vpn">"You gave an app permission to set up a VPN connection.\n\nThis app can monitor your device and network activity, including emails, apps, and websites."</string>
+  <string name="monitoring_description_vpn_profile_owned">"Your work profile is managed by %1$s.\n\nYour admin is capable of monitoring your network activity including emails, apps, and websites.\n\nFor more information, contact your admin.\n\nYou're also connected to a VPN, which can monitor your network activity."</string>
+  <string name="monitoring_title_profile_owned">Profile monitoring</string>
+  <string name="mr_button_content_description">Cast button</string>
+  <string name="mr_cast_button_connected">Cast button. Connected</string>
+  <string name="mr_cast_button_connecting">Cast button. Connecting</string>
+  <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+  <string name="mr_chooser_searching">Finding devices</string>
+  <string name="mr_chooser_title">Cast to</string>
+  <string name="mr_controller_album_art">Album art</string>
+  <string name="mr_controller_casting_screen">Casting screen</string>
+  <string name="mr_controller_close_description">Close</string>
+  <string name="mr_controller_collapse_group">Collapse</string>
+  <string name="mr_controller_disconnect">Disconnect</string>
+  <string name="mr_controller_expand_group">Expand</string>
+  <string name="mr_controller_no_info_available">No info available</string>
+  <string name="mr_controller_no_media_selected">No media selected</string>
+  <string name="mr_controller_stop_casting">Stop casting</string>
+  <string name="mr_controller_volume_slider">Volume slider</string>
+  <string name="mr_system_route_name">System</string>
+  <string name="mr_user_route_category_name">Devices</string>
+  <string name="nav_bar">Navigation bar</string>
+  <string name="nav_bar_default">(default)</string>
+  <string name="no_tiles_add">No tiles to add</string>
+  <string name="notification_all_categories">All categories</string>
+  <string name="notification_app_settings">Customize: %1$s</string>
+  <string name="notification_channel_controls_closed_accessibility">Notification controls for %1$s closed</string>
+  <string name="notification_channel_controls_opened_accessibility">Notification controls for %1$s opened</string>
+  <string name="notification_channel_disabled">"You won't get these notifications anymore."</string>
+  <string name="notification_channel_general">General Messages</string>
+  <string name="notification_channel_location">Location</string>
+  <string name="notification_channel_screenshot">Screenshots</string>
+  <string name="notification_channel_storage">Storage</string>
+  <string name="notification_channel_switch_accessibility">Allow notifications from this channel</string>
+  <string name="notification_channel_tv_pip">Picture-in-Picture</string>
+  <string name="notification_default_channel_desc">"This app doesn't have notification categories"</string>
+  <string name="notification_done">Done</string>
+  <string name="notification_group_collapse_button_text">Fold</string>
+  <string name="notification_header_default_channel">Notifications</string>
+  <string name="notification_info_channel_disabled_text">"You won't receive %2$s notifications from %1$s."</string>
+  <string name="notification_info_channel_enabled_text">You will receive %2$s notifications from %1$s.</string>
+  <string name="notification_menu_filter_description">Unimportant notifications</string>
+  <string name="notification_menu_filter_secondary_text">All notifications of %s will appear in a separate folder.</string>
+  <string name="notification_menu_filter_title">Unimportant</string>
+  <string name="notification_menu_gear_description">Notification controls</string>
+  <string name="notification_menu_remove_from_filter_secondary_text">All important notifications of %s will appear directly on the Notification shade.</string>
+  <string name="notification_menu_remove_from_filter_title">Important</string>
+  <string name="notification_menu_snooze_description">Notification snooze options</string>
+  <string name="notification_more_settings">More settings</string>
+  <string name="notification_num_channels">%d notification categories</string>
+  <string name="notification_tap_again">Tap again to open</string>
+  <string name="orb_search_action">Search Action</string>
+  <string name="other">Other</string>
+  <string name="overview">Overview</string>
+  <string name="phone_hint">Swipe from icon for Phone</string>
+  <string name="phone_label">Open Phone</string>
+  <string name="pip_close">Close PIP</string>
+  <string name="pip_fullscreen">Full screen</string>
+  <string name="pip_notification_unknown_title">(No title program)</string>
+  <string name="pip_pause">Pause</string>
+  <string name="plugins">Plugins</string>
+  <string name="power_notification_controls_description">"With power notification controls, you can set an importance level from 0 to 5 for an app's notifications.
+
+"&lt;b&gt;Level 5&lt;/b&gt;"
+- Show at the top of the notification list
+- Allow full screen interruption
+- Always peek
+
+"&lt;b&gt;Level 4&lt;/b&gt;"
+- Prevent full screen interruption
+- Always peek
+
+"&lt;b&gt;Level 3&lt;/b&gt;"
+- Prevent full screen interruption
+- Never peek
+
+"&lt;b&gt;Level 2&lt;/b&gt;"
+- Prevent full screen interruption
+- Never peek
+- Never make sound and vibration
+
+"&lt;b&gt;Level 1&lt;/b&gt;"
+- Prevent full screen interruption
+- Never peek
+- Never make sound or vibrate
+- Hide from lock screen and status bar
+- Show at the bottom of the notification list
+
+"&lt;b&gt;Level 0&lt;/b&gt;"
+- Block all notifications from the app"</string>
+  <string name="profile_owned_footer">Profile may be monitored</string>
+  <string name="qs_customize">Allow long-press customize in Quick Settings</string>
+  <string name="qs_customize_remove">Remove</string>
+  <string name="qs_customize_title">Edit</string>
+  <string name="qs_dnd_keep">Keep</string>
+  <string name="qs_dnd_prompt_app">DND was turned on by an app (%s).</string>
+  <string name="qs_dnd_prompt_auto_rule">DND was turned on by an automatic rule (%s).</string>
+  <string name="qs_dnd_prompt_auto_rule_app">DND was turned on by an automatic rule or app.</string>
+  <string name="qs_dnd_replace">Replace</string>
+  <string name="qs_dnd_until">Until %s</string>
+  <string name="qs_edit">Edit</string>
+  <string name="qs_paging">Use the new Quick settings</string>
+  <string name="qs_rearrange">Rearrange Quick settings</string>
+  <string name="quick_settings">Quick settings</string>
+  <string name="quick_settings_autobrightness_label">Auto brightness</string>
+  <string name="quick_settings_batterysaver_label">Battery saver</string>
+  <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
+  <string name="quick_settings_bluetooth_off_label">Bluetooth is off</string>
+  <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
+  <string name="quick_settings_brightness_dialog_title">Brightness</string>
+  <string name="quick_settings_brightness_label">Brightness</string>
+  <string name="quick_settings_cast_detail_empty_text">No devices available</string>
+  <string name="quick_settings_cast_device_default_description">Ready to cast</string>
+  <string name="quick_settings_cast_device_default_name">Unnamed device</string>
+  <string name="quick_settings_screenbutton_label">Buttons</string>
+  <string name="velocity_tracker_impl">platform</string>
+  
+<!-- To translate END -->
+
   <string name="abbrev_wday_month_day_no_year">EEEE, d. MMMM</string>
   <string name="abbrev_wday_month_day_no_year_alarm">EEE, d. MMM</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
@@ -183,7 +458,6 @@
   <string name="accessibility_quick_settings_open_settings">%s-Einstellungen öffnen</string>
   <string name="accessibility_quick_settings_page">Seite %1$d von %2$d</string>
   <string name="accessibility_quick_settings_rotation">Bildschirm automatisch drehen</string>
-  <string name="accessibility_quick_settings_rotation_value">%s-Modus</string>
   <string name="accessibility_quick_settings_settings">Einstellungen öffnen</string>
   <string name="accessibility_quick_settings_user">Angemeldet als %s</string>
   <string name="accessibility_quick_settings_wifi">%1$s</string>
@@ -1262,7 +1536,7 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
   <string name="tethering_settings_not_available">Tethering-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="theme">Theme</string>
-  <string name="thermal_shutdown_dialog_message">Ihr Telefon war zu heiß, also wurde es ausgeschaltet, um sich abzukühlen.\n\nIhr Telefon läuft jetzt normal. Ihr Telefon könnte zu heiß werden, wenn Sie:\n\u0009• ressourcenintensive Apps (z. B. Spiele-, Video- oder Navigations-Apps) verwenden.\n\u0009• große Dateien herunter- oder hochladen.\n\u0009• Ihr Telefon bei hohen Temperaturen verwenden.</string>
+  <string name="thermal_shutdown_dialog_message">"Ihr Telefon war zu heiß, also wurde es ausgeschaltet, um sich abzukühlen.\n\nIhr Telefon läuft jetzt normal. Ihr Telefon könnte zu heiß werden, wenn Sie:\n\u0009• ressourcenintensive Apps (z. B. Spiele-, Video- oder Navigations-Apps) verwenden.\n\u0009• große Dateien herunter- oder hochladen.\n\u0009• Ihr Telefon bei hohen Temperaturen verwenden."</string>
   <string name="thermal_shutdown_message">Ihr Telefon läuft jetzt normal</string>
   <string name="thermal_shutdown_title">Telefon ausgeschaltet wegen Hitze</string>
   <string name="title_convert_fbe">In dateibasierte Verschlüsselung umwandeln</string>
@@ -1373,7 +1647,7 @@ Für weitere Informationen wenden Sie sich bitte an Ihren Administrator."</strin
   <string name="use_ptp_button_title">Als Kamera einbinden (PTP)</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systemsprachen verwenden</string>
   <string name="user_add_user">Benutzer hinzufügen</string>
-  <string name="user_add_user_message_short">Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihr Profil einrichten.\n\nJeder Benutzer kann Apps für alle anderen Benutzer aktualisieren.</string>
+  <string name="user_add_user_message_short">"Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihr Profil einrichten.\n\nJeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
   <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
   <string name="user_guest">Gast</string>
   <string name="user_guide_for_notification">Neue Benachrichtigung empfangen, zum lesen die Statusleiste herunterziehen</string>
