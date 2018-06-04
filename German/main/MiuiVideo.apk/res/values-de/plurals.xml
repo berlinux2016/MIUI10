@@ -2,12 +2,36 @@
 <resources>
   <item type="plurals" name="public_static_final_host_plurals1">padding</item>
   <plurals name="comment_count">
-    <item quantity="other">%d Bemerkungen</item>
-    <item quantity="one">%d Bemerkung</item>
+    <item quantity="other">%d Kommentare</item>
+    <item quantity="one">%d Kommentar</item>
+  </plurals>
+  <plurals name="comment_sub_count">
+    <item quantity="other">%d Antworten</item>
+    <item quantity="one">"%d  Antwort</item>
+  </plurals>
+  <plurals name="comment_view_all_comment">
+    <item quantity="other">zeige alle %d Kommentare</item>
+    <item quantity="one">zeige %d Kommentar</item>
+  </plurals>
+  <plurals name="downloading_task_num">
+    <item quantity="other">%d Dateien</item>
+    <item quantity="one">%d Datei</item>
   </plurals>
   <plurals name="favor_short_selected_counts">
     <item quantity="other">%1$s Elemente ausgewählt</item>
     <item quantity="one">%1$s Element ausgewählt</item>
+  </plurals>
+  <plurals name="notification_sub_title">
+    <item quantity="other">Heunterladen von %d Dateien erfolgreich</item>
+    <item quantity="one">Heunterladen von %d Datei erfolgreich</item>
+  </plurals>
+  <plurals name="offline_num">
+    <item quantity="other">%d Dateien</item>
+    <item quantity="one">%d Datei</item>
+  </plurals>
+  <plurals name="offline_num_title">
+    <item quantity="other">(%d Episoden)</item>
+    <item quantity="one">(%d Episode)</item>
   </plurals>
   <plurals name="subtitle_offset_advance_times">
     <item quantity="other">Untertitel werden um %.1f Sekunden vorwärts verschoben</item>
@@ -21,41 +45,13 @@
     <item quantity="other">Größe: %.2fKB</item>
     <item quantity="one">Größe: %.2fKB</item>
   </plurals>
-  <plurals name="comment_count">
-    <item quantity="other">%d Kommentare</item>
-    <item quantity="one">ein Kommentar</item>
-  </plurals>
-  <plurals name="comment_sub_count">
-    <item quantity="other">%d Antworten</item>
-    <item quantity="one">eine Antwort</item>
-  </plurals>
-  <plurals name="comment_view_all_comment">
-    <item quantity="other">zeige alle %d Kommentare</item>
-    <item quantity="one">zeige einen Kommentar</item>
-  </plurals>
-  <plurals name="downloading_task_num">
-    <item quantity="other">%d Dateien</item>
-    <item quantity="one">eine Datei</item>
-  </plurals>
-  <plurals name="notification_sub_title">
-    <item quantity="other">Heunterladen von %d Dateien erfolgreich</item>
-    <item quantity="one">Heunterladen von einer Datei erfolgreich</item>
-  </plurals>
-  <plurals name="offline_num">
-    <item quantity="other">%d Dateien</item>
-    <item quantity="one">eine Datei</item>
-  </plurals>
-  <plurals name="offline_num_title">
-    <item quantity="other">(%d Episoden)</item>
-    <item quantity="one">(eine Episode)</item>
-  </plurals>
   <plurals name="updated_already">
     <item quantity="other">%d Dateien aktualisiert</item>
-    <item quantity="one">eine Datei aktualisiert</item>
+    <item quantity="one">%d Datei aktualisiert</item>
   </plurals>
   <plurals name="v_video_count">
     <item quantity="other">%d Videos</item>
-    <item quantity="one">ein Video</item>
+    <item quantity="one">%d Video</item>
   </plurals>
   <plurals name="video_pre_play_tip">
     <item quantity="other">Eine %1$d-minütige Vorschau ist verfügbar. Um das Video vollständig zu sehen, &lt;Data>&lt;font color=#ffa201>kaufen Sie es jetzt&lt;/font>&lt;/Data>.</item>
