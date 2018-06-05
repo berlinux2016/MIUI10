@@ -1,153 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-<!-- To translate BEGIN -->
-
-  <string name="memory_clear_result_giga">%1$sGB cleared</string>
-  <string name="memory_clear_result_mega">%1$sMB cleared</string>
-  <string name="menu_ime">Keyboard switcher</string>
-  <string name="miui_ringer_count_down">Count down</string>
-  <string name="miui_ringer_count_down_time">Count down: %s</string>
-  <string name="miui_ringer_standard">Silent</string>
-  <string name="miui_ringer_standard_description">Silence ringtones for incoming calls and notifications</string>
-  <string name="miui_ringer_total_description">Silence sounds and turn off vibration for all items except the alarm clock</string>
-  <string name="miui_toast_zen_dnd_to_off">Sounds and vibration restored to normal</string>
-  <string name="miui_toast_zen_standard_to_off">Ringtones restored to normal</string>
-  <string name="miui_toast_zen_to_dnd">Sounds silenced and vibration turned off</string>
-  <string name="miui_toast_zen_to_standard">Ringtones for calls and notifications silenced</string>
-  <string name="mland">Marshmallow Land</string>
-  <string name="mobile_data">Mobile data</string>
-  <string name="monitoring_description_app">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
-  <string name="monitoring_description_app_personal">"You're connected to %1$s, which can monitor your personal network activity, including emails, apps, and websites."</string>
-  <string name="monitoring_description_app_personal_work">"Your work profile is managed by %1$s. The profile is connected to %2$s, which can monitor your work network activity, including emails, apps, and websites.\n\nYou're also connected to %3$s, which can monitor your personal network activity."</string>
-  <string name="monitoring_description_app_work">"Your work profile is managed by %1$s. The profile is connected to %2$s, which can monitor your work network activity, including emails, apps, and websites.\n\nFor more information, contact your admin."</string>
-  <string name="monitoring_description_ca_cert_settings">Open trusted credentials</string>
-  <string name="monitoring_description_ca_cert_settings_separator">" "</string>
-  <string name="monitoring_description_do_body">"Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information."</string>
-  <string name="monitoring_description_do_body_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
-  <string name="monitoring_description_do_header_generic">Your device is managed by %1$s.</string>
-  <string name="monitoring_description_do_header_with_name">%1$s uses %2$s to manage your device.</string>
-  <string name="monitoring_description_do_learn_more">Learn more</string>
-  <string name="monitoring_description_do_learn_more_separator">" "</string>
-  <string name="monitoring_description_network_logging">"Your admin has turned on network logging, which monitors traffic on your device.\n\nFor more information, contact your admin."</string>
-  <string name="monitoring_description_vpn">"You gave an app permission to set up a VPN connection.\n\nThis app can monitor your device and network activity, including emails, apps, and websites."</string>
-  <string name="monitoring_description_vpn_profile_owned">"Your work profile is managed by %1$s.\n\nYour admin is capable of monitoring your network activity including emails, apps, and websites.\n\nFor more information, contact your admin.\n\nYou're also connected to a VPN, which can monitor your network activity."</string>
-  <string name="monitoring_title_profile_owned">Profile monitoring</string>
-  <string name="mr_button_content_description">Cast button</string>
-  <string name="mr_cast_button_connected">Cast button. Connected</string>
-  <string name="mr_cast_button_connecting">Cast button. Connecting</string>
-  <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
-  <string name="mr_chooser_searching">Finding devices</string>
-  <string name="mr_chooser_title">Cast to</string>
-  <string name="mr_controller_album_art">Album art</string>
-  <string name="mr_controller_casting_screen">Casting screen</string>
-  <string name="mr_controller_close_description">Close</string>
-  <string name="mr_controller_collapse_group">Collapse</string>
-  <string name="mr_controller_disconnect">Disconnect</string>
-  <string name="mr_controller_expand_group">Expand</string>
-  <string name="mr_controller_no_info_available">No info available</string>
-  <string name="mr_controller_no_media_selected">No media selected</string>
-  <string name="mr_controller_stop_casting">Stop casting</string>
-  <string name="mr_controller_volume_slider">Volume slider</string>
-  <string name="mr_system_route_name">System</string>
-  <string name="mr_user_route_category_name">Devices</string>
-  <string name="nav_bar">Navigation bar</string>
-  <string name="nav_bar_default">(default)</string>
-  <string name="no_tiles_add">No tiles to add</string>
-  <string name="notification_all_categories">All categories</string>
-  <string name="notification_app_settings">Customize: %1$s</string>
-  <string name="notification_channel_controls_closed_accessibility">Notification controls for %1$s closed</string>
-  <string name="notification_channel_controls_opened_accessibility">Notification controls for %1$s opened</string>
-  <string name="notification_channel_disabled">"You won't get these notifications anymore."</string>
-  <string name="notification_channel_general">General Messages</string>
-  <string name="notification_channel_location">Location</string>
-  <string name="notification_channel_screenshot">Screenshots</string>
-  <string name="notification_channel_storage">Storage</string>
-  <string name="notification_channel_switch_accessibility">Allow notifications from this channel</string>
-  <string name="notification_channel_tv_pip">Picture-in-Picture</string>
-  <string name="notification_default_channel_desc">"This app doesn't have notification categories"</string>
-  <string name="notification_done">Done</string>
-  <string name="notification_group_collapse_button_text">Fold</string>
-  <string name="notification_header_default_channel">Notifications</string>
-  <string name="notification_info_channel_disabled_text">"You won't receive %2$s notifications from %1$s."</string>
-  <string name="notification_info_channel_enabled_text">You will receive %2$s notifications from %1$s.</string>
-  <string name="notification_menu_filter_description">Unimportant notifications</string>
-  <string name="notification_menu_filter_secondary_text">All notifications of %s will appear in a separate folder.</string>
-  <string name="notification_menu_filter_title">Unimportant</string>
-  <string name="notification_menu_gear_description">Notification controls</string>
-  <string name="notification_menu_remove_from_filter_secondary_text">All important notifications of %s will appear directly on the Notification shade.</string>
-  <string name="notification_menu_remove_from_filter_title">Important</string>
-  <string name="notification_menu_snooze_description">Notification snooze options</string>
-  <string name="notification_more_settings">More settings</string>
-  <string name="notification_num_channels">%d notification categories</string>
-  <string name="notification_tap_again">Tap again to open</string>
-  <string name="orb_search_action">Search Action</string>
-  <string name="other">Other</string>
-  <string name="overview">Overview</string>
-  <string name="phone_hint">Swipe from icon for Phone</string>
-  <string name="phone_label">Open Phone</string>
-  <string name="pip_close">Close PIP</string>
-  <string name="pip_fullscreen">Full screen</string>
-  <string name="pip_notification_unknown_title">(No title program)</string>
-  <string name="pip_pause">Pause</string>
-  <string name="plugins">Plugins</string>
-  <string name="power_notification_controls_description">"With power notification controls, you can set an importance level from 0 to 5 for an app's notifications.
-
-"&lt;b&gt;Level 5&lt;/b&gt;"
-- Show at the top of the notification list
-- Allow full screen interruption
-- Always peek
-
-"&lt;b&gt;Level 4&lt;/b&gt;"
-- Prevent full screen interruption
-- Always peek
-
-"&lt;b&gt;Level 3&lt;/b&gt;"
-- Prevent full screen interruption
-- Never peek
-
-"&lt;b&gt;Level 2&lt;/b&gt;"
-- Prevent full screen interruption
-- Never peek
-- Never make sound and vibration
-
-"&lt;b&gt;Level 1&lt;/b&gt;"
-- Prevent full screen interruption
-- Never peek
-- Never make sound or vibrate
-- Hide from lock screen and status bar
-- Show at the bottom of the notification list
-
-"&lt;b&gt;Level 0&lt;/b&gt;"
-- Block all notifications from the app"</string>
-  <string name="profile_owned_footer">Profile may be monitored</string>
-  <string name="qs_customize">Allow long-press customize in Quick Settings</string>
-  <string name="qs_customize_remove">Remove</string>
-  <string name="qs_customize_title">Edit</string>
-  <string name="qs_dnd_keep">Keep</string>
-  <string name="qs_dnd_prompt_app">DND was turned on by an app (%s).</string>
-  <string name="qs_dnd_prompt_auto_rule">DND was turned on by an automatic rule (%s).</string>
-  <string name="qs_dnd_prompt_auto_rule_app">DND was turned on by an automatic rule or app.</string>
-  <string name="qs_dnd_replace">Replace</string>
-  <string name="qs_dnd_until">Until %s</string>
-  <string name="qs_edit">Edit</string>
-  <string name="qs_paging">Use the new Quick settings</string>
-  <string name="qs_rearrange">Rearrange Quick settings</string>
-  <string name="quick_settings">Quick settings</string>
-  <string name="quick_settings_autobrightness_label">Auto brightness</string>
-  <string name="quick_settings_batterysaver_label">Battery saver</string>
-  <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
-  <string name="quick_settings_bluetooth_off_label">Bluetooth is off</string>
-  <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
-  <string name="quick_settings_brightness_dialog_title">Brightness</string>
-  <string name="quick_settings_brightness_label">Brightness</string>
-  <string name="quick_settings_cast_detail_empty_text">No devices available</string>
-  <string name="quick_settings_cast_device_default_description">Ready to cast</string>
-  <string name="quick_settings_cast_device_default_name">Unnamed device</string>
-  <string name="quick_settings_screenbutton_label">Buttons</string>
-  
-<!-- To translate END -->
-
   <string name="abbrev_wday_month_day_no_year">EEEE, d. MMMM</string>
   <string name="abbrev_wday_month_day_no_year_alarm">EEE, d. MMM</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
@@ -1117,14 +969,37 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="media_projection_action_text">Jetzt beginnen</string>
   <string name="media_projection_dialog_text">%s wird alles aufnehmen, was auf Ihrem Bildschirm zusehen ist. </string>
   <string name="media_projection_remember_text">Nicht nochmal anzeigen</string>
+  <string name="memory_clear_result_giga">%1$sGB gelöscht</string>
+  <string name="memory_clear_result_mega">%1$sMB gelöscht</string>
+  <string name="menu_ime">Tastaturumschalter</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Mit Bluetoothgerät entsperrt</string>
+  <string name="miui_ringer_count_down">Countdown</string>
+  <string name="miui_ringer_count_down_time">Countdown: %s</string>
+  <string name="miui_ringer_standard">Stumm</string>
+  <string name="miui_ringer_standard_description">Klingeltöne für eingehende Anrufe und Benachrichtigungen stumm schalten</string>
+  <string name="miui_ringer_total_description">Töne und Vibration für alle Elemente außer dem Wecker ausschalten</string>
+  <string name="miui_toast_zen_dnd_to_off">Töne und Vibration wieder normal</string>
+  <string name="miui_toast_zen_standard_to_off">Klingeltöne wieder normal</string>
+  <string name="miui_toast_zen_to_dnd">Töne stumm und Vibration ausgeschaltet</string>
+  <string name="miui_toast_zen_to_standard">Klingeltöne für Anrufe und Benachrichtigungen stumm</string>
+  <string name="mobile_data">Mobile Daten</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Mobile Datenverbindung immer aktiv halten, auch wenn WLAN aktiv ist (für schnelle Netzwerkumschaltung).</string>
   <string name="mock_location_app">App für vorgetäuschte Standorte auswählen</string>
   <string name="mock_location_app_not_set">Keine App für vorgetäuschte Standorte ausgewählt</string>
   <string name="mock_location_app_set">App für vorgetäuschte Orte: %1$s</string>
   <string name="monitoring_button_view_policies">Richtlinien anzeigen</string>
+  <string name="monitoring_description_app">Sie sind mit %1$s verbunden, wobei Ihre Netzwerkaktivitäten überwacht werden können, einschließlich E-Mails, Apps und Webseiten.</string>
+  <string name="monitoring_description_app_personal">Sie sind mit %1$s verbunden, wobei Ihre persönlichen Netzwerkaktivitäten überwacht werden können, einschließlich E-Mails, Apps und Webseiten.</string>
+  <string name="monitoring_description_app_personal_work">Ihr Arbeitsprofil wird von %1$s verwaltet. Das Profil ist mit %2$s verbunden, wobei Ihre Netzwerkaktivität überwacht werden kann, einschließlich E-Mails, Apps und Webseiten.\n\nSie sind auch mit %3$s verbunden, wodurch Ihre persönlichen Netzwerkaktivitäten überwacht werden können.</string>
+  <string name="monitoring_description_app_work">Ihr Arbeitsprofil wird von %1$s verwaltet. Das Profil ist mit %2$s verbunden, wodurch Ihre Netzwerkaktivität überwacht werden kann, einschließlich E-Mails, Apps und Webseiten.\n\nFür weitere Informationen kontaktieren Sie Ihren Administrator.</string>
+  <string name="monitoring_description_ca_cert_settings">Vertrauenswürdige Anmeldeinformationen öffnen</string>
   <string name="monitoring_description_ca_certificate">Auf diesem Gerät ist eine Zertifizierungsstelle installiert. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
+  <string name="monitoring_description_do_body">Ihr Administrator kann Einstellungen, Firmenzugang, Apps, Daten zu Ihrem Gerät und die Standortinformationen Ihres Geräts überwachen und verwalten.</string>
+  <string name="monitoring_description_do_body_vpn">Sie sind mit %1$s verbunden, wodurch Ihre Netzwerkaktivitäten überwacht werden können, einschließlich E-Mails, Apps und Webseiten.</string>
+  <string name="monitoring_description_do_header_generic">Ihr Gerät wird von %1$s verwaltet.</string>
+  <string name="monitoring_description_do_header_with_name">%1$s verwendet %2$s, um Ihr Gerät zu verwalten.</string>
+  <string name="monitoring_description_do_learn_more">Erfahren Sie mehr</string>
   <string name="monitoring_description_managed_profile_ca_certificate">Ihre Organisation hat in Ihrem Arbeitsprofil eine Zertifizierung eingerichtet. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
   <string name="monitoring_description_managed_profile_named_vpn">Ihr Arbeitsprofil ist mit %1$s verbunden, das Ihre Netzwerkaktivität überwachen kann, einschließlich E-Mails, Apps und Webseiten.</string>
   <string name="monitoring_description_management">Ihr Gerät wird von Ihrer Organisation verwaltet.\n\nIhr Administrator kann Einstellungen, Unternehmenszugriff, Apps, mit Ihrem Telefon verknüpfte Daten und Standortinformationen überwachen und verwalten.\n\nFür weitere Informationen wenden Sie sich bitte an Ihren Administrator.</string>
@@ -1132,15 +1007,38 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="monitoring_description_management_network_logging">Ihr Administrator hat die Netzwerkprotokollierung aktiviert, die den Datenverkehr auf Ihrem Telefon überwacht.</string>
   <string name="monitoring_description_named_management">Ihr Gerät wird von %1$s verwaltet.\n\nIhr Administrator kann Einstellungen, Unternehmenszugriff, Apps, Daten, die mit Ihrem Gerät verknüpft sind, und die Standortinformationen überwachen und verwalten.\n\nFür weitere Informationen wenden Sie sich bitte an Ihren Administrator.</string>
   <string name="monitoring_description_named_vpn">Sie sind mit %1$s verbunden, die Ihre Netzwerkaktivität überwachen können, einschließlich E-Mails, Apps und Webseiten.</string>
+  <string name="monitoring_description_network_logging">Ihr Administrator hat die Netzwerkprotokollierung eingeschaltet, die den Datenverkehr auf Ihrem Gerät überwacht.\n\nFür weitere Informationen wenden Sie sich bitte an Ihren Administrator.</string>
   <string name="monitoring_description_personal_profile_named_vpn">Ihr persönliches Profil ist mit %1$s verbunden, das Ihre Netzwerkaktivität überwachen kann, einschließlich E-Mails, Apps und Webseiten.</string>
   <string name="monitoring_description_two_named_vpns">"Sie sind mit %1$s und %2$s verbunden, die Ihre Netzwerkaktivitäten überwachen können, einschließlich E-Mails, Apps und Webseiten.</string>
+  <string name="monitoring_description_vpn">Sie haben einer App die Erlaubnis gegeben, eine VPN-Verbindung aufzubauen.\n\nDiese App kann Ihre Geräte- und Netzwerkaktivitäten überwachen, einschließlich E-Mails, Apps und Webseiten.</string>
+  <string name="monitoring_description_vpn_profile_owned">Ihr Arbeitsprofil wird von %1$s verwaltet.\n\nIhr Administrator ist in der Lage, Ihre Netzwerkaktivität einschließlich E-Mails, Apps und Webseiten zu überwachen.\n\nFür weitere Informationen wenden Sie sich an Ihren Administrator.\n\nSie sind auch mit einem VPN verbunden, das Ihre Netzwerkaktivität überwachen kann.</string>
   <string name="monitoring_description_vpn_settings">Öffne VPN-Einstellungen</string>
   <string name="monitoring_description_vpn_settings_separator">" "</string>
   <string name="monitoring_subtitle_ca_certificate">CA-Zertifikate</string>
   <string name="monitoring_subtitle_network_logging">Netzwerk-Protokollierung</string>
   <string name="monitoring_title">Netzwerküberwachung</string>
   <string name="monitoring_title_device_owned">Telefonverwaltung</string>
+  <string name="monitoring_title_profile_owned">Profilüberwachung</string>
   <string name="mount_storage">Ja</string>
+  <string name="mr_button_content_description">Cast-Taste</string>
+  <string name="mr_cast_button_connected">Cast-Taste. Verbunden.</string>
+  <string name="mr_cast_button_connecting">Cast-Taste. Verbinden</string>
+  <string name="mr_cast_button_disconnected">Cast-Taste. Getrennt.</string>
+  <string name="mr_chooser_searching">Gerät finden</string>
+  <string name="mr_chooser_title">Cast nach</string>
+  <string name="mr_controller_album_art">Albumcover</string>
+  <string name="mr_controller_casting_screen">Casting-Bildschirm</string>
+  <string name="mr_controller_close_description">Schließen</string>
+  <string name="mr_controller_collapse_group">Einklappen</string>
+  <string name="mr_controller_disconnect">Trennen</string>
+  <string name="mr_controller_expand_group">Erweitern</string>
+  <string name="mr_controller_no_info_available">Info nicht verfügbar</string>
+  <string name="mr_controller_no_media_selected">Keine Medien gewählt</string>
+  <string name="mr_controller_stop_casting">Casting stoppen</string>
+  <string name="mr_controller_volume_slider">Lautstärkeregler</string>
+  <string name="mr_user_route_category_name">Geräte</string>
+  <string name="nav_bar">Navigationsleiste</string>
+  <string name="nav_bar_default">(Standard)</string>
   <string name="nav_guide_cancel">Ignorieren</string>
   <string name="nav_guide_message">Gesten verwenden, um Soft Buttons ein- oder auszublenden.</string>
   <string name="nav_guide_ok">Konfiguration</string>
@@ -1149,19 +1047,45 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="no_multi_window_app">Keine Apps, die Multi-Window-Modus unterstützen</string>
   <string name="no_notification_tips">Keine Benachrichtigungen</string>
   <string name="no_sim_card">Keine SIM-Karte</string>
+  <string name="no_tiles_add">Keine Kacheln zum Hinzufügen</string>
   <string name="no_weather_description">Wetterinfos erhalten</string>
   <string name="not_support_multi_window">Aktuelle App unterstützt den Multi-Window-Modus nicht</string>
   <string name="notch_status_bar_date_format_12">EEEE, d. MMMM</string>
+  <string name="notification_all_categories">Alle Kategorien</string>
+  <string name="notification_app_settings">Anpassen: %1$s</string>
   <string name="notification_channel_alerts">Warnungen</string>
+  <string name="notification_channel_controls_closed_accessibility">Benachrichtigungskontrollen für %1$s geschlossen</string>
+  <string name="notification_channel_controls_opened_accessibility">Benachrichtigungskontrollen für %1$s geöffnet</string>
+  <string name="notification_channel_disabled">Sie werden diese Benachrichtigungen nicht mehr erhalten</string>
+  <string name="notification_channel_general">Allgemeine Nachrichten</string>
+  <string name="notification_channel_location">Standort</string>
+  <string name="notification_channel_storage">Speicher</string>
+  <string name="notification_channel_switch_accessibility">Benachrichtigungen von diesem Kanal zulassen</string>
+  <string name="notification_channel_tv_pip">Bild-im-Bild</string>
+  <string name="notification_default_channel_desc">Diese App hat keine Benachrichtigungskategorien</string>
+  <string name="notification_done">Fertig</string>
+  <string name="notification_group_collapse_button_text">Zuklappen</string>
+  <string name="notification_header_default_channel">Benachrichtigungen</string>
   <string name="notification_header_title">Benachrichtigungen</string>
   <string name="notification_hidden_by_policy_text">Inhalt durch Vorgaberegel versteckt</string>
   <string name="notification_hidden_text">Inhalt ausgeblendet</string>
+  <string name="notification_info_channel_disabled_text">Sie werden keine %2$s-Benachrichtigungen von %1$s erhalten</string>
+  <string name="notification_info_channel_enabled_text">Sie werden %2$s-Benachrichtigungen von %1$s erhalten</string>
   <string name="notification_low_battery_action_btn">Einschalten</string>
   <string name="notification_low_battery_need_charge">Akku ist leer. Laden Sie Ihr Gerät auf.</string>
   <string name="notification_low_battery_open_save_mode">Akkusparmodus einschalten</string>
   <string name="notification_low_battery_title">Niedriger Akkustatus: %d%%</string>
   <string name="notification_manager">Benachrichtigungen verwalten</string>
   <string name="notification_manager_des">Benachrichtigungen filtern und verwalten</string>
+  <string name="notification_menu_filter_description">Unwichtige Benachrichtigungen</string>
+  <string name="notification_menu_filter_secondary_text">Alle Benachrichtigungen von %s erscheinen in einem separaten Ordner</string>
+  <string name="notification_menu_filter_title">Unwichtig</string>
+  <string name="notification_menu_gear_description">Benachrichtigungskontrollen</string>
+  <string name="notification_menu_remove_from_filter_secondary_text">Alle wichtigen Benachrichtigungen von %s erscheinen direkt in der Statusleiste</string>
+  <string name="notification_menu_remove_from_filter_title">Wichtig</string>
+  <string name="notification_menu_snooze_description">Schlummeroptionen Benachrichtigung</string>
+  <string name="notification_more_settings">Mehr Einstellungen</string>
+  <string name="notification_num_channels">%d Benachrichtigungskategorien</string>
   <string name="notification_otg_gamestick_in">Gamecontroller verbunden</string>
   <string name="notification_otg_gamestick_out">Gamecontroller nicht verbunden</string>
   <string name="notification_otg_keyboard_in">Tastatur verbunden</string>
@@ -1178,6 +1102,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="notification_otg_trackball_out">Trackball nicht verbunden</string>
   <string name="notification_otg_unknow_in">OTG-Gerät verbunden</string>
   <string name="notification_otg_unknow_out">OTG-Gerät nicht verbunden</string>
+  <string name="notification_tap_again">Zum Öffnen erneut tippen</string>
   <string name="notification_template_text">Neue Benachrichtigung. Zum Anschauen antippen.</string>
   <string name="oem_unlock_enable">OEM-Entsperrung</string>
   <string name="oem_unlock_enable_summary">Entsperrung des Bootloaders erlauben</string>
@@ -1185,7 +1110,12 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="oldman_incall_text">Anruf</string>
   <string name="open_camera_hint_text">Zum Öffnen der Kamera nach links wischen.</string>
   <string name="open_remote_center_hint_text">Nach rechts wischen, um Mi Remote zu öffnen.</string>
+  <string name="orb_search_action">Suchaktion</string>
+  <string name="other">Andere</string>
   <string name="overlay_display_devices_title">Sekundärdsplay simulieren</string>
+  <string name="overview">Übersicht</string>
+  <string name="phone_hint">Vom Telefonsymbol her wischen</string>
+  <string name="phone_label">Telefon öffnen</string>
   <string name="phone_locked_foget_password">Passwort vergessen?</string>
   <string name="phone_locked_foget_password_mehod_back">Zurück</string>
   <string name="phone_locked_foget_password_method">Passwort vergessen?</string>
@@ -1198,9 +1128,12 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="phone_locked_string">Telefon ist gesperrt</string>
   <string name="picture_color_mode">Bildfarbenmodus</string>
   <string name="picture_color_mode_desc">Benutze sRGB</string>
+  <string name="pip_close">BIB schließen</string>
+  <string name="pip_fullscreen">Vollbild</string>
   <string name="pip_menu_title">Bild-im-Bild-Menü</string>
   <string name="pip_notification_message">Wenn Sie nicht möchten, dass %s diese Funktion verwendet, öffnen Sie Einstellungen  und deaktivieren Sie sie.</string>
   <string name="pip_notification_title">%s ist im Bild-im-Bild</string>
+  <string name="pip_notification_unknown_title">(Kein Titelprogramm)</string>
   <string name="pip_phone_close">Schließen</string>
   <string name="pip_phone_dismiss_hint">Nach unten ziehen zum Ablehnen</string>
   <string name="pip_phone_expand">Erweitern</string>
@@ -1217,16 +1150,68 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="power_charging_duration_wireless">%1$s - %2$s voll kabellos</string>
   <string name="power_discharging_duration">%1$s - ca. %2$s verstrichen</string>
   <string name="power_discharging_duration_short">%1$s - %2$s verstrichen</string>
+  <string name="power_notification_controls_description">"Mit Power Notification Controls können Sie eine Wichtigkeitsstufe von 0 bis 5 für die Benachrichtigungen einer App festlegen.
+
+"&lt;b&gt;Level 5&lt;/b&gt;"
+- Anzeige am Anfang der Benachrichtigungsliste
+- Vollbildunterbrechung zulassen
+- Immer nachsehen
+
+"&lt;b&gt;Level 4&lt;/b&gt;"
+- Vollbildunterbrechungen verhindern
+- Immer nachsehen
+
+"&lt;b&gt;Level 3&lt;/b&gt;"
+- Vollbildunterbrechungen verhindern
+- Nie nachsehen
+
+"&lt;b&gt;Level 2&lt;/b&gt;"
+- Vollbildunterbrechungen verhindern
+- Nie nachsehen
+- Niemals Töne und Vibration erzeugen
+
+"&lt;b&gt;Level 1&lt;/b&gt;"
+- Vollbildunterbrechungen verhindern
+- Nie nachsehen
+- Niemals Töne und Vibration erzeugen
+- Ausblenden von Sperrbildschirm und Statusleiste
+- Anzeige am Ende der Benachrichtigungsliste
+
+"&lt;b&gt;Level 0&lt;/b&gt;"
+- Alle Benachrichtigungen der App sperren"</string>
   <string name="power_remaining_charging_duration_only">%1$s übrig bis voll geladen</string>
   <string name="power_remaining_duration_only">Ca. %1$s verstrichen</string>
   <string name="power_remaining_duration_only_short">%1$s verstrichen</string>
+  <string name="profile_owned_footer">Profil kann überwacht werden</string>
   <string name="prompt_danger">Gefahr</string>
   <string name="prompt_detecting">Erkennen</string>
   <string name="prompt_failure">Fehler</string>
   <string name="prompt_return_to_split">Geteilter Bildschirm</string>
   <string name="prompt_safe">Sicher</string>
   <string name="prompt_unknown">Ungenau</string>
+  <string name="qs_customize">Langes Drücken in den Schnelleinstellungen zulassen</string>
+  <string name="qs_customize_remove">Entfernen</string>
+  <string name="qs_customize_title">Bearbeiten</string>
+  <string name="qs_dnd_keep">Behalten</string>
+  <string name="qs_dnd_prompt_app">DND wurde von einer App eingeschaltet (%s).</string>
+  <string name="qs_dnd_prompt_auto_rule">DND wurde durch eine automatische Regel eingeschaltet (%s).</string>
+  <string name="qs_dnd_prompt_auto_rule_app">DND wurde durch eine automatische Regel oder App eingeschaltet</string>
+  <string name="qs_dnd_replace">Ersetzen</string>
+  <string name="qs_dnd_until">Bis %s</string>
+  <string name="qs_edit">Bearbeiten</string>
+  <string name="qs_paging">Neue Schnelleinstellungen verwenden</string>
+  <string name="qs_rearrange">Schnelleinstellungen neu ordnen</string>
+  <string name="quick_settings">Schnelleinstellungen</string>
+  <string name="quick_settings_autobrightness_label">Autom. Helligkeit</string>
+  <string name="quick_settings_batterysaver_label">Battery Saver</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Keine Endgeräte vorhanden</string>
+  <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Geräte)</string>
+  <string name="quick_settings_bluetooth_off_label">Bluetooth ist aus</string>
+  <string name="quick_settings_brightness_dialog_title">Helligkeit</string>
+  <string name="quick_settings_brightness_label">Helligkeit</string>
+  <string name="quick_settings_cast_detail_empty_text">Kein Gerät verfügbar</string>
+  <string name="quick_settings_cast_device_default_description">Fertig zum Casten</string>
+  <string name="quick_settings_cast_device_default_name">Unbenanntes Gerät</string>
   <string name="quick_settings_cellular_detail_data_limit">%s Limit</string>
   <string name="quick_settings_cellular_detail_data_usage">Datennutzung</string>
   <string name="quick_settings_cellular_detail_data_used">%s genutzt</string>
@@ -1259,7 +1244,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="quick_settings_dnd_priority_label">Nur Dringendes</string>
   <string name="quick_settings_done">Fertig</string>
   <string name="quick_settings_drivemode_label">Auto-Modus</string>
-  <string name="quick_settings_dual_location_label">Dual GPS</string>  
+  <string name="quick_settings_dual_location_label">Dual GPS</string>
   <string name="quick_settings_edit_label">Bearbeiten</string>
   <string name="quick_settings_flashlight_label">Blitzlicht</string>
   <string name="quick_settings_ime_label">Eingabemethode</string>
@@ -1283,6 +1268,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="quick_settings_rotation_locked_portrait_label">Hochformat</string>
   <string name="quick_settings_rotation_unlocked_label">Automatisch drehen</string>
   <string name="quick_settings_rssi_emergency_only">Nur Notrufe</string>
+  <string name="quick_settings_screenbutton_label">Tasten</string>
   <string name="quick_settings_screenlock_label">Sperrbildschirm</string>
   <string name="quick_settings_settings_label">Einstellungen</string>
   <string name="quick_settings_tiles">Standard</string>
