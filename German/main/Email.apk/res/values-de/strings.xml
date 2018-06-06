@@ -571,6 +571,7 @@
   <string name="login139">CMCC Ein-Klick-Anmeldung</string>
   <string name="login_failed_ticker">Anmeldung in %s erfolglos</string>
   <string name="login_failed_title">Anmeldung nicht möglich</string>
+  <string name="login_mail">E-Mail anmelden</string>
   <string name="login_support_tip_text">Unterstützt alle gängigen E-Mailanbieter</string>
   <string name="long_press_to_select_tip">Berühren &amp; halten, um eine E-Mail zu markieren und dann weitere auszuwählen.</string>
   <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaang</string>
@@ -668,6 +669,7 @@
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Ignorieren</string>
   <string name="navigation_menu">Navigationsmenü</string>
+  <string name="need_get_qq_mail">Brauchen Sie QQ Mail</string>
   <string name="net_check_title">Konnte nicht mit Netzwerk verbinden. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
   <string name="network_error">Keine Verbindung</string>
   <string name="network_invaild">Neztzwerkfehler</string>
@@ -719,6 +721,10 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="open_external_storage_and_calendar_permission">E-Mail den Zugriff auf Speicher- und Kalenderinformationen in den Einstellungen erlauben</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">E-Mail den Zugriff auf Speicher-, Kontakt- und Kalenderinformationen in den Einstellungen erlauben</string>
   <string name="open_external_storage_and_contacts_permission">E-Mail den Zugriff auf Speicherplatz und Kontakte in den Einstellungen erlauben</string>
+  <string name="open_notification_kingagent">Öffnen Sie die Bekanntmachung des Begräbnisortes</string>
+  <string name="optimization_suggestion">Optimierungsvorschlag</string>
+  <string name="others_mail">Andere</string>
+  <string name="others_mail_des">(Mehr als 60.0000 Mails konvertieren)</string>
   <string name="outbox_alert_button_no_resend">Nicht senden</string>
   <string name="outbox_alert_button_resend">Erneut senden</string>
   <string name="outbox_alert_certificate_error">Kontaktieren Sie Ihren E-Mailsystemadministrator und aktualisieren Sie Ihr Zertifikat</string>
@@ -841,6 +847,9 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="push_wps_confirm_message">Versuchen Sie, diesen Anhang mit WPS Office zu öffnen</string>
   <string name="push_wps_confirm_title">WPS Office empfohlen</string>
   <string name="push_wps_no_response_app">Keine App installiert, um diese Aktion auszuführen</string>
+  <string name="qq_authorization_help_get">Helfen Sie mir</string>
+  <string name="qq_authorization_know">Den Autorisierungscode verstehen</string>
+  <string name="qq_authorization_tips">Nicht mehr zeitnah</string>
   <string name="qq_auto_login_failed_cpy_pass_success">Erfolgreich kopiert;  Bitte kehren Sie zur Anmeldeseite zurück und fügen Sie dieses ein, um das Passwortfeld auszufüllen.</string>
   <string name="qq_auto_login_failed_dialog_message">Bitte kopieren Sie den Autorisierungscode, kehren Sie dann zur Anmeldeseite zurück und klicken Sie auf \"Geben Sie Benutzername und Passwort ein, um sich einzuloggen.\"; einfügen, um das Passwortfeld auszufüllen</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Kopieren Sie den Autorisierungscode</string>
@@ -854,6 +863,7 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="qq_login_webview">Zum Anmelden beim QQ-Webclient tippen Sie auf Anmelden mit dem Passwort</string>
   <string name="qq_next_generation_auth_toast">Aktivieren Sie den Passwortschutz in Ihrem Browser.</string>
   <string name="qq_uthentication_failed">Authentifizierung ist fehlgeschlagen. Bitte melden Sie sich erneut an</string>
+  <string name="qq_verify_code">(Benötigt QQ Codeverifizierung)</string>
   <string name="qq_webview_loading">Wird übersprungen, bitte warten…</string>
   <string name="questionnair_body_invisibility">Nachrichten werden nicht angezeigt</string>
   <string name="questionnair_confirm_delete">Konto entfernen?</string>
@@ -964,7 +974,7 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="saved">Gespeichert,  %s</string>
   <string name="saving">Speichern…</string>
   <string name="sdcard_cannot_use">SD-Karte kann nicht verwendet werden</string>
-  <string name="search_bar_text">Nach Nachrichten und Kontakten suchen</string>
+  <string name="search_bar_text">Absender oder Kontakt suchen</string>
   <string name="search_hint">In E-Mails suchen</string>
   <string name="search_result">Ergebnis</string>
   <string name="search_tabs_name_all">Alle</string>
@@ -1061,6 +1071,7 @@ Versuchen Sie es mit einen anderen Posteingang."</string>
   <string name="tap_to_configure">Zum Einrichten antippen</string>
   <string name="tap_to_enable_sync">Zum Aktivieren berühren</string>
   <string name="three_day">Drei Tage</string>
+  <string name="title_activity_about">Über</string>
   <string name="tip_cannot_switchview_in_unread_folder">Im zusammengefassten Ungelesenmodus kann die Ansicht nicht gewechselt werden</string>
   <string name="to">Nach</string>
   <string name="to_heading">"An: "</string>
@@ -1106,7 +1117,7 @@ Konto entfernen?"</string>
   <string name="update_date_format_templete">HH:mm dd.MM.yyyy</string>
   <string name="update_to_wps_mail">Mehr Funktionen mit WPS genießen</string>
   <string name="updated_at">Letzte Aktualisierung: %1$s</string>
-  <string name="upload_log">Protokolldaten hochladen</string>
+  <string name="upload_log">Protokolle übermitteln</string>
   <string name="upload_log_failed">Protokolldaten konnten nicht gesendet werden</string>
   <string name="upload_log_no">Abbrechen</string>
   <string name="upload_log_success">Protokolldaten erfolgreich gesendet</string>
@@ -1116,6 +1127,8 @@ Konto entfernen?"</string>
   <string name="upload_logs_keywords">Protokolldaten hochladen</string>
   <string name="uploading_logs">Einen Moment…</string>
   <string name="validation_failed_prompt">Konto konnte nicht geprüft werden. Prüfen Sie die Servereinstellungen für %s</string>
+  <string name="verify_code">Code verifizieren</string>
+  <string name="version_string">Version: %s</string>
   <string name="via_domain">über %1$s</string>
   <string name="view_more_conversations">Weitere Konversationen ansehen</string>
   <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
@@ -1132,6 +1145,7 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchr
   <string name="widget_other_views">Andere</string>
   <string name="wipe_account_fail_description">Erlauben</string>
   <string name="wipe_account_fail_title">Persönliche Informationen konnten nicht gelöscht werden</string>
+  <string name="wps_title">WPS Mail</string>
   <string name="wrong_password">Das eingegebene Passwort ist falsch</string>
   <string name="yes">Ja</string>
   <string name="yidianzixun">yidianzixun</string>
