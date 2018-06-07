@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="dual_4g_switch_title">Dual 4G</string>
+     <string name="enable_dual_4g_if_dual_ct">Prefer 4G networks for both SIM cards to use VoLTE on the secondary SIM when two China Telecom SIM cards are installed.</string>
+     <string name="enable_vice_volte_if_dual_ct">Turn on VoLTE for the secondary SIM automatically when two China Telecom SIM cards are installed.</string>
+     <string name="voice_service_cannot_call_notification_content">You may face connectivity problems while trying to make calls.</string>
+     <string name="voice_service_cannot_call_notification_title">"Can't make calls in the current network"</string>
+     <string name="voice_service_switch_summary">Turn on to be able to use VoLTE call functionality in VoLTE networks</string>
+     <string name="voice_service_switch_title">Use VoLTE call services</string>
+     <string name="voice_service_warning_dialog_body">"This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn if VoLTE is not supported in your area.
+
+If you see _ in your status bar, VoLTE calls aren't available. If you can't make or receive calls, or your calls are interrupted, make sure your network is compatible with VoLTE.
+
+This tablet doesn't have an earpiece. You can switch to hands-free mode or use earphones to make calls."</string>
+     <string name="voice_service_warning_dialog_cancel">Cancel</string>
+     <string name="voice_service_warning_dialog_ok">Got it</string>
+     <string name="voice_service_warning_dialog_ok_timer">Got it (%d)</string>
+     <string name="voice_service_warning_dialog_title">VoLTE calls</string>
+  
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM Firmen-PIN entsperren</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Firmenentsperrung nicht erfolgreich</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">RUIM Firmenentsperrung anfragen…</string>

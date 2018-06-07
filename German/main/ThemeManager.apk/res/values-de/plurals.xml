@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d images</item>
+        <item quantity="one">%1$s | %2$d image</item>
+     </plurals>
   <plurals name="theme_update_local_resource_notifaction">
     <item quantity="other">Updates für %1$d Themen verfügbar </item>
     <item quantity="one">Update für ein Thema verfügbar </item>

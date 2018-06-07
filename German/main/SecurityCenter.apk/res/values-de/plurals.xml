@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+     </plurals>
+     <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+     </plurals>
+	 
   <plurals name="add_game_notification_title">
     <item quantity="other">%d Spiele hinzugefügt</item>
     <item quantity="one">Ein Spiel hinzugefügt</item>
