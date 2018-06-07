@@ -125,10 +125,12 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_error_has_bought_summary">Sie haben diesen Artikel bereits gekauft.</string>
   <string name="mibi_error_illegal_order_summary">Bestellfehler. Bitte später erneut versuchen.</string>
   <string name="mibi_error_invalid_device">Ungültiges Gerät</string>
+  <string name="mibi_error_mipay_no_installed">Mi Wallet ist nicht auf Ihrem Gerät installiert.</string>
   <string name="mibi_error_mili_summary">Unzureichende Deckung</string>
   <string name="mibi_error_network_summary">Netzwerkverbindung nicht möglich</string>
   <string name="mibi_error_no_available_channels">Sorry, aktuell keine verfügbaren Kanäle</string>
   <string name="mibi_error_pay_result_uncertain">Zahlungsergebnis unklar</string>
+  <string name="mibi_error_privacy_summary">Sie haben die Genehmigung widerrufen</string>
   <string name="mibi_error_recharge_process_fail">Wiederaufladevorgang fehlgeschlagen</string>
   <string name="mibi_error_recharge_result_fail">Ergebnis der Wiederaufladung fehlgeschlagen</string>
   <string name="mibi_error_recharge_result_uncertain">Ergebnis der Wiederaufladung unklar</string>
@@ -166,6 +168,7 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_giftcard_has_unavailable">Abgelaufen</string>
   <string name="mibi_giftcard_has_used">Eingelöst</string>
   <string name="mibi_giftcard_hint">Mi Credits, die per Coupon hinzugefügt wurden, werden automatisch zuerst ausgegeben.</string>
+  <string name="mibi_giftcard_in_available">Verfügbar</string>
   <string name="mibi_giftcard_payment">Coupon</string>
   <string name="mibi_giftcard_payment_with_append">Coupons einlösen</string>
   <string name="mibi_giftcard_push_notification_prime_title">Sie haben einen Coupon erhalten.</string>
@@ -284,6 +287,8 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_prepaid_picker_hint_2_2_b">Wenn der Nennwert der Prepaidkarte nicht &lt;font color=red&gt;￥%1$s&lt;/font&gt; ist, wird die Karte ungültig. Xiaomi ist nicht verantwortlich für finanzielle Verluste, die als Folge von Benutzerfehlern entstehen.</string>
   <string name="mibi_prepaid_picker_title_selected">Betrag</string>
   <string name="mibi_privacy_license_name">Datenschutzerklärung</string>
+  <string name="mibi_privacy_tip_message">Sie können Mi Credits nicht nutzen, nachdem die Genehmigung widerrufen wurde.</string>
+  <string name="mibi_privacy_tip_title">Zuerst die Genehmigung erteilen</string>
   <string name="mibi_process_expired">Wo waren Sie? Diese Operation ist abgelaufen.</string>
   <string name="mibi_progress_creating">Abrufen von Auftragsinformationen…</string>
   <string name="mibi_progress_downloading">Laden…</string>
