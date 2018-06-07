@@ -857,7 +857,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="app_overlay_permission_preference">Berechtigungen zur Appüberlagerung</string>
   <string name="app_permissions">Appberechtigungen</string>
   <string name="app_permissions_group_summary" formatted="false">%d von %d Apps erlaubt</string>
-  <string name="app_permissions_summary" formatted="false">%d von %d Apps wird erweiterter Zugriff erlaubt</string>
+  <string name="app_permissions_summary">%1$s Apps wird erweiterter Zugriff erlaubt</string>
   <string name="app_process_limit_title">Hintergrundprozesslimit</string>
   <string name="app_restrictions_custom_label">Appbeschränkungen festlegen</string>
   <string name="app_sees_restricted_accounts">Diese App darf auf Ihre Konten zugreifen</string>
@@ -1170,7 +1170,7 @@ Zuletzt am %2$s ausgeführt"</string>
   <string name="battery_sugg_display">Bildschirmhelligkeit und/oder Bildschirmtimeout verringern</string>
   <string name="battery_sugg_radio">Flugmodus zum Energiesparen in Gebieten ohne Mobilfunkabdeckung</string>
   <string name="battery_sugg_wifi">WLAN bei Nichtverwendung oder Nichtverfügbarkeit ausschalten</string>
-  <string name="battery_summary">%1$d%% verwendet seit der letzten vollen Ladung</string>
+  <string name="battery_summary">%1$s verwendet seit der letzten vollen Ladung</string>
   <string name="battery_used_by">%1$s genutzt von %2$s</string>
   <string name="battery_used_for">Genutzt für ^1</string>
   <string name="bearer">Eigentümer</string>
@@ -1202,19 +1202,19 @@ Zuletzt am %2$s ausgeführt"</string>
   <string name="bluetooth_advanced_titlebar">Erweitertes Bluetooth</string>
   <string name="bluetooth_ask_disablement">%1$s will Bluetooth ausschalten</string>
   <string name="bluetooth_ask_disablement_no_name">Eine App will Bluetooth ausschalten</string>
-  <string name="bluetooth_ask_discovery">Eine App versucht, Ihr Telefon für %1$d Sek. für andere Bluetoothgeräte sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_discovery">%1$s versucht, Ihr Telefon für %2$d Sek. für andere Bluetoothgeräte sichtbar zu machen. Erlauben?</string>
   <string name="bluetooth_ask_discovery_no_name">Eine App möchte Ihr Telefon für %1$d Sekunden für andere Bluetooth-Geräte sichtbar machen</string>
-  <string name="bluetooth_ask_enablement">Eine App versucht, Bluetooth zu aktivieren</string>
-  <string name="bluetooth_ask_enablement_and_discovery">Eine App versucht, Bluetooth zu aktivieren und Ihr Telefon für %1$d Sek. für andere Telefone sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_enablement">%1$s versucht, Bluetooth zu aktivieren</string>
+  <string name="bluetooth_ask_enablement_and_discovery">%1$s versucht, Bluetooth zu aktivieren und Ihr Telefon für %2$d Sek. für andere Telefone sichtbar zu machen. Erlauben?</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte %1$d Sek. lang sichtbar machen"</string>
   <string name="bluetooth_ask_enablement_and_discovery_no_name">Eine App möchte Bluetooth einschalten und Ihr Telefon für %1$d Sekunden für andere Geräte sichtbar machen</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery">Eine App versucht Bluetooth zu aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s versucht Bluetooth zu aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen. Erlauben?</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte sichtbar machen. Sie können das in den Bluetooth-Einstellungen ändern."</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Eine App möchte Bluetooth einschalten und Ihr Telefon für andere Geräte sichtbar machen. Sie können dies später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s möchte Bluetooth und Bluetoothbroadcasting aktivieren, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_ask_enablement_detected">" möchte Bluetooth aktivieren"</string>
   <string name="bluetooth_ask_enablement_no_name">Eine App möchte Bluetooth einschalten</string>
-  <string name="bluetooth_ask_lasting_discovery">Eine App versucht Ihr Gerät für andere Bluetoothgeräte sichtbar zu machen. Dies kann in den Bluetooth-Einstellungen geändert werden.</string>
+  <string name="bluetooth_ask_lasting_discovery">%1$s versucht Ihr Gerät für andere Bluetoothgeräte sichtbar zu machen. Dies kann in den Bluetooth-Einstellungen geändert werden.</string>
   <string name="bluetooth_ask_lasting_discovery_no_name">Eine App möchte Ihr Telefon für andere Bluetooth-Geräte sichtbar machen. Sie können dies später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_ask_start_broadcast">%1$s möchte Bluetoothbroadcasting aktivieren, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_auto_connect">Automatisch verbinden</string>
@@ -1568,7 +1568,7 @@ Abtastrate"</string>
   <string name="cdma_security_settings_summary">Meinen Standort, Bildschirmsperre, SIM-Kartensperrung und Sperrung des Anmeldeinformationsspeichers festlegen</string>
   <string name="cell_broadcast_settings">Notfallbenachrichtigung</string>
   <string name="cell_broadcast_settings_summary">Wählen Sie die Art der Anzeige für Notfallbenachrichtigung</string>
-  <string name="cell_data_template">%1$s Mobilfunkdaten</string>
+  <string name="cell_data_template">^1 Mobilfunkdaten</string>
   <string name="cell_warning_and_limit">%1$s Datenwarnung / %2$s Datengrenze</string>
   <string name="cell_warning_only">%1$s Datenwarnung</string>
   <string name="cellular_data_summary">Datennutzung über Mobilfunknetz zulassen</string>
@@ -2331,7 +2331,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="enable_service_password_reason">Da sich das Aktivieren von %1$s auf die Datenverschlüsselung auswirkt, müssen Sie Ihr Passwort bestätigen</string>
   <string name="enable_service_pattern_reason">Da sich das Aktivieren von %1$s auf die Datenverschlüsselung auswirkt, müssen Sie Ihr Entsperrmuster bestätigen</string>
   <string name="enable_service_pin_reason">Da sich das Aktivieren von %1$s auf die Datenverschlüsselung auswirkt, müssen Sie Ihren PIN-Code bestätigen</string>
-  <string name="enable_service_title">%1$s nutzen?</string>
+  <string name="enable_service_title">The service will perform these actions:</string>
   <string name="enable_snapshot_screenlock">Halten Sie die Zurücktaste lange gedrückt, um ein Foto zu machen</string>
   <string name="enable_terminal_summary">Aktiviere die Terminalapp, die den lokalen Shellzugang ermöglicht</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
@@ -2456,7 +2456,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="estimated_charging_time_left">Bis vollgeladen</string>
   <string name="estimated_time_description">Schätzung kann sich je nach Nutzung ändern</string>
   <string name="estimated_time_left">Geschätzte Restdauer</string>
-  <string name="ethernet_data_template">%1$s Ethernetdaten</string>
+  <string name="ethernet_data_template">^1 Ethernetdaten</string>
   <string name="ethernet_data_usage">Ethernetdatennutzung</string>
   <string name="every_day">Täglich</string>
   <string name="exchange_account">Konto ändern</string>
@@ -2589,7 +2589,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="firewall_restrict_wlan">Einschränkung über WLAN-Verbindung</string>
   <string name="firewall_set_bg_firewall_default_dialog_summary">Wenn Sie die Hintergrundverbindung einschränken, können sich neue Apps nach der Installation nicht mehr im Hintergrund mit dem Internet verbinden. Möglicherweise können sie danach keine Nachrichten mehr empfangen oder Inhalte herunterladen. Trotzdem einschränken?</string>
   <string name="firewall_set_bg_firewall_default_dialog_title">Hintergrundverbindung für neue Apps einschränken</string>
-  <string name="firewall_temp_rule_reason">2$s eingeschränkte Internetverbindung für %1$s</string>
+  <string name="firewall_temp_rule_reason">%2$s eingeschränkte Internetverbindung für %1$s</string>
   <string name="firewall_wifi_dialog_message">Die installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter ausgeschaltet ist.</string>
   <string name="firmware_version">Androidversion</string>
   <string name="floating_window_switch_label">Popups anzeigen</string>
@@ -2817,7 +2817,7 @@ um die Daten von iOS zu importieren."</string>
   <string name="ignore_optimizations_on">Nicht optimieren</string>
   <string name="ignore_optimizations_on_desc">Ihr Akku wird möglicherweise schneller leer</string>
   <string name="ignore_optimizations_title">%s erlauben, die Optimierung zu ignorieren?</string>
-  <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern</string>
+  <string name="ime_security_warning">%1$s kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern</string>
   <string name="imei_information_summary">Relevante IMEI-Informationen</string>
   <string name="imei_information_title">IMEI-Informationen</string>
   <string name="immediately_destroy_activities">Aktionen nicht speichern</string>
@@ -5797,7 +5797,7 @@ Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string
   <string name="suggestion_additional_fingerprints_summary">Mit einem anderen Finger entsperren</string>
   <string name="suggestion_for_phone_recycled">Hinzufügen einer anderen Telefonnummer</string>
   <string name="suggestion_remove">Entfernen</string>
-  <string name="suggestions_title">Vorschläge (%1$d)</string>
+  <string name="suggestions_title">Vorschläge</string>
   <string name="sum_carrier_select">Netzbetreiber auswählen</string>
   <string name="summary_err_backup_encrypting">Melden Sie sich in Ihrem Mi Konto an</string>
   <string name="summary_err_backup_no_network">Netzwerkverbindung fehlgeschlagen</string>
@@ -6113,7 +6113,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="tts_engine_security_warning">Dieses Sprachsynthesemodul kann in der Lage sein, alle Texte zu sammeln die gesprochen werden, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Es kommt vom %s-Modul. Die Verwendung dieses Sprachsynthesemoduls aktivieren?</string>
   <string name="tts_engine_settings_button">Moduleinstellungen starten</string>
   <string name="tts_engine_settings_section">Moduleinstellungen</string>
-  <string name="tts_engine_settings_title">Einstellungen für %s</string>
+  <string name="tts_engine_settings_title">Einstellungen</string>
   <string name="tts_engines_section">Module</string>
   <string name="tts_general_section_title">Allgemein</string>
   <string name="tts_install_data_summary">Erforderliche Sprachdaten für Sprachsynthese installieren</string>
@@ -6767,7 +6767,7 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="wifi_context_menu_change_wapi_certificate">WAPI-Zertifikate ändern</string>
   <string name="wifi_context_menu_connect">Verbinden</string>
   <string name="wifi_context_menu_forget">Entfernen</string>
-  <string name="wifi_data_template">%1$s WLAN-Daten</string>
+  <string name="wifi_data_template">^1 WLAN-Daten</string>
   <string name="wifi_data_usage">WLAN-Datennutzung</string>
   <string name="wifi_datanetwork_switch_not_remind">Nicht nochmal anzeigen</string>
   <string name="wifi_details_ipv6_address_header">IPv6-Addressen</string>
