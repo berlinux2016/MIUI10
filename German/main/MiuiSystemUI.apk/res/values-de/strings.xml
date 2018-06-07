@@ -546,7 +546,8 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="daltonizer_mode_protanomaly">Protanomalie (Rot-Grün)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (Blau-Gelb)</string>
   <string name="daltonizer_type_overridden">Überschrieben von %1$s</string>
-  <string name="data_saver">Datensaver</string>
+  <string name="data_saver">Datensparer</string>
+  <string name="data_connection_no_internet">Kein Internet</string>
   <string name="data_usage_disabled_dialog">"Sie haben Ihre angegebene Datenverwendungsgrenze erreicht.
   Sie können vom Betreiber aufgeladen werden."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G Daten ausgeschaltet</string>
@@ -1145,6 +1146,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="notification_channel_disabled">Sie werden diese Benachrichtigungen nicht mehr erhalten</string>
   <string name="notification_channel_general">Allgemeine Nachrichten</string>
   <string name="notification_channel_location">Standort</string>
+  <string name="notification_channel_screenbutton">Bildschirmtaste</string>
   <string name="notification_channel_storage">Speicher</string>
   <string name="notification_channel_switch_accessibility">Benachrichtigungen von diesem Kanal zulassen</string>
   <string name="notification_channel_tv_pip">Bild-im-Bild</string>
@@ -1153,7 +1155,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="notification_group_collapse_button_text">Zuklappen</string>
   <string name="notification_header_default_channel">Benachrichtigungen</string>
   <string name="notification_header_title">Benachrichtigungen</string>
-  <string name="notification_hidden_by_policy_text">Inhalt durch Vorgaberegel versteckt</string>
+  <string name="notification_hidden_by_policy_text">Durch die Richtlinie versteckte Inhalte</string>
   <string name="notification_hidden_text">Inhalt ausgeblendet</string>
   <string name="notification_info_channel_disabled_text">Sie werden keine %2$s-Benachrichtigungen von %1$s erhalten</string>
   <string name="notification_info_channel_enabled_text">Sie werden %2$s-Benachrichtigungen von %1$s erhalten</string>
@@ -1343,9 +1345,13 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="quick_settings_nfc_off">NFC ist deaktiviert</string>
   <string name="quick_settings_nfc_on">NFC ist aktiviert</string>
   <string name="quick_settings_night_display_label">Nachtlicht</string>
+  <string name="quick_settings_night_secondary_label_on_at">An bei %s</string>
+  <string name="quick_settings_night_secondary_label_on_at_sunset">An bei Sonnenuntergang</string>
+  <string name="quick_settings_night_secondary_label_until_sunrise">Bis Sonnenaufgang</string>
   <string name="quick_settings_notifications_label">Benachrichtigungen</string>
   <string name="quick_settings_papermode_label">Lesemodus</string>
   <string name="quick_settings_powermode_label">Leistungsmodus</string>
+  <string name="quick_settings_secondary_label_until">Bis %s</string>
   <string name="quick_settings_reset_confirmation_button">Verstecken</string>
   <string name="quick_settings_reset_confirmation_message">Wird beim nächsten Einschalten in den Einstellungen wieder angezeigt</string>
   <string name="quick_settings_reset_confirmation_title">%1$s verstecken?</string>
@@ -1777,9 +1783,9 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="wrong_password">Ungültiges Passwort</string>
    <string name="zen_alarm_warning">Sie werden Ihren nächsten Alarm %1$s nicht hören</string>
   <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Alarm %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
-  <string name="zen_alarms_introduction">Sie werden nicht durch Töne und Vibrationen gestört, außer durch Alarme."</string>
+  <string name="zen_alarms_introduction">Sie werden nicht durch Töne und Vibrationen gestört, außer durch Alarme. Sie hören immer noch alles was Sie spielen möchten, einschließlich Musik, Videos und Spiele.</string>
   <string name="zen_priority_customize_button">Anpassen</string>
-  <string name="zen_priority_introduction">Sie werden nicht durch Töne und Vibrationen gestört, außer durch Alarme, Erinnerungen, Ereignisse und Anrufer, die Sie vorgeben.</string>
+  <string name="zen_priority_introduction">Sie werden nicht durch Töne und Vibrationen gestört, außer durch Alarme, Erinnerungen, Ereignisse und Anrufer, die Sie angeben. Sie hören immer noch alles was Sie spielen möchten, einschließlich Musik, Videos und Spiele.</string>
   <string name="zen_silence_introduction">Dies blockiert ALLE Töne und Vibrationen, einschließlich von Alarmen, Musik, Videos und Spielen.</string>
   <string name="zen_silence_introduction_voice">Dies blockiert ALLE Töne und Vibrationen, einschließlich von Alarmen, Musik, Videos und Spielen. Sie werden immer noch in der Lage sein, zu telefonieren.</string>
 </resources>
