@@ -16,6 +16,8 @@
   <string name="ColrMmi">Rufnummer des Anrufs nicht herausgeben</string>
   <string name="CwMmi">Anklopfen</string>
   <string name="DndMmi">Bitte nicht stören</string>
+  <string name="EmergencyCallWarningSummary">Notrufe erfordern ein Mobilfunknetz</string>
+  <string name="EmergencyCallWarningTitle">WLAN-Anrufe sind aktiv</string>
   <string name="Midnight">Mitternacht</string>
   <string name="NetworkPreferenceSwitchSummary">Zur Verbesserung des Empfangs versuchen Sie, unter Einstellungen &gt; SIM-Verwaltung &gt; SIM-Karteninformationen den bevorzugten Netzwerktyp zu ändern.</string>
   <string name="NetworkPreferenceSwitchTitle">Netzwerk kann nicht erreicht werden</string>
@@ -39,7 +41,6 @@
   <string name="RuacMmi">Ablehnung unerwünschter Anrufe</string>
   <string name="SetupCallDefault">Anruf annehmen?</string>
   <string name="ThreeWCMmi">Dreierkonferenz</string>
-  <string name="VideoView_error_button">OK</string>
   <string name="VideoView_error_text_invalid_progressive_playback">Dieses Video kann nicht auf diesem Gerät gestreamt werden</string>
   <string name="VideoView_error_text_unknown">Dieses Video kann leider nicht wiedergegeben werden</string>
   <string name="VideoView_error_title">Video kann nicht wiedergegeben werden</string>
@@ -59,8 +60,6 @@
  Sie können die Funktion ändern in Einstellungen &gt; Eingabehilfen."</string>
   <string name="accessibility_shortcut_warning_dialog_title">Eingabehilfenverküpfung verwenden?</string>
   <string name="action_bar_home_description">Zur Startseite navigieren</string>
-  <string name="action_bar_home_description_format">%1$s. %2$s</string>
-  <string name="action_bar_home_subtitle_description_format">%1$s, %2$s. %3$s</string>
   <string name="action_bar_up_description">Nach oben navigieren</string>
   <string name="action_menu_overflow_description">Weitere Optionen</string>
   <string name="action_mode_done">Fertig</string>
@@ -74,7 +73,7 @@
   <string name="activitychooserview_choose_application_error">%s konnte nicht gestartet werden</string>
   <string name="adb_active_notification_message">Auswählen, um USB-Debugging auszuschalten</string>
   <string name="adb_active_notification_title">USB-Debugging</string>
-  <string name="adb_debugging_notification_channel_tv">USB Debugging</string>
+  <string name="adb_debugging_notification_channel_tv">USB-Debugging</string>
   <string name="addToDictionary">Zum Wörterbuch hinzufügen</string>
   <string name="add_account_button_label">Konto hinzufügen</string>
   <string name="add_account_label">Konto hinzufügen</string>
@@ -127,10 +126,6 @@
   <string name="audit_safemode_notification">Werksreset ausführen, um dieses Gerät ohne Einschränkungen zu nutzen</string>
   <string name="audit_safemode_notification_details">Berühren, um mehr zu erfahren</string>
   <string name="autofill">Autovervollständigen</string>
-  <string name="autofill_address_name_separator">" "</string>
-  <string name="autofill_address_summary_format">$1$2$3</string>
-  <string name="autofill_address_summary_name_format">$1$2$3</string>
-  <string name="autofill_address_summary_separator">", "</string>
   <string name="autofill_address_type_same_as_re">gleich wie</string>
   <string name="autofill_address_type_use_my_re">verwende mein</string>
   <string name="autofill_area">Gebiet</string>
@@ -148,46 +143,30 @@
   <string name="autofill_email_re">E-Mail</string>
   <string name="autofill_emirate">Emirat</string>
   <string name="autofill_error_cannot_autofill">Autovervollständigung nicht möglich</string>
-  <string name="autofill_expiration_date_re">exp|^/|year|Ablaufdatum|gueltig|gültig|Jahr</string>
-  <string name="autofill_expiration_month_re">expir|exp.*month|exp.*date|gueltig|gültig|Monat|date.*exp</string>
-  <string name="autofill_fax_re">Fax</string>
-  <string name="autofill_first_name_re">first.*name|Initialen|Vorname</string>
   <string name="autofill_island">Insel</string>
-  <string name="autofill_last_name_re">last.*name|Nachname</string>
-  <string name="autofill_middle_initial_re">middle.*initial|m\\.i\\.|mi$</string>
-  <string name="autofill_middle_name_re">middle.*name|zweiter Vorname</string>
   <string name="autofill_name_on_card_contextual_re">Name</string>
-  <string name="autofill_name_on_card_re">card.?holder|name.?on.?card|Besitzer|Karteninhaber</string>
-  <string name="autofill_name_re">^name|full.?name|your.?name|customer.?name|Kundenname</string>
-  <string name="autofill_name_specific_re">^name</string>
   <string name="autofill_parish">Gemeinde</string>
-  <string name="autofill_phone_re">phone|Telefonnummer</string>
   <string name="autofill_picker_accessibility_title">Optionen Autovervollständigung</string>
   <string name="autofill_picker_no_suggestions">Keine Vorschläge Autovervollständigung</string>
   <string name="autofill_postal_code">Postleitzahl</string>
   <string name="autofill_prefecture">Präfektur</string>
   <string name="autofill_province">Provinz</string>
-  <string name="autofill_region_ignored_re">Provinz|Region|Bundesland</string>
   <string name="autofill_save_accessibility_title">Für Autovervollständigung speichern</string>
-  <string name="autofill_save_no">Nein danke</string>
+  <string name="autofill_save_no">Nein, danke</string>
   <string name="autofill_save_title">Unter &lt;b&gt;%1$s&lt;/b&gt; speichern?</string>
   <string name="autofill_save_title_with_2types">%1$s und %2$s unter &lt;b&gt;%3$s&lt;/b&gt; speichern?</string>
   <string name="autofill_save_title_with_3types">%1$s, %2$s, und %3$s unter &lt;b&gt;%4$s&lt;/b&gt; speichern?</string>
   <string name="autofill_save_title_with_type">%1$s unter &lt;b&gt;%2$s&lt;/b&gt; speichern?</string>
   <string name="autofill_save_type_address">Adresse</string>
   <string name="autofill_save_type_credit_card">Kreditkarte</string>
-  <string name="autofill_save_type_email_address">Emailadresse</string>
+  <string name="autofill_save_type_email_address">E-Mailadresse</string>
   <string name="autofill_save_type_password">Passwort</string>
   <string name="autofill_save_type_username">Nutzername</string>
   <string name="autofill_save_yes">Speichern</string>
   <string name="autofill_shipping_designator_re">ship|liefer.*</string>
   <string name="autofill_state">Bundesstaat|Bundesland|Region|Provinz</string>
   <string name="autofill_state_re">Bundesstaat|Bundesland|Region|Provinz</string>
-  <string name="autofill_this_form">AutoFill</string>
-  <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name</string>
-  <string name="autofill_zip_4_re">zip|^-$|post2|codpos2</string>
   <string name="autofill_zip_code">Postleitzahl</string>
-  <string name="autofill_zip_code_re">zip|postal|post code|pcode|^1z$|postleitzahl</string>
   <string name="back_button_label">Zurück</string>
   <string name="badPin">Eingegebene alte PIN ist falsch</string>
   <string name="badPuk">Eingegebene PUK ist falsch</string>
@@ -202,7 +181,6 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="bugreport_option_interactive_title">Interaktiver Bericht</string>
   <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">Fehlerbericht abrufen</string>
-  <string name="byteShort">B</string>
   <string name="cancel">Abbruch</string>
   <string name="candidates_style"><u>Kandidaten</u></string>
   <string name="capability_desc_canCaptureFingerprintGestures">"Kann Gesten einfangen, die ausgeführt werden auf dem "</string>
@@ -229,7 +207,6 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="carrier_app_dialog_not_now">NICHT JETZT</string>
   <string name="carrier_app_notification_text">Berühren, um einzurichten</string>
   <string name="carrier_app_notification_title">Neue SIM-Karte eingelegt</string>
-  <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}{1} nach {2} Sekunden</string>
   <string name="cfTemplateNotForwarded">{0}: Nicht weitergeleitet</string>
   <string name="cfTemplateRegistered">{0}: Nicht weitergeleitet</string>
@@ -243,7 +220,6 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="common_name">Allgemeiner Name:</string>
   <string name="condition_provider_service_binding_label">Bedingungsprovider</string>
   <string name="conference_call">Telefonkonferenz</string>
-  <string name="config_emergency_call_number">112</string>
   <string name="configure_input_methods">Tastatur auswählen</string>
   <string name="contentServiceSync">Synchronisierung</string>
   <string name="contentServiceSyncNotificationTitle">Synchronisierung</string>
@@ -283,7 +259,6 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="date_picker_mode">Kalender</string>
   <string name="date_picker_next_month_button">Nächster Monat</string>
   <string name="date_picker_prev_month_button">Voriger Monat</string>
-  <string name="date_time">%1$s, %2$s</string>
   <string name="date_time_done">Fertig</string>
   <string name="date_time_set">Speichern</string>
   <string name="day">Tag</string>
@@ -329,11 +304,9 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="display_manager_hdmi_display_name">HDMI-Bildschirm</string>
   <string name="display_manager_overlay_display_name">Overlay-Nr. %1$d</string>
   <string name="display_manager_overlay_display_secure_suffix">, sicher</string>
-  <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d dpi</string>
   <string name="dlg_confirm_kill_storage_users_text">Durch Verbinden mit dem USB-Speicher werden einige laufende Apps angehalten. Die Apps sind möglicherweise nicht verfügbar, bis der USB-Speicher entfernt wird.</string>
   <string name="dlg_confirm_kill_storage_users_title">USB-Speicher aktivieren</string>
   <string name="dlg_error_title">USB-Vorgang fehlgeschlagen</string>
-  <string name="dlg_ok">OK</string>
   <string name="done_label">Fertig</string>
   <string name="double_tap_toast">Tipp: Zum Rein- und Rauszoomen 2 mal tippen</string>
   <string name="downtime_condition_line_one">Bis Ihre Ausfallzeit endet</string>
@@ -355,13 +328,9 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="durationSecond">%1$d Sek.</string>
   <string name="durationSeconds">%1$d Sek.</string>
   <string name="editTextMenuTitle">Textaktionen</string>
-  <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-  <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
   <string name="edp_brightness_limited">Helligkeit begrenzt</string>
   <string name="edp_camera_flash_limited">Kamerablitz begrenzt</string>
   <string name="edp_volume_limited">Lautstärke begrenzt</string>
-  <string name="ellipsis">…</string>
-  <string name="ellipsis_two_dots">‥</string>
   <string name="emailTypeCustom">Benutzerdefiniert</string>
   <string name="emailTypeHome">Privat</string>
   <string name="emailTypeMobile">Mobil</string>
@@ -463,7 +432,6 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="fingerprints">Fingerabdrücke:</string>
   <string name="floating_toolbar_close_overflow_description">Überlauf schließen</string>
   <string name="floating_toolbar_open_overflow_description">Weitere Optionen</string>
-  <string name="force_close">OK</string>
   <string name="foreground_service_app_in_background">%1$s verbraucht Akku</string>
   <string name="foreground_service_apps_in_background">%1$d Apps verbrauchen Akku</string>
   <string name="foreground_service_tap_for_details">Antippen für Details über Akku - und Datenverbrauch</string>
@@ -471,7 +439,6 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="forward_intent_to_owner">Sie verwenden diese App außerhalb Ihres Arbeitsprofils</string>
   <string name="forward_intent_to_work">Sie verwenden diese App in Ihrem Arbeitsprofil</string>
   <string name="gadget_host_error_inflating">Widget konnte nicht hinzugefügt werden</string>
-  <string name="gigabyteShort">GB</string>
   <string name="global_action_assist">Assistent</string>
   <string name="global_action_bug_report">Fehlerbericht</string>
   <string name="global_action_choose_profile">Profil</string>
@@ -532,7 +499,6 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="httpErrorFileNotFound">Angeforderte Datei wurde nicht gefunden</string>
   <string name="httpErrorIO">Kommunikation mit dem Server konnte nicht hergestellt werden. Bitte versuchen Sie es später erneut.</string>
   <string name="httpErrorLookup">URL wurde nicht gefunden</string>
-  <string name="httpErrorOk">OK</string>
   <string name="httpErrorProxyAuth">Authentifizierung via Proxyserver fehlgeschlagen</string>
   <string name="httpErrorRedirectLoop">Seite enthält zu viele Serverumleitungen</string>
   <string name="httpErrorTimeout">Zeitüberschreitung bei Serververbindung</string>
@@ -640,7 +606,6 @@ Besuchen Sie <b>google.com/accounts/recovery</b>"</string>
   <string name="kg_reordering_delete_drop_target_text">Entfernen</string>
   <string name="kg_sim_pin_instructions">SIM-PIN eingeben</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt…</string>
-  <string name="kg_text_message_separator">" – "</string>
   <string name="kg_too_many_failed_attempts_countdown">Versuchen Sie es in %1$d Sekunden erneut.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Sie haben Ihr Passwort %d-mal falsch eingegeben.
 Versuchen Sie es in %d Sekunden erneut."</string>
@@ -651,7 +616,6 @@ Versuchen Sie es in %d Sekunden erneut."</string>
   <string name="kg_wrong_password">Falsches Passwort</string>
   <string name="kg_wrong_pattern">Falsches Muster</string>
   <string name="kg_wrong_pin">Falsche PIN</string>
-  <string name="kilobyteShort">KB</string>
   <string name="language_picker_section_all">Alle Sprachen</string>
   <string name="language_picker_section_suggested">Empfohlen</string>
   <string name="language_selection_title">Sprache hinzufügen</string>
@@ -661,7 +625,6 @@ Versuchen Sie es in %d Sekunden erneut."</string>
   <string name="launch_warning_replace">%1$s wird jetzt ausgeführt</string>
   <string name="launch_warning_title">App umgeleitet</string>
   <string name="leave_accessibility_shortcut_on">Verknüpfung verwenden</string>
-  <string name="list_delimeter">", "</string>
   <string name="loading">Wird geladen…</string>
   <string name="locale_search_menu">Suche</string>
     <string name="lock_to_app_description">"Mit der Bildschirmfixierung wird die Anzeige in einer einzelnen Ansicht gesperrt.
@@ -787,7 +750,6 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="mediasize_na_tabloid">Boulevardblatt</string>
   <string name="mediasize_unknown_landscape">Unbekannt – Querformat</string>
   <string name="mediasize_unknown_portrait">Unbekannt – Hochformat</string>
-  <string name="megabyteShort">MB</string>
   <string name="menu_delete_shortcut_label">löschen</string>
   <string name="menu_enter_shortcut_label">Enter</string>
   <string name="menu_space_shortcut_label">Leerzeichen</string>
@@ -839,6 +801,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="notification_channel_foreground_service">Apps verbrauchen Akku</string>
   <string name="notification_channel_hotspot">WLAN-Hotspot-Benachrichtigung</string>
   <string name="notification_channel_mobile_data_alert">Mobile Datenwarnungen</string>
+  <string name="notification_channel_mobile_data_status">Status Mobile Daten</string>
   <string name="notification_channel_network_alert">Warnungen</string>
   <string name="notification_channel_network_alerts">Netzwerkwarnungen</string>
   <string name="notification_channel_network_available">Netzwerk verfügbar</string>
@@ -857,6 +820,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="notification_hidden_text">Inhalt versteckt</string>
   <string name="notification_listener_binding_label">Benachrichtigungs-Listener</string>
   <string name="notification_ranker_binding_label" formatted="false">Benachrichtigungssortierdienst</string>
+  <string name="notification_reply_button_accessibility">Antworten</string>
   <string name="notification_title">Fehler bei Anmeldung für %1$s</string>
   <string name="notification_work_profile_content_description">Arbeitsprofil</string>
   <string name="now_string_shortest">Jetzt</string>
@@ -864,7 +828,6 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="number_picker_increment_button">Erhöhen</string>
   <string name="number_picker_increment_scroll_action">Zum Erhöhen nach oben und zum Verringern nach unten schieben</string>
   <string name="number_picker_increment_scroll_mode">%s berühren und gedrückt halten</string>
-  <string name="ok">OK</string>
   <string name="old_app_action">Zu %1$s zurückkehren</string>
   <string name="old_app_description">Neue App nicht starten</string>
   <string name="older">Älter</string>
@@ -1513,7 +1476,6 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permlab_writeVoicemail">Mailboxnachrichten ändern und entfernen</string>
   <string name="perms_description_app">Zur Verfügung gestellt von %1$s</string>
   <string name="perms_new_perm_prefix">"&lt;font size="12" fgcolor="#ff33b5e5"&gt;Neu: &lt;/font&gt;"</string>
-  <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Zweite Nummer</string>
   <string name="phoneTypeCallback">Rückruf</string>
   <string name="phoneTypeCar">Auto</string>
@@ -1527,7 +1489,6 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="phoneTypeOther">Sonstige</string>
   <string name="phoneTypeOtherFax">Weitere Faxnummer</string>
   <string name="phoneTypeRadio">Funktelefon</string>
-  <string name="phoneTypeTtyTdd">TTY/TDD</string>
   <string name="phoneTypeWork">Geschäftlich</string>
   <string name="phoneTypeWorkMobile">Telefon (geschäftl.)</string>
   <string name="phoneTypeWorkPager">Pager (geschäftl.)</string>
@@ -1556,6 +1517,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="policylab_watchLogin">Versuche zum Entsperren des Displays überwachen</string>
   <string name="policylab_wipeData">Alle Daten löschen</string>
   <string name="policylab_wipeData_secondaryUser">Alle Daten löschen</string>
+  <string name="popup_window_default_title">Popupfenster</string>
   <string name="postalTypeCustom">Benutzerdefiniert</string>
   <string name="postalTypeHome">Privat</string>
   <string name="postalTypeOther">Sonstige</string>
@@ -1764,7 +1726,6 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="status_bar_battery">Akku</string>
   <string name="status_bar_bluetooth">Bluetooth</string>
   <string name="status_bar_cast">Cast</string>
-  <string name="status_bar_cdma_eri">Cdma_Eri</string>
   <string name="status_bar_clock">Uhr</string>
   <string name="status_bar_data_connection">Datenverbindung</string>
   <string name="status_bar_data_saver">Datensparer</string>
@@ -1784,7 +1745,6 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="status_bar_sync_failing">Sync_Fehlgeschlagen</string>
   <string name="status_bar_volume">Lautstärke</string>
   <string name="status_bar_wifi">WLAN</string>
-  <string name="status_bar_zen">zen</string>
   <string name="stk_cc_ss_to_dial">SS-Anfrage wird auf DIAL-Anforderung geändert</string>
   <string name="stk_cc_ss_to_dial_video">SS-Anfrage wird auf Video-DIAL-Anforderung geändert</string>
   <string name="stk_cc_ss_to_ss">SS-Anfrage wird auf neue SS-Anforderung geändert</string>
@@ -1815,7 +1775,6 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="system_error_manufacturer">Es gibt ein internes Problem mit dem Gerät. Kontaktieren Sie Ihren Hersteller für weitere Einzelheiten.</string>
   <string name="system_error_wipe_data">Es gibt ein internes Problem mit Ihrem Gerät. Es kann instabil bleiben, bis Sie eine Werkswiederherstellung durchführen.</string>
   <string name="taking_remote_bugreport_notification_title">Fehlerbericht wird erstellt…</string>
-  <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Zum Einrichten berühren</string>
   <string name="tethered_notification_multi_device_message">%1$s angeschlossene Geräte</string>
   <string name="tethered_notification_no_device_message">Kein angeschlossenes Gerät</string>
@@ -1886,6 +1845,8 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="usb_storage_stop_title">USB-Speicher in Verwendung</string>
   <string name="usb_storage_title">USB-Verbindung</string>
   <string name="usb_supplying_notification_title">Angeschlossenes Gerät wird über USB aufgeladen</string>
+  <string name="usb_unsupported_audio_accessory_message">Angeschlossenes Gerät ist mit diesem Telefon nicht kompatibel. Tippen, um mehr zu erfahren.</string>
+  <string name="usb_unsupported_audio_accessory_title">Analoges Audio-Zubehör erkannt</string>
   <string name="use_a_different_app">Andere App verwenden</string>
   <string name="use_physical_keyboard">Physische Tastatur</string>
   <string name="user_creation_account_exists">%1$s erlauben, einen neuen Benutzer mit %2$s anzulegen?</string>
@@ -1934,7 +1895,6 @@ Möchten Sie die Seite schließen?"</string>
   <string name="webviewchromium_accessibility_date_picker_year">Jahr</string>
   <string name="webviewchromium_accessibility_datetime_picker_date">Datum</string>
   <string name="webviewchromium_accessibility_datetime_picker_time">Uhrzeit</string>
-  <string name="webviewchromium_accessibility_time_picker_ampm">AM/PM</string>
   <string name="webviewchromium_accessibility_time_picker_hour">Stunde</string>
   <string name="webviewchromium_accessibility_time_picker_milli">Milisekunde</string>
   <string name="webviewchromium_accessibility_time_picker_minute">Minute</string>
@@ -1974,11 +1934,6 @@ Möchten Sie die Seite schließen?"</string>
   <string name="webviewchromium_profiler_no_storage_toast">Profilersteller konnte nicht geöffnet werden, weil der Externe Speicher nicht bereit ist</string>
   <string name="webviewchromium_profiler_started_toast">Profilersteller gestartet</string>
   <string name="webviewchromium_profiler_stopped_toast">Profilersteller abgeschlossen. Ergebnisse finden Sie in %1$s.</string>
-  <string name="webviewchromium_time_picker_dialog_am">AM</string>
-  <string name="webviewchromium_time_picker_dialog_hour_minute_separator">:</string>
-  <string name="webviewchromium_time_picker_dialog_minute_second_separator">:</string>
-  <string name="webviewchromium_time_picker_dialog_pm">PM</string>
-  <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="webviewchromium_time_picker_dialog_title">Zeit auswählen</string>
   <string name="webviewchromium_week_picker_dialog_title">Woche auswählen</string>
   <string name="week">Woche</string>
@@ -2008,7 +1963,14 @@ Möchten Sie die Seite schließen?"</string>
   <string name="whichViewApplication">Öffnen mit</string>
   <string name="whichViewApplicationLabel">Öffnen</string>
   <string name="whichViewApplicationNamed">Mit %1$s öffnen</string>
+  <string name="wifi_available_action_all_networks">Alle Netzwerke</string>
+  <string name="wifi_available_action_connect">Verbinden</string>
+  <string name="wifi_available_content_failed_to_connect">Tippen, um alle Netzwerke anzuzeigen</string>
   <string name="wifi_available_sign_in">Im WLAN-Netzwerk anmelden</string>
+  <string name="wifi_available_title">Verbindung zu offenem WLAN-Netzwerk</string>
+  <string name="wifi_available_title_connected">Mit WLAN-Netzwerk verbunden</string>
+  <string name="wifi_available_title_connecting">Mit offenem WLAN-Netzwerk verbinden</string>
+  <string name="wifi_available_title_failed_to_connect">Verbindung zu WLAN-Netzwerk nicht möglich</string>
   <string name="wifi_calling_off_summary">Aus</string>
   <string name="wifi_connect_alert_message">App %1$s möchte sich mit dem WLAN %2$s verbinden</string>
   <string name="wifi_connect_alert_title">Verbindung erlauben?</string>
