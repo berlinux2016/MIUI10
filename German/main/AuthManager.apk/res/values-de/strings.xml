@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ok">OK</string>
-  <string name="permission_group_title_media_related">Multimedia</string>
-  
   <string name="Dashboard_App">Apps</string>
   <string name="Dashboard_HIPS_Disable_Content">MIUI wird Rechteanforderungen von Apps nicht mehr überwachen</string>
   <string name="Dashboard_HIPS_Disable_Title">Berechtigungen</string>
@@ -26,17 +23,13 @@
   <string name="Dashboard_Perm_SU_Disabled">Rootzugriff ist aus</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Rootzugriff ist in der Stable-Version von MIUI nicht verfügbar</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Wenn Sie Drittanbieterapps Rootberechtigung gewähren, könnte das zu Systeminstabiltät, Datenverlust oder zu Hardwarebeschädigung führen.
-
-    Um Rootzugriff zu erhalten, müssen Sie die Entwicklerversion von MIUI installieren.
-  </string>
+Um Rootzugriff zu erhalten, müssen Sie die Entwicklerversion von MIUI installieren.</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI herunterladen</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://miui.eu</string>
   <string name="Dashboard_Perm_SU_Switch">Rootzugriff</string>
   <string name="Generic_Canceling">Abbrechen…</string>
   <string name="Generic_Check">Prüfen</string>
   <string name="Generic_Clean">Säubern</string>
   <string name="Generic_Configuration">Einstellungen</string>
-  <string name="Generic_Copyright">Präsentiert von LBE Privacy Guard</string>
   <string name="Generic_Disable">Ausschalten</string>
   <string name="Generic_Enable">Einschalten</string>
   <string name="Generic_Good">Gut</string>
@@ -57,7 +50,6 @@
   <string name="Generic_TrustedApp">Vertrauenswürdige Apps (%1$d)</string>
   <string name="Generic_Update">Softwareupgrade</string>
   <string name="Generic_UserApp">Heruntergeladene Apps (%d)</string>
-  <string name="Generic_Version">Version %1$s</string>
   <string name="HIPS_Action_Accept">Erlauben</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Erlauben&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Count">Erlauben in %1$d</string>
@@ -193,7 +185,6 @@
   <string name="HIPS_Perm_SendSMS_Data">SMS-Daten %1$s:%2$d</string>
   <string name="HIPS_Perm_SendSMS_Desc">App das Senden von SMS erlauben</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s Apps dürfen SMS senden</string>
-  <string name="HIPS_Perm_SendSMS_Port">Port</string>
   <string name="HIPS_Perm_SendSMS_Recipient">Empfänger</string>
   <string name="HIPS_Perm_SendSMS_SMSC">SMSC-Nummer</string>
   <string name="HIPS_Perm_SendSMS_SMSC_Default">Standard</string>
@@ -233,7 +224,6 @@
   <string name="HIPS_Perm_get_tasks_Desc">Aufgaben lesen</string>
   <string name="HIPS_Perm_install_shortcut">Startbildschirmverknüpfungen</string>
   <string name="HIPS_Perm_install_shortcut_Desc">Verknüpfungen auf dem Startbildschirm anlegen</string>
-  <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">Zugriff auf Nahfeldkommunikation (NFC) erhalten</string>
   <string name="HIPS_Perm_process_outgoing_calls">Telefonzugang</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Anrufe annehmen, überwachen und beenden</string>
@@ -281,7 +271,6 @@
   <string name="Su_Unavailable">Rootzugriff ist in der Stable-Version von MIUI nicht verfügbar. Sie müssen die Entwickler-Version von MIUI installieren, um Rootzugriff zu erhalten.</string>
   <string name="SysOpt_Boost_AutoStart">Autostartberechtigungen</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
-  <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Hintergrund</string>
   <string name="app_name">Berechtigungsverwaltung</string>
   <string name="current_permission_template">%1$s von %2$s</string>
