@@ -16,6 +16,7 @@
   <string name="cancel_setup_and_factory_reset_dialog_ok">Gerät zurücksetzen</string>
   <string name="cancel_setup_and_factory_reset_dialog_title">Setup beenden und Gerät zurücksetzen?</string>
   <string name="cant_add_work_profile">Arbeitsprofil kann nicht hinzugefügt werden</string>
+  <string name="cant_replace_or_remove_work_profile">Arbeitsprofil kann nicht ersetzt oder entfernt werden</string>
   <string name="cant_set_up_device">Gerät kann nicht eingerichtet werden</string>
   <string name="cant_set_up_profile">Profil kann nicht eingerichtet werden</string>
   <string name="change_device_launcher">Gerätelauncher ändern</string>
@@ -50,9 +51,8 @@
   <string name="device_owner_error_general">Konnte Ihr Gerät nicht einrichten, melden Sie sich bei Ihrer IT-Abteilung</string>
   <string name="device_owner_error_hash_mismatch">Konnte die Adminapp wegen eines Checksum-Fehlers nicht nutzen, melden Sie sich bei Ihrer IT-Abteilung</string>
   <string name="device_owner_error_installation_failed">Konnte die Adminapp nicht installieren</string>
-  <string name="device_owner_error_ok">OK</string>
   <string name="device_owner_error_package_invalid">Kann die Adminapp nicht nutzen, es fehlen Teile oder sie ist fehlerhaft. Melden Sie sich bei Ihrer IT-Abteilung.</string>
-  <string name="device_owner_error_package_not_installed">Die Adminapp ist auf Ihrem Gerät nicht installiert</string>
+  <string name="device_owner_error_package_not_installed">Adminapp ist auf Ihrem Gerät nicht installiert</string>
   <string name="device_owner_error_reset">Zurücksetzen</string>
   <string name="device_owner_error_wifi">Konnte nicht ins WLAN wechseln</string>
   <string name="device_owner_exists">Arbeitsprofile können nicht auf einem verwalteten Gerät eingerichtet werden</string>
@@ -88,13 +88,11 @@
   <string name="maximum_user_limit_reached">Arbeitsprofil kann nicht erstellt werden, da Sie die maximale Anzahl von Benutzern auf Ihrem Gerät erreicht haben. Entfernen Sie mindestens einen Benutzer und versuchen Sie es erneut.</string>
   <string name="mdm_icon_label">%1$s Symbol</string>
   <string name="next">Weiter</string>
-  <string name="ok_setup">OK</string>
   <string name="one_place_for_work_apps">Ein Ort für Arbeitsapps</string>
   <string name="opening_paragraph_delete_profile">Sie haben bereits ein Arbeitsprofil und es wird verwaltet von folgender App:</string>
   <string name="opening_paragraph_delete_profile_known_company">Dieses Arbeitsprofil wird für %s verwaltet:</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Ein Arbeitsprofil existiert bereits und wird verwaltet von:</string>
   <string name="organization_admin">Admin des Unternehmens</string>
-  <string name="pick_launcher">OK</string>
   <string name="preprovisioning_error_encryption_not_supported">Ihr Gerät unterstützt kein Verschlüsselung. Kontaktieren Sie Ihre IT-Abteilung.</string>
   <string name="profile_owner_cancel_cancel">Nein</string>
   <string name="profile_owner_cancel_message">Sind Sie sicher, dass Sie die Einrichtung abbrechen möchten?</string>
@@ -103,9 +101,9 @@
   <string name="profile_owner_cancelling">Wird abgebrochen…</string>
   <string name="profile_benefits_description">Mit Hilfe eines Arbeitsprofils können Sie Arbeitsdaten von persönlichen Daten trennen</string>
   <string name="profile_owner_info">Sie sind dabei, ein Arbeitsprofil zu erstellen, das von Ihrer Organisation verwaltet und überwacht wird. Es gelten die Bedingungen.</string>
-  <string name="profile_owner_info_comp">Es wird ein Profil für Ihre Arbeitsapps erstellt. Dieses Profil und der Rest Ihres Geräts wird von Ihrer Organisation verwaltet und überwacht. Es gelten die Bedingungen.</string>
+  <string name="profile_owner_info_comp">Profil für Ihre Arbeitsapps wird erstellt. Dieses Profil und der Rest Ihres Geräts wird von Ihrer Organisation verwaltet und überwacht. Es gelten die Bedingungen.</string>
   <string name="profile_owner_info_with_terms_headers">Sie sind dabei, ein Arbeitsprofil zu erstellen, das von Ihrer Organisation verwaltet und überwacht wird. Es gelten die Bedingungen von %1$s.</string>
-  <string name="profile_owner_info_with_terms_headers_comp">Es wird ein Profil für Ihre Arbeitsapps erstellt. Dieses Profil und der Rest Ihres Geräts wird von Ihrer Organisation verwaltet und überwacht. Es gelten die Bedingungen von %1$s.</string>
+  <string name="profile_owner_info_with_terms_headers_comp">Profil für Ihre Arbeitsapps wird erstellt. Dieses Profil und der Rest Ihres Geräts wird von Ihrer Organisation verwaltet und überwacht. Es gelten die Bedingungen von %1$s.</string>
   <string name="progress_connect_to_wifi">Mit WLAN verbinden…</string>
   <string name="progress_data_process">Verarbeite die Einstellungsdaten…</string>
   <string name="progress_delete_non_required_apps">Entfernen nicht benötigter Systemapps…</string>
@@ -142,7 +140,7 @@
   <string name="suw_more_button_label">Mehr</string>
   <string name="suw_next_button_label">Weiter</string>
   <string name="terms">Bedingungen</string>
-  <string name="the_following_is_your_mdm">Die folgende App benötigt den Zugriff auf dieses Profil:</string>
+  <string name="the_following_is_your_mdm">Folgende App benötigt den Zugriff auf dieses Profil:</string>
   <string name="the_following_is_your_mdm_for_device">Diese App organisiert Ihr Gerät:</string>
   <string name="theft_protection_disabled_warning">Um die Diebstahlschutzfunktionen zu verwenden, müssen Sie eine passwortgeschützte Bildschirmsperre für Ihr Gerät haben</string>
   <string name="this_will_reset_take_back_first_screen">Dadurch wird Ihr Gerät zurückgesetzt und Sie gelangen zurück zum ersten Bildschirm.</string>
@@ -156,10 +154,10 @@
   <string name="user_setup_incomplete">Nutzer-Setup unvollständig</string>
   <string name="view_terms">Bedingungen anzeigen</string>
   <string name="work_profile_info">Info Arbeitsprofil</string>
+  <string name="work_profile_cant_be_added_contact_admin">Arbeitsprofil kann diesem Gerät nicht hinzugefügt werden. Wenn Sie Fragen haben, wenden Sie sich an Ihren Admin.</string>
   <string name="work_profile_setup_continue">Fortsetzen</string>
   <string name="work_profile_setup_later_message">Sie können Ihr Arbeitsprofil später mit der von Ihrem Unternehmen verwendeten Geräteverwaltungsapp einrichten</string>
   <string name="work_profile_setup_later_title">Profileinrichtung stoppen?</string>
-  <string name="work_profile_setup_stop">Stop</string>
   <string name="your_org_app_used">%1$s verwaltet und überwacht dieses Gerät mit folgender App:</string>
   <string name="your_organization_beginning">Ihr Unternehmen</string>
   <string name="your_organization_middle">Ihr Unternehmen</string>
