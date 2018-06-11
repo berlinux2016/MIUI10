@@ -59,8 +59,8 @@
   <string name="accessibility_compatibility_zoom_example">Kleiner zoomen, um Bildschirm zu vergrößern</string>
   <string name="accessibility_data_four_bars">Daten 4 Balken</string>
   <string name="accessibility_data_one_bar">Daten 1 Balken</string>
-  <string name="accessibility_data_saver_off">Datensaver ist aus</string>
-  <string name="accessibility_data_saver_on">Datensaver ist an</string>
+  <string name="accessibility_data_saver_off">Datensparmodus ist aus</string>
+  <string name="accessibility_data_saver_on">Datensparmodus ist an</string>
   <string name="accessibility_data_signal_full">Voller Datenempfang</string>
   <string name="accessibility_data_three_bars">Daten 3 Balken</string>
   <string name="accessibility_data_two_bars">Daten 2 Balken</string>
@@ -152,8 +152,8 @@
   <string name="accessibility_quick_settings_collapse">Schnelleinstellungen schließen</string>
   <string name="accessibility_quick_settings_color_inversion_changed_off">Farbumkehr ausgeschaltet</string>
   <string name="accessibility_quick_settings_color_inversion_changed_on">Farbumkehr eingeschaltet</string>
-  <string name="accessibility_quick_settings_data_saver_changed_off">Datensaver ausgeschaltet</string>
-  <string name="accessibility_quick_settings_data_saver_changed_on">Datensaver eingeschaltet</string>
+  <string name="accessibility_quick_settings_data_saver_changed_off">Datensparmodus ausgeschaltet</string>
+  <string name="accessibility_quick_settings_data_saver_changed_on">Datensparmodus eingeschaltet</string>
   <string name="accessibility_quick_settings_detail">Schnelleinstellungen, %s</string>
   <string name="accessibility_quick_settings_dnd">Nicht stören</string>
   <string name="accessibility_quick_settings_dnd_alarms_on">Nicht stören an, nur Alarm</string>
@@ -277,9 +277,9 @@
   <string name="available_via_passpoint">Verfügbar über %1$s</string>
   <string name="back">Zurück</string>
   <string name="battery">Akku</string>
-  <string name="battery_detail_charging_summary">Battery Saver nicht verfügbar beim Laden</string>
+  <string name="battery_detail_charging_summary">Energiesparmodus nicht verfügbar beim Laden</string>
   <string name="battery_detail_switch_summary">Reduziert die Leistung und Hintergrunddaten</string>
-  <string name="battery_detail_switch_title">Battery Saver</string>
+  <string name="battery_detail_switch_title">Energiesparmodus</string>
   <string name="battery_info_status_charging">Aufladen</string>
   <string name="battery_info_status_charging_ac">Aufladen über Ladegerät</string>
   <string name="battery_info_status_charging_ac_short">Aufladen</string>
@@ -293,17 +293,17 @@
   <string name="battery_info_status_not_charging">Nicht aufladen</string>
   <string name="battery_info_status_unknown">Unbekannt</string>
   <string name="battery_low_percent_format">%d%% verbleibend.</string>
-  <string name="battery_low_percent_format_saver_started">%s übrig. Battery Saver ist an.</string>
+  <string name="battery_low_percent_format_saver_started">%s übrig, Energiesparmodus ist an.</string>
   <string name="battery_low_title">Ladegerät anschließen</string>
   <string name="battery_low_why">Einstellungen</string>
   <string name="battery_panel_title">Akkuverbrauch</string>
   <string name="battery_profiles">Verwende Energieprofil</string>
   <string name="battery_saver_confirmation_ok">Einschalten</string>
-  <string name="battery_saver_confirmation_title">Battery Saver einschalten?</string>
-  <string name="battery_saver_notification_action_text">Battery Saver auschalten</string>
+  <string name="battery_saver_confirmation_title">Energiesparmodus einschalten?</string>
+  <string name="battery_saver_notification_action_text">Energiesparmodus auschalten</string>
   <string name="battery_saver_notification_text">Reduziert die Leistung und Hintergrunddaten</string>
-  <string name="battery_saver_notification_title">Battery Saver ist an</string>
-  <string name="battery_saver_start_action">Battery Saver einschalten</string>
+  <string name="battery_saver_notification_title">Energiesparmodus ist an</string>
+  <string name="battery_saver_start_action">Energiesparmodus einschalten</string>
   <string name="block">Alle Benachrichtigungen blockieren</string>
   <string name="block_notification_content_text">Benachrichtigungen von %1$s werden nicht mehr angezeigt. Sie können dies in den Einstellungen ändern.</string>
   <string name="block_notification_desc">Benachrichtigungen der App werden nicht mehr angezeigt. Dies können Sie in den Einstellungen ändern.</string>
@@ -459,7 +459,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="daltonizer_mode_protanomaly">Protanomalie (Rot-Grün)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (Blau-Gelb)</string>
   <string name="daltonizer_type_overridden">Überschrieben von %1$s</string>
-  <string name="data_saver">Datensparer</string>
+  <string name="data_saver">Datensparmodus</string>
   <string name="data_connection_no_internet">Kein Internet</string>
   <string name="data_usage_disabled_dialog">"Sie haben Ihre angegebene Datenverwendungsgrenze erreicht.
   Sie können vom Betreiber aufgeladen werden."</string>
@@ -724,7 +724,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="input_pin_code">PIN eingeben</string>
   <string name="input_puk_code">PUK eingeben</string>
   <string name="install_other_apps">Installieren unbekannter Apps</string>
-  <string name="installer_cd_button_title">Android File Transfer App für Mac installieren</string>
+  <string name="installer_cd_button_title">Android Dateiübertragungsapp für Mac installieren</string>
   <string name="instant_apps">Instant Apps</string>
   <string name="instant_apps_message">Instant Apps werden nicht installiert</string>
   <string name="interruption_level_alarms">Nur Alarme</string>
@@ -968,7 +968,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="mdb_usb_disconnection_exit">USB nicht verbunden</string>
   <string name="media_category">Medien</string>
   <string name="media_projection_action_text">Jetzt beginnen</string>
-  <string name="media_projection_dialog_text">%s wird alles aufnehmen, was auf Ihrem Bildschirm zusehen ist. </string>
+  <string name="media_projection_dialog_text">%s wird alles aufnehmen, was auf Ihrem Bildschirm zusehen ist.</string>
   <string name="media_projection_remember_text">Nicht nochmal anzeigen</string>
   <string name="memory_clear_result_giga">%1$sGB gelöscht</string>
   <string name="memory_clear_result_mega">%1$sMB gelöscht</string>
@@ -1205,7 +1205,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="qs_rearrange">Schnelleinstellungen neu ordnen</string>
   <string name="quick_settings">Schnelleinstellungen</string>
   <string name="quick_settings_autobrightness_label">Automatische Helligkeit</string>
-  <string name="quick_settings_batterysaver_label">Battery Saver</string>
+  <string name="quick_settings_batterysaver_label">Energiesparmodus</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Keine Endgeräte vorhanden</string>
   <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Geräte)</string>
   <string name="quick_settings_bluetooth_off_label">Bluetooth ist aus</string>
@@ -1674,7 +1674,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="weather_publish_time">Aktualisiert um %1$s</string>
   <string name="wifi_aggressive_handover">Wenn diese Option aktiviert ist, wird die Verbindung auf mobile Daten umgeschaltet, wenn das WLAN-Signal schwach ist.</string>
   <string name="wifi_aggressive_handover_summary">Wenn aktiviert, übergibt WLAN mit niedrigem Signal aggressiver an mobile Datenverbindung</string>
-  <string name="wifi_allow_scan_with_traffic">WLAN-Scans immer erlauben </string>
+  <string name="wifi_allow_scan_with_traffic">WLAN-Scans immer erlauben</string>
   <string name="wifi_allow_scan_with_traffic_summary">Wi-Fi Roam Scans erlauben/verbieten, die auf der Menge des Datenverkehrs an der Schnittstelle basieren</string>
   <string name="wifi_connected_no_internet">Verbunden, kein Internet</string>
   <string name="wifi_disabled_by_recommendation_provider">Nicht verbunden wegen schlechter Netzwerkqualität</string>
