@@ -1,55 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Dashboard_App">Apps</string>
-  <string name="Dashboard_HIPS_Disable_Content">MIUI wird Rechteanforderungen von Apps nicht mehr überwachen</string>
-  <string name="Dashboard_HIPS_Disable_Title">Berechtigungen</string>
-  <string name="Dashboard_Log">Protokolldaten</string>
-  <string name="Dashboard_Log_Clear_Content">Alle Protokolldaten werden gelöscht</string>
-  <string name="Dashboard_Log_Clear_Title">Protokolldaten löschen</string>
-  <string name="Dashboard_Perm">Berechtigungen</string>
-  <string name="Dashboard_Perm_AutoStart">Autostartberechtigungen</string>
-  <string name="Dashboard_Perm_AutoStart_Desc">Steuern Sie, welche Apps beim Hochfahren des Geräts automatisch starten dürfen</string>
-  <string name="Dashboard_Perm_HIPS">Berechtigung verwalten</string>
-  <string name="Dashboard_Perm_HIPS_Desc">Überwache %1$d Apps</string>
-  <string name="Dashboard_Perm_HIPS_Desc2">Überwache %1$d Apps</string>
-  <string name="Dashboard_Perm_HIPS_Disabled">Überwachung ist aus</string>
-  <string name="Dashboard_Perm_HIPS_Risky">Riskante Berechtigungen (%1$d)</string>
-  <string name="Dashboard_Perm_HIPS_Safe">Normale Berechtigungen (%1$d)</string>
-  <string name="Dashboard_Perm_HIPS_Switch">Berechtigungen</string>
-  <string name="Dashboard_Perm_Header">Überwache %1$d Apps</string>
-  <string name="Dashboard_Perm_Header_Disabled">Überwachung deaktiviert</string>
-  <string name="Dashboard_Perm_SU">Rootzugriff verwalten</string>
-  <string name="Dashboard_Perm_SU_Desc">Überwachung von %1$d Apps mit Rootzugriff</string>
-  <string name="Dashboard_Perm_SU_Disabled">Rootzugriff ist aus</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable">Rootzugriff ist in der Stable-Version von MIUI nicht verfügbar</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Wenn Sie Drittanbieterapps Rootberechtigung gewähren, könnte das zu Systeminstabiltät, Datenverlust oder zu Hardwarebeschädigung führen.
-Um Rootzugriff zu erhalten, müssen Sie die Entwicklerversion von MIUI installieren.</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI herunterladen</string>
-  <string name="Dashboard_Perm_SU_Switch">Rootzugriff</string>
-  <string name="Generic_Canceling">Abbrechen…</string>
-  <string name="Generic_Check">Prüfen</string>
-  <string name="Generic_Clean">Säubern</string>
-  <string name="Generic_Configuration">Einstellungen</string>
-  <string name="Generic_Disable">Ausschalten</string>
-  <string name="Generic_Enable">Einschalten</string>
-  <string name="Generic_Good">Gut</string>
-  <string name="Generic_HideSystemApp">Systemapps verbergen</string>
-  <string name="Generic_InvalidInput">Ungültige Eingabe</string>
-  <string name="Generic_Loading">Laden…</string>
-  <string name="Generic_MonitoredApp">Überwachte Apps (%1$d)</string>
-  <string name="Generic_Operating">In Bearbeitung…</string>
-  <string name="Generic_Optimize">Optimieren</string>
-  <string name="Generic_Service_Disabled">Aus</string>
-  <string name="Generic_Service_Enabled">An</string>
-  <string name="Generic_Shortcut">Kontextmenü</string>
-  <string name="Generic_ShowSystemApp">Systemapps anzeigen</string>
-  <string name="Generic_Summary_Disabled">Aus</string>
-  <string name="Generic_Summary_Enabled">An</string>
-  <string name="Generic_SystemApp">Systemapps (%d)</string>
-  <string name="Generic_SystemApp_Label">Systemapp</string>
-  <string name="Generic_TrustedApp">Vertrauenswürdige Apps (%1$d)</string>
-  <string name="Generic_Update">Softwareupgrade</string>
-  <string name="Generic_UserApp">Heruntergeladene Apps (%d)</string>
   <string name="HIPS_Action_Accept">Erlauben</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Erlauben&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Count">Erlauben in %1$d</string>
