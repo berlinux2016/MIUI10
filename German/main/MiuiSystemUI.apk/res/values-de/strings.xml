@@ -31,7 +31,7 @@
   <string name="accessibility_action_divider_top_70">Oben 70%</string>
   <string name="accessibility_action_divider_top_full">Vollbildschirm oben</string>
   <string name="accessibility_airplane_mode">Flugmodus.</string>
-    <string name="accessibility_ambient_display_charging">Akku wird geladen…</string>
+  <string name="accessibility_ambient_display_charging">Akku wird geladen…</string>
   <string name="accessibility_assistant">Schnellzugriff</string>
   <string name="accessibility_back">Zurück</string>
   <string name="accessibility_battery_details">Akkudetails öffnen</string>
@@ -80,7 +80,7 @@
   <string name="accessibility_desc_off">Aus</string>
   <string name="accessibility_desc_on">An</string>
   <string name="accessibility_desc_quick_settings">Schnelle Einstellungen</string>
-  <string name="accessibility_desc_quick_settings_edit">Schnelleinstellungseditor</string>
+  <string name="accessibility_desc_quick_settings_edit">Schnelleinstellungen bearbeiten</string>
   <string name="accessibility_desc_recent_apps">Geöffnete Apps</string>
   <string name="accessibility_desc_reconfirm_block">Jetzt verbergen?</string>
   <string name="accessibility_desc_select_block_notification">Benachrichtigungen zum Verbergen auswählen</string>
@@ -190,8 +190,8 @@
   <string name="accessibility_quick_settings_wifi_changed_on">WLAN eingeschaltet</string>
   <string name="accessibility_quick_settings_work_mode_changed_off">Arbeitsmodus ausgeschaltet</string>
   <string name="accessibility_quick_settings_work_mode_changed_on">Arbeitsmodus eingeschaltet</string>
-  <string name="accessibility_quick_settings_work_mode_off">Arbeitsmodus off</string>
-  <string name="accessibility_quick_settings_work_mode_on">Arbeitsmodus on</string>
+  <string name="accessibility_quick_settings_work_mode_off">Arbeitsmodus ausgeschaltet</string>
+  <string name="accessibility_quick_settings_work_mode_on">Arbeitsmodus eingeschaltet</string>
   <string name="accessibility_recent">Letzte Apps</string>
   <string name="accessibility_recent_task_enter">Kürzlich geöffnete, verfügbare Apps: %d</string>
   <string name="accessibility_recent_task_exit">Kürzlich geschlossen</string>
@@ -557,10 +557,10 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="exit_special_mode_message">Nach dem Neustart der App wird der App-Anzeigebereich wieder in den Standardmodus zurückgesetzt</string>
   <string name="exit_special_mode_title">Starten Sie die App neu und stellen Sie den Anzeigebereich wieder her</string>
   <string name="expanded_confirm_disable_notification">Verbergen</string>
-  <string name="expanded_header_battery_charged">Geladen</string>
-  <string name="expanded_header_battery_charging">Laden</string>
-  <string name="expanded_header_battery_charging_with_time">%s bis voll</string>
-  <string name="expanded_header_battery_not_charging">Nicht aufladend</string>
+  <string name="expanded_header_battery_charged">Akku ist aufgeladen</string>
+  <string name="expanded_header_battery_charging">Akku wird geladen, tippen für Details</string>
+  <string name="expanded_header_battery_charging_with_time">%s bis voll aufgeladen</string>
+  <string name="expanded_header_battery_not_charging">Akku wird nicht geladen</string>
   <string name="expanded_notification_manager">Benachrichtigung verwalten</string>
   <string name="experimental">Experimentell</string>
   <string name="ext_media_badremoval_notification_message">USB-Speicher vor dem Entfernen abmelden, um Datenverlust zu vermeiden.</string>
@@ -736,7 +736,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="interruption_level_priority_twoline">"Nur Dringendes"</string>
   <string name="invalid_charger">Aufladen über USB wird nicht unterstützt.\nBitte Ladegerät benutzen.</string>
   <string name="invalid_charger_text">Nur das mitgelieferte Ladegerät verwenden</string>
-  <string name="invalid_charger_title">USB-Laden nicht unterstützt</string>
+  <string name="invalid_charger_title">USB-Aufladen nicht unterstützt</string>
   <string name="invalid_confirm_pin_hint">PIN-Codes stimmen nicht überein</string>
   <string name="invalid_sim_pin_hint">Geben Sie eine PIN mit 4 bis 8 Ziffern ein</string>
   <string name="invalid_sim_puk_hint">PUK-Code sollte aus 8 Ziffern oder mehr bestehen</string>
@@ -784,7 +784,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="keyguard_accessibility_sim_pin_area">SIM PIN Zone</string>
   <string name="keyguard_accessibility_sim_puk_area">SIM PUK Zone</string>
   <string name="keyguard_carrier_default">Kein Netz</string>
-  <string name="keyguard_charged">Geladen</string>
+  <string name="keyguard_charged">Aufgeladen</string>
   <string name="keyguard_charging_info_battery_used_time_text">Akkubetrieb</string>
   <string name="keyguard_charging_info_click_to_detail">Details anzeigen</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Entladen</string>
@@ -795,12 +795,12 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="keyguard_charging_info_tip_text1">Entladen Sie Ihren Akku nicht unter 10%, das verlängert seine Lebensdauer</string>
   <string name="keyguard_charging_info_tip_text2">Überladen Sie Ihr Telefon nicht. Mehrere kürzere Ladungen sind besser als eine Übernachtladung.</string>
   <string name="keyguard_charging_info_tip_text3">Laden Sie Ihr Telefon nicht auf, wenn die Umgebungstemperatur niedriger als 0 ℃ ist.</string>
-  <string name="keyguard_charging_info_tip_text4">Verwenden Sie Ihr Telefon nicht beim Laden, um eine Überhitzung zu vermeiden</string>
+  <string name="keyguard_charging_info_tip_text4">Verwenden Sie Ihr Telefon nicht beim Aufladen, um eine Überhitzung zu vermeiden</string>
   <string name="keyguard_charging_info_tip_text5">Der Akku wird länger geladen, wenn seine Temperatur höher ist als üblich</string>
   <string name="keyguard_charging_info_tip_text6">Schalten Sie den Bildschirm aus und legen Sie Ihr Telefon ab, um es zu kühlen.</string>
-  <string name="keyguard_indication_charging_time">Laden (%s bis voll)</string>
-  <string name="keyguard_indication_charging_time_fast">Schnellladen (%s bis voll)</string>
-  <string name="keyguard_indication_charging_time_slowly">Aufladen (%s bis voll)</string>
+  <string name="keyguard_indication_charging_time">Aufladen… (%s bis voll)</string>
+  <string name="keyguard_indication_charging_time_fast">Schnellladen… (%s bis voll)</string>
+  <string name="keyguard_indication_charging_time_slowly">Langsames Aufladen… (%s bis voll)</string>
   <string name="keyguard_indication_trust_disabled">Gerät bleibt gesperrt, bis Sie es manuell entsperren</string>
   <string name="keyguard_instructions_when_pattern_disabled">Zum Entsperren auf Menü drücken</string>
   <string name="keyguard_left_bankcard">Rechner</string>
@@ -824,10 +824,10 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="keyguard_password_wrong_pin_code">Falscher PIN-Code</string>
   <string name="keyguard_permanent_disabled_sim_instructions">Ihre SIM-Karte wurde dauerhaft deaktiviert.\nKontaktieren Sie Ihren Netzbetreiber für eine neue SIM-Karte.</string>
   <string name="keyguard_permanent_disabled_sim_message_short">Unbrauchbare SIM-Karte</string>
-  <string name="keyguard_plugged_in">Laden</string>
-  <string name="keyguard_plugged_in_charging_fast">Akku wird schnell geladen…</string>
-  <string name="keyguard_plugged_in_charging_slowly">Langsam laden</string>
-  <string name="keyguard_quick_charging_info_click_to_detail">Schnellladen, klicken Sie für Details</string>
+  <string name="keyguard_plugged_in">Akku wird aufgeladen…</string>
+  <string name="keyguard_plugged_in_charging_fast">Akku wird schnell aufgeladen…</string>
+  <string name="keyguard_plugged_in_charging_slowly">Akku wird langsam aufgeladen…</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Schnellladen, tippen für Details</string>
   <string name="keyguard_sim_locked_message">SIM-Karte ist gesperrt</string>
   <string name="keyguard_sim_puk_locked_message">SIM-Karte ist PUK-gesperrt</string>
   <string name="keyguard_sim_unlock_progress_dialog_message">Entsperre SIM-Karte…</string>
@@ -938,7 +938,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="lockscreen_access_pattern_detected">Muster vollständig</string>
   <string name="lockscreen_access_pattern_start">Muster gestartet</string>
   <string name="lockscreen_carrier_default">Kein Dienst</string>
-  <string name="lockscreen_charging_msg">Aufladen</string>
+  <string name="lockscreen_charging_msg">Akku wir geladen, tippen für Details</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie hatten %d Fehlversuche beim Entsperren des Telefons. Nach %d weiteren Fehlversuchen wird das Telefon auf die Werkseinstellungen zurückgesetzt. Dabei gehen alle Daten verloren.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Sie haben das Passwort %d mal falsch eingegeben. Nach %d weiteren Fehlversuchen werden Sie aufgefordert, das Telefon mit Ihrem Mi Konto zu entsperren. In  %d Sekunden erneut versuchen.</string>
   <string name="lockscreen_failed_attempts_now_wiping">Sie hatten %d Fehlversuche beim Entsperren des Telefons. Telefon wird auf die Werkseinstellungen zurückgesetzt.</string>
@@ -1181,7 +1181,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
 
 "&lt;b&gt;Level 0&lt;/b&gt;"
 - Alle Benachrichtigungen der App sperren"</string>
-  <string name="power_remaining_charging_duration_only">%1$s übrig bis voll geladen</string>
+  <string name="power_remaining_charging_duration_only">%1$s übrig bis voll aufgeladen</string>
   <string name="power_remaining_duration_only">Ca. %1$s verstrichen</string>
   <string name="power_remaining_duration_only_short">%1$s verstrichen</string>
   <string name="profile_owned_footer">Profil kann überwacht werden</string>
@@ -1204,7 +1204,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="qs_paging">Neue Schnelleinstellungen verwenden</string>
   <string name="qs_rearrange">Schnelleinstellungen neu ordnen</string>
   <string name="quick_settings">Schnelleinstellungen</string>
-  <string name="quick_settings_autobrightness_label">Autom. Helligkeit</string>
+  <string name="quick_settings_autobrightness_label">Automatische Helligkeit</string>
   <string name="quick_settings_batterysaver_label">Battery Saver</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Keine Endgeräte vorhanden</string>
   <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Geräte)</string>
@@ -1695,7 +1695,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="wifi_verbose_logging_summary">WLAN-Logging-Level erhöhen, Anzeige per SSID RSSI im WLAN-Picker</string>
   <string name="window_animation_scale_title">Fensteranimation skalieren</string>
   <string name="wrong_password">Ungültiges Passwort</string>
-   <string name="zen_alarm_warning">Sie werden Ihren nächsten Alarm %1$s nicht hören</string>
+  <string name="zen_alarm_warning">Sie werden Ihren nächsten Alarm %1$s nicht hören</string>
   <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Alarm %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
   <string name="zen_alarms_introduction">Sie werden nicht durch Töne und Vibrationen gestört, außer durch Alarme. Sie hören immer noch alles was Sie spielen möchten, einschließlich Musik, Videos und Spiele.</string>
   <string name="zen_priority_customize_button">Anpassen</string>
