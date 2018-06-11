@@ -2335,6 +2335,9 @@ Prüfen Sie die Internetverbindung auf Ihrem Router und versuchen Sie es noch ei
 Wollen Sie sich wieder verbinden, um den Anruf fortzusetzen?"</string>
   <string name="wfc_wifi_handover_fail">Hoppla! Ihr Anruf kann nicht durchgeführt werden.</string>
   <string name="wfc_wifi_lte_handover_fail">Hoppla! Kein verfügbares LTE-Netz, um den Anruf fortzusetzen.</string>
+  <string name="wfcmode_mobile_preferred">Mobil bevorzugt</string>
+  <string name="wfcmode_wifi_only">Nur WLAN</string>
+  <string name="wfcmode_wifi_preferred">WLAN bevorzugt</string>
   <string name="which_call_to_activate">Welchen Anruf aktivieren?</string>
   <string name="whole_calls">Alle Anrufe</string>
   <string name="wifi_aggressive_handover">Aggressives Umschalten von WLAN auf mobile Daten</string>
@@ -2397,7 +2400,9 @@ Bitte Gültigkeit der Zertifikate prüfen."</string>
 Speicherung von Anmeldedaten ist möglicherweise nicht möglich."</string>
   <string name="wifi_wapi_psk_type">Passworttyp</string>
   <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
-  <string name="wild_prompt_str">Platzhalter ersetzen mit</string>
+  <string name="wificall_switch_summary">Ihr Gerät kann bei schlechter Verbindung zwischen WLAN und VoLTE umschalten</string>
+  <string name="wificall_switch_title">Über WLAN telefonieren</string>
+    <string name="wild_prompt_str">Platzhalter ersetzen mit</string>
   <string name="window_animation_scale_title">Fensteranimationsskala</string>
   <string name="wrong_password">Passwortfehler</string>
   <string name="xdivert_button">Rufumleitungseinstellung</string>
