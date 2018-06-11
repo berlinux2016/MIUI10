@@ -223,8 +223,7 @@
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_system">System</string>
      <string name="power_wifi">WLAN</string>
-     <string name="print_job_summary">"%1$s
-%2$s"</string>
+     <string name="print_job_summary">"%1$s%2$s"</string>
      <string name="privacy_password_transparent_tiltle" />
      <string name="process_mediaserver_label">Mediaserver</string>
      <string name="process_stats_os_cache">Caches</string>
@@ -319,8 +318,7 @@
      <string name="summary_divider_text">", "</string>
      <string name="summary_empty" />
      <string name="summary_placeholder"> </string>
-     <string name="summary_two_lines_placeholder">" 
- "</string>
+     <string name="summary_two_lines_placeholder">" "</string>
      <string name="super_resolution_access_title">Accessible apps</string>
      <string name="super_resolution_desc">Make images crisper using an AI algorithm</string>
      <string name="super_resolution_maintain">"Super resolution isn't available yet."</string>
@@ -360,15 +358,14 @@
      <string name="vpn_enable">VPN</string>
      <string name="vpn_settings_title">VPN</string>
      <string name="vpn_title">VPN</string>
-     <string name="wallpaper_attributions_values">"Satellite imagery providers:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
+     <string name="wallpaper_attributions_values">"Anbieter von Satellitenbildern: ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
      <string name="wapi_psk_type_ascii">ASCII</string>
      <string name="warm_color">Warm</string>
      <string name="wifi">WLAN</string>
      <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
      <string name="wifi_ap_choose_5G">5 GHz Band</string>
      <string name="wifi_api_test">WLAN API</string>
-     <string name="wifi_assistant">WLAN assistant</string>
+     <string name="wifi_assistant">WLAN Assistent</string>
      <string name="wifi_assistant_auto_confirm_data_message">This WLAN network has no access to the internet. Your device will use mobile data instead. You can turn off WLAN assistant in the Settings.</string>
      <string name="wifi_assistant_confirm_always">"Don't show again"</string>
      <string name="wifi_assistant_confirm_connection_title">Confirm</string>
@@ -378,7 +375,7 @@
 1. When WLAN connection is poor, WLAN assistant will try to connect your device to other available WLAN networks.
 2. If all available WLAN connections turn out to be poor and mobile data is turned on, WLAN assistant will switch to mobile data."</string>
      <string name="wifi_assistant_disconnect">Disconnect</string>
-     <string name="wifi_assistant_explicitly_confirm_data_message">This WLAN network has no access to the internet. Use mobile data instead?</string>
+     <string name="wifi_assistant_explicitly_confirm_data_message">Dieses WLAN-Netzwerk hat keinen Zugang zum Internet. Stattdessen mobile Daten verwenden?</string>
      <string name="wifi_assistant_explicitly_confirm_disconnect">This WLAN network has no access to the internet. Disconnect now?</string>
      <string name="wifi_assistant_explicitly_confirm_wifi_message">This WLAN network has no access to the internet. Other WLAN networks are available. Switch networks?</string>
      <string name="wifi_assistant_keep_connection">Stay connected</string>
@@ -444,7 +441,7 @@
      <string name="wifi_traffic_priority_summary">Prioritize connection speed automatically</string>
      <string name="wps_category">WPS</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
-     <string name="xiaomi_money_service">Mi Credit</string>
+     <string name="xiaomi_money_service">Mi Kredit</string>
   
   <string name="Accounts_settings_title">Konten</string>
   <string name="aaid_info">"Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende verwenden diese, um Ihnen auf Sie zugeschnittene Werbung anbieten zu können.
@@ -1412,6 +1409,10 @@ Abtastrate"</string>
   <string name="bootloader_apply_step_4">Dies könnte zur Veröffentlichung oder zum Verlust von Daten oder zu irreparablen Hardwareschäden führen.</string>
   <string name="bootloader_apply_step_5">Seien Sie sich dessen bewusst, bevor Sie den Fastbootmodus aktivieren.</string>
   <string name="bootloader_apply_title">Wichtige Warnung</string>
+   <string name="bootloader_device_bind_exceed_sim_limit">Es können keine weiteren Konten zu dieser SIM-Karte hinzugefügt werden</string>
+   <string name="bootloader_device_bind_no_sim">SIM-Karte einlegen und erneut versuchen</string>
+   <string name="bootloader_device_bind_server_code">"Konnte nicht hinzufügen. Fehlercode: "</string>
+   <string name="bootloader_device_bind_sim_invalid">SIM card is invalid. Replace it and try again.</string>
   <string name="bootloader_device_bind_already">Erfolgreich hinzugefügt. Ihr Mi Konto ist jetzt mit diesem Gerät verknüpft.</string>
   <string name="bootloader_device_bind_fail">Überprüfung fehlgeschlagen, warten Sie einen Moment und versuchen Sie es noch einmal</string>
   <string name="bootloader_device_bind_msg">Gerät und Konto hinzufügen wird vorbereitet…</string>
@@ -1419,7 +1420,9 @@ Abtastrate"</string>
   <string name="bootloader_device_bind_no_network">Verbinden Sie sich mit einem Netzwerk und versuchen Sie es erneut</string>
   <string name="bootloader_locked_answer_1">Wir sperren Geräte, um sicher zu gehen, dass Ihre Daten nicht an Dritte weitergegeben werden. Falls Sie in den Fastbootmodus wechseln möchten, um Ihr Gerät zu flashen, können Sie es entsperren.</string>
   <string name="bootloader_locked_answer_1_warning">Bedenken Sie: Sie können \"Gerät finden\" nicht mehr verwenden, nachdem Sie Ihr Gerät entsperrt haben</string>
-  <string name="bootloader_locked_answer_2">Tippen Sie auf den unteren Button, um Ihr Gerät mit diesem Konto zu verknüpfen. Dann gehen Sie auf die MIUI Webseite und laden das Unlock Tool herunter und installieren Sie es auf einem Computer. Hier ist die Adresse:</string>
+  <string name="bootloader_locked_answer_2">"1. Stellen Sie sicher, dass Sie bereits eine SIM-Karte in Ihr Gerät eingelegt haben.
+2. Tippen Sie unten auf \"Konto hinzufügen\", um Ihr Mi-Konto mit diesem Gerät zu verbinden.
+3. Laden Sie das Freischalttool von unserer Website herunter. Beachten Sie, dass Sie Geräte über einen Computer entsperren müssen. Hier herunterladen:"<string>
   <string name="bootloader_locked_check_status">Konto und Gerät hinzufügen</string>
   <string name="bootloader_locked_question_1">Warum sollten Geräte gesperrt bleiben?</string>
   <string name="bootloader_locked_question_2">Ich verstehe die Risiken, möchte aber trotzdem mein Gerät entsperren</string>
@@ -1427,6 +1430,11 @@ Abtastrate"</string>
   <string name="bootloader_status_locked">Gesperrt</string>
   <string name="bootloader_status_locked_info">Dieses Gerät ist gesperrt</string>
   <string name="bootloader_status_locked_summary">Dieses Telefon ist gesichert</string>
+  <string name="bootloader_status_privacy_dialog_message">Mi Unlock benötigt Zugang zu Ihrem Mi Account, CPU ID, IMEI, IMSI um normal zu arbeiten. Wir erheben, nutzen und verarbeiten Ihre Daten gemäß unseren %s. Einverstanden?</string>
+  <string name="bootloader_status_privacy_dialog_no">Abbrechen</string>
+  <string name="bootloader_status_privacy_dialog_title">Erforderliche Berechtigungen</string>
+  <string name="bootloader_status_privacy_dialog_url_text">Datenschutzerklärung</string>
+  <string name="bootloader_status_privacy_dialog_yes">Einverstanden</string>
   <string name="bootloader_status_summary">Überprüfen Sie, ob das Gerät gesperrt ist</string>
   <string name="bootloader_status_unlocked">Entsperrt</string>
   <string name="bootloader_status_unlocked_info">Dieses Gerät ist entsperrt</string>
@@ -2031,6 +2039,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_internal_memory">Interner Speicher</string>
   <string name="device_miui_more">Mehr anzeigen</string>
   <string name="device_miui_version">MIUI-Version</string>
+  <string name="device_miui_version_for_POCO">MIUI Version (Für POCO)</string>  
   <string name="device_miui_version_update">Ein MIUI-Update ist verfügbar</string>
   <string name="device_name">Gerätename</string>
   <string name="device_name_input_error">Gerätename konnte nicht gespeichert werden</string>
@@ -5858,6 +5867,7 @@ Mit dieser Google-Funktion können Sie Ihre Daten synchronisieren, um von übera
   <string name="talkback_summary">Screenreader ist in erster Linie bestimmt für Blinde und Menschen mit eingeschränkten Sehvermögen</string>
   <string name="tap_to_wake">Tippen zum Aufwecken</string>
   <string name="tap_to_wake_summary">Tippen Sie den Bildschirm zweimal an, um das Gerät aufzuwecken</string>
+  <string name="taplus_title">Taplus</string>  
   <string name="task_backup_cancel_progress">Wird angehalten…</string>
   <string name="task_backup_finished_local">"Gesichert "</string>
   <string name="task_canceled">Sicherung abgebrochen</string>
