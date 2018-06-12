@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- <string name="bluetooth_pin_values_hint">Meistens 0000 oder 1234</string> -->
-  <!-- <string name="bluetooth_pin_values_hint_16_digits">Muss 16-stellig sein</string> -->
-  <!-- <string name="invalid_size_value">Couldn’t compute package size.</string> -->
-  <!-- <string name="tether_limit_value_custom">Custom</string> -->
-  <!-- <string name="wallpaper_attributions_values">"Anbieter von Satellitenbildern: ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string> -->
-  
   <string name="Accounts_settings_title">Konten</string>
   <string name="aaid_info">"Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende verwenden diese, um Ihnen auf Sie zugeschnittene Werbung anbieten zu können.
 Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessanter Werbung wird deutlich sinken."</string>
@@ -874,6 +868,8 @@ Zuletzt am %2$s ausgeführt"</string>
   <string name="bluetooth_pb_remember_choice">Nicht mehr fragen</string>
   <string name="bluetooth_permission_request">Bluetoothberechtigungsanfrage</string>
   <string name="bluetooth_phonebook_request">Anforderung für Telefonbuchzugriff</string>
+  <string name="bluetooth_pin_values_hint">Meistens 0000 oder 1234</string>
+  <string name="bluetooth_pin_values_hint_16_digits">Muss 16-stellig sein</string>
   <string name="bluetooth_preference_connected_devices">Verbundene Geräte</string>
   <string name="bluetooth_preference_device_settings">Geräteeinstellungen</string>
   <string name="bluetooth_preference_found_devices">Verfügbar</string>
@@ -2445,6 +2441,7 @@ um die Daten von iOS zu importieren."</string>
   <string name="internal_storage">Systemspeicher</string>
   <string name="internal_storage_sentence">Interner Speicher</string>
   <string name="invalid_location">Installationspfad ungültig</string>
+  <string name="invalid_size_value">Paketgröße konnte nicht berechnet werden</string>
   <string name="isv_settings_title">Intel Smart Video</string>
   <string name="item_system_app">Systemapps</string>
   <string name="join_many_items_last">%1$s und %2$s</string>
@@ -5501,6 +5498,7 @@ Mit dieser Google-Funktion können Sie Ihre Daten synchronisieren, um von übera
   <string name="tether_devices_management_title">Geräte verwalten</string>
   <string name="tether_devices_max_number">Begrenzung der verbundenen Geräte</string>
   <string name="tether_limit_dialog_title">Mobiles Datenlimit</string>
+  <string name="tether_limit_value_custom">Benutzerdefiniert</string>
   <string name="tether_over_limit_dialog_cancle_btn">Hotspot zurücksetzen</string>
   <string name="tether_over_limit_dialog_message">Sie haben das Limit für mobile Hotspot-Daten erreicht.</string>
   <string name="tether_over_limit_dialog_title">Datennutzungswarnung</string>
@@ -6218,6 +6216,7 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="wait_for_debugger_summary">App wartet vor Ausführung auf den Start des Debuggers</string>
   <string name="wakeup_for_keyguard_notification_title">Bei Benachrichtigungen Bildschirmbeleuchtung einschalten</string>
   <string name="wallpaper_attributions">Hintergründe</string>
+  <string name="wallpaper_attributions_values">"Satellitenbildanbieter: ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Startbildschirm</string>
   <string name="wallpaper_live">Livehintergrund</string>
   <string name="wallpaper_lockscreen">Sperrbildschirm</string>
