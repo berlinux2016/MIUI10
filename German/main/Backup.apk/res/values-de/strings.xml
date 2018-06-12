@@ -1,73 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-<!-- zum übersetzen Anfang -->
-
-   <string name="feature_title_contacts">Contacts</string>
-   <string name="feature_title_sms">Messages</string>
-   <string name="flash_drive_backup_btn">Back up to USB drive</string>
-   <string name="flash_drive_backup_note">"Back up apps to a USB drive.
-Make sure the USB drive has enough storage space before you start."</string>
-   <string name="flash_drive_backup_restore">USB backups</string>
-   <string name="flash_drive_connection_failed">USB drive disconnected</string>
-   <string name="flash_drive_restore_btn">Restore from USB drive</string>
-   <string name="flash_drive_search_backup_files">"Searching for the USB backup…
-Don't change or rename backup files."</string>
-   <string name="lack_perm_msg">Mi Mover needs the following permissions: &lt;b&gt;%s&lt;/b&gt;.</string>
-   <string name="lack_perm_title">Permissions required</string>
-   <string name="perm_camera">Camera</string>
-   <string name="perm_location">Location</string>
-   <string name="perm_read_call_log">Read call history</string>
-   <string name="perm_read_contacts">Read contacts</string>
-   <string name="perm_read_phone_state">"Read phone's status"</string>
-   <string name="perm_read_sms">Read SMS</string>
-   <string name="perm_storage">Read and write on external storage</string>
-   <string name="platform_chooser_item_android_mi">Mi phone</string>
-   <string name="platform_chooser_item_android_others">Other brands</string>
-   <string name="storage_sd_card">SD card</string>
-   <string name="storage_usb">USB drive</string>
-   <string name="trans_calculating_app_sd_description">Data on SD card</string>
-   <string name="trans_calculating_media_description">Media files</string>
-   <string name="trans_calculating_tip">Calculating %s…</string>
-   <string name="trans_install_guide_button_start">Start</string>
-   <string name="trans_install_guide_page_title">Install Mi Mover on your old phone</string>
-   <string name="trans_install_guide_scan_install_tip">"Scan this QR code with your old phone
-to download and install Mi Mover."</string>
-   <string name="trans_install_guide_step1_content">Scan the QR code with your old phone to download and install \"Mi Mover\".</string>
-   <string name="trans_install_guide_step1_title">Step 1</string>
-   <string name="trans_install_guide_step2_content">After the installation is complete, tap \"Start\" below.</string>
-   <string name="trans_install_guide_step2_title">Step 2</string>
-   <string name="trans_intro_desc_4_market">"Mi Mover uses WLAN to transfer files. That's why you can't connect to the internet using WLAN on either device during a transfer. You can still use mobile data, though."</string>
-   <string name="trans_intro_desc_9_method_1_dec">Go to Home screen &gt; Tools &gt; Feedback.</string>
-   <string name="trans_intro_desc_9_method_1_title">1. Share your feedback using the \"Feedback\" app.</string>
-   <string name="trans_intro_desc_9_method_2_dec">Send your feedback to miui-mover@xiaomi.com.</string>
-   <string name="trans_intro_desc_9_method_2_title">2. Send us an email</string>
-   <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
-   <string name="trans_intro_desc_9_method_3_title">3. Report issues in QQ</string>
-   <string name="trans_intro_desc_old_market">Tap \"Start\". Scan the QR code on the new phone, wait until Mi Mover figures out which files to send, and tap \"Send\".</string>
-   <string name="trans_intro_question_9_market">%d. Feedback.</string>
-   <string name="trans_open_camera_failed_message">Reboot your device or check whether Mi Mover is allowed to use &lt;b&gt;Camera&lt;/b&gt;.</string>
-   <string name="trans_open_camera_failed_title">"Couldn't connect to Camera"</string>
-   <string name="trans_open_location_button">Turn on</string>
-   <string name="trans_open_location_message">Turn on location services to get the list of available WLAN networks.</string>
-   <string name="trans_open_location_title">Turn on location services</string>
-   <string name="trans_operate_tip_for_other_android">Open Mi Mover on your old phone, tap \"Start\" and scan the QR code above.</string>
-    <string name="trans_success_dialog_button_market_favourable_comment">Rate Mi Mover</string>
-   <string name="trans_success_dialog_market_comment_title">"Your new device feels like home now.
-Did you like Mi Mover?"</string>
-   <string name="usb_backup_select_data_too_large">"Selected files are big. Make sure the USB drive has enough storage space.
-Transfer only important items."</string>
-   <string name="usb_restore_select_data_too_large">"Backup files are big. It might take a while to restore them.
-Restoring only important items will be faster."</string>
-   <string name="usb_trans_native_no_space">"Only %s is available on your device.
-Free up space or make multiple smaller transfers."</string>
-   <string name="usb_trans_old_phone_low_space_msg">"Additional storage is required to package your backups. There's not enough storage space to continue the transfer. You can free up space and delete unnecessary files in Security or try tranfering only important items."</string>
-   <string name="usb_trans_old_phone_low_space_title">Not enough storage space</string>
-   <string name="usb_trans_select_data_no_space">"Only %s is available on your USB drive.
-Free up space or transfer only important items."</string>
-
-<!-- Ende -->
-
   <string name="abort_backup_confirm">Sicherung nicht abgeschlossen. Trotzdem abbrechen?</string>
   <string name="abort_restore_confirm">Wiederherstellung nicht abgeschlossen. Trotzdem abbrechen?</string>
   <string name="account_contact_backup_info">Google, Mi Konto und Kontaktdaten</string>
@@ -207,10 +139,19 @@ Free up space or transfer only important items."</string>
   <string name="feature_title_account">Konto</string>
   <string name="feature_title_antispam">Blockierliste</string>
   <string name="feature_title_call_log">Anrufverlauf</string>
+  <string name="feature_title_contacts">Kontakte</string>
+  <string name="feature_title_sms">Nachrichten</string>  
   <string name="file_uploading">Hochladen…</string>
   <string name="files_backup_info">Alle Dateien auf der SD-Karte (inkl. Fotos, Musik, Videos, Appdaten, usw.)</string>
   <string name="findlost_contact">Kontakte wiederherstellen</string>
   <string name="findlost_contact_online">Kontakte aus der Mi Cloud wiederherstellen</string>
+  <string name="flash_drive_backup_btn">Sicherung auf USB-Laufwerk</string>
+  <string name="flash_drive_backup_note">"Sichern Sie Apps auf ein USB-Laufwerk.
+Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt, bevor Sie beginnen."</string>
+  <string name="flash_drive_backup_restore">USB-Sicherungen</string>
+  <string name="flash_drive_connection_failed">USB-Laufwerk getrennt</string>
+  <string name="flash_drive_restore_btn">Wiederherstellen vom USB-Laufwerk</string>
+ Sicherungsdateien nicht ändern oder umbenennen."</string>
   <string name="guarded_mode_dialog_backup_message">Backups sind im Gastmodus nicht erlaubt</string>
   <string name="guarded_mode_dialog_title">Sie befinden sich im Gastmodus</string>
   <string name="guarded_mode_dialog_transfer_message">Mi Mover kann im Gastmodus nicht verwendet werden</string>
@@ -252,6 +193,8 @@ Free up space or transfer only important items."</string>
   <string name="import_from_xiaomi_account_hint2">Falls Sicherung bereits vorhanden ist, weiter drücken</string>
   <string name="import_from_xiaomi_account_hint_title">Mi Talk verwenden, um Kontakte auf anderen Geräten wiederherzustellen</string>
   <string name="import_tip_summary">Wegen Kompatibilitätsproblemen können Sie nur Teildaten von iOS-Geräten übertragen. Stellen Sie sicher, dass Sie vor dem Start der Übertragung ein iCloud-Backup erstellen.</string>
+  <string name="lack_perm_msg">Mi Mover benötigt die folgenden Berechtigungen: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_title">Erforderliche Berechtigungen</string>  
   <string name="list_footer_tip_title">Tipps:</string>
   <string name="loading_data">Lade Daten</string>
   <string name="local_app_name">Sicherungen</string>
@@ -315,7 +258,16 @@ Free up space or transfer only important items."</string>
   <string name="page_loading">Einen Moment…</string>
   <string name="password">Passwort</string>
   <string name="password_null">Passwort darf nicht leer sein</string>
+  <string name="perm_camera">Kamera</string>
+  <string name="perm_location">Standort</string>
+  <string name="perm_read_call_log">Anrufliste lesen</string>
+  <string name="perm_read_contacts">Kontake lesen</string>
+  <string name="perm_read_phone_state">Telefonstatus lesen</string>
+  <string name="perm_read_sms">SMS lesen</string>
+  <string name="perm_storage">Lesen und Schreiben auf externem Speicher</string>
   <string name="platform_chooser_item_android">Importieren von einem Android-Gerät</string>
+  <string name="platform_chooser_item_android_mi">Mi Phone</string>
+  <string name="platform_chooser_item_android_others">Andere Marken</string>
   <string name="platform_chooser_item_ios">Importieren von einem Apple-Gerät</string>
   <string name="platform_chooser_title">Altes Gerät auswählen</string>
   <string name="progress_backup_hint">Sichern…</string>
@@ -381,6 +333,8 @@ Free up space or transfer only important items."</string>
   <string name="start_restore">Wiederherstellen</string>
   <string name="state_mounting">Zugriff auf Ihren Routerspeicher…</string>
   <string name="state_waiting">Einen Moment…</string>
+  <string name="storage_sd_card">SD-Karte</string>
+  <string name="storage_usb">USB-Laufwerk</string>
   <string name="succ_description">Erfolgreich</string>
   <string name="succeed">Abgeschlossen</string>
   <string name="summary_err_backup_encrypting">Melden Sie sich bei Ihrem Mi Konto an</string>
@@ -420,8 +374,11 @@ Free up space or transfer only important items."</string>
   <string name="trans_backingup_no_items">Synchronisieren…</string>
   <string name="trans_button_cancel">Abbrechen</string>
   <string name="trans_calculating">Wird berechnet…</string>
+  <string name="trans_calculating_app_sd_description">Daten auf SD-Karte</string>
   <string name="trans_calculating_app_sd_size">Datengröße wird berechnet, %s gescannt</string>
   <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
+  <string name="trans_calculating_media_description">Medien-Dateien</string>
+  <string name="trans_calculating_tip">Berechnen %s…</string>
   <string name="trans_cancel_confirm">Übertragung läuft. Jetzt abbrechen?</string>
   <string name="trans_cancelling">Abbrechen…</string>
   <string name="trans_connect_failed_device_incompatible">Gerät ist inkompatibel. Brechen Sie die Übertragung ab und versuchen Sie es erneut.</string>
@@ -462,19 +419,43 @@ Free up space or transfer only important items."</string>
   <string name="trans_generate_qr_code_failed">QR-Code konnte nicht erstellt werden</string>
   <string name="trans_generate_qrcode_failed">Konnte keinen QR-Code generieren. Nochmal versuchen.</string>
   <string name="trans_generating_qrcode">Generiere QR code…</string>
+  <string name="trans_install_guide_button_start">Start</string>
+  <string name="trans_install_guide_page_title">Installieren Sie Mi Mover auf Ihrem alten Telefon</string>
+  <string name="trans_install_guide_scan_install_tip">Scannen Sie diesen QR-Code mit Ihrem alten Telefon,
+um Mi Mover herunterzuladen und zu installieren."</string>
+  <string name="trans_install_guide_step1_content">Scannen Sie den QR-Code mit Ihrem alten Telefon, um ihn herunterzuladen und zu installieren. \"Mi Mover\".</string>
+  <string name="trans_install_guide_step1_title">Schritt 1</string>
+  <string name="trans_install_guide_step2_content">Nachdem die Installation abgeschlossen ist, tippen Sie unten auf \"Start\".</string>
+  <string name="trans_install_guide_step2_title">Schritt 2</string>
   <string name="trans_intro_desc_1">Auf einem Mi Phone: Stellen Sie eine WLAN-Verbindung her und tippen Sie auf \"Ich bin der Empfänger\". Wählen Sie Ihr iOS-Gerät aus und melden Sie sich in der iCloud an. Dann können Sie die Daten importieren.</string>
   <string name="trans_intro_desc_2">Die Übertragung abbrechen, Mi Mover beenden und von vorn anfangen. Doppelte Dateien werden während der neuen Übertragung überschrieben.</string>
   <string name="trans_intro_desc_3">Brechen Sie die Übertragung ab, verlassen Sie Mi Mover und fangen Sie von vorne an. Doppelte Dateien werden bei der neuen Übertragung überschrieben.</string>
   <string name="trans_intro_desc_4">Mi Mover nutzt WLAN, um Dateien zu übertragen. Deshalb können Sie während der Übertragung keine Verbindung zum Internet über WLAN auf beiden Geräten herstellen. Sie können jedoch weiterhin mobile Daten verwenden. Einige neuere Geräte (z.B. Mi 6) könnten sich jedoch während der Übertragung immer noch über WLAN mit dem Internet verbinden.</string>
+  <string name="trans_intro_desc_4_market">Mi Mover nutzt WLAN zur Übertragung von Dateien. Deshalb können Sie während einer Übertragung keine Verbindung zum Internet über WLAN auf beiden Geräten herstellen. Sie können jedoch weiterhin mobile Daten verwenden.</string>
+  <string name="trans_intro_desc_4_market">Mi Mover nutzt WLAN zur Übertragung von Dateien. Deshalb können Sie während einer Übertragung keine Verbindung zum Internet über WLAN auf beiden Geräten herstellen. Sie können jedoch weiterhin mobile Daten verwenden.</string>
   <string name="trans_intro_desc_5">Für die Erstellung von Transferpaketen wird Speicherplatz auf alten Geräten verwendet. Stellen Sie sicher, dass mindestens 500 MB - 1 GB freier Speicherplatz auf Ihrem alten Telefon vorhanden sind, bevor Sie mit der Übertragung beginnen.</string>
   <string name="trans_intro_desc_6">Es gibt mehrere Gründe, warum das passieren kann: Kompatibilitätsprobleme mit System- und Appversionen, Netzwerkprobleme, gerätespezifische Kompatibilitätsprobleme usw.</string>
   <string name="trans_intro_desc_7">Einige App-Profile (E-Banking, Finanzen, etc.) sind aus Sicherheitsgründen mit einem bestimmten Gerät verbunden. Versuchen Sie, die Appdaten zu löschen oder die App auf einem neuen Gerät neu zu installieren.</string>
   <string name="trans_intro_desc_8">WeChat Appdaten und Chatverlauf werden möglicherweise nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den Einstellungen des WeChat und melden Sie sich von Ihrem Konto ab, um bessere Chancen für eine erfolgreiche Übertragung zu erhalten.</string>
+  <string name="trans_intro_desc_9_method_1_dec">Zur Startseite gehen &gt; Tools &gt; Feedback.</string>
+  <string name="trans_intro_desc_9_method_1_dec">Zur Startseite gehen &gt; Tools &gt; Feedback.</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Teilen Sie Ihr Feedback mit der \"Feedback\" App.</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Teilen Sie Ihr Feedback mit der \"Feedback\" App.</string>
+  <string name="trans_intro_desc_9_method_2_dec">Senden Sie Ihr Feedback an miui-mover@xiaomi.com.</string>
+  <string name="trans_intro_desc_9_method_2_dec">Senden Sie Ihr Feedback an miui-mover@xiaomi.com.</string>
+  <string name="trans_intro_desc_9_method_2_title">2. Senden Sie uns eine E-Mail</string>
+  <string name="trans_intro_desc_9_method_2_title">2. Senden Sie uns eine E-Mail</string>
+  <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
+  <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
+  <string name="trans_intro_desc_9_method_3_title">3. Probleme melden in QQ</string>
+  <string name="trans_intro_desc_9_method_3_title">3. Probleme melden in QQ</string>
   <string name="trans_intro_desc_account">Aus Sicherheitsgründen müssen Sie sich bei Ihren Konten (z. B. Mi Account, Exchange, Google, etc.) auf einem neuen Gerät erneut anmelden.</string>
   <string name="trans_intro_desc_multiapp">Mi Mover überträgt keine Dual Apps-Daten, um Konflikte zwischen Dateien zu vermeiden.</string>
   <string name="trans_intro_desc_multiuser">Mi Mover hat keinen Zugriff auf Objekte im Zweitprofil. Verschieben Sie Elemente in das Hauptprofil und starten Sie Mi Mover dort.</string>
   <string name="trans_intro_desc_new">Tippen Sie auf \"Ich bin der Empfänger\". Ein QR-Code wird generiert.</string>
   <string name="trans_intro_desc_old">"Tippen Sie auf \"Ich bin der Sender\". Scannen Sie den QR-Code auf dem neuen Telefon und warten Sie, bis Mi Mover herausgefunden hat, welche Dateien gesendet werden sollen. Tippen Sie dann auf \"Senden\".</string>
+  <string name="trans_intro_desc_old_market">Tippen Sie \"Start\". Scannen Sie den QR-Code auf dem neuen Telefon, warten Sie, bis Mi Mover herausfindet welche Dateien Sie senden sollen und tippen Sie auf \"Senden\".</string>
+  <string name="trans_intro_desc_old_market">Tippen Sie \"Start\". Scannen Sie den QR-Code auf dem neuen Telefon, warten Sie, bis Mi Mover herausfindet welche Dateien Sie senden sollen und tippen Sie auf \"Senden\".</string>
   <string name="trans_intro_desc_private">Mi Mover kann nicht auf Fotos im versteckten Album zugreifen, da diese verschlüsselt sind. Sie können diese Fotos von Mi Cloud auf einem neuen Gerät wiederherstellen.</string>
   <string name="trans_intro_question_1">%d. Wie benutze ich Mi Mover, um Daten von einem iOS-Gerät zu übertragen?</string>
   <string name="trans_intro_question_2">%d. Wie benutze ich Mi Mover, um Daten von einem Android-Gerät zu übertragen?</string>
@@ -485,6 +466,8 @@ Free up space or transfer only important items."</string>
   <string name="trans_intro_question_7">%d. Warum starten manche Apps nicht auf einem neuen Gerät?</string>
   <string name="trans_intro_question_8">%d. Warum wird der WeChat Verlauf nicht vollständig übertragen?</string>
   <string name="trans_intro_question_9">%d. Welche Elemente können nicht übernommen werden?</string>
+  <string name="trans_intro_question_9_market">%d. Feedback.</string>
+  <string name="trans_intro_question_9_market">%d. Feedback.</string>
   <string name="trans_intro_title_account">Konten und Passwörter:</string>
   <string name="trans_intro_title_multiapp">Daten von geklonten Apps:</string>
   <string name="trans_intro_title_multiuser">Zweitprofildaten:</string>
@@ -497,6 +480,11 @@ Free up space or transfer only important items."</string>
 Geben Sie Speicherplatz frei oder transferieren Sie nur wichtige Elemente."</string>
   <string name="trans_old_phone_low_space_msg">Mi Mover benötigt etwas Speicherplatz, um die übertragenen Daten zu verpacken, aber es sieht so aus, als ob auf dem alten Gerät nicht genügend Platz vorhanden ist. Speicherplatz in \"Sicherheit"\ schaffen oder nur wichtige Dinge transferieren.</string>
   <string name="trans_old_phone_low_space_title">Nicht genügend Speicherplatz</string>
+  <string name="trans_open_camera_failed_message">Starten Sie Ihr Telefon neu oder prüfen Sie, ob Mi Mover die folgenden Funktionen verwenden darf &lt;b&gt;Kamera&lt;/b&gt;.</string>
+  <string name="trans_open_camera_failed_title">Konnte keine Verbindung zur Kamera herstellen</string>
+  <string name="trans_open_location_button">Einschalten</string>
+  <string name="trans_open_location_message">Schalten Sie die Ortungsdienste ein, um die Liste der verfügbaren WLAN-Netzwerke zu erhalten.</string>
+  <string name="trans_open_location_title">Standortdienste einschalten</string>
   <string name="trans_operate_func_one">Methode A</string>
   <string name="trans_operate_func_two">Methode B</string>
   <string name="trans_operate_new_phone_tips">Scannen Sie den QR-Code mit dem neuem Gerät. Gehen Sie zu Einstellungen > Weitere Einstellungen > Mi Mover [Ich bin der Empfänger] antippen, um QR-Code zu erstellen.</string>
@@ -506,6 +494,7 @@ Geben Sie Speicherplatz frei oder transferieren Sie nur wichtige Elemente."</str
   <string name="trans_operate_old_phone_tips2">Gehen Sie zu Einstellungen > Weitere Einstellungen > Mi Mover [Ich bin der Sender] antippen</string>
   <string name="trans_operate_reconnect_new_tips">Warten, bis das neue Gerät \"Verbindung wurde getrennt\" anzeigt. Dann [Erneut verbinden] anklicken, um einen QR-Code zu erstellen.</string>
   <string name="trans_operate_reconnect_old_tips">Warten, bis das alte Gerät \"Verbindung wurde getrennt\" anzeigt. Dann [Erneut verbinden] anklicken, um den QR-Code zu scannen.</string>
+  <string name="trans_operate_tip_for_other_android">Öffnen Sie Mi Mover auf Ihrem alten Telefon, tippen Sie auf \"Start\" und scanne Sie den QR-Code oben.</string>
   <string name="trans_pausing">Pausieren…</string>
   <string name="trans_please_waiting">Bitte warten…</string>
   <string name="trans_progress_subdescript_br_receiver">Wiederherstellung von %1$s, %2$s abgeschlossen</string>
@@ -546,7 +535,10 @@ Wählen Sie nur wichtige Elemente aus, um die Übertragung zu beschleunigen."</s
   <string name="trans_show_qr_code_label">Altes Gerät verbinden</string>
   <string name="trans_show_qr_code_tips">QR-Code mit Ihrem alten Gerät scannen</string>
   <string name="trans_start_failed_message">Start der Übertragung fehlgeschlagen, bitte erneut versuchen oder neu starten</string>
-  <string name="trans_start_failed_title">Start der Übertragung fehlgeschlagen</string>
+  <string name="trans_start_failed_title">Start der Übertragung fehlgeschlagen</string> 
+  <string name="trans_success_dialog_button_market_favourable_comment">Bewerten Sie Mi Mover</string>
+  <string name="trans_success_dialog_market_comment_title">Ihr neues Gerät fühlt sich jetzt wie zu Hause an.
+Mögen Sie Mi Mover?"</string>
   <string name="trans_switching_5g">Umschalten auf 5GHz WLAN…</string>
   <string name="trans_time_format_second">Weniger als eine Minute</string>
   <string name="trans_time_spent">Verbleibende Zeit: %s</string>
@@ -556,6 +548,16 @@ Wählen Sie nur wichtige Elemente aus, um die Übertragung zu beschleunigen."</s
   <string name="trans_wlan_tips_message">WLAN-Verbindung während der Übertragung nicht trennen. Mi Mover kann sonst keine Daten übertragen.</string>
   <string name="trans_wlan_tips_title">WLAN-Verbindung nicht trennen</string>
   <string name="unknown_hint">Unbekannt</string>
+  <string name="usb_backup_select_data_too_large">Ausgewählte Dateien sind groß. Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt.
+Übertragen Sie nur wichtige Elemente.</string>
+  <string name="usb_restore_select_data_too_large">Sicherungsdateien sind groß. Es könnte eine Weile dauern, sie wiederherzustellen.
+Das Wiederherstellen nur wichtiger Elemente geht schneller.</string>
+  <string name="usb_trans_native_no_space">Auf Ihrem Gerät sind nur %s verfügbar.
+Geben Sie Platz frei oder machen Sie mehrere kleinere Übertragungen.</string>
+  <string name="usb_trans_old_phone_low_space_msg">Zusätzlicher Speicherplatz ist erforderlich, um Ihre Sicherungen zu verpacken. Es gibt nicht genug Speicherplatz, um den Übertragung fortzusetzen. Sie können Platz freigeben, löschen Sie unnötige Dateien in Sicherheit oder versuchen Sie, nur wichtige Elemente zu übertragen.</string>
+  <string name="usb_trans_old_phone_low_space_title">Nicht genügend Speccherplatz</string>
+  <string name="usb_trans_select_data_no_space">Nur %s ist auf Ihrem USB-Laufwerk verfügbar.
+Geben Sie Platz frei oder übertragen Sie nur wichtige Elemente.</string>
   <string name="user_name">Apple ID oder E-Mail</string>
   <string name="user_name_null">Benutzername darf nicht leer sein</string>
   <string name="user_notice_declaration_ignore">Nicht mehr anzeigen</string>
