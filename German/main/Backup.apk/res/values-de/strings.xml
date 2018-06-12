@@ -151,6 +151,7 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="flash_drive_backup_restore">USB-Sicherungen</string>
   <string name="flash_drive_connection_failed">USB-Laufwerk getrennt</string>
   <string name="flash_drive_restore_btn">Wiederherstellen vom USB-Laufwerk</string>
+  <string name="flash_drive_search_backup_files">"Suche nach der USB-Sicherung…, 
  Sicherungsdateien nicht ändern oder umbenennen."</string>
   <string name="guarded_mode_dialog_backup_message">Backups sind im Gastmodus nicht erlaubt</string>
   <string name="guarded_mode_dialog_title">Sie befinden sich im Gastmodus</string>
@@ -432,29 +433,21 @@ um Mi Mover herunterzuladen und zu installieren."</string>
   <string name="trans_intro_desc_3">Brechen Sie die Übertragung ab, verlassen Sie Mi Mover und fangen Sie von vorne an. Doppelte Dateien werden bei der neuen Übertragung überschrieben.</string>
   <string name="trans_intro_desc_4">Mi Mover nutzt WLAN, um Dateien zu übertragen. Deshalb können Sie während der Übertragung keine Verbindung zum Internet über WLAN auf beiden Geräten herstellen. Sie können jedoch weiterhin mobile Daten verwenden. Einige neuere Geräte (z.B. Mi 6) könnten sich jedoch während der Übertragung immer noch über WLAN mit dem Internet verbinden.</string>
   <string name="trans_intro_desc_4_market">Mi Mover nutzt WLAN zur Übertragung von Dateien. Deshalb können Sie während einer Übertragung keine Verbindung zum Internet über WLAN auf beiden Geräten herstellen. Sie können jedoch weiterhin mobile Daten verwenden.</string>
-  <string name="trans_intro_desc_4_market">Mi Mover nutzt WLAN zur Übertragung von Dateien. Deshalb können Sie während einer Übertragung keine Verbindung zum Internet über WLAN auf beiden Geräten herstellen. Sie können jedoch weiterhin mobile Daten verwenden.</string>
   <string name="trans_intro_desc_5">Für die Erstellung von Transferpaketen wird Speicherplatz auf alten Geräten verwendet. Stellen Sie sicher, dass mindestens 500 MB - 1 GB freier Speicherplatz auf Ihrem alten Telefon vorhanden sind, bevor Sie mit der Übertragung beginnen.</string>
   <string name="trans_intro_desc_6">Es gibt mehrere Gründe, warum das passieren kann: Kompatibilitätsprobleme mit System- und Appversionen, Netzwerkprobleme, gerätespezifische Kompatibilitätsprobleme usw.</string>
   <string name="trans_intro_desc_7">Einige App-Profile (E-Banking, Finanzen, etc.) sind aus Sicherheitsgründen mit einem bestimmten Gerät verbunden. Versuchen Sie, die Appdaten zu löschen oder die App auf einem neuen Gerät neu zu installieren.</string>
   <string name="trans_intro_desc_8">WeChat Appdaten und Chatverlauf werden möglicherweise nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den Einstellungen des WeChat und melden Sie sich von Ihrem Konto ab, um bessere Chancen für eine erfolgreiche Übertragung zu erhalten.</string>
   <string name="trans_intro_desc_9_method_1_dec">Zur Startseite gehen &gt; Tools &gt; Feedback.</string>
-  <string name="trans_intro_desc_9_method_1_dec">Zur Startseite gehen &gt; Tools &gt; Feedback.</string>
-  <string name="trans_intro_desc_9_method_1_title">1. Teilen Sie Ihr Feedback mit der \"Feedback\" App.</string>
   <string name="trans_intro_desc_9_method_1_title">1. Teilen Sie Ihr Feedback mit der \"Feedback\" App.</string>
   <string name="trans_intro_desc_9_method_2_dec">Senden Sie Ihr Feedback an miui-mover@xiaomi.com.</string>
-  <string name="trans_intro_desc_9_method_2_dec">Senden Sie Ihr Feedback an miui-mover@xiaomi.com.</string>
-  <string name="trans_intro_desc_9_method_2_title">2. Senden Sie uns eine E-Mail</string>
   <string name="trans_intro_desc_9_method_2_title">2. Senden Sie uns eine E-Mail</string>
   <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
-  <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
-  <string name="trans_intro_desc_9_method_3_title">3. Probleme melden in QQ</string>
   <string name="trans_intro_desc_9_method_3_title">3. Probleme melden in QQ</string>
   <string name="trans_intro_desc_account">Aus Sicherheitsgründen müssen Sie sich bei Ihren Konten (z. B. Mi Account, Exchange, Google, etc.) auf einem neuen Gerät erneut anmelden.</string>
   <string name="trans_intro_desc_multiapp">Mi Mover überträgt keine Dual Apps-Daten, um Konflikte zwischen Dateien zu vermeiden.</string>
   <string name="trans_intro_desc_multiuser">Mi Mover hat keinen Zugriff auf Objekte im Zweitprofil. Verschieben Sie Elemente in das Hauptprofil und starten Sie Mi Mover dort.</string>
   <string name="trans_intro_desc_new">Tippen Sie auf \"Ich bin der Empfänger\". Ein QR-Code wird generiert.</string>
   <string name="trans_intro_desc_old">"Tippen Sie auf \"Ich bin der Sender\". Scannen Sie den QR-Code auf dem neuen Telefon und warten Sie, bis Mi Mover herausgefunden hat, welche Dateien gesendet werden sollen. Tippen Sie dann auf \"Senden\".</string>
-  <string name="trans_intro_desc_old_market">Tippen Sie \"Start\". Scannen Sie den QR-Code auf dem neuen Telefon, warten Sie, bis Mi Mover herausfindet welche Dateien Sie senden sollen und tippen Sie auf \"Senden\".</string>
   <string name="trans_intro_desc_old_market">Tippen Sie \"Start\". Scannen Sie den QR-Code auf dem neuen Telefon, warten Sie, bis Mi Mover herausfindet welche Dateien Sie senden sollen und tippen Sie auf \"Senden\".</string>
   <string name="trans_intro_desc_private">Mi Mover kann nicht auf Fotos im versteckten Album zugreifen, da diese verschlüsselt sind. Sie können diese Fotos von Mi Cloud auf einem neuen Gerät wiederherstellen.</string>
   <string name="trans_intro_question_1">%d. Wie benutze ich Mi Mover, um Daten von einem iOS-Gerät zu übertragen?</string>
@@ -466,7 +459,6 @@ um Mi Mover herunterzuladen und zu installieren."</string>
   <string name="trans_intro_question_7">%d. Warum starten manche Apps nicht auf einem neuen Gerät?</string>
   <string name="trans_intro_question_8">%d. Warum wird der WeChat Verlauf nicht vollständig übertragen?</string>
   <string name="trans_intro_question_9">%d. Welche Elemente können nicht übernommen werden?</string>
-  <string name="trans_intro_question_9_market">%d. Feedback.</string>
   <string name="trans_intro_question_9_market">%d. Feedback.</string>
   <string name="trans_intro_title_account">Konten und Passwörter:</string>
   <string name="trans_intro_title_multiapp">Daten von geklonten Apps:</string>
