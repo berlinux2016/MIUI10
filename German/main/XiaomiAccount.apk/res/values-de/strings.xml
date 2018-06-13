@@ -26,6 +26,7 @@
   <string name="account_has_been_set">Ändern</string>
   <string name="account_learn_more_title">Mi Konto erstellen</string>
   <string name="account_limit_update_birthday">Geburtstag kann momentan nicht aktualisiert werden</string>
+  <string name="account_mibi_charge">Mi Kredits aufladen</string>
   <string name="account_name">Konto: %1$s</string>
   <string name="account_no_set">Kein</string>
   <string name="account_none">Kein</string>
@@ -296,6 +297,7 @@ Ihre Konto ID: %s"</string>
   <string name="passport_back">Zurück</string>
   <string name="passport_bad_authentication">Ungültiger Benutzername oder Passwort</string>
   <string name="passport_barcode_add_account_prompt">Um ein Konto zu verbinden, QR-Code nach der Anmeldung erneut einscannen</string>
+  <string name="passport_btn_change_account">Konto ändern</string>
   <string name="passport_btn_return">Zurück</string>
   <string name="passport_button_cancel">Abbrechen</string>
   <string name="passport_captcha">Code eingeben</string>
@@ -329,6 +331,7 @@ Ihre Konto ID: %s"</string>
   <string name="passport_error_empty_pwd">Passwort eingeben</string>
   <string name="passport_error_empty_username">Benutzernamen eingeben</string>
   <string name="passport_error_empty_vcode">Verifikationscode eingeben</string>
+  <string name="passport_error_empty_voice_code">Captcha eingeben</string>
   <string name="passport_error_illegal_pwd">Ungültiges Passwort</string>
   <string name="passport_error_invalid_dev_id">Ihre Geräte-ID ist ungültig</string>
   <string name="passport_error_invalid_phone_num">Telefonnummer ist ungültig</string>
@@ -372,7 +375,10 @@ Ihre Konto ID: %s"</string>
   <string name="passport_input_vcode_hint">Verifikationscode eingeben</string>
   <string name="passport_input_verify_code_hint">Verifikationscode eingeben</string>
   <string name="passport_input_voice_captcha_hint">Sprachverifikationscode eingeben</string>
+  <string name="passport_input_voice_hint">Sprachcode eingeben</string>
   <string name="passport_license_host_unreachable">Verbindung zum Netzwerk nicht möglich. Sie können diese Seite unter %s anzeigen.</string>
+  <string name="passport_license_info_collapse">Fehlschlagen</string>
+  <string name="passport_license_info_open">Details</string>
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Anmelden</string>
   <string name="passport_login_check_find_device">Gerätelokalisierungstatus wird überprüft…</string>
@@ -395,6 +401,7 @@ Ihre Konto ID: %s"</string>
   <string name="passport_message_dialog_title">SMS mit Verifikationscodes</string>
   <string name="passport_miui_provision_find_status_text">"Dieses Gerät ist mit einem vorhandenen Mi Konto （%1$s） verbunden. Geben Sie das Kennwort ein, um das Gerät zu entsperren.
 (Entsperrnummer: %2$s)."</string>
+  <string name="passport_new_user_register">Ein Konto erstellen</string>
   <string name="passport_next">Weiter</string>
   <string name="passport_no">Nein</string>
   <string name="passport_notification_title">Fehler bei der Anmeldung für %1$s</string>
@@ -407,8 +414,6 @@ Ihre Konto ID: %s"</string>
   <string name="passport_privacy_policy">Datenschutz-Bestimmungen</string>
   <string name="passport_pwd_generate_failure">Passwort konnte nicht generiert werden</string>
   <string name="passport_pwd_generating">Generieren…</string>
-  <string name="passport_reg_failed">Konto kann nicht eingerichtet werden</string>
-  <string name="passport_register">Ein Konto erstellen</string>
   <string name="passport_querying_phone_info">Fordere Kontoinfo an…</string>
   <string name="passport_quick_login">Anmelden</string>
   <string name="passport_quick_login_dialog_step2_title">2-stufige Verifizierung</string>
@@ -422,6 +427,7 @@ Ihre Konto ID: %s"</string>
   <string name="passport_recycle_account_prompt">Ist das Ihr Mi Konto?</string>
   <string name="passport_recycle_login_other_account">Das ist nicht meins! Ich nutze ein anderes.</string>
   <string name="passport_reg_btn_using_other_phone">Andere Telefonnummer verwenden</string>
+  <string name="passport_reg_failed">Konto kann nicht eingerichtet werden</string>
   <string name="passport_reg_new">Erstellen Sie ein kostenloses Mi Konto</string>
   <string name="passport_reg_new_account">Konto erstellen</string>
   <string name="passport_reg_prompt">Sie haben noch kein Mi Konto? Erstellen Sie eins, kostenlos!</string>
@@ -437,11 +443,13 @@ Ihre Konto ID: %s"</string>
   <string name="passport_reg_using_phone_number_prompt">Mit Telefonnummer registrieren</string>
   <string name="passport_reg_via_sms_alert">Für das SMS-Versenden könnten Gebühren entstehen</string>
   <string name="passport_reging">Konto erstellen…</string>
+  <string name="passport_register">Ein Konto erstellen</string>
   <string name="passport_register_account_goto_email">Sehen Sie in Ihr Postfach</string>
   <string name="passport_register_account_verified_confirm">Ihr Konto wurde bereits bestätigt</string>
   <string name="passport_register_by_email"> <u>Konto über E-Mailadresse erstellen</u> </string>
   <string name="passport_register_restricted">Zu viele Konten mit dieser Nummer verbunden. Versuchen Sie eine andere.</string>
   <string name="passport_register_restricted_title">Diese Telefonnummer kann nicht verwendet werden</string>
+  <string name="passport_register_using_other_ways">Andere Wege zur Registrierung</string>
   <string name="passport_registered_phone_num">Telefonnummer: %s</string>
   <string name="passport_registered_phone_user_ID">Benutzer-ID: %s</string>
   <string name="passport_registered_phone_user_name">Benutzername: %s</string>
@@ -450,6 +458,7 @@ Ihre Konto ID: %s"</string>
   <string name="passport_relogin_notice">Sie müssen sich erneut anmelden</string>
   <string name="passport_remove_confirm">Abmelden</string>
   <string name="passport_remove_unactivated_account_notice">Ihr Konto wurde nicht aktiviert</string>
+  <string name="passport_Resend">Erneut senden</string>
   <string name="passport_resend_active_email">Aktivierungs-E-Mail erneut senden</string>
   <string name="passport_reset_fail_title">Konnte nicht zurückgesetzt werden</string>
   <string name="passport_reset_password_prompt">Passwort ist falsch</string>
@@ -510,10 +519,11 @@ Ihre Konto ID: %s"</string>
   <string name="passport_wrong_password">Passwort ist falsch</string>
   <string name="passport_wrong_phone_number_format">Format der eingegebenen Mobilrufnummer ist ungültig</string>
   <string name="passport_wrong_vcode">Eingegebener Code ist ungültig</string>
-  <string name="passport_yes">Ja</string>
+  <string name="passport_wrong_voice">Der eingegebene Code ist falsch</string>
   <string name="passport_xiaomi_account_dspt">Nutzen Sie Ihr Mi Konto, um überall auf die Mi Cloud, den MIUI Theme Store und weitere Dienste zuzugreifen</string>
   <string name="passport_xiaomi_account_sec_dspt2">Zur Anmeldung Ihres Mi Kontos wird eine Internetverbindung benötigt. Anschließend wird die Standortbestimmung, die Mi Cloud und Mi VIP automatisch eingeschaltet.</string>
   <string name="passport_xiaomi_account_sec_dspt2_vip">Anmelden bei Ihrem Mi Konto erfordert eine Internetverbindung. Darüber hinaus werden Zugangsdaten wie Mi Cloud und Mi VIP automatisch aktiviert.</string>
+  <string name="passport_yes">Ja</string>
   <string name="password">Passwort eingeben</string>
   <string name="passwort_license_host_unreachable">Netzwerkverbindung kann nicht hergestellt werden. Sie können diese Seite unter %s ansehen.</string>
   <string name="passwort_privacy_policy">Datenschutzerklärung</string>
