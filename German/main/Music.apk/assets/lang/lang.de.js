@@ -20,8 +20,8 @@
 	"error_forbidden": "Synchronisieren wurde abgeschaltet wegen Problemen mit Ihrem Konto.",
 	"error_not_acceptable": "Synchronisation ist ausgeschaltet.",
 	"impunity_declaration_title": "Allgemeine Geschäftsbedingungen",
-	"impunity_declaration_content1": "\"Bei tippen auf Zustimmen, akzeptieren Sie die genannten Bedingungen unserer \"",
-	"impunity_declaration_content2": "\"Allgemeine Geschäftsbedingungen\"",
+	"impunity_declaration_content1": "\"Durch Tippen auf Zustimmen akzeptieren Sie die genannten Bedingungen unserer \"",
+	"impunity_declaration_content2": "\"allgemeinen Geschäftsbedingungen\"",
 	"impunity_declaration_content3": "\" und \"",
 	"impunity_declaration_content4": "\"Datenschutzerklärung\"",
 	"impunity_declaration_content5": ".",
@@ -251,8 +251,8 @@
 	"account_and_cloud": "Konto",
 	"my_account": "Mi Konto",
 	"Nquit_warning": {
-		"one": "\"Player wird stopen in ${v} Minute\"",
-		"other": "Player wird stoppen in ${v} minuten"
+		"one": "\"Player wird stoppen in ${v} Minute\"",
+		"other": "Player wird stoppen in ${v} Minuten"
 	},
 	"sleep_mode": "Sleep timer",
 	"close_music_time": "\"Verbleibende Zeit: \"",
@@ -343,7 +343,7 @@
 	"lyric_setting": "Songtexteeinstellungen",
 	"modify_lyric": "Songtexte bearbeiten",
 	"modify_progress": "Scrollgeschwindigkeit der Songtexte verändern",
-	"modify_progress_helper": "Streichem Sie nach oben oder unten um die Songtexte zu verfolgen",
+	"modify_progress_helper": "Streichen Sie nach oben oder unten um die Songtexte zu verfolgen",
 	"no_introduction": "Keine Zusammenfassung.",
 	"lyric_is_empty": "Keine Songtexte vorhanden",
 	"format_not_support": "Dieses Format wird nicht unterstützt",
