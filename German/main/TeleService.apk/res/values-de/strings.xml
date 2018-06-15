@@ -1440,6 +1440,8 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="no_sim_card_inserted">Bitte legen Sie SIM-Karte ein, um SIM-Toolkit zu starten</string>
   <string name="no_sip_account_found">Auf diesem Telefon befinden sich keine Konten für Internetanrufe. Möchten Sie jetzt ein Konto hinzufügen?</string>
   <string name="no_sip_account_found_title">Kein Konto für Internetanrufe</string>
+  <string name="no_unlock_chance_hint">"Sie haben keine Versuche mehr.
+Kontaktieren Sie Ihren Anbieter."</string>
   <string name="no_vm_number">Fehlende Sprachboxnummer</string>
   <string name="no_vm_number_msg">Auf der SIM-Karte ist keine Sprachboxnummer gespeichert</string>
   <string name="no_voip">Internetanrufe werden nicht unterstützt</string>
@@ -1526,6 +1528,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="ota_skip_activation_dialog_skip_label">Überspringen</string>
   <string name="ota_skip_activation_dialog_title">Aktivierung überspringen?</string>
   <string name="ota_speaker">Lautsprecher</string>
+ <string name="ota_spc_failure">ÜBERSCHÜSSIGE SPC-AUSFÄLLE</string>
   <string name="ota_successful">Ihr Telefon wurde aktiviert. Dauert bis zu 15 Minuten, bis der Dienst startet.</string>
   <string name="ota_title_activate">Telefon aktivieren</string>
   <string name="ota_title_activate_success">Telefon wurde erfolgreich aktiviert</string>
@@ -1719,6 +1722,7 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="preferred_network_type_pref_entries_only_3g">Nur 3G-Netzwerke</string>
   <string name="preferred_network_type_title">Bevorzugter Netzwerktyp</string>
   <string name="preferred_phone_account">Bevorzugtes Anrufkonto</string>
+  <string name="preferred_wificall_title">Netzwerkeinstellungen</string>
   <string name="primary_account_summary_with">Hauptkonto %s</string>
   <string name="private_num">Unterdrückte Nummer</string>
   <string name="proceed">Weiter</string>
@@ -1891,6 +1895,7 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="screen_zoom_summary_very_large">Größer</string>
   <string name="search_antispam_setting">Sperrliste</string>
   <string name="search_app_name">Telefon;Anrufaufnahme;Anrufe umleiten;Umleitung;Rufumleitung;Wartender Anruf;Anklopfen;Sperrliste;Ländervorwahl;Vorwahl;Ländervorwahlen;Vorwahlen;Anrufe aufnehmen;Anruf aufnehmen;Tastenfeld;Anruf;Anrufe;Telefonie;VoIP;VoLTE;Verpasster Anruf;Verpasste Anrufe;SIP;T9;IP Telefonie;Rufnummernbeschränkung;FDN</string>
+  <string name="search_menu_title">Suche</string>
   <string name="search_network_settings_title">Mobilfunknetz</string>
   <string name="search_networks">Suche Netz</string>
   <string name="selectContact">Kontakt auswählen</string>
@@ -1970,6 +1975,7 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="sim_label_emergency_calls">Notrufe</string>
   <string name="sim_manage_call_via">Anrufen über</string>
   <string name="sim_manage_sipcall">Internettelefonie</string>
+  <string name="sim_me_lock_disabled">SIM-Sperre ist ausgeschaltet</string>
   <string name="sim_ndp_dismiss_text">Verwerfen</string>
   <string name="sim_ndp_unlock_text">Entsperren</string>
   <string name="sim_no_activated">Nicht aktiviert</string>
@@ -1980,6 +1986,7 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="sim_unlock_failed">Entsperren der SIM fehlgeschlagen</string>
   <string name="sim_unlock_success">SIM erfolgreich entsperrt</string>
   <string name="sim_useless">SIM nicht verfügbar</string>
+  <string name="simmelock_name">SIM ME-Sperre</string>
   <string name="simulate_color_space">Farbraum simulieren</string>
   <string name="singleContactImportedMsg">Importierter Kontakt</string>
   <string name="sip_account_list">SIP-Konten</string>
@@ -2011,6 +2018,7 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="sp_unlock_failed">SIM-Dienstanbieterentsperranforderung erfolglos</string>
   <string name="sp_unlock_success">Entsperren des SIM-Diensteanbieters erfolgreich</string>
   <string name="speed_label_fast">Schnell</string>
+  <string name="speed_label_medium">Mittel</string>
   <string name="speed_label_slow">Langsam</string>
   <string name="speed_label_very_fast">Sehr schnell</string>
   <string name="speed_label_very_slow">Sehr langsam</string>
@@ -2029,6 +2037,7 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="stock_quotes_enable">Börsennotierungen aktiviert</string>
   <string name="stop_record">Beende Aufzeichnung</string>
   <string name="stop_record_vt">Beende Aufzeichnung</string>
+  <string name="strPasswordLengthIncorrect">4-16 Ziffern</string>
   <string name="str_db_playlist_name">Meine Aufzeichnungen</string>
   <string name="strict_mode">Strikter Modus aktiviert</string>
   <string name="strict_mode_summary">Bei längeren Aktionen im Hauptthread Bildschirm kurz einblenden</string>
@@ -2382,6 +2391,8 @@ Wollen Sie sich wieder verbinden, um den Anruf fortzusetzen?"</string>
   <string name="wifi_no_internet_no_reconnect">Keine automatische Verbindung</string>
   <string name="wifi_not_in_range">Nicht in Reichweite</string>
   <string name="wifi_only">Nur WLAN</string>
+  <string name="wifi_p2p_allow_passive_listen">WLAN P2p passives Zuhören zulassen</string>
+  <string name="wifi_p2p_allow_passive_listen_summary">WLAN P2p passives Zuhören zulassen/nicht zulassen, das Gerät kann keine anderen Geräte scannen, aber andere Geräte können das aktuelle Gerät scannen.</string>
   <string name="wifi_pref_none">Keine Präferenz gewählt</string>
   <string name="wifi_preferred">WLAN bevorzugt</string>
   <string name="wifi_remembered">Gespeichert</string>
