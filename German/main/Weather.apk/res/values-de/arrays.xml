@@ -15,13 +15,6 @@
     <item>&lt;3.7 mph</item>
     <item>&lt;3.2 kn</item>
   </string-array>
-  <string-array name="wind_unit_simple">
-    <item>Beaufortskala</item>
-    <item>km/h</item>
-    <item>m/s</item>
-    <item>mph</item>
-    <item>kn</item>
-  </string-array>
   <string-array name="aqi_detail_title">
     <item>Gut</item>
     <item>Mäßig</item>
@@ -33,13 +26,12 @@
   <string-array name="hot_city">
     <item>Peking</item>
     <item>Shanghai</item>
-    <item>Hong Kong</item>
-    <item>Taipei City</item>
+    <item>Hongkong</item>
+    <item>Taipeh</item>
     <item>Jakarta</item>
     <item>Delhi</item>
     <item>Mumbai</item>
     <item>Moskau</item>
-    <item>Hyderabad</item>
     <item>Chennai</item>
     <item>Istanbul</item>
     <item>Rio de Janeiro</item>
@@ -67,6 +59,20 @@
     <item>Schwach</item>
     <item>Mittel</item>
     <item>Stark</item>
+  </string-array>
+  <string-array name="minute_rain_array">
+    <item>Stark</item>
+    <item>Mäßig</item>
+    <item>Leicht</item>
+  </string-array>
+  <string-array name="pollution_level_desc_arr">
+    <item>Ausgezeichnet</item>
+    <item>Gut</item>
+    <item>Leicht verschmutzt</item>
+    <item>Mäßig verschmutzt</item>
+    <item>Stark verschmutzt</item>
+    <item>Ernsthaft verschmutzt</item>
+    <item>Außerhalb des Messbereichs</item>
   </string-array>
   <string-array name="weather_type">
     <item>Klar</item>
@@ -131,18 +137,11 @@
     <item>%1$s mph</item>
     <item>%1$s kn</item>
   </string-array>
-  <string-array name="minute_rain_array">
-    <item>Stark</item>
-    <item>Mäßig</item>
-    <item>Leicht</item>
-  </string-array>
-  <string-array name="pollution_level_desc_arr">
-    <item>Ausgezeichnet</item>
-    <item>Gut</item>
-    <item>Leicht verschmutzt</item>
-    <item>Mäßig verschmutzt</item>
-    <item>Stark verschmutzt</item>
-    <item>Ernsthaft verschmutzt</item>
-    <item>Außerhalb des Messbereichs</item>
+  <string-array name="wind_unit_simple">
+    <item>Beaufortskala</item>
+    <item>km/h</item>
+    <item>m/s</item>
+    <item>mph</item>
+    <item>kn</item>
   </string-array>
 </resources>
