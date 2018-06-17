@@ -23,12 +23,12 @@
   </string-array>
   <string-array name="animator_duration_scale_entries">
     <item>Animation aus</item>
-    <item>Dauer der Animation: 0.5x</item>
-    <item>Dauer der Animation: 1x</item>
-    <item>Dauer der Animation: 1.5x</item>
-    <item>Dauer der Animation: 2x</item>
-    <item>Dauer der Animation: 5x</item>
-    <item>Dauer der Animation: 10x</item>
+    <item>Animationsskala 0.5x</item>
+    <item>Animationsskala 1x</item>
+    <item>Animationsskala 1.5x</item>
+    <item>Animationsskala 2x</item>
+    <item>Animationsskala 5x</item>
+    <item>Animationsskala 10x</item>
   </string-array>
   <string-array name="anr_record_interval_entries">
     <item>10 s</item>
@@ -194,11 +194,11 @@
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Standardlimit</item>
-    <item>Keine Hintergrundprozesse</item>
-    <item>Höchstens 1 Prozess</item>
-    <item>Höchstens 2 Prozesse</item>
-    <item>Höchstens 3 Prozesse</item>
-    <item>Höchstens 4 Prozesse</item>
+	<item>Keine Hintergrundprozesse</item>
+	<item>Maximal 1 Prozess</item>
+	<item>Maximal 2 Prozesse</item>
+	<item>Maximal 3 Prozesse</item>
+	<item>Maximal 4 Prozesse</item>
   </string-array>
   <string-array name="automatic_storage_management_days">
     <item>Über 30 Tage alt</item>
@@ -438,7 +438,7 @@
     <item>Keiner</item>
     <item>Logcat</item>
     <item>Systrace (Grafik)</item>
-    <item>Aufrufliste für glGetError</item>
+    <item>Aufrufstapel auf glGetError</item>
   </string-array>
   <string-array name="entries_color_calibration">
     <item>sRGB</item>
@@ -905,12 +905,12 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="transition_animation_scale_entries">
     <item>Animation aus</item>
-    <item>Dauer der Animation: 0.5x</item>
-    <item>Dauer der Animation: 1x</item>
-    <item>Dauer der Animation: 1.5x</item>
-    <item>Dauer der Animation: 2x</item>
-    <item>Dauer der Animation: 5x</item>
-    <item>Dauer der Animation: 10x</item>
+    <item>Animationsskala 0.5x</item>
+    <item>Animationsskala 1x</item>
+    <item>Animationsskala 1.5x</item>
+    <item>Animationsskala 2x</item>
+    <item>Animationsskala 5x</item>
+    <item>Animationsskala 10x</item>
   </string-array>
   <string-array name="tts_pitch_entries">
     <item>Sehr niedrig</item>
@@ -1101,12 +1101,12 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Animation aus</item>
-    <item>Dauer der Animation: 0.5x</item>
-    <item>Dauer der Animation: 1x</item>
-    <item>Dauer der Animation: 1.5x</item>
-    <item>Dauer der Animation: 2x</item>
-    <item>Dauer der Animation: 5x</item>
-    <item>Dauer der Animation: 10x</item>
+    <item>Animationsskala 0.5x</item>
+    <item>Animationsskala 1x</item>
+    <item>Animationsskala 1.5x</item>
+    <item>Animationsskala 2x</item>
+    <item>Animationsskala 5x</item>
+    <item>Animationsskala 10x</item>
   </string-array>
   <string-array name="date_of_app_all">
     <item>Daten heute</item>

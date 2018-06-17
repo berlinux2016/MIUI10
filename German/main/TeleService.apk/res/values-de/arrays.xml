@@ -117,13 +117,13 @@
   <string-array name="enable_opengl_traces_entries">
     <item>Keine</item>
     <item>Logcat</item>
-    <item>Systrace (Graphics)</item>
-    <item>Call stack on glGetError</item>
+    <item>Systrace (Grafik)</item>
+    <item>Aufrufstapel auf glGetError</item>
   </string-array>
   <string-array name="hdcp_checking_summaries">
-    <item>Verwenden Sie niemals die HDCP-Prüfung</item>
-    <item>Verwenden Sie die HDCP-Prüfung nur für DRM-Inhalte</item>
-    <item>Verwenden Sie immer die HDCP-Prüfung</item>
+    <item>Niemals HDCP-Prüfung verwenden</item>
+    <item>HDCP-Prüfung nur für DRM-Inhalte verwenden</item>
+    <item>Immer HDCP-Prüfung verwenden</item>
   </string-array>
   <string-array name="hdcp_checking_titles">
     <item>Niemals prüfen</item>
@@ -189,8 +189,8 @@
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Aus</item>
-    <item>Zeichnen Sie nicht rechteckige Clip-Region in blau</item>
-    <item>Markieren Sie die getesteten Zeichnungsbefehle grün</item>
+    <item>Nicht rechteckigen Clipbereich blau zeichnen</item>
+    <item>Getestete Zeichenbefehle grün hervorheben</item>
   </string-array>
   <string-array name="track_frame_time_entries">
     <item>Aus</item>
@@ -222,7 +222,7 @@
     <item>MTP (Media Transfer Protocol)</item>
     <item>PTP (Picture Transfer Protocol)</item>
     <item>RNDIS (USB Ethernet)</item>
-    <item>Audio Quelle</item>
+    <item>Audioquelle</item>
     <item>MIDI</item>
   </string-array>
   <string-array name="uplmn_prefer_network_mode_td_choices">
@@ -244,7 +244,7 @@
     <item>Authentifizieren…</item>
     <item>IP-Adresse erhalten…</item>
     <item>Verbunden</item>
-    <item>Entfernt</item>
+    <item>Angehalten</item>
     <item>Trennen…</item>
     <item>Getrennt</item>
     <item>Erfolglos</item>
@@ -258,7 +258,7 @@
     <item>Authentifizieren mit %1$s…</item>
     <item>IP-Adresse erhalten von %1$s…</item>
     <item>Verbunden mit %1$s</item>
-    <item>Entfernt</item>
+    <item>Angehalten</item>
     <item>Trennen von %1$s…</item>
     <item>Getrennt</item>
     <item>Erfolglos</item>

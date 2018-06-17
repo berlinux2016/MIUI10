@@ -17,8 +17,81 @@
     <item>Maximal 3 Prozesse</item>
     <item>Maximal 4 Prozesse</item>
   </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <item>Systemauswahl nutzen (Standard)</item>
+	<item>16 bits/sample</item>
+    <item>24 bits/sample</item>
+    <item>32 bits/sample</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+    <item>Systemauswahl nutzen (Standard)</item>
+	<item>16 bits/sample</item>
+    <item>24 bits/sample</item>
+    <item>32 bits/sample</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    <item>Optimiert für Audioqualität</item>
+    <item>Ausgewogene Audio- und Verbindungsqualität</item>
+    <item>Optimiert auf Verbindungsqualität</item>
+    <item>Beste Leistung (Adaptive Bitrate)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    <item>Optimiert für Audioqualität (990kbps/909kbps)</item>
+    <item>Ausgewogene Audio- und Verbindungsqualität (660kbps/606kbps)</item>
+    <item>Optimiert auf Verbindungsqualität (330kbps/303kbps)</item>
+    <item>Beste Leistung (Adaptive Bitrate)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>aptX</item>
+    <item>aptX HD</item>
+    <item>LDAC</item>
+    <item>Optionale Codecs aktivieren</item>
+    <item>Optionale Codecs deaktivieren</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>Systemauswahl nutzen (Standard)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>aptX</item>
+    <item>aptX HD</item>
+    <item>LDAC</item>
+    <item>Optionale Codecs aktivieren</item>
+    <item>Optionale Codecs deaktivieren</item>
+  </string-array>
+  <string-array name="bluetooth_avrcp_versions">
+    <item>AVRCP 1.4 (Standard)</item>
+    <item>AVRCP 1.5</item>
+    <item>AVRCP 1.6</item>
+  </string-array>
   <string-array name="color_mode_descriptions">
-    <item>Erweiterte Farben</item>
+    <item>Verbesserte Farben</item>
     <item>Natürliche Farben wie vom Auge gesehen</item>
     <item>Farben für digitale Inhalte optimiert</item>
   </string-array>
@@ -26,11 +99,15 @@
     <item>Lebendig (Standard)</item>
     <item>Natürlich</item>
     <item>Standard</item>
-  </string-array>
+    </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Aus</item>
-    <item>Überzeichnungsbereiche anzeigen</item>
-    <item>Bereiche für Deuteranomalie anzeigen</item>
+    <item>Zeige überzogene Bereiche</item>
+    <item>Zeige Bereiche für Farbenfehlsichtige</item>
+  </string-array>
+  <string-array name="debug_hw_renderer_entries">
+    <item>OpenGL (Standard)</item>
+    <item>OpenGL (Skia)</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Keine</item>
@@ -45,7 +122,7 @@
   </string-array>
   <string-array name="hdcp_checking_titles">
     <item>Niemals prüfen</item>
-    <item>Nur DRM-Inhalte prüfen</item>
+    <item>Nur auf DRM-Inhalte prüfen</item>
     <item>Immer prüfen</item>
   </string-array>
   <string-array name="overlay_display_devices_entries">
@@ -62,14 +139,6 @@
     <item>4K (skaliert, sicher)</item>
     <item>720p, 1080p (Dualbildschirm)</item>
   </string-array>
-  <string-array name="select_logd_size_titles">
-    <item>Aus</item>
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
-    <item>4M</item>
-    <item>16M</item>
-  </string-array>
   <string-array name="select_logd_size_lowram_titles">
     <item>Aus</item>
     <item>64K</item>
@@ -78,11 +147,31 @@
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Aus</item>
-    <item>64K pro Log-Puffer</item>
-    <item>256K pro Log-Puffer</item>
-    <item>1M pro Log-Puffer</item>
-    <item>4M pro Log-Puffer</item>
-    <item>16M pro Log-Puffer</item>
+    <item>64K per log buffer</item>
+    <item>256K per log buffer</item>
+    <item>1M per log buffer</item>
+    <item>4M per log buffer</item>
+    <item>16M per log buffer</item>
+  </string-array>
+  <string-array name="select_logd_size_titles">
+    <item>Aus</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+    <item>4M</item>
+    <item>16M</item>
+  </string-array>
+  <string-array name="select_logpersist_summaries">
+    <item>Aus</item>
+    <item>Alle Protokollpuffer</item>
+    <item>Alle außer Funkprotokollpuffer</item>
+    <item>Nur Kernel-Protokollpuffer</item>
+  </string-array>
+  <string-array name="select_logpersist_titles">
+    <item>Aus</item>
+    <item>Alle</item>
+    <item>Alle außer Funk</item>
+    <item>Nur Kernel</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Aus</item>
@@ -91,8 +180,8 @@
   </string-array>
   <string-array name="track_frame_time_entries">
     <item>Aus</item>
-    <item>Auf dem Bildschirm als Balken</item>
-    <item>In adb shell dumpsys gfxinfo</item>
+    <item>Auf dem Bildschirm als Linien</item>
+    <item>In adb Shell Dumpsys gfxinfo</item>
   </string-array>
   <string-array name="transition_animation_scale_entries">
     <item>Animation aus</item>
@@ -102,14 +191,6 @@
     <item>Animationsskala 2x</item>
     <item>Animationsskala 5x</item>
     <item>Animationsskala 10x</item>
-  </string-array>
-  <string-array name="tts_demo_string_langs">
-    <item>Eng</item>
-    <item>Fra</item>
-    <item>Deu</item>
-    <item>Ita</item>
-    <item>Spa</item>
-    <item>Kor</item>
   </string-array>
   <string-array name="tts_rate_entries">
     <item>Sehr langsam</item>
