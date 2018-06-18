@@ -30,7 +30,6 @@
   <string name="auto_backup_select_user_apps">Apps auswählen</string>
   <string name="auto_backup_selected_user_apps">Ausgewählte Apps</string>
   <string name="auto_backup_setting">Auto-Sicherungseinstellungen</string>
-  <string name="auto_backup_system_data">System</string>
   <string name="auto_backup_time">Zeitplan</string>
   <string name="backup">Sicherungen</string>
   <string name="backup_data">Daten sichern</string>
@@ -124,11 +123,11 @@
   <string name="err_filesystem_mount">Auf den Speicher des Routers kann nicht zugegriffen werden</string>
   <string name="err_low_storage">Nicht genügend Speicher</string>
   <string name="err_not_allow">Nicht unterstützt</string>
-  <string name="err_pkg_not_exist">Konnte keine App finden.</string>
+  <string name="err_pkg_not_exist">Konnte keine App finden</string>
   <string name="err_router_disconnected">Prüfen Sie die Router-Verbindung und versuchen Sie es erneut</string>
   <string name="err_router_files_delete">Sicherungsdateien auf Ihrem Router konnten nicht gelöscht werden</string>
   <string name="err_unknown">Unbekannter Fehler</string>
-  <string name="err_user_abort">Vom Benutzer abgebrochen.</string>
+  <string name="err_user_abort">Vom Benutzer abgebrochen</string>
   <string name="err_version_too_old">Sicherungsdatei ist zu alt</string>
   <string name="err_version_unsupported">Sicherungsversion wird nicht unterstützt</string>
   <string name="error_permissions">Diese App verfügt nicht über Zugriffsberechtigungen für den Kalender. Gehen Sie zu den Einstellungen und überprüfen Sie die Berechtigungen.</string>
@@ -314,7 +313,7 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="sdcard_no_enough_space">Nicht genügend Speicherplatz</string>
   <string name="sdcard_no_enough_space_message">Es ist nicht genügend Speicherplatz auf Ihrer SD-Karte vorhanden</string>
   <string name="sdcard_unmounted">Keine SD-Karte gefunden</string>
-  <string name="see_backup_files_on_router">Sicherungen auf MiRouter %s anzeigen</string>
+  <string name="see_backup_files_on_router">Sicherungen auf Mi Router %s anzeigen</string>
   <string name="select_all">Alle</string>
   <string name="select_backup_item">Elemente auswählen</string>
   <string name="select_empty">Elemente zum Importieren auswählen</string>
@@ -348,7 +347,7 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="task_backup_finished_local">"Gesichert "</string>
   <string name="task_canceled">Sicherung abgebrochen</string>
   <string name="task_canceled_all_local">Abgebrochen</string>
-  <string name="task_canceled_local">Abgebrochen. %s ist komplett</string>
+  <string name="task_canceled_local">Abgebrochen. %s ist komplett.</string>
   <string name="task_cloud_backup_cancel_dialog">Sicherung ist noch nicht abgeschlossen. Vorgang trotzdem abbrechen?</string>
   <string name="task_failed">Fehlgeschlagen</string>
   <string name="task_failed_all_local">Fehlgeschlagen</string>
@@ -420,7 +419,6 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="trans_generate_qr_code_failed">QR-Code konnte nicht erstellt werden</string>
   <string name="trans_generate_qrcode_failed">Konnte keinen QR-Code generieren. Nochmal versuchen.</string>
   <string name="trans_generating_qrcode">Generiere QR code…</string>
-  <string name="trans_install_guide_button_start">Start</string>
   <string name="trans_install_guide_page_title">Installieren Sie Mi Mover auf Ihrem alten Telefon</string>
   <string name="trans_install_guide_scan_install_tip">Scannen Sie diesen QR-Code mit Ihrem alten Telefon,
 um Mi Mover herunterzuladen und zu installieren."</string>
@@ -441,7 +439,6 @@ um Mi Mover herunterzuladen und zu installieren."</string>
   <string name="trans_intro_desc_9_method_1_title">1. Teilen Sie Ihr Feedback mit der \"Feedback\" App.</string>
   <string name="trans_intro_desc_9_method_2_dec">Senden Sie Ihr Feedback an miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_2_title">2. Senden Sie uns eine E-Mail</string>
-  <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
   <string name="trans_intro_desc_9_method_3_title">3. Probleme melden in QQ</string>
   <string name="trans_intro_desc_account">Aus Sicherheitsgründen müssen Sie sich bei Ihren Konten (z. B. Mi Account, Exchange, Google, etc.) auf einem neuen Gerät erneut anmelden.</string>
   <string name="trans_intro_desc_multiapp">Mi Mover überträgt keine Dual Apps-Daten, um Konflikte zwischen Dateien zu vermeiden.</string>
@@ -459,7 +456,6 @@ um Mi Mover herunterzuladen und zu installieren."</string>
   <string name="trans_intro_question_7">%d. Warum starten manche Apps nicht auf einem neuen Gerät?</string>
   <string name="trans_intro_question_8">%d. Warum wird der WeChat Verlauf nicht vollständig übertragen?</string>
   <string name="trans_intro_question_9">%d. Welche Elemente können nicht übernommen werden?</string>
-  <string name="trans_intro_question_9_market">%d. Feedback.</string>
   <string name="trans_intro_title_account">Konten und Passwörter:</string>
   <string name="trans_intro_title_multiapp">Daten von geklonten Apps:</string>
   <string name="trans_intro_title_multiuser">Zweitprofildaten:</string>
