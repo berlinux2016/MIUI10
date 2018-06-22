@@ -2,7 +2,19 @@
 <resources>
   <plurals name="add_game_notification_title">
     <item quantity="other">%d Spiele hinzugefügt</item>
-    <item quantity="one">Ein Spiel hinzugefügt</item>
+    <item quantity="one">%d Spiel hinzugefügt</item>
+  </plurals>
+  <plurals name="app_check_title_text">
+    <item quantity="other">%d Elemente können optimiert werden.</item>
+    <item quantity="one">%d Element kann optimiert werden.</item>
+  </plurals>
+  <plurals name="app_manager_permission_summary_accept">
+    <item quantity="other">%d Berechtigungen erlaubt</item>
+    <item quantity="one">%d Berechtigung erlaubt</item>
+  </plurals>
+  <plurals name="app_manager_permission_summary_ask">
+    <item quantity="other">Nach %d Berechtigungen fragen</item>
+    <item quantity="one">Nach %d Berechtigung fragen</item>
   </plurals>
   <plurals name="app_manager_reject_count">
     <item quantity="other">%d mal blockiert</item>
@@ -13,16 +25,16 @@
     <item quantity="one">Einmal</item>
   </plurals>
   <plurals name="app_usage_day">
-    <item quantity="other">vor %d Tagen verwendet</item>
+    <item quantity="other">Vor %d Tagen verwendet</item>
     <item quantity="one">Gestern verwendet</item>
   </plurals>
   <plurals name="app_usage_month">
     <item quantity="other">Vor %d Monaten verwendet</item>
-    <item quantity="one">Gestern verwendet</item>
+    <item quantity="one">Vor %d Monat verwendet</item>
   </plurals>
   <plurals name="app_usage_year">
     <item quantity="other">Vor %d Jahren verwendet</item>
-    <item quantity="one">Vor einem Jahr verwendet</item>
+    <item quantity="one">Vor %d Jahr verwendet</item>
   </plurals>
   <plurals name="bg_network_allow_count">
     <item quantity="other">%d Apps können sich im Hintergrund mit dem Netzwerk verbinden.</item>
@@ -32,17 +44,25 @@
     <item quantity="other">%d Apps können sich im Hintergrund nicht mit dem Netzwerk verbinden.</item>
     <item quantity="one">%d App kann sich im Hintergrund nicht mit dem Netzwerk verbinden.</item>
   </plurals>
+  <plurals name="cache_check_content">
+    <item quantity="other">%d Apps werden geschützt</item>
+    <item quantity="one">%d App wird geschützt</item>
+  </plurals>
   <plurals name="daily_sim_over_limit_dialog_message">
     <item quantity="other">"Sie haben bereits %s vom täglichen Datenlimit verwendet.
 
 Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Daten berechnen."</item>
-    <item quantity="one">"Sie haben bereits einen vom täglichen Datenlimit verwendet.
+    <item quantity="one">"Sie haben bereits %s vom täglichen Datenlimit verwendet.
 
 Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Daten berechnen."</item>
   </plurals>
   <plurals name="daily_sim_over_limit_notify_title">
     <item quantity="other">Sie haben bereits %s vom täglichen Datenlimit genutzt.</item>
     <item quantity="one">Sie haben bereits %s tägliches Datenlimit genutzt.</item>
+  </plurals>
+  <plurals name="deep_clean_auto_memory_clean">
+    <item quantity="other">In %1$d Minuten</item>
+    <item quantity="one">In %1$d Minute</item>
   </plurals>
   <plurals name="fw_blocked_count_call">
     <item quantity="other">%1$d Anrufe von %2$s und andere</item>
@@ -54,7 +74,16 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
   </plurals>
   <plurals name="fw_blocked_count_sms">
     <item quantity="other">%d Nachrichten</item>
-    <item quantity="one">Eine Nachricht</item>
+    <item quantity="one">%d Nachricht</item>
+  </plurals>
+  <plurals name="find_applications">
+    <item quantity="other">%d Apps durchsuchen</item>
+    <item quantity="one">%d App durchsuchen</item>
+  </plurals>
+  <plurals name="found_apps_title">
+    <item quantity="other">%d Apps gefunden</item>
+	<item quantity="zero">0 Apps gefunden</item>
+    <item quantity="one">%d App gefunden</item>
   </plurals>
   <plurals name="gb_ad_people_play">
     <item quantity="other">%1$d Personen spielen</item>
@@ -64,53 +93,274 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
     <item quantity="other">%1$d Personen spielen</item>
     <item quantity="one">%1$d Person spielt</item>
   </plurals>
+  <plurals name="gb_signed_days_sum">
+    <item quantity="other">%d Tage in Folge angemeldet</item>
+    <item quantity="one">%d Anmeldezeit</item>
+  </plurals>
+  <plurals name="hints_apps_perm_count">
+    <item quantity="other">%d Zugriffsrechte</item>
+    <item quantity="one">%d Zugriffsrecht</item>
+  </plurals>
+  <plurals name="hints_auto_start_disable_title">
+    <item quantity="other">%d Apps dürfen nicht automatisch starten</item>
+    <item quantity="one">%d App darf nicht automatisch starten</item>
+  </plurals>
+  <plurals name="hints_auto_start_enable_title">
+    <item quantity="other">%d Apps starten automatisch</item>
+    <item quantity="one">%d App startet automatisch</item>
+  </plurals>
+  <plurals name="hints_get_root_disable_title">
+    <item quantity="other">%d Apps haben keinen Rootzugriff</item>
+    <item quantity="one">%d App hat keinen Rootzugriff</item>
+  </plurals>
+  <plurals name="hints_get_root_enable_title">
+    <item quantity="other">%d Apps haben Rootzugriff</item>
+    <item quantity="one">%d App hat Rootzugriff</item>
+  </plurals>
+   <plurals name="hints_handle_item_text_risk_number">
+    <item quantity="other">"%d Risiken | "</item>
+    <item quantity="one">"%d Risiko | "</item>
+  </plurals>
+  <plurals name="hints_handle_item_text_virus_number">
+    <item quantity="other">%d Trojaner</item>
+    <item quantity="one">%d Trojaner</item>
+  </plurals>
+  <plurals name="hints_install_apps_interval">
+    <item quantity="other">Vor %d Tagen verwendet</item>
+    <item quantity="one">Gestern verwendet</item>
+  </plurals>
+  <plurals name="hints_permission_apps_count">
+    <item quantity="other">%d Apps</item>
+    <item quantity="one">%d App</item>
+  </plurals>
+  <plurals name="hints_roaming_disable_title">
+    <item quantity="other">%d Apps dürfen Datenroaming nicht verwenden.</item>
+    <item quantity="one">%d App darf Datenroaming nicht verwenden.</item>
+  </plurals>
+  <plurals name="hints_roaming_enable_title">
+    <item quantity="other">%d Apps dürfen Datenroaming verwenden.</item>
+    <item quantity="one">%d App darf Datenroaming verwenden.</item>
+  </plurals>
+  <plurals name="hints_roaming_found_app_count_title">
+    <item quantity="other">%d Apps gefunden</item>
+    <item quantity="one">%d App gefunden</item>
+  </plurals>
+  <plurals name="hints_scan_result_danger">
+    <item quantity="other">%d Risiken gefunden, jetzt beheben</item>
+    <item quantity="one">%d Risiko gefunden, jetzt beheben</item>
+  </plurals>
+  <plurals name="hints_scan_result_virus_number">
+    <item quantity="other">%d Risiken</item>
+    <item quantity="one">%d Risiko</item>
+  </plurals>
+  <plurals name="hints_traffic_disable_title">
+    <item quantity="other">%d Apps optimiert</item>
+    <item quantity="one">%d App optimiert</item>
+  </plurals>
+  <plurals name="hints_traffic_enable_title">
+    <item quantity="other">Datenverbrauch für %d Apps wird nicht aufgezeichnet</item>
+    <item quantity="one">Datenverbrauch für %d App wird nicht aufgezeichnet</item>
+  </plurals>
   <plurals name="install_game_count_title">
     <item quantity="other">%d Spiele hinzugefügt</item>
-    <item quantity="one">Ein Spiel hinzugefügt</item>
+    <item quantity="one">%d Spiel hinzugefügt</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="other">Passwort sollte mindestens %d Buchstaben enthalten</item>
+    <item quantity="one">Passwort sollte mindestens %d Buchstaben enthalten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="other">Passwort sollte mindestens %d Kleinbuchstaben enthalten</item>
+    <item quantity="one">Passwort sollte mindestens %d Kleinbuchstaben enthalten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="other">Passwort sollte mindestens %d Zeichen enthalten ohne Buchstaben</item>
+    <item quantity="one">Passwort sollte mindestens %d Zeichen enthalten ohne Buchstaben</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="other">Passwort sollte mindestens %d Ziffern enthalten</item>
+    <item quantity="one">Passwort sollte mindestens %d Ziffer enthalten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="other">Passwort sollte mindestens %d Sonderzeichen enthalten</item>
+    <item quantity="one">Passwort sollte mindestens %d Sonderzeichen enthalten</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="other">Passwort sollte mindestens %d Großbuchstaben enthalten</item>
+    <item quantity="one">Passwort sollte mindestens %d Großbuchstaben enthalten</item>
   </plurals>
   <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
     <item quantity="other">Warten Sie %d Sekunden und versuchen Sie es erneut.</item>
-    <item quantity="one">Warten Sie eine Sekunde und versuchen Sie es erneut.</item>
+    <item quantity="one">Warten Sie %d Sekunde und versuchen Sie es erneut.</item>
   </plurals>
   <plurals name="manual_white_list_header">
     <item quantity="other">%d Ausnahmen</item>
-    <item quantity="one">Eine Ausnahme</item>
+    <item quantity="one">%d Ausnahme</item>
   </plurals>
   <plurals name="marked_by_others">
     <item quantity="other">%d andere Benutzer markierten es als</item>
-    <item quantity="one">Ein anderer Benutzer markiert es als</item>
+    <item quantity="one">%d anderer Benutzer markiert es als</item>
+  </plurals>
+  <plurals name="million">
+    <item quantity="other">Von %1$d Leuten heruntergeladen</item>
+  </plurals>
+  <plurals name="net_booster_expire_notification_tip">
+    <item quantity="other">%d Tage verbleibend, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Erneuern Sie die Sitzung, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</item>
+    <item quantity="one">%d Tag verbleibend, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Erneuern Sie die Sitzung, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</item>
+  </plurals>
+  <plurals name="network_restrict_count">
+    <item quantity="other">"Netzwerkzugang ist beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> Apps"</item>
+    <item quantity="one">"Netzwerkzugang ist beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> App"</item>
+  </plurals>
+  <plurals name="notification_apps">
+    <item quantity="other">%d Apps stellen ein Datenschutzrisiko dar</item>
+    <item quantity="one">%d App stellt ein Datenschutzrisiko dar</item>
   </plurals>
   <plurals name="notification_title_cmcc_app_check">
     <item quantity="other">%d Tage seit letzter Prüfung</item>
-    <item quantity="one">Ein Tag seit letzter Prüfung</item>
+    <item quantity="one">%d Tag seit letzter Prüfung</item>
+  </plurals>
+  <plurals name="number_locked">
+    <item quantity="other">%d Apps gesperrt</item>
+    <item quantity="one">%d App gesperrt</item>
+  </plurals>
+  <plurals name="number_masked">
+    <item quantity="other">%d</item>
+    <item quantity="one">%d</item>
+  </plurals>
+  <plurals name="number_masked_text">
+     <item quantity="other">%d Benachrichtigungen wurden ausgeblendet</item>
+     <item quantity="one">%d Benachrichtigung wurde ausgeblendet</item>
+  </plurals>
+  <plurals name="number_to_lock">
+    <item quantity="other">%d Apps sind nicht gesperrt</item>
+    <item quantity="one">%d App ist nicht gesperrt</item>
+  </plurals>
+  <plurals name="number_to_mask_text">
+     <item quantity="other">%d Benachrichtigungen werden anzeigt</item>
+     <item quantity="one">%d Benachrichtigung wird angezeigt</item>
   </plurals>
   <plurals name="om_ill_proc_multi_app_title">
-    <item quantity="other">%d Apps funktionieren nicht richtig und entleeren den Akku.</item>
-    <item quantity="one">Eine App funktioniert nicht richtig und entleert den Akku.</item>
+    <item quantity="other">%d Apps funktionieren nicht richtig und entleeren den Akku</item>
+    <item quantity="one">%d App funktioniert nicht richtig und entleert den Akku</item>
+  </plurals>
+  <plurals name="optimize_result_button_add_score">
+    <item quantity="other">+%d Punkte</item>
+    <item quantity="one">+%d Punkt</item>
+  </plurals>
+  <plurals name="people">
+    <item quantity="other">Von %1$d Leuten heruntergeladen</item>
+  </plurals>
+  <plurals name="people_million">
+    <item quantity="other">Von %1$d Leuten heruntergeladen</item>
+  </plurals>
+  <plurals name="power_center_battery_day">
+    <item quantity="other">"%d Tage "</item>
+    <item quantity="one">"%d Tag "</item>
+  </plurals>
+  <plurals name="power_center_battery_hour">
+    <item quantity="other">"%d Std "</item>
+    <item quantity="one">"%d Std "</item>
+  </plurals>
+  <plurals name="power_center_battery_minute">
+    <item quantity="other">"%d Min "</item>
+    <item quantity="one">"%d Min "</item>
+  </plurals>
+  <plurals name="quick_optimize_issue_count">
+    <item quantity="other">%d Akkuprobleme</item>
+    <item quantity="one">%d Akkuproblem</item>
+  </plurals>
+  <plurals name="quick_optimize_issue_found">
+    <item quantity="other">%d Akkuprobleme gefunden</item>
+    <item quantity="one">%d Akkuproblem gefunden</item>
+  </plurals>
+  <plurals name="quick_optimize_suggest_issue_found">
+    <item quantity="other">%d Akkuprobleme gefunden, bitte beheben</item>
+    <item quantity="one">%d Akkuproblem gefunden, bitte beheben</item>
+  </plurals>
+  <plurals name="quick_optimize_summary_text">
+    <item quantity="other">%d Akkuprobleme behoben</item>
+    <item quantity="one">%d Akkuproblem behoben</item>
+  </plurals>
+  <plurals name="result_sign_header">
+    <item quantity="other">%d inoffizielle Apps gefunden</item>
+    <item quantity="one">%d inoffizielle App gefunden</item>
+  </plurals>
+  <plurals name="result_virus_header">
+    <item quantity="other">%d Viren und unsichere Apps gefunden</item>
+    <item quantity="one">%d Virus/App gefunden</item>
+  </plurals>
+  <plurals name="search_app_count_txt_na">
+    <item quantity="other">%d Apps durchsuchen</item>
+    <item quantity="one">%d App durchsuchen</item>
+  </plurals>
+  <plurals name="section_clear_acc_item_right_tips">
+    <item quantity="other">%d gesperrte Apps warten auf Bereinigung</item>
+    <item quantity="one">%d gesperrte App wartet auf Bereinigung</item>
+  </plurals>
+  <plurals name="section_security_defend_item_right_tips">
+    <item quantity="other">%d Viren entfernt</item>
+    <item quantity="one">%d Virus entfernt</item>
+  </plurals>
+  <plurals name="sp_back_title_text">
+    <item quantity="other">%s Zahlungsrisiken</item>
+    <item quantity="one">%s Zahlungsrisiko</item>
+  </plurals>
+  <plurals name="sp_monitored_apps_count">
+    <item quantity="other">%s Zahlungsapps sind geschützt</item>
+    <item quantity="one">%s Zahlungsapp ist geschützt</item>
+  </plurals>
+  <plurals name="sp_monitored_apps_list_group_disable">
+    <item quantity="other">%s Apps sind nicht geschützt</item>
+    <item quantity="one">%s App ist nicht geschützt</item>
+  </plurals>
+  <plurals name="sp_monitored_apps_list_group_enable">
+    <item quantity="other">%s Apps sind geschützt</item>
+    <item quantity="one">%s App ist geschützt</item>
+  </plurals>
+  <plurals name="sp_settings_exception_count">
+    <item quantity="other">%d Einträge</item>
+    <item quantity="one">%d Eintrag</item>
   </plurals>
   <plurals name="st_show_num_keyword">
     <item quantity="other">%d Schlüsselwörter</item>
-    <item quantity="one">Ein Schlüsselwort</item>
+    <item quantity="one">%d Schlüsselwort</item>
   </plurals>
   <plurals name="st_show_num_number">
     <item quantity="other">%d Nummern</item>
-    <item quantity="one">Eine Nummer</item>
+    <item quantity="one">%d Nummer</item>
+  </plurals>
+  <plurals name="summary_app_update">
+    <item quantity="other">Updates für %d Apps vorhanden</item>
+    <item quantity="one">Update für %d App vorhanden</item>
   </plurals>
   <plurals name="summary_flow_verify">
-    <item quantity="other">Die Datennutzungsstatistiken wurden seit %d Tagen nicht mehr synchronisiert.</item>
-    <item quantity="one">Die Datennutzungsstatistiken wurden seit einem Tag nicht mehr synchronisiert.</item>
+    <item quantity="other">Datennutzungsstatistiken wurden seit %d Tagen nicht mehr synchronisiert</item>
+    <item quantity="one">Datennutzungsstatistiken wurden seit %d Tag nicht mehr synchronisiert</item>
+  </plurals>
+  <plurals name="system_check_content">
+    <item quantity="other">%1$d Elemente sind sicher</item>
+    <item quantity="one">%d Element ist sicher</item>
   </plurals>
   <plurals name="title_virus_clean">
     <item quantity="other">%d Viren gelöscht</item>
-    <item quantity="one">Einen Virus gelöscht</item>
+    <item quantity="one">%d Virus gelöscht</item>
   </plurals>
   <plurals name="traffic_setting_app_count">
     <item quantity="other">%d Apps</item>
-    <item quantity="one">Eine App</item>
+    <item quantity="one">%d App</item>
   </plurals>
   <plurals name="uninstall_game_count_title">
     <item quantity="other">%d nicht hinzugefügte Spiele</item>
-    <item quantity="one">Ein nicht hinzugefügtes Spiel</item>
+    <item quantity="one">%d nicht hinzugefügtes Spiel</item>
+  </plurals>
+  <plurals name="view_num">
+    <item quantity="other">%1$d Aufrufe</item>
+	<item quantity="zero">%1$d Aufrufe</item>
+    <item quantity="one">%1$d Aufruf</item>
+    <item quantity="two">%1$d Aufrufe</item>
+    <item quantity="few">%1$d Aufrufe</item>
+    <item quantity="many">%1$d Aufrufe</item>
   </plurals>
   <plurals name="white_list_risk_app_header">
     <item quantity="other">Gefährliche Apps: %d</item>
@@ -119,250 +369,5 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
   <plurals name="white_list_trojan_header">
     <item quantity="other">Trojaner: %d</item>
     <item quantity="one">Trojaner: %d</item>
-  </plurals>
-  <plurals name="hints_traffic_enable_title">
-    <item quantity="other">Datenverbrauch für %d Apps wird nicht aufgezeichnet</item>
-    <item quantity="one">Datenverbrauch für eine App wird nicht aufgezeichnet</item>
-  </plurals>
-  <plurals name="hints_traffic_disable_title">
-    <item quantity="other">%d Apps optimiert</item>
-    <item quantity="one">Eine App optimiert</item>
-  </plurals>
-  <plurals name="hints_install_apps_interval">
-    <item quantity="other">Vor %d Tagen verwendet</item>
-    <item quantity="one">Gestern verwendet</item>
-  </plurals>
-  <plurals name="search_app_count_txt_na">
-    <item quantity="other">%d Apps durchsuchen</item>
-    <item quantity="one">Eine App durchsuchen</item>
-  </plurals>
-  <plurals name="hints_roaming_enable_title">
-    <item quantity="other">%d Apps dürfen Datenroaming verwenden.</item>
-    <item quantity="one">Eine App darf Datenroaming verwenden.</item>
-  </plurals>
-  <plurals name="hints_roaming_disable_title">
-    <item quantity="other">%d Apps dürfen Datenroaming nicht verwenden.</item>
-    <item quantity="one">Eine App darf Datenroaming nicht verwenden.</item>
-  </plurals>
-  <plurals name="hints_roaming_found_app_count_title">
-    <item quantity="other">%d Apps gefunden</item>
-    <item quantity="one">Eine App gefunden</item>
-  </plurals>
-  <plurals name="power_center_battery_day">
-    <item quantity="other">"%d Tage "</item>
-    <item quantity="one">"1 Tag "</item>
-  </plurals>
-  <plurals name="power_center_battery_hour">
-    <item quantity="other">"%d Std "</item>
-    <item quantity="one">"1 Std "</item>
-  </plurals>
-  <plurals name="power_center_battery_minute">
-    <item quantity="other">"%d Min "</item>
-    <item quantity="one">"1 Min "</item>
-  </plurals>
-  <plurals name="deep_clean_auto_memory_clean">
-    <item quantity="other">In %1$d Minuten</item>
-    <item quantity="one">In einer Minute</item>
-  </plurals>
-  <plurals name="quick_optimize_summary_text">
-    <item quantity="other">%d Akku Probleme behoben</item>
-    <item quantity="one">Ein Akku Problem behoben</item>
-  </plurals>
-  <plurals name="quick_optimize_issue_found">
-    <item quantity="other">%d Akku Probleme gefunden</item>
-    <item quantity="one">Ein Akku Problem gefunden</item>
-  </plurals>
-  <plurals name="quick_optimize_issue_count">
-    <item quantity="other">%d Akku Probleme</item>
-    <item quantity="one">Ein Akku Problem</item>
-  </plurals>
-  <plurals name="quick_optimize_suggest_issue_found">
-    <item quantity="other">%d Akkuprobleme gefunden, bitte beheben.</item>
-    <item quantity="one">Ein Akkuproblem gefunden, bitte beheben.</item>
-  </plurals>
-  <plurals name="app_check_title_text">
-    <item quantity="other">%d Elemente können optimiert werden.</item>
-    <item quantity="one">Ein Element kann optimiert werden.</item>
-  </plurals>
-  <plurals name="people">
-    <item quantity="other">Von %1$d Leuten heruntergeladen</item>
-  </plurals>
-  <plurals name="people_million">
-    <item quantity="other">Von %1$d Leuten heruntergeladen</item>
-  </plurals>
-  <plurals name="million">
-    <item quantity="other">Von %1$d Leuten heruntergeladen</item>
-  </plurals>
-  <plurals name="view_num">
-    <item quantity="other">%1$d Aufrufe</item>
-    <item quantity="one">%1$d Aufruf</item>
-  </plurals>
-  <plurals name="system_check_content">
-    <item quantity="other">%1$d Elemente sind sicher.</item>
-    <item quantity="one">Ein Element ist sicher.</item>
-  </plurals>
-  <plurals name="cache_check_content">
-    <item quantity="other">%d Apps werden geschützt</item>
-    <item quantity="one">Eine App wird geschützt</item>
-  </plurals>
-  <plurals name="hints_auto_start_enable_title">
-    <item quantity="other">%d Apps starten automatisch</item>
-    <item quantity="one">Eine App startet automatisch</item>
-  </plurals>
-  <plurals name="hints_auto_start_disable_title">
-    <item quantity="other">%d Apps dürfen nicht automatisch starten</item>
-    <item quantity="one">Eine App darf nicht automatisch starten</item>
-  </plurals>
-  <plurals name="hints_apps_perm_count">
-    <item quantity="other">%d Zugriffsrechte</item>
-    <item quantity="one">Ein Zugriffsrecht</item>
-  </plurals>
-  <plurals name="hints_permission_apps_count">
-    <item quantity="other">%d Apps</item>
-    <item quantity="one">Eine App</item>
-  </plurals>
-  <plurals name="hints_get_root_enable_title">
-    <item quantity="other">%d Apps haben Rootzugriff</item>
-    <item quantity="one">Eine App hat Rootzugriff</item>
-  </plurals>
-  <plurals name="hints_get_root_disable_title">
-    <item quantity="other">%d Apps haben keinen Rootzugriff</item>
-    <item quantity="one">Eine App hat keinen Rootzugriff</item>
-  </plurals>
-  <plurals name="summary_app_update">
-    <item quantity="other">Für %d Apps Updates vorhanden</item>
-    <item quantity="one">Für eine App Update vorhanden</item>
-  </plurals>
-  <plurals name="hints_handle_item_text_risk_number">
-    <item quantity="other">"%d Risiken | "</item>
-    <item quantity="one">"1 Risiko | "</item>
-  </plurals>
-  <plurals name="hints_handle_item_text_virus_number">
-    <item quantity="other">%d Trojaner</item>
-    <item quantity="one">1 Trojaner</item>
-  </plurals>
-  <plurals name="hints_scan_result_virus_number">
-    <item quantity="other">%d Risiken</item>
-    <item quantity="one">1 Risiko</item>
-  </plurals>
-  <plurals name="hints_scan_result_danger">
-    <item quantity="other">%d Risiken gefunden, jetzt beheben</item>
-    <item quantity="one">Ein Risiko gefunden, jetzt beheben</item>
-  </plurals>
-  <plurals name="notification_apps">
-    <item quantity="other">%d Apps stellen ein Datenschutzrisiko dar.</item>
-    <item quantity="one">Eine App stellt ein Datenschutzrisiko dar.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_letters">
-    <item quantity="other">Das Passwort sollte mindestens %d Buchstaben enthalten.</item>
-    <item quantity="one">"Das Passwort sollte mindestens einen Buchstaben enthalten."</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_lowercase">
-    <item quantity="other">Das Passwort sollte mindestens %d Kleinbuchstaben enthalten.</item>
-    <item quantity="one">Das Passwort sollte mindestens einen Kleinbuchstaben enthalten.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_uppercase">
-    <item quantity="other">Das Passwort sollte mindestens %d Großbuchstaben enthalten.</item>
-    <item quantity="one">Das Passwort sollte mindestens einen Großbuchstaben enthalten.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_numeric">
-    <item quantity="other">Das Passwort sollte mindestens %d Ziffern enthalten.</item>
-    <item quantity="one">Das Passwort sollte mindestens eine Ziffer enthalten.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_symbols">
-    <item quantity="other">Das Passwort sollte mindestens %d Sonderzeichen enthalten.</item>
-    <item quantity="one">Das Passwort sollte mindestens ein Sonderzeichen enthalten.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_nonletter">
-    <item quantity="other">Das Passwort sollte mindestens %d Zeichen enthalten ohne Buchstaben.</item>
-    <item quantity="one">Das Passwort sollte mindestens ein Zeichen enthalten ohne Buchstaben.</item>
-  </plurals>
-  <plurals name="number_masked">
-    <item quantity="other">%d</item>
-    <item quantity="one">%d</item>
-  </plurals>
-  <plurals name="number_locked">
-    <item quantity="other">%d Apps gesperrt</item>
-    <item quantity="one">Eine App gesperrt</item>
-  </plurals>
-  <plurals name="number_to_lock">
-    <item quantity="other">%d Apps sind nicht gesperrt</item>
-    <item quantity="one">Eine App ist nicht gesperrt</item>
-  </plurals>
-  <plurals name="number_masked_text">
-     <item quantity="other">%d Benachrichtigungen wurden ausgeblendet</item>
-     <item quantity="one">%d Benachrichtigung wurde ausgeblendet</item>
-  </plurals>
-  <plurals name="number_to_mask_text">
-     <item quantity="other">%d Benachrichtigungen werden anzeigt</item>
-     <item quantity="one">%d Benachrichtigung wird angezeigt</item>
-  </plurals>
-  <plurals name="find_applications">
-    <item quantity="other">%d Apps durchsuchen</item>
-    <item quantity="one">Eine App durchsuchen</item>
-  </plurals>
-  <plurals name="found_apps_title">
-    <item quantity="other">%d Apps gefunden</item>
-    <item quantity="one">Eine App gefunden</item>
-  </plurals>
-  <plurals name="sp_settings_exception_count">
-    <item quantity="other">%d Einträge</item>
-    <item quantity="one">Ein Eintrag</item>
-  </plurals>
-  <plurals name="sp_back_title_text">
-    <item quantity="other">%s Zahlungsrisiken</item>
-    <item quantity="one">Ein Zahlungsrisiko</item>
-  </plurals>
-  <plurals name="sp_monitored_apps_count">
-    <item quantity="other">%s Zahlungsapps sind geschützt</item>
-    <item quantity="one">Eine Zahlungsapp ist geschützt</item>
-  </plurals>
-  <plurals name="sp_monitored_apps_list_group_disable">
-    <item quantity="other">%s Apps sind nicht geschützt</item>
-    <item quantity="one">Eine App ist nicht geschützt</item>
-  </plurals>
-  <plurals name="sp_monitored_apps_list_group_enable">
-    <item quantity="other">%s Apps sind geschützt</item>
-    <item quantity="one">Eine App ist geschützt</item>
-  </plurals>
-  <plurals name="section_clear_acc_item_right_tips">
-    <item quantity="other">%d gesperrte Apps warten auf Bereinigung</item>
-    <item quantity="one">Eine gesperrte App wartet auf Bereinigung</item>
-  </plurals>
-  <plurals name="section_security_defend_item_right_tips">
-    <item quantity="other">%d Viren entfernt</item>
-    <item quantity="one">Einen Virus entfernt</item>
-  </plurals>
-  <plurals name="optimize_result_button_add_score">
-    <item quantity="other">+%d Punkte</item>
-    <item quantity="one">+% Punkt</item>
-  </plurals>
-  <plurals name="app_manager_permission_summary_accept">
-    <item quantity="other">%d Berechtigungen erlaubt</item>
-    <item quantity="one">Eine Berechtigung erlaubt</item>
-  </plurals>
-  <plurals name="app_manager_permission_summary_ask">
-    <item quantity="other">Nach %d Berechtigungen fragen</item>
-    <item quantity="one">Nach einer Berechtigung fragen</item>
-  </plurals>
-  <plurals name="result_virus_header">
-    <item quantity="other">%d Viren und unsichere Apps gefunden</item>
-    <item quantity="one">1 Virus/App gefunden</item>
-  </plurals>
-  <plurals name="result_sign_header">
-    <item quantity="other">%d inoffizielle Apps gefunden</item>
-    <item quantity="one">Eine inoffizielle App gefunden</item>
-  </plurals>
-  <plurals name="net_booster_expire_notification_tip">
-    <item quantity="other">%d Tage verbleibend, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Erneuern Sie die Sitzung, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</item>
-    <item quantity="one">Ein Tag verbleibend, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Erneuern Sie die Sitzung, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</item>
-  </plurals>
-  <plurals name="network_restrict_count">
-    <item quantity="other">"Der Netzwerkzugang ist beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> Apps"</item>
-    <item quantity="one">"Der Netzwerkzugang ist beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> App"</item>
-  </plurals>
-  <plurals name="gb_signed_days_sum">
-    <item quantity="other">%d Tage in Folge angemeldet</item>
-    <item quantity="one">%d Anmeldezeit</item>
   </plurals>
 </resources>
