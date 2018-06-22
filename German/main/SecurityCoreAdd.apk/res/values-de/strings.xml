@@ -83,7 +83,7 @@
   <string name="encrypt_space_delete_notification_message">Löschen Sie Ihr Zweitprofil und erstellen Sie einen neues, um Ihr Gerät erfolgreich zu aktualisieren.</string>
   <string name="encrypt_space_delete_notification_title">Zweitprofil</string>
   <string name="enter_air_space">Zum Arbeitsbereich gehen</string>
-  <string name="entrance_reopen_toast_msg">Anzeige der zweiten Profilverknüpfung aufgrund unterschiedlicher Passworttypen</string>
+  <string name="entrance_reopen_toast_msg">Anzeige der Zweitprofilverknüpfung wegen unterschiedlicher Passworttypen</string>
   <string name="err_copy_contacts">Kontakte kopieren fehlgeschlagen</string>
   <string name="err_copy_files">Dateien verschieben fehlgeschlagen</string>
   <string name="err_copy_photos">Fotos kopieren fehlgeschlagen</string>
@@ -155,7 +155,7 @@ Sie können Sie auch separat installieren."</string>
   <string name="lock_screen_open_second_space">Zweitprofil vom Sperrbildschirm aus erreichen</string>
   <string name="messageData">Nachrichten</string>
   <string name="msg_switch_file">Dateien nach Verschieben im Hauptprofil löschen?</string>
-  <string name="msg_switch_file_second">Dateien im zweiten Profil löschen, nachdem diese verschoben wurden?</string>
+  <string name="msg_switch_file_second">Dateien im Zweitprofil löschen, nachdem diese verschoben wurden?</string>
   <string name="msg_switch_photo">Fotos nach Verschieben im Hauptprofil löschen?</string>
   <string name="needSetKeyguardFirst">Passwort für Hauptprofil festlegen</string>
   <string name="needSetKeyguardFirstDes">Legen Sie ein Passwort für das Hauptprofil fest, bevor Sie eins für das Zweitprofil festlegen</string>
@@ -213,9 +213,9 @@ Andernfalls können Sie das Zweitprofil nicht vom Sperrbildschirm aus erreichen.
   <string name="removingSpace">Wird gelöscht</string>
   <string name="repeat_scanner_fingerprint">Nochmal hinzufügen</string>
   <string name="reset_passwd_success">Passwort wurde erfolgreich zurückgesetzt</string>
-  <string name="reset_password_dialog_message">Sie verwenden verschiedene Passworttypen für das erste Profil und zweite Profil. Das zweite Profil sollte den gleichen Kennworttyp wie das erste Profil verwenden, damit die Verknüpfung ausgeblendet wird.</string>
+  <string name="reset_password_dialog_message">Sie verwenden verschiedene Passworttypen für das Hauptprofil und Zweitprofil. Das Zweitprofil sollte den gleichen Kennworttyp wie das Hauptprofil verwenden, damit die Verknüpfung ausgeblendet wird.</string>
   <string name="reset_password_dialog_positve_btn_title">Änderung</string>
-  <string name="reset_password_dialog_title">Ich kann das zweite Profil nicht verstecken.</string>
+  <string name="reset_password_dialog_title">Zweitprofil kann nicht versteckt werden</string>
   <string name="resource_sspace">Zweitprofil</string>
   <string name="resource_xspace">Geklonte Apps</string>
   <string name="restore_normal_show">Persönliche Nachrichten nicht anzeigen</string>
@@ -246,6 +246,7 @@ Wenn Sie das Update nicht durchführen, funktionieren geklonte Apps möglicherwe
   <string name="search_result_text">Keine App gefunden</string>
   <string name="secondSpace">Zweitprofil</string>
   <string name="second_owner_finger_print">Zweitprofilfingerabdruck</string>
+  <string name="second_space_desktop_tips_dialog_positive_text">Fertig</string>
   <string name="second_space_finger_printf_desc">Fingerabdruck speziell für das Zweitprofil hinzufügen</string>
   <string name="second_space_finger_printf_title">Zweitprofilfingerabdruck</string>
   <string name="select_existed_fingerprint">Fingerabdruck wählen</string>
@@ -363,7 +364,7 @@ Wenn Sie das Update nicht durchführen, funktionieren geklonte Apps möglicherwe
   <string name="transferFile">Andere Dateien manuell auswählen</string>
   <string name="transferImage">Fotos aus dem Zweitprofil werden in das Album \"Zweitprofil\" im Hauptprofil verschoben</string>
   <string name="transferMessage">Nachrichten werden vom Zweitprofil ins Hauptprofil verschoben</string>
-  <string name="this_function_can_not_use_in_second_space">Diese Funktion kann nur im ersten Profil verwendet werden</string>  
+  <string name="this_function_can_not_use_in_second_space">Diese Funktion kann nur im Hauptprofil verwendet werden</string>
   <string name="tryNow">Jetzt ausprobieren</string>
   <string name="use_xiaoai_open">Mit Sprachassistent aufwecken</string>
   <string name="wating">Einen Moment…</string>
