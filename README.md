@@ -1,4 +1,5 @@
 # ![logo](https://i62.servimg.com/u/f62/18/23/59/53/miui-110.png)
+
 # MIUI V10 German Translation
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/berlinux2016/MIUI10.svg)](http://isitmaintained.com/project/berlinux2016/MIUI10 "Average time to resolve an issue")
