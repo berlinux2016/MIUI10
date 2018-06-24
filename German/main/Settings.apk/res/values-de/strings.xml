@@ -1252,6 +1252,7 @@ Abtastrate"</string>
   <string name="configure_section_header">Konfigurieren</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Hinzufügen</string>
   <string name="confirm_convert_to_fbe_warning">Möchten Sie Benutzerdaten löschen und in Dateiverschlüsselung konvertieren?</string>
+  <string name="confirm_description">Bestätigen</string>
   <string name="confirm_download_cancelation_dialog_message">Download abbrechen?</string>
   <string name="confirm_enable_multi_window_text">WARNUNG: Dies ist eine hochexperimentelle Funktion, die es erlaubt, mehrere Aktivitäten über den Appverlauf gleichzeitig am Bildschirm anzuzeigen. Einige Apps könnten dadurch abstürzen.</string>
   <string name="confirm_enable_multi_window_title">Multifenstermodus aktivieren?</string>
@@ -1600,7 +1601,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_internal_memory">Interner Speicher</string>
   <string name="device_miui_more">Mehr anzeigen</string>
   <string name="device_miui_version">MIUI-Version</string>
-  <string name="device_miui_version_for_POCO">MIUI Version (Für POCO)</string>  
+  <string name="device_miui_version_for_POCO">MIUI Version (Für POCO)</string>
   <string name="device_miui_version_update">Ein MIUI-Update ist verfügbar</string>
   <string name="device_name">Gerätename</string>
   <string name="device_name_input_error">Gerätename konnte nicht gespeichert werden</string>
@@ -2355,8 +2356,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="icloud_how_to_backup_tip_summary">Sie müssen ein iCloud-Backup erstellen, um die Daten von iOS zu importieren.</string>
   <string name="icloud_how_to_backup_tip_title">Tipps:</string>
   <string name="icloud_login_title">In iCloud anmelden</string>
-  <string name="icloud_need_sync">"Sie sollten erst ein iCloud-Backup erstellen, 
-um die Daten von iOS zu importieren."</string>
+  <string name="icloud_need_sync">Sie sollten erst ein iCloud-Backup erstellen, um die Daten von iOS zu importieren.</string>
   <string name="icloud_need_wifi_message">Sie sind zurzeit nicht mit dem WLAN verbunden. Um Daten von iCloud zu importieren, stellen Sie eine WLAN-Verbindung her.</string>
   <string name="icloud_need_wifi_title">Mit WLAN verbinden</string>
   <string name="ignore_optimizations_off">Optimieren</string>
@@ -2453,6 +2453,9 @@ um die Daten von iOS zu importieren."</string>
   <string name="key_combination_power_back">Ein/Aus + Zurücktaste</string>
   <string name="key_combination_power_home">Ein/Aus + Hometaste</string>
   <string name="key_combination_power_menu">Ein/Aus + Menütaste</string>
+  <string name="key_fsg_dialog_message">Sie verwenden Vollbildgesten zur Navigation. Schaltflächenbezogene Funktionen sind jetzt nicht verfügbar. Zu Tasten wechseln?</string>
+  <string name="key_fsg_dialog_negative">Abbrechen</string>
+  <string name="key_fsg_dialog_positive">Zu Tasten wechseln</string>
   <string name="key_gesture_function_dialog_message">%1$s ist eine Verknüpfung für %2$s, mit %3$s ersetzen?</string>
   <string name="key_gesture_function_dialog_negative">Abbrechen</string>
   <string name="key_gesture_function_dialog_positive">Ersetzen</string>
@@ -5454,7 +5457,7 @@ Mit dieser Google-Funktion können Sie Ihre Daten synchronisieren, um von übera
   <string name="talkback_summary">Screenreader ist in erster Linie bestimmt für Blinde und Menschen mit eingeschränkten Sehvermögen</string>
   <string name="tap_to_wake">Tippen zum Aufwecken</string>
   <string name="tap_to_wake_summary">Tippen Sie den Bildschirm zweimal an, um das Gerät aufzuwecken</string>
-  <string name="taplus_title">Taplus</string>  
+  <string name="taplus_title">Taplus</string>
   <string name="task_backup_cancel_progress">Wird angehalten…</string>
   <string name="task_backup_finished_local">"Gesichert "</string>
   <string name="task_canceled">Sicherung abgebrochen</string>
@@ -5560,7 +5563,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="toast_need_login">Melden Sie sich in Ihrem Mi Konto an</string>
   <string name="total">Nicht stören</string>
   <string name="total_info">Ton ausschalten %1$s, außer für den Wecker</string>
-  <string name="total_info_sub">und die Vibration ausschalten</string>  
+  <string name="total_info_sub">und die Vibration ausschalten</string>
   <string name="total_memory">Gesamter Speicher</string>
   <string name="total_num">%d Elemente,</string>
   <string name="total_size">Insgesamt: %s</string>
