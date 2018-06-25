@@ -19,6 +19,7 @@
   <string name="accessibility_time_picker_second">Sekunde</string>
   <string name="account_prifix">Konto:</string>
   <string name="action">Anmelden</string>
+  <string name="action_imme_open">Sofort öffnen</string>
   <string name="action_menu_account_not_login">Nicht angemeldet</string>
   <string name="action_menu_account_not_login_hint">Cloudeinstellungen zum Anmelden verwenden</string>
   <string name="action_menu_bookshelf">Bücherregal</string>
@@ -142,6 +143,8 @@
   <string name="browserFrameFileErrorLabel">Dateifehler</string>
   <string name="browserFrameFormResubmitMessage">Die aufgerufene Seite enthält Daten, die bereits übermittelt wurden. Beim erneuten Versenden der Daten werden bestimmte Aktionen wiederholt (z.B. Suchen oder Einkäufe).</string>
   <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
+  <string name="bubble_guide_logined_text">Anmeldung zur Verlosung</string>
+  <string name="bubble_guide_unlogined_text">Anmelden, um Privilegien zu genießen</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancle_sync_cloud_tabs">Synchronisation abbrechen</string>
   <string name="cannot_download">Download nur von \"http\" oder \"https\" URLs</string>
@@ -225,7 +228,10 @@
   <string name="custom_head_card_text_incognito">Nur Gott und Sie selbst kennen dieses private Fenster</string>
   <string name="data_monitor">Datenmonitor</string>
   <string name="data_monitor_dialog_message">Sieht so aus, als ob irgendetwas Ihre mobilen Daten verbraucht. Öffnen Sie die Startseite, um dies zu stoppen.</string>
+  <string name="data_traffic_continue">Weiter</string>
+  <string name="data_traffic_goto">Kostenloser Datenverkehr</string>
   <string name="data_traffic_prompt_change">Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
+  <string name="data_traffic_prompt_free_data">Verwendung Ihrer mobilen Datenverbindung zum Durchsuchen von Videos erhöht Ihre Datennutzung. Bestellen Sie kostenlosen Datenverkehr.</string>
   <string name="data_traffic_prompt_message">Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
   <string name="data_traffic_prompt_message_short">Nutzung der mobilen Datenverbindung zum Anschauen von Videos kann dazu führen, dass Sie Ihr monatliches Datenvolumen überschreiten.</string>
   <string name="data_traffic_prompt_title">Datenverbrauchswarnung</string>
@@ -937,6 +943,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="navigationbar_rightbutton_actiontext_cancle">Abbrechen</string>
   <string name="navigationbar_rightbutton_actiontext_go">Los</string>
   <string name="navigationbar_rightbutton_actiontext_search">Suchen</string>
+  <string name="network_not_available_comment">Keine Internetverbindung, kein Kommentar möglich</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Mit diesem Netzwerk verbinden</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Offenes WLAN-Netzwerk verfügbar</string>
   <string name="new_folder_name_lable">Gruppenname</string>
@@ -1167,8 +1174,10 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="save_to_bookmark">Als Lesezeichen speichern</string>
   <string name="scanner_uninstalled_text">Scanner installieren zum Fortsetzen</string>
   <string name="scanner_uninstalled_title">Scanner wurde deinstalliert</string>
+  <string name="screenshot_loading_dialog_title">Aufnahme</string>
   <string name="sdcard_error">Überprüfen Sie Ihre SD-Karte</string>
   <string name="search">Suche</string>
+  <string name="search_hint">Suche</string>
   <string name="search_path_browser">Einstellungen/Installierte Apps/Browser</string>
   <string name="search_settings_description">Lesezeichen und Verlauf</string>
   <string name="search_sm">Wikipedia</string>
@@ -1245,6 +1254,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="suggest_access_item_singer_albums">%d Alben</string>
   <string name="suggest_access_item_singer_pop">%d beliebte Titel</string>
   <string name="suggest_access_item_site_mark">SEITEN</string>
+  <string name="suggest_access_item_topic_mark">THEMA</string>
   <string name="suggest_access_item_weather_mark">WETTER</string>
   <string name="suggest_access_item_website_mark">WEBSEITEN</string>
   <string name="suggest_access_item_yellow_mark">GELBE SEITEN</string>
@@ -1264,6 +1274,10 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="suggestion_lottery_detail_price">JEDES LOS %s YUAN</string>
   <string name="suggestion_lottery_detail_text">DIESES %s</string>
   <string name="suggestion_lottery_period">NR. %s</string>
+  <string name="suggestion_more_button_text">MEHR ANZEIGEN</string>
+  <string name="suggestion_more_news">WEITERE NACHRICHTEN</string>
+  <string name="suggestion_more_news_start_title_text">Ähnliche Nachrichten</string>
+  <string name="suggestion_topic_subtitle_hyphen">Fokus</string>
   <string name="suggestion_translation_more">MEHR ANZEIGEN</string>
   <string name="switch_proxy_dialog_msg">Netzwerk-Hijacking erkannt. Verwenden Sie die integrierte Sicherheitsapp oder melden Sie diesen Vorfall bei Ihrem Netzbetreiber.</string>
   <string name="switch_proxy_dialog_title">Netzwerk-Hijacking</string>
