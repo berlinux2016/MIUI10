@@ -2,15 +2,11 @@
 <resources>
   <plurals name="app_install_count">
     <item quantity="other">%1$s Downloads</item>
-    <item quantity="one">ein Download</item>
+    <item quantity="one">%1$s Download</item>
   </plurals>
   <plurals name="app_user_used">
     <item quantity="other">%1$s Nutzer</item>
-    <item quantity="one">ein Nutzer</item>
-  </plurals>
-  <plurals name="match_brand_selection_des">
-    <item quantity="other">%d Marken verfügbar</item>
-    <item quantity="one">eine Marke verfügbar</item>
+    <item quantity="one">%1$s Nutzer</item>
   </plurals>
   <plurals name="days_ago">
     <item quantity="other">vor %1$d Tagen</item>
@@ -20,8 +16,24 @@
     <item quantity="other">vor %1$d Stunden</item>
     <item quantity="one">vor %1$d Stunde</item>
   </plurals>
+  <plurals name="match_brand_selection_des">
+    <item quantity="other">%d Marken verfügbar</item>
+    <item quantity="one">1 Marke verfügbar</item>
+  </plurals>
   <plurals name="mins_ago">
     <item quantity="other">vor %1$d Minuten</item>
     <item quantity="one">vor %1$d Minute</item>
+  </plurals>
+  <plurals name="mitv_show_update_full">
+    <item quantity="other">%d Episoden</item>
+    <item quantity="one">%d Episode</item>
+  </plurals>
+  <plurals name="video_play_series_num">
+    <item quantity="other">Episode %d abspielen</item>
+    <item quantity="one">Episode %d abspielen</item>
+  </plurals>
+  <plurals name="video_search_title">
+    <item quantity="other">%d Videos gefunden</item>
+    <item quantity="one">%d Video gefunden</item>
   </plurals>
 </resources>
