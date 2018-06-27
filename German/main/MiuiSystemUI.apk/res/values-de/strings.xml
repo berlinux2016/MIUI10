@@ -104,6 +104,8 @@
   <string name="accessibility_location_active">Standortabfragen aktiv</string>
   <string name="accessibility_managed_profile">Arbeitsprofil</string>
   <string name="accessibility_menu">Menü</string>
+  <string name="accessibility_menu_item_split_disable">App unterstützt keinen geteilten Bildschirm</string>
+  <string name="accessibility_menu_item_split_enable">App unterstützt geteilten Bildschirm</string>
   <string name="accessibility_multi_user_switch_inactive">Aktueller Benutzer %s</string>
   <string name="accessibility_multi_user_switch_quick_contact">Profil anzeigen</string>
   <string name="accessibility_multi_user_switch_switcher">Benutzer wechseln</string>
@@ -220,6 +222,8 @@
   <string name="accessibility_settings">Einstellungen</string>
   <string name="accessibility_settings_button">Systemeinstellungen</string>
   <string name="accessibility_signal_full">Volles Signal</string>
+  <string name="accessibility_splite_screen_primary">Zur geteilter Bildschirm-Primärapp hinzufügen</string>
+  <string name="accessibility_splite_screen_secondary">Zur geteilter Bildschirm-Sekundärapp hinzufügen</string>
   <string name="accessibility_status_bar_headphones">Kopfhörer verbunden</string>
   <string name="accessibility_status_bar_headset">Headset verbunden</string>
   <string name="accessibility_three_bars">Drei Balken</string>
@@ -427,7 +431,7 @@ Abtastrate"</string>
   <string name="clear_all_notifications_text">Alle löschen</string>
   <string name="click_expand">Zum Erweitern tippen</string>
   <string name="click_to_enter_text">Zum Anzeigen antippen</string>
-  <string name="click_to_return_multi_window">Klicken, um zum Splitscreen zurückzukehren</string>
+  <string name="click_to_return_multi_window">Klicken, um zum geteilten Bildschirm zurückzukehren</string>
   <string name="click_to_return_multi_window_of_notch">Zurück zum geteilten Bildschirm</string>
   <string name="clipboard">Zwischenablage</string>
   <string name="clock">Uhr</string>
@@ -525,9 +529,9 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="do_disclosure_with_name">Dieses Gerät wird von %s verwaltet</string>
   <string name="do_not_silence">Kein Stille-Modus</string>
   <string name="do_not_silence_block">Kein Stille-Modus oder Blockieren</string>
-  <string name="dock_forced_resizable">App funktioniert möglicherweise im Splitscreen nicht.</string>
-  <string name="dock_keyguard_locked_failed_to_dock_text">Splitscreen wird auf dem Sperrbildschirm nicht unterstützt</string>
-  <string name="dock_non_resizeble_failed_to_dock_text">App unterstützt Splitscreen nicht</string>
+  <string name="dock_forced_resizable">App funktioniert möglicherweise im geteilten Bildschirm nicht.</string>
+  <string name="dock_keyguard_locked_failed_to_dock_text">Geteilter Bildschirm wird auf dem Sperrbildschirm nicht unterstützt</string>
+  <string name="dock_non_resizeble_failed_to_dock_text">App unterstützt geteilten Bildschirm nicht</string>
   <string name="draft">Entwurf</string>
   <string name="drag_to_add_tiles">Ziehen, um Kacheln hinzuzufügen</string>
   <string name="drag_to_remove_tiles">Hier ziehen zum Entfernen</string>
