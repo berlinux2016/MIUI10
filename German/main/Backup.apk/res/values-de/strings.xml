@@ -116,15 +116,15 @@
   <string name="enable_encrypt_summery2">Sicherungen werden automatisch verschlüsselt. Mit Mi Konto anmelden, um verschlüsselte Sicherungen verwenden zu können.</string>
   <string name="enable_encrypt_title">Verschlüsselung einschalten</string>
   <string name="enable_encrypt_xiaomi_account">Sicherung wurde von %1$s erstellt. Zum Wiederherstellen das aktuelle Konto löschen und als %2$s anmelden.</string>
-  <string name="err_acquire_system_service">Der Systemdienst konnte nicht gestartet werden.</string>
+  <string name="err_acquire_system_service">Systemdienst konnte nicht gestartet werden</string>
   <string name="err_authentication_failed">Authentifikation fehlgeschlagen</string>
   <string name="err_bakfile_broken">Diese Sicherung kann nicht verwendet werden</string>
-  <string name="err_bakfile_not_exist">Sicherung existiert nicht.</string>
-  <string name="err_binder_died">Unerwartetes Beenden der App.</string>
+  <string name="err_bakfile_not_exist">Sicherung existiert nicht</string>
+  <string name="err_binder_died">Unerwartetes Beenden der App</string>
   <string name="err_filesystem_mount">Auf den Speicher des Routers kann nicht zugegriffen werden</string>
   <string name="err_low_storage">Nicht genügend Speicher</string>
   <string name="err_not_allow">Nicht unterstützt</string>
-  <string name="err_pkg_not_exist">Konnte keine App finden</string>
+  <string name="err_pkg_not_exist">App nicht gefunden</string>
   <string name="err_router_disconnected">Prüfen Sie die Router-Verbindung und versuchen Sie es erneut</string>
   <string name="err_router_files_delete">Sicherungsdateien auf Ihrem Router konnten nicht gelöscht werden</string>
   <string name="err_unknown">Unbekannter Fehler</string>
@@ -151,7 +151,7 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="flash_drive_backup_restore">USB-Sicherungen</string>
   <string name="flash_drive_connection_failed">USB-Laufwerk getrennt</string>
   <string name="flash_drive_restore_btn">Wiederherstellen vom USB-Laufwerk</string>
-  <string name="flash_drive_search_backup_files">"Suche nach der USB-Sicherung…, 
+  <string name="flash_drive_search_backup_files">"Suche nach der USB-Sicherung…
  Sicherungsdateien nicht ändern oder umbenennen."</string>
   <string name="guarded_mode_dialog_backup_message">Backups sind im Gastmodus nicht erlaubt</string>
   <string name="guarded_mode_dialog_title">Sie befinden sich im Gastmodus</string>
@@ -534,7 +534,7 @@ Wählen Sie nur wichtige Elemente aus, um die Übertragung zu beschleunigen."</s
   <string name="trans_success_dialog_button_market_favourable_comment">Bewerten Sie Mi Mover</string>
   <string name="trans_success_dialog_market_comment_title">Ihr neues Gerät fühlt sich jetzt wie zu Hause an.
 Mögen Sie Mi Mover?"</string>
-  <string name="trans_switching_5g">Umschalten auf 5GHz WLAN…</string>
+  <string name="trans_switching_5g">Umschalten auf 5 GHz WLAN…</string>
   <string name="trans_time_format_second">Weniger als eine Minute</string>
   <string name="trans_time_spent">Verbleibende Zeit: %s</string>
   <string name="trans_wait_trans_data">Mit altem Gerät verbunden. Warten auf Übertragung…</string>
