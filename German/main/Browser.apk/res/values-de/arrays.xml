@@ -21,6 +21,10 @@
     <item>Telefon</item>
     <item>Tablet</item>
   </string-array>
+  <string-array name="pref_navscreen_layoutstate_choices">
+     <item>Vertikale Ansicht</item>
+     <item>Horizontale Ansicht</item>
+  </string-array>
   <string-array name="pref_text_zoom_choices">
     <item>Sehr klein</item>
     <item>Klein</item>
@@ -33,12 +37,16 @@
     <item>Nein danke</item>
   </string-array>
   <string-array name="shortcut_dialog_keep">
-    <item>Ok</item>
+    <item>OK</item>
     <item>Folgen</item>
   </string-array>
   <string-array name="shortcut_dialog_title">
     <item>Nachricht vom Browser</item>
     <item>Folgen Sie den Olympischen Spielen mit Mi</item>
+  </string-array>
+  <string-array name="suggestion_topic_tips">
+    <item>Beobachtungsfokus</item>
+    <item>Zentrales Thema</item>
   </string-array>
   <string-array name="suggestion_weather_condition_message">
     <item>Klar</item>
@@ -84,9 +92,5 @@
     <item>Nichts</item>
     <item>Regen</item>
     <item>Schnee</item>
-  </string-array>
-  <string-array name="pref_navscreen_layoutstate_choices">
-     <item>Vertikale Ansicht</item>
-     <item>Horizontale Ansicht</item>
   </string-array>
 </resources>
