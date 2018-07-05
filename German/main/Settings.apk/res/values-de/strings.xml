@@ -1013,6 +1013,17 @@ Abtastrate"</string>
   <string name="brightness_title">Helligkeit</string>
   <string name="bt_hci_snoop_log">Bluetooth HCI Snoop Log einschalten</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth-HCI-Pakete in einer Datei erfassen</string>
+  <string name="bt_ldac_declaration">Wenn das Bluetooth-Gerät LDAC unterstützt, wird es standardmäßig verbunden. LDAC bietet ein hochwertiges Audioerlebnis und bringt auch einen höheren Stromverbrauch mit sich. Die Wiedergabe kann aufgrund von Einschränkungen der Bluetooth-Hardware erfolgen.</string>
+  <string name="bt_ldac_dialog_summary">"LDAC sorgt für ein hochwertiges Klangerlebnis und einen höheren Stromverbrauch. 
+Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
+  <string name="bt_ldac_dialog_title">Das aktuelle Gerät unterstützt LDAC, das standardmäßig angeschlossen ist:</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC bietet ein hochwertiges Klangerlebnis und bringt auch einen höheren Stromverbrauch mit sich. Die Wiedergabe kann aufgrund von Einschränkungen der Bluetooth-Hardware erfolgen.</string>
+  <string name="bt_ldac_open_dialog_title">Sind Sie sicher, dass Sie LDAC einschalten?</string>
+  <string name="bt_ldac_pre_summary">Sorgen Sie für ein hochwertiges Klangerlebnis</string>
+  <string name="bt_ldac_pre_title">LDAC</string>
+  <string name="bt_ldac_property">Eigenschaften</string>
+  <string name="bt_ldac_remember_choice">Auswahl merken</string>
+  <string name="bt_ldac_settings">Einstellungen</string>
   <string name="bt_rarely_used_device_title">Selten verwendete Geräte (%d)</string>
   <string name="bt_trace_log">Bluetooth-Tracelog einschalten</string>
   <string name="bt_trace_log_summary">Bluetooth-Tracelog einschalten</string>
@@ -4763,6 +4774,9 @@ UT Interface: %5$s"</string>
   <string name="second_space">Zweitprofil</string>
   <string name="secondspace_category">Zweitprofil</string>
   <string name="secondspace_delete_space_title">Zweitprofil löschen</string>
+  <string name="secspace_fod_finger_tips">Wurde nicht bestätigt, nochmal versuchen.</string>
+  <string name="secspace_fod_finger_title">Überprüfen Sie Ihren Fingerabdruck</string>
+  <string name="secspace_fod_use_password">Passwort eingeben</string>
   <string name="secure_keyguard_business_title">Sperrbildschirm einstellen</string>
   <string name="secure_lock_encryption_warning">Da Sie einen Bedienungshilfendienst eingeschaltet haben, wird das Gerät Ihre Bildschirmsperre nicht verwenden, um die Datenverschlüsselung zu verbessern</string>
   <string name="security_dashboard_summary">Bildschirmsperre, Fingerabdruck</string>
