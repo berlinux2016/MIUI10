@@ -20,7 +20,7 @@
   <string name="ad_pop_btn_hidden">Verbergen</string>
   <string name="ad_pop_des">Appdownload:</string>
   <string name="add_launch_hint_text">Verknüpfung zum Startbildschirm hinzufügen</string>
-  <string name="app_name">Hintergrundkarussell</string>
+  <string name="app_name">Hintergrundbildkarussell</string>
   <string name="apply">Anwenden</string>
   <string name="apply_to_above_all">Als beides einstellen</string>
   <string name="apply_to_screenlock">Als Sperrbildschirm einstellen</string>
@@ -30,8 +30,8 @@
   <string name="cancel">Abbrechen</string>
   <string name="cancel_international">Abbrechen</string>
   <string name="cancel_lockscreen">Abbrechen</string>
-  <string name="carousel_declaration_btn_text">Hintergrundkarussell einschalten</string>
-  <string name="carousel_declaration_cta">"Hintergrundkarussell benötigt eine Internetverbindung, um normal zu funktionieren. Um Zugang zu Online-Inhalten zu erhalten, müssen Sie unserer &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Datenschutzerklärung&lt;/a&gt; zustimmen. Einverstanden?"</string>
+  <string name="carousel_declaration_btn_text">Hintergrundbildkarussell einschalten</string>
+  <string name="carousel_declaration_cta">"Hintergrundbildkarussell benötigt eine Internetverbindung, um normal zu funktionieren. Um Zugang zu Online-Inhalten zu erhalten, müssen Sie unserer &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Datenschutzerklärung&lt;/a&gt; zustimmen. Einverstanden?"</string>
   <string name="carousel_declaration_cta_btn_text">Zustimmen und einschalten</string>
   <string name="carousel_declaration_des">Schöne Orte sehen und spannende Überraschungen erhalten mit dem Hintergrundbildkarussell</string>
   <string name="carousel_declaration_title">Wunderschöne Hintergründe abonnieren</string>
@@ -80,15 +80,15 @@
   <string name="detail_toast_deny_dislike">Löschen nicht möglich</string>
   <string name="detail_toast_deny_favor">Zu Favoriten hinzufügen nicht möglich</string>
   <string name="detail_toast_dislike_fail">Löschen nicht möglich</string>
-  <string name="detail_toast_favor_permission">Hintergrundkarussell den Zugriff auf den Speicherplatz in Sicherheit erlauben</string>
+  <string name="detail_toast_favor_permission">Hintergrundbildkarussell den Zugriff auf den Speicherplatz in Sicherheit erlauben</string>
   <string name="dislike">Löschen</string>
   <string name="double_click_to_exit_activity">Erneut tippen zum Beenden</string>
-  <string name="explorer_activity_title">Hintergrundkarussell</string>
+  <string name="explorer_activity_title">Hintergrundbildkarussell</string>
   <string name="from_migallerylockscreen">Vom MIUI Hintergrundbildkarussell</string>
   <string name="get_account_no_permission">Um sich anzumelden, legen Sie bitte die Berechtigung zum Zugriff auf das Benutzerkonto fest:</string>
   <string name="hour_1">Jede Stunde</string>
   <string name="hour_3">Alle 3 Stunden</string>
-  <string name="idbct_desc">Hintergrundkarussell nach Netzwerktypen anpassen</string>
+  <string name="idbct_desc">Hintergrundbildkarussell nach Netzwerktypen anpassen</string>
   <string name="idbct_opt_auto_select_desc_text">Download von Standardbildern mit mobilen Daten und HD-Bildern über WLAN</string>
   <string name="idbct_opt_high_def_desc_text">HD-Bilder immer herunterladen</string>
   <string name="idbct_title">Netzwerktypen</string>
@@ -120,12 +120,12 @@
   <string name="ok_network">Zustimmen</string>
   <string name="open_btn_finish">Erledigt</string>
   <string name="open_btn_next">Nächstes</string>
-  <string name="open_btn_start">Hintergrundkarussell einschalten</string>
-  <string name="open_des">Schalten Sie Hintergrundkarussell ein, um täglich neue Bilder und Geschichten auf Ihren Sperrbildschirm zu bringen.</string>
+  <string name="open_btn_start">Hintergrundbildkarussell einschalten</string>
+  <string name="open_des">Schalten Sie Hintergrundbildkarussell ein, um täglich neue Bilder und Geschichten auf Ihren Sperrbildschirm zu bringen.</string>
   <string name="open_freq_title">Updateintervall einstellen</string>
   <string name="open_sub_title">Kategorien wählen</string>
-  <string name="open_title">Hintergrundkarussell</string>
-  <string name="open_unable">Hintergrundkarussell funktioniert nur mit dem MIUI Standard-Sperrbildschirm</string>
+  <string name="open_title">Hintergrundbildkarussell</string>
+  <string name="open_unable">Hintergrundbildkarussell funktioniert nur mit dem MIUI Standard-Sperrbildschirm</string>
   <string name="pager_load_hd">Originalbild anzeigen</string>
   <string name="passport_access_denied">Zugang verweigert</string>
   <string name="passport_account_hint_text">E-Mail/Telefonnummer/Mi Konto-ID</string>
@@ -386,10 +386,10 @@
   <string name="toast_load_hd_fail">Original konnte nicht geladen werden</string>
   <string name="toast_neterror_tip">Ein Netzwerkfehler ist aufgetreten</string>
   <string name="top_search_tip">Suche nach den gewünschten Kategorien</string>
-  <string name="uninstall_introducation_text_desc">Hintergrundkarussell liefert Bilder in neuer Qualität direkt auf Ihren Bildschirm. Stellen Sie sicher, dass Sie auf seine Funktionen verzichten können, bevor Sie die App deinstallieren.</string>
-  <string name="uninstall_introduction_text_title">Über Hintergrundkarussell</string>
-  <string name="uninstall_warning_text_desc">Ohne Hintergrundkarussell können Sie nicht regelmäßig neue Sperrbildschirmhintergründe erhalten. Sie können die App jedoch erneut herunterladen und installieren. Hintergrundkarussell löschen?</string>
-  <string name="uninstall_warning_text_title">Hintergrundkarussell löschen</string>
+  <string name="uninstall_introducation_text_desc">Hintergrundbildkarussell liefert Bilder in neuer Qualität direkt auf Ihren Bildschirm. Stellen Sie sicher, dass Sie auf seine Funktionen verzichten können, bevor Sie die App deinstallieren.</string>
+  <string name="uninstall_introduction_text_title">Über Hintergrundbildkarussell</string>
+  <string name="uninstall_warning_text_desc">Ohne Hintergrundbildkarussell können Sie nicht regelmäßig neue Sperrbildschirmhintergründe erhalten. Sie können die App jedoch erneut herunterladen und installieren. Hintergrundbildkarussell löschen?</string>
+  <string name="uninstall_warning_text_title">Hintergrundbildkarussell löschen</string>
   <string name="user_ac_click_to_login">Tippen zum Anmelden</string>
   <string name="user_ac_not_login">Nicht angemeldet</string>
   <string name="wallpaper_feed_title">Vielleicht gefällt Ihnen auch</string>
