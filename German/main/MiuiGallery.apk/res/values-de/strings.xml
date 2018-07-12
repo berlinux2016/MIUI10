@@ -75,6 +75,7 @@
   <string name="album_name_people">Menschen</string>
   <string name="album_name_recent_discovery">Kürzlich angesehen</string>
   <string name="album_name_tags">Objekte</string>
+  <string name="album_notes">Notizen</string>
   <string name="album_others_share_baby_info_format">Kinderalbum von %s</string>
   <string name="album_others_share_info_format">Von %s</string>
   <string name="album_owner_share">Geteilt</string>
@@ -634,7 +635,8 @@
   <string name="fancycolor_title">Hintergrundeffekte</string>
   <string name="fast_share_auto_render">Verschönern</string>
   <string name="fast_share_auto_render_finish">Verschönert</string>
-  <string name="feature_guidance_photo_effects">Foto-Effekte</string>
+  <string name="feature_guidance_photo_effects">"Neue Foto-Effekte
+sind verfügbar"</string>
   <string name="file_not_exist_message">Datei nicht vorhanden</string>
   <string name="file_size">Größe</string>
   <string name="filllight">Aufhellen</string>
@@ -1103,6 +1105,12 @@
   <string name="photo_save_to_msg">Gespeichert in %s</string>
   <string name="photomovie_audio_custom">Lokal</string>
   <string name="photomovie_audio_none">Keine</string>
+  <string name="photomovie_audio_default">Erinnerung</string>
+  <string name="photomovie_audio_kawaii">Romantik</string>
+  <string name="photomovie_audio_light">Ballade</string>
+  <string name="photomovie_audio_linear">Rock</string>
+  <string name="photomovie_audio_soft">Ukulele</string>
+  <string name="photomovie_audio_sport">Techno</string>
   <string name="photomovie_audio_unsupport">Dieses Audio wird nicht unterstützt</string>
   <string name="photomovie_cancel_download">Beenden</string>
   <string name="photomovie_delete_disable">Sie benötigen mindestens 3 Fotos, um einen Clip zu erstellen.</string>
@@ -1123,6 +1131,11 @@
   <string name="photomovie_tab_music">Musik</string>
   <string name="photomovie_tab_template">Vorlagen</string>
   <string name="photomovie_template_default">Langsam</string>
+  <string name="photomovie_template_kawaii">Charme</string>
+  <string name="photomovie_template_light">Briese</string>
+  <string name="photomovie_template_linear">Ausflug</string>
+  <string name="photomovie_template_soft">Jugend</string>
+  <string name="photomovie_template_sport">Elan</string>
   <string name="pick_from_contact">Aus Kontakt auswählen</string>
   <string name="pick_too_many_recipients">Zu viele Empfänger</string>
   <string name="picker_cancel_download">Download abbrechen</string>
@@ -1137,6 +1150,7 @@
   <string name="picker_no_items_selected">Nichts ausgewählt</string>
   <string name="picker_no_network_message">Keine Netzwerkverbindung, verbinden Sie sich zum Herunterladen</string>
   <string name="picker_origin_need_download">"%1$d der ausgewählten Fotos (%2$dMB) befinden sich nicht auf diesem Gerät. Über mobile Datenverbindung herunterladen?"</string>
+  <string name="picker_origin_request_progress_message">Vorbereitung der Originaldateien (%1$d/%2$d)…</string>
   <string name="picker_select_album_title_empty">Album auswählen</string>
   <string name="picker_skip_unavailable_images"><item quantity="one">Ein Foto übersprungen, das nicht auf dem Gerät ist</item> <item quantity="other">%d Fotos übersprungen, die nicht auf dem Gerät sind</item></string>
   <string name="picker_tab_photo">Foto</string>
@@ -1320,6 +1334,7 @@
   <string name="search_people_jump_failed">Warten Sie, bis Ihre Fotos mit Mi Cloud synchronisiert sind und versuchen Sie es noch einmal</string>
   <string name="search_request_applied">Angewendet</string>
   <string name="search_request_open">Suchen in der Mi Cloud</string>
+  <string name="search_request_requesting">Angewandt. Warten Sie eine Weile, bevor Sie anfangen.</string>
   <string name="search_result_empty">Keine Ergebnisse</string>
   <string name="search_retry">Erneut versuchen</string>
   <string name="search_select_network">Netzwerk auswählen</string>
@@ -1357,6 +1372,7 @@
   <string name="secret_reason_too_large">Datei ist zu groß</string>
   <string name="secret_reason_type_not_support">Dieser Dateityp wird nicht unterstützt</string>
   <string name="secret_reason_unknow_reasons">Unbekannter Fehler</string>
+  <string name="secret_reason_video_not_support">Kann keine Videos zum versteckten Album hinzufügen</string>
   <string name="see_ignore_faces">Ignorierte Personen anzeigen</string>
   <string name="select_all">Alle auswählen</string>
   <string name="select_auto_upload_albums">Alben zum Hochladen auswählen</string>
@@ -1658,7 +1674,7 @@
   <string name="video_editor_smart_effect_dynamic">Dynamisch</string>
   <string name="video_editor_smart_effect_fastslow">Bewegung</string>
   <string name="video_editor_smart_effect_freesze">Stop-Motion</string>
-  <string name="video_editor_smart_effect_high_iframes_text">Dieser Effekt funktioniert am besten bei Videos mit hoher Bildrate.</string>
+  <string name="video_editor_smart_effect_high_iframes_text">Dieser Effekt funktioniert am besten bei 120fps Videos.</string>
   <string name="video_editor_smart_effect_movie">Film</string>
   <string name="video_editor_smart_effect_none">Nichts</string>
   <string name="video_editor_smart_effect_radical">Peppig</string>
@@ -1681,6 +1697,7 @@
   <string name="video_editor_unsupport_audio_file">Audiodatei wird nicht unterstützt</string>
   <string name="video_editor_unzip_file_fail">Konnte das Video nicht entpacken</string>
   <string name="video_editor_video_is_short">Kann dieses Video nicht bearbeiten</string>
+  <string name="video_editor_video_loading">Video wird vorbereitet, warten Sie ein oder zwei Sekunden und versuchen Sie es nochmal.</string>
   <string name="video_editor_watermark">Wasserzeichen</string>
   <string name="video_err">Video kann nicht abgespielt werden</string>
   <string name="video_not_exist">Video existiert nicht</string>
