@@ -589,6 +589,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="face_data_input_ok">Abgeschlossen</string>
   <string name="face_data_input_ok_msg">Bildschirm einschalten, um das Gerät mit Ihren Gesichtsdaten zu entsperren</string>
   <string name="face_data_input_ok_msg_angle">Entsperren Sie das Gerät mit dem Gesicht, wenn der Bildschirm eingeschaltet ist. (Zeichnen Sie Ihre Gesichtsdaten mit allen erforderlichen Ansichten auf.)​</string>
+  <string name="face_data_input_structure_title">3D-Gesichtsdaten</string>
   <string name="face_data_input_ok_title">Erfolgreich hinzugefügt</string>
   <string name="face_data_input_title">Gesicht hinzufügen</string>
   <string name="face_data_introduction_msg">Verwenden Sie Ihr Gesicht, um Ihr Telefon zu entsperren oder Ihre Identität zu verifizieren. Sie müssen ein Bildschirmpasswort festlegen, bevor Sie Ihr Gesicht hinzufügen können.</string>
@@ -1340,6 +1341,8 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="retail_demo_reset_next">Weiter</string>
   <string name="retail_demo_reset_title">Passwort erforderlich</string>
   <string name="return_to_incall_screen">Zurück zum Anruf</string>
+  <string name="rgb_face_data_introduction_title">2D-Gesichtsdaten hinzufügen</string>
+  <string name="rgb_face_data_manage_delete_msg">2D-Gesichtsdaten löschen</string>
   <string name="right_icon">Rechtes Symbol</string>
   <string name="right_keycode">Rechter Tastencode</string>
   <string name="right_nav_bar_button_type">Extra rechter Knopf</string>
@@ -1502,6 +1505,11 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="structure_face_data_input_ok">Erledigt</string>
   <string name="structure_face_data_input_right">Kopf nach rechts drehen</string>
   <string name="structure_face_data_input_success">Erledigt!</string>
+  
+  <string name="structure_face_data_input_timeout_msg">Konnte nicht aufnehmen, nochmal versuchen.</string>
+  <string name="structure_face_data_input_timeout_title">Nochmal versuchen</string>
+  <string name="structure_face_data_manage_delete_msg">3D-Gesichtsdaten löschen</string>
+  
   <string name="structure_face_data_input_up">Nach oben schauen</string>
   <string name="structure_face_data_introduction_back">Zurück</string>
   <string name="structure_face_data_introduction_msg">3D-Gesichtsdaten ermöglichen es, Ihr Gerät zu entsperren und Ihre Identität zu überprüfen. Sie müssen ein Passwort festlegen, bevor Sie diese Funktion nutzen können.</string>
@@ -1516,6 +1524,24 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="structure_face_delete_data_dialog_msg">Kamera wurde nicht gestartet und Vorschau nicht angezeigt, nochmal versuchen.</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Nochmal versuchen</string>
   <string name="structure_face_delete_data_dialog_title">Kamera konnte nicht gestartet werden</string>
+  <string name="structure_face_hardware_abnormal_btn">"Ich hab's"</string>
+  <string name="structure_face_hardware_abnormal_msg">Kann aufgrund eines Laserfehlers keine Gesichtsdaten aufzeichnen. Wenden Sie sich an den Kundendienst, um Hilfe zu erhalten.</string>
+  <string name="structure_face_hardware_abnormal_title">Laserfehler</string>
+  <string name="structure_face_modules_abnormal_btn">Neustart</string>
+  <string name="structure_face_modules_abnormal_msg">Aufgrund eines optischen Modulfehlers können keine Gesichtsdaten aufgezeichnet werden. Gerät neu starten und nochmal versuchen.</string>
+  <string name="structure_face_modules_abnormal_title">Fehler optisches Modul</string>
+  <string name="structure_face_unlock_model2d_dialog_msg">Die 3D-Erkennung wird ausgeschaltet. Ihre 3D-Gesichtsdaten werden gelöscht. Sie müssen auch Ihre 2D-Gesichtsdaten hinzufügen. 2D-Erkennung einschalten?</string>
+  <string name="structure_face_unlock_model2d_dialog_title">2D-Erkennung einschalten</string>
+  <string name="structure_face_unlock_model3d_dialog_msg">Die 2D-Erkennung wird ausgeschaltet. Ihre 2D-Gesichtsdaten werden gelöscht. Sie müssen auch Ihre 3D-Gesichtsdaten hinzufügen. 3D-Erkennung einschalten?</string>
+  <string name="structure_face_unlock_model3d_dialog_title">3D-Erkennung einschalten</string>
+  <string name="structure_face_unlock_model_dialog_enable">Einschalten</string>
+  <string name="structure_face_unlock_model_dialog_notenable">Nein danke</string>
+  <string name="structure_face_unlock_model_other">Andere</string>
+  <string name="structure_face_unlock_model_other_msg_2d">2D-Erkennung</string>
+  <string name="structure_face_unlock_model_other_msg_3d">3D-Erkennung</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">Die 2D-Gesichtserkennung ist weniger sicher als ein Muster, eine PIN oder ein Passwort. Wenn diese Funktion aktiviert ist, wird Ihr Gerät möglicherweise durch Ihr Foto freigeschaltet, ebenso wie Personen oder Objekte, die wie Sie aussehen.</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">Die 3D-Gesichtserkennung ist relativ sicher. Es ist sehr unwahrscheinlich, dass Ihr Gerät mit Ihrem Foto entsperrt werden kann, wenn diese Funktion aktiviert ist. Es kann jedoch von Personen oder Objekten, die wie Sie aussehen, freigeschaltet werden.</string>
+  <string name="structure_face_unlock_model_other_title">Gesichtserkennung</string>
   <string name="switch_bar_off">Aus</string>
   <string name="switch_bar_on">An</string>
   <string name="task_access_locked_app_msg">Appsperre eingeschaltet</string>
