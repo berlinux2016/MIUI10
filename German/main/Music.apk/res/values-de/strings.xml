@@ -51,12 +51,14 @@
   <string name="ad_mark">Werbung</string>
   <string name="ad_recommend">Vorschläge</string>
   <string name="ad_setting">Werbeeinstellungen</string>
+  <string name="add_cannot_gif_list">Kann nicht zur Wiedergabeliste hinzugefügt werden</string>
   <string name="add_music">Titel hinzufügen</string>
   <string name="add_to_last_of_playlist">Am Ende der Wiedergabeliste hinzufügen</string>
   <string name="add_to_playlist_successful">Erfolgreich hinzugefügt</string>
   <string name="added_next_play">Hinzugefügt, um als nächstes abgespielt zu werden</string>
   <string name="alaka_required">Sie sollten für diesen Song bezahlen, um ihn zu hören</string>
   <string name="album_label">Albumcover</string>
+  <string name="albun_publish_time">Veröffentlichungszeit: %1$s</string>
   <string name="alert_msg_vip_song_for_download">Holen Sie sich ein Premiumpaket, um diesen Titel herunterladen zu können</string>
   <string name="alert_msg_vip_song_for_download_upgrade">Sie haben Ihr Downloadlimit für diesen Monat verbraucht. Nehmen Sie ein Premiumpaket, um diesen Titel herunterzuladen zu können.</string>
   <string name="alert_msg_vip_song_for_stream">Holen Sie sich ein Premiumpaket, um den Titel zu hören</string>
@@ -145,6 +147,7 @@
   <string name="can_not_find_resource">Quelle kann nicht gefunden werden</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_running_download">Abbrechen</string>
+  <string name="cannot_comment_try_scroll">Dieser Song kann nicht kommentiert werden, versuche zu scrollen</string>
   <string name="cannot_reply">Dieser Kommentar kann nicht beantwortet werden</string>
   <string name="change_download_quality">Downloadqualität ändern</string>
   <string name="channel_list_fragment_title">Radio</string>
@@ -195,6 +198,7 @@
   <string name="com_facebook_smart_login_confirmation_continue_as">Weiter als %1$s</string>
   <string name="com_facebook_smart_login_confirmation_title">Anmeldung bestätigen</string>
   <string name="com_facebook_tooltip_default">Sie haben die Kontrolle - wählen Sie, welche Informationen Sie mit Apps teilen möchten</string>
+  <string name="comment">Kommentar</string>
   <string name="comment_action_title">Kommentar von %s</string>
   <string name="comment_count">%s Kommentar</string>
   <string name="comment_delete_hint">Kommentar wurde gelöscht</string>
@@ -641,6 +645,7 @@
   <string name="more">Mehr</string>
   <string name="more_about_artist">Mehr über %s</string>
   <string name="more_add_song_list">Zur Wiedergabeliste hinzufügen</string>
+  <string name="more_milink_bluetooth">Mi-Link und Bluetooth</string>
   <string name="more_online_artist">Mehr</string>
   <string name="more_online_billboard">Mehr</string>
   <string name="more_online_fm">Mehr</string>
@@ -653,6 +658,7 @@
   <string name="more_share">Teilen</string>
   <string name="movie_player_3g_tip_retry">Weiterspielen</string>
   <string name="movie_player_loading">Spielen: %s</string>
+  <string name="multiple_select">Mehrfachauswahl</string>
   <string name="multichoice">Auswählen</string>
   <string name="music_browser_label">Musik</string>
   <string name="music_filter">Audiodateien filtern</string>
@@ -689,6 +695,7 @@
   <string name="next_time">Nächstes Mal</string>
   <string name="no_album_info">Keine Albuminformationen</string>
   <string name="no_artist_info">Keine Informationen zum Interpreten</string>
+  <string name="nowplaying_find_more">Mehr finden</string>
   <string name="no_comment">Schnappen Sie sich ein Sofa</string>
   <string name="no_downloads">Keine Downloads</string>
   <string name="no_enough_info">Nicht genügend Musikinformationen</string>
@@ -796,6 +803,10 @@
   <string name="pick_favorite_song">Favoriten</string>
   <string name="pick_local_song">Lokale Titel</string>
   <string name="pick_recent_song">Kürzlich gespielt</string>
+  <string name="play_all"><Data>Alle abspielen&lt;font color=#999999>（%1$d）&lt;/font></Data></string>
+  <string name="play_mode_circle">Wiederholmodus</string>
+  <string name="play_mode_shuffle">Zufallsmodus</string>
+  <string name="play_mode_single">Einzelmodus</string>
   <string name="play_all_song">Alle abspielen</string>
   <string name="play_empty_playlist">Kann keine Songs spielen, Wiedergabeliste ist leer</string>
   <string name="play_mode_all_loop">Alle wiederholen</string>
@@ -999,6 +1010,9 @@
   <string name="sleep_mode_summary">Player nach einer bestimmten Zeit schließen</string>
   <string name="sleep_mode_title">Schlummerfunktion</string>
   <string name="song_exist_in_playlist">Operation fehlgeschlagen. Titel existiert bereits in der Wiedergabeliste.</string>
+  <string name="song_group_float_save_picture">Bild speichern</string>
+  <string name="song_group_float_save_picture_success">Erfolgreich gespeichert</string>
+  <string name="song_group_float_to_save_picture">Gespeichert in %1$s</string>
   <string name="song_info">Titeldetails</string>
   <string name="song_is_empty">Titelbezeichnung darf nicht leer sein</string>
   <string name="song_name">Titel</string>
@@ -1073,17 +1087,22 @@
   <string name="talkback_search">Suchen</string>
   <string name="talkback_share">Teilen</string>
   <string name="talkback_unlike">Unlike</string>
+  <string name="talkback_frame_list">Frame Liste</string>
+  <string name="talkback_next_play">Nächsten spielen</string>
+  <string name="talkback_remove_list">Aus Liste entfernen</string>
   <string name="task_already_exist">Aufgabe existiert bereits</string>
   <string name="terms_of_service">Allgemeine Geschäftsbedingungen</string>
   <string name="ticket_summary">Kaufen Sie Eintrittskarten für Shows, Konzerte, Theaterstücke und andere Veranstaltungen</string>
   <string name="ticket_title">Showeintrittskarten</string>
   <string name="time_to_upgrade">Sie sollten Mi Musik aktualisieren</string>
+  <string name="title_album_list">Album</string>
   <string name="title_online_artist">Beliebte Interpreten</string>
   <string name="title_online_fm_recommend">Angesagtes FM</string>
   <string name="title_online_recommend">Angesagte Wiedergabelisten</string>
   <string name="title_online_release">Neu</string>
   <string name="title_online_song">Beliebte Titel</string>
   <string name="title_online_suggest">Das könnte Ihnen gefallen</string>
+  <string name="title_play_list">Wiedergabeliste</string>
   <string name="title_search_history">Chronik durchsuchen</string>
   <string name="title_search_hot">Besondere Vorschläge</string>
   <string name="to_be_downloaded">Zum Herunterladen</string>
@@ -1141,6 +1160,8 @@
   <string name="upgrade_waringing">Sie werden nur in der Lage sein, lokale Titel abzuspielen.</string>
   <string name="user_agreement">Nutzungsvereinbarung</string>
   <string name="valid_period">"Gültig: %s"</string>
+  <string name="video_more_dislike">Nicht gefallen</string>
+  <string name="video_more_like">Gefallen</string>
   <string name="video_network_message">Derzeit in 2G/3G/4G Netzwerk, weiter zu spielen wird %1$s Traffic beanspruchen!</string>
   <string name="video_network_negative">Erlauben Sie dieses zu spielen</string>
   <string name="video_network_positive">Heute spielen lassen</string>
