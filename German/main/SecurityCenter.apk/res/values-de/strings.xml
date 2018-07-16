@@ -316,7 +316,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="applock_add_account_info">Mi Konto hinzufügen, um Ihr Passwort zurücksetzen zu können, falls Sie es vergessen</string>
   <string name="applock_add_account_setting">Konto &amp; Privatsphäre</string>
   <string name="applock_bind_account_title">Passwort zurücksetzen</string>
-  <string name="applock_close_dialog_summary">Apps werden nicht mehr geschützt und Ihr Passwort wird gelöscht, nachdem Sie die Appsperre deaktiviert haben</string>
+  <string name="applock_close_dialog_summary">Alle versteckten Apps werden sichtbar, Ihre Startbildschirmverknüpfungen werden wiederhergestellt und Ihr Apperre-Passwort wird gelöscht. Appsperre ausschalten?</string>
   <string name="applock_close_dialog_title">Appsperre deaktivieren?</string>
   <string name="applock_exit_account_info">Konto wird bei der Abmeldung automatisch entfernt</string>
   <string name="applock_header_text_less_than_half">Zu wenig Platz für diese App. Trenner etwas weiter ziehen.</string>
@@ -1780,7 +1780,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="power_cell">Standby</string>
   <string name="power_center_auto_shutdown">Ausschalten</string>
   <string name="power_center_auto_shutdown_summary">Zeit zum Ausschalten oder Starten</string>
-  <string name="power_center_back">Zurück zum Akkuverbrauch</string>
+  <string name="power_center_back">Zurück</string>
   <string name="power_center_battery_full">Akku ist voll aufgeladen</string>
   <string name="power_center_charge_time">Restladezeit: %1$s</string>
   <string name="power_center_consume_rank">Akkuverbrauch</string>
@@ -2072,6 +2072,20 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="preferred_app_entries_gallery">Galerie</string>
   <string name="preferred_app_entries_messaging">Nachrichten</string>
   <string name="preferred_app_entries_music">Musik</string>
+  <string name="privacy_apps">Versteckte Apps</string>
+  <string name="privacy_apps_category_title">Versteckte Apps</string>
+  <string name="privacy_apps_checkbox_remind_choice">Nicht mehr anzeigen</string>
+  <string name="privacy_apps_close">Schließen</string>
+  <string name="privacy_apps_enable_summary">Apps in einen versteckten Ordner verschieben und Ihre Startbildschirmverknüpfungen entfernen</string>
+  <string name="privacy_apps_go_to_use">Starten</string>
+  <string name="privacy_apps_manage">Versteckte Apps verwalten</string>
+  <string name="privacy_apps_manage_dialog_title">Über versteckte Apps</string>
+  <string name="privacy_apps_manager_dialog_message">Hiding apps requires setting your App screen lock. Notifications for hidden apps will be turned off. Hide this app?</string>
+  <string name="privacy_apps_tutorial">Anleitung</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">"Wenn Sie eine App ausblenden, wird sie in einen versteckten Ordner verschoben. Die Verknüpfung auf dem Startbildschirm ist gut versteckt.
+Diese Funktion wird für Systemapps nicht unterstützt."</string>
+  <string name="privacy_apps_tutorial_prompt_pagethree">Nachdem Sie Ihr Passwort eingegeben haben, erscheint der Ordner mit den versteckten Apps.</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">Spreizen Sie zwei Finger auf dem Bildschirm. Es wird eine Meldung angezeigt, in der Sie aufgefordert werden, Ihr Appsperre-Passwort einzugeben.</string>
   <string name="privacy_declare_dialog_message">"Wenn Sie diesen Dienst nutzen, akzeptieren Sie Opera's &lt;a href=%s&gt; Geschäftsbedingungen&lt;/a&gt;"</string>
   <string name="privacy_declare_dialog_title">Geschäftsbedingungen</string>
   <string name="privacy_dialog_message">Bei einer Internetverbindung wird diese Nachricht zusammen mit der Mobilfunkbetreiberinfo verschlüsselt und auf den Mi Server hochgeladen, um die Datenüberwachung zu verbessern.</string>
