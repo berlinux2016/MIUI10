@@ -483,7 +483,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="btn_back">Zurück</string>
   <string name="btn_jump">Überspringen</string>
   <string name="btn_lock">Sperre hinzufügen</string>
-  <string name="btn_start_diagnostic">Netzwerktest</string>
+  <string name="btn_start_diagnostic">Netzwerkdiagnose</string>
   <string name="btn_stop_diagnostic">Stopp</string>
   <string name="btn_text_already_opened">An</string>
   <string name="btn_text_cleanup_all">Bereinigen</string>
@@ -564,7 +564,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="cancle">Abbrechen</string>
   <string name="card_main_applock_action">Einschalten</string>
   <string name="card_main_applock_summary">Schützen Sie ausgewählte Apps mit einem Passwort.</string>
-  <string name="card_main_applock_title">App-Sperre</string>
+  <string name="card_main_applock_title">Appsperre</string>
   <string name="card_main_datasave_action">Einschalten</string>
   <string name="card_main_datasave_summary">Daten komprimieren und bis zu 20% sparen</string>
   <string name="card_main_datasave_title">Datenreduktion</string>
@@ -573,8 +573,8 @@ Sie verlieren keine Appdaten."</string>
   <string name="card_main_deepclean_title">Tiefenreinigung</string>
   <string name="card_main_deepclean_wechat_action">Bereinigen</string>
   <string name="card_main_deepclean_wechat_summary">WeChat-Cache bereinigen, um Speicherplatz freizugeben</string>
-  <string name="card_main_deepclean_wechat_title">WeChat-Cache</string>
-  <string name="card_main_gamebooster_summary">Erhöhung der Verbindungsstabilität bei Spielen</string>
+  <string name="card_main_deepclean_wechat_title">Appsperre</string>
+  <string name="card_main_gamebooster_summary">Verbindungsstabilität verbessern</string>
   <string name="card_main_gamebooster_title">Schnellere Spiele</string>
   <string name="card_main_hbassistant_summary">Verwenden Sie dieses Werkzeug, um die Umschläge schneller zu packen</string>
   <string name="card_main_hbassistant_title">Roter Umschlagsassistent</string>
@@ -583,7 +583,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="card_main_monthreport_title">Sicherheitsstatistik</string>
   <string name="card_main_netcheck_action">Testen</string>
   <string name="card_main_netcheck_summary">Netzwerkverbindung testen</string>
-  <string name="card_main_netcheck_title">Netzwerktest</string>
+  <string name="card_main_netcheck_title">Netzwerkdiagnose</string>
   <string name="card_main_optimize_manage_action">Jetzt optimieren</string>
   <string name="card_main_optimize_manage_summary">Cache leeren, um Ihr Gerät zu beschleunigen</string>
   <string name="card_main_optimize_manage_title">Geschwindigkeit erhöhen</string>
@@ -614,7 +614,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="charging_text_time_calculating">Berechne Ladedauer…</string>
   <string name="chat_number">10 Stunden</string>
   <string name="chat_uint">" Stunden"</string>
-  <string name="check_network_state">Netzwerktest</string>
+  <string name="check_network_state">Netzwerkdiagnose</string>
   <string name="checkout_traffic_saving_history">Verlauf anzeigen</string>
   <string name="choose">Auswählen</string>
   <string name="clean_immediately">Bereinigen</string>
@@ -1418,20 +1418,20 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie mobile
   <string name="menu_summary_antivirus">Auf dem Gerät nach Viren suchen</string>
   <string name="menu_summary_antivirus_2">Mögliche Risiken gefunden</string>
   <string name="menu_summary_antivirus_3">Nicht gescanntes Gerät</string>
-  <string name="menu_summary_app_manager">Apps aktualisieren und deinstallieren</string>
+  <string name="menu_summary_app_manager">aktualisieren und deinstallieren</string>
   <string name="menu_summary_app_manager_2">Updates sind verfügbar</string>
   <string name="menu_summary_garbage_cleanup">Kein Müll gefunden</string>
   <string name="menu_summary_garbage_cleanup_2">Papierkorbgröße</string>
   <string name="menu_summary_garbage_cleanup_3">Papierkorb löschen</string>
   <string name="menu_summary_networkassistants">Datentarif verwalten</string>
   <string name="menu_summary_networkassistants_2">Limit überschritten</string>
-  <string name="menu_summary_networkassistants_3">Genug Daten vorhanden</string>
+  <string name="menu_summary_networkassistants_3">Ausreichend Daten vorhanden</string>
   <string name="menu_summary_networkassistants_4">Keine Daten mehr vorhanden</string>
   <string name="menu_summary_power_manager">Energiesparer gibt Ihnen mehr Zeit zwischen den Ladevorgängen.</string>
   <string name="menu_summary_power_manager_1">Akku ist voll geladen</string>
-  <string name="menu_summary_power_manager_2">%s noch übrig</string>
+  <string name="menu_summary_power_manager_2">Nutzbar für ca. %s</string>
   <string name="menu_summary_power_manager_3">Ladegerät anschließen</string>
-  <string name="menu_summary_power_manager_4">%s bis voll</string>
+  <string name="menu_summary_power_manager_4">%s bis voll geladen</string>
   <string name="menu_setting_traffic">Manuelle Einstellungen</string>
   <string name="menu_text_antispam">Sperrliste</string>
   <string name="menu_text_antivirus">Antivirus</string>
@@ -1489,9 +1489,9 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie mobile
   <string name="network_blocked_switch_wifi">Netzwerk wechseln</string>
   <string name="network_changed_noti_summary">Nutzung mobiler Daten</string>
   <string name="network_changed_noti_title">Vom WLAN getrennt</string>
-  <string name="network_connected_exception_title">Netzwerktest</string>
+  <string name="network_connected_exception_title">Netzwerkdiagnose</string>
   <string name="network_control">Appeinstellungen anzeigen</string>
-  <string name="network_diagnostics">Netzwerktest</string>
+  <string name="network_diagnostics">Netzwerk</string>
   <string name="network_mobile_exception_detail">"Ihr Gerät kann sich nicht mit dem Internet verbinden:
 1. Stellen Sie sicher, dass Sie Ihr Datenlimit nicht überschritten haben.
 2. Wenn Sie Ihr Guthaben gerade aufgeladen haben, starten Sie Ihr Telefon neu und versuchen es erneut.
@@ -2131,7 +2131,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="resource_antispam">Sperrliste</string>
   <string name="resource_antivirus">Virenscan</string>
   <string name="resource_app_permissions">Appberechtigungen</string>
-  <string name="resource_applicationlock">App-Sperre</string>
+  <string name="resource_applicationlock">Appsperre</string>
   <string name="resource_auto_restart">Autostart verwalten</string>
   <string name="resource_buy_flow">Mobile Daten kaufen</string>
   <string name="resource_cleanmaster">Müllbeseitigung</string>
@@ -2140,7 +2140,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="resource_networkassistant_1">Datenverbrauch</string>
   <string name="resource_networkassistant_2">Datentarif festlegen</string>
   <string name="resource_networkassistant_3">Datenreduzierung</string>
-  <string name="resource_networkassistant_4">Netzwerktest</string>
+  <string name="resource_networkassistant_4">Netzwerkdiagnose</string>
   <string name="resource_payment_security">Bezahlsicherheit</string>
   <string name="resource_permcenter">Berechtigungen</string>
   <string name="resource_powercenter">Energiesparmodus</string>
