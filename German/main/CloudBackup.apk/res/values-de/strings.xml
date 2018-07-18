@@ -22,6 +22,10 @@
   <string name="backup_to_cloud">App sichern</string>
   <string name="btn_back">Zurück</string>
   <string name="btn_continue">Fortfahren</string>
+  <string name="btn_restore_abort">Abbrechen</string>
+  <string name="btn_restore_cancel">Abbrechen</string>
+  <string name="btn_restore_resume">Fortsetzen</string>
+  <string name="btn_restore_retry">Wiederholen</string>
   <string name="btn_retry">Nochmals prüfen</string>
   <string name="btn_skip">Diesen Schritt überspringen</string>
   <string name="button_cancel">Abbrechen</string>
@@ -129,6 +133,8 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="menu_item_sort_name">Name</string>
   <string name="menu_item_sort_size">Größe</string>
   <string name="miui_device_name">Android</string>
+  <string name="msg_alert_cancel_restore">Cloud-Backup wird wiederhergestellt, stoppen?</string>
+  <string name="msg_alert_restore_error">Wiederherstellung des Cloud-Backups fehlgeschlagen, erneut versuchen.</string>
   <string name="name_model">"%1$s's %2$s"</string>
   <string name="network_error">Mit Netzwerk verbinden</string>
   <string name="no_account">Nicht am Mi Konto angemeldet</string>
@@ -176,6 +182,8 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="start_backup_to_micloud">Apps in der Mi Cloud sichern</string>
   <string name="start_recover">%s wiederherstellen</string>
   <string name="success_open_cloudbackup">Sicherung der Startbildschirmapps aktiviert</string>
+  <string name="title_alert_cancel_restore">Wiederherstellung stoppen</string>
+  <string name="title_alert_restore_error">Wiederherstellen fehlgeschlagen</string>
   <string name="total_space">Gesamt: %s</string>
   <string name="try_again">Tippen, um erneut zu versuchen</string>
   <string name="wait_icon_download">Appsymbol herunterladen</string>
