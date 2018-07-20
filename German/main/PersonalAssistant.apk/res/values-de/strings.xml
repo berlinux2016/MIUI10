@@ -436,7 +436,6 @@
   <string name="edit_category_dialog_title">Zahlungsart auswählen</string>
   <string name="edit_comment_hint">Anmerkung</string>
   <string name="edit_delete_dialog_message">Diesen Eintrag aus dem Verlauf löschen?</string>
-  <string name="edit_record_category">"Kategorie: "</string>
   <string name="empty_card_btn">App öffnen</string>
   <string name="empty_card_tip">Sieht so aus, als sind Sie nicht angemeldet oder haben diese Karte noch nicht eingerichtet</string>
   <string name="empty_card_title">Keine Daten</string>
@@ -469,7 +468,9 @@
   <string name="exercise_setting_brief">Entfernungen messen und Ihre täglichen Schritte zählen</string>
   <string name="exercise_setting_misport_detail">Entfernungen messen und Ihre täglichen Schritte zählen (Mi Fit den Autostart erlauben unter Sicherheit &gt; Apps verwalten &gt; Berechtigungen &gt; Autostart)</string>
   <string name="express">Expressversand</string>
+  <string name="express_add">Hinzufügen</string>
   <string name="express_add_new_address">Adresse hinzufügen</string>
+  <string name="express_add_tel">Telefonnummer hinzufügen</string>
   <string name="express_address_delete_warning">Diese Adresse löschen?</string>
   <string name="express_address_deleted">Addresse gelöscht</string>
   <string name="express_address_info">Adresseninfo</string>
@@ -499,6 +500,7 @@
   <string name="express_copied">Sendungsverfolgungsnummer kopiert</string>
   <string name="express_copy_number">Kopieren</string>
   <string name="express_delete_order">Löschen</string>
+  <string name="express_delete_tel">Telefonnummer löschen</string>
   <string name="express_delivery">Auslieferung</string>
   <string name="express_dest_city_label">Zielort</string>
   <string name="express_detailed_address">Adresse</string>
@@ -923,6 +925,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="mi_payment_setting_brief_detail">Infos über Ihre Zahlungen von Messengerapps werden hier gesammelt</string>
   <string name="mi_sport">Schrittzähler</string>
   <string name="mi_sport_go_install">Herunterladen</string>
+  <string name="mifare_card">Mifare Karte</string>
   <string name="mini_add_fp">Bitte fügen Sie zuerst Fingerabdrücke hinzu, dann öffnen Sie das Alipay Fingerabdruckpasswort</string>
   <string name="mini_agree">Zustimmen</string>
   <string name="mini_already_download">Heruntergeladen</string>
@@ -1201,9 +1204,6 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="payment_record_empty">Noch keine Zahlungen</string>
   <string name="payment_record_menu_delete">Löschen</string>
   <string name="payment_record_menu_select">Auswählen</string>
-  <string name="payment_record_new_lable">Aufzeichnung dem Verlauf hinzufügen</string>
-  <string name="payment_record_recent_title">Letzte Zahlungen</string>
-  <string name="payment_record_show_more">Mehr anzeigen</string>
   <string name="payment_report_failed_record_dialog_cancel">Abbrechen</string>
   <string name="payment_report_failed_record_dialog_message">"Um Ihre Erfolgsquote bei der Abrechnung zu verbessern, können Sie die Initiative ergreifen, um uns die Informationen über die fehlgeschlagene Seite mitzuteilen.
 &lt;b&gt;&amp;#19978;&amp;#25253;&amp;#30340;&amp;#20449;&amp;#24687;&amp;#20165;&amp;#29992;&amp;#20110;&amp;#35299;&amp;#20915;&amp;#35760;&amp;#36134;&amp;#22833;&amp;#36133;&amp;#38382;&amp;#39064;&amp;#12290;&lt;/b&gt;"</string>
@@ -1248,6 +1248,8 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="recharge_title_over">Datenlimit überschritten</string>
   <string name="recharge_title_remaining">Verbleibende Daten</string>
   <string name="recharge_title_used">Heute verwendet</string>
+  <string name="recommend_add_one_card">%s Hinzufügen</string>
+  <string name="recommend_close">Schließen</string>
   <string name="record_name">Neue Aufnahem</string>
   <string name="record_parent">Rekorder</string>
   <string name="red_dowm_blue_grow">Grün - oben, Rot - unten</string>
@@ -1257,6 +1259,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="req_no_sdata">Keine Ergebnisse</string>
   <string name="retry">Erneut versuchen</string>
   <string name="save_edit">Änderungen speichern</string>
+  <string name="save_to_note">Notizen speichern</string>
   <string name="scan">Scannen</string>
   <string name="scan_app">Einscannen</string>
   <string name="scan_card">Businesskarte</string>
@@ -1278,6 +1281,8 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="search_setting_description">Titel in Favoriten</string>
   <string name="search_tip">Suche…</string>
   <string name="security">Sicherheit</string>
+  <string name="select_team_close">Schließen</string>
+  <string name="select_team_confirm">Senden</string>
   <string name="send_action_title">Zu den Favoriten hinzufügen</string>
   <string name="send_shortcut_failed">Senden fehlgeschlagen</string>
   <string name="send_shortcut_success">Verknüpfung auf Startbildschirm erstellen</string>
