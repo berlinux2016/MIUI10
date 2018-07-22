@@ -30,12 +30,6 @@
     <item>Animationsskala 5x</item>
     <item>Animationsskala 10x</item>
   </string-array>
-  <string-array name="anr_record_interval_entries">
-    <item>10 s</item>
-    <item>20 s</item>
-    <item>30 s</item>
-    <item>1 Min</item>
-  </string-array>
   <string-array name="ap_identify">
     <item>Standard</item>
     <item>Mobiler Hotspot</item>
@@ -321,7 +315,7 @@
     <item>Kontur</item>
     <item>Schlagschatten</item>
     <item>Hochgestellt</item>
-    <item>Runtergestellt</item>
+    <item>Tiefgestellt</item>
   </string-array>
   <string-array name="captioning_font_size_selector_titles">
     <item>Sehr klein</item>
@@ -373,7 +367,7 @@
   <string-array name="color_mode_descriptions">
     <item>Erweiterte Farben</item>
     <item>Natürliche Farben</item>
-    <item>Optimierte Farben für Digitale Inhalte</item>
+    <item>Optimierte Farben für digitale Inhalte</item>
   </string-array>
   <string-array name="color_mode_names">
     <item>Lebendig (Standard)</item>
@@ -403,6 +397,24 @@
   <string-array name="data_usage_data_range">
     <item>Die letzten 30 Tage</item>
     <item>Nutzungszyklus festlegen…</item>
+  </string-array>
+  <string-array name="date_of_app_all">
+    <item>Daten heute</item>
+    <item>Daten diesen Monat</item>
+    <item>Daten letzten Monat</item>
+    <item>WLAN heute</item>
+    <item>WLAN diesen Monat</item>
+    <item>WLAN letzten Monat</item>
+  </string-array>
+  <string-array name="date_of_traffic">
+    <item>"Heute "</item>
+    <item>"Diesen Monat "</item>
+    <item>"Letzten Monat "</item>
+  </string-array>
+  <string-array name="date_of_traffic_prefix">
+    <item>"Heute: "</item>
+    <item>"Diesen Monat: "</item>
+    <item>"Letzten Monat: "</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Aus</item>
@@ -450,14 +462,14 @@
     <item>Groß</item>
     <item>Extra Groß</item>
     </string-array>
-    <string-array name="entries_zen_mode">
-        <item>Aus</item>
-        <item>Eingeschränkte Unterbrechungen</item>
-        <item>Keine Unterbrechungen</item>
+  <string-array name="entries_zen_mode">
+    <item>Aus</item>
+    <item>Eingeschränkte Unterbrechungen</item>
+    <item>Keine Unterbrechungen</item>
   </string-array>
   <string-array name="fluency_mode_confirms">
-    <item>Glatt- und Geschmeidigmodus, Ihr Gerät neustarten, um diese Einstellung zu übernehmen?</item>
-    <item>Effektmodus, Ihr Gerät neustarten, um diese Einstellung zu übernehmen?</item>
+    <item>Gerät neustarten, um diese Einstellung zu übernehmen?</item>
+    <item>Gerät neustarten, um diese Einstellung zu übernehmen?</item>
   </string-array>
   <string-array name="fluency_mode_entries">
     <item>Systemanimationen ausschalten</item>
@@ -624,12 +636,13 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>ICCID</item>
   </string-array>
   <string-array name="network_speed_slow_summary">
-    <item>Netzwerk langsam aufgrund des hohen Datenverkehrs</item>
-    <item>Netzwerk langsam aufgrund der schwachen Signalstärke</item>
+    <item>Netzwerk langsam wegen zu viel Datenverkehr</item>
+    <item>Netzwerk langsam wegen schwacher Signalstärke</item>
     <item>Verschieben…</item>
   </string-array>
-  <string-array name="no_cache_clear_package_list">
-    <item></item>
+  <string-array name="notch_battery_indicator_style_entries">
+    <item>Grafisch</item>
+    <item>Prozent</item>
   </string-array>
   <string-array name="overlay_display_devices_entries">
     <item>Aus</item>
@@ -849,13 +862,6 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>1 Stunde</item>
     <item>Unbegrenzt</item>
   </string-array>
-  <string-array name="special_locale_codes_global">
-    <item>zh_CN</item>
-    <item>zh_TW</item>
-    <item>zh_HK</item>
-    <item>es_US</item>
-    <item>pt_BR</item>
-  </string-array>
   <string-array name="special_locale_names_global">
     <item>Vereinfachtes Chinesisch (China)</item>
     <item>Traditionelles Chinesisch (Taiwan)</item>
@@ -880,6 +886,10 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Nur in Statusleiste anzeigen</item>
     <item>Netzanbieter niemals anzeigen</item>
   </string-array>
+  <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+    <item>Suchen</item>
+    <item>Einstellungen</item>
+  </string-array>
   <string-array name="status_bar_style_entries">
     <item>Eine Seite</item>
     <item>Zwei Seiten</item>
@@ -902,6 +912,10 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Aus</item>
     <item>Normal</item>
     <item>Extrem</item>
+  </string-array>
+  <string-array name="traffic_type">
+    <item>"Mobilnutzung "</item>
+    <item>"WLAN-Nutzung "</item>
   </string-array>
   <string-array name="transition_animation_scale_entries">
     <item>Animation aus</item>
@@ -1000,12 +1014,12 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="wifi_calling_mode_choices">
     <item>WLAN bevorzugt</item>
-    <item>Mobilnetz bevorzugt</item>
+    <item>Mobil bevorzugt</item>
     <item>Nur WLAN</item>
   </string-array>
   <string-array name="wifi_calling_mode_choices_without_wifi_only">
     <item>WLAN bevorzugt</item>
-    <item>Mobilfunk bevorzugt</item>
+    <item>Mobil bevorzugt</item>
   </string-array>
   <string-array name="wifi_connect_type_entries">
     <item>Automatisch verbinden</item>
@@ -1026,12 +1040,12 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Eingeladen</item>
     <item>Nicht erfolgreich</item>
     <item>Verfügbar</item>
-    <item>Außerhalb der Reichweite</item>
+    <item>Außerhalb Reichweite</item>
   </string-array>
   <string-array name="wifi_p2p_wps_setup">
     <item>Push-Taste</item>
     <item>PIN vom Peer-Gerät</item>
-    <item>PIN von diesem Gerät</item>
+    <item>PIN dieses Gerätes</item>
   </string-array>
   <string-array name="wifi_peap_phase2_entries">
     <item>Keine Angabe</item>
@@ -1083,7 +1097,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Getrennt</item>
     <item>Fehlgeschlagen</item>
     <item>Blockiert</item>
-    <item>Vermeidung von schlechten Verbindungen</item>
+    <item>Temporär schlechte Verbindungen vermeiden</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item></item>
@@ -1097,7 +1111,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Getrennt</item>
     <item>Fehlgeschlagen</item>
     <item>Blockiert</item>
-    <item>Vermeidung von schlechten Verbindungen</item>
+    <item>Temporär schlechte Verbindungen vermeiden</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Animation aus</item>
@@ -1107,35 +1121,5 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Animationsskala 2x</item>
     <item>Animationsskala 5x</item>
     <item>Animationsskala 10x</item>
-  </string-array>
-  <string-array name="date_of_app_all">
-    <item>Daten heute</item>
-    <item>Daten diesen Monat</item>
-    <item>Daten letzten Monat</item>
-    <item>WLAN heute</item>
-    <item>WLAN diesen Monat</item>
-    <item>WLAN letzten Monat</item>
-  </string-array>
-  <string-array name="date_of_traffic">
-    <item>"Heute "</item>
-    <item>"Diesen Monat "</item>
-    <item>"Letzten Monat "</item>
-  </string-array>
-  <string-array name="date_of_traffic_prefix">
-    <item>"Heute: "</item>
-    <item>"Diesen Monat: "</item>
-    <item>"Letzten Monat: "</item>
-  </string-array>
-  <string-array name="traffic_type">
-    <item>"Mobile-Nutzung "</item>
-    <item>"WLAN-Nutzung "</item>
-  </string-array>
-  <string-array name="notch_battery_indicator_style_entries">
-    <item>Grafisch</item>
-    <item>Prozent</item>
-  </string-array>
-  <string-array name="status_bar_settings_notification_shade_shortcut_entries">
-    <item>Suchen</item>
-    <item>Einstellungen</item>
   </string-array>
 </resources>
