@@ -157,6 +157,7 @@
   <string name="choose_download_quality">Downloadqualität einstellen</string>
   <string name="choose_language">Sprache auswählen</string>
   <string name="choose_stream_quality">Streamingqualität einstellen</string>
+  <string name="click_login">Tippen, um sich anzumelden</string>
   <string name="click_modify">Berühren, um Songtext zu bearbeiten</string>
   <string name="click_to_shuffle">Zufallswiedergabe</string>
   <string name="click_to_view_new_local_audios">Berühren, um Details anzuzeigen</string>
@@ -248,6 +249,7 @@
   <string name="date_format_str">dd.MM.yyyy</string>
   <string name="delete">Löschen</string>
   <string name="delete_comment_failed">Kommentar löschen fehlgeschlagen</string>
+  <string name="delete_comment_successfully">Kommentar erfolgreich gelöscht</string>
   <string name="delete_download">Löschen</string>
   <string name="delete_downloads_records">Downloads löschen</string>
   <string name="delete_file_as_well">Lokale Dateien zusätzlich löschen</string>
@@ -379,6 +381,7 @@
   <string name="download_start_apk">Download gestartet…, überprüfen Sie den Fortschritt in der Benachrichtigungsleiste</string>
   <string name="download_start_btn">Freier Download…</string>
   <string name="download_success">Fertig</string>
+  <string name="download_times">Verbleibende Downloadzeiten: %d</string>
   <string name="download_title_sorted_by_date">Downloads - sortiert nach Datum</string>
   <string name="download_title_sorted_by_size">Downloads - sortiert nach Größe</string>
   <string name="download_toast">Mobile Datenverbindung zum Herunterladen ausgewählt</string>
@@ -453,6 +456,7 @@
   <string name="favorites">Favoriten</string>
   <string name="favourite_music_left_half">Hier tippen, um Titel zur Wiedergabeliste hinzuzufügen</string>
   <string name="favourite_music_right_half">Favoritensymbol rechts neben dem Titel</string>
+  <string name="favorite_songgroup">Lieblingssonggruppe (%d)</string>
   <string name="female_artist">Weibliche Interpreten</string>
   <string name="file_not_found">"Datei existiert nicht"</string>
   <string name="filter_by_duration">Nach Länge</string>
@@ -580,7 +584,9 @@
   <string name="local_page_song_all">Alle Titel</string>
   <string name="local_page_song_download">Lokale Titel</string>
   <string name="local_page_song_favorite">Lieblingsmusik</string>
+  <string name="login">Anmelden</string>
   <string name="login_first">Zuerst mit Mi Konto anmelden</string>
+  <string name="login_tips">Anmelden, um relevante Empfehlungen zu erhalten.</string>
   <string name="long_press_to_select_lyric">Halten Sie die Taste gedrückt, um die lokale Songtextdatei auszuwählen</string>
   <string name="lrc_search_failed">Songtext konnte nicht gefunden werden</string>
   <string name="lrc_searching">Suche…</string>
@@ -591,6 +597,7 @@
   <string name="lyric_setting">Songtext Einstellungen</string>
   <string name="male_artist">Männlicher Interpret</string>
   <string name="manager_cloud_space">Mi Cloud Speicher verwalten</string>
+  <string name="market_version_too_low">App Store zuerst aktualisieren</string>
   <string name="media_filter">Medien</string>
   <string name="menu_all_task_pause">Alle anhalten</string>
   <string name="menu_all_task_start">Alle starten</string>
@@ -618,6 +625,7 @@
   <string name="metered_serious_allow">Trotzdem wiedergeben</string>
   <string name="milink_unavaliable_please_update">Mi Link nicht verfügbar. MIUI-Update notwendig.</string>
   <string name="missing_title">&lt;Unbekannt></string>
+  <string name="mi_live_install">Installation des Mi Live Assistenten</string>
   <string name="miui_music">Mi Musik</string>
   <string name="miuishare_account_activate_confirmation">Aktivierung nötig</string>
   <string name="miuishare_account_activate_ok">Aktivieren</string>
@@ -685,6 +693,7 @@
   <string name="network_settings_error">Keine Netzwerkverbindung</string>
   <string name="network_traffic">Datennutzung</string>
   <string name="new_comment">Neueste Kommentare (%s Stück)</string>
+  <string name="new_search_instant_title">Suchen：%1$s</string>
   <string name="news_mark">NEUIGKEITEN</string>
   <string name="news_not_interest_cancel">Abbrechen</string>
   <string name="news_not_interest_message">Sie können weitere Gründe für Feedback zu Spam und bestimmten Inhalten wählen, die nicht von Interesse sind, Vulgarität, Titelpartie, etc.</string>
@@ -697,6 +706,9 @@
   <string name="no_artist_info">Keine Informationen zum Interpreten</string>
   <string name="nowplaying_find_more">Mehr finden</string>
   <string name="no_comment">Schnappen Sie sich ein Sofa</string>
+  <string name="no_copyright_song_confirm_close">Schließen</string>
+  <string name="no_copyright_song_hint_text">Dieser Song besitzt kein Urheberrecht</string>
+  <string name="no_copyright_song_recommend_hint_text">Es ist besser, das hier zu probieren.</string>
   <string name="no_downloads">Keine Downloads</string>
   <string name="no_enough_info">Nicht genügend Musikinformationen</string>
   <string name="no_favorites_songs">Leer</string>
@@ -808,6 +820,8 @@
   <string name="play_mode_shuffle">Zufallsmodus</string>
   <string name="play_mode_single">Einzelmodus</string>
   <string name="play_all_song">Alle abspielen</string>
+  <string name="play_all_shuffle"><Data>Alle mischen&lt;font color=#999999> (%1$d)&lt;/font></Data></string>
+  <string name="play_all_song_with_count">Alle abspielen (%d)</string>
   <string name="play_empty_playlist">Kann keine Songs spielen, Wiedergabeliste ist leer</string>
   <string name="play_mode_all_loop">Alle wiederholen</string>
   <string name="play_mode_one_loop">Schleife</string>
@@ -1000,8 +1014,9 @@
   <string name="show_download_manager">Zum Download-Manager</string>
   <string name="show_more">%s weitere anzeigen</string>
   <string name="shuffle_music">Zufällige Wiedergabe</string>
-  <string name="shuffle_off_notif">Zufallswiedergabe ist aus</string>
-  <string name="shuffle_on_notif">Zufallswiedergabe ist an</string>
+  <string name="shuffle_music_with_count">Zufällige Wiedergabe (%d)</string>
+  <string name="shuffle_off_notif">Zufällige Wiedergabe ist aus</string>
+  <string name="shuffle_on_notif">Zufällige Wiedergabe ist an</string>
   <string name="signup_type_silent_default">Still</string>
   <string name="signup_type_user_default">LoginSDK Verbraucher</string>
   <string name="similar_songs">Ähnliche Titel</string>
@@ -1101,6 +1116,7 @@
   <string name="title_online_recommend">Angesagte Wiedergabelisten</string>
   <string name="title_online_release">Neu</string>
   <string name="title_online_song">Beliebte Titel</string>
+  <string name="title_online_special">Alle Probleme</string>
   <string name="title_online_suggest">Das könnte Ihnen gefallen</string>
   <string name="title_play_list">Wiedergabeliste</string>
   <string name="title_search_history">Chronik durchsuchen</string>
@@ -1186,8 +1202,10 @@
   <string name="vip_renew_title">Abonnement abgelaufen</string>
   <string name="vip_required">Holen Sie sich Premium Song Pack, um diesen Song abzuspielen. Song wurde vorerst übersprungen.</string>
   <string name="vip_required_with_song">Holen Sie sich Premium Song Pack, um \"%s\" abzuspielen. Song wurde vorerst übersprungen.</string>
+  <string name="vip_tip">Abonnieren Sie Mi Musik, um Audio in hoher Qualität zu streamen.</string>
   <string name="vip_tomorrow_auto_renew_message">Ihr Musikabonnement wird morgen automatisch verlängert. Stellen Sie sicher, dass Sie genügend Mi Credits für die Bezahlung besitzen.</string>
   <string name="vip_tomorrow_renew_message">Sie werden nicht in der Lage sein, Audio in hoher Qualität zu streamen, aber einige Songs werden in normaler Qualität verfügbar sein.</string>
+  <string name="voice_ass">Sprachassistent</string>
   <string name="warning_tip_cancel">Herunterladen</string>
   <string name="warning_tip_content">Sie sind nicht länger mit einem WLAN verbunden. Wenn Sie die mobile Datenverbindung verwenden um den Download fortzusetzen, wird Ihr Datenverbrauch signifikant ansteigen. Wenn Sie dabei Ihr Datenvolumen überschreiten, kann dies zu erhöhten Kosten bei Ihrem Netzbetreiber führen.</string>
   <string name="warning_tip_title">Datenverbrauchswarnung</string>
