@@ -3,6 +3,7 @@
   <string name="app_name">Updater</string>
   <string name="battery_islow">&lt;font color=#f37981&gt;Ladegerät anschließen&lt;/font&gt;</string>
   <string name="battery_islow_desc">Akkuzustand zu niedrig, um die Zip-Datei sicher zu installieren. Stecken Sie Ihr Ladegerät an und versuchen Sie es später wieder!</string>
+  <string name="boot_recovery">Neustart in das Recovery?</string>
   <string name="btn_changelog">Änderungsprotokoll</string>
   <string name="btn_download">Lade (%1$s) herunter</string>
   <string name="btn_error">Ein Fehler ist aufgetreten. Erneut versuchen?</string>
@@ -27,6 +28,8 @@
   <string name="downloading_desc">Download wird ausgeführt, überprüfen Sie den Status in der Benachrichtigungsleiste</string>
   <string name="install_desc">Telefon wird in den Recoverymodus neugestartet, um die ausgewählte Datei zu installieren: %1$s. Daten werden nicht gelöscht.</string>
   <string name="install_title">Diese Datei installieren?</string>
+  <string name="log_status_locked_info">Sie haben keine Berechtigung für den Zugriff auf das Aktualisierungsprotokoll.</string>
+  <string name="log_status_locked_summary">Stellen Sie sicher, dass das Konto mit dem Sie sich angemeldet haben, über die erforderlichen Berechtigungen verfügt.</string>
   <string name="menu_title_current_version_log">Was ist neu? (Änderungen)</string>
   <string name="menu_title_pick_rom_file">Von SD-Karte installieren</string>
   <string name="menu_title_recovery">Neustart in den Recoverymodus</string>
@@ -49,9 +52,11 @@
   <string name="pick_not_found">Kein geeigneter Dateimanager gefunden</string>
   <string name="pick_title">Wählen Sie:</string>
   <string name="recovery_desc">Telefon wird in den Recoverymodus neugestartet. Wenn Sie mit dem Modus nicht vertraut sind, brechen Sie diese Aktion ab. Fortsetzen?</string>
+  <string name="security_space_button_neg">Neustarten und aktualisieren</string>
   <string name="server_error">Server reagiert nicht, die App funktioniert möglicherweise nicht einwandfrei!</string>
   <string name="share_title">Teilen mit</string>
   <string name="stable">Stabil</string>
+  <string name="update_downfull_no_info_title">Aktualisierung nicht möglich</string>
   <string name="version">Installierte Version:</string>
   <string name="weekly">Wöchentlich</string>
   <string name="wifi_recommended">Keine WLAN-Verbindung für schnellen Download!</string>
