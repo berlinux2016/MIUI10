@@ -151,6 +151,7 @@
   <string name="cannot_reply">Dieser Kommentar kann nicht beantwortet werden</string>
   <string name="change_download_quality">Downloadqualität ändern</string>
   <string name="channel_list_fragment_title">Radio</string>
+  <string name="checking_new_version">Nach Updates suchen…</string>
   <string name="chinese_female">Weibliche Sänger aus China</string>
   <string name="chinese_group">Musikgruppen aus China</string>
   <string name="chinese_male">Männliche Sänger aus China</string>
@@ -232,6 +233,7 @@
   <string name="confirm_delete_the_download_item_message">Diese Downloads löschen?</string>
   <string name="confirm_exit">Ihre Änderungen wurden nicht gespeichert. Möchten Sie die Änderungen speichern?</string>
   <string name="confirm_to_renew">Verlängern</string>
+  <string name="connect_now">Verbinden</string>
   <string name="connecting_apk">Verbinden…</string>
   <string name="continue_backup">Fortsetzen</string>
   <string name="copy">Kopieren</string>
@@ -350,6 +352,8 @@
   <string name="download_completed">Heruntergeladen</string>
   <string name="download_confirm_button_text">Installieren</string>
   <string name="download_confirm_text">Mi Musik lädt und installiert %s</string>
+  <string name="download_connect_wifi_dialog_message">Sie benötigen WLAN, um diesen Song herunterzuladen. Jetzt verbinden?</string>
+  <string name="download_connect_wifi_dialog_title">Mit WLAN verbinden</string>
   <string name="download_done_btn">Heruntergeladen</string>
   <string name="download_error">Fehlgeschlagen</string>
   <string name="download_error_insufficient_space">Zu wenig Speicherplatz</string>
@@ -442,6 +446,21 @@
   <string name="error_not_acceptable">Synchronisation ausgeschaltet</string>
   <string name="error_title">Synchronisation fehlgeschlagen</string>
   <string name="error_unauthorized">Synchronisation wurde wegen zu vieler Anmeldeversuche deaktiviert.</string>
+  <string name="exo_controls_fastforward_description">Schnellvorlauf</string>
+  <string name="exo_controls_fullscreen_description">Vollbildmodus</string>
+  <string name="exo_controls_next_description">Nächster Song</string>
+  <string name="exo_controls_play_description">Abspielen</string>
+  <string name="exo_controls_previous_description">Vorheriger Song</string>
+  <string name="exo_controls_repeat_all_description">Alle wiederholen</string>
+  <string name="exo_controls_repeat_off_description">Keinen wiederholen</string>
+  <string name="exo_controls_repeat_one_description">Einen wiederholen</string>
+  <string name="exo_controls_rewind_description">Rücklauf</string>
+  <string name="exo_controls_shuffle_description">Zufallswiedergabe</string>
+  <string name="exo_download_completed">Download vollständig</string>
+  <string name="exo_download_failed">Download fehlgeschlagen</string>
+  <string name="exo_download_removing">Downloads löschen</string>
+  <string name="exo_track_selection_none">Keiner</string>
+  <string name="exo_track_unknown">Unbekannt</string>
   <string name="expired">Abgelaufen</string>
   <string name="expires">Diesen Monat abgelaufen:</string>
   <string name="facebook_not_installed">Erst Facebook installieren</string>
@@ -514,6 +533,9 @@
   <string name="go_to_add_music">Titel hinzufügen</string>
   <string name="go_to_settings">Einstellungen</string>
   <string name="handle_later">Jetzt nicht</string>
+  <string name="headset_and_audio_effect_category">Kopfhörer &amp; Audioeffekte</string>
+  <string name="headset_and_audio_effect_summary">Kopfhörer &amp; Equalizer</string>
+  <string name="headset_and_audio_effect_title">Kopfhörer &amp; Audioeffekte</string>
   <string name="headset_settings">Kopfhörer &amp; Audioeffekte</string>
   <string name="hide_album">Albumcover verstecken</string>
   <string name="hide_lyric">Songtext verstecken</string>
@@ -524,6 +546,7 @@
   <string name="home_tab_online">Entdecken</string>
   <string name="hungama_subscribe_message">Sie sollten für diesen Song zahlen, um ihn herunterzuladen</string>
   <string name="hungama_subscribe_positive_button">Bezahlen</string>
+  <string name="hungama_subscribe_title">PRO Mitgliedschaft</string>
   <string name="i_know">Bestätigen</string>
   <string name="i_know_it">Bestätigen</string>
   <string name="impunity_declaration">App benötigt eine Internetverbindung, um Onlineinhalte anzuzeigen und zu streamen.</string>
@@ -548,6 +571,7 @@
   <string name="installing_apk">Installation…</string>
   <string name="insufficient_space">Zu wenig Speicherplatz auf internem Speicher</string>
   <string name="intelligent_recognize">Intelligent Album und Songtext optimieren</string>
+  <string name="is_latest_version">Musik ist aktuell</string>
   <string name="is_loading_data">Musik wird noch heruntergeladen. Versuche es nach ein bis zwei Minuten erneut.</string>
   <string name="is_scanning">Scanne, bitte warten</string>
   <string name="is_scanning_support_online">Überprüfe Speicher… (In der Zwischenzeit können Sie Musik online streamen-</string>
@@ -830,6 +854,8 @@
   <string name="play_mode_shuffle_all">Zufallswiedergabe</string>
   <string name="play_next">Nächsten abspielen</string>
   <string name="play_retry">Erneut spielen</string>
+  <string name="play_video_with_traffic">FORTFAHREN</string>
+  <string name="play_video_with_traffic_toast">Sie nutzen jetzt mobile Daten</string>
   <string name="playback_failed_no_title_by_bad_file">Audioformat wird nicht unterstützt oder die Datei existiert nicht</string>
   <string name="player_3g_tip_sub_title">Player erzeugt Traffic-Kosten</string>
   <string name="player_3g_tip_title">Derzeit Nutzung von Mobilfunknetzen, um den Datenfluß weiter zu steuern</string>
@@ -1021,6 +1047,7 @@
   <string name="signup_type_silent_default">Still</string>
   <string name="signup_type_user_default">LoginSDK Verbraucher</string>
   <string name="similar_songs">Ähnliche Titel</string>
+  <string name="similar_videos">Ähnliche Videos</string>
   <string name="sleep_mode">Schlummerfunktion</string>
   <string name="sleep_mode_canceled">Schlummerfunktion ausgeschaltet</string>
   <string name="sleep_mode_summary">Player nach einer bestimmten Zeit schließen</string>
@@ -1044,6 +1071,7 @@
   <string name="start_download_music">Beginne mit dem Herunterladen des Upgrades</string>
   <string name="start_shuffle">Zufallswiedergabe starten…</string>
   <string name="start_to_backup">Wird gesichert…</string>
+  <string name="start_to_check_new_version">Nach Updates suchen…</string>
   <string name="start_to_download">Beginne mit dem Herunterladen…</string>
   <string name="start_to_play">Abspielen</string>
   <string name="start_to_use">Genießen Sie</string>
@@ -1082,6 +1110,8 @@
   <string name="tab_track_list">Titel</string>
   <string name="take_effect_afater_restart">Damit die Einstellung wirksam wird, muss die App neu gestartet werden</string>
   <string name="talkback_back">Zurück</string>
+  <string name="talkback_batch_process">Mehrere Elemente</string>
+  <string name="talkback_clear">Löschen</string>
   <string name="talkback_cloud_setting">Einstellungen</string>
   <string name="talkback_device">Auf anderen Geräten abspielen</string>
   <string name="talkback_favorite">Dieser Titel gefällt</string>
@@ -1097,15 +1127,17 @@
   <string name="talkback_next">Nächster Titel</string>
   <string name="talkback_nowplaying_bar">Wiedergabeknopf</string>
   <string name="talkback_nowplaying_circle">Schleifenwiedergabeknopf</string>
+  <string name="talkback_play">Abspielen / Pause</string>
   <string name="talkback_pre">Vorheriger Titel</string>
   <string name="talkback_progress">Fortschrittsanzeige</string>
   <string name="talkback_radar">Musikerkennung</string>
   <string name="talkback_search">Suchen</string>
   <string name="talkback_share">Teilen</string>
   <string name="talkback_unlike">Unlike</string>
-  <string name="talkback_frame_list">Frame Liste</string>
+  <string name="talkback_frame_list">Frame-Liste</string>
   <string name="talkback_next_play">Nächsten spielen</string>
   <string name="talkback_remove_list">Aus Liste entfernen</string>
+  <string name="talkback_show_navigation_draw">Schublade anzeigen</string>
   <string name="task_already_exist">Aufgabe existiert bereits</string>
   <string name="terms_of_service">Allgemeine Geschäftsbedingungen</string>
   <string name="ticket_summary">Kaufen Sie Eintrittskarten für Shows, Konzerte, Theaterstücke und andere Veranstaltungen</string>
@@ -1175,6 +1207,7 @@
   <string name="upgrade_to">Aktualisiere auf</string>
   <string name="upgrade_vip">Upgrade auf Premiumpaket</string>
   <string name="upgrade_waringing">Sie werden nur in der Lage sein, lokale Titel abzuspielen.</string>
+  <string name="upgrading_in_backstage">Im Hintergrund aktualisieren…</string>
   <string name="user_agreement">Nutzungsvereinbarung</string>
   <string name="valid_period">"Gültig: %s"</string>
   <string name="video_more_dislike">Nicht gefallen</string>
@@ -1182,6 +1215,7 @@
   <string name="video_network_message">Sie benutzen jetzt mobile Daten und benötigen %1$s an Daten, um dieses Element abzuspielen.</string>
   <string name="video_network_negative">Für diese Zeit erlauben</string>
   <string name="video_network_positive">Für heute zulassen</string>
+  <string name="video_play_cellular">Ihr Gerät ist nicht mit WLAN verbunden. Mobile Daten nutzen?</string>
   <string name="video_play_error">Tippen, um wieder abzuspielen</string>
   <string name="video_play_finish_continue">Nochmal abspielen</string>
   <string name="video_play_finish_share">Teilen</string>
@@ -1189,6 +1223,9 @@
   <string name="video_player_data_error_tip">Kann kein Video abspielen. Warten Sie ein oder zwei Minuten und versuchen Sie es erneut.</string>
   <string name="video_player_net_error">Konnte keine Verbindung zum Netzwerk herstellen. Überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>
   <string name="video_player_no_data">Dieses Video ist nicht mehr verfügbar.</string>
+  <string name="video_replay_btn">Erneut abspielen</string>
+  <string name="video_retry_btn">Erneut versuchen</string>
+  <string name="view_album">Album anzeigen</string>
   <string name="view_all_comment">Alle %s Kommentare anzeigen</string>
   <string name="vip_after_tomorrow_auto_renew_message">Ihr Musikabo wird übermorgen Abend automatisch erneuert. Stellen Sie sicher, dass Sie genügend Mi Credits haben, um diese Zahlung abzuschließen.</string>
   <string name="vip_after_tomorrow_renew_message">Sie werden nicht mehr in der Lage sein, in HD-Qualität zu streamen, aber einige Titel werden weiterhin in Standardqualität verfügbar sein.</string>
