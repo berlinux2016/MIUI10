@@ -6,7 +6,7 @@
   <string name="ad_download">Installieren</string>
   <string name="ad_install">Installieren</string>
   <string name="ad_title">Personen laden dies auch mit %1$s runter</string>
-  <string name="ad_title_other">Personen, die dieses Bild heruntergeladen haben, laden auch herunter</string>
+  <string name="ad_title_other">Benutzer die dieses Bild heruntergeladen haben, haben auch Folgendes heruntergeladen.</string>
   <string name="add_flow_fail_haveget_msg">Testzeit abgelaufen</string>
   <string name="add_flow_fail_vip_msg">Xunlei-Downloadbeschleuniger ist an</string>
   <string name="add_flow_success_msg">%s diesen Monat hinzugefügt</string>
@@ -62,8 +62,8 @@
   <string name="dialog_insufficient_space_on_cache">Download kann nicht abgeschlossen werden, da der Speicherplatz des internen Speichers nicht ausreicht</string>
   <string name="dialog_insufficient_space_on_external">Download kann nicht abgeschlossen werden, da der Speicherplatz des externen Speichers nicht ausreicht</string>
   <string name="dialog_media_not_found">Download ist nicht möglich, da kein externes Speichermedium vorhanden ist</string>
-  <string name="dialog_msg_disabled_net">%1$s schränkt Downloads für das derzeitige Netzwerk ein. Klicke auf Netzwerkeinstellungen, um zur Sicherheitsapp zu gelangen.</string>
-  <string name="dialog_msg_recommend">Nach dem Ausschalten können Sie keine empfohlenen Quellen mehr anzeigen</string>
+  <string name="dialog_msg_disabled_net">%1$s eingeschränkte Downloads im aktuellen Netzwerk. Klicke auf Netzwerkeinstellungen, um zur Sicherheitsapp zu wechseln.</string>
+  <string name="dialog_msg_recommend">Nach dem Ausschalten können Sie keine empfohlenen Quellen mehr anzeigen. Sie können wählen, dass nur \"Inhalte über WLAN geladen werden sollen\", um mobile Daten zu speichern.</string>
   <string name="dialog_queued_body">Datei wurde zum späteren Download in die Warteschlange gesetzt</string>
   <string name="dialog_speed_cancel">Abbrechen</string>
   <string name="dialog_speed_msg">Verwendung der mobilen Datenverbindung für den Netzwerktest kann große Datenmengen verursachen. Trotzdem fortsetzen?</string>
@@ -145,6 +145,7 @@
   <string name="extra_ad_title">Könnte Ihnen auch gefallen</string>
   <string name="extract_file">Datei entpacken…</string>
   <string name="fastest_speed">Höchstgeschwindigkeit</string>
+  <string name="flow_consume">Datenverkehr</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_exist_hint">Datei ist bereits vorhanden</string>
   <string name="file_picker">Standort auswählen</string>
@@ -187,6 +188,7 @@
   <string name="menu_all_task_pause">Alle anhalten</string>
   <string name="menu_all_task_start">Alle starten</string>
   <string name="menu_back">Zurück zur Xunlei Mitgliedschaft</string>
+  <string name="menu_vip_unbind">Vip auflösen</string>
   <string name="menu_des_more">Mehr</string>
   <string name="menu_des_vip">Xunlei Mitgliedschaft</string>
   <string name="menu_enter_edit_mode">Ändern</string>
@@ -239,8 +241,8 @@
   <string name="percent_title">%1$s Personen heruntergeladen</string>
   <string name="period_of_validity">Gültigkeitsdauer:</string>
   <string name="pref_download_revert_default">Als Standardstandort speichern</string>
-  <string name="pref_download_settings_title">Datenverbrauch</string>
-  <string name="pref_download_storage_path">Neuen Ordner für Downloads erstellen</string>
+  <string name="pref_download_settings_title">Das Herunterladen mit mobilen Daten ist eingeschränkt</string>
+  <string name="pref_download_storage_path">An benutzerdefiniertem Ort speichern</string>
   <string name="pref_sniff_shortcut">Verknüpfung erstellen</string>
   <string name="pref_summary_any_bytes_popup">Immer auf Download über WLAN warten</string>
   <string name="pref_summary_enable_max_bytes_popup">Im mobilen Datennetz erscheint eine Benachrichtigung, wenn die Dateigröße das Limit überschreitet</string>
@@ -355,7 +357,7 @@
   <string name="sniff_terms_check_text">Nutzungsbedingungen zustimmen</string>
   <string name="sniff_terms_msg">Sie müssen den allgemeinen Geschäftsbedingungen zustimmen, um eine Drittanbietersuche zu verwenden</string>
   <string name="sniff_terms_msg_a">Diese Suchfunktion wird von einem Drittanbieter bereitgestellt. Sie müssen den Nutzungsbedingungen zustimmen, um fortzufahren.</string>
-  <string name="sniff_terms_msg_b">Diese Suchfunktion wird von einem Drittanbieter bereitgestellt. Sie müssen den Nutzungsbedingungen zustimmen, um fortzufahren. Wenn Sie den Bedingungen zustimmen, tippen Sie unten auf das Häkchen.</string>
+  <string name="sniff_terms_msg_b">Diese Suchfunktion wird von einem Drittanbieter zur Verfügung gestellt. Sie müssen den Nutzungsbedingungen zustimmen, bevor Sie sie verwenden können. Wenn Sie den Bedingungen zustimmen, tippen Sie auf das Häkchen unten.</string>
   <string name="sniff_terms_msg_bold">Nutzungsbedingungen</string>
   <string name="sniff_terms_msg_bold_new">Nutzungsbedingungen</string>
   <string name="sniff_terms_reject">Ablehnen</string>
@@ -388,9 +390,11 @@
   <string name="subbt_wait">Warten…</string>
   <string name="subfile_list">Dateien</string>
   <string name="task_detail">Aufgaben</string>
-  <string name="task_fail">Fehlgeschlagen</string>
+  <string name="task_fail">Operation konnte nicht abgeschlossen werden</string>
+  <string name="test_speed_detail">Einzelheiten</string>
   <string name="test_speed_please">Tippen, um die Geschwindigkeit zu testen...</string>
-  <string name="test_speed_result">Testergebnis</string>
+  <string name="test_speed_result">WLAN-Geschwindigkeit testen</string>
+  <string name="test_speed">Geschwindigkeitstest</string>
   <string name="text_showmore_infoflow">Weitere Quellen anzeigen</string>
   <string name="third_web_cancel">Abbrechen</string>
   <string name="third_web_default">Diesen Standort speichern</string>
@@ -406,7 +410,7 @@
   <string name="torrent_file_error">Diese Torrentdatei konnte nicht analysiert werden</string>
   <string name="torrent_no_subfile">Keine Unterdateien in diesem Torrent</string>
   <string name="total_speedup">Geschwindigkeitssteigerung (gesamt)</string>
-  <string name="try_download">Versuchen Sie zu downloaden</string>
+  <string name="try_download">Download versuchen</string>
   <string name="turn_off_xunlei_message">Die Download-Geschwindigkeiten könnten sinken</string>
   <string name="turn_off_xunlei_tips">Xunlei-Download-Beschleunigung ist ausgeschaltet</string>
   <string name="turn_off_xunlei_title">Xunlei ausschalten</string>
@@ -434,7 +438,7 @@
   <string name="xl_month_vip_open">Monatliche Mitgliedschaft (%1$s Mi Credits)</string>
   <string name="xl_month_vip_renew">Um 1 Monat verlängern (%1$s Mi Credits)</string>
   <string name="xl_pay_info">Gesamt %1$sCNY, speicher %2$sCNY</string>
-  <string name="xl_privilege_play">Wiedergabe downloaden</string>
+  <string name="xl_privilege_play">Wiedergabe synchronisieren</string>
   <string name="xl_privilege_play_info">Streamen Sie unvollendete Downloads von unterschiedlichen Geräten</string>
   <string name="xl_privilege_speedup">Download-Beschleuniger</string>
   <string name="xl_privilege_speedup_info">Highspeedverbindung und Support für Offlinedownloads</string>
