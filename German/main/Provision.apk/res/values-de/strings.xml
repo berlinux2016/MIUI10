@@ -2,7 +2,9 @@
 <resources>
   <string name="accessibility_enabled">Bedienungshilfen aktiviert</string>
   <string name="agree">Zustimmen</string>
-  <string name="agree_terms">Ich habe die Nutzungsbedingungen und Datenschutzrichtlinien gelesen und stimme beidem zu</string>
+  <string name="agree_terms">Ich habe die Nutzungsbedingungen und Datenschutzrichtlinien gelesen und stimme beiden zu.</string>
+  <string name="agree_terms_input_method_facemoji">Ich habe die Datenschutzerklärung von Facemoji gelesen und akzeptiert.</string>
+  <string name="agree_terms_input_method_kika">Ich habe die Datenschutzerklärung von Kika gelesen und akzeptiert.</string>
   <string name="alert_dialog_btn_close">Deaktivieren</string>
   <string name="alert_dialog_btn_open">Abbrechen</string>
   <string name="alert_dialog_msg">Einige der MIUI-Basisfunktionen und -dienste werden ohne diese Berechtigungen evtl. nicht richtig funktionieren (z.B. werden Kontaktinformationen während eines Telefonats nicht richtig angezeigt). Wenn Sie diese Berechtigungen verweigern, werden Systemapps nach individuellen Berechtigungen fragen, sobald diese benötigt werden.</string>
@@ -90,14 +92,19 @@
 Sie müssen die Nutzungsbedingungen und die Datenschutzrichtlinien akzeptieren, bevor Sie MIUI nutzen können.
 Mi Dienste, Mi SIM-Aktivierungsdienste, Mi Cloud, Gerät finden, Startbildschirm, Game Center, MAB, MiuiDaemon und MSA Systemkomponenten, Webapps, Quick Cards, Statistiken, Smartcards, Mi Link und Mi Konto-Komponenten verbinden sich mit dem Internet und erfassen Ihren Standort."</string>
   <string name="terms_of_use_label_gms">"Ihre Privatsphäre ist uns sehr wichtig. Lesen Sie unsere allgemeinen Geschäftsbedingungen und Datenschutzrichtlinien, um zu verstehen, welche Informationen wir sammeln, wie wir sie verwenden und welche Wahlmöglichkeiten Ihnen zur Verfügung stehen.
-
 Sie müssen unseren allgemeinen Geschäftsbedingungen und Datenschutzrichtlinien zustimmen, bevor Sie MIUI nutzen können. Mi-Dienste, Mi-SIM-Aktivierungsdienste, Mi-Cloud, Finde Telefon, Startbildschirm, Game-Center, MAB, MIUI-Daemon und MSA-Systemkomponenten, Web-Apps, App-Tresor, Statistiken, Smartcards, Mi-Link, Mi-Konto und Google-Play-Dienstekomponenten werden eine Verbindung zum Internet herstellen und Ihren Standort erfassen.</string>
+  <string name="terms_of_use_label_systemhelper">Selbstregistrierter Dienst</string>
+  <string name="terms_of_use_lable_default_input_method_facemoji">Sie müssen der Datenschutzerklärung von Facemoji zustimmen, bevor Sie diese Funktion nutzen können.</string>
+  <string name="terms_of_use_lable_default_input_method_kika">Sie müssen der Kika Datenschutzerklärung zustimmen, bevor Sie diese Funktion nutzen können.</string>
+  <string name="terms_privacy_policy_input_method_facemoji">Facemoji Datenschutzerklärung</string>
+  <string name="terms_privacy_policy_input_method_kika">Kika Datenschutzerklärung</string>
   <string name="title_congratulation">Glückwunsch, jetzt können Sie loslegen!</string>
   <string name="title_fingerprint">Fingerabdruck hinzufügen</string>
   <string name="two_dimensional_code_scan">QR-Code scannen</string>
   <string name="user_agreement">Nutzervereinbarung</string>
   <string name="user_strayed_warning">Seite ist für Werksprüfung ausgelegt.\"Zurück\" tippen zum Beenden.</string>
   <string name="voice_assist_desp">"Sagen Sie \"Mi AI\" in Ihr Telefon. Mi AI erkennt Ihre Stimme und ist in der Lage, Ihr Gerät zu steuern.</string>
+  <string name="voice_assist_desp_screen_light">"Wenn der Bildschirm leuchtet, sagen \"Mi AI\" in Ihr Telefon. Mi AI erkennt Ihre Stimme und kann Ihr Gerät steuern."</string>
   <string name="voice_assist_title">Aufwecken mit Stimme</string>
   <string name="welcome">Willkommen</string>
 </resources>

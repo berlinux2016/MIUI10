@@ -15,7 +15,7 @@
   <string name="activate_feature_register_xiaomi_account">Mi Konto einrichten</string>
   <string name="activate_feature_remote_assist">Fernassistent</string>
   <string name="activate_feature_verify_mx_token">Mi Konto Überprüfung</string>
-  <string name="activate_feature_voip">Mi Nachrichtenstimme</string>
+  <string name="activate_feature_voip">Mi Nachricht VoIP</string>
   <string name="activate_history_canceled_overview">Aktivierung der SIM-Karte wurde abgebrochen. Aktivierung wird mit \"%1$s\" ausgelöst.</string>
   <string name="activate_history_cancelled">Abgebrochen</string>
   <string name="activate_history_multisim_canceled_overview">Aktivierung der SIM-Karte %2$d wurde abgebrochen. Aktivierung wird mit \"%1$s\" ausgelöst.</string>
@@ -74,7 +74,7 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktivieren."</string>
   <string name="activate_popup_title_failed_phone_error">Aktivierung fehlgeschlagen</string>
   <string name="activate_popup_title_failed_query_info">Aktivierung fehlgeschlagen</string>
   <string name="activate_popup_title_failed_receive_sms">Aktivierung fehlgeschlagen</string>
-  <string name="activate_popup_title_failed_send_sms">Aktivierung fehlgeschlagen</string>
+  <string name="activate_popup_title_failed_send_sms">SMS konnte nicht gesendet werden</string>
   <string name="activate_popup_title_failed_server">Aktivierung fehlgeschlagen</string>
   <string name="activate_popup_title_manual">%s aktivieren</string>
   <string name="activate_popup_title_new_sim_card">%s reaktivieren</string>
@@ -91,7 +91,7 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktivieren."</string>
   <string name="activate_status_desc_getting_gateway">SMS-Gateway wird abgerufen…</string>
   <string name="activate_status_desc_prepare_sending_sms">Aktivierungs-SMS wird vorbereitet…</string>
   <string name="activate_status_desc_query_activation_info">Informationen werden abgerufen…</string>
-  <string name="activate_status_desc_query_activation_info_downlink_sms_error">Server konnte keine Aktivierungs-SMS senden</string>
+  <string name="activate_status_desc_query_activation_info_downlink_sms_error">Der Server konnte keine Aktivierungs-SMS an Ihr Telefon senden</string>
   <string name="activate_status_desc_query_activation_info_no_info">Keine Aktivierungsinfos auf dem Server</string>
   <string name="activate_status_desc_query_activation_info_server_error">Während der Aktivierung Ihres Kontos trat ein Fehler auf dem Server auf</string>
   <string name="activate_status_desc_registering_sim_account">SIM-Karte mit Ihrem Konto verknüpfen</string>
@@ -102,7 +102,7 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktivieren."</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Bei der Anforderung einer Aktivierungs-SMS ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_sending_sms">Aktivierung-SMS wird gesendet…</string>
   <string name="activate_status_desc_sending_sms_fail">Aktivierungs-SMS konnte nicht gesendet werden</string>
-  <string name="activate_status_desc_sms_sent">Aktivierungs-SMS gesendet</string>
+  <string name="activate_status_desc_sms_sent">Aktivierungs-SMS erfolgreich versendet</string>
   <string name="activate_status_desc_wait_for_sms">Auf Aktivierungs-SMS wird gewartet…</string>
   <string name="activate_status_desc_wait_for_sms_fail">Aktivierungs-SMS nicht erhalten</string>
   <string name="activate_status_desc_wait_for_sms_success">Aktivierungs-SMS erhalten</string>
@@ -111,11 +111,11 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktivieren."</string>
   <string name="agree">Erlauben</string>
   <string name="app_name">Xiaomi SIM-Aktivierungsdienst</string>
   <string name="checking_client">Überprüfen der Clientumgebung</string>
-  <string name="error_checking_client">Clientumgebungsfehler</string>  
+  <string name="error_checking_client">Bei der Aktivierung ist ein Fehler aufgetreten</string>  
   <string name="error_device_id_message">Ungültige Geräte-ID: %s</string>
-  <string name="error_network_io">Netzwerkfehler</string>
-  <string name="error_no_send_sms_permission">Keine SMS-Erlaubnis senden</string>
-  <string name="error_sim_not_in_service">SIM nicht in Betrieb</string>
+  <string name="error_network_io">Ein Netzwerkfehler ist aufgetreten</string>
+  <string name="error_no_send_sms_permission">Xiaomi SIM-Aktivierungsdienst benötigt die Erlaubnis, SMS zu versenden.</string>
+  <string name="error_sim_not_in_service">Warten auf die Aktivierung der SIM-Karte</string>
   <string name="explain_send_sms_permission_button">Verifizieren</string>
   <string name="explain_send_sms_permission_msg">Zum Aktivieren Ihrer %s wird Xiaomi-Service eine SMS senden, um Ihre Telefonnummer zu verifizieren. Es fallen dafür Gebühren bei Ihrem Netzbetreiber an.</string>
   <string name="explain_send_sms_permission_title">Verifizieren Sie Ihre Telefonnummer</string>
