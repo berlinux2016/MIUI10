@@ -357,7 +357,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Deinstallation von Systemapps kann verhindern, dass einige MIUI-Komponenten ordnungsgemäß funktionieren. Trotzdem deinstallieren?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Systemapps deinstallieren</string>
   <string name="app_memory_use">Speichernutzung</string>
-  <string name="app_mobile">Mobil</string>
+  <string name="app_mobile">Mobile Daten</string>
   <string name="app_name">Sicherung</string>
   <string name="app_name_na">Datennutzung</string>
   <string name="app_not_found_dlg_text">App wurde nicht in der Liste der installierten Apps gefunden</string>
@@ -418,7 +418,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="apply_fingerprint_to_category_title">Fingerabdruck anwenden</string>
   <string name="apply_password_to_category_title">Entsperren erforderlich</string>
   <string name="apply_update_fail">Update fehlgeschlagen</string>
-  <string name="approve_title">Überprüfung</string>
+  <string name="approve_title">Zertifizierung</string>
   <string name="apps_and_data_item_desc">Apps und Daten</string>
   <string name="apps_storage">Appspeicher</string>
   <string name="apps_summary">%1$d Apps wurden installiert</string>
@@ -1013,12 +1013,12 @@ Abtastrate"</string>
   <string name="brightness_title">Helligkeit</string>
   <string name="bt_hci_snoop_log">Bluetooth HCI Snoop Log einschalten</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth-HCI-Pakete in einer Datei erfassen</string>
-  <string name="bt_ldac_declaration">Wenn das Bluetooth-Gerät LDAC unterstützt, wird es standardmäßig verbunden. LDAC bietet ein hochwertiges Audioerlebnis und bringt auch einen höheren Stromverbrauch mit sich. Die Wiedergabe kann aufgrund von Einschränkungen der Bluetooth-Hardware erfolgen.</string>
+  <string name="bt_ldac_declaration">Wenn ein Bluetooth-Gerät LDAC unterstützt, wird es standardmäßig verbunden. LDAC bietet ein hochwertiges Audioerlebnis, erhöht aber auch den Stromverbrauch. Während der Wiedergabe kann es aufgrund von Einschränkungen der Bluetooth-Hardware zu Problemen kommen.</string>
   <string name="bt_ldac_dialog_summary">"LDAC sorgt für ein hochwertiges Klangerlebnis und einen höheren Stromverbrauch.
 Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
   <string name="bt_ldac_dialog_title">Das aktuelle Gerät unterstützt LDAC, das standardmäßig angeschlossen ist:</string>
-  <string name="bt_ldac_open_dialog_summary">LDAC bietet ein hochwertiges Klangerlebnis und bringt auch einen höheren Stromverbrauch mit sich. Die Wiedergabe kann aufgrund von Einschränkungen der Bluetooth-Hardware erfolgen.</string>
-  <string name="bt_ldac_open_dialog_title">Sind Sie sicher, dass Sie LDAC einschalten?</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC bietet ein hochwertiges Audioerlebnis, erhöht aber auch den Stromverbrauch. Während der Wiedergabe kann es aufgrund von Einschränkungen der Bluetooth-Hardware zu Problemen kommen.</string>
+  <string name="bt_ldac_open_dialog_title">LDAC einschalten?</string>
   <string name="bt_ldac_pre_summary">Sorgen Sie für ein hochwertiges Klangerlebnis</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Eigenschaften</string>
@@ -3119,6 +3119,9 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="miui_lab_features">MIUI Lab-Funktionen</string>
   <string name="miui_lab_gallery_search_desc">Verbesserte Bildsuche</string>
   <string name="miui_lab_gallery_search_title">Finde Fotos in der Galerie</string>
+  <string name="miui_lab_install_drive_mode_error">Konnte nicht installiert werden, erneut versuchen.</string>
+  <string name="miui_lab_install_drive_mode_summary">Automodus ist eine Systemapp. Installation erfordert keine Internetverbindung.</string>
+  <string name="miui_lab_install_drive_mode_title">Automodus installieren</string>
   <string name="miui_lab_settings">MIUI Lab</string>
   <string name="miui_lab_slogan">Lernen. Erkunden. Entdecken.</string>
   <string name="miui_lab_super_resolution_desc">Bilder schärfer machen</string>
@@ -5130,7 +5133,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="sound_settings_summary">Klingellautstärke auf %1$s</string>
   <string name="sound_settings_summary_silent">Rufton auf lautlos gestellt</string>
   <string name="sound_settings_summary_vibrate">Rufton auf Vibration eingestellt</string>
-  <string name="sound_stereo_mode_summary">Nur verfügbar, wenn Sie den Ton über den Lautsprecher wiedergeben</string>
+  <string name="sound_stereo_mode_summary">Funktioniert nur mit dem Lautsprecher</string>
   <string name="sound_stereo_mode_title">Stereoton</string>
   <string name="sound_vibrate_settings">Ton &amp; Vibration</string>
   <string name="sound_work_settings">Töne Arbeitsprofil</string>
@@ -6268,17 +6271,17 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="wallpaper_suggestion_summary">Bildschirm personalisieren</string>
   <string name="wallpaper_suggestion_title">Hintergrundbild ändern</string>
   <string name="wapi_auto_sel_cert">Automatisch wählen</string>
-  <string name="wapi_auto_sel_cert_fail">Zertifikat kann nicht automatisch ausgewählt werden. Bitte wählen Sie ein Zertifikat aus der Liste aus und versuchen Sie dann, eine Verbindung herzustellen.</string>
-  <string name="wapi_cert_is_not_selected">Bitte zuerst das Zertifikat auswählen</string>
+  <string name="wapi_auto_sel_cert_fail">Zertifikate können nicht automatisch ausgewählt werden. Wählen Sie ein Zertifikat aus der Liste aus und versuchen Sie dann, eine Verbindung herzustellen.</string>
+  <string name="wapi_cert_is_not_selected">Wählen Sie zuerst das Zertifikat aus</string>
   <string name="wapi_cert_manage_summary">Hinzufügen oder Löschen des WAPI-Zertifikats</string>
   <string name="wapi_cert_manage_title">WAPI-Zertifikatsverwaltung</string>
   <string name="wapi_cert_select">WAPI-Zertifikat</string>
   <string name="wapi_no">Nein</string>
-  <string name="wapi_no_vaild_cert">Keine Zertifikate vorhanden, jetzt installieren?</string>
-  <string name="wapi_password_empty">Bitte Passwort eingeben</string>
-  <string name="wapi_password_hex_format_invalid">Ungültige hexadezimale Zeichen</string>
+  <string name="wapi_no_vaild_cert">Sieht so aus, als ob die erforderlichen Zertifikate nicht installiert sind. Jetzt installieren?</string>
+  <string name="wapi_password_empty">Passwort eingeben</string>
+  <string name="wapi_password_hex_format_invalid">Ungültiges Passwortformat</string>
   <string name="wapi_password_hex_length_invalid">Anzahl der hexadezimalen Zeichen muss eine gerade Zahl sein</string>
-  <string name="wapi_password_length_invalid">Passwort muss sein: 8-64 Zeichen</string>
+  <string name="wapi_password_length_invalid">Passwort muss 8 bis 64 Zeichen lang sein</string>
   <string name="wapi_psk_type">Passwordtyp</string>
   <string name="wapi_psk_type_hex">Hexadezimal</string>
   <string name="wapi_yes">Ja</string>

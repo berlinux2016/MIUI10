@@ -725,6 +725,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="incorrect_pukcode">Falscher PUK-Code</string>
   <string name="input_password_after_boot_msg">Sie müssen das Passwort eingeben, nachdem das Telefon neu gestartet wurde</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Während eines Gesprächs kann nicht zwischen den Profilen gewechselt werden</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Kann nicht zwischen den Profilen wechseln, wenn die Kindersicherung eingeschaltet ist.</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Sie müssen nach dem Neustart des Telefons das Hauptprofil aufrufen</string>
   <string name="input_password_handle_sdcard_fs">Zweitprofil kann nicht vom Sperrbildschirm gestartet werden. Vom Hauptprofil starten.</string>
   <string name="input_password_hint_text">Passwort eingeben</string>
@@ -1099,7 +1100,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="pip_menu_title">Bild-im-Bild-Menü</string>
   <string name="pip_notification_message">Wenn Sie nicht möchten, dass %s diese Funktion verwendet, öffnen Sie Einstellungen  und deaktivieren Sie sie.</string>
   <string name="pip_notification_title">%s ist im Bild-im-Bild</string>
-  <string name="pip_notification_unknown_title">(Kein Titelprogramm)</string>
+  <string name="pip_notification_unknown_title">(Kein Programmtitel)</string>
   <string name="pip_phone_close">Schließen</string>
   <string name="pip_phone_dismiss_hint">Nach unten ziehen zum Ablehnen</string>
   <string name="pip_phone_expand">Erweitern</string>
