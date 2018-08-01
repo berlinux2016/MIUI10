@@ -110,12 +110,12 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktivieren."</string>
   <string name="activate_status_title_activating_msim">SIM-Karte %d wird aktiviert…</string>
   <string name="agree">Erlauben</string>
   <string name="app_name">Xiaomi SIM-Aktivierungsdienst</string>
-  <string name="checking_client">Überprüfen der Clientumgebung</string>
+  <string name="checking_client">Aktivierungsumgebung prüfen</string>
   <string name="error_checking_client">Bei der Aktivierung ist ein Fehler aufgetreten</string>  
   <string name="error_device_id_message">Ungültige Geräte-ID: %s</string>
   <string name="error_network_io">Ein Netzwerkfehler ist aufgetreten</string>
   <string name="error_no_send_sms_permission">Xiaomi SIM-Aktivierungsdienst benötigt die Erlaubnis, SMS zu versenden.</string>
-  <string name="error_sim_not_in_service">Warten auf die Aktivierung der SIM-Karte</string>
+  <string name="error_sim_not_in_service">Kann die SIM-Karte nicht aktivieren. Stellen Sie sicher, dass Ihr Kontostand ausreichend ist.</string>
   <string name="explain_send_sms_permission_button">Verifizieren</string>
   <string name="explain_send_sms_permission_msg">Zum Aktivieren Ihrer %s wird Xiaomi-Service eine SMS senden, um Ihre Telefonnummer zu verifizieren. Es fallen dafür Gebühren bei Ihrem Netzbetreiber an.</string>
   <string name="explain_send_sms_permission_title">Verifizieren Sie Ihre Telefonnummer</string>
@@ -128,5 +128,5 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktivieren."</string>
   <string name="privacy_revoke_failed_msg">Aktivierung erfordert die Erteilung einer Berechtigung, damit Messaging Ihre Telefonnummer erhalten kann.</string>
   <string name="privacy_revoke_tips">Nachdem Sie die Autorisierung widerrufen haben, wird Messaging Ihre Daten nicht mehr sammeln und alle Ihre Daten von seinen Servern löschen. Die Synchronisierung mit Mi Cloud, Mi Message und anderen Messaging-Funktionen ist nicht mehr möglich. Autorisierung trotzdem widerrufen?</string>
   <string name="sim_unactivated_title">SIM-Karte ist nicht aktiviert</string>
-  <string name="waiting_sim_in_service">Wartende SIM in Betrieb</string>
+  <string name="waiting_sim_in_service">Auf SIM-Aktivierung warten</string>
 </resources>
