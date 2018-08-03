@@ -457,9 +457,13 @@
   <string name="exo_controls_rewind_description">Rücklauf</string>
   <string name="exo_controls_shuffle_description">Zufallswiedergabe</string>
   <string name="exo_download_completed">Download vollständig</string>
+  <string name="exo_download_downloading">Download…</string>
   <string name="exo_download_failed">Download fehlgeschlagen</string>
   <string name="exo_download_removing">Downloads löschen</string>
   <string name="exo_track_selection_none">Keiner</string>
+  <string name="exo_track_surround">Surround Sound</string>
+  <string name="exo_track_surround_5_point_1">5.1 Surround Sound</string>
+  <string name="exo_track_surround_7_point_1">7.1 Surround Sound</string>
   <string name="exo_track_unknown">Unbekannt</string>
   <string name="expired">Abgelaufen</string>
   <string name="expires">Diesen Monat abgelaufen:</string>
@@ -1038,6 +1042,11 @@
   <string name="share_image_error">Bild konnte wegen Downloadfehlers nicht geteilt werden</string>
   <string name="share_text_list">"Ich habe eine Wiedergabeliste auf Mi Musik gefunden: "</string>
   <string name="share_text_song">"Ich habe einen Titel auf Mi Musik gefunden: "</string>
+  <string name="shortcut_add">Symbol hinzufügen</string>
+  <string name="shortcut_cancel">Nein danke</string>
+  <string name="shortcut_message">Verknüpfung im Launcher hinzufügen!</string>
+  <string name="shortcut_show_tip">Nicht mehr anzeigen</string>
+  <string name="shortcut_title">Gefallen Ihnen Ihre Hintergrundbilder?</string>
   <string name="show_download_manager">Zum Download-Manager</string>
   <string name="show_more">%s weitere anzeigen</string>
   <string name="shuffle_music">Zufällige Wiedergabe</string>
@@ -1194,6 +1203,14 @@
   <string name="unknown_artist_name">Unbekanntes Album</string>
   <string name="unread_message_count">%s Nachricht/en ungelesen</string>
   <string name="update_now">Jetzt aktualisieren</string>
+  <string name="update_btn">JETZT AKTUALISIEREN</string>
+  <string name="update_check">Nach Updates suchen</string>
+  <string name="update_checking">Nach Updates suchen…</string>
+  <string name="update_downloading">Updates herunterladen…</string>
+  <string name="update_fail">Keine Informationen erhalten, nochmal versuchen.</string>
+  <string name="update_latest">Ihre App ist auf dem neuesten Stand</string>
+  <string name="update_no_net">Ein Netzwerkfehler ist aufgetreten, nochmal versuchen.</string>
+  <string name="update_title">NEUES UPDATE VERFÜGBAR</string>
   <string name="upgrade">Aktualisierung:</string>
   <string name="upgrade_force">Wir stellen unseren derzeitigen Steamingdienst wegen Problemen mit dem Urheberrecht ein. Aktualisieren Sie die App, um Musik in höchster Qualität zu hören.</string>
   <string name="upgrade_immediate">Jetzt aktualisieren</string>
@@ -1209,6 +1226,7 @@
   <string name="upgrade_waringing">Sie werden nur in der Lage sein, lokale Titel abzuspielen.</string>
   <string name="upgrading_in_backstage">Im Hintergrund aktualisieren…</string>
   <string name="user_agreement">Nutzungsvereinbarung</string>
+  <string name="using_theme_show_ad">Werbung anzeigen</string>
   <string name="valid_period">"Gültig: %s"</string>
   <string name="video_more_dislike">Nicht gefallen</string>
   <string name="video_more_like">Gefallen</string>
@@ -1248,6 +1266,10 @@
   <string name="warning_tip_content">Sie sind nicht länger mit einem WLAN verbunden. Wenn Sie die mobile Datenverbindung verwenden um den Download fortzusetzen, wird Ihr Datenverbrauch signifikant ansteigen. Wenn Sie dabei Ihr Datenvolumen überschreiten, kann dies zu erhöhten Kosten bei Ihrem Netzbetreiber führen.</string>
   <string name="warning_tip_title">Datenverbrauchswarnung</string>
   <string name="welcome_to_new_music">Willkommen bei einer neuen Version von Mi Musik</string>
+  <string name="wifi_check_cancel">Abbrechen</string>
+  <string name="wifi_check_confirm">Bestätigen</string>
+  <string name="wifi_check_message">Mobile Daten zum Herunterladen von Updates verwenden?</string>
+  <string name="wifi_check_tip">Nicht wieder anzeigen</string>
   <string name="wifi_required_body" formatted="false">Sie müssen mit einem WLAN verbunden sein, um diesen %s-Download abzuschließen.\n%s antippen, um den Download zu starten, sobald Sie mit einem WLAN verbunden sind.</string>
   <string name="wifi_required_title">Downloadgröße übersteigt das Limit des Netzbetreibers</string>
   <string name="xiaoai_install_message">Sieht so aus, als hätten Sie den Mi AI Sprachassistent nicht installiert. Sie können ihn jetzt herunterladen und installieren.</string>
