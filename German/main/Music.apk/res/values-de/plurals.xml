@@ -2,7 +2,7 @@
 <resources>
   <plurals name="NPlaylist_delete_confirm">
     <item quantity="other">%d Playlisten löschen?</item>
-    <item quantity="one">Eine Playliste löschen?</item>
+    <item quantity="one">%d Playliste löschen?</item>
   </plurals>
   <plurals name="NTitel_group_detail_subtitle">
     <item quantity="other">erstellt am %1$s | insgesamt %2$d Titel</item>
@@ -20,15 +20,15 @@
   </plurals>
   <plurals name="Nartists_count">
     <item quantity="other">%d Künstler</item>
-    <item quantity="one">Ein Künstler</item>
+    <item quantity="one">%d Künstler</item>
   </plurals>
   <plurals name="Nassociate_songs">
     <item quantity="other">Passend zum Album und Text (%1$d/%2$d Titel)</item>
     <item quantity="one">Passend zum Album und Text (%1$d/%2$d Titel)</item>
   </plurals>
   <plurals name="Nbackup_songs">
-    <item quantity="other">Sichern von Titeln, %1$d verbleibende Titel (%2$.1fMB)</item>
-    <item quantity="one">Sichere %1$d verbleibenden Titel (%2$.1fMB)</item>
+    <item quantity="other">Sichern von Songs, %1$d verbleibende Songs (%2$.1fMB)</item>
+    <item quantity="one">Sichere %1$d verbleibenden Song (%2$.1fMB)</item>
   </plurals>
   <plurals name="Nbackup_Titels">
     <item quantity="other">Sichere Titel, %1$d Titel verbleiben (%2$.1fMB)</item>
@@ -40,11 +40,11 @@
   </plurals>
   <plurals name="Nexpired_remind">
     <item quantity="other">%d verbleibende Tage</item>
-    <item quantity="one">Ein verbleibender Tag</item>
+    <item quantity="one">%d verbleibender Tag</item>
   </plurals>
   <plurals name="Ngroups_count">
     <item quantity="other">%d Musikgruppen</item>
-    <item quantity="one">Eine Musikgruppe</item>
+    <item quantity="one">%d Musikgruppe</item>
   </plurals>
   <plurals name="Nnew_local_audios">
     <item quantity="other">%d Titel hinzugefügt</item>
@@ -71,36 +71,36 @@
     <item quantity="one">erstellt am %1$s | insgesamt %2$d Titel</item>
   </plurals>
   <plurals name="Nstop_backup_songs_message">
-    <item quantity="other">%d Titel wurden nicht auf Mi Cloud gesichert. Jetzt aufhören?</item>
-    <item quantity="one">%d Titel wurde nicht auf Mi Cloud gesichert. Jetzt aufhören?</item>
+    <item quantity="other">%d Songs wurden nicht auf Mi Cloud gesichert. Jetzt aufhören?</item>
+    <item quantity="one">%d Song wurde nicht auf Mi Cloud gesichert. Jetzt aufhören?</item>
   </plurals>
   <plurals name="Nstop_backup_Titels_message">
     <item quantity="other">%d Titel wurden nicht in der Mi Cloud gesichert, jetzt stoppen?</item>
-    <item quantity="one">Ein Titel wurde nicht in der Mi Cloud gesichert, jetzt stoppen?</item>
+    <item quantity="one">%d Titel wurde nicht in der Mi Cloud gesichert, jetzt stoppen?</item>
   </plurals>
   <plurals name="Ntracks_add_to_playlist">
     <item quantity="other">%d Titel zur Playlist hinzugefügt.</item>
-    <item quantity="one">Ein Titel zur Playlist hinzugefügt.</item>
+    <item quantity="one">%d Titel zur Playlist hinzugefügt.</item>
   </plurals>
   <plurals name="Ntracks_count">
     <item quantity="other">%d Titel</item>
-    <item quantity="one">Ein Titel</item>
+    <item quantity="one">%1$d Titel</item>
   </plurals>
   <plurals name="Ntracks_remove_from_playlist">
     <item quantity="other">%d Titel von Playlist entfernt</item>
-    <item quantity="one">Ein Titel von Playlist entfernt</item>
+    <item quantity="one">%d Titel von Playlist entfernt</item>
   </plurals>
   <plurals name="Ntracks_search_result">
     <item quantity="other">%d Titel gefunden</item>
-    <item quantity="one">Ein Titel gefunden</item>
+    <item quantity="one">%d Titel gefunden</item>
   </plurals>
   <plurals name="Ntracks_similar_count">
     <item quantity="other">%d ähnliche Titel</item>
-    <item quantity="one">Ein ähnlicher Titel</item>
+    <item quantity="one">%d ähnlicher Titel</item>
   </plurals>
   <plurals name="Nunbackup_audios">
     <item quantity="other">"%1$d Titel wurden nicht gesichert (%2$.1fMB)."</item>
-    <item quantity="one">"1 Titel wurde nicht gesichert (%2$.1fMB)."</item>
+    <item quantity="one">"%1$d Titel wurde nicht gesichert (%2$.1fMB)."</item>
   </plurals>
   <plurals name="Nupload_song_button">
     <item quantity="other">%1$d Titel gesichert (%2$.1fMB)</item>
@@ -108,11 +108,11 @@
   </plurals>
   <plurals name="Nupload_Titel_button">
     <item quantity="other">%1$d Titel gesichert (%2$.1fMB).</item>
-    <item quantity="one">Ein Titel gesichert (%2$.1fMB).</item>
+    <item quantity="one">%1$d Titel gesichert (%2$.1fMB).</item>
   </plurals>
   <plurals name="comment_count">
     <item quantity="other">%d Kommentare</item>
-    <item quantity="one">Ein Kommentar</item>
+    <item quantity="one">%d Kommentar</item>
   </plurals>
   <plurals name="comment_input_length_invalid">
     <item quantity="other">Sie können bis zu %1$d Zeichen eingeben.</item>
@@ -120,15 +120,15 @@
   </plurals>
   <plurals name="download_finished">
     <item quantity="other">&lt;font color=\"red\">%d Titel&lt;/font> heruntergeladen</item>
-    <item quantity="one">&lt;font color==\"red\">1 Titel&lt;/font> heruntergeladen</item>
+    <item quantity="one">&lt;font color==\"red\">%d Titel&lt;/font> heruntergeladen</item>
   </plurals>
   <plurals name="download_running">
     <item quantity="other">&lt;font color=\"red\">%d Titel&lt;/font> heruntergeladen</item>
-    <item quantity="one">&lt;font color==\"red\">1 Titel&lt;/font> heruntergeladen</item>
+    <item quantity="one">&lt;font color==\"red\">%d Titel&lt;/font> heruntergeladen</item>
   </plurals>
   <plurals name="dialog_confirm_delete_downloads_message">
     <item quantity="other">%d Artikel löschen?</item>
-    <item quantity="one">Einen Artikel löschen?</item>
+    <item quantity="one">%d Artikel löschen?</item>
   </plurals>
   <plurals name="dialog_confirm_delete_downloads_message_with_file">
     <item quantity="other">"%d Elemente löschen?
@@ -138,15 +138,15 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
   </plurals>
   <plurals name="dialog_delete_descript">
     <item quantity="other">%d Titel löschen?</item>
-    <item quantity="one">Einen Titel löschen?</item>
+    <item quantity="one">%d Titel löschen?</item>
   </plurals>
   <plurals name="dialog_remove_descript">
     <item quantity="other">%d Titel entfernen?</item>
-    <item quantity="one">Einen Titel entfernen?</item>
+    <item quantity="one">%d Titel entfernen?</item>
   </plurals>
   <plurals name="dialog_remove_from_cloud_descript">
     <item quantity="other">%d Titel von Mi Cloud löschen? Diese werden von der lokalen Playlist ebenfalls entfernt.</item>
-    <item quantity="one">Einen Titel von Mi Cloud löschen? Dieser wird von der lokalen Playlist ebenfalls entfernt.</item>
+    <item quantity="one">%d Titel von Mi Cloud löschen? Dieser wird von der lokalen Playlist ebenfalls entfernt.</item>
   </plurals>
   <plurals name="download_info_count_deleted_tasks">
     <item quantity="other">%d Downloads entfernt</item>
@@ -154,27 +154,31 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
   </plurals>
   <plurals name="folder_Titels_count">
     <item quantity="other">%d Titel</item>
-    <item quantity="one">Ein Titel</item>
+    <item quantity="one">%d Titel</item>
   </plurals>
   <plurals name="folder_songs_count">
-    <item quantity="other">%d Titel</item>
-    <item quantity="one">%d Titel</item>
+    <item quantity="other">%d Songs</item>
+    <item quantity="one">%d Song</item>
   </plurals>
   <plurals name="multichoice_title">
     <item quantity="other">%d Titel ausgewählt</item>
-    <item quantity="one">Ein Titel ausgewählt</item>
+    <item quantity="one">%d Titel ausgewählt</item>
   </plurals>
   <plurals name="notif_title_multiple_downloading">
     <item quantity="other">%1$d Titel herunterladen</item>
-    <item quantity="one">Einen Titel herunterladen</item>
+    <item quantity="one">%1$d Titel herunterladen</item>
   </plurals>
   <plurals name="notification_download_failed_more">
     <item quantity="other">%1$d Titel konnten nicht heruntergeladen werden</item>
-    <item quantity="one">Ein Titel konnten nicht heruntergeladen werden</item>
+    <item quantity="one">%1$d Titel konnten nicht heruntergeladen werden</item>
   </plurals>
   <plurals name="notification_download_success_more">
     <item quantity="other">%1$d Titel</item>
-    <item quantity="one">Ein Titel</item>
+    <item quantity="one">%1$d Titel</item>
+  </plurals>
+  <plurals name="Nnowplaying_songs">
+    <item quantity="other">(%d Songs)</item>
+     <item quantity="one">(%d Song)</item>
   </plurals>
   <plurals name="reader_count">
     <item quantity="other">%d Anhänger</item>
@@ -186,23 +190,23 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
   </plurals>
   <plurals name="send_Titels_toast">
     <item quantity="other">%d Titel werden gesendet</item>
-    <item quantity="one">Ein Titel wird gesendet</item>
+    <item quantity="one">%d Titel wird gesendet</item>
   </plurals>
   <plurals name="skipped_online_songs_tips">
-    <item quantity="other">%d übersprungene Titel. Schalten Sie Online-Dienste in den Einstellungen ein, um diese anzuhören.</item>
-    <item quantity="one">%d übersprungener Titel. Schalten Sie Online-Dienste in den Einstellungen ein, um diesen anzuhören.</item>
+    <item quantity="other">%d übersprungene Songs. Schalten Sie Online-Dienste in den Einstellungen ein, um diese anzuhören.</item>
+    <item quantity="one">%d übersprungener Song. Schalten Sie Online-Dienste in den Einstellungen ein, um diesen anzuhören.</item>
   </plurals>
   <plurals name="skipped_online_Titels_tips">
     <item quantity="other">%d Titel übersprungen. Aktivieren Sie in den Einstellungen Onlinedienste, um diese zu hören.</item>
-    <item quantity="one">1 Titel übersprungen. Aktivieren Sie in den Einstellungen Onlinedienste, um diesen zu hören.</item>
+    <item quantity="one">%d Titel übersprungen. Aktivieren Sie in den Einstellungen Onlinedienste, um diesen zu hören.</item>
   </plurals>
   <plurals name="song_already_favorite">
-    <item quantity="other">Titel wurden favorisiert</item>
-    <item quantity="one">Titel wurde favorisiert</item>
+    <item quantity="other">Songs wurden favorisiert</item>
+    <item quantity="one">Song wurde favorisiert</item>
   </plurals>
   <plurals name="songs_count">
-    <item quantity="other">%d Titel</item>
-    <item quantity="one">%d Titel</item>
+    <item quantity="other">%d Songs</item>
+    <item quantity="one">%d Song</item>
   </plurals>
   <plurals name="swipe_to_load_head_complete_success">
     <item quantity="other">Hallo %1$s! Hier sind %1$d Updates für Sie:</item>
