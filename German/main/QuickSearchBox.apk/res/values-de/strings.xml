@@ -234,6 +234,8 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="no_space_alert_title">Download pausiert</string>
   <string name="no_space_clean_failed">Konnte keinen Speicherplatz auf Ihrem Gerät freigeben​</string>
   <string name="ok">OK</string>
+  <string name="other">Andere</string>
+  <string name="page_search_hint">suchen…</string>
   <string name="permission_prompt_detail">Suche nach Filmen, Büchern, Musik und mehr</string>
   <string name="permission_prompt_start">Erlauben</string>
   <string name="permission_prompt_started_info">Sie haben Globale Suche erlaubt</string>
@@ -246,10 +248,10 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="recent_apps_preference_activity_title">Aktuelle Apps</string>
   <string name="recent_calls">Kürzliche Anrufe</string>
   <string name="recent_close_content">"Diese Funktion jetzt ausschalten?
-Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern."</string>  
+Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern."</string>
   <string name="recent_close_title">Diese Funktion ausschalten</string>
   <string name="recent_delete_content">"Diese Apps jetzt ausblenden?
-Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern."</string>  
+Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern."</string>
   <string name="recent_delete_negative">Abbrechen</string>
   <string name="recent_delete_positive">OK</string>
   <string name="recent_delete_title">Apps ausblenden</string>
@@ -299,7 +301,7 @@ Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern."</string
   <string name="security_back">Zurück zu Sicherheit</string>
   <string name="security_continue">Ich verstehe die Risiken und möchte fortfahren</string>
   <string name="security_risk_info">"Die Webseite, die Sie besuchen möchten, ist nicht sicher.
-Stellen Sie sicher, dass Sie die Risiken verstehen, bevor Sie die Seite aufrufen."</string>  
+Stellen Sie sicher, dass Sie die Risiken verstehen, bevor Sie die Seite aufrufen."</string>
   <string name="security_warning">Sicherheitswarnung</string>
   <string name="send_secret_code">Code senden</string>
   <string name="setting_back_description">Zurück</string>
@@ -312,6 +314,7 @@ Stellen Sie sicher, dass Sie die Risiken verstehen, bevor Sie die Seite aufrufen
   <string name="setting_conmmon_privacy_security">Privatsphäre &amp; Sicherheit</string>
   <string name="setting_entrance">Globale Suche öffnen</string>
   <string name="setting_other">Weitere</string>
+  <string name="setting_privacy_policy">Datenschutzerklärung</string>
   <string name="setting_recetn_apps_subtitle">Aktuelle Apps anzeigen</string>
   <string name="setting_right_protection">Sonderausgabe</string>
   <string name="setting_search_items">Gesuchte Artikel</string>
@@ -336,8 +339,18 @@ Stellen Sie sicher, dass Sie die Risiken verstehen, bevor Sie die Seite aufrufen
   <string name="suggestion_tab_btn">starten</string>
   <string name="suggestion_tab_detail">Hier klicken, um geeignete Kategorien zu durchsuchen und bessere Suchergebnisse zu erhalten</string>
   <string name="suggestion_tab_title">Folgende Kategorien durchsuchen</string>
-  <string name="swipe_up_summary">Nach oben wischen, um Globale Suche zu öffnen</string>
-  <string name="swipe_up_title">Nach oben wischen</string>
+  <string name="swipe_click_setting">Einstellungen ändern</string>
+  <string name="swipe_item_down">Auf dem Startbildschirm nach unten wischen</string>
+  <string name="swipe_item_down_short">Nach unten wischen</string>
+  <string name="swipe_item_up">Auf dem Startbildschirm nach unten wischen</string>
+  <string name="swipe_item_up_short">Nach oben wischen</string>
+  <string name="swipe_option_description">Wählen Sie die Geste zum Öffnen der Suche auf der Startseite aus</string>
+  <string name="swipe_option_title">Schnelle Geste wählen</string>
+  <string name="swipe_prompt_content">Online und auf diesem Gerät nach Elementen suchen</string>
+  <string name="swipe_prompt_qsb">Auf dem Startbildschirm nach unten wischen, um die Suche zu öffnen</string>
+  <string name="swipe_prompt_setting">Wischen Sie vom oberen Bildschirmrand nach unten, um den Benachrichtigungsanzeige zu öffnen</string>
+  <string name="swipe_up_summary">Suche mit einer schnellen Geste öffnen</string>
+  <string name="swipe_up_title">Wischen, um die Suche zu öffnen</string>
   <string name="switch_application">Apps</string>
   <string name="switch_browser">Browser</string>
   <string name="switch_contacts">Kontakte</string>
@@ -373,6 +386,7 @@ Stellen Sie sicher, dass Sie die Risiken verstehen, bevor Sie die Seite aufrufen
   <string name="web_link_copied">URL in die Zwischenablage kopiert</string>
   <string name="web_open_in_browser">Im Browser öffnen</string>
   <string name="web_refresh">Aktualisieren</string>
+  <string name="web_search">Auf Webseite suchen…</string>
   <string name="web_search_results">Websuchergebnisse</string>
   <string name="web_share">Teilen</string>
   <string name="webview_more_description">Mehr Funktionen</string>

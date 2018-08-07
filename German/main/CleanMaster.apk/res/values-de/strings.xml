@@ -310,6 +310,8 @@
   <string name="mainbtn_text_quick_cleanup">%s bereinigen</string>
   <string name="mainbtn_text_quick_cleanup_default">Bereinigen</string>
   <string name="memeory_check_content">%1$d Apps, Speicher %2$s</string>
+  <string name="memory_clean_icon_text">Speicher bereinigen</string>
+  <string name="memory_clean_no_trash_tip">Alles sieht gut aus</string>
   <string name="menu_add_to_white_list">Zu den Ausnahmen hinzufügen</string>
   <string name="menu_clear">Bereinigen</string>
   <string name="menu_install">Diese App installieren</string>
@@ -338,6 +340,12 @@
   <string name="notification_summary_of_garbage_cleanup">Antippen zum Bereinigen</string>
   <string name="notification_title_of_apps_cleanup">Nicht verwendete Apps</string>
   <string name="notify_when">Benachrichtigen, wenn der Datenmüll 100 MB erreicht</string>
+  <string name="onekeyclean_boosting_title">Geschwindigkeit erhöhen</string>
+  <string name="onekeyclean_boosted_title">Erfolgreich bereinigt</string>
+  <string name="onekeyclean_boost_cleaned">%s bereinigt</string>
+  <string name="onekeyclean_boost_available">%s verfügbar</string>
+  <string name="onekeyclean_card_summery">Räumt den Müll auf, um Platz zu schaffen</string>
+  <string name="onekeyclean_card_btn">Jetzt bereinigen</string>
   <string name="open">Aktivieren</string>
   <string name="open_app">Öffnen</string>
   <string name="open_browser">Im Browser öffnen</string>
@@ -368,6 +376,7 @@
   <string name="pref_summary_garbage_cleanup_check_time">Bereinigungsplan</string>
   <string name="pref_summary_garbage_process_mode">Benachrichtigen, wenn die Bereinigung läuft</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Unbekannte Dateinamen hochladen und online überprüfen</string>
+  <string name="pref_title_create_onekeyclean_shortcut">Verknüpfung zum Startbildschirm anzeigen</string>
   <string name="pref_title_apps_check_size">Speicherlimit</string>
   <string name="pref_title_apps_check_time">Frequenz</string>
   <string name="pref_title_apps_cleanup_size">Sobald die Cachegröße erreicht wurde</string>
