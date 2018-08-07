@@ -986,6 +986,8 @@ Abtastrate"</string>
   <string name="bootloader_locked_answer_2">"1. Stellen Sie sicher, dass Sie bereits eine SIM-Karte in Ihr Gerät eingelegt haben.
 2. Tippen Sie unten auf \"Konto hinzufügen\", um Ihr Mi-Konto mit diesem Gerät zu verbinden.
 3. Laden Sie das Freischalttool von unserer Website herunter. Beachten Sie, dass Sie Geräte über einen Computer entsperren müssen. Hier herunterladen:"</string>
+   <string name="bootloader_locked_answer_2_no_sim">"1.Tippen Sie unten auf \"Konto hinzufügen\", um Ihr Mi-Konto mit diesem Gerät zu verbinden.
+2. Laden Sie das Freischalt-Tool von unserer Website herunter. Beachten Sie, dass Sie Geräte über einen Computer entsperren sollten. Hier herunterladen:"</string>
   <string name="bootloader_locked_check_status">Konto und Gerät hinzufügen</string>
   <string name="bootloader_locked_question_1">Warum sollten Geräte gesperrt bleiben?</string>
   <string name="bootloader_locked_question_2">Ich verstehe die Risiken, möchte aber trotzdem mein Gerät entsperren</string>
@@ -1242,7 +1244,7 @@ Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
   <string name="condition_cellular_title">Mobilfunkdaten sind ausgeschaltet</string>
   <string name="condition_expand_hide">Verbergen</string>
   <string name="condition_expand_show">Anzeigen</string>
-  <string name="condition_hotspot_summary">Mobiler WLAN-Hotspot %1$s ist aktiv, WLAN des Gerätes ist ausgeschaltet</string>
+  <string name="condition_hotspot_summary">Mobiler WLAN-Hotspot %1$s ist aktiv, WLAN des Gerätes ist ausgeschaltet.</string>
   <string name="condition_hotspot_title">Hotspot ist an</string>
   <string name="condition_night_display_summary">Bildschirm ist gelb getönt. Das kann Ihnen helfen einzuschlafen.</string>
   <string name="condition_night_display_title">Nachtlicht ist an</string>
@@ -4805,6 +4807,8 @@ UT Interface: %5$s"</string>
   <string name="security_encryption_progress_dialog_open">Wird verschlüsselt…</string>
   <string name="security_encryption_rejected_via_home_manager">Diese Funktion wird in der Demo-Version nicht unterstützt</string>
   <string name="security_encryption_title">Gerät mit Sperrbildschirmpasswort verschlüsseln</string>
+  <string name="security_input">Sicherheitseingabe</string>
+  <string name="security_input_hint">Mit der Sicherheitstastatur Passwort eingeben</string>
   <string name="security_keyguard_category_name">Sperrbildschirm</string>
   <string name="security_password_category_name">Passwort</string>
   <string name="security_passwords_title">Passwörter</string>
