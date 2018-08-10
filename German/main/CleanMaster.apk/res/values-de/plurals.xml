@@ -13,13 +13,13 @@
     <item quantity="one">Seit %d Jahr nicht verwendet</item>
   </plurals>
   <plurals name="clean_long_msg_p1">
-    <item quantity="other">"Reinigung %1$d Dateien, %2$d beendet "</item>
-    <item quantity="one">"Reinigung %1$d Datei, %2$d beendet "</item>
+    <item quantity="other">"Bereinige %1$d Dateien (%2$d%%) "</item>
+    <item quantity="one">"Bereinige %1$d Datei (%2$d%%) "</item>
   </plurals>
   <plurals name="clean_long_msg_p2">
     <item quantity="other">%1$d%% Elemente/Sekunde, verbleibende Zeit: %2$s</item>
     <item quantity="one">%1$d%% Element/Sekunde, verbleibende Zeit: %2$s</item>
-  </plurals> 
+  </plurals>
   <plurals name="days_ago">
     <item quantity="other">vor %1$d Tagen</item>
     <item quantity="zero">vor %1$d Tagen</item>
@@ -102,8 +102,8 @@
     <item quantity="other">Von %1$d Personen heruntergeladen</item>
   </plurals>
   <plurals name="resutl_function_install_app_summary">
-    <item quantity="other">%d Apps wurden lange nicht verwendet. Schauen Sie mal nach.</item>
-    <item quantity="one">%d App wurde lange nicht verwendet. Schauen Sie mal nach.</item>
+    <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> Apps wurden lange nicht verwendet. Schauen Sie mal nach.</item>
+    <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> App wurde lange nicht verwendet. Schauen Sie mal nach.</item>
   </plurals>
   <plurals name="second">
     <item quantity="other">%1$d Sekunden</item>
