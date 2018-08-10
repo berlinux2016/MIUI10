@@ -2009,7 +2009,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="pref_leisure_not_opened">Ausgeschaltet</string>
   <string name="pref_leisure_traffic_limit">Freies Datenvolumen</string>
   <string name="pref_manual_adjust">Datenverbrauch manuell einstellen</string>
-  <string name="pref_mi_sim_settings">Mi SIM-Einstellungen</string>
+  <string name="pref_mi_sim_settings">%-Paketeinstellungen</string>
   <string name="pref_month_begin_date">Startdatum</string>
   <string name="pref_month_first_day">Erster Tag des Monats</string>
   <string name="pref_month_traffic_limit">Monatliches Datenlimit</string>
@@ -2037,7 +2037,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="pref_specified_adjust">Datenlimit einstellen</string>
   <string name="pref_specified_traffic_settings">Datenlimiteinstellungen</string>
   <string name="pref_summary_lock_screen_memory_clean">Automatisch bereinigen, wenn das Telefon gesperrt ist</string>
-  <string name="pref_summary_upload_data_usage">Ihre Datenverbrauchsstatistik hilft uns dabei, MIUI zu verbessern. Die Übermittlung erfolgt in Übereinstimmung mit unseren Datenschutzbestimmungen.</string>
+  <string name="pref_summary_upload_data_usage">Informieren Sie uns über Ihre Datenverwendung, damit wir die MIUI-Dienste verbessern können. Die Berichterstattung erfolgt in Übereinstimmung mit unserer Datenschutzerklärung.</string>
   <string name="pref_summary_virus_white_list">Bereinigung ausgewählter Apps verhindern</string>
   <string name="pref_title_declaration">Wichtiger Hinweis</string>
   <string name="pref_title_diagnostics_show_float_notification">Benachrichtigungen</string>
@@ -2049,7 +2049,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="pref_title_traffic_limit_number">Größe</string>
   <string name="pref_title_traffic_speed_state">Datengeschwindigkeit anzeigen</string>
   <string name="pref_title_update_notification">Datenverbrauchsmeldungen anzeigen</string>
-  <string name="pref_title_upload_data_usage">Datenverbrauchsstatistik übermitteln</string>
+  <string name="pref_title_upload_data_usage">Informationen zur Datenverwendung</string>
   <string name="pref_title_virus_white_list">Ausnahmen</string>
   <string name="pref_traffic_manage_title">Datennutzung</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Datenverbrauch für neue Apps reduzieren</string>
@@ -2146,9 +2146,9 @@ Diese Funktion wird für Systemapps nicht unterstützt."</string>
   <string name="report_success">Nachricht gemeldet</string>
   <string name="report_warning">%1$s SMS an Mi melden? Diese Nachricht und die Sendenummer werden zur Prüfung zum Mi-Server hochgeladen. Persönliche Informationen in den Nachrichten werden anonymisiert.</string>
   <string name="report_warning_title">SMS melden</string>
-  <string name="reset_data_title">"Can't restore password"</string>
+  <string name="reset_data_title">Passwort kann nicht wiederhergestellt werden</string>
   <string name="reset_data_dialog_message">Dieses Gerät ist nicht mit Ihrem Mi-Konto verbunden. Passwort kann nicht wiederhergestellt oder zurückgesetzt werden. Sichern Sie alle wichtigen Elemente und führen Sie einen Werksreset durch. Alle Daten werden dauerhaft gelöscht und Ihre SD-Karte wird während des Factory-Resets formatiert.</string>
-  <string name="reset_data_dialog_ok">Werkseinstellung</string>
+  <string name="reset_data_dialog_ok">Auf Werkseinstellung zurücksetzen</string>
   <string name="resource_antispam">Sperrliste</string>
   <string name="resource_antivirus">Virenscan</string>
   <string name="resource_app_permissions">Appberechtigungen</string>
@@ -2507,6 +2507,7 @@ Diese Funktion wird für Systemapps nicht unterstützt."</string>
   <string name="start_tc_button">Kalibrieren</string>
   <string name="status_bar_network_flow_content">Heute: %1$s | Verbleibend: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Heute: %1$s | Diesen Monat: %2$s</string>
+  <string name="status_bar_network_flow_content_virtual_card">%1$s | %2$s</string>
   <string name="status_bar_network_flow_exceed_content">Heute: %1$s | Plan überschritten: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_phone_balance">"   Telefonguthaben:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Kaufen &gt;"</string>

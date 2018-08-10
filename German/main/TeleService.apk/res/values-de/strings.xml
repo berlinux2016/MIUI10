@@ -596,7 +596,8 @@ Abtastrate"</string>
   <string name="cfu_title">Immer umleiten</string>
   <string name="change">Einstellen</string>
   <string name="change_cdma_capability_dialog" formatted="false">%s wird vorübergehend nicht funktionieren und im Falle von Anrufen, SMS oder Daten auf %s werden diese entsprechend auf %s umgeleitet</string>
-  <string name="change_data_preference_4g_only_prompt">Sieht aus, als hätten Sie nur eine 4G SIM-Karte. Um sicherzustellen, dass alles normal funktioniert, setzen Sie diese als Standard für mobile Daten. Jetzt einstellen?</string>
+  <string name="change_data_preference_4g_only_prompt">Sieht so aus, als hätten Sie nur eine 4G SIM-Karte. Um sicherzustellen das alles normal funktioniert, setzen Sie diese als Standard für mobile Daten. Jetzt einstellen?</string>
+  <string name="change_data_sim_4g_only_prompt">SIM-%1$s unterstützt nur 4G. Wenn SIM-%2$s nicht Ihre Standard-SIM für mobile Daten ist, funktioniert die SIM-Karte möglicherweise nicht normal. Jetzt wechseln?</string>
   <string name="change_default_data_card">Standard-SIM-Karte für mobile Daten</string>
   <string name="change_default_data_card_summary">Sieht so aus, als hätten Sie die SIM-Karte gewechselt. Diese SIM-Karte als Standarddatenkarte verwenden?</string>
   <string name="change_num">Aktualisieren</string>
@@ -1513,6 +1514,8 @@ Kontaktieren Sie Ihren Anbieter."</string>
   <string name="onscreenSwapCallsText">Tauschen</string>
   <string name="onscreenVideoCallText">Videoanruf</string>
   <string name="open_miui">Öffnen</string>
+  <string name="opened_dual_4g_confirm_prompt">Sieht so aus, als hätten Sie nur eine 4G SIM-Karte. Dual 4G wurde automatisch eingeschaltet.</string>
+  <string name="opened_dual_4g_confirm_prompt_with_sim">SIM-%1$s unterstützt nur 4G. Um sicherzustellen, dass Ihre SIM-Karte normal funktioniert, wurde Dual 4G eingeschaltet.</string
   <string name="operation_successfully">Fertig</string>
   <string name="operator_first">Netzbetreibertarif priorisieren</string>
   <string name="optional_summary">&lt;Optional&gt;</string>
