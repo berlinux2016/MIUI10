@@ -395,6 +395,11 @@
     <item>Kompatibilität</item>
     <item>Hochgeschwindigkeit</item>
   </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item>Automatisch (basiert auf Tageszeit)</item>
+    <item>Immer an</item>
+    <item>Immer aus</item>
+  </string-array>
   <string-array name="data_usage_data_range">
     <item>Die letzten 30 Tage</item>
     <item>Nutzungszyklus festlegen…</item>
@@ -1025,9 +1030,18 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Nur 5 GHz</item>
     <item>Nur 2.4 GHz</item>
   </string-array>
+  <string-array name="wifi_hidden_entries">
+    <item>Nein</item>
+    <item>Ja</item>
+  </string-array>
   <string-array name="wifi_ip_settings">
     <item>DHCP</item>
     <item>Statisch</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item>Automatisch erkennen</item>
+    <item>Gemessen behandeln</item>
+    <item>Unbemessen behandeln</item>
   </string-array>
   <string-array name="wifi_p2p_status">
     <item>Verbunden</item>

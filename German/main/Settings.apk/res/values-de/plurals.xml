@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="abc_slice_duration_days">
+    <item quantity="other">Vor %d Tagen</item>
+    <item quantity="one">Vor %d Tag</item>
+  </plurals>
+  <plurals name="abc_slice_duration_min">
+    <item quantity="other">Vor %d Min</item>
+    <item quantity="one">Vor %d Min</item>
+  </plurals>
+  <plurals name="abc_slice_duration_years">
+    <item quantity="other">Vor %d Jahren</item>
+    <item quantity="one">Vor %d Jahr</item>
+  </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
     <item quantity="other">extrem kurze Verzögerungen (%1$d ms)</item>
     <item quantity="one">extrem kurze Verzögerung (%1$d ms)</item>
@@ -21,8 +33,8 @@
     <item quantity="one">sehr kurze Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="app_notification_listing_summary_others">
-    <item quantity="other">Für %d Apps ausgeschaltet</item>
-    <item quantity="one">Für %d App ausgeschaltet</item>
+    <item quantity="other">Für %d Apps aus</item>
+    <item quantity="one">Für %d App aus</item>
   </plurals>
   <plurals name="auto_disable_screenbuttons_enabled_header_title">
     <item quantity="other">Für %d Apps immer deaktivieren</item>
@@ -36,6 +48,30 @@
     <item quantity="other">%d Apps dürfen automatisch starten</item>
     <item quantity="one">eine App darf automatisch starten</item>
   </plurals>
+  <plurals name="battery_manager_app_restricted">
+    <item quantity="other">%1$d Apps eingeschränkt</item>
+    <item quantity="one">%1$d App eingeschränkt</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_app_dialog_title">
+    <item quantity="other">%1$d Apps einschränken?</item>
+    <item quantity="one">App einschränken?</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_handled_summary">
+    <item quantity="other">Diese Apps dürfen nicht im Hintergrund laufen</item>
+    <item quantity="one">Diese App darf nicht im Hintergrund laufen</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_handled_title">
+    <item quantity="other">%2$d Apps kürzlich eingeschränkt</item>
+    <item quantity="one">%1$s kürzlich eingeschränkt</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_summary">
+    <item quantity="other">%2$d Apps nutzen viel Akku im Hintergrund</item>
+    <item quantity="one">%1$s nutzt viel Akku im Hintergrund</item>
+  </plurals>
+  <plurals name="battery_tip_restrict_title">
+    <item quantity="other">%1$d Apps einschränken</item>
+    <item quantity="one">%1$d App einschränken</item>
+  </plurals>
   <plurals name="bg_network_allow_count">
      <item quantity="other">%d Apps können sich mit dem Netzwerk verbinden</item>
      <item quantity="one">Eine App kann sich mit dem Netzwerk verbinden</item>
@@ -44,6 +80,10 @@
      <item quantity="other">%d Apps können sich nicht mit dem Netzwerk verbinden</item>
      <item quantity="one">App kann sich nicht mit dem Netzwerk verbinden</item>
   </plurals>
+     <plurals name="billing_cycle_days_left">
+        <item quantity="other">Noch %d Tage</item>
+        <item quantity="one">Noch %d Tag</item>
+     </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d Geräte</item>
     <item quantity="one">ein Gerät</item>
@@ -185,10 +225,18 @@
     <item quantity="other">%1$d Beschränkungen</item>
     <item quantity="one">1 Beschränkung</item>
   </plurals>
+  <plurals name="notification_group_summary">
+    <item quantity="other">%d Kategorien</item>
+    <item quantity="one">%d Kategorie</item>
+  </plurals>
   <plurals name="notification_summary">
     <item quantity="other">%d Apps vom Senden blockiert</item>
     <item quantity="one">eine App vom Senden blockiert</item>
   </plurals>
+     <plurals name="notifications_categories_off">
+        <item quantity="other">%d Kategorien ausgeschaltet</item>
+        <item quantity="one">%d Kategorie ausgeschaltet</item>
+     </plurals>
   <plurals name="number_of_device_admins">
     <item quantity="other">%d aktive Apps</item>
     <item quantity="one">%d aktive App</item>
@@ -196,6 +244,14 @@
   <plurals name="permissions_summary">
     <item quantity="other">%d Berechtigungen erteilt</item>
     <item quantity="one">eine Berechtigung erteilt</item>
+  </plurals>
+  <plurals name="power_high_usage_summary">
+    <item quantity="other">%2$d Apps verhalten sich unnormal</item>
+    <item quantity="one">%1$s verhält sich unnormal</item>
+  </plurals>
+  <plurals name="power_high_usage_title">
+    <item quantity="other">Apps entladen den Akku</item>
+    <item quantity="one">%1$s entlädt den Akku</item>
   </plurals>
   <plurals name="print_jobs_summary">
     <item quantity="other">%1$d Druckaufträge</item>
@@ -208,6 +264,10 @@
   <plurals name="print_settings_title">
     <item quantity="other">%d Druckaufträge</item>
     <item quantity="one">ein Druckauftrag</item>
+  </plurals>
+  <plurals name="restricted_app_summary">
+    <item quantity="other">Akkunutzung für %1$d Apps einschränken</item>
+    <item quantity="one">Akkunutzung für %1$d App einschränken</item>
   </plurals>
   <plurals name="runtime_permissions_additional_count">
     <item quantity="other">%d zusätzliche Berechtigungen</item>
@@ -240,6 +300,10 @@
   <plurals name="show_dev_countdown">
     <item quantity="other">In %1$d Schritten sind Sie ein Entwickler.</item>
     <item quantity="one">In einem Schritt sind Sie ein Entwickler.</item>
+  </plurals>
+  <plurals name="show_number_hearingaid_count">
+    <item quantity="other">%1$d Hörgeräte gespeichert</item>
+    <item quantity="one">%1$d Hörgerät gespeichert</item>
   </plurals>
   <plurals name="show_pho_countdown">
     <item quantity="other">Sie sind %1$d Schritte von den Telefoninformationen entfernt.</item>
@@ -289,6 +353,14 @@ Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin.
     <item quantity="other">%s Apps dürfen Benachrichtungen anzeigen</item>
     <item quantity="one">Eine App darf Benachrichtigungen anzeigen</item>
   </plurals>
+  <plurals name="suggestions_collapsed_summary">
+    <item quantity="other">+%1$d Vorschläge</item>
+    <item quantity="one">+1 Vorschlag</item>
+  </plurals>
+  <plurals name="suggestions_collapsed_title">
+    <item quantity="other">%1$d Vorschläge</item>
+    <item quantity="one">1 Vorschlag</item>
+  </plurals>
   <plurals name="uri_permissions_text">
     <item quantity="other">%d Objekte</item>
     <item quantity="one">ein Objekt</item>
@@ -298,23 +370,39 @@ Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin.
     <item quantity="one">ein Risiko gefunden</item>
   </plurals>
   <plurals name="wifi_saved_access_points_summary">
-        <item quantity="other">%d Netzwerke</item>
-        <item quantity="one">1 Netwerk</item>
-     </plurals>
+    <item quantity="other">%d Netzwerke</item>
+    <item quantity="one">1 Netwerk</item>
+  </plurals>
   <plurals name="wifi_share_count">
     <item quantity="other">%d geteilte Netzwerke</item>
     <item quantity="one">ein geteiltes Netzwerk</item>
   </plurals>
+  <plurals name="wifi_tether_connected_summary">
+    <item quantity="other">%1$d Geräte verbunden</item>
+    <item quantity="one">%1$d Gerät verbunden</item>
+  </plurals>
   <plurals name="wrong_pin_code">
     <item quantity="other">Falsche PIN. Sie haben noch %d Versuche.</item>
-    <item quantity="one">Falsche PIN. Sie haben noch einen Versuch, bevor Sie das Gerät von Ihrem Mobilfunkanbieter entsperren lassen müssen.</item>
+    <item quantity="one">Falsche PIN. Sie haben noch einen Versuch, bevor das Gerät von Ihrem Mobilfunkanbieter entsperrt werden muss.</item>
   </plurals>
-<plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d automatische Regeln eingeschaltet</item>
-        <item quantity="one">1 automatische Regel eingeschaltet</item>
-     </plurals>
+  <plurals name="zen_mode_duration_summary_time_hours">
+    <item quantity="other">%d Stunden (falls nicht autom. eingeschaltet)</item>
+    <item quantity="one">1 Stunde (falls nicht autom. eingeschaltet)</item>
+  </plurals>
+  <plurals name="zen_mode_settings_summary_on">
+    <item quantity="other">%d automatische Regeln eingeschaltet</item>
+    <item quantity="one">1 automatische Regel eingeschaltet</item>
+  </plurals>
+  <plurals name="zen_mode_sound_summary_summary_off_info">
+    <item quantity="other">%d Regeln schalten sich automatisch ein</item>
+    <item quantity="one">1 Regel schaltet sich automatisch ein</item>
+  </plurals>
+  <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+    <item quantity="other">%d weitere</item>
+    <item quantity="one">1 weitere</item>
+  </plurals>
   <plurals name="zen_mode_summary_alarms_only_by_minute">
-    <item quantity="other">Änderung der Alarme nur für %1$d Minuten (bis %2$s)</item>
+    <item quantity="other">Änderung der Alarme nur für %1$d Minuten bis %2$s</item>
     <item quantity="one">Änderung der Alarme nur für eine Minute bis %2$s</item>
   </plurals>
   <plurals name="zen_mode_summary_alarms_only_by_hour">
