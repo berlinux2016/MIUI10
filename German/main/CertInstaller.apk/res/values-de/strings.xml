@@ -6,7 +6,8 @@
   <string name="cert_not_saved">Zertifikat ist nicht installiert.</string>
   <string name="cert_read_error">Installation nicht möglich, weil die Zertifikatdatei nicht gelesen werden konnte</string>
   <string name="cert_too_large_error">Installation nicht möglich, weil das Zertifikat zu groß ist</string>
-  <string name="credential_info">Das Paket enthält folgendes:</string>
+  <string name="certificate_capabilities_warning">Hinweis: Der Zertifikatsaussteller kann den gesamten Datenverkehr zum und vom Gerät überwachen.</string>
+  <string name="credential_info">Das Paket enthält Folgendes:</string>
   <string name="credential_name">Zertifikatname:</string>
   <string name="credential_password">Geben Sie das Passwort zum Extrahieren der Zertifikate ein</string>
   <string name="credential_usage_label">Verwendung der Anmeldedaten:</string>
@@ -34,7 +35,7 @@
   <string name="pkcs12_file_password_dialog_title">Zertifikate aus %s extrahieren</string>
   <string name="pkcs12_password_dialog_title">Zertifikat extrahieren</string>
   <string name="sdcard_not_present">USB-Speicher ist nicht vorhanden</string>
-  <string name="storage_error">Konnte das Zertifikat nicht speichern. OK, um es erneut zu versuchen.</string>  
+  <string name="storage_error">Konnte das Zertifikat nicht speichern. OK, um es erneut zu versuchen.</string>
   <string name="unable_to_save_cert">Das Zertifikat konnte nicht gespeichert werden. Der Speicher für die Anmeldeinformationen wurde nicht aktiviert oder falsch initialisiert.</string>
   <string name="wifi_cancel_label">Abbrechen</string>
   <string name="wifi_config_text">
