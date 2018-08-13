@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_ent_mode">Über den Enterprise-Modus</string>
   <string name="Active">Aktiv</string>
-  <string name="PassWordGuard">Zweitprofilpasswort</string>
-  <string name="PrivacyContactDes1">"Kontakte werden privat. Nachrichten erhalten Sie nur im Zweitprofil."</string>
-  <string name="PrivacyContactDes2">Wenn Sie private Nachrichten im Hauptprofil verwendet haben, wird diese Funktion automatisch im Zweitprofil aktiviert</string>
+  <string name="activate_ent_mode">Enterprise-Modus aktivieren</string>
   <string name="add_finger_print">Fingerabdruck hinzufügen</string>
   <string name="agree">Einverstanden</string>
   <string name="air_space_created">Arbeitsbereich erfolgreich erstellt</string>
@@ -84,6 +83,30 @@
   <string name="encrypt_space_delete_notification_title">Zweitprofil</string>
   <string name="enter_air_space">Zum Arbeitsbereich gehen</string>
   <string name="entrance_reopen_toast_msg">Anzeige der Zweitprofilverknüpfung wegen unterschiedlicher Passworttypen</string>
+  <string name="ent_activating">Aktivieren…</string>
+  <string name="ent_activation">Aktivieren</string>
+  <string name="ent_activation_hint">Geben Sie Ihren Firmencode zusammen mit dem Lizenzcode ein, um den Enterprise-Modus zu aktivieren. Danach werden benutzerdefinierte Unternehmensdienste aktiviert.</string>
+  <string name="ent_activation_hint_whit_licence">"Aktivieren Sie den Enterprise-Modus, um benutzerdefinierte Unternehmensdienste zu aktivieren.
+Stellen Sie sicher, dass der Name Ihres Unternehmens korrekt ist. Lesen und akzeptieren Sie die entsprechenden Datenschutzrichtlinien, bevor Sie diese aktivieren."</string>
+  <string name="ent_agency_code">Unternehmenscode</string>
+  <string name="ent_agency_code_hint">Unternehmenscode eingeben</string>
+  <string name="ent_agency_code_invalid">Der eingegebene Unternehmenscode ist ungültig.</string>
+  <string name="ent_agree_privacy_policy">Ich habe die Datenschutzerklärung gelesen und bin damit einverstanden.</string>
+  <string name="ent_app_verified">Sieht so aus, als ob auf Ihrem Gerät Unternehmensanwendungen installiert sind. Enterprise-Modus aktivieren?</string>
+  <string name="ent_confirm_dialog_content">Nach dem Aktivieren des Enterprise-Modus können Sie nicht mehr in den aktuellen Zustand Ihres Systems zurückkehren. Alle Ihre Daten werden jedoch weiterhin auf diesem Gerät gespeichert. Sie müssen Ihr Gerät neu starten, um den Enterprise-Modus zu aktivieren. Jetzt aktivieren?</string>
+  <string name="ent_disallow_running">Das Ausführen der App ist verboten</string>
+  <string name="ent_error_dialog_content">Mindestens einer der von Ihnen eingegebenen Codes war falsch. Überprüfen Sie Ihre Unternehmen- und Lizenzcodes und geben Sie sie erneut ein.</string>
+  <string name="ent_get_code_hint">Unternehmen- und Lizenzcodes erhalten Sie von Ihrem Vorgesetzten</string>
+  <string name="ent_invalid_agency">Unternehmenscode ist ungültig.</string>
+  <string name="ent_invalid_qr">QR-Code ist ungültig.</string>
+  <string name="ent_licence_code">Lizenzcode</string>
+  <string name="ent_licence_code_hint">Lizenzcode eingeben</string>
+  <string name="ent_licence_code_invalid">Der eingegebene Lizenzcode ist ungültig.</string>
+  <string name="ent_mode_activated">Enterprise-Modus ist aktiviert</string>
+  <string name="ent_network_error">Konnte keine Verbindung zum Netzwerk herstellen. Überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es mit Gain.</string>
+  <string name="ent_next_step">Weiter</string>
+  <string name="ent_privacy_policy_notice">* Personenbezogene Daten werden in diesem Modus gemäß den von Ihrem Unternehmen festgelegten Richtlinien erhoben. Xiaomi sammelt in diesem Modus keine personenbezogenen Daten.</string>
+  <string name="enterprise_mode">Enterprise-Modus</string>
   <string name="err_copy_contacts">Kontakte kopieren fehlgeschlagen</string>
   <string name="err_copy_files">Dateien verschieben fehlgeschlagen</string>
   <string name="err_copy_photos">Fotos kopieren fehlgeschlagen</string>
@@ -186,12 +209,14 @@ Sie können Sie auch separat installieren."</string>
   <string name="optimize_now">Optimieren</string>
   <string name="other">Anderer</string>
   <string name="otherSettings">Andere Einstellungen</string>
+  <string name="PassWordGuard">Zweitprofilpasswort</string>
   <string name="passWordGuardSummary">Erreichen Sie das Zweitprofil vom Sperrbildschirm mittels Passwort</string>
   <string name="passwordProtect">Passwort</string>
   <string name="path_sspace">Einstellungen/Zeitprofil</string>
   <string name="path_xspace">Einstellungen/Geklonte Apps</string>
   <string name="please_diff_finger_print">"Verwenden Sie unterschiedliche Fingerabdrücke für Haupt- und Zweitprofil.
 Andernfalls können Sie das Zweitprofil nicht vom Sperrbildschirm aus erreichen."</string>
+  <string name="PrivacyContactDes2">Wenn Sie private Nachrichten im Hauptprofil verwendet haben, wird diese Funktion automatisch im Zweitprofil aktiviert</string>
   <string name="privacyContactsSummary">Private Elemente im Zweitprofil anzeigen</string>
   <string name="privacyContactsTitle">Private Kontakte und Nachrichten</string>
   <string name="privacy_password_fingerprint_dialog_message">Platzieren Sie Ihren Finger auf dem Sensor</string>
@@ -235,7 +260,7 @@ um das Zweitprofil vom Sperrbildschirm aus zu erreichen"</string>
   <string name="scanner_fingerprint_tips_desc">Vorhandenen Fingerabdruck für das Zweitprofil auswählen. Sie können Ihn dann nicht mehr für das Hauptprofil verwenden.</string>
   <string name="scanner_fingerprint_tips_title">Mit einem vorhandenen Fingerabdruck auf das Zweitprofil zugreifen</string>
   <string name="scanner_second_space_fingerprint">Zweitprofilfingerabdruck scannen</string>
-  <string name="sdcardfs_dialog_message">"In diesem Update wird ein neues Dateisystem eingeführt. Alte Daten können damit inkompatibel sein. Um dieses Problem zu beheben, 
+  <string name="sdcardfs_dialog_message">"In diesem Update wird ein neues Dateisystem eingeführt. Alte Daten können damit inkompatibel sein. Um dieses Problem zu beheben,
 folgen Sie den Schritten zur Installation eines Updates. Ihr Gerät wird während dieses Updates zweimal neu gestartet."</string>
   <string name="sdcardfs_dialog_title">Wichtiges Update</string>
   <string name="sdcradfs_dialog_in_owner_message">"In diesem Update wird ein neues Dateisystem eingeführt. Alte Daten können damit inkompatibel sein. Zum Aktualisieren verschieben Sie Elemente aus dem zweiten Profil,
