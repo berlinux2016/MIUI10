@@ -1,5 +1,95 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="attach_rcs_file">Datei</string>
+    <string name="attach_rcs_location">Standort</string>
+    <string name="can_not_send_by_rcs">Kann China Mobile Nachrichten nicht benutzen</string>
+    <string name="converting_vcard_failed">Kontakt konnte nicht konvertiert werden</string>
+    <string name="delivery_toast_body_more">Nachricht empfangen von %1$s und %2$d anderen Personen</string>
+    <string name="dialog_message_mx">Mit Mi Message können Sie Nachrichten an andere MIUI-Geräte senden, ohne dass dafür Gebühren anfallen. Eine ausgehende SMS-Nachricht ist erforderlich, um Mi Message zu aktivieren. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen. Sie müssen unserer Nachricht \"%1$s\" und \"%2$s\" zustimmen, bevor Sie Mi Message benutzen können.</string>
+    <string name="dialog_message_mx_rcs">Mit Mi Message können Sie Nachrichten an andere MIUI-Geräte und China Mobile senden, ohne dass dafür Gebühren anfallen. Eine ausgehende SMS-Nachricht ist erforderlich, um Mi Message zu aktivieren. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen. Sie müssen unserer Nachricht \"%1$s\" und \"%2$s\" zustimmen, bevor Sie Mi Message benutzen können. Einverstanden?</string>
+    <string name="dialog_message_networking">Messaging muss sich mit dem Internet verbinden und auf Ihren Standort zugreifen, um Smart Messaging, Sender-ID-Erkennung und andere Dienste bereitzustellen. Sie müssen unseren \"%1$s\" und \"%2$s\" zustimmen, bevor Sie diese Dienste in Anspruch nehmen könenn. Einvertanden?</string>
+
+
+    <string name="dialog_message_networking_mx">Mi Message allows you to send messages to other MIUI devices without incurring charges. An outgoing SMS message is required to activate Mi Message. Your carrier will charge you for this message. You must agree to our \"%1$s\" and \"%2$s\" before using Mi Message. Messaging needs to connect to the Internet and access your location in order to provide Smart Messaging, Sender ID recognition, and other services. Allow?</string>
+    <string name="dialog_message_networking_mx_rcs">Mi Message allows you to send messages to other MIUI devices and China Mobile users without incurring charges. An outgoing SMS message is required to activate Mi Message. Your carrier will charge you for this message. You must agree to our \"%1$s\" and \"%2$s\" before using Mi Message. Messaging needs to connect to the Internet and access your location in order to provide Smart Messaging, Sender ID recognition, and other services. Allow?</string>
+    <string name="dialog_message_networking_rcs">China Mobile Messaging allows you to send messages to other China Mobile users without incurring charges. You must agree to \"%1$s\" and \"%2$s\" before using China Mobile Messaging. Messaging needs to connect to the Internet and access your location in order to provide Smart Messaging, Sender ID recognition, and other services. Allow?</string>
+    <string name="dialog_message_rcs">China Mobile Messaging allows you to send messages to other China Mobile users without incurring charges. You must agree to \"%1$s\" and \"%2$s\" before using China Mobile Messaging. Agree?</string>
+
+
+    <string name="dialog_title_mx_rcs">Mi Message</string>
+    <string name="dialog_title_networking">Bedingungen und Konditionen</string>
+    <string name="exceed_length_limit">Überschreitung der maximalen Länge</string>
+    <string name="forward_message_select_title">Nachricht weiterleiten</string>
+    <string name="group_already_kicked_hint">Wenn Sie die maximale Länge überschreiten, sind Sie nicht in dieser Gruppe und können keine Nachrichten senden.</string>
+    <string name="group_message_title">Gruppenchat-Nachricht</string>
+    <string name="group_not_exist_hint">Die Gruppe wurde aufgelöst und kann keine Nachrichten versenden</string>
+    <string name="group_notify_message_title">Gruppenbenachrichtigung</string>
+    <string name="group_rejoin_failed">Gruppenoperation ist fehlgeschlagen</string>
+    <string name="group_view_settings_disolved">Die Gruppe wurde aufgelöst und kann die Gruppendaten nicht anzeigen./string>
+    <string name="group_view_settings_not_memeber">Nicht in dieser Gruppe, kann keine Gruppendaten anzeigen</string>
+    <string name="millionbyte">MB</string>
+    <string name="msg_no_member_selected">Mindestens einen Kontakt auswählen</string>
+    <string name="msg_type_sms_rcs">SMS, MMS, und Internetnachrichten</string>
+    <string name="network_error_description">Ein Netzwerkfehler ist aufgetreten. Warten Sie ein oder zwei Minuten und versuchen Sie es erneut.</string>
+    <string name="not_prepare_for_send">Keine Nachricht zum senden</string>
+    <string name="privacy_policy">Datenschutzerklärung</string>
+    <string name="rcs_auto_resend_mms">Umwandeln in MMS</string>
+    <string name="rcs_auto_resend_sms">Umwandeln in SMS</string>
+    <string name="rcs_auto_resume">Unterbrochene Uploads automatisch fortsetzen</string>
+    <string name="rcs_auto_resume_only_by_wifi">Uploads nur bei Verbindung mit WLAN fortsetzen</string>
+    <string name="rcs_create_new_group">Neuer Gruppenchat</string>
+    <string name="rcs_dspt">Nach dem Einschalten von China Mobile senden Sie Nachrichten standardmäßig über WLAN oder das Mobilfunknetz.</string>
+    <string name="rcs_forward_faild">Konnte nicht weiterleiten</string>
+    <string name="rcs_forward_successful">Erfolgreich weitergeleitet</string>
+    <string name="rcs_group_notification_invitation">Gruppeneinladung</string>
+    <string name="rcs_message">China Mobile Messaging</string>
+    <string name="rcs_message_disable">Diese Nachricht kann nicht im zweiten Profil angezeigt werden</string>
+    <string name="rcs_msg">China Mobile Messaging</string>
+    <string name="rcs_not_online">Kann China Mobile Messaging nicht verwenden. Überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>
+    <string name="rcs_offline_hint">China Mobile Messaging ist offline. Sie können diese Nachricht nicht weiterleiten.</string>
+    <string name="rcs_recipient_type_contact">Weiter zum Kontakt</string>
+    <string name="rcs_recipient_type_group">Weiter zur Gruppe</string>
+    <string name="rcs_recipient_type_pc">An Computer weiterleiten</string>
+    <string name="rcs_resend_not_online">Kann China Mobile Messaging nicht benutzen</string>
+    <string name="rcs_resend_sim_card_not_insert">Sieht so aus, als wäre Ihre SIM-Karte nicht installiert.</string>
+    <string name="rcs_send_rms_remind_change">Einstellungen</string>
+    <string name="rcs_send_rms_remind_desp">China Mobile Messaging ist ein Instant Messaging Service von China Mobile. Sie können diese Funktion in den Einstellungen deaktivieren.</string>
+    <string name="rcs_send_rms_remind_title">Senden von Nachrichten mit China Mobile Messaging</string>
+    <string name="rcs_setting">China Mobile Messaging Einstellungen</string>
+    <string name="rcs_silence_message">Benachrichtigungen über stumme Nachrichten</string>
+    <string name="rcs_summary_auto_resend_mms">China Mobile Multimedianachrichten in SMS umwandeln, nachdem die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen.</string>
+    <string name="rcs_summary_auto_resend_sms">China Mobile Textnachrichten in SMS umwandeln, nachdem die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen.</string>
+    <string name="rcs_summary_silence_message">Benachrichtigungen über stumme Nachrichten, wenn der Desktop-Client arbeitet</string>
+    <string name="rcs_wait_for_retry_text">Warten…</string>
+    <string name="recommend_bar_cancel">Ignorieren</string>
+    <string name="recommend_bar_message_mx">Mit Mi Message können Sie Nachrichten an andere MIUI-Geräte senden, ohne dass dafür Gebühren anfallen.</string>
+    <string name="recommend_bar_message_mx_rcs">Mit Mi Message können Sie Nachrichten an andere MIUI-Geräte und China Mobile-Benutzer senden, ohne dass dafür Gebühren anfallen.</string>
+    <string name="recommend_bar_message_rcs">China Mobile Messaging ermöglicht es Ihnen, Nachrichten an andere Benutzer zu senden, ohne dass dafür Gebühren anfallen.</string>
+    <string name="recommend_bar_message_smart_message">Einmal-Passwörter kopieren, Pakete verfolgen, intelligente Menüs verwenden und mehr</string>
+    <string name="recommend_bar_ok">Einschalten</string>
+    <string name="recommend_bar_title_mx_rcs">Mi Message</string>
+    <string name="recommend_bar_title_smart_message">Smart Messaging</string>
+    <string name="rms_audio_body">[Audio]</string>
+    <string name="rms_audio_file_duration_too_long">Kann Audio länger als 180 Sekunden nicht senden.</string>
+    <string name="rms_audio_file_length_too_large">Kann Audio größer als %1$dMB nicht senden</string>
+    <string name="rms_card_body">[Karte]</string>
+    <string name="rms_cloud_file_body">[Cloud-Datei]</string>
+    <string name="rms_emoticon_body">[Emoji]</string>
+    <string name="rms_file_body">[Datei]</string>
+    <string name="rms_file_not_exist">Datei existiert nicht</string>
+    <string name="rms_file_not_exist_to_view">Diese Datei wurde verschoben oder gelöscht</string>
+    <string name="rms_illegal_extension">Ungültiges Dateiformat</string>
+    <string name="rms_image_body">[Image]</string>
+    <string name="rms_location_body">[Standort]</string>
+    <string name="rms_normal_file_length_too_large">Kann keine Dateien senden, die größer als %1$dMB sind.</string>
+    <string name="rms_original_image_length_too_large">Kann keine Originalbilder größer als %1$dMB senden.</string>
+    <string name="rms_original_image_size_too_large">Sieht aus, als wäre das Originalbild zu groß</string>
+    <string name="rms_text_body">[Text]</string>
+    <string name="rms_vcard_body">[Kontakt]</string>
+    <string name="rms_video_body">[Video]</string>
+    <string name="send_rms_editor_hints">China Mobile Messaging</string>
+    <string name="send_rms_editor_hints_omit">Mi Message</string>
+    <string name="user_agreement">Benutzervereinbarung</string>
   <string name="about_smart_sms_title">Smartnachrichten-Partner</string>
   <string name="action_firewall_setting">Sperrliste</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
@@ -97,8 +187,7 @@
   <string name="confirm_export_dialog_description">Vorherige Unterhaltungen mit diesem Kontakt werden nicht mehr versteckt</string>
   <string name="confirm_export_dialog_title">Privaten Kontakt entfernen</string>
   <string name="confirm_no_block_positive">Nicht blockieren</string>
-  <string name="confirm_no_block_title">"Nummer nicht blockieren und alle Nachrichten wiederherstellen?
-(Die Nummer wird zu den Ausnahmen hinzugefügt.)"</string>
+  <string name="confirm_no_block_title">"Nummer nicht blockieren und alle Nachrichten wiederherstellen? (Die Nummer wird zu den Ausnahmen hinzugefügt.)"</string>
   <string name="confirm_rate_limit">Mehrere MMS werden versendet. Möchten Sie fortfahren?</string>
   <string name="confirm_restore_all_title">Alle Nachrichten dieser Nummer wiederherstellen?</string>
   <string name="confirm_restore_checkbox">Blockierte Nachrichten wiederherstellen</string>
@@ -393,16 +482,16 @@
   <string name="notification_channel_name">Nachrichten</string>
   <string name="notification_channel_other_description">Andere Benachrichtigungen</string>
   <string name="notification_channel_other_name">Andere</string>
-  <string name="notification_copy">OTP kopieren</string>
-  <string name="notification_failed_multiple">%s Nachrichten konnten nicht gesendet werden</string>
-  <string name="notification_failed_multiple_title">Nachrichten nicht gesendet</string>
-  <string name="notification_multiple">%s ungelesene Nachrichten</string>
-  <string name="notification_multiple_title">Neue Nachrichten</string>
   <string name="notification_channel_sim1_description">Benachrichtigungen über SIM1 Nachrichten</string>
   <string name="notification_channel_sim1_name">SIM1 Nachrichten</string>
   <string name="notification_channel_sim2_description">Benachrichtigungen über SIM2 Nachrichten</string>
   <string name="notification_channel_sim2_name">SIM2 Nachrichten</string>
+  <string name="notification_copy">OTP kopieren</string>
+  <string name="notification_failed_multiple">%s Nachrichten konnten nicht gesendet werden</string>
+  <string name="notification_failed_multiple_title">Nachrichten nicht gesendet</string>
   <string name="notification_group_name">Nachrichten</string>
+  <string name="notification_multiple">%s ungelesene Nachrichten</string>
+  <string name="notification_multiple_title">Neue Nachrichten</string>
   <string name="number_add_hint">Nummer eingeben</string>
   <string name="open_audio_record_panel">Bedienfeld für die Audioaufnahme öffnen</string>
   <string name="open_edit_sms_panel">Fenster zum Bearbeiten von Nachrichten öffnen</string>
@@ -416,7 +505,6 @@
   <string name="pick_too_many_recipients">Zu viele Empfänger</string>
   <string name="play">Abspielen</string>
   <string name="playing_failed">Abspielen nicht möglich</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Erweiterte Einstellungen</string>
   <string name="pref_allow_network_access_summary">Erhalten Sie Zustellberichte und andere Informationen</string>
   <string name="pref_cell_broadcast">Netzbroadcasts</string>
@@ -492,6 +580,7 @@
   <string name="pref_title_system_mms_priority">Als Standard setzen</string>
   <string name="pref_title_vcard">Senden per vCard</string>
   <string name="pref_title_wake_up_screen">Bildschirm einschalten</string>
+  <string name="prefDefault_ringtone_repeat">1</string>
   <string name="preferences_title">Einstellungen</string>
   <string name="prepare_send">Senden wird vorbereitet…</string>
   <string name="press_recording">Drücken &amp; halten Sie das Mikrosymbol um aufzunehmen</string>
@@ -569,8 +658,7 @@
   <string name="second_mms_notice">Nur die zweite Nachricht anzeigen</string>
   <string name="second_mms_switch">Benutzer wechseln</string>
   <string name="secs">sek.</string>
-  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Absender ist nicht in Ihren Kontakten.
- "&lt;/font&gt;</string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Absender ist nicht in Ihren Kontakten. "&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">Diese Nummer melden</string>
   <string name="security_alert_dialog_desc">Diese Nummer (%s) und Nachricht zur Überprüfung an Xiaomi senden</string>
   <string name="security_alert_dialog_title">Melde</string>
@@ -712,8 +800,7 @@
   <string name="type_to_compose_text_enter_to_send">Nachricht eingeben</string>
   <string name="type_to_compose_text_or_leave_blank">Nachricht eingeben oder leer lassen</string>
   <string name="type_video">Video</string>
-  <string name="undelivered_msg_dialog_body">"Nachricht konnte nicht gesendet werden.
-Bisherige Versuche: %s."</string>
+  <string name="undelivered_msg_dialog_body">"Nachricht konnte nicht gesendet werden. Bisherige Versuche: %s."</string>
   <string name="undelivered_msg_dialog_title">Nicht zugestellte Nachricht</string>
   <string name="undelivered_sms_dialog_body">Nachricht konnte nicht gesendet werden</string>
   <string name="unknown_num">Unbekannte Nummer</string>
@@ -724,11 +811,9 @@ Bisherige Versuche: %s."</string>
   <string name="unsubscribe">Abmelden</string>
   <string name="unsupported_media_format">Format %1$s wird nicht unterstützt</string>
   <string name="url_fraud_alert">Die Webseite, die Sie besuchen möchten %s könnte eine betrügerische Seite sein, wollen Sie wirklich fortfahren?</string>
-  <string name="url_fraud_dangerous_alert">"Die Webseite, die Sie besuchen möchten ist unsicher, wollen Sie wirklich fortfahren?
-%s"</string>
+  <string name="url_fraud_dangerous_alert">"Die Webseite, die Sie besuchen möchten ist unsicher, wollen Sie wirklich fortfahren? %s"</string>
   <string name="url_fraud_insurance">Betrugsverdacht</string>
-  <string name="url_fraud_risky_alert">"Die Webseite, die Sie besuchen möchten ist unsicher. Trotzdem fortfahren?
-%s"</string>
+  <string name="url_fraud_risky_alert">"Die Webseite, die Sie besuchen möchten ist unsicher. Trotzdem fortfahren? %s"</string>
   <string name="url_fraud_title">Betrugsverdacht</string>
   <string name="url_fraud_visit"><u>Trotzdem fortfahren</u></string>
   <string name="url_result_safe">Diese URL ist sicher</string>
@@ -751,4 +836,5 @@ Bisherige Versuche: %s."</string>
   <string name="xiaomi_service_number">Servicenummer</string>
   <string name="yellowpage_recommend_msg">Probieren Sie die MIUI SMS-Funktionen</string>
   <string name="yesterday">Gestern</string>
+ 
 </resources>
