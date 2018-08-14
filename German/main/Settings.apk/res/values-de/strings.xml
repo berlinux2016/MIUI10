@@ -174,7 +174,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="accessibility_wifi_off">WLAN aus</string>
   <string name="accessibility_wifi_one_bar">WLAN ein Balken</string>
   <string name="accessibility_wifi_security_type_none">Offenes Netzwerk</string>
-  <string name="accessibility_wifi_security_type_secured">Sicheres Netzwerk</string>
+  <string name="accessibility_wifi_security_type_secured">Gesichertes Netzwerk</string>
   <string name="accessibility_wifi_signal_full">Voller WLAN Empfang</string>
   <string name="accessibility_wifi_three_bars">WLAN drei Balken</string>
   <string name="accessibility_wifi_two_bars">WLAN zwei Balken</string>
@@ -601,7 +601,7 @@ Zuletzt am %2$s ausgeführt"</string>
   <string name="back_button">Zurück</string>
   <string name="back_key">Zurück</string>
   <string name="background_activity_disabled_dialog_text">"Da diese App nicht auf Akkuoptimierung eingestellt ist, können Sie sie nicht einschränken.
-  
+
 Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</string>
   <string name="background_activity_summary">App im Hintergrund laufen lassen</string>
   <string name="background_activity_summary_disabled">App darf nicht im Hintergrund laufen</string>
@@ -741,7 +741,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_info_status_discharging">Entlädt</string>
   <string name="battery_info_status_full">Voll</string>
   <string name="battery_info_status_label">Akkustatus:</string>
-  <string name="battery_info_status_not_charging">Wird entladen</string>
+  <string name="battery_info_status_not_charging">Eingesteckt, laden gerade nicht möglich</string>
   <string name="battery_info_status_unknown">Unbekannt</string>
   <string name="battery_info_technology_label">Akkutechnologie:</string>
   <string name="battery_info_temperature_label">Akkutemperatur:</string>
@@ -799,10 +799,10 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_suggestion_title">Akkulaufzeit des Telefons verbessern</string>
   <string name="battery_summary">%1$s verwendet seit der letzten vollen Ladung</string>
   <string name="battery_tip_dialog_message">"Ihr Telefon wurde mehr als üblich benutzt. Ihr Akku kann schneller leer sein als erwartet.
-  
+
 Top %1$d Apps, die seit der Vollladung benutzt wurden:"</string>
   <string name="battery_tip_dialog_summary_message">"Ihre Apps verbrauchen den Akku normal. Wenn Apps zu viel Akku verbrauchen, schlägt Ihnen Ihr Telefon entsprechende Maßnahmen vor.
-  
+
 Sie können den Energiesparmodus jederzeit einschalten, wenn der Akku knapp wird."</string>
   <string name="battery_tip_early_heads_up_done_summary">Einige Funktionen können beschränkt sein</string>
   <string name="battery_tip_early_heads_up_done_title">Energiesparmodus ist an</string>
@@ -815,10 +815,10 @@ Sie können den Energiesparmodus jederzeit einschalten, wenn der Akku knapp wird
   <string name="battery_tip_restrict_app_dialog_message">Um Akku zu schonen, halten Sie %1$s von der  Akkunutzung im Hintergrund ab. Diese App funktioniert eventuell nicht richtig und Benachrichtigungen können sich verzögern.</string>
   <string name="battery_tip_restrict_app_dialog_ok">Einschränken</string>
   <string name="battery_tip_restrict_apps_less_than_5_dialog_message">"Um Akku zu schonen, halten Sie diese Apps von der  Akkunutzung im Hintergrund ab. Beschränkte Apps funktionieren eventuell nicht richtig und Benachrichtigungen können sich verzögern.
-  
+
 Apps:"</string>
   <string name="battery_tip_restrict_apps_more_than_5_dialog_message">"Um Akku zu schonen, halten Sie diese Apps von der  Akkunutzung im Hintergrund ab. Beschränkte Apps funktionieren eventuell nicht richtig und Benachrichtigungen können sich verzögern.
-  
+
 Apps:
 %1$s."</string>
   <string name="battery_tip_smart_battery_summary">Akkumanager einschalten</string>
@@ -970,7 +970,7 @@ Apps:
   <string name="bluetooth_hearingaid_left_pairing_message">Koppeln linkes Hörgerät…</string>
   <string name="bluetooth_hearingaid_right_battery_level">Rechts - %1$s Akku</string>
   <string name="bluetooth_hearingaid_right_pairing_message">Koppeln rechtes Hörgerät…</string>
-  <string name="bluetooth_hid_profile_summary_connected">Mit einem Eingabegerät verbunden</string>
+  <string name="bluetooth_hid_profile_summary_connected">Mit Eingabegerät verbunden</string>
   <string name="bluetooth_hid_profile_summary_use_for">Für Eingabe verwenden</string>
   <string name="bluetooth_incoming_pairing_msg">Von: %1$s. Koppeln mit diesem Gerät durchführen?</string>
   <string name="bluetooth_is_disconnect_question">Trenne %1$s?</string>
@@ -997,9 +997,9 @@ Apps:
   <string name="bluetooth_on_while_driving_pref">Bluetooth während des Fahrens nutzen</string>
   <string name="bluetooth_on_while_driving_summary">Bluetooth automatisch einschalten beim Fahren</string>
   <string name="bluetooth_only_visible_to_paired_devices">Nur sichtbar für verbundene Geräte</string>
-  <string name="bluetooth_opp_profile_summary_connected">Mit Dateiübertragungsserver verbunden</string>
-  <string name="bluetooth_opp_profile_summary_not_connected">Nicht mit Dateiübertragungsserver verbunden</string>
-  <string name="bluetooth_opp_profile_summary_use_for">Für Dateiübertragung verwenden</string>
+  <string name="bluetooth_opp_profile_summary_connected">Mit Dateiserver verbunden</string>
+  <string name="bluetooth_opp_profile_summary_not_connected">Nicht mit Dateiserver verbunden</string>
+  <string name="bluetooth_opp_profile_summary_use_for">Für Dateitransfer nutzen</string>
   <string name="bluetooth_paired_device_title">Ihre Geräte</string>
   <string name="bluetooth_pairing">Koppeln…</string>
   <string name="bluetooth_pairing_accept">Koppeln</string>
@@ -1041,21 +1041,18 @@ Apps:
   <string name="bluetooth_preference_paired_dialog_name_label">Name</string>
   <string name="bluetooth_preference_paired_dialog_title">Gekoppeltes Gerät</string>
   <string name="bluetooth_preference_scan_title">Nach Geräten suchen</string>
-  <string name="bluetooth_profile_a2dp">Audiogeräte</string>
-  <string name="bluetooth_profile_a2dp_high_quality">Hohe Audioqualität nutzen: %1$s</string>
-  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Hohe Audioqualität nutzen</string>
-  <string name="bluetooth_profile_details">Profileinstellungen</string>
-  <string name="bluetooth_profile_dun">DFÜ-Netzwerkzugang</string>
-  <string name="bluetooth_profile_headset">Headset</string>
+  <string name="bluetooth_profile_a2dp">Audiomedien</string>
+  <string name="bluetooth_profile_dun">DFÜ-Netzwerk</string>
+  <string name="bluetooth_profile_headset">Telefonanrufe</string>
   <string name="bluetooth_profile_hearing_aid">Hörgerät</string>
   <string name="bluetooth_profile_hid">Eingabegerät</string>
-  <string name="bluetooth_profile_map">Nachrichtenzugriff</string>
+  <string name="bluetooth_profile_map">Textnachrichten</string>
   <string name="bluetooth_profile_opp">Dateiübertragung</string>
   <string name="bluetooth_profile_pan">Internetzugriff</string>
-  <string name="bluetooth_profile_pan_nap">Freigabe der Internetverbindung</string>
-  <string name="bluetooth_profile_pbap">Kontakt freigeben</string>
-  <string name="bluetooth_profile_pbap_summary">Für die Kontaktfreigabe nutzen</string>
-  <string name="bluetooth_profile_sap">SIM-Zugang</string>
+  <string name="bluetooth_profile_pan_nap">Teilen Internetverbindung</string>
+  <string name="bluetooth_profile_pbap">Kontaktfreigabe</string>
+  <string name="bluetooth_profile_pbap_summary">Für Kontaktfreigabe verwenden</string>
+  <string name="bluetooth_profile_sap">SIM-Zugriff</string>
   <string name="bluetooth_quick_toggle_summary">Bluetooth aktivieren</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">Nicht mehr fragen</string>
@@ -1067,14 +1064,14 @@ Apps:
   <string name="bluetooth_sap_request">SIM-Zugriffsanforderung</string>
   <string name="bluetooth_scan_for_devices">Nach Geräten suchen</string>
   <string name="bluetooth_scanning_on_info_message">"Wenn Bluetooth eingeschaltet ist, kann Ihr Gerät mit anderen Bluetooth-Geräten in der Nähe kommunizieren.
-  
+
 Um das Geräteerlebnis zu verbessern, können Apps und Dienste jederzeit nach Geräten in der Nähe suchen, auch wenn Bluetooth ausgeschaltet ist. Dies kann z.B. genutzt werden, um standortbezogene Funktionen und Dienste zu verbessern. Sie können das ändern in: "&lt;annotation id="link"&gt;Scan-Einstellungen&lt;/annotation&gt;</string>
   <string name="bluetooth_search_for_devices">Nach Geräten suchen</string>
   <string name="bluetooth_searching_for_devices">Suche läuft…</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits pro Abtastwert</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Bluetooth Audio Codec wählen:
 Bits pro Abtastwert"</string>
-<string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth Audio Kanalmodus</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth Audio Kanalmodus</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Bluetooth Audio Codec wählen:
 Kanalmodus"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Wiedergabequalität</string>
@@ -1140,10 +1137,10 @@ Abtastrate"</string>
   <string name="bootloader_apply_step_4">Dies könnte zur Veröffentlichung oder zum Verlust von Daten oder zu irreparablen Hardwareschäden führen.</string>
   <string name="bootloader_apply_step_5">Seien Sie sich dessen bewusst, bevor Sie den Fastbootmodus aktivieren.</string>
   <string name="bootloader_apply_title">Wichtige Warnung</string>
-   <string name="bootloader_device_bind_exceed_sim_limit">Zu dieser SIM-Karte können keine weiteren Konten hinzugefügt werden</string>
-   <string name="bootloader_device_bind_no_sim">SIM-Karte einlegen und erneut versuchen</string>
-   <string name="bootloader_device_bind_server_code">"Konnte nicht hinzufügen. Fehlercode: "</string>
-   <string name="bootloader_device_bind_sim_invalid">SIM-Karte ist ungültig. Austauschen und neu versuchen.</string>
+  <string name="bootloader_device_bind_exceed_sim_limit">Zu dieser SIM-Karte können keine weiteren Konten hinzugefügt werden</string>
+  <string name="bootloader_device_bind_no_sim">SIM-Karte einlegen und erneut versuchen</string>
+  <string name="bootloader_device_bind_server_code">"Konnte nicht hinzufügen. Fehlercode: "</string>
+  <string name="bootloader_device_bind_sim_invalid">SIM-Karte ist ungültig. Austauschen und neu versuchen.</string>
   <string name="bootloader_device_bind_already">Erfolgreich hinzugefügt. Ihr Mi Konto ist jetzt mit diesem Gerät verknüpft.</string>
   <string name="bootloader_device_bind_fail">Überprüfung fehlgeschlagen, warten Sie einen Moment und versuchen Sie es noch einmal</string>
   <string name="bootloader_device_bind_msg">Gerät und Konto hinzufügen wird vorbereitet…</string>
@@ -1182,7 +1179,7 @@ Abtastrate"</string>
   <string name="brightness_summary">Bildschirmhelligkeit anpassen</string>
   <string name="brightness_title">Helligkeit</string>
   <string name="bt_hci_snoop_log">Bluetooth HCI Snoop Log einschalten</string>
-  <string name="bt_hci_snoop_log_summary">Alle Bluetooth-HCI-Pakete in einer Datei erfassen</string>
+  <string name="bt_hci_snoop_log_summary">Alle Bluetooth-HCI-Pakete in einer Datei erfassen (Bluetooth umschalten nach Änderung dieser Einstellung)</string>
   <string name="bt_ldac_declaration">Wenn ein Bluetooth-Gerät LDAC unterstützt, wird es standardmäßig verbunden. LDAC bietet ein hochwertiges Audioerlebnis, erhöht aber auch den Stromverbrauch. Während der Wiedergabe kann es aufgrund von Einschränkungen der Bluetooth-Hardware zu Problemen kommen.</string>
   <string name="bt_ldac_dialog_summary">"LDAC sorgt für ein hochwertiges Klangerlebnis und einen höheren Stromverbrauch.
 Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
@@ -1867,14 +1864,14 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dial_application_title">Wählen</string>
   <string name="dial_pad_tones_title">Wähltastentöne</string>
   <string name="dialog_background_check_message">"Ihr Telefon kann den Akku nicht normal verwalten, da %1$s Ihr Telefon immer wieder aufweckt.
-  
+
 Um dieses Problem zu beheben, stoppen Sie %1$s und verhindern die Hintergrundaktivität."</string>
   <string name="dialog_background_check_ok">Ausschalten</string>
   <string name="dialog_background_check_title">Hintergrundaktivität ausschalten &amp; App stoppen?</string>
   <string name="dialog_chose_item">Wählen Sie ein Element aus, das angezeigt werden soll</string>
   <string name="dialog_content_login">Für das Update mit Ihrem Mi Konto anmelden?</string>
   <string name="dialog_location_message">"Ihr Telefon kann den Akku nicht normal verwalten, da %1$s immer wieder Ihren Standort abfragt, wenn Sie die App nicht verwenden.
-  
+
 Um dieses Problem zu beheben, deaktivieren Sie den Standort für diese Anwendung deaktivieren."</string>
   <string name="dialog_location_ok">Ausschalten</string>
   <string name="dialog_location_title">Standort ausschalten?</string>
@@ -1887,14 +1884,14 @@ Um dieses Problem zu beheben, deaktivieren Sie den Standort für diese Anwendung
   <string name="dialog_restrict_negative">Einschränken…</string>
   <string name="dialog_restrict_positive">Abbrechen</string>
   <string name="dialog_stop_message">"Ihr Telefon kann den Akku nicht normal verwalten, da %1$s Ihr Telefon aktiv hält.
-  
+
 Um dieses Problem zu beheben, stoppen Sie die App.
-  
+
 Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung zu verbessern."</string>
   <string name="dialog_stop_message_wakeup_alarm">"Ihr Telefon kann den Akku nicht normal verwalten, da %1$s Ihr Telefon aktiv hält.
-  
+
 Um dieses Problem zu beheben, stoppen Sie %1$s.
-  
+
 Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung zu verbessern."</string>
   <string name="dialog_stop_ok">App stoppen</string>
   <string name="dialog_stop_title">App stoppen?</string>
@@ -2692,7 +2689,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="ims_reg_title">IMS Registrierungsstatus</string>
   <string name="inactive_app_active_summary">Aktiv, tippen zum Umschalten</string>
   <string name="inactive_app_inactive_summary">Inaktiv, tippen zum Umschalten</string>
-  <string name="inactive_apps_title">Inaktive Apps</string>
+  <string name="inactive_apps_title">Standby-Apps</string>
   <string name="include_app_data_title">Appdaten einbeziehen</string>
   <string name="incoming_call_breathing_light_color_title">LED-Anzeige bei Anruf</string>
   <string name="incoming_call_breathing_light_freq_title">Anrufpulsfrequenz</string>
@@ -3302,7 +3299,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
 &lt;li&gt;Fotos&lt;/li&gt;
 &lt;li&gt;und andere Benutzerdaten&lt;/li&gt;"</string>
   <string name="master_clear_desc_no_cancel_mobile_plan">"
-  
+
 Dadurch wird Ihr mobiler Serviceplan nicht gekündigt."</string>
   <string name="main_toolbar_statistic">Datennutzungsstatistik</string>
   <string name="master_clear_desc_erase_external_storage">Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Speicher</b> gelöscht werden</string>
@@ -5834,7 +5831,7 @@ Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren.
   <string name="storage_wizard_format_confirm_third_body">Wird formatiert</string>
   <string name="storage_wizard_format_confirm_title">Als internen Speicher formatieren</string>
    <string name="storage_wizard_format_confirm_v2_body">"^1 muss formatiert werden, um Apps, Dateien und Medien zu speichern.
-  
+
 Formatieren löscht vorhandene Inhalte auf ^2. Um den Inhalt zu behalten, sichern Sie ihn auf ^3 oder einem anderen Gerät."</string>
   <string name="storage_wizard_format_confirm_v2_title">^1 formatieren?</string>
   <string name="storage_wizard_format_progress_body">Entfernen Sie ^1 nicht, während die Formatierung läuft</string>
@@ -5867,7 +5864,7 @@ Das Verschieben dauert etwa ^2 und wird ^3 auf dem internen Speicher freigeben. 
   <string name="storage_wizard_migrate_progress_v2_title">Inhalt verschieben…</string>
   <string name="storage_wizard_migrate_title">Daten auf neuen Speicher verschieben</string>
   <string name="storage_wizard_migrate_v2_body">Sie können Dateien, Medien und bestimmte Apps auf ^1 verschieben.
-  
+
 Diese Aktion gibt ^2 des Telefonspeichers frei und sollte etwa ^3 dauern."</string>
   <string name="storage_wizard_migrate_v2_checklist">Während des Verschiebens:</string>
   <string name="storage_wizard_migrate_v2_checklist_apps">Einige Apps werden nicht funktionieren</string>
@@ -5891,15 +5888,15 @@ Um Fotos, Dateien und Apps zu verschieben, gehen Sie zu Einstellungen &gt; Speic
   <string name="storage_wizard_ready_v2_external_body">Sie können Inhalte auf ^1 verschieben</string>
   <string name="storage_wizard_ready_v2_internal_body">Um Inhalte auf ^1 zu verschieben, gehen Sie zu <b>Einstellungen\Speicher</b>.</string>
   <string name="storage_wizard_ready_v2_internal_moved_body">"Inhalte wurden auf ^1 verschoben.
-  
+
 Um ^2 zu verwalten, gehen Sie zu <b>Einstellungen\Speicher</b>.</string>
   <string name="storage_wizard_slow_body">"Dieser ^1 scheint langsam zu sein.
 Sie können fortfahren, aber Apps, die Sie dorthin verschieben, könnten ruckeln und der Datentransfer dauert sehr lange.
 Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string>
   <string name="storage_wizard_slow_v2_body">"Sie können ^1 weiter nutzen, aber es könnte langsam sein.
-  
+
 Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertragung könnte lange dauern.
-  
+
 ^3 als schnelleres Gerät nutzen oder stattdessen ^4 als tragbaren Speicher."</string>
   <string name="storage_wizard_slow_v2_continue">Fortfahren</string>
   <string name="storage_wizard_slow_v2_start_over">Neu beginnen</string>
@@ -7062,9 +7059,9 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="wifi_hide_password">Passwort ausblenden</string>
   <string name="wifi_hidden_network">Verstecktes Netzwerk</string>
   <string name="wifi_hidden_network_warning">"Wenn Ihr Router keine Netzwerk-ID sendet, Sie aber in Zukunft eine Verbindung zu ihm herstellen möchten, können Sie das Netzwerk als versteckt einrichten.
-  
+
 Dies kann ein Sicherheitsrisiko darstellen, da Ihr Telefon regelmäßig sein Signal sendet, um das Netzwerk zu finden.
-  
+
 Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht verändern."</string>
   <string name="wifi_hotspot_auto_off_summary">WLAN-Hotspot schaltet sich aus, wenn keine Geräte angeschlossen sind</string>
   <string name="wifi_hotspot_auto_off_title">Hotspot automatisch ausschalten</string>
@@ -7585,7 +7582,7 @@ Delta Updategröße: %2$s"</string>
   <string name="zen_mode_restrict_notifications_enable_custom">Benutzerdef. Einstellung aktivieren</string>
   <string name="zen_mode_restrict_notifications_hide">Kein Zeichen oder Ton von Benachrichtigungen</string>
   <string name="zen_mode_restrict_notifications_hide_footer">"Telefon zeigt keine neuen oder vorhandenen Benachrichtigungen an und erzeugt keinen Ton oder Vibration. Benachrichtigungen werden nicht angezeigt, wenn Sie vom oberen Rand streichen.
-  
+
 Beachten Sie, dass kritische Benachrichtigungen über Telefonaktivität und -status weiterhin angezeigt werden."</string>
   <string name="zen_mode_restrict_notifications_hide_summary">Sie werden keine Benachrichtigungen sehen oder hören</string>
   <string name="zen_mode_restrict_notifications_mute">Kein Ton von Benachrichtigungen</string>
@@ -7652,11 +7649,11 @@ Beachten Sie, dass kritische Benachrichtigungen über Telefonaktivität und -sta
   <string name="zen_onboarding_current_setting_summary">(Aktuelle Einstellung)</string>
   <string name="zen_onboarding_current_setting_title">Kein Ton von Benachrichtigungen</string>
   <string name="zen_onboarding_dnd_visual_disturbances_description">"Ihr Telefon kann mehr tun, um Ihre Konzentration zu fördern.
-  
+
 Einstellungen aktualisieren auf:
-  
+
 - Benachrichtigungen komplett ausblenden
-  
+
 - Anrufe von markierten Kontakten und wiederholten Anrufern zulassen"</string>
   <string name="zen_onboarding_dnd_visual_disturbances_header">Nicht stören-Benachrichtigungseinst. ändern?</string>
   <string name="zen_onboarding_more_options">Dies können Sie unter Einstellungen weiter anpassen</string>
