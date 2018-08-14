@@ -1406,7 +1406,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="select_logd_size_title">Logger-Puffergrößen</string>
   <string name="select_logpersist_dialog_title">Log-Puffer wählen, der dauerhaft auf dem Gerät gespeichert werden soll</string>
   <string name="select_logpersist_title">Protokolldaten dauerhaft auf dem Gerät speichern</string>
-  <string name="select_private_dns_configuration_dialog_title">Private DNS Mode wählen</string>
+  <string name="select_private_dns_configuration_dialog_title">Private DNS Modus wählen</string>
   <string name="select_usb_configuration_dialog_title">USB-Konfiguration auswählen</string>
   <string name="select_usb_configuration_title">USB-Konfiguration auswählen</string>
   <string name="select_webview_provider_dialog_title">WebView-Implementierung festsetzen</string>
@@ -1571,8 +1571,8 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="tether_settings_title_bluetooth">Bluetooth-Tethering</string>
   <string name="tether_settings_title_usb">USB-Tethering</string>
   <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
-  <string name="tethering_hardware_offload">Tethering Hardwarebeschleunigung</string>
-  <string name="tethering_hardware_offload_summary">Tethering Hardwarebeschleunigung nutzen, wenn verfügbar</string>
+  <string name="tethering_hardware_offload">Tethering-Hardwarebeschleunigung</string>
+  <string name="tethering_hardware_offload_summary">Tethering-Hardwarebeschleunigung nutzen, wenn verfügbar</string>
   <string name="tethering_settings_not_available">Tethering-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="thermal_shutdown_dialog_message">"Ihr Telefon war zu heiß, also wurde es ausgeschaltet, um sich abzukühlen.\n\nIhr Telefon läuft jetzt normal. Ihr Telefon könnte zu heiß werden, wenn Sie:\n\u0009• ressourcenintensive Apps (z. B. Spiele-, Video- oder Navigations-Apps) verwenden.\n\u0009• große Dateien herunter- oder hochladen.\n\u0009• Ihr Telefon bei hohen Temperaturen verwenden."</string>
   <string name="thermal_shutdown_message">Ihr Telefon läuft jetzt normal</string>
@@ -1737,9 +1737,9 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="wapi_cert_is_not_selected">Bitte erst Zertifikat wählen</string>
   <string name="wapi_cert_manage_error">Fehler beim Setzen des WAPI-Zertifikats</string>
   <string name="wapi_cert_manage_summary">WAPI-Zertifikat hizufügen oder löschen</string>
-  <string name="wapi_cert_manage_title">WAPI-Zertifikatmanagement</string>
+  <string name="wapi_cert_manage_title">WAPI-Zertifikatsverwaltung</string>
   <string name="wapi_cert_roaming">Verbinden…</string>
-  <string name="wapi_no">nein</string>
+  <string name="wapi_no">Nein</string>
   <string name="wapi_no_vaild_cert">Keine Zertifikate vorhanden, jetzt installieren?</string>
   <string name="wapi_password_hex_format_add"> Anzahl der hexadezimalen Zeichen darf nicht ungerade sein</string>
   <string name="wapi_password_is_empty">Passwortfeld darf nicht leer sein</string>
@@ -1747,7 +1747,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="wapi_password_length_is_max">Passwort darf nicht länger als 64 Zeichen sein</string>
   <string name="wapi_password_length_is_min">Passwort darf nicht kürzer als 8 Zeichen sein</string>
   <string name="wapi_password_length_is_min_to_max">Password muss 8-64 Zeichen haben</string>
-  <string name="wapi_yes">ja</string>
+  <string name="wapi_yes">Ja</string>
   <string name="weather_publish_time">Aktualisiert um %1$s</string>
   <string name="wifi_aggressive_handover">Wenn diese Option aktiviert ist, wird die Verbindung auf mobile Daten umgeschaltet, wenn das WLAN-Signal schwach ist.</string>
   <string name="wifi_aggressive_handover_summary">Wenn aktiviert, übergibt WLAN mit niedrigem Signal aggressiver an mobile Datenverbindung</string>
@@ -1814,7 +1814,7 @@ Speicherung von Anmeldeinformationen ist evtl. nicht möglich"</string>
   <string name="zen_mode_duration_settings_title">Dauer</string>
   <string name="zen_mode_enable_dialog_turn_on">Einschalten</string>
   <string name="zen_mode_settings_summary_off">Nie</string>
-  <string name="zen_mode_settings_turn_on_dialog_title">Bitte nicht stören einschalten</string>
+  <string name="zen_mode_settings_turn_on_dialog_title">Nicht stören einschalten</string>
   <string name="zen_priority_customize_button">Anpassen</string>
   <string name="zen_priority_introduction">Sie werden nicht durch Töne und Vibrationen gestört, außer durch Alarme, Erinnerungen, Ereignisse und Anrufer, die Sie angeben. Sie hören immer noch alles was Sie spielen möchten, einschließlich Musik, Videos und Spiele.</string>
   <string name="zen_silence_introduction">Dies blockiert ALLE Töne und Vibrationen, einschließlich von Alarmen, Musik, Videos und Spielen.</string>
