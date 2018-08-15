@@ -6,15 +6,15 @@
   </plurals>
   <plurals name="abbrev_in_num_hours">
     <item quantity="other">In %d Stunden</item>
-    <item quantity="one">in einer Stunde</item>
+    <item quantity="one">in 1 Stunde</item>
   </plurals>
   <plurals name="abbrev_in_num_minutes">
     <item quantity="other">in %d Minuten</item>
-    <item quantity="one">in einer Minute</item>
+    <item quantity="one">in 1 Minute</item>
   </plurals>
   <plurals name="abbrev_in_num_seconds">
     <item quantity="other">in %d Sekunden</item>
-    <item quantity="one">in einer Sekunde</item>
+    <item quantity="one">in 1 Sekunde</item>
   </plurals>
   <plurals name="abbrev_num_days_ago">
     <item quantity="other">vor %d Tagen</item>
@@ -22,115 +22,119 @@
   </plurals>
   <plurals name="abbrev_num_hours_ago">
     <item quantity="other">vor %d Stunden</item>
-    <item quantity="one">vor einer Stunde</item>
+    <item quantity="one">vor 1 Stunde</item>
   </plurals>
   <plurals name="abbrev_num_minutes_ago">
     <item quantity="other">vor %d Minuten</item>
-    <item quantity="one">vor einer Minute</item>
+    <item quantity="one">vor 1 Minute</item>
   </plurals>
   <plurals name="abbrev_num_seconds_ago">
     <item quantity="other">vor %d Sekunden</item>
-    <item quantity="one">vor einer Sekunde</item>
+    <item quantity="one">vor 1 Sekunde</item>
   </plurals>
   <plurals name="autofill_picker_some_suggestions">
-        <item quantity="other">%1$s Vorschläge zum Autovervollständigen</item>
-        <item quantity="one">Ein Vorschlag zum Autovervollständigen</item>
-     </plurals>
+    <item quantity="other">%1$s Vorschläge zum Autovervollständigen</item>
+    <item quantity="one">1 Vorschlag zum Autovervollständigen</item>
+  </plurals>
   <plurals name="bugreport_countdown">
-        <item quantity="other">Screenshot für Fehlerbericht in %d Sekunden aufnehmen.</item>
-        <item quantity="one">Screenshot für Fehlerbericht in einer Sekunde aufnehmen.</item>
-     </plurals>
-     <plurals name="duration_days_relative">
-        <item quantity="other">vor %d Tagen</item>
-        <item quantity="one">gestern</item>
-     </plurals>
-     <plurals name="duration_days_relative_future">
-        <item quantity="other">in %d Tagen</item>
-        <item quantity="one">morgen</item>
-     </plurals>
-     <plurals name="duration_days_shortest">
-        <item quantity="other">%dd</item>
-        <item quantity="one">%dd</item>
-     </plurals>
-     <plurals name="duration_days_shortest_future">
-        <item quantity="other">in %dd</item>
-        <item quantity="one">in %dd</item>
-     </plurals>
+    <item quantity="other">Screenshot für Fehlerbericht in %d Sekunden aufnehmen.</item>
+    <item quantity="one">Screenshot für Fehlerbericht in 1 Sekunde aufnehmen.</item>
+  </plurals>
+  <plurals name="duration_days_relative">
+    <item quantity="other">vor %d Tagen</item>
+    <item quantity="one">gestern</item>
+  </plurals>
+  <plurals name="duration_days_relative_future">
+    <item quantity="other">in %d Tagen</item>
+    <item quantity="one">morgen</item>
+  </plurals>
+  <plurals name="duration_days_shortest">
+    <item quantity="other">%dd</item>
+    <item quantity="one">%dd</item>
+  </plurals>
+  <plurals name="duration_days_shortest_future">
+    <item quantity="other">in %dd</item>
+    <item quantity="one">in %dd</item>
+  </plurals>
   <plurals name="duration_hours">
     <item quantity="other">%d Stunden</item>
-    <item quantity="one">eine Stunde</item>
+    <item quantity="one">1 Stunde</item>
   </plurals>
-     <plurals name="duration_hours_relative">
-        <item quantity="other">vor %d Stunden</item>
-        <item quantity="one">vor einer Stunde</item>
-     </plurals>
-     <plurals name="duration_hours_relative_future">
-        <item quantity="other">in %d Stunden</item>
-        <item quantity="one">in einer Stunde</item>
-     </plurals>
-     <plurals name="duration_hours_shortest">
-        <item quantity="other">%dh</item>
-        <item quantity="one">%dh</item>
-     </plurals>
-     <plurals name="duration_hours_shortest_future">
-        <item quantity="other">in %dh</item>
-        <item quantity="one">in %dh</item>
-     </plurals>
+  <plurals name="duration_hours_relative">
+    <item quantity="other">vor %d Stunden</item>
+    <item quantity="one">vor 1 Stunde</item>
+  </plurals>
+  <plurals name="duration_hours_relative_future">
+    <item quantity="other">in %d Stunden</item>
+    <item quantity="one">in 1 Stunde</item>
+  </plurals>
+  <plurals name="duration_hours_shortest">
+    <item quantity="other">%dh</item>
+    <item quantity="one">%dh</item>
+  </plurals>
+  <plurals name="duration_hours_shortest_future">
+    <item quantity="other">in %dh</item>
+    <item quantity="one">in %dh</item>
+  </plurals>
   <plurals name="duration_minutes">
     <item quantity="other">%d Minuten</item>
-    <item quantity="one">eine Minute</item>
+    <item quantity="one">1 Minute</item>
   </plurals>
-     <plurals name="duration_minutes_relative">
-        <item quantity="other">vor %d Minuten</item>
-        <item quantity="one">vor einer Minute</item>
-     </plurals>
-     <plurals name="duration_minutes_relative_future">
-        <item quantity="other">in %d Minuten</item>
-        <item quantity="one">in einer Minute</item>
-     </plurals>
-     <plurals name="duration_minutes_shortest">
-        <item quantity="other">%dm</item>
-        <item quantity="one">%dm</item>
-     </plurals>
-     <plurals name="duration_minutes_shortest_future">
-        <item quantity="other">in %dm</item>
-        <item quantity="one">in %dm</item>
-     </plurals>
+  <plurals name="duration_minutes_relative">
+    <item quantity="other">vor %d Minuten</item>
+    <item quantity="one">vor 1 Minute</item>
+  </plurals>
+  <plurals name="duration_minutes_relative_future">
+    <item quantity="other">in %d Minuten</item>
+    <item quantity="one">in 1 Minute</item>
+  </plurals>
+  <plurals name="duration_minutes_shortest">
+    <item quantity="other">%dm</item>
+    <item quantity="one">%dm</item>
+  </plurals>
+  <plurals name="duration_minutes_shortest_future">
+    <item quantity="other">in %dm</item>
+    <item quantity="one">in %dm</item>
+  </plurals>
   <plurals name="duration_seconds">
     <item quantity="other">%d Sekunden</item>
-    <item quantity="one">eine Sekunde</item>
+    <item quantity="one">1 Sekunde</item>
   </plurals>
-     <plurals name="duration_years_relative">
-        <item quantity="other">vor %d Jahren</item>
-        <item quantity="one">vor einem Jahr</item>
-     </plurals>
-     <plurals name="duration_years_relative_future">
-        <item quantity="other">in %d Jahren</item>
-        <item quantity="one">in einem Jahr</item>
-     </plurals>
-     <plurals name="duration_years_shortest">
-        <item quantity="other">%dy</item>
-        <item quantity="one">%dy</item>
-     </plurals>
-     <plurals name="duration_years_shortest_future">
-        <item quantity="other">in %dy</item>
-        <item quantity="one">in %dy</item>
-     </plurals>
+  <plurals name="duration_years_relative">
+    <item quantity="other">vor %d Jahren</item>
+    <item quantity="one">vor 1 Jahr</item>
+  </plurals>
+  <plurals name="duration_years_relative_future">
+    <item quantity="other">in %d Jahren</item>
+    <item quantity="one">in 1 Jahr</item>
+  </plurals>
+  <plurals name="duration_years_shortest">
+    <item quantity="other">%dy</item>
+    <item quantity="one">%dy</item>
+  </plurals>
+  <plurals name="duration_years_shortest_future">
+    <item quantity="other">in %dy</item>
+    <item quantity="one">in %dy</item>
+   </plurals>
   <plurals name="in_num_days">
     <item quantity="other">in %d Tagen</item>
     <item quantity="one">morgen</item>
   </plurals>
   <plurals name="in_num_hours">
     <item quantity="other">In %d Stunden</item>
-    <item quantity="one">in einer Stunde</item>
+    <item quantity="one">in 1 Stunde</item>
   </plurals>
   <plurals name="in_num_minutes">
     <item quantity="other">in %d Minuten</item>
-    <item quantity="one">in einer Minute</item>
+    <item quantity="one">in 1 Minute</item>
   </plurals>
   <plurals name="in_num_seconds">
     <item quantity="other">in %d Sekunden</item>
-    <item quantity="one">in einer Sekunde</item>
+    <item quantity="one">in 1 Sekunde</item>
+  </plurals>
+  <plurals name="kg_too_many_failed_attempts_countdown">
+    <item quantity="other">In %d Sekunden erneut versuchen</item>
+    <item quantity="one">In 1 Sekunde erneut versuchen</item>
   </plurals>
   <plurals name="last_num_days">
     <item quantity="other">Letzte %d Tage</item>
@@ -138,7 +142,7 @@
   </plurals>
   <plurals name="matches_found">
     <item quantity="other">%1$d von %2$d</item>
-    <item quantity="one">einen Treffer</item>
+    <item quantity="one">1 Treffer</item>
   </plurals>
   <plurals name="num_days_ago">
     <item quantity="other">vor %d Tagen</item>
@@ -146,32 +150,32 @@
   </plurals>
   <plurals name="num_hours_ago">
     <item quantity="other">vor %d Stunden</item>
-    <item quantity="one">vor einer Stunde</item>
+    <item quantity="one">vor 1 Stunde</item>
   </plurals>
   <plurals name="num_minutes_ago">
     <item quantity="other">vor %d Minuten</item>
-    <item quantity="one">vor einer Minute</item>
+    <item quantity="one">vor 1 Minute</item>
   </plurals>
   <plurals name="num_seconds_ago">
     <item quantity="other">vor %d Sekunden</item>
-    <item quantity="one">vor einer Sekunde</item>
+    <item quantity="one">vor 1 Sekunde</item>
   </plurals>
   <plurals name="pinpuk_attempts">
     <item quantity="other">Sie haben noch %d Versuche, bevor Ihre SIM-Karte gesperrt wird.</item>
-    <item quantity="one">Sie haben noch einen Versuch, bevor Ihre SIM-Karte gesperrt wird.</item>
+    <item quantity="one">Sie haben noch 1 Versuch, bevor Ihre SIM-Karte gesperrt wird.</item>
   </plurals>
   <plurals name="restr_pin_countdown">
     <item quantity="other">in %d Sek wiederholen</item>
-    <item quantity="one">in einer Sek wiederholen</item>
+    <item quantity="one">in 1 Sek wiederholen</item>
   </plurals>
   <plurals name="selected_count">
     <item quantity="other">%1$d ausgewählt</item>
-    <item quantity="one">einen ausgewählt</item>
+    <item quantity="one">1 ausgewählt</item>
   </plurals>
-     <plurals name="ssl_ca_cert_warning">
-        <item quantity="other">Autorisierte Zertifikate installiert</item>
-        <item quantity="one">Autorisiertes Zertifikat installiert</item>
-     </plurals>
+  <plurals name="ssl_ca_cert_warning">
+    <item quantity="other">Autorisierte Zertifikate installiert</item>
+    <item quantity="one">Autorisiertes Zertifikat installiert</item>
+  </plurals>
   <plurals name="wifi_available">
     <item quantity="other">WLAN-Netzwerke verfügbar</item>
     <item quantity="one">WLAN-Netzwerk verfügbar</item>
@@ -182,34 +186,34 @@
   </plurals>
   <plurals name="zen_mode_duration_hours">
     <item quantity="other">für %d Stunden</item>
-    <item quantity="one">für eine Stunde</item>
+    <item quantity="one">für 1 Stunde</item>
   </plurals>
   <plurals name="zen_mode_duration_hours_short">
     <item quantity="other">für %d Std</item>
-    <item quantity="one">für eine Std</item>
+    <item quantity="one">für 1 Std</item>
   </plurals>
   <plurals name="zen_mode_duration_hours_summary">
     <item quantity="other">Für %1$d Stunden (bis %2$s)</item>
-    <item quantity="one">Für eine Stunde (bis %2$s)</item>
+    <item quantity="one">Für 1 Stunde (bis %2$s)</item>
   </plurals>
   <plurals name="zen_mode_duration_hours_summary_short">
     <item quantity="other">für %1$d Std (bis %2$s)</item>
-    <item quantity="one">für eine Std (bis %2$s)</item>
+    <item quantity="one">für 1 Std (bis %2$s)</item>
   </plurals>
   <plurals name="zen_mode_duration_minutes">
     <item quantity="other">für %d Minuten</item>
-    <item quantity="one">für eine Minute</item>
+    <item quantity="one">für 1 Minute</item>
   </plurals>
   <plurals name="zen_mode_duration_minutes_short">
     <item quantity="other">für %d Min</item>
-    <item quantity="one">für eine Min</item>
+    <item quantity="one">für 1 Min</item>
   </plurals>
   <plurals name="zen_mode_duration_minutes_summary">
     <item quantity="other">Für %1$d Minuten (bis %2$s)</item>
-    <item quantity="one">Für eine Minute (bis %2$s)</item>
+    <item quantity="one">Für 1 Minute (bis %2$s)</item>
   </plurals>
   <plurals name="zen_mode_duration_minutes_summary_short">
     <item quantity="other">für %1$d Min (bis %2$s)</item>
-    <item quantity="one">für eine Min (bis %2$s)</item>
+    <item quantity="one">für 1 Min (bis %2$s)</item>
   </plurals>
 </resources>

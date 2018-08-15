@@ -8,17 +8,10 @@
   <string name="app_update_install">Bereit zum Installieren des Updates</string>
   <string name="appindex_description">Funktionen installierter Apps</string>
   <string name="appindex_search_label">Appfunktionen</string>
-  <string name="application_desc">App</string>
-  <string name="applications_search_label">Apps</string>
   <string name="autologin_bar_error">Anmeldung nicht möglich</string>
   <string name="autologin_bar_hide_text">Verbergen</string>
   <string name="autologin_bar_login_text">Anmelden</string>
   <string name="autologin_bar_text">Anmelden als</string>
-  <string name="baidu_search_url">https://www.google.de/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_search_url_from_input">https://www.google.de/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_search_url_from_launcher">https://www.google.de/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_search_url_from_systemui">https://www.google.de/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="barcode_description">Scanner</string>
   <string name="barcode_install_back">Zurück</string>
   <string name="barcode_install_cancel">Abbrechen</string>
@@ -26,7 +19,6 @@
   <string name="barcode_system_unmatch">Aktualisieren Sie MIUI vor der Scannerinstallation</string>
   <string name="barcode_to_install">Scanner installieren, um fortzusetzen</string>
   <string name="barcode_uninstalled">Scanner nicht installiert</string>
-  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="cancel">Abbrechen</string>
   <string name="cannot_download">Kann nur \"http\" oder \"https\" URLs herunterladen</string>
   <string name="category_preference_activity_title">Suchkategorien</string>
@@ -35,7 +27,6 @@
   <string name="clear_history">Verlauf löschen</string>
   <string name="clear_history_cancel">Abbrechen</string>
   <string name="clear_history_confirm">Gesamten Verlauf löschen</string>
-  <string name="clear_history_ok">OK</string>
   <string name="clear_input_description">Löschen</string>
   <string name="clear_preference_activity_title">Daten löschen</string>
   <string name="clear_search_history_confirm">Suchverlauf löschen?</string>
@@ -44,8 +35,8 @@
   <string name="clear_shortcuts">Verlauf löschen</string>
   <string name="clear_shortcuts_agree">Verlauf löschen</string>
   <string name="clear_shortcuts_disagree">Verlauf nicht löschen</string>
-  <string name="clear_shortcuts_prompt">"Ganzer Verlauf kürzlich gewählter Suchvorschläge wird gelöscht.
-Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</string>
+  <string name="clear_shortcuts_prompt">"Möchten Sie den ganzen Verlauf zu den zuletzt gewählten Suchvorschlägen löschen?
+Browsereinstellungen verwenden, um den Browserverlauf zu löschen."</string>
   <string name="clear_shortcuts_summary">Verlauf kürzlich gewählter Suchvorschlägen löschen</string>
   <string name="clear_view_history_confirm">Browserverlauf löschen?</string>
   <string name="clear_webview_history_dialog_content">Cache und Browserverlauf jetzt löschen?</string>
@@ -87,6 +78,8 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="common_settings_security_subtitle">Erhalten Sie Benachrichtigungen, wenn Webseiten nicht sicher sind</string>
   <string name="common_settings_security_title">Sicherheitswarnungen</string>
   <string name="common_settinhs_privacy_title">Inkognito</string>
+  <string name="common_text_to_speech_subtitle">Wenn Sie Sprachsuche verwenden, werden die besten Ergebnisse automatisch zurückgelesen.</string>
+  <string name="common_text_to_speech_title">Text-zu-Sprache Ergebnisse</string>
   <string name="common_tips">Vorschläge</string>
   <string name="common_tips_subtitle">Erhalten Sie Vorschläge basierend auf Schlüsselwörtern</string>
   <string name="common_use_default_download_path_subtitle">Standardeinstellungen wiederherstellen</string>
@@ -95,11 +88,10 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="corpus_description_apps">Namen installierter Apps</string>
   <string name="corpus_description_web">Lesezeichen</string>
   <string name="corpus_hint_apps">Suche Apps</string>
-  <string name="corpus_label_apps">Apps</string>
   <string name="corpus_label_global">Alle</string>
-  <string name="corpus_label_web">Web</string>
+  <string name="corpus_label_web">Webergebnisse</string>
   <string name="corpus_selection_heading">Suche</string>
-  <string name="cta_declaration">Diese Funktion muss sich mit dem Internet verbinden, auf Ihren Gerätestandort zugreifen und Ihre Anrufhistorie und Kontakte ansehen, um normal zu funktionieren.</string>
+  <string name="cta_declaration">Diese Funktion muss sich mit dem Internet verbinden, auf Ihren Gerätestandort zugreifen und Ihre Anrufliste und Kontakte ansehen, um normal zu funktionieren.</string>
   <string name="cta_declaration_ignore">Nicht nochmal anzeigen</string>
   <string name="cta_declaration_negative_text">Verlassen</string>
   <string name="cta_declaration_positive_text">Erlauben</string>
@@ -110,8 +102,6 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="delete_description">Löschen</string>
   <string name="delete_history">Diesen Eintrag löschen</string>
   <string name="device_settings_category_title">Abkürzungen löschen</string>
-  <string name="distance_unit_kilometer">km</string>
-  <string name="distance_unit_meter">m</string>
   <string name="document_download_open_direct">Direkt öffnen</string>
   <string name="download_complete">Erfolgreich heruntergeladen</string>
   <string name="download_dialog_default_path_invalid">Ausgewähltes Downloadverzeichnis ist ungültig. Im Standardverzeichnis speichern…</string>
@@ -121,12 +111,9 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="download_dialog_file_length_nolength_txt">Nur eine Sek. …</string>
   <string name="download_failed">Download nicht vollständig</string>
   <string name="download_filter_all">Alle</string>
-  <string name="download_filter_apk">Apk</string>
   <string name="download_filter_audio">Musik</string>
   <string name="download_filter_image">Fotos</string>
   <string name="download_filter_text">Dateien</string>
-  <string name="download_filter_video">Videos</string>
-  <string name="download_filter_zip">Zip</string>
   <string name="download_no_sdcard_dlg_msg">SD-Karte erforderlich zum Download von %s</string>
   <string name="download_no_sdcard_dlg_title">Keine SD-Karte</string>
   <string name="download_pending">Download gestartet…</string>
@@ -134,6 +121,7 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="download_sdcard_busy_dlg_msg">SD-Karte ist beschäftigt. Um Downloads zu erlauben, schalten Sie den USB-Speicher in der Benachrichtigungsleiste aus.</string>
   <string name="download_sdcard_busy_dlg_title">SD-Karte nicht verfügbar</string>
   <string name="download_toast">Downloadpfad: /sdcard/%s</string>
+  <string name="empty_app_name">Externe App</string>
   <string name="entrance_setting">Suche öffnen</string>
   <string name="favor_delete">Löschen</string>
   <string name="favor_delete_negative">Abbrechen</string>
@@ -156,7 +144,6 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="google_app_label">Google-Suche</string>
   <string name="google_search_description">Google-Suchvorschläge</string>
   <string name="google_search_hint">Google-Suche</string>
-  <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google-Suche</string>
   <string name="hint_baidu">Webseiten durchsuchen</string>
   <string name="hint_book">Bücher durchsuchen</string>
@@ -170,6 +157,7 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="hint_news">Nachrichten durchsuchen</string>
   <string name="hint_system">Suche nach Webseiten, Apps, Kontakten und Videos</string>
   <string name="hint_video">Videos durchsuchen</string>
+  <string name="hint_web">Webseiten durchsuchen</string>
   <string name="history_arrow_up_description">Element aus Such- oder Browserverlauf eingeben</string>
   <string name="history_clear">Löschen</string>
   <string name="history_earlier">Früher</string>
@@ -184,21 +172,20 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="history_viewed">Browserverlauf</string>
   <string name="hot_search">Topsuche</string>
   <string name="hot_word_refresh">Aktualisieren</string>
+  <string name="image_detail_share">Teilen</string>
+  <string name="install">Installieren</string>
   <string name="item_history_clear">Verlauf leeren</string>
   <string name="item_history_more">Verlauf durchsuchen</string>
   <string name="launcher_entrance_prompt_button">Gefunden</string>
   <string name="launcher_entrance_prompt_content">Diese Funktion können Sie in den Einstellungen abschalten</string>
   <string name="launcher_entrance_prompt_title">Auf dem Startbildschirm nach oben wischen, um Globale Suche zu öffnen</string>
   <string name="loading">Laden</string>
-  <string name="local_app">Apps</string>
   <string name="local_setting">Einstellungen</string>
   <string name="login_failed_toast">Anmeldung nicht möglich, aktualisieren und erneut versuchen</string>
   <string name="main_setting">Einstellungen</string>
   <string name="main_setting_about">Über Globale Suche</string>
   <string name="main_setting_bookmark">Favoriten</string>
-  <string name="main_setting_download">Downloads</string>
   <string name="main_setting_engine">Suchmaschine</string>
-  <string name="main_setting_feedback">Feedback</string>
   <string name="main_setting_history">Verlauf</string>
   <string name="menu_help">Hilfe</string>
   <string name="menu_settings">Sucheinstellungen</string>
@@ -215,16 +202,12 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="miuishare_account_login_ok">Anmelden</string>
   <string name="miuishare_account_need_activate">Mit Weibo teilen erfordert das Weibo Konto, welches mit Ihrem Mi Konto verknüpft ist. Zum Fortfahren aktivieren Sie Ihr Mi Konto.</string>
   <string name="miuishare_account_need_login">Mit Weibo teilen erfordert das Weibo Konto, welches mit Ihrem Mi Konto verknüpft ist. Zum Fortfahren melden Sie sich am Mi Konto an.</string>
-  <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">Netzwerkverbindung nicht möglich</string>
   <string name="miuishare_publish">Senden</string>
-  <string name="miuishare_qzone_title">Qzone</string>
   <string name="miuishare_share_done">Erfolgreich geteilt</string>
   <string name="miuishare_share_editor_title">Teilen</string>
   <string name="miuishare_title_more">Mehr</string>
   <string name="miuishare_title_share">Teilen</string>
-  <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
-  <string name="miuishare_weibo_title">Weibo</string>
   <string name="mobile_network_settings">Netzwerkeinstellungen</string>
   <string name="more_tabs">Mehr</string>
   <string name="network_unavailable">Keine Netzwerkverbindung</string>
@@ -233,9 +216,9 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="no_space_alert_text">Nicht genug Speicherplatz</string>
   <string name="no_space_alert_title">Download pausiert</string>
   <string name="no_space_clean_failed">Konnte keinen Speicherplatz auf Ihrem Gerät freigeben​</string>
-  <string name="ok">OK</string>
-  <string name="other">Andere</string>
-  <string name="page_search_hint">suchen…</string>
+  <string name="open_app_confirm_message">Dieser Seite erlauben, %s zu öffnen?</string>
+  <string name="other">Weitere</string>
+  <string name="page_search_hint">Suchen…</string>
   <string name="permission_prompt_detail">Suche nach Filmen, Büchern, Musik und mehr</string>
   <string name="permission_prompt_start">Erlauben</string>
   <string name="permission_prompt_started_info">Sie haben Globale Suche erlaubt</string>
@@ -243,6 +226,10 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="preference_engine_choose">Wählen Sie</string>
   <string name="pull_to_exit">Zum Beenden nach unten ziehen</string>
   <string name="pull_to_input">Nach unten ziehen, um die Suchleiste anzuzeigen</string>
+  <string name="recent_app_enable_cancel">Nicht jetzt</string>
+  <string name="recent_app_enable_description">Diese Funktion aktivieren, um häufig verwendete Apps anzuzeigen.</string>
+  <string name="recent_app_enable_ok">Einschalten</string>
+  <string name="recent_app_enable_title">Appempfehlungen sind aus</string>
   <string name="recent_apps">Kürzlich verwendete Apps</string>
   <string name="recent_apps_filter">Blenden Sie Apps aus, die Sie nicht verwenden</string>
   <string name="recent_apps_preference_activity_title">Aktuelle Apps</string>
@@ -253,7 +240,6 @@ Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern."</string
   <string name="recent_delete_content">"Diese Apps jetzt ausblenden?
 Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern."</string>
   <string name="recent_delete_negative">Abbrechen</string>
-  <string name="recent_delete_positive">OK</string>
   <string name="recent_delete_title">Apps ausblenden</string>
   <string name="recent_edit">Bearbeiten</string>
   <string name="recent_edit_done">Fertig</string>
@@ -265,8 +251,15 @@ Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern."</string
   <string name="remove_from_history">Diesen Eintrag wirklich aus dem Verlauf löschen?</string>
   <string name="remove_from_history_failed">Eintrag kann nicht aus dem Verlauf gelöscht werden</string>
   <string name="right_protection_title">Sonderausgabe</string>
+  <string name="save_apk">APK-Dateien speichern</string>
+  <string name="save_audio">Musik speichern</string>
   <string name="save_dialog_title">Speichern</string>
   <string name="save_file">%s-Datei speichern</string>
+  <string name="save_image">Bilder speichern</string>
+  <string name="save_image_success">Bild gespeichert</string>
+  <string name="save_text">Dokumente speichern</string>
+  <string name="save_video">Videos speichern</string>
+  <string name="save_zip">ZIP-Dateien speichern</string>
   <string name="search_apps">Suche Apps</string>
   <string name="search_button">Suche</string>
   <string name="search_description">Suchmaschine ändern</string>
@@ -288,15 +281,8 @@ Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern."</string
   <string name="search_sources_summary">Auswählen, was auf dem Telefon durchsucht werden soll</string>
   <string name="search_suggestion">Tipps</string>
   <string name="search_videos">Suche Videos</string>
-  <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
   <string name="search_widget">Suche</string>
-  <string name="searchable_lable_app">App</string>
-  <string name="searchable_lable_browser">Browser</string>
-  <string name="searchable_lable_duokan">Duokan</string>
   <string name="searchable_lable_music">Musik</string>
-  <string name="searchable_lable_o2o">o2o</string>
-  <string name="searchable_lable_video">Video</string>
-  <string name="searchable_sources">Online</string>
   <string name="secure_download_in_xiaomi_market">Im App Store herunterladen</string>
   <string name="security_back">Zurück zu Sicherheit</string>
   <string name="security_continue">Ich verstehe die Risiken und möchte fortfahren</string>
@@ -317,7 +303,7 @@ Stellen Sie sicher, dass Sie die Risiken verstehen, bevor Sie die Seite aufrufen
   <string name="setting_privacy_policy">Datenschutzerklärung</string>
   <string name="setting_recetn_apps_subtitle">Aktuelle Apps anzeigen</string>
   <string name="setting_right_protection">Sonderausgabe</string>
-  <string name="setting_search_items">Gesuchte Artikel</string>
+  <string name="setting_search_items">Gesuchte Elemente</string>
   <string name="setting_search_items_subtitle">Suche nach einzelnen Apps erlauben</string>
   <string name="setting_version">Appversion</string>
   <string name="setting_version_title">Appversion</string>
@@ -330,8 +316,10 @@ Stellen Sie sicher, dass Sie die Risiken verstehen, bevor Sie die Seite aufrufen
   <string name="settings_recent_apps_title">Aktuelle Apps</string>
   <string name="settings_search_history_subtitle">Suchverlauf auf der Startseite anzeigen</string>
   <string name="settings_search_history_title">Suchverlauf</string>
+  <string name="settings_speech_title">Sprachsuche</string>
   <string name="share_page_text">Schauen Sie, was ich geteilt habe: %1$s %2$s</string>
   <string name="show_more">Mehr anzeigen</string>
+  <string name="speech_preference_activity_title">Sprachsuche</string>
   <string name="storage_internal">Interner Speicher</string>
   <string name="storage_sd_card">SD-Karte</string>
   <string name="storage_usb">USB-Speicher</string>
@@ -351,14 +339,11 @@ Stellen Sie sicher, dass Sie die Risiken verstehen, bevor Sie die Seite aufrufen
   <string name="swipe_prompt_setting">Wischen Sie vom oberen Bildschirmrand nach unten, um den Benachrichtigungsanzeige zu öffnen</string>
   <string name="swipe_up_summary">Suche mit einer schnellen Geste öffnen</string>
   <string name="swipe_up_title">Wischen, um die Suche zu öffnen</string>
-  <string name="switch_application">Apps</string>
-  <string name="switch_browser">Browser</string>
   <string name="switch_contacts">Kontakte</string>
   <string name="switch_email">E-Mail</string>
   <string name="switch_file">Dateien</string>
   <string name="switch_mms">Nachrichten</string>
   <string name="switch_notes">Notizen</string>
-  <string name="switch_online">Online</string>
   <string name="switch_prompt_ignore">Ignorieren</string>
   <string name="switch_prompt_set">Optionen</string>
   <string name="switch_prompt_title">Können Sie %s nicht finden?</string>
@@ -367,35 +352,30 @@ Stellen Sie sicher, dass Sie die Risiken verstehen, bevor Sie die Seite aufrufen
   <string name="system_search_category_title">Telefon</string>
   <string name="today">Heute</string>
   <string name="top_clicked">Häufig angeklickt</string>
-  <string name="translation_authority">com.android.quicksearchbox.translation</string>
   <string name="translation_description">Übersetzung Englisch-Chinesisch</string>
   <string name="translation_label">Übersetzung</string>
-  <string name="translation_youdao">YouDao</string>
   <string name="update_check">Auf Updates überprüfen</string>
   <string name="update_right_now">Aktualisieren</string>
   <string name="update_title">Update verfügbar</string>
-  <string name="update_version_alpha">Alpha</string>
-  <string name="update_version_dev">Beta</string>
-  <string name="update_version_stable">Stable</string>
   <string name="updated_title">MIUI ist auf dem neuesten Stand</string>
   <string name="view_history_clear_all_description">Browserverlauf löschen</string>
   <string name="view_history_clear_single_description">Dieses Element aus dem Browserverlauf löschen</string>
+  <string name="voice_description">Sprache</string>
   <string name="voice_search_hint_title">Sprechen:</string>
   <string name="web_copy_link">URL kopieren</string>
   <string name="web_favor">Zu Favoriten hinzufügen</string>
   <string name="web_link_copied">URL in die Zwischenablage kopiert</string>
   <string name="web_open_in_browser">Im Browser öffnen</string>
   <string name="web_refresh">Aktualisieren</string>
+  <string name="web_save_image">Bild herunterladen</string>
   <string name="web_search">Auf Webseite suchen…</string>
   <string name="web_search_results">Websuchergebnisse</string>
   <string name="web_share">Teilen</string>
+  <string name="web_share_image">Bild teilen</string>
+  <string name="web_view_image">Bild anzeigen</string>
   <string name="webview_more_description">Mehr Funktionen</string>
-  <string name="xiaomi_hint">http://127.0.0.1</string>
-  <string name="xiaomi_homepage_hint">http://127.0.0.1</string>
-  <string name="xiaomi_homepage_suggest">http://127.0.0.1</string>
-  <string name="xiaomi_hot_query">http://127.0.0.1</string>
+  <string name="xiaoai_speech_to_install">Mi AI Sprachassistent installieren, um fortzufahren</string>
+  <string name="xiaoai_speech_uninstalled">Mi AI Sprachassistent gelöscht</string>
   <string name="xiaomi_search_label">Ergebnisse</string>
-  <string name="xiaomi_source_url">http://127.0.0.1</string>
-  <string name="xiaomi_suggest_base">http://127.0.0.1</string>
   <string name="yesterday">Gestern</string>
 </resources>
