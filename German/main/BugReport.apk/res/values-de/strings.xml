@@ -10,7 +10,7 @@
   <string name="app_search">Apps suchen</string>
   <string name="btn_send">Senden</string>
   <string name="bugreport_dialog_not_show_again">Nicht wieder anzeigen</string>
-  <string name="bugreport_dialog_submit_content">Ihr Feedback enthält persönliche Informationen</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Sie speichern jetzt Software-Protokolle auf diesem Gerät. Protokolle können persönliche Informationen und Ihre Standortdaten enthalten. Geben Sie keine Logs an andere weiter, wenn Sie nicht möchten, dass diese Informationen veröffentlicht werden. Die Wahl von \"Einverstanden"\ bedeutet, dass Sie unserer &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Benutzervereinbarung&amp;lt;/a&amp;gt; zustimmen."&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Zum Anzeigen berühren</string>
   <string name="bugreport_dump_complete_notification_title">Fehlerbericht erstellt</string>
   <string name="bugreport_dump_start_notification_summary">Der Vorgang dauert ungefähr eine Minute</string>
@@ -273,8 +273,8 @@
   <string name="server_unknown_error_message">Serverfehler, versuchen Sie es nochmal</string>
   <string name="submit_dialog_cancel">Abbrechen</string>
   <string name="submit_dialog_confirm">Absenden</string>
-  <string name="submit_dialog_content">Ihr Feedback wird zusammen mit den Fehlerberichten und angehängten Bildern an Xiaomi gesendet, sobald eine WLAN-Verbindung besteht</string>
-  <string name="submit_dialog_content_global">Ihr Feedback wird zusammen mit Anhängen und Protokollen an die Server von MIUI gesendet. Logs können persönliche Informationen und Ihre Standortdaten enthalten. Sie können festlegen, dass keine Protokolle gesendet werden sollen, indem Sie das entsprechende Kontrollkästchen deaktivieren.</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"Ihr Feedback wird zusammen mit Anhängen und Protokollen an die MIUI-Server gesendet. Es kann persönliche Informationen und Ihre Standortdaten enthalten. Die Auswahl von "Einverstanden" bedeutet, dass Sie unsere &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Benutzervereinbarung&amp;lt;/a&amp;gt; aktzeptieren."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global">Benutzervereinbarung
   <string name="submit_dialog_not_wifi_content">Ihr Feedback wird zusammen mit den Fehlerberichten und angehängten Bildern an Xiaomi gesendet, sobald eine WLAN-Verbindung besteht</string>
   <string name="submit_dialog_title">Bericht an Xiaomi senden</string>
   <string name="submit_feedback_info_failed">Bericht konnte nicht gesendet werden</string>
