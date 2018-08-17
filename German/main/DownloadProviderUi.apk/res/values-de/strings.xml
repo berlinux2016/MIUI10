@@ -53,8 +53,8 @@
   <string name="dialog_confirm_delete_checkbox_message">Löscht auch die lokalen Dateien</string>
   <string name="dialog_confirm_delete_downloads_message">%d Downloads löschen?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Datei löschen?</string>
-  <string name="dialog_content_limit0">Downloads beschränken</string>
   <string name="dialog_content_limit_max">Unbeschränkt</string>
+  <string name="dialog_content_limit0">Downloads beschränken</string>
   <string name="dialog_failed_body">Später einen erneuten Downloadversuch für die Datei starten oder die Datei aus der Warteschlange entfernen?</string>
   <string name="dialog_file_already_exists">Download fehlgeschlagen. Die Zieldatei existiert bereits</string>
   <string name="dialog_file_missing_body">Heruntergeladene Datei kann nicht gefunden werden</string>
@@ -127,9 +127,9 @@
   <string name="durationHourMinutes">%1$d Stunde %2$d Minuten</string>
   <string name="durationHours">%1$d Stunden</string>
   <string name="durationMinute">%1$d Minute</string>
+  <string name="durationMinutes">%1$d Minuten</string>
   <string name="durationMinuteSecond">%1$d Minute %2$d Sekunde</string>
   <string name="durationMinuteSeconds">%1$d Minute %2$d Sekunden</string>
-  <string name="durationMinutes">%1$d Minuten</string>
   <string name="durationSecond">%1$d Sekunde</string>
   <string name="durationSeconds">%1$d Sekunden</string>
   <string name="edit_hint">URL eingeben (http, https, torrent)</string>
@@ -145,10 +145,10 @@
   <string name="extra_ad_title">Könnte Ihnen auch gefallen</string>
   <string name="extract_file">Datei entpacken…</string>
   <string name="fastest_speed">Höchstgeschwindigkeit</string>
-  <string name="flow_consume">Datenverkehr</string>
   <string name="file_exist_hint">Datei ist bereits vorhanden</string>
   <string name="file_picker">Standort auswählen</string>
   <string name="file_size">Größe:</string>
+  <string name="flow_consume">Datenverkehr</string>
   <string name="force_touch_newdownload">Neuer Download</string>
   <string name="force_touch_rank">Rang</string>
   <string name="force_touch_search">Web durchsuchen</string>
@@ -187,7 +187,6 @@
   <string name="menu_all_task_pause">Alle anhalten</string>
   <string name="menu_all_task_start">Alle starten</string>
   <string name="menu_back">Zurück zur Xunlei Mitgliedschaft</string>
-  <string name="menu_vip_unbind">Vip auflösen</string>
   <string name="menu_des_more">Mehr</string>
   <string name="menu_des_vip">Xunlei Mitgliedschaft</string>
   <string name="menu_enter_edit_mode">Ändern</string>
@@ -196,6 +195,7 @@
   <string name="menu_title_pause_all">Alle anhalten</string>
   <string name="menu_title_resume_all">Alle starten</string>
   <string name="menu_title_settings">Einstellungen</string>
+  <string name="menu_vip_unbind">Vip auflösen</string>
   <string name="missing_title">&lt;Unbekannt&gt;</string>
   <string name="net_error">Kann nicht mit Netzwerk verbinden, versuchen Sie es erneut</string>
   <string name="network_error">Netzwerkverbindung fehlgeschlagen</string>
@@ -391,10 +391,10 @@
   <string name="subfile_list">Dateien</string>
   <string name="task_detail">Aufgaben</string>
   <string name="task_fail">Operation konnte nicht abgeschlossen werden</string>
+  <string name="test_speed">Geschwindigkeitstest</string>
   <string name="test_speed_detail">Einzelheiten</string>
   <string name="test_speed_please">Tippen, um die Geschwindigkeit zu testen...</string>
   <string name="test_speed_result">WLAN-Geschwindigkeit testen</string>
-  <string name="test_speed">Geschwindigkeitstest</string>
   <string name="text_showmore_infoflow">Weitere Quellen anzeigen</string>
   <string name="third_web_cancel">Abbrechen</string>
   <string name="third_web_default">Diesen Standort speichern</string>
