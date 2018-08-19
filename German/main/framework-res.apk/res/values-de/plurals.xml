@@ -48,6 +48,14 @@
     <item quantity="other">in %d Tagen</item>
     <item quantity="one">morgen</item>
   </plurals>
+  <plurals name="duration_days_shortest">
+    <item quantity="other">vor %d Tg</item>
+    <item quantity="one">vor %d Tg</item>
+  </plurals>
+  <plurals name="duration_days_shortest_future">
+    <item quantity="other">in %d Tg</item>
+    <item quantity="one">in %d Tg</item>
+  </plurals>
   <plurals name="duration_hours">
     <item quantity="other">%d Stunden</item>
     <item quantity="one">1 Stunde</item>
@@ -59,6 +67,14 @@
   <plurals name="duration_hours_relative_future">
     <item quantity="other">in %d Stunden</item>
     <item quantity="one">in 1 Stunde</item>
+  </plurals>
+  <plurals name="duration_hours_shortest">
+    <item quantity="other">vor %d Std</item>
+     <item quantity="one">vor %d Std</item>
+  </plurals>
+  <plurals name="duration_hours_shortest_future">
+    <item quantity="other">in %d Std</item>
+    <item quantity="one">in %d Std</item>
   </plurals>
   <plurals name="duration_minutes">
     <item quantity="other">%d Minuten</item>
@@ -72,6 +88,14 @@
     <item quantity="other">in %d Minuten</item>
     <item quantity="one">in 1 Minute</item>
   </plurals>
+  <plurals name="duration_minutes_shortest">
+    <item quantity="other">vor %d Min</item>
+    <item quantity="one">vor %d Min</item>
+  </plurals>
+  <plurals name="duration_minutes_shortest_future">
+    <item quantity="other">in %d Min</item>
+    <item quantity="one">in %d Min</item>
+    </plurals>
   <plurals name="duration_seconds">
     <item quantity="other">%d Sekunden</item>
     <item quantity="one">1 Sekunde</item>
@@ -83,6 +107,14 @@
   <plurals name="duration_years_relative_future">
     <item quantity="other">in %d Jahren</item>
     <item quantity="one">in 1 Jahr</item>
+  </plurals>
+  <plurals name="duration_years_shortest">
+    <item quantity="other">vor %d Jr</item>
+    <item quantity="one">vor %d Jr</item>
+  </plurals>
+  <plurals name="duration_years_shortest_future">
+    <item quantity="other">in %d Jr</item>
+    <item quantity="one">in %d Jr</item>
   </plurals>
   <plurals name="in_num_days">
     <item quantity="other">in %d Tagen</item>
