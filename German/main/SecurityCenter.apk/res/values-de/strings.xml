@@ -316,7 +316,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="applock_add_account_info">Mi Konto hinzufügen, um Ihr Passwort zurücksetzen zu können, falls Sie es vergessen</string>
   <string name="applock_add_account_setting">Konto &amp; Privatsphäre</string>
   <string name="applock_bind_account_title">Passwort zurücksetzen</string>
-  <string name="applock_close_dialog_summary">Apps sind nicht mehr geschützt und Ihr Passwort wird gelöscht, nachdem Sie die App-Sperre deaktiviert haben.</string>
+  <string name="applock_close_dialog_summary">Alle versteckten Apps werden sichtbar, ihre Startbildschirmverknüpfungen werden wiederhergestellt und Ihr Appsperre-Passwort wird gelöscht. Appsperre ausschalten?</string>
   <string name="applock_close_dialog_title">Appsperre deaktivieren?</string>
   <string name="applock_exit_account_info">Konto wird bei der Abmeldung automatisch entfernt</string>
   <string name="applock_header_text_less_than_half">Zu wenig Platz für diese App. Trenner etwas weiter ziehen.</string>
@@ -895,6 +895,14 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="exit_dialog_scan_message">Leistungsbewertung Ihres Geräts liegt unter 75 Punkte. Jetzt optimieren?</string>
   <string name="exit_dialog_scan_positive_button">Optimieren</string>
   <string name="exit_dialog_scan_title">Leistung optimieren</string>
+  <string name="extreme_power_save_mode_title">Extremer Energiesparer</string>
+  <string name="extreme_power_save_mode_summary">Extremer Energiesparer schränkt die Hintergrundaktivität ein, stoppt die Synchronisation und reduziert die Anzeigefarben.</string>
+  <string name="extreme_power_save_description">&lt;li&gt;"Extremer Energiesparer stoppt alle Hintergrundaktivitäten einer App, nachdem Sie sie verlassen und zum Startbildschirm zurückkehren. Diese App sendet Ihnen keine Benachrichtigungen oder Updates."&lt;/li&gt;"
+"&lt;li&gt;Wenn Sie möchten, dass eine App im Hintergrund ausgeführt wird, sperren Sie sie in Recents oder fügen Sie sie zu den unten aufgeführten Hintergrundausnahmen hinzu. Bis zu 4 Apps können im Hintergrund ausgeführt werden, wenn der Extreme Energiesparmodus aktiviert ist.&lt;/li&gt;"
+"&lt;li&gt;Extremer Energiesparer schaltet NFC standardmäßig aus. Sie können dies in den Einstellungen ändern.&lt;/li&gt;"
+"&lt;li&gt;Um sicherzustellen, dass Sie alle Funktionen Ihres Geräts normal nutzen können, wird Extremer Energiesparer automatisch ausgeschaltet, wenn Ihr Akku zu 30% geladen ist.&lt;/li&gt;</string>
+  <string name="extreme_add_white_list_title">Ausnahmen im Hintergrund</string>
+  <string name="extreme_add_white_list_summary">Bis zu 4 Apps hinzufügen</string>
   <string name="fast_open_dialog_message">Nachdem Sie den Speed-Modus aktiviert haben, öffnet das System automatisch die rote Umschlagseite, um rote Pakete schneller und bequemer zu erhalten.</string>
   <string name="fast_open_dialog_message_summary">Hinweis: Es wird empfohlen, den Schnellzugriffsmodus von Navigations-, Video- und Spielanwendungen zu schließen, um den normalen Betrieb der Anwendung nicht zu beeinträchtigen. Der Bildschirmstatus des Telefons wird nicht rot dargestellt.</string>
   <string name="fast_open_dialog_ok">Öffnen</string>
@@ -1550,6 +1558,8 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="notification_battery_over_heat_title">Aktuelle Temperatur beträgt 40°C</string>
   <string name="notification_button_text_of_low_memory">Bereinigen</string>
   <string name="notification_charging_title">"Wird geladen "</string>
+  <string name="notification_exit_extreme_mode_text">Akku ist mehr als %s geladen</string>
+  <string name="notification_exit_extreme_mode_title">Extremer Energiesparer ausgeschaltet</string>
   <string name="notification_exit_power_save_mode">Energiesparmodus ist deaktiviert</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku zu %s aufgeladen</string>
   <string name="notification_item">Ausgewählte Apps mit einer Appsperre sichern</string>
@@ -1557,6 +1567,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="notification_mask_title">Nachrichteninhalt verbergen</string>
   <string name="notification_masked_item">Benachrichtigungen verbergen</string>
   <string name="notification_masked_subtitle">Benachrichtigungen von Apps, die mit der Appsperre geschützt sind, verbergen</string>
+  <string name="notification_open_extreme_mode_text">Extremer Energiesparer eingeschaltet</string>
   <string name="notification_quick_charging_title">Schnelles Aufladen</string>
   <string name="notification_subtitle">Zum Einschalten antippen</string>
   <string name="notification_summary_cmcc_app_check">Berühren für mehr Details</string>

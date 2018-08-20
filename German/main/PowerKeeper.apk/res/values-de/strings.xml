@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_extreme_mode">Extremer Energiesparer</string>
   <string name="about_hide_mode">Über Energiesparmodus</string>
   <string name="action_bar_delete">Löschen</string>
   <string name="action_settings">Einstellungen</string>
@@ -55,6 +56,7 @@ Energiesparmodus wird wichtige Apps bevorzugt behandeln."</string>
   <string name="enable_sleep_mode">Schalten Sie den Schlaf-Modus ein, um den Akkuverbrauch in der Nacht zu optimieren.</string>
   <string name="enable_hide_mode">Energiesparmodus aktivieren</string>
   <string name="error_filename_too_long">Dateiname zu lang</string>
+  <string name="extreme_mode_max_item_alert">Es können nur 4 Apps ausgewählt werden, die im Hintergrund im extremen Energieparmodus ausgeführt werden.</string>
   <string name="extreme_power_config_mode_category">Extremmodus</string>
   <string name="extreme_power_config_mode_desc">Diese Funktion wird Sync, Bluetooth, GPS, NFC, Doppeltippen zur Bildschirmaktivierung, Tastenbeleuchtung, Bildschirmaktivierung bei Benachrichtigungen, Benachrichtigungs-LEDs etc. deaktivieren. MIUI wird sich darauf konzentrieren, Akku zu sparen.</string>
   <string name="extreme_power_config_mode_title">Extremmodus</string>
@@ -67,7 +69,7 @@ Energiesparmodus wird wichtige Apps bevorzugt behandeln."</string>
   <string name="full_screen_exit">Vollbild aus</string>
   <string name="google_base_app_install_choice">\"%s\" erfordert Google Service Framework, um ordnungsgemäß zu funktionieren, herunterladen und installieren?</string>
   <string name="hide_mode">Energieverbrauch verwalten</string>
-  <string name="hide_mode_desc">Wenn Apps im Hintergrund laufen, werden ihre Aktivitäten überwacht, um den Energieverbrauch zu reduzieren. Netzwerkverbindung, Ortungsdienste, Radio, Timer, etc. können durch diese Funktion beeinträchtigt werden. Diese Konfiguration ist für die meisten Apps optimal. Wenn sich aber eine bestimmte App ungewöhnlich verhält, während diese im Hintergrund läuft, können Sie die Einstellungen der App anpassen.</string>
+  <string name="hide_mode_desc"><font color="#000000">Wenn eine App im Hintergrund läuft, werden ihre Aktivitäten überwacht, um den Batterieverbrauch zu reduzieren. Diese Funktion liefert und verwendet Benutzerdaten gemäß %s.</font></string>
   <string name="hide_mode_desc_title">Energieverbrauch verwalten</string>
   <string name="hide_mode_ultimate_desc">Ultimativmodus ist ein. Apps im Hintergrund werden eingefroren. Schalten Sie Energiesparmodus aus, um den Ultimativmodus zu verlassen.</string>
   <string name="hide_system_app">Systemapps ausblenden</string>
@@ -94,6 +96,7 @@ Energiesparmodus wird wichtige Apps bevorzugt behandeln."</string>
   <string name="mode_import">Importieren</string>
   <string name="mode_settings">Einstellungen</string>
   <string name="movie">Film</string>
+  <string name="message_i_know">Ich weiß</string>
   <string name="network_mode_title">Hintergrundnetzwerk</string>
   <string name="new_group_name">Kundenmodus</string>
   <string name="no_applications">Leer</string>
@@ -199,6 +202,7 @@ Energiesparmodus wird wichtige Apps bevorzugt behandeln."</string>
   <string name="power_usage">Energieverbrauch</string>
   <string name="power_optimize_activity_profile_file_error">Fehler Energie sparen</string>
   <string name="pref_config_title">Leistungsoptimierung</string>
+  <string name="privacy">Datenschutzerklärung</string>
   <string name="quick_disconnect_description">Apps können im Hintergrund nur kurz auf die Netzwerkverbindung zugreifen. Der dauerhafte Zugriff ist beschränkt.</string>
   <string name="quick_disconnect_title">Getrennt</string>
   <string name="ragment_sys_listempty">Keine Systemapps</string>
