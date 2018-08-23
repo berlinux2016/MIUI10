@@ -249,6 +249,7 @@
   <string name="data_usage_warning">Datennutzung</string>
   <string name="data_usage_warning_summary">Nutzung der mobilen Daten zum Streamen von Musik mit hoher Qualität kann die Datennutzung erhöhen</string>
   <string name="date_format_str">dd.MM.yyyy</string>
+  <string name="default_songtab_name">Wiedergabeliste-Kategorien</string>
   <string name="delete">Löschen</string>
   <string name="delete_comment_failed">Kommentar löschen fehlgeschlagen</string>
   <string name="delete_comment_successfully">Kommentar erfolgreich gelöscht</string>
@@ -384,6 +385,7 @@
   <string name="download_start">Starte Download…</string>
   <string name="download_start_apk">Download gestartet…, überprüfen Sie den Fortschritt in der Benachrichtigungsleiste</string>
   <string name="download_start_btn">Freier Download…</string>
+  <string name="download_start_apk_black_shark">Beginn des Downloads…, Anzeige des Fortschritts in den Dateien.</string>
   <string name="download_success">Fertig</string>
   <string name="download_times">Verbleibende Downloadzeiten: %d</string>
   <string name="download_title_sorted_by_date">Downloads - sortiert nach Datum</string>
@@ -409,7 +411,8 @@
   <string name="download_while_playing_summary">Gestreamte Musik wird gleichzeitig heruntergeladen</string>
   <string name="download_while_playing_title">Während des Streamens herunterladen</string>
   <string name="downloaded_empty">Leer</string>
-  <string name="downloading_apk">Herunterladen… Fortschrittsanzeige in Benachrichtigungsleiste</string>
+  <string name="downloading_apk">Herunterladen…, Fortschrittsanzeige in Benachrichtigungsleiste</string>
+  <string name="downloading_apk_black_shark">Herunterladen…, Fortschrittsanzeige der Dateien anzeigen.</string>
   <string name="downloading_empty">Leer</string>
   <string name="downloading_pause_apk">Pausiert. Setzen Sie den Download in der Benachrichtigungsleiste fort.</string>
   <string name="downloads_operating">Wird bearbeitet…</string>
@@ -536,6 +539,10 @@
   <string name="global_search_title_radar">Musikerkennung</string>
   <string name="go_to_add_music">Titel hinzufügen</string>
   <string name="go_to_settings">Einstellungen</string>
+  <string name="guide_playlist_content">Kategorisierte Wiedergabelisten anzeigen</string>
+  <string name="guide_video_tab_content1">Vidos hier ansehen</string>
+  <string name="guide_video_tab_content2">Stundenlang hochwertige Inhalte anschauen</string>
+  <string name="guide_video_tab_content3">Spalten wurden nach \"Ausgewählt\" verschoben</string>
   <string name="handle_later">Jetzt nicht</string>
   <string name="headset_and_audio_effect_category">Kopfhörer &amp; Audioeffekte</string>
   <string name="headset_and_audio_effect_summary">Kopfhörer &amp; Equalizer</string>
@@ -837,6 +844,8 @@
   <string name="payment_success_message">Dankeschön! Ihre Zahlung wurde erfolgreich verarbeitet. Genießen Sie die PRO-Dienste.</string>
   <string name="payment_success_title">Gratulation!</string>
   <string name="pending_apk">Ausstehend…</string>
+  <string name="personal_radio_dislike">Ähnliche Songs nicht empfehlen</string>
+  <string name="personal_radio_favorite">Favorisiert, ähnliches Songs empfehlen</string>
   <string name="permission_declaration_message">Erlauben Sie \"Musik\" den Speicherzugriff unter Sicherheit/Rechte/Rechteverwaltung/Speicher/Musik, damit die App ordungsgemäß funktioniert.</string>
   <string name="permission_declaration_negative_text">Später</string>
   <string name="permission_declaration_positive_text">\"Sicherheit\" öffnen</string>
@@ -895,9 +904,11 @@
   <string name="price">"Preis: "</string>
   <string name="priority_storage">Externe SD-Karte verwenden</string>
   <string name="priority_storage_summary">Automatisch auf externe SD-Karte herunterladen, falls verfügbar</string>
+  <string name="privacy_category">Angaben zum Datenschutz</string>
   <string name="privacy_notif_content">Antippen, um Details anzuzeigen.</string>
   <string name="privacy_notif_title">Xunlei Downloadbeschleuniger ist ausgeschaltet</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
+  <string name="privacy_preference">Datenschutzerklärung</string>
   <string name="privacy_tip_cancel">Abbrechen</string>
   <string name="privacy_tip_content">Xunlei Downloadbeschleniger verwenden, um Dateien herunterzuladen? Die Download-URL wird dabei auf die Xunlei-Server hochgeladen. Ihre Mi Kontodaten werden ebenfalls hochgeladen, um zu überprüfen, ob Sie diesen Dienst abonniert haben.</string>
   <string name="privacy_tip_title">Xunlei Downloadbeschleniger verwenden?</string>
@@ -1155,7 +1166,8 @@
   <string name="title_album_list">Album</string>
   <string name="title_online_artist">Beliebte Interpreten</string>
   <string name="title_online_fm_recommend">Angesagtes FM</string>
-  <string name="title_online_recommend">Angesagte Wiedergabelisten</string>
+  <string name="title_online_recommend">Wiedergabelisten</string>
+  <string name="title_online_recommend_type">Kategorie auswählen</string>
   <string name="title_online_release">Neu</string>
   <string name="title_online_song">Beliebte Titel</string>
   <string name="title_online_special">Alle Probleme</string>
