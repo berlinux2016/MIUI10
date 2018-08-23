@@ -27,9 +27,14 @@
   <string name="agenda_assistant_payment_day">Zahlungstag</string>
   <string name="agenda_assistant_repayment_day">Zahlungstag</string>
   <string name="agenda_assistant_tail_num">Nummer</string>
+  <string name="agenda_disclaimer">Rechtliche Hinweise</string>
+  <string name="agenda_disclaimer_content">This service is provided by Alipay. The related services and responsibilities will be borne by the third party. If you have any questions, please contact the company's customer service.Dieser Service wird von Alipay angeboten. Die damit verbundenen Leistungen und Verantwortlichkeiten werden von dem Dritten getragen. Bei Fragen wenden Sie sich bitte an den Kundendienst des Unternehmens.</string>
+  <string name="agenda_i_known">Ich weiß</string>
   <string name="agenda_i_known">OK</string>
+  <string name="agenda_need_install_alipay">Diese Funktion muss nach der Verwendung von Alipay installiert werden.</string>
   <string name="agenda_no_title">Ohne Titel</string>
   <string name="agenda_open">Terminerinnerungen einschalten</string>
+  <string name="agenda_pay_is_not_available">Zahlungsservice ist nicht verfügbar</string>
   <string name="agenda_setting_brief">Termine, Zahlungsaufforderungen und mehr</string>
   <string name="agenda_setting_brief_detail">Geplante Termine anzeigen und Erinnerungen über Kreditkartenrechnungen und Rückzahlungen erhalten</string>
   <string name="agenda_settings_account">Kalenderkonten verwalten</string>
@@ -38,7 +43,6 @@
   <string name="agenda_settings_elecbill">Strom- &amp; Gasrechnungen anzeigen</string>
   <string name="agenda_settings_loan">Rückzahlungsinfo anzeigen</string>
   <string name="agree">Zustimmen</string>
-  <string name="alipay_LoginPassword">Passwort eingeben</string>
   <string name="alipay_account">Kontonummer</string>
   <string name="alipay_agree">Zustimmen</string>
   <string name="alipay_agree_insurance">Versicherung zustimmen</string>
@@ -46,16 +50,16 @@
   <string name="alipay_ant_group_brand">Markenname Ant Group</string>
   <string name="alipay_application_name">Alipay</string>
   <string name="alipay_back_button">Zurück</string>
-  <string name="alipay_bindIKnow">Verstanden</string>
   <string name="alipay_bind_alipayaccount">Alipay-Konto verknüpfen</string>
   <string name="alipay_bind_now">Verknüpfen</string>
   <string name="alipay_bind_success">Erfolgreich verknüpft</string>
   <string name="alipay_bind_success_tip">Ihr Alipay-Kontoname und Ihr Passwort stimmen mit dem Taobao-Konto überein</string>
+  <string name="alipay_bindIKnow">Verstanden</string>
   <string name="alipay_cancel">Abbrechen</string>
   <string name="alipay_cancel_sel">Abbrechen</string>
-  <string name="alipay_changeAccountRegister">Erst die Nummer ändern, bevor Sie die Registrierung fortsetzen</string>
   <string name="alipay_change_account">Konto wechseln</string>
   <string name="alipay_change_account_login">Anderes Konto anmelden</string>
+  <string name="alipay_changeAccountRegister">Erst die Nummer ändern, bevor Sie die Registrierung fortsetzen</string>
   <string name="alipay_china">China</string>
   <string name="alipay_choice_region_shortcut">Häufig verwendet</string>
   <string name="alipay_choiceregion">Handybesitzer</string>
@@ -162,12 +166,13 @@
   <string name="alipay_language_switch">Sprache</string>
   <string name="alipay_loggining">Anmelden…</string>
   <string name="alipay_login">Anmelden</string>
-  <string name="alipay_loginImmediate">Direkt anmelden</string>
-  <string name="alipay_loginProblems">Sie haben ein Problem?</string>
   <string name="alipay_login_cancel">Abbrechen</string>
   <string name="alipay_login_error">Bekannter Systemfehler</string>
   <string name="alipay_login_query_pwd_tip">Passwort für das Konto %s festlegen, um sich später schneller anmelden zu können</string>
   <string name="alipay_login_rds_suspect">Anmelden fehlgeschlagen, erneut versuchen</string>
+  <string name="alipay_loginImmediate">Direkt anmelden</string>
+  <string name="alipay_LoginPassword">Passwort eingeben</string>
+  <string name="alipay_loginProblems">Sie haben ein Problem?</string>
   <string name="alipay_logout_current_account">Abmelden</string>
   <string name="alipay_logoutting">Abmelden…</string>
   <string name="alipay_more">Mehr</string>
@@ -202,11 +207,11 @@
   <string name="alipay_reg_pwd_title">Passwort festlegen</string>
   <string name="alipay_reg_read_sms_doing">Bitte warten, wir verifizieren Ihre Telefonnummer</string>
   <string name="alipay_reg_read_sms_title">Telefonnummer verifizieren</string>
-  <string name="alipay_registNew">Registrieren</string>
-  <string name="alipay_registNewAccount">Neues Konto registrieren</string>
   <string name="alipay_regist_now">Jetzt registrieren</string>
   <string name="alipay_regist_rds_suspect">Ihre Eingabe war zu schnell. Erneut versuchen.</string>
   <string name="alipay_register_password_error">Das Passwort muss sein</string>
+  <string name="alipay_registNew">Registrieren</string>
+  <string name="alipay_registNewAccount">Neues Konto registrieren</string>
   <string name="alipay_reigsterSuccess">Erfolgreich registriert</string>
   <string name="alipay_reinput">Erneut eingeben</string>
   <string name="alipay_risk_account_dialog_tip">Konto kann sich vorübergehend nicht anmelden, können Sie dies über die folgenden Möglichkeiten tun</string>
@@ -252,6 +257,18 @@
   <string name="already_download">Heruntergeladen</string>
   <string name="amount_ten_million_format">%s Millionen</string>
   <string name="app_label">Smart Assistant</string>
+  <string name="app_setting">Informationsassistent-Einstellungen</string>
+  <string name="app_setting_add_header_bg">Kopf-Hintergrundbild hinzufügen</string>
+  <string name="app_setting_datetime">Datumsanzeige</string>
+  <string name="app_setting_dialog_cancel">Abbrechen</string>
+  <string name="app_setting_has_not_setted">Nicht eingestellt</string>
+  <string name="app_setting_has_setted">wurde eingestellt</string>
+  <string name="app_setting_more_setting">Weitere Einstellungen</string>
+  <string name="app_setting_on_off_setting">Schaltereinstellung</string>
+  <string name="app_setting_privacy_policy">Datenschutzerklärung</string>
+  <string name="app_setting_privacy_policy">Privacy Policy</string>
+  <string name="app_setting_search">Suchleiste</string>
+  <string name="app_setting_xiaoai">Xiao AI-Taste</string>
   <string name="apps">App-Vorschläge</string>
   <string name="arrive">Landung</string>
   <string name="assistant_day_deadline">Letzter Tag</string>
@@ -483,6 +500,7 @@
   <string name="express_addressee_info">Empfängerinfo</string>
   <string name="express_addressee_name">Empfängername</string>
   <string name="express_addressee_region">Region des Empfängers</string>
+  <string name="express_app_store_not_found">Mi Market nicht gefunden</string>
   <string name="express_authorized">Erlaubt</string>
   <string name="express_banner_header">%1$s / Sendungsverfolgungsnummer</string>
   <string name="express_booking_txt">Expresslieferung bestellen</string>
@@ -505,6 +523,7 @@
   <string name="express_delivery">Auslieferung</string>
   <string name="express_dest_city_label">Zielort</string>
   <string name="express_detail_order_number_prefix">Nummer: %s</string>
+  <string name="express_detail_order_number_prefix">Nummmer: %s</string>
   <string name="express_detailed_address">Adresse</string>
   <string name="express_field_empty">Leer</string>
   <string name="express_go_back">Zurück</string>
@@ -513,6 +532,7 @@
   <string name="express_icon_tip_link">Sicherheit &amp; Privatsphäre</string>
   <string name="express_inqiury_select_logistics">Kurierdienst</string>
   <string name="express_inquiry">Sendungsverfolgung</string>
+  <string name="express_inquiry_all_logistics">Alle</string>
   <string name="express_inquiry_all_logistics">Alle</string>
   <string name="express_inquiry_and_send">Sendungsverfolgung und Versand</string>
   <string name="express_inquiry_button_text">Verfolgen</string>
@@ -523,6 +543,7 @@
   <string name="express_inquiry_delivered">Zugestellt</string>
   <string name="express_inquiry_detail">Expressversanddetails</string>
   <string name="express_inquiry_edit_logistics">Kurier</string>
+  <string name="express_inquiry_frequently_used_logistics">Häufig verwendet</string>
   <string name="express_inquiry_history">Verlauf</string>
   <string name="express_inquiry_history_remark">Kommentare</string>
   <string name="express_inquiry_history_remark_hint">Kommentarverlauf</string>
@@ -535,8 +556,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_inquiry_no_history">Kein Verlauf</string>
   <string name="express_inquiry_no_result">Keine Ergebnisse</string>
   <string name="express_inquiry_number_empty">Sendungsverfolgungsnummer eingeben</string>
-  <string name="express_inquiry_number_invalid">"Ungültige Nummer.
-Sendungsverfolgungsnummer prüfen."</string>
+  <string name="express_inquiry_number_invalid">"Ungültige Nummer. Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_inquiry_provider_info">"Zur Verfügung gestellt von "</string>
   <string name="express_inquiry_serial_number_indication">Sendungsverfolgungsnummer</string>
   <string name="express_inquiry_serial_number_prefix">Nummer: %s</string>
@@ -556,8 +576,12 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_install_delivery_service">Sendung verfolgen, den Zusteller kontaktieren, und mehr</string>
   <string name="express_install_open_locker">Öffnen</string>
   <string name="express_install_order_detail">Bestellinformationen anzeigen</string>
+  <string name="express_install_provider_app_description">%1$s erfordert die Installation der %2$s App. Jetzt installieren?</string>
+  <string name="express_install_provider_app_hidden"><u>"Nicht mehr anzeigen"</u></string>
+  <string name="express_install_provider_app_ok">Installeren</string>
   <string name="express_install_provider_app_ok">Installieren</string>
   <string name="express_install_provider_app_title">%s Installieren</string>
+  <string name="express_install_provider_app_title">Installieren %s</string>
   <string name="express_install_schedule_delivery">Auftragslieferdienst</string>
   <string name="express_location_failed">Lokalisierung fehlgeschlagen. Manuell Ihre Adresse eingeben.</string>
   <string name="express_more_service">Weitere Dienste</string>
@@ -598,6 +622,10 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_phone_tip">Lieferung, bleiben Sie dran</string>
   <string name="express_pickup_code">Abholcode: %s</string>
   <string name="express_preview_order">Vorschau</string>
+  <string name="express_provider_banner">Zur Verfügung gestellt von %s</string>
+  <string name="express_provider_cainiao">Cainiao</string>
+  <string name="express_provider_jingdong">Jingdong</string>
+  <string name="express_provider_shunfeng">Shunfeng</string>
   <string name="express_region_pick_title">Ort auswählen</string>
   <string name="express_schedule_delivery">Termin Abholung</string>
   <string name="express_select_address">Adresse</string>
@@ -657,6 +685,18 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_setting_verify_success">Erfolgreich verifiziert</string>
   <string name="express_shortcut_name">Expresslieferung versenden oder verfolgen</string>
   <string name="express_show_all_inquiry_history">Zeige alle Anfragen an</string>
+  <string name="express_state_abandoned">Abandoned</string>
+  <string name="express_state_accept">Dispatched</string>
+  <string name="express_state_agent_sign">Warten auf Abholung</string>
+  <string name="express_state_canceled">Storniert</string>
+  <string name="express_state_create">Erstellter Auftrag</string>
+  <string name="express_state_delivering">Zur Auslieferung</string>
+  <string name="express_state_failed">Endeckte Probleme</string>
+  <string name="express_state_reject">Abgelehnt</string>
+  <string name="express_state_shipped">Versand in Kürze</string>
+  <string name="express_state_sign">Signiert</string>
+  <string name="express_state_transport">Unterwegs</string>
+  <string name="express_state_unknown">Noch keine Daten</string>
   <string name="express_submit_order">Abschicken</string>
   <string name="express_support_app">Unterstützte Apps</string>
   <string name="express_tail_number">Hecknummer</string>
@@ -665,18 +705,13 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_update_cainiao_description">Aktualisieren Sie Cainiao, um diese Funktion zu nutzen</string>
   <string name="express_update_cainiao_ok">Aktualisieren</string>
   <string name="express_update_cainiao_title">Cainiao Version ist zu alt</string>
+  <string name="express_update_provider_app_description">Aktualisieren Sie %s, um diese Funktion zu nutzen.</string>
+  <string name="express_update_provider_app_ok">Aktualisieren</string>
+  <string name="express_update_provider_app_title">%s Version ist zu alt</string>
   <string name="express_view_order">Bestellungen ansehen</string>
   <string name="express_view_status">Sendung</string>
   <string name="expresss_inquiry_all_logistics">Alle</string>
   <string name="expresss_inquiry_frequently_used_logistics">Häufig benutzt</string>
-  <string name="fav_tab_all">Alle</string>
-  <string name="fav_tab_article">Artikel</string>
-  <string name="fav_tab_new">Neu</string>
-  <string name="fav_tab_shopping">Produkte</string>
-  <string name="fav_tab_video">Videos</string>
-  <string name="favorite_title_limit">Geben Sie bis zu 40 Zeichen ein</string>
-  <string name="favorite_title_modify">Modifizieren</string>
-  <string name="favorite_title_modify_success">Erfolgreich modifiziert</string>
   <string name="fav_category_article">Artikel</string>
   <string name="fav_category_shopping">Einkaufen</string>
   <string name="fav_category_video">Videos</string>
@@ -695,6 +730,11 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="fav_support_more">Alle Supportapps</string>
   <string name="fav_support_not_title">Automatisches Erfassung von Apps deaktivieren</string>
   <string name="fav_support_title">Automatisches Erfassung von Apps aktivieren</string>
+  <string name="fav_tab_all">Alle</string>
+  <string name="fav_tab_article">Artikel</string>
+  <string name="fav_tab_new">Neu</string>
+  <string name="fav_tab_shopping">Produkte</string>
+  <string name="fav_tab_video">Videos</string>
   <string name="favorite">Favoriten</string>
   <string name="favorite_add_home">Zur Startseite hinzufügen</string>
   <string name="favorite_add_home_add">Hinzufügen</string>
@@ -709,6 +749,9 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="favorite_label">Favoriten</string>
   <string name="favorite_main">Verlauf</string>
   <string name="favorite_mark_important">Als wichtig markiert</string>
+  <string name="favorite_title_limit">Geben Sie bis zu 40 Zeichen ein</string>
+  <string name="favorite_title_modify">Modifizieren</string>
+  <string name="favorite_title_modify_success">Erfolgreich modifiziert</string>
   <string name="feedback_cancel">Abbrechen</string>
   <string name="feedback_ok">Fehlerbericht senden</string>
   <string name="feedback_tip_msg">Sind Sie auf ein Problem gestoßen? Senden Sie uns den Fehlerbericht</string>
@@ -752,7 +795,6 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="flybird_setting_find_pwd">Passwort vergessen</string>
   <string name="flybird_setting_label">Zahlungseinstellungen</string>
   <string name="flybird_setting_nopwdcheck_label">Folgender Szenariobetrag &lt;=%s，Sie müssen kein Zahlungspasswort eingeben</string>
-    <!-- To Translate start -->
   <string name="flybird_setting_nopwduncheck_label">##开通小额免密后，在以下服务中使用手机进行小金额付款，无需输入支付密码。（不包含支付宝客户端内付款码及声波支付） -Abonnieren Sie einen kleinen Nicht-Schlüssel im folgenden Service, verwenden Sie das Telefon zur Zahlung eines kleinen Betrages, dann müssen Sie kein Passwort eingeben (ausgenommen Alipay-Client Zahlungscode und ##Sound Wave Payment).</string>
   <string name="flybird_setting_thirdpard_nopwd_label">Drittanbieterservice</string>
   <string name="flybird_setting_thirdpart_label">Automatische Rückbuchung</string>
@@ -801,7 +843,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="function_youku_record">Neueste Videos</string>
   <string name="function_zhihu_search">Suche</string>
   <string name="generate_view_failed">##全国人民都来了? 稍候再试试/Die Menschen im ganzen Land auch? Warten Sie und versuchen Sie es dann erneut.</string>
-      <!-- To Translate end -->
+  <string name="go_to_pay">Schnelle Rückzahlung</string>
   <string name="go_to_school">Zur Schule oder Arbeit und zurück</string>
   <string name="greeting_alarm_desc">Alarm wird morgen um %1$s klingeln</string>
   <string name="greeting_alarm_desc_with_duration">Alarm klingelt morgen um %1$s. Gehen Sie jetzt ins Bett, um %2$s Schlaf zu bekommen.</string>
@@ -917,8 +959,8 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="map_title_smooth">Insgesamt reibungslos</string>
   <string name="map_title_time_hours">%1$sh %2$sm nötig</string>
   <string name="map_title_time_minutes">%1$sm nötig</string>
-  <string name="memory_clear_result">%1$sB gelöscht</string>
   <string name="memory_clear_nothing_result">Nichts zu löschen im Zwischenspeicher</string>
+  <string name="memory_clear_result">%1$sB gelöscht</string>
   <string name="menu_new">Hinzufügen</string>
   <string name="mi_agenda">Kalendertermine</string>
   <string name="mi_basketball">Basketball</string>
@@ -941,7 +983,6 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="mini_bl_open_failed">Armband konnte nicht geöffnet werden, Sie können auf das andere Armband klicken und es erneut versuchen</string>
   <string name="mini_bl_open_failed_exit">Armband konnte nicht geöffnet werden</string>
   <string name="mini_bl_setting">Einrichten</string>
-  <!-- To Translate start -->
   <string name="mini_bl_validate_failed_change_pwd">##手环校验失败将转密码支付/The loop verification failed to pay for the password/Die Schleifenprüfung konnte das Passwort nicht bezahlen</string>
   <string name="mini_bluetooth_open_ok">Bluetooth erfolgreich geöffnet</string>
   <string name="mini_bracelet">Armband verbinden</string>
@@ -972,7 +1013,6 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="mini_net_error">##Netzwerkverbindung nicht möglich. Um die Zahlung zu übermitteln, starten Sie die Transaktionsapp/Webseite der Bestellung oder versuchen Sie erneut, eine Verbindung zum Netzwerk aufzubauen.</string>
   <string name="mini_net_error_weak">Netzwerkverbindung nicht möglich, später erneut versuchen</string>
   <string name="mini_no_download_url">##开通手环支付需要下载手环采集软件，但是当前获取下载地址失败，请联系支付宝客服(95188)/Die Öffnung des Hand-Rings muss die Loop-Capture-Software herunterladen, aber die Downloadadresse schlägt fehl, wenden Sie sich bitte an den Kundendienst zur Bestellung (95188).</string>
-    <!-- To Translate end -->
   <string name="mini_no_input">Darf nicht leer sein</string>
   <string name="mini_open_bluetooth">Öffnen</string>
   <string name="mini_open_bluetooth_now">Bluetooth ist eingeschaltet…</string>
@@ -1210,8 +1250,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="payment_record_menu_delete">Löschen</string>
   <string name="payment_record_menu_select">Auswählen</string>
   <string name="payment_report_failed_record_dialog_cancel">Abbrechen</string>
-  <string name="payment_report_failed_record_dialog_message">"Um Ihre Erfolgsquote bei der Abrechnung zu verbessern, können Sie die Initiative ergreifen, um uns die Informationen über die fehlgeschlagene Seite mitzuteilen.
-&lt;b&gt;&amp;#19978;&amp;#25253;&amp;#30340;&amp;#20449;&amp;#24687;&amp;#20165;&amp;#29992;&amp;#20110;&amp;#35299;&amp;#20915;&amp;#35760;&amp;#36134;&amp;#22833;&amp;#36133;&amp;#38382;&amp;#39064;&amp;#12290;&lt;/b&gt;"</string>
+  <string name="payment_report_failed_record_dialog_message">"Um Ihre Erfolgsquote bei der Abrechnung zu verbessern, können Sie die Initiative ergreifen, um uns die Informationen über die fehlgeschlagene Seite mitzuteilen. &lt;b&gt;&amp;#19978;&amp;#25253;&amp;#30340;&amp;#20449;&amp;#24687;&amp;#20165;&amp;#29992;&amp;#20110;&amp;#35299;&amp;#20915;&amp;#35760;&amp;#36134;&amp;#22833;&amp;#36133;&amp;#38382;&amp;#39064;&amp;#12290;&lt;/b&gt;"</string>
   <string name="payment_report_failed_record_dialog_ok">Absenden</string>
   <string name="payment_setting">Einstellung</string>
   <string name="payment_total_month_desc">Diesen Monat</string>
@@ -1367,6 +1406,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="shopping_setting_base">Einstellungen</string>
   <string name="shopping_setting_brief">Sammeln Sie Informationen über Ihre Einkäufe im Smart Assistant</string>
   <string name="shopping_setting_brief_detail">Sammeln Sie Informationen über Ihre Einkäufe aus mehreren E-Commerce-Anwendungen im Smart Assistant</string>
+  <string name="shopping_setting_mishop">Mi Store</string>
   <string name="shopping_setting_notification">Über neue Artikel informieren</string>
   <string name="shopping_setting_remove">Nach Widerruf der Autorisierung hört Smart Assistant auf, die Informationen über Ihre Einkäufe zu sammeln, und der Warenkorb wird entfernt. Trotzdem widerrufen?</string>
   <string name="shopping_source">Von</string>
@@ -1439,6 +1479,7 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="taxi_open">Karte für Taxis</string>
   <string name="taxi_setting_brief">Mit einem Fingertipp zum Taxi</string>
   <string name="taxi_target">Zielort</string>
+  <string name="tb_setting_xiaoai">Xiao AI</string>
   <string name="temp_support_xiaomi">Vorübergehend wird nur das Mi Band unterstützt</string>
   <string name="template_args_invalid">Kontextparameter ist ungültig</string>
   <string name="template_bussiness_data_error">Server gibt eine anormale Datenanalyse zurück und kann die Schnittstelle nicht anzeigen</string>
@@ -1459,9 +1500,9 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="train_D">D-Zug</string>
   <string name="train_G">G-Zug</string>
   <string name="train_K">K-Zug</string>
+  <string name="train_normal">Regulärer Zug</string>
   <string name="train_T">T-Zug</string>
   <string name="train_Z">Z-Zug</string>
-  <string name="train_normal">Regulärer Zug</string>
   <string name="trans_card">Karte für Verkehrsmittel</string>
   <string name="transit_subway">Öffentliche Verkehrsmittel</string>
   <string name="trip_assistant_all_btn">Alle Reisen</string>
@@ -1511,4 +1552,5 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="year_month_day_format">dd.MM.yyyy</string>
   <string name="yellow_page_website">Offizielle Webseite</string>
   <string name="yesterday">Gestern</string>
+
 </resources>
