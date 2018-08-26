@@ -477,10 +477,11 @@
   <string name="confirm_enable_oem_unlock_text">WARNUNG: Geräte-Schutz funktioniert auf dem Gerät nicht, solange diese Einstellung aktiv ist.</string>
   <string name="confirm_enable_oem_unlock_title">OEM Entsperrung erlauben?</string>
   <string name="confirm_pin_msg">PIN erneut eingeben</string>
-  <string name="connected_via_network_scorer">Automatisch verbunden über %1$s</string>
-  <string name="connected_via_network_scorer_default">Automatische Verbindung über Netzwerk-Rating-Provider</string>
-  <string name="connected_via_passpoint">Verbunden über %1$s</string>
-  <string name="connected_via_wfa">Verbunden über WLAN Assistenten</string>
+    <string name="connected_via_carrier">Verbunden via %1$s</string>
+  <string name="connected_via_network_scorer">Automatisch via %1$s</string>
+  <string name="connected_via_network_scorer_default">Automatische Verbindung via Netzwerk-Rating-Provider</string>
+  <string name="connected_via_passpoint">Verbunden via %1$s</string>
+  <string name="connected_via_wfa">Verbunden via WLAN Assistenten</string>
   <string name="content_description_menu_button">Menü</string>
   <string name="convert_to_fbe_warning">"Datenpartitionen in dateibasierte Verschlüsselung konvertieren.
 !!Warnung!! Alle Ihre Daten werden gelöscht.
