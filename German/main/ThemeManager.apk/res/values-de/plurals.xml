@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="resource_comment_score_count">
+    <item quantity="other">%d Kommentare</item>
+    <item quantity="one">%d Kommentar</item>
+  </plurals>
   <plurals name="theme_update_local_resource_notifaction">
     <item quantity="other">Updates für %1$d Themen verfügbar </item>
     <item quantity="one">Update für ein Thema verfügbar </item>
