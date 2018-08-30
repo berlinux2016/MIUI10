@@ -1326,7 +1326,8 @@ Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
   <string name="channel_notifications_off_desc">Android verhindert, dass diese Kategorie von Benachrichtigungen auf diesem Gerät erscheint</string>
   <string name="charge_length_format">Vor %1$s</string>
   <string name="charging_sounds_title">Ton bei Ladekabel an/ab</string>
-  <string name="check_importance">Als wichtig markieren?</string>
+  <string name="check_importance">Regeln für gruppierte Meldungen</string>
+  <string name="check_importance_dialog_cancel">Abbrechen</string>
   <string name="check_update">Updates suchen</string>
   <string name="checkbox_notification_same_as_incoming_call">Lautstärke von eingehenden Anrufen für Benachrichtigungen verwenden</string>
   <string name="checking_decryption">Wird überprüft</string>
@@ -2204,6 +2205,9 @@ Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string
   <string name="encryption_interstitial_no">Nein</string>
   <string name="encryption_interstitial_yes">Ja</string>
   <string name="encryption_progress_summary">Verschlüsseln, starten Sie Ihr Gerät nicht neu</string>
+  <string name="enforce_read_external_confirm_message">"Wenn die SD-Karte geschützt ist, müssen Apps die Erlaubnis zum Lesen von Daten aus einem externen Speicher anfordern.
+
+Einige Apps funktionieren möglicherweise erst, wenn sie von ihren Entwicklern aktualisiert wurden."</string>
   <string name="enforce_read_external_confirm_title">USB-Speicher schützen?</string>
   <string name="enforce_read_external_summary">Apps benötigen die Berechtigung zum Lesen des USB-Speichers</string>
   <string name="enforce_read_external_title">USB-Speicher schützen</string>
@@ -3665,7 +3669,7 @@ Betriebssystem auswählen:"</string>
   <string name="nature_color">Standard</string>
   <string name="navigation_guide_app_summary">Vom oberen Bildschirmrand nach links oder rechts wischen</string>
   <string name="navigation_guide_app_title">Appaktion auslösen</string>
-  <string name="navigation_guide_appswitch_anim_summary">Vom Rand über den Bildschirm streichen, um zur vorherigen Anwendung zurückzukehren.</string>
+  <string name="navigation_guide_appswitch_anim_summary">Vom Rand über den Bildschirm streichen, um zur vorherigen App zurückzukehren</string>
   <string name="navigation_guide_appswitch_anim_title">Zur vorherigen App wechseln</string>
   <string name="navigation_guide_appswitch_click">Zuerst \"Zurück zur vorherigen App\" einschalten</string>
   <string name="navigation_guide_appswitch_summary">Vom Rand nach links oder rechts wischen und kurz halten</string>
