@@ -244,8 +244,8 @@
   <string name="app_manager_permission_manager_title">Rechte</string>
   <string name="app_manager_permission_notify_summary">Abzeichen und schwebende Sperrbildschirmbenachrichtigungen</string>
   <string name="app_manager_permission_notify_title">Benachrichtigungen</string>
-  <string name="app_manager_permission_power_saving_summary">MIUI Energiesparmodus</string>
-  <string name="app_manager_permission_power_saving_title">Energiesparmodus</string>
+  <string name="app_manager_permission_power_saving_summary">MIUI Stromsparen</string>
+  <string name="app_manager_permission_power_saving_title">Stromsparen</string>
   <string name="app_manager_permission_read_contact_over">Kontakte 100000+ mal zugegriffen</string>
   <string name="app_manager_permission_read_mms_over">SMS 100000+ mal gelesen</string>
   <string name="app_manager_permission_read_record_over">Anrufliste 100000+ mal gelesen</string>
@@ -253,7 +253,7 @@
   <string name="app_manager_permission_startself_summary">Apps, die automatisch starten, belegen Arbeitsspeicher und verbrauchen mehr Akku</string>
   <string name="app_manager_permission_summary_reject">Alles beschränken</string>
   <string name="app_manager_power">Berechtigungen</string>
-  <string name="app_manager_powerkeeper_miui_auto">MIUI Energiesparmodus</string>
+  <string name="app_manager_powerkeeper_miui_auto">MIUI Stromsparen</string>
   <string name="app_manager_powerkeeper_no_bg">Hintergrundaktivität beschränken</string>
   <string name="app_manager_powerkeeper_no_restrict">Keine Beschränkungen</string>
   <string name="app_manager_powerkeeper_restrict_bg">Hintergrundapps beschränken</string>
@@ -921,12 +921,12 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="exo_track_surround_5_point_1">5.1 Surround Sound</string>
   <string name="exo_track_surround_7_point_1">7.1 Surround Sound</string>
   <string name="exo_track_unknown">Unbekannt</string>
-  <string name="extreme_power_save_mode_title">Extremer Energiesparer</string>
-  <string name="extreme_power_save_mode_summary">Extremer Energiesparer schränkt die Hintergrundaktivität ein und stoppt die Synchronisation.</string>
-  <string name="extreme_power_save_description">"• Extremer Energiesparer stoppt alle Hintergrundaktivitäten einer App, nachdem Sie sie verlassen und zum Startbildschirm zurückkehren. Diese App sendet keine Benachrichtigungen oder Updates.
-• Wenn Sie möchten, dass eine App im Hintergrund ausgeführt wird, sperren Sie sie in Recents oder fügen sie zu den unten aufgeführten Hintergrundausnahmen hinzu. Bis zu 4 Apps können im Hintergrund ausgeführt werden, wenn Extremer Energiesparer aktiviert ist.
-• Extremer Energiesparer schaltet NFC standardmäßig aus. Sie können dies in den Einstellungen ändern.
-• Um sicherzustellen, dass Sie alle Funktionen Ihres Geräts normal nutzen können, wird Extremer Energiesparer automatisch ausgeschaltet, wenn Ihr Akku zu 30%% geladen ist."</string>
+  <string name="extreme_power_save_mode_title">Extremes Stromsparen</string>
+  <string name="extreme_power_save_mode_summary">Extremes Stromsparen schränkt die Hintergrundaktivität ein und stoppt die Synchronisation.</string>
+  <string name="extreme_power_save_description">"• Extremes Stromsparen stoppt alle Hintergrundaktivitäten einer App, nachdem Sie sie verlassen und zum Startbildschirm zurückkehren. Diese App sendet keine Benachrichtigungen oder Updates.
+• Wenn Sie möchten, dass eine App im Hintergrund ausgeführt wird, sperren Sie sie in Recents oder fügen sie zu den unten aufgeführten Hintergrundausnahmen hinzu. Bis zu 4 Apps können im Hintergrund ausgeführt werden, wenn Extremes Stromsparen aktiviert ist.
+•Extremes Stromsparen schaltet NFC standardmäßig aus. Sie können dies in den Einstellungen ändern.
+• Um sicherzustellen, dass Sie alle Funktionen Ihres Geräts normal nutzen können, wird Extremes Stromsparen automatisch ausgeschaltet, wenn Ihr Akku zu 30%% geladen ist."</string>
   <string name="extreme_add_white_list_title">Ausnahmen im Hintergrund</string>
   <string name="extreme_add_white_list_summary">Bis zu 4 Apps hinzufügen</string>
   <string name="fast_open_dialog_message">Nachdem Sie den Speed-Modus aktiviert haben, öffnet das System automatisch die rote Umschlagseite, um rote Pakete schneller und bequemer zu erhalten.</string>
@@ -1136,7 +1136,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="google_base_app_install_choice">Die App benötigt Google Service Framework, um richtig zu funktionieren. Jetzt herunterladen und installieren?</string>
   <string name="goto_set">Einstellen</string>
   <string name="gs_anto_clean_memory_whitelist">Ausnahmeliste</string>
-  <string name="gs_app_back_self_start">Energiesparmodus</string>
+  <string name="gs_app_back_self_start">Stromsparen</string>
   <string name="gs_auto_clean_memory">Cache bereinigen</string>
   <string name="gs_auto_clean_memory_detail">Cache automatisch bereinigen, um Spiele zu optimieren</string>
   <string name="gs_autobooster">Automatische Geschwindigkeitserhöhung</string>
@@ -1175,7 +1175,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="handle_title_privacy">Privatsphäre &amp; Sicherheit</string>
   <string name="header_antivirus">Diese Funktion verschlüsselt Ihre Geräte-ID und sendet Sie dann an Tencent (%s)</string>
   <string name="help_label">Hilfe</string>
-  <string name="hide_mode_app_background_setting_text">Energiesparmodus für Apps</string>
+  <string name="hide_mode_app_background_setting_text">Stromsparen für Apps</string>
   <string name="hide_mode_summary_text">Verwalten Sie die Hintergrundaktivitäten von Apps, um Energie zu sparen</string>
   <string name="hide_mode_title_text">Versteckenmodus</string>
   <string name="hide_system_app">Systemapps verbergen</string>
@@ -1281,7 +1281,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="keywords_powercenter">Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain</string>
   <string name="keywords_powercenter_powerrank">Akkunutzung</string>
   <string name="keywords_securitycenter">Sicherheit;Physikalische Prüfung;Scannen</string>
-  <string name="keywords_securitycenter_settings">Energiesparmodus;Berechtigung;Sperrliste;Datenverbrauch;Datentarif;Daten sparen;Netzwerktest;Appsperre;Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte;Betrug;Sales;Agents;Daten;Verkehr;Calibrate;Sparen;Verbindung;Internet;Test;Passwort;Privatsphäre;Zugruff;Sicherheit</string>
+  <string name="keywords_securitycenter_settings">Stromsparen;Berechtigung;Sperrliste;Datenverbrauch;Datentarif;Daten sparen;Netzwerktest;Appsperre;Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte;Betrug;Sales;Agents;Daten;Verkehr;Calibrate;Sparen;Verbindung;Internet;Test;Passwort;Privatsphäre;Zugruff;Sicherheit</string>
   <string name="keywords_usb_install">USB installieren;vom Computer installieren;mit ADB installieren</string>
   <string name="label_callwait">Anrufbenachrichtigung</string>
   <string name="label_mi_stats">Mi Statistik</string>
@@ -1520,7 +1520,7 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie mobile
   <string name="menu_summary_networkassistants_2">Limit überschritten</string>
   <string name="menu_summary_networkassistants_3">Ausreichend Daten vorhanden</string>
   <string name="menu_summary_networkassistants_4">Keine Daten mehr vorhanden</string>
-  <string name="menu_summary_power_manager">Energiesparer gibt Ihnen mehr Zeit zwischen den Ladevorgängen</string>
+  <string name="menu_summary_power_manager">Stromsparen gibt Ihnen mehr Zeit zwischen den Ladevorgängen</string>
   <string name="menu_summary_power_manager_1">Akku ist voll geladen</string>
   <string name="menu_summary_power_manager_2">Nutzbar für ca. %s</string>
   <string name="menu_summary_power_manager_3">Ladegerät anschließen</string>
@@ -1640,15 +1640,15 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="notification_button_text_of_low_memory">Bereinigen</string>
   <string name="notification_charging_title">"Wird geladen "</string>
   <string name="notification_exit_extreme_mode_text">Akku ist mehr als %s geladen</string>
-  <string name="notification_exit_extreme_mode_title">Extremer Energiesparer ausgeschaltet</string>
-  <string name="notification_exit_power_save_mode">Energiesparmodus ist deaktiviert</string>
+  <string name="notification_exit_extreme_mode_title">Extremes Stromsparen ausgeschaltet</string>
+  <string name="notification_exit_power_save_mode">Stromsparen ist deaktiviert</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku zu %s aufgeladen</string>
   <string name="notification_item">Ausgewählte Apps mit einer Appsperre sichern</string>
   <string name="notification_mask_summary">Benachrichtigungen auf dem Sperrbildschirm und in der Benachrichtigungsleiste verbergen</string>
   <string name="notification_mask_title">Nachrichteninhalt verbergen</string>
   <string name="notification_masked_item">Benachrichtigungen verbergen</string>
   <string name="notification_masked_subtitle">Benachrichtigungen von Apps, die mit der Appsperre geschützt sind, verbergen</string>
-  <string name="notification_open_extreme_mode_text">Extremer Energiesparer eingeschaltet</string>
+  <string name="notification_open_extreme_mode_text">Extremes Stromsparen eingeschaltet</string>
   <string name="notification_quick_charging_title">Schnelles Aufladen</string>
   <string name="notification_subtitle">Zum Einschalten antippen</string>
   <string name="notification_summary_cmcc_app_check">Berühren für mehr Details</string>
@@ -1813,7 +1813,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="path_networkassistant_4">Systemapps/Sicherheit/Netzwerkassistent/Netzwerktest</string>
   <string name="path_payment_security">Systemapps/Sicherheit/Bezahlsicherheit</string>
   <string name="path_permcenter">Systemapps/Sicherheit/Berechtigungen</string>
-  <string name="path_powercenter">Systemapps/Sicherheit/Energiesparmodus</string>
+  <string name="path_powercenter">Systemapps/Sicherheit/Stromsparen</string>
   <string name="path_powercenter_powerrank">Akku &amp; Leistung/Akkunutzung</string>
   <string name="path_securitycenter">Systemapps/Sicherheit</string>
   <string name="path_securitycenter_settings">Systemapps/Sicherheit</string>
@@ -1862,7 +1862,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="power_analysis_consume_title">Akkuverbrauch</string>
   <string name="power_analysis_suggestion_need_optimize">Probleme mit dem Akku erkannt</string>
   <string name="power_apply_toast">Wechseln auf %s-Modus</string>
-  <string name="power_auto_save_title">Energiesparmodus</string>
+  <string name="power_auto_save_title">Stromsparen</string>
   <string name="power_autorun_apps_empty">Keine Autostart-Apps</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
@@ -1884,7 +1884,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="power_center_custom_summary_default">Optimierte Einstellungen sparen Energie</string>
   <string name="power_center_custom_title">Energieprofile</string>
   <string name="power_center_low_battery_summary_default">Profil wechseln, wenn der Akkustand niedrig ist</string>
-  <string name="power_center_low_battery_title">Energiesparmodus</string>
+  <string name="power_center_low_battery_title">Stromsparen</string>
   <string name="power_center_on_time_summary_default">Profil zur geplanten Zeit wechseln</string>
   <string name="power_center_on_time_title">Geplanter Wechsel</string>
   <string name="power_center_ontime_boot">Nach Zeitplan einschalten</string>
@@ -2000,23 +2000,23 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="power_optimize_loading">Wird geladen</string>
   <string name="power_optimize_manual_catagory_title">Manuell</string>
   <string name="power_optimize_open_hide_mode">Versteckenmodus ist eingeschaltet</string>
-  <string name="power_optimize_save_mode_not_opened">Energiesparmodus ist aus</string>
+  <string name="power_optimize_save_mode_not_opened">Stromsparen ist aus</string>
   <string name="power_optimize_save_on_lockscreen">Energie sparen, wenn das Gerät gesperrt ist</string>
   <string name="power_phone">Anrufe</string>
   <string name="power_recovery_mode">Wechseln zu %1$s-Modus</string>
   <string name="power_save_choose_mode">Profil auswählen</string>
   <string name="power_save_choose_recovery_mode">Profil auswählen</string>
-  <string name="power_save_low_battery_auto_save_title">Energiesparmodus</string>
+  <string name="power_save_low_battery_auto_save_title">Stromsparen</string>
   <string name="power_save_low_battery_option_recovery_title">Standardprofil</string>
   <string name="power_save_low_battery_option_summary">Wenn der Akkustand über dem eingestellten Limit ist, wechselt das Gerät wieder auf das zuletzt verwendete Profil</string>
   <string name="power_save_low_battery_option_title">Energiesparprofil</string>
   <string name="power_save_low_battery_seekbar_title">Profil autom. wechseln, wenn Akkustand niedriger als %1$d%% ist</string>
-  <string name="power_save_low_battery_title">Energiesparmodus</string>
+  <string name="power_save_low_battery_title">Stromsparen</string>
   <string name="power_save_mode_auto_exit_summary">Deaktivieren, wenn Akku über 60 % aufgeladen ist</string>
   <string name="power_save_mode_auto_exit_title">Beim Laden deaktivieren</string>
-  <string name="power_save_mode_close_warn_text">Energiesparmodus schränkt Hintergrundaktivitäten und Synchronisation ein. Wenn Sie Ihn beim Laden aktiviert lassen, arbeiten möglicherweise einige Funktionen nicht richtig. Den Energiesparmodus beim Laden trotzdem aktiv lassen?</string>
-  <string name="power_save_mode_close_warn_title">Energiesparmodus</string>
-  <string name="power_save_mode_enable">Autom. Energiesparmodus</string>
+  <string name="power_save_mode_close_warn_text">Stromsparen schränkt Hintergrundaktivitäten und Synchronisation ein. Wenn Sie Ihn beim Laden aktiviert lassen, arbeiten möglicherweise einige Funktionen nicht richtig. Den Stromsparen beim Laden trotzdem aktiv lassen?</string>
+  <string name="power_save_mode_close_warn_title">Stromsparen</string>
+  <string name="power_save_mode_enable">Stromsparen</string>
   <string name="power_save_mode_end_time">Ende</string>
   <string name="power_save_mode_ontime_enabled">Zeiten für das Umschalten zwischen den Profilen festlegen</string>
   <string name="power_save_mode_start_time">Beginn</string>
@@ -2031,12 +2031,12 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="power_save_on_time_start_time_summary">Von</string>
   <string name="power_save_on_time_start_time_summary_na">Von</string>
   <string name="power_save_on_time_title">Geplanter Wechsel</string>
-  <string name="power_save_summary_text">Energiesparmodus einschalten, um die Hintergrundaktivitäten von Apps einzuschränken, die Synchronisation anzuhalten und Systemanimationen zu minimieren</string>
-  <string name="power_save_title_text">Energiesparmodus</string>
+  <string name="power_save_summary_text">Stromsparen einschalten, um die Hintergrundaktivitäten von Apps einzuschränken, die Synchronisation anzuhalten und Systemanimationen zu minimieren</string>
+  <string name="power_save_title_text">Stromsparen</string>
   <string name="power_screen">Bildschirm</string>
   <string name="power_settings_category_title">Akkuanzeige</string>
   <string name="power_settings_number">Prozent</string>
-  <string name="power_settings_saver_title">Energiesparmodus</string>
+  <string name="power_settings_saver_title">Stromsparen</string>
   <string name="power_settings_shape">Grafisch</string>
   <string name="power_settings_title">Einstellungen</string>
   <string name="power_settings_top">Balken</string>
@@ -2257,7 +2257,7 @@ Diese Funktion wird für Systemapps nicht unterstützt."</string>
   <string name="resource_networkassistant_4">Netzwerkdiagnose</string>
   <string name="resource_payment_security">Bezahlsicherheit</string>
   <string name="resource_permcenter">Berechtigungen</string>
-  <string name="resource_powercenter">Energiesparmodus</string>
+  <string name="resource_powercenter">Stromsparen</string>
   <string name="resource_powercenter_powerrank">Akku &amp; Leistung</string>
   <string name="resource_securitycenter">Sichere physikalische Prüfung</string>
   <string name="resource_securitycenter_settings">Sicherheit;Physikalische Prüfung;Scannen</string>
@@ -2851,7 +2851,7 @@ Wenn Sie MIUI in keiner Weise verändert haben, stellen Sie sicher, dass Sie die
   <string name="title_permission_no">Zugriffsmanager aus</string>
   <string name="title_permission_root">Warnung Rootzugriff</string>
   <string name="title_permission_yes">Zugriffsmanager an</string>
-  <string name="title_power_optimizer">Energiesparmodus</string>
+  <string name="title_power_optimizer">Stromsparen</string>
   <string name="title_realname_verify">Identitätsverifikation</string>
   <string name="title_reply">Kommentar</string>
   <string name="title_restrict_data_usage">%s kann sich nicht mit dem Internet verbinden?</string>
@@ -2949,7 +2949,7 @@ Wollen Sie diese Daten übernehmen?"</string>
   <string name="traffic_saving_history_total_traffic">Daten reduziert</string>
   <string name="traffic_saving_mobile_usage">Mobilverbrauch</string>
   <string name="traffic_saving_msg_month">Diesen Monat gespart</string>
-  <string name="traffic_saving_msg_not_started">Datensparmodus ist aus</string>
+  <string name="traffic_saving_msg_not_started">Datensparen ist aus</string>
   <string name="traffic_saving_msg_today">Heute gespart</string>
   <string name="traffic_saving_need_optimize">Kann optimiert werden</string>
   <string name="traffic_saving_notification_button_start">Aktivieren</string>
@@ -2964,14 +2964,14 @@ Wollen Sie diese Daten übernehmen?"</string>
   <string name="traffic_saving_ratio_low">Datenverbrauch kann nicht deutlich reduziert werden</string>
   <string name="traffic_saving_recommanded_close">Dieses Element ausschalten</string>
   <string name="traffic_saving_recommanded_open">Dieses Element ausschalten</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Datensparmodus automatisch aktivieren, um mobile Datennutzung von Apps zu reduzieren.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Wenn Sie einen monatliche Datentarif haben, denken Sie daran, Datensparmodus für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu vermeiden.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Datensparen automatisch aktivieren, um mobile Datennutzung von Apps zu reduzieren.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Wenn Sie einen monatliche Datentarif haben, denken Sie daran, Datensparen für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu vermeiden.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aktivieren</string>
   <string name="traffic_saving_tecsupport">Bereitgestellt von Opera</string>
-  <string name="traffic_saving_title">Datensparmodus</string>
-  <string name="traffic_saving_toast_start_mobile">Datensparmodus ist ein</string>
-  <string name="traffic_saving_toast_start_none_mobile">Datensparmodus startet automatisch, wenn Sie die mobile Datenverbindung nutzen</string>
-  <string name="traffic_saving_toast_start_unreachable">Datensparmodus kann nicht gestartet werden</string>
-  <string name="traffic_saving_toast_stop">Datensparmodus ist ausgeschaltet</string>
+  <string name="traffic_saving_title">Datensparen</string>
+  <string name="traffic_saving_toast_start_mobile">Datensparen ist ein</string>
+  <string name="traffic_saving_toast_start_none_mobile">Datensparen startet automatisch, wenn Sie die mobile Datenverbindung nutzen</string>
+  <string name="traffic_saving_toast_start_unreachable">Datensparen kann nicht gestartet werden</string>
+  <string name="traffic_saving_toast_stop">Datensparen ist ausgeschaltet</string>
   <string name="traffic_saving_whitelist_btn_add">Hinzufügen</string>
   <string name="traffic_saving_whitelist_btn_add_app">Hinzufügen</string>
   <string name="traffic_saving_whitelist_btn_added">Hinzugefügt</string>

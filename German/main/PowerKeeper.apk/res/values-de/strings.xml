@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_extreme_mode">Extremer Energiesparer</string>
-  <string name="about_hide_mode">Über Energiesparmodus</string>
+  <string name="about_extreme_mode">Extremes Stromsparen</string>
+  <string name="about_hide_mode">Über Stromsparen</string>
   <string name="action_bar_delete">Löschen</string>
   <string name="action_settings">Einstellungen</string>
   <string name="action_title_optimize">Jetzt optimieren</string>
@@ -34,9 +34,9 @@
   <string name="config_classify">Nach App-Einstellungen sortieren</string>
   <string name="config_custom_description">Wenn vorgeschlagene Konfigurationen nicht Ihren Anforderungen entsprechen, können diese angepasst werden</string>
   <string name="config_custom_title">Benutzerdefiniert</string>
-  <string name="config_description">MIUI kann Apps mit spezifischen Hintergrundaktivitäten erkennen (z.B. Nachrichten, Navigation, Medienplayer) und Energiesparmodus so anwenden, dass wichtige Hintergrundaktivitäten nicht beeinflusst werden</string>
+  <string name="config_description">MIUI kann Apps mit spezifischen Hintergrundaktivitäten erkennen (z.B. Nachrichten, Navigation, Medienplayer) und Stromsparen so anwenden, dass wichtige Hintergrundaktivitäten nicht beeinflusst werden</string>
   <string name="config_mode_title">Hintergrundeinstellungen</string>
-  <string name="config_no_restrict_description">Energiesparmodus schränkt die Aktivitäten der App nicht ein</string>
+  <string name="config_no_restrict_description">Stromsparen schränkt die Aktivitäten der App nicht ein</string>
   <string name="config_no_restrict_title">Keine Einschränkungen</string>
   <string name="config_restrict_function_description">"Einige Funktionen (z.B. Push-Benachrichtigungen) sind betroffen, aber Apps werden nicht beendet</string>
   <string name="config_restrict_function_title">Hintergrundprozesse einschränken</string>
@@ -45,16 +45,16 @@
   <string name="config_restrict_running_warning">Apps werden im Hintergrund geschlossen. Das kann dazu führen, dass sie nicht mehr richtig funktionieren.</string>
   <string name="config_scenario_policies_title">Methoden</string>
   <string name="config_suggest_description">"Apps und Aktivitäten erkennen, um wichtige Prozesse am Laufen zu halten.
-Energiesparmodus wird wichtige Apps bevorzugt behandeln."</string>
-  <string name="config_suggest_suffix_title">Energiesparmodus (empfohlen)</string>
-  <string name="config_suggest_title">Energiesparmodus</string>
+Stromsparen wird wichtige Apps bevorzugt behandeln."</string>
+  <string name="config_suggest_suffix_title">Stromsparen (empfohlen)</string>
+  <string name="config_suggest_title">Stromsparen</string>
   <string name="current_cloud_addr_is">Adresse der Cloud-Verwaltung:</string>
-  <string name="disable_hide_mode">Energiesparmodus deaktivieren</string>
-  <string name="disable_hide_mode_warning">Wenn Sie Energiesparmodus deaktivieren, kann der Akkuverbrauch steigen</string>
+  <string name="disable_hide_mode">Stromsparen deaktivieren</string>
+  <string name="disable_hide_mode_warning">Wenn Sie Stromsparen deaktivieren, kann der Akkuverbrauch steigen</string>
   <string name="disabled">Aus</string>
   <string name="empty_title_apps_container_list">Keine Apps</string>
   <string name="enable_sleep_mode">Schalten Sie den Schlaf-Modus ein, um den Akkuverbrauch in der Nacht zu optimieren.</string>
-  <string name="enable_hide_mode">Energiesparmodus aktivieren</string>
+  <string name="enable_hide_mode">Stromsparen aktivieren</string>
   <string name="error_filename_too_long">Dateiname zu lang</string>
   <string name="extreme_mode_max_item_alert">Es können nur 4 Apps ausgewählt werden, die im Hintergrund im extremen Energieparmodus ausgeführt werden.</string>
   <string name="extreme_power_config_mode_category">Extremmodus</string>
@@ -69,9 +69,9 @@ Energiesparmodus wird wichtige Apps bevorzugt behandeln."</string>
   <string name="full_screen_exit">Vollbild aus</string>
   <string name="google_base_app_install_choice">\"%s\" erfordert Google Service Framework, um ordnungsgemäß zu funktionieren, herunterladen und installieren?</string>
   <string name="hide_mode">Energieverbrauch verwalten</string>
-  <string name="hide_mode_desc"><font color="#000000">Wenn eine App im Hintergrund läuft, werden ihre Aktivitäten überwacht, um den Batterieverbrauch zu reduzieren. Diese Funktion liefert und verwendet Benutzerdaten gemäß %s.</font></string>
+  <string name="hide_mode_desc"><font color="#000000">Wenn eine App im Hintergrund läuft, werden ihre Aktivitäten überwacht, um den Akkuverbrauch zu reduzieren. Diese Funktion liefert und verwendet Benutzerdaten gemäß %s.</font></string>
   <string name="hide_mode_desc_title">Energieverbrauch verwalten</string>
-  <string name="hide_mode_ultimate_desc">Ultimativmodus ist ein. Apps im Hintergrund werden eingefroren. Schalten Sie Energiesparmodus aus, um den Ultimativmodus zu verlassen.</string>
+  <string name="hide_mode_ultimate_desc">Ultimativmodus ist ein. Apps im Hintergrund werden eingefroren. Schalten Sie Stromsparen aus, um den Ultimativmodus zu verlassen.</string>
   <string name="hide_system_app">Systemapps ausblenden</string>
   <string name="high">Leistung</string>
   <string name="hints_loading_text">Lade…</string>
@@ -133,7 +133,7 @@ Energiesparmodus wird wichtige Apps bevorzugt behandeln."</string>
   <string name="power_config_app_background_title">Hintergrund</string>
   <string name="power_config_app_full_screen_title">Vollbild</string>
   <string name="power_config_app_launch_title">Vordergrund</string>
-  <string name="power_config_apps">Energiesparmodus</string>
+  <string name="power_config_apps">Stromsparen</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Zeit auswählen, in der Hintergrundaktivitäten eingeschränkt werden sollen</string>
   <string name="power_config_bg_data_delay_time_title">Hintergrunddaten einschränken</string>
   <string name="power_config_choose_apps">Apps auswählen</string>
@@ -208,7 +208,7 @@ Energiesparmodus wird wichtige Apps bevorzugt behandeln."</string>
   <string name="ragment_sys_listempty">Keine Systemapps</string>
   <string name="reading">Lesen</string>
   <string name="search_result_text">Konnte keine Apps finden</string>
-  <string name="scenario_policies_summary">Wenden Sie den optimalen Energiesparmodus für verschiedene Szenarien an.</string>
+  <string name="scenario_policies_summary">Wenden Sie den optimalen Stromsparen für verschiedene Szenarien an.</string>
   <string name="scenario_policies_title">Intelligente Energieeinsparungen</string>
   <string name="scenario_policies_warmcontrol">Temperaturkontrolle</string>
   <string name="screen_off">Bildschirm aus</string>

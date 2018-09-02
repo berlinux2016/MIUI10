@@ -758,13 +758,13 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_percentage">Akku-Prozentsatz</string>
   <string name="battery_percentage_description">Akku-Prozentsatz in Statuszeile anzeigen</string>
   <string name="battery_power_management">Energieverwaltung</string>
-  <string name="battery_saver">Energiesparmodus</string>
+  <string name="battery_saver">Stromsparen</string>
   <string name="battery_saver_auto_title">Automatisch einschalten</string>
   <string name="battery_saver_button_turn_off">Jetzt ausschalten</string>
   <string name="battery_saver_button_turn_on">Jetzt einschalten</string>
   <string name="battery_saver_desc_turn_on_auto_never">Nie automatisch einschalten</string>
   <string name="battery_saver_desc_turn_on_auto_pct">Automatisch bei %1$s Akkustand einschalten</string>
-  <string name="battery_saver_master_switch_title">Energiesparmodus verwenden</string>
+  <string name="battery_saver_master_switch_title">Stromsparen verwenden</string>
   <string name="battery_saver_off_scheduled_summary">Wird eingeschaltet bei %1$s</string>
   <string name="battery_saver_off_summary">Aus / %1$s</string>
   <string name="battery_saver_on_summary">An / %1$s</string>
@@ -794,7 +794,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_sugg_bluetooth_basic">Bluetooth bei Nichtverwendung ausschalten</string>
   <string name="battery_sugg_bluetooth_headset">Mit einem anderen Bluetoothgerät verbinden</string>
   <string name="battery_sugg_display">Bildschirmhelligkeit und/oder Bildschirmtimeout verringern</string>
-  <string name="battery_sugg_radio">Flugmodus zum Energiesparen in Gebieten ohne Mobilfunkabdeckung</string>
+  <string name="battery_sugg_radio">Flugmodus zum Stromsparen in Gebieten ohne Mobilfunkabdeckung</string>
   <string name="battery_sugg_wifi">WLAN bei Nichtverwendung oder Nichtverfügbarkeit ausschalten</string>
   <string name="battery_suggestion_title">Akkulaufzeit des Telefons verbessern</string>
   <string name="battery_summary">%1$s verwendet seit der letzten vollen Ladung</string>
@@ -803,11 +803,11 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
 Top %1$d Apps, die seit der Vollladung benutzt wurden:"</string>
   <string name="battery_tip_dialog_summary_message">"Ihre Apps verbrauchen den Akku normal. Wenn Apps zu viel Akku verbrauchen, schlägt Ihnen Ihr Telefon entsprechende Maßnahmen vor.
 
-Sie können den Energiesparmodus jederzeit einschalten, wenn der Akku knapp wird."</string>
+Sie können Stromsparen jederzeit einschalten, wenn der Akku knapp wird."</string>
   <string name="battery_tip_early_heads_up_done_summary">Einige Funktionen können beschränkt sein</string>
-  <string name="battery_tip_early_heads_up_done_title">Energiesparmodus ist an</string>
+  <string name="battery_tip_early_heads_up_done_title">Stromsparen ist an</string>
   <string name="battery_tip_early_heads_up_summary">Akku könnte früher leer sein als üblich</string>
-  <string name="battery_tip_early_heads_up_title">Energiesparmodus einschalten</string>
+  <string name="battery_tip_early_heads_up_title">Stromsparen einschalten</string>
   <string name="battery_tip_high_usage_summary">Akku könnte bald leer sein</string>
   <string name="battery_tip_high_usage_title">Telefon mehr als üblich benutzt</string>
   <string name="battery_tip_low_battery_summary">Akku kann keine gute Akkulaufzeit bieten</string>
@@ -1427,9 +1427,9 @@ Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
   <string name="condition_airplane_summary">WLAN, Bluetooth und Mobilfunknetz sind ausgeschaltet. Telefonie und Internet funktionieren nicht.</string>
   <string name="condition_airplane_title">Flugmodus ist eingeschaltet</string>
   <string name="condition_battery_summary">Leistung wird reduziert. Standortdienste und Hintergrunddaten sind deaktiviert.</string>
-  <string name="condition_battery_title">Energiesparmodus ist eingeschaltet</string>
+  <string name="condition_battery_title">Stromsparen ist eingeschaltet</string>
   <string name="condition_bg_data_summary">Hintergrunddaten sind nur über WLAN verfügbar. Einige Appfunktionen oder Dienste können beeinträchtigt sein, wenn WLAN nicht verfügbar ist.</string>
-  <string name="condition_bg_data_title">Datensicherung ist eingeschaltet</string>
+  <string name="condition_bg_data_title">Datensparen ist eingeschaltet</string>
   <string name="condition_cellular_summary">Internet ist nur über WLAN verfügbar</string>
   <string name="condition_cellular_title">Mobilfunkdaten sind ausgeschaltet</string>
   <string name="condition_device_muted_action_turn_on_sound">Ton einschalten</string>
@@ -1619,8 +1619,8 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
   <string name="data_remaining">^1 übrig</string>
   <string name="data_saver_off">Aus</string>
   <string name="data_saver_on">An</string>
-  <string name="data_saver_switch_title">Datensparmodus verwenden</string>
-  <string name="data_saver_title">Datensparmodus</string>
+  <string name="data_saver_switch_title">Datensparen verwenden</string>
+  <string name="data_saver_title">Datensparen</string>
   <string name="data_size_label">Daten</string>
   <string name="data_summary_format">%1$s verbraucht seit %2$s</string>
   <string name="data_switch_started">Daten-SIM wird geändert, kann eine Minute dauern…</string>
@@ -3867,8 +3867,8 @@ Betriebssystem auswählen:"</string>
   <string name="notification_channels_other">Andere</string>
   <string name="notification_content_block_summary">Niemals Benachrichtigungen in der Leiste oder auf Peripheriegeräten anzeigen</string>
   <string name="notification_content_block_title">Benachrichtigungen anzeigen</string>
-  <string name="notification_exit_power_save_mode">Energiesparmodus beenden</string>
-  <string name="notification_exit_power_save_mode_subtitle">Wenn Akku über 60% aufgeladen wurde, wird der Energiesparmodus automatisch beendet</string>
+  <string name="notification_exit_power_save_mode">Stromsparen beenden</string>
+  <string name="notification_exit_power_save_mode_subtitle">Wenn Akku über 60% aufgeladen wurde, wird Stromsparen automatisch beendet</string>
   <string name="notification_group_title">Gruppe Benachrichtigungsart</string>
   <string name="notification_headset_custom">Nicht mehr daran erinnern</string>
   <string name="notification_headset_info">Stellen Sie die Art der Kopfhörer ein</string>
@@ -4199,7 +4199,7 @@ Betriebssystem auswählen:"</string>
   <string name="path_power_checker">Einstellungen/Zusätzlich/Betafunktionen/Leistungsüberprüfung</string>
   <string name="path_power_hide_mode_title">Einstellungen/Akku/Energieverbrauch verwalten</string>
   <string name="path_power_mode_settings">Einstellungen/Akku/Akkueinstellungen</string>
-  <string name="path_power_optimize">Einstellungen/Zusätzlich/Betafunktionen/Energiesparmodus</string>
+  <string name="path_power_optimize">Einstellungen/Zusätzlich/Betafunktionen/Stromsparen</string>
   <string name="path_pref_volume_wake_title">Einstellungen/Bildschirmsperre &amp; Passwort/Aufwachen mit Lautstärketasten</string>
   <string name="path_preferred_network_type_settings">Einstellungen/SIM-Karten &amp; Mobile Netzwerke/Bevorzugter Netzwerktyp</string>
   <string name="path_privacy_policy">Einstellungen/Über das Gerät/Rechtliche Hinweise/Datenschutzerklärung</string>
@@ -4372,8 +4372,8 @@ Betriebssystem auswählen:"</string>
   <string name="power_remaining_less_than_duration_only">Weniger als %1$s übrig</string>
   <string name="power_remaining_more_than_subtext">Mehr als %1$s übrig (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Mehr als %1$s übrig</string>
-  <string name="power_save_mode_enable">Energiesparmodus</string>
-  <string name="power_save_mode_summary">Schalten Sie den Energiesparmodus ein, um den Stromverbrauch zu reduzieren. Er schaltet sich automatisch aus, wenn über 60% geladen wurde. Wenn diese Option aktiviert ist, werden Hintergrundprozesse, Synchronisation und visuelle Effekte gestoppt.</string>
+  <string name="power_save_mode_enable">Stromsparen</string>
+  <string name="power_save_mode_summary">Schalten Sie Stromsparen ein, um den Stromverbrauch zu reduzieren. Er schaltet sich automatisch aus, wenn über 60% geladen wurde. Wenn diese Option aktiviert ist, werden Hintergrundprozesse, Synchronisation und visuelle Effekte gestoppt.</string>
   <string name="power_screen">Bildschirm</string>
   <string name="power_service">Dienste</string>
   <string name="power_settings_title">Einstellungen</string>
@@ -6113,7 +6113,7 @@ Mit dieser Google-Funktion können Sie Ihre Daten synchronisieren, um von übera
   <string name="tether_over_limit_warning_notify_message">Mobilen Hotspot ausschalten</string>
   <string name="tether_over_limit_warning_notify_title">Hotspot-Datenlimit erreicht</string>
   <string name="tether_settings_disabled">Persönlicher Hotspot ist deaktiviert</string>
-  <string name="tether_settings_disabled_on_data_saver">Tethering oder Verwendung von mobilen Hotspots nicht möglich, während der Datensparmodus aktiviert ist</string>
+  <string name="tether_settings_disabled_on_data_saver">Tethering oder Verwendung von mobilen Hotspots nicht möglich, während Datensparen aktiviert ist</string>
   <string name="tether_settings_launch_title">Mobiler Hotspot</string>
   <string name="tether_settings_summary_hotspot_on_tether_off">Hotspot an</string>
   <string name="tether_settings_summary_hotspot_on_tether_on">Hotspot an, Tethering</string>
@@ -6448,7 +6448,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="unmount_inform_text">USB-Speicher wird getrennt</string>
   <string name="unmute_sound_title">Stummschalten aus</string>
   <string name="unrestrict_max_aspect_ratio_title">Diese Apps sind für den Vollbildmodus optimiert</string>
-  <string name="unrestricted_app_summary">Im Datensparmodus uneingeschränkten Datenzugriff erlauben</string>
+  <string name="unrestricted_app_summary">Beim Datensparen uneingeschränkten Datenzugriff erlauben</string>
   <string name="unrestricted_app_title">Uneingeschränkte Datennutzung</string>
   <string name="unrestricted_data_saver">Uneingeschränkter Datenzugriff</string>
   <string name="unsupported_setting_summary">Einstellung wird von diesem Telefon nicht unterstützt</string>
