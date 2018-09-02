@@ -64,6 +64,10 @@ Möchten Sie unsere Hilfe bei der Verlängerung??"</item>
     <item quantity="other">%d neue Titel</item>
     <item quantity="one">%d neuer Titel</item>
   </plurals>
+  <plurals name="Nnowplaying_songs">
+    <item quantity="other">(%d Songs)</item>
+     <item quantity="one">(%d Song)</item>
+  </plurals>
   <plurals name="Nquit_warning">
     <item quantity="other">Player stoppt in %d Minuten</item>
     <item quantity="one">Player stoppt in einer Minute</item>
@@ -185,10 +189,6 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
   <plurals name="notification_download_success_more">
     <item quantity="other">%1$d Titel</item>
     <item quantity="one">%1$d Titel</item>
-  </plurals>
-  <plurals name="Nnowplaying_songs">
-    <item quantity="other">(%d Songs)</item>
-     <item quantity="one">(%d Song)</item>
   </plurals>
   <plurals name="reader_count">
     <item quantity="other">%d Anhänger</item>
