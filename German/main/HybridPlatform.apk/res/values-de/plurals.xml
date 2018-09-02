@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Erlaubte %d Berechtigungen</item>
+        <item quantity="one">Erlaubte %d Berechtigung</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Nach %d Berechtigungen fragen</item>
+        <item quantity="one">Nach %d Berechtigung fragen</item>
+    </plurals>
+    <plurals name="app_settings_disabled_header_title">
+        <item quantity="other">%s Apps können keine Benachrichtigungen anzeigen</item>
+        <item quantity="one">1 Apps kann keine Benachrichtigungen anzeigen</item>
+    </plurals>
+    <plurals name="app_settings_enabled_header_title">
+        <item quantity="other">%s Apps können Benachrichtigungen anzeigen</item>
+        <item quantity="one">1 App kann Benachrichtigungen anzeigen</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d Berechtigungen</item>
+        <item quantity="one">%d Berechtigung</item>
+    </plurals>
+</resources>
