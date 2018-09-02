@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_enabled">Bedienungshilfen aktiviert</string>
   <string name="agree">Zustimmen</string>
-  <string name="agree_terms">Ich habe die Nutzungsbedingungen und Datenschutzrichtlinien gelesen und stimme beiden zu.</string>
+  <string name="agree_terms">Ich habe die Nutzungsbedingungen und Datenschutzerklärung gelesen und stimme beiden zu.</string>
   <string name="agree_terms_input_method_facemoji">Ich habe die Datenschutzerklärung von Facemoji gelesen und akzeptiert.</string>
   <string name="agree_terms_input_method_kika">Ich habe die Datenschutzerklärung von Kika gelesen und akzeptiert.</string>
   <string name="alert_dialog_btn_close">Deaktivieren</string>
@@ -28,8 +28,8 @@
   <string name="enable_accessibility_dialog_message">Sie haben TalkBack aktiviert, indem Sie den Bildschirm mit zwei Fingern länger als 10 Sekunden gedrückt haben. TalkBack liefert Sprachfeedback für Personen mit Sehbehinderung. Wenn Sie diese Funktion versehentlich aktiviert haben, tippen Sie auf Abbrechen und dann 2x auf den Bildschirm.</string>
   <string name="enable_accessibility_dialog_negative_btn">Abbrechen</string>
   <string name="fail_to_generate_qr_code">QR-Code konnte nicht generiert werden. Öffnen Sie diese Seite erneut.</string>
-  <string name="ime_privacy_policy">Datenschutzbestimmungen der ausgewählten Tastatur</string>
-  <string name="ime_privacy_policy_no_network">Keine Netzwerkverbindung. Sehen Sie sich die Datenschutzrichtlinien für die Tastatur auf %s an</string>
+  <string name="ime_privacy_policy">Datenschutzerklärung der ausgewählten Tastatur</string>
+  <string name="ime_privacy_policy_no_network">Keine Netzwerkverbindung. Sehen Sie sich die Datenschutzerklärung für die Tastatur auf %s an</string>
   <string name="input_method_category">Standardeingabemethode wählen, die z.B. beim Schreiben von E-Mails oder Notizen verwendet wird. Weitere Drittanbietertastaturen können später installiert werden.</string>
   <string name="input_method_setting">Eingabemethode auswählen</string>
   <string name="install_preinstall_app">Apps werden geladen…</string>
@@ -38,7 +38,7 @@
   <string name="language_picker_other_languages_title">Andere Sprachen</string>
   <string name="language_settings">Sprache auswählen</string>
   <string name="locale_picker_title">Standort auswählen</string>
-  <string name="miui_privacy_policy_no_network">Keine Internetverbindung. Lesen Sie die Datenschutzrichtlinien auf %s.</string>
+  <string name="miui_privacy_policy_no_network">Keine Internetverbindung. Lesen Sie die Datenschutzerklärung auf %s.</string>
   <string name="miui_terms_no_network">Keine Internetverbindung. Sehen Sie sich die Nutzungsbedingungen auf %s an.</string>
   <string name="multisim_settings_category">SIM-Karteneinstellungen</string>
   <string name="multisim_settings_title">2 SIM-Karten erkannt</string>
@@ -60,15 +60,15 @@
   <string name="other_settings_user_experience">Benutzerfeedback</string>
   <string name="other_settings_user_experience_summary">Helfen Sie uns, unsere Produkte und Dienstleistungen zu verbessern, indem Sie uns Ihre Nutzungsstatistiken mitteilen.</string>
   <string name="other_settings_user_experience_summary_index">Details anzeigen</string>
-  <string name="other_settings_user_experience_summary1">Datenschutzbestimmungen</string>
+  <string name="other_settings_user_experience_summary1">Datenschutzerklärung</string>
   <string name="page_layout_label">Passen Sie die Schriftgröße und das Layout für den Startbildschirm, die Benachrichtigungsleiste, die Wahltastatur und weiteres an.</string>
   <string name="page_layout_title">Systemlayout</string>
   <string name="pref_title_data_slot">Daten-SIM-Karte</string>
   <string name="pref_title_voice_slot">Telefon-SIM-Karte</string>
-  <string name="privacy_policy">Datenschutzbestimmungen</string>
+  <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="provision_finish_restart">Neustart</string>
-  <string name="provision_inputmethod_policy_description">Datenschutzbestimmung ausgewählter Tastaturen anzeigen</string>
-  <string name="provision_inputmethod_policy_description1">Datenschutzbestimmungen</string>
+  <string name="provision_inputmethod_policy_description">Datenschutzerklärung ausgewählter Tastaturen anzeigen</string>
+  <string name="provision_inputmethod_policy_description1">Datenschutzerklärung</string>
   <string name="setting_locale">Standort wird eingerichtet…</string>
   <string name="shut_down">Schließen</string>
   <string name="sim_card_detecting">SIM-Karte wird überprüft…</string>
@@ -88,10 +88,10 @@
   <string name="summary_sim_card_with_operator">Karte %1$d: %2$s</string>
   <string name="system_navigation_mode">System-Navigationsmodus</string>
   <string name="terms_of_use">Nutzungsbedingungen</string>
-  <string name="terms_of_use_label">"Ihre Privatsphäre ist uns sehr wichtig. Lesen Sie unsere Nutzungsbedingungen und Datenschutzrichtlinien, um zu erfahren, welche Informationen wir sammeln, wie wir sie verwenden und welche Möglichkeiten Ihnen zur Verfügung stehen.
-Sie müssen unseren Nutzungsbedingungen und Datenschutzrichtlinien zustimmen, bevor Sie MIUI nutzen können. %s und Mi Account Komponenten werden sich mit dem Internet verbinden und Ihren Standort erwerben.</string>
-  <string name="terms_of_use_label_gms">"Ihre Privatsphäre ist uns sehr wichtig. Lesen Sie unsere allgemeinen Geschäftsbedingungen und Datenschutzrichtlinien, um zu verstehen, welche Informationen wir sammeln, wie wir sie verwenden und welche Wahlmöglichkeiten Ihnen zur Verfügung stehen.
-Sie müssen unseren allgemeinen Geschäftsbedingungen und Datenschutzrichtlinien zustimmen, bevor Sie MIUI nutzen können. Mi-Dienste, Mi-SIM-Aktivierungsdienste, Mi-Cloud, Finde Telefon, Startbildschirm, Game-Center, MAB, MIUI-Daemon und MSA-Systemkomponenten, Web-Apps, App-Tresor, Statistiken, Smartcards, Mi-Link, Mi-Konto und Google-Play-Dienstekomponenten werden eine Verbindung zum Internet herstellen und Ihren Standort erfassen.</string>
+  <string name="terms_of_use_label">"Ihre Privatsphäre ist uns sehr wichtig. Lesen Sie unsere Nutzungsbedingungen und Datenschutzerklärung, um zu erfahren, welche Informationen wir sammeln, wie wir sie verwenden und welche Möglichkeiten Ihnen zur Verfügung stehen.
+Sie müssen unseren Nutzungsbedingungen und Datenschutzerklärung zustimmen, bevor Sie MIUI nutzen können. %s und Mi Account Komponenten werden sich mit dem Internet verbinden und Ihren Standort erwerben.</string>
+  <string name="terms_of_use_label_gms">"Ihre Privatsphäre ist uns sehr wichtig. Lesen Sie unsere allgemeinen Geschäftsbedingungen und Datenschutzerklärung, um zu verstehen, welche Informationen wir sammeln, wie wir sie verwenden und welche Wahlmöglichkeiten Ihnen zur Verfügung stehen.
+Sie müssen unseren allgemeinen Geschäftsbedingungen und Datenschutzerklärung zustimmen, bevor Sie MIUI nutzen können. Mi-Dienste, Mi-SIM-Aktivierungsdienste, Mi-Cloud, Finde Telefon, Startbildschirm, Game-Center, MAB, MIUI-Daemon und MSA-Systemkomponenten, Web-Apps, App-Tresor, Statistiken, Smartcards, Mi-Link, Mi-Konto und Google-Play-Dienstekomponenten werden eine Verbindung zum Internet herstellen und Ihren Standort erfassen.</string>
   <string name="terms_of_use_label_systemhelper">, Selbstregistrierter Dienst</string>
   <string name="terms_of_use_lable_apps">Mi-Dienste, Mi SIM-Aktivierungsdienste, Mi Cloud, Gerät suchen, Startbildschirm, Game Center, MAB, MIUI Daemon und MSA-Systemkomponenten, Übersetzungsdienste, Quick Apps, App Vault, Statistiken, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">Sie müssen der Datenschutzerklärung von Facemoji zustimmen, bevor Sie diese Funktion nutzen können.</string>
