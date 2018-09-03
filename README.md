@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This repository contains the german translation of the MIUI V10 Weekly ROM Releases from [xiaomi.eu](http://xiaomi.eu/community/forums/103/) and other MIUI custom ROMs.
+This repository contains the german translation of the MIUI V10 Weekly ROM Releases from [xiaomi.eu](https://xiaomi.eu/community/forums/miui-rom-releases.103/) and other MIUI custom ROMs.
 
 All strings were translated by the community - special thanks go to:
 
@@ -16,7 +16,7 @@ Benny1995, berlinux2016, bReathl3sS, cpu82, energY8989, FireEmerald, he-leon, He
 
 ## Reporting issues
 
-Use the [Github Issue tracker](https://github.com/berlinux2016/MIUI10/issues) to report a bug or the following [forum thread](http://xiaomi.eu/community/threads/28411).
+Use the [Github Issue tracker](https://github.com/berlinux2016/MIUI10/issues) to report a bug or the following [forum thread](https://xiaomi.eu/community/threads/miui-10-neue-strings-mithilfe-gesucht.44394/).
 
 
 ## Submitting fixes
