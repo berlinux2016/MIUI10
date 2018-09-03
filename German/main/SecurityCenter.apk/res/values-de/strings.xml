@@ -404,7 +404,11 @@ Sie verlieren keine Appdaten."</string>
   <string name="auto_task_operation_open_string">%s einschalten</string>
   <string name="auto_task_operation_string_modify">Bearbeiten</string>
   <string name="auto_task_operation_sync">Sync</string>
+<<<<<<< HEAD
   <string name="auto_task_result_summary_text">Automatische Aufgaben fürs Stromsparen einstellen</string>
+=======
+  <string name="auto_task_result_summary_text">Automatisierte Aufgaben für den Energiesparer einstellen</string>
+>>>>>>> 0818f1a6827b96f3b4595e98f6fe52d4211aff83
   <string name="autosetmode">Automatische Aktualisierungen</string>
   <string name="back">Zurück</string>
   <string name="back_app_name">Zurück zur Appsperre</string>
@@ -930,7 +934,13 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
 • Wenn Sie möchten, dass eine App im Hintergrund ausgeführt wird, sperren Sie sie in Recents oder fügen sie zu den unten aufgeführten Hintergrundausnahmen hinzu. Bis zu 4 Apps können im Hintergrund ausgeführt werden, wenn Extremes Stromsparen aktiviert ist.
 • Extremes Stromsparen schaltet NFC standardmäßig aus. Sie können dies in den Einstellungen ändern.
 • Um sicherzustellen, dass Sie alle Funktionen Ihres Geräts normal nutzen können, wird Extremes Stromsparen automatisch ausgeschaltet, wenn Ihr Akku zu 30%% geladen ist."</string>
-  <string name="extreme_power_save_mode_card_summary">Extremmodus einschalten, um Strom zu sparen, wenn der Akku leer wird</string>
+<<<<<<< HEAD
+  <string name="extreme_power_save_mode_card_summary">Extremmodus einschalten, um Strom zu sparen, wenn der Akku schwach ist</string>
+=======
+  <string name="extreme_add_white_list_title">Ausnahmen im Hintergrund</string>
+  <string name="extreme_add_white_list_summary">Bis zu 4 Apps hinzufügen</string>
+  <string name="extreme_power_save_mode_card_summary">Extremmodus einschalten, um Energie zu sparen, bevor der Akku leer wird.</string>
+>>>>>>> 0818f1a6827b96f3b4595e98f6fe52d4211aff83
   <string name="fast_open_dialog_message">Nachdem Sie den Speed-Modus aktiviert haben, öffnet das System automatisch die rote Umschlagseite, um rote Pakete schneller und bequemer zu erhalten.</string>
   <string name="fast_open_dialog_message_summary">Hinweis: Es wird empfohlen, den Schnellzugriffsmodus von Navigations-, Video- und Spielanwendungen zu schließen, um den normalen Betrieb der Anwendung nicht zu beeinträchtigen. Der Bildschirmstatus des Telefons wird nicht rot dargestellt.</string>
   <string name="fast_open_dialog_ok">Öffnen</string>
@@ -1832,8 +1842,12 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="pay_charge">Weitere Daten erwerben</string>
   <string name="pc_activity_title">Akku optimieren</string>
   <string name="pc_install_manager">Installation via USB</string>
+<<<<<<< HEAD
+  <string name="pc_settings_title">Akkuverbrauchseinstellungen</string>
+=======
   <string name="pc_main_activity_back">Zurück</string>
   <string name="pc_settings_title">Einstellungen Akkuverbrauch</string>
+>>>>>>> 0818f1a6827b96f3b4595e98f6fe52d4211aff83
   <string name="pc_to_phone_install">Installation von %s via USB blockiert</string>
   <string name="per_month_pkg_traffic_settings">Datenlimit festlegen</string>
   <string name="permission_action_accept">Akzeptieren</string>
@@ -1878,6 +1892,33 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="power_auto_save_title">Stromsparen</string>
   <string name="power_autorun_apps_empty">Keine Autostart-Apps</string>
   <string name="power_bluetooth">Bluetooth</string>
+<<<<<<< HEAD
+  <string name="power_center_hints_scan_danger_result">Akkuprobleme jetzt beheben</string>
+  <string name="power_center_list_item_auto_brightness">Bildschirmhelligkeit autom. anpassen</string>
+  <string name="power_center_list_item_close_bluetooth">Bluetooth ausschalten</string>
+  <string name="power_center_list_item_deep_save_title">Erweiterte Einstellungen</string>
+  <string name="power_center_list_item_set_lockscreen_time">Bildschirm nach 30 Sekunden Inaktivität in den Ruhezustand versetzen</string>
+  <string name="power_center_main_percent_formatted">%s%%</string>
+  <string name="power_center_scan_item_title_GPS">GPS-Genauigkeit anpassen</string>
+  <string name="power_center_scan_item_title_abnormal">Akkuprobleme</string>
+  <string name="power_center_scan_item_title_abnormal_apps">App mit anormalem Stromverbrauch</string>
+  <string name="power_center_scan_item_title_auto_invoke">Kettenstart</string>
+  <string name="power_center_scan_item_title_battery_details">Details Akkuverbrauch</string>
+  <string name="power_center_scan_item_title_brightness">Bildschirmhelligkeit anpassen</string>
+  <string name="power_center_scan_item_title_clean_memory">Speicher löschen</string>
+  <string name="power_center_scan_item_title_hide">Akkuverbrauch verwalten</string>
+  <string name="power_center_scan_item_title_power_saver">Stromsparen einschalten</string>
+  <string name="power_center_scan_item_title_running_app">Im Hintergrund laufende Apps</string>
+  <string name="power_center_scan_result_safe">Keien Akkuprobleme gefunden</string>
+  <string name="power_center_stop_scan_title">Scannen stoppen</string>
+  <string name="power_save_started_summary_text">Stromsparen ist eingeschaltet. Es reduziert die Hintergrundaktivität von Apps, stoppt die Synchronisation und minimiert Systemanimationen.</string>
+  <string name="power_consume_rank_hardware">Hardware</string>
+  <string name="power_consume_rank_software">Apps</string>
+  <string name="power_consume_software_total_format">Apps: %s</string>
+  <string name="power_dialog_ok">OK</string>
+  <string name="power_wifi">WLAN</string>
+=======
+>>>>>>> 0818f1a6827b96f3b4595e98f6fe52d4211aff83
   <string name="power_btn_analyze">Akkuverbrauch analysieren</string>
   <string name="power_button_delete">Löschen</string>
   <string name="power_cell">Standby</string>
@@ -1890,27 +1931,28 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="power_center_consume_time">%1$s verbleibend</string>
   <string name="power_center_custom_summary_default">Optimierte Einstellungen sparen Energie</string>
   <string name="power_center_custom_title">Energieprofile</string>
-  <string name="power_center_hints_scan_danger_result">Akkuprobleme jetzt beheben</string>
-  <string name="power_center_list_item_auto_brightness">Bildschirmhelligkeit autom. anpassen</string>
+  <string name="power_center_hints_scan_danger_result">Sie können jetzt Akkuprobleme beheben</string>
+  <string name="power_center_list_item_auto_brightness">Automatische Anpassung der Bildschirmhelligkeit</string>
   <string name="power_center_list_item_close_bluetooth">Bluetooth ausschalten</string>
   <string name="power_center_list_item_deep_save_title">Erweiterte Einstellungen</string>
   <string name="power_center_list_item_set_lockscreen_time">Bildschirm nach 30 Sekunden Inaktivität in den Ruhezustand versetzen</string>
   <string name="power_center_low_battery_summary_default">Profil wechseln, wenn der Akkustand niedrig ist</string>
   <string name="power_center_low_battery_title">Stromsparen</string>
+  <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_on_time_summary_default">Profil zur geplanten Zeit wechseln</string>
   <string name="power_center_on_time_title">Geplanter Wechsel</string>
   <string name="power_center_ontime_boot">Nach Zeitplan einschalten</string>
   <string name="power_center_ontime_shutdown">Nach Zeitplan ausschalten</string>
   <string name="power_center_repeat">Wiederholen</string>
-  <string name="power_center_scan_item_title_GPS">GPS-Genauigkeit anpassen</string>
   <string name="power_center_scan_item_title_abnormal">Akkuprobleme</string>
-  <string name="power_center_scan_item_title_abnormal_apps">App mit anormalem Stromverbrauch</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Abnormale Stromverbrauchsapp</string>
   <string name="power_center_scan_item_title_auto_invoke">Kettenstart</string>
-  <string name="power_center_scan_item_title_battery_details">Details Akkuverbrauch</string>
-  <string name="power_center_scan_item_title_brightness">Bildschirmhelligkeit anpassen</string>
+  <string name="power_center_scan_item_title_battery_details">Angaben zum Akkuverbrauch</string>
+  <string name="power_center_scan_item_title_brightness">Anpassen der Bildschirmhelligkeit</string>
   <string name="power_center_scan_item_title_clean_memory">Speicher löschen</string>
+  <string name="power_center_scan_item_title_GPS">GPS-Genauigkeit anpassen</string>
   <string name="power_center_scan_item_title_hide">Akkuverbrauch verwalten</string>
-  <string name="power_center_scan_item_title_power_saver">Stromsparen einschalten</string>
+  <string name="power_center_scan_item_title_power_saver">Energiesparer einschalten</string>
   <string name="power_center_scan_item_title_running_app">Im Hintergrund laufende Apps</string>
   <string name="power_center_scan_result_safe">Keine Akkuprobleme gefunden</string>
   <string name="power_center_state_off">Aus</string>
@@ -1919,7 +1961,6 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="power_center_time_to_boot">Zeit zum Einschalten</string>
   <string name="power_center_time_to_shutdown">Zeit zum Ausschalten</string>
   <string name="power_center_title">Akkuverbrauch</string>
-  <string name="power_save_started_summary_text">Stromsparen ist eingeschaltet. Es reduziert die Hintergrundaktivität von Apps, stoppt die Synchronisation und minimiert Systemanimationen.</string>
   <string name="power_chooser_check_box_summary">Wählen Sie ein Energieprofil, um die Akkulaufzeit erhöhen</string>
   <string name="power_chooser_check_box_title">Profil auswählen</string>
   <string name="power_chooser_mine_summary">Eigenes Energieprofil</string>
