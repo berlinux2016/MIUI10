@@ -198,6 +198,7 @@
   <string name="accessibility_quick_settings_open_settings">%s-Einstellungen öffnen</string>
   <string name="accessibility_quick_settings_page">Seite %1$d von %2$d</string>
   <string name="accessibility_quick_settings_rotation">Bildschirm automatisch drehen</string>
+  <string name="accessibility_quick_settings_rotation_value">%s-Modus</string>
   <string name="accessibility_quick_settings_settings">Einstellungen öffnen</string>
   <string name="accessibility_quick_settings_user">Angemeldet als %s</string>
   <string name="accessibility_quick_settings_wifi">%1$s</string>
@@ -908,7 +909,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="kg_invalid_confirm_pin_hint">PIN-Codes stimmen nicht überein</string>
   <string name="kg_invalid_puk">Geben Sie den richtigen PUK-Code ein. Bei wiederholten Versuchen wird die SIM-Karte dauerhaft deaktiviert.</string>
   <string name="kg_invalid_sim_pin_hint">Geben Sie eine 4- bis 8-stellige PIN ein</string>
-  <string name="kg_invalid_sim_puk_hint">PUK-Code muss mindestens 8 Ziffern haben</string>
+  <string name="kg_invalid_sim_puk_hint">PUK-Code sollte aus 8 Ziffern bestehen</string>
   <string name="kg_login_too_many_attempts">Zu viele Musterversuche</string>
   <string name="kg_password_instructions">Kennwort eingeben</string>
   <string name="kg_password_pin_failed">SIM-PIN Vorgang fehlgeschlagen!</string>

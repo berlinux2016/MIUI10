@@ -2602,6 +2602,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="handy_mode_enter_ask">Vor Einschalten des Einhandmodus fragen</string>
   <string name="handy_mode_size">Bildschirmgröße</string>
   <string name="handy_mode_tips">Wischen Sie von der Hometaste aus nach links oder rechts, um den Einhandmodus zu aktivieren</string>
+  <string name="handy_mode_tips_full_screen">Wenn Sie Vollbildgesten verwenden, können Sie den Einhandmodus im Berührungsassistenten einschalten. Sie können auch auf Schaltflächen anstelle von Vollbildgesten umschalten.</string>
   <string name="haptic_feedback_enable_title">Bei Berührung vibrieren</string>
   <string name="haptic_feedback_level">Vibration</string>
   <string name="hardkeyboard_category">Einstellungen für physische Tastatur</string>
@@ -2733,7 +2734,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="install_no_market_app_summary">Installation von Apps aus anderen Quellen als dem App Store zulassen</string>
   <string name="install_no_market_app_title">Unbekannte Quellen</string>
   <string name="install_other_apps">Installiere unbekannte Apps</string>
-  <string name="install_preinstall_app">Region wird gewechselt…</string>
+  <string name="install_preinstall_app">Region wechseln…</string>
   <string name="install_text">Installieren</string>
   <string name="install_type_instant">Instant App</string>
   <string name="install_unknown_applications">Installation von Apps aus unbekannten Quellen zulassen</string>
@@ -6432,7 +6433,6 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="unlock_set_unlock_mode_off">Keine</string>
   <string name="unlock_set_unlock_mode_password">Passwort</string>
   <string name="unlock_set_unlock_mode_pattern">Muster</string>
-  <string name="unlock_set_unlock_mode_pin">PIN</string>
   <string name="unlock_set_unlock_none_summary">Keine Sicherheit</string>
   <string name="unlock_set_unlock_none_title">Ziehen</string>
   <string name="unlock_set_unlock_off_title">Keine</string>
@@ -6440,8 +6440,7 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="unlock_set_unlock_password_title">Passwort</string>
   <string name="unlock_set_unlock_pattern_summary">Ein einfaches Muster mit dem Finger zeichnen zum Entsperren</string>
   <string name="unlock_set_unlock_pattern_title">Muster</string>
-  <string name="unlock_set_unlock_pin_summary">4 Ziffern eingeben zum Entsperren</string>
-  <string name="unlock_set_unlock_pin_title">PIN</string>
+  <string name="unlock_set_unlock_pin_summary">4-16 Ziffern eingeben zum Entsperren</string>
   <string name="unlock_set_unlock_summary">Bitte Bildschirmsperre einschalten</string>
   <string name="unlock_setup_wizard_fingerprint_details">Sobald Sie eine Bildschirmsperre eingerichtet haben, können Sie Ihren Fingerabdruck unter Einstellungen &gt; Sicherheit einrichten</string>
   <string name="unknown_unavailability_setting_summary">Einstellung nicht verfügbar</string>
