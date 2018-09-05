@@ -386,7 +386,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="app_launch_supported_domain_urls_title">Unterstützte Links</string>
   <string name="app_link_open_always">Diese App öffnen</string>
   <string name="app_link_open_ask">Jedes Mal nachfragen</string>
-  <string name="app_link_open_never">Nicht mit dieser App öffnen</string>
+  <string name="app_link_open_never">Nicht öffnen</string>
   <string name="app_list_memory_use">Appnutzung</string>
   <string name="app_list_preference_none">Keine</string>
   <string name="app_lock_role_instruction">Schützen Sie Ihre privaten Apps</string>
@@ -1775,8 +1775,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="default_apps_title">Standardapps</string>
   <string name="default_assist_none">Keine</string>
   <string name="default_assist_title">Assistenzapp</string>
-  <string name="default_browser_title">Browserapp</string>
-  <string name="default_browser_title_none">Kein Standardbrowser</string>
+  <string name="default_browser_title">Browser</string>
+  <string name="default_browser_title_none">Nicht ausgewählt</string>
   <string name="default_calendar_app_title">Kalenderapp</string>
   <string name="default_contacts_app_title">Kontakteapp</string>
   <string name="default_emergency_app">Notfallapp</string>
@@ -1786,7 +1786,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="default_launcher_title">Standard-Launcher</string>
   <string name="default_map_app_title">Kartenapp</string>
   <string name="default_notification_assistant">Benachrichtigungsassistent</string>
-  <string name="default_phone_title">Telefonapp</string>
+  <string name="default_phone_title">Telefon</string>
   <string name="default_sound">Standardton</string>
   <string name="default_spell_checker">Standardrechtschreibprüfung</string>
   <string name="default_theme">Standard</string>
@@ -2654,7 +2654,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="high_power_system">Akkuoptimierung nicht verfügbar</string>
   <string name="history_details_title">Verlaufsdetails</string>
   <string name="home">Einstellungen Startseite</string>
-  <string name="home_app">Startseitenapp</string>
+  <string name="home_app">Launcher</string>
   <string name="home_app_uninstall_button">Diese App entfernen</string>
   <string name="home_key">Startbildschirm</string>
   <string name="home_settings">Startbildschirm</string>
@@ -3815,7 +3815,7 @@ Betriebssystem auswählen:"</string>
   <string name="no_connected_devices">Keine verbundenen Geräte</string>
   <string name="no_data_usage">Keine Daten verbraucht</string>
   <string name="no_default_apps">Keine Standardapps</string>
-  <string name="no_default_home">Keine Standardstartseite</string>
+  <string name="no_default_home">Nicht ausgewählt</string>
   <string name="no_device_admins">Keine Geräteadministratoren verfügbar</string>
   <string name="no_encrypt_password">Kein Passwort</string>
   <string name="no_internet_access_remember">Für dieses Netzwerk nicht mehr nachfragen</string>
@@ -5610,7 +5610,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="smartcover_lock_or_unlock_screen_tittle">Bildschirm mit Smartcover sperren oder entsperren</string>
   <string name="smartcover_sensitive_summary">Telefon mit Smartcover einfach sperren oder entsperren</string>
   <string name="smartcover_sensitive_title">Smartcovermodus</string>
-  <string name="sms_application_title">Standard SMS-App</string>
+  <string name="sms_application_title">Nachrichten</string>
   <string name="sms_change_default_dialog_text">Verwende %1$s anstelle von %2$s als Ihre SMS-App?</string>
   <string name="sms_change_default_dialog_title">SMS-App wechseln?</string>
   <string name="sms_change_default_no_previous_dialog_text">%s als SMS-App verwenden?</string>
