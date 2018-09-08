@@ -115,6 +115,8 @@
   <string name="auto_payment">Automatisch erneuern</string>
   <string name="auto_payment_date">Nächste Zahlung: %s</string>
   <string name="auto_restart_under_wifi">Diese Datei wird bei WLAN-Verbindung automatisch heruntergeladen</string>
+  <string name="auto_update">Automatisch aktualisieren</string>
+  <string name="auto_update_tip">Sie können Systemapps über mobile Daten aktualisieren. Dies könnte Zusatzkosten verursachen.</string>
   <string name="auto_upgrade">Automatisch aktualisieren</string>
   <string name="avail_services">Verfügbarer Dienst</string>
   <string name="available_playlist_name_format">Neue Wiedergabeliste %d</string>
@@ -296,6 +298,7 @@
   <string name="dialog_not_show_again">Nicht wieder anzeigen</string>
   <string name="dialog_queued_body">Diese Datei wurde in die Warteschlange eingereiht</string>
   <string name="dialog_remove_descript">%s entfernen?</string>
+  <string name="dialog_renew_failure">Sorry, Vorgang fehlgeschlagen</string>
   <string name="dialog_renew_positive_text">JA, ICH WILL WIE EIN PROFI ROCKEN</string>
   <string name="dialog_renew_success">Danke für Ihre Bestätigung</string>
   <string name="dialog_show_more_backup">Lokale Songs sichern</string>
@@ -607,6 +610,10 @@
   <string name="karaoke_title">Einführung in die Karaoke</string>
   <string name="keep_queued_download">Behalten</string>
   <string name="ktv_playlist">KTV Wiedergabeliste</string>
+  <string name="language_page_confirm">Confirm</string>
+  <string name="language_preference">Spracheinstellungen</string>
+  <string name="language_preference_desc">Bevorzugte Sprachen auswählen, um mehr relevante Empfehlungen zu erhalten</string>
+     <string name="languages">Sprachen</string>
   <string name="latest_song">Wiedergabeverlauf (%d)</string>
   <string name="like">Gefällt mir</string>
   <string name="like_comment_failed">Like-Kommentar fehlgeschlagen</string>
@@ -722,6 +729,8 @@
   <string name="music_settings">Musik</string>
   <string name="music_traffic">Musikdatentarif</string>
   <string name="music_traffic_summary">Hören und laden Sie Musik herunter, ohne Daten zu verwenden</string>
+  <string name="mv_metered_play_summary">Keine Datenverbrauchswarnung anzeigen</string>
+  <string name="mv_metered_play_title">Online-Videos mit mobilen Daten abspielen</string>
   <string name="my_account">Mi Konto</string>
   <string name="my_music">Meine Musik</string>
   <string name="my_music_empty">Wiedergabeliste ist leer</string>
@@ -1011,8 +1020,10 @@ Sei glücklich"</string>
   <string name="search_title_singer">Interpreten</string>
   <string name="search_title_song">Titel</string>
   <string name="sel_svc">Dienst auswählen</string>
+  <string name="select">Wählen</string>
   <string name="select_album">Album auswählen</string>
   <string name="select_all">Alle auswählen</string>
+  <string name="select_desc_sub">Sie können bis zu 3 Sprachen wählen</string>
   <string name="select_device">Gerät auswählen</string>
   <string name="select_displayed_folders">Ordner zum Anzeigen auswählen</string>
   <string name="select_local_album">Album auswählen</string>
@@ -1021,7 +1032,9 @@ Sei glücklich"</string>
   <string name="select_local_lyric_file">Lokale Songtextdatei auswählen</string>
   <string name="select_lyric">Songtext auswählen</string>
   <string name="select_none">Alles abwählen</string>
+  <string name="select_one_language">Mind. 1 Sprache wählen</string>
   <string name="select_operation_items">Elemente auswählen</string>
+  <string name="select_three_languages">Sie können bis zu 3 Sprachen wählen</string>
   <string name="selected_count">%1$d von %2$d ausgewählt</string>
   <string name="send_comment">Kommentar</string>
   <string name="send_to">Teilen</string>
@@ -1177,6 +1190,7 @@ Sei glücklich"</string>
   <string name="talkback_show_navigation_draw">Schublade anzeigen</string>
   <string name="task_already_exist">Aufgabe existiert bereits</string>
   <string name="terms_of_service">Allgemeine Geschäftsbedingungen</string>
+  <string name="test_mode">Testmodus</string>
   <string name="ticket_summary">Kaufen Sie Eintrittskarten für Shows, Konzerte, Theaterstücke und andere Veranstaltungen</string>
   <string name="ticket_title">Showeintrittskarten</string>
   <string name="time_to_upgrade">Sie sollten Mi Musik aktualisieren</string>
