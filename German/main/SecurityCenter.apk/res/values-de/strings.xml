@@ -3,8 +3,8 @@
   <string name="about_autostart">Über Autostart</string>
   <string name="ac_enable_title">Appsperre aktivieren</string>
   <string name="ac_enter_applock">Appsperre eingeben</string>
-  <string name="ac_firstUseApplock_subTitle">Verwenden Sie die Appsperre, um Ihre Privatsphäre zu schützen</string>
-  <string name="ac_firstUseApplock_title">Ausgewählte Apps mit einem Muster sperren</string>
+  <string name="ac_firstUseApplock_subTitle">Bessere Sicherheitstools auf Systemebene verwenden</string>
+  <string name="ac_firstUseApplock_title">Apps mit einem Passwort schützen</string>
   <string name="ac_mask_all_apps">Für alle Apps ausblenden</string>
   <string name="ac_notification_contentText">Zum Einschalten tippen</string>
   <string name="ac_notification_contentTitle">Apps mit App-Lock schützen</string>
@@ -238,7 +238,7 @@
   <string name="app_manager_perm_monitor_read_contacts">Kontakte lesen</string>
   <string name="app_manager_perm_monitor_read_sms">SMS lesen</string>
   <string name="app_manager_perm_monitor_send_sms">SMS senden</string>
-  <string name="app_manager_permission">Mit der Privatsphäre verbundende Rechte (letzte 7 Tage)</string>
+  <string name="app_manager_permission">Mit Datenschutz verbundende Rechte (letzte 7 Tage)</string>
   <string name="app_manager_permission_call_phone_over">Anrufe 100000+ mal gewählt</string>
   <string name="app_manager_permission_manager_title">Rechte</string>
   <string name="app_manager_permission_notify_summary">Abzeichen und schwebende Sperrbildschirmbenachrichtigungen</string>
@@ -313,7 +313,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="application_item_disable">Eingeschränkt</string>
   <string name="applock_add_account">Hinzufügen</string>
   <string name="applock_add_account_info">Mi Konto hinzufügen, um Ihr Passwort zurücksetzen zu können, falls Sie es vergessen</string>
-  <string name="applock_add_account_setting">Konto &amp; Privatsphäre</string>
+  <string name="applock_add_account_setting">Konto &amp; Datenschutz</string>
   <string name="applock_bind_account_title">Passwort zurücksetzen</string>
   <string name="applock_close_dialog_summary">Alle versteckten Apps werden sichtbar, ihre Startbildschirmverknüpfungen werden wiederhergestellt und Ihr Appsperre-Passwort wird gelöscht. Appsperre ausschalten?</string>
   <string name="applock_close_dialog_title">Appsperre deaktivieren?</string>
@@ -1175,7 +1175,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="handle_title_details">Details Akkuverbrauch</string>
   <string name="handle_title_network">WLAN-Sicherheit</string>
   <string name="handle_title_pay_env">"Zahlungsumgebung"</string>
-  <string name="handle_title_privacy">Privatsphäre &amp; Sicherheit</string>
+  <string name="handle_title_privacy">Sicherheit &amp; Datenschutz</string>
   <string name="handle_title_system">Akkuverbrauch System</string>
   <string name="header_antivirus">Diese Funktion verschlüsselt Ihre Geräte-ID und sendet Sie dann an Tencent (%s)</string>
   <string name="help_label">Hilfe</string>
@@ -1271,7 +1271,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="keywords_antispam">Sperrliste;Block;Schwarze Liste;Smart Blocklist;Betrug;Sales;Agents</string>
   <string name="keywords_antivirus">Virus;Risiko;Antivirus;Scan</string>
   <string name="keywords_app_permissions">Berechtigungen;Standort;Zugriff auf Kontakte;Berechtigungen;Appberechtigungen</string>
-  <string name="keywords_applicationlock">Passwort;Privatsphäre;Appsperre;Zugriff;Sicherung</string>
+  <string name="keywords_applicationlock">Passwort;Datenschutz;Privatsphäre;Appsperre;Zugriff;Sicherung</string>
   <string name="keywords_auto_restart">Autostart;Berechtigungen;Autostart;Autostart;Autostart verwalten;MIUI Autostart;App Autostart;Autostart Apps;Verketteter Start;Startverkettung;ausgelöster Start</string>
   <string name="keywords_buy_flow">Daten;Mobile Daten;Daten kaufen;Mobile Daten kaufen;Daten aufladen;Datenplan</string>
   <string name="keywords_cleanmaster">Müll;Löschen;Bereinigen;Geschwindigkeit;Speicher;Cache</string>
@@ -1286,7 +1286,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters.
   <string name="keywords_powercenter">Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain</string>
   <string name="keywords_powercenter_powerrank">Akkunutzung</string>
   <string name="keywords_securitycenter">Sicherheit;Physikalische Prüfung;Scannen</string>
-  <string name="keywords_securitycenter_settings">Stromsparen;Berechtigung;Sperrliste;Datenverbrauch;Datentarif;Daten sparen;Netzwerktest;Appsperre;Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte;Betrug;Sales;Agents;Daten;Verkehr;Calibrate;Sparen;Verbindung;Internet;Test;Passwort;Privatsphäre;Zugruff;Sicherheit</string>
+  <string name="keywords_securitycenter_settings">Stromsparen;Berechtigung;Sperrliste;Datenverbrauch;Datentarif;Daten sparen;Netzwerktest;Appsperre;Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte;Betrug;Sales;Agents;Daten;Verkehr;Calibrate;Sparen;Verbindung;Internet;Test;Passwort;Datenschutz;Privatsphäre;Zugriff;Sicherheit</string>
   <string name="keywords_usb_install">USB installieren;vom Computer installieren;mit ADB installieren</string>
   <string name="label_callwait">Anrufbenachrichtigung</string>
   <string name="label_mi_stats">Mi Statistik</string>
@@ -2172,7 +2172,7 @@ Versuchen Sie, ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermut
   <string name="pref_traffic_saving_auto_add_whitelist">Datenverbrauch für neue Apps reduzieren</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Datenreduzierung für neu installierte Apps automatisch aktivieren</string>
   <string name="pref_traffic_saving_compressed">Komprimiert</string>
-  <string name="pref_traffic_saving_issue_content">"<b>Wirkt sich die Datenreduzierung auf meine Privatsphäre aus?</b>
+  <string name="pref_traffic_saving_issue_content">"<b>Wirkt sich die Datenreduzierung auf den Datenschutz aus?</b>
 Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben.
 <b>Warum funktioniert die Datenreduzierung nicht?</b>
 Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen."</string>
@@ -2643,7 +2643,7 @@ Diese Funktion wird für Systemapps nicht unterstützt."</string>
   <string name="suggest_scan_again">Vollständiger Scan empfohlen, um die Sicherheit zu gewährleisten</string>
   <string name="summary_antivirus">Appnamen sowie Appdetails hochladen und online prüfen</string>
   <string name="summary_antivirus_oversea">Virusdefinitionen automatisch aktualisieren</string>
-  <string name="summary_app_lock_disable">Apps sperren, um Ihre Privatsphäre zu schützen</string>
+  <string name="summary_app_lock_disable">Schützen Sie Ihre Daten mit Appsperren</string>
   <string name="summary_auto_update">MIUI wird die am besten geeignete Zeit wählen, um Updates herunterzuladen und zu installieren</string>
   <string name="summary_background_connection">Sie haben die Hintergrundverbindung für diese App eingeschränkt.</string>
   <string name="summary_block_calls_from_cantacts">Anrufe von Kontakten werden blockiert.</string>
@@ -2678,7 +2678,7 @@ Diese Funktion wird für Systemapps nicht unterstützt."</string>
   <string name="summary_network_switch">Sicherheitsapp Zugriff auf das Internet genehmigen</string>
   <string name="summary_never_flow_verify">Diese Nummer wurde von Ihrem Anbieter nicht geprüft</string>
   <string name="summary_payment_risk">Anscheinend ist die Zahlungsumgebung nicht sicher</string>
-  <string name="summary_permission">Privatsphäre vor Drittanbieterapps schützen</string>
+  <string name="summary_permission">Unerwünschte Zahlungen vermeiden und personenbezogene Daten schützen</string>
   <string name="summary_permission_root">Ihr Telefon und Ihre persönlichen Daten sind weniger vor Apps mit Rootzugriff geschützt</string>
   <string name="summary_power_optimizer">Reduziert die Leistung, wenn der Akkustand niedrig ist</string>
   <string name="summary_realname_verify">Verifizieren Sie Ihre Identität, um Zahlungen sicherer zu machen</string>
