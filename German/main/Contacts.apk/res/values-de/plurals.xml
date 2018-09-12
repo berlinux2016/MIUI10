@@ -70,6 +70,10 @@
     <item quantity="other">SIM-Karte kann %d Kontakte speichern.</item>
     <item quantity="one">SIM-Karte kann Kontakt speichern.</item>
   </plurals>
+  <plurals name="foundTooManyContacts_plurals">
+   <item quantity="other">Mehr als %d Kontakte gefunden.</item>
+   <item quantity="one">Mehr als %d Kontakt gefunden.</item>
+  </plurals>
   <plurals name="group_add_success_toast">
     <item quantity="other">" %1$d Kontakte hinzugefügt"</item>
     <item quantity="one">Kontakt hinzugefügt</item>
@@ -115,6 +119,10 @@
   <plurals name="listTotalPhoneContacts">
     <item quantity="other">%d Kontakte mit Telefonnummern</item>
     <item quantity="one">Kontakt mit Telefonnummer</item>
+  </plurals>
+  <plurals name="merge_contact_message_plurals">
+    <item quantity="other">%1$d Kontakte mit teilweise identischen Informationen</item>
+    <item quantity="one">%1$d Kontakt mit teilweise identischen Informationen</item>
   </plurals>
   <plurals name="merge_info">
     <item quantity="other">aus %0$d Quellen zusammengeführt</item>
@@ -164,6 +172,14 @@
   <plurals name="searchFoundContacts">
     <item quantity="other">%d gefunden</item>
     <item quantity="one">einen gefunden</item>
+  </plurals>
+  <plurals name="select_all_exceed_plurals">
+    <item quantity="other">Nicht mehr als %1$d auswählen, kann nicht alle auswählen</item>
+    <item quantity="one">Nicht mehr als %1$d auswählen, kann nicht alle auswählen</item>
+  </plurals>
+  <plurals name="select_exceed_plurals">
+    <item quantity="other">Nicht mehr als %1$d auswählen</item>
+    <item quantity="one">Nicht mehr als %1$d auswählen</item>
   </plurals>
   <plurals name="smart_group_member_count">
     <item quantity="other">%d Kontakte</item>
