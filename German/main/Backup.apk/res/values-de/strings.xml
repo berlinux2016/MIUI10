@@ -140,7 +140,7 @@
   <string name="feature_title_antispam">Blockierliste</string>
   <string name="feature_title_call_log">Anrufverlauf</string>
   <string name="feature_title_contacts">Kontakte</string>
-  <string name="feature_title_sms">Nachrichten</string>  
+  <string name="feature_title_sms">Nachrichten</string>
   <string name="file_uploading">Hochladen…</string>
   <string name="files_backup_info">Alle Dateien auf der SD-Karte (inkl. Fotos, Musik, Videos, Appdaten, usw.)</string>
   <string name="findlost_contact">Kontakte wiederherstellen</string>
@@ -195,7 +195,7 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="import_from_xiaomi_account_hint_title">Mi Talk verwenden, um Kontakte auf anderen Geräten wiederherzustellen</string>
   <string name="import_tip_summary">Wegen Kompatibilitätsproblemen können Sie nur Teildaten von iOS-Geräten übertragen. Stellen Sie sicher, dass Sie vor dem Start der Übertragung ein iCloud-Backup erstellen.</string>
   <string name="lack_perm_msg">Mi Mover benötigt die folgenden Berechtigungen: &lt;b&gt;%s&lt;/b&gt;.</string>
-  <string name="lack_perm_title">Erforderliche Berechtigungen</string>  
+  <string name="lack_perm_title">Erforderliche Berechtigungen</string>
   <string name="list_footer_tip_title">Tipps:</string>
   <string name="loading_data">Lade Daten</string>
   <string name="local_app_name">Sicherungen</string>
@@ -383,6 +383,7 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="trans_calculating_media_description">Medien-Dateien</string>
   <string name="trans_calculating_tip">Berechnen %s…</string>
   <string name="trans_cancel_confirm">Übertragung läuft. Jetzt abbrechen?</string>
+  <string name="trans_cancel_dialog_survey_title">Warum wurde der Transfer unterbrochen?</string>
   <string name="trans_cancel_selection_message">Wenn Sie Mi Mover verlassen, wird der laufende Transfer unterbrochen. Warten Sie, bis die Übertragung abgeschlossen ist.</string>
   <string name="trans_cancel_selection_title">In Mi Mover bleiben</string>
   <string name="trans_cancelling">Abbrechen…</string>
@@ -418,6 +419,7 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="trans_device_auto_reconnecting">Verbindung abgebrochen. Automatisch erneut verbinden…</string>
   <string name="trans_device_disconnected">Verbindung wurde getrennt</string>
   <string name="trans_device_wait_for_reconnecting">Verbindung wurde getrennt. Erneut verbinden, um fortzufahren.</string>
+  <string name="trans_dialog_survey_finish">Senden</string>
   <string name="trans_disconnected_tips_message">Remote-Gerät getrennt. Verbindung manuell erneut herstellen oder Übertragung abbrechen.</string>
   <string name="trans_disconnected_tips_title">Remote-Gerät getrennt</string>
   <string name="trans_failed_details_page_title">Erfolglose Übertragungen</string>
@@ -530,10 +532,13 @@ Wählen Sie nur wichtige Elemente aus, um die Übertragung zu beschleunigen."</s
   <string name="trans_show_qr_code_label">Altes Gerät verbinden</string>
   <string name="trans_show_qr_code_tips">QR-Code mit Ihrem alten Gerät scannen</string>
   <string name="trans_start_failed_message">Start der Übertragung fehlgeschlagen, bitte erneut versuchen oder neu starten</string>
-  <string name="trans_start_failed_title">Start der Übertragung fehlgeschlagen</string> 
+  <string name="trans_start_failed_title">Start der Übertragung fehlgeschlagen</string>
+  <string name="trans_success_dialog_button_market_comment">Kommentar</string>
   <string name="trans_success_dialog_button_market_favourable_comment">Bewerten Sie Mi Mover</string>
   <string name="trans_success_dialog_market_comment_title">Ihr neues Gerät fühlt sich jetzt wie zu Hause an.
 Mögen Sie Mi Mover?"</string>
+  <string name="trans_success_dialog_survey_title">Wir freuen uns über Ihr Feedback</string>
+  <string name="trans_success_survey_hint">Zuerst alle Felder ausfüllen.</string>
   <string name="trans_switching_5g">Umschalten auf 5 GHz WLAN…</string>
   <string name="trans_time_format_second">Weniger als eine Minute</string>
   <string name="trans_time_spent">Verbleibende Zeit: %s</string>
