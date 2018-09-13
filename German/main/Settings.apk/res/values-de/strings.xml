@@ -1152,6 +1152,9 @@ Abtastrate"</string>
   <string name="bootloader_device_bind_msg">Gerät und Konto hinzufügen wird vorbereitet…</string>
   <string name="bootloader_device_bind_no_account">Melden Sie sich zuerst an Ihrem Mi Konto an</string>
   <string name="bootloader_device_bind_no_network">Verbinden Sie sich mit einem Netzwerk und versuchen Sie es erneut</string>
+  <string name="bootloader_device_bind_no_data_network">Schalten Sie WLAN aus und fügen Sie Ihr Konto und Gerät mit Hilfe mobiler Daten hinzu.</string>
+  <string name="bootloader_device_bind_server_token_expired_1">Konnte nicht überprüfen. Versuchen Sie, Ihr Konto und Gerät erneut hinzuzufügen.</string>
+  <string name="bootloader_device_bind_server_token_expired_2">Konnte nicht überprüfen. Melden Sie sich erneut bei Ihrem Konto an und beginnen Sie von vorne.</string>
   <string name="bootloader_locked_answer_1">Wir sperren Geräte, um sicher zu gehen, dass Ihre Daten nicht an Dritte weitergegeben werden. Falls Sie in den Fastbootmodus wechseln möchten, um Ihr Gerät zu flashen, können Sie es entsperren.</string>
   <string name="bootloader_locked_answer_1_warning">Bedenken Sie: Sie können \"Gerät finden\" nicht mehr verwenden, nachdem Sie Ihr Gerät entsperrt haben</string>
   <string name="bootloader_locked_answer_2">"1. Stellen Sie sicher, dass Sie bereits eine SIM-Karte in Ihr Gerät eingelegt haben.
@@ -2329,8 +2332,8 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="failed_description">Fehlgeschlagen</string>
   <string name="failed_to_check_find_device_status_content">Gerätelokalisierungsstatus konnte nicht überprüft werden. Warten Sie einen Moment und versuchen es dann erneut.</string>
   <string name="failed_to_check_find_device_status_title">Gerätelokalisierungsstatus konnte nicht überprüft werden</string>
-  <string name="failed_to_erase_text">Bitte Passwort für den Sperrbildschirm ausschalten, bevor Sie die Funktion 1217 ausführen.</string>
-  <string name="failed_to_erase_title">Verbotene Operation</string>
+  <string name="failed_to_erase_text">Bitte Passwort für den Sperrbildschirm ausschalten, bevor Sie die Funktion \"1217\" eingeben.</string>
+  <string name="failed_to_erase_title">Aktion kann nicht abgeschlossen werden</string>
   <string name="failed_to_open_app_settings_toast">Einstellungen öffnen für %1$s fehlgeschlagen</string>
   <string name="failed_to_shut_down_find_device_content">Gerätelokalisierung konnte nicht deaktiviert werden. Warten Sie einen Moment und versuchen es dann erneut.</string>
   <string name="failed_to_shut_down_find_device_title">Gerätelokalisierung konnte nicht deaktiviert werden</string>
