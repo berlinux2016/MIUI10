@@ -1,4 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!-- Datei kann gelöscht werden, kein Unterschied zum englischen Original -->
+    <string-array name="trans_succeed_survey_title">
+        <item>Gesamtbewertung</item>
+        <item>Dauer der Übertragung</item>
+        <item>Einfachheit des Prozesses</item>
+        <item>Klarheit der Anweisungen</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Sehr unzufrieden</item>
+        <item>Etwas unzufrieden</item>
+        <item>Neutral</item>
+        <item>Etwas zufriedenstellend</item>
+        <item>Sehr zufrieden</item>
+    </string-array>
+    <string-array name="trans_cancel_survey_title">
+        <item>Übertragung dauert zu lange</item>
+        <item>Verbindung wurde unterbrochen</item>
+        <item>Ich habe falsche Elemente zum Übertragen ausgewählt.</item>
+        <item>Zu viele Schritte</item>
+        <item>Akku meines Telefons ist schwach.</item>
+        <item>Übertragene Elemente sind beschädigt.</item>
+        <item>Ich habe die Übertragung versehentlich gestartet.</item>
+        <item>Sonstiges</item>
+    </string-array>
 </resources>
