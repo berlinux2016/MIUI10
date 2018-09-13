@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="abbrev_a_hour_ago">
-    <item quantity="other">vor einer Stunde</item>
-  </plurals>
-  <plurals name="abbrev_half_hour_ago">
-    <item quantity="other">vor einer halben Stunde</item>
-  </plurals>
-  <plurals name="abbrev_in_a_hour">
-    <item quantity="other">in einer Stunde</item>
-  </plurals>
-  <plurals name="abbrev_in_half_hour">
-    <item quantity="other">in einer halben Stunde</item>
-  </plurals>
   <plurals name="abbrev_in_less_than_one_minute">
     <item quantity="other">sofort</item>
   </plurals>
-  <plurals name="abbrev_in_num_minutes">
-    <item quantity="other">in %d Minuten</item>
-    <item quantity="one">in einer Minute</item>
-  </plurals>
   <plurals name="abbrev_less_than_one_minute_ago">
     <item quantity="other">"gerade eben"</item>
-  </plurals>
-  <plurals name="abbrev_num_minutes_ago">
-    <item quantity="other">"vor %d Minuten "</item>
-    <item quantity="one">vor einer Minute</item>
   </plurals>
   <plurals name="batch_delete_msg">
     <item quantity="other">%d Kontakte löschen?</item>
@@ -78,9 +58,6 @@
     <item quantity="other">" %1$d Kontakte hinzugefügt"</item>
     <item quantity="one">Kontakt hinzugefügt</item>
   </plurals>
-  <plurals name="group_copy_success_toast">
-    <item quantity="other">%1$d Kontakte kopiert</item>
-  </plurals>
   <plurals name="group_list_num_contacts_in_group">
     <item quantity="other">%1$d Kontakte</item>
     <item quantity="one">einen Kontakt</item>
@@ -88,9 +65,6 @@
   <plurals name="group_list_num_numbers_in_group">
     <item quantity="other">%1$d Nummern</item>
     <item quantity="one">eine Nummer</item>
-  </plurals>
-  <plurals name="group_move_success_toast">
-    <item quantity="other">%1$d Kontakte verschoben</item>
   </plurals>
   <plurals name="hint_account_contacts">
     <item quantity="other">%1$d Einträge gefunden</item>
@@ -183,10 +157,6 @@
   </plurals>
   <plurals name="smart_group_member_count">
     <item quantity="other">%d Kontakte</item>
-    <item quantity="one">einen Kontakt</item>
-  </plurals>
-  <plurals name="voip_contacts_count">
-    <item quantity="other">%1$d Kontakte</item>
     <item quantity="one">einen Kontakt</item>
   </plurals>
 </resources>

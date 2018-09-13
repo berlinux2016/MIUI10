@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="back_description">Zurück</string>
   <string name="accessibility_calllog_detail">Anruflistendetails</string>
   <string name="accessibility_contact_detail">Kontaktdetails</string>
   <string name="account_container_title">Importiert von</string>
@@ -44,19 +43,16 @@
   <string name="audio_chat">Sprachchat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
+  <string name="back_description">Zurück</string>
   <string name="back_view_description">Zurück</string>
   <string name="batch_delete">Mehrere löschen</string>
-  <string name="batch_delete_msg">%d Kontakte löschen?</string>
   <string name="blacklist">Blockieren</string>
   <string name="bluetooth_connection_failed_toast">Bluetoothverbindung wurde unterbrochen</string>
   <string name="blurbJoinContactDataWith">Wählen Sie den Kontakt aus, den Sie mit %s zusammenführen möchten</string>
-  <string name="btn_delete_multi_contacts">%d Kontakte löschen</string>
-  <string name="btn_delete_one_contact">Kontakt löschen</string>
   <string name="btn_rotation">Drehen</string>
   <string name="btn_split_contact">Separater Kontakt</string>
   <string name="button_cancel_scan">Abbrechen</string>
   <string name="button_join_service_number">Servicenummer hinzufügen</string>
-  <string name="button_my_center">Profil</string>
   <string name="button_scan">Erneut suchen</string>
   <string name="caching_vcard_message">vCard(s) zwischenspeichern…</string>
   <string name="caching_vcard_title">Zwischenspeichern</string>
@@ -93,7 +89,6 @@
   <string name="call_radio">Anruf (Funk)</string>
   <string name="call_record_setting_miui">Aufnahmeeinstellungen</string>
   <string name="call_settings">Einstellungen</string>
-  <string name="call_settings_primary_user_only">Anrufeinstellungen können nur vom Hauptbenutzer geändert werden</string>
   <string name="call_sim1_menu_title">Mit SIM 1 anrufen</string>
   <string name="call_sim2_menu_title">Mit SIM 2 anrufen</string>
   <string name="call_sim_menu_title_suffix">(Primär)</string>
@@ -483,8 +478,6 @@ Grund: \"%s\""</string>
   <string name="firewall_setting">Sperrliste</string>
   <string name="force_touch_miprofile">Kontaktdaten</string>
   <string name="force_touch_new_contact">Neuer Kontakt</string>
-  <string name="foundTooManyContacts">Mehr als %d gefunden</string>
-  <string name="fraud_more_indemnity">Mehr</string>
   <string name="frequentList">Häufig</string>
   <string name="full_name">Name</string>
   <string name="gallery">Galerie</string>
@@ -502,7 +495,6 @@ Grund: \"%s\""</string>
   <string name="group_edit_field_hint_text">Gruppenname</string>
   <string name="group_member_remove_fail_toast">Nicht aus der Gruppe entfernt</string>
   <string name="group_member_remove_success_toast">Aus der Gruppe entfernt</string>
-  <string name="group_member_remove_toast">Aus der Gruppe entfernt</string>
   <string name="group_name">Meine Gruppen</string>
   <string name="group_name_hint">Gruppenname</string>
   <string name="group_read_only">Auf diesem Gerät nicht bearbeitbar</string>
@@ -533,7 +525,6 @@ Grund: \"%s\""</string>
   <string name="import_failure_no_vcard_file">Keine vCard-Dateien im Speicher gefunden.</string>
   <string name="import_from_onekey_migrate">Über Mi Mover importieren</string>
   <string name="import_from_other_device">Von anderem Gerät importieren</string>
-  <string name="import_from_other_phone">Von anderem Telefon importieren</string>
   <string name="import_from_sdcard">Aus Speicher importieren</string>
   <string name="import_from_sim">Von SIM-Karte importieren</string>
   <string name="import_from_sim1">Von SIM-Karte 1 importieren</string>
@@ -551,15 +542,6 @@ Grund: \"%s\""</string>
   <string name="import_to_xiaomi_account_title">Sollen die folgenden Kontakte in Ihrem Mi Konto importiert werden?</string>
   <string name="import_vcard_description">"Kontakte von USB-Speicher importieren"</string>
   <string name="import_vcard_dialog_message">vCard importieren?</string>
-  <string name="import_weibo_dialog_title">Weibo Kontakte importieren</string>
-  <string name="import_weibo_error_no_matched_contacts">Keine übereinstimmenden Kontakte</string>
-  <string name="import_weibo_error_no_network">Netzwerkfehler</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Keine Telefonnummern in Ihrem Mi Konto gespeichert</string>
-  <string name="import_weibo_error_unknown">Unbekannter Fehler</string>
-  <string name="import_weibo_error_user_cancel">Abgebrochen</string>
-  <string name="import_weibo_fetch_followers">Kontakte abrufen…</string>
-  <string name="import_weibo_notification_title_done">%s Kontakte aktualisiert</string>
-  <string name="import_weibo_progress_name">Übereinstimmung \"%1$s\"…</string>
   <string name="importing_sim_contacts_miui">Importiere SIM-Kontakte…</string>
   <string name="importing_sim_contacts_miui_prepare">Kontakte werden vorbereitet…</string>
   <string name="importing_vcard_canceled_title">Import von %s abgebrochen</string>
@@ -602,7 +584,6 @@ Grund: \"%s\""</string>
   <string name="lunarBirthdayLabelsGroup">Geburtstag</string>
   <string name="lunar_calendar">Mondkalender</string>
   <string name="lunar_leap">Schaltmonat</string>
-  <string name="lunar_yue">Monat</string>
   <string name="make_primary">Diese Auswahl speichern</string>
   <string name="map_custom">%s Adresse anzeigen</string>
   <string name="map_home">Privatadresse anzeigen</string>
@@ -663,7 +644,6 @@ Grund: \"%s\""</string>
   <string name="menu_splitAggregate">Trennen</string>
   <string name="menu_sync_remove">Synchronisationsgruppe entfernen</string>
   <string name="menu_viewContact">Kontakt anzeigen</string>
-  <string name="merge_contact_message">%1$d Kontakte mit teilweise identischen Daten</string>
   <string name="messageShortcutActivityTitle">Nummer für Nachricht auswählen</string>
   <string name="miprofile_account_type">Mi Konto</string>
   <string name="miprofile_alertdialog_edit">Name eingeben</string>
@@ -1071,8 +1051,6 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
   <string name="search_wipe_data">Organisieren;Kontakte</string>
   <string name="searching_vcard_message">Suche nach vCard-Daten im USB-Speicher…</string>
   <string name="select_all">Alle</string>
-  <string name="select_all_exceed">Wähle nicht mehr als %1$d aus. Nicht alle können ausgewählt werden.</string>
-  <string name="select_exceed">Wähle nicht mehr als %1$d aus</string>
   <string name="select_groups">Gruppen auswählen</string>
   <string name="select_none">Nichts ausgewählt</string>
   <string name="select_show_contacts">Kontaktliste</string>
