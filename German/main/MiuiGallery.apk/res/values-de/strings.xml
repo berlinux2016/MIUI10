@@ -21,6 +21,7 @@
   <string name="add_to_secret_successful">Zum versteckten Album hinzugefügt</string>
   <string name="add_to_share_album_not_delete">Foto kann im geteilten Album nicht gelöscht werden</string>
   <string name="added_to_favorites">Zu Favoriten hinzugefügt</string>
+  <string name="added_to_favorites_desc">Zu Favoriten hinzugefügt</string>
   <string name="added_to_favorites_tip">Hinzugefügt zu \"Favoriten\" Album</string>
   <string name="adding">Wird hinzugefügt</string>
   <string name="adding_recipients">Empfänger hinzufügen…</string>
@@ -91,7 +92,7 @@
   <string name="app_name_view_picture">Zeige Fotos</string>
   <string name="app_name_view_video">Videos ansehen</string>
   <string name="apply">Übernehmen</string>
-  <string name="assistant_page_label">Assistent</string>
+  <string name="assistant_page_label">Geschichten</string>
   <string name="associate_face_album">Wähle ein Album</string>
   <string name="auto_backup_introduce">Sichern Sie Fotos und Videos automatisch (Mi Konto erforderlich)</string>
   <string name="auto_download_media_title">Laden Sie Fotos von Mi Cloud automatisch herunter</string>
@@ -187,6 +188,27 @@
   <string name="buy_member_tip">Werden Sie Mitglied</string>
   <string name="by_email">E-Mail</string>
   <string name="by_others">Andere</string>
+
+  <string name="card_delete_description">Diese Geschichte wird nicht mehr auftauchen. Trotzdem löschen?</string>
+  <string name="card_delete_negative_text">Abbrechen</string>
+  <string name="card_delete_positive_text">löschen</string>
+  <string name="card_delete_title">Geschichte löschen</string>
+  <string name="card_title_annual_selection">Jahresrückblick</string>
+
+  <string name="card_title_last2years_someone">BFFs</string>
+
+  <string name="card_title_last_week_end">Letztes Wochenende</string>
+  <string name="card_title_last_year_today">Dieser Tag im vergangenen Jahr</string>
+  <string name="card_title_lastweek_meet">Gemeinsam</string>
+  <string name="card_title_one_day">Unvergesslicher Tag</string>
+  <string name="card_title_past_year_today">Dieser Tag im Laufe der Jahre</string>
+  <string name="card_title_period_last_month">Zusammenfassung des letzten Monats</string>
+  <string name="card_title_period_last_week">Zusammenfassung der letzten Woche</string>
+  <string name="card_title_period_six_month">Letzten 6 Monate</string>
+  <string name="card_title_period_three_month">Letzten 3 Monate</string>
+  <string name="card_title_recent_place">%1$s kürzlich</string>
+  <string name="card_title_someone">Freundschaft</string>
+
   <string name="camera_needs_auto_backup_tip">Kameraalbum muss noch gesichert werden</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Standardhintergrund wiederherstellen?</string>
@@ -355,6 +377,7 @@
   <string name="empty_recommend_back">Zurück</string>
   <string name="empty_recommend_face_page_view">Keine weiteren Empfehlungen</string>
   <string name="empty_relation">Gruppenname kann nicht leer sein</string>
+  <string name="empty_title_no_cards">Deine Geschichten werden hier veröffentlicht.</string>
   <string name="empty_title_no_photos">Keine Fotos oder Videos</string>
   <string name="enable_auto_upload_tip">Dieses Album wird nach der Aktivierung aus \"Andere Alben\" entfernt</string>
   <string name="enable_auto_upload_title">Sync mit Mi Cloud einschalten</string>
@@ -624,6 +647,7 @@
   <string name="merge_album_title">Verbinde Alben</string>
   <string name="messagelist_sender_self">Ich</string>
   <string name="micloud_introduce">Fotos und Videos automatisch sichern (Mi Konto ist erforderlich)</string>
+  <string name="more">Mehr</string>
   <string name="more_album_hint">, usw.</string>
   <string name="more_face">Weitere Personen, die sich ähnlich sehen</string>
   <string name="more_face_album_name">Mehr Personen</string>
@@ -669,6 +693,7 @@
   <string name="operation_edit">Bearbeiten</string>
   <string name="operation_edit_video">Bearbeiten</string>
   <string name="operation_enable_auto_upload">Autom. Backup aktivieren</string>
+  <string name="operation_favorites">Favoriten</string>
   <string name="operation_failed">Aktion fehlgeschlagen</string>
   <string name="operation_force_top">Anheften</string>
   <string name="operation_hide">Verstecken</string>
@@ -867,6 +892,7 @@
   <string name="remove_from_album_message">Dieses Foto wird hier nicht mehr angezeigt</string>
   <string name="remove_from_album_title">Aus diesem Album entfernen</string>
   <string name="remove_from_current_album">Aus diesem Album entfernen</string>
+  <string name="removed_from_favorites_desc">Aus Favoriten entfernt</string>
   <string name="remove_from_favorites_failed">Konnte nicht aus den Favoriten entfernt werden</string>
   <string name="remove_from_other_albums_tip">Synchronisation mit Mi Cloud sollte aktiviert werden, wenn Sie es aus den anderen Alben entfernen. Album jetzt entfernen?</string>
   <string name="remove_from_secret_fail">Entfernen aus verstecktem Album fehlgeschlagen</string>
@@ -882,6 +908,8 @@
   <string name="rename_album">Album umbenennen</string>
   <string name="rename_album_failed">Umbenennen fehlgeschlagen</string>
   <string name="rename_album_succeeded">Umbenennen erfolgreich</string>
+  <string name="rename_dialog_hint">Titel eingeben</string>
+  <string name="rename_dialog_title">Geschichte umbenennen</string>
   <string name="rename_face_album">Name ändern</string>
   <string name="rename_fail_msg">Name konnte nicht geändert werden</string>
   <string name="rename_failed">Umbenennen fehlgeschlagen</string>
@@ -1041,6 +1069,16 @@
   <string name="storage_description_usb">USB-Speicher</string>
   <string name="storage_description_xspace">Dualapps-Daten</string>
   <string name="storage_no_space">Nicht genügend Speicherplatz</string>
+
+  <string name="story_action_remove">Aus Geschichte entfernen</string>
+  <string name="story_action_share">Teilen</string>
+  <string name="story_option_menu_rename">Unbennen</string>
+  <string name="story_remove_confirm_message">Entfernte Fotos werden in dieser Geschichte nicht mehr angezeigt. Du wirst sie immer noch in der Galerie finden.</string>
+  <string name="story_remove_confirm_positive"></string>
+  <string name="story_remove_confirm_title">Fotos entfernen</string>
+  <string name="story_rename_invalid_char">"Kann nicht \"%s\" im Titel der Geschichte verwenden. Verwenden Sie Buchstaben und Ziffern."</string>
+  <string name="story_rename_invalid_prefix">"Titel mit \".\" or \"_\"können nicht gestartet werden"</string>
+
   <string name="sub_discard_confirm_message">Änderungen speichern?</string>
   <string name="sub_discard_negative_btn">Verwerfen</string>
   <string name="sub_discard_positive_btn">Speichern</string>

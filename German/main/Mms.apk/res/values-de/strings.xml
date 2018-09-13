@@ -51,9 +51,9 @@
   <string name="batch_deleting_progress_message">Wird gelöscht…</string>
   <string name="block_messaging_entry_title">Blockierte SMS</string>
   <string name="block_support_text">Unterstützt von Antiy.</string>
-  <string name="bookmark">Favoriten</string>
+  <string name="bookmark">zu Favoriten hinzufügen</string>
   <string name="bookmark_confirm_delete_message">Ausgewählte Nachrichten aus den Favoriten entfernen?</string>
-  <string name="bookmark_empty">Keine Favoriten</string>
+  <string name="bookmark_empty">Keine Nachrichten in den Favoriten</string>
   <string name="bookmark_list_title">Favoriten</string>
   <string name="button_emoji_creature">Tierische Emojis</string>
   <string name="button_emoji_lifestyle">Lebensstil-Emojis</string>
@@ -148,9 +148,9 @@
   <string name="delivery_toast_body">%s hat die Nachricht erhalten.</string>
   <string name="delivery_toast_body_more">Nachricht empfangen von %1$s und %2$d anderen Personen</string>
   <string name="dialog_message_fake_cell_detect_error">Infos zu dieser Nachricht korrigieren? Dazu muss MIUI die Telefonnummer (%1$s), den Inhalt der Nachricht und die Informationen über den nahegelegenen Standort auf seine Server hochladen.</string>
-  <string name="dialog_message_mx">Mit Mi Message können Sie Nachrichten an andere MIUI-Geräte senden, ohne dass dafür Gebühren anfallen. Eine ausgehende SMS-Nachricht ist erforderlich, um Mi Message zu aktivieren. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen. Sie müssen unserer %1$s und %2$s zustimmen, bevor Sie Mi Message benutzen können.</string>
-  <string name="dialog_message_mx_rcs">Mit Mi Message können Sie Nachrichten an andere MIUI-Geräte und China Mobile senden, ohne dass dafür Gebühren anfallen. Eine ausgehende SMS-Nachricht ist erforderlich, um Mi Message zu aktivieren. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen. Sie müssen unserer Nachricht %1$s und %2$s zustimmen, bevor Sie Mi Message benutzen können. Einverstanden?</string>
-  <string name="dialog_message_networking">Messaging muss sich mit dem Internet verbinden und auf Ihren Standort zugreifen, um Smart Messaging, Sender-ID-Erkennung und andere Dienste bereitzustellen. Sie müssen unseren %1$s und %2$s zustimmen, bevor Sie diese Dienste in Anspruch nehmen können. Einverstanden?</string>
+  <string name="dialog_message_mx">Mi Message ermöglicht es Ihnen, Nachrichten an andere MIUI-Benutzer zu senden, ohne dass Ihnen Kosten entstehen. Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderlich. Ihr Netzbetreiber wird Ihnen für diese Nachricht eine Gebühr in Rechnung stellen. Du musst unseren \"%1$s\" und \"%2$s\" zustimmen, bevor du Mi Message benutzt.</string>
+  <string name="dialog_message_mx_rcs">Mit China Mobile Messaging können Sie Nachrichten an andere China Mobile-Nutzer auf dem chinesischen Festland senden, ohne dass Ihnen Kosten entstehen. Sie müssen dem %1$s\ zustimmen, bevor Sie China Mobile Messaging nutzen können.</string>
+  <string name="dialog_message_networking">Messaging muss Gelbe Seiten verwenden, um die Sender-ID-Erkennung anbieten zu können. Messaging- und Gelbe Seiten müssen eine Verbindung zum Internet herstellen und auf Ihren Standort zugreifen, um normal zu arbeiten. Zustimmen?</string>
   <string name="dialog_message_networking_mx">Mit Mi Message können Sie Nachrichten an andere MIUI-Geräte senden, ohne dass dafür Gebühren anfallen. Eine ausgehende SMS-Nachricht ist erforderlich, um Mi Message zu aktivieren. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen. Sie müssen unseren %1$s und %2$s zustimmen, bevor Sie Mi Message verwenden können. Messaging muss sich mit dem Internet verbinden und auf Ihren Standort zugreifen, um Smart Messaging, Sender-ID-Erkennung und andere Dienste bereitzustellen. Einverstanden?</string>
   <string name="dialog_message_networking_mx_rcs">Mit Mi Message können Sie Nachrichten an andere MIUI-Geräte und China Mobile-Benutzer senden, ohne dass dafür Gebühren anfallen. Eine ausgehende SMS-Nachricht ist erforderlich, um Mi Message zu aktivieren. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen. Sie müssen unsere %1$s und %2$s zustimmen, bevor Sie Mi Message verwenden können. Messaging muss sich mit dem Internet verbinden und auf Ihren Standort zugreifen, um Smart Messaging, Sender-ID-Erkennung und andere Dienste bereitzustellen. Einverstanden?</string>
   <string name="dialog_message_networking_rcs">China Mobile Messaging ermöglicht es Ihnen, Nachrichten an andere China Mobile-Nutzer zu senden, ohne dass dafür Gebühren anfallen. Sie müssen unserer %1$s und %2$s zustimmen, bevor Sie China Mobile Messaging nutzen können. Messaging muss sich mit dem Internet verbinden und auf Ihren Standort zugreifen, um Smart Messaging, Sender-ID-Erkennung und andere Dienste bereitzustellen. Einverstanden?</string>
@@ -283,6 +283,7 @@
   <string name="loading_conversations">Einen Moment…</string>
   <string name="loading_mms">Einen Moment…</string>
   <string name="manage_permission_app_label">Geräteberechtigungen</string>
+  <string name="mark_number_by_own_dialog_subtitle">Markiert als %1$s</string>
   <string name="me">Ich</string>
   <string name="menu_add_black">Diese Nummer blockieren</string>
   <string name="menu_add_contact">Zu vorhandenem Kontakt hinzufügen</string>
@@ -542,7 +543,7 @@
   <string name="private_message">Private Nachrichten</string>
   <string name="private_new_notification">Nachrichtenbenachrichtigung</string>
   <string name="private_protect">Datenschutz</string>
-  <string name="private_settings">Einstellungen für private Nachrichten</string>
+  <string name="private_settings">Einstellungen</string>
   <string name="processing">Verarbeitung…</string>
   <string name="prvate_contact">Private Kontakte</string>
   <string name="quick_reply">Kurzantwort</string>
@@ -552,6 +553,7 @@
   <string name="rcs_auto_resume_only_by_wifi">Uploads nur bei Verbindung mit WLAN fortsetzen</string>
   <string name="rcs_create_new_group">Neuer Gruppenchat</string>
   <string name="rcs_dspt">Nach dem Einschalten von China Mobile senden Sie Nachrichten standardmäßig über WLAN oder das Mobilfunknetz.</string>
+  <string name="rcs_dspt_unavailable">Diese Funktion kann jetzt nicht verwendet werden. Die China Mobile SIM-Karte ist nicht Ihre Standard-Datenkarte.</string>
   <string name="rcs_forward_faild">Konnte nicht weiterleiten</string>
   <string name="rcs_forward_successful">Erfolgreich weitergeleitet</string>
   <string name="rcs_group_notification_invitation">Gruppeneinladung</string>
@@ -569,6 +571,7 @@
   <string name="rcs_send_rms_remind_desp">China Mobile Messaging ist ein Instant Messaging Service von China Mobile. Sie können diese Funktion in den Einstellungen deaktivieren.</string>
   <string name="rcs_send_rms_remind_title">Senden von Nachrichten mit China Mobile Messaging</string>
   <string name="rcs_setting">China Mobile Messaging Einstellungen</string>
+  <string name="rcs_service_agreement">Servicevereinbarung</string>
   <string name="rcs_silence_message">Benachrichtigungen über stumme Nachrichten</string>
   <string name="rcs_summary_auto_resend_mms">China Mobile Multimedianachrichten in SMS umwandeln, nachdem die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen.</string>
   <string name="rcs_summary_auto_resend_sms">China Mobile Textnachrichten in SMS umwandeln, nachdem die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen.</string>
