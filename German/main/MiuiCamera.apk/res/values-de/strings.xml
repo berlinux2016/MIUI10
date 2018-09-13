@@ -81,6 +81,8 @@
   <string name="beauty_fragment_tab_name_3d_remodeling">Umgestalten</string>
   <string name="beauty_fragment_tab_name_beauty">Verschönern</string>
   <string name="beauty_fragment_tab_name_makeup">Fortgeschrittene</string>
+  <string name="beauty_mode_reset_toast">Remodellierungseffekte entfernt</string>
+  <string name="beauty_reset">Zurücksetzen</string>
   <string name="bg_replacement_message">"Stellen Sie Ihr Gerät auf eine stabile Oberfläche
 und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="bokeh_use_hint">Tiefeneffekt</string>
@@ -103,6 +105,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="cannot_connect_camera_twice">Weiterhin keine Verbindung zur Kamera möglich. Neustart des Telefons empfohlen.</string>
   <string name="cannot_connect_camera_volte_call">Videoanruf läuft noch, bitte versuchen Sie es später.</string>
   <string name="cannot_move_warning_message">Fotoaufnahme, halten Sie das Gerät ruhig!</string>
+  <string name="capture_back_pressed_hint">Zum Beenden erneut berühren</string>
   <string name="clear_effects">Klare Effekte</string>
   <string name="close">Schließen</string>
   <string name="cloud_album_details">Details des Cloud Albums:</string>
@@ -167,15 +170,19 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="dual_camera_use_hint">Dualkameramodus kann Verzerrungseffekte verursachen, Abstand zwischen Kamera und Objekt sollte weniger als zwei Meter betragen</string>
   <string name="duration">Dauer</string>
   <string name="edit">Bearbeiten</string>
+  <string name="edit_blusher">Erröten</string>
   <string name="edit_chin">Kinn</string>
   <string name="edit_eye_large">Große Augen</string>
+  <string name="edit_eyebrow_dye">Augenbrauen färben</string>
   <string name="edit_eyebrow_dye">Augenbrauen</string>
   <string name="edit_face_ruddy">Rosig</string>
   <string name="edit_face_slender">Schlank</string>
+  <string name="edit_jelly_lips">Geleelippen</string>
   <string name="edit_jelly_lips">Lipgloss</string>
   <string name="edit_lips">Lippen</string>
   <string name="edit_neck">Hals</string>
   <string name="edit_nose">Nase</string>
+  <string name="edit_pupil_line">Schönheitslinie</string>
   <string name="edit_risorius">Lachmuskel</string>
   <string name="edit_skin_smooth">Glatt</string>
   <string name="edit_skin_white">Hautton</string>
@@ -183,6 +190,15 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="edit_smile">Lächeln</string>
   <string name="effect_setting_top_text">Kamerafilter</string>
   <string name="error_fail_to_start_audio_capture">Fehler bei der Audioaufnahme</string>
+  <string name="eye_light">Augenlicht</string>
+  <string name="eye_light_angel">Engelslicht</string>
+  <string name="eye_light_comic">Comiclicht</string>
+  <string name="eye_light_crescent">Halbmondlicht</string>
+  <string name="eye_light_nature">Naturlicht</string>
+  <string name="eye_light_off">Kein Licht</string>
+  <string name="eye_light_rainbow">Regenbogenlicht</string>
+  <string name="eye_light_star">Sternenlicht</string>
+  <string name="eye_light_window">Fensterlicht</string>
   <string name="face_age_info">%d Jahre alt</string>
   <string name="face_analyze_info">Alter: %2$s (%1$s)</string>
   <string name="face_analyze_info_age">Alter:</string>
@@ -213,6 +229,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="front_camera_hint_text_confirm">Verstanden</string>
   <string name="front_camera_hint_text_place">Wenn Sie Ihr Telefon umdrehen, ist es einfacher, Selfies zu machen</string>
   <string name="front_camera_hint_text_rotate">Drehen Sie Ihr Telefon um</string>
+  <string name="fps960_toast">Zeitlupenaufnahme beginnt, wenn der Timer den weißen Punkt erreicht.</string>
   <string name="groupshot_mode_use_hint">"Mehrere Fotos werden aufgenommen,
 um den besten Gesichtsausdruck in einem Foto festzuhalten"</string>
   <string name="height">Höhe</string>
@@ -221,6 +238,7 @@ um den besten Gesichtsausdruck in einem Foto festzuhalten"</string>
 und erstellt dann eine Aufnahme mit minimalem Rauschen"</string>
   <string name="hint_ae_af_lock">Autofokus/Autobelichtung wurde gesperrt</string>
   <string name="hint_device_water_mark">Wasserzeichen wird automatisch zum Foto hinzugefügt</string>
+  <string name="hint_eye_light">Augenlicht ist besser, wenn der Blitz eingeschaltet ist.</string>
   <string name="hint_fast_motion">Aufgenommenes Video wird schneller abgespielt</string>
   <string name="hint_groupshot">"Die Kamera nimmt mehrere Fotos auf
 und erstellt dann eine Aufnahme, bei der jeder am besten aussieht"</string>
@@ -245,6 +263,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="lighting_pattern_shutter">Jalousie</string>
   <string name="lighting_pattern_stage">Bühne</string>
   <string name="location">Standort</string>
+  <string name="makeup_reset_toast">Makeup-Effekte entfernt</string>
   <string name="message_snap_double_confirm">Zurzeit ist bei langem Drücken der Lautstärketaste der NFC-Modus eingestellt, möchten Sie dies ersetzen?</string>
   <string name="model">Modell</string>
   <string name="module_name_beauty">Verschönern</string>
@@ -550,7 +569,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="pref_grp_picture_settings">Bildeinstellungen</string>
   <string name="pref_grp_restore_settings">Einstellungen zurücksetzen</string>
   <string name="pref_manual_exposure_title">Belichtung</string>
-  <string name="pref_new_slow_motion_video_quality_240_720only">Sie können nur 720P-Videos mit 240FPS aufnehmen</string>
+  <string name="pref_new_slow_motion_video_quality_240_720only">Sie können nur 720p-Videos mit 240fps aufnehmen.</string>
   <string name="pref_priority_storage_title">Vorrangig auf externer SD-Karte speichern</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
   <string name="pref_retain_camera_mode_summary">Beim Öffnen der App in den zuvor verwendeten Modus wechseln</string>
