@@ -248,6 +248,7 @@
   <string name="chat_view_description">Zeige E-Mailthemen als Gesprächsblasen</string>
   <string name="chat_view_title">Unterhaltungsansicht</string>
   <string name="check_setup_data">Prüfe Servereinstellungen…</string>
+  <string name="chinese">Chinesisch</string>
   <string name="choosertitle_sharevia">Teile mittels</string>
   <string name="clear">Löschen</string>
   <string name="clear_display_images_whitelist_dialog_message">Beenden der Anzeige von eingebetteten Bilder von Absendern, denen Sie es bereits erlaubt haben</string>
@@ -555,6 +556,7 @@
   <string name="mailbox_name_display_starred">Favoriten</string>
   <string name="mailbox_name_display_trash">Papierkorb</string>
   <string name="mailbox_name_display_unread">Ungelesen</string>
+  <string name="mail_search_lab">Suchbegriff</string>
   <string name="mailbox_settings_activity_title">Synceinstellungen</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synceinstellungen (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sync E-Mail von</string>
@@ -652,6 +654,11 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="not_synced_title">Konto nicht synchronisiert</string>
   <string name="note_text">Möglicherweise können durch das Netzwerk von China Mobile oder durch SMS-Überprüfungen zusätzliche Kosten entstehen</string>
   <string name="note_title">139 Mail Autokonfiguration</string>
+  <string name="notify_channel_new_mail">Benachrichtigung über neue Nachrichten</string>
+  <string name="notify_channel_permission_notice">Berechtigungshinweis-Erinnerung</string>
+
+  <string name="notify_channel_send_fail">Benachrichtigung über fehlgeschlagene Lieferungen</string>
+
   <string name="notification_action_archive">Archivieren</string>
   <string name="notification_action_delete">Löschen</string>
   <string name="notification_action_remove_label">Markierung entfernen</string>
@@ -705,8 +712,13 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="output_to_disk">Protokolle in Datei speichern</string>
   <string name="over_due">Überfällig</string>
   <string name="overlays_fail_tip">Mailbox konnte leider nicht konfiguriert werden. Öffnen Sie die Berechtigungen für schwebende Fenster und versuchen Sie es erneut.</string>
+
+  <string name="overlays_tip_23">Öffnen Sie schwedende Windows-Berechtigungen und genießen Sie sofort 139 Postfächer, um das extreme Erlebnis automatisch zu konfigurieren.</string>
+
   <string name="overlays_ok">Berechtigungen öffnen</string>
-  <string name="overlays_tip">Berechtigungen für schwebende Fenster öffnen und sofort 139 Mail Autokonfiguration als ultimatives Erlebnis genießen.</string>
+
+  <string name="overlays_tip">Telefoneinstellungen - Anwendung - Anwendungsdetails - Öffnen Sie schwebende Windows-Berechtigungen im Berechtigungsmanager und genießen Sie sofort 139 Postfächer, um das extreme Erlebnis automatisch zu konfigurieren.</string>
+
   <string name="overlays_title">Berechtigungn für schwebende Fenster öffnen</string>
   <string name="parase_setup_data">Daten werden abgerufen…</string>
   <string name="parse_bill_discribe">Rechnungen werden verarbeitet…</string>
@@ -968,6 +980,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="shortcut_name_title">Ordnerverknüpfung benennen</string>
   <string name="show_elided">▶ Zitierten Text anzeigen</string>
   <string name="show_images">Bilder herunterladen und anzeigen</string>
+  <string name="show_more_attachment">Weitere Anhänge</string>
   <string name="show_password">Passwort anzeigen</string>
   <string name="signature">" %s"</string>
   <string name="signature_black_shark">Gesendet von meinem Blackshark Telefon</string>
