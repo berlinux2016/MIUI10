@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Sicherheitsserviceplugin</string>
-  <string name="app_not_installed_toast">Diese App ist auf Ihrem Gerät nicht installiert</string>
   <string name="cancel_button">Abbruch</string>
   <string name="fastboot_locked_answer_1">Fastboot ist die typische Methode, um Mi Geräte zu flashen. Im Fastbootmodus können alle auf dem Gerät gespeicherten Daten direkt gelesen oder gelöscht werden. Wir sperren den Fastbootmodus, um die Sicherheit Ihrer Daten im Falle des Verlusts Ihres Gerätes zu gewährleisten und um die Zuverlässigkeit der Funktion \"Gerät finden\" zu garantieren.</string>
   <string name="fastboot_locked_answer_2">Falls Sie Ihr Gerät verlieren, garantiert Fastboot die auf dem Gerät gespeicherten Daten. Wenn Sie den Fastbootmodus entsperren, werden Sie Ihr Gerät nicht mehr aus der Ferne per \"Gerät finden\" sperren oder löschen können. Aus diesem Grund empfehlen wir, den Fastbootmodus nicht zu entsperren.</string>
@@ -22,23 +21,6 @@
   <string name="miuishare_title_share">Teilen</string>
   <string name="miuishare_wechat_timeline_title">WeChat-Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="month_report_activity_label">Monatlicher Bericht</string>
-  <string name="month_report_click_reconnect_network">Erneut versuchen</string>
-  <string name="month_report_disconnect_tip">Netzwerkverbindung fehlgeschlagen</string>
-  <string name="month_report_follow_service_negative">Nein danke</string>
-  <string name="month_report_follow_service_positive">Folgen</string>
-  <string name="month_report_follow_service_summary">Bleiben Sie über Sicherheitsupdates auf dem Laufenden, indem Sie dem offiziellen Konto der MIUI Sicherheits-App folgen</string>
-  <string name="month_report_follow_service_title">Sicherheitsupdates</string>
-  <string name="month_report_history_activity_label">Verlauf</string>
-  <string name="month_report_network_dialog_description">Möchten Sie der App Zugriff auf das Internet gewähren, um Berichtsdetails abzurufen?</string>
-  <string name="month_report_network_dialog_positive">Zulassen</string>
-  <string name="month_report_network_dialog_title">Berichtsdetails können nicht abgerufen werden</string>
-  <string name="month_report_result_share">Teilen</string>
-  <string name="month_report_share_img_fail">Teilen fehlgeschlagen</string>
-  <string name="month_report_share_loading">Einen Moment…</string>
-  <string name="month_report_warning_dialog_description">Um den Monatsbericht anzuzeigen, aktivieren Sie diese Funktion in den Einstellungen der Sicherheits-App</string>
-  <string name="month_report_warning_dialog_positive">Aktivieren</string>
-  <string name="month_report_warning_dialog_title">Monatlicher Sicherheitsbericht</string>
   <string name="network_not_available">Netzwerkverbindung fehlgeschlagen</string>
   <string name="no_network_btn">Erneut versuchen</string>
   <string name="ok_button">OK</string>
