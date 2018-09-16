@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="N_remaining_events">
+    <item quantity="other">+%d Ereignisse</item>
+    <item quantity="one">+1 Ereignis</item>
+  </plurals>
   <plurals name="Ndays">
     <item quantity="other">%d Tage vorher</item>
     <item quantity="one">1 Tag vorher</item>
@@ -20,9 +24,17 @@
   <item quantity="other">Vor %1$d Tagen um %2$s</item>
   <item quantity="one">Vor %1$d Tag um %2$s</item>
   </plurals>
+  <plurals name="Nevents">
+    <item quantity="other">%d Ereignisse</item>
+    <item quantity="one">1 Ereignis</item>
+  </plurals>
   <plurals name="Nhours">
     <item quantity="other">%d Stunden vorher</item>
     <item quantity="one">1 Stunde vorher</item>
+  </plurals>
+  <plurals name="Nmins">
+    <item quantity="other">%d Min</item>
+    <item quantity="one">1 Min</item>
   </plurals>
   <plurals name="Nminutes">
     <item quantity="other">%d Minuten vorher</item>
@@ -64,6 +76,10 @@
     <item quantity="other">Noch %1$s Tage</item>
     <item quantity="one">Noch %1$s Tag</item>
   </plurals>
+  <plurals name="daily">
+    <item quantity="other">Alle %d Tage</item>
+    <item quantity="one">Täglich</item>
+  </plurals>
   <plurals name="date_calculate_days_after">
     <item quantity="other">%1$d Tage dazwischen</item>
     <item quantity="one">%1$d Tag dazwischen</item>
@@ -84,9 +100,33 @@
     <item quantity="other">Sie können bis zu %1$d Tage eingeben</item>
     <item quantity="one">Sie können bis zu %1$d Tag eingeben</item>
   </plurals>
+  <plurals name="endByCount">
+    <item quantity="other">; %d-mal</item>
+    <item quantity="one">; einmalig</item>
+  </plurals>
   <plurals name="month_more_events">
     <item quantity="other">+%d</item>
     <item quantity="one">+1</item>
+  </plurals>
+  <plurals name="recurrence_end_count">
+    <item quantity="other">Für %d Ereignisse</item>
+    <item quantity="one">Für %d Ereignis</item>
+  </plurals>
+  <plurals name="recurrence_interval_daily">
+    <item quantity="other">Alle %d Tage</item>
+    <item quantity="one">Jeden %d Tag</item>
+  </plurals>
+  <plurals name="recurrence_interval_monthly">
+    <item quantity="other">Alle %d Monate</item>
+    <item quantity="one">Jeden %d Monat</item>
+  </plurals>
+  <plurals name="recurrence_interval_weekly">
+    <item quantity="other">Alle %d Wochen</item>
+    <item quantity="one">Jede %d Woche</item>
+  </plurals>
+  <plurals name="recurrence_interval_yearly">
+    <item quantity="other">Alle %d Jahre</item>
+    <item quantity="one">Jedes %d Jahr</item>
   </plurals>
   <plurals name="repeat_interval_frequency_day_multiple">
     <item quantity="other">%1$d Tage</item>
@@ -106,6 +146,10 @@
   </plurals>
   <plurals name="weekN">
     <item quantity="other">Woche %d</item>
+  </plurals>
+  <plurals name="weekly">
+    <item quantity="other">Alle %1$d Wochen am %2$s</item>
+    <item quantity="one">Wöchentlich am %2$s</item>
   </plurals>
   <plurals name="work_days">
   <item quantity="other">%d Arbeitstage</item>
