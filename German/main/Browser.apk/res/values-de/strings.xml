@@ -156,6 +156,8 @@
   <string name="browserFrameFileErrorLabel">Dateifehler</string>
   <string name="browserFrameFormResubmitMessage">Die aufgerufene Seite enthält Daten, die bereits übermittelt wurden. Beim erneuten Versenden der Daten werden bestimmte Aktionen wiederholt (z.B. Suchen oder Einkäufe).</string>
   <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
+  <string name="bubble_guide_bottom_message_text">Sie haben %d ungelesene Nachrichten erhalten</string>
+  <string name="bubble_guide_portrait_message_text">Zum Anschauen anklicken</string>
   <string name="bubble_guide_logined_text">Anmeldung zur Verlosung</string>
   <string name="bubble_guide_unlogined_text">Anmelden, um Privilegien zu genießen</string>
   <string name="cancel">Abbrechen</string>
@@ -274,6 +276,8 @@
   <string name="dialog_insufficient_space_on_external">Nicht genügend externer Speicherplatz</string>
   <string name="dialog_media_not_found">Download nicht möglich: Kein Wechselmedium gefunden</string>
   <string name="dialog_queued_body">Diese Datei wurde der Downloadwarteschlange hinzugefügt</string>
+  <string name="dialog_recovery_tabs_disc">Erkennung nicht geschlossener Seiten erfordert eine vollständige Wiederherstellung.</string>
+  <string name="dialog_recovery_tabs_title">Seite vor der Wiederherstellung öffnen</string>
   <string name="dialog_title_not_available">Download nicht möglich</string>
   <string name="dialog_title_queued_body">Datei nicht verfügbar</string>
   <string name="document_download_background_btn">Herunterladen im Hintergrund</string>
@@ -344,6 +348,7 @@
   <string name="error_title">Synchronisation fehlgeschlagen</string>
   <string name="error_unauthorized">Synchronisation mit Ihrem Mi Konto wurde aufgrund mehrerer Anmeldeversuche deaktiviert</string>
   <string name="exit">Beenden</string>
+  <string name="exit_browser_confirmation">Erneut drücken, um zum Startbildschirm</string>
   <string name="exit_browser_warning">Browser jetzt verlassen?</string>
   <string name="exit_fullscreen">Vollbildmodus beenden</string>
   <string name="expand_button_title">Erweiterte</string>
@@ -1035,6 +1040,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="pref_automatic_matching_searchengines_title">Suchmaschine automatisch auswählen</string>
   <string name="pref_cancel_screen">Nicht mehr blockieren</string>
   <string name="pref_category_hint">Kategorie</string>
+  <string name="pref_checkbox_tab_restore">Diese Option merken (kann unter erweiterte Einstellungen geändern werden).</string
   <string name="pref_check_security_url_summary">Sende Seitenadresse an Mi Server für eine Sicherheitsüberprüfung</string>
   <string name="pref_check_security_url_summary_international">Erlaube Browser, auf die URLs der Webseite zuzugreifen, die Sie besuchen, um relevantere Empfehlungen zu erhalten</string>
   <string name="pref_check_security_url_title">Überprüfe URL-Sicherheit</string>
@@ -1124,7 +1130,9 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="pref_security_show_security_warning">Sicherheitswarnungen anzeigen</string>
   <string name="pref_security_show_security_warning_summary">Warnung bei Zertifikatsproblemen von Webseiten anzeigen</string>
   <string name="pref_set_homepage_to">Einstellen</string>
+  <string name="pref_slide_back_forward">Vor- oder rückwärts schieben</string>
   <string name="pref_setting_title">Seiteneinstellungen</string>
+  <string name="pref_tab_restore">Stellt die zuletzt geöffnete Seite beim Start wieder her</string>
   <string name="pref_ua_string">Benutzeragent</string>
   <string name="pref_version_info">Versionsinfo</string>
   <string name="pref_volume_key_action">Blättern mit Lautstärketasten</string>
@@ -1255,6 +1263,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="signed_in">Angemeldet</string>
   <string name="skip_button_label">Überspringen</string>
   <string name="skip_current_version">Überspringe diese Version</string>
+  <string name="slide_guide">Schieben, um zurückzukehren</string>
   <string name="snapshot">Lokal</string>
   <string name="snapshot_failed">Seite konnte nicht gespeichert werden</string>
   <string name="snapshot_successed">Öffnen Sie Lesezeichen &amp; Verlauf, um unter LOKAL die Seite anzusehen</string>
