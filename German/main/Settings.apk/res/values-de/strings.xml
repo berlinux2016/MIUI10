@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_autostart">Über Autostart</string>
   <string name="Accounts_settings_title">Konten</string>
   <string name="aaid_info">"Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende verwenden diese, um Ihnen auf Sie zugeschnittene Werbung anbieten zu können.
 Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessanter Werbung wird deutlich sinken."</string>
@@ -211,6 +212,8 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="activity_list_empty">Keine passenden Aktivitäten gefunden</string>
   <string name="activity_not_found">App ist nicht auf dem Gerät installiert</string>
   <string name="activity_picker_label">Aktivität auswählen</string>
+  <string name="activity_title_permission_manager">Rechte</string>
+  <string name="activity_title_permissions_manager">Rechte</string>
   <string name="ad_service">Werbung</string>
   <string name="adb_keys_warning_message">Zugriff auf USB-Debugging von allen Computern, die Sie vorher autorisiert haben, widerrufen?</string>
   <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke vorgesehen. Damit können Sie Daten zwischen Ihrem Computer und Ihrem Gerät kopieren, Apps auf Ihrem Gerät ohne Benachrichtigung installieren und Protokolldaten lesen.</string>
@@ -281,8 +284,18 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="alarm_template_far">auf %1$s</string>
   <string name="alarm_volume_option_title">Alarmlautstärke</string>
   <string name="alarm_volume_title">Wecker</string>
+  <string name="alert_button_agree_and_continue">Erlauben</string>
+  <string name="alert_button_deny">Ablehnen</string>
+  <string name="alert_message_backup_to_miasist">Mi PC Suite bittet um Erlaubnis, eine Sicherung auf einem Computer zu erstellen. Erlauben?</string>
+  <string name="alert_message_restore_from_miasist">Mi PC Suite bittet um Erlaubnis, Elemente auf Ihrem Handy wiederherzustellen. Erlauben?</string>
+  <string name="alert_miasist_occupy_backup">Elemente sichern mit Mi PC Suite.... Warten Sie, bis die Sicherung abgeschlossen ist, und versuchen Sie es erneut.</string>
+  <string name="alert_miasist_occupy_restore">Elemente wiederherstellen mit Mi PC Suite.... Warten Sie, bis die Elemente wiederhergestellt sind, und versuchen Sie es erneut.</string>
+  <string name="alert_phone_occupy_backup">Mi PC Suite kann jetzt nicht verwendet werden. Schließen Sie die Sicherung oder Wiederherstellung von Elementen auf Ihrem Telefon ab und versuchen Sie es erneut.</string>
+  <string name="alert_second_space_not_support_miasist">Mi PC Suite kann nicht im Zweitprofil verwendet werden. Wechseln Sie ins Hauptprofil.</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Bildschirmschoner verursacht einen erhöhten Stromverbrauch</string>
   <string name="alert_show_screensaver_when_not_charging_title">Akkuverbrauch</string>
+  <string name="alert_title_backup_to_miasist">Sichern von Elementen mit Mi PC Suite?</string>
+  <string name="alert_title_restore_from_miasist">Elemente auf Ihrem Telefon wiederherstellen?</string>
   <string name="all_volume_title">Lautstärke</string>
   <string name="allow">Zulassen</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Nach Erstellung des Widgets hat %1$s Zugriff auf alle von ihm angezeigten Daten</string>
@@ -1192,7 +1205,7 @@ Abtastrate"</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth-HCI-Pakete in einer Datei erfassen (Bluetooth umschalten nach Änderung dieser Einstellung)</string>
   <string name="bt_ldac_declaration">Wenn ein Bluetooth-Gerät LDAC unterstützt, wird es standardmäßig verbunden. LDAC bietet ein hochwertiges Audioerlebnis, erhöht aber auch den Stromverbrauch. Während der Wiedergabe kann es aufgrund von Einschränkungen der Bluetooth-Hardware zu Problemen kommen.</string>
   <string name="bt_ldac_dialog_summary">"LDAC sorgt für ein hochwertiges Klangerlebnis und einen höheren Stromverbrauch.
-Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
+Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="bt_ldac_dialog_title">Das aktuelle Gerät unterstützt LDAC, das standardmäßig angeschlossen ist:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC bietet ein hochwertiges Audioerlebnis, erhöht aber auch den Stromverbrauch. Während der Wiedergabe kann es aufgrund von Einschränkungen der Bluetooth-Hardware zu Problemen kommen.</string>
   <string name="bt_ldac_open_dialog_title">LDAC einschalten?</string>
@@ -1217,6 +1230,7 @@ Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
   <string name="builtin_keyboard_settings_title">Hardwaretastatur</string>
   <string name="button_backup">Sicherung</string>
   <string name="button_cancel">Abbrechen</string>
+  <string name="button_clean_garbage">Speicher freigeben</string>
   <string name="button_confirm_convert_fbe">Löschen und Konvertieren</string>
   <string name="button_continue">Fortsetzen</string>
   <string name="button_convert_fbe">Löschen und Konvertieren…</string>
@@ -1225,6 +1239,7 @@ Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
   <string name="button_import">Importieren</string>
   <string name="button_light_timeout">Tastenbeleuchtung aktiv lassen</string>
   <string name="button_next">Weiter</string>
+  <string name="button_quit">Beenden</string>
   <string name="button_return">Zurück</string>
   <string name="button_send">Senden</string>
   <string name="button_text_accept">Zustimmen</string>
@@ -1238,6 +1253,7 @@ Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
   <string name="cached">Hintergrundprozess im Cache</string>
   <string name="calendar_sound_dialog_title">Kalenderton wählen</string>
   <string name="calendar_sound_title">Kalenderereignis</string>
+  <string name="call_and_contact">Anrufe &amp; Kontakte</string>
   <string name="call_manager_enable_summary">Diesem Dienst die Verwaltung erlauben, wie Ihre Anrufe getätigt werden</string>
   <string name="call_manager_enable_title">Anrufmanager aktivieren</string>
   <string name="call_manager_title">Anrufmanager</string>
@@ -1313,6 +1329,7 @@ Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
   <string name="cell_data_template">^1 Mobilfunkdaten</string>
   <string name="cell_data_warning">^1 Datenwarnung</string>
   <string name="cell_data_warning_and_limit">^1 Datenwarnung/^2 Datenbegrenzung</string>
+  <string name="cell_warning_and_limit">%1$s Datenwarnung / %2$s Datenlimit</string>
   <string name="cell_warning_only">%1$s Datenwarnung</string>
   <string name="cellular_data_summary">Datennutzung über Mobilfunknetz zulassen</string>
   <string name="cellular_data_title">Mobile Daten</string>
@@ -1381,6 +1398,14 @@ Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
   <string name="close_optimization_option">Ausschalten</string>
   <string name="close_sdcard_optimization_title">Optimierung SD-Karte ausschalten</string>
   <string name="close_sdcard_optimization_warning_message">Gerät wird neu gestartet, um diese Änderung anzuwenden</string>
+  <string name="close_twice_auth_btn">Zwei-Faktor-Authentifizierung ausschalten</string>
+  <string name="close_twice_auth_note">"Hinweis:
+Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatums wird Ihre Apple ID-Zwei-Faktor-Authentifizierung deaktiviert. Wenn Sie die Option zum Deaktivieren der Zwei-Faktor-Authentifizierung auf der Apple ID-Kontenseite nicht sehen, können Sie sie nicht deaktivieren."</string>
+  <string name="close_twice_auth_step_1">1. Öffnen Sie einen beliebigen Webbrowser auf einem beliebigen Computer und gehen Sie zu appleid.apple.com.</string>
+  <string name="close_twice_auth_step_2">2. Melden Sie sich bei der Apple ID an, für die Sie die Zwei-Faktor-Authentifizierung deaktivieren möchten, gehen Sie zum Abschnitt \"Sicherheit\" der Kontoeinstellungen und wählen Sie \"Bearbeiten\".</string>
+  <string name="close_twice_auth_step_3">3. Klicken Sie auf \"Zwei-Faktor-Authentifizierung deaktivieren\". Zum Bestätigen erneut klicken.</string>
+  <string name="close_twice_auth_steps">Befolgen Sie diese Schritte, um die Zwei-Faktor-Authentifizierung für Apple ID zu deaktivieren:</string>
+  <string name="close_twice_auth_tutor">Deaktivieren Sie die Apple ID Zwei-Faktor-Authentifizierung</string>
   <string name="cloud_app_name">Mi Cloud Sicherung</string>
   <string name="cloud_backup_hint">Melden Sie sich an, um auf Ihre Sicherungen zuzugreifen</string>
   <string name="cloud_backup_login">Melden Sie sich mit Ihrem Mi Konto an</string>
@@ -1486,6 +1511,8 @@ Diese Funktion kann unter[Einstellungen]" deaktiviert werden.</string>
   <string name="confirm_privacy_password">Datenschutzpasswort eingeben</string>
   <string name="confirm_privacy_password_fingerprint">Fingerabdruck scannen oder Datenschutzpasswort eingeben</string>
   <string name="confirm_privacy_password_instruction">Dieses Passwort schützt Apps, Nachrichten, Fotos und Kontakte</string>
+  <string name="confirm_prompt_all_permission">Nach Berechtigungen für alle Apps fragen?</string>
+  <string name="confirm_reject_all_permission">Alle Apps daran hindern, diese Funktion zu nutzen?</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Drosselungsszähler des ShortcutManager zurücksetzen?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Drosselung für ShortcutManager zurücksetzen?</string>
   <string name="connect_mode">Verbindungstyp</string>
@@ -1892,6 +1919,7 @@ Um dieses Problem zu beheben, stoppen Sie %1$s und verhindern die Hintergrundakt
 Um dieses Problem zu beheben, deaktivieren Sie den Standort für diese App."</string>
   <string name="dialog_location_ok">Ausschalten</string>
   <string name="dialog_location_title">Standort ausschalten?</string>
+  <string name="dialog_msg_auto_start_declare">Einige Apps können irrtümlich anzeigen, dass MIUI sie am Start gehindert hat. Prüfen Sie die Berechtigungen, die einzelnen Apps unter Einstellungen &gt; Apps gewährt wurden.</string>
   <string name="dialog_no">Nein</string>
   <string name="dialog_not_show_again">Nicht wieder anzeigen</string>
   <string name="dialog_restrict_all_mobile_summary">%s Mobile Datenverbindung wird danach für alle Apps eingeschränkt</string>
@@ -1912,6 +1940,7 @@ Um dieses Problem zu beheben, stoppen Sie %1$s.
 Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung zu verbessern."</string>
   <string name="dialog_stop_ok">App stoppen</string>
   <string name="dialog_stop_title">App stoppen?</string>
+  <string name="dialog_title_auto_start_declare">Über Autostart</string>
   <string name="dialog_title_color_calibration">Standardfarbkorrektur</string>
   <string name="dialog_title_font_size">Schriftgröße</string>
   <string name="dialog_title_hdmi_color_calibration">Standardfarbkorrektur</string>
@@ -2139,6 +2168,9 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="emergency_tone_title">Notfallton</string>
   <string name="emergency_tone_vibrate">Vibriere</string>
   <string name="empty_list_msg">Sie haben keine Drittanbieterapps installiert</string>
+  <string name="empty_title_auto_start_list">Keine Apps können automatisch starten</string>
+  <string name="empty_title_perm_apps">Keine Apps haben diese Berechtigung</string>
+  <string name="empty_title_permission_apps_list">Keine Apps</string>
   <string name="enable_adb">USB-Debugging</string>
   <string name="enable_adb_summary">Debugmodus bei Anschluss über USB</string>
   <string name="enable_adb_summary_charging">Gerät ist im Lademodus, USB-Debugging ist ausgeschaltet</string>
@@ -2291,13 +2323,19 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="erase_sd_data">Emulierte SD-Karte formatieren</string>
   <string name="erase_sd_data_description">Beim Formatieren werden sämtliche Daten auf der SD-Karte gelöscht</string>
   <string name="erase_sure">Erforderlich</string>
+  <string name="err_acquire_system_service">Systemdienst konnte nicht gestartet werden</string>
   <string name="err_authentication_failed">Anmeldung fehlgeschlagen</string>
   <string name="err_bakfile_broken">Diese Sicherung kann nicht verwendet werden</string>
+  <string name="err_bakfile_not_exist">Sicherungsdatei existiert nicht</string>
+  <string name="err_binder_died">App wurde unerwartet gestoppt</string>
   <string name="err_filesystem_mount">Kein Zugriff auf Routerspeicher</string>
   <string name="err_low_storage">Zu wenig Speicherplatz</string>
+  <string name="err_not_allow">Nicht unterstützt</string>
+  <string name="err_pkg_not_exist">App nicht gefunden</string>
   <string name="err_router_disconnected">Überprüfen Sie die Routerverbindung und versuchen Sie es erneut</string>
   <string name="err_router_files_delete">Sicherungsdateien auf Ihrem Router konnten nicht gelöscht werden</string>
   <string name="err_unknown">Unbekannter Fehler</string>
+  <string name="err_user_abort">Vom Benutzer abgebrochen</string>
   <string name="err_version_too_old">Sicherung ist zu alt</string>
   <string name="err_version_unsupported">Sicherungsversion wird nicht unterstützt</string>
   <string name="error_adding_apn_type">Anbieter erlaubt keine %s-APN-Typen</string>
@@ -2343,7 +2381,10 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="fcc_equipment_id">Geräte-ID</string>
   <string name="feature_flags_dashboard_title">Merkmal-Flags</string>
   <string name="feature_title_account">Konto</string>
+  <string name="feature_title_antispam">Blockierliste</string>
   <string name="feature_title_call_log">Anrufverlauf</string>
+  <string name="feature_title_contacts">Kontakte</string>
+  <string name="feature_title_sms">SMS</string>
   <string name="field_info_card_label">Karte wählen:</string>
   <string name="field_info_cell_id_label">Telefon-ID:</string>
   <string name="field_info_frequency_band_label">Frequenzband:</string>
@@ -2455,8 +2496,15 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="firewall_temp_rule_reason">%2$s eingeschränkte Internetverbindung für %1$s</string>
   <string name="firewall_wifi_dialog_message">Die installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter ausgeschaltet ist.</string>
   <string name="firmware_version">Androidversion</string>
+  <string name="flash_drive_backup_btn">Sichern auf USB-Laufwerk</string>
+  <string name="flash_drive_backup_note">"Apps auf USB-Laufwerk sichern.
+Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie beginnen."</string>
   <string name="flash_drive_backup_restore">Sichern oder Wiederherstellen über USB</string>
   <string name="flash_drive_backup_restore_summary">USB-Laufwerk anschließen</string>
+  <string name="flash_drive_connection_failed">USB-Laufwerk getrennt</string>
+  <string name="flash_drive_restore_btn">Wiederherstellen von USB-Laufwerk</string>
+  <string name="flash_drive_search_backup_files">"Nach USB-Sicherung suchen…
+Sicherungsdateien nicht ändern oder umbenennen."</string>
   <string name="floating_window_switch_label">Popups anzeigen</string>
   <string name="floating_window_switch_label_disable">Popups nicht anzeigen</string>
   <string name="fluency_mode">Systemanimationen</string>
@@ -2495,7 +2543,7 @@ werden gefangen genommen, die Vogelscheuche und der Blechmann werden von den Gef
   <string name="force_msaa">4x MSAA erzwingen</string>
   <string name="force_msaa_summary">4x MSAA in OpenGL ES 2.0-Apps einschalten</string>
   <string name="forget_password_dialog_button_text">Zurück</string>
-  <string name="forget_password_dialog_content_four"><Data>2. Wählen Sie &lt;font color=#e6e6e6>[Wipe data]&lt;/font> und warten Sie, bis Ihr Gerät neu startet.</Data></string>
+  <string name="forget_password_dialog_content_four"><Data>2. Wählen Sie &lt;font color=#e6e6e6>[Daten löschen]&lt;/font> und warten Sie, bis Ihr Gerät neu startet.</Data></string>
   <string name="forget_password_dialog_content_one"><Data>"Wenn Sie Ihr Passwort vergessen haben, können Sie es nicht wiederherstellen. Sie können Ihr Passwort jedoch zurücksetzen, nachdem Sie &lt;font color=#ec2700>alle Daten auf Ihrem Gerät gelöscht haben&lt;/font> (einschließlich Fotos, Kontakte usw.). Sichern Sie alle wichtigen Daten davor."</Data></string>
   <string name="forget_password_dialog_content_three"><Data>"1. Schalten Sie Ihr Gerät aus. Drücken Sie die Taste &lt;font color=#e6e6e6e6>[Power]&lt;/font> und die Taste &lt;font color=#e6e6e6e6>[Volume+]&lt;/font> gleichzeitig und halten Sie sie gedrückt, bis Sie das Symbol &lt;img src=''> sehen."</Data></string>
   <string name="forget_password_dialog_content_two">Folgen Sie diesen Schritten, um Daten zu löschen:</string>
@@ -2568,7 +2616,12 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="gadget_toggle_wifi">WLAN-Einstellungen aktualisieren</string>
   <string name="gallery_privacy_password_role_instruction">Ihre privaten Fotos werden hier gespeichert</string>
   <string name="game_controller_settings_category">Spielsteuerung</string>
+  <string name="game_mode_cta_dialog_agree">Zustimmen</string>
+  <string name="game_mode_cta_dialog_cancel">Abbrechen</string>
+  <string name="game_mode_cta_dialog_message">Spielmodus muss eine Verbindung zum Internet herstellen, um normal zu funktionieren. Zustimmen?</string>
+  <string name="game_mode_cta_dialog_title">Berechtigungen erforderlich</string>
   <string name="game_mode_settings">Spielmodus</string>
+  <string name="game_mode_summary">Leistung für Spiele verbessern und gleichzeitig die Synchronisation und Hintergrund-Netzwerkverbindung für andere Anwendungen einschränken</string>
   <string name="game_storage_settings">Spiele</string>
   <string name="gesture_preference_summary">Quickgesten, um Ihr Telefon zu kontrollieren</string>
   <string name="gesture_preference_title">Gesten</string>
@@ -2646,6 +2699,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="hide_extra_apps">Appnutzung anzeigen</string>
   <string name="hide_password_description">Passwort verbergen</string>
   <string name="hide_screen_button">Bildschirmtasten verbergen</string>
+  <string name="hide_system_app">Systemapps verbergen</string>
   <string name="high_performance_notif_summary">Leistungsmodus eingeschaltet</string>
   <string name="high_performance_notif_title">Akkuverbrauchswarnung</string>
   <string name="high_performance_title">Wenn Sie einen Benchmark laufen lassen, stellen Sie die Energieverwaltung auf \"Leistung\", um das beste Resultat zu erzielen</string>
@@ -2671,6 +2725,11 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="hsa_send_again_countdown">Erneut senden (%ds)</string>
   <string name="hsa_send_failed">Der Bestätigungscode konnte nicht gesendet werden. Warten Sie ein paar Minuten und versuchen Sie es erneut.</string>
   <string name="hsa_sending">Wird gesendet…</string>
+  <string name="hsa_tip_message">"1. Ein Bestätigungscode wurde an das Gerät gesendet, das Ihrer Apple ID zugeordnet ist.
+2. Deaktivieren Sie Zwei-Faktor-Authentifizierung, wenn der Verifizierungscode nicht funktioniert."</string>
+  <string name="hsa_tip_message_shutdown_hsa">So deaktivieren Sie die Zwei-Faktor-Authentifizierung</string>
+  <string name="hsa_tip_message_with_device">"1. Ein Bestätigungscode wurde an %s gesendet, verknüpft mit Ihrer Apple ID.
+2. Deaktivieren Sie Zwei-Faktor-Authentifizierung, wenn der Verifizierungscode nicht funktioniert."</string>
   <string name="hsa_tip_title">Tipps:</string>
   <string name="hsa_title">Zwei-Faktor-Authentifizierung</string>
   <string name="hsa_verify_failed">Zwei-Faktor-Authentifizierung fehlgeschlagen</string>
@@ -2680,6 +2739,9 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="http_invoke_app">Webapps</string>
   <string name="http_invoke_app_summary">Öffnen Sie Apps schneller, ohne diese zu installieren</string>
   <string name="icloud_backup_tip">Melde dich mit dem iCloud-Konto deines alten iOS-Geräts an</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Öffnen Sie Einstellungen auf Ihrem iOS-Gerät und wählen Sie iCloud.
+2. Legen Sie die Schalter für Kontakte und andere Elemente um.
+3. Wählen Sie Fotos aus und legen Sie den Schalter für die iCloud Photo Library um."</string>
   <string name="icloud_how_to_backup_tip_summary">Sie müssen ein iCloud-Backup erstellen, um die Daten von iOS zu importieren.</string>
   <string name="icloud_how_to_backup_tip_title">Tipps:</string>
   <string name="icloud_login_title">In iCloud anmelden</string>
@@ -2720,6 +2782,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="infinity_display_settings">Vollbildanzeige</string>
   <string name="infinity_display_slogan">Anhaltendes Wachstum bei unerforschter Technologie</string>
   <string name="infinity_display_title">Vollbildanzeige</string>
+  <string name="info_and_call">Anrufe &amp; SMS</string>
   <string name="information_dialog_button_text">Verstanden</string>
   <string name="input_assistance">Eingabeassistent</string>
   <string name="input_hint_prefix">Eingabe %1$s</string>
@@ -2803,7 +2866,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="keyboard_assistance_category">Tastaturhilfe</string>
   <string name="keyboard_layout_default_label">Standard</string>
   <string name="keyboard_layout_dialog_setup_button">Tastaturlayout einrichten</string>
-  <string name="keyboard_layout_dialog_switch_hint">"Zum Umschalten [STRG]+[Leertaste] drücken"</string>
+  <string name="keyboard_layout_dialog_switch_hint">Zum Umschalten STRG + Leertaste drücken</string>
   <string name="keyboard_layout_dialog_title">Tastaturlayout ändern</string>
   <string name="keyboard_layout_picker_title">Tastaturlayouts</string>
   <string name="keyboard_settings_category">Eingabemethoden</string>
@@ -2911,6 +2974,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="lab_functions_title">Betafunktionen</string>
   <string name="label_global_roaming_settings">Roamingeinstellungen</string>
   <string name="label_mi_stats">Mi Analyse</string>
+  <string name="lack_perm_msg">Mi Mover benötigt folgende Berechtigungen: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_title">Berechtigungen erforderlich</string>
   <string name="language_empty_list_user_restricted">Sie haben keine Berechtigung, die Gerätesprache zu ändern.</string>
   <string name="language_input_gesture_title">Sprachen, Eingabe &amp; Gesten</string>
   <string name="language_keyboard_settings_title">Sprache &amp; Eingabe</string>
@@ -3543,6 +3608,7 @@ Dadurch wird Ihr mobiler Serviceplan nicht gekündigt."</string>
   <string name="mms_breathing_light_color_title">LED-Anzeige bei Nachrichten</string>
   <string name="mms_breathing_light_freq_title">Nachrichtenpulsfrequenz</string>
   <string name="mms_privacy_password_role_instruction">Ihre Unterhaltungen mit privaten Kontakten werden hier gespeichert</string>
+  <string name="mms_title">MMS</string>
   <string name="mobile_connect_to_internet">Bitte stellen Sie eine Verbindung zum Internet her</string>
   <string name="mobile_data_always_on">Mobile Datenverbindung immer ein</string>
   <string name="mobile_data_always_on_summary">Datenverbindung aufrechterhalten, auch wenn WLAN aktiv ist (zum schnellen Wechsel zwischen Netzwerken)</string>
@@ -3678,6 +3744,7 @@ Betriebssystem auswählen:"</string>
   <string name="my_device_info_account_preference_title">Konto</string>
   <string name="my_device_info_device_name_preference_title">Gerätename</string>
   <string name="n_cacrts">%d CA-Zertifikate</string>
+  <string name="name_password_not_consistent">Benutzername oder Passwort falsch</string>
   <string name="nature_color">Standard</string>
   <string name="navigation_guide_app_summary">Vom oberen Bildschirmrand nach links oder rechts wischen</string>
   <string name="navigation_guide_app_title">Appaktion auslösen</string>
@@ -3853,13 +3920,32 @@ Betriebssystem auswählen:"</string>
   <string name="notif_backup_complete_title">Sicherung erfolgreich</string>
   <string name="notif_backup_content">Benutzerdaten werden gesichert</string>
   <string name="notif_backup_title">Daten sichern</string>
+  <string name="notif_calculating_app">Berechne %1$s (%2$s)…</string>
+  <string name="notif_connect_miasist">Mit Mi PC Suite verbunden</string>
+  <string name="notif_disconnect_miasist">Nicht mit Mi PC Suite verbunden</string>
+  <string name="notif_icloud_canceled_summary">Abgebrochen</string>
+  <string name="notif_icloud_canceling_summary">Abbrechen…</string>
+  <string name="notif_icloud_import_title">Daten aus iCloud importieren</string>
+  <string name="notif_icloud_loaded_summary">Warten…</string>
+  <string name="notif_icloud_loading_summary">Daten laden…</string>
+  <string name="notif_icloud_logining">Anmeldung in der iCloud auf dem alten iOS-Gerät…</string>
+  <string name="notif_icloud_need_wifi_summary">Auf WLAN warten</string>
+  <string name="notif_icloud_saved_summary">Erfolgreich importiert</string>
+  <string name="notif_icloud_saving_summary">Daten wiederherstellen…</string>
+  <string name="notif_miasist_try_to_connect">Mi PC Suite versucht, sich mit Ihrem Gerät zu verbinden</string>
+  <string name="notif_parse_select_descript_error">Liste der gesicherten Elemente konnte nicht synchronisiert werden</string>
+  <string name="notif_receiving_transingsd">Erhalte %1$s (%2$s)…</string>
   <string name="notif_restore_complete_title">Wiederherstellung erfolgreich</string>
   <string name="notif_restore_content">Benutzerdaten werden wiederhergestellt</string>
   <string name="notif_restore_title">Daten wiederherstellen</string>
+  <string name="notif_sending_transingsd">Sende %1$s (%2$s)…</string>
+  <string name="notif_trans_auto_reconnecting_content">Sie können die aktuelle Aktion bei Bedarf abbrechen.</string>
+  <string name="notif_trans_auto_reconnecting_title">Verbindung wurde unterbrochen. Automatisch wieder verbinden…</string>
   <string name="notif_trans_receiving_completed">Daten erfolgreich empfangen</string>
   <string name="notif_trans_receiving_failed">Daten konnten nicht empfangen werden</string>
   <string name="notif_trans_sending_completed">Daten erfolgreich versandt</string>
   <string name="notif_trans_sending_failed">Daten konnten nicht gesendet werden</string>
+  <string name="notif_trans_wait_for_reconnecting">Verbindung wurde unterbrochen. Erneut verbinden.</string>
   <string name="notification_app_settings_button">Benachrichtigungseinstellungen</string>
   <string name="notification_badge_title">Benachrichtigungs-Dot zulassen</string>
   <string name="notification_badging_title">Benachrichtigungs-Dots zulassen</string>
@@ -3983,6 +4069,7 @@ Betriebssystem auswählen:"</string>
   <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Nicht verfügbar bei SIM-Lock-Geräten</string>
   <string name="oem_unlock_enable_summary">Entsperrung des Bootloaders erlauben</string>
   <string name="ok_rules">Fertigstellen</string>
+  <string name="old_sdk_deny_warning">App ist nicht kompatibel mit den neuesten Android-Rechteanforderungen. Verweigerte Rechte können die Funktionsweise dieser App beeinflussen.</string>
   <string name="oldman_app_label">Seniorenmodus</string>
   <string name="oldman_installed_current_btn">Original-Startbildschirm wiederherstellen</string>
   <string name="oldman_installed_current_des">Sie haben den Seniorenmodus als Standard-Startbildschirm festgelegt. Tippen Sie auf die Schaltfläche unten, um zur Startseite zurückzukehren.</string>
@@ -4095,8 +4182,10 @@ Betriebssystem auswählen:"</string>
   <string name="paper_mode_start_time_title">Startzeit</string>
   <string name="passpoint_content">%1$s Zugangsdaten</string>
   <string name="passpoint_label">Gespeichert via</string>
+  <string name="password">Passwort</string>
   <string name="password_entrance_title">Bildschirmsperre</string>
   <string name="password_guard">Passwort</string>
+  <string name="password_null">Passwort kann nicht leer sein</string>
   <string name="password_turned_off_text">Passwort wurde deaktiviert</string>
   <string name="password_turned_on_text">Passwort wurde aktiviert</string>
   <string name="passwordIncorrect">Eingegebenes Passwort ist falsch</string>
@@ -4290,6 +4379,16 @@ Betriebssystem auswählen:"</string>
   <string name="path_zen_mode_option_miui_silent">Einstellungen/Ton &amp; Vibration/Lautlosmodus</string>
   <string name="payment_summary">%1$s ist Standard</string>
   <string name="performance_category">Leistung</string>
+  <string name="perm_camera">Kamera</string>
+  <string name="perm_location">Standort</string>
+  <string name="perm_read_call_log">Anrufliste lesen</string>
+  <string name="perm_read_contacts">Kontakte lesen</string>
+  <string name="perm_read_phone_state">Telefonstatus lesen</string>
+  <string name="perm_read_sms">SMS lesen</string>
+  <string name="perm_storage">Externen Speiche lesen und beschreiben</string>
+  <string name="permission_action_accept">Akzeptieren</string>
+  <string name="permission_action_prompt">Benachrichtigen</string>
+  <string name="permission_action_reject">Verweigern</string>
   <string name="permission_detail_info">Rechtedetails</string>
   <string name="permission_detail_info_summary">Sicherheit: %1$d | Privat: %2$d | Andere: %3$d</string>
   <string name="permission_manage">Rechteverwaltung</string>
@@ -4298,8 +4397,12 @@ Betriebssystem auswählen:"</string>
   <string name="permission_manage_title">%s Rechtedetails</string>
   <string name="permission_manager">Rechte</string>
   <string name="permission_mgr">Rechte</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">Apps fragen nicht nach Ihrer Erlaubnis, bevor sie Ihre Kontakte lesen, Ihre Anrufliste einsehen, Systemeinstellungen ändern oder auf die Kamera und andere Geräteressourcen zugreifen. Sie können diese Funktion in den Rechteeinstellungen aktivieren.</string>
+  <string name="permission_permission_control_closed_desc_dialog_title">Rechtemanager</string>
   <string name="permission_settings_summary">Verwalten Sie Berechtigungen für Standort, Speicher, Telefon, Nachrichten und Kontakte</string>
   <string name="permission_settings_title">Appberechtigungen</string>
+  <string name="permission_with_SMS_and_MMS">Rechte bezüglich SMS und MMS</string>
+  <string name="permission_with_call_and_contact">Rechte bezüglich Telefonanrufen, Kontaktinformationen und Anrufliste</string>
   <string name="permissions_label">Rechte</string>
   <string name="permit_draw_overlay">Überlagerung von Apps erlauben</string>
   <string name="permit_running_network">Hintergrunddaten</string>
@@ -4332,9 +4435,18 @@ Betriebssystem auswählen:"</string>
   <string name="picture_source">Bildquelle</string>
   <string name="pin_failed">Fehler beim Entsperren mit der SIM-Karten-PIN</string>
   <string name="ping_test_label">Pingtest ausführen</string>
+  <string name="platform_chooser_item_android_mi">Mi Telefon</string>
+  <string name="platform_chooser_item_android_others">Andere Marken</string>
+  <string name="platform_chooser_item_ios">Von einem iOS-Gerät importieren</string>
+  <string name="platform_chooser_title">Altes Gerät wählen</string>
   <string name="play_pause_description">Play/Pause-Taste</string>
   <string name="please_select_phase2">Phase 2-Authentifizierung</string>
   <string name="please_type_passphrase">Passwort</string>
+  <string name="pm_auto_start_by_other">Ausgelöster Start</string>
+  <string name="pm_auto_start_by_other_app">Erlaubt das Starten der App durch andere Apps</string>
+  <string name="pm_auto_start_by_system">Starte Apps</string>
+  <string name="pm_auto_start_by_system_event">Ermöglicht den automatischen Start von Apps</string>
+  <string name="pm_auto_start_proc_is_running">Läuft</string>
   <string name="pointer_location">Zeigerposition</string>
   <string name="pointer_location_summary">Zeigt den Berührungspunkt an</string>
   <string name="pointer_settings_category">Maus/Touchpad</string>
@@ -4609,6 +4721,7 @@ Betriebssystem auswählen:"</string>
   <string name="progress_backup_hint">Sichern…</string>
   <string name="progress_restore_hint">Wiederherstellen…</string>
   <string name="progress_scanning">Suche läuft</string>
+  <string name="prompt_all">Für alles fragen</string>
   <string name="prompt_reading">Lesen…</string>
   <string name="prompt_sending">Hochladen…</string>
   <string name="prompt_writing">Speichern…</string>
@@ -4732,10 +4845,12 @@ UT Interface: %5$s"</string>
   <string name="recommend_item_4">Kopfhörer</string>
   <string name="recommend_item_title">Empfehlungen</string>
   <string name="recompute_size">Größe wird neuberechnet…</string>
+  <string name="reconnect">Erneut verbinden</string>
   <string name="record_anr_in_background">Hintergrund ANR Fälle aufzeichnen</string>
   <string name="refresh">Aktualisieren</string>
   <string name="regulatory_information">Regulierungsinformationen</string>
   <string name="regulatory_labels">Regulierungskennzeichnungen</string>
+  <string name="reject_all">Alle einschränken</string>
   <string name="remaining_length_format">%1$s übrig</string>
   <string name="remote_receive">Empfangen</string>
   <string name="remove_account_failed">Diese Änderung ist durch Ihren Administrator nicht erlaubt</string>
@@ -4873,9 +4988,16 @@ UT Interface: %5$s"</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Keine Berechtigungen angefragt</string>
   <string name="safety_and_regulatory_info">Sicherheits- &amp; Regelwerk</string>
   <string name="save">Speichern</string>
+  <string name="save_finish_with_failing_items">"Transfer unterbrochen.
+Nicht importierte Daten müssen erneut importiert werden."</string>
   <string name="saved_network">Gespeichert von %1$s</string>
   <string name="saved_wifi">Gespeicherte Netzwerke</string>
   <string name="saved_wifi_delete">Löschen</string>
+  <string name="saving_data">"Daten aus iCloud importieren…
+WLAN nicht ausschalten."</string>
+  <string name="saving_data_no_time">Daten wiederherstellen…</string>
+  <string name="saving_data_space_low">"Nicht genügend Speicher.
+Mindestens %s freigeben."</string>
   <string name="sc_bad_request">Ungültige Anforderung</string>
   <string name="sc_internal_server_error">Interner Serverfehler</string>
   <string name="sc_network_unavailable">Netzwerkverbindungsfehler</string>
@@ -5362,9 +5484,17 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="select_application">App auswählen</string>
   <string name="select_backup_item">Elemente auswählen</string>
   <string name="select_device_admin_msg">Geräteadministratoren</string>
+  <string name="select_empty">Zu importierende Elemente wählen</string>
+  <string name="select_item_calendar">Kalender</string>
+  <string name="select_item_contacts">Kontakte</string>
+  <string name="select_item_empty_summary">Keine Elemente</string>
+  <string name="select_item_notes">Notizen</string>
+  <string name="select_item_photos">Fotos</string>
+  <string name="select_item_summary_loading">Daten laden…</string>
+  <string name="select_item_summary_wait">Warten…</string>
+  <string name="select_logd_level">Protokollebene auswählen</string>
   <string name="select_logd_size_dialog_title">Loggergrößen pro Logpuffer auswählen</string>
   <string name="select_logd_size_title">Loggerpuffergrößen</string>
-  <string name="select_logd_level">Protokollebene auswählen</string>
   <string name="select_logpersist_dialog_title">Log-Puffer wählen, der dauerhaft auf dem Gerät gespeichert werden soll</string>
   <string name="select_logpersist_title">Protokolldaten dauerhaft auf dem Gerät speichern</string>
   <string name="select_private_dns_configuration_dialog_title">Private DNS Modus wählen</string>
@@ -5498,6 +5628,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="show_silently">Ruhe anzeigen</string>
   <string name="show_silently_summary">Kein Ton, keine Vibration oder Popup-Benachrichtigungen im aktuellen Bildschirm</string>
   <string name="show_soft_keyboard_permanently">Tastatur immer anzeigen</string>
+  <string name="show_system_app">Systemapps anzeigen</string>
   <string name="show_touches">Berührungen anzeigen</string>
   <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
   <string name="show_user_info_on_lockscreen_label">Benutzerinfos im Sperrbildschirm anzeigen</string>
@@ -5965,6 +6096,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="sub_deactivate_not_supported">Deaktivierung nicht unterstützt</string>
   <string name="sub_deactivate_success">Erfolgreich deaktiviert</string>
   <string name="subs_settings">SUBS-Status</string>
+  <string name="succ_description">Erfolgreich</string>
   <string name="succeed">Abgeschlossen</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Diese Apps funktionieren besser im Vollbildmodus</string>
   <string name="suggested_fingerprint_lock_settings_summary">Entsperren Sie mit Ihrem Fingerabdruck</string>
@@ -6209,32 +6341,122 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="traffic_none">Keine</string>
   <string name="trans_backingup">Sichern…</string>
   <string name="trans_backingup_no_items">Synchronisieren…</string>
+  <string name="trans_button_cancel">Abbrechen</string>
+  <string name="trans_button_exit">Beenden</string>
+  <string name="trans_button_stay">Bleiben</string>
   <string name="trans_calculating">Wird berechnet…</string>
+  <string name="trans_calculating_app_sd_description">Daten auf SD-Karte</string>
   <string name="trans_calculating_app_sd_size">Datengröße wird berechnet, %s gescannt</string>
   <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
+  <string name="trans_calculating_media_description">Mediendateien</string>
+  <string name="trans_calculating_tip">Berechne %s…</string>
   <string name="trans_cancel_confirm">Transfer läuft, jetzt abbrechen?</string>
+  <string name="trans_cancel_selection_message">Wenn Sie Mi Mover verlassen, wird die laufende Übertragung unterbrochen. Warten, bis die Übertragung abgeschlossen ist.</string>
+  <string name="trans_cancel_selection_title">In Mi Mover bleiben</string>
   <string name="trans_cancelling">Abbrechen…</string>
-  <string name="trans_connect_failed_message">Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen &gt; Weitere Einstellungen &gt; Mi Mover. Tippen Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut.</string>
+  <string name="trans_connect_failed_device_incompatible">Gerät ist nicht kompatibel. Abbrechen der Übertragung und erneut versuchen.</string>
+  <string name="trans_connect_failed_message">Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen &gt; Weitere Einstellungen &gt; Mi Mover. Tippen Sie \"Ich bin der Sender\", oder versuchen Sie es nach einem Neustart erneut.</string>
   <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
   <string name="trans_connect_failed_toast">Verbindung fehlgeschlagen</string>
   <string name="trans_connecting_toast">Verbinden…</string>
   <string name="trans_connection_failed">Gerät getrennt</string>
+  <string name="trans_detail_app_apk_list_title">Installierte Apps</string>
+  <string name="trans_detail_app_apk_page_title">Apps wählen</string>
+  <string name="trans_detail_app_data_list_title">Appdaten</string>
+  <string name="trans_detail_app_data_page_title">Appdaten wählen</string>
+  <string name="trans_detail_app_data_useless_tip">Sie können diese aus der App wiederherstellen, ohne übertragen zu müssen.</string>
+  <string name="trans_detail_audio_video_doc_list_title">Audio, Video und Dateien</string>
+  <string name="trans_detail_audio_video_doc_page_title">Audio, Video und Dateien wählen</string>
   <string name="trans_detail_category_account">Konten und Kontakte</string>
+  <string name="trans_detail_category_audio_video_doc">Audio, Video und Dateien</string>
   <string name="trans_detail_category_files">Dateien</string>
   <string name="trans_detail_category_sysdata">Systemdaten</string>
+  <string name="trans_detail_category_user_app_data">Appdaten</string>
+  <string name="trans_detail_category_wechat_qq">WeChat- und QQ-Daten (inkl. Chatverlauf)</string>
+  <string name="trans_detail_item_app_data_selected_tip">Ausgewählte entsprechende Apps ebenso</string>
+  <string name="trans_detail_item_app_data_too_large_tip">Sieht so aus, als wäre das Element zu groß zum Übertragen.</string>
+  <string name="trans_detail_list_footer">Hinweis: Sie können wählen, ob Sie Apps separat übertragen möchten. Wenn Sie jedoch Appdaten wählen, werden auch die entsprechenden Apps übertragen.</string>
+  <string name="trans_detail_page_tip">Je mehr Elemente Sie wählen, desto länger dauert die Übertragung.</string>
+  <string name="trans_detail_qq_data">QQ-Daten (inkl. Chatverlauf)</string>
+  <string name="trans_detail_sys_data_list_title">Systemapps</string>
+  <string name="trans_detail_sys_data_page_title">Systemapps wählen</string>
+  <string name="trans_detail_wechat_data">WeChat-Daten (inkl. Chatverlauf)</string>
+  <string name="trans_detail_wechat_qq_list_title">WeChat und QQ</string>
+  <string name="trans_detail_wechat_qq_page_title">WeChat, QQ und Appdaten wählen</string>
+  <string name="trans_device_auto_reconnecting">Gerät getrennt. Automatisch wieder verbinden…</string>
   <string name="trans_device_disconnected">Gerät getrennt</string>
+  <string name="trans_device_wait_for_reconnecting">Verbindung wurde unterbrochen. Erneut verbinden, um fortzufahren.</string>
+  <string name="trans_disconnected_tips_message">Remote-Gerät wurde getrennt. Manuell erneut verbinden oder die Übertragung abbrechen.</string>
+  <string name="trans_disconnected_tips_title">Remote-Gerät getrennt</string>
+  <string name="trans_failed_details_page_title">Erfolglose Übertragungen</string>
   <string name="trans_generate_qr_code_failed">QR-Code konnte nicht erstellt werden</string>
+  <string name="trans_generate_qrcode_failed">QR-Code konnte nicht generiert werden. Nochmal versuchen.</string>
+  <string name="trans_generating_qrcode">QR-Code generieren…</string>
+  <string name="trans_install_guide_page_title">Mi Mover auf Ihrem alten Telefon installieren</string>
+  <string name="trans_install_guide_scan_install_tip">Diesen QR-Code mit dem alten Telefon scannen, um Mi Mover herunterzuladen und zu installieren.</string>
+  <string name="trans_install_guide_step1_content">QR-Code mit dem alten Telefon scannen, um Mi Mover herunterzuladen und zu installieren.</string>
+  <string name="trans_install_guide_step1_title">Schritt 1</string>
+  <string name="trans_install_guide_step2_content">Nach Abschluss der Installation tippen Sie unten auf \"Start\".</string>
+  <string name="trans_install_guide_step2_title">Schritt 2</string>
+  <string name="trans_intro_desc_1">Auf einem Mi Telefon mit WLAN verbinden und auf \"Ich bin der Empfänger\" tippen. Wählen Sie Ihr iOS-Gerät, melden Sie sich bei der iCloud an und importieren Sie Daten.</string>
+  <string name="trans_intro_desc_3">Übertragung abbrechen, Mi Mover beenden und neu beginnen. Doppelte Dateien werden bei der neuen Übertragung überschrieben.</string>
+  <string name="trans_intro_desc_4">Mi Mover verwendet WLAN, um Dateien zu übertragen. Daher können Sie sich während einer Übertragung auf keinem Gerät über WLAN mit dem Internet verbinden. Sie können jedoch weiterhin mobile Daten verwenden. Allerdings können sich einige neuere Geräte (z.B. Mi 6) während der Übertragung noch über WLAN mit dem Internet verbinden.</string>
+  <string name="trans_intro_desc_4_market">Mi Mover verwendet WLAN, um Dateien zu übertragen. Daher können Sie sich während einer Übertragung auf keinem Gerät über WLAN mit dem Internet verbinden. Sie können jedoch weiterhin mobile Daten verwenden.</string>
+  <string name="trans_intro_desc_5">Speicherplatz auf alten Geräten wird für die Erstellung von Transferpaketen genutzt. Stellen Sie sicher, dass Sie mindestens 500 MB - 1 GB freier Speicherplatz auf Ihrem alten Telefon haben, bevor Sie mit einer Übertragung beginnen.</string>
+  <string name="trans_intro_desc_6">Es gibt mehrere Gründe, warum das passieren kann: Kompatibilitätsprobleme mit System- und App-Versionen, Netzwerkprobleme, Kompatibilitätsprobleme speziell für ein bestimmtes Gerät, etc.</string>
+  <string name="trans_intro_desc_7">Einige App-Profile (E-Banking, Finanzen, etc.) sind aus Sicherheitsgründen mit einem bestimmten Gerät verbunden. Versuchen Sie, die Appdaten zu löschen oder die App auf einem neuen Gerät neu zu installieren.</string>
+  <string name="trans_intro_desc_8">WeChat Appdaten und Chatverlauf werden eventuell nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den WeChat-Einstellungen und melden Sie sich von Ihrem Konto ab, um mehr Chancen für eine erfolgreiche Übertragung zu erhalten.</string>
+  <string name="trans_intro_desc_9_method_1_dec">Gehen Sie zur Startseite &gt; Tools &gt; Feedback</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Teilen Sie Ihr Feedback mit der \"Feedback\"-App.</string>
+  <string name="trans_intro_desc_9_method_2_dec">Senden Sie Ihr Feedback an miui-mover@xiaomi.com.</string>
+  <string name="trans_intro_desc_9_method_2_title">2. Senden Sie uns eine E-Mail.</string>
+  <string name="trans_intro_desc_9_method_3_title">3. Melden Sie Probleme in QQ.</string>
+  <string name="trans_intro_desc_account">Aus Sicherheitsgründen müssen Sie sich auf einem neuen Gerät erneut bei Ihren Konten (z.B. Mi Konto, Exchange, Google, etc.) anmelden.</string>
+  <string name="trans_intro_desc_multiapp">Mi Mover überträgt keine Dual Apps-Daten, um Konflikte zwischen Dateien zu vermeiden.</string>
+  <string name="trans_intro_desc_multiuser">Mi Mover kann nicht auf Elemente im Zweitprofil zugreifen. Verschieben Sie Elemente ins Hauptprofil und starten Sie dort Mi Mover.</string>
+  <string name="trans_intro_desc_new">Tippen Sie \"Ich bin der Empfänger\". Ein QR-Code wird generiert.</string>
+  <string name="trans_intro_desc_old">Tippen Sie \"Ich bin der Sender\". Scannen Sie den QR-Code auf dem neuen Telefon, warten Sie, bis Mi Mover herausfindet, welche Dateien Sie senden möchten, und tippen Sie auf \"Senden\".</string>
+  <string name="trans_intro_desc_old_market">Tippen Sie \"Start\". Scannen Sie den QR-Code auf dem neuen Telefon, warten Sie, bis Mi Mover herausfindet, welche Dateien Sie senden möchten, und tippen Sie auf \"Senden\".</string>
+  <string name="trans_intro_desc_private">Mi Mover kann nicht auf Fotos im versteckten Album zugreifen, da sie verschlüsselt sind. Sie können diese Fotos aus Mi Cloud auf einem neuen Gerät wiederherstellen.</string>
+  <string name="trans_intro_question_1">%d. Wie verwende ich Mi Mover, um Daten von einem iOS-Gerät zu übertragen?</string>
+  <string name="trans_intro_question_2">%d. Wie verwende ich Mi Mover, um Daten von einem Android-Gerät zu übertragen?</string>
+  <string name="trans_intro_question_3">%d. Was tue ich, wenn Mi Mover an einem bestimmten Schritt festsitzt?</string>
+  <string name="trans_intro_question_4">%d. Warum kann ich WLAN während der Übertragung nicht nutzen?</string>
+  <string name="trans_intro_question_5">%d. Warum sagt mir Mi Mover, dass auf meinem alten Telefon nicht genug Speicherplatz ist?</string>
+  <string name="trans_intro_question_6">%d. Warum werden einige Apps nicht erfolgreich übertragen?</string>
+  <string name="trans_intro_question_7">%d. Warum starten einige Apps nicht auf einem neuen Gerät?</string>
+  <string name="trans_intro_question_8">%d. Warum wird der WeChat-Verlauf nicht vollständig übertragen?</string>
+  <string name="trans_intro_question_9">%d. Welche Elemente können nicht übertragen werden?</string>
+  <string name="trans_intro_title_account">Konten &amp; Passwörter:</string>
+  <string name="trans_intro_title_multiapp">Dual Apps-Daten:</string>
+  <string name="trans_intro_title_multiuser">Zweitprofildaten:</string>
+  <string name="trans_intro_title_new">Auf einem neuen Telefon:</string>
+  <string name="trans_intro_title_old">Auf einem alten Telefon:</string>
+  <string name="trans_intro_title_private">Verstecktes Album:</string>
   <string name="trans_main_tutor">Kontakte, Anrufverlauf, Nachrichten, Bildschirmlayout, Apps, Einstellungen, usw. auf ein neues Gerät verschieben</string>
   <string name="trans_my_device">Mein Gerät</string>
   <string name="trans_native_no_space">Dieses Gerät hat nicht genügend Speicherplatz zur Verfügung. Bitte bereinigen Sie mindestens %s.</string>
+  <string name="trans_old_phone_low_space_msg">Mi Mover benötigt etwas Speicherplatz, um die übertragenen Daten zu bündeln, anscheinend ist aber nicht genügend Platz auf dem alten Gerät. Geben Sie Speicher frei in \"Sicherheit\" oder übertragen Sie nur wichtige Elemente.</string>
+  <string name="trans_old_phone_low_space_title">Nicht genügend Speicher</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
+  <string name="trans_open_camera_failed_message">Starten Sie Ihr Gerät neu oder prüfen Sie, ob Mi Mover die &lt;b&gt;Kamera&lt;/b&gt; verwenden darf.</string>
+  <string name="trans_open_camera_failed_title">Keine Verbindung zur Kamera möglich</string>
+  <string name="trans_open_location_button">Einschalten</string>
+  <string name="trans_open_location_message">Aktivieren Sie Standortdienste, um die Liste der verfügbaren WLAN-Netzwerke anzuzeigen.</string>
+  <string name="trans_open_location_title">Standortdienste einschalten</string>
   <string name="trans_operate_func_one">Methode A</string>
   <string name="trans_operate_func_two">Methode B</string>
-  <string name="trans_operate_new_phone_tips">Gehen Sie zu Einstellungen &gt; Weitere Einstellungen &gt; Mi Mover. [Ich bin der Empfänger] antippen, um QR-Code zu erstellen.</string>
+  <string name="trans_operate_new_phone_tips">Gehen Sie zu Einstellungen &gt; Weitere Einstellungen &gt; Mi Mover. \"Ich bin der Empfänger\" antippen, um QR-Code zu erstellen.</string>
   <string name="trans_operate_old_phone_tips1">"1. Installieren Sie Mi Mover auf dem alten Gerät
 2. Öffnen Sie die App und tippen Sie Start
 3. Scannen Sie den QR-Code auf Ihrem alten Gerät"</string>
-  <string name="trans_operate_old_phone_tips2">Gehen Sie zu Einstellungen &gt; Weitere Einstellungen &gt; Mi Mover, [Ich bin der Sender] antippen.</string>
+  <string name="trans_operate_old_phone_tips2">Gehen Sie zu Einstellungen &gt; Weitere Einstellungen &gt; Mi Mover, \"Ich bin der Sender\" antippen.</string>
+  <string name="trans_operate_reconnect_new_tips">"Warten, bis das neue Telefon zeigt \"Verbindung wurde unterbrochen\".
+Dann auf \"Wieder verbinden\" tippen, um einen QR-Code zu erstellen."</string>
+  <string name="trans_operate_reconnect_old_tips">"Warten, bis das alte Telefon zeigt \"Verbindung wurde unterbrochen\".
+Dann auf \"Wieder verbinden\" tippen, um den QR-Code zu scannen."</string>
+  <string name="trans_operate_tip_for_other_android">Öffnen Sie Mi Mover auf Ihrem alten Telefon, tippen Sie auf \"Start\" und scannen Sie den QR-Code oben.</string>
+  <string name="trans_pausing">Pausieren…</string>
   <string name="trans_please_waiting">Einen Moment…</string>
   <string name="trans_progress_subdescript_br_receiver">Wiederherstellung von %1$s, %2$s abgeschlossen</string>
   <string name="trans_progress_subdescript_br_sender">Sicherung von %1$s, %2$s abgeschlossen</string>
@@ -6260,8 +6482,12 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="trans_select_data">Zu sendende Dateien auswählen</string>
   <string name="trans_select_data_no_space">%s auf neuem Gerät verfügbar. Erneut auswählen oder zusätzlichen Speicher frei machen.</string>
   <string name="trans_select_data_tips">Dateien zur Übertragung auswählen. Dateien mit identischem Namen werden überschrieben.</string>
+  <string name="trans_select_data_too_large">"Sie haben zu viele Elemente für die Übertragung gewählt.
+Wählen Sie nur wichtige Elemente, um die Übertragung zu beschleunigen."</string>
   <string name="trans_select_device_receive">Gerät zum Datenempfang auswählen</string>
   <string name="trans_select_device_send">Wählen Sie ein Gerät, um Daten zu senden</string>
+  <string name="trans_select_notification_message">Tippen zum Anzeigen</string>
+  <string name="trans_select_notification_title">Mi Mover arbeitet…</string>
   <string name="trans_sender">Ich bin der Sender</string>
   <string name="trans_sender_connectting">Auf neuem Gerät bestätigen</string>
   <string name="trans_sender_searching">Nach neuen Geräten suchen</string>
@@ -6272,11 +6498,17 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="trans_show_qr_code_tips">QR-Code mit Ihrem alten Gerät scannen</string>
   <string name="trans_start_failed_message">Start der Übertragung fehlgeschlagen, bitte erneut versuchen oder neu starten</string>
   <string name="trans_start_failed_title">Start der Übertragung fehlgeschlagen</string>
+  <string name="trans_success_dialog_button_market_favourable_comment">Bewerten Sie Mi Mover</string>
+  <string name="trans_success_dialog_market_comment_title">"Ihr neues Gerät fühlt sich jetzt wie zu Hause.
+Gefällt Ihnen Mi Mover?"</string>
+  <string name="trans_switching_5g">Umschalten auf 5 GHz WLAN…</string>
   <string name="trans_time_format_second">Weniger als 1 Minute</string>
   <string name="trans_time_spent">Zeit bisher: %s</string>
   <string name="trans_wait_trans_data">Mit altem Gerät verbunden. Warten auf Übertragung…</string>
   <string name="trans_waiting_ensurance">Das alte Gerät muss eingeschaltet und Mi Mover aktiviert sein</string>
   <string name="trans_waiting_for_sender">Warte auf Verbindung mit dem alten Gerät…</string>
+  <string name="trans_wlan_tips_message">Während der Übertragung WLAN nicht ausschalten oder auf andere WLAN-Netzwerke wechseln. Andernfalls kann Mi Mover keine Daten übertragen.</string>
+  <string name="trans_wlan_tips_title"> WLAN nicht ausschalten</string>
   <string name="transition_animation_scale_title">Übergangsanimation</string>
   <string name="translation_contributors_title">Mitwirkende</string>
   <string name="trust_agent_disabled_device_admin">Vom Administrator deaktiviert</string>
@@ -6504,6 +6736,8 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="usb_adb_input_desc">Erlauben Sie die Berechtigungen und die Eingabesimulation über USB-Debugging</string>
   <string name="usb_audio_disable_routing">Deaktiviere USB-Audiorouting</string>
   <string name="usb_audio_disable_routing_summary">Deaktivieren Sie die automatische Weiterleitung an USB-Audioperipheriegeräte</string>
+  <string name="usb_backup_select_data_too_large">"Ausgewählte Dateien sind groß. Vergewissern Sie sich, dass das USB-Laufwerk genügend Speicher hat.
+Nur wichtige Elemente übertragen."</string>
   <string name="usb_charging_summary">Schalten Sie alle anderen USB-Verbindungen ab, um das Aufladen zu beschleunigen</string>
   <string name="usb_charging_title">Laden beschleunigen</string>
   <string name="usb_connection_category">Verbinden als</string>
@@ -6541,6 +6775,8 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="usb_preference">USB-Einstellungen</string>
   <string name="usb_ptp_summary">Ermöglicht die Übertragung von Fotos mit Hilfe der Kamerasoftware sowie die Übertragung von Dateien auf Computer, die MTP nicht unterstützen</string>
   <string name="usb_ptp_title">Kamera (PTP)</string>
+  <string name="usb_restore_select_data_too_large">"Sicherungsdateien sind groß. Die Wiederherstellung kann eine Weile dauern.
+Wiederherstellen nur wichtiger Elemente wird schneller sein."</string>
   <string name="usb_sdcard_summary">Damit können Sie Mediendateien auf der SD-Karte zum Computer übertragen</string>
   <string name="usb_sdcard_title">SD-Karte einlegen</string>
   <string name="usb_summary_MIDI">Gerät als MIDI verwenden</string>
@@ -6565,6 +6801,12 @@ Sie können Ihr Androidtelefon in einen portablen WLAN-Hotspot verwandeln, um di
   <string name="usb_tethering_title">USB-Tethering</string>
   <string name="usb_tethering_turnon_subtext">Zum Aktivieren verbinden</string>
   <string name="usb_tethering_unavailable_subtext">Keine USB-Verbindung</string>
+  <string name="usb_trans_native_no_space">"Auf Ihrem Gerät ist nur %s verfügbar.
+Speicher freigeben oder mehrere kleinere Übertragungen durchführen."</string>
+  <string name="usb_trans_old_phone_low_space_msg">Zusätzlicher Speicher wird benötigt, um Ihre Sicherungen zu bündeln. Nicht genügend Speicher vorhanden, um die Übertragung fortzusetzen. Sie können in \"Sicherheit\" Speicherplatz freigeben und unnötige Dateien löschen oder versuchen, nur wichtige Elemente zu übertragen.</string>
+  <string name="usb_trans_old_phone_low_space_title">Nicht genügend Speicher</string>
+  <string name="usb_trans_select_data_no_space">"Auf Ihrem USB-Laufwerk ist nur %s verfügbar.
+Speicher freigeben oder nur wichtige Elemente übertragen."</string>
   <string name="usb_unmount_inform_text">USB-Speicher wird ausgeworfen</string>
   <string name="usb_use">USB verwenden für</string>
   <string name="usb_use_MIDI">Gerät als MIDI verwenden</string>
@@ -6662,6 +6904,8 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="user_installed_services_category_title">Heruntergeladene Dienste</string>
   <string name="user_list_title">Benutzer &amp; Profile</string>
   <string name="user_lockscreen_settings">Sperrbildschirmeinstellungen</string>
+  <string name="user_name">Apple ID oder E-Mail</string>
+  <string name="user_name_null">Benutzername kann nicht leer sein</string>
   <string name="user_need_lock_message">Vor dem Erstellen eines eingeschränkten Profils müssen Sie eine Displaysperre einrichten, um Ihre Apps und personenbezogenen Daten zu schützen</string>
   <string name="user_new_profile_name">Neues Profil</string>
   <string name="user_new_user_name">Neuer Benutzer</string>
@@ -6710,6 +6954,7 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="vibrate_on_touch_summary">Haptisches Feedback für Tippen, Tastatur und mehr</string>
   <string name="vibrate_on_touch_title">Bei Berührung vibrieren</string>
   <string name="vibrate_when_ringing_title">Beim Klingeln vibrieren</string>
+  <string name="view_password_description">Passwort anzeigen</string>
   <string name="vip_list">Eingehende Anrufe erlauben</string>
   <string name="virtual_keyboard_category">Virtuelle Tastatur</string>
   <string name="virtual_sim_category_title">Virtuelle SIM</string>
