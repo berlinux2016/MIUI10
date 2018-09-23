@@ -48,6 +48,14 @@
     <item quantity="other">%d Apps dürfen automatisch starten</item>
     <item quantity="one">%d App darf automatisch starten</item>
   </plurals>
+  <plurals name="backup_items_app_tailer">
+    <item quantity="other">%d Appdatendateien</item>
+    <item quantity="one">%d Appdatendatei</item>
+  </plurals>
+  <plurals name="backup_items_sysdata_tailer">
+    <item quantity="other">%d Systemdatendateien</item>
+    <item quantity="one">%d Systemdatendatei</item>
+  </plurals>
   <plurals name="battery_manager_app_restricted">
     <item quantity="other">%1$d Apps eingeschränkt</item>
     <item quantity="one">%1$d App eingeschränkt</item>
@@ -88,9 +96,17 @@
     <item quantity="other">%d Geräte</item>
     <item quantity="one">%d Gerät</item>
   </plurals>
+  <plurals name="custom_progress">
+    <item quantity="other">%d Elemente</item>
+    <item quantity="one">%d Element</item>
+  </plurals>
+  <plurals name="data_item_count">
+    <item quantity="other">%d Elemente</item>
+    <item quantity="one">%d Element</item>
+  </plurals>
   <plurals name="data_saver_unrestricted_summary">
-    <item quantity="other">%1$d Apps dürfen Daten nutzen, wenn Datensparen aktiv ist.</item>
-    <item quantity="one">%1$d App darf Daten nutzen, wenn Datensparen aktiv ist.</item>
+    <item quantity="other">%1$d Apps dürfen Daten nutzen, wenn Datensparen aktiv ist</item>
+    <item quantity="one">%1$d App darf Daten nutzen, wenn Datensparen aktiv ist</item>
   </plurals>
   <plurals name="default_camera_app_title">
     <item quantity="other">Kameraapps</item>
@@ -114,7 +130,7 @@
   </plurals>
   <plurals name="domain_urls_apps_summary">
     <item quantity="other">%d Apps können unterstützte Links öffnen</item>
-    <item quantity="zero">keine App kann unterstütze Links öffnen</item>
+    <item quantity="zero">Keine App kann unterstütze Links öffnen</item>
     <item quantity="one">%d App kann unterstütze Links öffnen</item>
   </plurals>
   <plurals name="domain_urls_apps_summary_on">
@@ -146,36 +162,56 @@
     <item quantity="one">%1$d Person ist verbunden</item>
   </plurals>
   <plurals name="high_power_count">
-    <item quantity="other">%d Apps dürfen Akkuoptimierung umgehen.</item>
-    <item quantity="one">%d App darf Akkuoptimierung umgehen.</item>
+    <item quantity="other">%d Apps dürfen Akkuoptimierung umgehen</item>
+    <item quantity="one">%d App darf Akkuoptimierung umgehen</item>
+  </plurals>
+  <plurals name="hints_apps_perm_count">
+    <item quantity="other">%d Berechtigungen</item>
+    <item quantity="one">%d Berechtigung</item>
+  </plurals>
+  <plurals name="hints_auto_start_disable_title">
+    <item quantity="other">Autostart für %d Apps nicht erlaubt</item>
+    <item quantity="one">Autostart für %d App nicht erlaubt</item>
+  </plurals>
+  <plurals name="hints_auto_start_enable_title">
+    <item quantity="other">%d Apps können automatisch starten</item>
+    <item quantity="one">%d App kann automatisch starten</item>
+  </plurals>
+  <plurals name="hints_permission_apps_count">
+    <item quantity="other">%d Apps</item>
+    <item quantity="one">%d App</item>
   </plurals>
   <plurals name="hours">
     <item quantity="other">%s Stunden</item>
     <item quantity="one">%s Stunde</item>
   </plurals>
+  <plurals name="install_game_count_title">
+    <item quantity="other">%d Spiele hinzugefügt</item>
+    <item quantity="one">%d Spiel hinzugefügt</item>
+  </plurals>
   <plurals name="lockpassword_password_requires_letters">
-    <item quantity="other">Passwort muss mindestens %d Buchstaben enthalten.</item>
-    <item quantity="one">Passwort muss mindestens %d Buchstaben enthalten.</item>
+    <item quantity="other">Passwort muss mindestens %d Buchstaben enthalten</item>
+    <item quantity="one">Passwort muss mindestens %d Buchstaben enthalten</item>
   </plurals>
   <plurals name="lockpassword_password_requires_lowercase">
-    <item quantity="other">Passwort muss mindestens %d Kleinbuchstaben enthalten.</item>
-    <item quantity="one">Passwort muss mindestens %d Kleinbuchstaben enthalten.</item>
+    <item quantity="other">Passwort muss mindestens %d Kleinbuchstaben enthalten</item>
+    <item quantity="one">Passwort muss mindestens %d Kleinbuchstaben enthalten</item>
   </plurals>
   <plurals name="lockpassword_password_requires_nonletter">
-    <item quantity="other">Passwort muss mindestens %d Zeichen enthalten, die keine Buchstaben sind.</item>
-    <item quantity="one">Passwort muss mindestens %d Zeichen enthalten, das kein Buchstabe ist.</item>
+    <item quantity="other">Passwort muss mindestens %d Zeichen enthalten, die keine Buchstaben sind</item>
+    <item quantity="one">Passwort muss mindestens %d Zeichen enthalten, das kein Buchstabe ist</item>
   </plurals>
   <plurals name="lockpassword_password_requires_numeric">
-    <item quantity="other">Passwort muss mindestens %d Ziffern enthalten.</item>
-    <item quantity="one">Passwort muss mindestens %d Ziffer enthalten.</item>
+    <item quantity="other">Passwort muss mindestens %d Ziffern enthalten</item>
+    <item quantity="one">Passwort muss mindestens %d Ziffer enthalten</item>
   </plurals>
   <plurals name="lockpassword_password_requires_symbols">
-    <item quantity="other">Passwort muss mindestens %d Sonderzeichen enthalten.</item>
-    <item quantity="one">Passwort muss mindestens %d Sonderzeichen enthalten.</item>
+    <item quantity="other">Passwort muss mindestens %d Sonderzeichen enthalten</item>
+    <item quantity="one">Passwort muss mindestens %d Sonderzeichen enthalten</item>
   </plurals>
   <plurals name="lockpassword_password_requires_uppercase">
-    <item quantity="other">Passwort muss mindestens %d Großbuchstaben enthalten.</item>
-    <item quantity="one">Passwort muss mindestens %d Großbuchstaben enthalten.</item>
+    <item quantity="other">Passwort muss mindestens %d Großbuchstaben enthalten</item>
+    <item quantity="one">Passwort muss mindestens %d Großbuchstaben enthalten</item>
   </plurals>
   <plurals name="lockpassword_pin_fixed_length">
     <item quantity="other">PIN muss %d Ziffern lang sein</item>
@@ -190,16 +226,16 @@
     <item quantity="one">PIN muss %d Zeichen lang sein</item>
   </plurals>
   <plurals name="lockpattern_recording_incorrect_too_short">
-    <item quantity="other">Mindestens %d Punkte verbinden, erneut probieren.</item>
-    <item quantity="one">Mindestens %d Punkt verbinden, erneut probieren.</item>
+    <item quantity="other">Mindestens %d Punkte verbinden, erneut versuchen.</item>
+    <item quantity="one">Mindestens %d Punkt verbinden, erneut versuchen.</item>
   </plurals>
   <plurals name="lockpattern_too_many_failed_confirmation_attempts">
     <item quantity="other">Zu viele falsche Versuche. Erneut in %d Sekunden versuchen.</item>
     <item quantity="one">Zu viele falsche Versuche. Erneut in %d Sekunde versuchen.</item>
   </plurals>
   <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-    <item quantity="other">%d Sekunden warten und erneut versuchen.</item>
-    <item quantity="one">%d Sekunde warten und erneut versuchen.</item>
+    <item quantity="other">%d Sekunden warten und erneut versuchen</item>
+    <item quantity="one">%d Sekunde warten und erneut versuchen</item>
   </plurals>
   <plurals name="manage_notification_access_summary_nonzero">
     <item quantity="other">%d Apps können Benachrichtigungen lesen</item>
@@ -214,8 +250,8 @@
     <item quantity="one">%1$d Konto wird zurückgesetzt</item>
   </plurals>
   <plurals name="memory_usage_apps_summary">
-    <item quantity="other">%1$d Apps hat in den letzten %2$s Speicher verbraucht.</item>
-    <item quantity="one">%1$d App hat in den letzten %2$s Speicher verbraucht.</item>
+    <item quantity="other">%1$d Apps haben in den letzten %2$s Speicher verbraucht</item>
+    <item quantity="one">%1$d App hat in den letzten %2$s Speicher verbraucht</item>
   </plurals>
   <plurals name="minutes">
     <item quantity="other">%s Minuten</item>
@@ -277,6 +313,22 @@
     <item quantity="other">%1$d von %2$d Berechtigungen erteilt</item>
     <item quantity="one">%1$d von %2$d Berechtigung erteilt</item>
   </plurals>
+  <plurals name="save_item_failed_summary_seg1">
+    <item quantity="other">"%d Elemente importiert. "</item>
+    <item quantity="one">"%d Element importiert. "</item>
+  </plurals>
+  <plurals name="save_item_failed_summary_seg2">
+    <item quantity="other">%d Elemente erneut importiert</item>
+    <item quantity="one">%d Element erneut importiert</item>
+  </plurals>
+  <plurals name="save_item_saved_summary">
+    <item quantity="other">%d Elemente importiert &amp; wiederhergestellt</item>
+    <item quantity="one">%d Element importiert &amp; wiederhergestellt</item>
+  </plurals>
+  <plurals name="save_item_saving_summary">
+    <item quantity="other">%d Elemente wiederhergestellt</item>
+    <item quantity="one">%d Element wiederhergestellt</item>
+  </plurals>
   <plurals name="seconds">
     <item quantity="other">%s Sekunden</item>
     <item quantity="one">%s Sekunde</item>
@@ -285,13 +337,21 @@
     <item quantity="other">%1$d Fingerabdrücke eingerichtet</item>
     <item quantity="one">%1$d Fingerabdruck eingerichtet</item>
   </plurals>
+  <plurals name="select_item_count_unit">
+    <item quantity="other">Elemente</item>
+    <item quantity="one">Element</item>
+  </plurals>
+  <plurals name="select_item_summary">
+    <item quantity="other">%1$s | %2$d Elemente</item>
+    <item quantity="one">%1$s | %2$d Element</item>
+  </plurals>
   <plurals name="settings_suggestion_header_summary_hidden_items">
     <item quantity="other">%d verdeckte Elemente anzeigen</item>
     <item quantity="one">%d verdecktes Element anzeigen</item>
   </plurals>
   <plurals name="settings_toggle_position_divider_page">
-    <item quantity="other">%1$d Schalter werden in der Benachrichtigunsleiste angezeigt.</item>
-    <item quantity="one">%1$d Schalter wird in der Benachrichtigungsleiste angezeigt.</item>
+    <item quantity="other">%1$d Schalter werden in der Benachrichtigunsleiste angezeigt</item>
+    <item quantity="one">%1$d Schalter wird in der Benachrichtigungsleiste angezeigt</item>
   </plurals>
   <plurals name="show_audio_logcat_countdown">
     <item quantity="other">%1$d Schritte übrig, bevor Sie das Audioprotokoll erhalten</item>
@@ -299,7 +359,7 @@
   </plurals>
   <plurals name="show_cit_countdown">
     <item quantity="other">Sie sind %1$d Schritte vom CIT entfernt.</item>
-    <item quantity="one">Sie sind einen Schritt vom CIT entfernt.</item>
+    <item quantity="one">Sie sind %1$d Schritt vom CIT entfernt.</item>
   </plurals>
   <plurals name="show_dev_countdown">
     <item quantity="other">In %1$d Schritten sind Sie ein Entwickler.</item>
@@ -326,8 +386,8 @@
     <item quantity="one">Sie sind %1$d Schritt von den Fehlerberichten entfernt.</item>
   </plurals>
   <plurals name="show_reset_countdown">
-    <item quantity="other">Für ein Factory-Reset Schritte %1$d ausführen</item>
-    <item quantity="one">Für ein Factory-Reset Schritt %1$d ausführen</item>
+    <item quantity="other">Für Werkseinstellungen %1$d Schritte ausführen</item>
+    <item quantity="one">Für Werkseinstellungen %1$d Schritt ausführen</item>
   </plurals>
   <plurals name="special_access_summary">
     <item quantity="other">%d Apps können unbegrenzt Daten verwenden</item>
@@ -373,13 +433,37 @@ Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin.
     <item quantity="other">%1$d Vorschläge</item>
     <item quantity="one">%1$d Vorschlag</item>
   </plurals>
+  <plurals name="total_num">
+    <item quantity="other">%d Elemente,</item>
+    <item quantity="one">%d Element,</item>
+  </plurals>
+  <plurals name="trans_failed_summary">
+    <item quantity="other">Konnte %d Elemente nicht übertragen. Tippen für Details.</item>
+    <item quantity="one">Konnte %d Element nicht übertragen. Tippen für Details.</item>
+  </plurals>
+  <plurals name="trans_item_failed_summary">
+    <item quantity="other">Konnte %d Elemente nicht übertragen</item>
+    <item quantity="one">Konnte %d Element nicht übertragen</item>
+  </plurals>
+  <plurals name="trans_time_format_hours">
+    <item quantity="other">%d Stunden</item>
+    <item quantity="one">%d Stunde</item>
+  </plurals>
+  <plurals name="trans_time_format_minute">
+    <item quantity="other">%d Minuten</item>
+    <item quantity="one">%d Minute</item>
+  </plurals>
+  <plurals name="uninstall_game_count_title">
+    <item quantity="other">%d Spiele nicht hinzugefügt</item>
+    <item quantity="one">%d Spiel nicht hinzugefügt</item>
+  </plurals>
   <plurals name="Update Game Center für weitere Highlights">
     <item quantity="other">%1$d Schritte nach links, bevor Sie das Audioprotokoll erhalten</item>
     <item quantity="one">%1$d Schritt nach links, bevor Sie das Audioprotokoll erhalten</item>
   </plurals>
   <plurals name="uri_permissions_text">
-    <item quantity="other">%d Objekte</item>
-    <item quantity="one">%d Objekt</item>
+    <item quantity="other">%d Elemente</item>
+    <item quantity="one">%d Element</item>
   </plurals>
   <plurals name="virus_scan_app_find_risk">
     <item quantity="other">%d Risiken gefunden</item>
@@ -399,7 +483,7 @@ Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin.
   </plurals>
   <plurals name="wrong_pin_code">
     <item quantity="other">Falsche PIN. Sie haben noch %d Versuche.</item>
-    <item quantity="one">Falsche PIN. Sie haben noch einen Versuch, bevor das Gerät von Ihrem Mobilfunkanbieter entsperrt werden muss.</item>
+    <item quantity="one">Falsche PIN. Sie haben noch %d Versuch, bevor das Gerät von Ihrem Mobilfunkanbieter entsperrt werden muss.</item>
   </plurals>
   <plurals name="zen_mode_duration_summary_time_hours">
     <item quantity="other">%d Stunden (falls nicht autom. eingeschaltet)</item>
@@ -417,12 +501,12 @@ Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin.
     <item quantity="other">%d weitere</item>
     <item quantity="one">%d weitere</item>
   </plurals>
-  <plurals name="zen_mode_summary_alarms_only_by_minute">
-    <item quantity="other">Änderung der Alarme nur für %1$d Minuten bis %2$s</item>
-    <item quantity="one">Änderung der Alarme nur für %1$d Minute bis %2$s</item>
-  </plurals>
   <plurals name="zen_mode_summary_alarms_only_by_hour">
     <item quantity="other">Änderung der Alarme nur für %1$d Stunden bis %2$s</item>
     <item quantity="one">Änderung der Alarme nur für %1$d Stunde bis %2$s</item>
+  </plurals>
+  <plurals name="zen_mode_summary_alarms_only_by_minute">
+    <item quantity="other">Änderung der Alarme nur für %1$d Minuten bis %2$s</item>
+    <item quantity="one">Änderung der Alarme nur für %1$d Minute bis %2$s</item>
   </plurals>
 </resources>
