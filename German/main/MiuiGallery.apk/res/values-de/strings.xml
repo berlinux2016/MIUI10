@@ -850,6 +850,10 @@
   <string name="play_gif_desc">GIF abspielen</string>
   <string name="play_video_desc">Video abspielen</string>
   <string name="preparing_data">Einen Moment…</string>
+  <string name="privacy_permission_request_message">Galerie benötigt Zugriff auf %3$s. Die von uns erfassten Daten werden in Übereinstimmung mit unseren %1$s und %2$s verwendet. Erlauben?</string>
+  <string name="privacy_permission_request_negative">Einschränken</string>
+  <string name="privacy_permission_request_positive">Erlauben</string>
+  <string name="privacy_permission_request_title">Erforderliche Rechte</string>
   <string name="projection_cancel">Abbrechen</string>
   <string name="projection_checkbox_text">Diese Anzeige merken</string>
   <string name="projection_device_connection_failed">Verbindung zum Gerät fehlgeschlagen</string>
@@ -1162,10 +1166,14 @@
   <string name="video_editor_auto_trim">Automatisch schneiden</string>
   <string name="video_editor_auto_trim_tip">Wird geschnitten…</string>
   <string name="video_editor_cancel">Abbrechen</string>
+  <string name="video_editor_cancel_download">Abbrechen</string>
   <string name="video_editor_done">Fertig</string>
   <string name="video_editor_down_load_later">Später</string>
   <string name="video_editor_down_load_no_wifi_tips">Download nur mit WLAN möglich</string>
   <string name="video_editor_down_load_now">Herunterladen</string>
+  <string name="video_editor_download_failed_for_notwork">Herunterladen nicht möglich. Mit dem Netzwerk verbinden und erneut versuchen.</string>
+  <string name="video_editor_download_without_wifi_msg">Verwendung einer mobilen Datenverbindung zum Herunterladen von Dateien wird Ihre Datennutzung erhöhen. Wenn Sie Ihr Datenlimit überschreiten, könnte Ihr Anbieter Ihnen zusätzliche Gebühren berechnen.</string>
+  <string name="video_editor_download_without_wifi_title">Datennutzungwarnung</string>
   <string name="video_editor_encode_video">Wird codiert…</string>
   <string name="video_editor_encode_video_error">Video konnte nicht codiert werden</string>
   <string name="video_editor_fatal_error">Unbekannter Fehler</string>
@@ -1198,6 +1206,8 @@
   <string name="video_editor_res_download_mobil_network_confirm_msg">Soundtracks über die mobile Datenverbindung herunterladen?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Mobile Datenverbindung verwenden</string>
   <string name="video_editor_res_not_load_dialog_msg">Um dies zu nutzen, müssen Sie Ressourcenpakete herunterladen</string>
+  <string name="video_editor_return">Zurück</string>
+  <string name="video_editor_save">Speichern</string>
   <string name="video_editor_smart_effect_beat">Takte</string>
   <string name="video_editor_smart_effect_big_film">Episch</string>
   <string name="video_editor_smart_effect_cadence">Rhythmus</string>

@@ -53,6 +53,7 @@
   <string name="btn_split_contact">Separater Kontakt</string>
   <string name="button_cancel_scan">Abbrechen</string>
   <string name="button_join_service_number">Servicenummer hinzufügen</string>
+  <string name="button_my_center">Profil</string>
   <string name="button_scan">Erneut suchen</string>
   <string name="caching_vcard_message">vCard(s) zwischenspeichern…</string>
   <string name="caching_vcard_title">Zwischenspeichern</string>
@@ -479,6 +480,7 @@ Grund: \"%s\""</string>
   <string name="firewall_setting">Sperrliste</string>
   <string name="force_touch_miprofile">Kontaktdaten</string>
   <string name="force_touch_new_contact">Neuer Kontakt</string>
+  <string name="foundTooManyContacts">Mehr als %d gefunden</string>
   <string name="frequentList">Häufig</string>
   <string name="full_name">Name</string>
   <string name="gallery">Galerie</string>
@@ -645,6 +647,7 @@ Grund: \"%s\""</string>
   <string name="menu_splitAggregate">Trennen</string>
   <string name="menu_sync_remove">Synchronisationsgruppe entfernen</string>
   <string name="menu_viewContact">Kontakt anzeigen</string>
+  <string name="merge_contact_message">%1$d Kontakte mit teils identischen Informationen</string>
   <string name="messageShortcutActivityTitle">Nummer für Nachricht auswählen</string>
   <string name="miprofile_account_type">Mi Konto</string>
   <string name="miprofile_alertdialog_edit">Name eingeben</string>
@@ -1052,6 +1055,8 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
   <string name="search_wipe_data">Organisieren;Kontakte</string>
   <string name="searching_vcard_message">Suche nach vCard-Daten im USB-Speicher…</string>
   <string name="select_all">Alle</string>
+  <string name="select_all_exceed">Nicht mehr als %1$d auswählen, kann nicht alle auswählen</string>
+  <string name="select_exceed">Nicht mehr als %1$d auswählen</string>
   <string name="select_groups">Gruppen auswählen</string>
   <string name="select_none">Nichts ausgewählt</string>
   <string name="select_show_contacts">Kontaktliste</string>

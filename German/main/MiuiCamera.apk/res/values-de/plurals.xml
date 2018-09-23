@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="accessibility_focus_face_detect">
-        <item quantity="other">Fokussiert, %d Gesichter erkannt</item>
-        <item quantity="one">Fokussiert, %d Gesicht erkannt</item>
-    </plurals>
+  <plurals name="accessibility_focus_face_detect">
+    <item quantity="other">Fokussiert, %d Gesichter erkannt</item>
+    <item quantity="one">Fokussiert, %d Gesicht erkannt</item>
+  </plurals>
+  <plurals name="delete_selection">
+    <item quantity="other">Ausgewählte Elemente löschen?</item>
+    <item quantity="one">Ausgewähltes Element löschen?</item>
+  </plurals>
 </resources>
