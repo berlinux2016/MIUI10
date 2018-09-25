@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Zur Startseite</string>
+  <string name="abc_action_bar_up_description">Nach oben</string>
+  <string name="abc_action_menu_overflow_description">Mehr</string>
+  <string name="abc_action_mode_done">Fertig</string>
+  <string name="abc_action_mode_select_all">Alles</string>
+  <string name="abc_activitychooserview_choose_application">App wählen</string>
+  <string name="abc_capital_off">AUS</string>
+  <string name="abc_capital_on">EIN</string>
+  <string name="abc_searchview_description_clear">Anfrage löschen</string>
+  <string name="abc_searchview_description_query">Suchanfrage</string>
+  <string name="abc_searchview_description_search">Suchen</string>
+  <string name="abc_searchview_description_submit">Anfrage absenden</string>
+  <string name="abc_searchview_description_voice">Sprachsuche</string>
+  <string name="abc_shareactionprovider_share_with">Teilen mit</string>
+  <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
+  <string name="abc_toolbar_collapse_description">Einklappen</string>
   <string name="app_name">MIUI Bluetooth</string>
   <string name="ble_device_address">Bluetooth-Smart-Geräte-MAC</string>
   <string name="ble_device_profile">Bluetoothgeräteeinstellungen</string>
@@ -17,6 +33,7 @@
   <string name="bluetooth_search_for_devices">Nach Geräten suchen</string>
   <string name="device_picker">Bluetoothgeräteeinstellungen</string>
   <string name="disconnect">Trennen</string>
+  <string name="expand_button_title">Erweitert</string>
   <string name="fast_connect_device_box">Gerät/Box</string>
   <string name="fast_connect_device_box_name">%1$s Gerät/Box</string>
   <string name="fast_connect_device_box_use_time">Kann %1$s Stunden verwenden</string>
@@ -63,9 +80,12 @@
   <string name="ok_button">OK</string>
   <string name="progress_scanning">Suche…</string>
   <string name="reset_function_msg">Wenn Sie diese Funktion zurücksetzen, funktioniert %1$s eventuell nicht mehr ordungsgemäß</string>
+  <string name="search_menu_title">Suche</string>
   <string name="some_app_taking">(%1$s verwendet diese Funktion bereits)</string>
   <string name="unbind_device_alert_cancel">Abbrechen</string>
   <string name="unbind_device_alert_content">Verbindung mit %1$s verloren. Trennen Sie dieses Gerät, um Energie zu sparen.</string>
   <string name="unbind_device_alert_ok">Trennen</string>
   <string name="unbind_device_alert_title">Gerät trennen</string>
+  <string name="v7_preference_off">AUS</string>
+  <string name="v7_preference_on">AN</string>
 </resources>
