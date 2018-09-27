@@ -45,7 +45,7 @@
   <string name="action_menu_text_bandwidth_off">Datensparen</string>
   <string name="action_menu_text_bandwidth_on">Datensparen</string>
   <string name="action_menu_text_bookmark_add_off">Webseite konnte nicht hinzugefügt werden.</string>
-  <string name="action_menu_text_bookmark_added">Lesezeichen hinzugefügt</string>
+  <string name="action_menu_text_bookmark_removed">Lesezeichen löschen</string>
   <string name="action_menu_text_copy_url">URL kopieren</string>
   <string name="action_menu_text_create_qr_code">QR-Code</string>
   <string name="action_menu_text_download">Downloads verwalten</string>
@@ -53,6 +53,8 @@
   <string name="action_menu_text_exit">Beenden</string>
   <string name="action_menu_text_find_in_page">Suche auf Seite</string>
   <string name="action_menu_text_fullscreen">Vollbild</string>
+  <string name="action_menu_text_fullscreen_enter">Vollbild aufrufen</string>
+  <string name="action_menu_text_fullscreen_exit">Vollbild beenden</string>
   <string name="action_menu_text_history">Lesezeichen &amp; Verlauf</string>
   <string name="action_menu_text_nightmode">Nachtmodus</string>
   <string name="action_menu_text_nightmode_off">Nachtmodus deaktiviert</string>
@@ -71,6 +73,17 @@
   <string name="action_one_touch">Öffne Benachrichtigungen</string>
   <string name="action_put_in_search_box">Geben Sie %s in das Suchfeld ein</string>
   <string name="action_skip">Überspringen</string>
+  <string name="action_text_all_select_bookmark">Alles wählen</string>
+  <string name="action_text_all_select_bookmark_cancel">Alles abwählen</string>
+  <string name="action_text_change_textsize_bigger">Font vergrößern</string>
+  <string name="action_text_change_textsize_smaller">Fonts verkleinern</string>
+  <string name="action_text_edit_bookmark_exit">Lesezeichen bearbeiten beenden</string>
+  <string name="action_text_nightmode_change">Umschalten Nachtmodus</string>
+  <string name="action_text_readmode_bookmark_add">Lesemodus-Lesezeichen hinzufügen</string>
+  <string name="action_text_readmode_exit">Lesemodus beenden</string>
+  <string name="action_text_readmode_more">Mehr</string>
+  <string name="action_text_readmode_theme_head">Hintergrund setzen</string>
+  <string name="action_text_theme_and_textsize_change">Anpassung von Schriftgröße und Design</string>
   <string name="actionbar_share">Teilen</string>
   <string name="actionbar_textselection_title">Textauswahl</string>
   <string name="actionbar_web_search">Websuche</string>
@@ -134,11 +147,13 @@
   <string name="bookmark_btn_select_all">Alle auswählen</string>
   <string name="bookmark_btn_select_none">Keine auswählen</string>
   <string name="bookmark_cannot_save_url">Lesezeichen für diese Adresse konnte nicht gespeichert werden</string>
+  <string name="bookmark_deleted">Lesezeichen löschen</string>
   <string name="bookmark_folder_needs_title">Geben Sie einen Gruppennamen ein</string>
   <string name="bookmark_group_lable">Gruppe</string>
   <string name="bookmark_move_to">Verschieben nach</string>
   <string name="bookmark_needs_title">Lesezeichen benötigt einen Namen</string>
   <string name="bookmark_needs_url">Lesezeichen müssen eine Adresse beinhalten</string>
+  <string name="bookmark_not_deleted">Lesezeichen konnte nicht gelöscht werden</string>
   <string name="bookmark_not_saved">Lesezeichen konnte nicht gespeichert werden</string>
   <string name="bookmark_rename_group">Gruppe umbenennen</string>
   <string name="bookmark_saved">In Lesezeichen gespeichert</string>
@@ -146,6 +161,7 @@
   <string name="bookmark_title_lable">Titel</string>
   <string name="bookmark_url_already_exisit">Adresse befindet sich bereits in den Lesezeichen</string>
   <string name="bookmark_url_can_not_null">Bitte URL eingeben</string>
+  <string name="bookmark_url_not_exisit">Sie haben diese URL bereits gelöscht</string>
   <string name="bookmark_url_not_valid">Diese Adresse ist ungültig</string>
   <string name="bookmarks_content_is_null">Keine Lesezeichen</string>
   <string name="bookmarks_management">Lesezeichen</string>
@@ -241,7 +257,7 @@
   <string name="current_version_phone">Smartphone</string>
   <string name="custom_head_card_text">Glauben Sie immer daran, dass etwas Wunderbares geschehen wird</string>
   <string name="custom_head_card_text_incognito">Nur Gott und Sie selbst kennen dieses private Fenster</string>
-  <string name="data_monitor">Datenmonitor</string>
+  <string name="data_monitor">Erinnerung Überwachung Datenverkehr</string>
   <string name="data_monitor_dialog_message">Sieht so aus, als ob irgendetwas Ihre mobilen Daten verbraucht. Öffnen Sie die Startseite, um dies zu stoppen.</string>
   <string name="data_traffic_continue">Weiter</string>
   <string name="data_traffic_download_cancel">Abbrechen</string>
@@ -393,16 +409,16 @@
   <string name="guide_entertainment_text">Vergnügung</string>
   <string name="guide_fashion_text">Mode</string>
   <string name="guide_finance_text">Finanzen</string>
+  <string name="guide_flash_type_main_title">Blitzschnell</string>
+  <string name="guide_flash_type_subtitle">Erstaunliche Geschwindigkeit, einfaches UI</string>
   <string name="guide_games_text">Spiele</string>
   <string name="guide_history_text">Geschichte</string>
-  <string name="guide_human_type_main_title">Der Browser, der Sie versteht</string>
-  <string name="guide_human_type_subtitle">Holen Sie sich tolle Empfehlungen</string>
+  <string name="guide_know_type_main_title">Der Browser, der Sie versteht</string>
+  <string name="guide_know_type_subtitle">Erhalten Sie erstaunliche Empfehlungen</string>
   <string name="guide_label_chosen_hint">Sie können maximal %d Kategorien wählen</string>
   <string name="guide_military_text">Militär</string>
   <string name="guide_motor_text">Motor</string>
   <string name="guide_politics_text">Politik</string>
-  <string name="guide_rocket_type_main_title">Blitzschnell</string>
-  <string name="guide_rocket_type_subtitle">Erstaunliche Geschwindigkeit, glatte Benutzeroberfläche</string>
   <string name="guide_skip">Überspringen</string>
   <string name="guide_sports_text">Sport</string>
   <string name="guide_start_experience">Start</string>
@@ -975,12 +991,15 @@
   <string name="nav_bottom_bar_close_all">Alle schließen</string>
   <string name="nav_bottom_bar_close_description">Schließen</string>
   <string name="nav_bottom_bar_new_tab">Neuer Tab</string>
+  <string name="nav_close_index_tab">Element %d löschen</string>
   <string name="nav_screen_container_tab_incognito">Privater Tab</string>
   <string name="nav_screen_container_tab_normal">Normaler Tab</string>
   <string name="nav_screen_incognito_message">"Ihr Browser- und Suchverlauf wird im Inkognitomodus nicht gespeichert.
 Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen weiterhin gespeichert werden."</string>
   <string name="nav_screen_incognito_time">Neue Seite wird automatisch nach %s Sekunden erstellt</string>
   <string name="nav_screen_incognito_title">Inkognitomodus</string>
+  <string name="nav_screen_tab_incognito_enter">Inkognito-Tab aufrufen</string>
+  <string name="nav_screen_tab_incognito_exit">Inkognito-Tab beenden</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Abbrechen</string>
   <string name="navigationbar_rightbutton_actiontext_go">Los</string>
   <string name="navigationbar_rightbutton_actiontext_search">Suchen</string>
@@ -1007,6 +1026,8 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="open_file_explorer_failed">Dateimanager konnte nicht geöffnet werden</string>
   <string name="open_voice_permission">Dem Mikrofon den Zugriff aufs Internet erlauben</string>
   <string name="opening_file_error">Fehler beim Öffnen der ausgewählten Datei</string>
+  <string name="page_hang_message">Die aktuelle Seite hängt, Sie müssen Ihren Browser neu starten.</string>
+  <string name="page_hang_title">Seite hängt</string>
   <string name="page_info">Seiteninfo</string>
   <string name="page_info_address">Adresse:</string>
   <string name="page_info_view">Seiteninfo ansehen</string>
@@ -1060,6 +1081,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="pref_content_night_read_mode">Nachtmodus</string>
   <string name="pref_content_search_engine">Suchanbieter festlegen</string>
   <string name="pref_content_search_engine_summary">Suchmaschinenbetreiber wählen</string>
+  <string name="pref_download_setting">Einstellungen Download</string>
   <string name="pref_enable_adblock_notification">Zeige Werbeblocker-Benachrichtigungen</string>
   <string name="pref_enable_news">Nachrichten</string>
   <string name="pref_enable_novels">Bücher</string>
@@ -1222,6 +1244,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="screenshot_loading_dialog_title">Aufnahme</string>
   <string name="sdcard_error">Überprüfen Sie Ihre SD-Karte</string>
   <string name="search">Suche</string>
+  <string name="search_button_text">Los</string>
   <string name="search_hint">Suche</string>
   <string name="search_menu_title">Suchen</string>
   <string name="search_path_browser">Einstellungen/Installierte Apps/Browser</string>
@@ -1329,6 +1352,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="suggestion_more_button_text">MEHR ANZEIGEN</string>
   <string name="suggestion_more_news">WEITERE NACHRICHTEN</string>
   <string name="suggestion_more_news_start_title_text">Ähnliche Nachrichten</string>
+  <string name="suggestion_sliding_ads_info_mark_text">WERBUNG</string>
   <string name="suggestion_topic_subtitle_hyphen">Fokus</string>
   <string name="suggestion_translation_more">MEHR ANZEIGEN</string>
   <string name="switch_proxy_dialog_msg">Netzwerk-Hijacking erkannt. Verwenden Sie die integrierte Sicherheitsapp oder melden Sie diesen Vorfall bei Ihrem Netzbetreiber.</string>
