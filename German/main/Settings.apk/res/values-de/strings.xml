@@ -2461,6 +2461,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="fingerprint_manage_tittle">Fingerabdruck</string>
   <string name="fingerprint_not_identified_msg">Fingerabdruck wurde nicht erkannt. Geben Sie Ihr Passwort ein.</string>
   <string name="fingerprint_not_recognized">Nicht erkannt</string>
+  <string name="fingerprint_others_title">Andere</string>
   <string name="fingerprint_payment">Fingerabdruckzahlungen</string>
   <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht entfernt werden</string>
   <string name="fingerprint_swipe_for_notifications_suggestion_title">Benachrichtigungen schnell sehen</string>
@@ -2658,6 +2659,11 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="gxzw_add_fingerprint_put_finger_message">Drücken Sie auf den Bildschirm und heben Sie Ihren Finger, nachdem Sie Vibrationen gespürt haben. Mehrmals wiederholen.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Drücken und Heben nach dem Vibrieren</string>
   <string name="gxzw_add_fingerprint_title">Fingerabdruck hinzufügen</string>
+  <string name="gxzw_anim_light">Neon</string>
+  <string name="gxzw_anim_metal">Metall</string>
+  <string name="gxzw_anim_pulse">Pulsieren</string>
+  <string name="gxzw_anim_rhythm">Rhythmus</string>
+  <string name="gxzw_anim_title">Fingerprintanimation</string>
   <string name="handy_mode">Einhandmodus</string>
   <string name="handy_mode_enable">Einhandmodus</string>
   <string name="handy_mode_enter_ask">Vor Einschalten des Einhandmodus fragen</string>
@@ -3205,7 +3211,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="lockpassword_choose_your_pin_header_for_fingerprint">Um Fingerabdruck zu verwenden, PIN setzen</string>
   <string name="lockpassword_choose_your_pin_message">Zur Sicherheit PIN setzen</string>
   <string name="lockpassword_choose_your_pin_header_second_space">PIN für Zweitprofil</string>
-  <string name="lockpassword_choose_your_pin_title">Eingabe von 4-16 Ziffern</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">Eingabe von 4-16 Ziffern</string>
   <string name="lockpassword_choose_your_screen_lock_header">Bildschirmsperre setzen</string>
   <string name="lockpassword_clear_label">Löschen</string>
   <string name="lockpassword_confirm_for_second_user">Passwort für Zweitprofil bestätigen</string>
@@ -6739,7 +6745,7 @@ Gefällt Ihnen Mi Mover?"</string>
   <string name="unlock_set_unlock_password_title">Passwort</string>
   <string name="unlock_set_unlock_pattern_summary">Ein einfaches Muster mit dem Finger zeichnen zum Entsperren</string>
   <string name="unlock_set_unlock_pattern_title">Muster</string>
-  <string name="unlock_set_unlock_pin_summary">4-16 Ziffern eingeben zum Entsperren</string>
+  <string name="unlock_set_unlock_pin_summary" formatted="false">4-16 Ziffern eingeben zum Entsperren</string>
   <string name="unlock_set_unlock_summary">Bitte Bildschirmsperre einschalten</string>
   <string name="unlock_setup_wizard_fingerprint_details">Sobald Sie eine Bildschirmsperre eingerichtet haben, können Sie Ihren Fingerabdruck unter Einstellungen &gt; Sicherheit einrichten</string>
   <string name="unknown_unavailability_setting_summary">Einstellung nicht verfügbar</string>
