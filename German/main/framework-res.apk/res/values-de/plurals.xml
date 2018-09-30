@@ -1,37 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="abbrev_in_num_days">
-    <item quantity="other">in %d Tagen</item>
-    <item quantity="one">morgen</item>
-  </plurals>
-  <plurals name="abbrev_in_num_hours">
-    <item quantity="other">In %d Stunden</item>
-    <item quantity="one">in 1 Stunde</item>
-  </plurals>
-  <plurals name="abbrev_in_num_minutes">
-    <item quantity="other">in %d Minuten</item>
-    <item quantity="one">in 1 Minute</item>
-  </plurals>
-  <plurals name="abbrev_in_num_seconds">
-    <item quantity="other">in %d Sekunden</item>
-    <item quantity="one">in 1 Sekunde</item>
-  </plurals>
-  <plurals name="abbrev_num_days_ago">
-    <item quantity="other">vor %d Tagen</item>
-    <item quantity="one">gestern</item>
-  </plurals>
-  <plurals name="abbrev_num_hours_ago">
-    <item quantity="other">vor %d Stunden</item>
-    <item quantity="one">vor 1 Stunde</item>
-  </plurals>
-  <plurals name="abbrev_num_minutes_ago">
-    <item quantity="other">vor %d Minuten</item>
-    <item quantity="one">vor 1 Minute</item>
-  </plurals>
-  <plurals name="abbrev_num_seconds_ago">
-    <item quantity="other">vor %d Sekunden</item>
-    <item quantity="one">vor 1 Sekunde</item>
-  </plurals>
   <plurals name="autofill_picker_some_suggestions">
     <item quantity="other">%1$s Vorschläge zum Autovervollständigen</item>
     <item quantity="one">1 Vorschlag zum Autovervollständigen</item>
@@ -116,22 +84,6 @@
     <item quantity="other">in %d Jahren</item>
     <item quantity="one">in %d Jahr</item>
   </plurals>
-  <plurals name="in_num_days">
-    <item quantity="other">in %d Tagen</item>
-    <item quantity="one">morgen</item>
-  </plurals>
-  <plurals name="in_num_hours">
-    <item quantity="other">In %d Stunden</item>
-    <item quantity="one">in 1 Stunde</item>
-  </plurals>
-  <plurals name="in_num_minutes">
-    <item quantity="other">in %d Minuten</item>
-    <item quantity="one">in 1 Minute</item>
-  </plurals>
-  <plurals name="in_num_seconds">
-    <item quantity="other">in %d Sekunden</item>
-    <item quantity="one">in 1 Sekunde</item>
-  </plurals>
   <plurals name="kg_too_many_failed_attempts_countdown">
     <item quantity="other">In %d Sekunden erneut versuchen</item>
     <item quantity="one">In 1 Sekunde erneut versuchen</item>
@@ -143,22 +95,6 @@
   <plurals name="matches_found">
     <item quantity="other">%1$d von %2$d</item>
     <item quantity="one">1 Treffer</item>
-  </plurals>
-  <plurals name="num_days_ago">
-    <item quantity="other">vor %d Tagen</item>
-    <item quantity="one">gestern</item>
-  </plurals>
-  <plurals name="num_hours_ago">
-    <item quantity="other">vor %d Stunden</item>
-    <item quantity="one">vor 1 Stunde</item>
-  </plurals>
-  <plurals name="num_minutes_ago">
-    <item quantity="other">vor %d Minuten</item>
-    <item quantity="one">vor 1 Minute</item>
-  </plurals>
-  <plurals name="num_seconds_ago">
-    <item quantity="other">vor %d Sekunden</item>
-    <item quantity="one">vor 1 Sekunde</item>
   </plurals>
   <plurals name="pinpuk_attempts">
     <item quantity="other">Sie haben noch %d Versuche, bevor Ihre SIM-Karte gesperrt wird.</item>
