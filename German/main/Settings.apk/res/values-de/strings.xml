@@ -326,10 +326,8 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="ambient_display_title">Doppeltipp, um das Telefon zu prüfen</string>
   <string name="android_beam_disabled_summary">Bitte NFC aktivieren</string>
   <string name="android_beam_explained">Sie können Webseiten, ein Video oder andere Inhalte auf ein anderes Gerät senden, das Android Beam unterstützt, indem Sie die Geräte dicht nebeneinander halten. (Normalerweise Rückseite an Rückseite)</string>
-  <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">NFC Inhaltsübertragung ist deaktiviert</string>
   <string name="android_beam_on_summary">NFC Inhaltsübertragung ist aktiviert</string>
-  <string name="android_beam_settings_title">Android Beam</string>
   <string name="android_beam_tips">Stellen Sie sicher, dass sich die beiden Geräte berühren, und wählen Sie dann die Inhalte aus, die Sie senden möchten</string>
   <string name="android_beam_witch_label">Android Beam einschalten</string>
   <string name="android_version_pending_update_summary">Update verfügbar</string>
@@ -347,7 +345,6 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="aod_mode_turn_off">Aus</string>
   <string name="aod_mode_turn_on">Ein</string>
   <string name="aod_to_close">Ausschalten</string>
-  <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Authentifizierungstyp</string>
   <string name="apn_auth_type_none">Keine</string>
   <string name="apn_auth_type_pap_chap">PAP oder CHAP</string>
@@ -492,7 +489,7 @@ Sie verlieren keine Appdaten."</string>
   <string name="application_permission_manager">Appberechtigungen</string>
   <string name="application_permissions">Appberechtigungen</string>
   <string name="application_restrictions">Apps und Inhalte zulassen</string>
-  <string name="application_size_label">App</string>
+  <string name="application_size_label">Appgröße</string>
   <string name="applications_settings">Installierte Apps</string>
   <string name="applications_settings_header">Appeinstellungen</string>
   <string name="applications_settings_summary">Apps verwalten, Verknüpfungen für Schnellstart festlegen</string>
@@ -721,13 +718,6 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_details_title">Akkuverbrauch</string>
   <string name="battery_footer_summary">Verbleibende Akkulaufzeit ist ungefähr und kann sich je nach Nutzung ändern</string>
   <string name="battery_full_charge_last">Vollladung dauert ca.</string>
-  <string name="battery_history_days">%1$d d %2$d h %3$d m %4$d s</string>
-  <string name="battery_history_days_no_seconds">%1$d d %2$d h %3$d m</string>
-  <string name="battery_history_hours">%1$d h %2$d m %3$d s</string>
-  <string name="battery_history_hours_no_seconds">%1$d h %2$d m</string>
-  <string name="battery_history_minutes">%1$d m %2$d s</string>
-  <string name="battery_history_minutes_no_seconds">%1$d m</string>
-  <string name="battery_history_seconds">%1$d s</string>
   <string name="battery_indicator_style">Akkuanzeige</string>
   <string name="battery_info_awake_battery">Aktivzeit mit Akku:</string>
   <string name="battery_info_awake_plugged">Aktivzeit während des Aufladens</string>
@@ -788,7 +778,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_saver_seekbar_title">Bei %1$s</string>
   <string name="battery_saver_seekbar_title_placeholder">Einschalten</string>
   <string name="battery_saver_turn_on_automatically_never">Nie</string>
-  <string name="battery_saver_turn_on_automatically_pct">Bei %1$s an Akku</string>
+  <string name="battery_saver_turn_on_automatically_pct">Bei %1$s Akku</string>
   <string name="battery_saver_turn_on_automatically_title">Automatisch aktivieren</string>
   <string name="battery_screen_usage">Bildschirmverbrauch ^1</string>
   <string name="battery_settings">Akku</string>
@@ -1762,7 +1752,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
   <string name="date_picker_title">Datum</string>
   <string name="date_time_24hour">24-Stunden-Format</string>
-  <string name="date_time_24hour_auto">Automatisch 24‑Stunden-Format</string>
+  <string name="date_time_24hour_auto">Automatisch 24-Stunden-Format</string>
   <string name="date_time_24hour_auto_summary">Lokale Vorgabe verwenden</string>
   <string name="date_time_24hour_title">24-Stunden-Format</string>
   <string name="date_time_auto">Datum/Uhrzeit automatisch</string>
@@ -1807,7 +1797,6 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="default_apps_title">Standardapps</string>
   <string name="default_assist_none">Keine</string>
   <string name="default_assist_title">Assistenzapp</string>
-  <string name="default_browser_title">Browser</string>
   <string name="default_browser_title_none">Nicht ausgewählt</string>
   <string name="default_calendar_app_title">Kalenderapp</string>
   <string name="default_contacts_app_title">Kontakteapp</string>
@@ -1884,7 +1873,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_miui_more">Mehr anzeigen</string>
   <string name="device_miui_version">MIUI-Version</string>
   <string name="device_miui_version_for_POCO">MIUI Version (Für POCO)</string>
-  <string name="device_miui_version_update">Ein MIUI-Update ist verfügbar</string>
+  <string name="device_miui_version_update">MIUI-Update verfügbar</string>
   <string name="device_name">Gerätename</string>
   <string name="device_name_input_error">Gerätename konnte nicht gespeichert werden</string>
   <string name="device_name_input_hint">Name eingeben</string>
@@ -2162,6 +2151,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="emergency_address_title">Notfalladresse aktualisieren</string>
   <string name="emergency_info_summary">Info &amp; Kontakte für %1$s</string>
   <string name="emergency_info_title">Notfallinformationen</string>
+  <string name="emergency_sos_title">Notfall-SOS</string>
   <string name="emergency_tone_alert">Warnton</string>
   <string name="emergency_tone_silent">Lautlos</string>
   <string name="emergency_tone_summary">Verhalten einstellen, wenn ein Notruf getätigt wird</string>
@@ -2557,7 +2547,7 @@ werden gefangen genommen, die Vogelscheuche und der Blechmann werden von den Gef
   <string name="force_stop_dlg_text">Beenden der App erzwingen kann zu unerwünschtem Verhalten führen</string>
   <string name="force_stop_dlg_title">Beenden erzwingen?</string>
   <string name="force_touch">3D-Touch</string>
-  <string name="force_touch_demo">Demo</string>
+  <string name="force_touch_demo">Demo zeigen</string>
   <string name="force_touch_enable">3D-Touch aktivieren</string>
   <string name="force_touch_enable_tips">Wenn 3D-Touch aktiviert ist, zeigt starkes Drücken eines Appsymbols am Startbildschirm das Kontextmenü der App</string>
   <string name="foreground_traffic">Vordergrund %s</string>
@@ -2659,11 +2649,10 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="gxzw_add_fingerprint_put_finger_message">Drücken Sie auf den Bildschirm und heben Sie Ihren Finger, nachdem Sie Vibrationen gespürt haben. Mehrmals wiederholen.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Drücken und Heben nach dem Vibrieren</string>
   <string name="gxzw_add_fingerprint_title">Fingerabdruck hinzufügen</string>
-  <string name="gxzw_anim_light">Neon</string>
   <string name="gxzw_anim_metal">Metall</string>
   <string name="gxzw_anim_pulse">Pulsieren</string>
   <string name="gxzw_anim_rhythm">Rhythmus</string>
-  <string name="gxzw_anim_title">Fingerprintanimation</string>
+  <string name="gxzw_anim_title">Animation Fingerabruck</string>
   <string name="handy_mode">Einhandmodus</string>
   <string name="handy_mode_enable">Einhandmodus</string>
   <string name="handy_mode_enter_ask">Vor Einschalten des Einhandmodus fragen</string>
@@ -2762,6 +2751,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="ime_security_warning">%1$s kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern</string>
   <string name="imei_information_summary">Relevante IMEI-Informationen</string>
   <string name="imei_information_title">IMEI-Informationen</string>
+  <string name="imei_multi_sim">IMEI (SIM-Slot %1$d)</string>
   <string name="immediately_destroy_activities">Aktionen nicht speichern</string>
   <string name="immediately_destroy_activities_summary">Aktivität löschen, sobald der Benutzer diese beendet</string>
   <string name="import_again">Wieder importieren</string>
@@ -3211,7 +3201,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="lockpassword_choose_your_pin_header_for_fingerprint">Um Fingerabdruck zu verwenden, PIN setzen</string>
   <string name="lockpassword_choose_your_pin_message">Zur Sicherheit PIN setzen</string>
   <string name="lockpassword_choose_your_pin_header_second_space">PIN für Zweitprofil</string>
-  <string name="lockpassword_choose_your_pin_title" formatted="false">Eingabe von 4-16 Ziffern</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">Eingabe von %d-%d Ziffern</string>
   <string name="lockpassword_choose_your_screen_lock_header">Bildschirmsperre setzen</string>
   <string name="lockpassword_clear_label">Löschen</string>
   <string name="lockpassword_confirm_for_second_user">Passwort für Zweitprofil bestätigen</string>
@@ -3439,6 +3429,7 @@ Dadurch wird Ihr mobiler Serviceplan nicht gekündigt."</string>
   <string name="media_volume_summary">Lautstärke für Musik und Videos festlegen</string>
   <string name="media_volume_title">Medien</string>
   <string name="medium_font">Mittel</string>
+  <string name="meid_multi_sim">MEID (SIM-Slot %1$d)</string>
   <string name="mem_details_title">Speicherdetails</string>
   <string name="mem_state_subtitle">Speicherzustände</string>
   <string name="mem_use_free_type">Frei</string>
@@ -3737,8 +3728,8 @@ Betriebssystem auswählen:"</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, Kopfhörer und weitere Audioeinstellungen</string>
   <string name="music_audio_effect_settings">Toneinstellungen</string>
   <string name="music_dirac_control">Tonqualität optimieren</string>
-  <string name="music_dirac_mode_capsule">Mi Kapsel</string>
-  <string name="music_dirac_mode_earbuds">Mi Kopfhörer</string>
+  <string name="music_dirac_mode_capsule">Mi Capsule</string>
+  <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
   <string name="music_dirac_mode_general">Allgemein</string>
   <string name="music_dirac_mode_general_earbuds">Allgemeine Kopfhörer</string>
   <string name="music_dirac_mode_general_inear">Allgemeine In-Ear</string>
@@ -4435,7 +4426,7 @@ Betriebssystem auswählen:"</string>
   <string name="perm_read_contacts">Kontakte lesen</string>
   <string name="perm_read_phone_state">Telefonstatus lesen</string>
   <string name="perm_read_sms">SMS lesen</string>
-  <string name="perm_storage">Externen Speiche lesen und beschreiben</string>
+  <string name="perm_storage">Externen Speicher lesen und beschreiben</string>
   <string name="permission_action_accept">Akzeptieren</string>
   <string name="permission_action_prompt">Benachrichtigen</string>
   <string name="permission_action_reject">Verweigern</string>
@@ -4549,8 +4540,7 @@ Betriebssystem auswählen:"</string>
   <string name="power_service">Dienste</string>
   <string name="power_settings_title">Einstellungen</string>
   <string name="power_unaccounted">Sonstiges</string>
-  <string name="power_usage_enhanced_debug">%1$s übrig (neue ML geschätzt)</string>
-  <!-- ML=Messlinie -->
+  <string name="power_usage_enhanced_debug">%1$s übrig (neue ML geschätzt)</string><!-- ML=Messlinie -->
   <string name="power_usage_history">Akkuverbrauch</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
   <string name="power_usage_list_summary">In Gebrauch seit der letzten Vollladung</string>
@@ -5469,7 +5459,7 @@ Mindestens %s freigeben."</string>
   <string name="security_encryption_rejected_via_home_manager">Diese Funktion wird in der Demo-Version nicht unterstützt</string>
   <string name="security_encryption_title">Gerät mit Sperrbildschirmpasswort verschlüsseln</string>
   <string name="security_input">Sicherheitseingabe</string>
-  <string name="security_input_hint">Mit der Sicherheitstastatur Passwort eingeben</string>
+  <string name="security_input_hint">Passwort mit Sicherheitstastatur eingeben</string>
   <string name="security_keyguard_category_name">Sperrbildschirm</string>
   <string name="security_password_category_name">Passwort</string>
   <string name="security_passwords_title">Passwörter</string>
@@ -5817,7 +5807,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="sort_order_recent_notification">Letzte</string>
   <string name="sort_order_size">Nach Größe sortieren</string>
   <string name="sos_privacy_and_content_policy">Nutzervereinbarung &amp; Datenschutzerklärung</string>
-  <string name="sos_privacy_dialog_button_cancel">Abrrechen</string>
+  <string name="sos_privacy_dialog_button_cancel">Abbrechen</string>
   <string name="sos_privacy_dialog_button_ok">Weiter</string>
   <string name="sos_privacy_dialog_message">"Aktivieren Sie die SOS-Notfallhilfe. Bitte bestätigen und lesen Sie die %s.
 Um die normale Nutzung der SOS-Notfallfunktion zu gewährleisten, muss sie möglicherweise Ihren Standort erfragen, das Mobilfunknetz nutzen und Ihr Adressbuch lesen. Bestätigen Sie das?"</string>
@@ -6084,6 +6074,7 @@ Formatieren löscht vorhandene Inhalte auf ^2. Um den Inhalt zu behalten, sicher
   <string name="storage_wizard_init_v2_internal_summary">Nur für Apps, Dateien und Medien auf diesem Telefon</string>
   <string name="storage_wizard_init_v2_internal_title">Als zusätzlichen Telefonspeicher nutzen</string>
   <string name="storage_wizard_init_v2_later">Später einrichten</string>
+  <string name="storage_wizard_init_v2_or">Oder</string>
   <string name="storage_wizard_init_v2_title">Wie werden Sie ^1 nutzen?</string>
   <string name="storage_wizard_migrate_body">"Sie können Fotos, Dateien und einige Apps auf diesen neuen ^1 verschieben.
 Das Verschieben dauert etwa ^2 und wird ^3 auf dem internen Speicher freigeben. Einige Apps werden während dieses Vorgangs nicht funktionieren."</string>
@@ -6745,7 +6736,7 @@ Gefällt Ihnen Mi Mover?"</string>
   <string name="unlock_set_unlock_password_title">Passwort</string>
   <string name="unlock_set_unlock_pattern_summary">Ein einfaches Muster mit dem Finger zeichnen zum Entsperren</string>
   <string name="unlock_set_unlock_pattern_title">Muster</string>
-  <string name="unlock_set_unlock_pin_summary" formatted="false">4-16 Ziffern eingeben zum Entsperren</string>
+  <string name="unlock_set_unlock_pin_summary" formatted="false">%d-%d Ziffern eingeben zum Entsperren</string>
   <string name="unlock_set_unlock_summary">Bitte Bildschirmsperre einschalten</string>
   <string name="unlock_setup_wizard_fingerprint_details">Sobald Sie eine Bildschirmsperre eingerichtet haben, können Sie Ihren Fingerabdruck unter Einstellungen &gt; Sicherheit einrichten</string>
   <string name="unknown_unavailability_setting_summary">Einstellung nicht verfügbar</string>
