@@ -3,30 +3,22 @@
   <plurals name="backup_message_wechat_video">
     <item quantity="other">%1$d temporäre Dateien von WeChat-Video werden gelöscht. Benötigen Sie eine Sicherung?</item>
     <item quantity="zero">%1$d temporäre Datei von WeChat-Video wird gelöscht. Benötigen Sie eine Sicherung?</item>
-    <item quantity="one">eine temporäre Datei von WeChat-Video wird gelöscht. Benötigen Sie eine Sicherung?</item>
+    <item quantity="one">%1$d temporäre Datei von WeChat-Video wird gelöscht. Benötigen Sie eine Sicherung?</item>
     <item quantity="two">%1$d temporäre Dateien von WeChat-Video werden gelöscht. Benötigen Sie eine Sicherung?</item>
     <item quantity="few">%1$d temporäre Dateien von WeChat-Video werden gelöscht. Benötigen Sie eine Sicherung?</item>
     <item quantity="many">%1$d temporäre Dateien von WeChat-Video werden gelöscht. Benötigen Sie eine Sicherung?</item>
   </plurals>
   <plurals name="clockin_day_count">
     <item quantity="other">%1$s Tage in Folge eingecheckt, weiter so!</item>
-    <item quantity="one">Einen Tag in Folge eingecheckt, weiter so!</item>
+    <item quantity="one">%1$s Tag in Folge eingecheckt, weiter so!</item>
   </plurals>
   <plurals name="clockin_days">
     <item quantity="other">%1$s Tage in Folge eingecheckt.</item>
-    <item quantity="one">Einen Tag in Folge eingecheckt.</item>
+    <item quantity="one">%1$s Tag in Folge eingecheckt.</item>
   </plurals>
   <plurals name="clockin_new_chip">
     <item quantity="other">Sie haben &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> Punkte.</item>
-    <item quantity="one">Sie haben &lt;font color=#faea47>&lt;b>einen&lt;/b>&lt;/font> Punkt.</item>
-  </plurals>
-  <plurals name="days">
-    <item quantity="other">%1$d Tage</item>
-    <item quantity="zero">%1$d Tage</item>
-    <item quantity="one">einen Tag</item>
-    <item quantity="two">%1$d Tage</item>
-    <item quantity="few">%1$d Tage</item>
-    <item quantity="many">%1$d Tage</item>
+    <item quantity="one">Sie haben &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> Punkt.</item>
   </plurals>
   <plurals name="days_ago">
     <item quantity="other">vor %1$d Tagen</item>
@@ -68,57 +60,9 @@
     <item quantity="few"> %1$d Elemente</item>
     <item quantity="many"> %1$d Elemente</item>
   </plurals>
-  <plurals name="file_notify_title">
-    <item quantity="other">%1$d Dateien der App %2$s empfangen</item>
-    <item quantity="zero">%1$d Dateien der App %2$s empfangen</item>
-    <item quantity="one">eine Datei der App %2$s empfangen</item>
-    <item quantity="two">%1$d Dateien der App %2$s empfangen</item>
-    <item quantity="few">%1$d Dateien der App %2$s empfangen</item>
-    <item quantity="many">%1$d Dateien der App %2$s empfangen</item>
-  </plurals>
-  <plurals name="file_notify_title_wechat_sticker">
-    <item quantity="other">%1$d neue WeChat-Sticker</item>
-    <item quantity="zero">%1$d neue WeChat-Sticker</item>
-    <item quantity="one">einen neuen WeChat-Sticker</item>
-    <item quantity="two">%1$d neue WeChat-Sticker</item>
-    <item quantity="few">%1$d neue WeChat-Sticker</item>
-    <item quantity="many">%1$d neue WeChat-Sticker</item>
-  </plurals>
-  <plurals name="file_notify_title_wechat_video">
-    <item quantity="other">%1$d Dateien von WeChat empfangen</item>
-    <item quantity="zero">%1$d Dateien von WeChat empfangen</item>
-    <item quantity="one">eine Datei von WeChat empfangen</item>
-    <item quantity="two">%1$d Dateien von WeChat empfangen</item>
-    <item quantity="few">%1$d Dateien von WeChat empfangen</item>
-    <item quantity="many">%1$d Dateien von WeChat empfangen</item>
-  </plurals>
-  <plurals name="file_notify_title_wechat_video_auto_backup">
-    <item quantity="other">%1$d WeChat Videos gesichert</item>
-    <item quantity="zero">%1$d WeChat Videos gesichert</item>
-    <item quantity="one">ein WeChat Video gesichert</item>
-    <item quantity="two">%1$d WeChat Videos gesichert</item>
-    <item quantity="few">%1$d WeChat Videos gesichert</item>
-    <item quantity="many">%1$d WeChat Videos gesichert</item>
-  </plurals>
-  <plurals name="file_notify_title_wechat_video_expire">
-    <item quantity="other">%1$d Dateien von WeChat Video werden ablaufen</item>
-    <item quantity="zero">%1$d Dateien von WeChat Video werden ablaufen</item>
-    <item quantity="one">eine Datei von WeChat Video wird ablaufen</item>
-    <item quantity="two">%1$d Dateien von WeChat Video werden ablaufen</item>
-    <item quantity="few">%1$d Dateien von WeChat Video werden ablaufen</item>
-    <item quantity="many">%1$d Dateien von WeChat Video werden ablaufen</item>
-  </plurals>
   <plurals name="follow_count">
     <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> Anhänger</item>
     <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> Anhänger</item>
-  </plurals>
-  <plurals name="follower_num">
-    <item quantity="other">Abonnenten</item>
-    <item quantity="zero">Abonnenten</item>
-    <item quantity="one">Abonnent</item>
-    <item quantity="two">Abonnenten</item>
-    <item quantity="few">Abonnenten</item>
-    <item quantity="many">Abonnenten</item>
   </plurals>
   <plurals name="found_new_files">
     <item quantity="other">%1$d neue Dateien gefunden</item>
@@ -132,14 +76,6 @@
     <item quantity="other">%1$s Edelsteine</item>
     <item quantity="one">ein Edelstein</item>
   </plurals>
-  <plurals name="hours">
-    <item quantity="other">%1$d Stunden</item>
-    <item quantity="zero">%1$d Stunden</item>
-    <item quantity="one">eine Stunde</item>
-    <item quantity="two">%1$d Stunden</item>
-    <item quantity="few">%1$d Stunden</item>
-    <item quantity="many">%1$d Stunden</item>
-  </plurals>
   <plurals name="hours_ago">
     <item quantity="other">vor %1$d Stunden</item>
     <item quantity="zero">vor %1$d Stunden</item>
@@ -148,14 +84,6 @@
     <item quantity="few">vor %1$d Stunden</item>
     <item quantity="many">vor %1$d Stunden</item>
   </plurals>
-  <plurals name="items_file">
-    <item quantity="other"> (%1$d Elemente)</item>
-    <item quantity="zero"> (%1$d Elemente)</item>
-    <item quantity="one"> (ein Element)</item>
-    <item quantity="two"> (%1$d Elemente)</item>
-    <item quantity="few"> (%1$d Elemente)</item>
-    <item quantity="many"> (%1$d Elemente)</item>
-  </plurals>
   <plurals name="items_picture">
     <item quantity="other"> (%1$d Elemente)</item>
     <item quantity="zero"> (%1$d Elemente)</item>
@@ -163,14 +91,6 @@
     <item quantity="two"> (%1$d Elemente)</item>
     <item quantity="few"> (%1$d Elemente)</item>
     <item quantity="many"> (%1$d Elemente)</item>
-  </plurals>
-  <plurals name="mins">
-    <item quantity="other">%1$d Minuten</item>
-    <item quantity="zero">%1$d Minuten</item>
-    <item quantity="one">eine Minute</item>
-    <item quantity="two">%1$d Minuten</item>
-    <item quantity="few">%1$d Minuten</item>
-    <item quantity="many">%1$d Minuten</item>
   </plurals>
   <plurals name="mins_ago">
     <item quantity="other">vor %1$d Minuten</item>
@@ -183,14 +103,6 @@
   <plurals name="more_gems">
     <item quantity="other">Sammeln Sie &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> Edelsteine mehr um an der Auslosung teilzunehmen.</item>
     <item quantity="one">Sammeln Sie &lt;font color=#fc7050>&lt;b>einen&lt;/b>&lt;/font> Edelstein mehr um an der Auslosung teilzunehmen.</item>
-  </plurals>
-  <plurals name="number_of_comment">
-    <item quantity="other">%1$s Kommentare</item>
-    <item quantity="zero">%1$s Kommentare</item>
-    <item quantity="one">Einen Kommentar</item>
-    <item quantity="two">%1$s Kommentare</item>
-    <item quantity="few">%1$s Kommentare</item>
-    <item quantity="many">%1$s Kommentare</item>
   </plurals>
   <plurals name="number_of_comment_flow">
     <item quantity="other">%1$s Kommentare</item>
@@ -252,14 +164,6 @@
     <item quantity="few">Markiere %1$s verwandte Dateien (%2$d Elemente)</item>
     <item quantity="many">Markiere %1$s verwandte Dateien (%2$d Elemente)</item>
   </plurals>
-  <plurals name="seconds">
-    <item quantity="other">%1$d Sekunden</item>
-    <item quantity="zero">%1$d Sekunden</item>
-    <item quantity="one">eine Sekunde</item>
-    <item quantity="two">%1$d Sekunden</item>
-    <item quantity="few">%1$d Sekunden</item>
-    <item quantity="many">%1$d Sekunden</item>
-  </plurals>
   <plurals name="total_topic_num">
     <item quantity="other">%1$s Themen</item>
     <item quantity="one">ein Thema</item>
@@ -268,41 +172,9 @@
     <item quantity="other">%1$s Personen</item>
     <item quantity="one">eine Person</item>
   </plurals>
-  <plurals name="ui_bar_txt_download_progress">
-    <item quantity="other">noch %1$d Dateien zu laden</item>
-    <item quantity="zero">noch %1$d Dateien zu laden</item>
-    <item quantity="one">noch eine Datei zu laden</item>
-    <item quantity="two">noch %1$d Dateien zu laden</item>
-    <item quantity="few">noch %1$d Dateien zu laden</item>
-    <item quantity="many">noch %1$d Dateien zu laden</item>
-  </plurals>
-  <plurals name="ui_bar_txt_upload_progress">
-    <item quantity="other">noch %1$d Dateien hochzuladen</item>
-    <item quantity="zero">noch %1$d Dateien hochzuladen</item>
-    <item quantity="one">noch eine Datei hochzuladen</item>
-    <item quantity="two">noch %1$d Dateien hochzuladen</item>
-    <item quantity="few">noch %1$d Dateien hochzuladen</item>
-    <item quantity="many">noch %1$d Dateien hochzuladen</item>
-  </plurals>
-  <plurals name="user_follow_me_items">
-    <item quantity="other">Anhänger</item>
-    <item quantity="zero">Anhänger</item>
-    <item quantity="one">Anhänger</item>
-    <item quantity="two">Anhänger</item>
-    <item quantity="few">Anhänger</item>
-    <item quantity="many">Anhänger</item>
-  </plurals>
   <plurals name="user_sign_limt">
     <item quantity="other">Sie können %d Zeichen eingeben.</item>
     <item quantity="one">Sie können ein Zeichen eingeben.</item>
-  </plurals>
-  <plurals name="user_upload_items">
-    <item quantity="other">Videos</item>
-    <item quantity="zero">Videos</item>
-    <item quantity="one">Video</item>
-    <item quantity="two">Videos</item>
-    <item quantity="few">Videos</item>
-    <item quantity="many">Videos</item>
   </plurals>
   <plurals name="video_ad_download_tip">
     <item quantity="other"> Downloads</item>
@@ -323,14 +195,6 @@
     <item quantity="two"> %1$d Gegenstände</item>
     <item quantity="few"> %1$d Gegenstände</item>
     <item quantity="many"> %1$d Gegenstände</item>
-  </plurals>
-  <plurals name="video_num">
-    <item quantity="other">%1$s Videos</item>
-    <item quantity="zero">%1$s Videos</item>
-    <item quantity="one">Ein Video</item>
-    <item quantity="two">%1$s Videos</item>
-    <item quantity="few">%1$s Videos</item>
-    <item quantity="many">%1$s Videos</item>
   </plurals>
   <plurals name="video_play_num">
     <item quantity="other">%1$s mal abgespielt</item>
