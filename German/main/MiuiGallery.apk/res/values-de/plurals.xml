@@ -15,10 +15,6 @@
    <plurals name="add_to_secret_failed_with_reason_and_count">
     <item quantity="other">%2$d Elemente können nicht zu einem versteckten Album hinzugefügt werden. %1$s.</item>
     <item quantity="one">%2$d Element kann nicht zu einem versteckten Album hinzugefügt werden. %1$s.</item>
-  </plurals>   
-  <plurals name="add_to_secret_successful">
-    <item quantity="other">%1$d Fotos zum versteckten Album hinzugefügt</item>
-    <item quantity="one">%1$d Foto zum versteckten Album hinzugefügt</item>
   </plurals>
   <plurals name="age_day">
     <item quantity="other">%d Tage</item>
@@ -48,22 +44,6 @@
     <item quantity="other">(%d Elemente gesamt)</item>
     <item quantity="one">(%d Element gesamt)</item>
   </plurals>
-  <plurals name="baby_age_subtitle_day">
-    <item quantity="other">%1$d Tage</item>
-    <item quantity="one">%1$d Tag</item>
-  </plurals>
-  <plurals name="baby_age_subtitle_month">
-    <item quantity="other">"%1$d Monate "</item>
-    <item quantity="one">"%1$d Monat "</item>
-  </plurals>
-  <plurals name="baby_age_subtitle_year">
-    <item quantity="other">"%1$d Jahre "</item>
-    <item quantity="one">"%1$d Jahr "</item>
-  </plurals>
-  <plurals name="baby_album_share_user_count_tip">
-    <item quantity="other">%1$d Personen</item>
-    <item quantity="one">%1$d Person</item>
-  </plurals>
   <plurals name="baby_album_sharer_recommand_new_pictures">
     <item quantity="other">%1$d Fotos von %2$s werden hinzugefügt</item>
     <item quantity="one">%1$d Foto von %2$s wird hinzugefügt</item>
@@ -80,14 +60,6 @@
     <item quantity="other">%d Fotos oder Videos | angehalten</item>
     <item quantity="one">%d Foto oder Video | angehalten</item>
   </plurals>
-  <plurals name="backup_waiting">
-    <item quantity="other">%1$d Elemente warten auf Sicherung</item>
-    <item quantity="one">%1$d Element wartet auf Sicherung</item>
-  </plurals>
-  <plurals name="backuped">
-    <item quantity="other">%1$d Elemente wurden gesichert</item>
-    <item quantity="one">%1$d Element wurde gesichert</item>
-  </plurals>
   <plurals name="backuping_desc_gprs">
     <item quantity="other">%1$d Fotos und Videos | %2$s</item>
     <item quantity="one">%1$d Foto oder Video | %2$s</item>
@@ -96,10 +68,6 @@
     <item quantity="other">%1$d Fotos und Videos</item>
     <item quantity="one">%1$d Foto oder Video</item>
   </plurals>
-  <plurals name="cloud_space_full">
-    <item quantity="other">Cloudspeicher ist voll, %1$d Elemente warten auf Sicherung</item>
-    <item quantity="one">Cloudspeicher ist voll, %1$d Element wartet auf Sicherung</item>
-  </plurals>
   <plurals name="cloud_storage_photo_num">
     <item quantity="other">%d Fotos</item>
     <item quantity="one">%d Foto</item>
@@ -107,70 +75,6 @@
   <plurals name="cloud_storage_video_num">
     <item quantity="other">%d Videos</item>
     <item quantity="one">%d Video</item>
-  </plurals>
-  <plurals name="confirm_delete_album">
-    <item quantity="other">%1$s Alben löschen (%2$s gesamt)?</item>
-    <item quantity="one">Dieses Album löschen (%2$s gesamt)?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_cloud_image">
-    <item quantity="other">%s Fotos aus der Mi Cloud löschen?</item>
-    <item quantity="one">%s Foto aus der Mi Cloud löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_cloud_image_from_homepage">
-    <item quantity="other">%s Fotos aus der Mi Cloud löschen?</item>
-    <item quantity="one">Dieses Foto aus der Mi Cloud löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_cloud_image_video">
-    <item quantity="other">%s Elemente von diesem Album löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-    <item quantity="other">%s Elemente aus der Mi Cloud löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_cloud_local_image">
-    <item quantity="other">%s Fotos lokal und aus der Mi Cloud löschen?</item>
-    <item quantity="one">%s Foto lokal und aus der Mi Cloud löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-    <item quantity="other">%s Fotos vom internen Speicher und aus der Mi Cloud löschen?</item>
-    <item quantity="one">Dieses Foto vom internen Speicher und aus der Mi Cloud löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-    <item quantity="other">Ausgewählte Elemente beinhalten Fotos oder Videos in der Mi Cloud, %s Elemente jeweils von diesem Gerät und aus der Mi Cloud löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_cloud_local_video">
-    <item quantity="other">%s Videos lokal und aus der Mi Cloud löschen?</item>
-    <item quantity="one">%s Video lokal und aus der Mi Cloud löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-    <item quantity="other">%s Videos vom internen Speicher und aus der Mi Cloud löschen?</item>
-    <item quantity="one">Dieses Video vom internen Speicher und aus der Mi Cloud löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_cloud_video">
-    <item quantity="other">%s Videos aus der Mi Cloud löschen?</item>
-    <item quantity="one">%s Video aus der Mi Cloud löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_cloud_video_from_homepage">
-    <item quantity="other">%s Videos aus der Mi Cloud löschen?</item>
-    <item quantity="one">Dieses Video aus der Mi Cloud löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_local_image">
-    <item quantity="other">%s Fotos löschen?</item>
-    <item quantity="one">Dieses Foto löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_local_image_video">
-    <item quantity="other">%s Elemente löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_has_local_video">
-    <item quantity="other">%s Videos löschen?</item>
-    <item quantity="one">Dieses Video löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_image_from_many_albums">
-    <item quantity="other">%1$d Fotos aus %2$d Alben löschen?</item>
-    <item quantity="one">Dieses Foto aus %2$d Alben löschen?</item>
-  </plurals>
-  <plurals name="confirm_delete_video_from_many_albums">
-    <item quantity="other">%1$d Videos aus %2$d Alben löschen?</item>
-    <item quantity="one">Dieses Video aus %2$d Alben löschen?</item>
   </plurals>
   <plurals name="custom_select_title_items_selected">
     <item quantity="other">%d Elemente ausgewählt</item>
@@ -227,7 +131,7 @@
   <plurals name="fail_reason_processing_file">
     <item quantity="other">Fotos bearbeiten…</item>
     <item quantity="one">Foto bearbeiten…</item>
-  </plurals>  
+  </plurals>
   <plurals name="fast_share_auto_render_failed">
     <item quantity="other">%1$d Fotos nicht gerendert und übersprungen</item>
     <item quantity="one">Foto nicht gerendert und übersprungen</item>
@@ -235,43 +139,6 @@
   <plurals name="file_count_format">
     <item quantity="other">Insgesamt %1$d</item>
     <item quantity="one">Insgesamt %1$d </item>
-  </plurals>
-  <plurals name="how_many_pics">
-    <item quantity="other">%d Fotos</item>
-    <item quantity="one">%d Foto</item>
-  </plurals>
-  <plurals name="how_many_sub_folders">
-    <item quantity="other">%d Ordner</item>
-    <item quantity="one">%d Ordner</item>
-  </plurals>
-  <plurals name="how_many_videos">
-    <item quantity="other">%d Videos</item>
-    <item quantity="one">%d Video</item>
-  </plurals>
-  <plurals name="ignore_faces_alert_msg">
-    <item quantity="other">Zeige diese Gesichter nicht?</item>
-    <item quantity="one">Zeige dieses Gesicht nicht?</item>
-  </plurals>
-  <plurals name="local_space_full">
-    <item quantity="other">Wenig lokaler Speicherplatz, %1$d Elemente warten auf Sicherung</item>
-    <item quantity="one">Wenig lokaler Speicherplatz, %1$d  Element wartet auf Sicherung</item>
-  </plurals>
-  <plurals name="message_no_delete_access_with_count">
-    <item quantity="other">Sie haben keine Rechte, um %d Dateien zu löschen</item>
-    <item quantity="one">Sie haben keine Rechte, um diese Datei zu löschen</item>
-  </plurals>
-  <plurals name="more_face">
-    <item quantity="other">%1$s Fotos von %2$s</item>
-    <item quantity="one">%1$s Foto von %2$s</item>
-  </plurals>
-  <plurals name="network_unsatisfied">
-    <item quantity="other">Netzwerkfehler, %1$d Elemente warten auf Sicherung</item>
-    <item quantity="one">Netzwerkfehler, %1$d  Element wartet auf Sicherung</item>
-  </plurals>
-  <plurals name="number_of_images">
-    <item quantity="other">%1$d Bilder</item>
-    <item quantity="zero">%1$d Bilder</item>
-    <item quantity="one">%1$d Bild</item>
   </plurals>
   <plurals name="number_of_images_and_videos_to_upload">
     <item quantity="other">%1$d Elemente warten auf Synchronisierung</item>
@@ -284,21 +151,6 @@
   <plurals name="number_of_images_to_upload">
     <item quantity="other">%1$d Fotos warten auf Synchronisation</item>
     <item quantity="one">%1$d Foto wartet auf Synchronisation</item>
-  </plurals>
-  <plurals name="number_of_items">
-    <item quantity="other">%1$d Elemente</item>
-    <item quantity="zero">%1$d Elemente</item>
-    <item quantity="one">%1$d Element</item>
-  </plurals>
-  <plurals name="number_of_items_selected">
-    <item quantity="other">%1$d ausgewählt</item>
-    <item quantity="zero">%1$d ausgewählt</item>
-    <item quantity="one">%1$d ausgewählt</item>
-  </plurals>
-  <plurals name="number_of_pictures">
-    <item quantity="other">%1$d</item>
-    <item quantity="zero">%1$d</item>
-    <item quantity="one">%1$d</item>
   </plurals>
   <plurals name="number_of_uploading_images">
     <item quantity="other">%1$d Fotos werden synchronisiert…</item>
@@ -319,10 +171,6 @@
   <plurals name="number_of_videos_to_upload">
     <item quantity="other">%1$d Videos warten auf Synchronisation</item>
     <item quantity="one">%1$d Video wartet auf Synchronisation</item>
-  </plurals>
-  <plurals name="pick_with_limited_upper_bound_title">
-    <item quantity="other">Sie können %d Elemente auswählen</item>
-    <item quantity="one">Sie können %d Element auswählen</item>
   </plurals>
   <plurals name="picker_all_image_need_download">
     <item quantity="other">Ausgewählte Fotos sind nicht auf diesem Gerät, über die mobile Datenverbindung herunterladen?</item>
@@ -371,7 +219,7 @@
   <plurals name="remove_from_secret_failed_with_reason_and_count">
     <item quantity="other">%2$d Elemente können nicht aus dem versteckten Album entfernt werden. %1$s.</item>
     <item quantity="one">%2$d Element kann nicht aus dem versteckten Album entfernt werden. %1$s.</item>
-  </plurals>  
+  </plurals>
   <plurals name="search_feedback_done_mark_and_contribute_false_negative">
     <item quantity="other">%1$d Fotos zu \"2$s\ und zur Datenbank hinzugefügt</item>
     <item quantity="one">Ein Foto zu \"2$s\ und zur Datenbank hinzugefügt</item>
@@ -387,10 +235,6 @@
   <plurals name="search_feedback_done_mark_false_positive">
     <item quantity="other">%1$d Fotos aus \"%2$s\" entfernt</item>
     <item quantity="one">%1$d Foto aus \"%2$s\" entfernt</item>
-  </plurals>
-  <plurals name="seconds">
-    <item quantity="other">%d Sekunden</item>
-    <item quantity="one">%d Sekunde</item>
   </plurals>
   <plurals name="send_processing_files_error">
     <item quantity="other">Konnte nicht teilen. %d Fotos werden immer noch bearbeitet…</item>
@@ -411,10 +255,6 @@
   <plurals name="sync_error_title">
     <item quantity="other">%d Fotos und Videos wurden nicht gesichert</item>
     <item quantity="one">%d Foto oder Video wurde nicht gesichert</item>
-  </plurals>
-  <plurals name="sync_off">
-    <item quantity="other">Synchronisation ist ausgeschaltet, %1$d Elemente warten auf Sicherung</item>
-    <item quantity="one">Synchronisation ist ausgeschaltet, %1$d Element wartet auf Sicherung</item>
   </plurals>
   <plurals name="sync_total_count">
     <item quantity="other">%d Elemente</item>
