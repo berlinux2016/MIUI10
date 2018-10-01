@@ -1,12 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accept_modify_call_request_prompt">Modifizierten Anruf annehmen?</string>
-  <string name="add_vm_number_str">Nummer hinzufügen</string>
   <string name="antispam_local_marked">Lokal markiert</string>
   <string name="antispam_marked_count">Übermittelt von %1$d MIUI Benutzer</string>
   <string name="antispam_notification_title">Unbekannte Nummer</string>
   <string name="antispam_provider">Identifiziert von %s</string>
-  <string name="areacode_set_default">Als Standard setzen</string>
   <string name="callFailed_cb_enabled">Sie können keine Anrufe tätigen, wenn die Anrufsperre aktiviert ist</string>
   <string name="callFailed_congestion">Netzwerk ausgelastet</string>
   <string name="callFailed_dialToDial">DIAL-Anfrage modifiziert, um DIAL mit einer anderen Nummer zu nutzen</string>
@@ -30,14 +27,12 @@
   <string name="callFailed_timedOut">Keine Antwort, Zeitüberschreitung</string>
   <string name="callFailed_unobtainable_number">Ungültige Nummer</string>
   <string name="callFailed_userBusy">Leitung besetzt</string>
-  <string name="callUnanswered_forwarded">Anruf unbeantwortet und weitergeleitet</string>
   <string name="call_button_conference_manager_text">Konferenzmanager</string>
   <string name="call_button_dialer_text">Tastenfeld</string>
   <string name="call_button_mute_text">Stumm</string>
   <string name="call_button_tools_text">Funktion</string>
   <string name="call_contacts_deny_permission_msg">Erlaubnis zum Kontakte lesen verweigert, Kontaktinfos anzeigen nicht möglich</string>
   <string name="call_description_recording">Aufnahme…</string>
-  <string name="call_extension_conference_mode">Konferenzmodus</string>
   <string name="call_record_wait_label">Warten</string>
   <string name="call_recording_deny_permission_msg">Erlaubnis zur Aufnahme verweigert, Aufnehmen nicht möglich</string>
   <string name="call_recording_error_low_storage">Nicht genügend Speicher</string>
@@ -53,7 +48,6 @@
   <string name="call_recording_notification_title_error">Anruf kann nicht aufgezeichnet werden</string>
   <string name="call_title_redialing_with_times">%d Wahlwiederholungen</string>
   <string name="caller_manage_header">Telefonkonferenz %s</string>
-  <string name="calling_via_template">Anruf über %s</string>
   <string name="can_not_call_oneself">Diese Nummer kann nicht angerufen werden</string>
   <string name="can_not_use">Kann nicht verwendet werden</string>
   <string name="cancel">Abbrechen</string>
@@ -68,7 +62,6 @@
   <string name="card_title_hanging_up_weak_signal">Schwaches Signal, Gespräch wird beendet…</string>
   <string name="card_title_in_call">Im Gespräch</string>
   <string name="card_title_in_call_short">Im Gespräch</string>
-  <string name="card_title_incoming_call">Eingehender Anruf</string>
   <string name="card_title_incoming_conference">Konferenzeinladung</string>
   <string name="card_title_incoming_conference_call">Eingehende Telefonkonferenz</string>
   <string name="card_title_on_hold">Gehaltener Anruf</string>
@@ -81,8 +74,6 @@
   <string name="card_title_video_call_paused">Video angehalten</string>
   <string name="card_title_video_conf_call">Videokonferenz</string>
   <string name="card_video_hold_swap">Tauschen</string>
-  <string name="cb_dialog_title_language_choice">Sprache wählen</string>
-  <string name="cb_error_language_select">Wählen Sie mindestens eine Sprache</string>
   <string name="change_to_voice_tips_when_background">Anderer Teilnehmer hat zu Sprachanruf umgeschaltet</string>
   <string name="close_camera_failed">Kamera abschalten nicht möglich…</string>
   <string name="close_camera_requesting">Kamera abschalten…</string>
@@ -95,7 +86,6 @@
   <string name="crbt_second_hold_prompt">%s wird gehalten…</string>
   <string name="crbt_second_hold_prompt_conference">Telefonkonferenz wird gehalten…</string>
   <string name="crbt_second_hold_prompt_no_name">Vorheriges Gespräch wird gehalten…</string>
-  <string name="default_area_code_setting">Standardvorwahl</string>
   <string name="description_image_button_answer">Antworten</string>
   <string name="description_image_button_dialpad">Tastenfeld</string>
   <string name="description_image_button_eight">Acht</string>
@@ -144,36 +134,14 @@
   <string name="incoming_circle_text_message_p">Nach oben wischen</string>
   <string name="incoming_circle_text_reject">Freigeben</string>
   <string name="incoming_circle_text_reject_p">Nach oben wischen</string>
-  <string name="ivr_menu_dialing_msg">Weiterleiten…</string>
-  <string name="ivr_menu_dialing_msg_no_mute">Übertragung zum ausgewähltem Dienst (Fehlermeldungen ignorieren)…</string>
-  <string name="ivr_menu_list_sub_menu_count_format">%s drücken</string>
-  <string name="ivr_menu_list_title">Sprachmenü</string>
-  <string name="keep_wait_call_back">Weiter warten</string>
-  <string name="livetalk_dial">Aufladen</string>
-  <string name="livetalk_hangup">Auflegen</string>
   <string name="manageConferenceLabel">Telefonkonferenz verwalten</string>
-  <string name="modify_call_failure_str">Ändern der Anrufanforderung fehlgeschlagen</string>
-  <string name="modify_call_option_title">Welcher Anruftyp?</string>
-  <string name="modify_call_option_voice">Nur Sprache</string>
-  <string name="modify_call_option_vt_rx">Video erhalten</string>
   <string name="modify_call_option_vt_tx">Video gesendet</string>
   <string name="modify_call_prompt_no">Nein</string>
   <string name="modify_call_prompt_yes">Ja</string>
-  <string name="network_error_message">Netzwerk instabil.  Umschalten auf reguläre Anrufe über Ihren Netzbetreiber.</string>
-  <string name="network_error_title">Instabiles Netzwerk</string>
   <string name="no_balance_message">Zu wenig Guthaben. Sie können nach wie vor reguläre Anrufe machen.</string>
-  <string name="no_balance_title">Zu wenig Guthaben</string>
   <string name="no_call_back_message">Verbindung dauert zu lange. Umschalten auf auf reguläre Anrufe.</string>
-  <string name="no_call_back_title">Achtung</string>
-  <string name="no_vm_number">Mailboxnummer fehlt</string>
-  <string name="no_vm_number_msg">Keine Mailboxnummer auf der SIM-Karte gespeichert</string>
   <string name="non_ivr_menu_collapse_menu">Menü schließen</string>
   <string name="non_ivr_menu_view_menu">Menü zeigen</string>
-  <string name="not_activate_sim_card_content">Verifizieren Sie Ihre Telefonnummer, um Aufladepaktete zu verwenden. Sie können nach wie vor reguläre Anrufe über Ihren Netzbetreiber machen.</string>
-  <string name="not_activate_sim_card_content_title">Telefonnummer ist nicht verifiziert</string>
-  <string name="not_activate_sim_card_content_with_operator">SIM %1$s (%2$s) verifizieren, um Anrufe über Aufladepakete zu machen. Sie können nach wie vor reguläre Anrufe über Ihren Netzbetreiber machen.</string>
-  <string name="not_support_message">Anruf dieser Nummer nicht möglich. Umschalten auf reguläre Anrufe über Ihren Netzbetreiber.</string>
-  <string name="not_support_title">Diese Nummer wird nicht unterstützt</string>
   <string name="notification_action_accept">Annehmen</string>
   <string name="notification_action_answer_voice">Sprache</string>
   <string name="notification_action_dismiss">Abweisen</string>
@@ -187,8 +155,6 @@
   <string name="notification_ongoing_call">Laufender Anruf</string>
   <string name="notification_requesting_video_call">Eingehende Videoanfrage</string>
   <string name="online_check_provider_info">Identifiziert durch %s</string>
-  <string name="online_check_warning_info_by_cmb">Prüfen Sie immer die Identität der Person, mit der Sie per Telefon oder Video sprechen, bevor Sie Fragen zu Ihren persönlichen Finanzen beantworten</string>
-  <string name="online_check_warning_type_by_cmb">Spam</string>
   <string name="onscreenEndCallText">Ende</string>
   <string name="onscreen_add_call_text">Anruf hinzufügen</string>
   <string name="onscreen_audio_mode_conference">Konferenz</string>
@@ -227,10 +193,8 @@
   <string name="unlock_phone">Gerät entsperren</string>
   <string name="upgrade_vt_prompt">Auf Videoanruf umschalten?</string>
   <string name="user_locked_prompt">Gerät entsperren für Zugriff auf Kontakte</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Erst TTY-Modus einschalten</string>
   <string name="video_conference_caller_info_name">%1$s Videokonferenz</string>
   <string name="video_crbt_title">Video-Rückrufton der Gegenstelle wird wiedergegeben</string>
-  <string name="video_switch_to_voice_call_prompt">Zu Sprachtelefonie wechseln</string>
   <string name="voicemail">Sprachnachricht</string>
   <string name="volume_boost_text">Lautstärke erfolgreich erhöht</string>
   <string name="wait_prompt_str">Folgende Töne senden?</string>
