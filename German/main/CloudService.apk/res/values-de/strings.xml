@@ -1,132 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">Zugriff verweigert</string>
-  <string name="account">Konto</string>
   <string name="account_related">Ihr Gerät ist mit einem bestehenden Mi Konto verknüpft (%s). Stellen Sie eine Internetverbindung her, um das Gerät zu verifizieren.</string>
-  <string name="activate">Aktivieren</string>
   <string name="activate_find_device_success">Gerät finden wurde aktiviert</string>
   <string name="activate_finddevice">Internetverbindung herstellen, um das Telefon zu aktivieren</string>
-  <string name="activate_number_change_dialog_message">Eine Telefonnummer wählen, welche sichtbar für andere Geräte ist, wenn Sie per VoIP telefonieren</string>
   <string name="activating">Wird aktiviert…</string>
-  <string name="add_cloud_storage">Speicher hinzufügen</string>
   <string name="add_short_cut">Hinzufügen</string>
   <string name="added_successfully">Hinzufügen erfolgreich</string>
-  <string name="all_sync_item_open">Alle Elemente sind offen</string>
   <string name="antispam_sync">\"Bitte nicht stören\"-Einstellungen</string>
-  <string name="apple_cloud_price">Etwa 72 RMB pro Jahr</string>
   <string name="bad_authentication">Ungültiges Konto oder Passwort</string>
   <string name="btn_return">Zurück</string>
   <string name="button_cancel">Abbrechen</string>
-  <string name="buy_more_space_b_class">"Loggen Sie sich bei mi.com/micloud ein, um mehr Speicherplatz zu erhalten.
-Sie benötigen eine Mainland China Bankkarte, um zusätzlichen Speicherplatz zu kaufen."</string>
-  <string name="buy_more_space_c_class">"Diese Funktion setzt eine Mainland China Bankkarte voraus.
-Um mehr Speicherplatz zu erhalten, besuchen Sie mi.com/micloud."</string>
-  <string name="buy_space_expire">Gekaufter Speicherplatz wird in %s verfallen</string>
-  <string name="buy_space_expire_concat">%1$s bis %2$s</string>
-  <string name="buy_space_sulotion_auto_renew">Automatisch erneuern</string>
-  <string name="buy_space_sulotion_message">%s GB zusätzlichen Speicherplatz kaufen</string>
-  <string name="buy_space_sulotion_not_auto_renew">Nicht automatisch erneuern</string>
-  <string name="buy_space_sulotion_renew_message">Gültig für %s</string>
-  <string name="buy_space_sulotion_renew_title">Abo verlängern</string>
-  <string name="buy_space_sulotion_title">Speicherplatz kaufen</string>
   <string name="calendar_sync">Kalender</string>
   <string name="click_to_enabled">Berühren zum Synchronisieren</string>
   <string name="close_shortcut">Schließen</string>
-  <string name="cloud_back_up_button_ok">Sofort stoppen</string>
-  <string name="cloud_back_up_close_info">Berühren zum Sichern</string>
-  <string name="cloud_back_up_dialog_content">Laufende Sicherung stoppen? Wenn Sie diese jetzt stoppen, können Sie diese nicht zur Wiederherstellung nutzen.</string>
-  <string name="cloud_back_up_network_unavailable">Konnte nichts entfernen. Verbinden Sie sich mit einem WLAN und versuchen Sie es erneut.</string>
-  <string name="cloud_back_up_open_info">"Apps sichern, wenn Sie mit einem WLAN verbunden sind, einmal alle %1$s
-Zuletzt gesichert am %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Apps sichern, wenn Sie mit einem WLAN verbunden sind, einmal alle %1$s</string>
-  <string name="cloud_back_up_remove_success">Sicherung gelöscht</string>
-  <string name="cloud_back_up_summary">Sichern, wenn Sie mit einem WLAN verbunden sind</string>
-  <string name="cloud_back_up_title">Apps sichern </string>
-  <string name="cloud_backup_dialog_title">In Mi Cloud sichern</string>
   <string name="cloud_find_device">Gerät finden</string>
   <string name="cloud_find_device_off">Aus</string>
   <string name="cloud_find_device_on">An</string>
-  <string name="cloud_restore_title">Sicherung wiederherstellen</string>
-  <string name="cloud_space_upgrade_message">Berühren, um %s GB zu Ihrer Cloud hinzuzufügen</string>
-  <string name="cloud_space_upgrade_no_quota_info">Konnte keine Speicherplatzinfo erhalten</string>
-  <string name="cloud_space_upgrade_title">Mehr Speicherplatz für Mi Cloud</string>
   <string name="cloud_storage_full">Cloudspeicher</string>
-  <string name="cloud_storage_is_full">Voll</string>
   <string name="cloudservice_new_sync">%s mit Mi Cloud synchronisieren</string>
-  <string name="cmcc_micloud_dspt">Verwenden Sie Mi Cloud, um Ihre Daten zu synchronisieren, Ihr Gerät zu finden und Dinge mit Ihren Freunden zu teilen</string>
   <string name="confirm_delete">Löschen</string>
   <string name="confirm_save">Behalten</string>
   <string name="connect_network">Mit einem WLAN verbinden oder SIM-Karte einlegen</string>
   <string name="connect_wlan">Mit einem WLAN verbinden</string>
-  <string name="contact">Kontakte</string>
-  <string name="deskclock_backup">Alarmzeitensicherung</string>
   <string name="detect_sim_card">Erneut nach einer SIM-Karte suchen</string>
   <string name="disable_find_device_error">Kann Gerätesuche nicht ausschalten. %1$s</string>
-  <string name="disable_find_device_success">Gerätelokalisierung ist aus</string>
-  <string name="due_date_format">dd.MM.yyyy</string>
-  <string name="enableAll">Synchronisiere alles</string>
-  <string name="enable_cloud_service_notification">Sie müssen Mi Cloud aktivieren</string>
   <string name="enable_find_device_error">Kann Gerätesuche nicht einschalten. %1$s</string>
   <string name="enable_find_device_success">Gerätelokalisierung ist an</string>
   <string name="enable_micloud">Mi Cloud verwenden</string>
-  <string name="enable_sync">Synchronisiere</string>
-  <string name="enable_sync_dspt">Nicht synchronisieren</string>
   <string name="error_data_in_transfer">Synchronisation wird in %s Stunden beendet</string>
   <string name="error_data_in_transfer_title">Mi Cloud nicht verfügbar</string>
-  <string name="error_forbidden">Synchronisation wurde ausgeschaltet wegen Problemen mit Ihrem Mi Konto</string>
   <string name="error_network">Netzwerkverbindung nicht möglich</string>
-  <string name="error_not_acceptable">Synchronisation wurde ausgeschaltet</string>
   <string name="error_server">Serverfehler</string>
-  <string name="error_title">Konnte nicht synchronisieren</string>
-  <string name="error_unauthorized">Synchronisation wurde abgeschaltet wegen zu vieler Login-Versuche</string>
   <string name="error_unknown">Anmeldung fehlgeschlagen</string>
   <string name="find_device">Gerät suchen</string>
-  <string name="find_device_disabled_notice">Sie können diese Funtion jederzeit in den Mi Cloud Einstellungen ein- oder ausschalten</string>
-  <string name="find_device_disabled_title">Gerätesuche ist ausgeschaltet</string>
-  <string name="find_device_disabling">Schalte aus…</string>
-  <string name="find_device_dspt">Finden, Sperren oder Zurücksetzen Ihres Telefons aus der Ferne</string>
-  <string name="find_device_dspt_provision">Wenn Sie Ihr Gerät verloren haben, können Sie auf %s gehen, um es zu lokalisieren, zu sperren, oder es auf Werkeinstellungen zurücksetzen. Sie können diese Funktion jederzeit in den Einstellungen ändern.</string>
-  <string name="find_device_dspt_provision_3">Sie können diese Funktion jederzeit in den Einstellungen ändern</string>
-  <string name="find_device_dspt_provision_4">Wenn Sie Ihre SIM-Karte wechseln, wird automatisch eine SMS gesendet, um diese Funktion zu reaktivieren</string>
-  <string name="find_device_enabling">Einschalten…</string>
+  <string name="find_device_dspt_provision">Wenn Sie Ihr Gerät verlieren, können Sie auf %s gehen, um es zu lokalisieren, zu sperren oder es zurücksetzen. Sie können diese Funktion jederzeit in den Einstellungen ändern.</string>
   <string name="find_device_error_network">Prüfen Sie Ihre Datenverbindung und versuchen Sie es erneut</string>
-  <string name="find_device_error_password_changed">Kontopasswort wurde kürzlich geändert</string>
-  <string name="find_device_error_server">Serverfehler</string>
+   <string name="find_device_error_server">Serverfehler</string>
   <string name="find_device_error_unknown">Unbekannter Fehler</string>
   <string name="find_device_gdpr_prompt">Indem Sie Gerät finden einschalten, stimmen Sie unserer Datenschutzerklärung zu. Wenn Sie die Berechtigung widerrufen müssen, schalten Sie diese Funktion aus.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">Datenschutzerklärung</string>
-  <string name="find_device_notice_p1">Gehen Sie auf</string>
-  <string name="find_device_notice_p3">" um Ihr Telefon zu lokalisieren, zu sperren, oder es wiederherzustellen. Wenn Sie Ihre SIM-Karte wechseln, wird eine weitere SMS versendet, um diese Funktion zu reaktivieren."</string>
   <string name="find_device_operation_failure_rpc">Konnte die Aktion aufgrund eines RPC Fehlers nicht ausführen</string>
-  <string name="find_device_pref_alert_content">Gerät finden ist mit Ihrem Mi Account verknüpft. Erstellen Sie ein Passwort oder geben Sie Ihres ein. Merken Sie sich Ihre Mi Account ID und Ihr Passwort gut. Eine SMS wird benötigt, um diesen Dienst zu aktivieren, dadurch können zusätzliche Kosten entstehen. Wenn Sie Ihre SIM-Karte wechseln, wird automatisch eine Nachricht gesendet, um den Dienst zu reaktivieren.</string>
-  <string name="find_device_pref_alert_negtive">Nein danke</string>
-  <string name="find_device_pref_alert_title">Merken Sie sich Ihre Mi Account ID und Ihr Passwort</string>
-  <string name="find_device_pref_initializing">Initialisiere…</string>
-  <string name="find_device_reading_status">Status wird geladen…</string>
-  <string name="find_device_reading_status_failure">Status konnte nicht geladen werden</string>
   <string name="find_device_send_sms_alert">Wenn Sie Ihre SIM-Karte wechseln, wird eine weitere SMS versendet, um diese Funktion zu reaktivieren</string>
-  <string name="find_device_service_summary">Finden Sie Ihr Gerät und sperren Sie es aus der Ferne, falls Sie es verlieren</string>
-  <string name="find_device_service_summary_international">Finden Sie Ihr Gerät und sperren Sie es aus der Ferne, falls Sie es verlieren</string>
   <string name="find_device_service_title">Gerät finden</string>
-  <string name="find_device_status_ok">Finden Sie Ihr Gerät überall auf i.mi.com</string>
-  <string name="find_device_status_ok_international">Finden Sie Ihr Gerät überall auf www.mi.com/micloud</string>
-  <string name="find_device_success_title">Gerät finden</string>
   <string name="forget_password"><u>Passwort vergessen</u></string>
-  <string name="free_space_has_received">Sie haben diesen Monat bereits freien Speicher hinzugefügt</string>
-  <string name="free_space_receive_fail">Upgrade fehlgeschlagen</string>
-  <string name="get_first_month_gb">Erhalte %s freien Speicher</string>
-  <string name="get_this_month_gb">Erhalte diesen Monat %s freien Speicher</string>
-  <string name="google_cloud_price">Etwa 143 RMB pro Jahr</string>
-  <string name="header_cloud_backup_settings">Sichern und Wiederherstellen</string>
-  <string name="header_cloud_restore_summary">Apps, Startbildschirm und Systemeinstellungen von einer Sicherung aus der Mi Cloud wiederherstellen</string>
-  <string name="header_data_and_synchronization">Daten &amp; Synchronisation</string>
-  <string name="header_find_device_settings">Gerät finden</string>
-  <string name="hybrid_check_network">Netzwerkeinstellungen</string>
-  <string name="hybrid_data_error">Ein Fehler ist aufgetreten</string>
-  <string name="hybrid_network_access_denied">Netzwerkzugriff verweigert</string>
-  <string name="hybrid_network_unavaliable">Keine Verbindung zum Netzwerk möglich</string>
-  <string name="hybrid_service_unavailiable">Service nicht verfügbar</string>
-  <string name="hybrid_try_again">Nochmal versuchen</string>
   <string name="input_password_hint">Passwort eingeben</string>
   <string name="internet_access_dspt">Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt zu werden</string>
   <string name="ks_certificate_udpate_time">Zertifikataktualisierung</string>
@@ -146,13 +63,8 @@ Zuletzt gesichert am %2$s"</string>
   <string name="ks_update_wait">Einen Moment…</string>
   <string name="license_host_unreachable">Verbindung zum Netzwerk fehlgeschlagen. Um diese Information jetzt zu sehen, gehen Sie auf %s.</string>
   <string name="loading">Nur einen Moment…</string>
-  <string name="loading_hint">Lade</string>
   <string name="master_alert_notif_content">Synchronisation nicht möglich</string>
-  <string name="master_alert_notif_dspt_add">%s Dateien warten auf Synchronisation</string>
-  <string name="master_alert_notif_dspt_no">Synchronisiert</string>
   <string name="master_alert_notif_title">Schalten Sie Sync mit Mi Cloud ein</string>
-  <string name="member_due_date">Gültig bis %s</string>
-  <string name="micloud_alert_dialog_negative">Abbrechen</string>
   <string name="micloud_all_sub_1_intl_sms">Zur Aktivierung Ihrer SIM-Karte wird eine interrnationale SMS verschickt. Sie wird Ihnen vom Anbieter in Rechnung gestellt.</string>
   <string name="micloud_all_sub_1_sms">Zur Aktivierung Ihrer SIM-Karte wird eine normale SMS verschickt. Sie wird Ihnen vom Anbieter in Rechnung gestellt.</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">2 Textnachrichten (normal und international) werden gesendet, um Ihre SIM-Karte zu aktivieren. Sie werden Ihnen vom Anbieter in Rechnung gestellt.</string>
@@ -161,7 +73,6 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_all_sub_resend_sms">Wenn Sie Gerätelokalisierung aktivieren, wird möglicherweise eine Aktivierungs-SMS versendet, nachdem Sie Ihre SIM-Karten gewechselt haben.</string>
   <string name="micloud_battery_low_notification_message">Zum Synchronisieren Aufladegerät verbinden</string>
   <string name="micloud_battery_low_notification_title">Geringer Akkustand</string>
-  <string name="micloud_buy_member">Konto</string>
   <string name="micloud_buy_member_safe">Mi Cloud Mitgliedschaft kaufen</string>
   <string name="micloud_check_sim_notify_text">Sieht aus, als hätten Sie Ihre SIM-Karte(n) gewechselt. Melden Sie sich mit Ihrem Mi Konto an, um die Mi Cloud zu reaktivieren.</string>
   <string name="micloud_check_sim_notify_title">Mi Cloud reaktivieren</string>
@@ -194,42 +105,24 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_confusion_toast_confirm">Gerät bestätigt</string>
   <string name="micloud_confusion_toast_deny">Melden Sie sich bei Ihrem Mi Konto an</string>
   <string name="micloud_confusion_yes">Ja</string>
-  <string name="micloud_detail_battery_low">Akku schwach</string>
-  <string name="micloud_detail_battery_low_message">Niedriger Akkustand. Laden Sie Ihr Telefon auf und synchronisieren Sie.</string>
-  <string name="micloud_detail_battery_low_title">Niedriger Akkustand</string>
-  <string name="micloud_detail_depend_wifi_message">Verbinden Sie sich mit einem WLAN oder prüfen Sie die Synchronisationseinstellungen</string>
-  <string name="micloud_detail_depend_wifi_title">WLAN erforderlich</string>
-  <string name="micloud_detail_do_not_sync">Nicht synchronisiert</string>
-  <string name="micloud_detail_download_syncing">%s wird heruntergeladen</string>
   <string name="micloud_detail_fail">Synchronisation fehlgeschlagen</string>
   <string name="micloud_detail_force_sync">Synchronisieren</string>
   <string name="micloud_detail_lastest">Synchronisiert</string>
   <string name="micloud_detail_lastest_with_off">Synchronisiert</string>
-  <string name="micloud_detail_need_charge">Schließen Sie das Ladegerät an, um die Synchronisierung fortzusetzen</string>
-  <string name="micloud_detail_need_charge_or_sleep">Ladegerät anschließen und Bildschirm ausschalten, um Sync zu aktivieren</string>
-  <string name="micloud_detail_not_sync">%d warten auf Synchronisation</string>
   <string name="micloud_detail_not_syncable">Synchronisation fehlgeschlagen</string>
-  <string name="micloud_detail_not_synced">Nicht synchronisiert</string>
   <string name="micloud_detail_pause">Sync pausiert</string>
   <string name="micloud_detail_pending">Warten</string>
   <string name="micloud_detail_preference_sync_items">Elemente</string>
-  <string name="micloud_detail_query_error">Synchronisationszustand kann nicht gelesen werden</string>
-  <string name="micloud_detail_query_error_detail">Synchronisationszustand kann nicht geprüft werden. Bitte kontaktieren Sie die Entwickler.</string>
-  <string name="micloud_detail_query_error_title">Synchronisationszustand kann nicht geprüft werden</string>
+  <string name="micloud_detail_query_error">Keine Infos den Fortschritt der Synchronisierung</string>
   <string name="micloud_detail_success">Synchronisiert</string>
-  <string name="micloud_detail_sync_now">Synchronisieren</string>
   <string name="micloud_detail_syncing">Wird synchronisiert</string>
-  <string name="micloud_detail_upload_syncing">Lade %s hoch</string>
-  <string name="micloud_detail_wlan">%d warten auf Synchronisiation</string>
-  <string name="micloud_detail_wlan_contact">%d Kontaktfotos warten auf Synchronisation</string>
-  <string name="micloud_detail_wlan_mms">%d MMS warten auf Synchronisation</string>
   <string name="micloud_dialog_sync_now_message">Mit WLAN verbinden, um zusätzliche Kosten für Mobiles Internet zu vermeiden</string>
   <string name="micloud_dialog_sync_now_negative">Nicht jetzt</string>
   <string name="micloud_dialog_sync_now_positive">Mobile Daten nutzen</string>
   <string name="micloud_dialog_sync_now_title">Zum Synchronisieren mit WLAN verbinden</string>
   <string name="micloud_dspt">Verwenden Sie Mi Cloud, um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden</string>
-  <string name="micloud_dspt_provision_xms">Verwenden Sie Mi Cloud, um Daten zu synchronisieren.</string>
   <string name="micloud_dspt_provision">Verwenden Sie Mi Cloud, um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden, und Dinge mit Ihren Freunden zu teilen</string>
+  <string name="micloud_dspt_provision_xms">Verwenden Sie Mi Cloud, um Daten zu synchronisieren.</string>
   <string name="micloud_find_device_close_alert_content">Wenn Sie diese Funktion deaktivieren, können Sie Ihr Gerät beim Verlust nicht mehr orten</string>
   <string name="micloud_find_device_close_alert_negtive">Trotzdem deaktivieren</string>
   <string name="micloud_find_device_close_alert_positive">Aktiviert lassen</string>
@@ -242,11 +135,8 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_find_device_guide_alert_negtive_activate">Nein danke</string>
   <string name="micloud_find_device_guide_alert_title">Merken Sie sich Ihr Passwort</string>
   <string name="micloud_find_device_guide_button">Gerätelokalisierung einschalten</string>
-  <string name="micloud_find_device_guide_content">Wenn Sie Ihre SIM-Karte wechseln, wird automatisch eine SMS gesendet, um diese Funktion zu reaktivieren</string>
   <string name="micloud_find_device_guide_fail_reopen">Aktivieren Sie die Gerätelokalisierung in der Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Prüfen Sie Ihre Internetverbindung und versuchen Sie es erneut</string>
-  <string name="micloud_find_device_guide_fail_sub_timeout">Zeitüberschreitung der Verbindung. Versuchen Sie es später erneut.</string>
-  <string name="micloud_find_device_guide_micloud">Synchronisation mit der Mi Cloud aktivieren</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Synchronisieren Sie Kontakte, Fotos, Notizen und mehr mit der Mi Cloud</string>
   <string name="micloud_find_device_guide_noti_content">Aktivieren</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Ihre QQ-Daten sind sicher, auch wenn Sie Ihr Gerät verlieren sollten</string>
@@ -266,23 +156,12 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_find_device_verify_close">Gerät finden deaktivieren</string>
   <string name="micloud_find_device_verify_fail">Konnte Gerät finden nicht reaktivieren</string>
   <string name="micloud_find_device_verify_progress">Reaktiviere Gerät finden…</string>
-  <string name="micloud_full_influence_dspt">"Alle Ihre Fotos, Videos, Notizen und Apps werden in der Cloud gesichert bleiben.
-
-Auf diese Weise bleiben Ihre Daten immer sicher, sollten Sie Ihr Gerät verlieren oder es beschädigen.
-
-Wenn Ihre Cloud voll ist, werden Ihre alten Daten nicht verschwinden. Doch jeder neue Inhalt, den Sie hinzufügen (z.B. Fotos, Videos, Notizen und Apps) werden nicht gesichert.
-
-Um dies zu beheben, können Sie entweder alte Dateien bereinigen, um Platz für neue zu machen, oder Sie können zusätzlichen Speicherplatz erwerben."</string>
-  <string name="micloud_full_influence_title">Wenn Ihre Mi Cloud voll ist…</string>
-  <string name="micloud_main_battery_low">Akkustand zu niedrig für Synchronisation</string>
-  <string name="micloud_main_battery_message">Zur Synchronisation Ladegerät anschließen</string>
   <string name="micloud_main_button_activate">Aktivieren</string>
   <string name="micloud_main_button_authorize">Authorisieren</string>
   <string name="micloud_main_button_set_internet">Einstellungen</string>
   <string name="micloud_main_cancel_sync">Sync abbrechen</string>
   <string name="micloud_main_cancel_sync_now">Abbrechen…</string>
   <string name="micloud_main_clear_now">Bereinigen</string>
-  <string name="micloud_main_data_unsynced">%d warte zum Synchronisieren</string>
   <string name="micloud_main_detail">Details anzeigen</string>
   <string name="micloud_main_error_activated_fail">SIM-Karte aktivieren</string>
   <string name="micloud_main_error_network_disallowed">Stellen Sie sicher, dass Sie Zugang zum Internet haben</string>
@@ -294,83 +173,51 @@ Um dies zu beheben, können Sie entweder alte Dateien bereinigen, um Platz für 
   <string name="micloud_main_head_menu_state_close">Geschlossen</string>
   <string name="micloud_main_head_menu_state_open">Geöffnet</string>
   <string name="micloud_main_head_menu_state_unavailable">Nicht unterstützt</string>
-  <string name="micloud_manage_space_data">Verwaltung von Mi Cloud-Daten</string>
-  <string name="micloud_main_last_sync_time">Letzte Synchronisation %s</string>
   <string name="micloud_main_master_sync_on">Sync an</string>
   <string name="micloud_main_memory_low_message">Zur Synchronisation löschen Sie einige Elemente in Ihrer Cloud</string>
-  <string name="micloud_main_memory_low_title">Nicht genug Speicherplatz</string>
+  <string name="micloud_main_memory_low_title">Interner Speicher des Telefons ist fast voll</string>
   <string name="micloud_main_message_master_sync_off">Sie haben die Synchronisation in der Benachrichtigungsleiste deaktiviert</string>
-  <string name="micloud_main_message_not_synced">%s Daten, die nicht synchronisiert wurden</string>
-  <string name="micloud_main_multi_user_error_message">"Sie sind mit demselben Mi Konto im Hauptprofil angemeldet. Dies hat einen Mi Cloud-Fehler verursacht. Wenn Sie Ihre Daten sichern möchten:
-
-1. Verwenden Sie ein anderes Konto.
-2. Verschieben Sie Ihre Daten ins Hauptprofil"</string>
+  <string name="micloud_main_multi_user_error_message">"Sie sind mit demselben Mi Konto wie im Hauptprofil angemeldet, sodass es einen  Mi Cloud-Fehler gab.
+Verwenden Sie ein anderes Konto."</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud-Fehler</string>
-  <string name="micloud_main_network_abnormal">Überprüfen Sie Ihre Netzwerkeinstellungen</string>
+  <string name="micloud_main_network_abnormal">Prüfen Sie Ihre Netzwerkeinstellungen</string>
   <string name="micloud_main_network_error">Verbindung zum Netzwerk fehlgeschlagen</string>
-  <string name="micloud_main_not_sync">%d Elemente warten auf Synchronisation</string>
   <string name="micloud_main_query_again">Eine weitere Anfrage senden</string>
   <string name="micloud_main_query_error_message">Abschluss der Synchronisation kann nicht überprüft werden</string>
   <string name="micloud_main_query_error_title">Synchronisationszustand kann nicht überprüft werden</string>
   <string name="micloud_main_resume_sync_soon">Sync bald fortsetzten</string>
-  <string name="micloud_main_set_internet">Netzwerk</string>
   <string name="micloud_main_see_unsynced_data">Prüfen der zu synchronisierenden Daten</string>
-  <string name="micloud_main_space_full">Nicht genug Speicherplatz</string>
+  <string name="micloud_main_set_internet">Netzwerk</string>
+  <string name="micloud_main_simple_last_sync_time">Zuletzt synchronisiert: %s</string>
+  <string name="micloud_main_simple_off">Synchronisation aus</string>
+  <string name="micloud_main_simple_pending">Ausstehend</string>
+  <string name="micloud_main_simple_synced">Synchronisiert</string>
+  <string name="micloud_main_simple_syncing">Synchronisierung</string>
   <string name="micloud_main_space_full_message">Mehr Speicherplatz für die Mi Cloud kaufen</string>
   <string name="micloud_main_space_full_title">Cloud Speicher voll</string>
   <string name="micloud_main_space_low">Fast kein Speicherplatz mehr…</string>
-  <string name="micloud_main_stop_sync">Synchronisation angehalten</string>
-  <string name="micloud_main_suggest_master_sync">Konnte nicht alles synchronisieren</string>
-  <string name="micloud_main_suggest_setting">"Warte auf WLAN Signal, um zu synchronisieren.
-Einstellungsknopf berühren, um mehr Optionen zu sehen."</string>
-  <string name="micloud_main_suggest_sync">Konnte nicht alles synchronisieren</string>
-  <string name="micloud_main_sync_exception">Synchronisationsfehler</string>
   <string name="micloud_main_sync_init">Informationen erhalten</string>
-  <string name="micloud_main_sync_need_charge">Gerät aufladen</string>
-  <string name="micloud_main_sync_need_charge_or_sleep">Zum Synchronsieren Ladegerät anschließen und Bildschirm ausschalten</string>
   <string name="micloud_main_sync_now">Synchronisieren</string>
   <string name="micloud_main_sync_on">Aktivieren</string>
-  <string name="micloud_main_sync_on_wifi">WLAN verwenden</string>
   <string name="micloud_main_sync_pause">Synchronisation angehalten</string>
   <string name="micloud_main_sync_pending">Warte auf Synchronisierung</string>
-  <string name="micloud_main_sync_setting">Sync-Einstellungen</string>
-  <string name="micloud_main_sync_stop">Synchronisation gestoppt</string>
-  <string name="micloud_main_synced_data_count">%d Elemente synchronisiert</string>
   <string name="micloud_main_syncing">Synchronisiere…</string>
   <string name="micloud_main_title_master_sync_off">Auto-Synchronisation ist aus</string>
-  <string name="micloud_main_title_not_synced">Nicht synchronisiert</string>
-  <string name="micloud_main_simple_synced">Synchronisiert</string>
-  <string name="micloud_main_simple_syncing">Synchronisierung</string>
-  <string name="micloud_main_simple_pending">Ausstehend</string>
-  <string name="micloud_main_simple_off">Synchronisation aus</string>
-  <string name="micloud_main_simple_last_sync_time">Zuletzt synchronisiert: %s</string>
   <string name="micloud_main_title_sync_fail">Kann nicht synchronisieren</string>
   <string name="micloud_main_title_sync_off">Synchronisation ist aus</string>
-  <string name="micloud_main_title_sync_on_wifi">WLAN verwenden</string>
   <string name="micloud_main_update_space">Holen Sie sich mehr Speicherplatz</string>
-  <string name="micloud_main_wait_charge">Laden Sie Ihr Gerät vollständig auf, um die Synchronisierung fortzusetzen</string>
-  <string name="micloud_main_wait_charge_sleep">Schalten Sie den Bildschirm aus und laden Sie das Gerät vollständig auf, um die Synchronisierung fortzusetzen</string>
-  <string name="micloud_main_wait_wlan">Warte auf WLAN Verbindung</string>
-  <string name="micloud_main_wait_wlan_charge">Verbinden Sie sich mit WLAN und laden Sie Ihr Gerät vollständig auf, um die Synchronisierung fortzusetzen.</string>
-  <string name="micloud_main_wait_wlan_charge_sleep">Verbinden Sie sich mit WLAN, schalten Sie den Bildschirm aus und laden Sie Ihr Gerät vollständig auf, um die Synchronisierung fortzusetzen</string>
-  <string name="micloud_main_wlan_sync_data_count">%d Daten warten auf Synchronisation</string>
-  <string name="micloud_member">Mi Cloud Mitgliedschaft</string>
-  <string name="micloud_member_advantage">Holen Sie sich mehr Speicherplatz</string>
-  <string name="micloud_member_buy_content" formatted="false">"Gültig für %s-%s-%s
-
-%s Mi Credits"</string>
-  <string name="micloud_member_buy_title">Bestellung bestätigen</string>
+  <string name="micloud_main_wait_charge">Gerät vollständig aufladen, um die Synchronisierung fortzusetzen</string>
+  <string name="micloud_main_wait_charge_sleep">Bildschirm ausschalten und Gerät vollständig aufladen, um die Synchronisierung fortzusetzen</string>
+  <string name="micloud_main_wait_wlan">Warten auf WLAN Verbindung</string>
+  <string name="micloud_main_wait_wlan_charge">Mit WLAN verbinden und Gerät vollständig aufladen, um die Synchronisierung fortzusetzen.</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Mit WLAN verbinden, Bildschirm ausschalten und Gerät vollständig aufladen, um die Synchronisierung fortzusetzen</string>
+  <string name="micloud_manage_space_data">Verwaltung von Mi Cloud-Daten</string>
   <string name="micloud_member_net_error_alert_message">Sie haben keine Internetverbindung</string>
   <string name="micloud_member_net_error_alert_title">Verbindung zum Netzwerk fehlgeschlagen</string>
-  <string name="micloud_member_pay_fail_toast">Zahlung konnte nicht abgeschlossen werden</string>
   <string name="micloud_member_pay_miid_error_toast">Kontofehler</string>
   <string name="micloud_member_pay_order_error_toast">Datenfehler</string>
-  <string name="micloud_member_refresh_button">Aktualisieren</string>
-  <string name="micloud_member_webload_fail_error_message">Netzwerkfehler</string>
-  <string name="micloud_member_webload_fail_toast_4xx">Konnte Seite nicht laden</string>
-  <string name="micloud_member_webload_fail_toast_5xx">Serverfehler</string>
-  <string name="micloud_more">Erfahren Sie mehr</string>
   <string name="micloud_notif_content_battery_low">Akkustand ist zu niedrig</string>
+  <!-- Hier weiter -->
   <string name="micloud_notif_content_clipboard_push">Sie können den Inhalt überall einfügen</string>
   <string name="micloud_notif_content_depend_wifi">Zum Synchronisieren mit einem WLAN verbinden</string>
   <string name="micloud_notif_content_master_depend_wifi">Verbinden Sie sich zuerst mit einem WLAN</string>
@@ -394,15 +241,15 @@ Einstellungsknopf berühren, um mehr Optionen zu sehen."</string>
   <string name="micloud_notif_title_sync_with_off">Mit Mi Cloud synchronisieren</string>
   <string name="micloud_other_product_price">Preise vergleichen</string>
   <string name="micloud_privacy_cloud_off">Sync ist aus</string>
-   <string name="micloud_privacy_cloud_sync">Mi Cloud Dienste einschalten</string>
-   <string name="micloud_privacy_explanation">Berechtigung zum Einschalten von Mi Cloud Diensten erteilen</string>
-   <string name="micloud_privacy_licence_agreed">Mi Cloud Datenschutzerklärung zustimmen</string>
-   <string name="micloud_privacy_licence_privacy_policy">Datenschutzerklärung</string>
-   <string name="micloud_privacy_more">Mehr</string>
-   <string name="micloud_privacy_progress_content">Berechtigung erteilen…</string>
-   <string name="micloud_privacy_warning_button">Zurück</string>
-   <string name="micloud_privacy_warning_content">Einschalten Mi Cloud Dienste nicht möglich. Ein bis zwei Minuten warten und erneut versuchen.</string>
-   <string name="micloud_privacy_warning_title">Achtung</string>
+  <string name="micloud_privacy_cloud_sync">Mi Cloud Dienste einschalten</string>
+  <string name="micloud_privacy_explanation">Berechtigung zum Einschalten von Mi Cloud Diensten erteilen</string>
+  <string name="micloud_privacy_licence_agreed">Mi Cloud Datenschutzerklärung zustimmen</string>
+  <string name="micloud_privacy_licence_privacy_policy">Datenschutzerklärung</string>
+  <string name="micloud_privacy_more">Mehr</string>
+  <string name="micloud_privacy_progress_content">Berechtigung erteilen…</string>
+  <string name="micloud_privacy_warning_button">Zurück</string>
+  <string name="micloud_privacy_warning_content">Einschalten Mi Cloud Dienste nicht möglich. Ein bis zwei Minuten warten und erneut versuchen.</string>
+  <string name="micloud_privacy_warning_title">Achtung</string>
   <string name="micloud_proceed">Fortfahren</string>
   <string name="micloud_request_permission_confirm">Verstanden</string>
   <string name="micloud_request_permission_content">Mi Cloud benötigt Berechtigungen, um Daten zu synchronisieren. Erlauben Sie Mi Cloud Zugriff auf Kalender, Kontakte, Mi Konto, SIM-Kartenstatus, Gesprächsverlauf und Nachrichten.</string>
@@ -459,16 +306,12 @@ Einstellungsknopf berühren, um mehr Optionen zu sehen."</string>
   <string name="microsoft_cloud_price">Etwa 80 RMB pro Jahr</string>
   <string name="more_activity_in_upgrade_space">Erfahren Sie mehr auf &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt_provision">"Mit Mi Message können Sie Nachrichten an andere MIUI Benutzer versenden, ohne dass SMS-Gebühren anfallen.
-
 Sie können diese Funktion jederzeit in den Einstellungen ein- oder ausschalten."</string>
   <string name="mx_dspt_provision_privacy">"Diese Funktion verlangt Ihre Telefonnummer. Ihr Anbieter kann Gebühren für eine gesendete SMS verlangen, um diese Funktion zu aktivieren.
-
 Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string>
   <string name="mx_dspt_provision_privacy_2_sim">"Diese Funktion verlangt Ihre Telefonnummer. Ihr Anbieter kann Gebühren für eine gesendete SMS verlangen, um diese Funktion zu aktivieren.
-
 Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string>
   <string name="mx_dspt_provision_privacy_no_sim">"Diese Funktion verlangt Ihre Telefonnummer. Ihr Anbieter kann Gebühren für eine gesendete SMS verlangen, um diese Funktion zu aktivieren.
-
 Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string>
   <string name="mx_dspt_provision_with_voip">"Rufen Sie andere MIUI Benutzer kostenlos über Ihre Internetverbindung an. Sie können diese Funktion jederzeit in den Einstellungen ändern. VoIP wird von Weihui unterstützt. Siehe Weihui's Datenschutzerklärung"</string>
   <string name="mx_dspt_provision_with_voip2">Datenschutzerklärung</string>
