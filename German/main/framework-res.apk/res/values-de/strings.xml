@@ -123,7 +123,6 @@
   <string name="app_category_social">Soziales &amp; Kommunikation</string>
   <string name="app_category_video">Filme &amp; Video</string>
   <string name="app_info">Appinfo</string>
-  <string name="app_no_restricted_accounts">Diese App unterstützt Konten für eingeschränkte Profile nicht</string>
   <string name="app_not_found">Für diese Aktion wurde keine App gefunden</string>
   <string name="app_running_notification_text">Für weitere Informationen oder zum Anhalten der App antippen</string>
   <string name="app_running_notification_title">%1$s wird ausgeführt</string>
@@ -180,14 +179,13 @@
   <string name="back_button_label">Zurück</string>
   <string name="badPin">Eingegebene alte PIN ist falsch</string>
   <string name="badPuk">Eingegebene PUK ist falsch</string>
-  <string name="battery_saver_description">"Stromsparen hilft den Akku zu schonen, indem es die Leistung des Geräts reduziert und die Vibrationsfunktion sowie die meisten Hintergrunddaten einschränkt. E-Mail-, SMS/MMS- und andere Apps, die die Synchronisierungsfunktion benötigen, werden möglicherweise nicht aktualisiert, bis Sie diese öffnen.
-Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
+  <string name="battery_saver_description">Um die Akkulaufzeit zu verlängern, schaltet Stromsparen einige Gerätefunktionen aus und schränkt Apps ein.</string>
   <string name="battery_saver_description_with_learn_more">Um die Akkulaufzeit zu verlängern, schaltet Stromsparen einige Gerätefunktionen aus und schränkt Apps ein. &lt;annotation id="url"&gt;Mehr erfahren&lt;/annotation&gt;</string>
   <string name="beforeOneMonthDurationPast">Vor mehr als einem Monat</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth Audio</string>
   <string name="browse">Öffnen</string>
   <string name="browse_desc">Gewählte URL öffnen</string>
-  <string name="bugreport_message">Bei diesem Fehlerbericht werden Daten zum aktuellen Status Ihres Geräts erfasst und als E-Mail versandt. Vom Start des Berichts bis zu seinem Versand kann es eine Weile dauern. Bitte haben Sie etwas Geduld.</string>
+  <string name="bugreport_message">Dadurch werden Daten zum aktuellen Status Ihres Geräts erfasst und als E-Mail versendet. Vom Start des Fehlerberichts bis zu seinem Versand kann es eine Weile dauern. Bitte haben Sie etwas Geduld.</string>
   <string name="bugreport_option_full_summary">Verwenden Sie diese Option für minimale Systemstörungen, wenn Ihr Gerät nicht mehr reagiert oder zu langsam ist oder wenn Sie alle Berichte benötigen. Erlaubt Ihnen nicht, weitere Details einzugeben oder zusätzliche Screenshots zu machen.</string>
   <string name="bugreport_option_full_title">Vollständiger Bericht</string>
   <string name="bugreport_option_interactive_summary">Verwenden Sie in den meisten Fällen diese Option. Sie erlaubt Ihnen, den Fortschritt Ihres Berichts zu verfolgen, weitere Details einzugeben und Screenshots anzuhängen. Einige selten genutzte Abschnitte, die längere Zeit in Anspruch nehmen, werden weggelassen.</string>
@@ -215,8 +213,7 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="car_loading_profile">Laden</string>
   <string name="car_mode_disable_notification_message">Automodus ausschalten</string>
   <string name="car_mode_disable_notification_title">Automodus eingeschaltet</string>
-  <string name="card_string">KARTE %1$s</string>
-  <string name="carrier_app_dialog_button">App herunterladen</string>
+  <string name="carrier_app_dialog_button">HOLEN SIE SICH DIE APP</string>
   <string name="carrier_app_dialog_message">Um alle Funktionen Ihrer neuen SIM-Karte in Betrieb zu nehmen, müssen Sie eine App Ihres Providers installieren</string>
   <string name="carrier_app_dialog_not_now">NICHT JETZT</string>
   <string name="carrier_app_notification_text">Berühren, um einzurichten</string>
@@ -281,7 +278,6 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="date_time_done">Fertig</string>
   <string name="date_time_set">Speichern</string>
   <string name="day">Tag</string>
-  <string name="day_picker_description">Monatsraster mit einzelnen Tagen</string>
   <string name="days">Tage</string>
   <string name="decline">Ablehnen</string>
   <string name="decline_remote_bugreport_action">ABLEHNEN</string>
@@ -304,15 +300,6 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="deny_button">Ablehnen</string>
   <string name="deprecated_target_sdk_app_store">Nach Updates suchen</string>
   <string name="deprecated_target_sdk_message">Diese App wurde für eine ältere Androidversion entwickelt und funktioniert evtl. nicht richtig. Suchen Sie nach Updates oder wenden Sie sich an den Entwickler.</string>
-  <string name="description_direction_down">Für %s nach unten wischen</string>
-  <string name="description_direction_left">Für %s nach links wischen</string>
-  <string name="description_direction_right">Für %s nach rechts wischen</string>
-  <string name="description_direction_up">Für %s nach oben wischen</string>
-  <string name="description_target_camera">Kamera</string>
-  <string name="description_target_search">Suche</string>
-  <string name="description_target_silent">Stumm</string>
-  <string name="description_target_soundon">Ton ein</string>
-  <string name="description_target_unlock">Ensperren</string>
   <string name="description_target_unlock_tablet">Ziehen zum Entsperren</string>
   <string name="device_storage_monitor_notification_channel">Gerätespeicher</string>
   <string name="dial">Telefon</string>
@@ -331,8 +318,6 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="dlg_error_title">USB-Vorgang fehlgeschlagen</string>
   <string name="done_label">Fertig</string>
   <string name="double_tap_toast">Tipp: Zum Rein- und Rauszoomen 2 mal tippen</string>
-  <string name="downtime_condition_line_one">Bis Ihre Ausfallzeit endet</string>
-  <string name="downtime_condition_summary">Bis zum Ende der Downtime um %1$s</string>
   <string name="dump_heap_notification">%1$s hat das Speicherlimit überschritten</string>
   <string name="dump_heap_notification_detail">Heapdump wurde erstellt; Zum Teilen antippen</string>
   <string name="dump_heap_text">Prozess %1$s hat das Speicherlimit von %2$s überschritten. Ein Heapdump wurde erstellt, um ihn mit den Entwicklern zu teilen. Vorsicht: Er könnte persönliche Daten enthalten.</string>
@@ -350,9 +335,6 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="durationSecond">%1$d Sek</string>
   <string name="durationSeconds">%1$d Sek</string>
   <string name="editTextMenuTitle">Textaktionen</string>
-  <string name="edp_brightness_limited">Helligkeit begrenzt</string>
-  <string name="edp_camera_flash_limited">Kamerablitz begrenzt</string>
-  <string name="edp_volume_limited">Lautstärke begrenzt</string>
   <string name="email">E-Mail</string>
   <string name="emailTypeCustom">Benutzerdefiniert</string>
   <string name="emailTypeHome">Privat</string>
@@ -398,13 +380,9 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="ext_media_move_title">Daten verschieben</string>
   <string name="ext_media_new_notification_message">%s als neu erkannt</string>
   <string name="ext_media_new_notification_title">%s neu</string>
-  <string name="ext_media_nofs_notification_message">USB-Speicher ist leer oder verfügt über ein nicht unterstütztes Dateisystem</string>
-  <string name="ext_media_nofs_notification_title">USB-Speicher leer</string>
   <string name="ext_media_nomedia_notification_message">%s entfernt. Neuen Datenträger einlegen.</string>
   <string name="ext_media_nomedia_notification_title">%s entfernt</string>
   <string name="ext_media_ready_notification_message">Zum Übertragen von Fotos und Medien</string>
-  <string name="ext_media_safe_unmount_notification_message">USB-Speicher kann entfernt werden</string>
-  <string name="ext_media_safe_unmount_notification_title">USB-Speicher kann entfernt werden</string>
   <string name="ext_media_status_bad_removal">Nicht sicher entfernt</string>
   <string name="ext_media_status_checking">Wird überprüft…</string>
   <string name="ext_media_status_ejecting">Wird ausgeworfen…</string>
@@ -423,12 +401,9 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="ext_media_unmounting_notification_title">%s wird noch ausgeworfen…</string>
   <string name="ext_media_unsupported_notification_message">Dieses Gerät unterstützt %s nicht. Antippen, um in ein kompatibles Format zu formatieren.</string>
   <string name="ext_media_unsupported_notification_title">%s nicht unterstützt</string>
-  <string name="extmedia_format_button_format">Formatieren</string>
-  <string name="extmedia_format_message">Alle in Ihrem USB-Speicher abgelegten Dateien werden gelöscht. Diese Aktion kann nicht rückgängig gemacht werden!</string>
-  <string name="extmedia_format_title">USB-Speicher formatieren?</string>
   <string name="extract_edit_menu_button">Bearbeiten</string>
   <string name="faceunlock_multiple_failures">Maximale Face Unlock Versuche überschritten</string>
-  <string name="factory_reset_message">Adminapp fehlt oder ist beschädigt und kann deswegen nicht verwendet werden. Ihr Gerät wird nun gelöscht. Kontaktieren Sie Ihren Administrator für Hilfe.</string>
+  <string name="factory_reset_message">Adminapp kann nicht verwendet werden. Ihr Gerät wird nun gelöscht. Bei Fragen kontaktieren Sie Ihren Firmenamin.</string>
   <string name="factory_reset_warning">Ihr Gerät wird gelöscht</string>
   <string name="factorytest_failed">Funktionstest fehlgeschlagen</string>
   <string name="factorytest_no_action">Kein Paket mit der Aktion FACTORY_TEST gefunden</string>
@@ -466,7 +441,6 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="foreground_service_app_in_background">%1$s verbraucht Akku</string>
   <string name="foreground_service_apps_in_background">%1$d Apps verbrauchen Akku</string>
   <string name="foreground_service_tap_for_details">Antippen für Details über Akku - und Datenverbrauch</string>
-  <string name="format_error">Löschen des USB-Speichers nicht möglich</string>
   <string name="forward_intent_to_owner">Sie verwenden diese App außerhalb Ihres Arbeitsprofils</string>
   <string name="forward_intent_to_work">Sie verwenden diese App in Ihrem Arbeitsprofil</string>
   <string name="gadget_host_error_inflating">Widget konnte nicht hinzugefügt werden</string>
@@ -474,7 +448,6 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="global_action_battery_saver_off_status">Energisparmodus ist AN</string>
   <string name="global_action_battery_saver_on_status">Energisparmodus ist AUS</string>
   <string name="global_action_bug_report">Fehlerbericht</string>
-  <string name="global_action_choose_profile">Profil</string>
   <string name="global_action_emergency">Notfall</string>
   <string name="global_action_lock">Bildschirmsperre</string>
   <string name="global_action_lockdown">Jetzt sperren</string>
@@ -484,27 +457,13 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="global_action_settings">Einstellungen</string>
   <string name="global_action_silent_mode_off_status">Ton ist AN</string>
   <string name="global_action_silent_mode_on_status">Ton ist AUS</string>
-  <string name="global_action_sleep">Schlafen</string>
   <string name="global_action_toggle_battery_saver">Stromsparen</string>
   <string name="global_action_toggle_silent_mode">Lautlos</string>
   <string name="global_action_voice_assist">Sprachassistent</string>
   <string name="global_actions">Telefonoptionen</string>
   <string name="global_actions_airplane_mode_off_status">Flugmodus eingeschaltet</string>
   <string name="global_actions_airplane_mode_on_status">Flugmodus ausgeschaltet</string>
-  <string name="global_actions_miracast_connection_failed_status">Verbindung fehlgeschlagen</string>
-  <string name="global_actions_miracast_connection_progress_status">Verbindung zum Miracast-Gerät herstellen…</string>
-  <string name="global_actions_miracast_mode_airplane_on_status">Im Flugmodus nicht verfügbar</string>
-  <string name="global_actions_miracast_mode_cancel_connection_status">Verbindung abbrechen</string>
-  <string name="global_actions_miracast_mode_off_status_many_paired">Mit zuvor gekoppeltem Miracast-Gerät verbinden</string>
-  <string name="global_actions_miracast_mode_off_status_no_paired">Mit Miracast-Gerät verbinden</string>
-  <string name="global_actions_miracast_mode_off_status_single_paired">Verbunden mit</string>
-  <string name="global_actions_miracast_mode_on_status">Übertragung anhalten</string>
-  <string name="global_actions_miracast_mode_pc2thor_on_status">Übertragung ist aus Gründen des PC-Schutzes nicht verfügbar</string>
-  <string name="global_actions_miracast_mode_wifi_off_status">Um eine Verbindung herzustellen, benötigen Sie eine aktive Verbindung zum Wi-Fi-Netzwerk</string>
-  <string name="global_actions_miracast_sink_not_found_status">Miracast-Gerät konnte nicht gefunden werden</string>
-  <string name="global_actions_miracast_sink_search_status">Miracast-Gerät wird gesucht…</string>
   <string name="global_actions_toggle_airplane_mode">Flugmodus</string>
-  <string name="global_actions_toggle_miracast_mode">Miracast, kabelose Anzeige (Wi-Fi Direct)</string>
   <string name="gpsNotifMessage">Angefordert von %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Standortabfrage von %s</string>
   <string name="gpsNotifTitle">Standortabfrage</string>
@@ -515,39 +474,38 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="grant_permissions_header_text">Zugriffsanfrage</string>
   <string name="granularity_label_character">Zeichen</string>
   <string name="granularity_label_line">Zeile</string>
-  <string name="granularity_label_link">Link</string>
   <string name="granularity_label_word">Wort</string>
-  <string name="hardware">Hardware</string>
+  <string name="hardware">Virtuelle Tastatur anzeigen</string>
   <string name="harmful_app_warning_open_anyway">TROTZDEM ÖFFNEN</string>
-  <string name="harmful_app_warning_title">Play Protect Warnung</string>
+  <string name="harmful_app_warning_title">Schädliche App erkannt</string>
   <string name="harmful_app_warning_uninstall">DEINSTALLIEREN</string>
   <string name="heavy_weight_notification">%1$s läuft</string>
-  <string name="heavy_weight_notification_detail">Berühren, um die App zu wechseln</string>
-  <string name="heavy_weight_switcher_text">Eine andere App wird bereits ausgeführt, die vor dem Start einer neuen beendet werden muss</string>
+  <string name="heavy_weight_notification_detail">Tippen, um zum Spiel zurückzukehren</string>
+  <string name="heavy_weight_switcher_text">Für eine bessere Leistung kann jeweils nur eines dieser Spiele gestartet sein.</string>
   <string name="heavy_weight_switcher_title">Apps wechseln?</string>
   <string name="hour">Stunde</string>
-  <string name="hour_picker_description">Kreisförmiger Schieberegler für Stunden</string>
+  <string name="hour_picker_description">Kreisförmiger Stundenregler</string>
   <string name="hours">Stunden</string>
   <string name="httpError">Netzwerkfehler aufgetreten</string>
-  <string name="httpErrorAuth">Bei der Authentifizierung ist ein Fehler aufgetreten</string>
+  <string name="httpErrorAuth">Authentifizierung nicht möglich</string>
   <string name="httpErrorBadUrl">Seite kann nicht geöffnet werden. Ungültige URL.</string>
-  <string name="httpErrorConnect">Verbindung zum Server konnte nicht hergestellt werden</string>
+  <string name="httpErrorConnect">Verbindung zum Server nicht möglich</string>
   <string name="httpErrorFailedSslHandshake">Sichere Verbindung konnte nicht hergestellt werden</string>
-  <string name="httpErrorFile">Auf die Datei konnte nicht zugegriffen werden</string>
+  <string name="httpErrorFile">Angeforderte Datei nicht gefunden</string>
   <string name="httpErrorFileNotFound">Angeforderte Datei wurde nicht gefunden</string>
-  <string name="httpErrorIO">Kommunikation mit dem Server konnte nicht hergestellt werden. Bitte versuchen Sie es später erneut.</string>
-  <string name="httpErrorLookup">URL wurde nicht gefunden</string>
+  <string name="httpErrorIO">Kommunikation mit dem Server nicht möglich. Später erneut versuchen.</string>
+  <string name="httpErrorLookup">URL nicht gefunden</string>
   <string name="httpErrorProxyAuth">Authentifizierung via Proxyserver fehlgeschlagen</string>
   <string name="httpErrorRedirectLoop">Seite enthält zu viele Serverumleitungen</string>
   <string name="httpErrorTimeout">Zeitüberschreitung bei Serververbindung</string>
-  <string name="httpErrorTooManyRequests">Zu viele Anfragen werden zurzeit verarbeitet. Versuchen Sie es später erneut.</string>
+  <string name="httpErrorTooManyRequests">Zu viele Anfragen werden zurzeit verarbeitet. Später erneut versuchen.</string>
   <string name="httpErrorUnsupportedAuthScheme">Authentifizierungsschema für diese Webseite wird nicht unterstützt</string>
   <string name="httpErrorUnsupportedScheme">Protokoll wird nicht unterstützt</string>
   <string name="icu_abbrev_wday_month_day_no_year">eeedMMMM</string>
   <string name="imProtocolCustom">Benutzerdefiniert</string>
   <string name="imTypeCustom">Benutzerdefiniert</string>
   <string name="imTypeHome">Privat</string>
-  <string name="imTypeOther">Sonstige</string>
+  <string name="imTypeOther">Sonstiges</string>
   <string name="imTypeWork">Geschäftlich</string>
   <string name="ime_action_default">Ausführen</string>
   <string name="ime_action_done">Fertig</string>
@@ -559,7 +517,6 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="immersive_cling_description">Zum Schließen nach unten wischen</string>
   <string name="immersive_cling_positive">Verstanden</string>
   <string name="immersive_cling_title">Vollbildansicht</string>
-  <string name="immersive_mode_confirmation">Um den Vollbildmodus zu beenden, von oben nach unten wischen</string>
   <string name="importance_from_person">Das ist wichtig wegen der beteiligten Personen</string>
   <string name="importance_from_user">Legen Sie die Wichtigkeit der Meldungen fest</string>
   <string name="inputMethod">Eingabemethode</string>
@@ -568,15 +525,11 @@ Stromsparen endet automatisch, wenn Ihr Gerät aufgeladen wird."</string>
   <string name="install_carrier_app_notification_text">Anbieterapp herunterladen, um Ihre neue SIM-Karte zu aktivieren</string>
   <string name="install_carrier_app_notification_text_app_name">%1$s-App herunterladen, um Ihre neue SIM-Karte zu aktivieren</string>
   <string name="install_carrier_app_notification_title">Mobilservice aktivieren</string>
-  <string name="international_roaming_warning">"Möchten Sie mobiles Daten-Roaming einschalten?
-Es können Roaming-Gebühren anfallen."</string>
   <string name="invalidPin">Geben Sie eine PIN ein, die 4 bis 8 Zahlen enthält</string>
   <string name="invalidPuk">Geben Sie eine mindestens 8-stellige PUK ein</string>
-  <string name="ipo_summary">Weiter Fastboot</string>
   <string name="issued_by">Ausgestellt von:</string>
   <string name="issued_on">Ausgegeben am:</string>
   <string name="issued_to">Ausgestellt für:</string>
-  <string name="item_is_selected">%1$s ausgewählt</string>
   <string name="js_dialog_before_unload">"%s
 Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="js_dialog_before_unload_negative_button">Auf dieser Seite bleiben</string>
@@ -621,11 +574,10 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="keyguard_password_enter_puk_prompt">PUK-Code</string>
   <string name="keyguard_password_entry_touch_hint">"&lt;font size="17"&gt;Zur Passworteingabe berühren&lt;/font&gt;"</string>
   <string name="keyguard_password_wrong_pin_code">Falscher PIN-Code</string>
-  <string name="kg_emergency_call_label">Notruf</string>
   <string name="kg_enter_confirm_pin_hint">Gewünschten PIN-Code bestätigen</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Sie haben Ihr Entsperrmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mit Hilfe eines E-Mail-Kontos zu entsperren.
-Versuchen Sie es in %d Sekunden erneut."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
+  <string name="kg_failed_attempts_almost_at_login">"Sie haben Ihr Entsperrmuster %1$d-mal falsch gezeichnet. Nach %2$d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mit Hilfe eines E-Mail-Kontos zu entsperren.
+Versuchen Sie es in %3$d Sekunden erneut."</string>
+  <string name="kg_failed_attempts_almost_at_wipe">Sie haben %1$d-mal erfolglos versucht, das Telefon zu entsperren. Nach %2$d weiteren erfolglosen Versuchen wird das Telefon auf Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
   <string name="kg_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Das Telefon wird nun auf Werkseinstellungen zurückgesetzt.</string>
   <string name="kg_forgot_pattern_button_text">Muster vergessen</string>
   <string name="kg_invalid_confirm_pin_hint">PIN-Codes stimmen nicht überein</string>
@@ -646,17 +598,17 @@ Besuchen Sie <b>google.com/accounts/recovery</b>"</string>
   <string name="kg_pattern_instructions">Muster zeichnen</string>
   <string name="kg_pin_instructions">PIN eingeben</string>
   <string name="kg_puk_enter_pin_hint">Gewünschten PIN-Code eingeben</string>
-  <string name="kg_puk_enter_puk_hint">SIM-Karte ist jetzt deaktiviert. Geben Sie den PUK-Code ein, um fortzufahren. Weitere Informationen erhalten Sie von Ihrem Mobilfunkanbieter.</string>
+  <string name="kg_puk_enter_puk_hint">SIM-Karte ist jetzt deaktiviert. PUK-Code eingeben, um fortzufahren. Weitere Informationen erhalten Sie von Ihrem Anbieter.</string>
   <string name="kg_reordering_delete_drop_target_text">Entfernen</string>
   <string name="kg_sim_pin_instructions">SIM-PIN eingeben</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt…</string>
   <string name="kg_too_many_failed_attempts_countdown">Versuchen Sie es in %1$d Sekunden erneut.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Sie haben Ihr Passwort %d-mal falsch eingegeben.
-Versuchen Sie es in %d Sekunden erneut."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Sie haben Ihr Entsperrmuster %d-mal falsch gezeichnet.
-Versuchen Sie es in %d Sekunden erneut."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Sie haben Ihre PIN %d-mal falsch eingegeben.
-Versuchen Sie es in %d Sekunden erneut."</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message">"Sie haben Ihr Passwort %1$d-mal falsch eingegeben.
+Versuchen Sie es in %2$d Sekunden erneut."</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Sie haben Ihr Entsperrmuster %1$d-mal falsch gezeichnet.
+Versuchen Sie es in %2$d Sekunden erneut."</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message">"Sie haben Ihre PIN %1$d-mal falsch eingegeben.
+Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="kg_wrong_password">Falsches Passwort</string>
   <string name="kg_wrong_pattern">Falsches Muster</string>
   <string name="kg_wrong_pin">Falsche PIN</string>
@@ -671,18 +623,15 @@ Versuchen Sie es in %d Sekunden erneut."</string>
   <string name="leave_accessibility_shortcut_on">Verknüpfung verwenden</string>
   <string name="loading">Wird geladen…</string>
   <string name="locale_search_menu">Suche</string>
-  <string name="lock_to_app_description">"Mit der Bildschirmfixierung wird die Anzeige in einer einzelnen Ansicht gesperrt.
-Um die Fixierung aufzuheben, berühren und halten Sie gleichzeitig \"Zurück\" und \"Übersicht\"."</string>
-  <string name="lock_to_app_description_accessible">"Mit der Bildschirmfixierung wird die Anzeige in einer einzelnen Ansicht gesperrt.
-Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."</string>
+  <string name="lock_to_app_description">"Bildschirmfixierung sperrt die Anzeige in einer einzelnen Ansicht.
+Um die Fixierung aufzuheben, drücken und halten Sie gleichzeitig die Home- und Powertaste."</string>
+  <string name="lock_to_app_description_accessible">"Bildschirmfixierung sperrt die Anzeige in einer einzelnen Ansicht.
+Um die Fixierung aufzuheben, drücken und halten Sie gleichzeitig die Home- und Powertaste."</string>
   <string name="lock_to_app_exit">Bildschirm gelöst</string>
-  <string name="lock_to_app_negative">Nein, danke</string>
-  <string name="lock_to_app_positive">Starten</string>
   <string name="lock_to_app_start">Bildschirm fixiert</string>
-  <string name="lock_to_app_title">Bildschirmfixierung verwenden?</string>
-  <string name="lock_to_app_toast">Um die Fixierung des Bildschirms aufzuheben, berühren und halten Sie gleichzeitig \"Zurück\" und \"Übersicht\"</string>
-  <string name="lock_to_app_toast_accessible">Um die Fixierung des Bildschirms aufzuheben, berühren und halten Sie \"Übersicht\"</string>
-  <string name="lock_to_app_toast_locked">Bildschirm ist fixiert. Sie sind nicht berechtigt, diese Einstellung zu beenden.</string>
+  <string name="lock_to_app_toast">Um diesen Bildschirm zu entriegeln, drücken und halten Sie gleichzeitig die Home- und Powertaste.</string>
+  <string name="lock_to_app_toast_accessible">Um diesen Bildschirm zu entriegeln, drücken und halten Sie gleichzeitig die Home- und Powertaste.</string>
+  <string name="lock_to_app_toast_locked">Diese App kann nicht entriegelt werden.</string>
   <string name="lock_to_app_unlock_password">Vor dem Beenden nach Passwort fragen</string>
   <string name="lock_to_app_unlock_pattern">Vor dem Beenden nach Entsperrmuster fragen</string>
   <string name="lock_to_app_unlock_pin">Vor dem Beenden nach PIN fragen</string>
@@ -692,13 +641,11 @@ Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."</string>
   <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
   <string name="lockscreen_access_pattern_detected">Muster abgeschlossen</string>
   <string name="lockscreen_access_pattern_start">Muster gestartet</string>
-  <string name="lockscreen_airplane_mode_on">Flugmodus</string>
   <string name="lockscreen_carrier_default">Kein Netzwerk</string>
-  <string name="lockscreen_charged">Aufgeladen</string>
   <string name="lockscreen_emergency_call">Notruf</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben Ihr Entsperrmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mit Hilfe Ihrer Google-Anmeldeinformationen zu entsperren.
-Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Sie haben %1$d-mal erfolglos versucht, das Telefon zu entsperren. Nach %2$d weiteren erfolglosen Versuchen wird das Telefon auf Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"Sie haben Ihr Entsperrmuster %1$d-mal falsch gezeichnet. Nach %2$d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mit Hilfe Ihrer Google-Anmeldeinformationen zu entsperren.
+Versuchen Sie es in %3$d Sekunden erneut."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Das Telefon wird nun auf Werkseinstellungen zurückgesetzt.</string>
   <string name="lockscreen_forgot_pattern_button_text">Muster vergessen?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Nutzernamen oder Passwort vergessen?
@@ -713,7 +660,6 @@ Besuchen Sie <b>google.com/accounts/recovery</b>"</string>
   <string name="lockscreen_glogin_username_hint">Nutzername (E-Mail)</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Zum Entsperren die Menütaste drücken</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Drücken Sie die Menütaste, um das Telefon zu entsperren oder einen Notruf zu tätigen</string>
-  <string name="lockscreen_low_battery">Ladegerät anschließen</string>
   <string name="lockscreen_missing_sim_instructions">Legen Sie eine SIM-Karte ein</string>
   <string name="lockscreen_missing_sim_instructions_long">SIM-Karte fehlt oder ist nicht lesbar. Bitte legen Sie eine SIM-Karte ein.</string>
   <string name="lockscreen_missing_sim_message">Keine SIM-Karte im Telefon</string>
@@ -726,26 +672,22 @@ Besuchen Sie <b>google.com/accounts/recovery</b>"</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Ihre SIM-Karte wurde dauerhaft deaktiviert.
 Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">SIM-Karte unbrauchbar</string>
-  <string name="lockscreen_plugged_in" formatted="false">Wird aufgeladen… (%d %%)</string>
   <string name="lockscreen_return_to_call">Zurück zum Anruf</string>
   <string name="lockscreen_screen_locked">Bildschirm gesperrt</string>
-  <string name="lockscreen_sim_error_message_short">Ungültige Karte</string>
   <string name="lockscreen_sim_locked_message">SIM-Karte ist gesperrt</string>
-  <string name="lockscreen_sim_puk_locked_instructions">"PIN1 gesperrt. Bitte PUK1 eingeben.
-    oder
-Weitere Informationen erhalten Sie im Nutzerhandbuch oder bei Ihrem Mobilfunkanbieter."</string>
-  <string name="lockscreen_sim_puk_locked_message">SIM-Karte ist gesperrt. PUK-Eingabe erforderlich.</string>
+  <string name="lockscreen_sim_puk_locked_instructions">Lesen Sie die Bedienungsanleitung oder wenden Sie sich an den Kundendienst.</string>
+  <string name="lockscreen_sim_puk_locked_message">SIM-Karte ist PUK-gesperrt. </string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt…</string>
   <string name="lockscreen_sound_off_label">Ton aus</string>
   <string name="lockscreen_sound_on_label">Ton ein</string>
   <string name="lockscreen_storage_locked">Für vollen Funktionsumfang entsperren </string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Versuchen Sie es in %d Sekunden erneut.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Sie haben Ihr Entsperrmuster %d-mal falsch gezeichnet.
-Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Sie haben Ihr Passwort %d-mal falsch eingegeben.
-Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Sie haben Ihr Passwort %d-mal falsch eingegeben.
-Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Sie haben Ihr Entsperrmuster %1$d-mal falsch gezeichnet.
+Versuchen Sie es in %2$d Sekunden erneut."</string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Sie haben Ihr Passwort %1$d-mal falsch eingegeben.
+Versuchen Sie es in %2$d Sekunden erneut."</string>
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Sie haben Ihr Passwort %1$d-mal falsch eingegeben.
+Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="lockscreen_transport_ffw_description">Vorspulen</string>
   <string name="lockscreen_transport_next_description">Nächster Titel</string>
   <string name="lockscreen_transport_pause_description">Pausieren</string>
@@ -766,11 +708,6 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="map_desc">Gewählte Adresse finden</string>
   <string name="maximize_button_text">Maximieren</string>
   <string name="me">Eigene</string>
-  <string name="media_bad_removal">SD-Karte wurde vor dem Trennvorgang entfernt</string>
-  <string name="media_checking">USB-Speicher wird zurzeit überprüft</string>
-  <string name="media_info_audio_not_supported">Audiowiedergabe fehlgeschlagen</string>
-  <string name="media_info_video_not_supported">Dieses Video wird nicht unterstützt</string>
-  <string name="media_removed">SD-Karte wurde entfernt</string>
   <string name="media_route_button_content_description">Übertragen</string>
   <string name="media_route_chooser_extended_settings">Einstellungen</string>
   <string name="media_route_chooser_searching">Geräte werden gesucht…</string>
@@ -782,34 +719,25 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="media_route_status_in_use">In Verwendung</string>
   <string name="media_route_status_not_available">Nicht verfügbar</string>
   <string name="media_route_status_scanning">Wird gescannt…</string>
-  <string name="media_shared">USB-Speicher wird zurzeit von einem Computer verwendet</string>
-  <string name="media_unknown_state">Unbekannter Status des externen Speichermediums</string>
-  <string name="mediasize_na_foolscap">Kanzleipapier</string>
-  <string name="mediasize_na_gvrnmt_letter">Regierungsschreiben</string>
   <string name="mediasize_na_index_3x5">Karteikarte 3x5</string>
   <string name="mediasize_na_index_4x6">Karteikarte 4x6</string>
   <string name="mediasize_na_index_5x8">Karteikarte 5x8</string>
-  <string name="mediasize_na_junior_legal">Junior Legal</string>
-  <string name="mediasize_na_ledger">Hauptbuch</string>
-  <string name="mediasize_na_letter">Brief</string>
-  <string name="mediasize_na_tabloid">Boulevardblatt</string>
-  <string name="mediasize_unknown_landscape">Unbekannt – Querformat</string>
-  <string name="mediasize_unknown_portrait">Unbekannt – Hochformat</string>
-  <string name="menu_delete_shortcut_label">löschen</string>
-  <string name="menu_enter_shortcut_label">Enter</string>
+  <string name="mediasize_unknown_landscape">Unbekannt Querformat</string>
+  <string name="mediasize_unknown_portrait">Unbekannt Hochformat</string>
+  <string name="menu_delete_shortcut_label">entfernen</string>
   <string name="menu_space_shortcut_label">Leerzeichen</string>
   <string name="midnight">Mitternacht</string>
   <string name="minute">Min</string>
-  <string name="minute_picker_description">Kreisförmiger Schieberegler für Minuten</string>
-  <string name="minutes">Minuten</string>
-  <string name="mismatchPin">Die von Ihnen eingegebenen PIN-Nummern stimmen nicht überein</string>
-  <string name="mmcc_authentication_reject">SIM nicht erlaubt</string>
+  <string name="minute_picker_description">Kreisförmiger Minutenregler</string>
+  <string name="minutes">Min</string>
+  <string name="mismatchPin">Die von Ihnen eingegebenen PINs stimmen nicht überein</string>
+  <string name="mmcc_authentication_reject">SIM für Sprache nicht erlaubt</string>
   <string name="mmcc_authentication_reject_msim_template">SIM %d nicht erlaubt</string>
-  <string name="mmcc_illegal_me">Telefon nicht erlaubt</string>
+  <string name="mmcc_illegal_me">Telefon für Sprache nicht erlaubt</string>
   <string name="mmcc_illegal_me_msim_template">SIM %d nicht erlaubt</string>
-  <string name="mmcc_illegal_ms">SIM nicht erlaubt</string>
+  <string name="mmcc_illegal_ms">SIM für Sprache nicht erlaubt</string>
   <string name="mmcc_illegal_ms_msim_template">SIM %d nicht erlaubt</string>
-  <string name="mmcc_imsi_unknown_in_hlr">SIM nicht verfügbar</string>
+  <string name="mmcc_imsi_unknown_in_hlr">SIM nicht für Sprache vorgesehen</string>
   <string name="mmcc_imsi_unknown_in_hlr_msim_template">SIM %d nicht bereitgestellt</string>
   <string name="mmiComplete">MMI abgeschlossen</string>
   <string name="mmiError">Verbindungsproblem oder ungültiger MMI-Code</string>
@@ -856,7 +784,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="notification_channel_heavy_weight_app">App läuft</string>
   <string name="notification_channel_hotspot">WLAN-Hotspot-Benachrichtigung</string>
   <string name="notification_channel_mobile_data_alert">Mobile Datenwarnungen</string>
-  <string name="notification_channel_mobile_data_status">Status Mobile Daten</string>
+  <string name="notification_channel_mobile_data_status">Status Mobile Daten</string>						
   <string name="notification_channel_network_alert">Warnungen</string>
   <string name="notification_channel_network_alerts">Netzwerkwarnungen</string>
   <string name="notification_channel_network_available">Netzwerk verfügbar</string>
@@ -867,16 +795,15 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="notification_channel_sim">SIM-Status</string>
   <string name="notification_channel_sms">SMS-Nachrichten</string>
   <string name="notification_channel_system_changes">Systemänderungen</string>
-  <string name="notification_channel_updates">Updates</string>
   <string name="notification_channel_usb">USB-Verbindung</string>
   <string name="notification_channel_virtual_keyboard">Virtuelle Tastatur</string>
   <string name="notification_channel_voice_mail">Sprachnachricht</string>
   <string name="notification_channel_vpn">VPN Status</string>
   <string name="notification_channel_wfc">WLAN Anruf</string>
-  <string name="notification_hidden_by_policy_text">Inhalt durch Vorgaberegel versteckt</string>
-  <string name="notification_hidden_text">Inhalt versteckt</string>
+  <string name="notification_hidden_by_policy_text">Durch Richtlinien versteckte Inhalte</string>
+  <string name="notification_hidden_text">Neue Benachrichtigung</string>
   <string name="notification_listener_binding_label">Benachrichtigungs-Listener</string>
-  <string name="notification_ranker_binding_label" formatted="false">Benachrichtigungssortierdienst</string>
+  <string name="notification_ranker_binding_label">Benachrichtigungssortierdienst</string>
   <string name="notification_reply_button_accessibility">Antworten</string>
   <string name="notification_title">Fehler bei Anmeldung für %1$s</string>
   <string name="notification_work_profile_content_description">Arbeitsprofil</string>
@@ -897,7 +824,6 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="org_unit">Organisationseinheit:</string>
   <string name="other_permissions">Andere Rechte</string>
   <string name="owner_name">Eigentümer</string>
-  <string name="p2p_wifi_frequency_conflict_message">WLAN Direkt-Verbindung wird getrennt. Möchten Sie fortfahren?</string>
   <string name="package_deleted_device_owner">Von Ihrem Administrator gelöscht</string>
   <string name="package_installed_device_owner">Von Ihrem administrator installiert</string>
   <string name="package_updated_device_owner">Von Ihrem Administrator aktualisiert</string>
@@ -910,61 +836,28 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="peerTtyModeVco">Peer angefordert TTY Mode VCO</string>
   <string name="perm_costs_money">Hierfür können Kosten anfallen.</string>
   <string name="permdesc_acceptHandovers">Erlaubt der App, einen Anruf fortzusetzen, der in einer anderen App gestartet wurde</string>
-  <string name="permdesc_accessCoarseLocation">Erlaubt der App, Ihren ungefähren Standort zu ermitteln. Diese Standortangabe stammt von Standortdiensten, die Netzwerkstandortquellen wie etwa Sendemasten oder WLAN verwenden. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App diese verwenden kann. Apps können Ihren ungefähren Standort anhand dieser Daten ermitteln.</string>
-  <string name="permdesc_accessContentProvidersExternally">Berechtigt den Inhaber, extern auf Content-Anbieter zuzugreifen. Bei normalen Apps nicht notwendig.</string>
+  <string name="permdesc_accessCoarseLocation">Diese App kann Ihren Standort basierend auf Netzwerkquellen wie Mobilfunkmasten und WLAN-Netzen ermitteln. Diese Ortungsdienste müssen eingeschaltet und auf Ihrem Telefon verfügbar sein, damit die App sie nutzen kann.</string>
   <string name="permdesc_accessDrmCertificates">Erlaubt einer App die Bereitstellung und Nutzung von DRM-Zertifikaten. Sollte für normale Apps nie benötigt werden.</string>
-  <string name="permdesc_accessFineLocation">Erlaubt der App, Ihre genaue Position anhand von GPS-Daten (Global Positioning System) oder über Netzwerkstandortquellen wie Sendemasten oder WLAN zu ermitteln. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App diese verwenden kann. Apps können Ihren Standort anhand dieser Daten ermitteln und verbrauchen eventuell zusätzliche Akkuleistung.</string>
+  <string name="permdesc_accessFineLocation">Diese App kann Ihren Standort basierend auf GPS oder Netzwerkortungsquellen wie Mobilfunkmasten und WLAN-Netzwerken ermitteln. Diese Ortungsdienste müssen eingeschaltet und auf Ihrem Telefon verfügbar sein, damit die App sie nutzen kann. Dies kann den Akkuverbrauch erhöhen.</string>
   <string name="permdesc_accessImsCallService">Erlaubt der App, den IMS-Service zu verwenden, um Anrufe ohne Ihr Eingreifen zu machen</string>
-  <string name="permdesc_accessInputFlinger">Erlaubt der App, die systemnahen InputFlinger-Funktionen zu verwenden</string>
   <string name="permdesc_accessLocationExtraCommands">Erlaubt der App, auf zusätzliche Standortanbieterbefehle zuzugreifen. Damit könnte die App die Funktionsweise von GPS oder anderen Standortquellen beeinträchtigen.</string>
-  <string name="permdesc_accessMockLocation">Erstellen von simulierten Standortquellen für Testzwecke oder Installation eines neuen Standortanbieters. Damit kann die App den von anderen Standortquellen wie GPS oder Standortanbietern zurückgegebenen Standort und/oder Status überschreiben.</string>
-  <string name="permdesc_accessMtp">Erlaubt den Zugriff auf den Kernel-MTP-Treiber zur Implementierung des MTP-USB-Protokolls</string>
   <string name="permdesc_accessNetworkConditions">Erlaubt der App, Informationen zu den Netzwerkbedingungen zu erfassen. Sollte für normale Apps nie benötigt werden.</string>
   <string name="permdesc_accessNetworkState">Erlaubt der App, Informationen zu Netzwerkverbindungen abzurufen, etwa welche Netzwerke existieren und verbunden sind.</string>
   <string name="permdesc_accessNotifications">Erlaubt der App das Abrufen, Überprüfen und Löschen von Benachrichtigungen, einschließlich Benachrichtigungen, die von anderen Apps gepostet wurden</string>
-  <string name="permdesc_accessSurfaceFlinger">Erlaubt der App, die systemnahen SurfaceFlinger-Funktionen zu verwenden</string>
   <string name="permdesc_accessWifiState">Erlaubt der App, Informationen zu WLANs abzurufen, etwa ob ein WLAN aktiviert ist, und den Namen verbundener WLAN-Geräte</string>
   <string name="permdesc_accessWimaxState">Erlaubt der App festzustellen, ob WiMAX aktiviert ist. Zudem kann diese Informationen zu verbundenen WiMAX-Netzwerken abrufen.</string>
-  <string name="permdesc_access_keyguard_secure_storage">Erlaubt einer App den Zugriff auf mit Keyguard geschützten Speicher</string>
   <string name="permdesc_access_notification_policy">Erlaubt der App, die \"Nicht stören\"-Konfiguration zu lesen</string>
-  <string name="permdesc_accountManagerService">Erlaubt der App, Anrufe an Kontoauthentifizierer zu tätigen</string>
   <string name="permdesc_addVoicemail">Erlaubt der App, Nachrichten zu Ihrem Mailbox-Posteingang hinzuzufügen</string>
-  <string name="permdesc_anyCodecForPlayback">Erlaubt der App, alle installierten Mediendecodierer zur Wiedergabe zu verwenden</string>
-  <string name="permdesc_asec_access">Erlaubt der App, Informationen zum internen Speicher abzurufen</string>
-  <string name="permdesc_asec_create">Erlaubt der App, internen Speicher zu erstellen</string>
-  <string name="permdesc_asec_destroy">Erlaubt der App, den internen Speicher zu löschen</string>
-  <string name="permdesc_asec_mount_unmount">Erlaubt der App, internen Speicher bereitzustellen bzw. zu trennen</string>
-  <string name="permdesc_asec_rename">Erlaubt der App, den internen Speicher umzubenennen</string>
   <string name="permdesc_answerPhoneCalls">Erlaubt der App, einen eingehenden Anruf entgegenzunehmen.</string>
-  <string name="permdesc_authenticateAccounts">Erlaubt der App, die Kontoauthentifizierungsfunktionen des Konto-Managers zu verwenden, einschließlich der Funktionen zum Erstellen von Konten sowie zum Abrufen und Festlegen der entsprechenden Passwörter</string>
-  <string name="permdesc_backup">Erlaubt der App, den Sicherungs- und Wiederherstellungsmechanismus des Systems zu steuern. Nicht für normale Apps vorgesehen.</string>
-  <string name="permdesc_batteryStats">Erlaubt der App, den momentan niedrigen Akkustand zu erkennen. Unter Umständen erhält die App detaillierte Informationen darüber, welche Apps Sie verwenden.</string>
-  <string name="permdesc_bindAccessibilityService">Erlaubt dem Inhaber, sich an die Oberfläche einer Bedienungshilfe auf oberster Ebene zu binden. Sollte nie für normale Apps benötigt werden.</string>
   <string name="permdesc_bindCarrierMessagingService">Erlaubt dem Inhaber, sich an die Top-Level-Schnittstelle eines Carrier-Messaging-Dienstes zu binden. Sollte nie für normale Apps benötigt werden.</string>
   <string name="permdesc_bindCarrierServices">Erlaubt dem Inhaber, Netzbetreiberservices zu binden. Sollte für normale Apps eigentlich nicht notwendig sein.</string>
   <string name="permdesc_bindConditionProviderService">Erlaubt dem Inhaber, sich an die Oberfläche eines Bedingungsproviderdienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
-  <string name="permdesc_bindDeviceAdmin">Erlaubt dem Inhaber, Intents an einen Geräteadministrator zu senden. Sollte nie für normale Apps benötigt werden.</string>
   <string name="permdesc_bindDreamService">Erlaubt der App, sich an die Oberfläche eines Dream-Dienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
-  <string name="permdesc_bindGadget">Erlaubt der App, dem System zu melden, welche Widgets von welcher App verwendet werden können. Mit dieser Berechtigung können Apps anderen Apps Zugriff auf personenbezogene Daten gewähren. Nicht für normale Apps vorgesehen.</string>
-  <string name="permdesc_bindInputMethod">Erlaubt dem Inhaber, sich an die Oberfläche einer Eingabemethode auf oberster Ebene zu binden. Sollte nie für normale Apps benötigt werden.</string>
-  <string name="permdesc_bindJobService">Erlaubt Android-System, die App bei Bedarf im Hintergrund auszuführen</string>
-  <string name="permdesc_bindNfcService">Erlaubt dem Inhaber die Bindung an Apps, die NFC-Karten emulieren. Dies sollte für normale Apps niemals notwendig sein.</string>
   <string name="permdesc_bindNotificationListenerService">Erlaubt dem Inhaber, sich an die Oberfläche der obersten Ebene eines Benachrichtigungs-Listener-Dienstes zu binden. Sollte nie für normale Apps benötigt werden.</string>
-  <string name="permdesc_bindPackageVerifier">Erlaubt dem Inhaber, Anfragen für die Paketprüfung zu senden. Sollte nie für normale Apps benötigt werden.</string>
-  <string name="permdesc_bindPrintService">Erlaubt dem Inhaber, sich an die Oberfläche eines Druckdienstes auf oberster Ebene zu binden. Sollte für normale Apps nie benötigt werden.</string>
-  <string name="permdesc_bindPrintSpoolerService">Erlaubt dem Inhaber, sich an die Oberfläche eines Druck-Spooler-Dienstes auf oberster Ebene zu binden. Sollte für normale Apps nie benötigt werden.</string>
-  <string name="permdesc_bindRemoteDisplay">Erlaubt dem Inhaber, sich an die Oberfläche eines Remote-Displays auf oberster Ebene zu binden. Sollte für normale Apps nie benötigt werden.</string>
-  <string name="permdesc_bindRemoteViews">Erlaubt dem Inhaber, sich an die Oberfläche eines Widget-Dienstes auf oberster Ebene zu binden. Sollte nie für normale Apps benötigt werden.</string>
-  <string name="permdesc_bindTextService">Erlaubt dem Inhaber, sich an die Oberfläche eines Textdienstes auf oberster Ebene zu binden, z. B. eines Rechtschreibprüfungsdienstes. Sollte nie für normale Apps benötigt werden.</string>
-  <string name="permdesc_bindTvInput">Erlaubt dem Inhaber, sich an die Oberfläche einer TV-Eingabe auf oberster Ebene zu binden. Sollte nie für normale Apps benötigt werden.</string>
-  <string name="permdesc_bindVoiceInteraction">Erlaubt dem Inhaber, sich an die Oberfläche eines Sprachinteraktionsdienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
-  <string name="permdesc_bindVpnService">Erlaubt dem Inhaber, sich an die Oberfläche eines VPN-Dienstes auf oberster Ebene zu binden. Sollte nie für normale Apps benötigt werden.</string>
-  <string name="permdesc_bindWallpaper">Erlaubt dem Inhaber, sich an die Oberfläche eines Hintergrunds auf oberster Ebene zu binden. Sollte nie für normale Apps benötigt werden.</string>
-  <string name="permdesc_bind_call_service">Erlaubt der App, zu kontrollieren, wann und wie der Benutzer den Anrufer-Bildschirm sieht</string>
   <string name="permdesc_bind_connection_service">Erlaubt der App die Interaktion mit Telefondiensten, um Anrufe zu tätigen und zu empfangen</string>
   <string name="permdesc_bind_incall_service">App kann steuern, wann und wie der Nutzer den Anrufbildschirm sieht</string>
-  <string name="permdesc_bind_trust_agent_service">Erlaubt einer App die Anbindung an einen Trust Agent-Service</string>
   <string name="permdesc_bluetooth">Erlaubt der App, die Bluetooth-Konfiguration des Telefons einzusehen und Verbindungen mit gekoppelten Geräten herzustellen und zu akzeptieren</string>
+<!--   Hier geht's weiter -->
   <string name="permdesc_bluetoothAdmin">Erlaubt der App, das lokale Bluetooth-Telefon zu konfigurieren, Remote-Geräte zu erkennen und eine Verbindung zu diesen herzustellen</string>
   <string name="permdesc_bluetoothMap">Erlaubt der App, auf Bluetooth-MAP-Daten zuzugreifen</string>
   <string name="permdesc_bluetoothPriv">Erlaubt der App, Pairing mit Remote-Geräten ohne Eingriff des Nutzers durchzuführen</string>
