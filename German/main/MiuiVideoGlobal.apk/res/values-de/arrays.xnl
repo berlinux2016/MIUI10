@@ -1,10 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
   <string-array name="playback_streaming_quality">
     <item>Automatisch</item>
-  <item>Niedrig</item>
+    <item>Niedrig</item>
     <item>Medium</item>
     <item>Hoch</item>
     <item>Sehr hoch</item>
+  <array name="hotstar">
+    <item>@drawable/ovp_home_ic_door_hotstar</item>
+    <item>Hotstar</item>
+    <item>http://www.hotstar.com/</item>
+  </array>
   </string-array>
   <array name="voot">
     <item>@drawable/ovp_home_ic_door_voot</item>
