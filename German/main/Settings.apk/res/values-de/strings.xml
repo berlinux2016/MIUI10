@@ -1242,7 +1242,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="button_text_reject">Ablehnen</string>
   <string name="cached">Hintergrundprozess im Cache</string>
   <string name="calendar_sound_dialog_title">Kalenderton wählen</string>
-  <string name="calendar_sound_title">Kalenderereignis</string>
+  <string name="calendar_sound_title">Kalendereintrag</string>
   <string name="call_and_contact">Anrufe &amp; Kontakte</string>
   <string name="call_manager_enable_summary">Diesem Dienst die Verwaltung erlauben, wie Ihre Anrufe getätigt werden</string>
   <string name="call_manager_enable_title">Anrufmanager aktivieren</string>
@@ -2966,7 +2966,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="keywords_wifi">WLAN WI-FI wifi Netz Netzwerkverbindung</string>
   <string name="keywords_wifi_calling">wifi;wi-fi;Anruf;anrufen</string>
   <string name="keywords_write_settings">schreiben;modifizieren;System;Einstellungen</string>
-  <string name="keywords_zen_mode_settings">dnd, zeitplan, benachrichtigungen, blocken, stille, vibrieren, schlafen, arbeit, focus, ton, stumm, tag, wochentag, wochenende, wochenabend, ereignis</string>
+  <string name="keywords_zen_mode_settings">dnd, zeitplan, benachrichtigungen, blocken, stille, vibrieren, schlafen, arbeit, focus, ton, stumm, tag, wochentag, wochenende, wochenabend, eintrag</string>
   <string name="lab_functions_title">Betafunktionen</string>
   <string name="label_global_roaming_settings">Roamingeinstellungen</string>
   <string name="label_mi_stats">Mi Analyse</string>
@@ -3885,7 +3885,7 @@ Betriebssystem auswählen:"</string>
   <string name="night_display_activation_on_custom">Einschalten bis %1$s</string>
   <string name="night_display_activation_on_manual">Jetzt einschalten</string>
   <string name="night_display_activation_on_twilight">Einschalten bis Sonnenaufgang</string>
-  <string name="night_display_auto_mode_custom">Nutzerdefinierter Zeitplan</string>
+  <string name="night_display_auto_mode_custom">Benutzerdefinierter Zeitplan</string>
   <string name="night_display_auto_mode_never">Niemals</string>
   <string name="night_display_auto_mode_title">Automatisch einschalten</string>
   <string name="night_display_auto_mode_twilight">Sonnenuntergang bis- aufgang</string>
@@ -5242,7 +5242,7 @@ Mindestens %s freigeben."</string>
   <string name="search_bluetooth_tether_checkbox_text">Bluetooth-Tethering;Tethering</string>
   <string name="search_brightness">Helligkeit;Bildschirmhelligkeit;Displayhelligkeit</string>
   <string name="search_button_light_timeout">Tastenbeleuchtung eingeschaltet lassen</string>
-  <string name="search_calendar_sound_title">Kalenderereignis</string>
+  <string name="search_calendar_sound_title">Kalendereintrag</string>
   <string name="search_captioning_locale">Sprache</string>
   <string name="search_change_password">Bildschirmsperre ändern;Bildschirmsperre;Bildschirmsperre bearbeiten</string>
   <string name="search_children_mode_settings">Kindersicherung;SMS sperren</string>
@@ -6909,7 +6909,7 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="user_credential_none_installed">Keine Anmeldedaten installiert</string>
   <string name="user_credential_removed">Anmeldedaten entfernt: %s</string>
   <string name="user_credential_title">Details Anmeldedaten</string>
-  <string name="user_credentials">Nutzeranmeldedaten</string>
+  <string name="user_credentials">Benutzeranmeldedaten</string>
   <string name="user_credentials_summary">Gespeicherte Anmeldedaten anzeigen und ändern</string>
   <string name="user_delete_button">Löschen</string>
   <string name="user_delete_user_description">Benutzer löschen</string>
@@ -6986,7 +6986,7 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="user_summary_restricted_not_set_up">Eingeschränktes Profil nicht eingerichtet</string>
   <string name="user_summary_restricted_profile">Eingeschränktes Profil</string>
   <string name="user_you">Sie (%s)</string>
-  <string name="users_and_accounts_summary">Aktueller Nutzer: %1$s</string>
+  <string name="users_and_accounts_summary">Aktueller Benutzer: %1$s</string>
   <string name="users_summary">Angemeldet als %1$s</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">AN</string>
@@ -7152,7 +7152,7 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="vpn_show_options">Erweiterte Optionen anzeigen</string>
   <string name="vpn_turn_on">Einschalten</string>
   <string name="vpn_type">Typ</string>
-  <string name="vpn_username">Nutzername</string>
+  <string name="vpn_username">Benutzername</string>
   <string name="vpn_version">Version %s</string>
   <string name="vr_listener_security_warning_summary">%1$s kann ausgeführt werden, wenn der Modus für virtuelle Realität für Apps aktiviert wird</string>
   <string name="vr_listener_security_warning_title">VR-Dienstzugriff für %1$s erlauben?</string>
@@ -7200,9 +7200,9 @@ Nachdem Sie einen neuen Benutzer erstellt haben, muss dieser einen Einrichtungsp
   <string name="web_action_enable_summary">Links in Apps öffnen, auch wenn sie nicht installiert sind</string>
   <string name="web_action_enable_title">Instant Apps</string>
   <string name="web_action_section_title">Instant Apps</string>
-  <string name="webview_disabled_for_user">(deaktiviert für Nutzer %s)</string>
+  <string name="webview_disabled_for_user">(deaktiviert für Benutzer %s)</string>
   <string name="webview_license_title">System WebView Lizenz</string>
-  <string name="webview_uninstalled_for_user">(deinstalliert für Nutzer %s)</string>
+  <string name="webview_uninstalled_for_user">(deinstalliert für Benutzer %s)</string>
   <string name="welcome">Willkommen</string>
   <string name="wfc_provisioned_switch_string">WLAN-Telefonie bereitgestellt</string>
   <string name="wfd_available_devices">Verfügbare Geräte</string>
