@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
-  <string name="abc_activitychooserview_choose_application">App wählen</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr</string>
   <string name="abc_action_mode_done">Fertig</string>
   <string name="abc_action_mode_select_all">Alles</string>
+  <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
+  <string name="abc_activitychooserview_choose_application">App wählen</string>
   <string name="abc_capital_off">AUS</string>
   <string name="abc_capital_on">EIN</string>
   <string name="abc_search_hint">Suchen…</string>
@@ -25,7 +25,6 @@
   <string name="accessibility_date_picker_year">Jahr</string>
   <string name="accessibility_datetime_picker_date">Datum</string>
   <string name="accessibility_datetime_picker_time">Zeit</string>
-  <string name="accessibility_time_picker_ampm">AM/PM</string>
   <string name="accessibility_time_picker_hour">Stunde</string>
   <string name="accessibility_time_picker_milli">Millisekunden</string>
   <string name="accessibility_time_picker_minute">Minute</string>
@@ -64,7 +63,6 @@
   <string name="action_menu_text_setting">Einstellungen</string>
   <string name="action_menu_text_share">Teilen</string>
   <string name="action_menu_text_snapshot">Seite speichern</string>
-  <string name="action_menu_text_video">Video</string>
   <string name="action_menu_toolbox">Toolbox</string>
   <string name="action_menu_useful_page">Nützliche Seite hinzufügen</string>
   <string name="action_menu_useful_page_added">Zu nützlichen Seiten hinzugefügt</string>
@@ -118,7 +116,6 @@
   <string name="allow">Erlauben</string>
   <string name="app_new_version">Die neueste Version dieser App ist bereits installiert</string>
   <string name="app_update_install">Bereit, um Update zu installieren</string>
-  <string name="application_name">Browser</string>
   <string name="aqi_quality_index_break">Sehr schädlich</string>
   <string name="aqi_quality_index_dangerous">Gefährlich</string>
   <string name="aqi_quality_index_good">Gut</string>
@@ -127,7 +124,6 @@
   <string name="aqi_quality_index_moderate">Mäßig</string>
   <string name="aqi_quality_index_pure">Ausgezeichnet</string>
   <string name="aqi_quality_index_unhealthy">Gesundheitsschädlich</string>
-  <string name="at_miui_browser">\@MIUI Browser</string>
   <string name="autofill_keyboard_accessory_content_description">Verfügbare Vorschläge</string>
   <string name="autofill_popup_content_description">Autofill-Popup anzeigen</string>
   <string name="autologin_bar_error">Anmeldung fehlgeschlagen</string>
@@ -226,7 +222,7 @@
   <string name="common_use_phrase_bottom_bar_text_next">Nächster</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Zurück</string>
   <string name="context_menu_add_to_desk_id">Zur Startseite hinzufügen</string>
-  <string name="context_menu_orientation_portrait_swap_id">V/H Bildschirm</string>
+  <string name="context_menu_orientation_portrait_swap_id">V/H-Bildschirm</string>
   <string name="contextmenu_add_contact">Kontakt hinzufügen</string>
   <string name="contextmenu_copy">Kopieren</string>
   <string name="contextmenu_copylink">Kopiere Link-URL</string>
@@ -253,7 +249,6 @@
   <string name="copy_url">URL kopieren</string>
   <string name="create_qr_code">QR-Code</string>
   <string name="current_version_pad">Tablet</string>
-  <string name="current_version_pc">PC</string>
   <string name="current_version_phone">Smartphone</string>
   <string name="custom_head_card_text">Glauben Sie immer daran, dass etwas Wunderbares geschehen wird</string>
   <string name="custom_head_card_text_incognito">Nur Gott und Sie selbst kennen dieses private Fenster</string>
@@ -422,7 +417,6 @@
   <string name="guide_politics_text">Politik</string>
   <string name="guide_skip">Überspringen</string>
   <string name="guide_sports_text">Sport</string>
-  <string name="guide_start_experience">Start</string>
   <string name="guide_tech_text">Technik</string>
   <string name="have_sent_bookmark_to_home_screen">Auf Startbildschirm hinzugefügt</string>
   <string name="hint">Hinweis</string>
@@ -453,7 +447,6 @@
   <string name="js_dialog_before_unload_positive_button">Verlassen</string>
   <string name="js_dialog_before_unload_title">Navigation bestätigen</string>
   <string name="js_dialog_title">Seite \"%s\" meldet:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Deaktivieren von JavaScript führt möglicherweise dazu, dass einige Webseiten nicht korrekt angezeigt werden</string>
   <string name="js_disable_confirm_title">JavaScript deaktivieren?</string>
   <string name="keep_queued_download">Behalten</string>
@@ -970,7 +963,7 @@
   <string name="mw_sad_tab_reload_try">Versuchen Sie Folgendes:</string>
   <string name="mw_sad_tab_send_feedback_label">Feedback senden</string>
   <string name="mw_sad_tab_title">Mist!</string>
-  <string name="mw_sad_tab_uma_optin">Automatisch Nutzungsstatistiken und Crash-Reports an Google senden</string>
+  <string name="mw_sad_tab_uma_optin">Automatisch Nutzungsstatistiken und Crash-Reporte an Google senden</string>
   <string name="mw_save_password_message">Soll der Browser dieses Passwort speichern?</string>
   <string name="mw_save_password_never">Niemals</string>
   <string name="mw_save_password_notnow">Jetzt nicht</string>
@@ -980,7 +973,7 @@
   <string name="mw_snippets_disabled_signed_out_instructions">Um  von Google vorgeschlagene personalisierte Inhalte zu erhalten, melden Sie sich bei Chrome an.</string>
   <string name="mw_time_picker_dialog_title">Zeit einstellen</string>
   <string name="mw_updating_chrome">Chrome updaten…</string>
-  <string name="mw_video_buffering_percent">"Puffern  "</string>
+  <string name="mw_video_buffering_percent">"Pufferung "</string>
   <string name="mw_video_float_window">Popup</string>
   <string name="mw_video_float_window_playing">Video abspielen</string>
   <string name="mw_video_play_error">Video konnte nicht abgespielt werden</string>
@@ -1034,9 +1027,9 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="page_info_view">Seiteninfo ansehen</string>
   <string name="password">Passwort</string>
   <string name="password_generation_popup_content_description">Passwortpopup anzeigen</string>
-  <string name="pause_download">Pausiert</string>
+  <string name="pause_download">Angehalten</string>
   <string name="paused_queued_for_wifi">Warte auf Netzwerkverbindung…</string>
-  <string name="paused_unknown">Pausiert</string>
+  <string name="paused_unknown">Angehalten</string>
   <string name="paused_waiting_for_network">Warte auf Netzwerkverbindung…</string>
   <string name="paused_waiting_to_retry">Auf neuen Versuch warten…</string>
   <string name="pay_failed_toast">Bezahlung fehlgeschlagen</string>
@@ -1068,7 +1061,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="pref_check_security_url_title">Überprüfe URL-Sicherheit</string>
   <string name="pref_check_security_url_title_international">URL holen</string>
   <string name="pref_clear_adblock_statistics">Lösche Werbeblockerverlauf</string>
-  <string name="pref_clear_adblock_statistics_dlg">Lösche Zähler für blockierte Werbung?</string>
+  <string name="pref_clear_adblock_statistics_dlg">Zähler für blockierte Werbung löschen?</string>
   <string name="pref_clear_all_data_dlg">Wirklich alle Browserdaten löschen?</string>
   <string name="pref_clear_all_data_title">Alle Browserdaten löschen</string>
   <string name="pref_clear_data_title">Browserdaten löschen</string>
@@ -1092,19 +1085,18 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="pref_extras_reset_default_title">Andere</string>
   <string name="pref_extras_send_feedback">Feedback senden</string>
   <string name="pref_extras_title">Erweiterte Einstellungen</string>
-  <string name="pref_extras_title_version">Version</string>
+  <string name="pref_extras_title_version">Versionsinfo</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Dateien im Standardordner speichern</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Standardverzeichnis wiederherstellen</string>
   <string name="pref_file_download_default_path_prefix">Standardverzeichnis: %s</string>
   <string name="pref_file_download_save_modify_default_path">Downloadverzeichnis</string>
-  <string name="pref_file_download_save_title">Downloads</string>
   <string name="pref_fling_on_border">Von der Kante aus wischen</string>
   <string name="pref_fling_on_border_enabled">Tabs wechseln</string>
   <string name="pref_fling_on_border_enabled_title_summary">Wischen Sie vom linken oder rechten Bildschirmrand, um die Registerkarten zu wechseln</string>
   <string name="pref_fling_on_border_title_summary">Von der rechten oder linken Kante aus nach innen wischen</string>
   <string name="pref_font_size_category">Webseitentextgrösse</string>
   <string name="pref_force_userscalable">Erzwinge Vergrößerung</string>
-  <string name="pref_force_userscalable_summary">Der Webseite die Kontrolle über die Zoom-Funktion entziehen</string>
+  <string name="pref_force_userscalable_summary">Webseite die Kontrolle über die Zoom-Funktion entziehen</string>
   <string name="pref_general_title">Allgemein</string>
   <string name="pref_key_gesture_title">Tasten &amp; Gesten</string>
   <string name="pref_label_advert_manager">Markierte Werbung verwalten</string>
@@ -1264,7 +1256,6 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="senddesktop">Startbildschirm</string>
   <string name="sendstartpage">Startseite</string>
   <string name="sequence_bookmark_description">Reihenfolge der Lesezeichen ändern</string>
-  <string name="share_by_yidianzixun">【YidianZixun】</string>
   <string name="share_image_text">Sieh, was ich geteilt habe! @MIUI</string>
   <string name="share_page_text">Ich genieße 【%1$s】 | %2$s</string>
   <string name="short_video_description">Videokanal</string>
@@ -1412,13 +1403,12 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="version_check_button_newest">Keine Updates verfügbar</string>
   <string name="version_check_button_no_network">Kann nicht mit Netzwerk verbinden</string>
   <string name="version_check_button_resume_download">Download fortsetzen</string>
-  <string name="version_check_button_update">Update</string>
   <string name="version_check_failed">Suche nach Updates fehlgeschlagen</string>
   <string name="version_update_file_download_toast">Lade</string>
   <string name="version_update_file_not_found">Kann keine Updates finden</string>
   <string name="video_activity_name">Favoriten</string>
-  <string name="video_buffering_percent">"Puffern "</string>
-  <string name="video_buffering_percent_string">"Puffern "</string>
+  <string name="video_buffering_percent">"Pufferung "</string>
+  <string name="video_buffering_percent_string">"Pufferung "</string>
   <string name="video_collect_cancel">Von Favoriten entfernen</string>
   <string name="video_collect_success">Zu Favoriten hinzugefügt</string>
   <string name="video_doenload_complete">Video erfolgreich heruntergeladen</string>
