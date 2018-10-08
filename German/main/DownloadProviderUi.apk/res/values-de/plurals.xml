@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="dialog_confirm_delete_downloads_message">
+    <item quantity="other">%d Downloads löschen?</item>
+    <item quantity="one">%d Download löschen?</item>
+  </plurals>
+  <plurals name="download_info_count_deleted_tasks">
+    <item quantity="other">%s Downloads erfolgreich gelöscht</item>
+    <item quantity="one">%s Download erfolgreich gelöscht</item>
+  </plurals>
   <plurals name="numberOfItemsAvailable">
     <item quantity="other">%d Elemente löschen?</item>
     <item quantity="one">Dieses Element löschen?</item>
