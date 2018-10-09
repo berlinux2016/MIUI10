@@ -330,7 +330,7 @@
   <string name="bluetooth_pairing_decline">Abbrechen</string>
   <string name="bluetooth_pairing_device_down_error_message">Kann nicht mit %1$s kommunizieren</string>
   <string name="bluetooth_pairing_error_message">Kann nicht mit %1$s koppeln</string>
-  <string name="bluetooth_pairing_pin_error_message">Kann nicht mit %1$s koppeln wegen falschem Passwort oder Schlüssel</string>
+  <string name="bluetooth_pairing_pin_error_message">Kann nicht mit %1$s koppeln wegen falschen Passworts oder Schlüssels</string>
   <string name="bluetooth_pairing_rejected_error_message">Koppeln von %1$s zurückgewiesen</string>
   <string name="bluetooth_pairing_will_share_phonebook">Koppeln ermöglicht Zugriff auf Ihre Kontakte und die Anrufliste, wenn verbunden</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Gemeinsame Nutzung der lokalen Internetverbindung mit dem Gerät</string>
@@ -385,13 +385,13 @@ Abtastrate"</string>
   <string name="callFailed_bearer_service_not_implemented">Trägerservice nicht implementiert</string>
   <string name="callFailed_call_rejected">Anruf abgewiesen</string>
   <string name="callFailed_cb_enabled">Sie können keine ausgehenden Anrufe tätigen, während die Anrufsperre aktiv ist</string>
-  <string name="callFailed_cdma_activation">Eine SIM-Karte hat Ihren Dienst aktiviert und aktualisiert servergespeicherte Funktionen Ihres Telefons</string>
+  <string name="callFailed_cdma_activation">Eine SIM-Karte hat ihren Dienst aktiviert und aktualisiert servergespeicherte Funktionen Ihres Telefons</string>
   <string name="callFailed_cdma_call_limit">Zu viele aktive Anrufe. Bitte beenden oder verbinden Sie bestehende Anrufe, bevor Sie einen neuen Anruf tätigen.</string>
   <string name="callFailed_cdma_notEmergency">Nur Notrufe möglich</string>
   <string name="callFailed_channel_unacceptable">Kanal unzulässig</string>
   <string name="callFailed_conditional_IE_error">Bedingter IE-Fehler</string>
   <string name="callFailed_congestion">Besetzt</string>
-  <string name="callFailed_data_disabled">Anruf beendet wegen deaktivierten mobilen Daten</string>
+  <string name="callFailed_data_disabled">Anruf beendet wegen deaktivierter mobiler Daten</string>
   <string name="callFailed_data_limit_reached">Datenlimit erreicht, Anruf beendet</string>
   <string name="callFailed_data_limit_reached_description">Anruf beendet wegen Erreichen des Mobildatenlimits</string>
   <string name="callFailed_destination_out_of_order">Ziel außer Betrieb</string>
@@ -420,7 +420,7 @@ Abtastrate"</string>
   <string name="callFailed_invalid_transaction_identifier">Ungültiger Transaktionsidentifikatorwert</string>
   <string name="callFailed_invalid_transit_NW_selection">Ungültige Transitnetzauswahl</string>
   <string name="callFailed_limitExceeded">ACM-Limit überschritten</string>
-  <string name="callFailed_low_battery">Videoanruf beendet wegen niedrigem Akkustand</string>
+  <string name="callFailed_low_battery">Videoanruf wegen niedrigen Akkustands beendet</string>
   <string name="callFailed_maximum_reached">Alle verfügbaren Leitungen sind belegt. Um einen Anruf zu tätigen, trennen Sie einen der Anrufe auf diesem Gerät oder auf einem Ihrer anderen Geräte.</string>
   <string name="callFailed_message_not_compatible_with_protocol_state">Meldung nicht kompatibel mit Protokollstatus</string>
   <string name="callFailed_message_type_non_implemented">Nachrichtentyp nicht vorhanden oder nicht implementiert</string>
@@ -735,7 +735,7 @@ Abtastrate"</string>
   <string name="clh_callFailed_user_alerting_txt">Benutzeralarm, keine Antwort</string>
   <string name="clh_callFailed_user_busy_txt">Benutzer beschäftigt</string>
   <string name="clh_callFailed_user_not_member_of_CUG_txt">Benutzer nicht Mitglied der CUG</string>
-  <string name="clh_card_title_call_ended_txt">Anruf beendet</string>
+  <string name="clh_card_title_call_ended_txt">"Anruf beendet "</string>
   <string name="clh_incall_error_out_of_service_txt">Mobilfunknetz nicht verfügbar</string>
   <string name="clir_choices_hide_number">Nummer verstecken</string>
   <string name="clir_choices_network_default">Netzstandard</string>
