@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="event_reminders_to_max">
+    <item quantity="other">Kann bis zu %d Erinnerungen einrichten</item>
+    <item quantity="one">Kann bis zu %d Erinnerung einrichten</item>
+  </plurals>
   <plurals name="N_remaining_events">
     <item quantity="other">+%d Ereignisse</item>
     <item quantity="one">+1 Ereignis</item>
