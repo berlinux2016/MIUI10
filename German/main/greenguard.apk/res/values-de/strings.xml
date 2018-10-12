@@ -21,6 +21,7 @@
     <string name="about_detail">"Versionsname: %s
 Datenschutzerklärung prüfen"</string>
     <string name="agree">Zustimmen</string>
+    <string name="amap_policy">Amap Datenschutzerklärung</string>
     <string name="app_name">Sicherheitsdienst</string>
     <string name="app_restrict_notice_forbidden">"Sie können %s jetzt nicht mehr verwenden.
 Kommen Sie zurück, wenn die Einschränkung aufgehoben wurde."</string>
@@ -57,17 +58,22 @@ dem anderen Gerät eingestellt werden.</string>
     <string name="down_kitguard">KiteGuard herunterladen</string>
     <string name="event_app_lock">Ihr Gerät wurde wieder gesperrt, und die App-Richtlinie ist in Kraft getreten.</string>
     <string name="event_app_policy">Neue App-Richtlinien</string>
-    <string name="event_app_unlock">Ihr Gerät wurde vorübergehend freigeschaltet %s, Apps können frei verwendet werden.</string>
+    <string name="event_app_policy_title">Neues Update für die Appverwaltung</string>
+    <string name="event_app_unlock">Ihr Gerät wurde vorübergehend freigeschaltet %s</string>
+    <string name="event_app_unlock_detail">Ihr Gerät wurde vorübergehend freigeschaltet %s, Apps können frei verwendet werden.</string>
     <string name="event_fence_in">Sie haben %s betreten</string>
     <string name="event_fence_out">Sie haben %s verlassen</string>
     <string name="event_location">%s hat Ihren Standort überprüft</string>
     <string name="event_low_battery">Schwacher Akku</string>
     <string name="event_offline">Gerät ist jetzt offline</string>
-    <string name="event_online">Gerät ist jetzt online</string>
+    <string name="event_offline_detail">Während des Offline-Zeitraums schlägt der Famillienschutz-Dienst fehl. Bitte überprüfen Sie die Netzwerkverbindung.</string>
+    <string name="event_online">Ihr Gerät ist jetzt online.</string>
+    <string name="event_online_detail">Familienschutz sorgt dafür, dass Ihre Sicherheit stets gewährleistet ist</string>
     <string name="event_url_block">Illegale URL abfangen</string>
     <string name="family_guard_detail">"Mit der Kindersicherung können Sie steuern, wie andere Familienmitglieder ihre mobilen Geräte nutzen, und in Echtzeit auf ihre Standortinformationen zugreifen.
 So können Sie beispielsweise die Bildschirmzeit für Kinder einschränken oder den Standort Ihrer älteren Verwandten im Auge behalten, um sicherzustellen, dass sie sicher sind."</string>
     <string name="fir">Fr</string>
+    <string name="follow_next">"So können Sie das machen:"</string>
     <string name="freerun_btn_cancel">Abbrechen</string>
     <string name="freerun_btn_uninstall">deinstallieren</string>
     <string name="freerun_camera_info_can_not_get">Kamerainformationen konnten nicht abgerufen werden</string>
@@ -118,6 +124,7 @@ So können Sie beispielsweise die Bildschirmzeit für Kinder einschränken oder 
     <string name="qr_downlaod">Sie können KiteGuard-Apk herunterladen, indem Sie den QR-Code dort oben scannen.</string>
     <string name="qr_text_1">1. Scannen Sie diesen QR-Code, um die Kindersicherung herunterzuladen.</string>
     <string name="qr_text_2">2. Öffnen Sie die Kindersicherung und tippen Sie auf \"Gerät hinzufügen\". Scannen Sie den QR-Code, um das Gerät hinzuzufügen.</string>
+    <string name="read_policy">Ich habe die Benutzervereinbarung, die Datenschutzerklärung und die Amap-Datenschutzerklärung der Kindersicherung gelesen und bin damit einverstanden.</string>
     <string name="regist_failed">Ich konnte mich nicht anmelden. Fehlercode:</string>
     <string name="sat">Sa</string>
     <string name="scroll_for_more">Scrollen, um mehr zu sehen</string>
