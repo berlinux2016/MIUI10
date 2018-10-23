@@ -193,6 +193,10 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
     <item quantity="other">"Netzwerkzugang ist beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> Apps"</item>
     <item quantity="one">"Netzwerkzugang ist beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> App"</item>
   </plurals>
+  <plurals name="notification_battery_consume_abnormal_summary">
+    <item quantity="other">In den letzten %1$d Min wurden %2$d%% des Akkus entleert</item>
+    <item quantity="one">In der letzten %1$d Min wurden %2$d%% des Akkus entleert</item>
+  </plurals>
   <plurals name="notification_title_cmcc_app_check">
     <item quantity="other">%d Tage seit letzter Prüfung</item>
     <item quantity="one">%d Tag seit letzter Prüfung</item>
