@@ -306,6 +306,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="allow_bind_app_widget_activity_allow_bind">Nach Erstellung des Widgets hat %1$s Zugriff auf alle von ihm angezeigten Daten</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget erstellen und Zugriff erlauben?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s immer Erstellen von Widgets und den Zugriff auf Ihre Daten erlauben</string>
+  <string name="allow_device_id_access">Apps mit Geräteidentifikation</string>
   <string name="allow_data_usage_title">Datennutzung beim Roaming erlauben</string>
   <string name="allow_interruption">Unterbrechungen erlauben</string>
   <string name="allow_interruption_summary"> App darf Töne machen, vibrieren und /oder mit Benachrichtungen auf dem Bildschirm aufpoppen</string>
@@ -1876,6 +1877,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_display_layout_title">Funktionen</string>
   <string name="device_edit_title">Gerätename ändern</string>
   <string name="device_feedback">Feedback zu diesem Gerät senden</string>
+  <string name="device_id">Geräteidentifikation</string>
   <string name="device_info_default">Unbekannt</string>
   <string name="device_info_label">Geräteinfo</string>
   <string name="device_info_not_available">Nicht verfügbar</string>
@@ -4577,6 +4579,7 @@ Betriebssystem auswählen:"</string>
   <string name="pref_manage_bg_network">Hintergrund-Netzwerkverbindung von Apps verwalten</string>
   <string name="pref_new_installed_preconfig_title">Standardeinstellungen der neuen Apps</string>
   <string name="pref_operational_key">Tasten</string>
+  <string name="pref_show_lunar_calendar_title">Traditionellen chinesischen Kalender auf dem Sperrbildschirm anzeigen.</string>
   <string name="pref_title_lang_selection">Spracheinstellungen</string>
   <string name="pref_title_network_details">Netzwerkdetails</string>
   <string name="pref_title_update_notification">Benachrichtigungen zur Datennutzung</string>
@@ -4965,6 +4968,11 @@ UT Interface: %5$s"</string>
   <string name="restore_data">Daten wiederherstellen</string>
   <string name="restore_default_apn">Standard-APN-Einstellungen werden wiederhergestellt</string>
   <string name="restore_default_apn_completed">Zurücksetzen auf Standard-APN-Einstellungen abgeschlossen</string>
+  <string name="restore_device_id_content">Personalisierte Empfehlung zurücksetzen</string>
+  <string name="restore_device_id_title">Geräteidentifikation wiederherstellen</string>
+  <string name="restore_dialog_content">Die Wiederherstellung der Geräteidentifikation setzt Ihre personalisierte Empfehlung zurück.</string>
+  <string name="restore_dialog_positive">Restore</string>
+  <string name="restore_dialog_title">Erinnerung</string>
   <string name="restore_failed">Wiederherstellung fehlgeschlagen</string>
   <string name="restore_finished">Wiederherstellung abgeschlossen</string>
   <string name="restore_is_running">Gerät wiederherstellen</string>
