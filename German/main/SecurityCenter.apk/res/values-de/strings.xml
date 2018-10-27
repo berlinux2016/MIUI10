@@ -1249,8 +1249,8 @@ Ihr Anbieter kann Ihnen zusätzliche Gebühren berechnen, wenn Sie mobile Datenv
   <string name="network_permission_exception_tips">Mobile Datenverbindung kann nicht zur Netzwerkverbindung verwendet werden</string>
   <string name="network_roaming_exception_tips">Während des Roamings kann mobile Datenverbindung nicht zur Netzwerkverbindung verwendet werden</string>
   <string name="network_route_exception_detail">"Möglicherweise liegt der Fehler bei Ihrem Router:
-<b>1. Problem mit einem öffentlichen WLAN-Netzwerk</b>
-Wenn Sie mit einem öffentlichem WLAN-Netzwerk verbunden sind, kann je nach Anzahl der verbundenen Benutzer die Geschwindigkeit beeinträchtigt werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
+<b>1. Problem mit einem öffentlichen WLAN</b>
+Wenn Sie mit einem öffentlichem WLAN verbunden sind, kann je nach Anzahl der verbundenen Benutzer die Geschwindigkeit beeinträchtigt werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
 <b>2. Problem mit dem Internetanbieter</b>
 Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Internetanbieter besitzen.
 <b>3. Problem mit der Routerhardware</b>
@@ -1338,7 +1338,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="om_ill_proc_type_wakelock_detail">Probleme mit dem Standbymodus beheben</string>
   <string name="om_ill_proc_type_wakelock_title">App blockiert den Standbymodus und verbraucht Akku</string>
   <string name="om_ill_proc_type_wifiscan_detail">Probleme mit dem WLAN beheben</string>
-  <string name="om_ill_proc_type_wifiscan_title">App sucht häufig nach WLAN Netzwerken und verbraucht Akku</string>
+  <string name="om_ill_proc_type_wifiscan_title">App sucht häufig nach WLAN und verbraucht Akku</string>
   <string name="om_lock_app_locked_app">Gesperrt</string>
   <string name="om_lock_app_locked_app_occupy_memory">Sperren von zu vielen Apps verringert die Leistung Ihres Geräts</string>
   <string name="om_lock_app_tip_msg">Tippen, um zu sperren</string>
@@ -1813,7 +1813,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="sp_background_risk_type_root">System ist gerootet</string>
   <string name="sp_background_risk_type_sign">Inoffizielle App läuft im Hintergrund</string>
   <string name="sp_background_risk_type_virus">Virenapp läuft im Hintergrund</string>
-  <string name="sp_background_risk_type_wifi">Diese WLAN-Netzwerk ist unsicher</string>
+  <string name="sp_background_risk_type_wifi">Diese WLAN ist unsicher</string>
   <string name="sp_button_text_ignore_alert_title">Dieses Element ignorieren?</string>
   <string name="sp_empty_title_sign_exception">App halten und zu Ausnahmen hinzufügen</string>
   <string name="sp_monitored_apps_count_zero">Bezahlapps sind nicht geschützt</string>
@@ -2285,7 +2285,7 @@ Wollen Sie das übernehmen?"</string>
    <string name="website">Webseite</string>
   <string name="whitelist_prefix_add_hint">Alle Nummern mit Vorwahl zu Ausnahmen hinzufügen</string>
   <string name="wifi_exception_summary">Verfügbare WLAN-Netzwerke testen</string>
-  <string name="wifi_exception_title">WLAN-Netzwerk testen</string>
+  <string name="wifi_exception_title">WLAN testen</string>
   <string name="wifi_item_status_connection_no">Nicht verbunden</string>
   <string name="wifi_item_title_arp_attack">ARP-Angriff</string>
   <string name="wifi_item_title_connection">WLAN-Verbindung</string>

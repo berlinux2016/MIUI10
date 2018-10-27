@@ -839,7 +839,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permdesc_acceptHandovers">Erlaubt der App, einen Anruf fortzusetzen, der in einer anderen App gestartet wurde</string>
   <string name="permdesc_accessCoarseLocation">Diese App kann Ihren Standort basierend auf Netzwerkquellen wie Mobilfunkmasten und WLAN-Netzen ermitteln. Diese Ortungsdienste müssen eingeschaltet und auf Ihrem Telefon verfügbar sein, damit die App sie nutzen kann.</string>
   <string name="permdesc_accessDrmCertificates">Erlaubt einer App die Bereitstellung und Nutzung von DRM-Zertifikaten. Sollte für normale Apps nie benötigt werden.</string>
-  <string name="permdesc_accessFineLocation">Diese App kann Ihren Standort basierend auf GPS oder Netzwerkortungsquellen wie Mobilfunkmasten und WLAN-Netzwerken ermitteln. Diese Ortungsdienste müssen eingeschaltet und auf Ihrem Telefon verfügbar sein, damit die App sie nutzen kann. Dies kann den Akkuverbrauch erhöhen.</string>
+  <string name="permdesc_accessFineLocation">Diese App kann Ihren Standort basierend auf GPS oder Netzwerkortungsquellen wie Mobilfunkmasten und WLAN ermitteln. Diese Ortungsdienste müssen eingeschaltet und auf Ihrem Telefon verfügbar sein, damit die App sie nutzen kann. Dies kann den Akkuverbrauch erhöhen.</string>
   <string name="permdesc_accessImsCallService">Erlaubt der App, den IMS-Service zu verwenden, um Anrufe ohne Ihr Eingreifen zu machen</string>
   <string name="permdesc_accessLocationExtraCommands">Erlaubt der App, auf zusätzliche Standortanbieterbefehle zuzugreifen. Damit könnte die App die Funktionsweise von GPS oder anderen Standortquellen beeinträchtigen.</string>
   <string name="permdesc_accessNetworkConditions">Erlaubt der App, Informationen zu den Netzwerkbedingungen zu erfassen. Sollte für normale Apps nie benötigt werden.</string>
@@ -866,7 +866,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permdesc_changeNetworkState">Erlaubt der App, den Status der Netzwerkkonnektivität zu ändern</string>
   <string name="permdesc_changeTetherState">Erlaubt der App, den Status der Tethering-Konnektivität zu ändern</string>
   <string name="permdesc_changeWifiMulticastState">Erlaubt der App, Pakete zu empfangen, die mit Hilfe von Multicast-Adressen an sämtliche Geräte in einem WLAN versendet wurden, nicht nur an Ihr Telefon. Dies kostet mehr Leistung als der Non-Multicast-Modus.</string>
-  <string name="permdesc_changeWifiState">Erlaubt der App, eine Verbindung zu WLAN-Zugriffspunkten herzustellen und solche zu trennen und Änderungen an der Gerätekonfiguration für WLAN-Netzwerke vorzunehmen</string>
+  <string name="permdesc_changeWifiState">Erlaubt der App, eine Verbindung zu WLAN-Zugriffspunkten herzustellen und solche zu trennen sowie Änderungen an der Gerätekonfiguration für WLAN vorzunehmen</string>
   <string name="permdesc_changeWimaxState">Erlaubt der App, eine Verbindung zwischen dem Telefon und WiMAX-Netzwerken herzustellen und solche zu trennen</string>
   <string name="permdesc_connection_manager">Erlaubt der App, Telekommunikationsverbindungen zu verwalten</string>
   <string name="permdesc_control_incall_experience">App kann Anrufoptionen für den Benutzer bereitstellen</string>
@@ -1494,13 +1494,13 @@ Möchten Sie sie schließen?"</string>
   <string name="whichViewApplicationNamed">Mit %1$s öffnen</string>
   <string name="wifi_available_action_all_networks">Alle Netzwerke</string>
   <string name="wifi_available_action_connect">Verbinden</string>
-  <string name="wifi_available_carrier_network_title">Mit Betreiber-WLAN-Netzwerk verbinden</string>
+  <string name="wifi_available_carrier_network_title">Mit Betreiber-WLAN verbinden</string>
   <string name="wifi_available_content_failed_to_connect">Tippen, um alle Netzwerke anzuzeigen</string>
-  <string name="wifi_available_sign_in">Im WLAN-Netzwerk anmelden</string>
-  <string name="wifi_available_title">Verbindung zu offenem WLAN-Netzwerk</string>
-  <string name="wifi_available_title_connected">Mit WLAN-Netzwerk verbunden</string>
-  <string name="wifi_available_title_connecting">Mit offenem WLAN-Netzwerk verbinden</string>
-  <string name="wifi_available_title_failed_to_connect">Verbindung zu WLAN-Netzwerk nicht möglich</string>
+  <string name="wifi_available_sign_in">Im WLAN anmelden</string>
+  <string name="wifi_available_title">Verbindung zu offenem WLAN</string>
+  <string name="wifi_available_title_connected">Mit WLAN verbunden</string>
+  <string name="wifi_available_title_connecting">Mit offenem WLAN verbinden</string>
+  <string name="wifi_available_title_failed_to_connect">Verbindung zu WLAN nicht möglich</string>
   <string name="wifi_calling_off_summary">Aus</string>
   <string name="wifi_connect_alert_message">App %1$s möchte sich mit dem WLAN %2$s verbinden</string>
   <string name="wifi_connect_alert_title">Verbindung erlauben?</string>

@@ -1268,7 +1268,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="change_security_lock">Andere Entsperrmethoden</string>
   <string name="change_storage">Speicher tauschen</string>
   <string name="change_theme_reboot">Theme-Änderung erfordet einen Neustart</string>
-  <string name="change_wifi_state_app_detail_summary">Dieser App erlauben: Ein- und Ausschalten von WLAN, Scannen und Verbinden mit WLAN-Netzwerken, Hinzufügen oder Entfernen von Netzwerken oder Starten eines lokalen Hotspots</string>
+  <string name="change_wifi_state_app_detail_summary">Dieser App erlauben: Ein- und Ausschalten von WLAN, Scannen und Verbinden mit WLAN, Hinzufügen oder Entfernen von Netzwerken oder Starten eines lokalen Hotspots</string>
   <string name="change_wifi_state_app_detail_switch">App erlauben, WLAN zu kontrollieren</string>
   <string name="change_wifi_state_title">WLAN-Steuerung</string>
   <string name="channel_group_notifications_off_desc">Wunschgemäß verhindert Android, dass diese Gruppe von Benachrichtigungen auf diesem Gerät erscheint.</string>
@@ -1574,7 +1574,7 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
   <string name="data_usage_app_restrict_background">Hintergrunddaten beschränken</string>
   <string name="data_usage_app_restrict_background_summary">Hintergrunddaten in Mobilfunknetzen ausschalten. WLAN verwenden, wenn verfügbar.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Legen Sie zur Beschränkung der Apphintergrunddaten zuerst ein Mobildatenlimit fest</string>
-  <string name="data_usage_app_restrict_dialog">"Diese Funktion könnte dazu führen, dass Apps, die mit Hintergrunddaten arbeiten, nicht mehr funktionieren, wenn kein WLAN-Netzwerk verfügbar ist.
+  <string name="data_usage_app_restrict_dialog">"Diese Funktion könnte dazu führen, dass Apps, die mit Hintergrunddaten arbeiten, nicht mehr funktionieren, wenn kein WLAN verfügbar ist.
 Geeignetere Kontrollmechanismen für den Datenverbrauch finden Sie in den Einstellungen der App."</string>
   <string name="data_usage_app_restrict_dialog_title">Hintergrunddaten beschränken?</string>
   <string name="data_usage_app_restricted">Eingeschränkt</string>
@@ -1626,11 +1626,11 @@ Der Datenverbrauch wird von Ihrem Gerät berechnet und kann von der Abrechnung I
   <string name="data_usage_menu_sim_cards">SIM-Karten</string>
   <string name="data_usage_menu_split_4g">Separater 4G Verbrauch</string>
   <string name="data_usage_metered_auto">Automatisch</string>
-  <string name="data_usage_metered_body">Wählen Sie WLAN-Netzwerke aus, die mobile Hotspots sind. Apps können von der Nutzung dieser Netzwerke im Hintergrund eingeschränkt werden. Apps benachrichtigen Sie auch, bevor Sie diese Netzwerke für große Downloads nutzen.</string>
+  <string name="data_usage_metered_body">Wählen Sie WLAN aus, die mobile Hotspots sind. Apps können von der Nutzung dieser Netzwerke im Hintergrund eingeschränkt werden. Apps benachrichtigen Sie auch, bevor Sie diese Netzwerke für große Downloads nutzen.</string>
   <string name="data_usage_metered_mobile">Mobilfunknetze</string>
   <string name="data_usage_metered_no">Nicht dosiert</string>
   <string name="data_usage_metered_title">Mobile Hotspots</string>
-  <string name="data_usage_metered_wifi">WLAN-Netzwerke</string>
+  <string name="data_usage_metered_wifi">WLAN</string>
   <string name="data_usage_metered_wifi_disabled">WLAN aktivieren, um mobile Hotspots auszuwählen</string>
   <string name="data_usage_metered_yes">Dosiert</string>
   <string name="data_usage_other_apps">Andere Apps in Nutzung inbegriffen</string>
@@ -2909,7 +2909,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und Appdaten peri
   <string name="location_scanning_bluetooth_always_scanning_description">Standortgenauigkeit verbessern, indem Systemapps jederzeit nach Bluetoothgeräten suchen</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Bluetoothsuche</string>
   <string name="location_scanning_screen_title">Wird gesucht</string>
-  <string name="location_scanning_wifi_always_scanning_description">Standortgenauigkeit verbessern, indem Apps jederzeit nach WLAN-Netzwerken suchen</string>
+  <string name="location_scanning_wifi_always_scanning_description">Standortgenauigkeit verbessern, indem Apps jederzeit nach WLAN suchen</string>
   <string name="location_scanning_wifi_always_scanning_title">WLAN wird gesucht</string>
   <string name="location_settings_master_switch_title">Standort verwenden</string>
   <string name="location_settings_title">Standortzugriff</string>
@@ -3611,7 +3611,7 @@ Betriebssystem auswählen:"</string>
   <string name="no_device_admins">Keine Geräteadministratoren verfügbar</string>
   <string name="no_encrypt_password">Kein Passwort</string>
   <string name="no_internet_access_remember">Für dieses Netzwerk nicht mehr nachfragen</string>
-  <string name="no_internet_access_text">WLAN Netzwerk %1$s hat keinen Internetzugang, verbunden bleiben?</string>
+  <string name="no_internet_access_text">WLAN %1$s hat keinen Internetzugang, verbunden bleiben?</string>
   <string name="no_media_button_receiver">Nein</string>
   <string name="no_memory_use_summary">Kein Speicher in den letzten 3 Stunden verbraucht</string>
   <string name="no_nearby_wifi">Keine Netzwerke gefunden</string>
@@ -5845,7 +5845,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
   <string name="trans_open_camera_failed_message">Starten Sie Ihr Gerät neu oder prüfen Sie, ob Mi Mover die &lt;b&gt;Kamera&lt;/b&gt; verwenden darf.</string>
   <string name="trans_open_camera_failed_title">Keine Verbindung zur Kamera möglich</string>
   <string name="trans_open_location_button">Einschalten</string>
-  <string name="trans_open_location_message">Aktivieren Sie Standortdienste, um die Liste der verfügbaren WLAN-Netzwerke anzuzeigen.</string>
+  <string name="trans_open_location_message">Aktivieren Sie Standortdienste, um die Liste der verfügbaren WLAN anzuzeigen.</string>
   <string name="trans_open_location_title">Standortdienste einschalten</string>
   <string name="trans_operate_func_one">Methode A</string>
   <string name="trans_operate_func_two">Methode B</string>
@@ -5910,7 +5910,7 @@ Gefällt Ihnen Mi Mover?"</string>
   <string name="trans_wait_trans_data">Mit altem Gerät verbunden. Warten auf Übertragung…</string>
   <string name="trans_waiting_ensurance">Das alte Gerät muss eingeschaltet und Mi Mover aktiviert sein</string>
   <string name="trans_waiting_for_sender">Warte auf Verbindung mit dem alten Gerät…</string>
-  <string name="trans_wlan_tips_message">Während der Übertragung WLAN nicht ausschalten oder auf andere WLAN-Netzwerke wechseln. Andernfalls kann Mi Mover keine Daten übertragen.</string>
+  <string name="trans_wlan_tips_message">Während der Übertragung WLAN nicht ausschalten oder auf andere WLAN wechseln. Andernfalls kann Mi Mover keine Daten übertragen.</string>
   <string name="trans_wlan_tips_title"> WLAN nicht ausschalten</string>
   <string name="transition_animation_scale_title">Übergangsanimation</string>
   <string name="translation_contributors_title">Mitwirkende</string>
@@ -6542,7 +6542,7 @@ Jeder Benutzer kann aktualisierte Appberechtigungen für alle anderen Benutzer a
   <string name="whetstone_level_reboot_OK">Neustarten</string>
   <string name="whetstone_level_title">Speicheroptimierung</string>
   <string name="widget_picker_title">Widget auswählen</string>
-  <string name="wifi_access_points">WLAN-Netzwerke</string>
+  <string name="wifi_access_points">WLAN</string>
   <string name="wifi_add_network">Netzwerk hinzufügen</string>
   <string name="wifi_advanced_ip_address_title">IP-Adresse</string>
   <string name="wifi_advanced_mac_address_title">MAC-Adresse</string>
@@ -6571,14 +6571,14 @@ Jeder Benutzer kann aktualisierte Appberechtigungen für alle anderen Benutzer a
   <string name="wifi_assistant_data_prompt">Eingabeaufforderung aktivieren</string>
   <string name="wifi_assistant_data_prompt_summary">Eingabeaufforderung anzeigen, wenn der WLAN-Assistent auf mobile Daten umschaltet</string>
   <string name="wifi_assistant_description">"Nach Einschaltung der Funktion:
-1. Wenn die WLAN-Verbindung schlecht ist, probiert das System automatisch ein anderes verfügbares WLAN-Netzwerk aus.
+1. Wenn die WLAN-Verbindung schlecht ist, probiert das System automatisch ein anderes verfügbares WLAN aus.
 2. Wenn alle vorhandenen WLAN-Verbindungen schlecht und die mobilen Daten aktiviert sind, wählt das System intelligent die beste Netzwerkverbindung aus."</string>
   <string name="wifi_assistant_dialog_message">WLAN-Assistent möchte eine VPN-Verbindung einrichten, um den Netzwerkverkehr zu überwachen. Stimmen Sie nur dann zu, wenn Sie der Quelle vertrauen.</string>
   <string name="wifi_assistant_disconnect">Trennen</string>
   <string name="wifi_assistant_explanation_message">Google WLAN-Assistent erkennt die Ihnen zur Verfügung stehenden Netzwerke und verbindet Ihr Gerät mit demjenigen mit der höchsten Geschwindigkeit und Zuverlässigkeit.</string>
-  <string name="wifi_assistant_explicitly_confirm_data_message">Dieses WLAN-Netzwerk hat keinen Zugang zum Internet. Stattdessen mobile Daten verwenden?</string>
-  <string name="wifi_assistant_explicitly_confirm_disconnect">Dieses WLAN-Netzwerk hat keinen Zugang zum Internet. Jetzt trennen?</string>
-  <string name="wifi_assistant_explicitly_confirm_wifi_message">Dieses WLAN-Netzwerk hat keinen Zugang zum Internet. Andere WLAN-Netzwerke sind verfügbar. Netzwerke wechseln?</string>
+  <string name="wifi_assistant_explicitly_confirm_data_message">Dieses WLAN hat keinen Zugang zum Internet. Stattdessen mobile Daten verwenden?</string>
+  <string name="wifi_assistant_explicitly_confirm_disconnect">Dieses WLAN hat keinen Zugang zum Internet. Jetzt trennen?</string>
+  <string name="wifi_assistant_explicitly_confirm_wifi_message">Dieses WLAN hat keinen Zugang zum Internet. Andere WLAN sind verfügbar. Netzwerke wechseln?</string>
   <string name="wifi_assistant_intro_setup">Vorstellung WLAN Assistent</string>
   <string name="wifi_assistant_keep_connection">Verbunden bleiben</string>
   <string name="wifi_assistant_off">Aus</string>
@@ -6587,7 +6587,7 @@ Jeder Benutzer kann aktualisierte Appberechtigungen für alle anderen Benutzer a
   <string name="wifi_assistant_setting_summary">Google WLAN-Assistent</string>
   <string name="wifi_assistant_setting_title">WLAN-Assistent</string>
   <string name="wifi_assistant_setup_wifi_assistant">Einrichten</string>
-  <string name="wifi_assistant_summary">Wechsel zwischen WLAN-Netzwerken und mobilen Daten bei schlechter WLAN-Verbindung</string>
+  <string name="wifi_assistant_summary">Wechsel zwischen WLAN und mobilen Daten bei schlechter WLAN-Verbindung</string>
   <string name="wifi_assistant_switch_data">Mobile Daten nutzen</string>
   <string name="wifi_assistant_switch_wifi">Netzwerke wechseln</string>
   <string name="wifi_assistant_title">WLAN-Assistent</string>
@@ -6618,7 +6618,7 @@ Jeder Benutzer kann aktualisierte Appberechtigungen für alle anderen Benutzer a
   <string name="wifi_cancel">Abbrechen</string>
   <string name="wifi_cant_connect">Verbindung nicht möglich</string>
   <string name="wifi_cant_connect_to_ap">"Verbindung mit '%1$s' nicht möglich"</string>
-  <string name="wifi_carrier_connect">Anbieter WLAN-Netzwerk</string>
+  <string name="wifi_carrier_connect">Anbieter WLAN</string>
   <string name="wifi_carrier_content">Verbunden via %1$s</string>
   <string name="wifi_cellular_data_fallback_summary">Mobile Daten verwenden, wenn WLAN keinen Internetzugang hat. Datennutzung darf verwendet werden.</string>
   <string name="wifi_cellular_data_fallback_title">Automatisches Umschalten auf mobile Daten</string>
@@ -6639,7 +6639,7 @@ Jeder Benutzer kann aktualisierte Appberechtigungen für alle anderen Benutzer a
   <string name="wifi_connect_cmcc_dialog_title">CMCC verbunden</string>
   <string name="wifi_connect_failed_message">Telefon konnte sich nicht mit diesem WLAN verbinden</string>
   <string name="wifi_connected_mac_randomization">MAC-Randomisierung verbunden</string>
-  <string name="wifi_connected_mac_randomization_summary">Zufällige MAC-Adresse bei der Verbindung zu WLAN-Netzwerken</string>
+  <string name="wifi_connected_mac_randomization_summary">Zufällige MAC-Adresse bei der Verbindung zu WLAN</string>
   <string name="wifi_connected_no_internet">Verbunden, kein Internet</string>
   <string name="wifi_connection_management">WLAN-Verbindungen verwalten</string>
   <string name="wifi_context_menu_change_password">Passwort ändern</string>
@@ -6697,9 +6697,9 @@ Jeder Benutzer kann aktualisierte Appberechtigungen für alle anderen Benutzer a
   <string name="wifi_eap_options_simple">Einfache Optionen</string>
   <string name="wifi_eap_sim_simcard">Wähle SIM</string>
   <string name="wifi_eap_user_cert">Nutzerzertifikat</string>
-  <string name="wifi_empty_list_user_restricted">Sie haben keine Berechtigung, das WLAN-Netzwerk zu wechseln</string>
+  <string name="wifi_empty_list_user_restricted">Sie haben keine Berechtigung, das WLAN zu wechseln</string>
   <string name="wifi_empty_list_wifi_off">WLAN einschalten, um verfügbare Netze anzuzeigen</string>
-  <string name="wifi_empty_list_wifi_on">Suche WLAN-Netzwerke…</string>
+  <string name="wifi_empty_list_wifi_on">Suche WLAN…</string>
   <string name="wifi_enable_data_and_wifi_roam">WLAN Assistent</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Halten Sie Daten und WLAN eingeschaltet, um bei schlechter WLAN-Konnektivität auf Daten umzuschalten.</string>
   <string name="wifi_enable_hs2_title">Passpoint an</string>
@@ -6724,12 +6724,12 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_hotspot_auto_off_summary">WLAN-Hotspot schaltet sich aus, wenn keine Geräte angeschlossen sind</string>
   <string name="wifi_hotspot_auto_off_title">Hotspot automatisch ausschalten</string>
   <string name="wifi_hotspot_checkbox_text">WLAN-Hotspot</string>
-  <string name="wifi_hotspot_checkbox_text_summary">Verwenden Sie die Mobilfunkverbindung, um ein WLAN-Netzwerk bereitzustellen</string>
+  <string name="wifi_hotspot_checkbox_text_summary">Verwenden Sie die Mobilfunkverbindung, um ein WLAN bereitzustellen</string>
   <string name="wifi_hotspot_configure_ap_text">WLAN-Hotspoteinrichtung</string>
   <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK tragbarer WLAN-Hotspot</string>
   <string name="wifi_hotspot_connect">VERBINDEN</string>
   <string name="wifi_hotspot_footer_info_local_only">Apps können einen Hotspot erstellen, um Inhalte mit nahen Geräten zu teilen</string>
-  <string name="wifi_hotspot_footer_info_regular">Mit Hotspot erstellen Sie ein WLAN-Netzwerk für Ihre anderen Geräte. Hotspot bietet Internet über Ihre mobile Datenverbindung. Zusätzliche Mobilfunkgebühren können anfallen.</string>
+  <string name="wifi_hotspot_footer_info_regular">Mit Hotspot erstellen Sie ein WLAN für Ihre anderen Geräte. Hotspot bietet Internet über Ihre mobile Datenverbindung. Zusätzliche Mobilfunkgebühren können anfallen.</string>
   <string name="wifi_hotspot_message">%1$s erfordert, dass Sie sich online anmelden, bevor Sie sich mit dem Netzwerk verbinden</string>
   <string name="wifi_hotspot_name_summary_connected">Andere Geräte können sich mit %1$s verbinden</string>
   <string name="wifi_hotspot_name_summary_connecting">%1$s einschalten...</string>
@@ -6804,7 +6804,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_p2p_wps_setup">WPS-Einrichtung</string>
   <string name="wifi_password">Passwort</string>
   <string name="wifi_poor_network_detection">Schlechte Verbindungen vermeiden</string>
-  <string name="wifi_poor_network_detection_summary">Keine WLAN-Netzwerke mit schlechter Verbindung nutzen</string>
+  <string name="wifi_poor_network_detection_summary">Keine WLAN mit schlechter Verbindung nutzen</string>
   <string name="wifi_priority_changed" formatted="false">Alter Wert %s | Neuer Wert %s</string>
   <string name="wifi_priority_label">Priorität</string>
   <string name="wifi_priority_settings_label">Prioritätseinstellungen</string>
@@ -6830,7 +6830,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_scan_always_turnon_message">"Zur Verbesserung der Ortungsgenauigkeit und für andere Zwecke, möchte %1$s die Netzwerksuche einschalten, auch wenn WLAN ausgeschaltet ist.
 Für alle Apps, die scannen möchten, erlauben?"</string>
   <string name="wifi_scan_notify_remember_choice">Nicht mehr anzeigen</string>
-  <string name="wifi_scan_notify_text">Um die Standortgenauigkeit zu verbessern, können Apps und Dienste jederzeit nach WLAN-Netzwerken suchen, auch wenn WLAN aus ist. Dies kann z.B. genutzt werden, um ortsbezogene Funktionen und Dienste zu verbessern. Sie können dies unter LINK_BEGINScaneinstellungenLINK_END ändern.</string>
+  <string name="wifi_scan_notify_text">Um die Standortgenauigkeit zu verbessern, können Apps und Dienste jederzeit nach WLAN suchen, auch wenn WLAN aus ist. Dies kann z.B. genutzt werden, um ortsbezogene Funktionen und Dienste zu verbessern. Sie können dies unter LINK_BEGINScaneinstellungenLINK_END ändern.</string>
   <string name="wifi_scan_notify_text_location_off">Apps können nach Netzwerken in der Nähe suchen, auch wenn WLAN ausgeschaltet ist. Wenn Sie dies nicht möchten, gehen Sie zu Erweitert &gt; Scannen zu jeder Zeit.</string>
   <string name="wifi_scan_notify_text_location_on">Um die Standortgenauigkeit zu verbessern und für andere Zwecke, können Google und andere Apps nach Netzwerken in der Nähe suchen, auch wenn WLAN ausgeschaltet ist.  Wenn Sie dies nicht möchten, gehen Sie zu Erweitert &gt; Scannen zu jeder Zeit.</string>
   <string name="wifi_scan_notify_text_scanning_off">Um die Standortgenauigkeit zu verbessern, schalten Sie den WLAN-Scan in den LINK_BEGINScaneinstellungenLINK_END ein.</string>
@@ -6852,7 +6852,7 @@ Für alle Apps, die scannen möchten, erlauben?"</string>
   <string name="wifi_settings_category">WLAN-Einstellungen</string>
   <string name="wifi_settings_master_switch_title">WLAN nutzen</string>
   <string name="wifi_settings_scanning_required_enabled">WLAN-Scannen eingeschaltet</string>
-  <string name="wifi_settings_scanning_required_info">WLAN-Scannen erlaubt Apps und Diensten, jederzeit nach WLAN-Netzwerken zu scannen, auch wenn WLAN aus ist. Dies kann z.B. genutzt werden, um standortbezogene Funktionen und Dienste zu verbessern</string>
+  <string name="wifi_settings_scanning_required_info">WLAN-Scannen erlaubt Apps und Diensten, jederzeit nach WLAN zu scannen, auch wenn WLAN aus ist. Dies kann z.B. genutzt werden, um standortbezogene Funktionen und Dienste zu verbessern</string>
   <string name="wifi_settings_scanning_required_summary">Um WLAN automatisch einzuschalten, erst WLAN-Scannen einschalten.</string>
   <string name="wifi_settings_scanning_required_title">WLAN-Scannen einschalten?</string>
   <string name="wifi_settings_scanning_required_turn_on">Einschalten</string>
@@ -6862,7 +6862,7 @@ Für alle Apps, die scannen möchten, erlauben?"</string>
   <string name="wifi_setup_cancel">Abbrechen</string>
   <string name="wifi_setup_connect">Verbinden</string>
   <string name="wifi_setup_description_connected">"Drücken Sie <b>Weiter</b>, um mit der Einrichtung fortzufahren.
-Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen."</string>
+Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN herzustellen."</string>
   <string name="wifi_setup_description_connecting">Verbindungsaufbau kann einige Minuten dauern…</string>
   <string name="wifi_setup_detail">Netzwerkdetails</string>
   <string name="wifi_setup_eap_not_supported">Während der Einrichtung können Sie keine EAP-WLAN-Verbindung konfigurieren. Sie können dies anschließend in den Einstellungen unter \"Drahtlos &amp; Netzwerke\" vornehmen.</string>
@@ -6883,9 +6883,9 @@ Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk h
   <string name="wifi_setup_status_unsecured_network">Mit ungesichertem Netzwerk verbinden</string>
   <string name="wifi_setup_title">WLAN-Einrichtung</string>
   <string name="wifi_setup_title_add_network">Netzwerk hinzufügen</string>
-  <string name="wifi_setup_title_connected_network">Mit WLAN-Netzwerk %s verbunden</string>
+  <string name="wifi_setup_title_connected_network">Mit WLAN %s verbunden</string>
   <string name="wifi_setup_title_connecting_network">Verbinden mit WLAN %s…</string>
-  <string name="wifi_setup_title_editing_network">Verbindung zu WLAN-Netzwerk %s</string>
+  <string name="wifi_setup_title_editing_network">Verbindung zu WLAN %s</string>
   <string name="wifi_setup_wizard_title">WLAN auswählen</string>
   <string name="wifi_setup_wps">Automatisches Setup (WPS)</string>
   <string name="wifi_share">WLAN teilen</string>
@@ -6910,7 +6910,7 @@ Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk h
   <string name="wifi_share_show_network">Netzwerke anzeigen</string>
   <string name="wifi_share_summary1">MIUI Benutzer können öffentliche WLAN-Netze (Cafes, Restaurants, Hotels, usw.) miteinander teilen</string>
   <string name="wifi_share_summary2">Wenn ein anderer MIUI Benutzer ein Netzwerk teilt, können Sie sich direkt ohne Passwort verbinden</string>
-  <string name="wifi_share_summary3">Geben Sie etwas zurück, indem auch Sie Ihr WLAN Netzwerk mit anderen MIUI Benutzern teilen</string>
+  <string name="wifi_share_summary3">Geben Sie etwas zurück, indem auch Sie Ihr WLAN mit anderen MIUI Benutzern teilen</string>
   <string name="wifi_share_turn_off">Aus</string>
   <string name="wifi_share_turn_on">An</string>
   <string name="wifi_share_upload">Teilen</string>
@@ -7016,7 +7016,7 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifi_wps_available_first_item">WPS verfügbar</string>
   <string name="wifi_wps_available_second_item">(WPS verfügbar)</string>
   <string name="wifi_wps_complete">WPS erfolgreich. Netzwerkverbindung wird hergestellt…</string>
-  <string name="wifi_wps_connected">Mit WLAN-Netzwerk %s verbunden</string>
+  <string name="wifi_wps_connected">Mit WLAN %s verbunden</string>
   <string name="wifi_wps_failed_auth">Authentifizierungsfehler. Bitte versuchen Sie es erneut.</string>
   <string name="wifi_wps_failed_generic">Verbindung fehlgeschlagen. Bitte versuchen Sie es in ein paar Minuten erneut.</string>
   <string name="wifi_wps_failed_overlap">Eine andere WPS-Sitzung wurde erkannt. Bitte versuchen Sie es in ein paar Minuten erneut.</string>
@@ -7034,7 +7034,7 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifiap_settings_desc">WLAN wifiap kann die Datenverbindung dieses Mobiltelefons über WLAN mit anderen PC/mobilen Geräten austauschen</string>
   <string name="wifiap_settings_indication">Nach Einschalten der WLAN wifiap können andere PC/mobile Geräte eine Verbindung herstellen und mit dem Internet beginnen, indem Sie folgende Schritte ausführen:</string>
   <string name="wifiap_settings_indication_step1">1. Schalten Sie WLAN auf dem PC/mobilen Gerät ein.</string>
-  <string name="wifiap_settings_indication_step2">2. Finden Sie “%s” in der Liste der WLAN-Netzwerke.</string>
+  <string name="wifiap_settings_indication_step2">2. Finden Sie “%s” in der Liste der WLAN.</string>
   <string name="wifiap_title">WLAN-Hotspot</string>
   <string name="wifiap_turn_on_hint">Zur Verwendung von WLAN wifiap schalten Sie es ein</string>
   <string name="wimax_settings">4G</string>
