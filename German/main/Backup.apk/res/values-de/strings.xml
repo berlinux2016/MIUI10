@@ -5,17 +5,17 @@
   <string name="account_contact_backup_info">Google, Mi Konto und Kontaktdaten</string>
   <string name="account_login">Anmelden</string>
   <string name="account_summary">Google, Mi Konto und weitere Benutzerdaten sichern</string>
-  <string name="already_enable_encrypt">Verschlüsselung bereits aktiviert</string>
   <string name="alert_button_agree_and_continue">Erlauben</string>
   <string name="alert_button_deny">Ablehnen</string>
-  <string name="alert_message_backup_to_miasist">Mi PC-Suite bittet um die Erlaubnis, ein Backup auf einem Computer zu erstellen. Erlauben?</string>
+  <string name="alert_message_backup_to_miasist">Mi PC-Suite bittet um die Erlaubnis, eine Sicherung auf einem Computer zu erstellen. Erlauben?</string>
   <string name="alert_message_restore_from_miasist">Mi PC-Suite bittet um Erlaubnis, Elemente auf Ihrem Telefon wiederherzustellen. Erlauben?</string>
-  <string name="alert_miasist_occupy_backup">Sichern von Objekten mit Mi PC-Suite… Warten Sie, bis das Backup abgeschlossen ist, und versuchen Sie es erneut.</string>
+  <string name="alert_miasist_occupy_backup">Sichern von Objekten mit Mi PC-Suite… Warten Sie, bis die Sicherung abgeschlossen ist, und versuchen Sie es erneut.</string>
   <string name="alert_miasist_occupy_restore">Wiederherstellen von Elementen mit Mi PC-Suite… Warten Sie, bis die Elemente wiederhergestellt sind, und versuchen Sie es erneut..</string>
-  <string name="alert_phone_occupy_backup">Mi PC-Suite kann jetzt nicht mehr verwendet werden. Schließen Sie das Sichern oder Wiederherstellen von Elementen auf Ihrem Telefon ab und versuchen Sie es erneut.</string>
-  <string name="alert_second_space_not_support_miasist">Kann Mi PC-Suite nicht im Second Space verwenden. Wechseln Sie zum First Space.</string>
+  <string name="alert_phone_occupy_backup">Mi PC-Suite kann jetzt nicht verwendet werden. Schließen Sie das Sichern oder Wiederherstellen von Elementen auf Ihrem Telefon ab und versuchen Sie es erneut.</string>
+  <string name="alert_second_space_not_support_miasist">Kann Mi PC-Suite nicht im Zweitprofil verwenden. Wechseln Sie zum Hauptprofil.</string>
   <string name="alert_title_backup_to_miasist">Wollen Sie Elemente mit Mi PC-Suite sichern?</string>
   <string name="alert_title_restore_from_miasist">Wollen Sie Elemente mit Mi PC-Suite wiederherstellen?</string>
+  <string name="already_enable_encrypt">Verschlüsselung bereits aktiviert</string>
   <string name="app_name">Sicherung</string>
   <string name="apps_and_data_item_desc">Apps und Daten</string>
   <string name="auto_backup">Automatisch sichern</string>
@@ -31,7 +31,7 @@
   <string name="auto_backup_selected_user_apps">Ausgewählte Apps</string>
   <string name="auto_backup_setting">Auto-Sicherungseinstellungen</string>
   <string name="auto_backup_time">Zeitplan</string>
-  <string name="backup">Sicherungen</string>
+  <string name="backup">Sicherung</string>
   <string name="backup_data">Daten sichern</string>
   <string name="backup_delete">Löschen:</string>
   <string name="backup_empty">Keine Sicherungen</string>
@@ -48,16 +48,18 @@
   <string name="backup_progress">Sichern…</string>
   <string name="backup_report">Details anzeigen</string>
   <string name="backup_security_tips_message">Einige Apps können möglicherweise nicht gesichert oder wiederhergestellt werden</string>
-  <string name="backup_security_tips_title">Backups funktionieren möglicherweise nicht</string>
+  <string name="backup_security_tips_title">Sicherungen funktionieren möglicherweise nicht</string>
   <string name="backup_update">Aktualisieren</string>
   <string name="batch_delete_backup_confirm">Ausgewählte Sicherungen löschen?</string>
   <string name="btn_got_it">Verstanden</string>
   <string name="button_backup">Sichern</string>
   <string name="button_cancel">Abbrechen</string>
+  <string name="button_clean_garbage">Speicherplatz schaffen</string>
   <string name="button_continue">Fortsetzen</string>
   <string name="button_finish">Abschließen</string>
   <string name="button_import">Importieren</string>
   <string name="button_next">Weiter</string>
+  <string name="button_quit">Beenden</string>
   <string name="button_return">Zurück</string>
   <string name="button_send">Senden</string>
   <string name="call_title">Anrufliste</string>
@@ -71,15 +73,13 @@
   <string name="close_twice_auth_btn">Zwei-Wege-Authentifikation deaktivieren</string>
   <string name="close_twice_auth_note">"Hinweis:
     Nachdem Sie eine neue Sicherheitsfrage erstellt und Ihr Geburtsdatum bestätigt haben, wird die Apple ID Zwei-Wege-Authentifikation deaktiviert. Wenn Sie auf der Apple ID-Kontoseite die Option zum Deaktivieren der Zwei-Wege-Authentifikation nicht sehen, können Sie sie nicht deaktivieren."</string>
-  <string name="close_twice_auth_operation">"URL:
-    https://appleid.apple.com/#!&amp;page=signin zum Schließen"</string>
   <string name="close_twice_auth_step_1">1. Öffnen Sie einen beliebigen Webbrowser auf einem Computer und öffnen Sie appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Melden Sie sich mit der Apple ID an, bei der Sie die Zwei-Wege-Authentifikation deaktivieren wollen. Im Abschnitt \"Sicherheit\" klicken Sie die Kontoeinstellungen an und wählen Sie \"Bearbeiten\"</string>
   <string name="close_twice_auth_step_3">3. Klicken Sie auf \"Zwei-Wege-Authentifikation deaktivieren\". Erneut klicken, um zu bestätigen.</string>
   <string name="close_twice_auth_steps">Deaktivieren Sie die Apple ID Zwei-Wege-Authentifikation wie folgt:</string>
   <string name="close_twice_auth_tutor">Apple ID Zwei-Wege-Authentifikation deaktivieren</string>
   <string name="cloud_app_name">Mi Cloud Sicherung</string>
-  <string name="cloud_backup_hint">Um Zugriff auf die Sicherungen zu erhalten, bitte anmelden</string>
+  <string name="cloud_backup_hint">Um auf die Sicherungen zuzugreifen, bitte anmelden</string>
   <string name="cloud_backup_login">Mit Mi Konto anmelden</string>
   <string name="cloud_backup_window_title">Mi Cloud Sicherung</string>
   <string name="cloud_item_info_summary">" (Lokal: %1$s | Mi Cloud: %2$s)"</string>
@@ -113,7 +113,7 @@
   <string name="enable_encrypt_fail">Verschlüsselungsfehler</string>
   <string name="enable_encrypt_indicator">Zum Verschlüsseln berühren</string>
   <string name="enable_encrypt_summery1">Mit Mi Konto anmelden, um verschlüsselte Sicherungen verwenden zu können</string>
-  <string name="enable_encrypt_summery2">Sicherungen werden automatisch verschlüsselt. Mit Mi Konto anmelden, um verschlüsselte Sicherungen verwenden zu können.</string>
+  <string name="enable_encrypt_summery2">Sicherungen werden automatisch verschlüsselt. Mit Mi Konto anmelden, um darauf zuzugreifen.</string>
   <string name="enable_encrypt_title">Verschlüsselung einschalten</string>
   <string name="enable_encrypt_xiaomi_account">Sicherung wurde von %1$s erstellt. Zum Wiederherstellen das aktuelle Konto löschen und als %2$s anmelden.</string>
   <string name="err_acquire_system_service">Systemdienst konnte nicht gestartet werden</string>
@@ -131,7 +131,7 @@
   <string name="err_user_abort">Vom Benutzer abgebrochen</string>
   <string name="err_version_too_old">Sicherungsdatei ist zu alt</string>
   <string name="err_version_unsupported">Sicherungsversion wird nicht unterstützt</string>
-  <string name="error_permissions">Diese App verfügt nicht über Zugriffsberechtigungen für den Kalender. Gehen Sie zu den Einstellungen und überprüfen Sie die Berechtigungen.</string>
+  <string name="error_permissions">Diese App verfügt nicht über Zugriffsberechtigungen für den Kalender. Gehen Sie zu Einstellungen und prüfen Sie die Berechtigungen zum Fortfahren.</string>
   <string name="every_day">Täglich</string>
   <string name="exchange_account">Konto wechseln</string>
   <string name="fail">Fehlgeschlagen</string>
@@ -162,7 +162,7 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="hsa_input_tip">Ihre Apple ID nutzt eine Zwei-Wege-Authentifikation. Bitte Bestätigungscode eingeben.</string>
   <string name="hsa_send_again">Erneut senden</string>
   <string name="hsa_send_again_countdown">Erneut senden (%ds)</string>
-  <string name="hsa_send_failed">Bestätigungscode konnte nicht gesendet werden. Ein oder zwei Minuten warten und erneut versuchen.</string>
+  <string name="hsa_send_failed">Bestätigungscode konnte nicht gesendet werden. Ein paar Minuten warten und erneut versuchen.</string>
   <string name="hsa_sending">Sende…</string>
   <string name="hsa_tip_message">"1. Eine Nachricht mit dem Bestätigungscode wurde an das mit Ihrer Apple ID verknüpfte Telefon gesendet.
     2. Deaktivieren Sie die Zwei-Wege-Authentifikation, wenn der Bestätigungscode nicht funktioniert."</string>
@@ -211,8 +211,6 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="login">Anmelden</string>
   <string name="login_failed">Anmeldung fehlgeschlagen. Erneut versuchen.</string>
   <string name="logining">Anmelden…</string>
-  <string name="button_clean_garbage">Speicherplatz schaffen</string>
-  <string name="button_quit">Beenden</string>
   <string name="miliao_account_guide">Erstellen Sie ein Mi Konto und profitieren Sie von Xiaomi\'s Online Diensten</string>
   <string name="miliao_account_login">Anmelden über Mi Talk</string>
   <string name="mms_title">MMS</string>
@@ -243,7 +241,7 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="notif_icloud_saved_summary">Erfolgreich importiert</string>
   <string name="notif_icloud_saving_summary">Daten wiederherstellen…</string>
   <string name="notif_miasist_try_to_connect">Mi PC-Suite versucht, eine Verbindung zu Ihrem Gerät herzustellen.</string>
-  <string name="notif_parse_select_descript_error">Die Liste der gesicherten Elemente konnte nicht synchronisiert werden.</string>
+  <string name="notif_parse_select_descript_error">Liste der gesicherten Elemente konnte nicht synchronisiert werden.</string>
   <string name="notif_receiving_transingsd">Empfangen %1$s (%2$s)…</string>
   <string name="notif_restore_complete_title">Wiederherstellung erfolgreich</string>
   <string name="notif_restore_content">Benutzerdaten werden wiederhergestellt</string>
@@ -266,8 +264,7 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="perm_read_phone_state">Telefonstatus lesen</string>
   <string name="perm_read_sms">SMS lesen</string>
   <string name="perm_storage">Lesen und Schreiben auf externem Speicher</string>
-  <string name="platform_chooser_item_android">Importieren von einem Android-Gerät</string>
-  <string name="platform_chooser_item_android_mi">Mi Phone</string>
+  <string name="platform_chooser_item_android_mi">Mi Telefon</string>
   <string name="platform_chooser_item_android_others">Andere Marken</string>
   <string name="platform_chooser_item_ios">Importieren von einem Apple-Gerät</string>
   <string name="platform_chooser_title">Altes Gerät auswählen</string>
@@ -298,7 +295,8 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="reverse_all">Alle Löschen</string>
   <string name="router_backup_hint">Lassen Sie Ihr Gerät eingeschaltet</string>
   <string name="save_finish_with_failing_items">Übertragung wurde unterbrochen. Restliche Daten müssen erneut importiert werden.</string>
-  <string name="saving_data">Importiere Daten aus der iCloud. WLAN nicht ausschalten.</string>
+  <string name="saving_data">"Importiere Daten aus der iCloud…
+ WLAN nicht ausschalten."</string>
   <string name="saving_data_no_time">Daten wiederherstellen</string>
   <string name="saving_data_space_low">Nicht genügend Speicherplatz. Mindestens %s freigeben.</string>
   <string name="sc_bad_request">Ungültige Anforderung</string>
@@ -312,7 +310,7 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="sc_unauthorized">Bitte erneut anmelden</string>
   <string name="sd_not_available">Keine SD-Karte gefunden</string>
   <string name="sdcard_no_enough_space">Nicht genügend Speicherplatz</string>
-  <string name="sdcard_no_enough_space_message">Es ist nicht genügend Speicherplatz auf Ihrer SD-Karte vorhanden</string>
+  <string name="sdcard_no_enough_space_message">Nicht genügend Speicherplatz auf Ihrer SD-Karte vorhanden</string>
   <string name="sdcard_unmounted">Keine SD-Karte gefunden</string>
   <string name="see_backup_files_on_router">Sicherungen auf Mi Router %s anzeigen</string>
   <string name="select_all">Alle</string>
@@ -338,14 +336,14 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="storage_usb">USB-Laufwerk</string>
   <string name="succ_description">Erfolgreich</string>
   <string name="succeed">Abgeschlossen</string>
-  <string name="summary_err_backup_encrypting">Melden Sie sich bei Ihrem Mi Konto an</string>
+  <string name="summary_err_backup_encrypting">Melden Sie sich an Ihrem Mi Konto an</string>
   <string name="summary_err_backup_no_network">Netzwerkverbindung fehlgeschlagen</string>
   <string name="summary_err_restore_encrypting">Wiederherstellung fehlgeschlagen. Stellen Sie sicher, dass diese Sicherung mit Ihrem Mi Konto erstellt wurde.</string>
   <string name="summary_err_restore_no_network">Netzwerkverbindung fehlgeschlagen</string>
   <string name="system_backup">Sicherung</string>
   <string name="system_backup_info">Systemeinstellungen und Desktop-Layout</string>
   <string name="task_backup_cancel_progress">Abbrechen…</string>
-  <string name="task_backup_finished_local">"Gesichert "</string>
+  <string name="task_backup_finished_local">" gesichert"</string>
   <string name="task_canceled">Sicherung abgebrochen</string>
   <string name="task_canceled_all_local">Abgebrochen</string>
   <string name="task_canceled_local">Abgebrochen. %s ist komplett.</string>
@@ -378,10 +376,8 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="trans_button_stay">Bleiben</string>
   <string name="trans_calculating">Wird berechnet…</string>
   <string name="trans_calculating_app_sd_description">Daten auf SD-Karte</string>
-  <string name="trans_calculating_app_sd_size">Datengröße wird berechnet, %s gescannt</string>
-  <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
-  <string name="trans_calculating_media_description">Medien-Dateien</string>
-  <string name="trans_calculating_tip">Berechnen %s…</string>
+  <string name="trans_calculating_media_description">Mediendateien</string>
+  <string name="trans_calculating_tip">Berechne %s…</string>
   <string name="trans_cancel_confirm">Übertragung läuft. Jetzt abbrechen?</string>
   <string name="trans_cancel_dialog_survey_title">Warum wurde der Transfer unterbrochen?</string>
   <string name="trans_cancel_selection_message">Wenn Sie Mi Mover verlassen, wird der laufende Transfer unterbrochen. Warten Sie, bis die Übertragung abgeschlossen ist.</string>
@@ -390,14 +386,14 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="trans_connect_failed_device_incompatible">Gerät ist inkompatibel. Brechen Sie die Übertragung ab und versuchen Sie es erneut.</string>
   <string name="trans_connect_failed_message">Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen &gt; Weitere Einstellungen &gt; Mi Mover, berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut.</string>
   <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
-  <string name="trans_connect_failed_toast">Verbindung nicht möglich</string>
+  <string name="trans_connect_failed_toast">Verbindung fehlgeschlagen</string>
   <string name="trans_connecting_toast">Verbinden…</string>
   <string name="trans_connection_failed">Verbindung wurde getrennt</string>
   <string name="trans_detail_app_apk_list_title">Installierte Apps</string>
   <string name="trans_detail_app_apk_page_title">Apps auswählen</string>
   <string name="trans_detail_app_data_list_title">Appdaten</string>
   <string name="trans_detail_app_data_page_title">Appdaten auswählen</string>
-  <string name="trans_detail_app_data_useless_tip">Sie können diese aus der App wiederherstellen, ohne dass Sie diese übertragen müssen.</string>
+  <string name="trans_detail_app_data_useless_tip">Sie können diese ohne Übertragung aus der App wiederherstellen.</string>
   <string name="trans_detail_audio_video_doc_list_title">Audio, Video und Dateien</string>
   <string name="trans_detail_audio_video_doc_page_title">Auswählen von Audio, Video und Dateien</string>
   <string name="trans_detail_category_account">Konten und Kontakte</string>
@@ -405,15 +401,15 @@ Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt
   <string name="trans_detail_category_files">Dateien</string>
   <string name="trans_detail_category_sysdata">Systemdaten (einschließlich Nachrichten, Kontakte und Anrufverlauf)</string>
   <string name="trans_detail_category_user_app_data">Appdaten</string>
-  <string name="trans_detail_category_wechat_qq">WeChat und QQ Daten (inklusive Chat-Verlauf)</string>
+  <string name="trans_detail_category_wechat_qq">WeChat und QQ Daten (inklusive Chatverlauf)</string>
   <string name="trans_detail_item_app_data_selected_tip">Ausgewählte entsprechende Apps ebenfalls</string>
   <string name="trans_detail_item_app_data_too_large_tip">Sieht so aus, als wäre der Gegenstand zu groß, um ihn zu transferieren.</string>
   <string name="trans_detail_list_footer">Hinweis: Sie können wählen, ob Sie Apps separat übertragen möchten. Wenn Sie jedoch Appdaten auswählen, werden auch die entsprechenden Apps übertragen.</string>
   <string name="trans_detail_page_tip">Je mehr Positionen Sie auswählen, desto länger dauert die Übertragung.</string>
-  <string name="trans_detail_qq_data">QQ-Daten (inklusive Chat-Verlauf)</string>
+  <string name="trans_detail_qq_data">QQ-Daten (inkl. Chatverlauf)</string>
   <string name="trans_detail_sys_data_list_title">Systemapps</string>
   <string name="trans_detail_sys_data_page_title">Systemapp auswählen</string>
-  <string name="trans_detail_wechat_data">WeChat-Daten (inklusive Chat-Verlauf)</string>
+  <string name="trans_detail_wechat_data">WeChat-Daten (inklusive Chatverlauf)</string>
   <string name="trans_detail_wechat_qq_list_title">WeChat und QQ</string>
   <string name="trans_detail_wechat_qq_page_title">WeChat-, QQ- und Appdaten auswählen</string>
   <string name="trans_device_auto_reconnecting">Verbindung abgebrochen. Automatisch erneut verbinden…</string>
@@ -433,22 +429,21 @@ um Mi Mover herunterzuladen und zu installieren."</string>
   <string name="trans_install_guide_step1_title">Schritt 1</string>
   <string name="trans_install_guide_step2_content">Nachdem die Installation abgeschlossen ist, tippen Sie unten auf \"Start\".</string>
   <string name="trans_install_guide_step2_title">Schritt 2</string>
-  <string name="trans_intro_desc_1">Auf einem Mi Phone: Stellen Sie eine WLAN-Verbindung her und tippen Sie auf \"Ich bin der Empfänger\". Wählen Sie Ihr iOS-Gerät aus und melden Sie sich in der iCloud an. Dann können Sie die Daten importieren.</string>
-  <string name="trans_intro_desc_2">Die Übertragung abbrechen, Mi Mover beenden und von vorn anfangen. Doppelte Dateien werden während der neuen Übertragung überschrieben.</string>
-  <string name="trans_intro_desc_3">Brechen Sie die Übertragung ab, verlassen Sie Mi Mover und fangen Sie von vorne an. Doppelte Dateien werden bei der neuen Übertragung überschrieben.</string>
-  <string name="trans_intro_desc_4">Mi Mover nutzt WLAN, um Dateien zu übertragen. Deshalb können Sie während der Übertragung keine Verbindung zum Internet über WLAN auf beiden Geräten herstellen. Sie können jedoch weiterhin mobile Daten verwenden. Einige neuere Geräte (z.B. Mi 6) könnten sich jedoch während der Übertragung immer noch über WLAN mit dem Internet verbinden.</string>
-  <string name="trans_intro_desc_4_market">Mi Mover nutzt WLAN zur Übertragung von Dateien. Deshalb können Sie während einer Übertragung keine Verbindung zum Internet über WLAN auf beiden Geräten herstellen. Sie können jedoch weiterhin mobile Daten verwenden.</string>
-  <string name="trans_intro_desc_5">Für die Erstellung von Transferpaketen wird Speicherplatz auf alten Geräten verwendet. Stellen Sie sicher, dass mindestens 500 MB - 1 GB freier Speicherplatz auf Ihrem alten Telefon vorhanden sind, bevor Sie mit der Übertragung beginnen.</string>
+  <string name="trans_intro_desc_1">Auf einem Mi Phone: WLAN-Verbindung herstellen und auf \"Ich bin der Empfänger\" tippen. iOS-Gerät auswählen, in der iCloud anmelden und Daten importieren.</string>
+  <string name="trans_intro_desc_3">Übertragung abbrechen, Mi Mover beenden und von vorn anfangen. Doppelte Dateien werden während der neuen Übertragung überschrieben.</string>
+  <string name="trans_intro_desc_4">Mi Mover nutzt WLAN, um Dateien zu übertragen. Deshalb können Sie während der Übertragung über WLAN keine Internetverbindung auf keinem Gerät herstellen. Sie können jedoch weiterhin mobile Daten verwenden. Einige neuere Geräte (z.B. Mi 6) könnten sich jedoch während der Übertragung immer noch über WLAN mit dem Internet verbinden.</string>
+  <string name="trans_intro_desc_4_market">Mi Mover nutzt WLAN, um Dateien zu übertragen. Deshalb können Sie während der Übertragung über WLAN keine Internetverbindung auf keinem Gerät herstellen. Sie können jedoch weiterhin mobile Daten verwenden.</string>
+  <string name="trans_intro_desc_5">Für die Erstellung von Transferpaketen wird Speicherplatz auf dem alten Geräten verwendet. Stellen Sie sicher, dass mindestens 500 MB-1 GB freier Speicherplatz auf Ihrem alten Telefon vorhanden sind, bevor Sie mit der Übertragung beginnen.</string>
   <string name="trans_intro_desc_6">Es gibt mehrere Gründe, warum das passieren kann: Kompatibilitätsprobleme mit System- und Appversionen, Netzwerkprobleme, gerätespezifische Kompatibilitätsprobleme usw.</string>
   <string name="trans_intro_desc_7">Einige App-Profile (E-Banking, Finanzen, etc.) sind aus Sicherheitsgründen mit einem bestimmten Gerät verbunden. Versuchen Sie, die Appdaten zu löschen oder die App auf einem neuen Gerät neu zu installieren.</string>
-  <string name="trans_intro_desc_8">WeChat Appdaten und Chatverlauf werden möglicherweise nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den Einstellungen des WeChat und melden Sie sich von Ihrem Konto ab, um bessere Chancen für eine erfolgreiche Übertragung zu erhalten.</string>
+  <string name="trans_intro_desc_8">WeChat Appdaten und Chatverlauf werden möglicherweise nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den WeChat-Einstellungen und melden Sie sich von Ihrem Konto ab, um bessere Chancen für eine erfolgreiche Übertragung zu erhalten.</string>
   <string name="trans_intro_desc_9_method_1_dec">Zur Startseite gehen &gt; Tools &gt; Feedback.</string>
-  <string name="trans_intro_desc_9_method_1_title">1. Teilen Sie Ihr Feedback mit der \"Feedback\" App.</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Teilen Sie Ihr Feedback mit der \"Feedback\"-App.</string>
   <string name="trans_intro_desc_9_method_2_dec">Senden Sie Ihr Feedback an miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_2_title">2. Senden Sie uns eine E-Mail</string>
   <string name="trans_intro_desc_9_method_3_title">3. Probleme melden in QQ</string>
-  <string name="trans_intro_desc_account">Aus Sicherheitsgründen müssen Sie sich bei Ihren Konten (z. B. Mi Account, Exchange, Google, etc.) auf einem neuen Gerät erneut anmelden.</string>
-  <string name="trans_intro_desc_multiapp">Mi Mover überträgt keine Dual Apps-Daten, um Konflikte zwischen Dateien zu vermeiden.</string>
+  <string name="trans_intro_desc_account">Aus Sicherheitsgründen müssen Sie sich an Ihren Konten (z. B. Mi Account, Exchange, Google, etc.) auf einem neuen Gerät erneut anmelden.</string>
+  <string name="trans_intro_desc_multiapp">Mi Mover überträgt keine Dual App-Daten, um Konflikte zwischen Dateien zu vermeiden.</string>
   <string name="trans_intro_desc_multiuser">Mi Mover hat keinen Zugriff auf Objekte im Zweitprofil. Verschieben Sie Elemente in das Hauptprofil und starten Sie Mi Mover dort.</string>
   <string name="trans_intro_desc_new">Tippen Sie auf \"Ich bin der Empfänger\". Ein QR-Code wird generiert.</string>
   <string name="trans_intro_desc_old">"Tippen Sie auf \"Ich bin der Sender\". Scannen Sie den QR-Code auf dem neuen Telefon und warten Sie, bis Mi Mover herausgefunden hat, welche Dateien gesendet werden sollen. Tippen Sie dann auf \"Senden\".</string>
@@ -469,24 +464,24 @@ um Mi Mover herunterzuladen und zu installieren."</string>
   <string name="trans_intro_title_new">Auf einem neuen Telefon:</string>
   <string name="trans_intro_title_old">Auf einem alten Telefon:</string>
   <string name="trans_intro_title_private">Versteckte Alben:</string>
-  <string name="trans_main_tutor">Kontakte, Anrufverlauf, Nachrichten, Bildschirmlayout, Apps, Einstellungen, usw. auf eine neues Gerät verschieben</string>
+  <string name="trans_main_tutor">Kontakte, Anrufliste, Nachrichten, Bildschirmlayout, Apps, Einstellungen, usw. auf eine neues Gerät verschieben</string>
   <string name="trans_my_device">Mein Gerät</string>
   <string name="trans_native_no_space">"Auf dem alten Gerät ist nicht genügend Speicherplatz vorhanden (%s verfügbar).
 Geben Sie Speicherplatz frei oder transferieren Sie nur wichtige Elemente."</string>
-  <string name="trans_old_phone_low_space_msg">Mi Mover benötigt etwas Speicherplatz, um die übertragenen Daten zu verpacken, aber es sieht so aus, als ob auf dem alten Gerät nicht genügend Platz vorhanden ist. Speicherplatz in \"Sicherheit"\ schaffen oder nur wichtige Dinge transferieren.</string>
+  <string name="trans_old_phone_low_space_msg">Mi Mover benötigt etwas Speicherplatz, um die übertragenen Daten zu packen, aber anscheinend ist auf dem alten Gerät nicht genügend Speicher vorhanden. Speicherplatz in \"Sicherheit"\ schaffen oder nur wichtige Dinge transferieren.</string>
   <string name="trans_old_phone_low_space_title">Nicht genügend Speicherplatz</string>
   <string name="trans_open_camera_failed_message">Starten Sie Ihr Telefon neu oder prüfen Sie, ob Mi Mover die folgenden Funktionen verwenden darf &lt;b&gt;Kamera&lt;/b&gt;.</string>
-  <string name="trans_open_camera_failed_title">Konnte keine Verbindung zur Kamera herstellen</string>
+  <string name="trans_open_camera_failed_title">Verbindung zur Kamera fehlgeschlagen</string>
   <string name="trans_open_location_button">Einschalten</string>
   <string name="trans_open_location_message">Schalten Sie die Ortungsdienste ein, um die Liste der verfügbaren WLAN zu erhalten.</string>
   <string name="trans_open_location_title">Standortdienste einschalten</string>
   <string name="trans_operate_func_one">Methode A</string>
   <string name="trans_operate_func_two">Methode B</string>
   <string name="trans_operate_new_phone_tips">Scannen Sie den QR-Code mit dem neuem Gerät. Gehen Sie zu Einstellungen > Weitere Einstellungen > Mi Mover [Ich bin der Empfänger] antippen, um QR-Code zu erstellen.</string>
-  <string name="trans_operate_old_phone_tips1">"1. Installieren Sie die Mi Mover App auf Ihrem alten Gerät
-    2. Öffnen Sie die App und tippen Sie auf Start
-    3. Scannen Sie den QR-Code mit Ihrem alten Gerät"</string>
-  <string name="trans_operate_old_phone_tips2">Gehen Sie zu Einstellungen > Weitere Einstellungen > Mi Mover [Ich bin der Sender] antippen</string>
+  <string name="trans_operate_old_phone_tips1">"1. Installieren Sie die Mi Mover-App auf Ihrem alten Gerät
+2. Öffnen Sie die App und tippen Sie auf Start
+3. Scannen Sie den QR-Code mit Ihrem alten Gerät"</string>
+  <string name="trans_operate_old_phone_tips2">Gehen Sie zu Einstellungen > Weitere Einstellungen > Mi Mover, [Ich bin der Sender] antippen</string>
   <string name="trans_operate_reconnect_new_tips">Warten, bis das neue Gerät \"Verbindung wurde getrennt\" anzeigt. Dann [Erneut verbinden] anklicken, um einen QR-Code zu erstellen.</string>
   <string name="trans_operate_reconnect_old_tips">Warten, bis das alte Gerät \"Verbindung wurde getrennt\" anzeigt. Dann [Erneut verbinden] anklicken, um den QR-Code zu scannen.</string>
   <string name="trans_operate_tip_for_other_android">Öffnen Sie Mi Mover auf Ihrem alten Telefon, tippen Sie auf \"Start\" und scanne Sie den QR-Code oben.</string>
@@ -504,7 +499,7 @@ Geben Sie Speicherplatz frei oder transferieren Sie nur wichtige Elemente."</str
   <string name="trans_progress_subdescript_transingsddata_sender">Senden von Daten von der SD-Karte %1$s, %2$s abgeschlossen</string>
   <string name="trans_progress_subdescript_waiting">Warten auf Empfang von %s</string>
   <string name="trans_receiver">Ich bin der Empfänger</string>
-  <string name="trans_receiver_time_remained">Noch %s. Das Gerät muss aufgeladen sein. Schalten Sie den WLAN-Hotspot nicht aus. Halten Sie beide Geräte in der Nähe.</string>
+  <string name="trans_receiver_time_remained">Noch %s. Schalten Sie den WLAN-Hotspot nicht aus. Halten Sie beide Geräte nahe beieinander.</string>
   <string name="trans_receiving_completed">Empfang erfolgreich</string>
   <string name="trans_restoring">Wiederherstellen…</string>
   <string name="trans_restoring_no_items">Infos erhalten…</string>
@@ -514,10 +509,10 @@ Geben Sie Speicherplatz frei oder transferieren Sie nur wichtige Elemente."</str
   <string name="trans_security_tips_message">Einige Apps unterstützen Mi Mover nicht</string>
   <string name="trans_security_tips_title">Mi Mover Unterstützung</string>
   <string name="trans_select_data">Zu sendende Dateien auswählen</string>
-  <string name="trans_select_data_no_space">"Auf dem neuen Gerät ist nicht genügend Speicherplatz vorhanden (%s verfügbar).
-Geben Sie Speicherplatz frei oder transferieren Sie nur wichtige Elemente."</string>
+  <string name="trans_select_data_no_space">"Auf dem neuen Gerät ist nicht genügend Speicher vorhanden (%s verfügbar).
+Geben Sie Speicher frei oder transferieren Sie nur wichtige Elemente."</string>
   <string name="trans_select_data_tips">Dateien zur Übertragung auswählen. Dateien mit identischem Namen werden überschrieben.</string>
-  <string name="trans_select_data_too_large">"Sie haben zu viele Positionen ausgewählt, die Sie übernehmen möchten.
+  <string name="trans_select_data_too_large">"Sie haben zu viele Positionen zur Übertragung ausgewählt.
 Wählen Sie nur wichtige Elemente aus, um die Übertragung zu beschleunigen."</string>
   <string name="trans_select_device_receive">Gerät zum Datenempfang auswählen</string>
   <string name="trans_select_device_send">Wählen Sie ein Gerät, um Daten zu senden</string>
@@ -527,11 +522,11 @@ Wählen Sie nur wichtige Elemente aus, um die Übertragung zu beschleunigen."</s
   <string name="trans_sender_connectting">Auf neuem Gerät bestätigen</string>
   <string name="trans_sender_searching">Nach neuen Geräten suchen</string>
   <string name="trans_sender_searching_ensurance">Altes Gerät muß eingeschaltet sein. Warten auf Verbindung mit dem alten Gerät…</string>
-  <string name="trans_sender_time_remained">Noch %s. Schalten Sie den WLAN-Hotspot nicht aus. Halten Sie beide Geräte in der Nähe.</string>
+  <string name="trans_sender_time_remained">Noch %s. Schalten Sie den WLAN-Hotspot nicht aus. Halten Sie beide Geräte nahe beieinander.</string>
   <string name="trans_sending_completed">Senden erfolgreich</string>
   <string name="trans_show_qr_code_label">Altes Gerät verbinden</string>
-  <string name="trans_show_qr_code_tips">QR-Code mit Ihrem alten Gerät scannen</string>
-  <string name="trans_start_failed_message">Start der Übertragung fehlgeschlagen, bitte erneut versuchen oder neu starten</string>
+  <string name="trans_show_qr_code_tips">QR-Code mit altem Gerät scannen</string>
+  <string name="trans_start_failed_message">Start der Übertragung fehlgeschlagen, erneut versuchen oder neu starten</string>
   <string name="trans_start_failed_title">Start der Übertragung fehlgeschlagen</string>
   <string name="trans_success_dialog_button_market_comment">Kommentar</string>
   <string name="trans_success_dialog_button_market_favourable_comment">Bewerten Sie Mi Mover</string>
@@ -553,13 +548,13 @@ Mögen Sie Mi Mover?"</string>
   <string name="usb_backup_select_data_too_large">Ausgewählte Dateien sind groß. Stellen Sie sicher, dass das USB-Laufwerk über genügend Speicherplatz verfügt.
 Übertragen Sie nur wichtige Elemente.</string>
   <string name="usb_restore_select_data_too_large">Sicherungsdateien sind groß. Es könnte eine Weile dauern, sie wiederherzustellen.
-Das Wiederherstellen nur wichtiger Elemente geht schneller.</string>
+Wiederherstellen nur wichtiger Elemente geht schneller.</string>
   <string name="usb_trans_native_no_space">Auf Ihrem Gerät sind nur %s verfügbar.
-Geben Sie Platz frei oder machen Sie mehrere kleinere Übertragungen.</string>
-  <string name="usb_trans_old_phone_low_space_msg">Zusätzlicher Speicherplatz ist erforderlich, um Ihre Sicherungen zu verpacken. Es gibt nicht genug Speicherplatz, um den Übertragung fortzusetzen. Sie können Platz freigeben, löschen Sie unnötige Dateien in Sicherheit oder versuchen Sie, nur wichtige Elemente zu übertragen.</string>
+Geben Sie Speicher frei oder machen Sie mehrere kleinere Übertragungen.</string>
+  <string name="usb_trans_old_phone_low_space_msg">Zusätzlicher Speicherplatz ist erforderlich, um Ihre Sicherungen zu verpacken. Es gibt nicht genug Speicher, um den Übertragung fortzusetzen. Sie können Speicher freigeben, löschen Sie unnötige Dateien in Sicherheit oder versuchen Sie, nur wichtige Elemente zu übertragen.</string>
   <string name="usb_trans_old_phone_low_space_title">Nicht genügend Speicherplatz</string>
   <string name="usb_trans_select_data_no_space">Nur %s ist auf Ihrem USB-Laufwerk verfügbar.
-Geben Sie Platz frei oder übertragen Sie nur wichtige Elemente.</string>
+Geben Sie Speicher frei oder übertragen Sie nur wichtige Elemente.</string>
   <string name="user_name">Apple ID oder E-Mail</string>
   <string name="user_name_null">Benutzername darf nicht leer sein</string>
   <string name="user_notice_declaration_ignore">Nicht mehr anzeigen</string>
@@ -567,9 +562,9 @@ Geben Sie Platz frei oder übertragen Sie nur wichtige Elemente.</string>
   <string name="user_notice_title">Achtung</string>
   <string name="view_password_description">Passwort anzeigen</string>
   <string name="wifi_title">WLAN-Einstellungen</string>
-  <string name="xiaomi_connect_download_manager_fail">Verbindung mit dem Downloadmanager ist fehlgeschlagen, bitte überprüfen Sie den Downloadmanagerstatus im Appmanagement.</string>
-  <string name="xiaomi_external_storage_unavailable">Kein Speicherplatz verfügbar. Überprüfen Sie die SD-Karte.</string>
+  <string name="xiaomi_connect_download_manager_fail">Download konnte nicht gestartet werden. Stellen Sie sicher, dass der Downloadmanager ordnungsgemäß funktioniert.</string>
+  <string name="xiaomi_external_storage_unavailable">Kein Speicherplatz verfügbar. Prüfen Sie die SD-Karte.</string>
   <string name="xiaomi_update_dialog_message">Neue Version %1$s, Größe: %2$s</string>
-  <string name="xiaomi_update_dialog_message_diff">Neue Version %1$s, Delta Updategröße: %2$s</string>
-  <string name="xiaomi_update_dialog_title">Neue Version verfügbar!</string>
+  <string name="xiaomi_update_dialog_message_diff">Neue Version %1$s, Delta-Updategröße: %2$s</string>
+  <string name="xiaomi_update_dialog_title">Neue Version verfügbar</string>
 </resources>
