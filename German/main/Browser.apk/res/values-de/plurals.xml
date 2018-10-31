@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="nav_screen_incognito_time">
-    <item quantity="other">Nach %d Sekunden wird automatisch eine neue Seite erstellt.</item>
-    <item quantity="one">Nach %d Sekunde wird automatisch eine neue Seite erstellt.</item>
-  </plurals>
-  <plurals name="transfer_prompt">
-    <item quantity="other">Videos in %1$d Sekunden abspielen</item>
-    <item quantity="one">Video in %1$d Sekunde abspielen</item>
-  </plurals>
   <plurals name="adblock_rules_number_text">
     <item quantity="other">%d Elemente blockiert</item>
-    <item quantity="one">Ein Element blockiert</item>
+    <item quantity="one">%d Element blockiert</item>
   </plurals>
   <plurals name="find_on_page_matches">
     <item quantity="other">%d Übereinstimmungen</item>
-    <item quantity="one">Eine Übereinstimmung</item>
+    <item quantity="one">%d Übereinstimmung</item>
   </plurals>
   <plurals name="mw_last_num_days">
     <item quantity="other">Die letzten %d Tage</item>
   </plurals>
   <plurals name="mw_matches_found">
     <item quantity="other">%1$d aus %2$d</item>
-    <item quantity="one">Eine Übereinstimmung</item>
+    <item quantity="one">1 Übereinstimmung</item>
+  </plurals>
+  <plurals name="nav_screen_incognito_time">
+    <item quantity="other">Nach %d Sekunden wird automatisch eine neue Seite erstellt.</item>
+    <item quantity="one">Nach %d Sekunde wird automatisch eine neue Seite erstellt.</item>
+  </plurals>
+  <plurals name="transfer_prompt">
+    <item quantity="other">Video in %1$d Sekunden abspielen</item>
+    <item quantity="one">Video in %1$d Sekunde abspielen</item>
   </plurals>
   <plurals name="v5_edit_mode_title">
     <item quantity="other">%1$d ausgewählt</item>
-    <item quantity="one">Eine ausgewählt</item>
+    <item quantity="one">%1$d ausgewählt</item>
   </plurals>
   <plurals name="video_download_clear_info">
-    <item quantity="other">%1$d Videos erfolgreich gelöscht.</item>
-    <item quantity="one">Ein Video erfolgreich gelöscht.</item>
+    <item quantity="other">%1$d Videos erfolgreich gelöscht</item>
+    <item quantity="one">%1$d Video erfolgreich gelöscht</item>
   </plurals>
   <plurals name="video_download_clear_prompt">
     <item quantity="other">%1$d Videos löschen?</item>
-    <item quantity="one">Ein Video löschen?</item>
+    <item quantity="one">%1$d Video löschen?</item>
   </plurals>
   <plurals name="video_history_clear_info">
-    <item quantity="other">%1$d Dateien aus dem Verlauf gelöscht.</item>
-    <item quantity="one">Eine Datei aus dem Verlauf gelöscht.</item>
+    <item quantity="other">%1$d Elemente aus Verlauf gelöscht</item>
+    <item quantity="one">%1$d Element aus Verlauf gelöscht</item>
   </plurals>
   <plurals name="video_history_clear_prompt">
-    <item quantity="other">Lösche %1$d Dateien aus dem Verlauf?</item>
-    <item quantity="one">Lösche eine Datei aus dem Verlauf?</item>
+    <item quantity="other">%1$d Elemente aus Verlauf löschen?</item>
+    <item quantity="one">%1$d Element aus Verlauf löschen?</item>
   </plurals>
   <plurals name="video_subtitle_last_message">
     <item quantity="other">%d Minuten verbleibend</item>
-    <item quantity="one">Eine Minute verbleibend</item>
+    <item quantity="one">%d Minute verbleibend</item>
   </plurals>
 </resources>
