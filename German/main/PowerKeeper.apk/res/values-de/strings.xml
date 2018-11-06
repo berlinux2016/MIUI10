@@ -23,7 +23,7 @@
   <string name="config_no_restrict_title">Keine Einschränkungen</string>
   <string name="config_restrict_function_description">Einige Funktionen (z.B. Push-Benachrichtigungen) sind betroffen, aber Apps werden nicht beendet</string>
   <string name="config_restrict_function_title">Hintergrundprozesse einschränken</string>
-  <string name="config_restrict_running_description">Apps werden geschlossen, um Energie zu sparen</string>
+  <string name="config_restrict_running_description">Apps werden geschlossen, um Strom zu sparen</string>
   <string name="config_restrict_running_title">Hintergrundaktivitäten einschränken</string>
   <string name="config_restrict_running_warning">Apps werden im Hintergrund geschlossen. Das kann dazu führen, dass sie nicht mehr richtig funktionieren.</string>
   <string name="config_scenario_policies_title">Methoden</string>
@@ -35,14 +35,14 @@ Stromsparen wird wichtige Apps bevorzugt behandeln."</string>
   <string name="enable_sleep_mode">Schalten Sie den Schlaf-Modus ein, um den Akkuverbrauch in der Nacht zu optimieren.</string>
   <string name="error_filename_too_long">Dateiname zu lang</string>
   <string name="extreme_add_white_list_summary">Bis zu 4 Apps hinzufügen</string>
-  <string name="extreme_add_white_list_title">Hintergrund-Ausnahmen</string>
+  <string name="extreme_add_white_list_title">Hintergrundausnahmen</string>
   <string name="extreme_mode_max_item_alert">Nur 4 Apps können gewählt werden, die im Extremmodus im Hintergrund ausgeführt werden sollen.</string>
   <string name="extreme_power_config_mode_category">Extremmodus</string>
-  <string name="extreme_power_config_mode_desc">&lt;li&gt;"Extremer Energiesparmodus stoppt alle Hintergrundaktivitäten einer App, nachdem Sie sie verlassen haben, und kehrt zum Startbildschirm zurück. Diese App wird dir keine Benachrichtigungen senden oder Updates erhalten."&lt;/li&gt;"
-"&lt;li&gt;Wenn Sie möchten, dass eine App im Hintergrund läuft, sperren Sie sie in Recents oder fügen Sie sie zu den untenstehenden Hintergrund-Ausnahmen hinzu. Bis zu 4 Apps können im Hintergrund laufen, wenn Extreme Battery Saver eingeschaltet ist.&lt;/li&gt;"
-"&lt;li&gt;Extremer Energiesparmodus schaltet NFC standardmäßig aus. Sie können dies in den Einstellungen ändern.&lt;/li&gt;"
-"&lt;li&gt;Um sicherzustellen, dass Sie alle Funktionen Ihres Geräts normal nutzen können, wird der Extreme Energiesparer automatisch ausgeschaltet, wenn Ihr Akku zu 30% geladen ist.&lt;/li&gt;</string>
-  <string name="extreme_power_config_mode_summary">Extremer Energiesparmodus schränkt die Hintergrundaktivität ein und stoppt die Synchronisierung.</string>
+  <string name="extreme_power_config_mode_desc">&lt;li&gt;"Extremer Stromsparmodus stoppt alle Hintergrundaktivitäten einer App, wenn Sie sie verlassen, und kehrt zum Startbildschirm zurück. Diese App wird keine Benachrichtigungen senden oder Updates erhalten."&lt;/li&gt;"
+"&lt;li&gt;Wenn Sie möchten, dass eine App im Hintergrund läuft, sperren Sie sie unter Kürzliche Apps oder fügen Sie sie zu den Hintergrundausnahmen unten hinzu. Bis zu 4 Apps können im Hintergrund laufen, wenn Extremer Stromsparmodus eingeschaltet ist.&lt;/li&gt;"
+"&lt;li&gt;Extremer Stromsparmodus schaltet NFC standardmäßig aus. Sie können dies in den Einstellungen ändern.&lt;/li&gt;"
+"&lt;li&gt;Damit Sie alle Funktionen Ihres Geräts normal nutzen können, wird Extremer Stromsparmodus automatisch ausgeschaltet, wenn Ihr Akku zu 30% geladen ist.&lt;/li&gt;</string>
+  <string name="extreme_power_config_mode_summary">Extremer Stromsparmodus schränkt die Hintergrundaktivität ein und stoppt die Synchronisierung.</string>
   <string name="extreme_power_config_mode_title">Extremmodus</string>
   <string name="extreme_power_settings_title">Einstellungen</string>
   <string name="failure">Fehlgeschlagen</string>
@@ -57,11 +57,11 @@ Stromsparen wird wichtige Apps bevorzugt behandeln."</string>
   <string name="message_i_know">Ich weiß</string>
   <string name="nonui_mode_config_description">Bildschirm für Benachrichtigungen nicht aufleuchten. LED, Fingerabdrucksensor und Touch-Steuerung ausschalten, um Akku zu sparen, wenn MIUI erkennt, dass Sie Ihr Gerät nicht verwenden.</string>
   <string name="nonui_mode_config_title">Nicht-interaktiver Modus</string>
-  <string name="notification_exit_extreme_mode_text">Der Akku ist mehr als %s geladen</string>
-  <string name="notification_exit_extreme_mode_title">Extremer Energiesparmodus ausgeschaltet</string>
-  <string name="notification_open_extreme_mode_text">Extremer Energiesparmodus eingeschaltet</string>
+  <string name="notification_exit_extreme_mode_text">Akku ist mehr als %s geladen</string>
+  <string name="notification_exit_extreme_mode_title">Extremer Stromsparmodus ausgeschaltet</string>
+  <string name="notification_open_extreme_mode_text">Extremer Stromsparmodus eingeschaltet</string>
   <string name="performance_category">Leistung</string>
-  <string name="power_center">Energie</string>
+  <string name="power_center">Strom</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s läuft unnormal</string>
   <string name="power_checker_background_cpu_title">%1$s läuft unnormal</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s ruft Standortinformationen häufig auf</string>
@@ -79,10 +79,10 @@ Stromsparen wird wichtige Apps bevorzugt behandeln."</string>
   <string name="power_config_apps">Stromsparen</string>
   <string name="power_config_event_delete">Löschen</string>
   <string name="power_consume_abnormal_night">Akku wird nachts entladen</string>
-  <string name="power_hide_mode_app_list_summary">Energiesparen im Hintergrund</string>
+  <string name="power_hide_mode_app_list_summary">Stromsparen im Hintergrund</string>
   <string name="power_hide_mode_title">Akku &amp; Leistung</string>
-  <string name="power_mode">Energieeinstellungen</string>
-  <string name="power_usage">Energieverbrauch</string>
+  <string name="power_mode">Stromeinstellungen</string>
+  <string name="power_usage">Stromverbrauch</string>
   <string name="pref_config_title">Leistungsoptimierung</string>
   <string name="privacy">Datenschutzerklärung</string>
   <string name="scenario_policies_summary">Verschiedene Stromsparstrategien für verschiedene Szenarien anwenden</string>
