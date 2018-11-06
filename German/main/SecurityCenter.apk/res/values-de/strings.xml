@@ -809,7 +809,7 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="fod_finger_notice_title">Legen Sie Ihren Finger auf den Bildschirm</string>
   <string name="fod_finger_windows_tips">Verifizieren Sie Ihren Fingerabdruck</string>
   <string name="fod_tips_split_screen_more_than_half">Passwort eingeben</string>
-  <string name="forbid_autobright_summary">Bildschirmhelligkeit bleibt beim Spielen gleich</string>
+  <string name="forbid_autobright_summary">Automatische Helligkeit wird während des Spiels ausgeschaltet und nach Beendigung wiederhergestellt.</string>
   <string name="forbid_autobright_title">Bildschirmhelligkeit fixieren</string>
   <string name="force_stop_dlg_text">Wenn Sie das Stoppen einer App erzwingen, kann es sein, dass sie sich falsch verhält.</string>
   <string name="force_stop_dlg_title">Stoppen erzwingen?</string>
@@ -924,6 +924,7 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="gs_performance_mode">Leistungsmodus</string>
   <string name="gs_performance_mode_detail">CPU-Auslastung erhöhen, um eine nahtlose Leistung zu gewährleisten</string>
   <string name="gs_sign_notification">Erinnern, sich täglich um 20 Uhr anzumelden.</string>
+  <string name="gs_slip_gamebox_detail">Verwenden Sie den Slider, damit das Tastenfeld angezeigt wird. Schnelle Antworten und Bildschirm-Aufzeichnungsoptionen sind verfügbar.</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Falscher Mobilfunkanbieter?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Ihr aktueller Mobilfunkanbieter: "</string>
   <string name="guide_quck_open">Einschalten</string>
@@ -1343,16 +1344,22 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="om_lock_app_locked_app_occupy_memory">Sperren von zu vielen Apps verringert die Leistung Ihres Geräts</string>
   <string name="om_lock_app_tip_msg">Tippen, um zu sperren</string>
   <string name="om_lock_app_unlocked_app">Entsperrt</string>
+  <string name="om_locked_apps_summary">Gesperrte Apps werden von Speed Boost ignoriert.</string>
   <string name="om_media_scan_time_warn_title">Medienserver arbeitet im Hintergrund. Diese Aktivität verkürzt die Akkulaufzeit.</string>
   <string name="om_media_scan_timeout_proc_detail">Medienserver arbeitet im Hintergrund. Sie können diese Aktivität einschränken.</string>
   <string name="om_media_scan_timeout_proc_name">Medienserver</string>
   <string name="om_memory_clean_cleaning_text">Geschwindigkeit wird erhöht…</string>
+  <string name="om_not_finish_speedboost">Speed boost ist erforderlich</string>
   <string name="om_notify_cpu_load_too_high_summary">Beschränken Sie die Hintergrundaktivität, um die Geschwindigkeit zu erhöhen</string>
   <string name="om_notify_cpu_load_too_high_title">CPU-Nutzung durch %s ist zu hoch</string>
   <string name="om_notify_need_clean_memory_summary">Cache löschen, um die Geschwindigkeit zu erhöhen</string>
   <string name="om_notify_need_clean_memory_title">Cachegröße erreicht %s</string>
   <string name="om_other_processes">Andere Prozesse</string>
   <string name="om_other_processes_cpu_usage_summary">Durchschnittliche CPU-Auslastung ist niedriger als %s%%</string>
+  <string name="om_promotion">Werbung</string>
+  <string name="om_running_locked_apps">Gesperrte laufende Apps</string>
+  <string name="om_running_system_apps">Laufende Systemapps</string>
+  <string name="om_running_third_apps">Laufende Drittanbieterapps</string>
   <string name="om_settings_cpu_over_load_notify">CPU-Auslastung</string>
   <string name="om_settings_cpu_over_load_summary">Bei zu hoher CPU-Auslastung benachrichtigen</string>
   <string name="om_settings_lock_app">Apps sperren</string>
