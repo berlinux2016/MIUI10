@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Phonepass">Anrufe zulassen</string>
-  <string name="SMS_and_MMS">SMS und MMS</string>
-  <string name="SMSpass">SMS zulassen</string>
-  <string name="Setting_lock">Einstellungen</string>
-  <string name="Settings_title_anti_spam">Sperrlisteneinstellungen</string>
-  <string name="Settings_title_anti_virus">Einstellungen Sicherheitsscan</string>
-  <string name="Settings_title_garbage_cleanup">Bereinigungseinstellungen</string>
-  <string name="Settings_title_network_assistants">Einstellungen Datennutzung</string>
-  <string name="Settings_title_power_center">Akkueinstellungen</string>
   <string name="about_autostart">Über Autostart</string>
   <string name="ac_enter_applock">Appsperre eingeben</string>
   <string name="ac_firstUseApplock_subTitle">Bessere Sicherheitstools auf Systemebene verwenden</string>
@@ -533,6 +524,13 @@ Sie verlieren keine Appdaten."</string>
   <string name="current_network_state_not_need_diagnose">Internetverbindung ist normal</string>
   <string name="customize_limit_pkg">%s (benutzerdefiniert)</string>
   <string name="customizer_mode_user_define_name">Meine Regeln</string>
+  <string name="daily_card_setting_fragment_daily_card_brand">Netzbetreiber</string>
+  <string name="daily_card_setting_fragment_daily_card_brand_value">Netzbetreiber auswählen</string>
+  <string name="daily_card_setting_fragment_daily_card_setting">Täglicher Datentarif-Einstellungen</string>
+  <string name="daily_card_setting_fragment_daily_card_summary">MIUI setzt Datenlimits und Apps mit unbegrenzten Daten entsprechend dem von Ihnen gewählten Netzbetreiber. Wenn Ihr Netzbetreiber nicht aufgeführt ist, wählen Sie \"Andere\" und erstellen Sie Ihren täglichen Datentarif manuell.</string>
+  <string name="daily_card_setting_fragment_daily_package">Tägliches Datenlimit</string>
+  <string name="daily_card_setting_fragment_month_package">Monatliches Datenpaket</string>
+  <string name="daily_card_setting_fragment_package_summary">Wenn Ihr täglicher Datentarif ein monatliches Datenpaket enthält, wird es vor dem Tagespaket verwendet.</string>
   <string name="daily_limit_and_lock_screen">Warnung zur Datennutzung</string>
   <string name="daily_limit_network_available_body">Tippen, um Datenverbrauchsstatistik anzuzeigen</string>
   <string name="daily_limit_over_message">Sie haben Ihr tägliches Datenlimit überschritten.</string>
@@ -552,7 +550,6 @@ Sie verlieren keine Appdaten."</string>
   <string name="data_usage_no_total_package_body_dual">Kein Datenlimit für %s eingestellt</string>
   <string name="data_usage_no_total_package_title">Datenverbrauchslimit einstellen</string>
   <string name="data_usage_protected_dialog_message">"MIUI hat mobile Daten abgeschaltet, um zusätzliche Anbietergebühren zu verhindern.
-
 Ihr Netzbetreiber kann Ihnen zusätzliche Gebühren berechnen, wenn Sie mobile Daten wieder einschalten."</string>
   <string name="data_usage_protected_notify_message">MIUI hat mobile Daten abgeschaltet, um zusätzliche Anbietergebühren zu verhindern.</string>
   <string name="data_usage_protected_notify_title">Sie haben bereits 5 GB mobile Daten genutzt.</string>
@@ -584,6 +581,8 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="dialog_app_roaming_title">Datenroaming für %1$s nicht aktiviert</string>
   <string name="dialog_button_ignore">Ignorieren</string>
   <string name="dialog_button_yes">Ja</string>
+  <string name="dialog_change_package_type_summary">Eine Änderung des Datentarifs setzt alle Einstellungen zur Datennutzung (z.B. Datenlimits) auf die Standardwerte zurück. Datentarif jetzt ändern?</string>
+  <string name="dialog_change_package_type_title">Datentarif ändern</string>
   <string name="dialog_msg_auto_start_declare">Einige Apps können falsch anzeigen, dass MIUI sie am Start gehindert hat. Prüfen Sie Berechtigungen, die einzelnen Apps unter Einstellungen &gt; Apps gewährt wurden.</string>
   <string name="dialog_msg_stop_virus_scan">Sicherheitsscan stoppen, bevor er beendet ist?</string>
   <string name="dialog_no_longer_alert">Nicht erneut anzeigen</string>
@@ -1073,6 +1072,10 @@ Ihr Anbieter kann Ihnen zusätzliche Gebühren berechnen, wenn Sie mobile Datenv
   <string name="main_button_usage_adjusting_bill">Aufladen…</string>
   <string name="main_button_usage_package_setting">Datenverbrauch einstellen</string>
   <string name="main_daily_package">Tägliches Datenvolumen</string>
+  <string name="main_daily_card_guide_dialog_ok">Einstellen</string>
+  <string name="main_daily_card_guide_dialog_summary">Sie können zwischen Tages-, Monats- und unbegrenzten Tarifen wählen. Datentarif jetzt einstellen?</string>
+  <string name="main_daily_card_guide_dialog_title">Datentarif einstellen</string>
+  <string name="main_traffic_detail">Datennutzung</string>
   <string name="main_indicator_title">Aktivierung</string>
   <string name="main_leisure_remained">Bis zur Verbrauchsgrenze verbleiben</string>
   <string name="main_month_total_used">Verbraucht in diesem Monat</string>
@@ -1279,6 +1282,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="news_change">Ändern</string>
   <string name="nickname">Spitzname</string>
   <string name="no_game">Keine Spiele gefunden</string>
+  <string name="not_limited_brand">Unbegrenzt</string>
   <string name="not_available">Nicht verfügbar</string>
   <string name="note">Notiz</string>
   <string name="note_call_none">Keine Anrufe</string>
@@ -1420,7 +1424,6 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="package_setted_error_notification_summary">Tippen, um Datenverbrauch im Detail anzuzeigen</string>
   <string name="package_setted_error_notification_titile">Datentarif konnte nicht festgelegt werden</string>
   <string name="packages_subtitle">Inklusivpakete</string>
-  <string name="passwordIncorrect">Benutzername oder Passwort falsch</string>
   <string name="password_forget_pattern_confirm">Verstanden</string>
   <string name="password_forget_pattern_message">Aus Sicherheitsgründen können Sie Ihr Passwort erst nach einem Werksreset neu vergeben. Tippen, um zurückzusetzen.</string>
   <string name="password_forget_pattern_message_none">Apps sind nicht gesperrt. Sie können Ihr Passwort zurücksetzen.</string>
@@ -1432,6 +1435,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="password_type">Passwort ändern</string>
   <string name="password_type_underline"><u>Passwort ändern</u></string>
   <string name="password_xspace_forget_pattern_message">Um Ihr Zweitprofilpasswort zu ändern, sollten Sie Ihr aktuelles Zweitprofil löschen und ein neues erstellen</string>
+  <string name="passwordIncorrect">Benutzername oder Passwort falsch</string>
   <string name="path_antispam">Systemapps/Sicherheit/Sperrliste</string>
   <string name="path_antivirus">Systemapps/Sicherheit/Virenscanner</string>
   <string name="path_app_permissions">Systemapps/Sicherheit/Rechte/Rechteverwaltung</string>
@@ -1461,11 +1465,12 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="permission_exception_title">Eingeschränkte Verbindung für Apps</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Apps werden nicht um Erlaubnis fragen vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufliste, Ändern von Systemeinstellungen oder dem Zugriff auf Kamera und andere Gerätequellen. Sie können diese Funktion in den Rechteeinstellungen einschalten.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Rechteverwaltung</string>
-  <string name="permission_with_SMS_and_MMS">SMS- und MMS-Berechtigungen</string>
   <string name="permission_with_call_and_contact">Anruf-, Kontaktinfo- und Anruflistenberechtigungen</string>
+  <string name="permission_with_SMS_and_MMS">SMS- und MMS-Berechtigungen</string>
   <string name="permit_running_network">Hintergrunddaten erlauben</string>
   <string name="person_hotpot">Mobile Hotspots</string>
   <string name="phone">Telefon</string>
+  <string name="Phonepass">Anrufe zulassen</string>
   <string name="pkg_traffic">Datenlimit einstellen</string>
   <string name="pm_auto_start_by_other">Getriggerter Start</string>
   <string name="pm_auto_start_by_other_app">Anderen Apps erlauben, diese App zu starten</string>
@@ -1492,13 +1497,13 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="power_center_ontime_boot">Einschaltzeit</string>
   <string name="power_center_ontime_shutdown">Ausschaltzeit</string>
   <string name="power_center_repeat">Wiederholen</string>
-  <string name="power_center_scan_item_title_GPS">GPS-Genauigkeit anpassen</string>
   <string name="power_center_scan_item_title_abnormal">Akkuprobleme</string>
   <string name="power_center_scan_item_title_abnormal_apps">Apps, die den Akku entladen</string>
   <string name="power_center_scan_item_title_auto_invoke">Kettenstart</string>
   <string name="power_center_scan_item_title_battery_details">Details Akkuverbrauch</string>
   <string name="power_center_scan_item_title_brightness">Bildschirmhelligkeit anpassen</string>
   <string name="power_center_scan_item_title_clean_memory">Speicher löschen</string>
+  <string name="power_center_scan_item_title_GPS">GPS-Genauigkeit anpassen</string>
   <string name="power_center_scan_item_title_hide">Akkuverbrauch verwalten</string>
   <string name="power_center_scan_item_title_power_saver">Stromsparen einschalten</string>
   <string name="power_center_scan_item_title_running_app">Im Hintergrund laufende Apps</string>
@@ -1564,6 +1569,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="pref_category_daily_package_tile">Tägliches Datenvolumen</string>
   <string name="pref_category_extra_package_tile">Extra Datenpaket</string>
   <string name="pref_category_half_year_package_tile">Halbjähriges Datenpaket</string>
+  <string name="pref_category_package_type_title">Datentarif</string>
   <string name="pref_category_title_module_settings">Funktionseinstellungen</string>
   <string name="pref_category_title_other">Erweiterte Einstellungen</string>
   <string name="pref_category_title_securitycenter_settings">Allgemein</string>
@@ -1609,10 +1615,24 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="pref_title_manual_check_virus_db_update">Auf Updates prüfen</string>
   <string name="pref_title_over_traffic_limit_warning">Bei Überschreitung</string>
   <string name="pref_title_traffic_limit_number">Größe</string>
+  <string name="pref_title_traffic_package_type">Datentarif</string>
   <string name="pref_title_traffic_speed_state">Netzwerkgeschwindigkeit anzeigen</string>
   <string name="pref_title_update_notification">Datenverbrauchsmeldungen anzeigen</string>
   <string name="pref_title_upload_data_usage">Infos zum Datenverbrauch melden</string>
+  <string name="pref_traffic_daily_package">Täglicher Datentarif</string>
+  <string name="pref_traffic_daily_package_brand">Täglicher Datentarif-Anbieter</string>
+  <string name="pref_traffic_monthly_package">Monatlicher Datentarif</string>
+  <string name="pref_traffic_package_type_summary">Monatlich/Täglich/Unbegrenzt</string>
+  <string name="pref_traffic_unlimited_package">Unbegrenzter Datentarif</string>
   <string name="pref_traffic_manage_title">Datennutzung</string>
+  <string name="traffic_setting_fragment_daily_summary">Mobilen Daten werden täglich aktualisiert</string>
+  <string name="traffic_setting_fragment_daily_title">Täglicher Datentarif</string>
+  <string name="traffic_setting_fragment_month_summary">Mobile Daten und Gesprächsverlauf werden monatlich aktualisiert</string>
+  <string name="traffic_setting_fragment_month_title">Monatlicher Datentarif</string>
+  <string name="traffic_setting_fragment_next">Weiter</string>
+  <string name="traffic_setting_fragment_not_limited_summary">Unbegrenzte mobile Daten-Optionen</string>
+  <string name="traffic_setting_fragment_not_limited_title">Unbegrenzter Datentarif</string>
+  <string name="traffic_setting_fragment_packege_type">Datentarif-Einstellungen</string>
   <string name="pref_warning_values">Datennutzungswarnstufe</string>
   <string name="pref_whitelist_setting">Ausnahmen beim Datenroaming</string>
   <string name="preferred_app_entries_camera">Kamera</string>
@@ -1762,6 +1782,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="set_numeric_password_name">PIN setzen</string>
   <string name="set_pattern_password_name">Muster setzen</string>
   <string name="setting">Einstellungen</string>
+  <string name="Setting_lock">Einstellungen</string>
   <string name="setting_privacy_password">Muster hinzufügen</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
@@ -1771,6 +1792,11 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="settings_category_overheat">Überhitzung</string>
   <string name="settings_choice_no_notification">Aus</string>
   <string name="settings_power_save_ontime_title">Zeitplan</string>
+  <string name="Settings_title_anti_spam">Sperrlisteneinstellungen</string>
+  <string name="Settings_title_anti_virus">Einstellungen Sicherheitsscan</string>
+  <string name="Settings_title_garbage_cleanup">Bereinigungseinstellungen</string>
+  <string name="Settings_title_network_assistants">Einstellungen Datennutzung</string>
+  <string name="Settings_title_power_center">Akkueinstellungen</string>
   <string name="shield_keyboard_detail">Tasten zweimal antippen, um diese wieder zu aktivieren</string>
   <string name="shield_keyboard_title">Tasten deaktivieren</string>
   <string name="show_system_app">Systemapps anzeigen</string>
@@ -1795,6 +1821,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="sip_phone">SIP-Telefon</string>
   <string name="skin_change_close_toast">Änderungen werden beim nächsten Start von Sicherheit angewendet</string>
   <string name="sms_address">Gebietssperrliste</string>
+  <string name="SMS_and_MMS">SMS und MMS</string>
   <string name="sms_blacklist">SMS-Sperrliste</string>
   <string name="sms_cloud_block">Cloudsperrliste</string>
   <string name="sms_contact_block">SMS von Kontakten blockieren</string>
@@ -1811,6 +1838,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="sms_smart_engine_update">SMS-Filter automatisch aktualisieren</string>
   <string name="sms_smart_engine_update_now">Aktualisieren</string>
   <string name="sms_stranger_block">SMS von Unbekannten blockieren</string>
+  <string name="SMSpass">SMS zulassen</string>
   <string name="sorted_dialog_title">Sortieren nach</string>
   <string name="sp_background_risk_dialog_summary">, bitte beachten Sie die Warnungen für eventuell unsichere Zahlungen</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Sie sind mit einem öffentlichen WLAN verbunden, das unsicher sein kann. Vergewissern Sie sich, dass Ihre Zahlung geschützt ist, bevor Sie sie abschließen.</string>
@@ -1957,7 +1985,6 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="status_bar_network_flow_purchase">"   Kaufen &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Datentarif einrichten &gt;"</string>
   <string name="status_bar_network_flow_today">Heute: %1$s</string>
- <string name="still_retain_btn">Beibehalten</string>
   <string name="suggest_app_tolock">Vorschläge</string>
   <string name="suggest_app_tolock_masked">Versteckt</string>
   <string name="suggest_app_tolock_unmasked">Sichtbare Benachrichtigungen</string>
@@ -2012,6 +2039,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="sys_freememory_title">Verfügbar</string>
   <string name="system_app">Systemapps</string>
   <string name="system_application">Systemapps</string>
+  <string name="still_retain_btn">Beibehalten</string>
   <string name="tab_blacklist">Sperrliste</string>
   <string name="tab_block_log_unKnowNumber">Private Nummer</string>
   <string name="tab_call">Anrufe</string>
