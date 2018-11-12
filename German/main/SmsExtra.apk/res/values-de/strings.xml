@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Keine App für diese Aktion gefunden</string>
+  <string name="allow_network_hint">\"Info automatisch aktualisieren\" einschalten, oder überprüfen Sie Ihre Netzwerkverbindung</string>
+  <string name="already_updated">Aktuell</string>
   <string name="back_to_message_list">Zurück zur Nachrichtenliste</string>
   <string name="button_close">Schließen</string>
+  <string name="click_to_update">Tippen, um nach Updates zu suchen</string>
   <string name="cm_privacy_dialog_allow">Zustimmen</string>
   <string name="cm_privacy_dialog_cancel">Abbrechen</string>
   <string name="cm_privacy_dialog_spannable_tips">Datenschutzerklärung</string>
@@ -16,6 +19,7 @@
   <string name="confirm_dialog_title">Löschen?</string>
   <string name="copy_message_text">Kopieren</string>
   <string name="copy_message_text_success">Erfolgreich kopiert</string>
+  <string name="current_data_version">Mi Message Version</string>
   <string name="delete">Löschen</string>
   <string name="delete_message">Löschen</string>
   <string name="from_label">"Von: "</string>
@@ -50,5 +54,6 @@
   <string name="summary_pref_cm_smart_sms">Kartenvorlagen, SMS-Servicerufnummern, etc.</string>
   <string name="text_message">Textnachricht</string>
   <string name="title_pref_cm_smart_sms">China Mobile Intelligente SMS</string>
+  <string name="updating">Aktualisierung…</string>
   <string name="view_message_details">Details anzeigen</string>
 </resources>
