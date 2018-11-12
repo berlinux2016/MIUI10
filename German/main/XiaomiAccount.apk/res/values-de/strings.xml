@@ -78,6 +78,7 @@ Ihre Konto ID: %s"</string>
   <string name="change_email_address">E-Mailadresse ändern</string>
   <string name="change_password">Passwort ändern</string>
   <string name="change_phone_number">Telefonnummer ändern</string>
+  <string name="collect_diagnosis_log">Diagnoseprotokoll sammeln</string>
   <string name="completed">Fertig</string>
   <string name="confirm_activate_email">Geprüft</string>
   <string name="confirm_bundled_phone_dialog_title">Zugehörige Telefonnummer bestätigen</string>
@@ -106,6 +107,10 @@ Ihre Konto ID: %s"</string>
   <string name="device_list_title">Meine Geräte</string>
   <string name="device_name">Gerätename</string>
   <string name="device_trust_info">Vertrauenswürdiges Gerät</string>
+  <string name="diagnosis_log_send_failed">Diagnoseprotokoll senden fehlgeschlagen</string>
+  <string name="diagnosis_log_sent_format">"Diagnoseprotokoll wurde gesendet.
+ID: %s
+Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="empty_device_list_notice">Keine Geräte</string>
   <string name="error_dup_binded_email">Diese E-Mailadresse ist bereits mit einem anderen Mi Konto verknüpft</string>
   <string name="error_invalid_bind_address">Eingegebene E-Mailadresse ist ungültig</string>
@@ -132,6 +137,7 @@ Ihre Konto ID: %s"</string>
   <string name="find_device_request_prepare_error">Status kann nicht überprüft werden, versuchen Sie es später nochmal</string>
   <string name="find_device_unknown_error">Status kann nicht überprüft werden, versuchen Sie es später nochmal</string>
   <string name="first_login_time">Erster Anmeldeversuch: %s</string>
+  <string name="for_diagnosis_usage_only">Diese Info dient nur der Diagnose.</string>
   <string name="get_back_pwd">Passwort zurücksetzen</string>
   <string name="get_device_list_failed">Geräte können nicht abgerufen werden</string>
   <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Mi Konten mit einer Telefonnummer verknüpfen. Neue Konten können nicht hinzugefügt werden.</string>
@@ -433,7 +439,9 @@ Ihre Konto ID: %s"</string>
   <string name="search_user_detail_path">Mi Konto/Persönliche Infos,Einstellungen/Mi Konto/Persönliche Infos</string>
   <string name="search_user_detail_top_key_words">Persönliche Infos,Profilbild ändern,Benutzername ändern,Nickname ändern,Geburtsdatum ändern,Geschlecht ändern</string>
   <string name="select_location_title">Wählen Sie Ihren Standort</string>
+  <string name="send_diagnosis_log">Diagnoseprotokoll senden</string>
   <string name="send_email_activate_message">Verifikationsmail gesendet</string>
+  <string name="sending">Senden...</string>
   <string name="service_error">Dienstfehler</string>
   <string name="set_success">Erfolgreich geändert</string>
   <string name="sign_in">Anmelden</string>
@@ -442,6 +450,7 @@ Ihre Konto ID: %s"</string>
   <string name="sms_send_success">Gesendet</string>
   <string name="sns_access_token_expired_warning">Anmeldung abgelaufen. Melden Sie sich erneut an, um sich mit diesem Konto zu verbinden.</string>
   <string name="talkback_scan_barcode">QR-Code scannen</string>
+  <string name="temporary_not_available">Temporär nicht verfügbar</string>
   <string name="trusted_browsers">Vertrauenswürdige Browser</string>
   <string name="trusted_browsers_prompt">Wenn Sie die Cookies löschen, wird dem Browser nicht mehr vertraut</string>
   <string name="turn_off_find_device_failed_title">\"Gerät finden\" kann nicht deaktiviert werden</string>
