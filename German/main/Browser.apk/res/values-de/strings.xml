@@ -54,6 +54,8 @@
   <string name="action_menu_text_setting">Einstellungen</string>
   <string name="action_menu_text_share">Teilen</string>
   <string name="action_menu_text_snapshot">Seite speichern</string>
+  <string name="action_menu_toast_incognito_off">Inkognito-Modus ausschalten</string>
+  <string name="action_menu_toast_incognito_on">Inkognito-Modus einschalten</string>
   <string name="action_menu_useful_page">Verknüpfung hinzufügen</string>
   <string name="action_menu_useful_page_added">Zur Statrtseite hinzugefügt</string>
   <string name="action_menu_user_center">Profil</string>
@@ -101,6 +103,7 @@
   <string name="agree_permissions_request">Erlauben</string>
   <string name="alert_tips">Diese Webseite kann ein Sicherheitsrisiko darstellen</string>
   <string name="allow">Erlauben</string>
+  <string name="app_download_market_text">Mi Market zum Herunterladen verwenden, schneller und sicherer</string>
   <string name="app_new_version">Die neueste Version dieser App ist bereits installiert</string>
   <string name="app_update_install">Bereit, um Update zu installieren</string>
   <string name="aqi_quality_index_break">Sehr schädlich</string>
@@ -202,6 +205,7 @@
   <string name="contextmenu_dial_dot">Wählen…</string>
   <string name="contextmenu_download_image">Bild speichern</string>
   <string name="contextmenu_download_image_as">Bild speichern</string>
+  <string name="contextmenu_incognito">Inkognito-Modus</string>
   <string name="contextmenu_manually_block_ad">Als Werbung markieren</string>
   <string name="contextmenu_map">Karte</string>
   <string name="contextmenu_openlink">Öffnen</string>
@@ -258,8 +262,11 @@
   <string name="document_download_background_btn">Herunterladen im Hintergrund</string>
   <string name="document_download_cancel_btn">Abbrechen</string>
   <string name="document_download_failed">Download fehlgeschlagen</string>
+  <string name="document_download_immediate">Sofort herunterladen</string>
+  <string name="document_download_normal">Normaler Download</string>
   <string name="document_download_official">Offizieller Download</string>
   <string name="document_download_open_direct">Direkt öffnen</string>
+  <string name="document_download_recommending">Sicherer Download (Empfehlenswert)</string>
   <string name="document_download_title">Wird heruntergeladen</string>
   <string name="document_open_file">Öffne %s</string>
   <string name="document_open_message">Um Ihr Leseerlebnis zu verbessern und die Sicherheit zu gewährleisten, verwenden Sie die angepasste WPS-Version</string>
@@ -273,6 +280,7 @@
   <string name="download_default_path_txt">Meine Auswahl merken</string>
   <string name="download_dialog_default_path_invalid">Downloadpfad ist ungültig. Wird auf Standard zurückgesetzt…</string>
   <string name="download_dialog_file_length_hint_txt">"Dateigröße: "</string>
+  <string name="download_dialog_file_length_default_txt">Moment…</strin
   <string name="download_dialog_file_length_lessthan1kb">Weniger als 1 Kb</string>
   <string name="download_dialog_file_length_nolength_error_txt">Download fehlgeschlagen</string>
   <string name="download_dialog_file_length_nolength_txt">Einen Moment…</string>
@@ -850,6 +858,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="not_now">Jetzt nicht</string>
   <string name="not_remind_again">Auswahl merken</string>
   <string name="notif_install_successful">Download abgeschlossen</string>
+  <string name="novel_toast_hint">Diese Website wurde dem Bücherregal hinzugefügt.</string>
   <string name="open_app_confirm_message">Dieser Seite erlauben, %s zu öffnen?</string>
   <string name="open_cloud_sync">Öffne Cloud-Synchronisation</string>
   <string name="open_cloud_sync_desc">Lesezeichen erfolgreich hinzugefügt. Synchronisierung mit Mi Cloud aktivieren, um auf anderen Geräten hinzugefügte Lesezeichen zu synchronisieren. Anmelden und einschalten?</string>
@@ -924,6 +933,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="pref_file_downlaod_save_reset_default_settings">Standardverzeichnis wiederherstellen</string>
   <string name="pref_file_download_default_path_prefix">Standardverzeichnis: %s</string>
   <string name="pref_file_download_save_modify_default_path">Downloadverzeichnis</string>
+  <string name="pref_fling_gesture">Wischgeste</string>
   <string name="pref_fling_on_border">Von der Kante aus wischen</string>
   <string name="pref_fling_on_border_title_summary">Von der rechten oder linken Kante aus wischen</string>
   <string name="pref_font_size_category">Webseitentextgröße</string>
@@ -986,6 +996,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="progress_dialog_setting_wallpaper">Hintergrundbild wird eingestellt…</string>
   <string name="pull_to_refresh_pull_label">Zum Aktualisieren ziehen</string>
   <string name="pull_to_refresh_release_label">Zum Aktualisieren und für Empfehlungen loslassen</string>
+  <string name="publish_to_topic">zum Thema veröffentlichen</string>
   <string name="pwa_app_name">Webapps</string>
   <string name="qr_code_title">QR-Code</string>
   <string name="qr_description">QR-Code scannen</string>
@@ -1161,6 +1172,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="suggestion_more_news">WEITERE NACHRICHTEN</string>
   <string name="suggestion_more_news_start_title_text">Ähnliche Nachrichten</string>
   <string name="suggestion_sliding_ads_info_mark_text">WERBUNG</string>
+  <string name="suggestion_sliding_item_more_text">MEHR SEHEN</string>
   <string name="suggestion_topic_subtitle_hyphen">Fokus</string>
   <string name="suggestion_translation_more">MEHR ANZEIGEN</string>
   <string name="switchText">JA</string>
