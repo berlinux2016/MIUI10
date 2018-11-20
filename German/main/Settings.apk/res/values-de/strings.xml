@@ -298,7 +298,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget erstellen und Zugriff erlauben?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s immer Erstellen von Widgets und den Zugriff auf Ihre Daten erlauben</string>
   <string name="allow_data_usage_title">Datennutzung beim Roaming erlauben</string>
-  <string name="allow_device_id_access">Apps mit Geräteidentifikation</string>
+  <string name="allow_device_id_access">Apps mit Zugriff auf die Geräte-ID</string>
   <string name="allow_interruption">Unterbrechungen erlauben</string>
   <string name="allow_interruption_summary"> App darf Töne machen, vibrieren und /oder Benachrichtungen auf dem Bildschirm einblenden</string>
   <string name="allow_mock_location">Falsche Standorte zulassen</string>
@@ -1781,7 +1781,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_display_layout_title">Funktionen</string>
   <string name="device_edit_title">Gerätename ändern</string>
   <string name="device_feedback">Feedback zu diesem Gerät senden</string>
-  <string name="device_id">Geräteidentifikation</string>
+  <string name="device_id">Geräte-ID</string>
   <string name="device_info_default">Unbekannt</string>
   <string name="device_info_label">Geräteinfo</string>
   <string name="device_info_not_available">Nicht verfügbar</string>
@@ -3989,6 +3989,7 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="power_hide_mode_title">Akkuverbrauch von Apps verwalten</string>
   <string name="power_high_usage_title">Hoher Verbrauch</string>
   <string name="power_idle">Ruhezustand</string>
+  <string name="power_key_start_enjoy">Erfahren Sie mehr über den Google Assistant</string>
   <string name="power_last_full_charge_summary">Vor ^1</string>
   <string name="power_mgr">Akku</string>
   <string name="power_mode">Energieeinstellungen</string>
@@ -4380,11 +4381,11 @@ UT Interface: %5$s"</string>
   <string name="restore_data">Daten wiederherstellen</string>
   <string name="restore_default_apn">Standard-APN-Einstellungen werden wiederhergestellt</string>
   <string name="restore_default_apn_completed">Zurücksetzen auf Standard-APN-Einstellungen abgeschlossen</string>
-  <string name="restore_device_id_content">Personalisierte Empfehlung zurücksetzen</string>
-  <string name="restore_device_id_title">Geräteidentifikation wiederherstellen</string>
-  <string name="restore_dialog_content">Wiederherstellung der Geräteidentifikation setzt Ihre personalisierte Empfehlung zurück</string>
+  <string name="restore_device_id_content">Personalisierte Empfehlungen zurücksetzen</string>
+  <string name="restore_device_id_title">Geräte-ID wiederherstellen</string>
+  <string name="restore_dialog_content">Wiederherstellung der Geräte-ID setzt Ihre personalisierte Empfehlung zurück</string>
   <string name="restore_dialog_positive">Wiederherstellen</string>
-  <string name="restore_dialog_title">Erinnerung</string>
+  <string name="restore_dialog_title">Achtung</string>
   <string name="restore_failed">Wiederherstellung fehlgeschlagen</string>
   <string name="restore_finished">Wiederherstellung abgeschlossen</string>
   <string name="restore_is_running">Gerät wiederherstellen</string>
@@ -4842,8 +4843,8 @@ Mindestens %s freigeben."</string>
   <string name="security_encryption_progress_dialog_open">Wird verschlüsselt…</string>
   <string name="security_encryption_rejected_via_home_manager">Diese Funktion wird in der Demo-Version nicht unterstützt</string>
   <string name="security_encryption_title">Gerät mit Sperrbildschirmpasswort verschlüsseln</string>
-  <string name="security_input">Sicherheitseingabe</string>
-  <string name="security_input_hint">Passwort mit Sicherheitstastatur eingeben</string>
+  <string name="security_input">Sichere Tastatur</string>
+  <string name="security_input_hint">Verwenden Sie eine sichere Tastatur, wenn Sie Passwörter eingeben.</string>
   <string name="security_keyguard_category_name">Sperrbildschirm</string>
   <string name="security_password_category_name">Bildschirmsperre</string>
   <string name="security_passwords_title">Datenschutz</string>
@@ -5196,9 +5197,9 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="sort_order_size">Nach Größe sortieren</string>
   <string name="sos_privacy_and_content_policy">Nutzervereinbarung &amp; Datenschutzerklärung</string>
   <string name="sos_privacy_dialog_button_cancel">Abbrechen</string>
-  <string name="sos_privacy_dialog_button_ok">Weiter</string>
-  <string name="sos_privacy_dialog_message">"Aktivieren Sie die SOS-Notfallhilfe. Bitte bestätigen und lesen Sie die %s.
-Um die normale Nutzung der SOS-Notfallhilfe zu gewährleisten, muss sie eventuell Ihren Standort erfragen, das Mobilfunknetz nutzen und Ihr Adressbuch lesen. Bestätigen Sie dies?"</string>
+  <string name="sos_privacy_dialog_button_ok">Zustimmen</string>
+  <string name="sos_privacy_dialog_message">"Lesen und stimmen Sie unseren %s zu, bevor Sie diese Funktion nutzen.
+Diese Funktion benötigt Berechtigungen, um auf Ihren Standort zuzugreifen, mobile Netzwerke zu nutzen und Ihre Kontakte zu lesen. Zustimmen?"</string>
   <string name="sos_privacy_dialog_title">AGB</string>
   <string name="sound_category_call_ringtone_vibrate_title">Klingel- &amp; Benachrichtigungston</string>
   <string name="sound_category_notification_title">Benachrichtigungen</string>
