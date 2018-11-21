@@ -78,7 +78,7 @@ Ihre Konto ID: %s"</string>
   <string name="change_email_address">E-Mailadresse ändern</string>
   <string name="change_password">Passwort ändern</string>
   <string name="change_phone_number">Telefonnummer ändern</string>
-  <string name="collect_diagnosis_log">Diagnoseprotokoll sammeln</string>
+  <string name="collect_diagnosis_log">Diagnoseprotokoll erstellen</string>
   <string name="completed">Fertig</string>
   <string name="confirm_activate_email">Geprüft</string>
   <string name="confirm_bundled_phone_dialog_title">Zugehörige Telefonnummer bestätigen</string>
@@ -107,10 +107,10 @@ Ihre Konto ID: %s"</string>
   <string name="device_list_title">Meine Geräte</string>
   <string name="device_name">Gerätename</string>
   <string name="device_trust_info">Vertrauenswürdiges Gerät</string>
-  <string name="diagnosis_log_send_failed">Diagnoseprotokoll senden fehlgeschlagen.</string>
-  <string name="diagnosis_log_sent_format">"Diagnoseprotokoll wurde gesendet.
+  <string name="diagnosis_log_send_failed">Protokoll senden fehlgeschlagen.</string>
+  <string name="diagnosis_log_sent_format">"Protokoll wurde gesendet.
 ID: %s
-Bitte senden Sie diesen Code an den Techniker."</string>
+Bitte senden Sie diesen Code an den Supervisor."</string>
   <string name="empty_device_list_notice">Keine Geräte</string>
   <string name="error_dup_binded_email">Diese E-Mailadresse ist bereits mit einem anderen Mi Konto verknüpft</string>
   <string name="error_invalid_bind_address">Eingegebene E-Mailadresse ist ungültig</string>
@@ -137,7 +137,7 @@ Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="find_device_request_prepare_error">Status kann nicht überprüft werden, versuchen Sie es später nochmal</string>
   <string name="find_device_unknown_error">Status kann nicht überprüft werden, versuchen Sie es später nochmal</string>
   <string name="first_login_time">Erster Anmeldeversuch: %s</string>
-  <string name="for_diagnosis_usage_only">Diese Info dient nur der Diagnose.</string>
+  <string name="for_diagnosis_usage_only">Wird nur zur Fehlersuche verwendet.</string>
   <string name="get_back_pwd">Passwort zurücksetzen</string>
   <string name="get_device_list_failed">Geräte können nicht abgerufen werden</string>
   <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Mi Konten mit einer Telefonnummer verknüpfen. Neue Konten können nicht hinzugefügt werden.</string>
@@ -269,7 +269,7 @@ Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="passport_input_password_for_login">Diese Nummer ist bereits mit einem Konto verknüpft. Geben Sie Ihr Passwort ein.</string>
   <string name="passport_input_password_hint">Passwort eingeben</string>
   <string name="passport_input_phone_hint">Telefonnummer eingeben</string>
-  <string name="passport_input_phone_password">Bitte geben Sie das Passwort für die Telefonnummer %s ein.</string>
+  <string name="passport_input_phone_password">Passwort eingeben für %s</string>
   <string name="passport_input_vcode_hint">Verifikationscode eingeben</string>
   <string name="passport_input_voice_captcha_hint">Sprachverifikationscode eingeben</string>
   <string name="passport_input_voice_hint">Sprachcode eingeben</string>
@@ -366,7 +366,7 @@ Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="passport_skip_setup_account_title">Mi Cloud nicht benutzen?</string>
   <string name="passport_sms_send_success">Gesendet</string>
   <string name="passport_sms_verification_code_login">Mit SMS anmelden</string>
-  <string name="passport_sms_verification_code_login_or_register">Anmelden oder Registrieren per SMS</string>
+  <string name="passport_sms_verification_code_login_or_register">Anmelden oder Konto erstellen per SMS</string>
   <string name="passport_sync_account_data">Kontoinfo synchronisieren…</string>
   <string name="passport_sync_account_data_failed_warning">Ihre Kontoinformationen werden jetzt synchronisiert, Sie können sich mit Ihrer Mi Konto ID anmelden. Wenn Sie sich mit Telefonnummer oder E-Mail anmelden möchten, warten Sie, bis die Daten vollständig synchronisiert sind.</string>
   <string name="passport_talkback_image_captcha">Bildverifizierungscode</string>
@@ -450,7 +450,7 @@ Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="sms_send_success">Gesendet</string>
   <string name="sns_access_token_expired_warning">Anmeldung abgelaufen. Melden Sie sich erneut an, um sich mit diesem Konto zu verbinden.</string>
   <string name="talkback_scan_barcode">QR-Code scannen</string>
-  <string name="temporary_not_available">Temporär nicht verfügbar</string>
+  <string name="temporary_not_available">Diese Funktion ist noch nicht verfügbar.</string>
   <string name="trusted_browsers">Vertrauenswürdige Browser</string>
   <string name="trusted_browsers_prompt">Wenn Sie die Cookies löschen, wird dem Browser nicht mehr vertraut</string>
   <string name="turn_off_find_device_failed_title">\"Gerät finden\" kann nicht deaktiviert werden</string>
