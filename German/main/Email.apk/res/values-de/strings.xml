@@ -71,11 +71,11 @@
   <string name="account_setup_address_label">E-Mail</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Bestätigen Sie, dass der Benutzername, das Passwort und die Kontoeinstellungen richtig sind</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Kontoeinrichtung fehlgeschlagen</string>
-  <string name="account_setup_basics_email_label">E-Mailadresse eingeben</string>
+  <string name="account_setup_basics_email_label">E-Mailadresse</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Anmeldung über das aktuelle Netzwerk</string>
   <string name="account_setup_basics_manual_setup_action">Manuell einrichten</string>
   <string name="account_setup_basics_mi_mail_login_help">Eventuell müssen Sie Ihr Konto per SMS bestätigen, um E-Mails zu erhalten</string>
-  <string name="account_setup_basics_password_label">Passwort eingeben</string>
+  <string name="account_setup_basics_password_label">Passwort</string>
   <string name="account_setup_basics_title">Konto hinzufügen</string>
   <string name="account_setup_check_settings_check_incoming_msg">Servereinstellungen werden geprüft…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">SMTP-Einstellungen werden geprüft…</string>
@@ -355,8 +355,10 @@
   <string name="device_not_activiey_lint1">Gerätenmanager ist nicht aktiviert</string>
   <string name="device_not_activiey_lint2">E-Maildienst funktioniert nicht mit Exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">Sie haben sich dafür entschieden, E-Mails manuell zu synchronisieren. Aktualisieren zum Synchronisieren.</string>
+  <string name="dialog_agree">Zustimmen</string>
   <string name="dialog_auto_sync_setting_no_open">Neue Nachrichten können nicht empfangen werden. Synchronisation ist aus.</string>
   <string name="dialog_change_sync_lookback">Die vor %s eingegangene E-Mail wird automatisch gelöscht. Tippen zum Ändern.</string>
+  <string name="dialog_disagree">Ablehnen</string>
   <string name="dialog_gmail_proxy_server_is_error">Fehler Gmail-Proxyserver</string>
   <string name="dialog_insufficient_space_on_external">Anhang kann nicht runtergeladen werden. Nicht genügend externer Speicher.</string>
   <string name="dialog_insufficient_space_on_internal">Nicht genügend interner Speicher</string>
@@ -525,6 +527,7 @@
   <string name="interact_with_server_error">Verbindung mit Server nicht möglich</string>
   <string name="invalid_recipient">Adresse %s ist ungültig</string>
   <string name="invalid_recipient_title">Empfängerfehler</string>
+  <string name="list_empty_to_fresh">Keine E-Mail, bitte über Pulldown-Menü aktualisieren</string>
   <string name="load_from_remote">Mailbox auf dem Server durchsuchen</string>
   <string name="load_more">Weitere laden</string>
   <string name="loading_conversation">Laden…</string>
@@ -655,9 +658,6 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="not_synced_title">Konto nicht synchronisiert</string>
   <string name="note_text">Möglicherweise können durch das Netzwerk von China Mobile oder durch SMS-Überprüfungen zusätzliche Kosten entstehen</string>
   <string name="note_title">139 Mail Autokonfiguration</string>
-  <string name="notify_channel_new_mail">Benachrichtigung über neue Nachrichten</string>
-  <string name="notify_channel_permission_notice">Berechtigungshinweis-Erinnerung</string>
-  <string name="notify_channel_send_fail">Benachrichtigung über fehlgeschlagene Lieferungen</string>
   <string name="notification_action_archive">Archivieren</string>
   <string name="notification_action_delete">Löschen</string>
   <string name="notification_action_remove_label">Markierung entfernen</string>
@@ -667,6 +667,10 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="notification_action_undo_delete">Gelöscht</string>
   <string name="notification_action_undo_remove_label">Markierung entfernt</string>
   <string name="notification_exchange_calendar_added">Exchangekalender hinzugefügt</string>
+  <string name="notify_channel_new_mail">Erinnerung an neue E-Mails</string>
+    <string name="notify_channel_no_disterb">Nicht stören-Modus</string>
+  <string name="notify_channel_permission_notice">Erinnerung an Berechtigungsnachricht</string>
+  <string name="notify_channel_send_fail">Erinnerung an fehlgeschlagenes Senden</string>
   <string name="oauth_error_description">Authentifizierung nicht möglich</string>
   <string name="oauth_gmail_login_notify">Geben Sie auf der folgenden Seite Ihren Google-Konto Benutzernamen und Ihr Passwort ein</string>
   <string name="oauth_login_continue">Weiter</string>
@@ -791,6 +795,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="preview_attachment">Vorschau</string>
   <string name="previous_action">Zurück</string>
   <string name="print">Drucken</string>
+  <string name="privacy_des">"Die Protokollinformationen enthalten von der E-Mail-App übermittelte Debugging-Informationen sowie Informationen zu Ihrem Gerät, um das von Ihnen gemeldete Problem zu finden. Wählen Sie unten '% 1 $ s' aus, um zu bestätigen, dass Sie Xiaomi's %2$s gelesen und akzeptiert haben."</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="prompt_title">Nachfragen</string>
   <string name="protocol_setting_toast">Nach der Zustimmung tippen Sie in die obere rechte Ecke, um zu den Einstellungen zu gelangen</string>
@@ -1058,7 +1063,7 @@ Konto entfernen?"</string>
   <string name="update_date_format_templete">HH:mm dd.MM.yyyy</string>
   <string name="update_to_wps_mail">Mehr Funktionen mit WPS genießen</string>
   <string name="updated_at">Letzte Aktualisierung: %1$s</string>
-  <string name="upload_log">Protokolle übermitteln</string>
+  <string name="upload_log">Senden</string>
   <string name="upload_log_failed">Protokolldaten konnten nicht gesendet werden</string>
   <string name="upload_log_no">Abbrechen</string>
   <string name="upload_log_success">Erfolgreich versendet, wir melden uns umgehend bei Ihnen.</string>
