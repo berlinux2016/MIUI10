@@ -20,7 +20,7 @@
   <string name="abc_searchview_description_clear">Anfrage löschen</string>
   <string name="abc_searchview_description_query">Suchanfrage</string>
   <string name="abc_searchview_description_search">Suchen</string>
-  <string name="abc_searchview_description_submit">Anfrage absenden</string>
+  <string name="abc_searchview_description_submit">Anfrage senden</string>
   <string name="abc_searchview_description_voice">Sprachsuche</string>
   <string name="abc_shareactionprovider_share_with">Teilen mit</string>
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
@@ -129,7 +129,7 @@
   <string name="accessibility_no_signal">Kein Signal</string>
   <string name="accessibility_no_sim">Keine SIM</string>
   <string name="accessibility_no_sims">Keine SIM-Karte</string>
-  <string name="accessibility_no_wifi">Kein WLAN</string>
+  <string name="accessibility_no_wifi">WLAN getrennt</string>
   <string name="accessibility_no_wimax">Kein WiMAX</string>
   <string name="accessibility_not_connected">Nicht verbunden</string>
   <string name="accessibility_notification_dismissed">Benachrichtigung abgewiesen</string>
@@ -266,21 +266,21 @@
   <string name="accessibility_work_mode">Arbeitsmodus</string>
   <string name="accessibility_zero_bars">Null Balken</string>
   <string name="account_info">Nicht angemeldet</string>
-  <string name="activate_usb_message">SIM-Karte zum Aktivieren dieses Features einlegen.</string>
+  <string name="activate_usb_message">SIM-Karte zum Aktivieren dieses Features einlegen</string>
   <string name="activate_usb_title">Aktiviere USB</string>
   <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
   <string name="activity_launch_on_secondary_display_failed_text">App unterstützt den Start auf sekundären Displays nicht</string>
-  <string name="activity_not_found">App ist nicht auf Ihrem Gerät installiert</string>
-  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging von allen Computern, die Sie zuvor autorisiert haben, widerrufen?</string>
-  <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke gedacht. Verwenden Sie es, um Daten zwischen Ihrem Computer und Gerät zu kopieren, Apps auf Ihrem Gerät ohne Benachrichtigung zu installieren und Protokolldaten zu lesen.</string>
+  <string name="activity_not_found">App ist nicht auf dem Gerät installiert</string>
+  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging von allen Computern, die Sie vorher autorisiert haben, widerrufen?</string>
+  <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke vorgesehen. Damit können Sie Daten zwischen Ihrem Computer und Ihrem Gerät kopieren, Apps auf Ihrem Gerät ohne Benachrichtigung installieren und Protokolldaten lesen.</string>
   <string name="adb_warning_title">USB-Debugging erlauben?</string>
   <string name="add_tile">Kachel hinzufügen</string>
   <string name="adjust_button_width">Buttonbreite einstellen</string>
   <string name="airplane_mode">Flugmodus</string>
   <string name="alarm_template">bei %1$s</string>
   <string name="alarm_template_far">auf %1$s</string>
-  <string name="allow_mock_location">Falsche Standorte</string>
-  <string name="allow_mock_location_summary">Falsche Standorte erlauben</string>
+  <string name="allow_mock_location">Falsche Standorte zulassen</string>
+  <string name="allow_mock_location_summary">Falsche Standorte zulassen</string>
   <string name="always_use_accessory">Immer für dieses USB-Zubehör verwenden</string>
   <string name="always_use_device">Immer für dieses USB-Gerät verwenden</string>
   <string name="animator_duration_scale_title">Animationsdauerskala</string>
@@ -373,12 +373,12 @@
   <string name="bluetooth_opp_profile_summary_not_connected">Nicht mit Dateiserver verbunden</string>
   <string name="bluetooth_opp_profile_summary_use_for">Für Dateitransfer nutzen</string>
   <string name="bluetooth_pairing">Koppeln…</string>
-  <string name="bluetooth_pairing_accept">Gekoppelt</string>
-  <string name="bluetooth_pairing_accept_all_caps">GEKOPPELT</string>
+  <string name="bluetooth_pairing_accept">Koppeln</string>
+  <string name="bluetooth_pairing_accept_all_caps">KOPPELN</string>
   <string name="bluetooth_pairing_decline">Abbrechen</string>
   <string name="bluetooth_pairing_device_down_error_message">Kann nicht mit %1$s kommunizieren</string>
   <string name="bluetooth_pairing_error_message">Kann nicht mit %1$s koppeln</string>
-  <string name="bluetooth_pairing_pin_error_message">Kann nicht mit %1$s koppeln wegen falschen Passworts oder Schlüssels</string>
+  <string name="bluetooth_pairing_pin_error_message">Kann nicht mit %1$s koppeln wegen falscher PIN oder falschen Schlüssels</string>
   <string name="bluetooth_pairing_rejected_error_message">Koppeln von %1$s zurückgewiesen</string>
   <string name="bluetooth_pairing_will_share_phonebook">Koppeln ermöglicht Zugriff auf Ihre Kontakte und die Anrufliste, wenn verbunden</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Gemeinsame Nutzung der lokalen Internetverbindung mit dem Gerät</string>
@@ -401,17 +401,17 @@
   <string name="bluetooth_sap_profile_summary_connected">Verbunden mit SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Für SIM-Zugriff verweden</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits pro Abtastwert</string>
-  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">BT Audio Codec wählen:
-Bits pro Abtastwert</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Bluetooth Audio Codec wählen:
+Bits pro Abtastwert"</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth Audio Kanalmodus</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">Bluetooth Audio Codec wählen:
-Kanalmodus</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">BT Audio LDAC Codec: Wiedergabequalität</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">BT Audio LDAC Codec wählen:
-Wiedergabequalität</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Bluetooth Audio Codec wählen:
+Kanalmodus"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Wiedergabequalität</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth Audio LDAC Codec wählen:
+Wiedergabequalität"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Abtastrate</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">BT Audio Codec wählen:
-Abtastrate</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth Audio Codec wählen:
+Abtastrate"</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Bluetooth Audio Codec wählen</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP Version wählen</string>
   <string name="bluetooth_show_devices_without_names">Bluetooth-Geräte ohne Namen anzeigen</string>
@@ -429,7 +429,7 @@ Abtastrate</string>
   <string name="bt_is_off">Bluetooth ist aus</string>
   <string name="btn_camera">Fügen Sie Ihr Gesicht hinzu</string>
   <string name="bugreport_in_power">Verknüpfung zum Fehlerbericht</string>
-  <string name="bugreport_in_power_summary">Einen Button für Fehlerberichte im Power-Menü anzeigen</string>
+  <string name="bugreport_in_power_summary">Schaltfläche für Fehlerberichte im Power-Menü anzeigen</string>
   <string name="button_convert_fbe">Löschen und konvertieren…</string>
   <string name="button_emoji_creature">Tierische Emojis</string>
   <string name="button_emoji_lifestyle">Lebensstil-Emojis</string>
@@ -448,10 +448,9 @@ Abtastrate</string>
   <string name="camera_key_action_app_title">App öffnen</string>
   <string name="camera_key_action_category_title">Verwenden, wenn die Kamera nicht geöffnet ist</string>
   <string name="camera_key_action_none_title">Keine Aktion</string>
-  <string name="camera_key_action_setting_title">MI Taste</string>
-  <string name="camera_key_action_shortcut_call">Anrufen</string>
+  <string name="camera_key_action_setting_title">Mi Taste</string>
+  <string name="camera_key_action_shortcut_call">Anruf</string>
   <string name="camera_key_action_shortcut_home">Zurück zum Startbildschirm</string>
-  <string name="camera_key_action_shortcut_screenshot">Screenshot</string>
   <string name="camera_key_action_shortcut_search">Suchen</string>
   <string name="camera_key_action_shortcut_title">Verknüpfung</string>
   <string name="camera_key_action_shortcut_wake">Sperren/Entsperren</string>
@@ -462,8 +461,8 @@ Abtastrate</string>
   <string name="car_lockscreen_disclaimer_title">Fahren Sie sicher</string>
   <string name="category_personal">Persönlich</string>
   <string name="category_work">Arbeit</string>
-  <string name="change_theme_reboot">Wechsel des Themes erfordert einen Neustart</string>
-  <string name="charge_length_format">vor %1$s</string>
+  <string name="change_theme_reboot">Thema-Änderung erfordet einen Neustart</string>
+  <string name="charge_length_format">Vor %1$s</string>
   <string name="chooseUsbActivity">Wählen Sie eine App für das USB-Gerät</string>
   <string name="choose_profile">Profil auswählen</string>
   <string name="clear_adb_keys">Berechtigungen für USB-Debugging widerrufen</string>
@@ -481,29 +480,28 @@ Abtastrate</string>
   <string name="compat_mode_on">Zoomen für Vollbildschirm</string>
   <string name="config_navBarLayout">links;zurück;home;kürzlich;recents;rechts</string>
   <string name="confirm">Fertig</string>
-  <string name="confirm_enable_oem_unlock_text">WARNUNG: Geräte-Schutz funktioniert auf dem Gerät nicht, solange diese Einstellung aktiv ist.</string>
-  <string name="confirm_enable_oem_unlock_title">OEM Entsperrung erlauben?</string>
+  <string name="confirm_enable_oem_unlock_text">WARNUNG: Geräteschutzfunktionen werden deaktiviert, wenn Sie diese Einstellung aktivieren.</string>
+  <string name="confirm_enable_oem_unlock_title">OEM-Entsperrung erlauben?</string>
   <string name="confirm_pin_msg">PIN erneut eingeben</string>
     <string name="connected_via_carrier">Verbunden via %1$s</string>
-  <string name="connected_via_network_scorer">Automatisch via %1$s</string>
+  <string name="connected_via_network_scorer">Automatisch via %1$s verbunden</string>
   <string name="connected_via_network_scorer_default">Automatische Verbindung via Netzwerk-Rating-Provider</string>
   <string name="connected_via_passpoint">Verbunden via %1$s</string>
-  <string name="connected_via_wfa">Verbunden via WLAN Assistenten</string>
+  <string name="connected_via_wfa">Verbunden via WLAN-Assistent</string>
   <string name="content_description_menu_button">Menü</string>
-  <string name="convert_to_fbe_warning">"Datenpartitionen in dateibasierte Verschlüsselung konvertieren.
-!!Warnung!! Alle Ihre Daten werden gelöscht.
-Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
-\"Löschen und konvertieren…\" drücken, um fortzufahren."</string>
-  <string name="convert_to_file_encryption">In Datei-Verschlüsselung umwandeln</string>
-  <string name="convert_to_file_encryption_done">Datei bereits verschlüsselt</string>
-  <string name="convert_to_file_encryption_enabled">Wird umgewandelt…</string>
-  <string name="cowboy">Cowboy</string>
+  <string name="convert_to_fbe_warning">"Konvertieren der Datenpartition in dateibasierte Verschlüsselung.
+Warnung: Dies löscht alle Ihre Daten.
+Diese Funktion wird gerade entwickelt und arbeitet eventuell nicht richtig.
+Drücken Sie 'Löschen und konvertieren…', um fortzufahren.""</string>
+  <string name="convert_to_file_encryption">In Dateiverschlüsselung konvertieren</string>
+  <string name="convert_to_file_encryption_done">Dateiverschlüsselung bereits erledigt</string>
+  <string name="convert_to_file_encryption_enabled">Wird konvertiert…</string>
   <string name="custom_lock_wallpaper_enter">Eintreten</string>
-  <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (Rot-Grün)</string>
-  <string name="daltonizer_mode_disabled">Abgeschaltet</string>
-  <string name="daltonizer_mode_monochromacy">Monochromasie</string>
-  <string name="daltonizer_mode_protanomaly">Protanomalie (Rot-Grün)</string>
-  <string name="daltonizer_mode_tritanomaly">Tritanomalie (Blau-Gelb)</string>
+  <string name="daltonizer_mode_deuteranomaly">Rot-Grün-Sehschwäche</string>
+  <string name="daltonizer_mode_disabled">Deaktiviert</string>
+  <string name="daltonizer_mode_monochromacy">Vollständig farbenblind</string>
+  <string name="daltonizer_mode_protanomaly">Rot-Grün-Sehschwäche</string>
+  <string name="daltonizer_mode_tritanomaly">Blau-Gelb-Sehschwäche</string>
   <string name="daltonizer_type_overridden">Überschrieben von %1$s</string>
   <string name="data_saver">Datensparen</string>
   <string name="data_saver_description">Um Datenverbrauch zu reduzieren, verhindert Datensparen das einige Apps Daten im Hintergrund senden oder empfangen. Eine App die Sie gerade verwenden, kann auf Daten zugreifen, kann dies aber seltener tun. Dies kann z. B. bedeuten, dass Bilder erst angezeigt werden, wenn Sie auf sie tippen.</string>
@@ -519,19 +517,19 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="data_usage_disabled_dialog_title">Daten ausgeschaltet</string>
   <string name="data_usage_uninstalled_apps">Gelöschte Apps</string>
   <string name="data_usage_uninstalled_apps_users">Gelöschte Apps und Benutzer</string>
-  <string name="debug_app">Debug-App auswählen</string>
-  <string name="debug_app_not_set">Keine Debug-App ausgewählt</string>
-  <string name="debug_app_set">Debugging-App: %1$s</string>
+  <string name="debug_app">Debugapp auswählen</string>
+  <string name="debug_app_not_set">Keine Debugapp ausgewählt</string>
+  <string name="debug_app_set">Debugapp: %1$s</string>
   <string name="debug_drawing_category">Zeichnen</string>
   <string name="debug_hw_drawing_category">Hardware-beschleunigtes Rendering</string>
   <string name="debug_hw_overdraw">GPU-Überzeichnung debuggen</string>
   <string name="debug_hw_renderer">GPU-Renderer einstellen</string>
   <string name="debug_input_category">Eingabe</string>
-  <string name="debug_layout">Layout-Rahmen anzeigen</string>
+  <string name="debug_layout">Layoutgrenzen anzeigen</string>
   <string name="debug_layout_summary">Clip-Grenzen, Ränder, etc. anzeigen</string>
   <string name="debug_monitoring_category">Überwachung</string>
-  <string name="debug_networking_category">Networking</string>
-  <string name="debug_view_attributes">Sichtattributprüfung aktivieren</string>
+  <string name="debug_networking_category">Netzwerk</string>
+  <string name="debug_view_attributes">Attributprüfungsansicht aktivieren</string>
   <string name="default_lockscreen_unlock_hint_text">Zum Entsperren nach oben wischen</string>
   <string name="default_theme">Standard</string>
   <string name="delete">Löschen</string>
@@ -544,15 +542,15 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="dessert_case">Dessertbehälter</string>
   <string name="dev_logpersist_clear_warning_message">Wenn wir nicht mehr mit dem dauerhaften Protokoll überwachen, müssen wir die auf Ihrem Gerät gespeicherten Protokolldaten löschen.</string>
   <string name="dev_logpersist_clear_warning_title">Dauerhaften Protokollspeicher löschen?</string>
-  <string name="dev_settings_warning_message">Diese Einstellungen sind nur für Entwickler bestimmt. Damit können Ihr Gerät und Apps zerstört oder missbraucht werden.</string>
+  <string name="dev_settings_warning_message">Diese Einstellungen sind nur für Entwickler geeignet. Sie können Ihr Gerät und die installierten Apps beschädigen oder zu unerwünschtem Verhalten führen.</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar</string>
-  <string name="development_settings_summary">Optionen für App-Entwicklung einstellen</string>
+  <string name="development_settings_summary">Optionen für Appentwicklung festlegen</string>
   <string name="development_settings_title">Entwickleroptionen</string>
   <string name="dialog_message_fake_cell_detect_error">Infos zu dieser Nachricht korrigieren? Dazu muss MIUI die Telefonnummer (%1$s), den Inhalt der Nachricht und die Informationen über den nahegelegenen Standort auf seine Server hochladen.</string>
   <string name="dialog_title_fake_cell_detect_error">Korrektur</string>
-  <string name="direct_boot_unaware_dialog_message">Hinweis: Nach einem Neustart kann diese App nicht gestartet werden, bis Sie Ihr Telefon entsperren</string>
+  <string name="direct_boot_unaware_dialog_message">Hinweis: Nach einem Neustart startet diese App erst, wenn Sie Ihr Telefon entsperrt haben.</string>
   <string name="disable_notification_summary">Zeige Benachrichtigungen von ausgewählten Apps nie</string>
   <string name="disable_notification_title">Benachrichtigungen verbergen</string>
   <string name="disable_overlays">HW-Overlays deaktivieren</string>
@@ -605,13 +603,13 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="enable_freeform_support_summary">Unterstützung für experimentelle Freiformfenster aktivieren.</string>
   <string name="enable_gpu_debug_layers">GPU Debug-Ebenen aktivieren</string>
   <string name="enable_gpu_debug_layers_summary">Laden von GPU Debug-Ebenen für Debug-Apps erlauben</string>
-  <string name="enable_opengl_traces_title">OpenGL Traces einschalten</string>
+  <string name="enable_opengl_traces_title">OpenGL-Traces einschalten</string>
   <string name="enable_power_save_mode">Stromsparen einschalten</string>
-  <string name="enable_terminal_summary">Terminal-App aktivieren, die den lokalen Shell-Zugriff bietet</string>
-  <string name="enable_terminal_title">Lokaler Shell-Zugriff</string>
+  <string name="enable_terminal_summary">Terminalapp aktivieren, die den lokalen Shell-Zugriff bietet</string>
+  <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_webview_multiprocess">Multiprozess WebView</string>
   <string name="enable_webview_multiprocess_desc">WebView Renderer separat ausführen</string>
-  <string name="enabled_by_admin">Aktiviert vom Admin</string>
+  <string name="enabled_by_admin">Vom Administrator aktiviert</string>
   <string name="enter_special_mode_message">Nach dem Neustart der App wird der Inhalt der App in den oberen Bereich der Statusleiste erweitert. Wenn es Ausnahmen gibt, wie z.B. Content-Occlusion und Klickverlagerung, können Sie die Schaltfläche erneut anklicken, um den Standardmodus wiederherzustellen.</string>
   <string name="enter_special_mode_title">Starten Sie die App neu und erweitern Sie den Anzeigebereich</string>
   <string name="exit_special_mode_message">Nach dem Neustart der App wird der App-Anzeigebereich wieder in den Standardmodus zurückgesetzt</string>
@@ -714,11 +712,11 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="force_hw_ui">GPU-Rendering erzwingen</string>
   <string name="force_hw_ui_summary">GPU-Rendering für 2D erzwingen</string>
   <string name="force_msaa">4x MSAA erzwingen</string>
-  <string name="force_msaa_summary">4x MSAA in OpenGL ES 2.0 Apps</string>
-  <string name="force_resizable_activities">Aktivitäten erzwingen, um veränderbar zu sein</string>
-  <string name="force_resizable_activities_summary">Alle Aktivitäten unabhängig von eindeutigen Werten veränderbar für Multi-Fenster machen.</string>
-  <string name="force_rtl_layout_all_locales">RTL-Layout Richtung erzwingen</string>
-  <string name="force_rtl_layout_all_locales_summary">Screenlayout-Richtung zu RTL für alle Regionen erzwingen</string>
+  <string name="force_msaa_summary">4x MSAA in OpenGL ES 2.0-Apps einschalten</string>
+  <string name="force_resizable_activities">Größenänderung von Aktivitäten erzwingen</string>
+  <string name="force_resizable_activities_summary">Größenänderung von Aktivitäten für Multifenster unabhängig von vorgeschriebenen Werten erzwingen</string>
+  <string name="force_rtl_layout_all_locales">RTL-Layout erzwingen</string>
+  <string name="force_rtl_layout_all_locales_summary">RTL-Bildschirmlayout für alle Sprachen erzwingen</string>
   <string name="forced_resizable_secondary_display">App funktioniert möglicherweise nicht auf einem sekundären Display</string>
   <string name="forget_password_string">Passwort vergessen</string>
   <string name="fs_gesture_back_home_summary">Schnell von unten wischen</string>
@@ -756,7 +754,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="gxzw_try_more_again">Nochmal versuchen</string>
   <string name="gxzw_use_password">Verwenden Sie Ihr Passwort zum Entsperren</string>
   <string name="hdcp_checking_dialog_title">HDCP-Prüfverhalten festlegen</string>
-  <string name="hdcp_checking_title">HDCP prüfen</string>
+  <string name="hdcp_checking_title">HDCP-Prüfung</string>
   <string name="help_feedback_label">Hilfe &amp; Feedback</string>
   <string name="hidden_notifications_cancel">Nein, danke</string>
   <string name="hidden_notifications_setup">Einrichten</string>
@@ -765,7 +763,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="high_temp_dialog_message">Ihr Telefon wird automatisch versuchen, abzukühlen. Sie können Ihr Telefon immer noch benutzen, aber es kann langsamer laufen.\n\nSobald Ihr Telefon abgekühlt ist, läuft es normal.</string>
   <string name="high_temp_notif_message">Einige Funktionen sind eingeschränkt, während das Telefon abkühlt</string>
   <string name="high_temp_title">Telefon wird warm</string>
-  <string name="home">Einstellungen Startbildschirm</string>
+  <string name="home">Einstellungen Startseite</string>
   <string name="how_to_back_home">Wie kehren Sie zum Startbildschirm zurück?</string>
   <string name="how_to_switch_recents">Wie wechseln Sie zu den zuletzt geöffneten Apps?</string>
   <string name="how_to_use_drawer">Wie man die Wischfunktion der App benutzt</string>
@@ -779,8 +777,8 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="ims_reg_status_not_registered">Nicht registriert</string>
   <string name="ims_reg_status_registered">Registriert</string>
   <string name="ims_reg_title">IMS Registrierungsstatus</string>
-  <string name="inactive_app_active_summary">Aktiv. Tippen, um umzuschalten.</string>
-  <string name="inactive_app_inactive_summary">Inaktiv. Tippen, um umzuschalten.</string>
+  <string name="inactive_app_active_summary">Aktiv, tippen zum Umschalten</string>
+  <string name="inactive_app_inactive_summary">Inaktiv, tippen zum Umschalten</string>
   <string name="inactive_apps_title">Standby-Apps</string>
   <string name="incorrect_pincode">Falscher PIN-Code</string>
   <string name="incorrect_pukcode">Falscher PUK-Code</string>
@@ -964,8 +962,8 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="local_backup_password_summary_none">Desktop-Sicherungen sind derzeit nicht geschützt</string>
   <string name="local_backup_password_title">Desktop-Sicherung Passwort</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Neues Passwort und Bestätigung stimmen nicht überein</string>
-  <string name="local_backup_password_toast_success">Neues Sicherungspasswort wurde gesetzt</string>
-  <string name="local_backup_password_toast_validation_failure">Fehler beim Festlegen des Passwortes</string>
+  <string name="local_backup_password_toast_success">Neues Sicherungspasswort festgelegt</string>
+  <string name="local_backup_password_toast_validation_failure">Fehler beim Erstellen des Sicherungspassworts</string>
   <string name="lock_screen_date">EEEE, d. MMMM</string>
   <string name="lock_screen_date_12">EEEE, d. MMMM</string>
   <string name="lock_screen_carrier_airplane_mode_on">Flugmodus</string>
@@ -1039,9 +1037,9 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="mobile_data">Mobile Daten</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Mobile Datenverbindung immer aktiv halten, auch wenn WLAN aktiv ist (für schnelle Netzwerkumschaltung).</string>
-  <string name="mock_location_app">App für vorgetäuschte Standorte auswählen</string>
-  <string name="mock_location_app_not_set">Keine App für vorgetäuschte Standorte ausgewählt</string>
-  <string name="mock_location_app_set">App für vorgetäuschte Orte: %1$s</string>
+  <string name="mock_location_app">App für falsche Standorte auswählen</string>
+  <string name="mock_location_app_not_set">Keine App für falsche Standorte ausgewählt</string>
+  <string name="mock_location_app_set">App für falsche Standorte: %1$s</string>
   <string name="monitoring_button_view_policies">Richtlinien anzeigen</string>
   <string name="monitoring_description_app">Sie sind mit %1$s verbunden, wobei Ihre Netzwerkaktivitäten überwacht werden können, einschließlich E-Mails, Apps und Webseiten.</string>
   <string name="monitoring_description_app_personal">Sie sind mit %1$s verbunden, wobei Ihre persönlichen Netzwerkaktivitäten überwacht werden können, einschließlich E-Mails, Apps und Webseiten.</string>
@@ -1184,7 +1182,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="please_slide_agian">Bitte weiter schieben</string>
   <string name="pointer_location">Zeigerposition</string>
   <string name="pointer_location_summary">Bildschirm-Overlay mit aktuellen Touch-Daten</string>
-  <string name="power_charging_duration">%1$s - %2$s bis es voll</string>
+  <string name="power_charging_duration">%1$s - %2$s bis voll</string>
   <string name="power_charging_duration_ac">%1$s - %2$s bis voll mit Ladegerät</string>
   <string name="power_charging_duration_usb">%1$s - %2$s voll über USB</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s voll kabellos</string>
@@ -1407,10 +1405,10 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="screen_pinning_title">Bildschirm ist angepinnt</string>
   <string name="screen_zoom_summary_custom">Benutzerdefiniert (%d)</string>
   <string name="screen_zoom_summary_default">Standard</string>
-  <string name="screen_zoom_summary_extremely_large">Größte</string>
+  <string name="screen_zoom_summary_extremely_large">Extrem groß</string>
   <string name="screen_zoom_summary_large">Groß</string>
   <string name="screen_zoom_summary_small">Klein</string>
-  <string name="screen_zoom_summary_very_large">Größer</string>
+  <string name="screen_zoom_summary_very_large">Sehr groß</string>
   <string name="screenshot_delete">Löschen</string>
   <string name="screenshot_delete_dlg_msg">Screenshot wirklich löschen?</string>
   <string name="screenshot_delete_dlg_title">Löschen</string>
@@ -1435,20 +1433,20 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="search_menu_title">Suchen</string>
   <string name="select_application">Apps auswählen</string>
   <string name="select_logd_level">Protokollebene auswählen</string>
-  <string name="select_logd_size_dialog_title">Loggergrößen pro Protokollpuffer auswählen</string>
-  <string name="select_logd_size_title">Logger-Puffergrößen</string>
-  <string name="select_logpersist_dialog_title">Log-Puffer wählen, der dauerhaft auf dem Gerät gespeichert werden soll</string>
+  <string name="select_logd_size_dialog_title">Loggergrößen pro Logpuffer auswählen</string>
+  <string name="select_logd_size_title">Logpuffergrößen</string>
+  <string name="select_logpersist_dialog_title">Logpuffer wählen, der dauerhaft auf dem Gerät gespeichert werden soll</string>
   <string name="select_logpersist_title">Protokolldaten dauerhaft auf dem Gerät speichern</string>
   <string name="select_private_dns_configuration_dialog_title">Private DNS Modus wählen</string>
-  <string name="select_usb_configuration_dialog_title">USB-Konfiguration auswählen</string>
-  <string name="select_usb_configuration_title">USB-Konfiguration auswählen</string>
+  <string name="select_usb_configuration_dialog_title">USB-Konfiguration wählen</string>
+  <string name="select_usb_configuration_title">USB-Konfiguration wählen</string>
   <string name="select_webview_provider_dialog_title">WebView-Implementierung festsetzen</string>
   <string name="select_webview_provider_title">WebView-Implementierung</string>
-  <string name="select_webview_provider_toast_text">Diese Wahl ist nicht mehr gültig. Versuchen Sie es noch einmal.</string>
+  <string name="select_webview_provider_toast_text">Diese Auswahl ist nicht mehr gültig. Erneut versuchen.</string>
   <string name="settings_custom_notification">Benachrichtigungen verwalten</string>
   <string name="settings_toggle_position">Anordnung</string>
-  <string name="settings_toggle_position_divider_list">Schalter oberhalb der Leiste sind aktiv</string>
-  <string name="settings_toggle_position_divider_page">%1$d Schalter oberhalb der Leiste sind aktiv</string>
+  <string name="settings_toggle_position_divider_list">Schalter über der Leiste sind aktiv</string>
+  <string name="settings_toggle_position_divider_page">%1$d Schalter über der Leiste sind aktiv</string>
   <string name="settings_toggle_position_reset">Zurücksetzen</string>
   <string name="share">Teilen</string>
   <string name="show_all_anrs">Alle ANRs anzeigen</string>
@@ -1465,12 +1463,12 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="show_hw_screen_updates_summary">Darstellung in den Fenstern beim Zeichnen mit der GPU blinkt</string>
   <string name="show_non_rect_clip">Nicht rechteckige Clipoperationen debuggen</string>
   <string name="show_notification_channel_warnings">Benachrichtigungskanalwarnungen anzeigen</string>
-  <string name="show_notification_channel_warnings_summary">Zeigt eine Warnung auf dem Bildschirm an, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
-  <string name="show_screen_updates">Oberflächen-Updates anzeigen</string>
-  <string name="show_screen_updates_summary">Volle Fensterfläche beim Aktualisieren blinkt</string>
-  <string name="show_silently">Benachrichtigungen im Hintergrund anzeigen</string>
+  <string name="show_notification_channel_warnings_summary">Bildschirmwarnung anzeigen, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
+  <string name="show_screen_updates">Bildschirmupdates anzeigen</string>
+  <string name="show_screen_updates_summary">Blitzen in der gesamten Fensteroberfläche bei Aktualisierung</string>
+  <string name="show_silently">Benachrichtigungen lautlos anzeigen</string>
   <string name="show_touches">Berührungen anzeigen</string>
-  <string name="show_touches_summary">Visuelles Feedback bei Berührungen anzeigen</string>
+  <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
   <string name="simulate_color_space">Farbraum simulieren</string>
   <string name="snooze_option_15_min">15 Minuten</string>
   <string name="snooze_option_1_hour">1 Stunde</string>
@@ -1616,7 +1614,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="thermal_shutdown_message">Ihr Telefon läuft jetzt normal</string>
   <string name="thermal_shutdown_title">Telefon ausgeschaltet wegen Hitze</string>
   <string name="time_unit_just_now">Gerade eben</string>
-  <string name="title_convert_fbe">In dateibasierte Verschlüsselung umwandeln</string>
+  <string name="title_convert_fbe">In dateibasierte Verschlüsselung konvertieren</string>
   <string name="title_usb_accessory">USB-Zubehör</string>
   <string name="toast_rotation_locked">Bildschirm ist jetzt im Landscape Format fixiert.</string>
   <string name="torch_activity_hint">"Halten Sie das [Symbol] im Sperrbildschirm gedrückt, um die Taschenlampe zu aktivieren"</string>
@@ -1779,10 +1777,10 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="wapi_cert_manage_summary">WAPI-Zertifikat hizufügen oder löschen</string>
   <string name="wapi_cert_manage_title">WAPI-Zertifikatsverwaltung</string>
   <string name="wapi_cert_roaming">Verbinden…</string>
-  <string name="wapi_cert_select">WAPI-Zertifikate</string>
+  <string name="wapi_cert_select">WAPI-Zertifikat</string>
   <string name="wapi_no">Nein</string>
   <string name="wapi_no_vaild_cert">Erforderliche Zertifikate nicht vorhanden, jetzt installieren?</string>
-  <string name="wapi_password_empty">Bitte Passwort eingeben</string>
+  <string name="wapi_password_empty">Passwort eingeben</string>
   <string name="wapi_password_hex_format_add">Eine gerade Anzahl von hexadezimalen Zeichen muss verwendet werden</string>
   <string name="wapi_password_hex_format_invalid">Ungültige hexadezimale Zeichen</string>
   <string name="wapi_password_hex_length_invalid">Anzahl der hexadezimalen Zeichen muss gerade Zahl sein</string>
@@ -1804,7 +1802,7 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="wifi_auto_sel_wapi_cert">Automatisch wählen</string>
   <string name="wifi_cant_connect">Verbindung nicht möglich</string>
   <string name="wifi_cant_connect_to_ap">"Verbindung mit '%1$s' nicht möglich"</string>
-  <string name="wifi_check_password_try_again">Passwort prüfen und erenut versuchen</string>
+  <string name="wifi_check_password_try_again">Passwort prüfen und erneut versuchen</string>
   <string name="wifi_connected_mac_randomization">MAC-Randomisierung verbunden</string>
   <string name="wifi_connected_mac_randomization_summary">Zufällige MAC-Adresse bei der Verbindung zu WLAN</string>
   <string name="wifi_connected_no_internet">Verbunden, kein Internet</string>
@@ -1812,11 +1810,11 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="wifi_coverage_extend_summary">WLAN-Abdeckung mit Hotspot erweitern</string>
   <string name="wifi_disabled_by_recommendation_provider">Nicht verbunden wegen schlechter Netzwerkqualität</string>
   <string name="wifi_disabled_generic">Deaktiviert</string>
-  <string name="wifi_disabled_network_failure">IP-Konfiguration fehlgeschlagen</string>
-  <string name="wifi_disabled_password_failure">Autenfizierungsproblem</string>
-  <string name="wifi_disabled_wifi_failure">WLAN Verbindung fehlgeschlagen</string>
-  <string name="wifi_display_certification">Wireless-Display-Zertifizierung</string>
-  <string name="wifi_display_certification_summary">Optionen für die drahtlose Display-Zertifizierung anzeigen</string>
+  <string name="wifi_disabled_network_failure">IP-Konfigurationsfehler</string>
+  <string name="wifi_disabled_password_failure">Authentifizierungsproblem</string>
+  <string name="wifi_disabled_wifi_failure">WLAN-Verbindungsfehler</string>
+  <string name="wifi_display_certification">Drahtlos-Display-Zertifizierung</string>
+  <string name="wifi_display_certification_summary">Optionen für Drahtlos-Display-Zertifizierung anzeigen</string>
   <string name="wifi_fail_to_scan">Netzwerksuche nicht möglich</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI-Zertifikat</string>
   <string name="wifi_is_off">WLAN ist aus</string>
@@ -1837,14 +1835,14 @@ Diese Funktion ist in Alpha-Stadium und funktioniert evtl. nicht richtig.
   <string name="wifi_verbose_logging_summary">WLAN-Logging-Level erhöhen, Anzeige per SSID RSSI im WLAN-Picker</string>
   <string name="wifi_wapi_as_certificate">AS-Zertifikat</string>
   <string name="wifi_wapi_cert_mode_hand_text">Manuell wählen</string>
-  <string name="wifi_wapi_certification_dont_exist">Das von Ihnen eingegebene Netzwerkkennwort ist falsch.</string>
+  <string name="wifi_wapi_certification_dont_exist">Eingegebenes Netzwerkpasswort ist falsch</string>
   <string name="wifi_wapi_fail_to_auth">"WAPI-Authentifizierung fehlgeschlagen.
-Bitte die Gültigkeit der Zertifikate prüfen."</string>
+Bitte Gültigkeit der Zertifikate prüfen."</string>
   <string name="wifi_wapi_fail_to_init">"WAPI-Zertifikate können nicht geöffnet werden.
-Speicherung von Anmeldeinformationen ist evtl. nicht möglich"</string>
+Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifi_wapi_psk_type">Passworttyp</string>
   <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
-  <string name="window_animation_scale_title">Fensteranimation skalieren</string>
+  <string name="window_animation_scale_title">Fensteranimationskala</string>
   <string name="wireless_change_to_ac_charging">Auf kabelgebundenes Laden umgeschalteten</string>
   <string name="wireless_charge_current">Aufladen</string>
   <string name="wireless_charge_dialog_cancel">"Ich hab's"</string>
