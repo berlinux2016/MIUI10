@@ -196,6 +196,8 @@
   <string name="extended_storage_file_can_not_open">Datei kann nicht geöffnet werden. Kopieren Sie sie auf den internen Speicher.</string>
   <string name="extract">Entpacken</string>
   <string name="fail_to_create_folder_unknown">Ordner kann nicht erstellt werden</string>
+  <string name="failed_not_access_sd_card">Erst Zugriff auf SD-Karte erlauben</string>
+  <string name="failed_obtain_permissions">Berechtigung nicht erhalten</string>
   <string name="favorite_photo">Fotos</string>
   <string name="favorite_ringtone">Klingeltöne</string>
   <string name="female">Weiblich</string>
@@ -364,6 +366,7 @@
   <string name="no_wifi">Keine WLAN-Verbindung gefunden</string>
   <string name="no_wifi_hint">Keine Verbindung</string>
   <string name="not_installed_documentsui">DocumentsUI ist nicht installiert</string>
+  <string name="not_support_documentui">DocumentUI wird von diesem Gerät nicht unterstützt</string>
   <string name="notif_server_starting">Starte FTP-Server…</string>
   <string name="notif_title">FTP-Server läuft</string>
   <string name="notification_dialog_confirm">OK</string>
@@ -429,8 +432,8 @@
   <string name="path_hot_video">Beliebte Kurzfilme gratis ansehen</string>
   <string name="path_kuai_chuan">Peer-to-peer Datenübertragung</string>
   <string name="path_recent_file">Verwalten Sie Ihre Dateien</string>
-  <string name="permission_denial">Konnte nicht auf Dateien zugreifen. Ermöglichen Sie dem Dateimanager in den Einstellungen den Zugriff auf Dateien.</string>
-  <string name="permission_required">Konnte nicht auf Dateien zugreifen. Ermöglichen Sie dem Dateimanager in den Einstellungen den Zugriff auf Dateien.</string>
+  <string name="permission_denial">Dateizugriff nicht möglich. Erlauben Sie Dateimanager in den Einstellungen den Zugriff auf Dateien.</string>
+  <string name="permission_required">Dateizugriff nicht möglich. Erlauben Sie Dateimanager in den Einstellungen den Zugriff auf Dateien.</string>
   <string name="phone">Interner Speicher</string>
   <string name="phone_bind_skip">Überspringen</string>
   <string name="phone_bind_tip">Telefonnummer hinzufügen, um an Ranglisten teilzunehmen und Preise zu erhalten</string>
@@ -496,6 +499,8 @@
   <string name="report_politics">Politisch nicht korrekt</string>
   <string name="report_porn">Porno</string>
   <string name="report_violence">Gewalt</string>
+  <string name="request_document_permission">Um Dateien auf der SD-Karte zu verwalten, geben Sie Dateimanager die erforderlichen Berechtigungen.</string>
+  <string name="request_document_permission_title">Berechtigungen erforderlich</string>
   <string name="request_timeout">Netzwerktimeout</string>
   <string name="reset_password">Passwort ändern</string>
   <string name="restoring">Wiederherstellen…</string>
