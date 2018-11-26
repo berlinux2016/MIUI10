@@ -157,6 +157,10 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
     <item quantity="other">%d Spiele hinzugefügt</item>
     <item quantity="one">%d Spiel hinzugefügt</item>
   </plurals>
+  <plurals name="lockpattern_recording_incorrect_too_short">
+   <item quantity="other">Verbinde mindestens %d Punkte</item>
+   <item quantity="one">Verbinde mindestens %d Punkt</item>
+  </plurals>
   <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
     <item quantity="other">Warten Sie %d Sekunden und versuchen Sie es erneut.</item>
     <item quantity="one">Warten Sie %d Sekunde und versuchen Sie es erneut.</item>
@@ -185,6 +189,10 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
     <item quantity="other">%d Apps</item>
     <item quantity="one">%d App</item>
   </plurals>
+  <plurals name="mixed_recording_incorrect_too_short">
+   <item quantity="other">Mindestens %d Zeichen eingeben</item>
+   <item quantity="one">Mindestens %d Zeichen eingeben</item>
+  </plurals>
   <plurals name="net_booster_expire_notification_tip">
     <item quantity="other">%d Tage verbleibend, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Erneuern Sie die Sitzung, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</item>
     <item quantity="one">%d Tag verbleibend, bevor die Netzwerkgeschwindigkeit wieder gesenkt wird. Erneuern Sie die Sitzung, um Netzwerkgeschwindigkeitsprobleme zu vermeiden.</item>
@@ -212,6 +220,10 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
   <plurals name="number_masked_text">
      <item quantity="other">%d Benachrichtigungen wurden ausgeblendet</item>
      <item quantity="one">%d Benachrichtigung wurde ausgeblendet</item>
+  </plurals>
+  <plurals name="numeric_recording_incorrect_too_short">
+    <item quantity="other">Mindestens %d Ziffern eingeben</item>
+    <item quantity="one">Mindestens %d Ziffer eingeben</item>
   </plurals>
   <plurals name="number_to_lock">
     <item quantity="other">%d Apps sind nicht gesperrt</item>
