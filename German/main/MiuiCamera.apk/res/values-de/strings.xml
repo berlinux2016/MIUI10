@@ -23,6 +23,8 @@
   <string name="accessibility_camera_picker">Front- und Rückkamera wechseln</string>
   <string name="accessibility_camera_picker_finish">Kameras erfolgreich gewechselt</string>
   <string name="accessibility_camera_shutter_finish">Erfolgreich ein Foto gemacht</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_off">Ganzkörpermodus aus</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_on">Ganzkörpermodus ein</string>
   <string name="accessibility_close_more_ptions">Mehr Optionen deaktivieren</string>
   <string name="accessibility_closed">Ausgeschaltet</string>
   <string name="accessibility_effect_mode_button">Effekttaste</string>
@@ -69,12 +71,15 @@
   <string name="accessibility_skin_beautify_closed">Haut verschönern ist aus</string>
   <string name="accessibility_skin_beautify_opened">Haut verschönern ist an</string>
   <string name="accessibility_stereo_button">Dualkameramodus</string>
+  <string name="accessibility_ultra_wide_off">Super Weitwinkel aus</string>
+  <string name="accessibility_ultra_wide_on">Super Weitwinkel ein</string>
   <string name="accessibility_video_capture_button">Videoaufnahmetaste</string>
   <string name="accessibility_video_module_picker">Videomodusauswahl</string>
   <string name="accessibility_video_pause_button">Videopausetaste</string>
   <string name="accessibility_zoom_button">Zoommodus</string>
   <string name="accessibility_zoom_control">Zoomsteuerung</string>
   <string name="ai_scene_mode_use_hint_text">Die AI-Kamera erkennt Szenen automatisch und optimiert Ihre Fotos anhand dieser Informationen.</string>
+  <string name="ai_scene_top_tip">Mondmodus</string
   <string name="albums">Alben</string>
   <string name="aperture">Blende</string>
   <string name="app_details">Appdetails:</string>
@@ -91,6 +96,8 @@
   <string name="beauty_fragment_tab_name_3d_remodeling">Umgestalten</string>
   <string name="beauty_fragment_tab_name_beauty">Verschönern</string>
   <string name="beauty_fragment_tab_name_makeup">Fortgeschrittene</string>
+  <string name="beauty_tab_name_live_beauty">Schönheit</string>
+  <string name="beauty_tab_name_live_filter">Filter</strin
   <string name="beauty_mode_reset_toast">Remodellierungseffekte entfernt</string>
   <string name="beauty_reset">Zurücksetzen</string>
   <string name="bg_replacement_message">"Stellen Sie Ihr Gerät auf eine stabile Oberfläche
@@ -164,6 +171,12 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="contact_web">Web</string>
   <string name="copy_text">Text kopieren</string>
   <string name="copy_text_success">Text kopiert</string>
+  <string name="custom_watermark_contains_senstive_words">Bitte ändern Sie den sensiblen Text %1$s</string>
+  <string name="custom_watermark_tips">Der obige Text ist die zweite Zeile des Wasserzeichens. Bitte beschränken Sie diese auf 15 chinesische Zeichen oder 15 englische Buchstaben.</string>
+  <string name="custom_watermark_too_many_words">Du hast die Zeichengrenze überschritten.</string>
+  <string name="custom_watermark_words">Benutzerdefinierte Wasserzeichenwörter</string>
+  <string name="custom_watermark_words_input_hint">Wörter eingeben</string>
+  <string name="custom_watermark_words_save_success">Speichern erfogreich</string>
   <string name="crop_saved">Ausgeschnittenes Bild gespeichert nach %s</string>
   <string name="delete">Löschen</string>
   <string name="deleted">Gelöscht</string>
@@ -180,6 +193,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="dual_camera_lowlight_toast">Schwaches Licht beeinträchtigt eventuell die Dualkameraeffekte</string>
   <string name="dual_camera_too_close_toast">Zu nah am Objekt für Dualkameraeffekte</string>
   <string name="dual_camera_use_hint">Dualkameramodus kann Verzerrungseffekte verursachen, Abstand zwischen Kamera und Objekt sollte weniger als zwei Meter betragen</string>
+  <string name="dualcamera_watermark_default">AI DUAL KAMERA</string>
   <string name="duration">Dauer</string>
   <string name="edit">Bearbeiten</string>
   <string name="edit_blusher">Erröten</string>
@@ -599,6 +613,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_touchafaec_entry_on">An</string>
   <string name="pref_camera_touchafaec_title">AF/AEC berühren</string>
   <string name="pref_camera_ubifocus_title">Neufokussieren</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Ultra Weitwinkel-Verzerrungskorrektur</str
   <string name="pref_camera_video_bokeh_off">Hintergrundschärfe aus</string>
   <string name="pref_camera_video_bokeh_on">Hintergrundschärfe an</string>
   <string name="pref_camera_video_duration_entry_10">10 Minuten</string>
@@ -660,6 +675,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_skin_beautify_eye_title">Augen</string>
   <string name="pref_skin_beautify_slim_title">Schmal</string>
   <string name="pref_skin_beautify_smooth_title">Weich</string>
+  <string name="pref_userdefine_watermark_title">Benutzerdefiniertes Wasserzeichen</string>
   <string name="pref_video_captrue_ability_title">Fotos während der Aufnahme machen (mehr Akkuverbrauch!)</string>
   <string name="pref_video_encoder_entry_h264">H.264 Hohe Kompatibilität</string>
   <string name="pref_video_encoder_entry_h265">H.265 Hohe Leistung</string>
@@ -785,6 +801,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="ubi_focus_capture_fail">Foto konnte nicht gemacht werden</string>
   <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Objekte enthalten</string>
   <string name="undo">Zurück</string>
+  <string name="ultra_wide_bokeh_close_tip">Ganzkörpermodus ist aus</string>
+  <string name="ultra_wide_bokeh_open_tip">Ganzkörpermodus ist an</string>
   <string name="ultra_wide_close_tip">Superweitwinkelmodus ist aus</string>
   <string name="ultra_wide_mode">Superweitwinkel</string>
   <string name="ultra_wide_open_tip">Superweitwinkelmodus</string>
