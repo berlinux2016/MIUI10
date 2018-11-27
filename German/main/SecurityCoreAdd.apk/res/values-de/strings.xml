@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_ent_mode">Über den Enterprise-Modus</string>
   <string name="Active">Aktiv</string>
+  <string name="about_ent_mode">Über den Enterprise-Modus</string>
   <string name="activate_ent_mode">Enterprise-Modus aktivieren</string>
   <string name="add_finger_print">Fingerabdruck hinzufügen</string>
   <string name="agree">Einverstanden</string>
@@ -14,6 +14,8 @@
   <string name="app_name">Sicherheitskernkomponenten</string>
   <string name="back">Zurück</string>
   <string name="bind_device">Geräte hinzufügen</string>
+  <string name="button_text_next_step">Nächster</string>
+  <string name="button_text_next_step_timer">Nächster Schritt (%d)</string>
   <string name="can_not_delete_when_calling">Profil kann während des Gesprächs nicht gelöscht werden</string>
   <string name="can_not_switch_when_calling">Während des Gesprächs kann nicht zwischen den Profilen gewechselt werden</string>
   <string name="can_not_switch_when_green_kid_active">Umschalten auf Zweitprofil wird durch Kindersicherung eingeschränkt</string>
@@ -57,6 +59,9 @@
   <string name="create_space_loading">Zweitprofil wird erstellt…</string>
   <string name="create_work_space">Arbeitsbereich erstellen</string>
   <string name="creating_app_icon">Verknüpfung wird erstellt…</string>
+  <string name="cta_declaration_agree_and_continue">Zustimmen</string>
+  <string name="cta_declaration_message_format" formatted="false">Sie müssen unsere &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; lesen und ihnen zustimmen, bevor Sie den Enterprise-Modus nutzen. Ihr Gerät muss eine Internetverbindung herstellen, um den Enterprise-Modus zu aktivieren. Zustimmen?</string>
+  <string name="cta_declaration_title">Allgemeinen Geschäftsbedingungen</string>
   <string name="current_space">Aktuelles Profil</string>
   <string name="dataSafe">Ein Zweitprofil ist wie ein zweites Telefon zu haben</string>
   <string name="declare_dialog_title">Über geklonte Apps</string>
@@ -68,7 +73,11 @@
   <string name="delete_phone_fingerprint">Zweitprofilfingerabdruck löschen</string>
   <string name="delete_src_file">Dateien löschen</string>
   <string name="delete_src_photo">Fotos löschen</string>
+  <string name="dialog_message_service_error">Widerruf der Berechtigung und Werksreset nicht möglich. Erneut versuchen.</string>
+  <string name="dialog_tip_need_network">Zum Widerruf der Berechtigung muss sich Ihr Gerät mit dem Internet verbinden.</string>
   <string name="dialog_title">Achtung</string>
+  <string name="dialog_title_service_error">Serverfehler</string>
+  <string name="dialog_undo_negative">Nicht widerrufen</string>
   <string name="dir_switch_out_all_photos">Zweitprofilgalerie</string>
   <string name="disable">Ausschalten</string>
   <string name="disagree">Nicht einverstanden</string>
@@ -189,8 +198,12 @@ Sie können Sie auch separat installieren."</string>
   <string name="loading_space">Einen Moment…</string>
   <string name="loading_success">Erfolgreich geladen</string>
   <string name="lock_screen_open_second_space">Zweitprofil vom Sperrbildschirm aus erreichen</string>
+  <string name="master_clear_apply_step_1">Widerruf der Berechtigung erfordert einen Werksreset auf Ihrem Gerät. Alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, werden dauerhaft gelöscht. Sichern Sie alle wichtigen Elemente auf Ihrem Computer, bevor Sie die Berechtigung widerrufen.</string>
+  <string name="master_clear_apply_step_2">Stellen Sie sicher, dass alle wichtigen Elemente auf Ihrem Computer gesichert sind. Nach dem Tippen auf \"OK\" wird ein Werksreset auf Ihrem Gerät durchgeführt, wobei alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, dauerhaft gelöscht werden.</string>
+  <string name="master_clear_apply_title">Attention</string>
   <string name="menu_item_about_privacy_title">Datenschutzerklärung</string>
   <string name="messageData">Nachrichten</string>
+  <string name="more_settings">Mehr</string>
   <string name="msg_switch_file">Dateien nach Verschieben im Hauptprofil löschen?</string>
   <string name="msg_switch_file_second">Dateien im Zweitprofil löschen, nachdem diese verschoben wurden?</string>
   <string name="msg_switch_photo">Fotos nach Verschieben im Hauptprofil löschen?</string>
@@ -408,6 +421,11 @@ Wenn Sie das Update nicht durchführen, funktionieren geklonte Apps möglicherwe
   <string name="transferMessage">Nachrichten werden vom Zweitprofil ins Hauptprofil verschoben</string>
   <string name="this_function_can_not_use_in_second_space">Diese Funktion kann nur im Hauptprofil verwendet werden</string>
   <string name="tryNow">Jetzt ausprobieren</string>
+  <string name="undo_activated_dialog_message">Widerruf der Berechtigung wird den Enterprise-Modus deaktivieren und ein Werksreset auf Ihrem Gerät durchführen. Alle damit verbundenen Funktionen sind nicht mehr verfügbar. Außerdem wird Xiaomi keine für den Enterprise-Modus erforderlichen Informationen mehr sammeln (IMEI, Geräte-ID, Systemversion, Region, etc.). Wir möchten Sie daran erinnern, dass Xiaomi die gesammelten Daten nicht für den Enterprise-Modus verwaltet. Wir werden unser Bestes tun, alle beteiligten Parteien zu informieren, empfehlen Ihnen aber, sich an die Vorgesetzten Ihres Unternehmens zu wenden, um diesen Widerruf zu genehmigen. Berechtigung widerrufen und einen Werksreset durchführen?</string>
+  <string name="undo_activated_dialog_ok">Widerrufen</string>
+  <string name="undo_grant_dialog_message">Xiaomi wird keine für diese Funktion erforderlichen Informationen mehr sammeln (IMEI, Geräte-ID, Systemversion, Region, etc.), wenn Sie die Berechtigung widerrufen. Jetzt widerrufen?</string>
+  <string name="undo_privacy_menu">Berechtigung widerrufen</string>
+  <string name="undo_success">Erfolgreich widerrufen</string>
   <string name="use_xiaoai_open">Mit Sprachassistent aufwecken</string>
   <string name="wating">Einen Moment…</string>
   <string name="weibo_send">An Weibo senden</string>
