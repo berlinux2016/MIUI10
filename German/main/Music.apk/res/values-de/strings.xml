@@ -185,6 +185,7 @@
   <string name="dialog_media_not_found">Download kann nicht beendet werden, Medium nicht verfügbar.</string>
   <string name="dialog_queued_body">Diese Datei wurde in die Warteschlange eingereiht</string>
   <string name="dialog_renew_failure">Sorry, Vorgang fehlgeschlagen</string>
+  <string name="dialog_renew_free_end">Ihre kostenlose Testversion ist beendet. Hungama PRO abonnieren?</string>
   <string name="dialog_renew_positive_text">JA, ICH WILL WIE EIN PROFI ROCKEN</string>
   <string name="dialog_renew_success">Danke für Ihre Bestätigung</string>
   <string name="dialog_song_sort_type">Titel sortieren</string>
@@ -546,6 +547,12 @@
   <string name="nowplaying_circle_style_wave">Welle</string>
   <string name="nowplaying_dialog_title_delete_tracks">Aus der Wiedergabeliste entfernen?</string>
   <string name="nowplaying_menu_item_delete">Löschen</string>
+  <string name="online_apk_download_error_no_enough_space">Download wegen zu wenig Speicher nicht möglich</string>
+  <string name="online_apk_downloading">Herunterladen…%d%%</string>
+  <string name="online_apk_install_alert_message">Sie müssen Yandex.Music Plugin herunterladen. Jetzt herunterladen?</string>
+  <string name="online_apk_install_alert_note">Dieser Service wird von Yandex.Music angeboten.</string>
+  <string name="online_apk_install_error_no_enough_space">Wegen zu wenig Speicher konnte die Installation nicht durchgeführt werden.</string>
+  <string name="online_apk_install_error_with_reason">Installation nicht möglich (Fehler %d)</string>
   <string name="online_list_delete_message">Alle heruntergeladenen Titel in dieser Wiedergabeliste werden vom internen Speicher gelöscht.</string>
   <string name="online_recommend">Wiedergabeliste</string>
   <string name="online_service_open_tip">Online-Musikdienste sind eingeschaltet</string>
@@ -712,6 +719,8 @@ Glücklich sein."</string>
   <string name="shuffle_on_notif">Zufallswiedergabe ist an</string>
   <string name="signup_type_silent_default">Still</string>
   <string name="signup_type_user_default">LoginSDK Verbraucher</string>
+  <string name="similar_albums">Ähnliche Alben</string>
+  <string name="similar_playlists">Ähnliche Playlisten</string>
   <string name="similar_songs">Ähnliche Titel</string>
   <string name="similar_videos">Ähnliche Videos</string>
   <string name="sleep_mode">Schlummerfunktion</string>
@@ -810,4 +819,11 @@ Glücklich sein."</string>
   <string name="vip_tomorrow_renew_message">Sie werden nicht mehr in hoher Audioqualität streamen können, aber einige Titel werden in Standardqualität verfügbar sein.</string>
   <string name="wifi_required_body" formatted="false">Mit WLAN verbinden, um diesen %s-Download abzuschließen.\n%s antippen, um den Download zu starten, sobald Sie mit WLAN verbunden sind.</string>
   <string name="wifi_required_title">Sie sollten sich mit WLAN verbinden, um diese Datei herunterzuladen.</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbinden mit Downloadmanager fehlgeschlagen, bitte prüfen Sie den Status des Downloadmanagers im Appmanagement.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Vorstellung der Version %1$s
+Größe: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Vorstellung der Version %1$s
+Größe Delta-Update: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s Update!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Speicher nicht verfügbar, bitte prüfen Sie die SD-Karte</string>
 </resources>
