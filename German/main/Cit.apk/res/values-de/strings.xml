@@ -667,8 +667,14 @@ Bitte stecken Sie das Ladegerät aus und umgedreht wieder ein."</string>
   <string name="sar_sensor_calibrate_fail">Kalibrierung SAR-Sensor fehlgeschlagen</string>
   <string name="sar_sensor_calibrate_success">Kalibrierung SAR-Sensor erfolgreich</string>
   <string name="sar_sensor_data_check_description">SAR-Sensordaten sammeln</string>
-  <string name="sar_sensor_data_check_summary">"Drehen Sie das Telefon, legen Sie es in die Halterung.
-Steuern Sie die Halterung in der Nähe und vom Telefon entfernt."</string>
+  <string name="sar_sensor_data_check_summary">"Halten Sie die Oberseite des Telefons mit einer Hand.
+Stellen Sie sicher, dass der tatsächliche Winkel etwa 45 Grad beträgt.
+Halten Sie die andere Hand vom Telefon fern.
+Sehen Sie sich den CS0-Wert an.
+Wenn der CS0-Wert kleiner als 500 und der CS2-Wert größer als 10000 ist,
+halten Sie die andere Hand dicht an die Unterseite des Telefons.
+Sehen Sie sich den CS0-Wert an.
+Wenn der CS0-Wert zwischen 3000 und 30000 liegt, ist die Bestanden-Taste markiert."</string>
   <string name="sar_sensor_test_description">SAR-Sensor kalibieren und Daten sammeln</string>
   <string name="sar_sensor_test_summary">"Drehen Sie das Telefon, legen Sie in die Halterung.
 Klicken Sie auf die Taste Kalibrierung starten.
