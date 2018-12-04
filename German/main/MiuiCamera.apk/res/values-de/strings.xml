@@ -24,6 +24,8 @@
   <string name="accessibility_camera_module_picker">Kameramodusauswahl</string>
   <string name="accessibility_camera_picker">Front- und Rückkamera wechseln</string>
   <string name="accessibility_camera_picker_finish">Kameras erfolgreich gewechselt</string>
+  <string name="accessibility_camera_record_start">Aufnahme starten</string>
+  <string name="accessibility_camera_record_stop">Aufnahme stoppen</string>
   <string name="accessibility_camera_shutter_finish">Erfolgreich ein Foto gemacht</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Ganzkörpermodus aus</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Ganzkörpermodus ein</string>
@@ -63,6 +65,7 @@
   <string name="accessibility_photo_style_button">Fotostyletaste</string>
   <string name="accessibility_portrait_button">Porträtmodus</string>
   <string name="accessibility_protrait">Porträt</string>
+  <string name="accessibility_record_button">Aufnahmetaste</string>
   <string name="accessibility_review_thumbnail">Neueste Fotos</string>
   <string name="accessibility_seek_bar_line">Suchleistenlinie</string>
   <string name="accessibility_selected">Ausgewählte Elemente</string>
@@ -73,14 +76,20 @@
   <string name="accessibility_skin_beautify_closed">Haut verschönern ist aus</string>
   <string name="accessibility_skin_beautify_opened">Haut verschönern ist an</string>
   <string name="accessibility_stereo_button">Dualkameramodus</string>
+  <string name="accessibility_ultra_pixel_photography_off">48 Millionen ultraklar, aus</string>
+  <string name="accessibility_ultra_pixel_photography_on">48 Millionen ultraklar, an</string>
   <string name="accessibility_ultra_wide_off">Superweitwinkel aus</string>
   <string name="accessibility_ultra_wide_on">Superweitwinkel ein</string>
+  <string name="accessibility_video_capture_button">Fototaste für die Videoaufzeichnung</string>
   <string name="accessibility_video_capture_button">Videoaufnahmetaste</string>
   <string name="accessibility_video_module_picker">Videomodusauswahl</string>
+  <string name="accessibility_video_pause_button">Aufnahmepause</string>
   <string name="accessibility_video_pause_button">Videopausetaste</string>
+  <string name="accessibility_video_resume_button">Aufnahme fortsetzen</string>
   <string name="accessibility_zoom_button">Zoommodus</string>
   <string name="accessibility_zoom_control">Zoomsteuerung</string>
   <string name="ai_scene_mode_use_hint_text">Die AI-Kamera erkennt Szenen automatisch und optimiert Ihre Fotos anhand dieser Informationen.</string>
+  <string name="ai_scene_top_moon_off">Nachtszenemodus</string>
   <string name="ai_scene_top_tip">Mondmodus</string>
   <string name="albums">Alben</string>
   <string name="aperture">Blende</string>
@@ -324,7 +333,7 @@ und erstellt dann eine Aufnahme, bei der jeder am besten aussieht"</string>
 Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="lens_dirty_detected_title_back">Hinteres Kameraobjektiv ist verschmutzt</string>
   <string name="lens_dirty_detected_title_front">Vorderes Kameraobjektiv ist verschmutzt</string>
-  <string name="lighting_hint_needed">Stellen Sie Ihr Objekt ins Rampenlicht</string>
+  <string name="lighting_hint_needed">Stellen Sie Ihren Gegenstand in den Mittelpunkt</string>
   <string name="lighting_hint_title">Studiobeleuchtung</string>
   <string name="lighting_hint_too_close">Kamera weiter weg bewegen</string>
   <string name="lighting_hint_too_far">Kamera näher ran bewegen</string>
@@ -337,6 +346,12 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="lighting_pattern_rainbow">Regenbogen</string>
   <string name="lighting_pattern_shutter">Jalousie</string>
   <string name="lighting_pattern_stage">Bühne</string>
+  <string name="live_speed_extreme_fast">Am schnellsten</string>
+  <string name="live_speed_extreme_slow">Am langsamsten</string>
+  <string name="live_speed_fast">Schnell</string>
+  <string name="live_speed_fragment_tab_name">Geschwindigkeit</string>
+  <string name="live_speed_normal">Normal</string>
+  <string name="live_speed_slow">Langsam</string>
   <string name="loading">Laden…</string>
   <string name="loading_video">Video laden…</string>
   <string name="location">Standort</string>
@@ -403,8 +418,8 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="portrait_india_effect_entry_young">Jung</string>
   <string name="portrait_mode_depth_effect_success_hint">Tiefeneffekt</string>
   <string name="portrait_mode_lowlight_hint">Mehr Licht erforderlich</string>
-  <string name="portrait_mode_too_close_hint">Motiv weiter weg platzieren</string>
-  <string name="portrait_mode_too_far_hint">Motiv innerhalb von 2 Metern platzieren</string>
+  <string name="portrait_mode_too_close_hint">Gegenstand weiter weg platzieren</string>
+  <string name="portrait_mode_too_far_hint">Gegenstand innerhalb von 2 Metern platzieren</string>
   <string name="portrait_mode_use_hint">"Im Porträtmodus wird Hintergrund unscharf dargestellt, sodass die Personen in den Vordergrund rücken"</string>
   <string name="portrait_mode_use_hint_for_bokeh">Versuchen Sie es mit dem Hochformat.
 Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
@@ -422,9 +437,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_burst_shoot_title">Serienbilder schießen</string>
   <string name="pref_camcorder_settings">Videoeinstellungen</string>
   <string name="pref_camcorder_settings_category">Kameraeinstellungen</string>
-  <string name="pref_camera2_cameramode_title">Kamera2-Modus</string>
-  <string name="pref_camera2_clearsight_title">Klarer Blick</string>
-  <string name="pref_camera2_mpo_title">MPO Format</string>
   <string name="pref_camera_ai_scene_title">AI-Kamera</string>
   <string name="pref_camera_antibanding_entry_0">Aus</string>
   <string name="pref_camera_antibanding_title">Antistreifenbildung</string>
@@ -440,13 +452,13 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Bildmittelung</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Spotmessung</string>
   <string name="pref_camera_autoexposure_title">Autom. Belichtungseinstellungen</string>
-  <string name="pref_camera_beauty">Verschönern</string>
-  <string name="pref_camera_beauty_deep">Verschönern Pro</string>
   <string name="pref_camera_beautify_entry_auto">Aus</string>
   <string name="pref_camera_beautify_entry_close">Aus</string>
   <string name="pref_camera_beautify_entry_high">Hoch</string>
   <string name="pref_camera_beautify_entry_low">Niedrig</string>
   <string name="pref_camera_beautify_entry_normal">Mittel</string>
+  <string name="pref_camera_beauty">Verschönern</string>
+  <string name="pref_camera_beauty_deep">Verschönern Pro</string>
   <string name="pref_camera_bokeh_title">Porträt</string>
   <string name="pref_camera_coloreffect_entry_big_face">Spreizen</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">S&amp;W</string>
@@ -543,6 +555,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">1 Person</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">2 Personen</string>
   <string name="pref_camera_multiple_face_beauty_title">Hautfarbe hervorheben</string>
+  <string name="pref_camera_normal_wide_ldc_description">Gesichtsverzerrungen am Rand des Fotos beheben</string>
+  <string name="pref_camera_normal_wide_ldc_title">Gruppengesichtskorrektur</string>
   <string name="pref_camera_optimized_flash_enable_title">Optimierter Blitz</string>
   <string name="pref_camera_parallel_process_enable_title">Parallelverarbeitung einschalten</string>
   <string name="pref_camera_peak_entry_off">Aus</string>
@@ -618,6 +632,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_touchafaec_entry_on">An</string>
   <string name="pref_camera_touchafaec_title">AF/AEC berühren</string>
   <string name="pref_camera_ubifocus_title">Neufokussieren</string>
+  <string name="pref_camera_ultra_wide_ldc_description">Korrektur des verzerrten Bildes im Superweitwinkelmodus</string
   <string name="pref_camera_ultra_wide_ldc_title">Ultra Weitwinkel-Verzerrungskorrektur</string>
   <string name="pref_camera_video_bokeh_off">Hintergrundschärfe aus</string>
   <string name="pref_camera_video_bokeh_on">Hintergrundschärfe an</string>
@@ -644,6 +659,9 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_zoom_mode_title">LINSE</string>
   <string name="pref_camera_zsl_entry_off">Aus</string>
   <string name="pref_camera_zsl_entry_on">An</string>
+  <string name="pref_camera2_cameramode_title">Kamera2-Modus</string>
+  <string name="pref_camera2_clearsight_title">Klarer Blick</string>
+  <string name="pref_camera2_mpo_title">MPO Format</string>
   <string name="pref_capture_settings">Kameraeinstellungen</string>
   <string name="pref_dualcamera_watermark_title">Dualkamera-Wasserzeichen</string>
   <string name="pref_exposure_title">Belichtung</string>
@@ -691,6 +709,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_video_quality_title">Videoauflösung</string>
   <string name="pref_video_slow_speed_title_simple_mode">Zeitraffer</string>
   <string name="pref_video_speed_entry_fast">Schnell</string>
+  <string name="pref_video_speed_entry_normal">Standard</string>
   <string name="pref_video_speed_entry_slow">Langsam</string>
   <string name="pref_video_speed_fast_title">Zeitraffer</string>
   <string name="pref_video_speed_slow_title">Zeitlupe</string>
@@ -714,7 +733,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_watermark_style_entry_timestamp">Zeitstempel</string>
   <string name="pref_watermark_style_title">Zeitstempelart</string>
   <string name="preparing_sd">Interner Speicher wird vorbereitet…</string>
-  <string name="pref_video_speed_entry_normal">Standard</string>
   <string name="qr_code_details">QR-Code Details:</string>
   <string name="raw_data_exit_button_text">RAW-Modus verlassen</string>
   <string name="record_back_pressed_hint">Nochmal berühren, um Aufnahme zu beenden</string>
@@ -805,13 +823,15 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="toast_start_audio_capture">Geräusch machen beim Auslösen eines Fotos</string>
   <string name="ubi_focus_capture_fail">Foto konnte nicht gemacht werden</string>
   <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Objekte enthalten</string>
-  <string name="undo">Zurück</string>
+  <string name="ultra_pixel_photography_close_tip">48 Millionen ultraklar geschlossen</string>
+  <string name="ultra_pixel_photography_open_tip">48 Millionen ultraklar</string>
   <string name="ultra_wide_bokeh_close_tip">Ganzkörpermodus ist aus</string>
   <string name="ultra_wide_bokeh_open_tip">Ganzkörpermodus ist an</string>
   <string name="ultra_wide_close_tip">Superweitwinkelmodus ist aus</string>
   <string name="ultra_wide_mode">Superweitwinkel</string>
   <string name="ultra_wide_open_tip">Superweitwinkelmodus</string>
   <string name="ultra_wide_recommend_tip_hint">Es wird empfohlen, den Superweitwinkelmodus einzuschalten</string>
+  <string name="undo">Zurück</string>
   <string name="user_agree">Zustimmen</string>
   <string name="user_agreement2">Nutzungsbedingungen</string>
   <string name="user_agreement4">Datenschutzerklärung</string>
