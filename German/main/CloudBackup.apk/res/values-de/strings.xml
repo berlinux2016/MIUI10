@@ -14,8 +14,8 @@
   <string name="backup_finished_notification_content">Startbildschirm, Systemeinstellungen, etc. wurden gesichert</string>
   <string name="backup_now">Jetzt sichern</string>
   <string name="backup_size">Größe: %s</string>
-  <string name="backup_stopped_msg">Fortsetzen der Sicherung wird die bestehende Cloud-Sicherung überdecken, klicken zum Anzeigen.</string>
-  <string name="backup_stopped_title">Cloud-Sicherung wurde gestoppt</string>
+  <string name="backup_stopped_msg">Die aktuelle Sicherung überschreibt die vorherige. Tippen zum Anzeigen.</string>
+  <string name="backup_stopped_title">Sicherung wurde gestoppt</string>
   <string name="backup_success">Appsicherung erfolgreich</string>
   <string name="backup_successfully">Erfolgreich gesichert</string>
   <string name="backup_to_cloud">App sichern</string>
@@ -101,7 +101,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="dialog_cancel_backup_cancel">Abbrechen</string>
   <string name="dialog_cancel_backup_msg">Durch Umschalten werden laufende Sicherungen beendet</string>
   <string name="dialog_cancel_backup_title">Laufende Sicherung abbrechen?</string>
-  <string name="dialog_msg_overwrite_backup">Unterschied zwischen lokaler und Cloud-Sicherung ist groß, bei fortgesetzter Sicherung wird die bestehende überschrieben.</string>
+  <string name="dialog_msg_overwrite_backup">Die lokale Sicherung unterscheidet sich von der in Mi Cloud. Wenn Sie fortfahren, überschreibt die aktuelle Sicherung die vorherige.</string>
   <string name="dialog_msg_restore_require_wlan">Wiederherstellen von Sicherungen erfordert WLAN-Verbindung</string>
   <string name="dialog_title_require_wlan">Mit WLAN verbinden</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
@@ -136,6 +136,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="open_wifi">WLAN jetzt einschalten</string>
   <string name="open_wifi_description">Um Apps wiederherzustellen, verbinden Sie sich mit WLAN</string>
   <string name="open_wifi_setting">WLAN-Einstellungen</string>
+  <string name="other_device_main_space">Hauptprofil</string>
+  <string name="other_device_second_space">Zweitprofil</string>
   <string name="process_whole_recovery">Wiederherstellen \"%s\"</string>
   <string name="provision_error_connect_msg">Netzwerk testen und erneut versuchen. Sicherungen sind nicht verfügbar, wenn Ihr Gerät offline is.</string>
   <string name="provision_error_connect_title">Verbinden nicht möglich</string>
@@ -162,6 +164,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="restore_task_in_process">Wiederherstellen…</string>
   <string name="restore_unfinished">Wiederherstellen später erneut versuchen</string>
   <string name="retry">Wiederholen</string>
+  <string name="self_device_main_space">Hauptprofil des Telefons</string>
+  <string name="self_device_second_space">Zweitprofil des Telefons</string>
   <string name="second_space">Zweitprofil</string>
   <string name="self_device">" dieses Telefons"</string>
   <string name="self_phone">Dieses Telefon</string>

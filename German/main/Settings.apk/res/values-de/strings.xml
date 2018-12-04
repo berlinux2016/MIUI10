@@ -445,12 +445,12 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="application_item_disable">Verweigern</string>
   <string name="application_item_permission">Erlauben</string>
   <string name="application_lock_name">Appsperre</string>
-  <string name="application_manager_section_title">Appeinstellungen</string>
+  <string name="application_manager_section_title">Apps</string>
   <string name="application_permission_manager">Appberechtigungen</string>
   <string name="application_permissions">Appberechtigungen</string>
   <string name="application_restrictions">Apps und Inhalte zulassen</string>
   <string name="application_size_label">Appgröße</string>
-  <string name="applications_settings">Installierte Apps</string>
+  <string name="applications_settings">Apps verwalten</string>
   <string name="applications_settings_header">Appeinstellungen</string>
   <string name="applications_settings_summary">Apps verwalten, Verknüpfungen für Schnellstart festlegen</string>
   <string name="apply">Anwenden</string>
@@ -1724,6 +1724,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="default_input_method">Standardtastatur wählen</string>
   <string name="default_keyboard_layout">Standard</string>
   <string name="default_launcher_title">Standard-Launcher</string>
+  <string name="default_launcher_set_jeejen_message">Home-Taste drücken, um den vereinfachten Launcher einzurichten</string>
+  <string name="default_launcher_set_system_message">Home-Taste drücken, um den Standard-Launcher wiederherzustellen</string>
   <string name="default_map_app_title">Kartenapp</string>
   <string name="default_notification_assistant">Benachrichtigungsassistent</string>
   <string name="default_phone_title">Telefon</string>
@@ -1997,6 +1999,10 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="draw_overlay">Apps überlagern</string>
   <string name="draw_overlay_title">Apps, die andere überlagern können</string>
   <string name="dtmf_tone_enable_title">Wähltastentöne</string>
+  <string name="dump_log">Problembezogene Protokolle abrufen</string>
+  <string name="dump_log_summary">"Diese Funktion ist für die Generierung des 284 Log in den Alpha- und Beta-Versionen von MIUI vorgesehen. Verwende es mit Vorsicht.
+Du kannst die generierten Protokolle im Datei-Manager ansehen."</string>
+  <string name="dump_log_title">Über diese Funktion</string>
   <string name="edge_mode_back">Zurück</string>
   <string name="edge_mode_back_summary">Telefonkante doppelt antippen, um zurückzukehren</string>
   <string name="edge_mode_clean">Säubere Systemcache</string>
@@ -5613,7 +5619,7 @@ Ein Google-Ansatz zur Synchronisierung von Daten, um den Zugriff auf Ihre Kontak
   <string name="system_alert_window_settings">Apps überlagern</string>
   <string name="system_alert_window_summary" formatted="false">%d von %d Apps ist es erlaubt, andere Apps zu überlagern</string>
   <string name="system_and_device_section_title">System &amp; Gerät</string>
-  <string name="system_app_settings">Systemapps</string>
+  <string name="system_app_settings">Systemappeinstellungen</string>
   <string name="system_apps_updater">Updater für Systemapps</string>
   <string name="system_backup">Sicherung</string>
   <string name="system_backup_info">Systemeinstellungen und Startbildschirmlayout</string>
