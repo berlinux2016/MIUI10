@@ -76,11 +76,11 @@
   <string name="lap">Runde</string>
   <string name="lap_num">Runde</string>
   <string name="legal_off_day">Gesetzlicher Feiertag</string>
-  <string name="legal_off_day_message">" (Alarm an Werktagen deaktiviert)"</string>
-  <string name="legal_workday">Werktage</string>
-  <string name="legal_workday_invalidate">Daten ungültig (Wecker klingelt Mo - Fr)</string>
-  <string name="legal_workday_invalidate_message">(Daten ungültig, Einstellungen aktualisieren)</string>
-  <string name="legal_workday_message">" (Nicht an gesetzl. Feiertagen)"</string>
+  <string name="legal_off_day_message">" (Alarm wird Werktags nicht ausgelöst)"</string>
+  <string name="legal_workday">Zusätzlicher Arbeitstag</string>
+  <string name="legal_workday_invalidate">Daten ungültig (Alarm wird von Mo - Fr ausgelöst)</string>
+  <string name="legal_workday_invalidate_message">(Daten abgelaufen. Aktualisierung in den Einstellungen)</string>
+  <string name="legal_workday_message">" (Alarm wird an Feiertagen nicht ausgelöst)"</string>
   <string name="life_post_setting">Morgenreport</string>
   <string name="life_post_setting_FBE_remind">Aufgrund von Systemeinschränkungen kann es vorkommen, dass Wetterinformationen im Morgenreport nach einem Neustart nicht korrekt angezeigt werden</string>
   <string name="life_post_setting_close_title">Morgenreport schließen</string>
@@ -94,7 +94,8 @@
   <string name="life_post_wake_up_item_time_title">Aufwachzeit</string>
   <string name="life_post_wake_up_percentage_title">Früher wach als</string>
   <string name="life_post_wake_up_time_title">Weckzeit</string>
-  <string name="life_post_weather_invalid">Keine Wetterinformationen, tippen und erneut versuchen</string>
+  <string name="life_post_weather_invalid">Tippen, um Wetterdaten zu erhalten</string>
+  <string name="life_post_weather_no_network">Mit Netzwerk verbinden, um Wetterinformationen zu aktualisieren</string>
   <string name="loading_ringtone">Klingelton wird geladen…</string>
   <string name="menu_add_worldclock">Neue Weltzeit</string>
   <string name="menu_desk_clock">Schreibtischuhr</string>
@@ -138,7 +139,7 @@
   <string name="setting_alarm_arriving_title">Nachricht vor Weckton</string>
   <string name="settings">Einstellungen</string>
   <string name="shut_down_keep_screen">Bildschirm bleibt nicht eingeschaltet</string>
-  <string name="shutdown_alarm_disable_summary">Alarm klingelt nicht nach dem Ausschalten</string>
+  <string name="shutdown_alarm_disable_summary">Alarm wird nicht ausgelöst, nachdem das Gerät ausgeschaltet wurde</string>
   <string name="shutdown_alarm_enable_summary">Alarm wird ausgelöst, wenn er für mindestens 5 Minuten nach dem Ausschalten des Geräts eingestellt ist</string>
   <string name="shutdown_alarm_title">Standby-Alarm</string>
   <string name="silent_alarm_summary">Lautlosmodus</string>
