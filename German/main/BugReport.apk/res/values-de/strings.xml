@@ -23,13 +23,12 @@
   <string name="catch_full_log_dialog_confirm_text">Zur Startseite gehen</string>
   <string name="catch_full_log_dialog_content">"MIUI erzeugt ein Protokoll. Dies kann die Gesamtleistung Ihres Geräts beeinträchtigen. Wenn Sie das zu meldende Problem nicht reproduzieren können, gehen Sie zurück zu den Protokollen und tippen Sie auf \"Abbrechen\"."</string>
   <string name="catch_full_log_dump_hprof_failed">Verzögertes Protokoll konnte nicht erstellt werden</string>
-  <string name="catch_full_log_item_content_catch_direct">"Schritte:
-1. Gehen Sie zurück zu dem Problem, das Sie melden möchten, und reproduzieren Sie es.
+  <string name="catch_full_log_item_content_catch_direct">"1. Gehen Sie zurück zu dem Problem, das Sie melden möchten, und reproduzieren Sie es.
 2. Kommen Sie zurück zu dieser Seite und tippen Sie auf \"Fertigstellen und hochladen\"."</string>
-  <string name="catch_full_log_item_content_need_open">"Schritte:
-1. Tippen auf \"Protokoll erstellen\".
+  <string name="catch_full_log_item_content_need_open">"1. Tippen auf \"Protokoll erstellen\".
 2. Gehen Sie zurück zu dem Problem, das Sie melden möchten, und reproduzieren Sie es.
 3. Kommen Sie zurück zu dieser Seite und tippen Sie auf \"Fertigstellen und hochladen\"."</string>
+  <string name="catch_full_log_item_content_title">Schritte:</string>
   <string name="catch_full_log_item_title_audio">Audio, Tonaufzeichnung und Audioanrufe</string>
   <string name="catch_full_log_item_title_dump_heap">Verzögern</string>
   <string name="catch_full_log_item_title_gps">Standortdienste</string>
@@ -72,6 +71,7 @@
   <string name="err_type_xiaomi_service">Kundendienst</string>
   <string name="error_no_connection">Netzwerkverbindung fehlgeschlagen</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s Problem \"%2$s\"</string>
+  <string name="feedback_choose_app_tag">Problem auswählen</string>
   <string name="feedback_choose_module">Element wählen</string>
   <string name="feedback_choose_module_hint">Erforderlich</string>
   <string name="feedback_choose_reproductivity">Reproduzierbarkeit</string>
@@ -308,6 +308,8 @@
   <string name="title_nonsystem_app">Weitere Apps</string>
   <string name="title_same_question_feedback_main">Ähnliche Probleme im MIUI Forum</string>
   <string name="title_system_app">MIUI Apps</string>
+  <string name="title_user_guide">Benutzerhandbuch</string>
+  <string name="toast_app_tag_required">Problem auswählen</string>
   <string name="toast_catch_full_log_catching">Sie können immer nur ein Protokoll auf einmal erstellen.</string>
   <string name="toast_description_required">Beschreibung erforderlich</string>
   <string name="toast_feedback_collect_store">Protokollierung…</string>
