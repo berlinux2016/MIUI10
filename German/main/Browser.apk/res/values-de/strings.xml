@@ -132,6 +132,7 @@
   <string name="bookmark_btn_select_none">Keine auswählen</string>
   <string name="bookmark_cannot_save_url">Lesezeichen für diese Adresse konnte nicht gespeichert werden</string>
   <string name="bookmark_deleted">Lesezeichen löschen</string>
+  <string name="bookmark_error_page_title">Ein Fehler ist aufgetreten</string>
   <string name="bookmark_folder_needs_title">Geben Sie einen Gruppennamen ein</string>
   <string name="bookmark_group_lable">Gruppe</string>
   <string name="bookmark_move_to">Verschieben nach</string>
@@ -166,6 +167,7 @@
   <string name="cast_video">Video übertragen</string>
   <string name="check_security_tip_privacy_policy">Datenschutzerklärung</string>
   <string name="check_security_tip_user_agreement">Nutzungsbedingungen</string>
+  <string name="checking_now">Überprüfen…</string>
   <string name="choosertitle_sharevia">Teilen über</string>
   <string name="clear_history">Verlauf löschen</string>
   <string name="clear_most_visited">Kürzlich besucht</string>
@@ -195,6 +197,7 @@
   <string name="comment_max_length">Ihr Kommentar ist zu lang</string>
   <string name="comment_menu">Kommentieren</string>
   <string name="comment_num_description">Kommentarnummer</string>
+  <string name="comment_publish_to_topic">Kommentare synchronisieren mit</string>
   <string name="common_use_phrase_bottom_bar_text_next">Nächster</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Zurück</string>
   <string name="context_menu_add_to_desk_id">Zur Startseite hinzufügen</string>
@@ -227,6 +230,7 @@
   <string name="current_version_phone">Smartphone</string>
   <string name="custom_head_card_text">Immer daran glauben, dass etwas Wunderbares passieren wird</string>
   <string name="custom_head_card_text_incognito">Sie sind inkognito! Seiten, die Sie besuchen, werden nicht im Verlauf angezeigt.</string>
+  <string name="custom_head_content_pull_down_text">herunterziehen</string>  
   <string name="data_monitor">Erinnerung Überwachung Datenverkehr</string>
   <string name="data_monitor_dialog_message">Sieht so aus, als ob irgendetwas Ihre mobilen Daten verbraucht. Öffnen Sie die Startseite, um dies zu stoppen.</string>
   <string name="data_traffic_continue">Weiter</string>
@@ -255,6 +259,8 @@
   <string name="dialog_insufficient_space_on_external">Nicht genügend externer Speicherplatz</string>
   <string name="dialog_media_not_found">Download nicht möglich: Kein Wechselmedium gefunden</string>
   <string name="dialog_queued_body">Diese Datei wurde der Downloadwarteschlange hinzugefügt</string>
+  <string name="dialog_recovery_tabs_action">Anklicken zum Wiederherstellen</string>
+  <string name="dialog_recovery_tabs_tip">Find webview not closed last time</string>  
   <string name="dialog_recovery_tabs_disc">Erkennung nicht geschlossener Seiten erfordert eine vollständige Wiederherstellung.</string>
   <string name="dialog_recovery_tabs_title">Seite vor der Wiederherstellung öffnen</string>
   <string name="dialog_title_not_available">Download nicht möglich</string>
@@ -469,6 +475,8 @@
   <string name="modify_download_path_no_sdcard_dlg_msg">SD-Karte erforderlich, um diesen Pfad zu ändern</string>
   <string name="more_description">Menü</string>
   <string name="more_option">Weitere Optionen</string>
+  <string name="movie_player_3g_tip_retry">Fortfahren</string>
+  <string name="movie_player_loading">Bald verfügbar：%s</string>
   <string name="mw_abc_action_bar_home_description">Zur Startseite</string>
   <string name="mw_abc_action_bar_up_description">Nach oben navigieren</string>
   <string name="mw_abc_action_menu_overflow_description">Mehr Einstellungen</string>
@@ -844,6 +852,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="navigationbar_rightbutton_actiontext_cancle">Abbrechen</string>
   <string name="navigationbar_rightbutton_actiontext_go">Los</string>
   <string name="navigationbar_rightbutton_actiontext_search">Suchen</string>
+  <string name="network_error_tips">Netzwerkfehler, erneut versuchen</string>  
   <string name="network_not_available_comment">Keine Internetverbindung, kein Kommentar möglich</string>
   <string name="network_show_wifi_setting_tip_dialog_description">WLAN-Hotspot in der Nähe gefunden. Verbindung herstellen?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">WLAN verfügbar</string>
@@ -882,13 +891,20 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="permission_unknown">Unbekannte Option</string>
   <string name="permissions_prompt_message">%s möchte</string>
   <string name="play_pause_video">Video abspielen oder anhalten</string>
+  <string name="play_retry">Wiederholen</string>
   <string name="play_video">Video abspielen</string>
+  <string name="player_3g_tip_sub_title">Spiel erzeugt Transfergebühren</string>
+  <string name="player_3g_tip_title">Aktuell über das Mobilfunknetz, weiter spielen verbraucht Daten.</string>
+  <string name="player_data_error_tip">Das Video ist vorübergehend nicht verfügbar. Bitte später erneut versuchen.</string>
+  <string name="player_net_error">Das Netzwerk ist nicht verbunden, bitte Netzwerkeinstellungen überprüfen.</string>
+  <string name="player_no_data">Entschuldigung! Dieses Video ist weg.</string>
   <string name="popup_video">Videopopup</string>
   <string name="popup_window_attempt">Erlauben Sie dieser Seite, ein Popupfenster zu öffnen?</string>
   <string name="positive_confirm_message">Trotzdem ausschalten</string>
   <string name="pref_accept_quicklink_push">Newsfeed</string>
   <string name="pref_accessibility">Eingabehilfen</string>
   <string name="pref_accessibility_title">Eingabehilfen</string>
+  <string name="pref_accessibility_recommending_search_title">Empfohlene Suche</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Einfache Buchstabenkombinationen können mit einem Druck in die Adressleiste eingefügt werden</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Eingabe Quick-URL</string>
   <string name="pref_adblock_counts">%d geblockt</string>
@@ -994,6 +1010,9 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="pref_version_info">Versionsinfo</string>
   <string name="pref_volume_key_action">Blättern mit Lautstärketasten</string>
   <string name="progress_dialog_setting_wallpaper">Hintergrundbild wird eingestellt…</string>
+  <string name="pull_refresh_begin">Zum Aktualisieren nach unten ziehen</string>
+  <string name="pull_refresh_end">Freigabe zum Aktualisieren</string>
+  <string name="pull_refresh_refreshing">Aktualisieren</string>
   <string name="pull_to_refresh_pull_label">Zum Aktualisieren ziehen</string>
   <string name="pull_to_refresh_release_label">Zum Aktualisieren und für Empfehlungen loslassen</string>
   <string name="publish_to_topic">zum Thema veröffentlichen</string>
@@ -1025,7 +1044,9 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="readmode_recommend_message">Sie haben das Buch bereits gelesen :-)</string>
   <string name="readmode_refresh">Aktualisieren</string>
   <string name="readmodelist_bookmarks_to_show">Leseliste</string>
+  <string name="recommending_close_toast_text">Stellen Sie in den erweiterten Einstellungen das Schließen dieser Funktion ein</string>  
   <string name="refresh_description">Aktualisieren</string>
+  <string name="refresh_text">Aktualisieren</string>
   <string name="refuse_permissions_request">Einschränken</string>
   <string name="remember_passwords_confirm_message">Bedienung kann durch Deaktivieren beeinflusst werden</string>
   <string name="remove_bookmark">Lesezeichen löschen</string>
@@ -1106,6 +1127,13 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="skip_button_label">Überspringen</string>
   <string name="skip_current_version">Diese Version überspringen</string>
   <string name="slide_guide">Schieben, um zurückzukehren</string>
+  <string name="small_video_boba_tab">Übertragung</string>
+  <string name="small_video_load_failed">Laden fehlgeschlagen</string>
+  <string name="small_video_loading">Laden…</string>
+  <string name="small_video_main_tab">Empfehlen</string>
+  <string name="small_video_native_tab">Kleines Video</string>
+  <string name="small_video_net_error">Verbindungsfehler</string>
+  <string name="small_video_no_more_date">Keine Daten</string>
   <string name="snapshot">Lokal</string>
   <string name="snapshot_failed">Seite konnte nicht gespeichert werden</string>
   <string name="snapshot_successed">Lesezeichen &amp; Verlauf -&gt; LOKAL öffnen, um die Seite anzuzeigen</string>
@@ -1188,6 +1216,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="title_notice_push">Hinweis einschalten</string>
   <string name="too_many_windows_dialog_message">Browser kann keinen neuen Tab öffnen, solange kein anderer geschlossen wird</string>
   <string name="too_many_windows_dialog_title">Kann keine weiteren Tabs öffnen</string>
+  <string name="topic_content_default">Thema</string>
   <string name="transfer_prompt_0">Video abspielen</string>
   <string name="transfer_restart">Neu starten</string>
   <string name="translation_copy">Kopieren</string>
