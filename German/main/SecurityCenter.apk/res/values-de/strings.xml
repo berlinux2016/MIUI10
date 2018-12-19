@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Phonepass">Anrufe zulassen</string>
-  <string name="SMS_and_MMS">SMS und MMS</string>
-  <string name="SMSpass">SMS zulassen</string>
-  <string name="Setting_lock">Einstellungen</string>
-  <string name="Settings_title_anti_spam">Sperrlisteneinstellungen</string>
-  <string name="Settings_title_anti_virus">Einstellungen Sicherheitsscan</string>
-  <string name="Settings_title_garbage_cleanup">Bereinigungseinstellungen</string>
-  <string name="Settings_title_network_assistants">Einstellungen Datennutzung</string>
-  <string name="Settings_title_power_center">Akkueinstellungen</string>
   <string name="about_autostart">Über Autostart</string>
   <string name="ac_enter_applock">Appsperre eingeben</string>
   <string name="ac_firstUseApplock_subTitle">Bessere Sicherheitstools auf Systemebene verwenden</string>
@@ -248,6 +239,10 @@ Sie verlieren keine Appdaten."</string>
   <string name="applock_close_dialog_summary">Alle versteckten Apps werden sichtbar, ihre Startbildschirmverknüpfungen werden wiederhergestellt und Ihr Appsperre-Passwort wird gelöscht. Appsperre ausschalten?</string>
   <string name="applock_close_dialog_title">Appsperre deaktivieren?</string>
   <string name="applock_exit_account_info">Konto wird bei der Abmeldung automatisch entfernt</string>
+  <string name="applock_face_unlock_summary">Apps mit Gesichtsdaten entsperren</string>
+  <string name="applock_face_unlock_title">Gesichtsentsperrung</string>
+  <string name="applock_function_base_settings">App-Sperre</string>
+  <string name="applock_function_pwd_settings">Passwort</string>
   <string name="applock_header_text_less_than_half">Zu wenig Platz. Etwas weiter ziehen.</string>
   <string name="applock_login_and_add_account">Anmelden &amp; Hinzufügen</string>
   <string name="applock_not_add_account">&lt;u&gt;Nicht jetzt&lt;/u&gt;</string>
@@ -731,13 +726,29 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
 • Um sicherzustellen, dass Sie alle Funktionen Ihres Geräts normal nutzen können, wird Extremes Stromsparen automatisch ausgeschaltet, wenn Ihr Akku zu 30%% geladen ist."</string>
   <string name="extreme_power_save_mode_card_summary">Extremmodus einschalten, um Strom zu sparen, wenn der Akku leer wird</string>
   <string name="extreme_power_save_mode_summary">Extremes Stromsparen schränkt die Hintergrundaktivität ein und stoppt die Synchronisation.</string>
-  <string name="extreme_power_save_mode_title">Extremes Stromsparen</string>
+  <string name="extreme_power_save_mode_title">Extremes Stromsparen</string>  
+  <string name="face_unlock_be_on_the_screen">Halten Sie das Gerät vor Ihr Gesicht</string>
+  <string name="face_unlock_check_failed">Konnte Sie nicht erkennen</string>
+  <string name="face_unlock_face_auth_failed_title">Konnte die Gesichtsdaten nicht überprüfen. Umschalten auf andere Entsperrmethoden…</string>
+  <string name="face_unlock_face_start_title">Überprüfen der Gesichtsdaten…</string>
+  <string name="face_unlock_finger_or_password_switch">Verwenden Sie Ihren Fingerabdruck oder geben Sie ein Passwort ein, um die Sperre aufzuheben.</string>
+  <string name="face_unlock_guide_confirm">Gesichtsentsperrung verwenden</string>
+  <string name="face_unlock_guide_dialog_summary">Sie können Gesichtsdaten verwenden, um Ihr Gerät freizuschalten. Gesichtsentsperrung einschalten?</string>
+  <string name="face_unlock_not_found">Konnte Sie nicht erkennen</string>
+  <string name="face_unlock_open_eye">Öffnen Sie Ihre Augen etwas mehr</string>
+  <string name="face_unlock_reveal_eye">Machen Sie Ihre Augen sichtbar</string>
+  <string name="face_unlock_reveal_mouth">Machen Sie Ihre Lippen sichtbar</string>
+  <string name="face_unlock_toast_verity_failed">Konnte die Gesichtsdaten nicht überprüfen. Gehen Sie zu Appsperre-Einstellungen und versuchen Sie es dort noch einmal, Ihre Gesichtsdaten zu überprüfen.</string>
+  <string name="face_unlock_verity_dialog_summary">Gesichtsdaten überprüfen</string>
+  <string name="face_unlock_verity_dialog_title_failed">Konnte Sie nicht erkennen</string>
+  <string name="face_unlock_verity_dialog_title_succeed">Erfolgreich überprüft</string>  
   <string name="finger_remind_message">Zuerst eigenen Fingerabdruck hinzufügen. Tippen Sie hier, um Einstellungen zu öffnen.</string>
   <string name="fingerprint_identify_msg">Entsperren per Fingerabruck aktiviern</string>
   <string name="fingerprint_not_identified_msg">Fingerabdruck konnte nicht gelesen werden. Geben Sie Ihr Passwort ein.</string>
   <string name="fingerprint_not_remind">Nicht wieder nachfragen</string>
   <string name="fingerprint_remind_dialog_title">Fingerabdruck-Entsperrung</string>
   <string name="fingerprint_to_lock">Entsperren mit Fingerabdruck</string>
+  <string name="fingerprint_to_lock_summary">Entsperren von Apps mit dem Fingerabdruck</string>
   <string name="fingerprint_verify_failed">Fingerabdruck konnte nicht verifiziert werden</string>
   <string name="fingerprint_verify_succeed">Fingerabdruck verifiziert</string>
   <string name="fingerprint_verify_try_agin">Fingerabdruck konnte nicht gescannt werden, erneut versuchen</string>
@@ -1468,6 +1479,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="path_securitycenter">Systemapps/Sicherheit</string>
   <string name="path_securitycenter_settings">Systemapps/Sicherheit</string>
   <string name="path_usb_install">Systemapps/Sicherheit/Rechte/Installation via USB</string>
+  <string name="Phonepass">Anrufe zulassen</string>
   <string name="pc_activity_title">Akku optimieren</string>
   <string name="pc_install_manager">Installation via USB</string>
   <string name="pc_main_activity_back">Zurück</string>
@@ -1822,7 +1834,14 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="sim_state_exception_summary">Fehler bei der SIM-Karte aufgetreten</string>
   <string name="sip_phone">SIP-Telefon</string>
   <string name="skin_change_close_toast">Änderungen werden beim nächsten Start von Sicherheit angewendet</string>
+  <string name="Setting_lock">Einstellungen</string>
+  <string name="Settings_title_anti_spam">Sperrlisteneinstellungen</string>
+  <string name="Settings_title_anti_virus">Einstellungen Sicherheitsscan</string>
+  <string name="Settings_title_garbage_cleanup">Bereinigungseinstellungen</string>
+  <string name="Settings_title_network_assistants">Einstellungen Datennutzung</string>
+  <string name="Settings_title_power_center">Akkueinstellungen</string>
   <string name="sms_address">Gebietssperrliste</string>
+  <string name="SMS_and_MMS">SMS und MMS</string>
   <string name="sms_blacklist">SMS-Sperrliste</string>
   <string name="sms_cloud_block">Cloudsperrliste</string>
   <string name="sms_contact_block">SMS von Kontakten blockieren</string>
@@ -1839,6 +1858,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="sms_smart_engine_update">SMS-Filter automatisch aktualisieren</string>
   <string name="sms_smart_engine_update_now">Aktualisieren</string>
   <string name="sms_stranger_block">SMS von Unbekannten blockieren</string>
+  <string name="SMSpass">SMS zulassen</string>
   <string name="sorted_dialog_title">Sortieren nach</string>
   <string name="sp_background_risk_dialog_summary">, bitte beachten Sie die Warnungen für eventuell unsichere Zahlungen</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Sie sind mit einem öffentlichen WLAN verbunden, das unsicher sein kann. Vergewissern Sie sich, dass Ihre Zahlung geschützt ist, bevor Sie sie abschließen.</string>
@@ -2291,6 +2311,7 @@ Wollen Sie das übernehmen?"</string>
   <string name="uninstall_danagerous_msg">\"%s\" kann Ihr Gerät beschädigen, die Leistung beeinträchtigen oder Neustarts verursachen</string>
   <string name="uninstall_danagerous_title">Bösartige Apps deinstallieren</string>
   <string name="unlike">Nein, danke</string>
+  <string name="unlock_failed">Interner Fehler</string>
   <string name="unlock_pattern"><u>Muster</u></string>
   <string name="unlock_pattern_to_bind_fingerprint">Passwort eingeben, um Fingerabruck zu aktivieren</string>
   <string name="unlock_set_unlock_password_summary">Kombinieren Sie verschiedene Zeichen</string>
