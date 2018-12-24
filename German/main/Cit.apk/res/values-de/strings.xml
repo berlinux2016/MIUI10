@@ -180,12 +180,15 @@ Halten Sie das Telefon so, als ob Sie einen Anruf entgegennehmen, sprechen Sie i
   <string name="cit_camera_fast_check_title">Kameraschnelltest</string>
   <string name="cit_camera_sdcard_error">Fotografieren nicht möglich, SD-Karte ist voll</string>
   <string name="cit_charger_check_title">Test Ladegerät</string>
-  <string name="cit_charger_in_check_title">Ladegerät-Einsteckprüfung</string>
+  <string name="cit_charger_in">Ladegerät angeschlossen</string>
+  <string name="cit_charger_in_check_title">Ladegerätanschlußtest</string>
   <string name="cit_charger_plugin_check_summary">Wenn das USB-Ladegerät angeschlossen ist, sollte der Text \"Laden über USB/AC\" unten angezeigt werden.</string>
   <string name="cit_charger_plugin_check_title">Ladegerät (anschließen)</string>
   <string name="cit_charger_plugout_check_summary">Wenn das USB-Ladegerät nicht angeschlossen ist, sollte der Text \"USB/AC-Ladegerät nicht angeschlossen\" unten angezeigt werden.</string>
   <string name="cit_charger_plugout_check_title">Ladegerät (trennen)</string>
   <string name="cit_charger_test_summary">Während des Ladegerättests schließen Sie bitte das Ladegerät an und stecken den Stecker dann umgedreht wieder ein.</string>
+  <string name="cit_charger_test_tips_electric">Aktuelles Projekt muss den Ladestromwert größer als 1A testen</string>
+  <string name="cit_charger_test_tips_hvdcp">Aaktuelles Projekt muss USB_HVDCP testen</string>
   <string name="cit_charger_waiting_in">Ladegerät anschließen</string>
   <string name="cit_charger_waiting_out">Ladegerät jetzt trennen</string>
   <string name="cit_def_torch_on_one">Ersten Blitz einschalten</string>
@@ -670,6 +673,10 @@ Bitte stecken Sie das Ladegerät aus und umgedreht wieder ein."</string>
   <string name="sar_sensor_calibrate">Kalibrierung starten</string>
   <string name="sar_sensor_calibrate_fail">Kalibrierung SAR-Sensor fehlgeschlagen</string>
   <string name="sar_sensor_calibrate_success">Kalibrierung SAR-Sensor erfolgreich</string>
+  <string name="sar_sensor_collect_data">Datenerfassung starten</string>
+  <string name="sar_sensor_collect_data_test_summary">"Drehen Sie das Telefon, um sicherzustellen das der Echtzeitwinkel zwischen 130 und 140 Grad liegt.
+Halten Sie andere Telefone fern. Klicken Sie auf die Schaltfläche Datenerfassung starten.
+Nach der erfolgter Kalibrierung ist zu beachten, dass der Absolutwert von CS0i und CS1 kleiner als 200 und der Wert von CS1 größer als 300 ist. Nach fünf aufeinanderfolgenden Malen befindet sich die andere Hand in der Nähe der Unterseite des Telefons. Der Wert von CS0 wird durch die Taste nach 3 aufeinanderfolgenden Zeiten zwischen 3000 und 30000 hervorgehoben, die Schaltfläache ist hervorgehoben.</string>
   <string name="sar_sensor_data_check_description">SAR-Sensordaten sammeln</string>
   <string name="sar_sensor_data_check_summary">"Halten Sie die Oberseite des Telefons mit einer Hand.
 Stellen Sie sicher, dass der tatsächliche Winkel etwa 45 Grad beträgt.

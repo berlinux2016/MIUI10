@@ -3,7 +3,7 @@
   <string name="add_alarm">Neuer Wecker</string>
   <string name="add_clock">Uhr hinzufügen</string>
   <string name="add_timezone_title">Zeitzone hinzufügen</string>
-  <string name="alarm_alert_alert_silenced">Wecker verstummt nach %d Minute(n)</string>
+  <string name="alarm_alert_alert_silenced">Wecker verstummt nach %d.</string>
   <string name="alarm_alert_snooze_set">Für %d Minuten schlummern</string>
   <string name="alarm_ascending_mode_summary">Weckerlautstärke steigt allmählich an</string>
   <string name="alarm_ascending_mode_title">Ansteigende Lautstärke</string>
@@ -32,6 +32,7 @@
   <string name="birthday_alarm_summary">\"Happy Birthday\" an Ihrem Geburtstag spielen anstelle des Standardwecktons</string>
   <string name="cancel">Abbrechen</string>
   <string name="check_theme_app_install">Stellen Sie sicher, dass die Themen-App auf Ihrem Gerät installiert ist.</string>
+  <string name="check_voice_assist_app_version">Aktualisieren Sie Mi AI auf die neueste Version.</string>
   <string name="close_alarm">Schließen</string>
   <string name="common_settings">Einstellungen</string>
   <string name="confirm_abort">Verwerfen</string>
@@ -107,11 +108,11 @@
   <string name="minute">1 Min</string>
   <string name="minutes">%d Min</string>
   <string name="module_download_cancel">Nein danke</string>
-  <string name="module_download_data_msg">Uhr muss eine Verbindung zum Internet herstellen, um Audiodateien (20 MB) für Umgebungsgeräusche und intelligente Alarme herunterladen zu können. Sie benutzen jetzt mobile Daten. Zustimmen?</string>
-  <string name="module_download_data_msg_golbal">Uhr muss Audiodateien (20 MB) für Umgebungsgeräusche und intelligente Alarme herunterladen. Sie benutzen jetzt mobile Daten. Zustimmen?</string>
+  <string name="module_download_data_msgUhr muss eine Verbindung zum Internet herstellen, um Audiodateien für MIUI 10 Wetteralarme und Timer-Umgebungsgeräusche herunterzuladen. Für diesen Download werden 20 MB Ihrer mobilen Daten benötigt. Zustimmen?</string>
+  <string name="module_download_data_msg_golbal">Uhr muss Audiodateien für MIUI 10 Wetteralarme und Timer-Umgebungsgeräusche herunterladen. Für diesen Download werden 20 MB Ihrer mobilen Daten benötigt. Zustimmen?</string>
   <string name="module_download_fail">Konnte keine zusätzlichen Audiodateien herunterladen</string>
-  <string name="module_download_msg">Uhr muss eine Verbindung zum Internet herstellen, um Audiodateien für Umgebungsgeräusche und intelligente Alarme herunterladen zu können. Zustimmen?</string>
-  <string name="module_download_msg_golbal">Uhr muss Audiodateien für Umgebungsgeräusche und intelligente Alarme herunterladen. Zustimmen?</string>
+  <string name="module_download_msg">Uhr muss eine Verbindung zum Internet herstellen, um Audiodateien für MIUI 10 Wetteralarme und Timer-Umgebungsgeräusche herunterzuladen. Zustimmen?</string>
+  <string name="module_download_msg_golbal">Uhr muss Audiodateien für MIUI 10 Wetteralarme und Timer-Umgebungsgeräusche herunterladen. Zustimmen?</string>
   <string name="module_download_no_network">Konnte keine Verbindung zum Netzwerk herstellen. Prüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>
   <string name="module_download_ok">Erlauben</string>
   <string name="module_download_success">Zusätzliche Audiodateien erfolgreich heruntergeladen</string>
@@ -168,7 +169,7 @@
   <string name="time_picker_label_minute">M</string>
   <string name="time_picker_label_second">S</string>
   <string name="timer_alarm_cancel_pad">Auf Bildschirm tippen, um Alarm zu beenden</string>
-  <string name="timer_alert_alert_silenced">Timer verstummt nach %d Minuten</string>
+  <string name="timer_alert_alert_silenced">Timer verstummt nach %d.</string>
   <string name="timer_alert_mute_off">Alarm ertönt, wenn der Timer stoppt.</string>
   <string name="timer_alert_mute_on">Alarm ertönt nicht, wenn der Timer stoppt.</string>
   <string name="timer_alert_mute_remind">Tippen um Alarm stumm zu schalten.</string>
@@ -220,6 +221,6 @@
   <string name="worldclock_world_time">Zeitzone</string>
   <string name="worldcolock_timezone_current">Aktuell: %1$s</string>
   <string name="worldcolock_timezone_date">dd. MMM</string>
-  <string name="worldcolock_timezone_gap">Stunde/n</string>
+  <string name="worldcolock_timezone_gap">%s Stunde/n</string>
   <string name="worldcolock_timezone_local">Wie Ortszeit</string>
 </resources>
