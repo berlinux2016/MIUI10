@@ -428,7 +428,7 @@ Abtastrate"</string>
   <string name="branded_monitoring_description_app_personal">Sie sind mit %1$s verbunden, wodurch Ihre persönlichen Netzwerkaktivitäten, einschließlich E-Mails, Apps und Webseiten, überwacht werden können.</string>
   <string name="branded_vpn_footer">Netzwerk kann überwacht werden</string>
   <string name="broadcast_tile">Broadcast-Kachel</string>
-  <string name="bt_hci_snoop_log">Bluetooth HCI Snoop Log aktivieren</string>
+  <string name="bt_hci_snoop_log">Bluetooth HCI Snoop Log einschalten</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth-HCI-Pakete in einer Datei erfassen (Bluetooth umschalten nach Änderung dieser Einstellung)</string>
   <string name="bt_is_off">Bluetooth ist aus</string>
   <string name="btn_camera">Fügen Sie Ihr Gesicht hinzu</string>
@@ -487,7 +487,7 @@ Abtastrate"</string>
   <string name="confirm_enable_oem_unlock_text">WARNUNG: Geräteschutzfunktionen werden deaktiviert, wenn Sie diese Einstellung aktivieren.</string>
   <string name="confirm_enable_oem_unlock_title">OEM-Entsperrung erlauben?</string>
   <string name="confirm_pin_msg">PIN erneut eingeben</string>
-    <string name="connected_via_carrier">Verbunden via %1$s</string>
+  <string name="connected_via_carrier">Verbunden via %1$s</string>
   <string name="connected_via_network_scorer">Automatisch via %1$s verbunden</string>
   <string name="connected_via_network_scorer_default">Automatische Verbindung via Netzwerk-Rating-Provider</string>
   <string name="connected_via_passpoint">Verbunden via %1$s</string>
@@ -496,7 +496,7 @@ Abtastrate"</string>
   <string name="convert_to_fbe_warning">"Konvertieren der Datenpartition in dateibasierte Verschlüsselung.
 Warnung: Dies löscht alle Ihre Daten.
 Diese Funktion wird gerade entwickelt und arbeitet eventuell nicht richtig.
-Drücken Sie 'Löschen und konvertieren…', um fortzufahren.""</string>
+Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="convert_to_file_encryption">In Dateiverschlüsselung konvertieren</string>
   <string name="convert_to_file_encryption_done">Dateiverschlüsselung bereits erledigt</string>
   <string name="convert_to_file_encryption_enabled">Wird konvertiert…</string>
@@ -557,7 +557,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren.""</string>
   <string name="direct_boot_unaware_dialog_message">Hinweis: Nach einem Neustart startet diese App erst, wenn Sie Ihr Telefon entsperrt haben.</string>
   <string name="disable_notification_summary">Zeige Benachrichtigungen von ausgewählten Apps nie</string>
   <string name="disable_notification_title">Benachrichtigungen verbergen</string>
-  <string name="disable_overlays">HW-Overlays deaktivieren</string>
+  <string name="disable_overlays">HW-Overlays ausschalten</string>
   <string name="disable_overlays_summary">Immer GPU zur Darstellung verwenden</string>
   <string name="disable_vpn">VPN deaktivieren</string>
   <string name="disabled">Deaktiviert</string>
@@ -581,8 +581,8 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren.""</string>
   <string name="dnd_is_off">DND ist aus</string>
   <string name="do_disclosure_generic">Dieses Gerät wird von Ihrer Organisation verwaltet</string>
   <string name="do_disclosure_with_name">Dieses Gerät wird von %s verwaltet</string>
-  <string name="do_not_silence">Kein Stille-Modus</string>
-  <string name="do_not_silence_block">Kein Stille-Modus oder Blockieren</string>
+  <string name="do_not_silence">Kein Lautlos-Modus</string>
+  <string name="do_not_silence_block">Kein Lautlos-Modus oder Blockieren</string>
   <string name="dock_forced_resizable">App funktioniert möglicherweise im geteilten Bildschirm nicht.</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Geteilter Bildschirm wird auf dem Sperrbildschirm nicht unterstützt</string>
   <string name="dock_non_resizeble_failed_to_dock_text">App unterstützt geteilten Bildschirm nicht</string>
@@ -597,7 +597,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren.""</string>
   <string name="emergency_call_string">Notruf</string>
   <string name="empty_shade_text">Keine Benachrichtigungen</string>
   <string name="enable_adb">USB-Debugging</string>
-  <string name="enable_adb_summary">Debug-Modus, wenn USB angeschlossen ist</string>
+  <string name="enable_adb_summary">>Debugmodus bei Anschluss über USB</string>
   <string name="enable_bluetooth_confirmation_ok">Einschalten</string>
   <string name="enable_bluetooth_message">Um die Tastatur mit dem Tablet zu verbinden, schalten Sie zuerst Bluetooth ein</string>
   <string name="enable_bluetooth_title">Bluetooth einschalten?</string>
@@ -641,12 +641,12 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren.""</string>
   <string name="ext_media_safe_unmount_notification_title">USB-Speicher/SD-Karte sicher zu entfernen</string>
   <string name="ext_media_unmountable_notification_message">USB-Speicher/SD-Karte beschädigt. Evtl. müssen Sie neu formatieren.</string>
   <string name="ext_media_unmountable_notification_title">USB-Speicher/SD-Karte beschädigt</string>
-  <string name="external_source_trusted">Erlaubt</string>
-  <string name="external_source_untrusted">Nicht erlaubt</string>
-  <string name="face_data_input_camera_fail">Kamera konnte nicht gestartet werden</string>
-  <string name="face_data_input_camera_ok">Starte Kamera…</string>
+  <string name="external_source_trusted">Zulassen</string>
+  <string name="external_source_untrusted">Nicht zulassen</string>
+  <string name="face_data_input_camera_fail">Kamera wurde nicht gestartet</string>
+  <string name="face_data_input_camera_ok">Kamera starten…</string>
   <string name="face_data_input_cancel">Abbrechen</string>
-  <string name="face_data_input_cancel_msg">Gesicht konnten nicht hinzugefügt werden</string>
+  <string name="face_data_input_cancel_msg">Gesicht wurde nicht hinzugefügt</string>
   <string name="face_data_input_msg">Platzieren Sie Ihr Gesicht innerhalb des Rahmens</string>
   <string name="face_data_input_ok">Abgeschlossen</string>
   <string name="face_data_input_ok_msg">Bildschirm einschalten, um das Gerät mit Ihren Gesichtsdaten zu entsperren</string>
@@ -1170,7 +1170,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren.""</string>
   <string name="phone_locked_forget_password_suggesstions_title">Wie lösche ich die Daten?</string>
   <string name="phone_locked_string">Telefon ist gesperrt</string>
   <string name="picture_color_mode">Bildfarbenmodus</string>
-  <string name="picture_color_mode_desc">Benutze sRGB</string>
+  <string name="picture_color_mode_desc">sRGB verwenden</string>
   <string name="pip_close">BIB schließen</string>
   <string name="pip_fullscreen">Vollbild</string>
   <string name="pip_menu_title">Bild-im-Bild-Menü</string>
@@ -1854,7 +1854,7 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifi_wapi_psk_type">Passworttyp</string>
   <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
   <string name="window_animation_scale_title">Fensteranimationskala</string>
-  <string name="wireless_change_to_ac_charging">Auf kabelgebundenes Laden umgeschalteten</string>
+  <string name="wireless_change_to_ac_charging">Auf kabelgebundenes Laden umgeschaltet</string>
   <string name="wireless_charge_current">Aufladen</string>
   <string name="wireless_charge_dialog_cancel">"Ich hab's"</string>
   <string name="wireless_charge_dialog_title">Gerät in der Mitte der Ladestation platzieren.</string>
