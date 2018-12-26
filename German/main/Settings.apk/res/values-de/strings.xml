@@ -5827,8 +5827,8 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
   <string name="trans_disconnected_tips_message">Remote-Gerät wurde getrennt. Manuell erneut verbinden oder die Übertragung abbrechen.</string>
   <string name="trans_disconnected_tips_title">Remote-Gerät getrennt</string>
   <string name="trans_failed_details_page_title">Erfolglose Übertragungen</string>
-  <string name="trans_generate_qr_code_failed">QR-Code konnte nicht erstellt werden</string>
-  <string name="trans_generate_qrcode_failed">QR-Code konnte nicht generiert werden. Nochmal versuchen.</string>
+  <string name="trans_generate_qr_code_failed">QR-Code wurde nicht generiert</string>
+  <string name="trans_generate_qrcode_failed">QR-Code wurde nicht generiert. Andere Apps schließen und erneut versuchen.</string>
   <string name="trans_generating_qrcode">QR-Code generieren…</string>
   <string name="trans_install_guide_page_title">Mi Mover auf Ihrem alten Telefon installieren</string>
   <string name="trans_install_guide_scan_install_tip">Diesen QR-Code mit dem alten Telefon scannen, um Mi Mover herunterzuladen und zu installieren.</string>
@@ -6538,12 +6538,12 @@ Jeder Benutzer kann aktualisierte Appberechtigungen für alle anderen Benutzer a
   <string name="wapi_no">Nein</string>
   <string name="wapi_no_vaild_cert">Erforderliche Zertifikate nicht vorhanden, jetzt installieren?</string>
   <string name="wapi_password_empty">Passwort eingeben</string>
-  <string name="wapi_password_hex_format_add">Eine gerade Anzahl von hexadezimalen Zeichen muss verwendet werden</string>
-  <string name="wapi_password_hex_format_invalid">Ungültige hexadezimale Zeichen</string>
+  <string name="wapi_password_hex_format_add">Sie müssen eine gerade Anzahl an hexadezimalen Zeichen verwenden</string>
+  <string name="wapi_password_hex_format_invalid">Ungültiges Passwortformat</string>
   <string name="wapi_password_hex_length_invalid">Anzahl der hexadezimalen Zeichen muss gerade Zahl sein</string>
   <string name="wapi_password_is_empty">Passwort darf nicht leer sein</string>
   <string name="wapi_password_is_not_hex_format">Ungültige hexadezimale Zeichen</string>
-  <string name="wapi_password_length_invalid">Passwortvorgabe: 8-64 Zeichen</string>
+  <string name="wapi_password_length_invalid">Passwort muss 8-64 Zeichen lang sein</string>
   <string name="wapi_password_length_is_max">Passwort darf max. 64 Zeichen lang sein</string>
   <string name="wapi_password_length_is_min">Passwort muss mind. 8 Zeichen lang sein</string>
   <string name="wapi_password_length_is_min_to_max">Password muss 8-64 Zeichen haben</string>
