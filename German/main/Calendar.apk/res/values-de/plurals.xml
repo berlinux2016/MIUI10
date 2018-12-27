@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="feed_list_dislike_title">
+    <item quantity="other">%1$d Grund ausgewählt</item>
+  </plurals>
   <plurals name="N_remaining_events">
     <item quantity="other">+%d Ereignisse</item>
     <item quantity="one">+1 Ereignis</item>
