@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="entries">
+    <item quantity="other">%d Elemente</item>
+    <item quantity="one">%d Element</item>
+  </plurals>
   <plurals name="mortgage_summary_years">
     <item quantity="other">%1$d Jahre (%2$d Monate)</item>
     <item quantity="one">1 Jahr (%2$d Monate)</item>
