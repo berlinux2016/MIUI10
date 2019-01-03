@@ -78,8 +78,8 @@
   <string name="accessibility_skin_beautify_closed">Haut verschönern ist aus</string>
   <string name="accessibility_skin_beautify_opened">Haut verschönern ist an</string>
   <string name="accessibility_stereo_button">Dualkameramodus</string>
-  <string name="accessibility_ultra_pixel_photography_off">48 MP aus</string>
-  <string name="accessibility_ultra_pixel_photography_on">48 MP an</string>
+  <string name="accessibility_ultra_pixel_photography_off">%d MP aus</string>
+  <string name="accessibility_ultra_pixel_photography_on">%d MP an</string>
   <string name="accessibility_ultra_wide_off">Im Weitwinkelmodus ausgeschaltet</string>  
   <string name="accessibility_ultra_wide_on">Im Weitwinkelmodus eingeschaltet</string>
   <string name="accessibility_video_capture_button">Taste für die Videoaufzeichnung</string>
@@ -106,6 +106,7 @@
   <string name="beauty_body_legged">Lange Beine</string>
   <string name="beauty_body_reset_tip">Figureneffekte erfolgreich entfernt</string>
   <string name="beauty_body_shoulder">Schulter</string>
+  <string name="beauty_body_slim_count_tip">Die Gestaltung unterstützt nur Einzelaufnahmen</string>  
   <string name="beauty_fragment_tab_name_3d_beauty">Verschönern</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Umgestalten</string>
   <string name="beauty_fragment_tab_name_beauty">Verschönern</string>
@@ -564,6 +565,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_jpegquality_entry_high">Hoch</string>
   <string name="pref_camera_jpegquality_entry_low">Gering</string>
   <string name="pref_camera_jpegquality_title">Bildqualität</string>
+  <string name="pref_camera_live_sticker_internal_title">Interne magische Werkzeuge</string>  
   <string name="pref_camera_long_press_shutter_feature_title">Auslöser lange betätigen</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Serienbildaufnahme</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>
@@ -718,6 +720,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_hdr_indicator_entry_on">An</string>
   <string name="pref_manual_exposure_title">Belichtung</string>
   <string name="pref_menu_ultra_pixel_photography_48mp">48 MP</string>
+  <string name="pref_menu_ultra_pixel_photography">%d  MP</string>  
   <string name="pref_new_slow_motion_video_quality_240_720only">Sie können nur 720p-Videos mit 240fps aufnehmen.</string>
   <string name="pref_priority_storage_title">Vorrangig auf externer SD-Karte speichern</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
@@ -861,8 +864,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="toast_start_audio_capture">Geräusch machen beim Auslösen eines Fotos</string>
   <string name="ubi_focus_capture_fail">Foto konnte nicht gemacht werden</string>
   <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Objekte enthalten</string>
-  <string name="ultra_pixel_photography_open_tip">48 MP</string>
-  <string name="ultra_pixel_photography_close_tip">48 MP ist aus</string>
+  <string name="ultra_pixel_photography_open_tip">%d MP</string>
+  <string name="ultra_pixel_photography_close_tip">%d MP ist aus</string>
   <string name="ultra_wide_bokeh_open_tip">Ganzkörpermodus</string>
   <string name="ultra_wide_bokeh_close_tip">Ganzkörpermodus ist aus</string>
   <string name="ultra_wide_close_tip">Weitwinkelmodus ist aus</string>
