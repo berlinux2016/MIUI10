@@ -2,10 +2,6 @@
 <resources>
   <string name="access_sd_fail">Zugriff auf USB-Speicher nicht möglich</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Kamera und Video umschalten (in Verwendung %s)</string>
-  <string name="accessibility_camera_liveshot_off">Dynamische Aufnahmen ausgeschaltet</string>
-  <string name="accessibility_camera_liveshot_on">Dynamische Aufnahmen eingeschaltet</string>
-  <string name="accessibility_camera_ultra_wide_bokeh_off">Ganzkörpermodus ist aus</string>
-  <string name="accessibility_camera_ultra_wide_bokeh_on">Ganzkörpermodus ist an</string>
   <string name="accessibility_ai_scene_off">AI-Kamera aus</string>
   <string name="accessibility_ai_scene_on">AI-Kamera an</string>
   <string name="accessibility_audio_shutter_bg">Auslöserhintergrundgeräusch</string>
@@ -23,12 +19,16 @@
   <string name="accessibility_camera_flashmode">Immer Blitz</string>
   <string name="accessibility_camera_lighting_close_panel">Beleuchtungsmenü schließen</string>
   <string name="accessibility_camera_lighting_open_panel">Beleuchtungsmenü öffnen</string>
+  <string name="accessibility_camera_liveshot_off">Dynamische Aufnahmen ausgeschaltet</string>
+  <string name="accessibility_camera_liveshot_on">Dynamische Aufnahmen eingeschaltet</string>
   <string name="accessibility_camera_module_picker">Kameramodusauswahl</string>
   <string name="accessibility_camera_picker">Front- und Rückkamera wechseln</string>
   <string name="accessibility_camera_picker_finish">Kameras erfolgreich gewechselt</string>
   <string name="accessibility_camera_record_start">Aufnahme starten</string>
   <string name="accessibility_camera_record_stop">Aufnahme stoppen</string>
   <string name="accessibility_camera_shutter_finish">Erfolgreich ein Foto gemacht</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_off">Ganzkörpermodus ist aus</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_on">Ganzkörpermodus ist an</string>
   <string name="accessibility_close_more_ptions">Mehr Optionen deaktivieren</string>
   <string name="accessibility_closed">Ausgeschaltet</string>
   <string name="accessibility_effect_mode_button">Effekttaste</string>
@@ -78,6 +78,10 @@
   <string name="accessibility_skin_beautify_closed">Haut verschönern ist aus</string>
   <string name="accessibility_skin_beautify_opened">Haut verschönern ist an</string>
   <string name="accessibility_stereo_button">Dualkameramodus</string>
+  <string name="accessibility_ultra_pixel_photography_32mp_off">32 MP aus</string>
+  <string name="accessibility_ultra_pixel_photography_32mp_on">32 MP an</string>
+  <string name="accessibility_ultra_pixel_photography_48mp_off">48 MP aus</string>
+  <string name="accessibility_ultra_pixel_photography_48mp_on">48 MP an</string>
   <string name="accessibility_ultra_pixel_photography_off">%d MP aus</string>
   <string name="accessibility_ultra_pixel_photography_on">%d MP an</string>
   <string name="accessibility_ultra_wide_off">Im Weitwinkelmodus ausgeschaltet</string>
@@ -96,9 +100,9 @@
   <string name="app_details">Appdetails:</string>
   <string name="audio_focus_exit_button_text">Audiofokus beenden</string>
   <string name="auto">Auto</string>
-  <string name="autozoom_hint">Bewegliches Objekt verfolgen</string>
-  <string name="autozoom_disabled_hint">Stoppt die Verfolgung eines sich bewegenden Objekts</string>
   <string name="autozoom_click_hint">Tippen Sie auf ein Objekt, um die Verfolgung zu starten. Bleiben Sie mindestens 3 Meter entfernt, um den besten Effekt zu erzielen.</string>
+  <string name="autozoom_disabled_hint">Stoppt die Verfolgung eines sich bewegenden Objekts</string>
+  <string name="autozoom_hint">Bewegliches Objekt verfolgen</string>
   <string name="back_bokeh_use_hint">Halten Sie Ihr Motiv in einem Umkreis von 1,5 Metern für den besten Effekt.</string>
   <string name="beauty_body">Figur</string>
   <string name="beauty_body_body">Abnehmen</string>
@@ -110,11 +114,11 @@
   <string name="beauty_fragment_tab_name_3d_remodeling">Umgestalten</string>
   <string name="beauty_fragment_tab_name_beauty">Verschönern</string>
   <string name="beauty_fragment_tab_name_makeup">Fortgeschrittene</string>
-  <string name="beauty_tab_name_live_beauty">Verschönern</string>
-  <string name="beauty_tab_name_live_filter">Filter</string>
   <string name="beauty_mode_reset_toast">Verschönerungseffekte erfolgreich entfernt</string>
   <string name="beauty_reset">Zurücksetzen</string>
   <string name="beauty_reset_toast">Verschönerungseffekt wurde entfernt</string>
+  <string name="beauty_tab_name_live_beauty">Verschönern</string>
+  <string name="beauty_tab_name_live_filter">Filter</string>
   <string name="bg_replacement_message">"Stellen Sie Ihr Gerät auf eine stabile Oberfläche
 und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="bokeh_use_hint">Tiefeneffekt</string>
@@ -669,7 +673,9 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_touchafaec_entry_on">An</string>
   <string name="pref_camera_touchafaec_title">AF/AEC berühren</string>
   <string name="pref_camera_ubifocus_title">Neufokussieren</string>
-  <string name="pref_camera_ultra_wide_mode_title">Superweitwinkelmodus</string>
+  <string name="pref_camera_ultra_wide_ldc_description">Verzerrte Objekte automatisch korrigieren</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Verzerrung bei Weitwinkelaufnahmen korrigieren</string>
+  <string name="pref_camera_ultra_wide_mode_title">Weitwinkelmodus</string>
   <string name="pref_camera_video_bokeh_off">Hintergrundschärfe aus</string>
   <string name="pref_camera_video_bokeh_on">Hintergrundschärfe an</string>
   <string name="pref_camera_video_duration_entry_10">10 Minuten</string>
@@ -692,6 +698,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_whitebalance_title">Weißangleich</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">GEDIMMTES LICHT</string>
   <string name="pref_camera_zoom_mode_entry_standard">REGULÄR</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">WEITWINKEL</string>
   <string name="pref_camera_zoom_mode_entry_wide">WEIT</string>
   <string name="pref_camera_zoom_mode_title">LINSE</string>
   <string name="pref_camera_zsl_entry_off">Aus</string>
@@ -865,6 +872,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Objekte enthalten</string>
   <string name="ultra_pixel_photography_open_tip">%d MP</string>
   <string name="ultra_pixel_photography_close_tip">%d MP ist aus</string>
+  <string name="ultra_pixel_photography_32mp_close_tip">32 MP aus</string>
+  <string name="ultra_pixel_photography_48mp_close_tip">48 MP aus</string>
   <string name="ultra_wide_bokeh_open_tip">Ganzkörpermodus</string>
   <string name="ultra_wide_bokeh_close_tip">Ganzkörpermodus ist aus</string>
   <string name="ultra_wide_close_tip">Weitwinkelmodus ist aus</string>
