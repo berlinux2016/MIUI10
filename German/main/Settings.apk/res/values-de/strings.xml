@@ -842,15 +842,15 @@ Apps:
   <string name="bluetooth_confirm_passkey_msg">Zum Koppeln mit <b>%1$s</b> stellen Sie sicher, dass dieser Hauptschlüssel angezeigt wird: <b>%2$s</b></string>
   <string name="bluetooth_connect_failed">Verbinden nicht möglich, erneut versuchen</string>
   <string name="bluetooth_connect_specific_profiles_title">Verbinden…</string>
-  <string name="bluetooth_connected">Verbindung aktiv</string>
-  <string name="bluetooth_connected_battery_level">%1$s verbunden, Akku %2$s</string>
+  <string name="bluetooth_connected">Verbunden%1$s</string>
+  <string name="bluetooth_connected_battery_level">Verbunden | Akku %1$s%2$s</string>
   <string name="bluetooth_connected_multiple_devices_summary">Mit mehreren Geräten verbunden</string>
   <string name="bluetooth_connected_no_a2dp">%1$s verbunden (keine Medien)</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">%1$s verbunden (keine Medien), Akku %2$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Verbunden (keine Medien) | Akku %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset">%1$s verbunden (kein Telefon)</string>
-  <string name="bluetooth_connected_no_headset_battery_level">%1$s verbunden (kein Telefon), Akku %2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Verbunden (kein Telefon) | Akku %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">%1$s verbunden (kein Telefon/keine Medien)</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">%1$s verbunden (kein Telefon/keine Medien), Akku %2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Verbunden (kein Telefon/keine Medien) | Akku %1$s%2$s</string>
   <string name="bluetooth_connected_no_map">%1$s verbunden (kein Nachrichtenzugriff)</string>
   <string name="bluetooth_connected_summary">Verbunden mit %1$s</string>
   <string name="bluetooth_connecting">Verbinden…</string>
@@ -1247,7 +1247,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="captioning_typeface">Schriftfamilie</string>
   <string name="captioning_window_color">Farbe Untertitelfenster</string>
   <string name="captioning_window_opacity">Transparenz Untertitelfenster</string>
-  <string name="carrier">Anbieter</string>
+  <string name="carrier">Netzbetreiber</string>
   <string name="carrier_and_update_now_text">Von ^1 gerade eben aktualisiert</string>
   <string name="carrier_and_update_text">Von ^1 vor ^2 aktualisiert</string>
   <string name="carrier_enabled">APN an/aus</string>
@@ -2011,6 +2011,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="dump_log_summary">"Diese Funktion ist für die Generierung des 284 Log in den Alpha- und Beta-Versionen von MIUI vorgesehen. Verwende es mit Vorsicht.
 Du kannst die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="dump_log_title">Über diese Funktion</string>
+  <string name="eq_return">Zurück</string>
   <string name="edge_mode_back">Zurück</string>
   <string name="edge_mode_back_summary">Telefonkante doppelt antippen, um zurückzukehren</string>
   <string name="edge_mode_clean">Säubere Systemcache</string>
@@ -3875,7 +3876,11 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="page_layout_7">Spiele</string>
   <string name="page_layout_9">Themen</string>
   <string name="page_layout_confirm_message">Um die Änderungen zu aktivieren, muss das Telefon neu gestartet werden. Dieser Vorgang dauert ungefähr 1 Minute.</string>
+  <string name="page_layout_confirm_message_enlarge">Text, Bilder und Symbole werden größer. Einige Symbole können ihre Position ändern.</string>
+  <string name="page_layout_confirm_message_narrow">Text, Bilder und Symbole werden kleiner. Einige Symbole können ihre Position ändern.</string>
   <string name="page_layout_confirm_title">Bildschirmeinstellungen ändern</string>
+  <string name="page_layout_confirm_title_enlarge">Größere Elemente</string>
+  <string name="page_layout_confirm_title_narrow">Kleinere Elemente</string>
   <string name="page_layout_page2_huge_summary">Extra Groß</string>
   <string name="page_layout_page2_huge_title">Extra Groß</string>
   <string name="page_layout_page2_large_summary">Groß</string>
@@ -4535,6 +4540,7 @@ Mindestens %s freigeben."</string>
   <string name="screen_on_proximity_sensor_summary">Telefon wird automatisch gesperrt, wenn es in der Tasche ist</string>
   <string name="screen_on_proximity_sensor_title">Fehlbedienung verhindern</string>
   <string name="screen_optimize">Kontrast</string>
+  <string name="screen_optimize_disabled">Kontrast kann nicht angepasst werden, wenn der Lesemodus eingeschaltet ist</string>
   <string name="screen_paper_mode_adjust_level">Stärke</string>
   <string name="screen_paper_mode_apps_loading">Einen Moment…</string>
   <string name="screen_paper_mode_apps_title">Lesemodus verwenden</string>
@@ -4735,7 +4741,7 @@ Mindestens %s freigeben."</string>
   <string name="search_music_headset_mode_settings">Kopfhörertasten;Tasten Kopfhörerfernbedienung;Fernsteuerungen</string>
   <string name="search_music_headset_settings">Kopfhörer &amp; Audioeffekte;Kopfhörer und Audioeffekte;Kopfhörer;Ohrhörer;Audioeffekte</string>
   <string name="search_music_mi_effect_title">Mi Sound Enhancer;Sound verbessern;Klang verbessern</string>
-  <string name="search_networks_title">Mobilfunknetze;Carrier;Mobilfunkbetreiber;Mobilfunkanbieter</string>
+  <string name="search_networks_title">Mobilfunknetze;Netzbetreiber;Mobilfunkbetreiber;Mobilfunkanbieter;</string>
   <string name="search_nfc_se_route_title">Sichere Elemente;Sichere Elementposition</string>
   <string name="search_notification_sound_title">Standardbenachrichtigungston;Benachrichtigungston;Benachrichtigungstöne</string>
   <string name="search_ntts_settings_title">TTS;TTS Einstellungen</string>

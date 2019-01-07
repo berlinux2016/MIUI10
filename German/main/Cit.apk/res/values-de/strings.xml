@@ -406,7 +406,7 @@ Nachdem Sie \"music.mp3\" in das Verzeichnis der SD-Karte gelegt haben, tippen S
   <string name="cit_tool">Weitere Tools</string>
   <string name="cit_tool_asdiv_ant_pos_setting">ANT Position festlegen</string>
   <string name="cit_tool_asdiv_get_result_band_title">Aktuelles ANT Band</string>
-  <string name="cit_tool_asdiv_get_result_carrier_title">Aktuelle ANT Carrierzelle</string>
+  <string name="cit_tool_asdiv_get_result_carrier_title">Aktuelle ANT Netzbetreiberzelle</string>
   <string name="cit_tool_asdiv_get_result_sub_title">Aktuelle sub</string>
   <string name="cit_tool_asdiv_get_result_tech_title">Aktuelle ANT Tech</string>
   <string name="cit_tool_asdiv_get_result_title">Aktuelle ANT Pos</string>
@@ -632,6 +632,11 @@ Test erfolgreich, bitte tippen Sie auf die Taste Bestanden."</string>
   <string name="picture">Bild</string>
   <string name="plugout_and_reverse_plugin">"
 Bitte stecken Sie das Ladegerät aus und umgedreht wieder ein."</string>
+  <string name="pop_camera">Pop-Kamera</string>
+<string name="pop_push_camera_test_summary">Klicken Sie auf die Pop-Kamerataste, um zu sehen, ob die Kamera herauskommt.
+Klicken Sie auf die Kameradrucktaste, um zu sehen, ob die Kamera eingelegt ist</string>
+  <string name="pop_push_camera_test_title">Pop and Push Kameratest</string>
+  <string name="push_camera">Push Kamera</string>
   <string name="radio_boy">Männerstimme</string>
   <string name="radio_chinese">Chinesisch</string>
   <string name="radio_english">Englisch</string>
@@ -680,6 +685,9 @@ Bitte stecken Sie das Ladegerät aus und umgedreht wieder ein."</string>
   <string name="sar_sensor_collect_data_test_summary">"Drehen Sie das Telefon, um sicherzustellen, dass der Echtzeitwinkel zwischen 130 und 140 Grad liegt.
 Halten Sie andere Telefone fern. Klicken Sie auf die Schaltfläche Datenerfassung starten.
 Nach erfolgter Kalibrierung ist zu beachten, dass der Absolutwert von CS0i und CS1 kleiner als 200 und der Wert von CS1 größer als 300 ist. 5-mal hintereinander durchgeführt befindet sich die andere Hand in der Nähe der Unterseite des Telefons. Der Wert von CS0 wird durch die Taste nach 3 aufeinanderfolgenden Zeiten zwischen 3000 und 30000 hervorgehoben, die Bestanden-Schaltfläche ist hervorgehoben.</string>
+  <string name="sar_sensor_collect_test_summary">"Drehen Sie das Telefon, legen Sie es in die Halterung.
+Klicken Sie auf die Schaltfläche Datenerfassung starten.
+Steuern Sie das Gerät in der Nähe und vom Telefon entfernt"</string>
   <string name="sar_sensor_data_check_description">SAR-Sensordaten sammeln</string>
   <string name="sar_sensor_data_check_summary">"Halten Sie die Oberseite des Telefons mit einer Hand.
 Stellen Sie sicher, dass der tatsächliche Winkel etwa 45 Grad beträgt.

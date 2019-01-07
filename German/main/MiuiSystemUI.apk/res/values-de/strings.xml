@@ -343,14 +343,14 @@
   <string name="bluetooth_active_battery_level">Aktiv, %1$s Akku</string>
   <string name="bluetooth_active_no_battery_level">Aktiv</string>
   <string name="bluetooth_battery_level">%1$s Akku</string>
-  <string name="bluetooth_connected">Verbunden</string>
-  <string name="bluetooth_connected_battery_level">%1$s verbunden, Akku %2$s</string>
+  <string name="bluetooth_connected">Verbunden%1$s</string>
+  <string name="bluetooth_connected_battery_level">Verbunden | Akku %1$s%2$s</string>
   <string name="bluetooth_connected_no_a2dp">%1$s verbunden (keine Medien)</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">%1$s verbunden (keine Medien), Akku %2$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Verbunden (keine Medien) | Akku %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset">%1$s verbunden (kein Telefon)</string>
-  <string name="bluetooth_connected_no_headset_battery_level">%1$s verbunden (kein Telefon), Akku %2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">%1$s verbunden (kein Telefon/keine Medien)</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">%1$s verbunden (kein Telefon/keine Medien), Akku %2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Verbunden (keine Telefon) | Akku %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">%1$s Verbunden (kein Telefon/keine Medien)</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Verbunden (kein Telefon/keine Medien) | Battery %1$s%2$s</string>
   <string name="bluetooth_connected_no_map">%1$s verbunden (kein Nachrichtenzugriff)</string>
   <string name="bluetooth_connecting">Verbinden…</string>
   <string name="bluetooth_disable_absolute_volume">Absolute Lautstärke deaktivieren</string>
@@ -944,7 +944,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="kg_prompt_reason_user_request">Gerät wurde manuell gesperrt</string>
   <string name="kg_puk_enter_pin_hint">Gewünschten PIN-Code eingeben</string>
   <string name="kg_puk_enter_puk_hint">SIM-Karte ist jetzt deaktiviert. Geben Sie den PUK-Code ein, um fortzufahren. Weitere Informationen erhalten Sie von Ihrem Mobilfunkanbieter.</string>
-  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" ist jetzt deaktiviert. PUK-Code eingeben zum Fortfahren. Kontaktieren Sie den Carrier für Details.</string>
+  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" ist jetzt deaktiviert. PUK-Code eingeben zum Fortfahren. Kontaktieren Sie den Netzbetreiber für Details.</string>
   <string name="kg_sim_pin_instructions">SIM-PIN eingeben</string>
   <string name="kg_sim_pin_instructions_multi">SIM PIN für \"%1$s\" eingeben</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt…</string>
@@ -1809,6 +1809,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="wapi_psk_type">Passworttyp</string>
   <string name="wapi_psk_type_hex">Hexadezimal</string>
   <string name="wapi_yes">Ja</string>
+  <string name="warning_recording_when_a2dp_connect">Ihr Gerät unterstützt keine Systemtöne für die Aufnahme, während ein Bluetooth-Headset verwendet wird.</string>
   <string name="weather_publish_time">Aktualisiert um %1$s</string>
   <string name="wifi_aggressive_handover">Wenn diese Option aktiviert ist, wird die Verbindung auf mobile Daten umgeschaltet, wenn das WLAN-Signal schwach ist.</string>
   <string name="wifi_aggressive_handover_summary">Wenn aktiviert, übergibt WLAN mit niedrigem Signal aggressiver an mobile Datenverbindung</string>

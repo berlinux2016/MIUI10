@@ -850,8 +850,8 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permdesc_access_notification_policy">Erlaubt der App, die \"Nicht stören\"-Konfiguration zu lesen</string>
   <string name="permdesc_addVoicemail">Erlaubt der App, Nachrichten zu Ihrem Mailbox-Posteingang hinzuzufügen</string>
   <string name="permdesc_answerPhoneCalls">Erlaubt der App, einen eingehenden Anruf entgegenzunehmen.</string>
-  <string name="permdesc_bindCarrierMessagingService">Erlaubt dem Inhaber, sich an die Top-Level-Schnittstelle eines Carrier-Messaging-Dienstes zu binden. Sollte nie für normale Apps benötigt werden.</string>
-  <string name="permdesc_bindCarrierServices">Erlaubt dem Inhaber, Netzbetreiberservices zu binden. Sollte für normale Apps eigentlich nicht notwendig sein.</string>
+  <string name="permdesc_bindCarrierMessagingService">Erlaubt dem Inhaber, sich an die Top-Level-Schnittstelle eines Netzbetreiber-Nachrichtendienstes zu binden. Sollte nie für normale Apps benötigt werden.</string>
+  <string name="permdesc_bindCarrierServices">Erlaubt dem Inhaber, sich an einen Netzbetreiberdienst zu binden. Sollte für normale Apps eigentlich nicht notwendig sein.</string>
   <string name="permdesc_bindConditionProviderService">Erlaubt dem Inhaber, sich an die Oberfläche eines Bedingungsproviderdienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
   <string name="permdesc_bindDreamService">Erlaubt der App, sich an die Oberfläche eines Dream-Dienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
   <string name="permdesc_bindNotificationListenerService">Erlaubt dem Inhaber, sich an die Oberfläche der obersten Ebene eines Benachrichtigungs-Listener-Dienstes zu binden. Sollte nie für normale Apps benötigt werden.</string>
@@ -987,7 +987,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permlab_accessFineLocation">Zugriff auf genauen Standort (GPS- und netzwerkbasiert)</string>
   <string name="permlab_accessImsCallService">Zugriff auf IMS-Anrufservice</string>
   <string name="permlab_accessLocationExtraCommands">Zugriff auf zusätzliche Dienstanbieterbefehle für Standort</string>
-   <string name="permlab_accessNetworkConditions">Informationen zu den Netzwerkbedingungen erfassen</string>
+  <string name="permlab_accessNetworkConditions">Informationen zu den Netzwerkbedingungen erfassen</string>
   <string name="permlab_accessNetworkState">Netzwerkverbindungen abrufen</string>
   <string name="permlab_accessNotifications">Zugriff auf Benachrichtigungen</string>
   <string name="permlab_accessWifiState">WLAN-Verbindungen abrufen</string>
@@ -995,7 +995,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permlab_access_notification_policy">Zugriff auf \"Nicht stören\"</string>
   <string name="permlab_addVoicemail">Mailboxnachrichten hinzufügen</string>
   <string name="permlab_answerPhoneCalls">Anrufe annehmen</string>
-  <string name="permlab_bindCarrierMessagingService">An einen Carrier Messagingdienst binden</string>
+  <string name="permlab_bindCarrierMessagingService">An einen Netzbetreiber-Nachrichtendienst binden</string>
   <string name="permlab_bindCarrierServices">An Netzbetreiberdienste binden</string>
   <string name="permlab_bindConditionProviderService">An einen Bedingungsproviderdienst binden</string>
   <string name="permlab_bindDreamService">An Dreamdienst binden</string>

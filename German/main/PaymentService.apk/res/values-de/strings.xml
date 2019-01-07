@@ -170,13 +170,13 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_mipay_error">Mi Pay fehlgeschlagen</string>
   <string name="mibi_msg_error">Aufladen fehlgeschlagen</string>
   <string name="mibi_msg_order_hint_1_1">Wenn Sie \"Kauf bestätigen\" getippt haben, wird Ihr Telefon</string>
-  <string name="mibi_msg_order_hint_1_2">automatisch Ihren Netzanbieter kontaktieren.</string>
+  <string name="mibi_msg_order_hint_1_2">automatisch Ihren Netzbetreiber kontaktieren.</string>
   <string name="mibi_msg_picker_hint_1_2">Aufladen per Text kann teurer sein: &lt;font color=red&gt;￥%1$d = %2$d Mi Credit&lt;/font&gt;</string>
-  <string name="mibi_msg_picker_hint_2_2">Netzanbieter berechnen eine Servcegebühr von ￥%1$s pro Aufladung</string>
-  <string name="mibi_msg_picker_hint_2_a">Netzanbieter berechnen eine Servicegebühr von ￥%1$s pro Aufladung</string>
-  <string name="mibi_msg_picker_hint_2_b">Eine SMS wird an Ihren Netzanbieter gesendet, nachdem Sie auf \"Aufladen\" getippt haben. Der Netzanbieter wird Ihnen eine reguläre SMS berechnen.</string>
+  <string name="mibi_msg_picker_hint_2_2">Netzbetreiber berechnen eine Servcegebühr von ￥%1$s pro Aufladung</string>
+  <string name="mibi_msg_picker_hint_2_a">Netzbetreiber berechnen eine Servicegebühr von ￥%1$s pro Aufladung</string>
+  <string name="mibi_msg_picker_hint_2_b">Eine SMS wird an Ihren Netzbetreiber gesendet, nachdem Sie auf \"Aufladen\" getippt haben. Der Netzbetreiber wird Ihnen eine reguläre SMS berechnen.</string>
   <string name="mibi_msg_picker_hint_3_2">Maximale monatliche Aufladung: ￥%1$s</string>
-  <string name="mibi_msg_send_no_net_error">Nachricht senden fehlgeschlagen: Verbindung mit Netzanbieter nicht möglich.</string>
+  <string name="mibi_msg_send_no_net_error">Nachricht senden fehlgeschlagen: Verbindung mit Netzbetreiber nicht möglich.</string>
   <string name="mibi_msg_send_no_sim_error">Nachricht senden fehlgeschlagen: Versuchen Sie, Ihre SIM-Karte neu einzulegen.</string>
   <string name="mibi_msg_send_parameter_error">Nachricht senden fehlgeschlagen, es gibt einen Fehler im Inhalt.</string>
   <string name="mibi_msg_send_send_fail_error">Nachricht senden fehlgeschlagen</string>
@@ -184,10 +184,10 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_msg_telecom_order_denom_label">Betrag</string>
   <string name="mibi_msg_telecom_order_goods_label">Artikel</string>
   <string name="mibi_msg_telecom_picker_hint_1_1">Wenn Sie \"Kauf bestätigen\" getippt haben, wird Ihr Telefon</string>
-  <string name="mibi_msg_telecom_picker_hint_1_2">automatisch Ihren Netzanbieter kontaktieren.</string>
-  <string name="mibi_msg_telecom_picker_hint_2_1">Ihr Netzanbieter wurde kontaktiert!</string>
+  <string name="mibi_msg_telecom_picker_hint_1_2">automatisch Ihren Netzbetreiber kontaktieren.</string>
+  <string name="mibi_msg_telecom_picker_hint_2_1">Ihr Netzbetreiber wurde kontaktiert!</string>
   <string name="mibi_msg_telecom_picker_hint_2_2">Sie erhalten in Kürze eine Textbestätigung.</string>
-  <string name="mibi_msg_telecom_sending">Netzanbieter wird kontaktiert…</string>
+  <string name="mibi_msg_telecom_sending">Netzbetreiber wird kontaktiert…</string>
   <string name="mibi_normal_license_name">Allgemeine Geschäftsbedingungen</string>
   <string name="mibi_order_balance_lable_append">Mi Credits + Gutschein</string>
   <string name="mibi_order_balance_title">Meine Mi Credits</string>
@@ -217,11 +217,11 @@ Bitte kontaktieren Sie den Kundenservice."</string>
   <string name="mibi_paytool_mipay">Mi Pay</string>
   <string name="mibi_paytool_msp_not_installed">Sie haben %1$s mobile/s Sicherheitsplugin/s nicht installiert, jetzt installieren?</string>
   <string name="mibi_prepaid_card_order_info">%1$s Aufladekarte: RMB %2$s</string>
-  <string name="mibi_prepaid_carriers_picker_hint">Netzanbieter auswählen</string>
+  <string name="mibi_prepaid_carriers_picker_hint">Netzbetreiber auswählen</string>
   <string name="mibi_prepaid_edit_limit">Ziffern</string>
   <string name="mibi_prepaid_error_card_length">Ungültige/s Kartennummer oder Passwort</string>
   <string name="mibi_prepaid_error_card_number">Kartennummer ungültig</string>
-  <string name="mibi_prepaid_error_carrier">Netzanbieter auswählen</string>
+  <string name="mibi_prepaid_error_carrier">Netzbetreiber auswählen</string>
   <string name="mibi_prepaid_error_denomination">Betrag auswählen</string>
   <string name="mibi_prepaid_error_password">Kartenpasswort ungültig</string>
   <string name="mibi_prepaid_number_edit_hint">Nummer</string>
@@ -442,7 +442,7 @@ Kundenservicecenter: 400-100-5678"</string>
   <string name="passport_reg_using_other_phone"><u>Alternative Telefonnummer verwenden</u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"Neues Konto einrichten mit "</string>
   <string name="passport_reg_using_phone_number_prompt">Konto einrichten mit Telefonnummer</string>
-  <string name="passport_reg_via_sms_alert">Ihr Netzanbieter könnte Gebühren berechnen für die SMS zur Aktivierung des Dienstes.</string>
+  <string name="passport_reg_via_sms_alert">Ihr Netzbetreiber könnte Gebühren berechnen für die SMS zur Aktivierung des Dienstes.</string>
   <string name="passport_reging">Konto erstellen…</string>
   <string name="passport_register">Konto erstellen</string>
   <string name="passport_register_account_goto_email">Zum Posteingang gehen</string>
@@ -505,7 +505,7 @@ Kundenservicecenter: 400-100-5678"</string>
   <string name="passport_verification_failed">Authentifizierung fehlgeschlagen</string>
   <string name="passport_verify">Verifizieren</string>
   <string name="passport_verifying_activator_phone">Telefonsicherheit verifizieren…</string>
-  <string name="passport_wait_for_sms_prompt">Jetzt neu beginnen? Die Zustellung von Bestätigungsnachrichten kann bis zu 10 Minuten dauern, wenn sich Ihr Telefon in Netzreichweite Ihres Netzanbieters befindet.</string>
+  <string name="passport_wait_for_sms_prompt">Jetzt neu beginnen? Die Zustellung von Bestätigungsnachrichten kann bis zu 10 Minuten dauern, wenn sich Ihr Telefon in Netzreichweite Ihres Netzbetreibers befindet.</string>
   <string name="passport_wrong_captcha">Eingegebener Code ist falsch</string>
   <string name="passport_wrong_phone_number_format">Format der eingegebenen Telefonnummer ist ungültig</string>
   <string name="passport_wrong_vcode">Eingegebener Code ist falsch</string>

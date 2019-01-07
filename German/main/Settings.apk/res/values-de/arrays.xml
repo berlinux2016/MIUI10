@@ -309,9 +309,9 @@
   </string-array>
   <string-array name="bluetooth_audio_active_device_summaries">
     <item></item>
-    <item>aktiv</item>
-    <item>aktiv (Medien)</item>
-    <item>aktiv (Telefon)</item>
+    <item>" | Aktiv"</item>
+    <item>" | Aktiv (Medien)"</item>
+    <item>" | Aktiv (Telefon)"</item>
   </string-array>
   <string-array name="bluetooth_visibility_timeout_entries">
     <item>2 Minuten</item>
@@ -909,7 +909,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
   <string-array name="status_bar_show_carrier_entries">
     <item>Nur auf Sperrbildschirm anzeigen</item>
     <item>Nur in Statusleiste anzeigen</item>
-    <item>Netzanbieter niemals anzeigen</item>
+    <item>Netzbetreiber niemals anzeigen</item>
   </string-array>
   <string-array name="status_bar_settings_notification_shade_shortcut_entries">
     <item>Suchen</item>
