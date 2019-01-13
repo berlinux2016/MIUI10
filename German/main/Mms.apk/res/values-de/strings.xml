@@ -476,10 +476,10 @@
   <string name="pref_summary_send_delivery_reports">Sende Lieferbestätigungsmeldung an den Absender, wenn Sie eine Multimedia-Mitteilung erhalten</string>
   <string name="pref_summary_wake_up_screen">Bildschirm bei Eingang neuer Nachrichten einschalten</string>
   <string name="pref_switch_sdk_setting">Smart SMS-Engine ändern</string>
-  <string name="pref_title_allow_si_sl_push">WAP-Pushmitteilungen erlauben (SI/SL)</string>
+  <string name="pref_title_allow_si_sl_push">"WAP-Pushmitteilungen erlauben            (SI/SL)"</string>
   <string name="pref_title_allow_upload_message_info">Spam-Nachrichten hochladen</string>
   <string name="pref_title_auto_delete">Alte Nachrichten löschen</string>
-  <string name="pref_title_card_format">Kartenteilformat</string>
+  <string name="pref_title_card_format">Visitenkarten-Teil-Methode</string>
   <string name="pref_title_delivery_reports">Sendebestätigung</string>
   <string name="pref_title_fwd_sender_info">Weiterleitungsdetails</string>
   <string name="pref_title_manage_sim_messages">SIM-Kartenspeicher</string>
@@ -499,7 +499,7 @@
   <string name="pref_title_sms_validity_period">SMS-Gültigkeitsdauer</string>
   <string name="pref_title_storage_status">Nachrichtenspeicherstatus</string>
   <string name="pref_title_system_mms_priority">Als Standard setzen</string>
-  <string name="pref_title_vcard">Senden per vCard</string>
+  <string name="pref_title_vcard">Per vCard senden</string>
   <string name="pref_title_wake_up_screen">Bildschirm einschalten</string>
   <string name="preferences_title">Einstellungen</string>
   <string name="prepare_send">Senden wird vorbereitet…</string>
@@ -723,10 +723,11 @@
   <string name="stick">Anheften</string>
   <string name="stick_conversation">Aktuelle Unterhaltung anheften</string>
   <string name="sticked_conversation">Aktuelle Unterhaltung wurde angeheftet</string>
-  <string name="storage_dialog_attachments">MMS-Anhänge:</string>
-  <string name="storage_dialog_available_space">Verfügbarer Speicher:</string>
-  <string name="storage_dialog_database">Datenbank:</string>
-  <string name="storage_dialog_mms_size">MMS-Größe:</string>
+  <string name="storage_dialog_attachments">"MMS-Anhänge: "</string>
+  <string name="storage_dialog_available_space">"Verfügbarer Speicher: "</string>
+  <string name="storage_dialog_database">"Datenbank: "</string>
+  <string name="storage_dialog_mms">MMS: %d</string>
+  <string name="storage_dialog_mms_size">"MMS-Größe: "</string>
   <string name="storage_limits_activity">Speicherlimits</string>
   <string name="storage_limits_message">Anzahl der pro Unterhaltung gespeicherten Nachrichten begrenzen?</string>
   <string name="storage_limits_setting">Limit festlegen</string>
@@ -747,7 +748,7 @@
   <string name="title_collapse_sp_messages">Anbieternachrichten zusammenführen</string>
   <string name="title_hide_verification_code">OTP automatisch verbergen</string>
   <string name="title_pref_cm_smart_sms">China Mobile Intelligente SMS</string>
-  <string name="title_show_blocked_messages">Zeige geblockte SMS</string>
+  <string name="title_show_blocked_messages">Zeige gesperrte SMS</string>
   <string name="title_show_list_avatar">Profilfotos anzeigen</string>
   <string name="title_show_photo_word">Kontaktbilder zuordnen</string>
   <string name="title_show_sms_template">Intelligente Nachrichten</string>
