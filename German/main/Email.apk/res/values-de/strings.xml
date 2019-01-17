@@ -168,6 +168,10 @@
   <string name="always_bcc_myself">Bcc immer an mich</string>
   <string name="always_show_images">Zeige stets Bilder von diesem Absender</string>
   <string name="app_name">E-Mail</string>
+  <string name="appraise_des">Wir arbeiten sehr hart daran, Produkte zu entwickeln, nur zu Ihrer Zufriedenheit. Bitte unterstützen Sie uns mit Ihren Kommentaren.</string>
+  <string name="appraise_good">Lob und Ermutigung</string>
+  <string name="appraise_ignore">Temporäre Auswertung</string>
+  <string name="appraise_negative">Negativer Kommentar</string>
   <string name="archive">Archivieren</string>
   <string name="archived">Archiviert</string>
   <string name="att_download_failed_content">Download Anhang fehlgeschlagen</string>
@@ -499,10 +503,12 @@
   <string name="gmail_login_failed_non_proxy_title">Kein Zugriff auf Gmail-Server</string>
   <string name="gmail_server_authorization_deleted">Authentifizierung fehlgeschlagen. Nochmals versuchen.</string>
   <string name="gmail_web_login_required_message">Anmelden</string>
+  <string name="have_auth_code">Anmeldung mit Code</string>
   <string name="header_category_account">Konten</string>
   <string name="header_label_general_preferences">Allgemein</string>
   <string name="help_and_info">Hilfe</string>
   <string name="help_config">Selbstkonfiguration</string>
+  <string name="help_me_get_qq_auth">Hilf mir, den QQ-Autorisierungscode zu erhalten.</string>
   <string name="hide_atts_remaining">%1$d Anhänge ausblenden</string>
   <string name="hide_elided">▼ Zitierten Text ausblenden</string>
   <string name="hide_password">Passwort verbergen</string>
@@ -680,6 +686,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="one_day">1 Tag</string>
   <string name="one_month">1 Monat</string>
   <string name="one_week">1 Woche</string>
+  <string name="open_androidp_warning">Open 9.0 Inoffizielle SDK-Warnung</string>
   <string name="open_calendar_and_contacts_permission">E-Mail den Zugriff auf Kontakte und Kalenderinfo in den Einstellungen erlauben</string>
   <string name="open_external_storage_and_calendar_permission">E-Mail den Zugriff auf Speicher- und Kalenderinformationen in den Einstellungen erlauben</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">E-Mail den Zugriff auf Speicher-, Kontakt- und Kalenderinformationen in den Einstellungen erlauben</string>
@@ -796,7 +803,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="preview_attachment">Vorschau</string>
   <string name="previous_action">Zurück</string>
   <string name="print">Drucken</string>
-  <string name="privacy_des">"Die Protokollinformationen enthalten von der E-Mail-App übermittelte Debugging-Informationen sowie Informationen zu Ihrem Gerät, um das von Ihnen gemeldete Problem zu finden. Wählen Sie unten '%1$s' aus, um zu bestätigen, dass Sie Xiaomi's %2$s gelesen und akzeptiert haben."</string>
+  <string name="privacy_des">"Die Protokollinformationen enthalten von der E-Mail-App übermittelte Debugging-Informationen sowie Informationen zu Ihrem Gerät, um das von Ihnen gemeldete Problem zu finden. Wählen Sie unten '%1$s' aus, um zu bestätigen, dass Sie Xiaomi's «%2$s» gelesen und akzeptiert haben."</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="prompt_title">Nachfragen</string>
   <string name="protocol_setting_toast">Nach der Zustimmung tippen Sie in die obere rechte Ecke, um zu den Einstellungen zu gelangen</string>
@@ -822,9 +829,11 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="qq_login_get_auth">Aktivieren Sie den Passwortschutz, wenn Sie keine SMS empfangen können</string>
   <string name="qq_login_open_imap">\"Hilfe\" klicken, um IMAP/SMTP zu aktivieren</string>
   <string name="qq_login_origin_setting">Zur Anmeldung Benutzername und Passwort eingeben &gt;</string>
+  <string name="qq_login_notice">Heißer Tipp: Wenn Sie ein unabhängiges Passwort eingerichtet haben, müssen Sie ein unabhängiges Passwort eingeben, um Ihre Eingabe in die Mailbox zu bestätigen.</string>
   <string name="qq_login_send_message">\"SMS senden\" klicken, um Berechtigungscode zu erhalten</string>
   <string name="qq_login_webview">Zum Anmelden beim QQ-Webclient tippen Sie auf Anmelden mit dem Passwort</string>
   <string name="qq_next_generation_auth_toast">Aktivieren Sie den Passwortschutz in Ihrem Browser.</string>
+  <string name="qq_pwd_or_qq_auth_code">QQ-Autorisierungscode oder Mailbox-Passwort</string>
   <string name="qq_uthentication_failed">Authentifizierung fehlgeschlagen. Bitte melden Sie sich erneut an</string>
   <string name="qq_verify_code">(QQ Verifizierungscode benötigt)</string>
   <string name="qq_webview_loading">Einen Moment…</string>
