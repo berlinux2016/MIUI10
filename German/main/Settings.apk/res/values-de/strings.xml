@@ -318,7 +318,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="ambient_display_screen_summary_notifications">Neue Benachrichtigungen</string>
   <string name="ambient_display_screen_title">Umgebungsdisplay</string>
   <string name="ambient_display_summary">Um Zeit, Benachrichtigungen und andere Infos zu prüfen, tippen Sie doppelt auf Ihren Bildschirm</string>
-  <string name="ambient_display_title">Doppeltipp, um das Telefon zu prüfen</string>
+  <string name="ambient_display_title">Doppeltippen, um das Telefon zu prüfen</string>
   <string name="android_beam_disabled_summary">Um diese Funktion zu nutzen, schalten Sie NFC ein</string>
   <string name="android_beam_explained">Sie können Webseiten, ein Video oder andere Inhalte auf ein anderes Gerät senden, das Android Beam unterstützt, indem Sie die Geräte dicht nebeneinander halten. (Normalerweise Rückseite an Rückseite)</string>
   <string name="android_beam_off_summary">Freigabe von NFC-Inhalten ist deaktiviert</string>
@@ -2024,7 +2024,7 @@ Du kannst die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="edge_mode_notification_title">Nutze Kantensteuerung</string>
   <string name="edge_mode_photo">Ein Foto machen</string>
   <string name="edge_mode_photo_summary">Tippen Sie in der Kamera auf den Rand des Telefons, um den Blendenverschluss auszulösen und tippen Sie erneut, um ein Foto zu machen</string>
-  <string name="edge_mode_screenshot_summary">Auf beide Kanten doppelt tippen, um ein Screenshot zu erstellen</string>
+  <string name="edge_mode_screenshot_summary">Auf beide Kanten doppeltippen, um ein Screenshot zu erstellen</string>
   <string name="edit_rule">Regeln bearbeiten</string>
   <string name="edit_rules">Bearbeiten</string>
   <string name="eighthours">8 Stunden</string>
@@ -2476,7 +2476,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und Appdaten peri
   <string name="gesture_prevent_ringing_title">Power &amp;Latutstärke hoch gleichzeitig drücken</string>
   <string name="gesture_setting_off">Aus</string>
   <string name="gesture_setting_on">An</string>
-  <string name="gesture_wakeup_title">Doppeltipp, um Bildschirm einzuschalten</string>
+  <string name="gesture_wakeup_title">Doppeltippen, um Bildschirm einzuschalten</string>
   <string name="getConfiguredNetworks">Konfiguriertes Netzwerk beziehen</string>
   <string name="getConnectionInfo">Verbindungsinfo bekommen</string>
   <string name="global_change_warning">Diese Einstellung betrifft alle Benutzer auf diesem Telefon</string>
@@ -2719,7 +2719,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und Appdaten peri
   <string name="keyboard_shortcuts_helper">Tastaturverknüpfungshilfe</string>
   <string name="keyboard_shortcuts_helper_summary">Verfügbare Verknüpfungen anzeigen</string>
   <string name="keyguard_advance_setting_title">Weitere Einstellungen</string>
-  <string name="keyguard_double_tap_to_sleep_title">Doppeltipp, um Bildschirm auszuschalten</string>
+  <string name="keyguard_double_tap_to_sleep_title">Doppeltippen, um Bildschirm auszuschalten</string>
   <string name="keyguard_notification_status_title">Wenn Benachrichtigungen eingehen und der Bildschirm ausgeschaltet ist</string>
   <string name="keyguard_security_setting_others">Andere</string>
   <string name="keyguard_security_setting_privacy_policy">Datenschutzerklärung</string>
@@ -4717,7 +4717,7 @@ Mindestens %s freigeben."</string>
   <string name="search_enable_adb">USB-Debugging</string>
   <string name="search_fluency_mode">Systemanimationen</string>
   <string name="search_font">Systemschrift;Font;Fonts;Schrift;Schriften;Schriftgöße;Schriftgrößen</string>
-  <string name="search_gesture_wakeup_title">Doppeltipp Bildschirm zum Aufwecken;Doppeltipp zum Aufwecken;Bildschirm aufwecken;Doppeltipp Bildschirm;Doppeltipp;zweifach tippen,zweimal tippen</string>
+  <string name="search_gesture_wakeup_title">Doppeltippen Bildschirm zum Aufwecken;Doppeltippen zum Aufwecken;Bildschirm aufwecken;Doppeltippen Bildschirm;Doppeltippen;zweifach tippen,zweimal tippen</string>
   <string name="search_gps">GPS;Standortzugriff;Standortdienste</string>
   <string name="search_handy_mode">Einhandmodus;Einhand</string>
   <string name="search_hint">Sucheinstellungen</string>
@@ -5665,7 +5665,7 @@ Ein Google-Ansatz zur Synchronisierung von Daten, um den Zugriff auf Ihre Kontak
   <string name="talkback_summary">Screenreader in erster Linie für Blinde und Menschen mit eingeschränkten Sehvermögen</string>
   <string name="talkback_watermark_enable">TalkBack Wassrzeichen</string>
   <string name="tap_to_wake">Tippen zum Aufwecken</string>
-  <string name="tap_to_wake_summary">Doppeltipp auf Bildschirm, um das Gerät aufzuwecken</string>
+  <string name="tap_to_wake_summary">Auf Bildschirm doppeltippen, um das Gerät aufzuwecken</string>
   <string name="task_backup_cancel_progress">Anhalten…</string>
   <string name="task_backup_finished_local">"Gesichert: "</string>
   <string name="task_canceled">Sicherung abgebrochen</string>
@@ -6602,8 +6602,8 @@ Jeder Benutzer kann aktualisierte Appberechtigungen für alle anderen Benutzer a
   <string name="wifi_advanced_not_available">Erweiterte WLAN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="wifi_advanced_settings_label">IP-Einstellungen</string>
   <string name="wifi_advanced_titlebar">Erweiterte WLAN-Einstellungen</string>
-  <string name="wifi_advanced_toggle_description_collapsed">Dropdown-Liste Erweiterte Optionen. Doppeltipp zum Erweitern.</string>
-  <string name="wifi_advanced_toggle_description_expanded">Dropdown-Liste Erweiterte Optionen. Doppeltipp zum Einklappen.</string>
+  <string name="wifi_advanced_toggle_description_collapsed">Dropdown-Liste Erweiterte Optionen. Doppeltippen zum Erweitern.</string>
+  <string name="wifi_advanced_toggle_description_expanded">Dropdown-Liste Erweiterte Optionen. Doppeltippen zum Einklappen.</string>
   <string name="wifi_aggressive_handover">Aggressives Umschalten von WLAN auf Mobilfunkdaten</string>
   <string name="wifi_aggressive_handover_summary">Wenn aktiviert, übergibt WLAN mit niedrigem Signal aggressiver an mobile Datenverbindung</string>
   <string name="wifi_alert_lockdown_by_device_owner">%1$s verwaltet Ihr Gerät und erlaubt nicht, dieses WLAN zu ändern oder zu löschen. Für weitere Informationen kontaktieren Sie Ihren Administrator.</string>
