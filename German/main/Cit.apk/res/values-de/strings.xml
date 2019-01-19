@@ -67,6 +67,7 @@ Ende Ladegerättest, bitte das Ladegerät herausziehen"</string>
   <string name="cit_OTG_waiting_in">USB OTG-Gerät jetzt anschließen</string>
   <string name="cit_OTG_waiting_in_charge">USB OTG-Gerät jetzt verbinden</string>
   <string name="cit_OTG_waiting_out">USB OTG-Gerät jetzt trennen und bei USB Typ C umgedreht wieder einstecken</string>
+  <string name="cit_Reserse_charge_check_title">Umkehrladungstest</string>
   <string name="cit_abnormal_reboot_summary">Lesen von Stabilitätsdaten, bitte warten…</string>
   <string name="cit_abnormal_reboot_title">Gerätestabilitätsdaten</string>
   <string name="cit_ac_charger_in">Laden mit Netzteil</string>
@@ -137,11 +138,15 @@ Halten Sie das Telefon so, als ob Sie einen Anruf entgegennehmen, sprechen Sie i
   <string name="cit_audio_right_calfail">Rechte PA kalibriert fehlgeschlagen!</string>
   <string name="cit_audio_spk_type">"Anbieter von Audiolautsprechern: "</string>
   <string name="cit_audio_spk_usetime">"Nutzungszeit des Audiolautsprechers: "</string>
-  <string name="cit_aux_camera_check_summary">"Testanweisungen:
+  <string name="cit_aux_camera_check_summary">"Testanleitung:
 
 1. Tippen Sie unten auf die Zoomtaste, um die Kamera aufzurufen.
 2. Tippen Sie auf die Zoomtaste in der Kameravorschau, das Vorschaufenster wird vergrößert.
 3. Tippen Sie auf Fertig."</string>
+  <string name="cit_aux_camera_check_summary_no_zoom">"Testanleitung:
+
+1. Tippen Sie auf die Vorschau-Schaltfläche unten, um zur Kamera zu gelangen.
+2. Warten Sie auf das Ende der Vorschau, automatische Rückkehr."</string>
   <string name="cit_back_pointer_location_title">Rückwärts-Touch-Sensor</string>
   <string name="cit_battery_check_summary">Geräteakkustatistik</string>
   <string name="cit_battery_check_title">Akkuinfo</string>
@@ -175,7 +180,7 @@ Halten Sie das Telefon so, als ob Sie einen Anruf entgegennehmen, sprechen Sie i
   <string name="cit_button_light_on">Beleuchtete Tasten AN</string>
   <string name="cit_calibration_fail">Kalibrierung fehlgeschlagen</string>
   <string name="cit_calibration_pass">Kalibrierung bestanden</string>
-  <string name="cit_camera_calibration_summary">"Testanweisungen:
+  <string name="cit_camera_calibration_summary">"Testanleitung:
 
 1. Tippen Sie unten auf Kalibrierung, um die OIS-Kalibrierung zu starten.
 2. Mit Kalibrierung erfolgreich wird angezeigt, dass OIS kalibriert wurde."</string>
@@ -230,7 +235,7 @@ Halten Sie das Telefon so, als ob Sie einen Anruf entgegennehmen, sprechen Sie i
   <string name="cit_fpc_sensor_check_title">FPC Fingerabdrucksensor</string>
   <string name="cit_fptest_summary">Drücken Sie die Taste Fp-Test, um den Fingerabdruck zu testen.</string>
   <string name="cit_fptest_title">Fingerabdruck Fp-Test</string>
-  <string name="cit_front_camera_check_summary">"Testanweisungen:
+  <string name="cit_front_camera_check_summary">"Testanleitung:
 
 1. Tippen Sie unten auf Kamera, um die vordere Kameraschnittstelle aufzurufen.
 2. Tippen Sie auf den Auslöser.
@@ -310,7 +315,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
   <string name="cit_light_sensor_check_title">Lichtsensor</string>
   <string name="cit_magnetic_sensor_check_summary">Werte für X/Y/Z-Koordinaten sollten unten stehen</string>
   <string name="cit_magnetic_sensor_check_title">Magnetsensor</string>
-  <string name="cit_main_camera_check_summary">"Testanweisungen:
+  <string name="cit_main_camera_check_summary">"Testanleitung:
 
 1. Tippen Sie unten auf die Kamerataste, um die rückwärtige Kamera-Schnittstelle aufzurufen.
 2. Stellen Sie sicher, dass der Blitz aktiviert ist.
@@ -320,6 +325,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
   <string name="cit_main_camera_check_title">Hintere Kamera</string>
   <string name="cit_name">Hardwaretests</string>
   <string name="cit_nfc_check_summary">Bitte legen Sie die Karte oben auf die Rückseite des Telefons</string>
+  <string name="cit_nfc_sim_check_summary">Vergewissern Sie sich, dass der Status und die Informationen der NFC-SIM-Karte korrekt angezeigt werden. Es existieren nur zwei NFC-SIM-Karten gleichzeitig und bei  korrektem Status ist es bestanden.</string>
   <string name="cit_not_available">Dieser Test ist auf dieser Version von MIUI nicht verfügbar</string>
   <string name="cit_notificationlight">Benachrichtigungslicht</string>
   <string name="cit_notificationlight_off">Benachrichtigungslicht aus</string>
@@ -344,7 +350,7 @@ Achten Sie beim Kalibrieren darauf, dass sich nichts zwischen dem Sensor und Ihr
   <string name="cit_proximity_us_summary">Ultraschall-Näherungssensor-Kalibrierung</string>
   <string name="cit_rear_dual_camera_check_title">Hintere Dualkamera</string>
   <string name="cit_rear_dual_second_camera_check_title">Zweite Dualkamera</string>
-  <string name="cit_rear_sub_camera_check_summary">"Testanweisungen:
+  <string name="cit_rear_sub_camera_check_summary">"Testanleitung:
 
 1. Tippen Sie unten auf die Kamerataste, um in die rückwärtige untere Kameraschnittstelle zu gelangen.
 2. Tippen Sie auf den Auslöser.
@@ -450,6 +456,7 @@ Nachdem Sie \"music.mp3\" in das Verzeichnis der SD-Karte gelegt haben, tippen S
   <string name="cit_tool_nfc">NFC Testtools</string>
   <string name="cit_tool_nfc_ce_disable">Ce deaktivieren</string>
   <string name="cit_tool_nfc_ce_enable">Ce aktivieren</string>
+  <string name="cit_tool_nfc_st_run">Starten</string>
   <string name="cit_tool_prx_drx_select_mode">Modus wählen:</string>
   <string name="cit_tool_prx_drx_select_rat">RAT wählen:</string>
   <string name="cit_tool_prx_drx_start_test">Test starten</string>
@@ -482,6 +489,7 @@ Nachdem Sie \"music.mp3\" in das Verzeichnis der SD-Karte gelegt haben, tippen S
   <string name="cit_touch_calib_pass">Touch-Kalibrierung bestanden, bitte normal verwenden</string>
   <string name="cit_touch_calib_summary">Nächster Schritt führt die Touch-Kalibrierung durch, drücken Sie die Bestätigen-Taste und berühren Sie danach nicht den Bildschirm, warten Sie auf den Erfolgshinweis der Kalibrierung</string>
   <string name="cit_touch_calib_title">Touch-Kalibrierung</string>
+  <string name="cit_touch_panel_test_title">Berührungssensor</string>
   <string name="cit_tpdump_check_summary">Bitte klicken Sie auf die Schaltfläche, um die Touch-Anzeigefunktion zu aktivieren oder zu deaktivieren</string>
   <string name="cit_tpdump_close">Anzeige deaktivieren</string>
   <string name="cit_tpdump_open">Anzeige aktivieren</string>
@@ -543,7 +551,7 @@ Test fehlgeschlagen!"</string>
   <string name="firstplug_mic_check_record_tip">Aufnahme stoppen. Nachdem Sie das Headset eingesteckt haben, bestätigen Sie das Ergebnis.</string>
   <string name="fod_check_start_error">"Sensorprüfprogramm kann nicht gestartet werden.
 Test fehlgeschlagen!"</string>
-  <string name="fod_check_summary">"Testanweisungen:
+  <string name="fod_check_summary">"Testanleitung:
 Automatischer Test basierend auf dem Sensortyp.
 Basierend auf dem Testergebnis tippen Sie auf die Taste Bestanden oder Fehlgeschlagen."</string>
   <string name="fod_check_title">Fingerabdrucksensorprüfung</string>
@@ -553,6 +561,7 @@ Test fehlgeschlagen!"</string>
   <string name="fod_fingerprint_input_title">FOD-Fingerabdruck-Eingabetest</string>
   <string name="fod_pressure_sensor_pressure_data_collection">Abdruckdatenerfassung…</string>
   <string name="fod_pressure_sensor_test_exception">Ausnahmefehler beim Lesen der Knoten-Datei</string>
+  <string name="fod_pressure_sensor_test_fail">Test fehlgeschlagen, bitte klicken Sie auf die Schaltfläche Fehlgeschlagen.</string>
   <string name="fod_pressure_sensor_test_pressure_too_big">"Sensordurchschnittsdruck zu stark: %1$d
 Test fehlgeschlagen, bitte tippen Sie auf die Taste Fehlgeschlagen."</string>
   <string name="fod_pressure_sensor_test_pressure_too_small">"Sensordurchschnittsdruck zu gering: %1$d
@@ -592,7 +601,7 @@ Test erfolgreich, bitte tippen Sie auf die Taste Bestanden."</string>
   <string name="interval_vibrator">Intervallvibration</string>
   <string name="intro_message">Dieses Beispiel zeigt die grundsätzliche Nutzung von Camera2 API. Prüfen Sie den Quellcode, um zu sehen, wie Sie die Kameravorschau anzeigen und Bilder aufnehmen können.</string>
   <string name="ir_camera_led_test_description">Strukturierter Licht-LED-Test</string>
-  <string name="ir_camera_led_test_summary">"Testanweisungen:
+  <string name="ir_camera_led_test_summary">"Testanleitung:
 1. Tippen Sie unten auf die Vorschautaste, um zur Kameraschnittstelle zu gelangen.
 2. Folgende Elemente werden zufällig eingeschaltet. Bitte wählen Sie den aktuellen LED-Status aus."</string>
   <string name="ir_camera_led_test_title">Strukturierter Licht-LED-Test</string>
@@ -614,14 +623,15 @@ Test erfolgreich, bitte tippen Sie auf die Taste Bestanden."</string>
   <string name="last_time_test_result">LETZTES TESTERGEBNIS</string>
   <string name="launcher_d5x_sar_summary">Die Ausgangsdaten der einzelnen Kanäle des SAR-Sensors werden unten angezeigt. Bitte kehren Sie zum SAR-Kalibriergerät zurück und klicken Sie auf Kalibrierung starten. Wenn die Kalibrierung BESTANDEN anzeigt, dann zeigt er normal an. Bitte beachten Sie, es zeitnah geschieht und sich die Hände nicht in der Nähe des Mobiltelefons befinden.</string>
   <string name="lcminfo">LCM Information</string>
+  <string name="led_tip_txt">Die folgenden Elemente werden nach dem Zufallsprinzip eingeschaltet. Bitte wählen Sie den aktuellen Status der Leuchte aus.</string>
   <string name="magnetic_info_hint">Bitte drehen Sie das Telefon in Form einer 8</string>
   <string name="main_mic_check_record_tip">Aufnahme, bitte sprechen Sie ins Mikrofon auf der Hauptseite des Telefons.</string>
   <string name="mic1_spk_loop">Mikrofon-Lautsprecher-Loop</string>
   <string name="mic1test">MIK1</string>
   <string name="mic_check_rm_headset_tip">Nehmen Sie zunächst das Headset ab und nehmen Sie Ton auf.</string>
   <string name="mic_tip">Bitte machen Sie ein Geräusch ins Mikrofon. Nachdem Sie das Headset eingesteckt haben, hören Sie sich den Ton auf dem Headset an.</string>
-  <string name="mic_volume_height_tip">MIK-Lautstärketest BESTANDEN</string>
-  <string name="mic_volume_low_tip">MIK-Lautstärketest nicht bestanden. Bitte machen Sie bei der Aufnahme einen lauteren Ton.</string>
+  <string name="mic_volume_height_tip">MIKRO-Lautstärketest BESTANDEN</string>
+  <string name="mic_volume_low_tip">MIKRO-Lautstärketest nicht bestanden. Bitte machen Sie bei der Aufnahme einen lauteren Ton.</string>
   <string name="micphone_test">Mikrofon &amp; Lautsprecher</string>
   <string name="navigation_drawer_close">Navigationsleiste schließen</string>
   <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
@@ -636,7 +646,7 @@ Test erfolgreich, bitte tippen Sie auf die Taste Bestanden."</string>
   <string name="plugout_and_reverse_plugin">"
 Bitte stecken Sie das Ladegerät aus und umgedreht wieder ein."</string>
   <string name="pop_camera">Pop-Kamera</string>
-<string name="pop_push_camera_test_summary">Klicken Sie auf die Pop-Kamerataste, um zu sehen, ob die Kamera herauskommt.
+  <string name="pop_push_camera_test_summary">Klicken Sie auf die Pop-Kamerataste, um zu sehen, ob die Kamera herauskommt.
 Klicken Sie auf die Push-Kamerataste, um zu sehen, ob die Kamera eingelegt ist</string>
   <string name="pop_push_camera_test_title">Pop- und Push-Kameratest</string>
   <string name="push_camera">Push-Kamera</string>
@@ -679,6 +689,7 @@ Klicken Sie auf die Push-Kamerataste, um zu sehen, ob die Kamera eingelegt ist</
   <string name="refresh_number_of_keys">Tastenanzahl aktualisieren</string>
   <string name="removeFingerprint">Fingerabdruck entfernen</string>
   <string name="remove_headset_and_starttest">Bitte entfernen Sie das Headset und drücken Sie zum Testen auf Start</string>
+  <string name="request_permission">Dieses Beispiel benötigt eine Kameraberechtigung.</string>
   <string name="resetpixel_test">PIXELTEST ZURÜCKSETZEN</string>
   <string name="run">Starten</string>
   <string name="sample_data">Musterdaten</string>
@@ -703,6 +714,14 @@ Stellen Sie sicher, dass der tatsächliche Winkel etwa 45 Grad beträgt.
 Halten Sie die andere Hand vom Telefon fern.
 Sehen Sie sich den CS0-Wert an.
 Wenn der CS0-Wert kleiner als 500 und der CS2-Wert größer als 10000 ist,
+halten Sie die andere Hand dicht an die Unterseite des Telefons.
+Sehen Sie sich den CS0-Wert an.
+Wenn der CS0-Wert zwischen 3000 und 30000 liegt, ist die Bestanden-Taste markiert."</string>
+  <string name="sar_sensor_data_check_summary_1">"Halten Sie die Oberseite des Telefons mit einer Hand.
+Stellen Sie sicher, dass der tatsächliche Winkel etwa 45 Grad beträgt.
+Halten Sie die andere Hand vom Telefon fern.
+Sehen Sie sich den CS0-Wert an.
+Wenn der CS0-Wert kleiner als 500 und der CS2-Wert größer als 5000 ist,
 halten Sie die andere Hand dicht an die Unterseite des Telefons.
 Sehen Sie sich den CS0-Wert an.
 Wenn der CS0-Wert zwischen 3000 und 30000 liegt, ist die Bestanden-Taste markiert."</string>
@@ -738,18 +757,18 @@ Nach erfolgreicher Kalibrierung prüfen Sie die Halterung in der Nähe des Telef
   <string name="template_data">Vorlagendaten</string>
   <string name="template_hint">Entnehmen Sie %1$s Vorlagen für einen Finger</string>
   <string name="template_progress_hint">Warten auf die Entnahme von Vorlagendaten</string>
-  <string name="test_back_mic">Hinteres MIK</string>
+  <string name="test_back_mic">Hinteres MIKRO</string>
   <string name="test_cases">Testfälle</string>
-  <string name="test_front_mic">Vorderes MIK</string>
+  <string name="test_front_mic">Vorderes MIKRO</string>
   <string name="test_headset">Test Headset</string>
-  <string name="test_main_mic">Haupt-MIK</string>
+  <string name="test_main_mic">Haupt-MIKRO</string>
   <string name="test_receiver">Empfänger</string>
   <string name="test_receiver_summary">"Sie hören zwei Zufallszahlen.
 Bitte klicken Sie auf die jeweilige Taste entsprechend der gehörten Zahl."</string>
   <string name="test_result">TESTERGEBNIS</string>
   <string name="test_speaker_summary">"Sie hören zwei Zufallszahlen.
 Bitte klicken Sie auf die jeweilige Taste entsprechend der gehörten Zahl."</string>
-  <string name="test_top_mic">Oberes MIK</string>
+  <string name="test_top_mic">Oberes MIKRO</string>
   <string name="testagain">Sie können die Taste HOME drücken, um erneut zu testen</string>
   <string name="testing">AutoTest läuft…</string>
   <string name="tips_not_placed_right_angle">Telefon nicht im rechten Winkel platziert</string>
@@ -760,6 +779,7 @@ Bitte klicken Sie auf die jeweilige Taste entsprechend der gehörten Zahl."</str
   <string name="title_algo_performance">Algo Leistung</string>
   <string name="title_bad_point">Negativer Punkt</string>
   <string name="title_extract_data">Daten extrahieren</string>
+  <string name="top_mic_check_record_tip">Aufnahme, bitte sagen Sie etwas ins MIKRO oben im Telefon.</string>
   <string name="touch_auto">Touchpanel-Selbsttest läuft, bitte warten…</string>
   <string name="touch_sefl_fail">Test fehlgeschlagen</string>
   <string name="touch_self">Bitte Bildschirm während des Tests nicht berühren…</string>
