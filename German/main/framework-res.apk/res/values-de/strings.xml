@@ -234,8 +234,8 @@
   <string name="condition_provider_service_binding_label">Bedingungsprovider</string>
   <string name="conference_call">Telefonkonferenz</string>
   <string name="configure_input_methods">Tastatur auswählen</string>
-  <string name="contentServiceSync">Synchronisierung</string>
-  <string name="contentServiceSyncNotificationTitle">Synchronisierung</string>
+  <string name="contentServiceSync">Synchronisation</string>
+  <string name="contentServiceSyncNotificationTitle">Synchronisation</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Zu viele %s gelöscht</string>
   <string name="content_description_sliding_handle">Schieberegler: Berühren &amp; halten</string>
   <string name="continue_to_enable_accessibility">Drücken Sie mit zwei Fingern, um die Bedienungshilfen zu aktivieren</string>
@@ -903,8 +903,8 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permdesc_readPhoneNumbers">Erlaubt der App den Zugriff auf die Telefonnummern im Gerät.</string>
   <string name="permdesc_readPhoneState">Erlaubt der App, auf die Telefonfunktionen des Geräts zuzugreifen. Die Berechtigung erlaubt der App, die Telefonnummer und Geräte-IDs zu erfassen, festzustellen, ob gerade ein Gespräch geführt wird, und die Rufnummer verbundener Anrufer zu lesen.</string>
   <string name="permdesc_readSms">Erlaubt der App, auf Ihrem Telefon oder Ihrer SIM-Karte gespeicherte SMS zu lesen. Die App kann alle SMS lesen, unabhängig von Inhalt und Vertraulichkeit.</string>
-  <string name="permdesc_readSyncSettings">Erlaubt der App, die Synchronisierungseinstellungen eines Kontos zu lesen. Z. B. kann damit festgestellt werden, ob Kontakte mit einem Konto synchronisiert werden.</string>
-  <string name="permdesc_readSyncStats">Erlaubt der App, die Synchronisierungsstatistiken eines Kontos zu lesen, einschließlich des Verlaufs von Synchronisierungsereignissen und der Menge synchronisierter Daten.</string>
+  <string name="permdesc_readSyncSettings">Erlaubt der App, die Synchronisationseinstellungen eines Kontos zu lesen. Z. B. kann damit festgestellt werden, ob Kontakte mit einem Konto synchronisiert werden.</string>
+  <string name="permdesc_readSyncStats">Erlaubt der App, die Synchronisationsstatistiken eines Kontos zu lesen, einschließlich des Verlaufs von Synchronisationsereignissen und der Menge synchronisierter Daten.</string>
   <string name="permdesc_receiveBootCompleted">Erlaubt der App, sich selbst zu starten, sobald das System gebootet wurde. Dadurch kann es länger dauern, bis das Telefon gestartet wird, und durch die ständige Aktivität der App wird die gesamte Leistung des Telefons beeinträchtigt.</string>
   <string name="permdesc_receiveMms">Erlaubt der App, MMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne Ihnen diese anzuzeigen.</string>
   <string name="permdesc_receiveSms">Erlaubt der App, SMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne Ihnen diese anzuzeigen.</string>
@@ -946,7 +946,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permdesc_writeGeolocationPermissions">Erlaubt der App, die Geolokalisierungsberechtigungen des Browsers zu ändern. Schädliche Apps können so Standortinformationen an beliebige Webseiten senden.</string>
   <string name="permdesc_writeHistoryBookmarks">Erlaubt der App, den Browserverlauf und die Lesezeichen auf Ihrem Telefon zu ändern. Damit kann die App Browserdaten löschen und ändern. Hinweis: Diese Berechtigung kann nicht von Browsern von Drittanbietern oder anderen Apps mit Internetfunktionen erzwungen werden.</string>
   <string name="permdesc_writeSettings">Erlaubt der App, die Einstellungsdaten des Systems zu ändern. Schädliche Apps können so die Systemkonfiguration beschädigen.</string>
-  <string name="permdesc_writeSyncSettings">Erlaubt der App, die Synchronisierungseinstellungen eines Kontos zu ändern. Dies kann z. B. dazu verwendet werden, die Synchronisierung von Kontakten mit einem Konto zu aktivieren.</string>
+  <string name="permdesc_writeSyncSettings">Erlaubt der App, die Synchronisationseinstellungen eines Kontos zu ändern. Dies kann z. B. dazu verwendet werden, die Synchronisation von Kontakten mit einem Konto zu aktivieren.</string>
   <string name="permgroupdesc_calendar">Zugriff auf Kalender</string>
   <string name="permgroupdesc_calllog">Anrufliste lesen und schreiben</string>
   <string name="permgroupdesc_camera">Fotos und Videos aufnehmen</string>
@@ -1047,8 +1047,8 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permlab_readPhoneNumbers">Telefonnummern lesen</string>
   <string name="permlab_readPhoneState">Telefonstatus und Identität abrufen</string>
   <string name="permlab_readSms">SMS oder MMS lesen</string>
-  <string name="permlab_readSyncSettings">Synchronisierungseinstellungen lesen</string>
-  <string name="permlab_readSyncStats">Synchronisierungsstatistik lesen</string>
+  <string name="permlab_readSyncSettings">Synchronisationseinstellungen lesen</string>
+  <string name="permlab_readSyncStats">Synchronisationsstatistik lesen</string>
   <string name="permlab_receiveBootCompleted">Beim Start ausführen</string>
   <string name="permlab_receiveMms">MMS empfangen</string>
   <string name="permlab_receiveSms">SMS empfangen</string>
@@ -1091,7 +1091,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permlab_writeGeolocationPermissions">Geolokalisierungsberechtigungen des Browsers ändern</string>
   <string name="permlab_writeHistoryBookmarks">Web-Lesezeichen und Verlauf schreiben</string>
   <string name="permlab_writeSettings">Systemeinstellungen ändern</string>
-  <string name="permlab_writeSyncSettings">Synchronisierung aktivieren oder deaktivieren</string>
+  <string name="permlab_writeSyncSettings">Synchronisation aktivieren oder deaktivieren</string>
   <string name="perms_description_app">Zur Verfügung gestellt von %1$s</string>
   <string name="perms_new_perm_prefix">"&lt;font size="12" fgcolor="#ff33b5e5"&gt;NEU: &lt;/font&gt;"</string>
   <string name="phoneTypeAssistant">Zweite Nummer</string>
@@ -1526,7 +1526,7 @@ Möchten Sie sie schließen?"</string>
   <string name="wifi_watchdog_network_disabled">WLAN-Verbindung konnte nicht hergestellt werden</string>
   <string name="wifi_watchdog_network_disabled_detailed">" hat eine schlechte Internetverbindung"</string>
   <string name="wireless_display_route_description">Kabellose Übertragung (WiDi)</string>
-  <string name="work_mode_off_message">Arbeitsprofil aktivieren, inklusive Apps, Hintergrundsynchronisierung und damit verbundene Funktionen</string>
+  <string name="work_mode_off_message">Arbeitsprofil aktivieren, inklusive Apps, Hintergrundsynchronisation und damit verbundene Funktionen</string>
   <string name="work_mode_off_title">Arbeitsprofil ist AUS</string>
   <string name="work_mode_turn_on">Einschalten</string>
   <string name="work_profile_deleted">Arbeitsprofil gelöscht</string>

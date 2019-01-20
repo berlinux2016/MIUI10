@@ -5,7 +5,7 @@
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
   <string name="abc_action_mode_done">Fertig</string>
-  <string name="abc_activity_chooser_view_see_all">Alles anzeigen</string>
+  <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
   <string name="abc_activitychooserview_choose_application">App wählen</string>
   <string name="abc_capital_off">AUS</string>
   <string name="abc_capital_on">AN</string>
@@ -141,9 +141,9 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="accessibility_summary_state_disabled">AUS</string>
   <string name="accessibility_summary_state_enabled">AN</string>
   <string name="accessibility_summary_state_stopped">Funktioniert nicht. Tippen für Info.</string>
-  <string name="accessibility_sync_disabled">Synchronisierung aus</string>
-  <string name="accessibility_sync_enabled">Synchronisierung an</string>
-  <string name="accessibility_sync_error">Synchronisierungsfehler</string>
+  <string name="accessibility_sync_disabled">Synchronisation aus</string>
+  <string name="accessibility_sync_enabled">Synchronisation an</string>
+  <string name="accessibility_sync_error">Synchronisationsfehler</string>
   <string name="accessibility_sync_in_progress">Synchronisiert jetzt</string>
   <string name="accessibility_toggle_high_text_contrast_preference_title">Text mit erhöhtem Kontrast</string>
   <string name="accessibility_toggle_large_pointer_icon_title">Großer Mauszeiger</string>
@@ -185,7 +185,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="account_settings_menu_auto_sync_personal">Auto-Sync persönl. Daten</string>
   <string name="account_settings_menu_auto_sync_work">Auto-Sync Arbeitsdaten</string>
   <string name="account_settings_title">Konten</string>
-  <string name="account_sync_settings_title">Synchronisierung</string>
+  <string name="account_sync_settings_title">Synchronisation</string>
   <string name="account_sync_summary_all_off">Sync aus für alle Elemente</string>
   <string name="account_sync_summary_all_on">Sync an für alle Elemente</string>
   <string name="account_sync_summary_some_on">Sync an für %1$d aus %2$d Elementen</string>
@@ -1230,7 +1230,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="cancel_moving_dialog_title">Import abbrechen</string>
   <string name="cancel_restore">Anhalten</string>
   <string name="cant_sync_dialog_message">Synchronisation hierfür ist ausgeschaltet. Zur Änderung dieser Einstellung schalten Sie vorübergehend Hintergrunddaten und automatische Synchronisation ein.</string>
-  <string name="cant_sync_dialog_title">Manuelle Synchronisierung nicht möglich</string>
+  <string name="cant_sync_dialog_title">Manuelle Synchronisation nicht möglich</string>
   <string name="capabilities_list_title">%1$s muss:</string>
   <string name="capability_desc_receiveAccessibilityEvents">Erhält Benachrichtigungen, wenn Sie mit einer App interagieren.</string>
   <string name="capability_title_receiveAccessibilityEvents">Ihre Aktionen beobachten</string>
@@ -4807,7 +4807,7 @@ Mindestens %s freigeben."</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Nach dem Antippen einklappen;einklappen;verstecken</string>
   <string name="search_status_bar_settings_toggle_position">Schalterpositionen;Schalter;Toggle;Toggles;Schalter ändern;Toggles ändern</string>
   <string name="search_storage_settings">Speicher;Speicherplatz</string>
-  <string name="search_sync_settings">Sync;Auto;WLAN only;Synchronisation;Sychronisierung;Automatisch;nur WLAN</string>
+  <string name="search_sync_settings">Sync;Auto;WLAN only;Synchronisation;Synchronisierung;Automatisch;nur WLAN</string>
   <string name="search_system_app_settings">Systemapps</string>
   <string name="search_theme_settings_title">Themen;Theme;Thema;Personalisierung;Personalisieren</string>
   <string name="search_touch_assistant">Quickball;Berührungsassistent</string>
@@ -5414,7 +5414,7 @@ Alle Apps auf ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese
   <string name="storage_internal_unmount_details">"<b>Wenn Sie ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein</b>
 ^1 ist formatiert, um nur auf diesem Gerät zu funktionieren, wird also auf andern Geräten nicht funktionieren."</string>
   <string name="storage_label">Speicher</string>
-  <string name="storage_low_summary">Einige Systemfunktionen wie die Synchronisierung funktionieren evtl. nicht richtig. Versuchen Sie Speicher freizugeben, indem Sie Apps oder Medieninhalte löschen.</string>
+  <string name="storage_low_summary">Einige Systemfunktionen wie die Synchronisation funktionieren evtl. nicht richtig. Versuchen Sie Speicher freizugeben, indem Sie Apps oder Medieninhalte löschen.</string>
   <string name="storage_low_title">Speicher wird knapp</string>
   <string name="storage_manager_indicator">Speichermanager: ^1</string>
   <string name="storage_manager_indicator_off">Aus</string>
@@ -5628,17 +5628,17 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="sync_disabled">Synchronisation ist AUS</string>
   <string name="sync_enable">Synchronisieren</string>
   <string name="sync_enabled">Synchronisation ist AN</string>
-  <string name="sync_error">Synchronisierungsfehler</string>
-  <string name="sync_failed">Synchronisierung fehlgeschlagen</string>
+  <string name="sync_error">Synchronisationsfehler</string>
+  <string name="sync_failed">Synchronisation fehlgeschlagen</string>
   <string name="sync_in_progress">Jetzt synchronisieren…</string>
-  <string name="sync_is_failing">Bei der Synchronisierung treten momentan Probleme auf. Sie wird in Kürze fortgesetzt.</string>
-  <string name="sync_menu_sync_cancel">Synchronisierung abbrechen</string>
+  <string name="sync_is_failing">Bei der Synchronisation treten momentan Probleme auf. Sie wird in Kürze fortgesetzt.</string>
+  <string name="sync_menu_sync_cancel">Synchronisation abbrechen</string>
   <string name="sync_menu_sync_now">Jetzt synchronisieren</string>
   <string name="sync_now">Synchronisieren</string>
   <string name="sync_one_time_sync">Tippen, um %1$s sofort zu synchronisieren</string>
   <string name="sync_plug">"&lt;font fgcolor="#ffffffff"&gt;Willkommen bei Google Sync!&lt;/font&gt;
-Ein Google-Ansatz zur Synchronisierung von Daten, um den Zugriff auf Ihre Kontakte, Termine und mehr von überall her zu ermöglichen."</string>
-  <string name="sync_settings">Synchronisierung</string>
+Ein Google-Ansatz zur Synchronisation von Daten, um den Zugriff auf Ihre Kontakte, Termine und mehr von überall her zu ermöglichen."</string>
+  <string name="sync_settings">Synchronisation</string>
   <string name="sync_wifi_only">Nur WLAN</string>
   <string name="system_alert_window_access_title">Apps überlagern</string>
   <string name="system_alert_window_off">Nein</string>
@@ -7104,7 +7104,7 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="work_mode_label">Arbeitsprofil</string>
   <string name="work_mode_off_summary">Apps und Benachrichtigungen sind aus</string>
   <string name="work_mode_on_summary">Von Ihrer Organisation verwaltet</string>
-  <string name="work_mode_summary">Arbeitsprofil aktivieren, einschl. Apps, Synchronisierung im Hintergrund und verknüpfter Funktionen</string>
+  <string name="work_mode_summary">Arbeitsprofil aktivieren, einschl. Apps, Synchronisation im Hintergrund und verknüpfter Funktionen</string>
   <string name="work_notification_ringtone_title">Standard-Arbeitsbenachrichtigungston</string>
   <string name="work_profile_confirm_remove_message">Alle Apps und Daten in diesem Profil werden gelöscht</string>
   <string name="work_profile_confirm_remove_title">Arbeitsprofil entfernen?</string>
