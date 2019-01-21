@@ -340,7 +340,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="aod_mode_time_summary">Planen Sie die Zeit ein, zu der Ihr Gerät in den Immer-An-Modus wechseln soll</string>
   <string name="aod_mode_time_title">Zeitplan</string>
   <string name="aod_mode_title">Immer-An-Modus</string>
-  <string name="aod_sample_date">Dienstag, 10. Mai</string>  
+  <string name="aod_sample_date">Dienstag, 10. Mai</string>
   <string name="aod_mode_turn_off">Aus</string>
   <string name="aod_mode_turn_on">Ein</string>
   <string name="aod_to_close">Ausschalten</string>
@@ -729,8 +729,8 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_saver_desc_turn_on_auto_pct">Automatisch bei %1$s Akku einschalten</string>
   <string name="battery_saver_master_switch_title">Stromsparen verwenden</string>
   <string name="battery_saver_off_scheduled_summary">Wird eingeschaltet bei %1$s</string>
-  <string name="battery_saver_off_summary">Aus / %1$s</string>
-  <string name="battery_saver_on_summary">An / %1$s</string>
+  <string name="battery_saver_off_summary">Aus</string>
+  <string name="battery_saver_on_summary">An</string>
   <string name="battery_saver_seekbar_title">Bei %1$s</string>
   <string name="battery_saver_seekbar_title_placeholder">Einschalten</string>
   <string name="battery_saver_turn_on_automatically_never">Nie</string>
@@ -1408,7 +1408,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="condition_turn_on">Ausschalten</string>
   <string name="condition_work_summary">Apps, Hintergrundsynchronisation und andere Funktionen, die sich auf Ihr Arbeitsprofil beziehen, werden deaktiviert</string>
   <string name="condition_work_title">Das Arbeitsprofil ist ausgeschaltet</string>
-  <string name="condition_zen_title">Nicht-stören-Modus ist an (%1$s)</string>
+  <string name="condition_zen_title">Nicht-stören-Modus ist an</string>
   <string name="config_charging_function_name">Lädt</string>
   <string name="config_list_label">Netzwerk konfigurieren</string>
   <string name="config_mass_storage_function_name">Massenspeicher</string>
@@ -3153,7 +3153,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="long_press_home_key">Hometaste lange drücken</string>
   <string name="long_press_menu_key">Menütaste lange drücken</string>
   <string name="long_press_menu_key_when_lock">Menütaste auf dem Sperrbildschirm lange drücken</string>
-  <string name="long_press_power_key_half_of_second">Halten Sie die Ein-/Aus-Taste 0,5 Sekunden lang gedrückt, um den Google Assistant einzuschalten.</string>
+  <string name="long_press_power_key_half_of_second">Halten Sie die Power-Taste 0,5 Sekunden lang gedrückt, um den Google Assistant einzuschalten.</string>
   <string name="long_press_volume_down">Langer Druck auf Lautstärke leiser</string>
   <string name="lost_internet_access_cancel">Auf WLAN bleiben</string>
   <string name="lost_internet_access_persist">Nicht mehr anzeigen</string>
@@ -3368,7 +3368,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="miui_sos_emergency_delivered_sms_noname">%1s hat bereits akzeptiert</string>
   <string name="miui_sos_emergency_failed_sms" formatted="false">%1s (%2s) SOS-Nachricht senden fehlgeschlagen</string>
   <string name="miui_sos_emergency_failed_sms_noname">%1s SOS-Nachricht senden fehlgeschlagen</string>
-  <string name="miui_sos_enable_switch_summary">Drücken Sie schnell die Ein-/Aus-Taste 5 mal, um eine SOS-SMS mit Ihrem Standort an Ihre Notfallkontakte zu senden.</string>
+  <string name="miui_sos_enable_switch_summary">Drücken Sie schnell die Power-Taste 5 mal, um eine SOS-SMS mit Ihrem Standort an Ihre Notfallkontakte zu senden.</string>
   <string name="miui_sos_enable_switch_title">Notfall-SOS</string>
   <string name="miui_sos_exit_dialog_cancel">Abbrechen</string>
   <string name="miui_sos_exit_dialog_message">Sie haben Notfall-SOS aktiviert. Ihre Standortinformationen werden an Ihre Notfallkontakte gesendet. Trotzdem ausschalten?</string>
@@ -4025,7 +4025,14 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="power_hide_mode_title">Akkuverbrauch von Apps verwalten</string>
   <string name="power_high_usage_title">Hoher Verbrauch</string>
   <string name="power_idle">Ruhezustand</string>
+  <string name="power_key_how_power_force_off">So erzwingen Sie einen Neustart des Geräts</string>
+  <string name="power_key_how_power_force_off_detail">Drücken und halten Sie die Power-Taste gedrückt, bis Ihr Gerät neu gestartet wird</string>
+  <string name="power_key_how_power_off">So öffnen Sie die Shutdown-Seite</string>
+  <string name="power_key_how_power_off_detail">Halten Sie die Power-Taste 3s lang gedrückt</string>
+  <string name="power_key_how_start">Wie man den Google Assistant aufweckt</string>
+  <string name="power_key_how_start_detail">Halten Sie die Power-Taste 0,5s lang gedrückt. Lassen Sie sie los, um zu sprechen.</string>
   <string name="power_key_start_enjoy">Erfahren Sie mehr über den Google Assistant</string>
+  <string name="power_key_start_guide">Wecken des Google Assistant mit der Power-Taste auf Vollbildgeräten</string>
   <string name="power_last_full_charge_summary">Vor ^1</string>
   <string name="power_mgr">Akku</string>
   <string name="power_mode">Energieeinstellungen</string>
@@ -5204,6 +5211,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="slider_vocie_online_open">Nach unten schieben</string>
   <string name="slider_vocie_online_theme">Slider-Onlineton</string>
   <string name="slider_vocie_online_title">Online-Töne</string>
+  <string name="slider_voice_online_theme">Online-Töne</string>
   <string name="slider_voice_summary">Abspielen von Tönen beim Auf- und Abbewegen des Bildschirms</string>
   <string name="slider_voice_title">Töne</string>
   <string name="slot_status_title">IMEI-Info</string>
@@ -6012,7 +6020,7 @@ Gefällt Ihnen Mi Mover?"</string>
   <string name="tts_engine_security_warning">Dieses Sprachsynthesemodul kann in der Lage sein, alle gesprochenen Texte zu sammeln, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Es kommt vom %s-Modul. Die Verwendung dieses Sprachsynthesemoduls aktivieren?</string>
   <string name="tts_engine_settings_button">Moduleinstellungen starten</string>
   <string name="tts_engine_settings_section">Moduleinstellungen</string>
-  <string name="tts_engine_settings_title">Einstellungen für %s</string>
+  <string name="tts_engine_settings_title">Moduleinstellungen</string>
   <string name="tts_engines_section">Module</string>
   <string name="tts_general_section_title">Allgemein</string>
   <string name="tts_install_data_summary">Erforderliche Sprachdaten für Sprachsynthese installieren</string>

@@ -311,7 +311,7 @@
     <item>Qualcomm® aptX™ Audio</item>
     <item>Qualcomm® aptX™ HD Audio</item>
     <item>LDAC</item>
-    <item>Qualcomm® aptX™ Adaptive Audio</item>    
+    <item>Qualcomm® aptX™ Adaptive Audio</item>
     <item>Optionale Codecs aktivieren</item>
     <item>Optionale Codecs deaktivieren</item>
   </string-array>
@@ -923,6 +923,10 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Suchen</item>
     <item>Einstellungen</item>
   </string-array>
+  <string-array name="status_bar_settings_qs_layout_entries">
+    <item>Standard</item>
+    <item>Kompakt</item>
+  </string-array>
   <string-array name="status_bar_style_entries">
     <item>Eine Seite</item>
     <item>Zwei Seiten</item>
@@ -1163,9 +1167,5 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Animationsskala 2x</item>
     <item>Animationsskala 5x</item>
     <item>Animationsskala 10x</item>
-  </string-array>
-  <string-array name="status_bar_settings_qs_layout_entries">
-    <item>Standard</item>
-    <item>Kompakt</item>
   </string-array>
 </resources>
