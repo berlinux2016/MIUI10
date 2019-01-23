@@ -319,12 +319,15 @@
   <string name="book_add_dialog_continue">Nicht beenden</string>
   <string name="book_add_dialog_exit">Beenden</string>
   <string name="book_add_dialog_save">Änderungen verwerfen und jetzt beenden?</string>
+  <string name="book_arr_city">Zielort</string>
+  <string name="book_arr_station">Zielort hinzufügen</string>
   <string name="book_assistant">Reise buchen</string>
   <string name="book_assistant_empty">Noch keine Buchungen</string>
   <string name="book_assistant_go">Abfahrt</string>
   <string name="book_assistant_todaybook">Heutige Ausflüge</string>
   <string name="book_assistant_train_start">Abfahrtszeit</string>
   <string name="book_assistant_train_started">Übrige Stationen</string>
+  <string name="book_dep_city">Herkunft</string>
   <string name="book_his">Buchungsverlauf</string>
   <string name="book_input_lack">Zuerst alle Pflichtfelder ausfüllen</string>
   <string name="book_save_fail">Buchung wurde nicht hinzugefügt. Versuchen Sie es erneut.</string>
@@ -343,8 +346,8 @@
   <string name="cannot_get_download_url">Downloadadresse für den Sicherheitsdienst kann nicht abgerufen werden</string>
   <string name="card_agenda_settings">Einstellungen</string>
   <string name="card_already_fly">Erfolgreich gestartet</string>
-  <string name="card_banner_close_never">Nicht mehr anzeigen</string>
-  <string name="card_banner_close_tomorrow">Mich morgen daran erinnern.</string>
+  <string name="card_banner_close_never">Nicht nochmal daran erinnern</string>
+  <string name="card_banner_close_tomorrow">Mich morgen daran erinnern</string>
   <string name="card_book_all">Alle Buchungen</string>
   <string name="card_book_nodata">Keine Buchungen</string>
   <string name="card_bookall_flight">Flugtickets</string>
@@ -782,6 +785,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="favorite_mark_important">Als wichtig markiert</string>
   <string name="favorite_title_limit">Geben Sie bis zu 40 Zeichen ein</string>
   <string name="favorite_title_modify">Modifizieren</string>
+  <string name="favorite_title_modify_failed">Titel konnte nicht geändert werden</string>
   <string name="favorite_title_modify_success">Erfolgreich modifiziert</string>
   <string name="feedback_cancel">Abbrechen</string>
   <string name="feedback_ok">Fehlerbericht senden</string>
@@ -1078,7 +1082,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="miot_device_all_device">Gesamte Ausstattung</string>
   <string name="miot_device_cancel">Abbrechen</string>
   <string name="miot_device_card_title">Mi Home</string>
-  <string name="miot_device_click_show_detail">Hier klicken, um mehr über Smart Home zu erfahren</string>
+  <string name="miot_device_click_show_detail">. (Tippen Sie hier, um mehr über intelligente Haushaltsgeräte zu erfahren)</string>
   <string name="miot_device_click_show_img">Tippen, um das Bild anzuzeigen</string>
   <string name="miot_device_cta_and">und</string>
   <string name="miot_device_cta_message">Fügen Sie das intelligente Gerät zur einfachen Handhabung hinzu. Wenn Sie auf die Schaltfläche \"berechtigt\" klicken, erklären Sie sich mit der App einverstanden.</string>
@@ -1098,6 +1102,9 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="miot_device_mijia_uninstall_title">Nicht installiert</string>
   <string name="miot_device_network_error">Aktuelles Netzwerk ist nicht verbunden</string>
   <string name="miot_device_no_recent_frame">Tippen, um anzuzeigen</string>
+  <string name="miot_device_personal_assistant_eula">Nutzungsvereinbarung</string>
+  <string name="miot_device_personal_assistant_eula_priv">" und App-Vault's "</string>
+  <string name="miot_device_personal_assistant_priv">Datenschutzerklärung</string>
   <string name="miot_device_show_frame_toast">Bild anzeigen</string>
   <string name="miot_device_shrink_list">Wiedergabeliste</string>
   <string name="miuishare_account_activate_confirmation">Freischaltung erforderlich</string>
@@ -1213,6 +1220,9 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="note_name">Notiz erstellen</string>
   <string name="note_parent">Notizen</string>
   <string name="notification_channel_card">Karten</string>
+  <string name="notification_channel_default_description">Andere Benachrichtigungen</string>
+  <string name="notification_channel_favorite_description">Benachrichtigungen über Elemente, die zu Favoriten in verschiedenen Apps hinzugefügt wurden</string>
+  <string name="notification_channel_payment_description">Benachrichtigungen über Zahlungen</string>
   <string name="notification_channel_default">Standard</string>
   <string name="notification_content_fail_not_support">Zahlungsinfo konnte nicht abgerufen werden, fügen Sie den Datensatz manuell hinzu</string>
   <string name="notification_content_fail_stay_longer">Bleiben Sie mindestens 1 Sekunde auf der Zahlungsseite</string>
@@ -1507,11 +1517,11 @@ Keine Reservierung, vergessen oder deaktivieren Sie die Telefonnummer, wenden Si
   <string name="stock_web_lable">Vorräte</string>
   <string name="study_parent">Bürostudie</string>
   <string name="system_favorite_dialog_link">Sicherheit &amp; Datenschutz</string>
-  <string name="system_favorite_dialog_message">Meine Sammlung synchronisiert die neuen Favoriten in jeder App für einen einfachen Zugriff. Sind Sie damit einverstanden, die Eröffnung zu genehmigen?</string>
+  <string name="system_favorite_dialog_message">Favoriten aus mehreren Apps und Diensten werden App-Vault hinzugefügt. Zustimmen?</string>
   <string name="system_favorite_dialog_negative">Beenden</string>
   <string name="system_favorite_dialog_positive">Zustimmen und fortfahrten</string>
   <string name="system_favorite_dialog_title_confirm">Meine Anweisungen zur Autorisierung der Sammlung</string>
-  <string name="take_off">Start</string>
+  <string name="take_off">Abreise</string>
   <string name="taobao_auth_login">Taobao Schnellanmeldung</string>
   <string name="taobao_protocol">Taobao Servicevereinbarung</string>
   <string name="taxi_book">Taxi rufen</string>
