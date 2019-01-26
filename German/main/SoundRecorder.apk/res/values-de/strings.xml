@@ -3,7 +3,7 @@
   <string name="alert_message_clear_records">Ausgewählte Aufnahme(n) löschen?</string>
   <string name="alert_message_delete_local_record">Diese Aufnahme löschen?</string>
   <string name="alert_message_delete_record">Ausgewählte Aufnahme(n) löschen?</string>
-  <string name="alert_message_delete_record_title">Lösche Aufnahme</string>
+  <string name="alert_message_delete_record_title">Aufnahme löschen</string>
   <string name="app_name">Rekorder</string>
   <string name="back">Zurück</string>
   <string name="btn_clear_records">Aufnahmen löschen (%d Elemente)</string>
@@ -24,10 +24,10 @@
   <string name="default_record_name">Unbenannte Aufnahme</string>
   <string name="delete">Löschen</string>
   <string name="delete_dialog_message">Aufnahme löschen?</string>
-  <string name="deleting_message">Lösche…</string>
-  <string name="dialog_content_storage_full">Aufnahme wurde gestoppt, weil nicht mehr genügend Speicherplatz auf dem Gerät vorhanden ist</string>
+  <string name="deleting_message">Löschen…</string>
+  <string name="dialog_content_storage_full">Aufnahme wurde gestoppt, weil nicht genügend Speicher auf dem Gerät vorhanden ist</string>
   <string name="dialog_privacy_revoke_tips">Nachdem Sie die Autorisierung widerrufen haben, stoppt die App die Datenerfassung, und alle zugehörigen Daten werden von den Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Autorisierung trotzdem widerrufen? Um die Sicherheit Ihres Kontos zu gewährleisten, melden Sie sich bei i.mi.com an, bevor Sie die Autorisierung für Mi Cloud Dienste widerrufen.</string>
-  <string name="dialog_title_storage_full">Nicht genügend Speicherplatz</string>
+  <string name="dialog_title_storage_full">Nicht genügend Speicher</string>
   <string name="download">Herunterladen</string>
   <string name="empty_recognition_tip">Leer</string>
   <string name="err_msg_abandon">Bestellung abgebrochen</string>
@@ -43,10 +43,10 @@
   <string name="err_msg_pengding_pay">Austehende Zahlung</string>
   <string name="err_msg_processing">Verarbeitung</string>
   <string name="err_msg_refuse">fehlgeschlagen</string>
-  <string name="err_msg_transcript_fail">übertragen fehlgeschlagen</string>
+  <string name="err_msg_transcript_fail">Übertragen fehlgeschlagen</string>
   <string name="err_msg_transcript_processing">Übertragung</string>
   <string name="err_msg_transcript_queue">Übertragungswarteschlange</string>
-  <string name="err_msg_transcript_success">übertragen erfolgt</string>
+  <string name="err_msg_transcript_success">Übertragen erfolgt</string>
   <string name="error_app_internal">Möglicherweise wird die Aufnahmesoftware von einer anderen App benutzt. Prüfen und erneut versuchen.</string>
   <string name="error_app_internal_title">Soundrekorderfehler</string>
   <string name="error_file_access">Datei existiert nicht oder ist beschädigt</string>
@@ -57,7 +57,7 @@
   <string name="export_to_note">Notiz exportieren</string>
   <string name="faq">"Häufig gestellte Fragen：
 1.Welchen Status enthält die Bestellung?
-Die Bestellung umfasst drei Zustände: Übertragung, Abschluss und Übertragungsfehler. Nach dem Überschreiben der Bestellung wird der übertragene Text in der entsprechenden Aufzeichnungsdatei angezeigt und die Aufzeichnungsdatei kann geöffnet werden.
+Die Bestellung umfasst drei Zustände: Übertragung, Abschluss und Übertragungsfehler. Nach dem Überschreiben der Bestellung wird der übertragene Text in der entsprechenden Aufzeichnungsdatei angezeigt und diese kann geöffnet werden.
 2. Was ist wenn die Übertragung fehlschlägt?
 Wenn die Bestellung übertragen wird, wird die Rückerstattung automatisch durchgeführt. Die Rückerstattung erfolgt innerhalb von 5 Werktagen auf Ihr ursprüngliches Zahlungskonto. Bitte beachten Sie die Rechnung des Zahlungskontos, um die Rückerstattung zu überprüfen. Wenn die Zahlung überfällig ist, wenden Sie sich bitte an die Kundendienst-Hotline (400-100-5678).
 3. Wie kann ich den Text der Aufzeichnung präzisieren?
@@ -82,9 +82,9 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="message_file_size_error">Maximal unterstützte Aufnahmelänge für %s wurde erreicht</string>
   <string name="mi_account_msg">Bei Mi Konto anmelden, um die präzise Online-Erkennung zu nutzen, mit 30 Minuten kostenlos für neue Benutzer.</string>
   <string name="mi_account_ok">Zum Anmelden</string>
-  <string name="mi_account_title">Anmelden Mi-Konto</string>
+  <string name="mi_account_title">Anmelden Mi Konto</string>
   <string name="network_tip_dialog_cancel">Nicht einverstanden</string>
-  <string name="network_tip_dialog_content">Recorder muss eine Verbindung zum Internet herstellen, um normal zu funktionieren. Einverstanden?</string>
+  <string name="network_tip_dialog_content">Rekorder muss eine Internetverbindung herstellen, um normal zu funktionieren. Einverstanden?</string>
   <string name="network_tip_dialog_ok">Zustimmen</string>
   <string name="network_tip_dialog_title">Internetverbindung erforderlich</string>
   <string name="network_unavailable_tip">Bitte mit Netzwerk verbinden.</string>
@@ -99,13 +99,12 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="notification_title_all_paused">Download angehalten</string>
   <string name="notification_warning">Geringer Speicherplatz (weniger als %d Minuten)…</string>
   <string name="offline_recognize_progress">Lokale Erkennung %s…</string>
-  <string name="offline_recognize_transfer_format">Übertragung</string>
+  <string name="offline_recognize_transfer_format">Übertragung…</string>
   <string name="online_recognize_btn">Präzise Onlineerkenung</string>
   <string name="online_recognize_desp">Audiodatei wird auf den Server hochgeladen, während die Onlineerkennung erfolgt</string>
   <string name="online_recognize_duration_limite">(10 Minuten Limit)</string>
   <string name="online_recognize_fail">Erkennungsfehler</string>
   <string name="online_recognize_login_fail">Anmeldung fehlgeschlagen</string>
-  <string name="online_recognize_order_audio_price">%s Yen</string>
   <string name="online_recognize_order_create">Anmelden</string>
   <string name="online_recognize_order_duration_key">Zahlungsdauer</string>
   <string name="online_recognize_order_pay">Zahlung und Ergebnisse erzielen</string>
@@ -121,15 +120,14 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="online_recognize_order_upload">Hochladen</string>
   <string name="online_recognize_order_uploading">%s hochladen…</string>
   <string name="online_recognize_other_order_upload">Audio wird hochgeladen</string>
-  <string name="online_recognize_running">Genaue Anerkennung…</string>
+  <string name="online_recognize_running">Übertragung…</string>
   <string name="online_recognize_service_unavailable">Service ist derzeit nicht verfügbar. Bitte später versuchen.</string>
-  <string name="order_item_duration">Dauer %s</string>
-  <string name="order_item_number">Bestell-Nr.: $s</string>
-  <string name="order_item_price">%s Yen</string>
+  <string name="order_item_duration">Dauer: %s</string>
+  <string name="order_item_number">Bestell-Nr.: %s</string>
   <string name="path_soundrecorder_setting">Einstellungen/Systemapps/Rekorder</string>
   <string name="pay_error_cancel">Zahlung abgebrochen</string>
   <string name="pay_error_null">Zahlungsfehler, Konto überprüfen</string>
-  <string name="pay_error_unknown">Unbekannter fehler</string>
+  <string name="pay_error_unknown">Unbekannter Fehler</string>
   <string name="playback_delete_records">Aufnahme löschen</string>
   <string name="playback_share_records">Aufnahme teilen</string>
   <string name="preference_enable_earpiece_summary">Nur über Kopfhörer abspielen</string>
@@ -161,39 +159,40 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="recognition_error_internal">Interner Fehler</string>
   <string name="recognition_error_stopped">Erkennung gestoppt</string>
   <string name="recognition_error_unknown">Unbannter Fehler</string>
-  <string name="recognition_process_dialog_body">Es gibt derzeit andere Audios (%s) in der Übertragung. Soll die laufende Audioübertragung beendet werden, um die Aktuelle zu starten?</string>
+  <string name="recognition_process_dialog_body">Derzeit sind andere Audios (%s) in der Übertragung. Soll die laufende Audioübertragung beendet werden, um die aktuelle zu starten?</string>
   <string name="recognition_process_dialog_cancel">Warteschlange</string>
   <string name="recognition_process_dialog_confirm">Start erzwingen</string>
   <string name="recognition_process_dialog_title">Anerkennungstipp</string>
   <string name="recognition_status_downloaded">Erkennugsprogramm herunterladen</string>
   <string name="recognition_status_downloading">Wird heruntergeladen</string>
   <string name="recognition_status_init">vorbereiten</string>
-  <string name="recognition_terms">"Sehr geehrte Nutzer, hallo!
-Willkommen bei der Nutzung des Voice-to-Text-Dienstes in Xiaomi Recorder. Dieser Service wird von Anhui Hearing Technology Co. Ltd. angeboten, die in der Lage ist, die Aufnahme schnell in Text zu sortieren, das Problem von Sprache zu Text in verschiedenen Szenen wie täglichen Meetings, Bildung und Ausbildung, Medienkommunikation zu lösen und die Arbeit zu verbessern. Effektivität.
-Der Sprach-zu-Textienst ist ein kostenpflichtiger Dienst. Die Ladestrategie ist wie folgt:
+  <string name="recognition_terms">"Hallo, sehr geehrte Nutzer!
+Willkommen bei der Nutzung des Sprache-zu-Text-Dienstes in Xiaomi Rekorder. Dieser Service wird von Anhui Hearing Technology Co. Ltd. angeboten, die in der Lage ist, die Aufnahme schnell in Text zu sortieren, das Problem von Sprache-zu-Text in verschiedenen Szenen wie täglichen Meetings, Bildung und Ausbildung, Medienkommunikation zu lösen und die Arbeit zu verbessern. Effektivität.
+Der Sprache-zu-Text-Dienst ist ein kostenpflichtiger Dienst. Die Ladestrategie ist wie folgt:
 Audiodauer\u0009\u0009\u0009\u0009\u0009Berechneter Preis (Orignalpreis)
 Weniger als 10 Minuten\u0009\u0009\u00093.3 Yuan
 10 Minuten und mehr\u0009Audiodauer/1 Stunde *19.8 Yuan
-Um den Sprache-zu-Textdienst besser nutzen zu können, müssen Sie auch Folgendes wissen:
+Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgendes wissen:
  1. Ich habe gehört, dass die Technologie die Informations-, Audio- und Textinhalte nicht an Dritte weitergibt oder verbreitet.
  2. Wenn Sie die technischen Gründe, wie Naturkatastrophen, Diebstahl, Raub, Hacking und andere höhere Gewalt, die durch Informationsverlust verursacht werden, nicht kennen, habe ich gehört, dass die Technologie keine rechtliche Verantwortung trägt. Ich habe gehört, dass die Technologie unter den folgenden Umständen keine Vertraulichkeitsverpflichtungen mehr übernimmt, einschließlich, aber nicht beschränkt auf:
  (1) Der Inhalt des Manuskripts wurde veröffentlicht, weil von Wissenschaft und Technologie nichts gehört wurde.
  (2) Anforderungen an Gesetze und Vorschriften, Anforderungen von Verwaltungs- und Justizorganen oder anderen Behörden, die offengelegt werden müssen.
- 3. Die oben genannten Bedingungen gelten für einen Zeitraum von drei Jahren nach Anhörung der Fertigstellung des Sprach-zu-Textdienstes.
- 4. Der Nutzer garantiert, dass die durch den von der Technologie bereitgestellten Sprach-zu-Text-Dienst übertragenen aufgezeichneten Inhalte nicht gegen die einschlägigen lokalen Gesetze, Vorschriften und Richtlinien verstoßen; es handelt sich nicht um Informationen, die der nationalen Sicherheit und den Interessen der Volksrepublik China abträglich sind; es handelt sich auch nicht um reaktionäre erotische, abergläubische, spielerische, diffamierende und andere illegale Informationen; und es wird nicht gegen die legitimen Rechte und Interessen von jedermann verstoßen, einschließlich, aber nicht beschränkt auf geistige Eigentumsrechte, Reputationsrechte, Portraitrechte, Geschäftsgeheimnisse usw. Der Nutzer trägt die Streitigkeiten und Schadenersatzpflichten, die durch die Verletzung der vorgenannten Bestimmungen verursacht werden, und der Nutzer haftet für den Schadenersatz, wenn der durch die Technologie verursachte Schaden gehört wird."</string>
+ 3. Die oben genannten Bedingungen gelten für einen Zeitraum von drei Jahren nach Anhörung der Fertigstellung des Sprache-zu-Text-Dienstes.
+ 4. Der Nutzer garantiert, dass die durch den von der Technologie bereitgestellten Sprache-zu-Text-Dienst übertragenen aufgezeichneten Inhalte nicht gegen die einschlägigen lokalen Gesetze, Vorschriften und Richtlinien verstoßen; es handelt sich nicht um Informationen, die der nationalen Sicherheit und den Interessen der Volksrepublik China abträglich sind; es handelt sich auch nicht um reaktionäre, erotische, abergläubische, spielerische, diffamierende und andere illegale Informationen; und es wird nicht gegen die legitimen Rechte und Interessen von jedermann verstoßen, einschließlich, aber nicht beschränkt auf geistige Eigentumsrechte, Reputationsrechte, Portraitrechte, Geschäftsgeheimnisse usw. Der Nutzer trägt die Streitigkeiten und Schadenersatzpflichten, die durch die Verletzung der vorgenannten Bestimmungen verursacht werden, und der Nutzer haftet für den Schadenersatz, wenn der durch die Technologie verursachte Schaden gehört wird."</string>
   <string name="recognize_choose_dialog_offline">Offlineerkennung</string>
-  <string name="recognize_choose_dialog_offline_desp">Lockale Erkennung, offline</string>
+  <string name="recognize_choose_dialog_offline_desp">Lokale Erkennung, offline</string>
+  <string name="recognize_choose_dialog_online">In der Cloud übertragen</string>
   <string name="recognize_choose_dialog_online_desp">Schnell und günstig</string>
-  <string name="recognize_choose_dialog_online_free_duration">Ersten 60 Minuten kostenlos</string>
+  <string name="recognize_choose_dialog_online_free_duration">Erste 60 Minuten kostenlos</string>
   <string name="recognize_choose_dialog_online_price">%s Yen pro Stunde</string>
   <string name="recognize_choose_dialog_service_desp">Unterstützt von ifly</string>
   <string name="recognize_choose_dialog_service_intruction">Servicebeschreibung</string>
-  <string name="recognize_choose_dialog_title">Erkennugsweg auswählen</string>
+  <string name="recognize_choose_dialog_title">Erkennungsweg auswählen</string>
   <string name="recognize_extra_price_desp"> (Exklusiv für Mi Benutzer)</string>
   <string name="record">Aufnehmen</string>
   <string name="record_back_pressed_hint">Um die Aufnahme anzuhalten, nochmal den Zurück-Knopf berühren</string>
   <string name="record_download">Download von Mi Cloud</string>
-  <string name="record_download_activity">Aufnahmedownloader</string>
+  <string name="record_download_activity">Aufnahme-Downloader</string>
   <string name="record_download_complete">Fertig</string>
   <string name="record_download_failed">Fehlgeschlagen</string>
   <string name="record_download_manager">Downloadmanager</string>
@@ -201,7 +200,7 @@ Um den Sprache-zu-Textdienst besser nutzen zu können, müssen Sie auch Folgende
   <string name="record_download_msg_reload">Aufnahme nicht vorhanden</string>
   <string name="record_download_paused">Angehalten</string>
   <string name="record_download_pending">Anstehend</string>
-  <string name="record_downloading_notification">Wird geladen…</string>
+  <string name="record_downloading_notification">Laden…</string>
   <string name="record_downloading_notification_complete">Download abgeschlossen</string>
   <string name="record_downloading_notification_count">%d geladen</string>
   <string name="record_format_preference_title">Aufnahmeformat</string>
@@ -226,18 +225,18 @@ Um den Sprache-zu-Textdienst besser nutzen zu können, müssen Sie auch Folgende
   <string name="reg_error_audio_exist">Diese Datei ist bereits vorhanden.</string>
   <string name="reg_error_audio_large">Audiodateien dürfen nicht größer als 500 MB sein.</string>
   <string name="reg_error_audio_short">Audiodatei ist zu klein.</string>
-  <string name="reg_error_business">Datei konnte nicht übertragen werden. Fehler an uns melden und erneut versuchen.</string>
-  <string name="reg_error_client">Ein App-Datenfehler ist aufgetreten. Fehler an uns melden und erneut versuchen.</string>
-  <string name="reg_error_create_order">Bestellung konnte nicht erstellt werden, erneut versuchen.</string>
+  <string name="reg_error_business">Datei wurde nicht übertragen. Fehler an uns melden und erneut versuchen.</string>
+  <string name="reg_error_client">Ein Appdatenfehler ist aufgetreten. Fehler an uns melden und erneut versuchen.</string>
+  <string name="reg_error_create_order">Bestellung wurde nicht erstellt, erneut versuchen.</string>
   <string name="reg_error_ifly_account">Kontofehler aufgetreten, erneut versuchen.</string>
-  <string name="reg_error_price">Kostenvoranschlagfehler ist aufgetreten. Fehler an uns melden und erneut versuchen.</string>
-  <string name="reg_error_server">Serverfehler ist aufgetreten. Fehler an uns melden und erneut versuchen.</string>
+  <string name="reg_error_price">Kostenvoranschlagfehler aufgetreten. Fehler an uns melden und erneut versuchen.</string>
+  <string name="reg_error_server">Serverfehler aufgetreten. Fehler an uns melden und erneut versuchen.</string>
   <string name="reg_error_upload_audio">Datei hochladen fehlgeschlagen, erneut versuchen.</string>
   <string name="reg_error_upload_order">Hochladen fehlgeschlagen, erneut versuchen.</string>
   <string name="rename">Umbenennen</string>
   <string name="rename_dialog_title">Aufnahme umbenennen</string>
   <string name="rename_duplicate">Bitte neu eingeben: Eine Aufnahme mit demselben Namen ist bereit vorhanden.</string>
-  <string name="rename_fail_tip">Konnte nicht umbenennen. Ein Element mit diesem Namen existiert bereits.</string>
+  <string name="rename_fail_tip">Nicht umbenannt. Ein Element mit diesem Namen existiert bereits.</string>
   <string name="rename_no_more_tip">Nicht wieder anzeigen</string>
   <string name="retry">Wiederholen</string>
   <string name="runtime_permission_ungranted">Rekorder kann ohne erteilte Berechtigungen nicht verwendet werden</string>
@@ -247,7 +246,7 @@ Um den Sprache-zu-Textdienst besser nutzen zu können, müssen Sie auch Folgende
   <string name="search_led_indicator_prompt">Während der Aufnahme Anzeige in Statusleiste und LED-Benachrichtigung bei gesperrtem Bildschirm</string>
   <string name="search_quliaty_title">Aufnahmequalität</string>
   <string name="search_scenes">Aufnahmetyp</string>
-  <string name="search_silent_mode">Schalte Klingelton lautlos bei der Aufnahme</string>
+  <string name="search_silent_mode">Klingelton lautlos schalten bei der Aufnahme</string>
   <string name="search_tip_rename">Aufnahnmedatei manuell benennen</string>
   <string name="service_instructions">Über iflyrec.com</string>
   <string name="share">Teilen</string>
@@ -278,11 +277,11 @@ Um den Sprache-zu-Textdienst besser nutzen zu können, müssen Sie auch Folgende
   <string name="toast_uninstall_fileexplorer">Dateibrowser nicht installiert</string>
   <string name="webview_check_network">Netzwerkeinstellungen</string>
   <string name="webview_data_error">Ein Fehler ist aufgetreten</string>
-  <string name="webview_locating_fail">Standort konnte nicht gefunden werden</string>
+  <string name="webview_locating_fail">Standort wurde nicht gefunden</string>
   <string name="webview_network_access_denied">Netzzugang verweigert</string>
   <string name="webview_network_unavaliable">Keine Verbindung zum Netzwerk möglich</string>
   <string name="webview_service_unavailiable">Dienst nicht verfügbar</string>
   <string name="webview_try_again">Erneut versuchen</string>
-  <string name="wifi_recommended_body" formatted="false">Wenn Sie Ihre mobile Datenverbindung zum Herunterladen von (%s) nutzen, dann wird Ihr Datenverbrauch erhöht. Wenn Sie Ihre Tarifdatengrenze überschreiten, kann Ihr Anbieter zusätzlich Kosten verlangen. Um auf eine WLAN-Verbindung für den Download zu warten, hier %s tippen.</string>
+  <string name="wifi_recommended_body" formatted="false">Wenn Sie Ihre mobile Datenverbindung zum Herunterladen von %s nutzen, dann wird Ihr Datenverbrauch erhöht. Wenn Sie Ihre Tarifdatengrenze überschreiten, kann Ihr Anbieter zusätzliche Kosten verlangen. Um auf eine WLAN-Verbindung für den Download zu warten, hier %s tippen.</string>
   <string name="wifi_recommended_title">Datenverbrauchswarnung</string>
 </resources>
