@@ -126,7 +126,7 @@
   <string name="app_not_found">Für diese Aktion wurde keine App gefunden</string>
   <string name="app_running_notification_text">Für weitere Informationen oder zum Anhalten der App antippen</string>
   <string name="app_running_notification_title">%1$s wird ausgeführt</string>
-  <string name="app_suspended_default_message">1$s ist zurzeit nicht verfügbar. Dies wird von %2$s verwaltet.</string>
+  <string name="app_suspended_default_message">%1$s ist zurzeit nicht verfügbar. Dies wird von %2$s verwaltet.</string>
   <string name="app_suspended_more_details">Mehr erfahren</string>
   <string name="app_suspended_title">App ist nicht verfügbar</string>
   <string name="app_upgrading_toast">%1$s wird aktualisiert…</string>
@@ -260,7 +260,7 @@
   <string name="data_usage_rapid_title">Hohe mobile Datennutzung</string>
   <string name="data_usage_restricted_body">Beschränkung durch Berühren entfernen</string>
   <string name="data_usage_restricted_title">Hintergrunddaten eingeschränkt</string>
-  <string name="data_usage_warning_body">Für Verbrauch und Einstell. berühren</string>
+  <string name="data_usage_warning_body">Sie haben %s Daten verwendet</string>
   <string name="data_usage_warning_title">Warnung zum Datenverbrauch</string>
   <string name="data_usage_wifi_limit_snoozed_title">WLAN-Datenlimit überschritten</string>
   <string name="data_usage_wifi_limit_title">WLAN-Datenlimit erreicht</string>
@@ -364,7 +364,7 @@
   <string name="expand_button_content_description_collapsed">Erweitern</string>
   <string name="expand_button_content_description_expanded">Einklappen</string>
   <string name="expires_on">Läuft ab am:</string>
-  <string name="ext_media_badremoval_notification_message">Trennen Sie den %s vor dem Entfernen, um Datenverlust zu vermeiden</string>
+  <string name="ext_media_badremoval_notification_message">Vor dem Entfernen Medien auswerfen, um Datenverlust zu vermeiden</string>
   <string name="ext_media_badremoval_notification_title">%s unerwartet entfernt</string>
   <string name="ext_media_browse_action">Durchsuchen</string>
   <string name="ext_media_checking_notification_message">Suche nach Fehlern</string>
@@ -378,9 +378,9 @@
   <string name="ext_media_move_success_message">Daten wurden nach %s verschoben</string>
   <string name="ext_media_move_success_title">Fertig</string>
   <string name="ext_media_move_title">Daten verschieben</string>
-  <string name="ext_media_new_notification_message">%s als neu erkannt</string>
+  <string name="ext_media_new_notification_message">Zum Einrichten tippen</string>
   <string name="ext_media_new_notification_title">%s neu</string>
-  <string name="ext_media_nomedia_notification_message">%s entfernt. Neuen Datenträger einlegen.</string>
+  <string name="ext_media_nomedia_notification_message">Einige Funktionen arbeiten evtl. nicht richtig. Neuen Datenträger einlegen.</string>
   <string name="ext_media_nomedia_notification_title">%s entfernt</string>
   <string name="ext_media_ready_notification_message">Zum Übertragen von Fotos und Medien</string>
   <string name="ext_media_status_bad_removal">Nicht sicher entfernt</string>
@@ -395,7 +395,7 @@
   <string name="ext_media_status_unmounted">Ausgeworfen</string>
   <string name="ext_media_status_unsupported">Nicht unterstützt</string>
   <string name="ext_media_unmount_action">Auswerfen</string>
-  <string name="ext_media_unmountable_notification_message">%s ist beschädigt. Bitte neu formatieren.</string>
+  <string name="ext_media_unmountable_notification_message">Zum Beheben tippen</string>
   <string name="ext_media_unmountable_notification_title">%s beschädigt</string>
   <string name="ext_media_unmounting_notification_message">Nicht entfernen</string>
   <string name="ext_media_unmounting_notification_title">%s wird noch ausgeworfen…</string>
@@ -757,7 +757,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="network_switch_metered_toast">Von %1$s auf %2$s umgeschaltet</string>
   <string name="network_switch_type_name_unknown">Unbekannter Netzwerktyp</string>
   <string name="new_app_action">%1$s starten</string>
-  <string name="new_app_description">Alte App beenden ohne zu speichern</string>
+  <string name="new_app_description">%1$s wird beendet ohne zu speichern</string>
   <string name="new_sms_notification_content">Zum Anzeigen SMS-App öffnen</string>
   <string name="new_sms_notification_title">Sie haben neue Nachrichten</string>
   <string name="next_button_label">Weiter</string>
