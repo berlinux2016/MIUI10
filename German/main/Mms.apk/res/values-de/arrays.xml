@@ -2,12 +2,12 @@
 <resources>
   <string-array name="contact_entries">
     <item>Name</item>
-    <item>Nickname</item>
+    <item>Spitzname</item>
     <item>Telefon</item>
     <item>E-Mail</item>
     <item>Organisation</item>
     <item>IM</item>
-    <item>SIP Phone</item>
+    <item>SIP-Telefon</item>
     <item>Geburtstag</item>
     <item>Webseite</item>
     <item>Adresse</item>
@@ -31,10 +31,10 @@
   </string-array>
   <string-array name="entries_sms_validity_period">
     <item>Nicht festgelegt</item>
-    <item>Eine Stunde</item>
+    <item>1 Stunde</item>
     <item>6 Stunden</item>
     <item>12 Stunden</item>
-    <item>Einen Tag</item>
+    <item>1 Tag</item>
     <item>Maximum</item>
   </string-array>
   <string-array name="entries_mms_validity_period">
@@ -42,7 +42,7 @@
     <item>2 Tage</item>
   </string-array>
   <string-array name="select_dialog_items">
-    <item>Eine Sekunde</item>
+    <item>1 Sekunde</item>
     <item>2 Sekunden</item>
     <item>3 Sekunden</item>
     <item>4 Sekunden</item>
@@ -70,7 +70,7 @@
   </string-array>
   <string-array name="wild_msg_sync_options">
     <item>Synchronisieren Sie alle Nachrichten</item>
-    <item>Synchronisationsnachrichten von ausgewählten SIM-Karten</item>
+    <item>Synchronisationsnachrichten ausgewählter SIM-Karten</item>
   </string-array>
   <string-array name="prefEntries_ringtone_repeat">
     <item>Einmal</item>
