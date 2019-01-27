@@ -36,6 +36,8 @@
   <string name="ads_install_button_isDownloading">Herunterladen</string>
   <string name="ads_install_button_isInstalling">Wird installiert</string>
   <string name="ads_install_button_waiting">Warten</string>
+  <string name="ads_summary">Benutzer, die %1$s installieren, mögen auch</string>
+  <string name="alarm_template">Zeit: %1$s</string>
   <string name="ads_summary">%1$s Benutzer auch gerne installieren</string>
   <string name="allPerms">Alle</string>
   <string name="all_permissions">Alle Berechtigungen</string>
@@ -61,7 +63,9 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="app_store_installing_message">Wird installiert…</string>
   <string name="app_store_missing_message">Sieht so aus, als sei unser offizieller App Store nicht installiert. Jetzt installieren?</string>
   <string name="app_store_missing_title">App Store ist nicht installiert</string>
-  <string name="auto_startup_dialog_msg">Diese App kann ohne Ihre Zustimmung nicht gestartet werden</string>
+  <string name="auto_startup_dialog_msg">Nach dem Öffnen läuft das Programm automatisch im Hintergrund, es kann zu zusätzlichen Strom- und Datenverbrauch kommen.
+Bist du sicher, dass du es dir erlauben willst, selbstständig zu beginnen?</string>
+  <string name="available_via_carrier">Kann über %1$s verbunden werden</string>
   <string name="available_via_passpoint">Verfügbar über %1$s</string>
   <string name="battery_info_status_charging">Aufladen</string>
   <string name="battery_info_status_charging_ac">Aufladen mit Netzteil</string>
@@ -76,11 +80,15 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="battery_info_status_unknown">Ungenau</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Verbunden mit Audio-Media</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Für Audiowiedergabe von Medien verwenden</string>
-  <string name="bluetooth_connected">Verbunden</string>
-  <string name="bluetooth_connected_no_a2dp">Verbunden (keine Medien)</string>
+  <string name="bluetooth_connected">Verbunden %1$s</string>
+  <string name="bluetooth_connected_battery_level">Verbunden Akku %1$s %2$s</string>
+  <string name="bluetooth_connected_no_a2dp">Verbunden (kein Mediensignal) %1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Verbunden (kein Mediensignal) | Akku %1$s %2$s</string>
   <string name="bluetooth_connected_no_headset">Verbunden (kein Telefon)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Verbunden (keine Medien oder Telefon)</string>
   <string name="bluetooth_connected_no_map">Verbunden (kein Nachrichtenzugriff)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Verbunden (kein Telefon- oder Mediensignal) | Akku %1$s %2$s</string>
+    <string name="bluetooth_connected_no_map">Verbunden (kein Nachrichtenzugriff) %1$s</string>
   <string name="bluetooth_connecting">Verbinden…</string>
   <string name="bluetooth_disable_absolute_volume">Absolute Lautstärke deaktivieren</string>
   <string name="bluetooth_disable_absolute_volume_summary">Deaktiviert die Bluetooth-Lautstärkefunktion bei Problemen mit der Lautstärke von entfernten Geräten, z.B. bei unzulässig lauter Lautstärke oder mangelnder Kontrolle</string>
@@ -90,6 +98,12 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="bluetooth_dun_profile_summary_use_for">Für DFÜ-Verbindung verwenden</string>
   <string name="bluetooth_headset_profile_summary_connected">Verbunden mit Sprachtelefonie</string>
   <string name="bluetooth_headset_profile_summary_use_for">Für Sprachtelefonie verwenden</string>
+  <string name="bluetooth_hearing_aid_profile_summary_connected">Mit Hörgerät verbunden</string>
+  <string name="bluetooth_hearing_aid_profile_summary_use_for">Für Hörgeräte</string>
+  <string name="bluetooth_hearingaid_left_battery_level">Linke Seite | Akku: %1$s</string>
+  <string name="bluetooth_hearingaid_left_pairing_message">Linkes Hörgerät verbinden…</string>
+  <string name="bluetooth_hearingaid_right_battery_level">Rechte Seite | Akku: %1$s</string>
+  <string name="bluetooth_hearingaid_right_pairing_message">Rechtes Hörgerät verbinden…</string>  
   <string name="bluetooth_hid_profile_summary_connected">Mit Eingabegerät verbunden</string>
   <string name="bluetooth_hid_profile_summary_use_for">Für Eingabe verwenden</string>
   <string name="bluetooth_map_profile_summary_connected">Mit Karte verbunden</string>
@@ -106,10 +120,12 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="bluetooth_pairing_pin_error_message">Verbindung mit %1$s wegen falscher PIN fehlgeschlagen</string>
   <string name="bluetooth_pairing_rejected_error_message">Verbindung abgelehnt von %1$s</string>
   <string name="bluetooth_pairing_will_share_phonebook">Verbindung ermöglicht Zugriff auf Ihre Kontakte und Ihren Gesprächsverlauf</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">Stellen Sie über andere Geräte eine Verbindung zum Internet her</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Internetverbindung mit dem Gerät teilen</string>
   <string name="bluetooth_pan_profile_summary_use_for">Für Internetverbindung verwenden</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">Für Internetverbindung mit Gerät verbunden</string>
   <string name="bluetooth_profile_a2dp">Medien (Audio)</string>
+  <string name="bluetooth_profile_a2dp_high_quality">HD-Audio: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD-Audio</string>
   <string name="bluetooth_profile_dun">DFÜ-Verbindung</string>
   <string name="bluetooth_profile_headset">Telefon (Audio)</string>
   <string name="bluetooth_profile_hid">Eingabegerät</string>

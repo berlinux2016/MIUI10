@@ -63,13 +63,16 @@
   <string name="battery_info_status_not_charging">Nicht aufladen</string>
   <string name="battery_info_status_unknown">Unbekannt</string>
   <string name="blood_type">Blutgruppe</string>
+  <string name="bluetooth_active_battery_level">Aktiv | Akku: %1$s</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Mit Audiomedien verbunden</string>
-  <string name="bluetooth_a2dp_profile_summary_use_for">Für Audiomedien nutzen</string>
-  <string name="bluetooth_connected">Verbunden</string>
-  <string name="bluetooth_connected_no_a2dp">%1$s verbunden (keine Medien)</string>
-  <string name="bluetooth_connected_no_headset">%1$s verbunden (kein Telefon)</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">%1$s verbunden (kein Telefon/keine Medien)</string>
-  <string name="bluetooth_connected_no_map">%1$s verbunden (kein Nachrichtenzugriff)</string>
+  <string name="bluetooth_a2dp_profile_summary_use_for">Für Audiomedien</string>
+  <string name="bluetooth_connected">%1$s ist verbunden</string>
+  <string name="bluetooth_connected_battery_level">Verbunden | Akku %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp">Verbunden (kein Mediensignal) %1$s</string>
+  <string name="bluetooth_connected_no_headset">Verbunden (kein Telefonsignal) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Verbunden (kein Telefon- oder Mediensignal) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Verbunden (kein Telefon- oder Mediensignal) | Akku %1$s %2$s</string>  
+  <string name="bluetooth_connected_no_map">Verbunden (kein Nachrichtenzugriff) %1$s</string>
   <string name="bluetooth_connecting">Verbinden…</string>
   <string name="bluetooth_disable_absolute_volume">Absolute Lautstärke deaktivieren</string>
   <string name="bluetooth_disable_absolute_volume_summary">Deaktiviert die Bluetooth-Funktion für absolute Lautstärke bei Problemen mit entfernten Geräten, wie z. B. unzulässig hoher Lautstärke oder fehlender Kontrolle.</string>
@@ -79,6 +82,10 @@
   <string name="bluetooth_dun_profile_summary_use_for">Für DFÜ-Verbindung verwenden</string>
   <string name="bluetooth_headset_profile_summary_connected">Mit Sprachtelefonie verbunden</string>
   <string name="bluetooth_headset_profile_summary_use_for">Für Sprachtelefonie verwenden</string>
+  <string name="bluetooth_hearingaid_left_battery_level">Linke Seite | Akku: %1$s</string>
+  <string name="bluetooth_hearingaid_left_pairing_message">Linken Ohrhörer verbinden…</string>
+  <string name="bluetooth_hearingaid_right_battery_level">Rechte Seite | Akku: %1$s</string>
+  <string name="bluetooth_hearingaid_right_pairing_message">Rechten Ohrhörer verbinden…</string>
   <string name="bluetooth_hid_profile_summary_connected">Mit Eingabegerät verbunden</string>
   <string name="bluetooth_hid_profile_summary_use_for">Für Eingabe verwenden</string>
   <string name="bluetooth_map_profile_summary_connected">Mit Karte verbunden</string>
@@ -99,7 +106,8 @@
   <string name="bluetooth_pan_profile_summary_use_for">Für Internetzugriff verwenden</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Für Internetzugriff mit Gerät verbunden</string>
   <string name="bluetooth_profile_a2dp">Audiomedien</string>
-  <string name="bluetooth_profile_dun">DFÜ-Netzwerk</string>
+  <string name="bluetooth_profile_a2dp_high_quality">HD-Audio: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD-Audio</string>
   <string name="bluetooth_profile_headset">Telefonanrufe</string>
   <string name="bluetooth_profile_hearing_aid">Hörgerät</string>
   <string name="bluetooth_profile_hid">Eingabegerät</string>
@@ -112,6 +120,33 @@
   <string name="bluetooth_profile_sap">SIM-Zugriff</string>
   <string name="bluetooth_sap_profile_summary_connected">Verbunden mit SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Für SIM-Zugriff verweden</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth-Audio pro Abtastziffer</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Trigger Bluetooth audio codec
+Choice: number of samples per sample"</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth-Audiokanalmodus</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Trigger Bluetooth Audio Codec
+Auswahl: Kanalmodus"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Wiedergabe-Qualität</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Trigger Bluetooth Audio LDAC
+Codec-Auswahl: Wiedergabe-Qualität"</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth-Audio-Abtastrate</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Trigger Bluetooth Audio Codec
+Auswahl: Sample Rate"</string>
+    <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
+    <string name="bluetooth_select_a2dp_codec_type">Bluetooth-Audiocodec</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Trigger Bluetooth Audio Codec
+auswählen"</string>
+    <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP-Version auswählen</string>
+    <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP-Version</string>
+    <string name="bluetooth_show_devices_without_names">Bluetooth-Gerät ohne Namen anzeigen</string>
+    <string name="bluetooth_show_devices_without_names_summary">System zeigt Bluetooth-Gerät ohne Namen an (nur MAC-Adresse)</string>
+    <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+    <string name="bluetooth_talkback_computer">Computer</string>
+    <string name="bluetooth_talkback_headphone">Kopfhörer</string>
+    <string name="bluetooth_talkback_headset">Headset</string>
+    <string name="bluetooth_talkback_imaging">Bildgebende Geräte</string>
+    <string name="bluetooth_talkback_input_peripheral">Peripheriegerät</string>
+    <string name="bluetooth_talkback_phone">Mobiltelefon</string>
   <string name="bminus">B-</string>
   <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="bplus">B+</string>
@@ -133,12 +168,15 @@
   <string name="clear_all_message">Alle Informationen und Kontakte löschen?</string>
   <string name="confirm_enable_oem_unlock_text">WARNUNG: Die Geräteschutzfunktionen funktionieren auf diesem Gerät nicht, solange diese Einstellung aktiviert ist.</string>
   <string name="confirm_enable_oem_unlock_title">OEM-Entsperrung zulassen?</string>
+  <string name="connected_via_carrier">Verbunden über %1$s</string>
+  <string name="connected_via_network_scorer">Automatisch über %1$s verbunden</string>
+  <string name="connected_via_network_scorer_default">Automatisch verbunden (über Netzwerk-Rating-Service-Provider)</string>
   <string name="connected_via_passpoint">Verbunden per %1$s</string>
   <string name="connected_via_wfa">Per WLAN-Assistent verbunden</string>
-  <string name="convert_to_fbe_warning">"Datenpartition in Datei-basierte Verschlüsselung konvertieren.
-!!Achtung!! Dadurch werden alle Ihre Daten gelöscht.
-Diese Funktion ist Alphastadium und funktioniert möglicherweise nicht richtig.
-Um fortzufahren, drücken Sie 'Löschen und konvertieren…'."</string>
+  <string name="convert_to_fbe_warning">"Konvertieren Sie Datenpartitionen mit Dateiverschlüsselung.
+!! Warnung !! Dadurch werden alle Ihre Daten gelöscht.
+Diese Funktion ist eine Alpha-Version und funktioniert möglicherweise nicht ordnungsgemäß.
+Um fortzufahren, drücken Sie "Löschen und konvertieren"</string>
   <string name="convert_to_file_encryption">Umwandlung in Dateiverschlüsselung</string>
   <string name="convert_to_file_encryption_done">Bereits verschlüsselte Datei</string>
   <string name="convert_to_file_encryption_enabled">Konvertieren…</string>
@@ -164,15 +202,20 @@ Um fortzufahren, drücken Sie 'Löschen und konvertieren…'."</string>
   <string name="debug_layout_summary">Anzeigen von Clip-Grenzen, Rändern, etc.</string>
   <string name="debug_monitoring_category">Überwachung</string>
   <string name="debug_networking_category">Vernetzung</string>
-  <string name="debug_view_attributes">Ansichtattributprüfung aktivieren</string>
+  <string name="debug_view_attributes">启用视图属性检查功能</string>
+  <string name="dev_logpersist_clear_warning_message">Wenn der permanente Logger nicht mehr für die Überwachung verwendet wird, müssen die auf Ihrem Gerät gespeicherten Loggerdaten gelöscht werden.</string>
+  <string name="dev_logpersist_clear_warning_title">Möchten Sie die dauerhaft gespeicherten Loggerdaten löschen?</string>
+  <string name="dev_settings_warning_message">Diese Einstellungen gelten nur für die Entwicklungsarbeit. Nach der Aktivierung können Ihr Gerät und Ihre Apps auf Ihrem Gerät abstürzen oder sich unerwartet verhalten.</string>
   <string name="dev_settings_warning_message">Diese Einstellungen sind nur für die Entwicklung gedacht. Sie können dazu führen, dass Ihr Gerät und die darauf befindlichen Apps nicht mehr funktioneren oder sich schlecht verhalten.</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar</string>
   <string name="development_settings_summary">Optionen für Appentwicklung einstellen</string>
   <string name="development_settings_title">Optionen für Entwickler</string>
+  <string name="direct_boot_unaware_dialog_message">Hinweis: Nach dem Neustart müssen Sie Ihr Telefon entsperren, um diese App auszuführen</string>
   <string name="disable_overlays">HW-Overlays deaktivieren</string>
   <string name="disable_overlays_summary">Verwenden Sie für Bildschirm-Compositing immer GPUs</string>
+  <string name="disabled">Deaktiviert</string>
   <string name="disabled_by_admin">Vom Administrator deaktiviert</string>
   <string name="disabled_by_admin_summary_text">Vom Admin kontrolliert</string>
   <string name="dob">(%1$s)</string>
