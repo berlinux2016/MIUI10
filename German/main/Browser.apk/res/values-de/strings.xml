@@ -103,8 +103,16 @@
   <string name="agree_permissions_request">Erlauben</string>
   <string name="alert_tips">Diese Webseite kann ein Sicherheitsrisiko darstellen</string>
   <string name="allow">Erlauben</string>
+  <string name="app_continue_downloading_text">Fortsetzen</string>
+  <string name="app_download_now_text">Herunterladen</string>
+  <string name="app_download_success_text">Vollständig</string>
+  <string name="app_downloading_ratio_text">Herunterladen %s</string>
+  <string name="app_downloading_text">Herunterladen</string>
   <string name="app_download_market_text">Mi Market zum Herunterladen verwenden, schneller und sicherer</string>
+  <string name="app_installing_text">Installieren</string>
   <string name="app_new_version">Die neueste Version dieser App ist bereits installiert</string>
+  <string name="app_open_text">Öffnen</string>
+  <string name="app_task_download_exists_text">Download vorhanden</string>
   <string name="app_update_install">Bereit, um Update zu installieren</string>
   <string name="aqi_quality_index_break">Sehr schädlich</string>
   <string name="aqi_quality_index_dangerous">Gefährlich</string>
@@ -251,6 +259,8 @@
   <string name="dialog_confirm_delete_checkbox_message">Datei aus internem Speicher löschen</string>
   <string name="dialog_confirm_delete_downloads_message">%s Aufgaben löschen?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Diese Aufgabe löschen?</string>
+  <string name="dialog_clipboard_tabs_action">Zum Öffnen anklicken</string>
+  <string name="dialog_clipboard_tabs_tip">Bereits kopierte Links finden</string>
   <string name="dialog_failed_body">Später nochmals versuchen oder Datei aus der Downloadswarteschlange entfernen?</string>
   <string name="dialog_file_already_exists">Diese Datei wurde bereits heruntergeladen</string>
   <string name="dialog_file_missing_body">Datei nicht gefunden. Vielleicht wurde diese verschoben oder gelöscht?</string>
@@ -409,6 +419,11 @@
   <string name="homepage_more_sites">Weitere Seiten</string>
   <string name="homepage_search_hint">Suche</string>
   <string name="hot_words_item_ads_mark">Werbung</string>
+  <string name="hot_word_item_mark_ads_text">WERBUNG</string>
+  <string name="hot_word_item_mark_burst_text">[BURST]?</string>
+  <string name="hot_word_item_mark_hot_text">HEISS</string>
+  <string name="hot_word_item_mark_new_text">NEU</string>
+  <string name="hot_word_item_mark_recommend_text">EMPFEHLUNG</string>
   <string name="hybrid_application_no_data_text">Keine Miniprogramme</string>
   <string name="hybrid_popup_window_delete_button">Löschen</string>
   <string name="ignore_add_pwa_dialog_today">Heute nicht mehr zeigen</string>
@@ -692,6 +707,15 @@
   <string name="mw_mr_controller_stop">Besetzung stoppen</string>
   <string name="mw_mr_controller_volume_slider">Lautstärkeregler</string>
   <string name="mw_mr_user_route_category_name">Geräte</string>
+  <string name="navigate_feedback_dislike">nicht interessiert</string>
+  <string name="navigate_feedback_dislike_tips">Reduziert solche Videoempfehlungen</string>
+  <string name="navigate_feedback_input_report_label">Andere Gründe</string>
+  <string name="navigate_feedback_report">Meldung</string>
+  <string name="navigate_feedback_report_input_tips">Stellen Sie Ihre Frage, wir werden sie so schnell wie möglich bearbeiten.</string>
+  <string name="navigate_feedback_report_success">Meldung erfolgt</string>
+  <string name="navigate_feedback_report_title">Grund der Meldung</string>
+  <string name="navigate_feedback_select_report_label">Wählen Sie einen Grund für das Meldung aus</string>
+  <string name="navigate_feedback_submit">Absenden</string>
   <string name="mw_new_tab_otr_not_saved">"Chrome wird die folgenden Informationen <em>nicht speichern</em>:
         &lt;ul&gt;
           &lt;li&gt;Ihren Browserverlauf
@@ -1093,6 +1117,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="search_button_text">Los</string>
   <string name="search_hint">Suche</string>
   <string name="search_menu_title">Suchen</string>
+  <string name="search_notification_btn_title">Suchen</string>
   <string name="search_path_browser">Einstellungen/Installierte Apps/Browser</string>
   <string name="search_settings_description">Lesezeichen und Verlauf</string>
   <string name="search_sm">Wikipedia</string>
@@ -1130,6 +1155,10 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="skip_button_label">Überspringen</string>
   <string name="skip_current_version">Diese Version überspringen</string>
   <string name="slide_guide">Schieben, um zurückzukehren</string>
+  <string name="small_video_ad_app_text_click">Herunterladen</string>
+  <string name="small_video_ad_app_text_open">Öffnen</string>
+  <string name="small_video_ad_app_text_resume">Fortsetzen</string>
+  <string name="small_video_ad_web_text">Öffnen</string>
   <string name="small_video_boba_tab">Übertragung</string>
   <string name="small_video_load_failed">Laden fehlgeschlagen</string>
   <string name="small_video_loading">Laden…</string>
