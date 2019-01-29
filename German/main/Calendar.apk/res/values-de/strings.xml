@@ -177,7 +177,9 @@
   <string name="edit_event_confirm_message">Änderungen verwerfen?</string>
   <string name="edit_event_countdown_name_empty_hint">Bitte Countdown-Inhalt eingeben</string>
   <string name="edit_event_countdown_name_hint">Inhalt</string>
-  <string name="edit_event_dislike_title">Warum haben Sie die Erstellung des Eintrags abgebrochen?</string>
+  <!-- ? -->
+  <string name="edit_event_dislike_title">Why did you cancel the creation of the schedule?/Warum haben Sie die Erstellung des Zeitplans abgebrochen?</string>
+  <!-- ? -->
   <string name="edit_event_from_label">Von</string>
   <string name="edit_event_input_year">Jahr eingeben</string>
   <string name="edit_event_label">Details</string>
@@ -233,6 +235,40 @@
   <string name="event_title">Titel</string>
   <string name="event_view">Termin anzeigen</string>
   <string name="every_weekday">Werktags (Mo–Fr)</string>
+
+<!-- eventuell noch bearbeiten anfang --> 
+  
+  <string name="feed_actionbar_day">Tag</string>
+  <string name="feed_close_open_feed">开启今日关注/Open today's attention</string>
+  <string name="feed_dislike_reason">Nicht interessiert</string>
+  <string name="feed_guide_dialog_title">Wählen Sie einen Kanal von Interesse aus</string>
+  <string name="feed_guide_setting_close">关闭今日关注/Close today's attention</string>
+  <string name="feed_guide_setting_mananger">Weitere Abo-Kanäle</string>
+  <string name="feed_guide_subscribe">Jetzt öffnen</string>
+  <string name="feed_guide_subscribe_failed">Fehler beim Öffnen</string>
+  <string name="feed_guide_subscribe_msg">Wählen Sie mindestens einen Kanal aus</string>
+  <string name="feed_guide_tips">Wenn Sie es öffnen, können Sie jeden Tag die neuen Informationen über den Abonnementkanal erfahren.</string>
+  <string name="feed_guide_title">Wählen Sie Ihren Lieblingskanal und entdecken Sie etwas Neues.</string>
+  <string name="feed_list_close_confirm">Bestimmen Sie</string>
+  <string name="feed_list_close_title">Optional reason, precise shielding/Optionaler Grund, präzise Abschirmung</string>
+  <string name="feed_list_loading_hint">Laden…</string>
+  <string name="feed_list_pull_to_refresh_hint">Zum Aktualisieren nach unten ziehen…</string>
+  <string name="feed_list_push_to_load_hint">Zum Laden nach oben ziehen…</string>
+  <string name="feed_list_release_to_load_hint">Zm Laden freigeben…</string>
+  <string name="feed_list_release_to_refresh_hint">Zum Aktualisieren freigeben…</string>
+  <string name="feed_list_tips_none">Nichts Neues, später nochmal versuchen.</string>
+  <string name="feed_list_tips_success">%1$d neue Dinge aktualisiert</string>
+  <string name="feed_manager_edit">Bearbeiten</string>
+  <string name="feed_manager_ok">Ausführen</string>
+  <string name="feed_manager_subscribed">Mein Abo</string>
+  <string name="feed_manager_subscribed_empty_msg">Kanal noch nicht abonniert, einfach anmelden.</string>
+  <string name="feed_manager_title">Abonnieren Sie interresante Kanäle</string>
+  <string name="feed_manager_unsubscribed">Empfohlener Kanal</string>
+  <string name="feed_manager_unsubscribed_empty_msg">Für weitere spannende Kanäle dranbleiben</string>
+  <string name="feed_title">今日关注/Today's attention</string>  
+  
+<!-- eventuell noch bearbeiten ende -->  
+  
   <string name="festival_detail_title">Festival</string>
   <string name="flight_check_in">Einchecken</string>
   <string name="flight_check_in_done">Eingecheckt</string>
@@ -490,6 +526,19 @@
   <string name="setting_title_debug">Log-Export</string>
   <string name="setting_title_holiday_display">Feiertage anzeigen</string>
   <string name="setting_title_limit_card_desc">Als Limitkarte auf der Startseite des Kalenders benötigt der Dienst eine Internetverbindung</string>
+  
+<!-- noch bearbeiten anfang -->   
+  
+  <string name="setting_title_limit_card_display">Limitservice anzeigen</string>  
+  <string name="setting_title_lottery_card_desc">Lottery draw card located on the calendar homepage, the service needs to be networked</string>
+  <string name="setting_title_lottery_card_display">Lottery lottery service</string>
+  <string name="setting_title_shift_card_desc">Um die Assistentenkarte auf der Kalenderstartseite zu verschieben, muss mit dem Dienst verbunden sein</string>
+  <string name="setting_title_shift_card_display">Show shift assistant/Schaltassistent anzeigen</string>
+  <string name="setting_title_weather_card_desc">Wetterkarte auf der Startseite des Kalenders, muss mit dem Dienst verbunden sein</string>
+  <string name="setting_title_weather_card_display">Wetterdienst anzeigen</string>
+
+<!-- noch bearbeiten ende -->  
+  
   <string name="setting_title_yiji_display">Yiji-Bogey Kalender anzeigen</string>
   <string name="setting_user_experience">Benutzerfeedbackprogramm</string>
   <string name="share_title">Teilen</string>
@@ -509,7 +558,7 @@
   <string name="subscribe_channel_hint">"Abonnieren Sie Dienste, die Sie täglich auf Ihrer Startseite angezeigt bekommen.
 Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="subscribe_channel_subscribe">Abonnieren</string>
-  <string name="subscribe_channel_subscribing">Wird abonniert</string>
+  <string name="subscribe_channel_subscribing">Abonnieren</string>
   <string name="subscribe_channel_title">Kanal</string>
   <string name="subscribing_card">Wird abonniert</string>
   <string name="swipe_up_guide_hint_text">Mehr erfahren</string>
@@ -593,9 +642,9 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="trip_card_train_primary">Reise %1$s %2$s - %3$s</string>
   <string name="trip_card_train_primary_no_arr">Reise %1$s Abfahrt: %2$s</string>
   <string name="trip_card_travel_secondary">Abfahrt %1$s</string>
-  <string name="unsubscribe_card">Abmelden</string>
-  <string name="unsubscribe_card_success">Erfolgreich von “%1$s” abgemeldet</string>
-  <string name="unsubscribing_card">Wird abgemeldet</string>
+  <string name="unsubscribe_card">Karte abbestellen</string>
+  <string name="unsubscribe_card_success">Von "%1$s" erfolgreich abgemeldet</string>
+  <string name="unsubscribing_card">Karte abbestellt</string>
   <string name="user_notice_button_exit">Beenden</string>
   <string name="user_notice_message">Sie müssen unserer %1$s und %2$s zustimmen, bevor Sie den Kalender benutzen können. Um genaue Daten über lokale Feiertage, Geburtstage, Kreditkartenrückzahlungen und geplante Reisen bereitzustellen, muss der Kalender auf Ihren Standort, Ihre Kontakte und Nachrichten zugreifen und eine Internetverbindung herstellen. Zustimmen?</string>
   <string name="user_notice_title">Achtung</string>
