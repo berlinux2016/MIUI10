@@ -126,7 +126,7 @@
   <string name="app_not_found">Für diese Aktion wurde keine App gefunden</string>
   <string name="app_running_notification_text">Für weitere Informationen oder zum Anhalten der App antippen</string>
   <string name="app_running_notification_title">%1$s wird ausgeführt</string>
-  <string name="app_suspended_default_message">1$s ist zurzeit nicht verfügbar. Dies wird von %2$s verwaltet.</string>
+  <string name="app_suspended_default_message">%1$s ist zurzeit nicht verfügbar. Dies wird von %2$s verwaltet.</string>
   <string name="app_suspended_more_details">Mehr erfahren</string>
   <string name="app_suspended_title">App ist nicht verfügbar</string>
   <string name="app_upgrading_toast">%1$s wird aktualisiert…</string>
@@ -234,8 +234,8 @@
   <string name="condition_provider_service_binding_label">Bedingungsprovider</string>
   <string name="conference_call">Telefonkonferenz</string>
   <string name="configure_input_methods">Tastatur auswählen</string>
-  <string name="contentServiceSync">Synchronisierung</string>
-  <string name="contentServiceSyncNotificationTitle">Synchronisierung</string>
+  <string name="contentServiceSync">Synchronisation</string>
+  <string name="contentServiceSyncNotificationTitle">Synchronisation</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Zu viele %s gelöscht</string>
   <string name="content_description_sliding_handle">Schieberegler: Berühren &amp; halten</string>
   <string name="continue_to_enable_accessibility">Drücken Sie mit zwei Fingern, um die Bedienungshilfen zu aktivieren</string>
@@ -260,7 +260,7 @@
   <string name="data_usage_rapid_title">Hohe mobile Datennutzung</string>
   <string name="data_usage_restricted_body">Beschränkung durch Berühren entfernen</string>
   <string name="data_usage_restricted_title">Hintergrunddaten eingeschränkt</string>
-  <string name="data_usage_warning_body">Für Verbrauch und Einstell. berühren</string>
+  <string name="data_usage_warning_body">Sie haben %s Daten verwendet</string>
   <string name="data_usage_warning_title">Warnung zum Datenverbrauch</string>
   <string name="data_usage_wifi_limit_snoozed_title">WLAN-Datenlimit überschritten</string>
   <string name="data_usage_wifi_limit_title">WLAN-Datenlimit erreicht</string>
@@ -268,7 +268,7 @@
   <string name="date_picker_decrement_day_button">1 Tag weniger</string>
   <string name="date_picker_decrement_month_button">1 Monat weniger</string>
   <string name="date_picker_decrement_year_button">1 Jahr weniger</string>
-  <string name="date_picker_dialog_title">Datum festlegen</string>
+  <string name="date_picker_dialog_title">Datum einstellen</string>
   <string name="date_picker_increment_day_button">1 Tag mehr</string>
   <string name="date_picker_increment_month_button">1 Monat mehr</string>
   <string name="date_picker_increment_year_button">1 Jahr mehr</string>
@@ -364,7 +364,7 @@
   <string name="expand_button_content_description_collapsed">Erweitern</string>
   <string name="expand_button_content_description_expanded">Einklappen</string>
   <string name="expires_on">Läuft ab am:</string>
-  <string name="ext_media_badremoval_notification_message">Trennen Sie den %s vor dem Entfernen, um Datenverlust zu vermeiden</string>
+  <string name="ext_media_badremoval_notification_message">Vor dem Entfernen Medien auswerfen, um Datenverlust zu vermeiden</string>
   <string name="ext_media_badremoval_notification_title">%s unerwartet entfernt</string>
   <string name="ext_media_browse_action">Durchsuchen</string>
   <string name="ext_media_checking_notification_message">Suche nach Fehlern</string>
@@ -378,9 +378,9 @@
   <string name="ext_media_move_success_message">Daten wurden nach %s verschoben</string>
   <string name="ext_media_move_success_title">Fertig</string>
   <string name="ext_media_move_title">Daten verschieben</string>
-  <string name="ext_media_new_notification_message">%s als neu erkannt</string>
+  <string name="ext_media_new_notification_message">Zum Einrichten tippen</string>
   <string name="ext_media_new_notification_title">%s neu</string>
-  <string name="ext_media_nomedia_notification_message">%s entfernt. Neuen Datenträger einlegen.</string>
+  <string name="ext_media_nomedia_notification_message">Einige Funktionen arbeiten evtl. nicht richtig. Neuen Datenträger einlegen.</string>
   <string name="ext_media_nomedia_notification_title">%s entfernt</string>
   <string name="ext_media_ready_notification_message">Zum Übertragen von Fotos und Medien</string>
   <string name="ext_media_status_bad_removal">Nicht sicher entfernt</string>
@@ -395,7 +395,7 @@
   <string name="ext_media_status_unmounted">Ausgeworfen</string>
   <string name="ext_media_status_unsupported">Nicht unterstützt</string>
   <string name="ext_media_unmount_action">Auswerfen</string>
-  <string name="ext_media_unmountable_notification_message">%s ist beschädigt. Bitte neu formatieren.</string>
+  <string name="ext_media_unmountable_notification_message">Zum Beheben tippen</string>
   <string name="ext_media_unmountable_notification_title">%s beschädigt</string>
   <string name="ext_media_unmounting_notification_message">Nicht entfernen</string>
   <string name="ext_media_unmounting_notification_title">%s wird noch ausgeworfen…</string>
@@ -757,7 +757,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="network_switch_metered_toast">Von %1$s auf %2$s umgeschaltet</string>
   <string name="network_switch_type_name_unknown">Unbekannter Netzwerktyp</string>
   <string name="new_app_action">%1$s starten</string>
-  <string name="new_app_description">Alte App beenden ohne zu speichern</string>
+  <string name="new_app_description">%1$s wird beendet ohne zu speichern</string>
   <string name="new_sms_notification_content">Zum Anzeigen SMS-App öffnen</string>
   <string name="new_sms_notification_title">Sie haben neue Nachrichten</string>
   <string name="next_button_label">Weiter</string>
@@ -903,8 +903,8 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permdesc_readPhoneNumbers">Erlaubt der App den Zugriff auf die Telefonnummern im Gerät.</string>
   <string name="permdesc_readPhoneState">Erlaubt der App, auf die Telefonfunktionen des Geräts zuzugreifen. Die Berechtigung erlaubt der App, die Telefonnummer und Geräte-IDs zu erfassen, festzustellen, ob gerade ein Gespräch geführt wird, und die Rufnummer verbundener Anrufer zu lesen.</string>
   <string name="permdesc_readSms">Erlaubt der App, auf Ihrem Telefon oder Ihrer SIM-Karte gespeicherte SMS zu lesen. Die App kann alle SMS lesen, unabhängig von Inhalt und Vertraulichkeit.</string>
-  <string name="permdesc_readSyncSettings">Erlaubt der App, die Synchronisierungseinstellungen eines Kontos zu lesen. Z. B. kann damit festgestellt werden, ob Kontakte mit einem Konto synchronisiert werden.</string>
-  <string name="permdesc_readSyncStats">Erlaubt der App, die Synchronisierungsstatistiken eines Kontos zu lesen, einschließlich des Verlaufs von Synchronisierungsereignissen und der Menge synchronisierter Daten.</string>
+  <string name="permdesc_readSyncSettings">Erlaubt der App, die Synchronisationseinstellungen eines Kontos zu lesen. Z. B. kann damit festgestellt werden, ob Kontakte mit einem Konto synchronisiert werden.</string>
+  <string name="permdesc_readSyncStats">Erlaubt der App, die Synchronisationsstatistiken eines Kontos zu lesen, einschließlich des Verlaufs von Synchronisationsereignissen und der Menge synchronisierter Daten.</string>
   <string name="permdesc_receiveBootCompleted">Erlaubt der App, sich selbst zu starten, sobald das System gebootet wurde. Dadurch kann es länger dauern, bis das Telefon gestartet wird, und durch die ständige Aktivität der App wird die gesamte Leistung des Telefons beeinträchtigt.</string>
   <string name="permdesc_receiveMms">Erlaubt der App, MMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne Ihnen diese anzuzeigen.</string>
   <string name="permdesc_receiveSms">Erlaubt der App, SMS zu empfangen und zu verarbeiten. Das bedeutet, dass die App an Ihr Gerät gesendete Nachrichten überwachen und löschen kann, ohne Ihnen diese anzuzeigen.</string>
@@ -946,7 +946,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permdesc_writeGeolocationPermissions">Erlaubt der App, die Geolokalisierungsberechtigungen des Browsers zu ändern. Schädliche Apps können so Standortinformationen an beliebige Webseiten senden.</string>
   <string name="permdesc_writeHistoryBookmarks">Erlaubt der App, den Browserverlauf und die Lesezeichen auf Ihrem Telefon zu ändern. Damit kann die App Browserdaten löschen und ändern. Hinweis: Diese Berechtigung kann nicht von Browsern von Drittanbietern oder anderen Apps mit Internetfunktionen erzwungen werden.</string>
   <string name="permdesc_writeSettings">Erlaubt der App, die Einstellungsdaten des Systems zu ändern. Schädliche Apps können so die Systemkonfiguration beschädigen.</string>
-  <string name="permdesc_writeSyncSettings">Erlaubt der App, die Synchronisierungseinstellungen eines Kontos zu ändern. Dies kann z. B. dazu verwendet werden, die Synchronisierung von Kontakten mit einem Konto zu aktivieren.</string>
+  <string name="permdesc_writeSyncSettings">Erlaubt der App, die Synchronisationseinstellungen eines Kontos zu ändern. Dies kann z. B. dazu verwendet werden, die Synchronisation von Kontakten mit einem Konto zu aktivieren.</string>
   <string name="permgroupdesc_calendar">Zugriff auf Kalender</string>
   <string name="permgroupdesc_calllog">Anrufliste lesen und schreiben</string>
   <string name="permgroupdesc_camera">Fotos und Videos aufnehmen</string>
@@ -1047,8 +1047,8 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permlab_readPhoneNumbers">Telefonnummern lesen</string>
   <string name="permlab_readPhoneState">Telefonstatus und Identität abrufen</string>
   <string name="permlab_readSms">SMS oder MMS lesen</string>
-  <string name="permlab_readSyncSettings">Synchronisierungseinstellungen lesen</string>
-  <string name="permlab_readSyncStats">Synchronisierungsstatistik lesen</string>
+  <string name="permlab_readSyncSettings">Synchronisationseinstellungen lesen</string>
+  <string name="permlab_readSyncStats">Synchronisationsstatistik lesen</string>
   <string name="permlab_receiveBootCompleted">Beim Start ausführen</string>
   <string name="permlab_receiveMms">MMS empfangen</string>
   <string name="permlab_receiveSms">SMS empfangen</string>
@@ -1091,7 +1091,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permlab_writeGeolocationPermissions">Geolokalisierungsberechtigungen des Browsers ändern</string>
   <string name="permlab_writeHistoryBookmarks">Web-Lesezeichen und Verlauf schreiben</string>
   <string name="permlab_writeSettings">Systemeinstellungen ändern</string>
-  <string name="permlab_writeSyncSettings">Synchronisierung aktivieren oder deaktivieren</string>
+  <string name="permlab_writeSyncSettings">Synchronisation aktivieren oder deaktivieren</string>
   <string name="perms_description_app">Zur Verfügung gestellt von %1$s</string>
   <string name="perms_new_perm_prefix">"&lt;font size="12" fgcolor="#ff33b5e5"&gt;NEU: &lt;/font&gt;"</string>
   <string name="phoneTypeAssistant">Zweite Nummer</string>
@@ -1526,7 +1526,7 @@ Möchten Sie sie schließen?"</string>
   <string name="wifi_watchdog_network_disabled">WLAN-Verbindung konnte nicht hergestellt werden</string>
   <string name="wifi_watchdog_network_disabled_detailed">" hat eine schlechte Internetverbindung"</string>
   <string name="wireless_display_route_description">Kabellose Übertragung (WiDi)</string>
-  <string name="work_mode_off_message">Arbeitsprofil aktivieren, inklusive Apps, Hintergrundsynchronisierung und damit verbundene Funktionen</string>
+  <string name="work_mode_off_message">Arbeitsprofil aktivieren, inklusive Apps, Hintergrundsynchronisation und damit verbundene Funktionen</string>
   <string name="work_mode_off_title">Arbeitsprofil ist AUS</string>
   <string name="work_mode_turn_on">Einschalten</string>
   <string name="work_profile_deleted">Arbeitsprofil gelöscht</string>

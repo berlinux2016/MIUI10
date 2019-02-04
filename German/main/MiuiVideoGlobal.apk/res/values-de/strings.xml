@@ -4,7 +4,7 @@
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
   <string name="abc_action_mode_done">Fertig</string>
-  <string name="abc_activity_chooser_view_see_all">Alles anzeigen</string>
+  <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
   <string name="abc_activitychooserview_choose_application">App wählen</string>
   <string name="abc_capital_off">AUS</string>
   <string name="abc_capital_on">AN</string>
@@ -17,7 +17,16 @@
   <string name="abc_shareactionprovider_share_with">Teilen mit</string>
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
   <string name="abc_toolbar_collapse_description">Einklappen</string>
+  <string name="add_to_trust_device">Dies ist ein vertrauenswürdiges Gerät</string>
   <string name="agree">Zustimmen</string>
+  <string name="ai_animation_music_text">AI Soundtrack</string>
+  <string name="ai_music_save_cancel">Abbrechen</string>
+  <string name="ai_music_save_dialog_title">Speichern</string>
+  <string name="ai_music_save_fail">Nicht gespeichert</string>
+  <string name="ai_music_save_info">AI Soundtrack erfolgreich hinzugefügt. Video speichern?</string>
+  <string name="ai_music_save_ok">Speichern</string>
+  <string name="ai_music_save_success">Erfolgreich gespeichert</string>
+  <string name="ai_music_saved">Gespeichert</string>
   <string name="airkan_control_device_des">Um die Wiedergabe zu steuern, berühren Sie die Leiste am unteren Rand</string>
   <string name="airkan_device_xiaomi_phone">Mein Telefon</string>
   <string name="airkan_playing">Streaming nach %s</string>
@@ -30,9 +39,11 @@
   <string name="alert_dialog_download_plugin">"HD-Plugin wird gleich heruntergeladen und installiert: "</string>
   <string name="alert_dialog_download_prepare">Download wird vorbereitet…</string>
   <string name="alert_dialog_download_progress">"App wird heruntergeladen: "</string>
+  <string name="and">" und "</string>
   <string name="audio_changed">Neuer Audiotitel</string>
   <string name="audio_title">Audiotitel</string>
   <string name="audio_track">Audiotitel</string>
+  <string name="bind_sign_in_title">Bindung an Mi Konto</string>
   <string name="browser_error">Zurzeit nicht verfügbar, bitte später wieder versuchen</string>
   <string name="cancel">Abbrechen</string>
   <string name="canceled">Abgebrochen</string>
@@ -71,6 +82,8 @@
   <string name="cast_tracks_chooser_dialog_none">Nichts</string>
   <string name="cast_tracks_chooser_dialog_subtitles">Untertitel</string>
   <string name="cast_unmute">Stummschaltung aufheben</string>
+  <string name="choose_to_signin">Ja</string>
+  <string name="choose_to_signup">Nein, ich erstelle einen</string>
   <string name="click_to_reload_more">Tippen, um mehr zu zeigen</string>
   <string name="click_to_retry">Erneut versuchen</string>
   <string name="com_permission_desc">Mi Video kann nicht auf Videos auf Ihrem Gerät zugreifen. Erlauben Sie den Zugriff in den Einstellungen.</string>
@@ -93,7 +106,7 @@
   <string name="common_signin_button_text">Anmelden</string>
   <string name="common_signin_button_text_long">Mit Google anmelden</string>
   <string name="data_empty">Keine Elemente hier</string>
-  <string name="dialog_privacy_info_new2">"Um die Dienste von %1$s nutzen zu können, müssen Sie zustimmen, dass %1$s Ihre personenbezogenen Daten erfasst, verarbeitet und nutzt. Unsere &lt;a href=%2$s&gt;Datenschutzerklärung&lt;/a&gt; gilt als gelesen und akzeptiert, wenn Sie unten auf \"Zustimmen\" tippen."</string>
+  <string name="dialog_privacy_info_new2">"Um die Dienste nutzen zu können, müssen Sie zustimmen, dass %1$s Ihre personenbezogenen Daten erfasst, verarbeitet und nutzt. Unsere &lt;a href=%2$s&gt;Datenschutzerklärung&lt;/a&gt; gilt als gelesen und akzeptiert, wenn Sie unten auf \"Zustimmen\" tippen."</string>
   <string name="dialog_privacy_title">Genehmigung</string>
   <string name="dialog_revoke_privacy_info_new2">Wenn Sie die Genehmigung widerrufen, stoppt die App die Datenerfassung, und alle damit verbundenen Daten werden von unseren Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Genehmigung trotzdem widerrufen?</string>
   <string name="dialog_revoke_privacy_title">Genehmigung widerrufen</string>
@@ -119,6 +132,8 @@
   <string name="exo_controls_previous_description">Vorheriger Titel</string>
   <string name="exo_controls_rewind_description">Zurückspulen</string>
   <string name="explore_On">Mehr über Mi Video erfahren</string>
+  <string name="explore_on_mi_video">Mehr auf Mi Video</string>
+  <string name="failed_to_fetch_data">Info nicht geladen</string>
   <string name="finish">Erledigt</string>
   <string name="for_you">Für Sie</string>
   <string name="fw_loading">Einen Moment…</string>
@@ -136,6 +151,8 @@
   <string name="lp_brightness">Helligkeit</string>
   <string name="lp_fullscreen">Vollbildschirm</string>
   <string name="lp_setting">Einstellungen</string>
+  <string name="lp_speed_title">Wiedergabegeschwindigkeit</string>
+  <string name="lp_speed_toast">Wiedergabe mit %sx-Geschwindigkeit…</string>
   <string name="lp_videoView_error_button">Fertig</string>
   <string name="lp_videoView_error_text_unknown">Kann dieses Video nicht abspielen</string>
   <string name="lp_videoView_error_title">Kann nicht abspielen</string>
@@ -376,6 +393,7 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="pw_video_history">Wiedergabeverlauf</string>
   <string name="pw_video_mine">Meine Videos</string>
   <string name="pw_video_offline">Lokale videos</string>
+  <string name="read_and_agree">Zustimmen</string>
   <string name="recommend_online_switch">Online-Empfehlungen</string>
   <string name="recommend_online_tips">Einschalten, um Online-Videoempfehlungen zu erhalten</string>
   <string name="recommend_page_replay">WIEDERHOLEN</string>
@@ -389,6 +407,7 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="s6">Erlauben Sie der Werbung, einen Kalendereintrag zu erstellen?</string>
   <string name="s7">Testwerbung</string>
   <string name="save">Speichern</string>
+  <string name="save_cancel_toast">Erneut tippen, um Speichern abzubrechen</string>
   <string name="screen_shot_failure">Screenshot nicht möglich</string>
   <string name="screen_shot_failure_tips">Aktualisieren Sie MIUI, um Screenshots machen zu können</string>
   <string name="screen_shot_success">Sreenshot erfolgreich</string>
@@ -411,6 +430,8 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="share_ugc_waitting">Link generieren…</string>
   <string name="signup_type_silent_default">stille</string>
   <string name="signup_type_user_default">LoginSDK-Kunde</string>
+  <string name="slid_fail_message">Speichern nicht möglich</string>
+  <string name="slide_save_message">Video erstellen…</string>
   <string name="storage_external_sdcard">Externer Speicher</string>
   <string name="storage_internal_sdcard">Interner Speicher</string>
   <string name="storage_permission_denied">Berechtigung zum Zugriff auf den Speicher wurde verweigert</string>
@@ -443,6 +464,7 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="subtitle_synchronization_title">Sync</string>
   <string name="subtitle_title">Untertitel</string>
   <string name="subtitle_track">Untertitel</string>
+  <string name="switch_ratio_pause">Wiedergabegeschwindigkeit ist instabil. Zurückschalten auf Standardgeschwindigkeit…</string>
   <string name="t_check_delete_file">Zu löschende Elemente auswählen</string>
   <string name="t_check_delete_history">Zu löschende Aufnahmen auswählen</string>
   <string name="t_check_hide_file">Zu versteckende Videos auswählen</string>

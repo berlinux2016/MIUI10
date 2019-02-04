@@ -10,10 +10,10 @@
   <string name="accessibility_beauty_panel_open">Menü Verschönern ist göffnet</string>
   <string name="accessibility_beauty_switch_closed">Verschönern ist aus</string>
   <string name="accessibility_beauty_switch_open">Verschönern ist an</string>
-  <string name="accessibility_bokeh_adjust">Blur-Level-Einstellung</string>
-  <string name="accessibility_bokeh_level">f%1$s Level-Unschärfe</string>
-  <string name="accessibility_bokeh_normal">Hintergrundweichzeichnen der Frontkamera ist aus</string>
-  <string name="accessibility_bokeh_on">Hintergrundweichzeichnen der Frontkamera ist an</string>
+  <string name="accessibility_bokeh_adjust">Einstellung Hintergrundunschärfe</string>
+  <string name="accessibility_bokeh_level">Blende f/%1$s</string>
+  <string name="accessibility_bokeh_normal">Hintergrundunschärfe der Frontkamera ist aus</string>
+  <string name="accessibility_bokeh_on">Hintergrundunschärfe der Frontkamera ist an</string>
   <string name="accessibility_camera_auto_flashmode">Autoblitz</string>
   <string name="accessibility_camera_flash_closemode">Kein Blitz</string>
   <string name="accessibility_camera_flashmode">Immer Blitz</string>
@@ -26,7 +26,7 @@
   <string name="accessibility_camera_picker_finish">Kameras erfolgreich gewechselt</string>
   <string name="accessibility_camera_record_start">Aufnahme starten</string>
   <string name="accessibility_camera_record_stop">Aufnahme stoppen</string>
-  <string name="accessibility_camera_shutter_finish">Erfolgreich ein Foto gemacht</string>
+  <string name="accessibility_camera_shutter_finish">Foto erfolgreich gemacht</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Ganzkörpermodus ist aus</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Ganzkörpermodus ist an</string>
   <string name="accessibility_close_more_ptions">Mehr Optionen deaktivieren</string>
@@ -85,8 +85,8 @@
   <string name="accessibility_ultra_pixel_photography_48mp_on">48 MP an</string>
   <string name="accessibility_ultra_pixel_photography_off">%d MP aus</string>
   <string name="accessibility_ultra_pixel_photography_on">%d MP an</string>
-  <string name="accessibility_ultra_wide_off">Im Weitwinkelmodus ausgeschaltet</string>
-  <string name="accessibility_ultra_wide_on">Im Weitwinkelmodus eingeschaltet</string>
+  <string name="accessibility_ultra_wide_off">Im Ultarweitwinkelmodus ausgeschaltet</string>
+  <string name="accessibility_ultra_wide_on">Im Ultraweitwinkelmodus eingeschaltet</string>
   <string name="accessibility_video_capture_button">Taste für die Videoaufzeichnung</string>
   <string name="accessibility_video_module_picker">Videomodusauswahl</string>
   <string name="accessibility_video_pause_button">Aufnahme anhalten</string>
@@ -101,16 +101,17 @@
   <string name="app_details">Appdetails:</string>
   <string name="audio_focus_exit_button_text">Audiofokus beenden</string>
   <string name="auto">Auto</string>
-  <string name="autozoom_click_hint">Tippen Sie auf ein Objekt, um die Verfolgung zu starten. Bleiben Sie mindestens 3 Meter entfernt, um den besten Effekt zu erzielen.</string>
-  <string name="autozoom_disabled_hint">Stoppt die Verfolgung eines sich bewegenden Objekts</string>
-  <string name="autozoom_hint">Bewegliches Objekt verfolgen</string>
+  <string name="autozoom_click_hint">Tippen Sie auf ein Motiv, um die Verfolgung zu starten. Bleiben Sie mindestens 3 Meter entfernt, um den besten Effekt zu erzielen.</string>
+  <string name="autozoom_disabled_hint">Stoppt die Verfolgung eines sich bewegenden Motivs</string>
+  <string name="autozoom_hint">Bewegliches Motiv verfolgen</string>
   <string name="back_bokeh_use_hint">Halten Sie Ihr Motiv in einem Umkreis von 1,5 Metern für den besten Effekt.</string>
   <string name="beauty_body">Figur</string>
   <string name="beauty_body_body">Abnehmen</string>
   <string name="beauty_body_head">Kopf</string>
   <string name="beauty_body_legged">Lange Beine</string>
-  <string name="beauty_body_reset_tip">Figureneffekte erfolgreich entfernt</string>
+  <string name="beauty_body_reset_tip">Figureffekte erfolgreich entfernt</string>
   <string name="beauty_body_shoulder">Schulter</string>
+  <string name="beauty_body_slim_count_tip">Figureffekte funktionieren nur bei Einpersonenaufnahmen</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Verschönern</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Umgestalten</string>
   <string name="beauty_fragment_tab_name_beauty">Verschönern</string>
@@ -121,7 +122,7 @@
   <string name="beauty_tab_name_live_beauty">Verschönern</string>
   <string name="beauty_tab_name_live_filter">Filter</string>
   <string name="bg_replacement_message">"Stellen Sie Ihr Gerät auf eine stabile Oberfläche
-und treten Sie für einen Moment aus dem Blickfeld raus"</string>
+und treten Sie für einen Moment aus dem Blickfeld raus."</string>
   <string name="bokeh_use_hint">Tiefeneffekt</string>
   <string name="burst_shoot_exit_button_text">Serienbilder schießen ausschalten</string>
   <string name="button_fisheye_camera_title">Fischauge</string>
@@ -129,7 +130,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="button_normal_video_title">Videoaufnahme</string>
   <string name="camera_disabled">Kamera wurde deaktiviert</string>
   <string name="camera_error_title">Kamerafehler</string>
-  <string name="camera_facedetection_sub_option_hint">Experimentelle Option ist jetzt verfügbar</string>
+  <string name="camera_facedetection_sub_option_hint">Experimentelle Option jetzt verfügbar</string>
   <string name="camera_label">Kamera</string>
   <string name="camera_liveshot_off_tip">Dynamische Aufnahmen ausgeschaltet</string>
   <string name="camera_liveshot_on_tip">Dynamische Aufnahmen</string>
@@ -138,7 +139,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="camera_settings_label">Kamera</string>
   <string name="camera_snap_mode_title">Schnellauslöser</string>
   <string name="camera_snap_mode_title_detail">Tippen, um Details anzuzeigen</string>
-  <string name="can_not_play_video">Bildschirm entsperren, um die Wiedergabe anzusehen</string>
+  <string name="can_not_play_video">Bildschirm entsperren, um Wiedergabe anzusehen</string>
   <string name="cancel">Abbrechen</string>
   <string name="cannot_connect_camera_once">Keine Verbindung zur Kamera möglich</string>
   <string name="cannot_connect_camera_twice">Weiterhin keine Verbindung zur Kamera möglich. Neustart des Telefons empfohlen.</string>
@@ -161,7 +162,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="color_effect_entry_vivid">Lebendig</string>
   <string name="color_effect_entry_warm">Warm</string>
   <string name="color_effect_live_blue">Orchidee</string>
-  <string name="color_effect_live_deepblack">S&amp;W</string>
+  <string name="color_effect_live_deepblack">Schwarz-Weiß</string>
   <string name="color_effect_live_fair">Blass</string>
   <string name="color_effect_live_none">Normal</string>
   <string name="color_effect_live_solar">Himmelblau</string>
@@ -176,7 +177,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="confirm_change_mode_title">Modus wechseln</string>
   <string name="confirm_change_to_expert_mode_message">In den erweiterten Modus wechseln?</string>
   <string name="confirm_change_to_simple_mode_message">In den Standardmodus wechseln?</string>
-  <string name="confirm_install_scanner_message">Der Scanner ermöglicht Ihnen, QR Codes, Strichcodes und mehr zu scannen. Sie benötigen eine Internetverbindung für die Installation.</string>
+  <string name="confirm_install_scanner_message">Scanner ermöglicht Ihnen, QR-Codes, Strichcodes und mehr zu scannen. Sie benötigen eine Internetverbindung für die Installation.</string>
   <string name="confirm_install_scanner_title">Scanner installieren</string>
   <string name="confirm_location_alert">Aufnahmestandort speichern</string>
   <string name="confirm_location_message">Standortposition der Fotos speichern?</string>
@@ -202,7 +203,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="crop_saved">Ausgeschnittenes Bild gespeichert nach %s</string>
   <string name="custom_watermark_contains_senstive_words">Wasserzeichen dürfen keine eingeschränkten Begriffe enthalten (%1$s)</string>
   <string name="custom_watermark_tips">Dieser Text erscheint als zweite Zeile Ihres Wasserzeichens. Er kann bis zu 18 Buchstaben oder 14 chinesische Zeichen enthalten.</string>
-  <string name="custom_watermark_too_many_words">Der von Ihnen eingegebene Text ist zu lang</string>
+  <string name="custom_watermark_too_many_words">Von Ihnen eingegebener Text ist zu lang</string>
   <string name="custom_watermark_words">Benutzerdefiniertes Wasserzeichen</string>
   <string name="custom_watermark_words_input_hint">Text eingeben</string>
   <string name="custom_watermark_words_save_success">Erfolgreich gespeichert</string>
@@ -211,8 +212,8 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="description">Beschreibung</string>
   <string name="details">Details</string>
   <string name="details_title">%1$d von %2$d Elementen:</string>
-  <string name="device_48m_watermark_default_text">48M DUAL KAMERA</string>
-  <string name="device_watermark_default_text">AI DUAL KAMERA</string>
+  <string name="device_48m_watermark_default_text">48M DUALKAMERA</string>
+  <string name="device_watermark_default_text">AI DUALKAMERA</string>
   <string name="disable_video_snapshot_hint">Videoschnappschuss ist aus, wenn Spezialeffekte aktiviert sind</string>
   <string name="do_not_remind_me">Nicht wieder anzeigen</string>
   <string name="download_by_browser">Mit dem Browser herunterladen</string>
@@ -221,9 +222,9 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="dual_camera_lens_covered_toast">Linse verdeckt</string>
   <string name="dual_camera_low_constract_toast">Geringer Kontrast beeinträchtigt eventuell die Dualkameraeffekte</string>
   <string name="dual_camera_lowlight_toast">Schwaches Licht beeinträchtigt eventuell die Dualkameraeffekte</string>
-  <string name="dual_camera_too_close_toast">Zu nah am Objekt für Dualkameraeffekte</string>
-  <string name="dual_camera_use_hint">Dualkameramodus kann Verzerrungseffekte verursachen, Abstand zwischen Kamera und Objekt sollte weniger als zwei Meter betragen</string>
-  <string name="dualcamera_watermark_default">AI DUAL KAMERA</string>
+  <string name="dual_camera_too_close_toast">Zu nah am Motiv für Dualkameraeffekte</string>
+  <string name="dual_camera_use_hint">Dualkameramodus kann Verzerrungseffekte verursachen, Abstand zwischen Kamera und Motiv sollte weniger als zwei Meter betragen</string>
+  <string name="dualcamera_watermark_default">AI DUALKAMERA</string>
   <string name="duration">Dauer</string>
   <string name="edit">Bearbeiten</string>
   <string name="edit_chin">Kinn</string>
@@ -255,7 +256,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="effect_silly_faces">EFFEKTE</string>
   <string name="error_app_unsupported">Nicht unterstützte Videoauflösung für diesen Encodertyp</string>
   <string name="error_app_unsupported_hfr_720p">720P kann bis zu 90FPS unterstützen.</string>
-  <string name="error_app_unsupported_hfr_codec">Nur H264 Videocodierung wird nicht unterstützt, wenn HFR an ist</string>
+  <string name="error_app_unsupported_hfr_codec">Nur H264-Videocodierung wird nicht unterstützt, wenn HFR an ist</string>
   <string name="error_app_unsupported_raw_wavelet">Wavelet Denoise wird bei der Aufnahme von RAW-Bildern nicht wirksam</string>
   <string name="error_fail_to_start_audio_capture">Fehler bei der Audioaufnahme</string>
   <string name="exposure_time">Belichtungszeit</string>
@@ -310,7 +311,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="focal_length">Brennweite</string>
   <string name="folder_camera">Kamera</string>
   <string name="folder_imported">Importiert</string>
-  <string name="fps960_toast">Die Zeitlupenaufnahme beginnt im letzten Viertel der Aufnahme.</string>
+  <string name="fps960_toast">Zeitlupenaufnahme beginnt im letzten Viertel der Aufnahme.</string>
   <string name="front_camera_hint_text_confirm">Verstanden</string>
   <string name="front_camera_hint_text_place">Wenn Sie Ihr Telefon umdrehen, ist es einfacher, Selfies zu machen</string>
   <string name="front_camera_hint_text_rotate">Drehen Sie Ihr Telefon um</string>
@@ -318,10 +319,12 @@ und treten Sie für einen Moment aus dem Blickfeld raus"</string>
   <string name="group_by_album">Nach Album</string>
   <string name="group_by_faces">Nach Personen</string>
   <string name="group_by_location">Nach Ort</string>
-  <string name="group_by_tags">Nach tags</string>
+  <string name="group_by_tags">Nach Tags</string>
   <string name="group_by_time">Nach Zeit</string>
   <string name="groupshot_mode_use_hint">"Mehrere Fotos werden aufgenommen,
 um den besten Gesichtsausdruck in einem Foto festzuhalten"</string>
+  <string name="hand_gesture_open_tip">Zeigen Sie der Kamera Ihre Handfläche, um den Timer zu starten</string>
+  <string name="hand_gesture_tip">Handflächenverschluss</string>
   <string name="hand_night_exit_button_text">Tragbares Dämmerungslicht beenden</string>
   <string name="hdr_exit_button_text">HDR-Modus beenden</string>
   <string name="height">Höhe</string>
@@ -330,14 +333,14 @@ um den besten Gesichtsausdruck in einem Foto festzuhalten"</string>
 und erstellt dann eine Aufnahme mit minimalem Rauschen"</string>
   <string name="hint_ae_af_lock">Autofokus/Autobelichtung wurde gesperrt</string>
   <string name="hint_device_water_mark">Wasserzeichen wird automatisch zum Foto hinzugefügt</string>
-  <string name="hint_eye_light">Augenlicht ist besser, wenn der Blitz eingeschaltet ist.</string>
+  <string name="hint_eye_light">Augenlicht ist besser, wenn der Blitz eingeschaltet ist</string>
   <string name="hint_fast_motion">Aufgenommenes Video wird schneller abgespielt</string>
-  <string name="hint_groupshot">"Die Kamera nimmt mehrere Fotos auf
+  <string name="hint_groupshot">"Kamera nimmt mehrere Fotos auf
 und erstellt dann eine Aufnahme, bei der jeder am besten aussieht"</string>
   <string name="hint_groupshot_beauty">Verschönern in Gruppenaufnahmen nicht möglich</string>
   <string name="hint_slow_motion">Aufgenommenes Video wird langsamer abgespielt</string>
   <string name="hot_music">Heiße Songs</string>
-  <string name="hunt_dual_water_mark">Wasserzeichen \"Dual Camera\" wird automatisch hinzugefügt</string>
+  <string name="hunt_dual_water_mark">Wasserzeichen \"Dualkamera\" wird automatisch hinzugefügt</string>
   <string name="import_complete">Import vollständig</string>
   <string name="import_contact">Kontakt importieren</string>
   <string name="import_fail">Import fehlgeschlagen</string>
@@ -347,9 +350,9 @@ und erstellt dann eine Aufnahme, bei der jeder am besten aussieht"</string>
   <string name="launch_wechat">WeChat starten</string>
   <string name="lens_dirty_detected_content">"Ihr Kameraobjektiv ist verschmutzt.
 Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
-  <string name="lens_dirty_detected_title_back">Hinteres Kameraobjektiv ist verschmutzt</string>
-  <string name="lens_dirty_detected_title_front">Vorderes Kameraobjektiv ist verschmutzt</string>
-  <string name="lighting_hint_needed">Stellen Sie Ihren Gegenstand in den Mittelpunkt</string>
+  <string name="lens_dirty_detected_title_back">Hinteres Kameraobjektiv verschmutzt</string>
+  <string name="lens_dirty_detected_title_front">Vorderes Kameraobjektiv verschmutzt</string>
+  <string name="lighting_hint_needed">Stellen Sie Ihr Motiv in den Mittelpunkt</string>
   <string name="lighting_hint_title">Studiobeleuchtung</string>
   <string name="lighting_hint_too_close">Kamera weiter weg bewegen</string>
   <string name="lighting_hint_too_far">Kamera näher ran bewegen</string>
@@ -367,7 +370,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="live_edit_share_title">Teilen</string>
   <string name="live_error_confirm">Zeit einstellen</string>
   <string name="live_error_message">Einige Funktionen funktionieren möglicherweise nicht richtig, wenn die Systemzeit falsch ist.</string>
-  <string name="live_error_title">Systemzeit ist nicht korrekt</string>
+  <string name="live_error_title">Systemzeit nicht korrekt</string>
   <string name="live_music_change_bgm">Hintergrundmusik ändern</string>
   <string name="live_music_close_cancel_message">Abbrechen</string>
   <string name="live_music_close_message">Musik jetzt ausschalten?</string>
@@ -396,7 +399,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="makeup_reset_toast">Makeup-Effekte entfernt</string>
   <string name="manual">Manuell</string>
   <string name="measure_whitebalance_button">Messung</string>
-  <string name="measure_whitebalance_text">Legen Sie ein Blatt weißes Papier 15 cm vom Objektiv der Rückkamera entfernt ab und machen Sie ein Foto.</string>
+  <string name="measure_whitebalance_text">Legen Sie ein weißes Blatt Papier 15 cm vom Objektiv der Rückkamera entfernt ab und machen Sie ein Foto.</string>
   <string name="message_snap_double_confirm">Zurzeit ist bei langem Drücken der Lautstärketaste der NFC-Modus eingestellt, möchten Sie dies ersetzen?</string>
   <string name="mimetype">MIME-Typ</string>
   <string name="model">Modell</string>
@@ -408,13 +411,13 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="module_name_portrait">Porträt</string>
   <string name="module_name_square">Quadrat</string>
   <string name="multi_window_mode_not_supported">Geteilter Bildschirm wird von Kamera nicht unterstützt</string>
-  <string name="network_access_user_notice_title">Verbindung zum Internet herstellen</string>
+  <string name="network_access_user_notice_title">Internetverbindung herstellen</string>
   <string name="no_save">Nicht speichern</string>
   <string name="no_storage">Vor Benutzung der Kamera SD-Karte einlegen</string>
   <string name="no_thumbnail">Kein Miniaturbild</string>
-  <string name="not_enough_space">Interner Speicher ist voll</string>
+  <string name="not_enough_space">Interner Speicher voll</string>
   <string name="not_selectable_in_scene_mode">Nicht auswählbar im Szenenmodus</string>
-  <string name="object_track_enable_toast">Um ein Objekt auszuwählen, tippen Sie gleichzeitig zwei diagonale Punkte um seine Grenze</string>
+  <string name="object_track_enable_toast">Um ein Motiv auszuwählen, tippen Sie gleichzeitig zwei diagonale Punkte um seine Grenze</string>
   <string name="orientation">Drehung</string>
   <string name="pano_dialog_panorama_failed">Panorama kann nicht gespeichert werden</string>
   <string name="pano_dialog_prepare_preview">Wird vorbereitet…</string>
@@ -432,7 +435,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="people">Menschen</string>
   <string name="photos_portrait_type_description">Porträtmodus hilft Ihnen, den Hintergrund zu verwischen</string>
   <string name="photos_portrait_type_name">Porträtmodus</string>
-  <string name="popup_tip_3d_beauty_intro_text">3D Schönheit</string>
+  <string name="popup_tip_3d_beauty_intro_text">3D-Verschönerung</string>
   <string name="portait_effect_entry_blackwhite">Schwarz-Weiß</string>
   <string name="portait_effect_entry_cool">Kühl</string>
   <string name="portait_effect_entry_dusk">Dämmerung</string>
@@ -445,9 +448,9 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="portait_effect_entry_pink">Röte</string>
   <string name="portait_effect_entry_riddle">Rätsel</string>
   <string name="portait_effect_entry_romance">Romantik</string>
-  <string name="portrait_bokeh_first_tips">Verwenden Sie den Hochformat, um den Hintergrund Ihrer Fotos zu verwischen.</string>
+  <string name="portrait_bokeh_first_tips">Verwenden Sie Hochformat, um den Hintergrund Ihrer Fotos zu verwischen.</string>
   <string name="portrait_bokeh_text">Hochformat</string>
-  <string name="portrait_bokeh_tips">Platzieren Sie das Objekt innerhalb von 1,5 Metern.</string>
+  <string name="portrait_bokeh_tips">Platzieren Sie das Motiv innerhalb von 1,5 Metern.</string>
   <string name="portrait_india_effect_entry_portrait">Porträt</string>
   <string name="portrait_india_effect_entry_romantic">Romantisch</string>
   <string name="portrait_india_effect_entry_strong">Stark</string>
@@ -456,15 +459,15 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="portrait_india_effect_entry_young">Jung</string>
   <string name="portrait_mode_depth_effect_success_hint">Tiefeneffekt</string>
   <string name="portrait_mode_lowlight_hint">Mehr Licht erforderlich</string>
-  <string name="portrait_mode_too_close_hint">Gegenstand weiter weg platzieren</string>
-  <string name="portrait_mode_too_far_hint">Gegenstand innerhalb von 2 Metern platzieren</string>
+  <string name="portrait_mode_too_close_hint">Motiv weiter weg platzieren</string>
+  <string name="portrait_mode_too_far_hint">Motiv innerhalb von 2 Metern platzieren</string>
   <string name="portrait_mode_use_hint">"Im Porträtmodus wird Hintergrund unscharf dargestellt, sodass die Personen in den Vordergrund rücken"</string>
-  <string name="portrait_mode_use_hint_for_bokeh">Versuchen Sie es mit dem Hochformat.
+  <string name="portrait_mode_use_hint_for_bokeh">Versuchen Sie es mit Hochformat.
 Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="portrait_with_facebeauty_hint">Verschönern ist jetzt im Hochformat verfügbar</string>
   <string name="pref_advance_settings">Erweiterte Einstellungen</string>
   <string name="pref_advanced_functions">Erweiterte Funktionen</string>
-  <string name="pref_advanced_settings">Erweiterte</string>
+  <string name="pref_advanced_settings">Erweitert</string>
   <string name="pref_ai_detect">AI-Erkennung</string>
   <string name="pref_audio_focus_entry_front">Vorne</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
@@ -481,8 +484,8 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_asd_night_title">Autom. Nachtaufnahmen verbessern</string>
   <string name="pref_camera_asd_popup_title">Benachrichtigen, wenn Blitz erforderlich ist</string>
   <string name="pref_camera_audio_capture_title">Ton</string>
-  <string name="pref_camera_auto_capture_when_stable_summary">Um ein Objekt auszuwählen, markieren Sie zwei gegenüberliegende Eckpunkte. Wenn das Objekt stillsteht, wird die Kamera automatisch auslösen.</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Bewegliches Objekt aufnehmen, sobald es stillsteht</string>
+  <string name="pref_camera_auto_capture_when_stable_summary">Um ein Motiv auszuwählen, markieren Sie zwei gegenüberliegende Eckpunkte. Wenn das Motiv stillsteht, löst die Kamera automatisch aus.</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Bewegliches Motiv aufnehmen, sobald es stillsteht</string>
   <string name="pref_camera_auto_chroma_flash_title">Chromablitz</string>
   <string name="pref_camera_auto_focus_title_entry_off">Aus</string>
   <string name="pref_camera_auto_focus_title_entry_on">An</string>
@@ -499,7 +502,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_beauty_deep">Verschönern Pro</string>
   <string name="pref_camera_bokeh_title">Porträt</string>
   <string name="pref_camera_coloreffect_entry_big_face">Spreizen</string>
-  <string name="pref_camera_coloreffect_entry_blackwhite">S&amp;W</string>
+  <string name="pref_camera_coloreffect_entry_blackwhite">Schwarz-Weiß</string>
   <string name="pref_camera_coloreffect_entry_brannan">Dämmerung</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Herbst</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Fischauge</string>
@@ -576,7 +579,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Fokus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Serienbild</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Auslöser lange drücken</string>
-  <string name="pref_camera_long_pressing_shutter_title">&amp; lange betätigen für AF/AE/AWB</string>
+  <string name="pref_camera_long_pressing_shutter_title">Auslöser drücken &amp; halten für AF/AE/AWB</string>
   <string name="pref_camera_magic_mirror_title">Magischer Spiegel</string>
   <string name="pref_camera_manual_mode_title">Manuell</string>
   <string name="pref_camera_mfnr_sat_enable_title">MFNR einschalten</string>
@@ -594,7 +597,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">1 Person</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">2 Personen</string>
   <string name="pref_camera_multiple_face_beauty_title">Hautfarbe hervorheben</string>
-  <string name="pref_camera_normal_wide_ldc_description">Korrigieren Sie verzerrte Gesichter der Personen, die sich in der Nähe der Rahmenkante befinden.</string>
+  <string name="pref_camera_normal_wide_ldc_description">Korrigieren Sie Gesichtsverzerrungen von Personen, die sich in der Nähe der Rahmenkante befinden.</string>
   <string name="pref_camera_normal_wide_ldc_title">Korrigieren Sie Gesichtsverzerrungen auf Gruppenfotos</string>
   <string name="pref_camera_optimized_flash_enable_title">Optimierter Blitz</string>
   <string name="pref_camera_parallel_process_enable_title">Parallelverarbeitung einschalten</string>
@@ -644,7 +647,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_show_gender_age_config_title">Alter &amp; Geschlecht</string>
   <string name="pref_camera_show_gender_age_entry_alias">Alter anzeigen bei Verschönern an</string>
   <string name="pref_camera_show_gender_age_entry_off">Aus</string>
-  <string name="pref_camera_show_gender_age_entry_on">Alter und Geschlecht anzeigen bei Verschönern an</string>
+  <string name="pref_camera_show_gender_age_entry_on">Alter &amp; Geschlecht anzeigen bei Verschönern an</string>
   <string name="pref_camera_show_gender_age_label_alias">Alter</string>
   <string name="pref_camera_show_gender_age_label_on">Alter &amp; Geschlecht</string>
   <string name="pref_camera_show_gender_age_title">Alter &amp; Geschlecht</string>
@@ -657,7 +660,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_snap_entry_take_movie">Schnellfotomodus (Video)</string>
   <string name="pref_camera_snap_entry_take_picture">Schnellfotomodus (Foto)</string>
   <string name="pref_camera_snap_label_take_picture">Foto</string>
-  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Kann den Schnellfotomodus nicht nutzen, solange \"Aufwecken mit Lautstärketasten\" an ist</string>
+  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Schnellfotomodus nicht nutzbar, solange \"Aufwecken mit Lautstärketasten\" an ist</string>
   <string name="pref_camera_sound_entry_off">Aus</string>
   <string name="pref_camera_sound_entry_on">An</string>
   <string name="pref_camera_sound_title">Kameratöne</string>
@@ -671,11 +674,11 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_touchafaec_entry_on">An</string>
   <string name="pref_camera_touchafaec_title">AF/AEC berühren</string>
   <string name="pref_camera_ubifocus_title">Neufokussieren</string>
-  <string name="pref_camera_ultra_wide_ldc_description">Verzerrte Objekte automatisch korrigieren</string>
-  <string name="pref_camera_ultra_wide_ldc_title">Verzerrung bei Weitwinkelaufnahmen korrigieren</string>
-  <string name="pref_camera_ultra_wide_mode_title">Weitwinkelmodus</string>
-  <string name="pref_camera_video_bokeh_off">Hintergrundschärfe aus</string>
-  <string name="pref_camera_video_bokeh_on">Hintergrundschärfe an</string>
+  <string name="pref_camera_ultra_wide_ldc_description">Verzerrte Motive automatisch korrigieren</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Verzerrung bei Ultraweitwinkelaufnahmen korrigieren</string>
+  <string name="pref_camera_ultra_wide_mode_title">Ultraweitwinkelmodus</string>
+  <string name="pref_camera_video_bokeh_off">Video-Bokeh aus</string>
+  <string name="pref_camera_video_bokeh_on">Video-Bokeh an</string>
   <string name="pref_camera_video_duration_entry_10">10 Minuten</string>
   <string name="pref_camera_video_duration_entry_120">Nicht beschränkt</string>
   <string name="pref_camera_video_duration_entry_30">30 Minuten</string>
@@ -696,7 +699,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_whitebalance_title">Weißangleich</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">GEDIMMTES LICHT</string>
   <string name="pref_camera_zoom_mode_entry_standard">REGULÄR</string>
-  <string name="pref_camera_zoom_mode_entry_ultra">WEITWINKEL</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">ULTRAWEITWINKEL</string>
   <string name="pref_camera_zoom_mode_entry_wide">WEIT</string>
   <string name="pref_camera_zoom_mode_title">LINSE</string>
   <string name="pref_camera_zsl_entry_off">Aus</string>
@@ -726,7 +729,9 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_menu_ultra_pixel_photography">%d  MP</string>
   <string name="pref_menu_ultra_pixel_photography_48mp">48 MP</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Sie können nur 720p-Videos mit 240fps aufnehmen.</string>
+  <string name="pref_new_slow_motion_video_quality_960_720only">Sie können nur 720p-Videos mit 960fps aufnehmen.</string>
   <string name="pref_priority_storage_title">Vorrangig auf externer SD-Karte speichern</string>
+  <string name="pref_privacy_title">Datenschutzerklärung</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
   <string name="pref_retain_camera_mode_summary">Beim Öffnen der App in den zuvor verwendeten Modus wechseln</string>
   <string name="pref_retain_camera_mode_title">Vorherigen Modus speichern</string>
@@ -790,13 +795,13 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="rotate_right">Nach rechts drehen</string>
   <string name="save">Speichern</string>
   <string name="scan_qrcode">QR-Code scannen</string>
-  <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, Lautstärke Hoch und Zurück-Taste gleichzeitig drücken</string>
+  <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, Lautstärke hoch und Zurück-Taste gleichzeitig drücken</string>
   <string name="screen_on_proximity_sensor_summary">Bedecken Sie nicht den orangen Bereich</string>
   <string name="search_settings">Kameraeinstellungen;Qualität;Bildqualität;Aufnahmeort;Bildort;Gesichtserkennung;Kameraton</string>
   <string name="secure_access_web_url">Sicherer Zugriff</string>
   <string name="see_app_details">Appdetails sehen</string>
   <string name="see_qrcode_detals">Details anzeigen</string>
-  <string name="select_all">Alles auswählen</string>
+  <string name="select_all">Alle auswählen</string>
   <string name="select_image">Foto auswählen</string>
   <string name="select_item">Element auswählen</string>
   <string name="select_video">Video auswählen</string>
@@ -843,12 +848,13 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="snapshot_lower_than_video">Auflösung des Videoschnappschusses ist geringer als die Videogröße. Begrenzung auf Videogröße. Höhere oder gleiche Auflösung zur aktuellen Videogröße auswählen.</string>
   <string name="snapshot_qcif_and_d1">Nur Videoschnappschuss unterstützt diese Auflösung</string>
   <string name="snapshotsize_low_powermode">Bildauflösung wird von den aktuellen Engergieverwaltungseinstellungen nicht unterstützt. Videoschnappschussgröße wird verwendet.</string>
-  <string name="spaceIsLow_content">USB-Speicher neigt sich dem Ende</string>
+  <string name="spaceIsLow_content">USB-Speicher wird knapp</string>
   <string name="spaceIsLow_content_external_storage_priority">Speicherplatz auf der SD-Karte wird knapp</string>
   <string name="spaceIsLow_content_primary_storage_priority">Speicherplatz auf USB-Speicher wird knapp</string>
   <string name="sticker_tab1">Süß</string>
   <string name="sticker_tab2">Lustig</string>
   <string name="success_message_import_from_account">Importiert</string>
+  <string name="super_night_toast">Fotografieren, bitte halten Sie Ihr Telefon fest</string>
   <string name="tap_to_exposure">Berühren, um Belichtung einzustellen</string>
   <string name="tap_to_focus">Zum Fokussieren berühren</string>
   <string name="text_ai_scene_selector_text_off">GEGENLICHT</string>
@@ -867,19 +873,19 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="toast_saving">Fotos werden gespeichert…</string>
   <string name="toast_start_audio_capture">Geräusch machen beim Auslösen eines Fotos</string>
   <string name="ubi_focus_capture_fail">Foto konnte nicht gemacht werden</string>
-  <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Objekte enthalten</string>
+  <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Motive enthalten</string>
   <string name="ultra_pixel_photography_32mp_close_tip">32 MP aus</string>
   <string name="ultra_pixel_photography_48mp_close_tip">48 MP aus</string>
   <string name="ultra_pixel_photography_close_tip">%d MP ist aus</string>
   <string name="ultra_pixel_photography_open_tip">%d MP</string>
   <string name="ultra_wide_bokeh_open_tip">Ganzkörpermodus</string>
   <string name="ultra_wide_bokeh_close_tip">Ganzkörpermodus ist aus</string>
-  <string name="ultra_wide_close_tip">Weitwinkelmodus ist aus</string>
-  <string name="ultra_wide_mode">Weitwinkel</string>
+  <string name="ultra_wide_close_tip">Ultraweitwinkelmodus ist aus</string>
+  <string name="ultra_wide_mode">Ultraweitwinkel</string>
   <string name="ultra_wide_mode_use_hint_text">"Verwenden Sie diesen Modus, um mehr von der Szene in Ihr Foto aufzunehmen.
-Weitwinkelmodus hilft, wenn man sich nicht weiter von der Szene entfernen kann."</string>
-  <string name="ultra_wide_open_tip">Weitwinkelmodus</string>
-  <string name="ultra_wide_recommend_tip_hint">Mit Weitwinkelmodus versuchen</string>
+Ultraweitwinkelmodus hilft, wenn man sich nicht weiter von der Szene entfernen kann."</string>
+  <string name="ultra_wide_open_tip">Ultraweitwinkelmodus</string>
+  <string name="ultra_wide_recommend_tip_hint">Mit Ultraweitwinkelmodus versuchen</string>
   <string name="undo">Zurück</string>
   <string name="user_agree">Zustimmen</string>
   <string name="user_agreement2">Nutzungsbedingungen</string>

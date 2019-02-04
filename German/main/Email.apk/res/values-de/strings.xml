@@ -367,7 +367,7 @@
   <string name="dialog_insufficient_space_on_external">Anhang kann nicht runtergeladen werden. Nicht genügend externer Speicher.</string>
   <string name="dialog_insufficient_space_on_internal">Nicht genügend interner Speicher</string>
   <string name="dialog_system_auto_sync_account_no_open">Aktivieren Sie die Kontosynchronisation, um E-Mails automatisch zu erhalten</string>
-  <string name="dialog_system_auto_sync_master_no_open">Aktivieren Sie die Synchronisierung, um E-Mails automatisch zu erhalten</string>
+  <string name="dialog_system_auto_sync_master_no_open">Aktivieren Sie die Synchronisation, um E-Mails automatisch zu erhalten</string>
   <string name="disable_admin_warning">ACHTUNG: Wenn Sie die Berechtigung der E-Mailapp zur Verwaltung Ihres Telefons deaktivieren, werden alle E-Mailkonten, die diese Berechtigung benötigen, mit allen zugehörigen E-Mails, Kontakten, Terminen und weiteren Daten gelöscht.</string>
   <string name="discard">Verwerfen</string>
   <string name="discard_drafts">Entwürfe verwerfen</string>
@@ -526,7 +526,7 @@
   <string name="info_no_more_message">Mehr gibt es nicht</string>
   <string name="info_switch_summary">Werbeaktionen über dem Posteingang anzeigen</string>
   <string name="info_switch_title">Werbeaktion</string>
-  <string name="info_sync_error">Synchronisierungsfehler, versuchen Sie es später erneut</string>
+  <string name="info_sync_error">Synchronisationsfehler, versuchen Sie es später erneut</string>
   <string name="information_subscribe_first_intro">Das ist das erste Mal, dass Sie etwas 「abonnieren」, wählen Sie bitte Themen aus, die Sie interessieren, damit wir personalisierte Vorschläge machen können.</string>
   <string name="inline_picture_deleted">Fehlendes Bild wird runtergeladen…</string>
   <string name="input_password_prompt">Passwort eingeben</string>
@@ -601,7 +601,7 @@
   <string name="menu_compose">Schreiben</string>
   <string name="menu_contact_edit">Bearbeiten</string>
   <string name="menu_discovery">Werbeaktion</string>
-  <string name="menu_folder_options">Synchronisierungsoptionen</string>
+  <string name="menu_folder_options">Synchronisationsoptionen</string>
   <string name="menu_move_to">Verschieben nach</string>
   <string name="menu_move_to_inbox">In Posteingang verschieben</string>
   <string name="menu_photo_save_all">Alles speichern</string>
@@ -803,7 +803,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="preview_attachment">Vorschau</string>
   <string name="previous_action">Zurück</string>
   <string name="print">Drucken</string>
-  <string name="privacy_des">"Die Protokollinformationen enthalten von der E-Mail-App übermittelte Debugging-Informationen sowie Informationen zu Ihrem Gerät, um das von Ihnen gemeldete Problem zu finden. Wählen Sie unten '%1$s' aus, um zu bestätigen, dass Sie Xiaomi's «%2$s» gelesen und akzeptiert haben."</string>
+  <string name="privacy_des">"Die Protokollinformationen enthalten von der E-Mail-App übermittelte Debugging-Informationen sowie Informationen zu Ihrem Gerät, um das von Ihnen gemeldete Problem zu finden. Wählen Sie unten \"%1$s\" aus, um zu bestätigen, dass Sie Xiaomi's «%2$s» gelesen und akzeptiert haben."</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="prompt_title">Nachfragen</string>
   <string name="protocol_setting_toast">Nach der Zustimmung tippen Sie in die obere rechte Ecke, um zu den Einstellungen zu gelangen</string>
@@ -1012,8 +1012,8 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="sync_contacts_fail_per_title">Kontakte konnten nicht synchronisiert werden</string>
   <string name="sync_contacts_fail_permission">Kontakte konnten nicht synchronisiert werden, E-Mail den Zugriff auf Ihre Kontakte in den Einstellungen erlauben</string>
   <string name="sync_contacts_req_per_ignored">E-Mail den Zugriff auf Ihre Kontakte zum Synchronisieren erlauben</string>
-  <string name="sync_error">Synchronisierung nicht möglich</string>
-  <string name="sync_error_message">Ihr Telefon verfügt nicht über genügend Speicherplatz für die Synchronisierung</string>
+  <string name="sync_error">Synchronisation nicht möglich</string>
+  <string name="sync_error_message">Ihr Telefon verfügt nicht über genügend Speicherplatz für die Synchronisation</string>
   <string name="syncing_wait_restart">Erneut versuchen</string>
   <string name="syncing_wait_restart_title">Servertimeout</string>
   <string name="system_account_create_failed">Konto konnte nicht erstellt werden. Bitte erneut versuchen.</string>
@@ -1044,7 +1044,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Um Kalenderinfos und Kontakte zu synchronisieren, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
   <string name="toastbar_calendar_permission_switch_close">Um Kalendererinnerungen zu erhalten, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
   <string name="toastbar_contacts_permission_switch_close">Um Kontakte hinzuzufügen, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
-  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Kalender- und Kontaktsynchronisierung aktivieren, um Kalender und Kontakte zu synchronisieren</string>
+  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Kalender- und Kontaktsynchronisation aktivieren, um Kalender und Kontakte zu synchronisieren</string>
   <string name="toastbar_local_calendar_sync_switch_close">Kontaktsynchronisation einschalten, um Kalendererinnerungen zu empfangen</string>
   <string name="toastbar_local_contacts_sync_swtich_close">Kontaktsynchronisation einschalten, um Kontakte hinzuzufügen</string>
   <string name="today_text">Heute</string>
@@ -1061,7 +1061,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="try_exchange_login">Melden Sie sich mit EXCHANGE an</string>
   <string name="turn_auto_sync_on_dialog_body">Änderungen, die Sie nicht nur bei Gmail, sondern auf allen Apps und Konten vornehmen, werden zwischen dem Web, Ihren anderen Geräten und Ihrem %1$s synchronisiert</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Aktivieren</string>
-  <string name="turn_auto_sync_on_dialog_title">Automatische Synchronisierung aktivieren?</string>
+  <string name="turn_auto_sync_on_dialog_title">Automatische Synchronisation aktivieren?</string>
   <string name="unbind_dialog_text">"Die E-Mailapp wird danach nicht mehr in der Lage sein, Ihre Emails zu analysieren.
 Konto entfernen?"</string>
   <string name="undo">Rückgängig</string>
@@ -1087,9 +1087,9 @@ Konto entfernen?"</string>
   <string name="version_string">Version: %s</string>
   <string name="via_domain">über %1$s</string>
   <string name="view_more_conversations">Weitere Unterhaltungen ansehen</string>
-  <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
+  <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisation eingerichtet.
 Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchronisieren oder <b>Synchronisationseinstellungen ändern</b>, um dieses Konto automatisch zu synchronisieren."</string>
-  <string name="wait_for_sync_title">Auf Synchronisierung warten</string>
+  <string name="wait_for_sync_title">Auf Synchronisation warten</string>
   <string name="wait_help_context">Warten</string>
   <string name="webview_logout">Sie können versuchen, sich erneut anzumelden</string>
   <string name="webview_logout_cancel">Jetzt nicht</string>

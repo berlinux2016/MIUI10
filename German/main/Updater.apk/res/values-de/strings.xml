@@ -14,7 +14,7 @@
   <string name="channel_downloading">Downloadfortschritt</string>
   <string name="channel_update">Neue Version verfügbar</string>
   <string name="check_new_version">Prüfen</string>
-  <string name="dialog_3g_desc">Beachten Sie, dass die Verwendung mobiler Daten zum Herunterladen von ROMs erhebliche Mengen Ihres Volumens beanspruchen kann</string>
+  <string name="dialog_3g_desc">Beachten Sie, dass die Verwendung mobiler Daten zum Herunterladen von ROMs erhebliche Mengen Ihres Volumens beanspruchen kann.</string>
   <string name="dialog_3g_title">Warnung!</string>
   <string name="dialog_btn_3g">Trotzdem fortfahren</string>
   <string name="dialog_btn_wifi">Auf WLAN wechseln</string>
@@ -23,7 +23,7 @@
   <string name="dialog_twrp">Ihr interner Speicher ist verschlüsselt. Nach Neustart ins Recovery geben Sie zum Fortfahren bitte das Entsperrpasswort des Geräts ein.</string>
   <string name="download_done">Erfolgreich heruntergeladen!</string>
   <string name="download_fail">Fehler beim Herunterladen!</string>
-  <string name="download_fail_desc">MD5-Checksumme stimmt nicht überein…</string>
+  <string name="download_fail_desc">MD5-Prüfsumme stimmt nicht überein…</string>
   <string name="downloading">Herunterladen…</string>
   <string name="downloading_desc">Download läuft, Status in Benachrichtigungsleiste prüfen</string>
   <string name="install_desc">Gerät startet neu ins Recovery und installiert die ausgewählte Datei: %1$s. Daten werden nicht gelöscht.</string>
@@ -38,8 +38,8 @@
   <string name="no_info">Keine Informationen verfügbar</string>
   <string name="no_network">Kein Netzwerkzugriff</string>
   <string name="no_update">Sie haben bereits die aktuellste Version!</string>
-  <string name="no_wifi_msg">Sie benutzen jetzt das Mobilfunknetz. Das Herunterladen von Updates kann zusätzliche Datengebühren verursachen. Sie können jetzt Updates herunterladen oder warten, bis sich Ihr Gerät mit dem WLAN verbindet.</string>
-  <string name="no_wifi_no_auto_msg">Sie benutzen jetzt das Mobilfunknetz. Das Herunterladen von Updates kann zusätzliche Datengebühren verursachen. Sie können jetzt Updates herunterladen oder warten, bis sich Ihr Gerät mit dem WLAN verbindet und Updates automatisch installiert.</string>
+  <string name="no_wifi_msg">Sie benutzen jetzt das Mobilfunknetz. Herunterladen von Updates kann zusätzliche Datengebühren verursachen. Sie können jetzt Updates herunterladen oder warten, bis sich Ihr Gerät mit WLAN verbindet.</string>
+  <string name="no_wifi_no_auto_msg">Sie benutzen jetzt das Mobilfunknetz. Herunterladen von Updates kann zusätzliche Datengebühren verursachen. Sie können jetzt Updates herunterladen oder warten, bis sich Ihr Gerät mit WLAN verbindet und Updates automatisch installiert.</string>
   <string name="no_xioamieu">Sie nutzen keine MIUI-ROM vom Xiaomi.eu-Team! Keine Updates für Sie verfügbar!</string>
   <string name="notif_cancel">Abbrechen</string>
   <string name="notif_install">Installieren</string>
@@ -56,6 +56,7 @@
   <string name="recovery_desc">Gerät startet jetzt neu in Recoverymodus. Wenn Sie mit dem Modus nicht vertraut sind, brechen Sie den Vorgang ab. Fortsetzen?</string>
   <string name="security_space_button_neg">Neustarten und aktualisieren</string>
   <string name="server_error">Server reagiert nicht, App funktioniert möglicherweise nicht richtig!</string>
+  <string name="share_desc">Ihre MIUI-Version wurde auf %1$s aktualisiert, siehe letztes Changelog unter: %2$s</string>
   <string name="share_title">Teilen mit</string>
   <string name="update_downfull_no_info_title">Aktualisierung nicht möglich</string>
   <string name="version">Aktuell installiert:</string>

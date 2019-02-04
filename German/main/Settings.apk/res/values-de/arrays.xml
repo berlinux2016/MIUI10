@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="ai_key_item_name">
-    <item>Google Sprachassistant aktivieren</item>
+    <item>Google Sprachassistent aktivieren</item>
     <item>Google-Suche öffnen</item>
     <item>Hintere Kamera öffnen</item>
     <item>Vordere Kamera öffnen</item>
@@ -58,7 +58,7 @@
   <string-array name="app_install_location_entries">
     <item>Interner Gerätespeicher</item>
     <item>Austauschbare SD-Karte</item>
-    <item>Auswahl durch das System</item>
+    <item>Systemauswahl</item>
   </string-array>
   <string-array name="app_ops_categories">
     <item>Standort</item>
@@ -271,13 +271,13 @@
     <item>Optimiert für Audioqualität</item>
     <item>Ausgewogene Audio- und Verbindungsqualität</item>
     <item>Optimiert auf Verbindungsqualität</item>
-    <item>Beste Leistung (Adaptive Bit Rate)</item>
+    <item>Beste Leistung (Adaptive Bitrate)</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
     <item>Optimiert für Audioqualität (990kbps/909kbps)</item>
     <item>Ausgewogene Audio- und Verbindungsqualität (660kbps/606kbps)</item>
     <item>Optimiert auf Verbindungsqualität (330kbps/303kbps)</item>
-    <item>Beste Leistung (Adaptive Bit Rate)</item>
+    <item>Beste Leistung (Adaptive Bitrate)</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
     <item>Systemauswahl verwenden (Standard)</item>
@@ -294,7 +294,7 @@
     <item>96.0 kHz</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_summaries">
-    <item>Systemauswahl nutzen (Standard)</item>
+    <item>Systemauswahl verwenden (Standard)</item>
     <item>SBC</item>
     <item>AAC</item>
     <item>Qualcomm® aptX™ Audio</item>
@@ -305,13 +305,13 @@
     <item>Optionale Codecs deaktivieren</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_titles">
-    <item>Systemauswahl nutzen (Standard)</item>
+    <item>Systemauswahl verwenden (Standard)</item>
     <item>SBC</item>
     <item>AAC</item>
     <item>Qualcomm® aptX™ Audio</item>
     <item>Qualcomm® aptX™ HD Audio</item>
     <item>LDAC</item>
-    <item>Qualcomm® aptX™ Adaptive Audio</item>    
+    <item>Qualcomm® aptX™ Adaptive Audio</item>
     <item>Optionale Codecs aktivieren</item>
     <item>Optionale Codecs deaktivieren</item>
   </string-array>
@@ -319,7 +319,15 @@
     <item></item>
     <item>" | Aktiv"</item>
     <item>" | Aktiv (Medien)"</item>
-    <item>" | Aktiv (Telefon)"</item>
+    <item>" | Aktiv (Mobiltelefon)"</item>
+  </string-array>
+  <string-array name="bluetooth_max_connected_audio_devices">
+    <item>Systemauswahl verwenden: %1$d</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
   </string-array>
   <string-array name="bluetooth_visibility_timeout_entries">
     <item>2 Minuten</item>
@@ -923,6 +931,10 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Suchen</item>
     <item>Einstellungen</item>
   </string-array>
+  <string-array name="status_bar_settings_qs_layout_entries">
+    <item>Standard</item>
+    <item>Kompakt</item>
+  </string-array>
   <string-array name="status_bar_style_entries">
     <item>Eine Seite</item>
     <item>Zwei Seiten</item>
@@ -1032,7 +1044,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>IPSec-VPN mit Zertifikaten und Hybrid-Authentifizierung</item>
   </string-array>
   <string-array name="wfd_status">
-    <item>Erstelle Sitzung…</item>
+    <item>Sitzung erstellen…</item>
     <item>Sitzung erstellt</item>
     <item>Sitzung abbrechen…</item>
     <item>Sitzung fehlgeschlagen</item>
@@ -1053,6 +1065,15 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
   <string-array name="wifi_calling_mode_choices_without_wifi_only">
     <item>WLAN bevorzugt</item>
     <item>Mobil bevorzugt</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2">
+    <item>WLAN</item>
+    <item>Mobil</item>
+    <item>WLAN bevorzugt</item>
+  </string-array>
+  <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+    <item>WLAN</item>
+    <item>Mobil</item>
   </string-array>
   <string-array name="wifi_connect_type_entries">
     <item>Automatisch verbinden</item>
@@ -1075,7 +1096,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
   <string-array name="wifi_metered_entries">
     <item>Automatisch erkennen</item>
     <item>Gemessen behandeln</item>
-    <item>Unbemessen behandeln</item>
+    <item>Ungemessen behandeln</item>
   </string-array>
   <string-array name="wifi_p2p_status">
     <item>Verbunden</item>
@@ -1163,9 +1184,5 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Animationsskala 2x</item>
     <item>Animationsskala 5x</item>
     <item>Animationsskala 10x</item>
-  </string-array>
-  <string-array name="status_bar_settings_qs_layout_entries">
-    <item>Standard</item>
-    <item>Kompakt</item>
   </string-array>
 </resources>

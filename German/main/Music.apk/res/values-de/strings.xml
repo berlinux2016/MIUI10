@@ -4,7 +4,7 @@
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
   <string name="abc_action_mode_done">Fertig</string>
-  <string name="abc_activity_chooser_view_see_all">Alles anzeigen</string>
+  <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
   <string name="abc_activitychooserview_choose_application">App wählen</string>
   <string name="abc_capital_off">AUS</string>
   <string name="abc_capital_on">AN</string>
@@ -303,7 +303,7 @@
   <string name="err_media_handle">Leider konnten wir die Medien nicht abrufen. Bitte versuchen Sie es erneut.</string>
   <string name="err_offline_on_playback">Sorry, Sie müssen online sein, um dieses Medium abspielen zu können.</string>
   <string name="error_forbidden">Synchronisation wurde wegen Problemen mit dem Mi Konto deaktiviert.</string>
-  <string name="error_not_acceptable">Synchronisation ausgeschaltet</string>
+  <string name="error_not_acceptable">Synchronisation wurde deaktiviert</string>
   <string name="error_title">Synchronisation fehlgeschlagen</string>
   <string name="error_unauthorized">Synchronisation wurde wegen zu vieler Anmeldeversuche deaktiviert.</string>
   <string name="exo_controls_fastforward_description">Schnellvorlauf</string>
@@ -337,6 +337,7 @@
   <string name="favorite_succeed">Zu Favoriten hinzugefügt</string>
   <string name="favorite_tracks">Lieblingsmusik</string>
   <string name="favorites">Favoriten</string>
+  <string name="fcm_fallback_notification_channel_label">Sonstiges</string>
   <string name="file_not_found">"Datei existiert nicht"</string>
   <string name="filter_by_duration">Nach Länge</string>
   <string name="filter_by_duration_max">%d Min</string>
@@ -355,6 +356,7 @@
   <string name="format_unsupported_or_corrupted">Format wird nicht unterstützt oder Datei ist beschädigt</string>
   <string name="fragment_title_artist_album">Alben</string>
   <string name="garbage_cleanup">Aufräumen</string>
+  <string name="gcm_fallback_notification_channel_label">Sonstiges</string>
   <string name="global_search_app_name">Musik</string>
   <string name="global_search_description_entry">Musik genießen</string>
   <string name="global_search_description_hot">Wöchentlich aktualisieren</string>
@@ -399,7 +401,7 @@
   <string name="hungama_subscribe_message">PRO Mitgliedschaft kaufen, um Musik in hoher Qualität herunterzuladen</string>
   <string name="hungama_subscribe_positive_button">PRO Mitgliedschaft kaufen</string>
   <string name="hungama_subscribe_title">PRO Mitgliedschaft</string>
-  <string name="impunity_declaration_content">Sie müssen unsere &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Nutzervereinbarung&lt;/a&gt; und &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Datenschutzerklärung&lt;/a&gt; lesen und diesen zustimmen, bevor Sie das Produkt verwenden.</string>
+  <string name="impunity_declaration_content">Sie müssen unsere &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=de_DE\"&gt;Nutzervereinbarung&lt;/a&gt; und &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=de_DE\"&gt;Datenschutzerklärung&lt;/a&gt; lesen und diesen zustimmen, bevor Sie das Produkt verwenden.</string>
   <string name="impunity_declaration_ignore">Nicht mehr anzeigen</string>
   <string name="impunity_declaration_negative_text">Verlassen</string>
   <string name="impunity_declaration_positive_text">Zustimmen</string>
@@ -542,6 +544,7 @@
   <string name="notification_play_title">Benachrichtigungswidget</string>
   <string name="notification_recommend_summary">Weitere Informationen über neue Musiktrends und Appaktionen</string>
   <string name="notification_recommend_title">Wichtige Benachrichtigungen</string>
+  <string name="notification_setting">Benachrichtigungseinstellungen</string>
   <string name="nowplaying_circle_style">Abspielen im Kreis Stil</string>
   <string name="nowplaying_circle_style_rainbow">Regenbogen</string>
   <string name="nowplaying_circle_style_wave">Welle</string>
@@ -571,7 +574,8 @@
   <string name="paused_queued_for_wifi">Auf Netzwerkverbindung warten</string>
   <string name="paused_unknown">Angehalten</string>
   <string name="paused_waiting_for_network">Auf Netzwerkverbindung warten</string>
-  <string name="paused_waiting_to_pay">Warten auf die Bezahlung</string>
+  <string name="paused_waiting_to_pay">Warten auf Bezahlung</string>
+  <string name="paused_waiting_to_retry">Warten auf erneuten Versuch</string>
   <string name="pay_now">Aktueller Service</string>
   <string name="payment_success_message">Dankeschön! Ihre Zahlung wurde erfolgreich verarbeitet. Genießen Sie die PRO-Dienste.</string>
   <string name="payment_success_title">Gratulation!</string>
@@ -622,6 +626,7 @@
   <string name="radar_retry">Nochmal</string>
   <string name="radar_searching_state">Suche läuft</string>
   <string name="radar_support_by">Unterstützt durch ACRCloud</string>
+  <string name="ready_to_play">Nächster Schritt</string>
   <string name="recently_played">Kürzlich angehört</string>
   <string name="recently_played_songs">Kürzlich angehört</string>
   <string name="recognition_reverted_message">Albumcover und Songtexte wurden erfolgreich gelöscht. Sie können das Gleiche für alle Titel in den Einstellungen tun.</string>

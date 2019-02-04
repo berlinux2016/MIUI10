@@ -5,7 +5,7 @@
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
   <string name="abc_action_mode_done">Fertig</string>
-  <string name="abc_activity_chooser_view_see_all">Alles anzeigen</string>
+  <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
   <string name="abc_activitychooserview_choose_application">App wählen</string>
   <string name="abc_capital_off">AUS</string>
   <string name="abc_capital_on">AN</string>
@@ -141,9 +141,9 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="accessibility_summary_state_disabled">AUS</string>
   <string name="accessibility_summary_state_enabled">AN</string>
   <string name="accessibility_summary_state_stopped">Funktioniert nicht. Tippen für Info.</string>
-  <string name="accessibility_sync_disabled">Synchronisierung aus</string>
-  <string name="accessibility_sync_enabled">Synchronisierung an</string>
-  <string name="accessibility_sync_error">Synchronisierungsfehler</string>
+  <string name="accessibility_sync_disabled">Synchronisation aus</string>
+  <string name="accessibility_sync_enabled">Synchronisation an</string>
+  <string name="accessibility_sync_error">Synchronisationsfehler</string>
   <string name="accessibility_sync_in_progress">Synchronisiert jetzt</string>
   <string name="accessibility_toggle_high_text_contrast_preference_title">Text mit erhöhtem Kontrast</string>
   <string name="accessibility_toggle_large_pointer_icon_title">Großer Mauszeiger</string>
@@ -185,7 +185,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="account_settings_menu_auto_sync_personal">Auto-Sync persönl. Daten</string>
   <string name="account_settings_menu_auto_sync_work">Auto-Sync Arbeitsdaten</string>
   <string name="account_settings_title">Konten</string>
-  <string name="account_sync_settings_title">Synchronisierung</string>
+  <string name="account_sync_settings_title">Synchronisation</string>
   <string name="account_sync_summary_all_off">Sync aus für alle Elemente</string>
   <string name="account_sync_summary_all_on">Sync an für alle Elemente</string>
   <string name="account_sync_summary_some_on">Sync an für %1$d aus %2$d Elementen</string>
@@ -195,7 +195,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="action_drag_label_move_top">Nach ganz oben</string>
   <string name="action_drag_label_move_up">Nach oben</string>
   <string name="action_drag_label_remove">Sprache entfernen</string>
-  <string name="activating">Einschalten…</string>
+  <string name="activating">Aktivieren…</string>
   <string name="active_device_admin_msg">Geräteadministrator</string>
   <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
   <string name="activity_list_empty">Keine passenden Aktivitäten gefunden</string>
@@ -330,13 +330,17 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="animator_duration_scale_title">Animationsdauerskala</string>
   <string name="another_migration_already_in_progress">Eine andere Migration wird bereits ausgeführt</string>
   <string name="anti_spam">Sperrliste</string>
-  <string name="aod_close_color_inversion">Diese Funktion kann nicht mit der Farbumkehrung kombiniert werden. Deaktivieren Sie diese zuerst.</string>
+  <string name="aod_mode_bg">Hintergrund</string>
   <string name="aod_clock_style_title">Uhren-Stil</string>
+  <string name="aod_close_color_inversion">Diese Funktion kann nicht mit der Farbumkehrung kombiniert werden. Deaktivieren Sie diese zuerst.</string>
   <string name="aod_got_it">Verstanden</string>
-  <string name="aod_mode_summary">Zeigen Sie immer Uhrzeit, Datum und Meldungen an, wenn der Bildschirm ausgeschaltet ist</string>
+  <string name="aod_mode_clock">Uhr</string>
+  <string name="aod_mode_style">Uhrstil und Hintergrund</string>
+  <string name="aod_mode_summary">Zeigt Uhrzeit, Datum und Meldungen an, wenn der Bildschirm ausgeschaltet ist.</string>
   <string name="aod_mode_time_summary">Planen Sie die Zeit ein, zu der Ihr Gerät in den Immer-An-Modus wechseln soll</string>
   <string name="aod_mode_time_title">Zeitplan</string>
   <string name="aod_mode_title">Immer-An-Modus</string>
+  <string name="aod_sample_date">Dienstag, 10. Mai</string>
   <string name="aod_mode_turn_off">Aus</string>
   <string name="aod_mode_turn_on">Ein</string>
   <string name="aod_to_close">Ausschalten</string>
@@ -725,8 +729,8 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_saver_desc_turn_on_auto_pct">Automatisch bei %1$s Akku einschalten</string>
   <string name="battery_saver_master_switch_title">Stromsparen verwenden</string>
   <string name="battery_saver_off_scheduled_summary">Wird eingeschaltet bei %1$s</string>
-  <string name="battery_saver_off_summary">Aus / %1$s</string>
-  <string name="battery_saver_on_summary">An / %1$s</string>
+  <string name="battery_saver_off_summary">Aus</string>
+  <string name="battery_saver_on_summary">An</string>
   <string name="battery_saver_seekbar_title">Bei %1$s</string>
   <string name="battery_saver_seekbar_title_placeholder">Einschalten</string>
   <string name="battery_saver_turn_on_automatically_never">Nie</string>
@@ -816,7 +820,7 @@ Apps:
   <string name="block_list_title">Sperrliste</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Mit Audiomedien verbunden</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Für Audiomedien nutzen</string>
-  <string name="bluetooth_active_battery_level">Aktiv, %1$s Akku</string>
+  <string name="bluetooth_active_battery_level">Aktiv | Akku: %1$s</string>
   <string name="bluetooth_active_no_battery_level">Aktiv</string>
   <string name="bluetooth_advanced_titlebar">Erweitertes Bluetooth</string>
   <string name="bluetooth_ask_disablement">%1$s will Bluetooth ausschalten</string>
@@ -837,21 +841,21 @@ Apps:
   <string name="bluetooth_ask_lasting_discovery_no_name">Eine App möchte Ihr Telefon für andere Bluetooth-Geräte sichtbar machen. Sie können dies später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_ask_start_broadcast">%1$s möchte Bluetoothbroadcasting aktivieren, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_auto_connect">Automatisch verbinden</string>
-  <string name="bluetooth_battery_level">%1$s Akku</string>
+  <string name="bluetooth_battery_level">Akku: %1$s</string>
   <string name="bluetooth_broadcasting_explaination">Wenn diese Funktion eingestellt ist, kann Ihr Telefon mit anderen Geräten in der Umgebung kommunizieren. Broadcasting nutzt Niedrigstrom-Bluetoothsignale.</string>
   <string name="bluetooth_confirm_passkey_msg">Zum Koppeln mit <b>%1$s</b> stellen Sie sicher, dass dieser Hauptschlüssel angezeigt wird: <b>%2$s</b></string>
   <string name="bluetooth_connect_failed">Verbinden nicht möglich, erneut versuchen</string>
   <string name="bluetooth_connect_specific_profiles_title">Verbinden…</string>
-  <string name="bluetooth_connected">Verbunden%1$s</string>
-  <string name="bluetooth_connected_battery_level">Verbunden | Akku %1$s%2$s</string>
+  <string name="bluetooth_connected">Verbunden %1$s</string>
+  <string name="bluetooth_connected_battery_level">Verbunden | Akku %1$s %2$s</string>
   <string name="bluetooth_connected_multiple_devices_summary">Mit mehreren Geräten verbunden</string>
-  <string name="bluetooth_connected_no_a2dp">%1$s verbunden (keine Medien)</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">Verbunden (keine Medien) | Akku %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset">%1$s verbunden (kein Telefon)</string>
-  <string name="bluetooth_connected_no_headset_battery_level">Verbunden (kein Telefon) | Akku %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">%1$s verbunden (kein Telefon/keine Medien)</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Verbunden (kein Telefon/keine Medien) | Akku %1$s%2$s</string>
-  <string name="bluetooth_connected_no_map">%1$s verbunden (kein Nachrichtenzugriff)</string>
+  <string name="bluetooth_connected_no_a2dp">Verbunden (kein Mediensignal) %1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Verbunden (kein Mediensignal) | Akku %1$s %2$s</string>
+  <string name="bluetooth_connected_no_headset">Verbunden (kein Telefonsignal) %1$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Verbunden (kein Telefonsignal) | Akku %1$s %2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Verbunden (kein Telefon- oder Mediensignal) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Verbunden (kein Telefon- oder Mediensignal) | Akku %1$s %2$s</string>
+  <string name="bluetooth_connected_no_map">Verbunden (kein Nachrichtenzugriff) %1$s</string>
   <string name="bluetooth_connected_summary">Verbunden mit %1$s</string>
   <string name="bluetooth_connecting">Verbinden…</string>
   <string name="bluetooth_connecting_error_message">Verbindung mit %1$s nicht möglich</string>
@@ -888,8 +892,8 @@ Apps:
   <string name="bluetooth_disable_profile_message">Ausgeschaltet: %1$s Von: %2$s</string>
   <string name="bluetooth_disable_profile_title">Profil ausschalten?</string>
   <string name="bluetooth_disabled">Deaktiviert</string>
-  <string name="bluetooth_disconnect_a2dp_profile">%1$s wird von Audiogerät getrennt</string>
-  <string name="bluetooth_disconnect_all_profiles">Dies beendet Ihre Verbindung mit %1$s</string>
+  <string name="bluetooth_disconnect_a2dp_profile">%1$s wird von Audiomedien getrennt.</string>
+  <string name="bluetooth_disconnect_all_profiles">Ihr Telefon wird von %1$s getrennt.</string>
   <string name="bluetooth_disconnect_dialog_ok">Trennen</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s wird von der Freisprecheinrichtung getrennt</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s wird vom Eingabegerät getrennt</string>
@@ -1230,7 +1234,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="cancel_moving_dialog_title">Import abbrechen</string>
   <string name="cancel_restore">Anhalten</string>
   <string name="cant_sync_dialog_message">Synchronisation hierfür ist ausgeschaltet. Zur Änderung dieser Einstellung schalten Sie vorübergehend Hintergrunddaten und automatische Synchronisation ein.</string>
-  <string name="cant_sync_dialog_title">Manuelle Synchronisierung nicht möglich</string>
+  <string name="cant_sync_dialog_title">Manuelle Synchronisation nicht möglich</string>
   <string name="capabilities_list_title">%1$s muss:</string>
   <string name="capability_desc_receiveAccessibilityEvents">Erhält Benachrichtigungen, wenn Sie mit einer App interagieren.</string>
   <string name="capability_title_receiveAccessibilityEvents">Ihre Aktionen beobachten</string>
@@ -1404,7 +1408,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="condition_turn_on">Ausschalten</string>
   <string name="condition_work_summary">Apps, Hintergrundsynchronisation und andere Funktionen, die sich auf Ihr Arbeitsprofil beziehen, werden deaktiviert</string>
   <string name="condition_work_title">Das Arbeitsprofil ist ausgeschaltet</string>
-  <string name="condition_zen_title">Nicht-stören-Modus ist an (%1$s)</string>
+  <string name="condition_zen_title">Nicht-stören-Modus ist an</string>
   <string name="config_charging_function_name">Lädt</string>
   <string name="config_list_label">Netzwerk konfigurieren</string>
   <string name="config_mass_storage_function_name">Massenspeicher</string>
@@ -1561,6 +1565,8 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
   <string name="dangerous_option_hint">%1$s ist aktiviert. Tippen, um Einstellungen zu ändern.</string>
   <string name="dangerous_option_hint_title">Risikoreiche Funktion aktiviert</string>
   <string name="dangerous_option_switch_title">Über risikoreiche Funktionen benachrichtigen</string>
+  <string name="dark_color_mode">Dark Mode</string>
+  <string name="dark_color_summary">Verwenden Sie eine dunklere Farbpalette für Systemhintergründe und kompatible Apps</string>
   <string name="dark_ui_mode">Nachtmodus</string>
   <string name="dark_ui_mode_title">Nachtmodus setzen</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Zuklappen</string>
@@ -1756,7 +1762,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="demo_mode_summary">Demosymbol in der Statusleiste anzeigen</string>
   <string name="deny">Ablehnen</string>
   <string name="delete_sound_effect">Ton beim Löschen</string>
-  <string name="deselect_all">Nichts auswählen</string>
+  <string name="deselect_all">Alle abwählen</string>
   <string name="detail_app_button">Appinfo</string>
   <string name="details_subtitle">Nutzungsdetails</string>
   <string name="details_title">Nutzungsdetails</string>
@@ -1899,7 +1905,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="display_auto_rotate_stay_in_portrait">Hochformat fixieren</string>
   <string name="display_auto_rotate_title">Bildschirminhalt drehen</string>
   <string name="display_category_title">Bildschirm</string>
-  <string name="display_cutout_emulation">Display mit Ausschnitt simulieren</string>
+  <string name="display_cutout_emulation">Display mit Notch simulieren</string>
   <string name="display_cutout_emulation_keywords">displayausschnitt, notch</string>
   <string name="display_cutout_emulation_none">Nichts</string>
   <string name="display_dashboard_summary">Hintergrund, schlafen, Schriftgröße</string>
@@ -2024,7 +2030,7 @@ Du kannst die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="edge_mode_notification_title">Nutze Kantensteuerung</string>
   <string name="edge_mode_photo">Ein Foto machen</string>
   <string name="edge_mode_photo_summary">Tippen Sie in der Kamera auf den Rand des Telefons, um den Blendenverschluss auszulösen und tippen Sie erneut, um ein Foto zu machen</string>
-  <string name="edge_mode_screenshot_summary">Auf beide Kanten doppelt tippen, um ein Screenshot zu erstellen</string>
+  <string name="edge_mode_screenshot_summary">Doppeltipp auf beide Kanten, um Screenshot zu erstellen</string>
   <string name="edit_rule">Regeln bearbeiten</string>
   <string name="edit_rules">Bearbeiten</string>
   <string name="eighthours">8 Stunden</string>
@@ -2336,7 +2342,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="firewall_partial">Erlauben Sie einigen Apps, sich mit der folgenden Methode zu verbinden</string>
   <string name="firewall_permission">Verbindungsberechtigungen</string>
   <string name="firewall_restrict_all">Beschränken Sie die Verbindung für alle Apps mithilfe der folgenden Methode</string>
-  <string name="firewall_restrict_android_dialog_content">Um sicherzustellen, dass Ihr Gerät normal funktioniert, stellen einige Android-Systemapps weiterhin eine Verbindung zum Internet her. Diese Apps nutzen Ihre mobile Datenverbindung und können von Ihrem Netzbetreiber geringe Kosten verursachen.</string>
+  <string name="firewall_restrict_android_dialog_content">Um sicherzustellen, dass Ihr Gerät normal funktioniert, stellen einige Android-Systemapps weiterhin eine Internetverbindung her. Diese Apps nutzen Ihre mobile Datenverbindung und können von Ihrem Netzbetreiber geringe Kosten verursachen.</string>
   <string name="firewall_restrict_android_dialog_title">Achtung</string>
   <string name="firewall_restrict_data">Einschränkung der mobilen Datennutzung</string>
   <string name="firewall_restrict_notify_title">%s kann das Netzwerk nicht nutzen</string>
@@ -2464,7 +2470,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und Appdaten peri
   <string name="game_controller_settings_category">Spielsteuerung</string>
   <string name="game_mode_cta_dialog_agree">Zustimmen</string>
   <string name="game_mode_cta_dialog_cancel">Abbrechen</string>
-  <string name="game_mode_cta_dialog_message">Spielemodus muss eine Verbindung zum Internet herstellen, um normal zu funktionieren. Zustimmen?</string>
+  <string name="game_mode_cta_dialog_message">Spielemodus muss eine Internetverbindung herstellen, um normal zu funktionieren. Zustimmen?</string>
   <string name="game_mode_cta_dialog_title">Berechtigungen erforderlich</string>
   <string name="game_mode_settings">Spielemodus</string>
   <string name="game_mode_summary">Leistung für Spiele verbessern und gleichzeitig die Synchronisation und Hintergrund-Netzwerkverbindung für andere Apps einschränken</string>
@@ -2476,7 +2482,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und Appdaten peri
   <string name="gesture_prevent_ringing_title">Power &amp;Latutstärke hoch gleichzeitig drücken</string>
   <string name="gesture_setting_off">Aus</string>
   <string name="gesture_setting_on">An</string>
-  <string name="gesture_wakeup_title">Doppeltippen, um Bildschirm zu aktivieren</string>
+  <string name="gesture_wakeup_title">Doppeltipp, um Bildschirm einzuschalten</string>
   <string name="getConfiguredNetworks">Konfiguriertes Netzwerk beziehen</string>
   <string name="getConnectionInfo">Verbindungsinfo bekommen</string>
   <string name="global_change_warning">Diese Einstellung betrifft alle Benutzer auf diesem Telefon</string>
@@ -2719,6 +2725,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und Appdaten peri
   <string name="keyboard_shortcuts_helper">Tastaturverknüpfungshilfe</string>
   <string name="keyboard_shortcuts_helper_summary">Verfügbare Verknüpfungen anzeigen</string>
   <string name="keyguard_advance_setting_title">Weitere Einstellungen</string>
+  <string name="keyguard_double_tap_to_sleep_title">Doppeltipp für Standby</string>
   <string name="keyguard_notification_status_title">Wenn Benachrichtigungen eingehen und der Bildschirm ausgeschaltet ist</string>
   <string name="keyguard_security_setting_others">Andere</string>
   <string name="keyguard_security_setting_privacy_policy">Datenschutzerklärung</string>
@@ -3146,7 +3153,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="long_press_home_key">Hometaste lange drücken</string>
   <string name="long_press_menu_key">Menütaste lange drücken</string>
   <string name="long_press_menu_key_when_lock">Menütaste auf dem Sperrbildschirm lange drücken</string>
-  <string name="long_press_power_key_half_of_second">Halten Sie die Ein-/Aus-Taste 0,5 Sekunden lang gedrückt, um den Google Assistant einzuschalten.</string>
+  <string name="long_press_power_key_half_of_second">Halten Sie die Power-Taste 0,5 Sekunden lang gedrückt, um den Google Assistant einzuschalten.</string>
   <string name="long_press_volume_down">Langer Druck auf Lautstärke leiser</string>
   <string name="lost_internet_access_cancel">Auf WLAN bleiben</string>
   <string name="lost_internet_access_persist">Nicht mehr anzeigen</string>
@@ -3361,7 +3368,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="miui_sos_emergency_delivered_sms_noname">%1s hat bereits akzeptiert</string>
   <string name="miui_sos_emergency_failed_sms" formatted="false">%1s (%2s) SOS-Nachricht senden fehlgeschlagen</string>
   <string name="miui_sos_emergency_failed_sms_noname">%1s SOS-Nachricht senden fehlgeschlagen</string>
-  <string name="miui_sos_enable_switch_summary">Drücken Sie schnell die Ein-/Aus-Taste 5 mal, um eine SOS-SMS mit Ihrem Standort an Ihre Notfallkontakte zu senden.</string>
+  <string name="miui_sos_enable_switch_summary">Drücken Sie schnell die Power-Taste 5 mal, um eine SOS-SMS mit Ihrem Standort an Ihre Notfallkontakte zu senden.</string>
   <string name="miui_sos_enable_switch_title">Notfall-SOS</string>
   <string name="miui_sos_exit_dialog_cancel">Abbrechen</string>
   <string name="miui_sos_exit_dialog_message">Sie haben Notfall-SOS aktiviert. Ihre Standortinformationen werden an Ihre Notfallkontakte gesendet. Trotzdem ausschalten?</string>
@@ -3394,7 +3401,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="mms_breathing_light_freq_title">Nachrichtenpulsfrequenz</string>
   <string name="mms_privacy_password_role_instruction">Ihre Unterhaltungen mit privaten Kontakten werden hier gespeichert</string>
   <string name="mms_title">MMS</string>
-  <string name="mobile_connect_to_internet">Bitte stellen Sie eine Verbindung zum Internet her</string>
+  <string name="mobile_connect_to_internet">Bitte stellen Sie eine Internetverbindung her</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Mobile Datenverbindung immer aktiv halten, auch wenn WLAN aktiv ist (für schnelle Netzwerkumschaltung).</string>
   <string name="mobile_insert_sim_card">Legen Sie die SIM-Karte ein und starten Sie das Gerät neu</string>
@@ -3832,6 +3839,8 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="online_resource_entry">Onlinequellen</string>
   <string name="only_one_home_message">Launchereinstellungen werden ausgeblendet, bis Sie einen anderen Launcher installieren</string>
   <string name="onscreen_keyboard_settings_summary">Einstellungen der Bildschirmtastatur</string>
+  <string name="open_dark_mode_dialog_summary">Bestimmte Anzeigeeinstellungen sind nicht mit dem Dark Mode kompatibel. Sie werden jedoch wiederhergestellt, wenn Sie den Dark Mode ausschalten. Dark Mode einschalten?</string>
+  <string name="open_dark_mode_dialog_title">Dark Mode-Kompatibilität</string>
   <string name="open_demo_mode">Starten</string>
   <string name="open_demo_mode_warning_message">Wenn der Demo-Modus eingeschaltet ist, stoppt die Uhr in der Statusleiste, Akku- und Signalsymbole werden als voll angezeigt. Sie können den Demo-Modus ausschalten oder das Gerät neu starten, um dies zu ändern.</string>
   <string name="open_miui_optimization_title">MIUI-Optimierung einschalten</string>
@@ -4016,7 +4025,14 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="power_hide_mode_title">Akkuverbrauch von Apps verwalten</string>
   <string name="power_high_usage_title">Hoher Verbrauch</string>
   <string name="power_idle">Ruhezustand</string>
+  <string name="power_key_how_power_force_off">So erzwingen Sie einen Neustart des Geräts</string>
+  <string name="power_key_how_power_force_off_detail">Drücken und halten Sie die Power-Taste gedrückt, bis Ihr Gerät neu gestartet wird</string>
+  <string name="power_key_how_power_off">So öffnen Sie die Shutdown-Seite</string>
+  <string name="power_key_how_power_off_detail">Halten Sie die Power-Taste 3s lang gedrückt</string>
+  <string name="power_key_how_start">Wie man den Google Assistant aufweckt</string>
+  <string name="power_key_how_start_detail">Halten Sie die Power-Taste 0,5s lang gedrückt. Lassen Sie sie los, um zu sprechen.</string>
   <string name="power_key_start_enjoy">Erfahren Sie mehr über den Google Assistant</string>
+  <string name="power_key_start_guide">Wecken des Google Assistant mit der Power-Taste auf Vollbildgeräten</string>
   <string name="power_last_full_charge_summary">Vor ^1</string>
   <string name="power_mgr">Akku</string>
   <string name="power_mode">Energieeinstellungen</string>
@@ -4512,12 +4528,14 @@ Mindestens %s freigeben."</string>
   <string name="screen">Bildschirm</string>
   <string name="screen_button">Bildschirmtasten</string>
   <string name="screen_button_tips">Nach unten ziehen, um die Bildschirmtasten zu verbergen</string>
+  <string name="screen_cancel">Abbrechen</string>
   <string name="screen_color_and_optimize">Farben &amp; Kontrast</string>
   <string name="screen_color_and_optimize_disabled">Farbtemperatur kann im Lesemodus nicht geändert werden</string>
   <string name="screen_color_temperature">Farbtemperatur</string>
   <string name="screen_color_temperature_and_saturation">Farbtemperatur &amp; Sättigung</string>
   <string name="screen_compatibility_label">Bildschirmkompatibilität</string>
   <string name="screen_compatibility_text">Eventuell ist diese App nicht für Ihren Bildschirm ausgelegt. Hier können Sie festlegen, wie Sie an Ihren Bildschirm angepasst wird.</string>
+  <string name="screen_confirm">Einschalten</string>
   <string name="screen_effect">Kontrast &amp; Farben</string>
   <string name="screen_key_long_press">Langer Tastendruck</string>
   <string name="screen_key_long_press_action">Optionen</string>
@@ -4806,7 +4824,7 @@ Mindestens %s freigeben."</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Nach dem Antippen einklappen;einklappen;verstecken</string>
   <string name="search_status_bar_settings_toggle_position">Schalterpositionen;Schalter;Toggle;Toggles;Schalter ändern;Toggles ändern</string>
   <string name="search_storage_settings">Speicher;Speicherplatz</string>
-  <string name="search_sync_settings">Sync;Auto;WLAN only;Synchronisation;Sychronisierung;Automatisch;nur WLAN</string>
+  <string name="search_sync_settings">Sync;Auto;WLAN only;Synchronisation;Synchronisierung;Automatisch;nur WLAN</string>
   <string name="search_system_app_settings">Systemapps</string>
   <string name="search_theme_settings_title">Themen;Theme;Thema;Personalisierung;Personalisieren</string>
   <string name="search_touch_assistant">Quickball;Berührungsassistent</string>
@@ -5193,6 +5211,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="slider_vocie_online_open">Nach unten schieben</string>
   <string name="slider_vocie_online_theme">Slider-Onlineton</string>
   <string name="slider_vocie_online_title">Online-Töne</string>
+  <string name="slider_voice_online_theme">Online-Töne</string>
   <string name="slider_voice_summary">Abspielen von Tönen beim Auf- und Abbewegen des Bildschirms</string>
   <string name="slider_voice_title">Töne</string>
   <string name="slot_status_title">IMEI-Info</string>
@@ -5413,7 +5432,7 @@ Alle Apps auf ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese
   <string name="storage_internal_unmount_details">"<b>Wenn Sie ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein</b>
 ^1 ist formatiert, um nur auf diesem Gerät zu funktionieren, wird also auf andern Geräten nicht funktionieren."</string>
   <string name="storage_label">Speicher</string>
-  <string name="storage_low_summary">Einige Systemfunktionen wie die Synchronisierung funktionieren evtl. nicht richtig. Versuchen Sie Speicher freizugeben, indem Sie Apps oder Medieninhalte löschen.</string>
+  <string name="storage_low_summary">Einige Systemfunktionen wie die Synchronisation funktionieren evtl. nicht richtig. Versuchen Sie Speicher freizugeben, indem Sie Apps oder Medieninhalte löschen.</string>
   <string name="storage_low_title">Speicher wird knapp</string>
   <string name="storage_manager_indicator">Speichermanager: ^1</string>
   <string name="storage_manager_indicator_off">Aus</string>
@@ -5618,7 +5637,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="switch_on_text">An</string>
   <string name="switch_screen_button_order">Tasten spiegeln</string>
   <string name="switch_screen_button_order_desc">Zurück- und Menütaste spiegeln</string>
-  <string name="switch_select_to_speak_on">Zum Sprechen auswählen</string>  
+  <string name="switch_select_to_speak_on">Zum Sprechen auswählen</string>
   <string name="symbols_not_allowed_for_password">Passwort darf keine Symbole enthalten</string>
   <string name="sync_active">Synchronisation aktiv</string>
   <string name="sync_automatically">Appdaten autom. synchronisieren</string>
@@ -5627,17 +5646,17 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="sync_disabled">Synchronisation ist AUS</string>
   <string name="sync_enable">Synchronisieren</string>
   <string name="sync_enabled">Synchronisation ist AN</string>
-  <string name="sync_error">Synchronisierungsfehler</string>
-  <string name="sync_failed">Synchronisierung fehlgeschlagen</string>
+  <string name="sync_error">Synchronisationsfehler</string>
+  <string name="sync_failed">Synchronisation fehlgeschlagen</string>
   <string name="sync_in_progress">Jetzt synchronisieren…</string>
-  <string name="sync_is_failing">Bei der Synchronisierung treten momentan Probleme auf. Sie wird in Kürze fortgesetzt.</string>
-  <string name="sync_menu_sync_cancel">Synchronisierung abbrechen</string>
+  <string name="sync_is_failing">Bei der Synchronisation treten momentan Probleme auf. Sie wird in Kürze fortgesetzt.</string>
+  <string name="sync_menu_sync_cancel">Synchronisation abbrechen</string>
   <string name="sync_menu_sync_now">Jetzt synchronisieren</string>
   <string name="sync_now">Synchronisieren</string>
   <string name="sync_one_time_sync">Tippen, um %1$s sofort zu synchronisieren</string>
   <string name="sync_plug">"&lt;font fgcolor="#ffffffff"&gt;Willkommen bei Google Sync!&lt;/font&gt;
-Ein Google-Ansatz zur Synchronisierung von Daten, um den Zugriff auf Ihre Kontakte, Termine und mehr von überall her zu ermöglichen."</string>
-  <string name="sync_settings">Synchronisierung</string>
+Ein Google-Ansatz zur Synchronisation von Daten, um den Zugriff auf Ihre Kontakte, Termine und mehr von überall her zu ermöglichen."</string>
+  <string name="sync_settings">Synchronisation</string>
   <string name="sync_wifi_only">Nur WLAN</string>
   <string name="system_alert_window_access_title">Apps überlagern</string>
   <string name="system_alert_window_off">Nein</string>
@@ -6001,7 +6020,7 @@ Gefällt Ihnen Mi Mover?"</string>
   <string name="tts_engine_security_warning">Dieses Sprachsynthesemodul kann in der Lage sein, alle gesprochenen Texte zu sammeln, einschließlich persönlicher Daten wie Passwörter und Kreditkartennummern. Es kommt vom %s-Modul. Die Verwendung dieses Sprachsynthesemoduls aktivieren?</string>
   <string name="tts_engine_settings_button">Moduleinstellungen starten</string>
   <string name="tts_engine_settings_section">Moduleinstellungen</string>
-  <string name="tts_engine_settings_title">Einstellungen für %s</string>
+  <string name="tts_engine_settings_title">Moduleinstellungen</string>
   <string name="tts_engines_section">Module</string>
   <string name="tts_general_section_title">Allgemein</string>
   <string name="tts_install_data_summary">Erforderliche Sprachdaten für Sprachsynthese installieren</string>
@@ -7103,7 +7122,7 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="work_mode_label">Arbeitsprofil</string>
   <string name="work_mode_off_summary">Apps und Benachrichtigungen sind aus</string>
   <string name="work_mode_on_summary">Von Ihrer Organisation verwaltet</string>
-  <string name="work_mode_summary">Arbeitsprofil aktivieren, einschl. Apps, Synchronisierung im Hintergrund und verknüpfter Funktionen</string>
+  <string name="work_mode_summary">Arbeitsprofil aktivieren, einschl. Apps, Synchronisation im Hintergrund und verknüpfter Funktionen</string>
   <string name="work_notification_ringtone_title">Standard-Arbeitsbenachrichtigungston</string>
   <string name="work_profile_confirm_remove_message">Alle Apps und Daten in diesem Profil werden gelöscht</string>
   <string name="work_profile_confirm_remove_title">Arbeitsprofil entfernen?</string>

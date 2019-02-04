@@ -112,7 +112,7 @@
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
   <string name="abc_action_mode_done">Fertig</string>
-  <string name="abc_activity_chooser_view_see_all">Alles anzeigen</string>
+  <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
   <string name="abc_activitychooserview_choose_application">App wählen</string>
   <string name="abc_capital_off">AUS</string>
   <string name="abc_capital_on">AN</string>
@@ -268,19 +268,19 @@
   <string name="battery_info_status_unknown">Unbekannt</string>
   <string name="bf_news_settings">Wirtschafts- und Finanznachrichten</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Mit Audiomedien verbunden</string>
-  <string name="bluetooth_a2dp_profile_summary_use_for">Für Audiomedien nutzen</string>
-  <string name="bluetooth_active_battery_level">Aktiv, %1$s Akku</string>
+  <string name="bluetooth_a2dp_profile_summary_use_for">Für Audiomedien</string>
+  <string name="bluetooth_active_battery_level">Aktiv | Akku: %1$s</string>
   <string name="bluetooth_active_no_battery_level">Aktiv</string>
-  <string name="bluetooth_battery_level">%1$s Akku</string>
-  <string name="bluetooth_connected">Verbunden</string>
-  <string name="bluetooth_connected_battery_level">%1$s verbunden, Akku %2$s</string>
-  <string name="bluetooth_connected_no_a2dp">%1$s verbunden (keine Medien)</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">%1$s verbunden (keine Medien), Akku %2$s</string>
-  <string name="bluetooth_connected_no_headset">%1$s verbunden (kein Telefon)</string>
-  <string name="bluetooth_connected_no_headset_battery_level">%1$s verbunden (kein Telefon), Akku %2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">%1$s verbunden (kein Telefon/keine Medien)</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">%1$s verbunden (kein Telefon/keine Medien), Akku %2$s</string>
-  <string name="bluetooth_connected_no_map">%1$s verbunden (kein Nachrichtenzugriff)</string>
+  <string name="bluetooth_battery_level">Akku: %1$s</string>
+  <string name="bluetooth_connected">Verbunden %1$s</string>
+  <string name="bluetooth_connected_battery_level">Verbunden | Akku %1$s %2$s</string>
+  <string name="bluetooth_connected_no_a2dp">Verbunden (kein Mediensignal) %1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Verbunden (kein Mediensignal) | Akku %1$s %2$s</string>
+  <string name="bluetooth_connected_no_headset">Verbunden (kein Telefonsignal) %1$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Verbunden (kein Telefonsignal) | Akku %1$s %2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Verbunden (kein Telefon- oder Mediensignal) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Verbunden (kein Telefon- oder Mediensignal) | Akku %1$s %2$s</string>
+  <string name="bluetooth_connected_no_map">Verbunden (kein Nachrichtenzugriff) %1$s</string>
   <string name="bluetooth_connecting">Verbinden…</string>
   <string name="bluetooth_disable_absolute_volume">Absolute Lautstärke deaktivieren</string>
   <string name="bluetooth_disable_absolute_volume_summary">Deaktiviert die Bluetooth-Funktion für absolute Lautstärke bei Problemen mit Remote-Geräten, wie z. B. unzulässig hohe Lautstärke oder fehlende Kontrolle.</string>
@@ -1989,6 +1989,16 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="volte_switch_title">VoLTE aktiviert</string>
   <string name="volte_switch_title_ct">VoLTE aktiviert</string>
   <string name="volte_tips_when_turn_on">China Telecom VoLTE-Dienste werden nur in den Gebieten mit VoLTE-Netzabdeckung angeboten. Die VoLTE-Dienste werden vom Netzbetreiber bereitgestellt.</string>
+  <string name="vowifi_emergency_notification_channel">WLAN Anruf-Notfallwarnung</string>
+  <string name="vowifi_emergency_notification_content">Notrufe nur in der Mobilfunkabdeckung verfügbar.</string>
+  <string name="vowifi_emergency_notification_title">Vodafone WLAN-Anrufe</string>
+  <string name="vowifi_emergency_warning_check">Nicht mehr anzeigen</string>
+  <string name="vowifi_emergency_warning_message">"Notrufe sind über WLAN-Anrufe nicht möglich.
+  
+Das Gerät schaltet automatisch auf ein Mobilfunknetz (2G/3G) um, um einen Notruf zu tätigen.
+  
+Notrufe sind nur in Gebieten mit Mobilfunkabdeckung möglich."</string>
+  <string name="vowifi_emergency_warning_title">ECC-Anrufe über WLAN-Anrufe</string>  
   <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="vvm_unsupported_message_format">Nicht unterstützer Nachrichtentyp, rufen Sie zum Abhören %s an</string>
   <string name="wait_for_debugger">Auf Debugger warten</string>
@@ -2031,6 +2041,8 @@ Wollen Sie sich wieder verbinden, um den Anruf fortzusetzen?"</string>
   <string name="wifi_auth_password_wrong">Passwort scheint falsch zu sein</string>
   <string name="wifi_auto_sel_wapi_cert">Automatisch wählen</string>
   <string name="wifi_call_setting">WLAN-Anrufeinstellungen</string>
+  <string name="wifi_call_setting_vodafone_de">WLAN-Anruf</string>
+  <string name="wifi_call_setting_vodafone_uk">WLAN-Anruf</string>
   <string name="wifi_calling">WLAN-Anruf</string>
   <string name="wifi_calling_settings_title">WLAN-Anrufe</string>
   <string name="wifi_cant_connect">Verbinden nicht möglich</string>
