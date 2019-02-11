@@ -46,6 +46,12 @@
   <string name="forget_password"><u>Passwort vergessen</u></string>
   <string name="input_password_hint">Passwort eingeben</string>
   <string name="internet_access_dspt">Diese App benötigt eine Internetverbindung, um normal zu funktionieren</string>
+  <string name="korea_permission_calendar">Kalender</string> 
+  <string name="korea_permission_calendar_desc">Für den Zugriff auf Veranstaltungsinformationen und das Versenden von Erinnerungen</string>
+  <string name="korea_permission_phone">Telefon</string>
+  <string name="korea_permission_phone_desc">Für den Zugriff auf den Gerätestatus und die Stummschaltung von Erinnerungen während des Anrufens</string>
+  <string name="korea_permission_storage">Speicher</string>
+  <string name="korea_permission_storage_desc">Zum Speichern von Alarmen</string>
   <string name="ks_certificate_udpate_time">Zertifikataktualisierung</string>
   <string name="ks_certificate_version">Zertifikatsnummer</string>
   <string name="ks_download_certificate">Zertifikat herunterladen</string>
@@ -277,6 +283,9 @@ Verwenden Sie ein anderes Konto."</string>
   <string name="micloud_wipe_data_confirm_title">Alle Inhalte, die mit Mi Cloud synchronisiert wurden, nach dem Abmelden vom Telefon löschen?</string>
   <string name="micloud_wipe_data_remove">Löschen</string>
   <string name="micloud_wipe_data_retain">Behalten</string>
+  <string name="module_download_data_msg_replace">Aktualisiertes Audio für intelligente Alarme (≈20 MB) ist verfügbar. Sich mit dem Netzwerk verbinden und mit mobilen Daten herunterladen?</string>
+  <string name="module_download_fail">Zusätzliche Audiodateien konnten nicht heruntergeladen werden</string>
+  <string name="module_download_msg_replace">Aktualisiertes Audio für intelligente Alarme ist verfügbar. Mit dem Netzwerk verbinden und jetzt herunterladen?</string>
   <string name="mx_dspt_provision">"Mit Mi Message können Sie Nachrichten an andere MIUI Benutzer versenden, ohne dass SMS-Gebühren anfallen.
 Sie können diese Funktion jederzeit in den Einstellungen ein- oder ausschalten."</string>
   <string name="mx_dspt_provision_privacy">"Diese Funktion verlangt Ihre Telefonnummer. Ihr Anbieter kann Gebühren für eine gesendete SMS verlangen, um diese Funktion zu aktivieren.
@@ -307,6 +316,7 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
   <string name="search_finddevice_pref_desc">Gerät finden ein-/ausschalten</string>
   <string name="search_finddevice_pref_key_words">find device, Gerät finden</string>
   <string name="search_finddevice_pref_path">Mi Konto/Mi Cloud/Gerät finden</string>
+  <string name="search_menu_title">Suchen</string>
   <string name="share_cancel">Teilen abgebrochen</string>
   <string name="share_failed">Konnte nicht teilen</string>
   <string name="share_miliao_not_installed">Mi Talk ist nicht installiert</string>

@@ -87,6 +87,7 @@ Ihre Konto ID: %s"</string>
   <string name="confirm_delete_device_message">Wenn Sie dieses Gerät entfernen, müssen Sie Ihre Telefonnummer verifizieren, wenn Sie sich das nächste Mal an Ihrem Mi Konto anmelden</string>
   <string name="confirm_phone_number_dialog_message">Verifikationscode wird gesendet an: %s</string>
   <string name="confirm_phone_number_dialog_title">Telefonnummer bestätigen</string>
+  <string name="confirm_new_pwd">Neues Passwort bestätigen</string>
   <string name="confirm_unbind">Dieses Konto entfernen?</string>
   <string name="confirm_unbundled_phone_dialog_message">Telefonnummer %1$s ist mit dem Mi Konto %2$s verknüpft. Sie wird nicht länger mit dem Mi Konto %3$s verknüpft. Wollen Sie fortsetzen?</string>
   <string name="continue_action">Weiter</string>
@@ -144,7 +145,9 @@ Bitte senden Sie diesen Code an den Supervisor."</string>
   <string name="get_phone_verifycode_exceed_limit">Zu viele Verifikationscodes wurden an diese Telefonnummer versendet. 24 Stunden warten und erneut versuchen.</string>
   <string name="guest_account_label">Mi Gastkonto</string>
   <string name="identity">Identifizierung</string>
+  <string name="inconsistent_pwd">Passwörter stimmen nicht überein</string>
   <string name="input_email_address_notice">Wir verwenden diese Mailadresse, um Ihr Konto zu verifizieren.</string>
+  <string name="input_new_pwd">Neues Passwort eingeben</string>
   <string name="io_error_title">Bestätigen Sie Ihr Netzwerk</string>
   <string name="just_a_second">Einen Moment…</string>
   <string name="loading_micloud_sync_data">Einen Moment…</string>
@@ -158,6 +161,8 @@ Bitte senden Sie diesen Code an den Supervisor."</string>
   <string name="logout_account">Abmelden</string>
   <string name="logout_failed">Abmelden fehlgeschlagen</string>
   <string name="mi_account_identity_title">Prüfen Sie Ihre Identität</string>
+  <string name="mi_finance">Meine Finanzen</string>
+  <string name="mi_finance_info">Bonus für neue Benutzer</string>
   <string name="mi_vip_info">Zugriffsrechte anzeigen</string>
   <string name="mipay_balance">Kontostand</string>
   <string name="mipay_bank_card">Bankkarte</string>
@@ -423,6 +428,7 @@ Bitte senden Sie diesen Code an den Supervisor."</string>
   <string name="restart_action">Neustart</string>
   <string name="restart_phone_bind_message">Eine Nachricht mit dem Verifikationscode wird an Ihre Nummer gesendet</string>
   <string name="restart_phone_bind_title">Ändere die Mobilrufnummer zum Zurücksetzen des Passworts</string>
+  <string name="same_new_and_old_pwd">Kann nicht dasselbe wie das aktuelle Passwort sein</string>
   <string name="scan_barcode_title">Scannen Sie den QR-Code, um sich an Ihrem Mi Konto anzumelden</string>
   <string name="search_account_security">Kontosicherheit</string>
   <string name="search_account_security_desc">Kontoeinstellungen</string>
@@ -445,6 +451,7 @@ Bitte senden Sie diesen Code an den Supervisor."</string>
   <string name="service_error">Dienstfehler</string>
   <string name="set_success">Erfolgreich geändert</string>
   <string name="sign_in">Anmelden</string>
+  <string name="sim_card">SIM-Karte</string>
   <string name="sim_changed_notification_msg">Tippen, um Ihr Wiederherstellungstelefon zu aktualisieren und Ihr Konto sicherer zu machen</string>
   <string name="sim_changed_notification_title">Telefonnummer ändern?</string>
   <string name="sms_send_success">Gesendet</string>
@@ -466,6 +473,7 @@ Bitte senden Sie diesen Code an den Supervisor."</string>
   <string name="update_phone_notice">Sicherheitseinstellungen ändern</string>
   <string name="update_phone_number_notice_message">Vor der Aktualisierung der Telefonnummer müssen Sie Ihre Identität nachweisen</string>
   <string name="updated_nothing">Aktualisiert</string>
+  <string name="used_cloud_storage_info">genutzter Speicherplatz %s</string>
   <string name="user_avatar_update_title">Profilbild ändern</string>
   <string name="user_avatar_uploading">Einen Moment…</string>
   <string name="verified_apps">Verifizierte Apps</string>

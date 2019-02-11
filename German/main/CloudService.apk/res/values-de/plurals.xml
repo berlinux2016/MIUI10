@@ -60,6 +60,18 @@
     <item quantity="other">%d Elemente warten auf Synchronisation</item>
     <item quantity="one">ein Element wartet auf Synchronisation</item>
   </plurals>
+  <plurals name="last_sync_time_mins_ago">
+    <item quantity="other">" vor Minuten"</item>
+    <item quantity="one">" vor Minute"</item>
+  </plurals>
+  <plurals name="last_sync_time_hours_ago">
+    <item quantity="other">" vor Stunden"</item>
+    <item quantity="one">" vor Stunde"</item>
+  </plurals>
+  <plurals name="micloud_manual_pause_and_resume">
+    <item quantity="other">Synchronisation angehalten. Nach %d Minuten fortsetzen.</item>
+    <item quantity="one">Synchronisation angehalten. Nach %d Minute fortsetzen.</item>
+  </plurals>
   <plurals name="micloud_main_resume_sync_hour">
     <item quantity="other">Synchronisation nach %d Stunden fortsetzen.</item>
     <item quantity="one">Synchronisation nach einer Stunde fortsetzen.</item>
