@@ -73,6 +73,12 @@
   <string name="invalid_time">Ungültige Uhrzeit: %3$s %1$d: %2$d</string>
   <string name="invalid_timer_length">Ungültige Timerlänge</string>
   <string name="keep_screen_on">Bildschirm immer an</string>
+  <string name="korea_permission_calendar">Kalender</string> 
+  <string name="korea_permission_calendar_desc">Für den Zugriff auf Veranstaltungsinformationen und das Versenden von Erinnerungen</string>
+  <string name="korea_permission_phone">Telefon</string>
+  <string name="korea_permission_phone_desc">Für den Zugriff auf den Gerätestatus und die Stummschaltung von Erinnerungen während des Anrufens</string>
+  <string name="korea_permission_storage">Speicher</string>
+  <string name="korea_permission_storage_desc">Zum Speichern von Alarmen</string>
   <string name="label">Bezeichnung</string>
   <string name="label_pref_summary">Bezeichnung</string>
   <string name="lap">Runde</string>
@@ -110,6 +116,8 @@
   <string name="module_download_cancel">Nein danke</string>
   <string name="module_download_data_msg">Uhr muss eine Internetverbindung herstellen, um Audiodateien für MIUI 10 Wetteralarme und Timer-Umgebungsgeräusche herunterzuladen. Für diesen Download werden 20 MB Ihrer mobilen Daten benötigt. Zustimmen?</string>
   <string name="module_download_data_msg_golbal">Uhr muss Audiodateien für MIUI 10 Wetteralarme und Timer-Umgebungsgeräusche herunterladen. Für diesen Download werden 20 MB Ihrer mobilen Daten benötigt. Zustimmen?</string>
+  <string name="module_download_data_msg_replace">Aktualisiertes Audio für intelligente Alarme (≈20 MB) ist verfügbar. Sich mit dem Netzwerk verbinden und mit mobilen Daten herunterladen?</string>
+  <string name="module_download_fail">Zusätzliche Audiodateien konnten nicht heruntergeladen werden</string>
   <string name="module_download_fail">Konnte keine zusätzlichen Audiodateien herunterladen</string>
   <string name="module_download_msg">Uhr muss eine Internetverbindung herstellen, um Audiodateien für MIUI 10 Wetteralarme und Timer-Umgebungsgeräusche herunterzuladen. Zustimmen?</string>
   <string name="module_download_msg_golbal">Uhr muss Audiodateien für MIUI 10 Wetteralarme und Timer-Umgebungsgeräusche herunterladen. Zustimmen?</string>
@@ -132,6 +140,7 @@
   <string name="reset">Zurücksetzen</string>
   <string name="revert">Rückgängig</string>
   <string name="search_alarm_clock_keywords">Alarm;Wecker;</string>
+  <string name="search_menu_title">Suchen</string>
   <string name="search_stopwatch_keywords">Stoppuhr</string>
   <string name="search_timer_keywords">Timer</string>
   <string name="search_worldclock_keywords">Zeit;Weltzeit;Uhr</string>

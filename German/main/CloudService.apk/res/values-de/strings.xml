@@ -46,12 +46,6 @@
   <string name="forget_password"><u>Passwort vergessen</u></string>
   <string name="input_password_hint">Passwort eingeben</string>
   <string name="internet_access_dspt">Diese App benötigt eine Internetverbindung, um normal zu funktionieren</string>
-  <string name="korea_permission_calendar">Kalender</string> 
-  <string name="korea_permission_calendar_desc">Für den Zugriff auf Veranstaltungsinformationen und das Versenden von Erinnerungen</string>
-  <string name="korea_permission_phone">Telefon</string>
-  <string name="korea_permission_phone_desc">Für den Zugriff auf den Gerätestatus und die Stummschaltung von Erinnerungen während des Anrufens</string>
-  <string name="korea_permission_storage">Speicher</string>
-  <string name="korea_permission_storage_desc">Zum Speichern von Alarmen</string>
   <string name="ks_certificate_udpate_time">Zertifikataktualisierung</string>
   <string name="ks_certificate_version">Zertifikatsnummer</string>
   <string name="ks_download_certificate">Zertifikat herunterladen</string>
@@ -67,10 +61,25 @@
   <string name="ks_update_fail_request_timeout">Verbindungsanfrage ist abgelaufen. Warten Sie ein oder zwei Minuten und versuchen Sie es erneut.</string>
   <string name="ks_update_success">Erfolgreich aktualisiert</string>
   <string name="ks_update_wait">Einen Moment…</string>
+  <string name="last_sync_time_just_now">Gerade eben</string>
+  <string name="last_sync_time_yesterday">Gestern</string>
   <string name="license_host_unreachable">Verbindung zum Netzwerk fehlgeschlagen. Um diese Information jetzt zu sehen, gehen Sie auf %s.</string>
   <string name="loading">Nur einen Moment…</string>
   <string name="master_alert_notif_content">Synchronisation nicht möglich</string>
   <string name="master_alert_notif_title">Schalten Sie Sync mit Mi Cloud ein</string>
+  <string name="member_entrance_normal_title">Mi Cloud-Tarif ändern</string>
+  <string name="member_entrance_title_free_high_case_a">Mehr Speicherplatz schaffen</string>
+  <string name="member_entrance_title_free_high_case_b">Upgrade Mi Cloud-Tarif</string>
+  <string name="member_entrance_title_free_low_case_a">Mehr Speicherplatz schaffen</string>
+  <string name="member_entrance_title_free_low_case_b">Upgrade Mi Cloud-Tarif</string>
+  <string name="member_entrance_title_premium_high_case_a">Mi Cloud-Tarif ändern</string>
+  <string name="member_entrance_title_premium_high_case_b">Verlängern</string>
+  <string name="member_entrance_title_premium_low_case_a">Mehr Speicherplatz schaffen</string>
+  <string name="member_entrance_title_premium_low_case_b">Upgrade Mi Cloud-Tarif</string>
+  <string name="member_entrance_title_ultra_high_case_a">Verlängern</string>
+  <string name="member_entrance_title_ultra_high_case_b">Verlängern</string>
+  <string name="member_entrance_title_ultra_low_case_a">Verlängern</string>
+  <string name="member_entrance_title_ultra_low_case_b">Verlängern</string>
   <string name="micloud_all_sub_1_intl_sms">Zur Aktivierung Ihrer SIM-Karte wird eine interrnationale SMS verschickt. Sie wird Ihnen vom Anbieter in Rechnung gestellt.</string>
   <string name="micloud_all_sub_1_sms">Zur Aktivierung Ihrer SIM-Karte wird eine normale SMS verschickt. Sie wird Ihnen vom Anbieter in Rechnung gestellt.</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">2 Textnachrichten (normal und international) werden gesendet, um Ihre SIM-Karte zu aktivieren. Sie werden Ihnen vom Anbieter in Rechnung gestellt.</string>
@@ -283,8 +292,6 @@ Verwenden Sie ein anderes Konto."</string>
   <string name="micloud_wipe_data_confirm_title">Alle Inhalte, die mit Mi Cloud synchronisiert wurden, nach dem Abmelden vom Telefon löschen?</string>
   <string name="micloud_wipe_data_remove">Löschen</string>
   <string name="micloud_wipe_data_retain">Behalten</string>
-  <string name="module_download_data_msg_replace">Aktualisiertes Audio für intelligente Alarme (≈20 MB) ist verfügbar. Sich mit dem Netzwerk verbinden und mit mobilen Daten herunterladen?</string>
-  <string name="module_download_fail">Zusätzliche Audiodateien konnten nicht heruntergeladen werden</string>
   <string name="module_download_msg_replace">Aktualisiertes Audio für intelligente Alarme ist verfügbar. Mit dem Netzwerk verbinden und jetzt herunterladen?</string>
   <string name="mx_dspt_provision">"Mit Mi Message können Sie Nachrichten an andere MIUI Benutzer versenden, ohne dass SMS-Gebühren anfallen.
 Sie können diese Funktion jederzeit in den Einstellungen ein- oder ausschalten."</string>
@@ -316,7 +323,6 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
   <string name="search_finddevice_pref_desc">Gerät finden ein-/ausschalten</string>
   <string name="search_finddevice_pref_key_words">find device, Gerät finden</string>
   <string name="search_finddevice_pref_path">Mi Konto/Mi Cloud/Gerät finden</string>
-  <string name="search_menu_title">Suchen</string>
   <string name="share_cancel">Teilen abgebrochen</string>
   <string name="share_failed">Konnte nicht teilen</string>
   <string name="share_miliao_not_installed">Mi Talk ist nicht installiert</string>
