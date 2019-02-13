@@ -188,6 +188,7 @@
   <string name="micloud_main_head_menu_state_close">Geschlossen</string>
   <string name="micloud_main_head_menu_state_open">Geöffnet</string>
   <string name="micloud_main_head_menu_state_unavailable">Nicht unterstützt</string>
+  <string name="micloud_main_manual_sync">Manuelle Synchronisation</string>
   <string name="micloud_main_master_sync_on">Sync an</string>
   <string name="micloud_main_memory_low_message">Zur Synchronisation löschen Sie einige Elemente in Ihrer Cloud</string>
   <string name="micloud_main_memory_low_title">Interner Speicher des Telefons ist fast voll</string>
@@ -212,6 +213,8 @@ Verwenden Sie ein anderes Konto."</string>
   <string name="micloud_main_space_full_title">Cloud Speicher voll</string>
   <string name="micloud_main_space_low">Fast kein Speicherplatz mehr…</string>
   <string name="micloud_main_sync_init">Informationen erhalten</string>
+  <string name="micloud_main_sync_mode_summary">Die meisten Elemente synchronisieren, wenn das Ladegerät angeschlossen und der Bildschirm ausgeschaltet ist.</string>
+  <string name="micloud_main_sync_mode_title">Stromsparendes Synchronisieren</string>
   <string name="micloud_main_sync_now">Synchronisieren</string>
   <string name="micloud_main_sync_on">Aktivieren</string>
   <string name="micloud_main_sync_pause">Synchronisation angehalten</string>
@@ -227,6 +230,12 @@ Verwenden Sie ein anderes Konto."</string>
   <string name="micloud_main_wait_wlan_charge">Mit WLAN verbinden und Gerät vollständig aufladen, um die Synchronisation fortzusetzen.</string>
   <string name="micloud_main_wait_wlan_charge_sleep">Mit WLAN verbinden, Bildschirm ausschalten und Gerät vollständig aufladen, um die Synchronisation fortzusetzen</string>
   <string name="micloud_manage_space_data">Verwaltung von Mi Cloud-Daten</string>
+  <string name="micloud_manual_paused">angehalten</string>
+  <string name="micloud_manual_pending">Ausstehend…</string>
+  <string name="micloud_manual_sync_all">Alle Elemente synchronisieren</string>
+  <string name="micloud_manual_sync_pause">Synchronisieren anhalten</string>
+  <string name="micloud_manual_syncing">Synchronisieren…</string>
+  <string name="micloud_manual_title">Manuell synchronisieren</string>
   <string name="micloud_member_net_error_alert_message">Sie haben keine Internetverbindung</string>
   <string name="micloud_member_net_error_alert_title">Verbindung zum Netzwerk fehlgeschlagen</string>
   <string name="micloud_member_pay_miid_error_toast">Kontofehler</string>
@@ -245,6 +254,8 @@ Verwenden Sie ein anderes Konto."</string>
   <string name="micloud_notif_title_multi_user_error">Synchronisation mit Mi Cloud nicht möglich</string>
   <string name="micloud_notif_title_privacy_reopen_failed">Einschalten Mi Cloud Dienste nicht möglich</string>
   <string name="micloud_notif_title_sync_with_off">Mit Mi Cloud synchronisieren</string>
+  <string name="micloud_preference_last_sync_time">Zuletzt synchronisiert: %s</string>
+  <string name="micloud_preference_syncing">Synchronisieren…</string>
   <string name="micloud_privacy_cloud_off">Sync ist aus</string>
   <string name="micloud_privacy_cloud_sync">Mi Cloud Dienste einschalten</string>
   <string name="micloud_privacy_explanation">Berechtigung zur Aktivierung von Mi Cloud Diensten erteilen</string>
@@ -280,6 +291,17 @@ Verwenden Sie ein anderes Konto."</string>
   <string name="micloud_sync_alert_dialog_negative">Abbrechen</string>
   <string name="micloud_sync_alert_dialog_title">Mi Cloud verwenden</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync">Kontakte, Kalender und Notizen werden automatisch synchronisiert. Gehen Sie zu Mi Cloud-Einstellungen, um weitere Elemente zu synchronisieren.</string>
+  <string name="micloud_sync_result_already_in_progress">Vorherige Synchronisierung wird ausgeführt…</string>
+  <string name="micloud_sync_result_auth_exception">Kontofehler</string>
+  <string name="micloud_sync_result_cancel">Synchronisierung wurde unterbrochen</string>
+  <string name="micloud_sync_result_cloud_storage_full">Mi Cloud-Speicher ist voll</string>
+  <string name="micloud_sync_result_io_exception">I/O Fehler</string>
+  <string name="micloud_sync_result_parse_exception">Daten analysieren fehlgeschlagen</string>
+  <string name="micloud_sync_result_permission_error">Fehler in Zusammenhang mit Berechtigungen</string>
+  <string name="micloud_sync_result_request_error">Sync-Anforderungsfehler</string>
+  <string name="micloud_sync_result_secure_space_limit">Kein Synchronisieren von Elementen aus dem Zweitprofil vornehmen</string>
+  <string name="micloud_sync_result_sim_activated_error">SIM-Kartenaktivierungsfehler</string>
+  <string name="micloud_sync_result_wifi_only">Synchronisieren nur über WLAN möglich</string>
   <string name="micloud_upgrade_member">Speicherplatz kaufen</string>
   <string name="micloud_user_space_title">Speicherplatz</string>
   <string name="micloud_warn_full_sum">Neue Dinge werden nicht mit Mi Cloud synchronisiert</string>
@@ -357,7 +379,7 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
   <string name="sync_item_calllog_title">Synchronisiere Anruferliste</string>
   <string name="sync_item_sms_summary">Synchronisiere SMS, die von diesem Telefon gesendet und empfangen wurden</string>
   <string name="sync_item_sms_title">Synchronisiere Nachrichten</string>
-  <string name="sync_item_title">Zu synchronisierende Inhalte</string>
+  <string name="sync_item_title">App-Daten synchronisieren</string>
   <string name="sync_off">Aus</string>
   <string name="sync_on">An</string>
   <string name="sync_sub_1_intl_sms">Ihr Anbieter kann Kosten für eine gesendete internationale SMS berechnen, welche verwendet wird, um diesen Service zu aktivieren.</string>
