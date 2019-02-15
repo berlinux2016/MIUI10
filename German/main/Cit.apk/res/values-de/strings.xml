@@ -57,6 +57,15 @@
   <string name="charger_test_end">"
 Ende Ladegerättest, bitte das Ladegerät herausziehen"</string>
   <string name="checkerboard_test">SCHACHBRETT-TEST</string>
+  <string name="cit_OTG_plug_check_summary">Während des Tests stecken Sie bitte den Stecker ins USB OTG-Gerät ein und stecken ihn dann umgedreht wieder ein.</string>
+  <string name="cit_OTG_plugin_check_summary">Wenn das OTG-Gerät angeschlossen ist, sollte der Text \"USB OTG-Gerät erkannt\" unten angezeigt werden.</string>
+  <string name="cit_OTG_plugin_check_title">OTG (erkannt)</string>
+  <string name="cit_OTG_plugout_check_summary">Wenn das OTG-Gerät entfernt ist, sollte der Text \"USB OTG-Gerät entfernt\" unten angezeigt werden.</string>
+  <string name="cit_OTG_plugout_check_title">OTG (entfernt)</string>
+  <string name="cit_OTG_waiting_in">USB OTG-Gerät jetzt anschließen</string>
+  <string name="cit_OTG_waiting_in_charge">USB OTG-Gerät jetzt verbinden</string>
+  <string name="cit_OTG_waiting_out">USB OTG-Gerät jetzt trennen und bei USB Typ C umgedreht wieder einstecken</string>
+  <string name="cit_Reserse_charge_check_title">Umkehrladungstest</string>
   <string name="cit_abnormal_reboot_summary">Lesen von Stabilitätsdaten, bitte warten…</string>
   <string name="cit_abnormal_reboot_title">Gerätestabilitätsdaten</string>
   <string name="cit_ac_charger_in">Laden mit Netzteil</string>
@@ -72,13 +81,13 @@ Bevor Sie das Telefon kalibrieren, legen Sie es auf eine ebene Fläche."</string
   <string name="cit_aud_spk_vendor">"Lautsprecherhersteller: "</string>
   <string name="cit_aud_spkcal">Kalibrieren</string>
   <string name="cit_aud_test_result">"Testergebnis: "</string>
+  <string name="cit_audio_cali_TEMP">"Temperatur: "</string>
   <string name="cit_audio_cali_done">Kalibrierung abgeschlossen!</string>
   <string name="cit_audio_cali_failed">Kalibrierung fehlgeschlagen, bitte wiederholen!</string>
   <string name="cit_audio_cali_fast_test_title">Lautsprecherverstärker Kalibrierungsschnelltest</string>
   <string name="cit_audio_cali_file_existed">Keine Musikdatei vorhanden, kann nicht kalibriert werden!</string>
   <string name="cit_audio_cali_playing">Kalibrierte Daten prüfen</string>
   <string name="cit_audio_cali_summary">Lautsprecher PA kalibrieren</string>
-  <string name="cit_audio_cali_TEMP">"Temperatur: "</string>
   <string name="cit_audio_cali_title">Lautsprecher PA-Kalibrierungstest</string>
   <string name="cit_audio_calibrating">Kalibrierung läuft…</string>
   <string name="cit_audio_check_summary">Audio-Info</string>
@@ -91,15 +100,6 @@ Bevor Sie das Telefon kalibrieren, legen Sie es auf eine ebene Fläche."</string
   <string name="cit_audio_lb_phonecall_title">Ruftestsimulation</string>
   <string name="cit_no_sim_check_summary">Vergewissern Sie sich, dass das Telefon keine Sim-Karte hat!</string>
   <string name="cit_no_sim_check_title">Keine SIM-Karte</string>
-  <string name="cit_OTG_plug_check_summary">Während des Tests stecken Sie bitte den Stecker ins USB OTG-Gerät ein und stecken ihn dann umgedreht wieder ein.</string>
-  <string name="cit_OTG_plugin_check_summary">Wenn das OTG-Gerät angeschlossen ist, sollte der Text \"USB OTG-Gerät erkannt\" unten angezeigt werden.</string>
-  <string name="cit_OTG_plugin_check_title">OTG (erkannt)</string>
-  <string name="cit_OTG_plugout_check_summary">Wenn das OTG-Gerät entfernt ist, sollte der Text \"USB OTG-Gerät entfernt\" unten angezeigt werden.</string>
-  <string name="cit_OTG_plugout_check_title">OTG (entfernt)</string>
-  <string name="cit_OTG_waiting_in">USB OTG-Gerät jetzt anschließen</string>
-  <string name="cit_OTG_waiting_in_charge">USB OTG-Gerät jetzt verbinden</string>
-  <string name="cit_OTG_waiting_out">USB OTG-Gerät jetzt trennen und bei USB Typ C umgedreht wieder einstecken</string>
-  <string name="cit_Reserse_charge_check_title">Umkehrladungstest</string>
   <string name="cit_tool_active_mbn">Aktiv</string>
   <string name="cit_tool_getting_expired">Ablaufdatum!</string>
   <string name="cit_tool_getting_wait">"Auf geht's! Bitte warten…"</string>
@@ -109,10 +109,10 @@ Bevor Sie das Telefon kalibrieren, legen Sie es auf eine ebene Fläche."</string
   <string name="cit_tool_mbn_default_notfiy">Standard-MBN</string>
   <string name="cit_tool_mbn_no_default_notfiy">Kein Standard-MBN</string>
   <string name="cit_tool_mbn_path_select_hit">Wählen Sie den gesamten Pfad von mbn:</string>
-  <string name="cit_tool_mbn_path_select_notice">Oben nicht gefunden? Suche hier? Was mcfg, ct, eps, etc. betrifft.</string>
+  <string name="cit_tool_mbn_path_select_notice">Oben nicht gefunden? Hier suchen? Betrifft mcfg, ct, eps etc.</string>
   <string name="cit_tool_mbn_recovery_default">Standard-MBN wiederherstellen</string>
   <string name="cit_tool_modem_clear_empty">bereinigen</string>
-  <string name="cit_tool_modem_mbn_config_load_and_active">MBN-Konfiguration-, Lade- und Aktivierungswerkzeug</string>
+  <string name="cit_tool_modem_mbn_config_load_and_active">MBN-Konfigurations-, Lade- und Aktivierungswerkzeug</string>
   <string name="cit_tool_modem_rf_ant_test">Modem rf ant Testeinstellung</string>
   <string name="cit_tool_modem_test_clr">gpio-Test schließen</string>
   <string name="cit_tool_modem_test_get">Update</string>
@@ -125,7 +125,7 @@ Bevor Sie das Telefon kalibrieren, legen Sie es auf eine ebene Fläche."</string
   <string name="cit_tool_modem_test_set">bestätigen</string>
   <string name="cit_tool_no_repeat">Keine Wiederholung!</string>
   <string name="cit_tool_not_support">Nicht unterstützt</string>
-  <string name="cit_tool_opt_fail_info_notify">Opt fehlgeschlagen, bitte Telefon neustarten um es erneut zu versuchen.</string>
+  <string name="cit_tool_opt_fail_info_notify">Opt fehlgeschlagen, bitte Telefon neustarten, um es erneut zu versuchen.</string>
   <string name="cit_tool_select_all">Alle auswählen</string>
   <string name="cit_tool_select_none">Nichts auswählen</string>
   <string name="cit_tool_select_opposite">Gegenüber auswählen</string>
@@ -374,7 +374,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
   <string name="cit_power_check_title">Akkuanzeige</string>
   <string name="cit_pressure_sensor_check_summary">Wert für den Druck sollte unten stehen</string>
   <string name="cit_pressure_sensor_check_title">Drucksensor</string>
-  <string name="cit_proximity_data_check_summary">"Bedecken Sie den Näherungssensor (oben am Telefon in der Nähe des Empfängers) mit Ihrer Hand und bewegen Sie dann Ihre Hand weg. Der Wert sollte sich von 0,0 erhöhen, wenn Sie Ihre Hand weiter vom Telefon weg bewegen. 
+  <string name="cit_proximity_data_check_summary">"Bedecken Sie den Näherungssensor (oben am Telefon in der Nähe des Empfängers) mit Ihrer Hand und bewegen Sie dann Ihre Hand weg. Der Wert sollte sich von 0,0 erhöhen, wenn Sie Ihre Hand weiter vom Telefon weg bewegen.
 Wenn es sich um einen Ultraschallnäherungssensor handelt, simulieren Sie bitte die Aktion, das Telefon während des Tests abzuheben."</string>
   <string name="cit_proximity_sensor_check_summary">"Bedecken Sie den Näherungssensor (oben am Telefon in der Nähe des Empfängers) mit Ihrer Hand und bewegen Sie dann Ihre Hand weg. Der Wert sollte sich von 0,0 erhöhen, wenn Sie Ihre Hand weiter vom Telefon weg bewegen.
 Achten Sie beim Kalibrieren darauf, dass sich nichts zwischen dem Sensor und Ihrer Hand befindet (z.B. Bildschirmschutzabdeckung oder Handschuhe)."</string>
