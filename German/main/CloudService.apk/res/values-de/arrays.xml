@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="micloud_entrance_titleArray">
-        <item>App-Daten synchronisieren</item>
-        <item>Sichern des Startbildschirm-Layouts</item>
-        <item>Sichern der Systemeinstellungen</item>
-        <item>Gerät suchen</item>
-    </string-array>
-    <string-array name="micloud_entrance_subtitleArray">
-        <item>Synchronisieren Sie Ihre Kontakte, Nachrichten, Notizen, Kalender und vieles mehr</item>
-        <item>Sichern von Apps, Startbildschirm-Layout und Hintergrundbild</item>
-        <item>Sichern wichtiger Einstellungen wie WLAN und Bildschirm</item>
-        <item>Sperren Sie Ihr Gerät per Fernzugriff, wenn es verloren geht</item>
-    </string-array>
+  <string-array name="korea_permission_groups_descriptions">
+    <item>Zum Identifizieren von synchronisierten Elementen</item>
+    <item>Zum Nachrichten synchronisieren</item>
+    <item>Zum Kontakte synchronisieren</item>
+    <item>Zum Kalenderereignisse synchronisieren</item>
+    <item>Zum Elemente mit Diensten synchronisieren, die Speicher verwenden</item>
+  </string-array>
+  <string-array name="korea_permission_groups_names">
+    <item>Telefon</item>
+    <item>SMS</item>
+    <item>Kontakte</item>
+    <item>Kalender</item>
+    <item>Speicher</item>
+  </string-array>
+  <string-array name="micloud_entrance_titleArray">
+    <item>App-Daten synchronisieren</item>
+    <item>Sichern des Startbildschirm-Layouts</item>
+    <item>Sichern der Systemeinstellungen</item>
+    <item>Gerät suchen</item>
+  </string-array>
+  <string-array name="micloud_entrance_subtitleArray">
+    <item>Synchronisieren Sie Ihre Kontakte, Nachrichten, Notizen, Kalender und vieles mehr</item>
+    <item>Sichern von Apps, Startbildschirm-Layout und Hintergrundbild</item>
+    <item>Sichern wichtiger Einstellungen wie WLAN und Bildschirm</item>
+    <item>Sperren Sie Ihr Gerät per Fernzugriff, wenn es verloren geht</item>
+  </string-array>
 </resources>
