@@ -101,7 +101,7 @@
   <string name="antivirus_privacy_dialog_cloudscan">Appnamen und Details hochladen</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Appnamen und Details hochladen und mit Online-Virusdefinitionen prüfen</string>
   <string name="antivirus_privacy_dialog_summary">Diese Funktion verschlüsselt Ihre Geräte-ID und lädt diese auf die Server von Avast, AVL und Tencent (%s)</string>
-  <string name="antivirus_privacy_dialog_summary_link">Datenschutzerklärung anzeigen</string>
+  <string name="antivirus_privacy_dialog_summary_link">《Datenschutzerklärung anzeigen》</string>
   <string name="antivirus_privacy_dialog_title">Datenschutzerklärung</string>
   <string name="antivirus_sec_network_unavailable">Sicherheitsapp kann nicht aktualisiert werden, da Sie die Internetverbindung eingeschränkt haben. Erlauben Sie Sicherheit die Internetverbindung?</string>
   <string name="antivirus_toast_already_update">Auf dem neuesten Stand</string>
@@ -864,6 +864,8 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="forbid_autobright_title">Bildschirmhelligkeit fixieren</string>
   <string name="force_stop_dlg_text">Wenn Sie das Stoppen einer App erzwingen, kann es sein, dass sie sich falsch verhält.</string>
   <string name="force_stop_dlg_title">Stoppen erzwingen?</string>
+  <string name="forground_network_optimization_summary">Geben Sie den Spielen, die im Vordergrund laufen, mehr Bandbreite</string>
+  <string name="forground_network_optimization_title">Bandbreitenpriorität</string>
   <string name="foreground_traffic">Vordergrund %s</string>
   <string name="forget_password_button_text"><u>Passwort vergessen</u></string>
   <string name="forget_password_button_text_normal">Passwort vergessen</string>
@@ -878,6 +880,7 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="free_time_traffic_title">Datenverbrauchslimit einstellen</string>
   <string name="free_traffic_settings">Datenverbrauchslimit eingeben</string>
   <string name="function_close">Aus</string>
+  <string name="function_shield_summary_m">Einschränkung der automatischen Helligkeit und der Screenshot-Gesten</string>
   <string name="fw_blocked">Sperrliste</string>
   <string name="fw_blocked_count">"Blockiert "</string>
   <string name="fw_blocked_join">" und "</string>
@@ -943,7 +946,7 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="gb_xunyou_gift_type_one">Xunyou 1-Tag-Boost</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3-Tage-Boost</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2-Tage-Boost</string>
-  <string name="gdpr_msg">&lt;Data&gt;"Um die grundlegenden Funktionen von Sicherheit nutzen zu können, müssen Sie sich damit einverstanden erklären, dass Xiaomi Ihre persönlichen Daten erhebt, verarbeitet und nutzt, einschließlich Informationen über die Art und Weise, wie Sie die Funktionen von Sicherheit nutzen (z.B. Nutzungsstatistiken mobiler Daten, Informationen über Malware sowie Basisinformationen über Ihr Gerät) und andere Arten von Informationen, die in unserer &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; angegeben sind."&lt;/Data&gt;</string>
+  <string name="gdpr_msg">&lt;Data&gt;"Um die grundlegenden Funktionen von Sicherheit nutzen zu können, müssen Sie sich damit einverstanden erklären, dass Xiaomi Ihre persönlichen Daten erhebt, verarbeitet und nutzt, einschließlich Informationen über die Art und Weise, wie Sie die Funktionen von Sicherheit nutzen (z.B. Nutzungsstatistiken mobiler Daten, Informationen über Malware sowie Basisinformationen über Ihr Gerät) und andere Arten von Informationen, die in unserer &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;《Datenschutzerklärung》&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Infos abrufen…</string>
   <string name="gmscore_support_remind">Aktivieren Sie diese Funktion, wenn Probleme bei der Verwendung von Google Mail, Google Maps und anderen Google-Apps auftreten. Die Akkudauer wird dadurch geringfügig verkürzt.</string>
   <string name="gmscore_support_service">Google Dienste</string>
@@ -969,13 +972,13 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="gs_game_performance">Leistung</string>
   <string name="gs_game_shortcut">Verbessern Sie Ihr Spielerlebnis</string>
   <string name="gs_gamebox">In-Game Verknüpfungen</string>
-  <string name="gs_gamebox_detail">In-Game Verknüpfungskonsole anzeigen</string>
+  <string name="gs_gamebox_detail">Wischen Sie von dem oberen Seitenrand des Bildschirms, um die Ansicht zu erhalten</string>
   <string name="gs_gamebox_slip">Bildschirm nach unten drücken zum Öffnen</string>
   <string name="gs_only_self_start_for_list">Hintergrundprozesse einschränken, um Akku beim Spielen zu sparen</string>
   <string name="gs_open_game_booster">Geschwindigkeit erhöhen</string>
   <string name="gs_open_game_booster_summary">Erhöhen Sie die Netzwerkgeschwindigkeit für Spiele</string>
   <string name="gs_performance_mode">Leistungsmodus</string>
-  <string name="gs_performance_mode_detail">CPU-Auslastung erhöhen, um eine nahtlose Leistung zu gewährleisten</string>
+  <string name="gs_performance_mode_detail">Optimierung der Systemleistung für Spiele</string>
   <string name="gs_sign_notification">Erinnern, sich täglich um 20 Uhr anzumelden.</string>
   <string name="gs_slip_gamebox_detail">Verwenden Sie den Slider, damit das Tastenfeld angezeigt wird. Schnelle Antworten und Bildschirm-Aufzeichnungsoptionen sind verfügbar.</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Falscher Mobilfunkanbieter?&lt;/U&gt;&lt;/font&gt;"</string>
@@ -1844,7 +1847,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="settings_choice_no_notification">Aus</string>
   <string name="settings_power_save_ontime_title">Zeitplan</string>
   <string name="shield_keyboard_detail">Tasten zweimal antippen, um diese wieder zu aktivieren</string>
-  <string name="shield_keyboard_title">Tasten deaktivieren</string>
+  <string name="shield_keyboard_title">Tasten und Gesten einschränken</string>
   <string name="show_system_app">Systemapps anzeigen</string>
   <string name="show_traffic_dialog_message">Ihre Datennutzung wird in der Statusleiste angezeigt. Sie können diese Funktion in den Einstellungen der Datennutzung jederzeit ändern.</string>
   <string name="show_traffic_dialog_title">Zeige Verbrauch in der Statusleiste</string>
