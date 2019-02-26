@@ -592,6 +592,8 @@
   <string name="free_view_desc">3D zeigen</string>
   <string name="gallery_setting">Einstellungen</string>
   <string name="gallery_sync_disable_toast">Synchronisation der Galerie ist deaktiviert</string>
+  <string name="generate_story_summary">MIUI analysiert Ihre Fotos und erstellt Story-Alben. Schalten Sie diese Funktion aus, um die Erstellung von Story-Alben zu unterbinden.</string>
+  <string name="generate_story_title">Story-Alben</string>
   <string name="get_album_info_in_process">Albumdetails werden geladen…</string>
   <string name="grant_permission_go_and_set">Einstellen</string>
   <string name="grant_permission_text">Galerie benötigt Zugriff auf %s, um richtig zu funktionieren.\nTippen Sie auf Einstellen, um zu Berechtigungen zu gelangen.</string>
@@ -627,6 +629,8 @@
   <string name="image_invalid_path">Ungültiger Pfad</string>
   <string name="image_not_found">Foto wurde nicht gefunden</string>
   <string name="image_quota_fulfiled">Zu viele Fotos. Nicht mehr benötigte Fotos löschen und erneut versuchen.</string>
+  <string name="image_selection_summary">MIUI analysiert ähnliche Fotos und markiert die besten Aufnahmen für Sie. Schalten Sie diese Funktion aus, um Markierungen auf Fotos zu entfernen.</string>
+  <string name="image_selection_title">Beste Foto auswählen</string>
   <string name="image_with_time">Foto aufgenommen %s</string>
   <string name="image_with_time_and_location">Foto aufgenommen %1$s | Standort: %2$s</string>
   <string name="impunity_declaration_settings">Netzwerkhinweis anzeigen</string>
@@ -808,8 +812,9 @@
   <string name="operation_save">Speichern</string>
   <string name="operation_send">Senden</string>
   <string name="operation_set_contact_photo">Als Kontaktfoto festlegen</string>
-  <string name="operation_set_slide_wallpaper">Als Diashow-Hintergrund festlegen</string>
-  <string name="operation_set_wallpaper">Als Hintergrund festlegen</string>
+  <string name="operation_set_slide_wallpaper">Als Diashow-Hintergrundbild festlegen</string>
+  <string name="operation_set_video_wallpaper">Als Videohintergrundbild festlegen</string>
+  <string name="operation_set_wallpaper">Als Hintergrundbild festlegen</string>
   <string name="operation_share">Teilen</string>
   <string name="operation_show_in_photos_tab">Auf Startseite anzeigen</string>
   <string name="operation_show_on_map">Auf Karte anzeigen</string>
@@ -1016,6 +1021,7 @@
   <string name="relation_text_maternal_grandmother">Großmutter mütterlicherseits</string>
   <string name="relation_text_mother">Mutter</string>
   <string name="relation_with_you">Beziehung zu Ihnen festlegen</string>
+  <string name="recommend_category_title">Galerie auwählen</string>
   <string name="remind_face_recommend_confirm">Bestätigen</string>
   <string name="remove_from_album_message">Dieses Foto wird hier nicht mehr angezeigt</string>
   <string name="remove_from_album_title">Aus diesem Album entfernen</string>
@@ -1140,6 +1146,8 @@
   <string name="set_as_baby_lock_wallpaper">Als Sperrbildschirmhintergrund</string>
   <string name="set_as_slide_wallpaper_description">Dieses Bild ist ein Miniaturbild, Original herunterladen?</string>
   <string name="set_as_slide_wallpaper_title">Als Diashow-Hintergrund festlegen</string>
+  <string name="set_as_video_wallpaper_description">Diesen Element herunterladen und als Video-Hintergrundbild verwenden?</string>
+  <string name="set_as_video_wallpaper_title">Videohintergrund einstellen</string>
   <string name="set_as_wallpaper_description">Dies ist nur ein Vorschaubild, wollen Sie zuerst das Original herunterladen?</string>
   <string name="set_as_wallpaper_title">Als Hintergrundbild festlegen</string>
   <string name="set_face_group_toast_msg_new_user">Person lange antippen, Personen können zusammengeführt oder ignoriert werden.</string>
@@ -1148,7 +1156,8 @@
   <string name="set_face_group_toast_title_old_user">Personen können in Gruppen eingeteilt werden</string>
   <string name="set_face_image">Neues Profilbild einrichten</string>
   <string name="set_group">Gruppe festlegen</string>
-  <string name="set_wallpaper_get_image_failed">Foto nicht heruntergeladen, versuchen Sie es später erneut</string>
+  <string name="set_video_wallpaper_failed">Dieses Element kann nicht als Videohintergrund verwendet werden</string>
+  <string name="set_wallpaper_get_image_failed">Konnte Foto nicht heruntergeladen, versuchen Sie es später erneut</string>
   <string name="setup_network_connection">Netzwerkeinstellungen</string>
   <string name="share">Teilen</string>
   <string name="share_album">Album teilen</string>
