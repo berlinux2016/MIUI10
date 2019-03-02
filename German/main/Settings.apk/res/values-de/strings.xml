@@ -2052,6 +2052,8 @@ Du kannst die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="empty_title_permission_apps_list">Keine Apps</string>
   <string name="enable_adb">USB-Debugging</string>
   <string name="enable_adb_summary">Debugmodus bei Anschluss über USB</string>
+  <string name="enable_atrace">ATrace einschalten</string>
+  <string name="enable_atrace_summary">Kernel-Ereignisse mit ATrace erfassen</string>
   <string name="enable_compatibility">App skalieren</string>
   <string name="enable_encrypt">Verschlüsselung einschalten</string>
   <string name="enable_encrypt_description">Verschlüsseln</string>
@@ -6234,10 +6236,12 @@ Nur wichtige Elemente übertragen."</string>
   <string name="usb_ptp_title">Kamera (PTP)</string>
   <string name="usb_restore_select_data_too_large">"Sicherungsdateien sind groß. Die Wiederherstellung kann eine Weile dauern.
 Wiederherstellen nur wichtiger Elemente geht schneller."</string>
+  <string name="usb_summary_MIDI">Gerät als MIDI nutzen</string>
   <string name="usb_summary_MIDI_power">MIDI und Stromversorgung</string>
   <string name="usb_summary_charging_only">Dieses Gerät aufladen</string>
   <string name="usb_summary_file_transfers">Dateien übertragen</string>
   <string name="usb_summary_file_transfers_power">Datentransfer und Stromversorgung</string>
+  <string name="usb_summary_photo_transfers">Fotos übertragen (PTP)</string>
   <string name="usb_summary_photo_transfers_power">PTP und Stromversorgung</string>
   <string name="usb_summary_power_only">Verbundenes Gerät laden</string>
   <string name="usb_summary_tether">USB-Tethering</string>
@@ -6261,10 +6265,11 @@ Speicher freigeben oder mehrere kleinere Übertragungen durchführen."</string>
   <string name="usb_trans_select_data_no_space">"Auf Ihrem USB-Laufwerk ist nur %s verfügbar.
 Speicher freigeben oder nur wichtige Elemente übertragen."</string>
   <string name="usb_use">USB verwenden für</string>
+  <string name="usb_use_MIDI">Gerät als MIDI nutzen</string>
   <string name="usb_use_MIDI_desc">Dieses Gerät als MIDI verwenden</string>
   <string name="usb_use_charging_only">Nur Aufladen</string>
   <string name="usb_use_charging_only_desc">Dieses Gerät nur aufladen</string>
-  <string name="usb_use_file_transfers">Datenübertragung (MTP)</string>
+  <string name="usb_use_file_transfers">Dateien übertragen (MTP)</string>
   <string name="usb_use_file_transfers_desc">Dateien auf ein anderes Gerät übertragen</string>
   <string name="usb_use_photo_transfers">Fotos übertragen (PTP)</string>
   <string name="usb_use_photo_transfers_desc">Fotos oder Dateien übertragen, wenn MTP nicht unterstützt wird (PTP)</string>
