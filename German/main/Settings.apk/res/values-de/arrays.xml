@@ -318,8 +318,8 @@
   <string-array name="bluetooth_audio_active_device_summaries">
     <item></item>
     <item>" | Aktiv"</item>
-    <item>" | Aktiv (Medien)"</item>
-    <item>" | Aktiv (Mobiltelefon)"</item>
+    <item>" | Aktiv (Medien abspielen)"</item>
+    <item>" | Aktiv (Telefonieren)"</item>
   </string-array>
   <string-array name="bluetooth_max_connected_audio_devices">
     <item>Systemauswahl verwenden: %1$d</item>
@@ -668,7 +668,7 @@
     <item>Verzeichnis erstellen: mkdir /media/mtp</item>
     <item>"Benutzergruppenrechte in der aktuellen 'fuse user group' bestätigen"</item>
     <item>Erneut anmelden</item>
-    <item>Zugang zum gemounteten Gerät über: mtpfs /media/mtp via Dateimanager; wie Lokaler Ordner</item>
+    <item>Zugang zum gemounteten Gerät über: mtpfs /media/mtp via Dateimanager; wie lokaler Ordner</item>
     <item>"Gerät entfernen: fusermount -u /media/mtp
 Hinweis: Nur für Ubuntu 8.04!"</item>
   </string-array>
@@ -684,8 +684,8 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>ICCID</item>
   </string-array>
   <string-array name="network_speed_slow_summary">
-    <item>Netzwerk langsam wegen zu viel Datenverkehr</item>
-    <item>Netzwerk langsam wegen schwacher Signalstärke</item>
+    <item>Netzwerk wegen zu viel Datenverkehr langsam</item>
+    <item>Netzwerk wegen schwacher Signalstärke langsam</item>
     <item>Verschieben…</item>
   </string-array>
   <string-array name="notch_battery_indicator_style_entries">
