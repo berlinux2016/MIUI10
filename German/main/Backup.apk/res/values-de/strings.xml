@@ -70,6 +70,7 @@
   <string name="cancel_moving_dialog_title">Import abbrechen</string>
   <string name="cancel_restore">Anhalten</string>
   <string name="click_to_view">Zum Anzeigen antippen</string>
+  <string name="click_soft_ap_to_link">Hotspot zum Verbinden auswählen</string>
   <string name="close_twice_auth_btn">Zwei-Wege-Authentifikation deaktivieren</string>
   <string name="close_twice_auth_note">"Hinweis:
 Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatums wird Ihre Apple ID-Zwei-Faktor-Authentifizierung deaktiviert. Wenn Sie die Option zum Deaktivieren der Zwei-Faktor-Authentifizierung auf der Apple ID-Kontenseite nicht sehen, können Sie sie nicht deaktivieren."</string>
@@ -91,8 +92,13 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="cloud_search">Suchen…</string>
   <string name="compute_backup_info">Sicherungsinfo abfragen…</string>
   <string name="compute_delete_contact_info">Info abfragen…</string>
+  <string name="connect_soft_ap_label">Verbindung zu neuem Gerät herstellen…</string>
   <string name="connect_wifi">Mit WLAN verbinden</string>
   <string name="connect_wifi_tip">Keine Netzwerkverbindung. Mit Netzwerk verbinden, um Elemente aus iCloud zu importieren.</string>
+  <string name="confirm_exit_link">Verlassen</string>
+  <string name="confirm_exit_link_cancel">Nicht verlassen</string>
+  <string name="confirm_exit_link_msg">Wenn Sie die App jetzt verlassen, wird die laufende Übertragung unterbrochen. Sie müssen die Verbindung zwischen den beiden Geräten erneut herstellen. Die App trotzdem verlassen?</string>
+  <string name="confirm_exit_link_title">Unterbrechung der Übertragung</string>
   <string name="contact_title">Kontakte</string>
   <string name="current_account">Hallo %s</string>
   <string name="current_pad_location">Tablet</string>
@@ -252,6 +258,8 @@ Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie begi
   <string name="notif_trans_sending_completed">Daten erfolgreich versandt</string>
   <string name="notif_trans_sending_failed">Datenversand fehlgeschlagen</string>
   <string name="notif_trans_wait_for_reconnecting">Verbindung wurde getrennt. Erneut verbinden.</string>
+  <string name="old_soft_name">Verbindung über QR-Code</string>
+  <string name="old_way">Sie können sich auch mit einem QR-Code verbinden. Tippen Sie hier, um den Code zu generieren.</string>
   <string name="page_loading">Einen Moment…</string>
   <string name="password">Passwort</string>
   <string name="password_null">Passwort kann nicht leer sein</string>
@@ -272,6 +280,7 @@ Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie begi
   <string name="prompt_sending">Hochladen…</string>
   <string name="prompt_writing">Speichern…</string>
   <string name="read_encrypt_fail">Verschlüsselte Sicherung konnte nicht gelesen werden</string>
+  <string name="recreate_soft_ap_tips">Tippen Sie unten auf die Schaltfläche, um es erneut zu versuchen.</string>
   <string name="reconnect">Erneut verbinden</string>
   <string name="refresh">Aktualisieren</string>
   <string name="remote_receive">Empfangen</string>
@@ -307,6 +316,8 @@ Mindestens %s freigeben."</string>
   <string name="sc_service_unavailable">Mi Cloud nicht verfügbar</string>
   <string name="sc_unaccess_password_file">WLAN-Passwörter nicht speichern</string>
   <string name="sc_unauthorized">Bitte erneut anmelden</string>
+  <string name="scan_soft_ap">Nach dem neuen Gerät suchen…</string>
+  <string name="scan_soft_ap_label">Mit dem alten Gerät verbinden</string>
   <string name="sd_not_available">SD-Karte jetzt einlegen</string>
   <string name="sdcard_no_enough_space">Nicht genügend Speicher</string>
   <string name="sdcard_no_enough_space_message">Nicht genügend Speicher auf Ihrer SD-Karte vorhanden</string>
@@ -326,6 +337,8 @@ Mindestens %s freigeben."</string>
   <string name="service_stoped">Dienst beendet</string>
   <string name="settings_summary">Telefon- und SMS-Einstellungenn</string>
   <string name="sms_title">Nachrichten</string>
+  <string name="soft_ap_create_failed">Hotspot erstellen fehlgeschlagen</string>
+  <string name="soft_ap_creating">Hotspot erstellen…</string>
   <string name="software_backup_info">Appdaten</string>
   <string name="start_backup">Sichern</string>
   <string name="start_restore">Wiederherstellen</string>
@@ -403,7 +416,9 @@ Mindestens %s freigeben."</string>
   <string name="trans_detail_category_wechat_qq">WeChat- und QQ-Daten (inkl. Chatverlauf)</string>
   <string name="trans_detail_item_app_data_selected_tip">Ausgewählte entsprechende Apps ebenso</string>
   <string name="trans_detail_item_app_data_too_large_tip">ieht so aus, als wäre das Element zu groß zum Übertragen.</string>
-  <string name="trans_detail_list_footer">Hinweis: Sie können wählen, ob Sie Apps separat übertragen möchten. Wenn Sie jedoch Appdaten wählen, werden auch die entsprechenden Apps übertragen.</string>
+  <string name="trans_detail_list_footer">"1. Sie können einzelne Apps auswählen, die Sie übertragen möchten.
+2. Wenn Sie App-Daten auswählen, werden auch die entsprechenden Apps ausgewählt.
+3. WeChat- und QQ-App-Daten werden möglicherweise aus Kompatibilitätsgründen nicht übertragen. Sie können In-App-Transfer-Funktionen ausprobieren."</string>
   <string name="trans_detail_page_tip">Je mehr Elemente Sie wählen, desto länger dauert die Übertragung.</string>
   <string name="trans_detail_qq_data">QQ-Daten (inkl. Chatverlauf)</string>
   <string name="trans_detail_sys_data_list_title">Systemapps</string>
@@ -423,7 +438,7 @@ Mindestens %s freigeben."</string>
   <string name="trans_generating_qrcode">QR-Code generieren…</string>
   <string name="trans_install_guide_page_title">Mi Mover auf Ihrem alten Telefon installieren</string>
   <string name="trans_install_guide_scan_install_tip">Diesen QR-Code mit dem alten Telefon scannen, um Mi Mover herunterzuladen und zu installieren.</string>
- <string name="trans_install_guide_step1_content">QR-Code mit dem alten Telefon scannen, um Mi Mover herunterzuladen und zu installieren.</string>
+  <string name="trans_install_guide_step1_content">QR-Code mit dem alten Telefon scannen, um Mi Mover herunterzuladen und zu installieren.</string>
   <string name="trans_install_guide_step1_title">Schritt 1</string>
   <string name="trans_install_guide_step2_content">Nachdem die Installation abgeschlossen ist, tippen Sie unten auf \"Start\".</string>
   <string name="trans_install_guide_step2_title">Schritt 2</string>
@@ -440,6 +455,10 @@ Mindestens %s freigeben."</string>
   <string name="trans_intro_desc_9_method_2_dec">Senden Sie Ihr Feedback an miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_2_title">2. Senden Sie uns eine E-Mail.</string>
   <string name="trans_intro_desc_9_method_3_title">3. Melden Sie Probleme in QQ.</string>
+  <string name="trans_intro_desc_10">Tippen Sie auf \"Verbinden über QR-Code\" auf dem neuen Gerät und scannen Sie den QR-Code, um eine Verbindung herzustellen.</string>
+  <string name="trans_intro_desc_gms">Aufgrund der hohen Wahrscheinlichkeit erfolgloser Übertragungen durch Kompatibilitätsprobleme, unterstützt Mi Mover nicht die Übertragung der von Google-Apps generierten Daten.</string>
+  <string name="trans_intro_question_10">%d. Sie können den Hotspot auf dem alten Gerät nicht finden?</string>
+  <string name="trans_intro_title_gms">Von Google-Apps generierte Daten:</string>
   <string name="trans_intro_desc_account">Aus Sicherheitsgründen müssen Sie sich auf einem neuen Gerät erneut bei Ihren Konten (z.B. Mi Konto, Exchange, Google, etc.) anmelden.</string>
   <string name="trans_intro_desc_multiapp">Mi Mover überträgt keine Dual App-Daten, um Konflikte zwischen Dateien zu vermeiden.</string>
   <string name="trans_intro_desc_multiuser">Mi Mover kann nicht auf Elemente im Zweitprofil zugreifen. Verschieben Sie Elemente ins Hauptprofil und starten Sie dort Mi Mover.</string>
@@ -511,7 +530,9 @@ Dann auf \"Wieder verbinden\" tippen, um den QR-Code zu scannen."</string>
   <string name="trans_select_data">Zu sendende Dateien auswählen</string>
   <string name="trans_select_data_no_space">"Auf dem neuen Gerät ist nicht genügend Speicher vorhanden (%s verfügbar).
 Geben Sie Speicher frei oder transferieren Sie nur wichtige Elemente."</string>
-  <string name="trans_select_data_tips">Dateien zur Übertragung auswählen. Dateien mit identischem Namen werden überschrieben.</string>
+  <string name="trans_select_data_tips">"Wählen Sie die zu übertragenden Elemente aus.
+Ähnliche Dateien auf dem neuen Gerät werden überschrieben.
+(Die Größe der übertragenen Elemente, die Sie sehen, ist eine grobe Schätzung.)"</string>
   <string name="trans_select_data_too_large">"Sie haben zu viele Elemente zur Übertragung gewählt.
 Wählen Sie nur wichtige Elemente, um die Übertragung zu beschleunigen."</string>
   <string name="trans_select_device_receive">Gerät zum Datenempfang auswählen</string>
@@ -561,6 +582,9 @@ Speicher freigeben oder nur wichtige Elemente übertragen."</string>
   <string name="user_notice_message">Einige Funktionen erfordern eine Internetverbindung, um normal zu funktionieren</string>
   <string name="user_notice_title">Hinweis</string>
   <string name="view_password_description">Passwort anzeigen</string>
+  <string name="wait_link">Verbinden sie Ihr altes Gerät mit diesem Hotspot.
+Verlassen Sie diese Seite nicht, bis die Verbindung hergestellt ist.</string>
+  <string name="waiting">Einen Moment…</string>
   <string name="wifi_title">WLAN-Einstellungen</string>
   <string name="xiaomi_connect_download_manager_fail">Download wurde nicht gestartet. Stellen Sie sicher, dass der Downloadmanager normal funktioniert.</string>
   <string name="xiaomi_external_storage_unavailable">Kein Speicher verfügbar, prüfen Sie die SD-Karte</string>
