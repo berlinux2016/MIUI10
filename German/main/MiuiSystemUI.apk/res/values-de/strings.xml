@@ -102,7 +102,7 @@
   <string name="accessibility_enter_lock_wallpaper">Tippen, um Musik zu öffnen</string>
   <string name="accessibility_ethernet_connected">Ethernet verbunden</string>
   <string name="accessibility_ethernet_disconnected">Ethernet getrennt</string>
-  <string name="accessibility_fingerprint_dialog_app_icon">Appsymbol</string>
+  <string name="accessibility_fingerprint_dialog_app_icon">App-Symbol</string>
   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Fingerabdrucksymbol</string>
   <string name="accessibility_fingerprint_dialog_help_area">Hilfe-Nachrichtenbereich</string>
   <string name="accessibility_gps_acquiring">GPS Erfassung</string>
@@ -222,7 +222,7 @@
   <string name="accessibility_recents_all_items_dismissed">Alle aktuellen Apps entfernt</string>
   <string name="accessibility_recents_item_dismissed">%s entfernt</string>
   <string name="accessibility_recents_item_launched">Starte %s…</string>
-  <string name="accessibility_recents_item_open_app_info">Öffne %s App Infos</string>
+  <string name="accessibility_recents_item_open_app_info">Öffne %s App-Infos</string>
   <string name="accessibility_recents_item_will_be_dismissed">Entfernt %s</string>
   <string name="accessibility_recents_task_header">%1$s %2$s</string>
   <string name="accessibility_remove_notification">Benachrichtigung löschen</string>
@@ -286,7 +286,7 @@
   <string name="always_use_device">Immer für dieses USB-Gerät verwenden</string>
   <string name="animator_duration_scale_title">Animationsdauerskala</string>
   <string name="apn_settings_not_available">APN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
-  <string name="app_info">Appinfo</string>
+  <string name="app_info">App-Info</string>
   <string name="app_name">Sperrbildschirm</string>
   <string name="app_process_limit_title">Hintergrundprozessgrenze</string>
   <string name="as_important">Wichtig</string>
@@ -521,9 +521,9 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="data_usage_disabled_dialog_title">Daten ausgeschaltet</string>
   <string name="data_usage_uninstalled_apps">Gelöschte Apps</string>
   <string name="data_usage_uninstalled_apps_users">Gelöschte Apps und Benutzer</string>
-  <string name="debug_app">Debugapp auswählen</string>
-  <string name="debug_app_not_set">Keine Debugapp ausgewählt</string>
-  <string name="debug_app_set">Debugapp: %1$s</string>
+  <string name="debug_app">Debug-App auswählen</string>
+  <string name="debug_app_not_set">Keine Debug-App ausgewählt</string>
+  <string name="debug_app_set">Debug-App: %1$s</string>
   <string name="debug_drawing_category">Zeichnen</string>
   <string name="debug_hw_drawing_category">Hardware-beschleunigtes Rendering</string>
   <string name="debug_hw_overdraw">GPU-Überzeichnung debuggen</string>
@@ -551,7 +551,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar</string>
-  <string name="development_settings_summary">Optionen für Appentwicklung festlegen</string>
+  <string name="development_settings_summary">Optionen für App-Entwicklung festlegen</string>
   <string name="development_settings_title">Entwickleroptionen</string>
   <string name="dewdrops">Tautropfen</string>
   <string name="dialog_message_fake_cell_detect_error">Infos zu dieser Nachricht korrigieren? Dazu muss MIUI die Telefonnummer (%1$s), den Inhalt der Nachricht und die Informationen über den nahegelegenen Standort auf seine Server hochladen.</string>
@@ -613,7 +613,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="enable_gpu_debug_layers_summary">Laden von GPU Debug-Ebenen für Debug-Apps erlauben</string>
   <string name="enable_opengl_traces_title">OpenGL-Traces einschalten</string>
   <string name="enable_power_save_mode">Stromsparen einschalten</string>
-  <string name="enable_terminal_summary">Terminalapp aktivieren, die den lokalen Shell-Zugriff bietet</string>
+  <string name="enable_terminal_summary">Terminal-App aktivieren, die den lokalen Shell-Zugriff bietet</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_webview_multiprocess">Multiprozess WebView</string>
   <string name="enable_webview_multiprocess_desc">WebView Renderer separat ausführen</string>
@@ -805,7 +805,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="input_pin_code">PIN eingeben</string>
   <string name="input_puk_code">PUK eingeben</string>
   <string name="install_other_apps">Installieren unbekannter Apps</string>
-  <string name="installer_cd_button_title">Android Dateiübertragungsapp für Mac installieren</string>
+  <string name="installer_cd_button_title">Android Dateiübertragungs-App für Mac installieren</string>
   <string name="instant_apps">Instant Apps</string>
   <string name="instant_apps_message">Instant Apps werden nicht installiert</string>
   <string name="interruption_level_alarms">Nur Alarme</string>
@@ -1475,7 +1475,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="settings_toggle_position_reset">Zurücksetzen</string>
   <string name="share">Teilen</string>
   <string name="show_all_anrs">Alle ANRs anzeigen</string>
-  <string name="show_all_anrs_summary">Dialog App antwortet nicht für Hintergrund-Apps anzeigen</string>
+  <string name="show_all_anrs_summary">Dialog-App antwortet nicht für Hintergrund-Apps anzeigen</string>
   <string name="show_battery_percentage">Prozent des integrierten Akkus anzeigen</string>
   <string name="show_battery_percentage_summary">Anzeige des Akkuladezustandes im Statusleistensymbol bei Nichtladung</string>
   <string name="show_brightness">Helligkeit in den Schnelleinstellungen anzeigen</string>
@@ -1511,7 +1511,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="speed_label_very_fast">Sehr schnell</string>
   <string name="speed_label_very_slow">Sehr langsam</string>
   <string name="ssl_ca_cert_warning">Netzwerk wird möglicherweise überwacht</string>
-  <string name="standby_bucket_summary">Status Appstandby: %s</string>
+  <string name="standby_bucket_summary">Status App-Standby: %s</string>
   <string name="start_dreams">Bildschirmschoner</string>
   <string name="status_bar">Statusleiste</string>
   <string name="status_bar_accessibility_dismiss_recents">Letzte Apps entfernen</string>
@@ -1534,12 +1534,12 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="status_bar_no_notifications_title">Keine Benachrichtigungen</string>
   <string name="status_bar_no_recent_apps">Keine kürzlich verwendeten Apps</string>
   <string name="status_bar_notification_app_settings_title">%s-Einstellungen</string>
-  <string name="status_bar_notification_inspect_item_title">Appinfo</string>
+  <string name="status_bar_notification_inspect_item_title">App-Info</string>
   <string name="status_bar_ongoing_events_title">Laufend</string>
   <string name="status_bar_recent_guide_all">"Zum Schließen hoch- und zum Sperren runterwischen"</string>
   <string name="status_bar_recent_guide_bottom">Zum Sperren runterwischen</string>
   <string name="status_bar_recent_guide_top">Zum Schließen hochwischen</string>
-  <string name="status_bar_recent_inspect_item_title">Appinfo</string>
+  <string name="status_bar_recent_inspect_item_title">App-Info</string>
   <string name="status_bar_recent_memory_info1">%1$sB von %2$sB verfügbar</string>
   <string name="status_bar_recent_remove_item_title">Aus Liste entfernen</string>
   <string name="status_bar_recording_back">Zum Recorder zurückkehren</string>
@@ -1626,7 +1626,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="switch_bar_off">Aus</string>
   <string name="switch_bar_on">An</string>
   <string name="switch_system_user">Zurück zum Hauptprofil</string>
-  <string name="task_access_locked_app_msg">Appsperre eingeschaltet</string>
+  <string name="task_access_locked_app_msg">App-Sperre eingeschaltet</string>
   <string name="telephony_monitor_switch">Telefoniemonitor</string>
   <string name="telephony_monitor_switch_summary">Telefoniemonitor sammelt Protokolle, wenn es ein Problem mit der Telefonie-/Modemfunktionalität entdeckt, und fordert den Benutzer auf, einen Bug zu melden</string>
   <string name="tether_settings_title_all">Tethering &amp; Mobiler Hotspot</string>
@@ -1800,7 +1800,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="vpn_title">VPN aktiviert</string>
   <string name="vpn_title_long">Verbindung zum VPN über %s</string>
   <string name="wait_for_debugger">Auf Debugger warten</string>
-  <string name="wait_for_debugger_summary">Debugged App wartet auf den Debugger, bevor sie ausgeführt wird</string>
+  <string name="wait_for_debugger_summary">Debugged-App wartet auf den Debugger, bevor sie ausgeführt wird</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Loslassen, um Details zu sehen</string>
   <string name="wapi_all_sel_mode">Wählen</string>
   <string name="wapi_auto_sel_cert">Automatisch auswählen</string>

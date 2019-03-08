@@ -148,7 +148,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="feature_title_contacts">Kontakte</string>
   <string name="feature_title_sms">SMS</string>
   <string name="file_uploading">Hochladen…</string>
-  <string name="files_backup_info">Alle Dateien auf der SD-Karte (inkl. Fotos, Musik, Videos, Appdaten, usw.)</string>
+  <string name="files_backup_info">Alle Dateien auf der SD-Karte (inkl. Fotos, Musik, Videos, App-Daten, usw.)</string>
   <string name="findlost_contact">Kontakte wiederherstellen</string>
   <string name="findlost_contact_online">Kontakte aus Mi Cloud wiederherstellen</string>
   <string name="flash_drive_backup_btn">Sichern auf USB-Laufwerk</string>
@@ -297,7 +297,7 @@ Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie begi
   <string name="restore_launcher_layout_hit">Launchereinstellungen wiederherstellen</string>
   <string name="restore_progress">Wiederherstellen…</string>
   <string name="restore_report">Wiederherstellungsbericht</string>
-  <string name="restore_telephony_hit">Wiederherstellung startet die Telefonapp neu</string>
+  <string name="restore_telephony_hit">Wiederherstellung startet die Telefon-App neu</string>
   <string name="retry">Erneut versuchen</string>
   <string name="reverse_all">Alles löschen</string>
   <string name="router_backup_hint">Lassen Sie Ihr Gerät eingeschaltet</string>
@@ -339,7 +339,7 @@ Mindestens %s freigeben."</string>
   <string name="sms_title">Nachrichten</string>
   <string name="soft_ap_create_failed">Hotspot erstellen fehlgeschlagen</string>
   <string name="soft_ap_creating">Hotspot erstellen…</string>
-  <string name="software_backup_info">Appdaten</string>
+  <string name="software_backup_info">App-Daten</string>
   <string name="start_backup">Sichern</string>
   <string name="start_restore">Wiederherstellen</string>
   <string name="state_mounting">Zugriff auf Ihren Routerspeicher…</string>
@@ -403,8 +403,8 @@ Mindestens %s freigeben."</string>
   <string name="trans_connection_failed">Verbindung getrennt</string>
   <string name="trans_detail_app_apk_list_title">Installierte Apps</string>
   <string name="trans_detail_app_apk_page_title">Apps wählen</string>
-  <string name="trans_detail_app_data_list_title">Appdaten</string>
-  <string name="trans_detail_app_data_page_title">Appdaten wählen</string>
+  <string name="trans_detail_app_data_list_title">App-Daten</string>
+  <string name="trans_detail_app_data_page_title">App-Daten wählen</string>
   <string name="trans_detail_app_data_useless_tip">Sie können diese ohne Übertragung aus der App wiederherstellen.</string>
   <string name="trans_detail_audio_video_doc_list_title">Audio, Video und Dateien</string>
   <string name="trans_detail_audio_video_doc_page_title">Audio, Video und Dateien wählen</string>
@@ -412,7 +412,7 @@ Mindestens %s freigeben."</string>
   <string name="trans_detail_category_audio_video_doc">Audio, Video und Dateien</string>
   <string name="trans_detail_category_files">Dateien</string>
   <string name="trans_detail_category_sysdata">Systemdaten (einschließlich Nachrichten, Kontakte und Anrufliste)</string>
-  <string name="trans_detail_category_user_app_data">Appdaten</string>
+  <string name="trans_detail_category_user_app_data">App-Daten</string>
   <string name="trans_detail_category_wechat_qq">WeChat- und QQ-Daten (inkl. Chatverlauf)</string>
   <string name="trans_detail_item_app_data_selected_tip">Ausgewählte entsprechende Apps ebenso</string>
   <string name="trans_detail_item_app_data_too_large_tip">ieht so aus, als wäre das Element zu groß zum Übertragen.</string>
@@ -421,11 +421,11 @@ Mindestens %s freigeben."</string>
 3. WeChat- und QQ-App-Daten werden möglicherweise aus Kompatibilitätsgründen nicht übertragen. Sie können In-App-Transfer-Funktionen ausprobieren."</string>
   <string name="trans_detail_page_tip">Je mehr Elemente Sie wählen, desto länger dauert die Übertragung.</string>
   <string name="trans_detail_qq_data">QQ-Daten (inkl. Chatverlauf)</string>
-  <string name="trans_detail_sys_data_list_title">Systemapps</string>
-  <string name="trans_detail_sys_data_page_title">Systemapps wählen</string>
+  <string name="trans_detail_sys_data_list_title">System-Apps</string>
+  <string name="trans_detail_sys_data_page_title">System-Apps wählen</string>
   <string name="trans_detail_wechat_data">WeChat-Daten (inkl. Chatverlauf)</string>
   <string name="trans_detail_wechat_qq_list_title">WeChat und QQ</string>
-  <string name="trans_detail_wechat_qq_page_title">WeChat-, QQ- und Appdaten wählen</string>
+  <string name="trans_detail_wechat_qq_page_title">WeChat-, QQ- und App-Daten wählen</string>
   <string name="trans_device_auto_reconnecting">Verbindung abgebrochen. Automatisch erneut verbinden…</string>
   <string name="trans_device_disconnected">Verbindung wurde getrennt</string>
   <string name="trans_device_wait_for_reconnecting">Verbindung wurde getrennt. Erneut verbinden, um fortzufahren.</string>
@@ -447,9 +447,9 @@ Mindestens %s freigeben."</string>
   <string name="trans_intro_desc_4">Mi Mover verwendet WLAN, um Dateien zu übertragen. Daher können Sie sich während einer Übertragung auf keinem Gerät über WLAN mit dem Internet verbinden. Sie können jedoch weiterhin mobile Daten verwenden. Allerdings können sich einige neuere Geräte (z.B. Mi 6) während der Übertragung noch über WLAN mit dem Internet verbinden.</string>
   <string name="trans_intro_desc_4_market">Mi Mover verwendet WLAN, um Dateien zu übertragen. Daher können Sie sich während einer Übertragung auf keinem Gerät über WLAN mit dem Internet verbinden. Sie können jedoch weiterhin mobile Daten verwenden.</string>
   <string name="trans_intro_desc_5">Speicher auf alten Geräten wird für die Erstellung von Transferpaketen genutzt. Stellen Sie sicher, dass Sie mindestens 500 MB - 1 GB freier Speicher auf Ihrem alten Telefon haben, bevor Sie mit einer Übertragung beginnen.</string>
-  <string name="trans_intro_desc_6">Es gibt mehrere Gründe, warum das passieren kann: Kompatibilitätsprobleme mit System- und Appversionen, Netzwerkprobleme, Kompatibilitätsprobleme speziell für ein bestimmtes Gerät, etc.</string>
-  <string name="trans_intro_desc_7">Einige App-Profile (E-Banking, Finanzen, etc.) sind aus Sicherheitsgründen mit einem bestimmten Gerät verbunden. Versuchen Sie, die Appdaten zu löschen oder die App auf einem neuen Gerät neu zu installieren.</string>
-  <string name="trans_intro_desc_8">WeChat-Appdaten und Chatverlauf werden eventuell nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den WeChat-Einstellungen und melden Sie sich von Ihrem Konto ab, um mehr Chancen für eine erfolgreiche Übertragung zu erhalten.</string>
+  <string name="trans_intro_desc_6">Es gibt mehrere Gründe, warum das passieren kann: Kompatibilitätsprobleme mit System- und App-Versionen, Netzwerkprobleme, Kompatibilitätsprobleme speziell für ein bestimmtes Gerät, etc.</string>
+  <string name="trans_intro_desc_7">Einige App-Profile (E-Banking, Finanzen, etc.) sind aus Sicherheitsgründen mit einem bestimmten Gerät verbunden. Versuchen Sie, die App-Daten zu löschen oder die App auf einem neuen Gerät neu zu installieren.</string>
+  <string name="trans_intro_desc_8">WeChat-App-Daten und Chatverlauf werden eventuell nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den WeChat-Einstellungen und melden Sie sich von Ihrem Konto ab, um mehr Chancen für eine erfolgreiche Übertragung zu erhalten.</string>
   <string name="trans_intro_desc_9_method_1_dec">Gehen Sie zur Startseite &gt; Tools &gt; Feedback</string>
   <string name="trans_intro_desc_9_method_1_title">1. Teilen Sie Ihr Feedback mit der \"Feedback\"-App.</string>
   <string name="trans_intro_desc_9_method_2_dec">Senden Sie Ihr Feedback an miui-mover@xiaomi.com.</string>

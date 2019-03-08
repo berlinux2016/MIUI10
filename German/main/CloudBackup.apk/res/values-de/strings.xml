@@ -16,7 +16,7 @@
   <string name="backup_size">Größe: %s</string>
   <string name="backup_stopped_msg">Die aktuelle Sicherung überschreibt die vorherige. Tippen zum Anzeigen.</string>
   <string name="backup_stopped_title">Sicherung wurde gestoppt</string>
-  <string name="backup_success">Appsicherung erfolgreich</string>
+  <string name="backup_success">App-Sicherung erfolgreich</string>
   <string name="backup_successfully">Erfolgreich gesichert</string>
   <string name="backup_to_cloud">App sichern</string>
   <string name="btn_back">Zurück</string>
@@ -36,15 +36,15 @@
   <string name="cancel_recover_settings"><u>Abbrechen</u></string>
   <string name="cancel_restore_home">Abbrechen…</string>
   <string name="click_try_to_restore_again">Tippen, um erneut zu versuchen</string>
-  <string name="cloud_app_backup_success">Appsicherung abgeschlossen</string>
+  <string name="cloud_app_backup_success">App-Sicherung abgeschlossen</string>
   <string name="cloud_app_check_data">Mi Cloud wird verbunden…</string>
   <string name="cloud_app_current_device">Aktuelles Gerät</string>
   <string name="cloud_app_dont_restore">Nicht wiederherstellen</string>
-  <string name="cloud_app_no_data">Keine vorherigen Appinstallationen gefunden</string>
+  <string name="cloud_app_no_data">Keine vorherigen App-Installationen gefunden</string>
   <string name="cloud_app_no_network">Verbindung zum Netzwerk nicht möglich</string>
   <string name="cloud_app_other_devices">Andere Geräte</string>
   <string name="cloud_app_restore_app_and_data">Gerät einrichten</string>
-  <string name="cloud_app_restore_data">Persönliche Daten und vorherige Appinstallationen werden automatisch auf Ihrem Gerät wiederhergestellt</string>
+  <string name="cloud_app_restore_data">Persönliche Daten und vorherige App-Installationen werden automatisch auf Ihrem Gerät wiederhergestellt</string>
   <string name="cloud_app_restore_error">Wiederherstellen nicht möglich</string>
   <string name="cloud_app_restore_success">Apps wiederhergestellt</string>
   <string name="cloud_app_restore_wifi_prompt">Wiederherstellen aus einem Mi Cloud Backup</string>
@@ -142,8 +142,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="process_whole_recovery">Wiederherstellen \"%s\"</string>
   <string name="provision_error_connect_msg">Netzwerk testen und erneut versuchen. Sicherungen sind nicht verfügbar, wenn Ihr Gerät offline is.</string>
   <string name="provision_error_connect_title">Verbinden nicht möglich</string>
-  <string name="query_restore_description">Startbildschirmapps und Einstellungen aus dieser Sicherung wiederherstellen. Bereits vorhandene Apps werden dabei überschrieben. In der Sicherung nicht enthaltene Apps werden auf den letzten Startbildschirm verschoben.</string>
-  <string name="query_restore_summary">Mi Cloud Sicherung für dieses Gerät gefunden. Startbildschirmapps und Einstellungen aus der Sicherung wiederherstellen oder dieses Gerät als neu behandeln und ältere Sicherungen löschen?</string>
+  <string name="query_restore_description">Startbildschirm-Apps und Einstellungen aus dieser Sicherung wiederherstellen. Bereits vorhandene Apps werden dabei überschrieben. In der Sicherung nicht enthaltene Apps werden auf den letzten Startbildschirm verschoben.</string>
+  <string name="query_restore_summary">Mi Cloud Sicherung für dieses Gerät gefunden. Startbildschirm-Apps und Einstellungen aus der Sicherung wiederherstellen oder dieses Gerät als neu behandeln und ältere Sicherungen löschen?</string>
   <string name="recover_from_micloud">Wiederherstellen aus Mi Cloud</string>
   <string name="recover_home_settings">Startbildschirmeinstellungen wiederherstellen</string>
   <string name="recover_miui_settings">Systemeinstellungen wiederherstellen</string>
@@ -157,7 +157,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="restore_data_summary">Diese Funktion benötigt eine Internetverbindung</string>
   <string name="restore_data_title">Daten wiederherstellen</string>
   <string name="restore_finish_description">Wiederherstellung abgeschlossen</string>
-  <string name="restore_finished_notification_content">Startbildschirmapps, Systemeinstellungen, etc. wiederhergestellt</string>
+  <string name="restore_finished_notification_content">Startbildschirm-Apps, Systemeinstellungen, etc. wiederhergestellt</string>
   <string name="restore_from_cloud">Wiederherstellen mit Sicherung aus Mi Cloud</string>
   <string name="restore_from_this_device">Diese Sicherung wiederherstellen</string>
   <string name="restore_home_failed">Wiederherstellen des Startbildschirms fehlgeschlagen</string>
@@ -179,12 +179,12 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="size_unknown">Größe unbekannt</string>
   <string name="start_backup_to_micloud">Apps in Mi Cloud sichern</string>
   <string name="start_recover">%s wiederherstellen</string>
-  <string name="success_open_cloudbackup">Sicherung der Startbildschirmapps aktiviert</string>
+  <string name="success_open_cloudbackup">Sicherung der Startbildschirm-Apps aktiviert</string>
   <string name="title_alert_cancel_restore">Wiederherstellen stoppen</string>
   <string name="title_alert_restore_error">Wiederherstellen fehlgeschlagen</string>
   <string name="total_space">Gesamt: %s</string>
   <string name="try_again">Tippen, um erneut zu versuchen</string>
   <string name="try_continue">Tippen zum Fortfahren</string>
   <string name="unsupported_home">MIUI auf die neueste Version aktualisieren</string>
-  <string name="wait_icon_download">Appsymbol herunterladen</string>
+  <string name="wait_icon_download">App-Symbol herunterladen</string>
 </resources>

@@ -197,7 +197,7 @@
   <string name="capability_desc_canCaptureFingerprintGestures">"Kann Gesten einfangen, die ausgeführt werden auf dem "</string>
   <string name="capability_desc_canControlMagnification">Zoomstufe und Position des Displays einstellen</string>
   <string name="capability_desc_canPerformGestures">Tippen, wischen, kneifen und andere Gesten ausführen</string>
-  <string name="capability_desc_canRequestEnhancedWebAccessibility">Skripte können installiert werden, um den Zugriff auf Appinhalte zu erleichtern</string>
+  <string name="capability_desc_canRequestEnhancedWebAccessibility">Skripte können installiert werden, um den Zugriff auf App-Inhalte zu erleichtern</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Einschließlich personenbezogener Daten wie Kreditkartennummern und Passwörter</string>
   <string name="capability_desc_canRequestTouchExploration">Berührte Elemente werden laut vorgelesen und der Bildschirm kann über Gesten erkundet werden</string>
   <string name="capability_desc_canRetrieveWindowContent">Inhalte des Fensters, mit dem Sie interagieren, werden abgerufen</string>
@@ -403,7 +403,7 @@
   <string name="ext_media_unsupported_notification_title">%s nicht unterstützt</string>
   <string name="extract_edit_menu_button">Bearbeiten</string>
   <string name="faceunlock_multiple_failures">Maximale Face Unlock Versuche überschritten</string>
-  <string name="factory_reset_message">Adminapp kann nicht verwendet werden. Ihr Gerät wird nun gelöscht. Bei Fragen kontaktieren Sie Ihren Firmenamin.</string>
+  <string name="factory_reset_message">Admin-App kann nicht verwendet werden. Ihr Gerät wird nun gelöscht. Bei Fragen kontaktieren Sie Ihren Firmenamin.</string>
   <string name="factory_reset_warning">Ihr Gerät wird gelöscht</string>
   <string name="factorytest_failed">Funktionstest fehlgeschlagen</string>
   <string name="factorytest_no_action">Kein Paket mit der Aktion FACTORY_TEST gefunden</string>
@@ -522,7 +522,7 @@
   <string name="inputMethod">Eingabemethode</string>
   <string name="input_method_binding_label">Eingabemethode</string>
   <string name="install_carrier_app_notification_button">App herunterladen</string>
-  <string name="install_carrier_app_notification_text">Anbieterapp herunterladen, um Ihre neue SIM-Karte zu aktivieren</string>
+  <string name="install_carrier_app_notification_text">Anbieter-App herunterladen, um Ihre neue SIM-Karte zu aktivieren</string>
   <string name="install_carrier_app_notification_text_app_name">%1$s-App herunterladen, um Ihre neue SIM-Karte zu aktivieren</string>
   <string name="install_carrier_app_notification_title">Mobilservice aktivieren</string>
   <string name="invalidPin">Geben Sie eine PIN ein, die 4 bis 8 Zahlen enthält</string>
@@ -922,7 +922,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="permdesc_sdcardRead">Erlaubt der App, den USB-Speicher zu lesen</string>
   <string name="permdesc_sdcardWrite">Erlaubt der App, auf den USB-Speicher zu schreiben</string>
   <string name="permdesc_sendSms">Erlaubt der App, SMS zu senden. Dies kann zu unerwarteten Kosten führen. Schädliche Apps können Kosten verursachen, indem diese Nachrichten ohne Ihre Bestätigung senden.</string>
-  <string name="permdesc_setAlarm">Erlaubt der App, einen Alarm in einer installierten Weckerapp einzurichten. Einige Weckerapps implementieren diese Funktion möglicherweise nicht.</string>
+  <string name="permdesc_setAlarm">Erlaubt der App, einen Alarm in einer installierten Wecker-App einzurichten. Einige Wecker-Apps implementieren diese Funktion möglicherweise nicht.</string>
   <string name="permdesc_setInputCalibration">Erlaubt der App, die Kalibrierungsparameter des Touchscreens zu ändern. Für normale Apps sollte dies nie erforderlich sein.</string>
   <string name="permdesc_setTimeZone">Erlaubt der App, die Zeitzone des Telefons zu ändern</string>
   <string name="permdesc_setWallpaper">Erlaubt der App, den Hintergrund des Systems festzulegen</string>
@@ -1113,7 +1113,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
   <string name="pin_target">PIN</string>
   <string name="policydesc_disableCamera">Nutzung sämtlicher Gerätekameras verhindern</string>
   <string name="policydesc_disableKeyguardFeatures">Verwendung einiger Bildschirmsperrfunktionen verhindern</string>
-  <string name="policydesc_encryptedStorage">Anforderung, dass gespeicherte Appdaten verschlüsselt werden</string>
+  <string name="policydesc_encryptedStorage">Anforderung, dass gespeicherte App-Daten verschlüsselt werden</string>
   <string name="policydesc_expirePassword">Festlegen, wie häufig das Passwort/die PIN/das Muster für die Bildschirmsperre geändert werden muss</string>
   <string name="policydesc_forceLock">Festlegen, wie und wann der Bildschirm gesperrt wird</string>
   <string name="policydesc_limitPassword">Zulässige Länge und Zeichen der Passwörter/PINs für die Bildschirmsperre festlegen</string>
@@ -1383,7 +1383,7 @@ Lang andauerndess Anhören mit hoher Lautstärke kann Ihr Gehör schädigen."</s
   <string name="unknownName">(Unbekannt)</string>
   <string name="unpin_target">Lösen</string>
   <string name="unsupported_compile_sdk_check_update">Nach Updates suchen</string>
-  <string name="unsupported_compile_sdk_message">%1$s wurde für eine inkompatible Version des Android OS entwickelt und kann sich unerwartet verhalten. Eine aktualisierte Appversion kann verfügbar sein</string>
+  <string name="unsupported_compile_sdk_message">%1$s wurde für eine inkompatible Version des Android OS entwickelt und kann sich unerwartet verhalten. Eine aktualisierte App-Version kann verfügbar sein</string>
   <string name="unsupported_compile_sdk_show">Immer anzeigen</string>
   <string name="unsupported_display_size_message">%1$s unterstützt die aktuelle Einstellung der Displaygröße nicht und kann sich unerwartet verhalten</string>
   <string name="unsupported_display_size_show">Immer anzeigen</string>
@@ -1477,9 +1477,9 @@ Möchten Sie sie schließen?"</string>
   <string name="whichEditApplication">Bearbeiten mit</string>
   <string name="whichEditApplicationLabel">Bearbeiten</string>
   <string name="whichEditApplicationNamed">Mit %1$s bearbeiten</string>
-  <string name="whichHomeApplication">Startapp auswählen</string>
+  <string name="whichHomeApplication">Start-App auswählen</string>
   <string name="whichHomeApplicationLabel">Bild aufnehmen</string>
-  <string name="whichHomeApplicationNamed">%1$s als Startapp verwenden</string>
+  <string name="whichHomeApplicationNamed">%1$s als Start-App verwenden</string>
   <string name="whichImageCaptureApplication">Bild aufnehmen mit</string>
   <string name="whichImageCaptureApplicationLabel">Bild aufnehmen</string>
   <string name="whichImageCaptureApplicationNamed">Bild mit %1$s aufnehmen</string>
@@ -1532,7 +1532,7 @@ Möchten Sie sie schließen?"</string>
   <string name="work_profile_deleted">Arbeitsprofil gelöscht</string>
   <string name="work_profile_deleted_description">Arbeitsprofil aufgrund fehlender Adminapp gelöscht</string>
   <string name="work_profile_deleted_description_dpm_wipe">Arbeitsprofil ist auf diesem Geräte nicht mehr verfügbar</string>
-  <string name="work_profile_deleted_details">Arbeitsprofiladminapp fehlt oder ist beschädigt. Deswegen wurden Ihr Arbeitsprofil und die zugehörigen Daten gelöscht. Kontaktieren Sie Ihren Administrator für Hilfe.</string>
+  <string name="work_profile_deleted_details">Arbeitsprofiladmin-App fehlt oder ist beschädigt. Deswegen wurden Ihr Arbeitsprofil und die zugehörigen Daten gelöscht. Kontaktieren Sie Ihren Administrator für Hilfe.</string>
   <string name="work_profile_deleted_reason_maximum_password_failure">Zu viele Passwortversuche</string>
   <string name="write_fail_reason_cancelled">Abgebrochen</string>
   <string name="write_fail_reason_cannot_write">Fehler beim Schreiben von Inhalten</string>

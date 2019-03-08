@@ -186,10 +186,10 @@ Abtastrate"</string>
   <string name="category_work">Arbeit</string>
   <string name="change_default_dialer_dialog_affirmative">Standard setzen</string>
   <string name="change_default_dialer_dialog_negative">Abbrechen</string>
-  <string name="change_default_dialer_dialog_title">Standardtelefonapp ändern? (%s)</string>
-  <string name="change_default_dialer_no_previous_app_set_text">%s als Standardtelefonapp nutzen?</string>
-  <string name="change_default_dialer_warning_message">%s wird in der Lage sein, alle Aspekte von Anrufen zu platzieren und zu kontrollieren. Nur Apps, denen Sie vertrauen, sollten als Standard-Telefonapp festgelegt werden.</string>
-  <string name="change_default_dialer_with_previous_app_set_text">%1$s statt %2$s als Standardtelefonapp nutzen?</string>
+  <string name="change_default_dialer_dialog_title">Standardtelefon-App ändern? (%s)</string>
+  <string name="change_default_dialer_no_previous_app_set_text">%s als Standardtelefon-App nutzen?</string>
+  <string name="change_default_dialer_warning_message">%s wird in der Lage sein, alle Aspekte von Anrufen zu platzieren und zu kontrollieren. Nur Apps, denen Sie vertrauen, sollten als Standardtelefon-App festgelegt werden.</string>
+  <string name="change_default_dialer_with_previous_app_set_text">%1$s statt %2$s als Standardtelefon-App nutzen?</string>
   <string name="charge_length_format">Vor %1$s</string>
   <string name="choose_profile">Wähle ein Profil</string>
   <string name="clear_adb_keys">Widerrufe USB-Debugging-Genehmigungen</string>
@@ -218,8 +218,8 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="data_usage_uninstalled_apps">Gelöschte Apps</string>
   <string name="data_usage_uninstalled_apps_users">Gelöschte Apps und Benutzer</string>
   <string name="debug_app">Wähle Debug App</string>
-  <string name="debug_app_not_set">Keine Debug App gesetzt</string>
-  <string name="debug_app_set">Debugging App: %1$s</string>
+  <string name="debug_app_not_set">Keine Debug-App gesetzt</string>
+  <string name="debug_app_set">Debugging-App: %1$s</string>
   <string name="debug_applications_category">Apps</string>
   <string name="debug_debugging_category">Debugging</string>
   <string name="debug_drawing_category">Zeichnen</string>
@@ -240,7 +240,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="dev_settings_warning_title">Entwickleroptionen erlauben?</string>
   <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar</string>
-  <string name="development_settings_summary">Optionen zur Appentwicklung einstellen</string>
+  <string name="development_settings_summary">Optionen zur App-Entwicklung einstellen</string>
   <string name="development_settings_title">Entwickleroptionen</string>
   <string name="dial_conference_fail_prompt">Telefonkonferenz kann nicht direkt einrichtet werden. Das aktuelle Netzwerk unterstützt VoLTE nicht.</string>
   <string name="dial_vt_fail_prompt">Das aktuelle Netzwerk unterstützt VoLTE nicht. Standardtelefonie verwenden?</string>
@@ -259,7 +259,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="enable_gpu_debug_layers">GPU Debug-Ebenen aktivieren</string>
   <string name="enable_gpu_debug_layers_summary">Laden von GPU Debug-Ebenen für Debug-Apps erlauben</string>
   <string name="enable_opengl_traces_title">OpenGL Traces aktivieren</string>
-  <string name="enable_terminal_summary">Terminalapp aktivieren, die lokalen Shell-Zugang bietet</string>
+  <string name="enable_terminal_summary">Terminal-App aktivieren, die lokalen Shell-Zugang bietet</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_webview_multiprocess">Multiprozess-WebView</string>
   <string name="enable_webview_multiprocess_desc">WebView-Renderer separat ausführen</string>
@@ -314,9 +314,9 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="media_category">Medien</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Mobile Daten immer aktiv halten, auch wenn WLAN aktiv ist (zur schnellen Netzwerkumschaltung)</string>
-  <string name="mock_location_app">Pseudo-Standortapp wählen</string>
-  <string name="mock_location_app_not_set">Keine Pseudo-Standortapp gesetzt</string>
-  <string name="mock_location_app_set">Pseudo-Standortapp: %1$s</string>
+  <string name="mock_location_app">Pseudo-Standort-App wählen</string>
+  <string name="mock_location_app_not_set">Keine Pseudo-Standort-App gesetzt</string>
+  <string name="mock_location_app_set">Pseudo-Standort-App: %1$s</string>
   <string name="no_application">Keine</string>
   <string name="no_vm_number">Fehlende Mailboxnummer</string>
   <string name="no_vm_number_msg">Auf der SIM-Karte ist keine Mailboxnummer gespeichert</string>
@@ -422,7 +422,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="select_webview_provider_title">WebView-Implementierung</string>
   <string name="select_webview_provider_toast_text">Diese Auswahl ist nicht länger gültig. Erneut versuchen.</string>
   <string name="show_all_anrs">Alle ANRs anzeigen</string>
-  <string name="show_all_anrs_summary">Dialogfeld \'App antwortet nicht\' für Hintergrundapps anzeigen</string>
+  <string name="show_all_anrs_summary">Dialogfeld \'App antwortet nicht\' für Hintergrund-Apps anzeigen</string>
   <string name="show_cpu_usage">CPU-Auslastung anzeigen</string>
   <string name="show_cpu_usage_summary">Bildschirmüberlagerung mit Anzeige der aktuellen CPU-Auslastung</string>
   <string name="show_hw_layers_updates">Hardwareebenen-Updates anzeigen</string>
@@ -443,7 +443,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="speed_label_slow">Langsam</string>
   <string name="speed_label_very_fast">Sehr schnell</string>
   <string name="speed_label_very_slow">Sehr langsam</string>
-  <string name="standby_bucket_summary">Status Appstandby: %s</string>
+  <string name="standby_bucket_summary">Status App-Standby: %s</string>
   <string name="status_unavailable">Nicht verfügbar</string>
   <string name="strict_mode">Strikter Modus aktiviert</string>
   <string name="strict_mode_summary">Bei längeren Aktionen im Hauptthread Bildschirm kurz einblenden</string>
@@ -469,7 +469,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="time_unit_just_now">Gerade eben</string>
   <string name="title_convert_fbe">Zu dateibasierter Verschlüsselung konvertieren</string>
   <string name="toast_make_video_call_failed">Videoanruf nicht möglich, falsches Nummernformat</string>
-  <string name="toast_personal_call_msg">Persönliche Telefonapp wählen zum Anrufen</string>
+  <string name="toast_personal_call_msg">Persönliche Telefon-App wählen zum Anrufen</string>
   <string name="track_frame_time">Profil GPU-Rendering</string>
   <string name="transition_animation_scale_title">Skala Übergangsanimation</string>
   <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
@@ -518,7 +518,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
   <string name="voice_report_unknown_num">Unbekannte Nummer</string>
   <string name="vpn_settings_not_available">VPN Einstellungen sind für diesen Benutzer nicht vorhanden</string>
   <string name="wait_for_debugger">Warte auf Debugger</string>
-  <string name="wait_for_debugger_summary">Debugged App wartet darauf, dass der Debugger angehängt wird, bevor er ausgeführt wird</string>
+  <string name="wait_for_debugger_summary">Debugged-App wartet darauf, dass der Debugger angehängt wird, bevor er ausgeführt wird</string>
   <string name="wapi_all_sel_mode">Modus wählen</string>
   <string name="wapi_auto_sel_cert_fail">Zertifikat kann nicht automatisch ausgewählt werden. Bitte wählen Sie ein Zertifikat aus der Liste aus und versuchen Sie dann, eine Verbindung herzustellen.</string>
   <string name="wapi_cert_is_not_exist">Kein Zertifikat vorhanden, bitte zuerst das Zertifikat installieren</string>

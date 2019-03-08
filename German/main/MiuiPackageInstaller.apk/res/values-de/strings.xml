@@ -55,7 +55,7 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="app_not_found_dlg_title">App nicht gefunden</string>
   <string name="app_permissions">Appberechtigungen</string>
   <string name="app_permissions_breadcrumb">Apps</string>
-  <string name="app_permissions_decor_title">Appberechtigungen</string>
+  <string name="app_permissions_decor_title">App-Berechtigungen</string>
   <string name="app_permissions_group_summary">%1$d von %2$d Apps sind berechtigt</string>
   <string name="app_process_limit_title">Prozessbegrenzung im Hintergrund</string>
   <string name="app_store_install_hint">Jetzt installieren</string>
@@ -206,7 +206,7 @@ Drücken Sie "Löschen und Konvertieren" zum fortsetzen."</string>
   <string name="dev_settings_warning_title">Entwicklungseinstellungen zulassen?</string>
   <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
   <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar</string>
-  <string name="development_settings_summary">Optionen für Appentwicklung einstellen</string>
+  <string name="development_settings_summary">Optionen für App-Entwicklung einstellen</string>
   <string name="development_settings_title">Optionen für Entwickler</string>
   <string name="devicePerms">Gerätezugriff</string>
   <string name="disable_overlays">HW-Overlays deaktivieren</string>
@@ -221,7 +221,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="dlg_msg_unoffical">Kann Systemapps nicht von inoffiziellen Kanälen aus installieren.</string>
   <string name="dlg_msg_unoffical_ok">OK</string>
   <string name="dlg_ok">OK</string>
-  <string name="dlg_sys_app_replacement_statement">"Dies ist eine Systemapp.
+  <string name="dlg_sys_app_replacement_statement">"Dies ist eine System-App.
 Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="done">Fertig</string>
   <string name="enable_adb">USB-Debugging</string>
@@ -229,7 +229,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="enable_freeform_support">Freiformfenster aktivieren</string>
   <string name="enable_freeform_support_summary">Unterstützung für experimentelle Freiformfenster aktivieren</string>
   <string name="enable_opengl_traces_title">OpenGL-Traces aktivieren</string>
-  <string name="enable_terminal_summary">Terminalapp aktivieren, die lokalen Shell-Zugriff bietet</string>
+  <string name="enable_terminal_summary">Terminal-App aktivieren, die lokalen Shell-Zugriff bietet</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_webview_multiprocess">Multiprozess WebView</string>
   <string name="enable_webview_multiprocess_desc">Starte WebView Renderer separat</string>
@@ -341,15 +341,15 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="low_risk_perms">Berechtigungen mit geringem Risiko</string>
   <string name="manage_applications">Apps verwalten</string>
   <string name="manage_device_administrators">Geräteadministratoren verwalten</string>
-  <string name="manage_permissions_decor_title">Appberechtigungen</string>
+  <string name="manage_permissions_decor_title">App-Berechtigungen</string>
   <string name="manage_users">Benutzer verwalten</string>
   <string name="managed_user_title">Alle Apps</string>
   <string name="media_category">Medien</string>
   <string name="menu_hide_system">System ausblenden</string>
   <string name="menu_show_system">System anzeigen</string>
-  <string name="message_appstore_verify_has_new_version">Eine neue Appversion ist in unserem App Store verfügbar, wollen Sie diese installieren?</string>
+  <string name="message_appstore_verify_has_new_version">Eine neue App-Version ist in unserem App Store verfügbar, wollen Sie diese installieren?</string>
   <string name="message_appstore_verify_inconsistent">Die Signatur dieser App unterscheidet sich von der Signatur im App Store. Es ist sicherer, die App von dort zu installieren.</string>
-  <string name="message_appstore_verify_ok">Diese Appversion hat unsere Sicherheitstests bestanden. Wir raten Ihnen, die App aus unserem App Store zu installieren.</string>
+  <string name="message_appstore_verify_ok">Diese App-Version hat unsere Sicherheitstests bestanden. Wir raten Ihnen, die App aus unserem App Store zu installieren.</string>
   <string name="message_full_scanning">Vollständiger Scan…</string>
   <string name="message_install_in_market">Wir raten Ihnen, die App aus unserem App Store zu installieren</string>
   <string name="message_quick_scanning">Schnellscan…</string>
@@ -373,7 +373,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="miui_failed_parse">Fehler beim Lesen des Installationspakets</string>
   <string name="miui_failed_permission_model_downgrade">Berechtigungen können nicht heruntergesetzt werden</string>
   <string name="miui_failed_system_incompatible">Das Installationspaket ist nicht kompatibel</string>
-  <string name="miui_failed_update_incompatible">Konflikt bei der Appsignatur</string>
+  <string name="miui_failed_update_incompatible">Konflikt bei der App-Signatur</string>
   <string name="miui_failed_version_downgrade">Downgrade von Apps nicht möglich</string>
   <string name="miui_failed_version_downgrade_space">Es existiert eine neuere Version im Zweitprofil. Deinstallieren Sie die App im Zweitprofil und installieren Sie diese hier.</string>
   <string name="miui_help_feedback_label">Hilfe &amp; Feedback</string>
@@ -393,14 +393,14 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="miui_message_staging_2">"Richte App aus.. "</string>
   <string name="miui_message_staging_3">Richte App aus...</string>
   <string name="miui_no_perms">Keine Berechtigungen erforderlich</string>
-  <string name="miui_not_uninstall_system_app">Kann Systemapps nicht deinstallieren</string>
+  <string name="miui_not_uninstall_system_app">Kann System-Apps nicht deinstallieren</string>
   <string name="miui_other_relative">Andere</string>
   <string name="miui_permission_detail">Berechtigungen</string>
   <string name="miui_permission_manage_title">%s Details</string>
   <string name="miui_please_clear">Viren löschen</string>
   <string name="miui_privacy_relative">Datenschutz</string>
-  <string name="miui_recommend_clean">Auch die Appdaten löschen</string>
-  <string name="miui_recommend_clean_msg">Appdaten beinhalten Downloads, Dateien, etc</string>
+  <string name="miui_recommend_clean">Auch die App-Daten löschen</string>
+  <string name="miui_recommend_clean_msg">App-Daten beinhalten Downloads, Dateien, etc</string>
   <string name="miui_security_relative">Sicherheit</string>
   <string name="miui_solution_clean">Datenmüll bereinigen</string>
   <string name="miui_solution_msg">Lösung</string>
@@ -416,9 +416,9 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="miui_virus_title">Hohes Risiko</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Halten Sie mobile Daten immer aktiv, auch wenn WiFi aktiv ist (für schnelle Netzwerkumschaltung)</string>
-  <string name="mock_location_app">Standortapp auswählen</string>
-  <string name="mock_location_app_not_set">Keine Standortapp festgelegt</string>
-  <string name="mock_location_app_set">Standortapp: %1$s</string>
+  <string name="mock_location_app">App für simulierte Standortinfo auswählen</string>
+  <string name="mock_location_app_not_set">Keine App für simulierte Standortinfo ausgewählt</string>
+  <string name="mock_location_app_set">App für simulierte Standortinfo: %1$s</string>
   <string name="never_ask_again">Nicht mehr fragen</string>
   <string name="newPerms">Neu</string>
   <string name="new_permissions_category">Neue Berechtigungen</string>
@@ -433,7 +433,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="ok">OK</string>
   <string name="old_sdk_deny_warning">Diese App wurde für eine ältere Version von Android konzipiert. Wenn Sie keine Berechtigung erteilen, funktioniert die App möglicherweise nicht mehr ordnungsgemäß.</string>
   <string name="orb_search_action">Suchaktion</string>
-  <string name="other_permissions">Andere Appfunktionen</string>
+  <string name="other_permissions">Andere App-Funktionen</string>
   <string name="other_relative">Andere</string>
   <string name="out_of_space_dlg_text">%1$s konnte nicht installiert werden. Geben Sie Speicherplatz frei und versuchen Sie es erneut.</string>
   <string name="out_of_space_dlg_title">Kein freier Speicher vorhanden</string>
@@ -454,7 +454,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="perm_privacy_app_trust_summary">Berechtigung anfragen, wenn diese App versucht, auf andere Teile des Systems zuzugreifen</string>
   <string name="perm_sysopt_boost_auto_start">Autostartberechtigung</string>
   <string name="perm_sysopt_boost_auto_start_summary">Diese App kann automatisch starten</string>
-  <string name="permdesc_togglePermissions">Ermöglicht dem Inhaber, die Benutzeroberfläche für das Umschalten von Appberechtigungen zu starten. Sollte für normale Apps nie benötigt werden.</string>
+  <string name="permdesc_togglePermissions">Ermöglicht dem Inhaber, die Benutzeroberfläche für das Umschalten von App-Berechtigungen zu starten. Sollte für normale Apps nie benötigt werden.</string>
   <string name="permission_action_accept">Erlauben</string>
   <string name="permission_action_prompt">Anzeigen</string>
   <string name="permission_action_reject">Verbieten</string>
@@ -489,7 +489,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="pref_ads">Empfohlene Information</string>
   <string name="pref_key_antivirus">Antivirus</string>
   <string name="pref_key_antivirus_summary"></string>
-  <string name="preference_show_system_apps">Systemapps anzeigen</string>
+  <string name="preference_show_system_apps">System-Apps anzeigen</string>
   <string name="privacyPerms">Datenschutz</string>
   <string name="privacy_relative">Datenschutz</string>
   <string name="process_kernel_label">Android OS</string>
@@ -529,7 +529,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="select_webview_provider_toast_text">Diese Wahl ist nicht mehr gültig. Nochmal versuchen.</string>
   <string name="settings">Einstellungen</string>
   <string name="show_all_anrs">Zeige alle ANRs</string>
-  <string name="show_all_anrs_summary">"Zeige Dialogfeld 'App antwortet nicht' für Hintergrundapps"</string>
+  <string name="show_all_anrs_summary">"Zeige Dialogfeld 'App antwortet nicht' für Hintergrund-Apps"</string>
   <string name="show_cpu_usage">CPU-Nutzung anzeigen</string>
   <string name="show_cpu_usage_summary">Bildschirmüberlagerung mit Anzeige der aktuellen CPU-Auslastung</string>
   <string name="show_hw_layers_updates">Hardware-Layer-Updates anzeigen</string>
