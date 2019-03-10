@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="accessibility_recent_task_enter">
-    <item quantity="other">Kürzlich geöffnet,  verfügbare Apps: %d</item>
+    <item quantity="other">Kürzlich geöffnet, verfügbare Apps: %d</item>
     <item quantity="one">Kürzlich geöffnet, verfügbare App: %d</item>
   </plurals>
   <plurals name="accessibility_recent_task_first_enter_tips">
-    <item quantity="other">Kürzlich geöffnet,  verfügbare Apps: %d. Nach oben wischen zum Entfernen, nach unten wischen zum Sperren.</item>
+    <item quantity="other">Kürzlich geöffnet, verfügbare Apps: %d. Nach oben wischen zum Entfernen, nach unten wischen zum Sperren.</item>
     <item quantity="one">Kürzlich geöffnet, verfügbare App: %d. Nach oben wischen zum Entfernen, nach unten wischen zum Sperren.</item>
   </plurals>
   <plurals name="aod_dual_togother_city">
-    <item quantity="other">" %1$sStd %2$s"</item>
-    <item quantity="one">" %1$sStd %2$s"</item>
+    <item quantity="other">" %1$s Std %2$s"</item>
+    <item quantity="one">" %1$s Std %2$s"</item>
   </plurals>
   <plurals name="block_record_notification_more_text">
-    <item quantity="other">Ausblenden von Benachrichtigungen aus %1$s &amp; %2$d Apps</item>
-    <item quantity="one">Ausblenden der Benachrichtigung aus %1$s &amp; %2$d App</item>
+    <item quantity="other">Benachrichtigungen von %1$s &amp; %2$d Apps ausblenden</item>
+    <item quantity="one">Benachrichtigungen von %1$s &amp; %2$d App ausblenden</item>
   </plurals>
   <plurals name="disable_notification_confirm_title">
-    <item quantity="other">"Verberge %d App-Benachrichtigungen?"</item>
-    <item quantity="one">"Verberge Benachrichtigungen dieser App?"</item>
+    <item quantity="other">%d App-Benachrichtigungen verbergen?</item>
+    <item quantity="one">Benachrichtigungen dieser App verbergen?</item>
   </plurals>
   <plurals name="fold_tips_title">
     <item quantity="other">%d unwichtige Benachrichtigungen</item>
@@ -65,19 +65,19 @@
     <item quantity="one">%1$d Std %2$d Min</item>
   </plurals>
   <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-    <item quantity="other">Bleiben %d Std</item>
-    <item quantity="one">Bleibt %d Std</item>
+    <item quantity="other">%d Std bleiben</item>
+    <item quantity="one">%d Std bleibt</item>
   </plurals>
   <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-    <item quantity="other">Bleiben %d Min</item>
-    <item quantity="one">Bleibt %d Min</item>
+    <item quantity="other">%d Min bleiben</item>
+    <item quantity="one">%d Min bleibt</item>
   </plurals>
   <plurals name="keyguard_extreme_power_info_could_use_time_text">
-    <item quantity="other">Bleiben %1$d Std %2$d Min</item>
-    <item quantity="one">Bleiben %1$d Std %2$d Min</item>
+    <item quantity="other">%1$d Std %2$d Min bleiben</item>
+    <item quantity="one">%1$d Std %2$d Min bleibt</item>
   </plurals>
   <plurals name="kg_password_default_pin_message">
-    <item quantity="other">SIM PIN eingeben, Sie haben noch %d Versuche</item>
+    <item quantity="other">SIM PIN eingeben. Sie haben noch %d Versuche.</item>
     <item quantity="one">SIM PIN eingeben. Sie haben noch %d Versuch, bevor Sie Ihren Netzbetreiber kontaktieren müssen, um Ihr Gerät zu entsperren.</item>
   </plurals>
   <plurals name="kg_password_default_puk_message">
@@ -93,16 +93,16 @@
     <item quantity="one">Falscher SIM PIN Code. Sie haben noch %d Versuch, bevor die SIM-Karte dauerhaft unbrauchbar wird.</item>
   </plurals>
   <plurals name="kg_prompt_reason_time_password">
-    <item quantity="other">Gerät wurde für %d Stunden nicht entsperrt. Passwort bestätigen.</item>
-    <item quantity="one">Gerät wurde für %d Stunde nicht entsperrt. Passwort bestätigen.</item>
+    <item quantity="other">Gerät wurde für %d Std nicht entsperrt. Passwort bestätigen.</item>
+    <item quantity="one">Gerät wurde für %d Std nicht entsperrt. Passwort bestätigen.</item>
   </plurals>
   <plurals name="kg_prompt_reason_time_pattern">
-    <item quantity="other">Gerät wurde für %d Stunden nicht entsperrt. Muster bestätigen.</item>
-    <item quantity="one">Gerät wurde für %d Stunde nicht entsperrt. Muster bestätigen.</item>
+    <item quantity="other">Gerät wurde für %d Std nicht entsperrt. Muster bestätigen.</item>
+    <item quantity="one">Gerät wurde für %d Std nicht entsperrt. Muster bestätigen.</item>
   </plurals>
   <plurals name="kg_prompt_reason_time_pin">
-    <item quantity="other">Gerät wurde für %d Stunden nicht entsperrt. PIN bestätigen.</item>
-    <item quantity="one">Gerät wurde für %d Stunde nicht entsperrt. PIN bestätigen.</item>
+    <item quantity="other">Gerät wurde für %d Std nicht entsperrt. PIN bestätigen.</item>
+    <item quantity="one">Gerät wurde für %d Std nicht entsperrt. PIN bestätigen.</item>
   </plurals>
   <plurals name="new_notifications_msg">
     <item quantity="other">%d neue Benachrichtigungen</item>
@@ -113,8 +113,8 @@
     <item quantity="one">%1$s, %2$s, und %3$d andere</item>
   </plurals>
   <plurals name="notification_group_overflow_description">
-    <item quantity="other">%s Benachrichtigungen mehr enthalten</item>
-    <item quantity="one">%s Benachrichtigung mehr enthalten</item>
+    <item quantity="other">%s weitere Benachrichtigungen enthalten</item>
+    <item quantity="one">%s weitere Benachrichtigung enthalten</item>
   </plurals>
   <plurals name="notification_num_channels">
     <item quantity="other">%d Benachrichtigungskategorien</item>
@@ -141,8 +141,8 @@
     <item quantity="one">1 Bildschirm im Überblick</item>
   </plurals>
   <plurals name="view_realtime_clear">
-    <item quantity="other">Klar</item>
-    <item quantity="one">Klar</item>
+    <item quantity="other">Löschen</item>
+    <item quantity="one">Löschen</item>
   </plurals>
   <plurals name="wifi_tether_connected_summary">
     <item quantity="other">%1$d Geräte verbunden</item>
