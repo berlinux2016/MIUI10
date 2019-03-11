@@ -1,4 +1,4 @@
-{
+﻿{
 	"music_browser_label": "Musik",
 	"unknown_artist_name": "Unbekannter Künstler",
 	"unknown_album_name": "Unbekanntes Album",
@@ -27,7 +27,7 @@
 	"impunity_declaration_content5": ".",
 	"impunity_declaration_ignore": "\"Nicht noch einmal zeigen\"",
 	"impunity_declaration_settings": "Zeige Nutzungsbedingungen",
-	"impunity_declaration_summary": "Immer Nutzungsbedingungenpopup anzeigen für Baidu Online Music Service, wenn die Musikapp geöffnet wird",
+	"impunity_declaration_summary": "Immer Nutzungsbedingungenpopup anzeigen für Baidu Online Music Service, wenn die Musik-App geöffnet wird",
 	"impunity_declaration_positive_text": "Zustimmen",
 	"impunity_declaration_negative_text": "Beenden",
 	"take_effect_afater_restart": "Sie müssen die App neu starten, damit diese Einstellung wirksam wird.",
@@ -381,8 +381,8 @@
 	"only_online_can_select_quality": "Sie können die Qualität nur für die Musik auswählen, die Sie streamen.",
 	"upgrade_remind": "Aktualisierung vorhanden",
 	"service_stop": "Dienst eingestellt",
-	"upgrade_suggest": "Wir unterbrechen unseren aktuellen Streamingdienst, während wir urheberrechtliche Fragen klären. Aktualisieren Sie auf die aktuellste Version der Musikapp, um qualitativ hochwertige Musik zu hören.",
-	"upgrade_force": "Wir unterbrechen unseren aktuellen Streamingdienst, während wir urheberrechtliche Fragen klären. Aktualisieren Sie auf die aktuellste Version der Musikapp, um qualitativ hochwertige Musik zu hören.",
+	"upgrade_suggest": "Wir unterbrechen unseren aktuellen Streamingdienst, während wir urheberrechtliche Fragen klären. Aktualisieren Sie auf die aktuellste Version der Musik-App, um qualitativ hochwertige Musik zu hören.",
+	"upgrade_force": "Wir unterbrechen unseren aktuellen Streamingdienst, während wir urheberrechtliche Fragen klären. Aktualisieren Sie auf die aktuellste Version der Musik-App, um qualitativ hochwertige Musik zu hören.",
 	"upgrade_nobeta": "Wir unterbrechen unseren aktuellen Streamingdienst, während wir urheberrechtliche Fragen klären. Entschuldigen Sie die Unannehmlichkeiten :&amp;&amp;#35;40;",
 	"upgrade_waringing": "Sie werden nur in der Lage sein, offline gespeicherte Musik zu hören.",
 	"upgrade_immediate": "Jetzt aktualisieren",
