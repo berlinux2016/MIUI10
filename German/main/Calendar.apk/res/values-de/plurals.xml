@@ -135,6 +135,14 @@
     <item quantity="other">Alle %d Jahre</item>
     <item quantity="one">Jedes %d Jahr</item>
   </plurals>
+  <plurals name="repeat_custom_prompt">
+    <item quantity="other">Alle %1$s am %2$s</item>
+    <item quantity="one">Jeden %1$s am %2$s</item>
+  </plurals>
+  <plurals name="travel_eta_advice">
+    <item quantity="other">%2$s Autominuten nach %1$s.</item>
+    <item quantity="one">%2$s Autominute nach %1$s.</item>
+  </plurals>
   <plurals name="repeat_interval_frequency_day_multiple">
     <item quantity="other">%1$d Tage</item>
     <item quantity="one">%1$d Tag</item>
