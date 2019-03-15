@@ -1144,6 +1144,15 @@ Abtastrate"</string>
   <string name="brightness_auto_adjust_on">Bildschirmhelligkeit wird an die Lichtverhältnisse angepasst</string>
   <string name="brightness_summary">Bildschirmhelligkeit anpassen</string>
   <string name="brightness_title">Helligkeit</string>
+  <string name="bt_aac_dialog_summary">"Das aktuelle Gerät unterstützt den AAC-Codec. AAC kann jedoch aufgrund von Kompatibilitätsproblemen den Sound nicht wiedergeben. Ihr Gerät hat automatisch auf SBC-Codec umgeschaltet.
+Sie können dies in den Einstellungen ändern."</string>
+  <string name="bt_aac_dialog_title">Bluetooth-Verbindung</string>
+  <string name="bt_aac_open_dialog_summary">"AAC kann aufgrund von Kompatibilitätsproblemen den Sound möglicherweise nicht wiedergeben.
+Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte ausschalten."</string>
+  <string name="bt_aac_open_dialog_title">Umschalten auf AAC-Codec</string>
+  <string name="bt_aac_pre_title">AAC</string>
+  <string name="bt_dialog_remember_choice">Auswahl speichern</string>
+  <string name="bt_dialog_settings">Einstellungen</string>
   <string name="bt_hci_snoop_log">Bluetooth HCI Snoop Log einschalten</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth-HCI-Pakete in einer Datei erfassen (Bluetooth umschalten nach Änderung dieser Einstellung)</string>
   <string name="bt_ldac_declaration">Wenn ein Bluetooth-Gerät LDAC unterstützt, wird es standardmäßig verbunden. LDAC bietet ein hochwertiges Audioerlebnis, erhöht aber auch den Stromverbrauch. Während der Wiedergabe kann es aufgrund von Einschränkungen der Bluetooth-Hardware zu Problemen kommen.</string>
@@ -1156,6 +1165,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="bt_ldac_property">Eigenschaften</string>
   <string name="bt_ldac_remember_choice">Auswahl merken</string>
   <string name="bt_ldac_settings">Einstellungen</string>
+  <string name="bt_pre_summary">Bietet ein hochwertiges Audioerlebnis</string>
   <string name="bt_rarely_used_device_title">Selten verwendete Geräte (%d)</string>
   <string name="bt_trace_log">Bluetooth-Tracelog einschalten</string>
   <string name="bt_trace_log_summary">Bluetooth-Tracelog einschalten</string>
