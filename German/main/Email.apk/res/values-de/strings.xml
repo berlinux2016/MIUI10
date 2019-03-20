@@ -451,12 +451,14 @@
   <string name="folder_drafts_name_en0">Entwürfe</string>
   <string name="folder_drafts_name_en1">Entwurf</string>
   <string name="folder_drafts_name_en2">[Gmail]/Entwürfe</string>
+  <string name="folder_empty_to_fresh">Mail nicht synchronisiert. Zum Synchronisieren nach unten ziehen.</string>
   <string name="folder_junk_name_cn1">Papierkorb</string>
   <string name="folder_junk_name_cn2">[Gmail]/Spam</string>
   <string name="folder_junk_name_en0">Papierkorb</string>
   <string name="folder_junk_name_en1">Massenversand</string>
   <string name="folder_list_display_all">Alle Ordner anzeigen</string>
   <string name="folder_list_display_only_import">Nur wichtige Ordner anzeigen</string>
+  <string name="folder_no_mails">Keine E-Mails in diesem Ordner</string>
   <string name="folder_picker_title">Ordner auswählen</string>
   <string name="folder_removed">Aus %1$s entfernt</string>
   <string name="folder_sent_name_cn0">Gesendet</string>
@@ -1041,6 +1043,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="toast_bar_no_connection_network">Keine Internetverbindung</string>
   <string name="toast_bar_open_gmail_synchronization">Keine Verbindung zu Google Mail. Gmail-Proxy einschalten</string>
   <string name="toast_bar_send_fail_remind">E-Mailsenden fehlgeschlagen. E-Mail wurde im Ordner \"Postausgang\" gespeichert</string>
+  <string name="toast_bar_sync_failed_mi_authority">Synchronisation ist fehlgeschlagen, bitte versuchen Sie es später. Um sich bei dem neuen Gerät anzumelden, autorisieren Sie das Gerät bitte über das Kontozentrum oder die SMS-Eingabeaufforderung.</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Um Kalenderinfos und Kontakte zu synchronisieren, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
   <string name="toastbar_calendar_permission_switch_close">Um Kalendererinnerungen zu erhalten, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
   <string name="toastbar_contacts_permission_switch_close">Um Kontakte hinzuzufügen, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
@@ -1100,6 +1103,7 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchr
   <string name="widget_all_mail">Alle E-Mails</string>
   <string name="widget_other_views">Andere</string>
   <string name="wipe_account_fail_description">Erlauben</string>
+  <string name="wipe_account_fail_description_remind">Aufgrund von Datenberechtigungen können sich Restdaten im Kalender und in den Kontakten nach dem Löschen des Kontos befinden, bitte löschen Sie diese manuell.</string>
   <string name="wipe_account_fail_title">Persönliche Informationen konnten nicht gelöscht werden</string>
   <string name="wps_title">WPS Mail</string>
   <string name="wrong_password">Eingegebenes Passwort ist falsch</string>
