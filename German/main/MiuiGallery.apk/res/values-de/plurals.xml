@@ -184,7 +184,15 @@
     <item quantity="other">%1$d Videos warten auf Synchronisation</item>
     <item quantity="one">%1$d Video wartet auf Synchronisation</item>
   </plurals>
-  <plurals name="picker_all_image_need_download">
+  <plurals name="photo_count_format">
+     <item quantity="other">%1$d Elemente insgesamt</item>
+     <item quantity="one">Nur %1$d Element</item>
+ </plurals>
+ <plurals name="video_count_format">
+     <item quantity="other">%1$d Dateien</item>
+     <item quantity="one">%1$d Datei</item>
+ </plurals>
+<plurals name="picker_all_image_need_download">
     <item quantity="other">Ausgewählte Fotos sind nicht auf diesem Gerät, über die mobile Datenverbindung herunterladen?</item>
     <item quantity="one">Ausgewähltes Foto ist nicht auf diesem Gerät, über die mobile Datenverbindung herunterladen?</item>
   </plurals>
