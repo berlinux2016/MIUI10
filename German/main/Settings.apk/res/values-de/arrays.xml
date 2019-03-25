@@ -216,7 +216,8 @@
   </string-array>
   <string-array name="battery_indicator_style_entries">
     <item>Grafisch</item>
-    <item>Prozent</item>
+    <item>Prozent (im Symbol)</item>
+    <item>Prozent (neben dem Symbol)</item>
     <item>Balken</item>
   </string-array>
   <string-array name="bearer_entries">
@@ -388,12 +389,12 @@
     <item>PIN</item>
     <item>Passwort</item>
   </string-array>
-  <string-array name="check_importance_entries">
+  <string-array name="fold_entries">
     <item>Empfohlen</item>
     <item>Wichtig</item>
     <item>Unwichtig</item>
   </string-array>
-  <string-array name="check_importance_summary">
+  <string-array name="fold_summaries">
     <item>MIUI wählt Benachrichtigungen zum Anzeigen automatisch aus</item>
     <item>Benachrichtigungen werden in Benachrichtigungsleiste angezeigt</item>
     <item>Benachrichtigungen werden in separatem Ordner angezeigt</item>
@@ -692,6 +693,14 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Grafisch</item>
     <item>Prozent</item>
   </string-array>
+  <string-array name="notification_shade_shortcut_entries">
+    <item>Suchen</item>
+    <item>Einstellungen</item>
+  </string-array>
+  <string-array name="notification_style_entries">
+    <item>MIUI</item>
+    <item>Android</item>
+  </string-array>
   <string-array name="overlay_display_devices_entries">
     <item>Aus</item>
     <item>480p</item>
@@ -927,10 +936,6 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <item>Nur in Statusleiste anzeigen</item>
     <item>Netzbetreiber niemals anzeigen</item>
   </string-array>
-  <string-array name="status_bar_settings_notification_shade_shortcut_entries">
-    <item>Suchen</item>
-    <item>Einstellungen</item>
-  </string-array>
   <string-array name="status_bar_settings_qs_layout_entries">
     <item>Standard</item>
     <item>Kompakt</item>
@@ -938,6 +943,11 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
   <string-array name="status_bar_style_entries">
     <item>Eine Seite</item>
     <item>Zwei Seiten</item>
+  </string-array>
+  <string-array name="time_format_entries">
+    <item>12-Stunden 1:00 PM</item>
+    <item>24-Stunden 13:00</item>
+    <item>Auto (based on system language)</item>
   </string-array>
   <string-array name="timezone_filters">
     <item>Amerika</item>

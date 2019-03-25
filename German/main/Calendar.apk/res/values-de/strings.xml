@@ -240,7 +240,7 @@
   <string name="event_reminders_to_max">Bis zu %d Erinnerungen können eingerichtet werden</string>
   <string name="event_title">Titel</string>
   <string name="event_view">Termin anzeigen</string>
-  <string name="every_weekday">Werktags (Mo–Fr)</string>
+  <string name="every_weekday">Montag bis Freitag</string>
 
 <!-- eventuell noch bearbeiten anfang -->
 
@@ -272,6 +272,11 @@
   <string name="feed_manager_title">Abonnieren Sie interessante Kanäle</string>
   <string name="feed_manager_unsubscribed">Empfohlener Kanal</string>
   <string name="feed_manager_unsubscribed_empty_msg">Für weitere spannende Kanäle dranbleiben</string>
+  <string name="feed_tips_got_it">Ich weiß</string>
+  <string name="feed_tips_primary_text">Kalender-Abonnementkanal erneuerte Version</string>
+  <string name="feed_tips_secondary_text">Vollständige Integration von umfangreichen Informationen und effizienten Diensten</string>
+  <string name="feed_tips_see_details">Details anzeigen</string>
+  <string name="feed_tips_subscribe_more">Abonnieren Sie weitere Kanäle</string>
   <string name="feed_title">Heutige wichtig</string>
 
 <!-- eventuell noch bearbeiten ende -->
@@ -545,7 +550,7 @@
   <string name="setting_title_lottery_card_display">Lotterieservice</string>
   <string name="setting_title_shift_card_desc">Um die Assistentenkarte auf der Kalenderstartseite zu verschieben, muss mit dem Dienst verbunden sein</string>
   <string name="setting_title_shift_card_display">Show shift assistant/Schaltassistent anzeigen/Einrichtungsassistent anzeigen</string>
-  <string name="setting_title_weather_card_desc">Wetterkarte auf der Startseite des Kalenders, muss mit dem Dienst verbunden sein</string>
+  <string name="setting_title_weather_card_desc">Wetterinformationen auf der rechten Seite der Mondkarte</string>
   <string name="setting_title_weather_card_display">Wetterdienst anzeigen</string>
 
 <!-- noch bearbeiten ende -->
@@ -667,6 +672,7 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="view_in_month_view">Monat anzeigen</string>
   <string name="weather_card_humidity_desc">Feuchtigkeit %1$s%%</string>
   <string name="weather_card_no_data_hint">Hier tippen, um Wetterdaten zu erhalten</string>
+  <string name="weather_huangli_card_no_data_hint">Hier klicken, um Wetterinformationen zu erhalten</string>
   <string name="weekly">Wöchentlich (jeden %s)</string>
   <string name="when_label">Wann</string>
   <string name="widget_events">Nächster Termin</string>
@@ -678,4 +684,5 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="xingxiu">Sterne</string>
   <string name="yearly">Jährlich (am %s)</string>
   <string name="yearly_plain">Jährlich</string>
+  <string name="yiji_app_download_card_lebal">Sollte</string>
 </resources>
