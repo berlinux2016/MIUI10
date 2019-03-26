@@ -86,10 +86,7 @@
   <string name="ad_exit_dialog_exit_btn_name">Beenden</string>
   <string name="ad_exit_dialog_message">Installation ist abgeschlossen! Wollen Sie sie jetzt öffnen?</string>
   <string name="ad_exit_dialog_open_btn_name">Öffnen</string>
-  
-<!-- ? --> 
-  <string name="ad_exit_dialog_title_name">name="ad_exit_dialog_title_name">Neue App, Bestätigung öffnen</string>
-
+  <string name="ad_exit_dialog_title_name">Neue App, Bestätigung öffnen</string>
   <string name="add_bookmark_group">Gruppe hinzufügen</string>
   <string name="add_bookshelf_popup_text">Dieses Buch befindet sich bereits in Ihrer Sammlung</string>
   <string name="add_favorites_to">Favoriten hinzufügen</string>
@@ -258,12 +255,17 @@
   <string name="data_traffic_prompt_free_data">Nutzung der mobilen Datenverbindung zum Durchsuchen von Videos erhöht Ihren Datenverbrauch. Bestellen Sie kostenlosen Datenverkehr.</string>
   <string name="data_traffic_prompt_message">Nutzung der mobilen Datenverbindung zum Durchsuchen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
   <string name="data_traffic_prompt_title">Datenverbrauchswarnung</string>
+  <string name="debug_mode_toast">Debug-Modus ist aktiviert</string>
   <string name="delete">Löschen</string>
   <string name="delete_bookmark">Löschen</string>
   <string name="delete_bookmark_action_warning">Lesezeichen löschen?</string>
   <string name="delete_bookmark_group_warning">\"%s\" löschen? Alle Lesezeichen in dieser Gruppe werden gelöscht.</string>
   <string name="delete_bookmark_warning">Lesezeichen \"%s\" löschen?</string>
   <string name="delete_download">Löschen</string>
+  <string name="diagnosis_log_send_failed">Diagnoseprotokoll senden fehlgeschlagen</string>
+  <string name="diagnosis_log_sent_format">"Diagnoseprotokoll wurde gesendet.
+ID:%s
+Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="dialog_cannot_resume">Download wurde unterbrochen</string>
   <string name="dialog_confirm_delete_checkbox_message">Datei aus internem Speicher löschen</string>
   <string name="dialog_confirm_delete_downloads_message">%s Aufgaben löschen?</string>
@@ -373,6 +375,7 @@
   <string name="finish_sync_cloud_tabs">Synchronisation abgeschlossen</string>
   <string name="firstUsingSearchEngineTips">Suchanbieter ändern</string>
   <string name="fling_on_border_gesture_hint">Sie können die Funktion dieser Geste in den Einstellungen ändern</string>
+  <string name="for_diagnosis_usage_only">Verwenden Sie diese Infos nur für die Diagnose</string>
   <string name="force_quick_search_title">Suche</string>
   <string name="force_touch_bookmark_history_title">Lesezeichen &amp; Verlauf</string>
   <string name="force_touch_infoflow_title">Nachrichten</string>
@@ -401,6 +404,8 @@
   <string name="guide_fashion_text">Mode</string>
   <string name="guide_fiction_text">Erfindung</string>
   <string name="guide_finance_text">Finanzen</string>
+  <string name="guide_first_optimization_type_main_title">Wunderschöne Videos hören nicht auf</string>
+  <string name="guide_first_optimization_type_sub_title">Ein 15-Sekunden-Video zeichnet den Moment auf</string>
   <string name="guide_flash_type_main_title">Blitzschnell</string>
   <string name="guide_flash_type_subtitle">Erstaunliche Geschwindigkeit, einfaches UI</string>
   <string name="guide_games_text">Spiele</string>
@@ -411,6 +416,8 @@
   <string name="guide_military_text">Militär</string>
   <string name="guide_motor_text">Motor</string>
   <string name="guide_politics_text">Politik</string>
+  <string name="guide_second_optimization_type_main_title">Entspannen Sie sich an der Spielebar</string>
+  <string name="guide_second_optimization_type_sub_title">Unterhaltungsklatsch, Militär-Hotspots, Neueste Filme und TV, Emotionale Vielfalt</string>
   <string name="guide_skip">Überspringen</string>
   <string name="guide_slide_down">Bitte nach unten schieben</string>
   <string name="guide_slide_up">Bitte nach oben schieben</string>
@@ -449,6 +456,7 @@
   <string name="js_disable_confirm_message">Deaktivieren von JavaScript führt möglicherweise dazu, dass einige Webseiten nicht korrekt angezeigt werden</string>
   <string name="js_disable_confirm_title">JavaScript deaktivieren?</string>
   <string name="keep_queued_download">Behalten</string>
+  <string name="load_error_tip">Ladefehler, erneut versuchen anklicken</string>
   <string name="loading_dialog_title">Verschiebung…</string>
   <string name="loading_tips">Nach unten ziehen, um zu aktualisieren</string>
   <string name="login_failed_toast">Anmeldung fehlgeschlagen, neu laden und erneut versuchen</string>
@@ -914,6 +922,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="page_info">Seiteninfo</string>
   <string name="page_info_address">Adresse:</string>
   <string name="page_info_view">Seiteninfo ansehen</string>
+  <string name="passport_oauth_sucess_tip">Autorisierung erfolgreich</string>
   <string name="password">Passwort</string>
   <string name="pause_download">Angehalten</string>
   <string name="paused_queued_for_wifi">Warte auf Netzwerkverbindung…</string>
@@ -970,6 +979,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="pref_content_night_read_mode">Nachtmodus</string>
   <string name="pref_content_search_engine">Suchanbieter festlegen</string>
   <string name="pref_content_search_engine_summary">Suchmaschinenbetreiber wählen</string>
+  <string name="pref_debug_mode">Debug-Modus</string>
   <string name="pref_download_setting">Einstellungen Download</string>
   <string name="pref_enable_adblock_notification">Zeige Werbeblocker-Benachrichtigungen</string>
   <string name="pref_enable_news">Nachrichten</string>
@@ -1127,6 +1137,8 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="search_hint">Suchen</string>
   <string name="search_menu_title">Suchen</string>
   <string name="search_notification_btn_title">Suchen</string>
+  <string name="search_notification_guide_content">Jetzt erleben</string>
+  <string name="search_notification_guide_title">Wischen Sie am oberen Bildschirmrand und erleben Sie eine schnelle Suche!</string>
   <string name="search_path_browser">Einstellungen/Installierte Apps/Browser</string>
   <string name="search_settings_description">Lesezeichen und Verlauf</string>
   <string name="search_sm">Wikipedia</string>
@@ -1140,6 +1152,8 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="select_download_device">Gerät auswählen</string>
   <string name="send_comment_button">Senden</string>
   <string name="send_comment_title">Kommentieren</string>
+  <string name="send_diagnosis_log">Diagnoseprotokoll senden</string>
+  <string name="sending">Senden…</string>
   <string name="senddesktop">Startbildschirm</string>
   <string name="sendstartpage">Startseite</string>
   <string name="sequence_bookmark_description">Drücken und Halten, um Lesezeichen neu anzuordnen</string>
@@ -1169,6 +1183,8 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="small_video_ad_app_text_resume">Fortsetzen</string>
   <string name="small_video_ad_web_text">Öffnen</string>
   <string name="small_video_boba_tab">Übertragung</string>
+  <string name="small_video_comment">Alle Kommentare</string>
+  <string name="small_video_comment_input_hint">Kommentar eingeben</string>
   <string name="small_video_load_failed">Laden fehlgeschlagen</string>
   <string name="small_video_loading">Laden…</string>
   <string name="small_video_main_tab">Empfehlen</string>
@@ -1253,6 +1269,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="tab_hotpage">Nachrichtenfeed</string>
   <string name="tab_quicklinks">Startseite</string>
   <string name="temp_refuse">Nein, danke</string>
+  <string name="temporary_not_available">temporär nicht verfügbar</string>
   <string name="title_bar_loading">Lade…</string>
   <string name="title_notice_push">Hinweis einschalten</string>
   <string name="too_many_windows_dialog_message">Browser kann keinen neuen Tab öffnen, solange kein anderer geschlossen wird</string>
