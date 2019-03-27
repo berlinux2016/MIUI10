@@ -259,6 +259,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus."</string>
   <string name="details_title">%1$d von %2$d Elementen:</string>
   <string name="device_48m_watermark_default_text">48M DUALKAMERA</string>
   <string name="device_watermark_default_text">AI DUALKAMERA</string>
+    <string name="dialog_google_lens_option_0">Google-Objektiv (empfohlen)</string>
   <string name="disable_video_snapshot_hint">Videoschnappschuss ist aus, wenn Spezialeffekte aktiviert sind</string>
   <string name="dismiss_button_content_description">In der Nähe der Kamera</string>
   <string name="do_not_remind_me">Nicht wieder anzeigen</string>
@@ -686,7 +687,9 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_jpegquality_title">Bildqualität</string>
   <string name="pref_camera_live_sticker_internal_title">Interne magische Werkzeuge</string>
   <string name="pref_camera_long_press_shutter_feature_title">Auslöser lange betätigen</string>
-  <string name="pref_camera_long_press_viewfinder_title">Drücken &amp; Sucher halten</string>
+  <string name="pref_camera_long_press_viewfinder_title">Sucher-Einstellungen</string>
+  <string name="pref_camera_long_press_viewfinder_google_lens">Google-Objektiv</string>
+  <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Sperre</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Serienbildaufnahme</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Fokus</string>
@@ -694,7 +697,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Auslöser lange drücken</string>
   <string name="pref_camera_long_pressing_shutter_title">Auslöser drücken &amp; halten für AF/AE/AWB</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google-Objektiv</string>
-  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE &amp; AF-Sperre</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF Sperre</string>
   <string name="pref_camera_magic_mirror_title">Magischer Spiegel</string>
   <string name="pref_camera_manual_mode_title">Manuell</string>
   <string name="pref_camera_mfnr_sat_enable_title">MFNR einschalten</string>
@@ -835,7 +838,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Frontkamera spiegeln</string>
   <string name="pref_google_lens">Google-Objektiv</string>
-  <string name="pref_google_lens_summary">Automatische Identifizierung von QR-Codes, E-Mails, Nummern usw.</string>
+  <string name="pref_google_lens_summary">Automatische Identifizierung von QR-Codes, E-Mails, Nummern und mehr</string>
   <string name="pref_google_lens_title">Objektivvorschläge</string>
   <string name="pref_groupshot_with_primitive_title">Einfache Bilder im Gruppenmodus speichern</string>
   <string name="pref_grp_advanced_settings">Erweiterte Einstellungen</string>
