@@ -30,6 +30,8 @@
   <string name="already_updated">Auf dem neusten Stand</string>
   <string name="app_label">SMS/MMS</string>
   <string name="app_name">Geräteverwaltung</string>
+  <string name="application_list_title">Mini-Apps</string>
+  <string name="attach_group_chat">Gruppen-Chat</string>
   <string name="attach_image">Bilder</string>
   <string name="attach_rcs_file">Datei</string>
   <string name="attach_rcs_location">Standort</string>
@@ -41,6 +43,7 @@
   <string name="attach_take_photo">Bild aufnehmen</string>
   <string name="attach_transaction">Geld überweisen</string>
   <string name="attach_video">Video</string>
+  <string name="attach_video_call">Videoanruf</strin
   <string name="audio_download_failed">Audio konnte nicht heruntergeladen werden</string>
   <string name="audio_message_expired">Diese Sprachnachricht ist abgelaufen</string>
   <string name="audio_message_mx_offline">Sprachnachricht konnte nicht geladen werden. Mi Message ist offline oder nicht verfügbar.</string>
@@ -73,6 +76,7 @@
   <string name="button_unfold">Aufklappen</string>
   <string name="call_sender">Absender anrufen</string>
   <string name="can_not_send_by_rcs">Kann China Mobile Nachrichten nicht benutzen</string>
+  <string name="can_not_view_group_chat_stranger">Kann die Details von Fremden nicht sehen.</string>
   <string name="cannot_add_picture_and_video">Video und Bild können nicht zu einer Folie hinzugefügt werden</string>
   <string name="cannot_add_slide_anymore">Weiteren Folien können nicht hinzugefügt werden</string>
   <string name="cannot_forward_drm_obj">Das in der Nachricht enthaltene DRM-Objekt kann nicht weitergeleitet werden</string>
@@ -128,6 +132,7 @@
   <string name="confirm_restore_positive">Wiederherstellen</string>
   <string name="confirm_restore_title">Alle ausgewählten Nachrichten wiederherstellen?</string>
   <string name="confirm_send_mms">Einer Ihrer Empfänger hat eine E-Mailadresse. Diese Nachricht wird als MMS gesendet, was zu erhöhten Kosten führen kann.</string>
+  <string name="contact_not_exists">Diese Person ist nicht in deinen Kontakten.</string>
   <string name="context_menu_add_calendar">Im Kalender anzeigen</string>
   <string name="context_menu_add_contact">Zu Kontakten hinzufügen</string>
   <string name="context_menu_add_to_browser_favorite">Zu Browserfavoriten hinzufügen</string>
@@ -254,6 +259,7 @@
   <string name="group_verification_codes_title">Einmalpasswörter für Gruppen</string>
   <string name="group_view_settings_disolved">Elemente können nicht angezeigt werden. Dieser Gruppenchat wurde gelöscht.</string>
   <string name="group_view_settings_not_memeber">Elemente können nicht angezeigt werden. Sie sind kein Mitglied dieses Gruppenchats.</string>
+  <string name="groupchat_list_title">Gruppen-Chats</string>
   <string name="guild_add_attachments">Berühren um Smileys oder Dateien einzufügen</string>
   <string name="guild_add_recipients">Berühren um Empfänger aus dem Adressbuch hinzuzufügen</string>
   <string name="guild_msim_switcher">Berühren um SIM-Karten zu wechseln</string>
@@ -295,6 +301,7 @@
   <string name="menu_edit">Ändern</string>
   <string name="menu_forward">Weiterleiten</string>
   <string name="menu_lock">Sperren</string>
+  <string name="menu_make_call">Anruf</string>
   <string name="menu_mark">Markieren</string>
   <string name="menu_more">Mehr</string>
   <string name="menu_new_contact">Neuer Kontakt</string>
@@ -304,6 +311,7 @@
   <string name="menu_send_as_common">Sende als SMS</string>
   <string name="menu_traffic_destination">Zielort</string>
   <string name="menu_unlock">Entsperren</string>
+  <string name="menu_view_group_info">Gruppeninfo</string>
   <string name="menu_view_contact">Kontakt anzeigen</string>
   <string name="message_class_label">"Nachrichtenklasse: "</string>
   <string name="message_contact">Kontakt:</string>
@@ -409,6 +417,7 @@
   <string name="no_block_button_msg">Diese Nummer nicht blockieren</string>
   <string name="no_conversations">Keine Unterhaltungen</string>
   <string name="no_delivery_report">Kein Zustellbericht</string>
+  <string name="no_network_description">Verbindung zum Netzwerk konnte nicht hergestellt werden. Netzwerkeinstellungen überprüdnen und erneut versuchen.</string>
   <string name="no_subject">(Kein Betreff)</string>
   <string name="no_subject_view">(Kein Betreff)</string>
   <string name="non_english_subject_limit">Maximal 13 Zeichen</string>
@@ -532,8 +541,11 @@
   <string name="processing">Verarbeitung…</string>
   <string name="prvate_contact">Private Kontakte</string>
   <string name="quick_reply">Kurzantwort</string>
-  <string name="rcs_auto_resend_mms">Umwandeln in MMS</string>
-  <string name="rcs_auto_resend_sms">Umwandeln in SMS</string>
+  <string name="rcs_auto_resend_as_sms_remind_change">Einstellungen ändern</string>
+  <string name="rcs_auto_resend_as_sms_remind_desp">"Nachrichten bis zu 900 B können konvertiert und bei schlechtem Netzwerksignal als SMS versendet werden. Tippen Sie auf \"Einstellungen ändern\", wenn Sie Ihre Nachrichten nicht in SMS umwandeln möchten."</string>
+  <string name="rcs_auto_resend_as_sms_remind_title">In SMS umwandeln</string>
+  <string name="rcs_auto_resend_mms">In MMS umwandeln</string>
+  <string name="rcs_auto_resend_sms">In SMS umwandeln</string>
   <string name="rcs_auto_resume">Unterbrochene Uploads automatisch fortsetzen</string>
   <string name="rcs_auto_resume_only_by_wifi">Uploads nur bei Verbindung mit WLAN fortsetzen</string>
   <string name="rcs_create_new_group">Gruppenchat erstellen</string>
@@ -542,10 +554,12 @@
   <string name="rcs_forward_faild">Konnte nicht weiterleiten</string>
   <string name="rcs_forward_successful">Erfolgreich weitergeleitet</string>
   <string name="rcs_group_notification_invitation">Gruppenchateinladung</string>
+  <string name="rcs_hello_from_pc">Melden Sie sich auf Ihrem Computer bei Fetion an, um Dateien zu übertragen.</string>
   <string name="rcs_message">China Mobile Messaging</string>
   <string name="rcs_message_disable">Diese Nachricht kann nicht im zweiten Profil angezeigt werden</string>
   <string name="rcs_msg">China Mobile Messaging</string>
   <string name="rcs_not_online">Kann China Mobile Messaging nicht verwenden. Überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>
+  <string name="rcs_offline">Nicht bei UC angemeldet. Ein oder zwei Minuten warten und erneut versuchen.</string>
   <string name="rcs_offline_hint">China Mobile Messaging ist offline. Sie können diese Nachricht nicht weiterleiten.</string>
   <string name="rcs_recipient_type_contact">Weiter zum Kontakt</string>
   <string name="rcs_recipient_type_group">Weiterleiten zum Gruppenchat</string>
@@ -639,7 +653,7 @@
   <string name="security_alert_dialog_title">Melde</string>
   <string name="select_audio">Audio auswählen</string>
   <string name="select_bottom_text">Text unten</string>
-  <string name="select_copy_text">Nachrichtentext auswählen und kopieren</string>
+  <string name="select_copy_text">Text zum Kopieren auswählen</string>
   <string name="select_different_media">Anderes Element als %1$s auswählen</string>
   <string name="select_different_attachment">Wählen Sie einen anderen Anhang.</string>
   <string name="select_different_audio">Wählen Sie ein anderes Audio.</string>
