@@ -203,6 +203,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="activity_picker_label">Aktivität auswählen</string>
   <string name="activity_title_permission_manager">Rechte</string>
   <string name="activity_title_permissions_manager">Rechte</string>
+  <string name="activity_title_power_manager">Stromsparen;Akku sparen</string>
   <string name="ad_service">Werbedienstleistungen</string>
   <string name="adb_keys_warning_message">Zugriff auf USB-Debugging von allen Computern, die Sie vorher autorisiert haben, widerrufen?</string>
   <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke vorgesehen. Damit können Sie Daten zwischen Ihrem Computer und Ihrem Gerät kopieren, Apps auf Ihrem Gerät ohne Benachrichtigung installieren und Log-Daten lesen.</string>
@@ -262,6 +263,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="agps_roaming_summary">Verwendung von A-GPS bei Datenroaming kann zu erhöhten Kosten führen</string>
   <string name="ai_button_title">Mi AI-Taste</string>
   <string name="ai_button_title_global">AI-Taste</string>
+  <string name="ai_settings_click_title">Drücken</string>
   <string name="ai_settings_double_click_category">AI-Taste 2-mal drücken</string>
   <string name="ai_settings_double_click_title">2-mal drücken</string>
   <string name="ai_settings_long_click_category">AI-Taste drücken und halten</string>
@@ -299,12 +301,19 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s immer Erstellen von Widgets und den Zugriff auf Ihre Daten erlauben</string>
   <string name="allow_data_usage_title">Datennutzung beim Roaming erlauben</string>
   <string name="allow_device_id_access">Apps mit Zugriff auf die Geräte-ID</string>
+  <string name="allow_float_summary">Benachrichtigungen oben auf dem Bildschirm anzeigen</string>
+  <string name="allow_float_title">Schwebende Benachrichtigungen</string>
   <string name="allow_interruption">Unterbrechungen erlauben</string>
   <string name="allow_interruption_summary"> App darf Töne machen, vibrieren und /oder Benachrichtungen auf dem Bildschirm einblenden</string>
+  <string name="allow_keyguard_summary">Benachrichtigungen am Sperrbildschirm anzeigen</string>
+  <string name="allow_keyguard_title">Benachrichtigungen Sperrbildschirm</string>
+  <string name="allow_lights_title">Leichte Tipps erlauben</string>
   <string name="allow_mock_location">Falsche Standorte zulassen</string>
   <string name="allow_mock_location_summary">Falsche Standorte zulassen</string>
   <string name="allow_overlay_description">Diese Berechtigung erlaubt es einer App, über anderen Apps angezeigt zu werden und kann die Bedienung und Anzeige anderer Apps beeinträchtigen</string>
   <string name="allow_sound">Ton erlauben</string>
+  <string name="allow_sound_title">Ton erlauben</string>
+  <string name="allow_vibrate_title">Vibration erlauben</string>
   <string name="already_enable_encrypt">Verschlüsselung bereits aktiviert</string>
   <string name="always">Immer</string>
   <string name="always_allow_bind_appwidgets_text">Sie haben dieser App das Erstellen von Widgets und den Zugriff auf deren Daten erlaubt</string>
@@ -396,6 +405,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="app_link_open_always">Öffnen</string>
   <string name="app_link_open_ask">Jedes Mal nachfragen</string>
   <string name="app_link_open_never">Nicht öffnen</string>
+  <string name="app_link_title">Zusätzliche Einstellungen in der App</string>
   <string name="app_list_memory_use">App-Nutzung</string>
   <string name="app_list_preference_none">Keine</string>
   <string name="app_memory_use">Speichernutzung</string>
@@ -537,6 +547,8 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="auto_disable_screenbuttons_rotation_title">Navigationstasten im Querformat sperren</string>
   <string name="auto_disable_screenbuttons_summary">Bei bestimmten Apps die Navigationstasten automatisch deaktivieren. Zweimal antippen, um die Tasten wieder zu aktivieren.</string>
   <string name="auto_disable_screenbuttons_title">Navigationstasten automatisch deaktivieren</string>
+  <string name="auto_dual_clock_summary">Duale Uhr anzeigen, wenn die aktuelle Zeit von der auf der zweiten Uhr abweicht</string>
+  <string name="auto_dual_clock_title">Duale Uhr</string>
   <string name="auto_launch_disable_text">Keine Standards eingestellt</string>
   <string name="auto_launch_enable_text">Sie haben diese App für einige Aktionen als Standard festgelegt</string>
   <string name="auto_launch_label">Standardmäßig starten</string>
@@ -577,6 +589,7 @@ Zuletzt am %2$s ausgeführt"</string>
   <string name="awake">Aktive Zeit des Geräts</string>
   <string name="back_button">Zurück</string>
   <string name="back_key">Zurück</string>
+  <string name="badge_title">Desktop-App-Symbol anzeigen</string>
   <string name="background_activity_disabled_dialog_text">"Da diese App nicht auf Akkuoptimierung eingestellt ist, können Sie sie nicht einschränken.
 
 Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</string>
@@ -675,6 +688,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_footer_summary">Verbleibende Akkulaufzeit ist ungefähr und kann sich je nach Nutzung ändern</string>
   <string name="battery_full_charge_last">Vollladung dauert ca.</string>
   <string name="battery_indicator_style">Akkuanzeige</string>
+  <string name="battery_indicator_title">Akkuanzeige</string>
   <string name="battery_info_awake_battery">Aktivzeit mit Akku:</string>
   <string name="battery_info_awake_plugged">Aktivzeit während des Aufladens</string>
   <string name="battery_info_health_cold">Kalt</string>
@@ -818,6 +832,7 @@ Apps:
   <string name="block_list_remove_dialog_title">Entfernen Sie \"%s\" von der Sperrliste</string>
   <string name="block_list_summary">Geräte anzeigen, die keine Verbindung zu diesem Hotspot herstellen können</string>
   <string name="block_list_title">Sperrliste</string>
+  <string name="block_title">Benachrichtigungen anzeigen</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Mit Audiosignal verbunden</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Für Audiosignal nutzen</string>
   <string name="bluetooth_active_battery_level">Aktiv | Akku %1$s</string>
@@ -1264,6 +1279,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="captioning_typeface">Schriftfamilie</string>
   <string name="captioning_window_color">Farbe Untertitelfenster</string>
   <string name="captioning_window_opacity">Transparenz Untertitelfenster</string>
+  <string name="card_main_hbassistant_title">Roter Umschlag;Rotes Paket;Geld</string>
   <string name="carrier">Netzbetreiber</string>
   <string name="carrier_and_update_now_text">Von ^1 gerade eben aktualisiert</string>
   <string name="carrier_and_update_text">Von ^1 vor ^2 aktualisiert</string>
@@ -1566,10 +1582,14 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
   <string name="current_use_uicc_se">Sichere Elemente auf der SIM-Karte benutzen</string>
   <string name="current_use_uicc_wallet">Sie verwenden SIM%1$s Bezahlung</string>
   <string name="current_zone">(aktuell)</string>
+  <string name="custom_carrier_title">Anbietername bearbeiten</string>
+  <string name="custom_wifi_name_title">WLAN-Name bearbeiten</string>
   <string name="cutout_mode_always">Notch immer anzeigen</string>
   <string name="cutout_mode_default">Automatisch</string>
   <string name="cutout_mode_settings_title">Einige Apps werden eventuell falsch angezeigt, wenn Sie die Notch-Anzeige anpassen.</string>
   <string name="cutout_mode_title">Notch in einzelnen Apps</string>
+  <string name="cutout_type_desc">Einschalten zum Glätten der Notch-Kurven</string>
+  <string name="cutout_type_title">Anpassen der Notch-Form</string>
   <string name="daltonizer_mode_deuteranomaly">Rot-Grün-Sehschwäche</string>
   <string name="daltonizer_mode_disabled">Deaktiviert</string>
   <string name="daltonizer_mode_monochromacy">Vollständig farbenblind</string>
@@ -2032,6 +2052,16 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="draw_overlay">Apps überlagern</string>
   <string name="draw_overlay_title">Apps, die andere überlagern können</string>
   <string name="dtmf_tone_enable_title">Wähltastentöne</string>
+  <string name="dual_clock">Duale Uhr</string>
+  <string name="dual_clock_aod_hint">"\"Duale Uhr\" basiert auf folgenden Funktionen:
+1. Bei ausgeschaltetem Bildschirm die Anzeige von Elementen in Einstellungen &gt; Anzeige erlauben.
+2. Am Sperrbildschirm entweder das Standard- oder das klassische Thema in Einstellungen &gt; Themen verwenden.
+3. Am Startbildschirm das Standard-Systemuhr-Widget verwenden."</string>
+  <string name="dual_clock_hint">"\"Duale Uhr\" basiert auf folgenden Funktionen:
+1. Am Sperrbildschirm entweder das Standard- oder das klassische Thema in Einstellungen &gt; Themen verwenden.
+2. Am Startbildschirm das Standard-Systemuhr-Widget verwenden."</string>
+  <string name="dual_clock_ok">Verstanden</string>
+  <string name="dual_clock_open_message">Duale Uhr wird angezeigt am Sperrbildschirm, am Startbildschirm und bei ausgeschaltetem Bildschirm</string>
   <string name="dump_log">Problembezogene Protokolle abrufen</string>
   <string name="dump_log_summary">"Diese Funktion ist für die Generierung des 284 Log in den Alpha- und Beta-Versionen von MIUI vorgesehen. Verwende es mit Vorsicht.
 Du kannst die generierten Protokolle im Datei-Manager ansehen."</string>
@@ -2239,6 +2269,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="every_day">Täglich</string>
   <string name="exchange_account">Konto wechseln</string>
   <string name="expand_button_title">Erweitert</string>
+  <string name="expandable_under_keyguard_title">Am Sperrbildschirm anzeigen</string>
   <string name="experimental_category_title">Experimentell</string>
   <string name="experimental_preference">(Experimentell)</string>
   <string name="extended_power_menu">Erweitertes Power-Menü</string>
@@ -2383,6 +2414,7 @@ Sicherungsdateien nicht ändern oder umbenennen."</string>
   <string name="floating_window_switch_label_disable">Popups nicht anzeigen</string>
   <string name="fluency_mode">Systemanimationen</string>
   <string name="fluency_mode_confirm_and_reboot">Neustarten</string>
+  <string name="fold_title">Regeln für gruppierte Benachrichtigungen</string>
   <string name="font_size_exhuge">Extra Groß</string>
   <string name="font_size_huge">Sehr Groß</string>
   <string name="font_size_large">Groß</string>
@@ -2469,6 +2501,7 @@ Die böse Hexe des Westens sendet Wölfe, Krähen, Bienen, ihre Winkie-Soldaten 
   <string name="fullbackup_data_summary">"Gerätedaten (wie WLAN Passwörter und Anrufliste) und App-Daten (wie Einstellungen und von Apps gespeicherte Dateien) automatisch sichern.
 Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten periodisch in der Cloud gespeichert. App-Daten können alle Daten sein, die eine App gespeichert hat (basierend auf den Entwicklereinstellungen), einschl. potenziell sensibler Daten wie Kontakte, Nachrichten und Fotos."</string>
   <string name="fullbackup_erase_dialog_message">Sicherung von Gerätedaten (wie WLAN-Passwörter und Anrufliste) und App-Daten (wie Einstellungen und von Apps gespeicherte Dateien) stoppen und alle Kopien auf Remote-Servern löschen?</string>
+  <string name="function_description">Über diese Funktion</string>
   <string name="gadget_brightness_state_auto">Automatisch</string>
   <string name="gadget_brightness_state_full">Voll</string>
   <string name="gadget_brightness_state_half">Halb</string>
@@ -2485,6 +2518,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gadget_toggle_bluetooth">Bluetootheinstellung aktualisieren</string>
   <string name="gadget_toggle_wifi">WLAN-Einstellungen aktualisieren</string>
   <string name="gallery_privacy_password_role_instruction">Ihre privaten Fotos werden hier gespeichert</string>
+  <string name="game_booster">Spiel;Spiele;Turbo;Spielen;Spielemodus</string>
   <string name="game_controller_settings_category">Spielsteuerung</string>
   <string name="game_mode_cta_dialog_agree">Zustimmen</string>
   <string name="game_mode_cta_dialog_cancel">Abbrechen</string>
@@ -2648,7 +2682,11 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="import_from_xiaomi_account_hint2">Falls Sicherung bereits vorhanden ist, weiter drücken</string>
   <string name="import_from_xiaomi_account_hint_title">Mi Talk verwenden, um Kontakte auf anderen Geräten wiederherzustellen</string>
   <string name="import_tip_summary">Wegen Kompatibilitätsproblemen können Sie nur Teildaten von iOS-Geräten übertragen. Stellen Sie sicher, dass Sie vor dem Start der Übertragung ein iCloud-Backup erstellen.</string>
+  <string name="importance_default">Standard</string>
+  <string name="importance_high">Hoch</string>
+  <string name="importance_low">Niedrig</string>
   <string name="importance_reset">Zurücksetzen</string>
+  <string name="importance_title">Wichtigkeit</string>
   <string name="ims_reg_required_off">IMS-Registrierung muss ausgeschaltet werden</string>
   <string name="ims_reg_required_on">IMS-Registrierung muss eingeschaltet werden</string>
   <string name="ims_reg_status_not_registered">Nicht registriert</string>
@@ -2887,11 +2925,13 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="legal_workday_message">(Ferien überspringen)</string>
   <string name="license_title">Lizenz</string>
   <string name="lift_to_wake_title">Zum Aufwecken anheben</string>
+  <string name="lights_title">Blinklicht</string>
   <string name="line_breaking_summary">Zeilenumbruch optimieren</string>
   <string name="line_breaking_title">Textoptimierung</string>
   <string name="link_speed_label">Verbindungsgeschwindigkeit:</string>
   <string name="list_bg_header_text">Wenn Sie die Hintergrundverbindung einschränken, können sich neue Apps nach der Installation nicht mehr im Hintergrund mit dem Internet verbinden. Eventuell können sie danach keine Nachrichten mehr empfangen oder Inhalte herunterladen.</string>
   <string name="list_empty_text">Leer</string>
+  <string name="loading">Einen Moment…</string>
   <string name="loading_data">Daten laden</string>
   <string name="loading_notification_apps">Apps werden geladen…</string>
   <string name="local_app_name">Sicherung</string>
@@ -3210,6 +3250,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="manage_mobile_plan_title">Mobilfunktarif</string>
   <string name="manage_notification_access_summary_zero">Apps können keine Benachrichtigungen lesen</string>
   <string name="manage_notification_access_title">Benachrichtigungszugriff</string>
+  <string name="manage_notification_title">App-Benachrichtigungen</string>
   <string name="manage_space_text">Speicher verwalten</string>
   <string name="manage_trust_agents">Vertrauenswürdige Geräte</string>
   <string name="manage_trust_agents_summary">Vertrauenswürdige Geräte anzeigen oder deaktivieren</string>
@@ -3339,6 +3380,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="menu_stats_total">Verbrauch insgesamt</string>
   <string name="menu_stats_unplugged">%1$s seit dem Ausstecken</string>
   <string name="menu_use_uss">USS verwenden</string>
+  <string name="mi_pay_indonesia">Mi Pay Konto</string>
   <string name="mi_pay_summary">Buskarte/Mi Pay/Kartenemulator</string>
   <string name="mi_service_app_detail">Angaben zur Datennutzung</string>
   <string name="mi_upi_settings">Mi Pay Konto</string>
@@ -3448,6 +3490,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="modify_instruction_password_settings">Passwort festlegen</string>
   <string name="modify_privacy_password">Passwort ändern</string>
   <string name="more_dangerous_option_hint">Hochrisikofunktionen wie \"%1$s\" sind aktiviert. Tippen Sie hier, um die Einstellungen zu ändern.</string>
+  <string name="more_installed_services_title">Weitere heruntergeladene Dienste</string>
   <string name="move_app">Verschieben</string>
   <string name="move_app_failed_dlg_text">App kann nicht verschoben werden. %1$s</string>
   <string name="move_app_to_internal">In den internen Speicher verschieben</string>
@@ -3696,6 +3739,7 @@ Betriebssystem auswählen:"</string>
   <string name="no_updates_warning2">Wir informieren Sie, wenn ein Update verfügbar ist</string>
   <string name="no_vr_listeners">Keine installierten Apps wurden angefordert, um als VR Hilfeservice ausgeführt zu werden</string>
   <string name="noise_suppression">Rauschunterdrückung</string>
+  <string name="none">Keine</string>
   <string name="normal">Normal</string>
   <string name="normal_info">Alle Töne funktionieren normal</string>
   <string name="normal_smartcover_title">Blickdichte Frontabdeckung</string>
@@ -3735,6 +3779,15 @@ Betriebssystem auswählen:"</string>
   <string name="notif_trans_sending_completed">Daten erfolgreich versandt</string>
   <string name="notif_trans_sending_failed">Datenversand fehlgeschlagen</string>
   <string name="notif_trans_wait_for_reconnecting">Verbindung wurde getrennt. Erneut verbinden.</string>
+  <string name="notifi_channels">Benachrichtigungskategorien</string>
+  <string name="notifi_channels_other">Andere</string>
+  <string name="notifi_importance_default">Wird überall angezeigt, macht Geräusche, aber nicht visuell</string>
+  <string name="notifi_importance_high">Wird überall angezeigt, macht Geräusche und blitzt auf. Kann Vollbildinhalte verwenden</string>
+  <string name="notifi_importance_low">Wird überall angezeigt, ist aber nicht aufdringlich</string>
+  <string name="notifi_importance_min">Wird nur in der Leiste angezeigt</string>
+  <string name="notifi_importance_none">Aus</string>
+  <string name="notifi_importance_unspecified">App entscheiden lassen</string>
+  <string name="notifi_no_channels">Diese App hat keine Benachrichtigungen gesendet</string>
   <string name="notification_app_settings_button">Benachrichtigungseinstellungen</string>
   <string name="notification_badge_title">Benachrichtigungs-Dot zulassen</string>
   <string name="notification_badging_title">Benachrichtigungs-Dots zulassen</string>
@@ -3751,6 +3804,11 @@ Betriebssystem auswählen:"</string>
   <string name="notification_channels_other">Andere</string>
   <string name="notification_content_block_summary">Niemals Benachrichtigungen in der Leiste oder auf Peripheriegeräten anzeigen</string>
   <string name="notification_content_block_title">Benachrichtigungen anzeigen</string>
+  <string name="notification_fold_description1">Benachrichtigungsordner wurde in MIUI 9 eingeführt. Diese Funktion filtert unwichtige Benachrichtigungen und legt sie in einem separaten Ordner ab.</string>
+  <string name="notification_fold_description2">MIUI merkt sich, welche Benachrichtigungen Sie antippen, und verwendet dann mehrere Kriterien, um festzustellen, ob sie wichtig sind.</string>
+  <string name="notification_fold_description3">Wenn Benachrichtigungen, die Sie für wichtig halten, immer noch in den Benachrichtigungsordner gelangen, melden Sie solche Probleme an uns. Wir freuen uns über Ihr Feedback.</string>
+  <string name="notification_fold_summary">Alle unwichtigen Benachrichtigungen werden in einem separaten Ordner angezeigt.</string>
+  <string name="notification_fold_title">Benachrichtigungsordner</string>
   <string name="notification_group_title">Gruppe der Benachrichtigungstypen</string>
   <string name="notification_importance_blocked">Niemals Benachrichtigungen anzeigen</string>
   <string name="notification_importance_default">Ton wiedergeben</string>
@@ -3808,10 +3866,12 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="notification_section_header">Benachrichtigung</string>
   <string name="notification_settings">Ton &amp; Benachrichtigung</string>
   <string name="notification_settings_apps_title">App-Benachrichtigungen</string>
+  <string name="notification_shade_shortcut_title">Verknüpfung Benachrichtigungsleiste</string>
   <string name="notification_show_lights_title">LED blinken lassen</string>
   <string name="notification_sound_default">Standardbenachrichtigungston</string>
   <string name="notification_sound_dialog_title">Standardbenachrichtigungton</string>
   <string name="notification_sound_title">Standardbenachrichtigungston</string>
+  <string name="notification_style_title">Benachrichtigungsstil</string>
   <string name="notification_suggestion_summary">Anzeigen/Ausblenden des Benachrichtigungsinhalts</string>
   <string name="notification_suggestion_title">Sperrbildschirmbenachrichtigungen steuern</string>
   <string name="notification_summary_level">Ebene %d</string>
@@ -3862,7 +3922,9 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="oldman_installed_not_current_des">Sie haben einen minimalen Desktop installiert, der als Standard-Desktop für ein besseres Erlebnis festgelegt werden kann.</string>
   <string name="oldman_mode_entry_name">Minimaler Desktop</string>
   <string name="oldman_uninstalled_btn">Installieren</string>
+  <string name="off">Aus</string>
   <string name="oldman_uninstalled_des">Angeboten von der minimalen Ära, entwickelt für Desktops, die wie einfache aussehen.</string>
+  <string name="on">An</string>
   <string name="one_cacrt">Ein CA-Zertifikat</string>
   <string name="one_usercrt">Ein Benutzerzertifikat</string>
   <string name="one_userkey">Ein Benutzerschlüssel</string>
@@ -3886,6 +3948,11 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="optimization_cancel">Abbrechen</string>
   <string name="ota_disable_automatic_update">Automatische Systemupdates</string>
   <string name="ota_disable_automatic_update_summary">Updates beim Neustart des Geräts anwenden</string>
+  <string name="otg_closed">Aus</string>
+  <string name="otg_opened">An</string>
+  <string name="otg_tip">"USB On-The-Go ermöglicht USB-Laufwerken und tragbaren Tastaturen, sich mit Ihrem Mobilgerät zu verbinden und Daten auszutauschen.
+
+OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="other_advanced_settings">Weitere Einstellungen</string>
   <string name="other_device_info">Andere</string>
   <string name="other_personal_settings">Persönliche Einstellungen</string>
@@ -3960,6 +4027,7 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="password_turned_off_text">Schutz wurde deaktiviert</string>
   <string name="password_turned_on_text">Schutz wurde aktiviert</string>
   <string name="payment_summary">%1$s ist Standard</string>
+  <string name="peek_notification_icon_title">Symbole für eingehende Benachrichtigungen anzeigen</string>
   <string name="performance_category">Leistung</string>
   <string name="perm_camera">Kamera</string>
   <string name="perm_location">Standort</string>
@@ -4066,6 +4134,8 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="power_key_start_enjoy">Erfahren Sie mehr über den Google Assistant</string>
   <string name="power_key_start_guide">Wecken des Google Assistant mit der Power-Taste auf Vollbildgeräten</string>
   <string name="power_last_full_charge_summary">Vor ^1</string>
+  <string name="power_menu_under_keyguard_summary">Zugriff auf das Power-Menü erlauben, während das Gerät gesperrt ist</string>
+  <string name="power_menu_under_keyguard_title">Zugriff Power-Menü</string>
   <string name="power_mgr">Akku-Optimierung</string>
   <string name="power_mode">Energieeinstellungen</string>
   <string name="power_mode_balanced_title">Ausgeglichen</string>
@@ -4180,6 +4250,8 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="priority_storage_settings_summary">Wenn keine SD-Karte vorhanden ist, werden die Benutzerdaten automatisch im internen Speicher des Gerätes gespeichert</string>
   <string name="priority_storage_summary">Standardverzeichnis zum Speichern der Daten auswählen</string>
   <string name="priority_storage_title">Speichereinstellungen</string>
+  <string name="priority_summary">Benachrichtigungen ganz oben in der Liste anzeigen</string>
+  <string name="priority_title">Priorität</string>
   <string name="privacy_authorize_cloud_msg">Um die Sicherheit Ihres Kontos zu gewährleisten, melden Sie sich bei i.mi.com an, wenn Sie die Autorisierung für Mi Cloud-Dienste (einschließlich Synchronisation und Backups) widerrufen möchten.</string>
   <string name="privacy_authorize_dialog_agree">Zustimmen</string>
   <string name="privacy_authorize_dialog_exit">Beenden</string>
@@ -4253,6 +4325,7 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="private_dns_help_message">&lt;annotation id="url"&gt;Mehr erfahren&lt;/annotation&gt; über Private DNS Features</string>
   <string name="private_dns_mode_off">Aus</string>
   <string name="private_dns_mode_opportunistic">Automatisch</string>
+  <string name="private_dns_mode_provider">Hostname privater DNS-Anbieter</string>
   <string name="private_dns_mode_provider_failure">Verbindung nicht möglich</string>
   <string name="private_dns_mode_provider_hostname_hint">Hostname des DNS Providers eingeben</string>
   <string name="private_gallery_need_to_unlock">Password erforderlich:</string>
@@ -4445,6 +4518,7 @@ UT Interface: %5$s"</string>
   <string name="reset_shortcut_manager_throttling">Zählerbegrenzung des Shortcut-Managers zurücksetzen</string>
   <string name="reset_shortcut_manager_throttling_complete">Zählerbegrenzung des Shortcut-Managers wurde zurückgesetzt</string>
   <string name="resetting_second_space_passwd">Zweitprofilpasswort wird zurückgesetzt</string>
+  <string name="resident_timezone_summary">Zweite Uhr</string>
   <string name="resolver_settings_label">Sortieren</string>
   <string name="resource_ringtone_volume_mute">Ihr Klingelton ist auf lautlos eingestellt</string>
   <string name="restore">Wiederherstellen</string>
@@ -4794,19 +4868,20 @@ Mindestens %s freigeben."</string>
   <string name="search_music_headset_mode_settings">Kopfhörertasten;Tasten Kopfhörerfernbedienung;Fernsteuerungen</string>
   <string name="search_music_headset_settings">Kopfhörer &amp; Audioeffekte;Kopfhörer und Audioeffekte;Kopfhörer;Ohrhörer;Audioeffekte</string>
   <string name="search_music_mi_effect_title">Mi Sound Enhancer;Sound verbessern;Klang verbessern</string>
+  <string name="search_my_device">Über das Telefon;Über das Gerät;Mein Telefon;Mein Gerät;Telefon;Gerät</string>
   <string name="search_networks_title">Mobilfunknetze;Netzbetreiber;Mobilfunkbetreiber;Mobilfunkanbieter;</string>
   <string name="search_nfc_se_route_title">Sichere Elemente;Sichere Elementposition</string>
   <string name="search_notification_sound_title">Standardbenachrichtigungston;Benachrichtigungston;Benachrichtigungstöne</string>
   <string name="search_ntts_settings_title">TTS;TTS Einstellungen</string>
-  <string name="search_other_settings_sync_settings">Sync;Synchronisieren;Auto;Automatisch;Nur WLAN</string>
-  <string name="search_unlogin_account_title">Mi Konto; Mi Konto ID;Konto;Konto ID</string>
   <string name="search_oldman_mode_entry_name">Minimaler Modus; alter Modus; einfacher Modus;</string>
   <string name="search_onekey_migrate">Transfer;MI Mover</string>
   <string name="search_other_advanced_settings">Weitere Einstellungen;Mehr Einstellungen</string>
+  <string name="search_other_settings_sync_settings">Sync;Synchronisieren;Auto;Automatisch;Nur WLAN</string>
   <string name="search_owner_info_settings_title">Eigentümerinfo</string>
   <string name="search_page_layout_settings">Textgröße;Schriftgröße;kleine Schrift;große Schrift;mittlere Schrift;XXL Schrift;sehr große Schrift;Schriftgrößen</string>
   <string name="search_permission_manager">Berechtigungen;Rootzugriff</string>
   <string name="search_permission_settings_title">App-Berechtigungen</string>
+  <string name="search_pick_up_gesture_wakeup_title">Aufheben;Anheben</string>
   <string name="search_pointer_speed">Zeigergeschwindigkeit</string>
   <string name="search_power_checker">Akkuprüfer;Akku prüfen</string>
   <string name="search_power_hide_mode_title">Akkuverbrauch von Apps verwalten;Akkuverbrauch von Apps;Akkuverbrauch;Akkustatistik</string>
@@ -4829,6 +4904,7 @@ Mindestens %s freigeben."</string>
   <string name="search_screen_on_proximity_sensor_title">Wählen in der Tasche verhindern;Tasche;Pocketcall</string>
   <string name="search_screen_paper_mode_title">Lesemodus;Lesen;Blaulicht;Gelblicht;Nachtmodus</string>
   <string name="search_screen_saver_settings">Bildschirmschoner</string>
+  <string name="search_screen_shot">Screenshot;Bildschirmaufnahme;Aufnahme</string>
   <string name="search_screen_timeout">Ruhemodus;Bildschirm automatisch sperren;Bildschirmsperre</string>
   <string name="search_second_space">Zweitprofil;Zwei Profile;2 Profile;Apps verstecken;Fotos verstecken;Bildschirm sperren;Passwort Bildschirmsperre;Datenschutz;Datenschutzmodus;Privatmodus;Privat;Gastmodus;Gastsitzung;Gastzugang;Gastkonto;Gast</string>
   <string name="search_security_encryption_title">Gerät mit Sperrbildschirmpasswort verschlüsseln;verschlüsseln;Verschlüsselung;Gerät verschlüsseln;Telefon verschlüsseln</string>
@@ -4866,6 +4942,7 @@ Mindestens %s freigeben."</string>
   <string name="search_trusted_credentials">Vertrauenswürdige Anmeldedaten;App-Signatur;App-Signaturen;Anmeldedaten;Signatur</string>
   <string name="search_tts_settings_title">Text-in-Sprache-Ausgabe,Text-in-Sprache</string>
   <string name="search_turn_on_security_lock">Bildschirmsperre wählen;Bildschirmsperre;Bildschirmsperre hinzufügen</string>
+  <string name="search_unlogin_account_title">Mi Konto; Mi Konto ID;Konto;Konto ID</string>
   <string name="search_user_agreement">Nutzungsbedingungen</string>
   <string name="search_user_dict_settings_title">Persönliches Wörterbuch;Wörterbuch</string>
   <string name="search_vibrate_in_silent_title">Vibrieren wenn Lautlos;vibrieren;Vibration</string>
@@ -5010,6 +5087,8 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="select_sim_for_data">SIM für Daten auswählen</string>
   <string name="select_ssid_type_title">SSID auswählen</string>
   <string name="select_storage_location">Sicherungsort auswählen</string>
+  <string name="select_time_format_category_title">Zeitformat</string>
+  <string name="select_time_format_title">Zeitformat</string>
   <string name="select_to_speak_summary">Elemente auf Ihrem Bildschirm antippen, um sie laut vorlesen zu lassen</string>
   <string name="select_usb_configuration_dialog_title">USB-Konfiguration wählen</string>
   <string name="select_usb_configuration_title">USB-Konfiguration wählen</string>
@@ -5096,6 +5175,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="show_all_anrs_summary">Dialogfeld \"App antwortet nicht\" für Hintergrund-Apps anzeigen</string>
   <string name="show_all_apps">Vollständige Gerätenutzung anzeigen</string>
   <string name="show_background_processes">Prozesse im Cache anzeigen</string>
+  <string name="show_carrier_under_keyguard_title">Anbieter anzeigen bei gesperrtem Gerät</string>
   <string name="show_connected_devices_summary">Verbundene Geräte anzeigen</string>
   <string name="show_connected_devices_title">Verbundene Geräte</string>
   <string name="show_cpu_usage">CPU-Auslastung anzeigen</string>
@@ -5114,9 +5194,11 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="show_ime_summary">Auf dem Bildschirm halten, während die physische Tastatur aktiv ist</string>
   <string name="show_magnifier_when_input">Lupe anzeigen</string>
   <string name="show_menu">Menü anzeigen</string>
+  <string name="show_network_speed_title">Verbindungsgeschwindigkeit anzeigen</string>
   <string name="show_non_rect_clip">Nicht rechteckige Clipoperationen debuggen</string>
   <string name="show_notification_channel_warnings">Benachrichtigungskanalwarnungen anzeigen</string>
   <string name="show_notification_channel_warnings_summary">Bildschirmwarnung anzeigen, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
+  <string name="show_notification_icon_title">Benachrichtigungssymbole anzeigen</string>
   <string name="show_operator_name_summary">Netzwerkname in Statusleiste anzeigen</string>
   <string name="show_operator_name_title">Netzwerkname</string>
   <string name="show_owner_info_on_lockscreen_label">Eigentümerinformationen auf dem Sperrbildschirm anzeigen</string>
@@ -5133,6 +5215,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="show_touches">Berührungen anzeigen</string>
   <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
   <string name="show_user_info_on_lockscreen_label">Benutzerinfo im Sperrbildschirm anzeigen</string>
+  <string name="show_wifi_name_title">WLAN anzeigen</string>
   <string name="shut_down_find_device_network_failure_content">Konnte Gerät finden nicht ausschalten. Stellen Sie sicher, dass das Telefon mit dem Internet verbunden ist.</string>
   <string name="shut_down_find_device_network_failure_title">Internetverbindung nicht möglich</string>
   <string name="shuting_down_find_device">Gerät finden ausschalten…</string>
@@ -5249,6 +5332,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="slider_voice_online_theme">Online-Töne</string>
   <string name="slider_voice_summary">Abspielen von Tönen beim Auf- und Abbewegen des Bildschirms</string>
   <string name="slider_voice_title">Töne</string>
+  <string name="slot_number">(Fach %1$d)</string>
   <string name="slot_status_title">IMEI-Info</string>
   <string name="small_font">Klein</string>
   <string name="smallwindow_smartcover_title">Kleine Fensterfrontabdeckung</string>
@@ -5297,6 +5381,7 @@ Diese Funktion benötigt Berechtigungen, um auf Ihren Standort zuzugreifen, mobi
   <string name="sound_settings_summary_vibrate">Rufton auf Vibration eingestellt</string>
   <string name="sound_stereo_mode_summary">Funktioniert nur mit dem Lautsprecher</string>
   <string name="sound_stereo_mode_title">Stereoton</string>
+  <string name="sound_title">Töne</string>
   <string name="sound_vibrate_settings">Ton &amp; Vibration</string>
   <string name="sound_work_settings">Töne Arbeitsprofil</string>
   <string name="special_access">Spezieller Zugang</string>
@@ -5825,6 +5910,8 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
   <string name="to_close">Ausschalten</string>
   <string name="toast_lockscreen_glogin_empty_password">Passwort eingeben</string>
   <string name="toast_need_login">Melden Sie sich in Ihrem Mi Konto an</string>
+  <string name="toast_sta_ap_works_wifi_display_disable">Keine Übertragung bei bestehender WLAN-Verbindung und aktiviertem Hotspot</string>
+  <string name="toggle_collapse_after_clicked_title">Nach Antippen einklappen</string>
   <string name="total">Nicht stören</string>
   <string name="total_info">Ton und Vibration ausschalten, außer für Alarme</string>
   <string name="total_info_no_vibrator">Ton ausschalten, außer für Alarme</string>
@@ -6473,6 +6560,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="virus_scanner_select_trust_lib">Virendefinitionen auswählen</string>
   <string name="virus_scanner_title">Virenscanner</string>
   <string name="virus_scanner_update_lib">Virendefinitionen aktualisieren</string>
+  <string name="visibility_override_title">Am Sperrbildschirm</string>
   <string name="vision_settings_description">Sie können dieses Gerät an Ihre Bedürfnisse anpassen. Diese Eingabehilfen können später in Einstellungen geändert werden.</string>
   <string name="vision_settings_suggestion_title">Schriftgröße ändern</string>
   <string name="vision_settings_title">Einstellungen Bildverarbeitung</string>
