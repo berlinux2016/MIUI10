@@ -589,7 +589,6 @@ Zuletzt am %2$s ausgeführt"</string>
   <string name="awake">Aktive Zeit des Geräts</string>
   <string name="back_button">Zurück</string>
   <string name="back_key">Zurück</string>
-  <string name="badge_title">Desktop-App-Symbol anzeigen</string>
   <string name="background_activity_disabled_dialog_text">"Da diese App nicht auf Akkuoptimierung eingestellt ist, können Sie sie nicht einschränken.
 
 Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</string>
@@ -642,7 +641,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="backup_security_tips_message">Einige Apps können nicht gesichert oder wiederhergestellt werden</string>
   <string name="backup_security_tips_title">Sicherungen funktionieren eventuell nicht</string>
   <string name="backup_update">Aktualisieren</string>
-  <string name="badge_title">Desktop-App-Symbolplaketten anzeigen</string>
+  <string name="badge_title">Desktop-App-Symbol anzeigen</string>
   <string name="band_mode_failed">Fehlgeschlagen</string>
   <string name="band_mode_loading">Frequenzliste wird geladen…</string>
   <string name="band_mode_set">Festlegen</string>
@@ -2569,7 +2568,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gxzw_anim_star">Sternenlicht</string>
   <string name="gxzw_anim_title">Animation Fingerabruck</string>
   <string name="gxzw_aod_show_summary">Fingerabdrucksymbol wird angezeigt, wenn der Bildschirm ausgeschaltet ist. Diese Funktion erhöht den Stromverbrauch des Systems.</string>
-  <string name="gxzw_aod_show_tittle">Fingerabdrucksymbole anzeigen, wenn der Bildschirm ausgeschaltet ist</strin
+  <string name="gxzw_aod_show_tittle">Fingerabdrucksymbole anzeigen, wenn der Bildschirm ausgeschaltet ist</string>
   <string name="gxzw_dialog_message">Um den Bildschirm-Fingerabdrucksensor normal nutzen zu können, verwenden Sie keine Schutzfolie. Wenn Sie der Meinung sind, dass eine Schutzfolie immer noch notwendig ist, wählen Sie unter den autorisierten kompatiblen Optionen.</string>
   <string name="gxzw_dialog_not_show_again">Nicht mehr anzeigen</string>
   <string name="gxzw_dialog_ok">Verstanden</string>
@@ -3797,15 +3796,6 @@ Betriebssystem auswählen:"</string>
   <string name="notification_breathing_light_color_title">LED-Anzeige bei Benachrichtigung</string>
   <string name="notification_breathing_light_freq_title">Frequenz pulsierende Benachrichtigung</string>
   <string name="notification_channel_badge_title">Benachrichtigungs-Dot anzeigen</string>
-  <string name="notifi_channels">Benachrichtigungskategorien</string>
-  <string name="notifi_channels_other">Andere</string>  
-  <string name="notifi_importance_default">Zeigt sich überall, macht Lärm, aber nicht visuell.</string>
-  <string name="notifi_importance_high">Zeigt sich überall, macht Geräusche und schaut. Kann Vollbildansichten verwenden.</string>
-  <string name="notifi_importance_low">Zeigt sich überall, ist aber nicht aufdringlich.</string>
-  <string name="notifi_importance_min">Nur im Schatten zu sehen</string>
-  <string name="notifi_importance_none">Aus</string>
-  <string name="notifi_importance_unspecified">Die App entscheiden lassen</string>
-  <string name="notifi_no_channels">Diese App hat keine Benachrichtigungen veröffentlicht.</string>
   <string name="notification_channel_sound_title">Ton</string>
   <string name="notification_channel_summary_default">Hohe Wichtigkeit</string>
   <string name="notification_channel_summary_high">Dringende Wichtigkeit</string>
@@ -6573,14 +6563,14 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="virus_scanner_select_trust_lib">Virendefinitionen auswählen</string>
   <string name="virus_scanner_title">Virenscanner</string>
   <string name="virus_scanner_update_lib">Virendefinitionen aktualisieren</string>
-  <string name="visibility_override_title">Auf dem Sperrbildschirm</string>
+  <string name="visibility_override_title">Am Sperrbildschirm</string>
   <string name="vision_settings_description">Sie können dieses Gerät an Ihre Bedürfnisse anpassen. Diese Eingabehilfen können später in Einstellungen geändert werden.</string>
   <string name="vision_settings_suggestion_title">Schriftgröße ändern</string>
   <string name="vision_settings_title">Einstellungen Bildverarbeitung</string>
   <string name="voice_category">Sprache</string>
   <string name="voice_helper_title">Sprachassistent</string>
-  <string name="voice_input_output_settings">Sprachein- &amp; ausgabe</string>
-  <string name="voice_input_output_settings_title">Sprachein- &amp; ausgabeeinstellungen</string>
+  <string name="voice_input_output_settings">Sprachein- &amp; -ausgabe</string>
+  <string name="voice_input_output_settings_title">Sprachein- &amp; -ausgabeeinstellungen</string>
   <string name="voice_input_settings">Spracheingabeeinstellungen</string>
   <string name="voice_input_settings_title">Spracheingabe</string>
   <string name="voice_interaction_security_warning">Dieser Spracheingabedienst ist in der Lage, in Ihrem Namen eine permanente Sprachüberwachung durchzuführen und sprachgesteuerte Apps zu steuern. Er wird von der %s App durchgeführt. Wollen Sie diesen Dienst aktivieren?</string>
