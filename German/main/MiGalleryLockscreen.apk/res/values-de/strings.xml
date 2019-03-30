@@ -17,6 +17,11 @@
   <string name="abc_shareactionprovider_share_with">Teilen mit</string>
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
   <string name="abc_toolbar_collapse_description">Einklappen</string>
+  <string name="about_download_fail">Download nicht möglich</string>
+  <string name="about_downloading">%s wird heruntergeladen</string>
+  <string name="about_item_function">Neuerungen</string>
+  <string name="about_net_error">Netzwerkverbindung prüfen und erneut versuchen</string>
+  <string name="about_newest">Hintergrundkarussell ist auf dem neuesten Stand</string>
   <string name="ad_feed_badge">Werbung</string>
   <string name="ad_pop_btn_hidden">Verbergen</string>
   <string name="ad_pop_des">App-Download:</string>
@@ -80,6 +85,10 @@
   <string name="choose_to_signup">Nein, ich erstelle eins</string>
   <string name="clear_history">Verlauf löschen</string>
   <string name="clear_search_edittext">Löschen</string>
+  <string name="comment_pop_cancel">Nicht jetzt</string>
+  <string name="comment_pop_content">Bewerten Sie uns, wenn Ihnen das Hintergrundkarussell gefällt!</string>
+  <string name="comment_pop_ok">Bewerten</string>
+  <string name="comment_pop_title">Hintergrundkarussell bewerten</string>
   <string name="confirm">Einschalten</string>
   <string name="create_shortcut">Startbildschirmverknüpfung erstellen</string>
   <string name="current_connection_invalid">Warten, bis sich das Telefon mit dem Netzwerk verbindet</string>
@@ -177,6 +186,15 @@
   <string name="lks_left_net_error">Netzwerkverbindung fehlgeschlagen"</string>
   <string name="lks_logo_desc2">Täglich neue Hintergrundbilder</string>
   <string name="lks_subscription_toast">Hintergrundbild erfolgreich geändert</string>
+  <string name="llks_pop_btm_des">Starten Sie den Tag mit einem Lächeln</string>
+  <string name="llks_pop_btm_des_backup">Machen Sie sich einen guten Start in den Tag</string>
+  <string name="llks_pop_btm_title">Guten Morgen</string>
+  <string name="llks_pop_btm_title_backup">Morgengrüße</string>
+  <string name="llks_pop_i_know">Verstanden</string>
+  <string name="llks_pop_top_des">Regelmäßig neue Bilder erhalten</string>
+  <string name="llks_pop_top_des_backup">Täglich auf Ihren Bildschirm geliefert</string>
+  <string name="llks_pop_top_title">Heue Hintergrundbilder</string>
+  <string name="llks_pop_top_title_backup">Neue Bilder</string>
   <string name="load_hdpicture_complete">Originalbild geladen</string>
   <string name="loading">" "&lt;CDATA&gt;Nur eine Sekunde&amp;#8230;&lt;/CDATA&gt;" "</string>
   <string name="lock_screen_date">EEEE, d. MMMM</string>
@@ -199,6 +217,7 @@
   <string name="mode_title">Empfehlungen anzeigen</string>
   <string name="more_article">Weitere Artikel</string>
   <string name="need_open_gallery">Hintergrundkarussell einschalten</string>
+  <string name="new_feature_title">Was ist neu</string>
   <string name="no_long_show">Nicht wieder anzeigen</string>
   <string name="no_networdk">Netzwerkverbindung nicht möglich</string>
   <string name="no_pic_data">Keine Bilder gefunden</string>
@@ -473,6 +492,7 @@
   <string name="search_menu_title">Suchen</string>
   <string name="search_str">Beliebte Anfragen</string>
   <string name="select_package">Version wählen</string>
+  <string name="setting_about_item_title">Über Hintergrundkarussell</string>
   <string name="setting_des">Sie können Ihre Diashow unter Einstellungen &gt; Sperrbildschirm &amp; Passwort &gt; Hintergrundkarussell einrichten</string>
   <string name="setting_head">Einstellungen</string>
   <string name="setting_ok">Einstellungen</string>
@@ -499,6 +519,7 @@
   <string name="sst_custom_wallpaper_desc">Bilder aus der Galerie und Empfehlungen auswählen</string>
   <string name="sst_custom_wallpaper_title">Individuelle Diashow</string>
   <string name="sst_custom_wallpaper_title2">Diashow</string>
+  <string name="sst_disable_unopen">Beta-Funktion</string>
   <string name="sst_effect_next_wallpaper">Neues Hintergrundbild erstellen, um Änderungen zu übernehmen</string>
   <string name="sst_favor_desc">Meine Lieblingshintergründe</string>
   <string name="sst_favor_title">Favoriten</string>
@@ -510,6 +531,7 @@
   <string name="sst_mode_selection">Modus</string>
   <string name="sst_more_subscription">Weitere Abonnements</string>
   <string name="sst_morning_greeting_desc">Jeden Morgen ein neues Bild erhalten</string>
+  <string name="sst_morning_greeting_disable_toast">Diese Funktion wird in Kürze verfügbar sein</string>
   <string name="sst_morning_greeting_title">Morgengrüße erhalten</string>
   <string name="sst_new_feature">Neue Funktionen</string>
   <string name="sst_no_favor_wallpaper_hint">Keine Lieblingshintergründe</string>
@@ -548,8 +570,10 @@
   <string name="theme_apply_success">Erfolgreich angewendet</string>
   <string name="theme_applying">Anwenden…</string>
   <string name="theme_des">Hintergrundkarussell unterstützt nur das Standardthema von MIUI. Stellen Sie das Standardthema ein, um Hintergrundkarussell nutzen zu können.</string>
+  <string name="theme_des_lock_style">Standard-Sperrbildschirm anwenden und Hintergrundkarussell wieder einschalten</string>
   <string name="theme_ok">Standardthema einstellen</string>
   <string name="theme_title">Sie verwenden nicht das Standardthema</string>
+  <string name="theme_title_lock_style">Zum Standard-Sperrbildschirm wechseln</string>
   <string name="ticket_hint">Verifizierungscode</string>
   <string name="ticket_invalid">Eingegebener Code ist falsch</string>
   <string name="ticket_sign_in">Anmelden per SMS</string>
