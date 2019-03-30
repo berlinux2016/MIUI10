@@ -481,6 +481,15 @@ Nachdem Sie \"music.mp3\" in das Verzeichnis der SD-Karte gelegt haben, tippen S
   <string name="cit_tool_log_no_sdcard">SD-Karte jetzt einlegen</string>
   <string name="cit_tool_log_toast">Protokoll gespeichert unter %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Fehlerbericht erstellen (dauert ca. 1 Minute)…</string>
+  <string name="cit_tool_mbn_opt_help">"Bedienungsanleitung:
+1. Schritte zur Aktivierung eines MBN:
+Schritt 1: Wählen Sie den zu aktivierenden Slot des MBN, der normalerweise mit Doppelkarten geladen wird, der Standard sind Doppelkarten.
+Schritt 2: Sie müssen einen Namen für den zu aktivierende MBN auswählen. Der häufig verwendete MBN ist in der Dropdown-Liste vorgefertigt. Wenn er nicht gefunden wird, können Sie das Schlüsselwort des zu aktivierenden MBN-Namens in das Suchfeld eingeben, um den zu aktivierenden MBN zu finden.
+Schritt 3: Klicken Sie auf die Schaltfläche Aktivieren, um den ausgewählten MBN zu laden.
+2. Der Standard-MBN des Wiederherstellungssystems kann durch Klicken auf die Schaltfläche Standard-MBN wiederherstellen aktiviert werden.
+3. Nun können die Informationen der im aktuellen Modem geladenen MBN angezeigt werden.
+Die erste Zeile zeigt an, ob der vom aktuellen Modem geladene MBN der Standard-MBN des Systems ist. (Einige Produkte sind möglicherweise nicht in die entsprechende Schnittstelle integriert, wie diese Zeile zeigt: Nicht unterstützt)
+Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des Träger-MBN, die derzeit im Modem geladen sind. Unsere benutzerdefinierte MBN ist Carrier MBN, SUB0 ist Karte 1, SUB1 ist Karte 2."</string>
   <string name="cit_tool_modem">MODEM Testtools</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump erzwingen</string>
   <string name="cit_tool_modem_cu_volte_no">CU VoLTE deaktivieren</string>
@@ -671,9 +680,11 @@ Test erfolgreich, bitte tippen Sie auf die Taste Bestanden."</string>
   <string name="mic_volume_height_tip">MIKRO-Lautstärketest BESTANDEN</string>
   <string name="mic_volume_low_tip">MIKRO-Lautstärketest nicht bestanden. Bitte machen Sie bei der Aufnahme einen lauteren Ton.</string>
   <string name="micphone_test">Mikrofon &amp; Lautsprecher</string>
+  <string name="motor_calibration">Motorkalibrierung</string>
   <string name="navigation_drawer_close">Navigationsleiste schließen</string>
   <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
   <string name="next">Nächste</string>
+  <string name="next_step">Nächster Schritt</string>
   <string name="nfc_disable_tip">Bitte NFC-Funktion einschalten</string>
   <string name="no">Nein</string>
   <string name="no_vibrator">Keine Vibration</string>
@@ -765,9 +776,13 @@ halten Sie die andere Hand dicht an die Unterseite des Telefons.
 Sehen Sie sich den CS0-Wert an.
 Wenn der CS0-Wert zwischen 3000 und 30000 liegt, ist die Bestanden-Taste markiert."</string>
   <string name="sar_sensor_test_description">SAR-Sensor kalibieren und Daten sammeln</string>
+  <string name="sar_sensor_test_err_angle">Telefon ist nicht im rechten Winkel platziert</string>
+  <string name="sar_sensor_test_next_step">Trennwand in der Nähe des Mobiltelefons steuern</string>
+  <string name="sar_sensor_test_success">SAR Sensortest erfolgreich</string>
   <string name="sar_sensor_test_summary">"Drehen Sie das Telefon, legen Sie in die Halterung.
 Klicken Sie auf die Taste Kalibrierung starten.
 Nach erfolgreicher Kalibrierung prüfen Sie die Halterung in der Nähe des Telefons und weiter weg."</string>
+  <string name="sar_sensor_test_timeout">Timeout SAR Sensortest</string>
   <string name="screen_cancel">Ausschalten</string>
   <string name="screen_confirm">Einschalten</string>
   <string name="search_menu_title">Suchen</string>
