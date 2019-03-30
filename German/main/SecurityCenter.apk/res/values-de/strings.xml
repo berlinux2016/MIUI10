@@ -263,6 +263,8 @@ Sie verlieren keine App-Daten."</string>
   <string name="app_permission_use_neccesary">Erforderliche Berechtigungen</string>
   <string name="app_permission_use_no_neccesary">Optionale Berechtigungen</string>
   <string name="app_permission_use_title">Berechtigungen</string>
+  <string name="app_right">Xiaomi Firma offiziell produziert</string>
+
   <string name="app_usage_never">Lange nicht verwendet</string>
   <string name="app_usage_recently">Kürzlich verwendet</string>
   <string name="app_version">"Version: "</string>
@@ -392,6 +394,9 @@ Sie verlieren keine App-Daten."</string>
   <string name="battery_health_voltage_text">Akkuspannung</string>
   <string name="battery_history_activity_title">Akkuverbrauchsübersicht</string>
   <string name="battery_history_days_no_seconds">%1$T %2$dStd %3$dMin</string>
+  <string name="battery_history_hours">%1$dStd %2$dMin %3$dSek</string>
+  <string name="battery_history_minutes">%1$dMin %2$dSek</string>
+  <string name="battery_history_seconds">%1$dSek</string>
   <string name="battery_stats_charging_label">Aufladen</string>
   <string name="battery_stats_gps_on_label">GPS an</string>
   <string name="battery_stats_on_battery">%1$s im Akkubetrieb</string>
@@ -404,6 +409,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="battery_temperature_title">Temperatur</string>
   <string name="begin_date">Zurückgesetzt am</string>
   <string name="best_booster_status">Spielgeschwindigkeit ist die beste, die derzeit verfügbar ist.</string>
+  <string name="best_warning_dialog_button">Verstanden</string>
   <string name="bg_network_exception_title">Eingeschränkte Hintergrundverbindung</string>
   <string name="bind_xiaomi_account_cancel">Abbrechen</string>
   <string name="bind_xiaomi_account_confirm">Hinzufügen</string>
@@ -418,6 +424,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="blacklist_prefix_add_hint">Alle Nummern, die mit diesem Präfix beginnen, sperren</string>
   <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Anrufe: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="boost_done">Erfolgreich gesteigert</string>
   <string name="boost_done">Erfolgreich optimiert</string>
   <string name="boost_stop">Game Speed Booster deaktivieren</string>
   <string name="booster_suc">Erfolgreich optimiert</string>
@@ -969,8 +976,9 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="gb_advance_settings_reset">Standardeinstellungen wiederherstellen</string>
   <string name="gb_advance_settings_reset_dialog_content">Standardeinstellungen jetzt wiederherstellen?</string>
   <string name="gb_advance_settings_reset_dialog_title">Standardeinstellungen</string>
+  <string name="gb_advance_settings_screen_display">Anzeige</string>
   <string name="gb_advance_settings_screen_hdr">Verbesserte Grafik</string>
-  <string name="gb_advance_settings_screen_hdr_gear2">Moderat</string>
+  <string name="gb_advance_settings_screen_hdr_gear2">Mäßig</string>
   <string name="gb_advance_settings_screen_hdr_gear3">Stark</string>
   <string name="gb_advance_settings_screen_hdr_gear4">Extrem</string>
   <string name="gb_advance_settings_screen_hdr_summary">Kontrast erhöhen und Details für Spiele verbessern</string>
@@ -1337,7 +1345,7 @@ Ihr Anbieter kann Ihnen zusätzliche Gebühren berechnen, wenn Sie mobile Datenv
   <string name="mi_service_app_detail">Datenverbrauchsdetails</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Frameworkdetails</string>
-  <string name="mian_page_primary_txt">Roaming</string>
+  <string name="mian_page_primary_txt">Übersee-Roaming</string>
   <string name="midrop_post_notification_contentText">Probieren Sie Mi Drop. Es ist schnell und werbefrei.</string>
   <string name="midrop_post_notification_contentTitle">Sie müssen Dateien übertragen?</string>
   <string name="mixed_need_to_confirm">Nochmalige Eingabe zur Bestätigung</string>
@@ -1903,6 +1911,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="section_title_security_defend">Sicherheit</string>
   <string name="section_title_system">Systemsicherheit</string>
   <string name="security_scan_optimizing">Optimieren…</string>
+  <string name="security_center_slogan">Sicherheit. Immer auf der Hut.</string>
   <string name="see_more_content">Games für weitere Highlights aktualisieren</string>
   <string name="set_applock_password">Passwort setzen</string>
   <string name="set_immediately">Einstellen</string>
