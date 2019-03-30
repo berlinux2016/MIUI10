@@ -307,7 +307,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="allow_interruption_summary"> App darf Töne machen, vibrieren und /oder Benachrichtungen auf dem Bildschirm einblenden</string>
   <string name="allow_keyguard_summary">Benachrichtigungen am Sperrbildschirm anzeigen</string>
   <string name="allow_keyguard_title">Benachrichtigungen Sperrbildschirm</string>
-  <string name="allow_lights_title">Leichte Tipps erlauben</string>
+  <string name="allow_lights_title">Kleine Tipps erlauben</string>
   <string name="allow_mock_location">Falsche Standorte zulassen</string>
   <string name="allow_mock_location_summary">Falsche Standorte zulassen</string>
   <string name="allow_overlay_description">Diese Berechtigung erlaubt es einer App, über anderen Apps angezeigt zu werden und kann die Bedienung und Anzeige anderer Apps beeinträchtigen</string>
@@ -642,6 +642,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="backup_security_tips_message">Einige Apps können nicht gesichert oder wiederhergestellt werden</string>
   <string name="backup_security_tips_title">Sicherungen funktionieren eventuell nicht</string>
   <string name="backup_update">Aktualisieren</string>
+  <string name="badge_title">Desktop-App-Symbolplaketten anzeigen</string>
   <string name="band_mode_failed">Fehlgeschlagen</string>
   <string name="band_mode_loading">Frequenzliste wird geladen…</string>
   <string name="band_mode_set">Festlegen</string>
@@ -2567,6 +2568,8 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gxzw_anim_rhythm">Rhythmus</string>
   <string name="gxzw_anim_star">Sternenlicht</string>
   <string name="gxzw_anim_title">Animation Fingerabruck</string>
+  <string name="gxzw_aod_show_summary">Fingerabdrucksymbol wird angezeigt, wenn der Bildschirm ausgeschaltet ist. Diese Funktion erhöht den Stromverbrauch des Systems.</string>
+  <string name="gxzw_aod_show_tittle">Fingerabdrucksymbole anzeigen, wenn der Bildschirm ausgeschaltet ist</strin
   <string name="gxzw_dialog_message">Um den Bildschirm-Fingerabdrucksensor normal nutzen zu können, verwenden Sie keine Schutzfolie. Wenn Sie der Meinung sind, dass eine Schutzfolie immer noch notwendig ist, wählen Sie unter den autorisierten kompatiblen Optionen.</string>
   <string name="gxzw_dialog_not_show_again">Nicht mehr anzeigen</string>
   <string name="gxzw_dialog_ok">Verstanden</string>
@@ -2686,7 +2689,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="importance_high">Hoch</string>
   <string name="importance_low">Niedrig</string>
   <string name="importance_reset">Zurücksetzen</string>
-  <string name="importance_title">Wichtigkeit</string>
+  <string name="importance_title">Bedeutung</string>
   <string name="ims_reg_required_off">IMS-Registrierung muss ausgeschaltet werden</string>
   <string name="ims_reg_required_on">IMS-Registrierung muss eingeschaltet werden</string>
   <string name="ims_reg_status_not_registered">Nicht registriert</string>
@@ -3794,6 +3797,15 @@ Betriebssystem auswählen:"</string>
   <string name="notification_breathing_light_color_title">LED-Anzeige bei Benachrichtigung</string>
   <string name="notification_breathing_light_freq_title">Frequenz pulsierende Benachrichtigung</string>
   <string name="notification_channel_badge_title">Benachrichtigungs-Dot anzeigen</string>
+  <string name="notifi_channels">Benachrichtigungskategorien</string>
+  <string name="notifi_channels_other">Andere</string>  
+  <string name="notifi_importance_default">Zeigt sich überall, macht Lärm, aber nicht visuell.</string>
+  <string name="notifi_importance_high">Zeigt sich überall, macht Geräusche und schaut. Kann Vollbildansichten verwenden.</string>
+  <string name="notifi_importance_low">Zeigt sich überall, ist aber nicht aufdringlich.</string>
+  <string name="notifi_importance_min">Nur im Schatten zu sehen</string>
+  <string name="notifi_importance_none">Aus</string>
+  <string name="notifi_importance_unspecified">Die App entscheiden lassen</string>
+  <string name="notifi_no_channels">Diese App hat keine Benachrichtigungen veröffentlicht.</string>
   <string name="notification_channel_sound_title">Ton</string>
   <string name="notification_channel_summary_default">Hohe Wichtigkeit</string>
   <string name="notification_channel_summary_high">Dringende Wichtigkeit</string>
@@ -5175,7 +5187,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="show_all_anrs_summary">Dialogfeld \"App antwortet nicht\" für Hintergrund-Apps anzeigen</string>
   <string name="show_all_apps">Vollständige Gerätenutzung anzeigen</string>
   <string name="show_background_processes">Prozesse im Cache anzeigen</string>
-  <string name="show_carrier_under_keyguard_title">Anbieter anzeigen bei gesperrtem Gerät</string>
+  <string name="show_carrier_under_keyguard_title">Anbieter bei gesperrtem Gerät anzeigen</string>
   <string name="show_connected_devices_summary">Verbundene Geräte anzeigen</string>
   <string name="show_connected_devices_title">Verbundene Geräte</string>
   <string name="show_cpu_usage">CPU-Auslastung anzeigen</string>
@@ -5383,7 +5395,7 @@ Diese Funktion benötigt Berechtigungen, um auf Ihren Standort zuzugreifen, mobi
   <string name="sound_stereo_mode_title">Stereoton</string>
   <string name="sound_title">Töne</string>
   <string name="sound_vibrate_settings">Ton &amp; Vibration</string>
-  <string name="sound_work_settings">Töne Arbeitsprofil</string>
+  <string name="sound_work_settings">Ton Arbeitsprofil</string>
   <string name="special_access">Spezieller Zugang</string>
   <string name="speed_label_fast">Schnell</string>
   <string name="speed_label_medium">Mittel</string>
@@ -6518,6 +6530,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="vibrate_input_devices_summary">Vibration an Controller weitergeben, wenn verbunden</string>
   <string name="vibrate_on_touch_summary">Haptisches Feedback für Tippen, Tastatur und mehr</string>
   <string name="vibrate_on_touch_title">Bei Berührung vibrieren</string>
+  <string name="vibrate_title">Vibrieren</string>
   <string name="vibrate_when_ringing_title">Beim Klingeln vibrieren</string>
   <string name="view_password_description">Passwort anzeigen</string>
   <string name="vip_list">Eingehende Anrufe erlauben</string>
@@ -6560,14 +6573,14 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="virus_scanner_select_trust_lib">Virendefinitionen auswählen</string>
   <string name="virus_scanner_title">Virenscanner</string>
   <string name="virus_scanner_update_lib">Virendefinitionen aktualisieren</string>
-  <string name="visibility_override_title">Am Sperrbildschirm</string>
+  <string name="visibility_override_title">Auf dem Sperrbildschirm</string>
   <string name="vision_settings_description">Sie können dieses Gerät an Ihre Bedürfnisse anpassen. Diese Eingabehilfen können später in Einstellungen geändert werden.</string>
   <string name="vision_settings_suggestion_title">Schriftgröße ändern</string>
   <string name="vision_settings_title">Einstellungen Bildverarbeitung</string>
   <string name="voice_category">Sprache</string>
   <string name="voice_helper_title">Sprachassistent</string>
-  <string name="voice_input_output_settings">Spracheingabe &amp; -ausgabe</string>
-  <string name="voice_input_output_settings_title">Spracheingabe- &amp; -ausgabeeinstellungen</string>
+  <string name="voice_input_output_settings">Sprachein- &amp; ausgabe</string>
+  <string name="voice_input_output_settings_title">Sprachein- &amp; ausgabeeinstellungen</string>
   <string name="voice_input_settings">Spracheingabeeinstellungen</string>
   <string name="voice_input_settings_title">Spracheingabe</string>
   <string name="voice_interaction_security_warning">Dieser Spracheingabedienst ist in der Lage, in Ihrem Namen eine permanente Sprachüberwachung durchzuführen und sprachgesteuerte Apps zu steuern. Er wird von der %s App durchgeführt. Wollen Sie diesen Dienst aktivieren?</string>
