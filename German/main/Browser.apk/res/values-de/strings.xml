@@ -554,7 +554,7 @@ Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="mw_autofill_clear_local_copy_button">Kopie löschen</string>
   <string name="mw_autofill_from_google_account_long">Von Google Payments</string>
   <string name="mw_autofill_keyboard_accessory_content_description">Verfügbare Vorschläge</string>
-  <string name="mw_autofill_popup_content_description">Anzeigen des Autofill-Popup-Fensters</string>
+  <string name="mw_autofill_popup_content_description">Anzeigen der Autofill-Popup-Benachrichtigung</string>
   <string name="mw_autofill_scan_credit_card">Neue Karte scannen</string>
   <string name="mw_autofill_wallet_management_link_text">Bearbeiten</string>
   <string name="mw_cast_notification_connected_message">Verbunden mit %1$s</string>
@@ -761,7 +761,7 @@ Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="mw_older">Älter</string>
   <string name="mw_opening_file_error">Öffnen der gewählten Datei fehlgeschlagen</string>
   <string name="mw_page_info_permission_ads_subtitle">Seite tendiert dazu, aufdringliche Anzeigen zu zeigen</string>
-  <string name="mw_password_generation_popup_content_description">Popupfenster zur Passwortgenerierung anzeigen</string>
+  <string name="mw_password_generation_popup_content_description">Popup-Benachrichtigung zur Passwortgenerierung anzeigen</string>
   <string name="mw_payments_accepted_cards_label">Akzeptierte Karten</string>
   <string name="mw_payments_accepted_credit_cards_label">Akzeptierte Kreditkarten</string>
   <string name="mw_payments_accepted_credit_debit_cards_label">Akzeptierte Kredit- und Debitkarten</string>
@@ -841,7 +841,7 @@ Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="mw_payments_unsupported_shipping_address">An diese Adresse kann nicht versendet werden. Wählen Sie eine andere Adresse.</string>
   <string name="mw_payments_unsupported_shipping_option">Diese Versandmethode ist nicht verfügbar. Wählen Sie eine andere Methode.</string>
   <string name="mw_payments_updated_label">Aktualisiert</string>
-  <string name="mw_permission_alert_window">Um diese Funktion nutzen zu können, öffnen Sie bitte die Systemoption Popupfenster anzeigen.</string>
+  <string name="mw_permission_alert_window">Um diese Funktion nutzen zu können, öffnen Sie bitte die Systemoption Popup-Benachrichtigung anzeigen.</string>
   <string name="mw_permission_unknown">Unbekannte Option</string>
   <string name="mw_photo_picker_browse">Durchsuchen</string>
   <string name="mw_photo_picker_camera">Kamera</string>
@@ -875,7 +875,7 @@ Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="mw_time_picker_dialog_title">Zeit einstellen</string>
   <string name="mw_updating_chrome">Chrome updaten…</string>
   <string name="mw_video_buffering_percent">"Pufferung "</string>
-  <string name="mw_video_float_window">Popup</string>
+  <string name="mw_video_float_window">Popup-Benachrichtigung</string>
   <string name="mw_video_float_window_playing">Video abspielen</string>
   <string name="mw_video_play_error">Video konnte nicht abgespielt werden</string>
   <string name="mw_webview_find_on_page">Auf Seite suchen</string>
@@ -932,7 +932,7 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="paused_waiting_to_retry">Auf neuen Versuch warten…</string>
   <string name="pay_failed_toast">Bezahlung fehlgeschlagen</string>
   <string name="pay_success_toast">Bezahlung erfolgreich</string>
-  <string name="permission_alert_window">Um diese Funktion zu verwenden, aktivieren Sie die Systemeinstellung \"Popups anzeigen\"</string>
+  <string name="permission_alert_window">Um diese Funktion zu verwenden, aktivieren Sie die Systemeinstellung \"Popup-Benachrichtigung anzeigen\"</string>
   <string name="permission_notification">Benachrichtigungen senden</string>
   <string name="permission_unknown">Unbekannte Option</string>
   <string name="permissions_prompt_message">%s möchte</string>
@@ -944,8 +944,8 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="player_data_error_tip">Das Video ist vorübergehend nicht verfügbar. Bitte später erneut versuchen.</string>
   <string name="player_net_error">Das Netzwerk ist nicht verbunden, bitte Netzwerkeinstellungen überprüfen.</string>
   <string name="player_no_data">Entschuldigung! Dieses Video ist weg.</string>
-  <string name="popup_video">Videopopup</string>
-  <string name="popup_window_attempt">Erlauben Sie dieser Seite, ein Popupfenster zu öffnen?</string>
+  <string name="popup_video">Video-Popup-Benachrichtigung</string>
+  <string name="popup_window_attempt">Erlauben Sie dieser Seite, eine Popup-Benachrichtigung zu öffnen?</string>
   <string name="positive_confirm_message">Trotzdem ausschalten</string>
   <string name="pref_accept_quicklink_push">Newsfeed</string>
   <string name="pref_accessibility">Eingabehilfen</string>
@@ -1343,7 +1343,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="video_downloaded_group">Heruntergeladen</string>
   <string name="video_downloading_group">Herunterladen</string>
   <string name="video_edit">Bearbeiten</string>
-  <string name="video_float_window_text">Popup</string>
+  <string name="video_float_window_text">Popup-Benachrichtigung</string>
   <string name="video_fragment_name_collections">Favoriten</string>
   <string name="video_fragment_name_download">Offlinevideo</string>
   <string name="video_fragment_name_historys">Verlauf</string>
@@ -1354,7 +1354,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="video_push_multi_message">%1$d Updates verfügbar</string>
   <string name="video_push_multi_title">Update verfügbar</string>
   <string name="video_push_single_message">Tippen zum Update auf %1$d</string>
-  <string name="video_service_notification_title">Videopopup abspielen</string>
+  <string name="video_service_notification_title">Video-Popup abspielen</string>
   <string name="video_subtitle_last_message1">Weniger als 1 Minute verbleibend</string>
   <string name="video_subtitle_prefix1">Angesehen</string>
   <string name="video_subtitle_prefix2">" angesehen"</string>
