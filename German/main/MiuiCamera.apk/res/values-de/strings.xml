@@ -415,7 +415,8 @@ Berühren und halten, um mehr zu tun"</string>
 und erstellt dann eine Aufnahme mit minimalem Rauschen"</string>
   <string name="hint_address">Adresse</string>
   <string name="hint_ae_af_lock">Auto-Fokus/Auto-Belichtung wurde gesperrt</string>
-  <string name="hint_ae_lock">Auto-Belichtung wurde gesperrt</string>
+  <string name="hint_ae_lock">Automatische Belichtung ist gesperrt</string>
+  <string name="hint_ae_af_lock_extra">Autofokus/Autoaufnahme wurde gesperrt. Wechseln Sie in den Kameraeinstellungen zu Google Lens.</string>
   <string name="hint_device_water_mark">Wasserzeichen wird automatisch zum Foto hinzugefügt</string>
   <string name="hint_email">E-Mail</string>
   <string name="hint_eye_light">Augenlicht ist besser, wenn der Blitz eingeschaltet ist</string>
@@ -511,12 +512,21 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="mimetype">MIME-Typ</string>
   <string name="mimoji_back">Zurück</string>
   <string name="mimoji_cancle">Abbrechen</string>
+  <string name="mimoji_check_beyond_20_degrees">Bitte schauen Sie auf den Bildschirm, um Gesichtszüge zu erkennen</string>
+  <string name="mimoji_check_face_occlusion">Bitte verändern Sie den Gesichtsschutz, um Gesichtsmerkmale zu erkennen</string>
+  <string name="mimoji_check_face_too_close">Überprüfen Sie, ob Ihr Gesicht zu groß erscheint, bitte halten Sie Ihr Telefon weit weg.</string>
+  <string name="mimoji_check_face_too_far">Überprüfen Sie, ob Ihr Gesicht zu klein erscheint, bitte halten Sie Ihr Telefon näher heran.</string>
+  <string name="mimoji_check_low_light">Bitte bewegen Sie sich an einem hellen Ort, um das Gesicht leichter zu erkennen</string>
+  <string name="mimoji_check_multi_face">Bitte halten Sie eine Person im Sucher</string>
+  <string name="mimoji_check_no_face">Gesicht nicht erkannt</string>
+  <string name="mimoji_check_normal">Bitte drücken Sie die Kamerataste</string>
   <string name="mimoji_confirm">Bestätigen</string>
   <string name="mimoji_delete_mimoji">Emoji löschen</string>
   <string name="mimoji_delete_success">Erfolgreich gelöscht</string>
   <string name="mimoji_detect_tips">Bitte legen Sie Ihr Gesicht in die Rahmenbox.</string>
   <string name="mimoji_edit_mimoji">Emoji bearbeiten</string>
   <string name="mimoji_editor">Bearbeiten</string>
+  <string name="mimoji_on_create">Create a mock expression/Erstellen eines Mock-Ausdrucks</string>
   <string name="mimoji_recapture">Erneut aufnehmen</string>
   <string name="mimoji_save">Speichern</string>
   <string name="mimoji_save_success">Erfolgreich gespeichert</string>
@@ -1082,9 +1092,9 @@ Ultraweitwinkelmodus hilft, wenn man sich nicht weiter von der Szene entfernen k
   <string name="web_url_apk_warning">Diese App stammt aus einer unbekannten Quelle und kann ein Sicherheitsrisiko darstellen. Installieren Sie Apps nur aus vertrauenswürdigen Quellen.</string>
   <string name="web_url_warning">Verlinkte Webseite stammt aus einer unbekannten Quelle und kann ein Sicherheitsrisiko darstellen</string>
   <string name="website_details">Details Webseite:</string>
-  <string name="wideselfie_press_shoot_key_to_start">Drücken Sie den Auslöser</string>
+  <string name="wideselfie_press_shoot_key_to_start">Tippen Sie auf den Auslöser</string>
   <string name="wideselfie_result_image_lossless">Speichern von Panoramafotos fehlgeschlagen</string>
-  <string name="wideselfie_rotate_slowly">Drehen Sie das Telefon langsam</string>
+  <string name="wideselfie_rotate_slowly">Drehen Sie das Telefon langsam zur Seite</string>
   <string name="wideselfie_rotate_to_back">Neigen Sie das Telefon nach hinten</string>
   <string name="wideselfie_rotate_to_front">Neigen Sie das Telefon nach vorn</string>
   <string name="wideselfie_rotate_to_left_slowly">Drehen Sie das Telefon langsam nach links</string>
