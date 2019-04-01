@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_content">"Version: 2.1.1
+
+Perfdump Verwendung:
+1. Manueller Modus der Jank-Erkennung ist für Spiele konzipiert.
+
+2. 30FPS-Modus ist für 30FPS-Spiele oder Videos ausgelegt. Es kann prüfen, ob der Frame flüssig ist. Wenn es nicht flüssig ist (Problem: Frame schnell/langsam), wird es als Janks behandelt. Daher wird der FPS-Wert in diesem Modus geändert, nicht generell der FPS-Wert.
+
+3. Automatikmodus blendet die Bedienoberfläche des Overlays aus. Sie können den Schwellwert auf automatische Speicherung des Protokolls einstellen."</string>
+  <string name="action_about">Über</string>
+  <string name="action_jank_setting">Einstellung Jank-Erkennung</string>
+  <string name="action_misc_setting">Einstellung Sonstiges</string>
+  <string name="action_other_log_setting">Einstellung andere Protokolle</string>
+  <string name="action_trace_setting">Einstellung Systrace</string>
+  <string name="am">Aktivitätsmanager</string>
+  <string name="app">App</string>
+  <string name="auto_save_mode">Automatikmodus [Spiele, TV-out, TouchLatency:Ball]</string>
+  <string name="binder_driver">Binder-Treiber</string>
+  <string name="binder_lock">Binder-Sperre</string>
+  <string name="bionic">Bionic-C-Bibliothek</string>
+  <string name="camera">Kamera</string>
+  <string name="database">Datenbank</string>
+  <string name="freq">CPU Frequenz</string>
+  <string name="gfx">Grafik</string>
+  <string name="hint_alpha_setting">Alpha-Einstellung für Overlay</string>
+  <string name="hint_auto_dump_trace">Auto Dump Systrace, wenn FPS niedriger ist als:</string>
+  <string name="hint_edit_text">Trace-Puffergröße (KB)</string>
+  <string name="hint_enable_bugreport">Bugreport [ ! zeitaufwendig ]</string>
+  <string name="hint_icon_hidden">Perfdump-Symbol in der App-Liste des Launchers ausblenden und dann beenden</string>
+  <string name="hint_icon_hidden_title">Konfiguration Perfdump-Symbol</string>
+  <string name="hint_layer_option">Ebenenliste:</string>
+  <string name="hint_screencap_fps_record">Screenshot beim Starten/Stoppen der FPS-Aufzeichnung</string>
+  <string name="hint_screencap_trace">Screenshot beim Verwerfen von Systrace</string>
+  <string name="hint_tracezip">Komprimierter oder unkomprimierter Trace</string>
+  <string name="input">Eingabe</string>
+  <string name="irq">IRQ Ereignisse</string>
+  <string name="manual_detect">Manueller Modus [Spiele]</string>
+  <string name="manual_detect30">Manueller Modus [30FPS-Fall: schneller/langsamer Frame]</string>
+  <string name="memreclaim">Speicherrückgewinnung</string>
+  <string name="other_log_hint">Weitere Protokolle zusammen mit Systrace speichern</string>
+  <string name="pagecache">Seiten-Cache</string>
+  <string name="pm">Paketmanager</string>
+  <string name="power">Energiemanagement</string>
+  <string name="regulators">Regulatoren</string>
+  <string name="res">Laden von Ressourcen</string>
+  <string name="save">Speichern</string>
+  <string name="sched">CPU-Zeitplanung</string>
+  <string name="sm">Synchronisationsmanager</string>
+  <string name="ss">Systemserver</string>
+  <string name="subtitle1">Jank-Erkennung</string>
+  <string name="subtitle2">Systrace-Erfassung</string>
+  <string name="sync">Synchronisation</string>
+  <string name="tracezip">Trace mit Atrace-Format komprimieren</string>
+  <string name="view">System anzeigen</string>
+  <string name="wm">Fenstermanager</string>
+  <string name="workq">Arbeitsqueues</string>
+</resources>
