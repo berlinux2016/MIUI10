@@ -345,7 +345,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="aod_got_it">Verstanden</string>
   <string name="aod_mode_clock">Uhr</string>
   <string name="aod_mode_style">Uhrstil und Hintergrund</string>
-  <string name="aod_mode_summary">Zeigt Uhrzeit, Datum und Meldungen an, wenn der Bildschirm ausgeschaltet ist.</string>
+  <string name="aod_mode_summary">Diese Funktion erhöht den Stromverbrauch des Systems. Sie wird ausgeschaltet, wenn Ihr Gerät längere Zeit dunkel bleibt oder wenn Einschränkungen für den Akkuparmodus gelten.</string>
   <string name="aod_mode_time_summary">Planen Sie die Zeit ein, zu der Ihr Gerät in den Immer-An-Modus wechseln soll</string>
   <string name="aod_mode_time_title">Zeitplan</string>
   <string name="aod_mode_title">Immer-An-Modus</string>
@@ -547,6 +547,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="auto_disable_screenbuttons_rotation_title">Navigationstasten im Querformat sperren</string>
   <string name="auto_disable_screenbuttons_summary">Bei bestimmten Apps die Navigationstasten automatisch deaktivieren. Zweimal antippen, um die Tasten wieder zu aktivieren.</string>
   <string name="auto_disable_screenbuttons_title">Navigationstasten automatisch deaktivieren</string>
+  <string name="auto_dual_clock_aod_summary">Zeigt die Duale Uhr an, wenn die aktuelle Zeit von der auf der zweiten Uhr abweicht.</string>
   <string name="auto_dual_clock_summary">Duale Uhr anzeigen, wenn die aktuelle Zeit von der auf der zweiten Uhr abweicht</string>
   <string name="auto_dual_clock_title">Duale Uhr</string>
   <string name="auto_launch_disable_text">Keine Standards eingestellt</string>
@@ -1221,7 +1222,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="call_manager_enable_summary">Diesem Dienst die Verwaltung erlauben, wie Ihre Anrufe getätigt werden</string>
   <string name="call_manager_enable_title">Anrufmanager aktivieren</string>
   <string name="call_manager_title">Anrufmanager</string>
-  <string name="call_records_summary_1">9:35 AM | 26 Sekunden | China Unicom</string>
+  <string name="call_records_summary_1">9:35 AM | 26 Sek | China Unicom</string>
   <string name="call_records_summary_2">16. August | 1 Min 16 Sek | China Mobile</string>
   <string name="call_records_summary_3">16. August | 2 Min 24 Sek | China Unicom</string>
   <string name="call_settings_primary_user_only">Anrufeinstellungen im Erstprofil ändern</string>
@@ -2045,7 +2046,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="double_twist_for_camera_suggestion_title">Selfies schneller schießen</string>
   <string name="download_current_rom">Aktuellste Version von MIUI erhalten</string>
   <string name="downloading_description">Lädt herunter…</string>
-  <string name="doze_always_on_summary">Uhrzeit, Benachrichtigungssymbole und andere Infos anzeigen. Erhöhter Akkuverbrauch.</string>
+  <string name="doze_always_on_summary">Diese Funktion erhöht den Stromverbrauch des Systems. Sie wird ausgeschaltet, wenn Ihr Gerät längere Zeit dunkel bleibt oder wenn Einschränkungen für den Akkuparmodus gelten.</string>
   <string name="doze_always_on_title">Immer an</string>
   <string name="doze_summary">Bildschirm anschalten, wenn das Gerät hochgehoben wird oder Benachrichtigungen eingehen</string>
   <string name="doze_title">Umgebungsbildschirm</string>
@@ -2060,8 +2061,9 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="dual_clock_hint">"\"Duale Uhr\" basiert auf folgenden Funktionen:
 1. Am Sperrbildschirm entweder das Standard- oder das klassische Thema in Einstellungen &gt; Themen verwenden.
 2. Am Startbildschirm das Standard-Systemuhr-Widget verwenden."</string>
+  <string name="dual_clock_aod_open_message">Die Duale Uhr wird auf dem Sperr-, Start- und dem ausgeschalteten Bildschirm angezeigt.</string>
   <string name="dual_clock_ok">Verstanden</string>
-  <string name="dual_clock_open_message">Duale Uhr wird angezeigt am Sperrbildschirm, am Startbildschirm und bei ausgeschaltetem Bildschirm</string>
+  <string name="dual_clock_open_message">Duale Uhr wird auf dem Sperr- und Startbildschirm angezeigt.</string>
   <string name="dump_log">Problembezogene Protokolle abrufen</string>
   <string name="dump_log_summary">"Diese Funktion ist für die Generierung des 284 Log in den Alpha- und Beta-Versionen von MIUI vorgesehen. Verwende es mit Vorsicht.
 Du kannst die generierten Protokolle im Datei-Manager ansehen."</string>
@@ -2574,6 +2576,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gxzw_dialog_not_show_again">Nicht mehr anzeigen</string>
   <string name="gxzw_dialog_ok">Verstanden</string>
   <string name="gxzw_dialog_title">Über Bildschirm-Fingerabdrucksensor</string>
+  <string name="gxzw_enroll_again">Heben Sie Ihren Finger an und drücken Sie den Fingerabdruckscanner erneut</string>
   <string name="gxzw_quick_open_enable_summary">Gestenverknüpfungen verwenden, um Apps zu öffnen, oder App-Funktionen verwenden, wenn Ihr Gerät entsperrt ist</string>
   <string name="gxzw_quick_open_enable_title">Tastenkombinationen für Fingerabdrücke</string>
   <string name="gxzw_quick_open_fast_summary">Wischen, um eine Verknüpfung zu verwenden, sobald Ihr Gerät entsperrt ist</string>
@@ -2688,6 +2691,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="importance_default">Standard</string>
   <string name="importance_high">Hoch</string>
   <string name="importance_low">Niedrig</string>
+  <string name="importance_min">Geringfügig</string>
   <string name="importance_reset">Zurücksetzen</string>
   <string name="importance_title">Bedeutung</string>
   <string name="ims_reg_required_off">IMS-Registrierung muss ausgeschaltet werden</string>
@@ -2909,6 +2913,9 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="launching_cit">Öffne CIT…</string>
   <string name="launching_pho">Öffne Geräteinfo…</string>
   <string name="launching_rep">Berichten…</string>
+  <string name="layout_exhuge_font_take_effect_tips">XXL-Textgröße funktioniert nur in Telefon, Nachrichten und Kontakten</string>
+  <string name="layout_exhuge_font_tips">Weitere Optionen sind in %1$s verfügbar</string>
+  <string name="layout_exhuge_font_tips_reg">Barrierefreiheit > Displaygröße</string>
   <string name="layout_size_huge_text">Sehr groß</string>
   <string name="layout_size_large_text">Groß</string>
   <string name="layout_size_medium_text">Mittel</string>
@@ -3992,8 +3999,8 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="page_layout_7">Spiele</string>
   <string name="page_layout_9">Themen</string>
   <string name="page_layout_confirm_message">Um die Änderungen zu aktivieren, muss das Telefon neu gestartet werden. Dieser Vorgang dauert ungefähr 1 Minute.</string>
-  <string name="page_layout_confirm_message_enlarge">Text, Bilder und Symbole werden größer. Einige Symbole können ihre Position ändern.</string>
-  <string name="page_layout_confirm_message_narrow">Text, Bilder und Symbole werden kleiner. Einige Symbole können ihre Position ändern.</string>
+  <string name="page_layout_confirm_message_enlarge">Text, Bilder und Symbole werden vergrößert. Einige Symbole können ihre Position ändern.</string>
+  <string name="page_layout_confirm_message_narrow">Text, Bilder und Symbole werden verkleinert. Einige Symbole können ihre Position ändern.</string>
   <string name="page_layout_confirm_title">Bildschirmeinstellungen ändern</string>
   <string name="page_layout_confirm_title_enlarge">Größere Elemente</string>
   <string name="page_layout_confirm_title_narrow">Kleinere Elemente</string>
