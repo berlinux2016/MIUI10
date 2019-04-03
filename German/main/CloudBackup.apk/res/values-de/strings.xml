@@ -23,9 +23,11 @@
   <string name="btn_continue">Fortfahren</string>
   <string name="btn_restore_abort">Abbrechen</string>
   <string name="btn_restore_cancel">Abbrechen</string>
+  <string name="btn_restore_continue">Trotzdem wiederherstellen</string>
   <string name="btn_restore_resume">Fortsetzen</string>
-  <string name="btn_restore_retry">Nochmal versuchen</string>
-  <string name="btn_retry">Nochmals prüfen</string>
+  <string name="btn_restore_retry">Erneut versuchen</string>
+  <string name="btn_restore_wait">Auf WLAN warten</string>
+  <string name="btn_retry">Erneut prüfen</string>
   <string name="btn_skip">Diesen Schritt überspringen</string>
   <string name="button_cancel">Abbrechen</string>
   <string name="button_delete">Löschen</string>
@@ -106,6 +108,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="dialog_msg_restore_require_wlan">Wiederherstellen von Sicherungen erfordert WLAN-Verbindung</string>
   <string name="dialog_title_require_wlan">Mit WLAN verbinden</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
+  <string name="doing_calc_backup_data_size">Größe berechnen…</string>
   <string name="doing_restore_home">Startbildschirm und Einstellungen wiederherstellen…</string>
   <string name="done_remove">Erfolgreich entfernt</string>
   <string name="download_home_data">Startbildschirmlayout herunterladen…</string>
@@ -129,6 +132,9 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="menu_item_sort_size">Größe</string>
   <string name="msg_alert_cancel_restore">Wiederherstellen von Elementen, jetzt anhalten?</string>
   <string name="msg_alert_restore_error">Elemente wiederherstellen aus Mi Cloud nicht möglich, erneut versuchen.</string>
+  <string name="msg_restore_start_with_metered_network">"Ihr Startbildschirm wird neu gestartet. Gesicherte Apps werden automatisch heruntergeladen. &lt;br />&lt;b>&lt;font color='red'>%s Dateien werden heruntergeladen.&lt;/font>&lt;/b>"</string>
+  <string name="msg_restore_with_metered_network_hint">Wenn Sie mit der Wiederherstellung dieser Elemente fortfahren, werden mobile Daten für den Download verwendet.</string>
+  <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font>Dateien werden heruntergeladen."</string>
   <string name="network_error">Mit Netzwerk verbinden</string>
   <string name="no_account">Nicht am Mi Konto angemeldet</string>
   <string name="no_backup">Keine Sicherungen in Mi Cloud</string>
@@ -153,9 +159,22 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="remove_task_in_process">Entfernen…</string>
   <string name="remove_task_unfinished">Entfernen fehlgeschlagen</string>
   <string name="remove_unfinished">Entfernen später erneut versuchen</string>
+  <string name="restore_app_order_finish">Erledigt</string>
+  <string name="restore_app_order_loading">Einen Moment…</string>
+  <string name="restore_app_order_retry">Erneut versuchen</string>
+  <string name="restore_app_order_retry_desc">Verbindung zum Netzwerk wurde nicht hergestellt. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+  <string name="restore_app_order_search_hint">Nach Elementen zum Festlegen der Priorität suchen</string>
+  <string name="restore_app_order_search_installed">Apps auf diesem Gerät</string>
+  <string name="restore_app_order_search_normal">Apps mit normaler Priorität</string>
+  <string name="restore_app_order_search_prior">Apps mit hoher Priorität</string>
+  <string name="restore_app_order_title">Wiederhergestellte Elemente priorisieren</string>
   <string name="restore_cloud_backup_to_phone">Elemente aus Mi Cloud wiederherstellen</string>
   <string name="restore_data_summary">Diese Funktion benötigt eine Internetverbindung</string>
   <string name="restore_data_title">Daten wiederherstellen</string>
+  <string name="restore_detail_category_apps">Starbildschirmlayout &amp; Apps</string>
+  <string name="restore_detail_category_settings">Einstellungen</string>
+  <string name="restore_detail_more">Mehr</string>
+  <string name="restore_detail_title">Elemente zum Wiederherstellen wählen</string>
   <string name="restore_finish_description">Wiederherstellung abgeschlossen</string>
   <string name="restore_finished_notification_content">Startbildschirm-Apps, Systemeinstellungen, etc. wiederhergestellt</string>
   <string name="restore_from_cloud">Wiederherstellen mit Sicherung aus Mi Cloud</string>
@@ -163,6 +182,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="restore_home_failed">Wiederherstellen des Startbildschirms fehlgeschlagen</string>
   <string name="restore_home_screen_apps">Wiederherstellen mit Sicherung aus Mi Cloud</string>
   <string name="restore_init_description">Wiederherstellung starten</string>
+  <string name="restore_network_pause">%s (zum Fortfahren tippen)</string>
+  <string name="restore_network_unconnect">%s (auf Verbindung warten)</string>
   <string name="restore_task_cancelling">Abbrechen…</string>
   <string name="restore_task_in_process">Wiederherstellen…</string>
   <string name="restore_unfinished">Wiederherstellen später erneut versuchen</string>
@@ -182,6 +203,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="success_open_cloudbackup">Sicherung der Startbildschirm-Apps aktiviert</string>
   <string name="title_alert_cancel_restore">Wiederherstellen stoppen</string>
   <string name="title_alert_restore_error">Wiederherstellen fehlgeschlagen</string>
+  <string name="title_restore_with_current_network">Aktuelle Verbindung zum Herunterladen von Dateien verwenden</string>
   <string name="total_space">Gesamt: %s</string>
   <string name="try_again">Tippen, um erneut zu versuchen</string>
   <string name="try_continue">Tippen zum Fortfahren</string>
