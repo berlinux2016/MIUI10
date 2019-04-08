@@ -24,6 +24,14 @@
     <item quantity="other">%1$s Sekunden nach dem Feedback</item>
     <item quantity="one">%1$s Sekunde nach dem Feedback</item>
   </plurals>
+  <plurals name="feedback_result_interval_time_too_short_minute">
+    <item quantity="other">Sie können in %1$s Minuten erneut ein Feedback abgeben</item>
+    <item quantity="one">Sie können in %1$s Minute erneut ein Feedback abgeben</item>
+  </plurals>
+  <plurals name="feedback_result_interval_time_too_short_second">
+    <item quantity="other">Sie können in %1$s Sekunden erneut ein Feedback abgeben</item>
+    <item quantity="one">Sie können in %1$s Sekunde erneut ein Feedback abgeben</item>
+  </plurals>
   <plurals name="no_vote_num">
     <item quantity="other">"%1$s Personen | "</item>
     <item quantity="one">"%1$s Person | "</item>

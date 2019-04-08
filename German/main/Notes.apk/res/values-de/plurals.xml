@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  Notes.apk/res/values/plurals.xml
+  <plurals name="alert_message_delete">
+    <item quantity="other">%1$s Elemente löschen?</item>
+    <item quantity="one">%1$s Element löschen?</item>
+  </plurals>
   <plurals name="cloud_state_unsynced_count">
     <item quantity="other">%1$s wurden nicht synchronisiert</item>
     <item quantity="one">Einer wurde nicht synchronisiert</item>
@@ -8,6 +13,14 @@
     <item quantity="other">%1$s Ordner</item>
     <item quantity="one">Einen Ordner</item>
   </plurals>
+  <plurals name="format_move_notes_out_folder">
+    <item quantity="other">%1$s Notizen aus dem Ordner entfernt</item>
+    <item quantity="one">%1$s Notiz aus dem Ordner entfernt</item>
+  </plurals>
+  <plurals name="format_move_notes_to_folder">
+    <item quantity="other">%1$s Notizen nach %2$s verschieben</item>
+    <item quantity="one">%1$s Notiz nach %2$s verschieben</item>
+  </plurals>
   <plurals name="note_count_in_folder">
     <item quantity="other">%1$s Notizen</item>
     <item quantity="one">Eine Notiz</item>
@@ -15,6 +28,14 @@
   <plurals name="note_terms">
     <item quantity="other">%1$s Notizen</item>
     <item quantity="one">Eine Notiz</item>
+  </plurals>
+  <plurals name="toast_notes_hidden_count">
+    <item quantity="other">%1$s Notizen erfolgreich ausgeblendet</item>
+    <item quantity="one">%1$s Notiz erfolgreich ausgeblendet</item>
+  </plurals>
+  <plurals name="toast_notes_unhidden_count">
+    <item quantity="other">%1$s Notizen erfolgreich eingeblendet</item>
+    <item quantity="one">%1$s Notiz erfolgreich eingeblendet</item>
   </plurals>
   <plurals name="record_last_ten_seconds_reminder">
     <item quantity="other">%d Sekunden übrig</item>
