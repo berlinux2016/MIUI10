@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibiliy_description_content_account">Profil</string>
-  <string name="accessibiliy_description_content_ad">Werbung</string>
-  <string name="accessibiliy_description_content_add_resource">Element hinzufügen</string>
-  <string name="accessibiliy_description_content_back">Zurück</string>
-  <string name="accessibiliy_description_content_comment">Kommentar</string>
-  <string name="accessibiliy_description_content_favorite">Zu Favoriten hinzufügen</string>
-  <string name="accessibiliy_description_content_more">Mehr</string>
-  <string name="accessibiliy_description_content_search">Suchen</string>
-  <string name="accessibiliy_description_content_share">Teilen</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -26,6 +17,17 @@
   <string name="abc_shareactionprovider_share_with">Teilen mit</string>
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
   <string name="abc_toolbar_collapse_description">Einklappen</string>
+  <string name="accessibiliy_description_content_account">Profil</string>
+  <string name="accessibiliy_description_content_ad">Werbung</string>
+  <string name="accessibiliy_description_content_add_resource">Element hinzufügen</string>
+  <string name="accessibiliy_description_content_back">Zurück</string>
+  <string name="accessibiliy_description_content_comment">Kommentar</string>
+  <string name="accessibiliy_description_content_favorite">Zu Favoriten hinzufügen</string>
+  <string name="accessibiliy_description_content_more">Mehr</string>
+  <string name="accessibiliy_description_content_search">Suchen</string>
+  <string name="accessibiliy_description_content_share">Teilen</string>
+  <string name="accessibility_setting_hint">"Tippen Sie auf die Schaltfläche in der oberen rechten Ecke, um diesen Dienst einzuschalten.
+Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergrundbilder in den Apps Ihrer Wahl an."</string>
   <string name="account_id_not_login">Zum Anmelden berühren</string>
   <string name="account_info">Mein Konto</string>
   <string name="account_name_not_login">Anmelden</string>
@@ -46,8 +48,10 @@
   <string name="add_resource_detail_fail">Ressource kann nicht hinzugefügt werden</string>
   <string name="all_resources">Alle</string>
   <string name="all_ringtone_resource">Alle</string>
-  <string name="app_name">Themen</string>
   <string name="app_ad_title">Tägliche Empfehlungen</string>
+  <string name="app_disable_transparent_wallpaper">Ohne transparentes Hintergrundbild</string>
+  <string name="app_enable_transparent_wallpaper">Mit transparentem Hintergrundbild</string>
+  <string name="app_name">Themen</string>
   <string name="apply_default_font_tip">Aktuelle Systemschriftart verwenden?</string>
   <string name="apply_font_btn_exclude">Nicht anwenden</string>
   <string name="apply_font_btn_reboot">Neustarten</string>
@@ -119,6 +123,9 @@
   <string name="download_preview_failed">Laden der Vorschau fehlgeschlagen</string>
   <string name="download_success">Download abgeschlossen</string>
   <string name="dynamic_video_wallpaper">24h Hintergrundbild</string>
+  <string name="enable_accessibility">Zugangsberechtigungen erforderlich</string>
+  <string name="enable_accessibility_hint">Sie können diesen Dienst unter Themen aktivieren. Danach können Sie auswählen, welche Apps mit transparenten Hintergrundbildern arbeiten sollen.</string>
+  <string name="enable_transparent_wallpaper">Transparentes Hintergrundbild verwenden</string>
   <string name="exit_extreme_mode_dialog_agree">Zustimmen</string>
   <string name="exit_extreme_mode_dialog_cancel">Abbrechen</string>
   <string name="exit_extreme_mode_dialog_title">Extremmodus ausschalten</string>
@@ -144,7 +151,7 @@
   <string name="extreme_mode_dialog_message">Diese Funktion ist im Extremmodus nicht verfügbar. Schalten Sie ihn aus, um sie nutzen zu können.</string>
   <string name="extreme_mode_dialog_ok">Verstanden</string>
   <string name="extreme_mode_dialog_title">Warnung</string>
-  <string name="fail_to_add_account">Konto konnte nicht hinzugefügt werden</string>
+  <string name="fail_to_add_account">Konto wurde nicht hinzugefügt</string>
   <string name="favorite_list">Favoriten</string>
   <string name="favorite_list_format">Favoriten %1$s</string>
   <string name="find_more_font">Mehr entdecken</string>
@@ -185,6 +192,7 @@
   <string name="gift_use_confirmation_dlg_title">Dieses Geschenk verschicken?</string>
   <string name="gift_use_fail_dlg_title">Irgendwas lief da schief</string>
   <string name="gift_used">Gesendet</string>
+  <string name="go_accessibility_setting">Wählen</string>
   <string name="hide_free">Kostenlose %1$s ausblenden</string>
   <string name="hide_incompatible">Inkompatible %1$s ausblenden</string>
   <string name="hide_pull_down_message">Schmuck ausblenden?</string>
@@ -221,9 +229,9 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="local_photos">Lokale Fotos</string>
   <string name="local_resouce_creator_name">Entwickler: %1$s</string>
   <string name="lockscreen_apply_failured">Hintergund für Sperrbildschirm kann nicht angewendet werden</string>
-  <string name="lockscreen_apply_failured_but_home_apply_success">Hintergrund für Startbildschirm wurde angewendet, aber konnte nicht für Sperrbildschirm angewendet werden</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">Hintergrund für Startbildschirm wurde angewendet, aber nicht für Sperrbildschirm</string>
   <string name="lockscreen_apply_success">Hintergrund für Sperrbildschirm wurde angewendet</string>
-  <string name="lockscreen_apply_success_but_home_apply_failured">Hintergrund für Sperrbildschirm wurde angewendet, aber konnte nicht für Startbildschirm angewendet werden</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">Hintergrund für Sperrbildschirm wurde angewendet, aber nicht für Startbildschirm</string>
   <string name="lockscreen_magazine_subscribe">%1$s Anhänger</string>
   <string name="lockscreen_magazine_summary">Kategorien</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s Hintergrundbilder</string>
@@ -231,6 +239,7 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="lockscreen_wallpaper">Sperrbildschirm</string>
   <string name="lockstyle_personal_settings">Anpassen</string>
   <string name="long_ringtone_resource">Lang</string>
+  <string name="loop_wallpaper_is_here">Hintergrund-Diashows sind ab sofort verfügbar</string>
   <string name="mi_wallpaper">MIUI Hintergrundbild</string>
   <string name="miuishare_account_activate_confirmation">Mi-Konto aktivieren</string>
   <string name="miuishare_account_activate_ok">Aktivieren</string>
@@ -255,6 +264,7 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="mix_icons_option_des">Startbildschirm-Symbole. Deaktivieren Sie dieses Kontrollkästchen, um die Standardoptionen zu verwenden.</string>
   <string name="mix_lockscreen_option_des">Hintergrundbild und Uhr. Deaktivieren Sie dieses Kontrollkästchen, um die Standardoptionen zu verwenden.</string>
   <string name="mix_tip">Themenkomponenten</string>
+  <string name="multi_sim_mms_ringtone_settings_dialog_message">Dieser Klingelton wird für beide SIM-Karten verwendet.</string>
   <string name="multi_sim_ringtone_settings_dialog_message">Klingelton wird gleichzeitig zu SIM-Karte 1 und  SIM-Karte 2 zugeordnet</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Verstanden</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">Nicht wieder anzeigen</string>
@@ -302,8 +312,9 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="purchased_list_format">%1$s gekauft</string>
   <string name="purchased_list_legacy">Alte Themen</string>
   <string name="recently_used">Zuletzt verwendet</string>
+  <string name="reenable_accessibility">Ein Fehler ist aufgetreten. Zugriffsberechtigungen erneut vergeben.</string>
   <string name="refresh_footer_all_loaded">Das ist alles fürs Erste</string>
-  <string name="refresh_footer_failed">Konnte keine Infos laden</string>
+  <string name="refresh_footer_failed">Infos wurden nicht geladen</string>
   <string name="refresh_footer_finish">Erfolgreich geladen</string>
   <string name="refresh_footer_loading">Eine Sekunde, bitte…</string>
   <string name="refresh_footer_pullup">Hochziehen, um mehr zu laden</string>
@@ -361,7 +372,7 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="resource_comment_sending">Sende Kommentar…</string>
   <string name="resource_comment_title">Kommentar: %1$s</string>
   <string name="resource_comment_upload_data_invalid">Kommentar ungültig</string>
-  <string name="resource_comment_upload_failed">Kommentar konnte nicht gesendet werden</string>
+  <string name="resource_comment_upload_failed">Kommentar wurde nicht gesendet</string>
   <string name="resource_comment_upload_hint">Ihr Kommentar wird nach einer kurzen Prüfung angezeigt</string>
   <string name="resource_comment_upload_not_bought">Sie müssen das Thema übernehmen, bevor Sie einen Kommentar schreiben können</string>
   <string name="resource_comment_upload_not_logined">Bitte zuerst anmelden</string>
@@ -511,7 +522,7 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="resource_trial_end_title">Testversion abgelaufen</string>
   <string name="resource_trial_fail_go_settings">Einstellungen</string>
   <string name="resource_trial_fail_message">Stellen Sie sicher, dass Ihre Systemuhr auf die richtige Zeit eingestellt ist</string>
-  <string name="resource_trial_fail_title">Testversion konnte nicht eingerichtet werden</string>
+  <string name="resource_trial_fail_title">Testversion wurde nicht eingerichtet</string>
   <string name="resource_trial_hours">Testversion : %1$d Stunden</string>
   <string name="resource_trial_hours_minutes">Testversion :%1$d Stunden %2$d Minuten</string>
   <string name="resource_trial_minutes">Testversion : %1$d Minuten</string>
@@ -550,6 +561,7 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="the_picture_is_not_support">Bild wird nicht unterstützt</string>
   <string name="the_picture_is_too_small">Bild ist zu klein</string>
   <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Benutzerdefinierter Klingelton</string>
+  <string name="theme_apply_audio_dialog_item_mms">Nachrichten-Klingelton</string>
   <string name="theme_apply_audio_dialog_item_notification">Benachrichtigungen</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Klingelton</string>
   <string name="theme_apply_failured">Sperrbildschirmhintergrund kann nicht angewendet werden</string>
@@ -644,11 +656,20 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="title_system_resource">Lokal</string>
   <string name="title_system_wallpaper_resource">Systemhintergründe</string>
   <string name="to_activate_the_account">Mi Konto jetzt aktivieren</string>
+  <string name="transparency_pref_summary">Wählen Sie, wie transparent Ihr Hintergrundbild sein soll</string>
+  <string name="transparency_pref_title">Deckkraftstufe</string>
   <string name="transparent_wallpaper">Transparenter Hintergrund</string>
   <string name="transparent_wallpaper_apply_success">Erfolgreich eingestellt. Sie können diese Funktion unter Themen > Profil > Beta-Funktionen deaktivieren.</string>
+  <string name="transparent_wallpaper_disable">Aus</string>
+  <string name="transparent_wallpaper_enable">An</string>
   <string name="transparent_wallpaper_enable_success">Erfolgreich eingeschaltet</string>
+  <string name="transparent_wallpaper_filter_pref_summary">Transparente Hintergrundbilder werden in eingeschränkten Apps nicht angezeigt</string>
+  <string name="transparent_wallpaper_filter_pref_title">Apps wählen, die mit transparenten Hintergrundbildern funktionieren sollen</string>
+  <string name="transparent_wallpaper_filter_set_successfully">Erfolgreich eingestellt</string>
+  <string name="transparent_wallpaper_filter_setting">Individuelle Apps</string>
   <string name="transparent_wallpaper_guide">Zu den Themen gehen</string>
   <string name="transparent_wallpaper_guide_tip">Sie können jetzt ein transparentes Hintergrundbild in den Themen auswählen.</string>
+  <string name="transparent_wallpaper_pref_summary">Hintergrundbilder mit reduzierter Hintergrunddeckkraft</string>
   <string name="transparent_wallpaper_white_wallpaper">Hintergrund weiß machen</string>
   <string name="transparent_wallpaper_white_wallpaper_failed">Hintergrund weiß machen fehlgeschlagen</string>
   <string name="transparent_wallpaper_white_wallpaper_success">Hintergrundfarbe ist jetzt weiß</string>
@@ -686,6 +707,27 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="wallpaper_decoded_error">Laden fehlgeschlagen</string>
   <string name="wallpaper_detail_load_page_no_network">Verbinden Sie sich mit dem Netzwerk und versuchen Sie es erneut.</string>
   <string name="wallpaper_loading_text">Wird geladen…</string>
+  <string name="wallpaper_loop_add_success">Erfolgreich hinzugefügt</string>
+  <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Diashow zum Startbildschirm hinzufügen</string>
+  <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Diashow zum Sperrbildschirm hinzufügen</string>
+  <string name="wallpaper_loop_desc_all_walpaper">Eigene Hintergrund-Diashows erstellen</string>
+  <string name="wallpaper_loop_desc_desk_walpaper">Eigene Diashow für Ihren Startbildschirm erstellen</string>
+  <string name="wallpaper_loop_desc_lock_walpaper">Eigene Diashow für Ihren Sperrbildschirm erstellen</string>
+  <string name="wallpaper_loop_interval_15min">Alle 15 Minuten</string>
+  <string name="wallpaper_loop_interval_1d">Jeden Tag</string>
+  <string name="wallpaper_loop_interval_1h">Jede Stunde</string>
+  <string name="wallpaper_loop_interval_desc">Zeitintervall für Ihre Diashow festlegen</string>
+  <string name="wallpaper_loop_interval_title">Hintergrundbild ändern</string>
+  <string name="wallpaper_loop_manage">Verwalten</string>
+  <string name="wallpaper_loop_more_options">Weitere Einstellungen</string>
+  <string name="wallpaper_loop_my_desk_wallpaper">Meine Startbildschirm-Hintergründe</string>
+  <string name="wallpaper_loop_my_lock_wallpaper">Meine Sperrbildschirm-Hintergründe</string>
+  <string name="wallpaper_loop_order_desc">Reihenfolge wählen, in der die Bilder erscheinen</string>
+  <string name="wallpaper_loop_order_shuffle">Zufällig</string>
+  <string name="wallpaper_loop_order_title">Bildreihenfolge </string>
+  <string name="wallpaper_loop_title">Hintergrund-Diashow</string>
+  <string name="wallpaper_loop_title_desk_wallpaper">Hintergrund-Diashow Startbildschirm</string>
+  <string name="wallpaper_loop_title_lock_walpaper">Hintergrund-Diashow Sperrbildschirm</string>
   <string name="wallpaper_personal_dialog_agree">Personalisieren</string>
   <string name="wallpaper_personal_dialog_content">Benutzen Sie diese Funktion, um die Auswahl an Hintergrundbildern zu sehen, die auf Ihre Interessen zugeschnitten sind. Sie können diese Funktion in den Einstellungen ein- und ausschalten. Hintergrundbilder jetzt personalisieren?</string>
   <string name="wallpaper_personal_dialog_disagree">Nein, danke</string>
