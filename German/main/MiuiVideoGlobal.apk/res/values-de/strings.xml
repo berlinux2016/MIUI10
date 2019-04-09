@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Subscribe">Abonnieren</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -130,7 +131,10 @@
   <string name="dialog_privacy_title">Genehmigung</string>
   <string name="dialog_revoke_privacy_info_new2">Wenn Sie die Genehmigung widerrufen, stoppt die App die Datenerfassung, und alle damit verbundenen Daten werden von unseren Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Genehmigung trotzdem widerrufen?</string>
   <string name="dialog_revoke_privacy_title">Genehmigung widerrufen</string>
+  <string name="diy_channels_tips">Sie können die Liste Ihrer Kanäle jetzt anpassen.</string>
   <string name="do_not_show_this_again">Nicht wieder anzeigen</string>
+  <string name="empty_channels">Kanäle verwalten</string>
+  <string name="empty_subscribe">Sie haben noch nichts abonniert.</string>
   <string name="enable_background_audio">Im Hintergrund spielen</string>
   <string name="error_drm_not_supported">Geschützte Inhalte, nicht unterstützt auf einem API-Level unter 18</string>
   <string name="error_drm_unknown">Ein unbekannter DRM-Fehler ist aufgetreten.</string>
@@ -163,6 +167,9 @@
   <string name="get_ph_ticket">Code erhalten</string>
   <string name="goto_sign_up">Konto erstellen</string>
   <string name="grant_write_settings_permission">Bitte erlauben, um die Helligkeit des Players zu steuern</string>
+  <string name="hidden_channels">Folgende Kanäle werden auf der Startseite nicht angezeigt.</string>
+  <string name="init_channels">Standardwerte wiederherstellen</string>
+  <string name="isSubscribed">Abonniert</string>
   <string name="isornot_your_mi_account">Ist das Ihr Mi Konto?</string>
   <string name="language_select_tips">Was sind Ihre Sprachvorgaben für Videos? Sie können mehrere Sprachen auswählen.</string>
   <string name="language_setting_tips">Erfolgreich gespeichert. Sie können Ihre Sprachvorgaben in den Einstellungen ändern.</string>
@@ -301,6 +308,7 @@
   <string name="mr_controller_stop_casting">Spiegeln stoppen</string>
   <string name="mr_controller_volume_slider">Lautstärkeregler</string>
   <string name="mr_user_route_category_name">Geräte</string>
+  <string name="my_favorite_channels">Meine Kanäle</string>
   <string name="need_update_app">Mi Video aktualisieren, um alle Funktionen nutzen zu können</string>
   <string name="network_connect_info">Die Verbindung zum Netzwerk wurde nicht hergestellt. Überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>
   <string name="network_failed">Netzwerkverbindung nicht möglich</string>
@@ -348,13 +356,17 @@
   <string name="ovp_load_playinfo_failure">Keine Info erhalten</string>
   <string name="ovp_loading_video_netplay_label_v5">Einen Moment…</string>
   <string name="ovp_local_videos_title">Lokale Videos</string>
-  <string name="ovp_navigation_language">Sprache</string>
   <string name="ovp_navigation_category">Kategorie</string>
   <string name="ovp_navigation_favorites">Favoriten</string>
   <string name="ovp_navigation_history">Verlauf</string>
   <string name="ovp_navigation_home">Startseite</string>
+  <string name="ovp_navigation_language">Sprache</string>
   <string name="ovp_navigation_localvideo">Lokal</string>
   <string name="ovp_navigation_setting">Einstellungen</string>
+  <string name="ovp_navigation_subscribe">Abonnieren</string>
+  <string name="ovp_player_plugin_dlg_neg_btn">Beenden</string>
+  <string name="ovp_player_plugin_dlg_no_content">Keine Plugins für Videoplayer installiert</string>
+  <string name="ovp_player_plugin_dlg_title">Plugins für Videoplayer</string>
   <string name="ovp_playlist">Wiedergabeliste</string>
   <string name="ovp_plugin_install_failure">Plugin wurde nicht installiert</string>
   <string name="ovp_search_key_not_null">Schlüsselwörter zur Suche eingeben</string>
@@ -411,6 +423,10 @@ Sicherheit Ihres Kontos erhöhen."</string>
   <string name="permission_info1">Mi Video muss auf die IMEI-Nummer Ihres Geräts zugreifen, um Folgendes zu tun:</string>
   <string name="permission_info2">Dienste für Ihr Gerät besser anpassen;</string>
   <string name="permission_info3">Sicherheit Ihres Kontos erhöhen.</string>
+  <string name="permission_phone">Telefon</string>
+  <string name="permission_phone_desc">Für den Zugriff auf Gerätestatus und die Unterbrechung der Wiedergabe während eines Anrufs</string>
+  <string name="permission_storage">Speicher</string>
+  <string name="permission_storage_desc">Für den Zugriff auf Elemente, das Speichern von Dateien, das Anzeigen und Abspielen lokaler Videos</string>
   <string name="permission_title">Erforderliche Rechte</string>
   <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Mi-Konten verknüpft. Versuchen Sie, eine andere Telefonnummer zu verwenden.</string>
   <string name="phone_hint">Telefonnummer</string>
@@ -428,6 +444,7 @@ Sicherheit Ihres Kontos erhöhen."</string>
   <string name="push_message_switch">Push-Benachrichtigungen</string>
   <string name="push_message_tips">Einschalten, um Push-Benachrichtigungen zu erhalten</string>
   <string name="pw_category">Kategorien</string>
+  <string name="pw_channels">Kanäle</string>
   <string name="pw_click_channel_scrol_to_top">Erneut tippen, um nach oben zurückzukehren</string>
   <string name="pw_comment_back">Zurück</string>
   <string name="pw_comment_let_me_comment">Ich habe einen Kommentar…</string>
@@ -467,9 +484,11 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="pw_video_mine">Meine Videos</string>
   <string name="pw_video_offline">Lokale videos</string>
   <string name="read_and_agree">Zustimmen</string>
+  <string name="recommend_channels">Empfohlene Kanäle</string>
   <string name="recommend_online_switch">Online-Empfehlungen</string>
   <string name="recommend_online_tips">Einschalten, um Online-Videoempfehlungen zu erhalten</string>
   <string name="recommend_page_replay">WIEDERHOLEN</string>
+  <string name="restore_channel_list">Standardwerte jetzt wiederherstellen?</string>
   <string name="retry">Erneut versuchen</string>
   <string name="revoke">Widerrufen</string>
   <string name="s1">Bild speichern</string>
@@ -570,10 +589,13 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="ticket_hint">Verifizierungscode</string>
   <string name="ticket_invalid">Eingegebener Code ist falsch</string>
   <string name="ticket_sign_in">Mit SMS anmelden</string>
+  <string name="title_publisher">Ersteller</string>
+  <string name="title_subscribe">Abonnements</string>
   <string name="toast_share_failed">Teilen nicht möglich. Einen Moment warten und es erneut versuchen.</string>
   <string name="txt_cancel_download">TRANSFER ABBRECHEN</string>
   <string name="txt_download_complete">Download abgeschlossen</string>
   <string name="txt_watch_now">JETZT ANSEHEN</string>
+  <string name="ugc_confirm_unsubscribe">Jetzt abbestellen?</string>
   <string name="ui_log_tip">Tippen Sie auf diesen Bereich, um alte Logs auszublenden, drücken und halten Sie ihn gedrückt, um sie zu löschen. Logs manuell ziehen.</string>
   <string name="user_id_hint">E-Mail/Telefon</string>
   <string name="v_agree">Zustimmen</string>
