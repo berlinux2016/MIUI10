@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="free_downloads_num_hint">
+    <item quantity="other">%d kostenlose Downloads übrig</item>
+    <item quantity="one">%d kostenloser Download übrig</item>
+  </plurals>
   <plurals name="Nalbum_total_songs">
     <item quantity="other">Insgesamt %d Titel</item>
     <item quantity="one">Insgesamt %d Titel</item>
@@ -135,5 +139,9 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
   <plurals name="video_play_count">
     <item quantity="other">%1$s Aufrufe</item>
     <item quantity="one">%1$s Aufruf</item>
+  </plurals>
+  <plurals name="vip_remain_days_hint">
+    <item quantity="other">%d verbleibende Tage</item>
+    <item quantity="one">%d verbleibender Tag</item>
   </plurals>
 </resources>
