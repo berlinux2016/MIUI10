@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">E, dd.MM.</string>
+    <string name="date_time">EEEE, dd.MM.</string>
     <string name="language">de</string>
     <string name="desc_date_format">EEEE, dd.MM.</string>
-    <string name="desc_time">'Aktuelle Zeit' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', 2x tippen, um die Uhr zu öffnen'</string>
+    <string name="desc_time">'Aktuelle Zeit' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', Doppelt tippen, um die Uhr zu öffnen'</string>
     <string name="weather_type_0">Klar</string>
     <string name="weather_type_1">Bewölkt</string>
     <string name="weather_type_2">Diesig</string>
