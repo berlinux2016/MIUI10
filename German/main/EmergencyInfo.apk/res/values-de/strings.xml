@@ -31,7 +31,7 @@
   <string name="accessibility_wifi_signal_full">WLAN-Signal voll</string>
   <string name="accessibility_wifi_three_bars">WLAN drei Balken</string>
   <string name="accessibility_wifi_two_bars">WLAN zwei Balken</string>
-  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging von allen Computern, die Sie vorher autorisiert haben, widerrufen?</string>
+  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging für alle zuvor autorisierten Computer aufheben?</string>
   <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke gedacht. Benutzen Sie es, um Daten zwischen Ihrem Computer und Ihrem Gerät zu kopieren, Apps ohne Benachrichtigung auf Ihrem Gerät zu installieren und Protokolldaten zu lesen.</string>
   <string name="adb_warning_title">USB-Debugging erlauben?</string>
   <string name="add_emergency_contact">Kontakt hinzufügen</string>
@@ -272,9 +272,9 @@ Um fortzufahren, drücken Sie "Löschen und konvertieren"</string>
   <string name="medications_hint">Zum Beispiel Aspirin</string>
   <string name="mobile_data_always_on">Mobile Datenverbindung immer ein</string>
   <string name="mobile_data_always_on_summary">Datenverbindung aufrecht erhalten, auch wenn WLAN aktiv ist (zum schnellen Wechsel zwischen Netzwerken)</string>
-  <string name="mock_location_app">App für simulierte Standorte auswählen</string>
-  <string name="mock_location_app_not_set">Keine App für simulierte Standorte ausgewählt</string>
-  <string name="mock_location_app_set">App für simulierte Standorte: %1$s</string>
+  <string name="mock_location_app">App für falsche Standorte auswählen</string>
+  <string name="mock_location_app_not_set">Keine App für falsche Standorte ausgewählt</string>
+  <string name="mock_location_app_set">App für falsche Standorte: %1$s</string>
   <string name="name">Name</string>
   <string name="no">Nein</string>
   <string name="no_application">Keine</string>
@@ -329,7 +329,7 @@ Um fortzufahren, drücken Sie "Löschen und konvertieren"</string>
   <string name="screen_zoom_summary_very_large">Größer</string>
   <string name="select_application">App auswählen</string>
   <string name="select_logd_size_dialog_title">per log puffer</string>
-  <string name="select_logd_size_title">Loggerpuffergrößen</string>
+  <string name="select_logd_size_title">Logger-Puffergrößen</string>
   <string name="select_usb_configuration_dialog_title">USB-Konfiguration auswählen</string>
   <string name="select_usb_configuration_title">USB-Konfiguration auswählen</string>
   <string name="select_webview_provider_dialog_title">WebView-Implementierung einstellen</string>
@@ -363,7 +363,7 @@ Um fortzufahren, drücken Sie "Löschen und konvertieren"</string>
   <string name="title_convert_fbe">Umwandlung in Datei-basierte Verschlüsselung</string>
   <string name="track_frame_time">GPU-Darstellungsprofil</string>
   <string name="transition_animation_scale_title">Übergangsanimation</string>
-   <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
+  <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
   <string name="tts_default_lang_title">Sprache</string>
   <string name="tts_default_pitch_summary">Beeinflusst den Ton der synthetisierten Sprache</string>
   <string name="tts_default_pitch_title">Tonhöhe</string>

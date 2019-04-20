@@ -272,7 +272,7 @@
   <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
   <string name="activity_launch_on_secondary_display_failed_text">App unterstützt den Start auf sekundären Displays nicht</string>
   <string name="activity_not_found">App ist nicht auf dem Gerät installiert</string>
-  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging von allen Computern, die Sie vorher autorisiert haben, widerrufen?</string>
+  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging für alle zuvor autorisierten Computer aufheben?</string>
   <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke vorgesehen. Damit können Sie Daten zwischen Ihrem Computer und Ihrem Gerät kopieren, Apps auf Ihrem Gerät ohne Benachrichtigung installieren und Protokolldaten lesen.</string>
   <string name="adb_warning_title">USB-Debugging erlauben?</string>
   <string name="add_tile">Kachel hinzufügen</string>
@@ -288,7 +288,7 @@
   <string name="apn_settings_not_available">APN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="app_info">App-Info</string>
   <string name="app_name">Sperrbildschirm</string>
-  <string name="app_process_limit_title">Hintergrundprozessgrenze</string>
+  <string name="app_process_limit_title">Hintergrundprozesslimit</string>
   <string name="as_important">Wichtig</string>
   <string name="as_unimportant">Unwichtig</string>
   <string name="aspect_cancel">Abbrechen</string>
@@ -1071,9 +1071,9 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="mobile_data">Mobile Daten</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Mobile Datenverbindung immer aktiv halten, auch wenn WLAN aktiv ist (für schnelle Netzwerkumschaltung).</string>
-  <string name="mock_location_app">App für simulierte Standorte auswählen</string>
-  <string name="mock_location_app_not_set">Keine App für simulierte Standorte ausgewählt</string>
-  <string name="mock_location_app_set">App für simulierte Standorte: %1$s</string>
+  <string name="mock_location_app">App für falsche Standorte auswählen</string>
+  <string name="mock_location_app_not_set">Keine App für falsche Standorte ausgewählt</string>
+  <string name="mock_location_app_set">App für falsche Standorte: %1$s</string>
   <string name="monitoring_button_view_policies">Richtlinien anzeigen</string>
   <string name="monitoring_description_app">Sie sind mit %1$s verbunden, wobei Ihre Netzwerkaktivitäten überwacht werden können, einschließlich E-Mails, Apps und Webseiten.</string>
   <string name="monitoring_description_app_personal">Sie sind mit %1$s verbunden, wobei Ihre persönlichen Netzwerkaktivitäten überwacht werden können, einschließlich E-Mails, Apps und Webseiten.</string>
@@ -1476,7 +1476,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="select_application">Apps auswählen</string>
   <string name="select_logd_level">Protokollebene auswählen</string>
   <string name="select_logd_size_dialog_title">Loggergrößen pro Logpuffer auswählen</string>
-  <string name="select_logd_size_title">Logpuffergrößen</string>
+  <string name="select_logd_size_title">Logger-Puffergrößen</string>
   <string name="select_logpersist_dialog_title">Logpuffer wählen, der dauerhaft auf dem Gerät gespeichert werden soll</string>
   <string name="select_logpersist_title">Protokolldaten dauerhaft auf dem Gerät speichern</string>
   <string name="select_private_dns_configuration_dialog_title">Private DNS Modus wählen</string>

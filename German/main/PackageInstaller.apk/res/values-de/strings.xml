@@ -39,7 +39,7 @@
   <string name="accessibility_wifi_two_bars">WLAN zwei Balken</string>
   <string name="action_bar_expand_collapse_button">Zu-/Aufklappen-Taste</string>
   <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
-  <string name="adb_keys_warning_message">Den Zugriff auf das USB-Debugging von allen Computern, die Sie zuvor autorisiert haben, widerrufen?</string>
+  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging für alle zuvor autorisierten Computer aufheben?</string>
   <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke gedacht. Verwenden Sie diese Option, um Daten zwischen Ihrem Computer und Ihrem Gerät zu kopieren, Apps ohne Benachrichtigung auf Ihrem Gerät zu installieren und Protokolldaten zu lesen.</string>
   <string name="adb_warning_title">USB-Debugging erlauben?</string>
   <string name="additional_permissions">Zusätzliche Berechtigungen</string>
@@ -354,9 +354,9 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="message_staging">App bereitstellen…</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Mobile Daten immer aktiv halten, auch wenn WLAN aktiv ist (für schnelle Netzwerkumschaltung)</string>
-  <string name="mock_location_app">App für simulierte Standorte auswählen</string>
-  <string name="mock_location_app_not_set">Keine App für simulierte Standorte ausgewählt</string>
-  <string name="mock_location_app_set">App für simulierte Standorte: %1$s</string>
+  <string name="mock_location_app">App für falsche Standorte auswählen</string>
+  <string name="mock_location_app_not_set">Keine App für falsche Standorte ausgewählt</string>
+  <string name="mock_location_app_set">App für falsche Standorte: %1$s</string>
   <string name="mtrl_chip_close_icon_content_description">Icon schließen</string>
   <string name="never_ask_again">Nicht mehr fragen</string>
   <string name="newPerms">Neu</string>
@@ -437,7 +437,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="security_settings_desc">Ermöglicht dieser App:</string>
   <string name="select_application">App wählen</string>
   <string name="select_logd_size_dialog_title">Protokollgrößen pro Log-Puffer wählen</string>
-  <string name="select_logd_size_title">Log-Puffergrößen</string>
+  <string name="select_logd_size_title">Logger-Puffergrößen</string>
   <string name="select_logpersist_dialog_title">Log-Puffer wählen, der dauerhaft auf dem Gerät gespeichert werden soll</string>
   <string name="select_logpersist_title">Protokolldaten dauerhaft auf dem Gerät speichern</string>
   <string name="select_private_dns_configuration_dialog_title">Private DNS Modus wählen</string>

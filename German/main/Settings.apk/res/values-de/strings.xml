@@ -205,7 +205,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="activity_title_permissions_manager">Rechte</string>
   <string name="activity_title_power_manager">Stromsparen;Akku sparen</string>
   <string name="ad_service">Werbedienstleistungen</string>
-  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging von allen Computern, die Sie vorher autorisiert haben, widerrufen?</string>
+  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging für alle zuvor autorisierten Computer aufheben?</string>
   <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke vorgesehen. Damit können Sie Daten zwischen Ihrem Computer und Ihrem Gerät kopieren, Apps auf Ihrem Gerät ohne Benachrichtigung installieren und Log-Daten lesen.</string>
   <string name="adb_warning_title">USB-Debugging erlauben?</string>
   <string name="add_a_language">Sprache hinzufügen</string>
@@ -3488,9 +3488,9 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="mobile_insert_sim_card">Legen Sie die SIM-Karte ein und starten Sie das Gerät neu</string>
   <string name="mobile_no_provisioning_url">Keine Bereitstellungswebseite für %1$s bekannt</string>
   <string name="mobile_unknown_sim_operator">Unbekannter SIM-Anbieter</string>
-  <string name="mock_location_app">App für simulierte Standorte auswählen</string>
-  <string name="mock_location_app_not_set">Keine App für simulierte Standorte ausgewählt</string>
-  <string name="mock_location_app_set">App für simulierte Standorte: %1$s</string>
+  <string name="mock_location_app">App für falsche Standorte auswählen</string>
+  <string name="mock_location_app_not_set">Keine App für falsche Standorte ausgewählt</string>
+  <string name="mock_location_app_set">App für falsche Standorte: %1$s</string>
   <string name="mode_disable">Aus</string>
   <string name="mode_enable">An</string>
   <string name="model_info">Modell</string>
@@ -5090,7 +5090,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="select_item_summary_wait">Warten…</string>
   <string name="select_logd_level">Log-Ebene auswählen</string>
   <string name="select_logd_size_dialog_title">Wählen Sie die Log-größe für jeden Log-Puffer aus</string>
-  <string name="select_logd_size_title">Log-Puffergröße</string>
+  <string name="select_logd_size_title">Logger-Puffergrößen</string>
   <string name="select_logpersist_dialog_title">Log-Puffer auswählen, der dauerhaft auf dem Gerät gespeichert werden soll</string>
   <string name="select_logpersist_title">Log-Daten dauerhaft auf dem Gerät speichern</string>
   <string name="select_private_dns_configuration_dialog_title">Privaten DNS-Modus wählen</string>

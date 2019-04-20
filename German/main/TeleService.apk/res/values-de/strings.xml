@@ -149,7 +149,7 @@
   <string name="actionBarCFVideo">Videorufumleitung (%s)</string>
   <string name="actionBarCFVoice">Videorufumleitung (%s)</string>
   <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
-  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging von allen Computern, die Sie vorher autorisiert haben, widerrufen?</string>
+  <string name="adb_keys_warning_message">Zugriff auf USB-Debugging für alle zuvor autorisierten Computer aufheben?</string>
   <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke gedacht. Verwenden Sie diese Option, um Daten zwischen Ihrem Computer und Ihrem Gerät zu kopieren, Apps ohne Benachrichtigung auf Ihrem Gerät zu installieren und Protokolldaten zu lesen.</string>
   <string name="adb_warning_title">USB-Debugging erlauben?</string>
   <string name="add">Hinzufügen</string>
@@ -1161,9 +1161,9 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Derzeit Roaming, Datentarif benötigt</string>
   <string name="mobile_network_settings_not_available">Mobilfunkeinstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="mobile_networks">Einstellungen Mobilfunknetz</string>
-  <string name="mock_location_app">App für simulierte Standorte auswählen</string>
-  <string name="mock_location_app_not_set">Keine App für simulierte Standorte ausgewählt</string>
-  <string name="mock_location_app_set">App für simulierte Standorte: %1$s</string>
+  <string name="mock_location_app">App für falsche Standorte auswählen</string>
+  <string name="mock_location_app_not_set">Keine App für falsche Standorte ausgewählt</string>
+  <string name="mock_location_app_set">App für falsche Standorte: %1$s</string>
   <string name="modem_dialog_body">Mobilfunknetz ist instabil, was zu Unterbrechungen oder Netzwerkproblemen führt. Fehlerbericht zur Analyse an Mi senden? Dieser Bericht kann personenbezogene Daten enthalten. Ihr Bericht wird dazu verwendet, diesen Fehler zu beheben und wird niemals in einem kommerziellen Kontext veröffentlicht.</string>
   <string name="modem_dialog_title">Mobilfunknetz ist instabil</string>
   <string name="msim_apn_not_set">Nicht eingerichtet</string>
@@ -1632,7 +1632,7 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="select_application">App auswählen</string>
   <string name="select_automatically">Automatisch Netzwerk wählen</string>
   <string name="select_logd_size_dialog_title">Loggergrößen pro Logpuffer auswählen</string>
-  <string name="select_logd_size_title">Loggerpuffergrößen</string>
+  <string name="select_logd_size_title">Logger-Puffergrößen</string>
   <string name="select_logpersist_dialog_title">Log-Puffer wählen, der dauerhaft auf dem Gerät gespeichert werden soll</string>
   <string name="select_logpersist_title">Protokolldaten dauerhaft auf dem Gerät speichern</string>
   <string name="select_private_dns_configuration_dialog_title">Private DNS Modus wählen</string>
