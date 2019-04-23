@@ -1858,7 +1858,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_screen_consumption">Bildschirmverbrauch</string>
   <string name="device_screen_resolution">Bildschirmauflösung</string>
   <string name="device_screen_size">Bildschirmgröße</string>
-  <string name="device_screen_usage">Bildschirmnutzung seit Vollladung</string>
+  <string name="device_screen_usage">Bildschirmaktivität seit Vollladung</string>
   <string name="device_sd_memory">Externer Speicher:</string>
   <string name="device_share_loading">Image erstellen</string>
   <string name="device_status_summary">Telefonnummer, Signal, Akkustatus, Netzwerkstatus etc.</string>
@@ -6309,12 +6309,12 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usage_access_description">Datenzugriff erlaubt einer App zu ermitteln, welche anderen Apps Sie benutzen und wie oft, außerdem Ihren Netzbetreiber, Ihre Sprache und andere Einstellungen</string>
   <string name="usage_access_title">Apps mit Datenzugriff</string>
   <string name="usage_log">App-Nutzungsstatistiken</string>
-  <string name="usage_state_app_timer">Bildschirmnutzung</string>
+  <string name="usage_state_app_timer">Bildschirmaktivität</string>
   <string name="usage_state_app_usage_detail_title">App-Nutzungdetails</string>
-  <string name="usage_state_app_usage_list_title">Apps-Bildschirmnutzung heute</string>
-  <string name="usage_state_app_usage_list_week_title">Apps-Bildschirmnutzung (letzten 7 Tage)</string>
-  <string name="usage_state_app_usage_tip_title" formatted="false">Bildschirmnutzung zwischen %d:00 und %d:00 Uhr</string>
-  <string name="usage_state_app_use_time">App-Bildschirmnutzung</string>
+  <string name="usage_state_app_usage_list_title">Apps-Bildschirmaktivität heute</string>
+  <string name="usage_state_app_usage_list_week_title">Apps-Bildschirmaktivität (letzten 7 Tage)</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">Bildschirmaktivität zwischen %d:00 und %d:00 Uhr</string>
+  <string name="usage_state_app_use_time">App-Bildschirmaktivität</string>
   <string name="usage_state_channel_mouth">Letzten 30 Tage</string>
   <string name="usage_state_channel_week">Letzten 7 Tage</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">Benachrichtigungen zwischen %d:00 und %d:00 Uhr</string>
@@ -6324,11 +6324,11 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usage_state_hour_minute" formatted="false">%d Std %d Min</string>
   <string name="usage_state_less_one_minute">Weniger als 1 Minute</string>
   <string name="usage_state_monday">Mo</string>
-  <string name="usage_state_mourth_day">"'Bildschirmnutzung' am d. MMM"</string>
+  <string name="usage_state_mourth_day">"'Bildschirmaktivität' am d. MMM"</string>
   <string name="usage_state_noti_mourth_day">"'Benachrichtigungen am' d. MMM"</string>
   <string name="usage_state_notification">App-Benachrichtigungen verwalten</string>
   <string name="usage_state_notification_manager">App-Benachrichtigungen verwalten</string>
-  <string name="usage_state_remind_summary">Einschalten, um Bildschirm-an-Alarme zu erhalten. Sie können verschiedene Zeitlimits für Wochentage und Wochenenden festlegen.</string>
+  <string name="usage_state_remind_summary">Einschalten, um Bildschirmaktivität-Alarme zu erhalten. Sie können verschiedene Zeitlimits für Wochentage und Wochenenden festlegen.</string>
   <string name="usage_state_remind_title">Nutzungslimit einschalten</string>
   <string name="usage_state_rest_day">Wochenende</string>
   <string name="usage_state_saturday">Sa</string>
@@ -6336,15 +6336,15 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usage_state_sunday">So</string>
   <string name="usage_state_thursday">Do</string>
   <string name="usage_state_today">Heute</string>
-  <string name="usage_state_today_total_text">Bildschirmnutzung heute</string>
+  <string name="usage_state_today_total_text">Bildschirmaktivität heute</string>
   <string name="usage_state_tuesday">Di</string>
   <string name="usage_state_unlock_mourth_day">"'Entsperrt am' d. MMM"</string>
-  <string name="usage_state_usage_time">nutzungslimit festlegen</string>
-  <string name="usage_state_usage_time_remind">Bildschirmnutzung-Alarm</string>
-  <string name="usage_state_use_time_remind_title">Bildschirmnutzung-Alarm</string>
+  <string name="usage_state_usage_time">Nutzungslimit festlegen</string>
+  <string name="usage_state_usage_time_remind">Bildschirmaktivität-Alarm</string>
+  <string name="usage_state_use_time_remind_title">Bildschirmaktivität-Alarm</string>
   <string name="usage_state_wednesday">Mi</string>
   <string name="usage_state_week_day_hour_minute" formatted="false">Wochenende: %d Std %d Min</string>
-  <string name="usage_state_week_total_text">Bildschirmnutzung (letzten 7 Tage)</string>
+  <string name="usage_state_week_total_text">Bildschirmaktivität (letzten 7 Tage)</string>
   <string name="usage_state_work_day">Wochentags</string>
   <string name="usage_state_work_day_hour_minute" formatted="false">Wochentags: %d Std %d Min</string>
   <string name="usage_stats_label">Nutzungsstatistik</string>
@@ -6378,14 +6378,14 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usagestats_app_category_miui_system">System-Apps</string>
   <string name="usagestats_app_category_miui_undefined">Andere</string>
   <string name="usagestats_app_category_miui_video_etc">Musik und Video</string>
-  <string name="usagestats_device_notification_des">Bildschirmnutzung-Limit für heute: %s</string>
-  <string name="usagestats_device_notification_des_over">Sie haben heute bereits Ihr Bildschirmnutzung-Limit erreicht.</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">Bildschirmnutzung-Limit für heute: %s | %s übrig</string>
-  <string name="usagestats_device_notification_title">Bildschirmnutzung-Alarm</string>
+  <string name="usagestats_device_notification_des">Bildschirmaktivität-Limit für heute: %s</string>
+  <string name="usagestats_device_notification_des_over">Sie haben heute bereits Ihr Bildschirmaktivität-Limit erreicht.</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Bildschirmaktivität-Limit für heute: %s | %s übrig</string>
+  <string name="usagestats_device_notification_title">Bildschirmaktivität-Alarm</string>
   <string name="usagestats_device_timeout_des" formatted="false">Sie haben Ihr Gerät heute für %d Std %d Min verwendet. Ruhen Sie Sich aus!</string>
   <string name="usagestats_device_timeout_negative">In 1 Stunde erinnern</string>
   <string name="usagestats_device_timeout_positive">Verstanden</string>
-  <string name="usagestats_device_timeout_title">Bildschirmnutzung-Alarm</string>
+  <string name="usagestats_device_timeout_title">Bildschirmaktivität-Alarm</string>
   <string name="usb_adb_input">USB-Debugging (Sicherheitseinstellungen)</string>
   <string name="usb_adb_input_desc">Erlauben Sie die Berechtigungen und die Eingabesimulation über USB-Debugging</string>
   <string name="usb_audio_disable_routing">Deaktiviere USB-Audiorouting</string>
