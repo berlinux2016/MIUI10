@@ -319,10 +319,15 @@
   <string name="battery_info_status_full">Akku voll</string>
   <string name="battery_info_status_not_charging">Eingesteckt, laden gerade nicht möglich</string>
   <string name="battery_info_status_unknown">Unbekannt</string>
+  <string name="battery_low_button_not_open_power_save">Nicht jetzt</string>
+  <string name="battery_low_button_open_power_save">Einschalten</string>
   <string name="battery_low_percent_format">%d%% verbleibend.</string>
+  <string name="battery_low_percent_format_save_mode_closed">Weniger als %d%%% verbleibender Akku. Laden Sie Ihr Gerät auf.</string>
+  <string name="battery_low_percent_format_save_mode_open">Weniger als %d%%% verbleibender Akku. Schalten Sie den Energiesparmodus ein, um Strom zu sparen.</string>
   <string name="battery_low_percent_format_saver_started">%s übrig, Stromsparen ist an.</string>
   <string name="battery_low_title">Ladegerät anschließen</string>
-  <string name="battery_low_why">Einstellungen</string>
+  <string name="battery_low_title_power_save">Energiesparmodus</string>
+  <string name="battery_low_why">Einstellungen</string>  
   <string name="battery_panel_title">Akkuverbrauch</string>
   <string name="battery_profiles">Verwende Energieprofil</string>
   <string name="battery_saver_confirmation_ok">Einschalten</string>
@@ -665,6 +670,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="face_data_manage_delete_msg">Gesicht entfernen</string>
   <string name="face_data_manage_delete_sure">Sie können das Telefon nicht mehr mit Ihrem Gesicht entsperren, nachdem Sie es entfernt haben</string>
   <string name="face_data_manage_delete_title">Gesichtsdaten</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">Nachdem der Bildschirm an ist, nach oben streichen, um das Gerät mit Gesichtsdaten zu entsperren.</string>
   <string name="face_data_manage_unlock_msg">Telefon mit Hilfe Ihres Gesichtes entsperren</string>
   <string name="face_data_manage_unlock_slide_msg">Schiebereglerbefehle durch Gesichtsentsperrung ersetzen</string>
   <string name="face_data_manage_unlock_title">Telefon mit Hilfe Ihres Gesichtes entsperren</string>
@@ -680,7 +686,8 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="face_unlock_close_screen">Kommen Sie näher an den Bildschirm heran</string>
   <string name="face_unlock_down">Heben Sie Ihren Kopf</string>
   <string name="face_unlock_fail">Gesicht verifizieren fehlgeschlagen</string>
-  <string name="face_unlock_fail_retry">Ihr Gesicht konnte nicht verifiziert werden. Tippen Sie auf das Symbol, um es erneut zu versuchen.</string>
+  <string name="face_unlock_fail_retry_global">Oben tippen, um die Gesichtsentsperrung zu verwenden.</string>
+  <string name="face_unlock_fail_retry">Ihr Gesicht konnte nicht überprüft werden. Tippen Sie oben, um es erneut zu versuchen.</string>
   <string name="face_unlock_identify_error">Ein Fehler bei der Erkennung ist aufgetreten</string>
   <string name="face_unlock_not_found">Gesichtserkennung fehlgeschlagen</string>
   <string name="face_unlock_not_roi">Halten Sie Ihr Gesicht innerhalb des Rahmens</string>
@@ -1266,6 +1273,10 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="power_remaining_less_than_duration_only">Weniger als %1$s übrig</string>
   <string name="power_remaining_more_than_subtext">Mehr als %1$s übrig (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Mehr als %1$s übrig</string>
+  <string name="power_save_ps_clean">Cache löschen, wenn das Gerät gesperrt ist</string>
+  <string name="power_save_ps_close_setting">Hintergrunddienste deaktivieren (Synchronisieren, GPS), um den Akku zu schonen.</string>
+  <string name="power_save_ps_freeze">Apps im Hintergrund einfrieren</string>
+  <string name="power_save_ps_limit">Aktivität von System-Apps einschränken</string>
   <string name="private_dns_mode_off">Aus</string>
   <string name="private_dns_mode_opportunistic">Automatisch</string>
   <string name="private_dns_mode_provider">Hostname privater DNS-Anbieter</string>

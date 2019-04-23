@@ -4521,7 +4521,7 @@ UT Interface: %5$s"</string>
   <string name="reset_network_data">Mobile Daten</string>
   <string name="reset_network_desc">Dadurch werden alle Netzwerkeinstellungen zurückgesetzt</string>
   <string name="reset_network_final_button_text">Einstellungen zurücksetzen</string>
-  <string name="reset_network_final_desc">Alle Netzwerkeinstellungen zurücksetzen? Sie können diese Aktion nicht rückgängig machen!</string>
+  <string name="reset_network_final_desc">Alle Netzwerkeinstellungen zurücksetzen? Dies kann einige Sekunden dauern. Sie können diese Aktion nicht rückgängig machen!</string>
   <string name="reset_network_title">Einstellungen zurücksetzen</string>
   <string name="reset_second_space_passwd">Zweitprofilpasswort zurücksetzen</string>
   <string name="reset_second_space_passwd_cancel">Abbrechen</string>
@@ -7084,8 +7084,8 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_priority_type_title">AP-Priorität manuell einstellen</string>
   <string name="wifi_property">WLAN-Eigenschaften</string>
   <string name="wifi_protection_on">Ein</string>
-  <string name="wifi_protection_settings_title">WLAN-Sondierungsschutz</string>
-  <string name="wifi_protection_tip">MIUI schaltet die WLAN-Sondierungsschutzfunktion automatisch ein. Wenn das Mobiltelefon das WLAN scannt, adressiert es zufällig die MAC-Adresse, um zu verhindern, dass die WLAN-Sondierungsbox die Privatsphäre des Benutzers stiehlt und schützt so das Mobiltelefon.</string>
+  <string name="wifi_protection_settings_title">Schutz vor WLAN-Sondenanfragen</string>
+  <string name="wifi_protection_tip">MIUI schützt Ihre persönlichen Daten vor WLAN-Sondierungsanfragen von zufälligen MAC-Adressen und WLAN-Sondierungsschnüffeln, wenn Ihr Gerät nach WLAN-Netzwerken sucht.</string>
   <string name="wifi_quick_toggle_summary">WLAN einschalten</string>
   <string name="wifi_remembered">Gespeichert</string>
   <string name="wifi_remembered_disabled_auto_connect">Gespeichert, automatisch verbinden ist aus</string>
