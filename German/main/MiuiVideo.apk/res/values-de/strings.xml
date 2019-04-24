@@ -388,6 +388,9 @@
   <string name="notification_name_common">Regelmäßige Benachrichtigungen</string>
   <string name="notification_name_message_push">Push-Benachrichtigungen</string>
   <string name="notification_name_offline">Benachrichtigungen herunterladen</string>
+  <string name="notification_offline_to_online_setting">Benachrichtigungsleiste</string>
+  <string name="notification_offline_to_online_summary">Wetterinformationen anzeigen und Mi Video-Verknüpfungen verwenden</string>
+  <string name="notification_offline_to_online_title">Tastenkombinationen für Benachrichtigungsleiste anzeigen</string>
   <string name="notification_sub_title">%d Download(s) abgeschlossen</string>
   <string name="notification_ticker_text">Offlinevideodownload abgeschlossen</string>
   <string name="notification_title">\"%1$s\" Download abgeschlossen</string>
@@ -423,6 +426,7 @@
   <string name="offline_setting_mobile_net_limit_size2">500 MB</string>
   <string name="offline_setting_mobile_net_limit_summary">Beschränken Sie die Nutzung mobiler Daten, nachdem die Größe der heruntergeladenen Videos eine festgelegte Grenze erreicht hat.</string>
   <string name="offline_setting_mobile_net_limit_title">"Mobilen Datennutzung einschränken "</string>
+  <string name="offline_setting_mobile_net_limit_unlimited_title">Einschränkungen bei der Nutzung mobiler Daten (unbegrenzt)</string>
   <string name="offline_setting_mobile_net_unlimited">Unbegrenzt</string>
   <string name="offline_status_failed">Ist fehlgeschlagen</string>
   <string name="offline_status_finished">Komplett</string>
@@ -784,7 +788,7 @@
   <string name="t_exit_app">Zum Beenden noch einmal antippen</string>
   <string name="t_install_new_version">Update wird installiert…</string>
   <string name="t_network_error_to_retry">Netzwerkfehler</string>
-  <string name="t_no_miuibbs">Mi Forum-App nicht gefunden, versuchen Sie es nach der Installation erneut</string>
+  <string name="t_no_miuibbs">MIUI Forum installieren und erneut versuchen</string>
   <string name="t_no_new_version">Mi Video ist aktuell</string>
   <string name="t_password_limit">Passwort muss mind. 4 Zeichen lang sein</string>
   <string name="t_password_null">Passwort darf nicht leer sein</string>
