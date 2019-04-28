@@ -1326,6 +1326,10 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="child_mode_settings">Kindersicherung</string>
   <string name="choose_a_card_to_reset">SIM-Karte zum Zurücksetzen auswählen</string>
   <string name="choose_assist_title">Assistent auswählen</string>
+  <string name="choose_keyguard_clock_style">Uhrenstil auf Sperrbildschirm</string>
+  <string name="choose_keyguard_clock_summary">Diese Einstellung funktioniert nicht mit Themen von Drittanbietern</string>
+  <string name="choose_unlock_face_msg">Bildschirmsperre festlegen, bevor Sie Ihre Gesichtsdaten aufnehmen.</string>
+  <string name="choose_unlock_fingerprint_msg">Bildschirmsperre festlegen, bevor Sie Ihren Fingerabdruck hinzufügen.</string>
   <string name="choose_profile">Profil auswählen</string>
   <string name="choose_smartcover_type">Smartcovertyp auswählen</string>
   <string name="choose_spell_checker">Rechtschreibprüfung auswählen</string>
@@ -3423,6 +3427,8 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="miui_lab_features">MIUI Lab-Funktionen</string>
   <string name="miui_lab_gallery_search_desc">Verbesserte Bildsuche</string>
   <string name="miui_lab_gallery_search_title">Finde Fotos in der Galerie</string>
+  <string name="miui_lab_gesture_title">Vollbildschirm-Gesten</string>
+  <string name="miui_lab_gesture_desc">Physische Tasten deaktivieren und Gesten im Vollbildmodus genießen</string>
   <string name="miui_lab_install_drive_mode_error">Konnte nicht installiert werden, erneut versuchen.</string>
   <string name="miui_lab_install_drive_mode_summary">Automodus ist eine System-App. Installation erfordert keine Internetverbindung.</string>
   <string name="miui_lab_install_drive_mode_title">Automodus installieren</string>
@@ -4036,7 +4042,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="passpoint_label">Gespeichert via</string>
   <string name="password">Passwort</string>
   <string name="passwordIncorrect">Eingegebenes Passwort ist falsch</string>
-  <string name="password_entrance_title">Bildschirmsperre</string>
+  <string name="password_entrance_title">Bildschirmsperre festlegen</string>
   <string name="password_guard">Passwort</string>
   <string name="password_null">Passwort kann nicht leer sein</string>
   <string name="password_turned_off_text">Schutz wurde deaktiviert</string>
@@ -4816,6 +4822,7 @@ Mindestens %s freigeben."</string>
   <string name="search_advanced_settings">Erweiterte Einstellungen;WLAN;WLAN Einstellungen</string>
   <string name="search_airplane_mode">Flugmodus;Flugzeugmodus;Flug;Flugzeug</string>
   <string name="search_alarm_sound_title">Alarmton;Alarmklingelton;Alarm</string>
+  <string name="search_ambient_display_screen_title">Ambient Display</string>
   <string name="search_apn_settings">APN;Zugangspunktnamen</string>
   <string name="search_app_invisible">App unsichbar;unsichtbare Apps</string>
   <string name="search_app_switch_key">kürzliche;kürzlich;zuletzt;Menü;Menütaste;Taskmanager</string>
@@ -4850,6 +4857,7 @@ Mindestens %s freigeben."</string>
   <string name="search_dndm_vip_call_setting_title">VIP;Ausnahmen;Whitelist</string>
   <string name="search_dndm_wristband">Mit Mi Band aktivieren;Mi Band</string>
   <string name="search_do_not_disturb_mode">Nicht stören</string>
+  <string name="search_doze_always_on_title">Always-On/string>
   <string name="search_dtmf_tone_enable_title">Wähltastentöne einschalten;Tpöne Wähltasten;Wähltastentöne;Tastentöne;Wähltöne</string>
   <string name="search_empty">Keine Suchergebnisse</string>
   <string name="search_enable_adb">USB-Debugging</string>
@@ -6314,12 +6322,13 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usage_log">App-Nutzungsstatistiken</string>
   <string name="usage_state_app_timer">Bildschirmaktivität</string>
   <string name="usage_state_app_usage_detail_title">App-Nutzungdetails</string>
-  <string name="usage_state_app_usage_list_title">Bildschirmaktivität von Apps heute</string>
-  <string name="usage_state_app_usage_list_week_title">Apps-Bildschirmaktivität (letzte 7 Tage)</string>
+  <string name="usage_state_app_usage_list_title">Bildschirmaktivität von Apps</string>
+  <string name="usage_state_app_usage_list_week_title">Bildschirmaktivität von Apps</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Bildschirmaktivität zwischen %d:00 und %d:00 Uhr</string>
   <string name="usage_state_app_use_time">Bildschirmaktivität weiterer Apps</string>
   <string name="usage_state_channel_mouth">Letzte 30 Tage</string>
   <string name="usage_state_channel_week">Letzte 7 Tage</string>
+  <string name="usage_state_date">d. MMM</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">Benachrichtigungen zwischen %d:00 und %d:00 Uhr</string>
   <string name="usage_state_device_unlock_today_tip_title" formatted="false">Gerät zwischen %d:00 und %d:00 Uhr entsperrt</string>
   <string name="usage_state_friday">Fr</string>
@@ -6327,8 +6336,8 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usage_state_hour_minute" formatted="false">%d Std %d Min</string>
   <string name="usage_state_less_one_minute">Weniger als 1 Minute</string>
   <string name="usage_state_monday">Mo</string>
-  <string name="usage_state_mourth_day">"'Bildschirmaktivität am' d. MMM"</string>
-  <string name="usage_state_noti_mourth_day">"'Benachrichtigungen am' d. MMM"</string>
+  <string name="usage_state_mourth_day">Bildschirmaktivität am %s</string>
+  <string name="usage_state_noti_mourth_day">Benachrichtigungen am %s</string>
   <string name="usage_state_notification">App-Benachrichtigungen verwalten</string>
   <string name="usage_state_notification_manager">App-Benachrichtigungen verwalten</string>
   <string name="usage_state_remind_summary">Einschalten, um Bildschirmaktivität-Alarme zu erhalten. Sie können verschiedene Zeitlimits für Wochentage und Wochenenden festlegen.</string>
@@ -6341,7 +6350,7 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usage_state_today">Heute</string>
   <string name="usage_state_today_total_text">Heute</string>
   <string name="usage_state_tuesday">Di</string>
-  <string name="usage_state_unlock_mourth_day">"'Entsperrt am' d. MMM"</string>
+  <string name="usage_state_unlock_mourth_day">Entsperrt am %s</string>
   <string name="usage_state_usage_time">Nutzungslimit festlegen</string>
   <string name="usage_state_usage_time_remind">Bildschirmaktivität-Alarm</string>
   <string name="usage_state_use_time_remind_title">Bildschirmaktivität-Alarm</string>
@@ -6383,7 +6392,7 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usagestats_app_category_miui_video_etc">Musik und Video</string>
   <string name="usagestats_device_notification_des">Bildschirmaktivität-Limit heute: %s</string>
   <string name="usagestats_device_notification_des_over">Sie haben heute bereits Ihr Bildschirmaktivität-Limit erreicht.</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">Bildschirmaktivität-Limit heute: %s | %s übrig</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Limit heute: %s | %s übrig</string>
   <string name="usagestats_device_notification_title">Bildschirmaktivität-Alarm</string>
   <string name="usagestats_device_timeout_des" formatted="false">Sie haben Ihr Gerät heute für %d Std %d Min verwendet. Ruhen Sie Sich aus!</string>
   <string name="usagestats_device_timeout_negative">In 1 Stunde erinnern</string>
