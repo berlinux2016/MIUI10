@@ -184,6 +184,8 @@
   <string name="liked">Zu Favoriten hinzugefügt</string>
   <string name="lks_left_net_deny">Netzwerkverbindung ist eingeschränkt</string>
   <string name="lks_left_net_error">Netzwerkverbindung fehlgeschlagen"</string>
+  <string name="lks_left_top_notice">Hier tippen, um nach oben zu springen</string>
+  <string name="lks_left_top_notice_refresh">Tippen, um neue Elemente anzuzeigen</string>
   <string name="lks_logo_desc2">Täglich neue Hintergrundbilder</string>
   <string name="lks_subscription_toast">Hintergrundbild erfolgreich geändert</string>
   <string name="llks_pop_btm_des">Starten Sie den Tag mit einem Lächeln</string>
@@ -195,6 +197,12 @@
   <string name="llks_pop_top_des_backup">Täglich auf Ihren Bildschirm geliefert</string>
   <string name="llks_pop_top_title">Heue Hintergrundbilder</string>
   <string name="llks_pop_top_title_backup">Neue Bilder</string>
+  <string name="llks_setting_view_title">Zusätzlicher Bildschirm</string>
+  <string name="llks_simple_mode">Lite-Modus</string>
+  <string name="llks_simple_mode_desc">Vereinfachtes Layout und zusätzliche Verknüpfungen</string>
+  <string name="llks_standard_mode">Standard</string>
+  <string name="llks_standard_mode_desc">Hintergrundbilder, Geschichten und tägliche Empfehlungen</string>
+  <string name="llks_tools_gallery_name">Hintergrundkarussell</string>
   <string name="load_hdpicture_complete">Originalbild geladen</string>
   <string name="loading">" "&lt;CDATA&gt;Nur eine Sekunde&amp;#8230;&lt;/CDATA&gt;" "</string>
   <string name="lock_screen_date">EEEE, d. MMMM</string>
@@ -299,9 +307,9 @@
   <string name="passport_error_unknown">Anmeldung nicht möglich</string>
   <string name="passport_error_user_name">Eingegebener Benutzername ist ungültig</string>
   <string name="passport_error_verify_activator_phone_message">Stellen Sie sicher, dass Ihr SIM-Kartendienst aktiviert ist und das Gerät mit dem Netzwerk verbunden ist.</string>
-  <string name="passport_error_verify_activator_phone_title">Telefonnummer konnte nicht verifiziert werden</string>
+  <string name="passport_error_verify_activator_phone_title">Telefonnummer wurde nicht verifiziert</string>
   <string name="passport_extra_gdpr_license">Das Erstellen Ihres Mi Kontos bedeutet, dass Sie damit einverstanden sind, dass Xiaomi Ihre persönlichen Daten sammelt, verarbeitet und nutzt, einschließlich Verifizierungsdaten (z.B. Verifizierungscodes), Zweitprofildaten (z.B. Informationen über die Art und Weise, wie Sie das Zweitprofil nutzen, IDs, die im Haupt- und Zweitprofil verwendet werden) und andere Daten, die in unserer Datenschutzerklärung angegeben sind. In unserer Datenschutzerklärung erfahren Sie, wie wir personenbezogene Daten verarbeiten und nutzen.</string>
-  <string name="passport_failed_to_send_activate_email">Aktivierungsmail konnte nicht gesendet werden</string>
+  <string name="passport_failed_to_send_activate_email">Aktivierungsmail wurde nicht gesendet</string>
   <string name="passport_find_password_on_web_msg">Besuchen Sie account.mi.com, um Ihr Passwort zurückzusetzen.</string>
   <string name="passport_forget_password"><u>Passwort vergessen</u></string>
   <string name="passport_forget_password_no_underline">Passwort vergessen</string>
@@ -348,7 +356,7 @@
   <string name="passport_phone_ticket_login">Mit SMS anmelden</string>
   <string name="passport_prev">Zurück</string>
   <string name="passport_privacy_policy">Datenschutzerklärung</string>
-  <string name="passport_pwd_generate_failure">Passwort konnte nicht erstellt werden</string>
+  <string name="passport_pwd_generate_failure">Passwort wurde nicht erstellt</string>
   <string name="passport_pwd_generating">Erstellen…</string>
   <string name="passport_querying_phone_info">Kontoinfo abrufen…</string>
   <string name="passport_quick_login">Anmelden</string>
@@ -405,7 +413,7 @@
   <string name="passport_select_the_register_phone">Telefonnummer wählen, um Konto einzurichten</string>
   <string name="passport_send_too_many_code">Zu viele Verifizierungscodes wurden an diese Nummer geschickt. Warten Sie 24 Stunden und versuchen Sie es erneut.</string>
   <string name="passport_send_too_many_sms">Zu viele Verifizierungscodes wurden an diese Nummer gesendet. 24 Stunden warten und es erneut versuchen.</string>
-  <string name="passport_send_vcode_failed">Code konnte nicht gesendet werden</string>
+  <string name="passport_send_vcode_failed">Code wurde nicht gesendet</string>
   <string name="passport_sending_vcode">Code senden…</string>
   <string name="passport_set">Gesetzt</string>
   <string name="passport_set_password">Passwort festlegen</string>
@@ -503,7 +511,7 @@
   <string name="shortcut_ask">Erstellen von Verknüpfungen in den Sicherheitseinstellungen zulassen</string>
   <string name="shortcut_created">Verknüpfung erfolgreich erstellt</string>
   <string name="shortcut_exist">Verknüpfung existiert bereits</string>
-  <string name="shortcut_failed">Verknüpfung konnte nicht erstellt werden</string>
+  <string name="shortcut_failed">Verknüpfung wurde nicht erstellt</string>
   <string name="sign_in_title">Mit Mi Konto anmelden</string>
   <string name="sliding_on_unlock">Hochwischen zum Entsperren</string>
   <string name="sns_sign_in">Andere Art der Anmeldung</string>
@@ -560,6 +568,8 @@
   <string name="sst_wallpaper_history_title">Verlauf</string>
   <string name="sst_wifi_only_desc">Ausschalten, um Daten zu sparen</string>
   <string name="sst_wifi_only_title">Mobile Datenverbindung zum Aktualisieren verwenden</string>
+  <string name="subscribe_apply_wp">Sperrbildschirmhintergrund erfolgreich angewendet </string>
+  <string name="subscribe_dlg_content">Mit einem Abo erhalten Sie täglich frische Hintergrundbilder auf Ihren Sperrbildschirm sowie Morgengrüße.</string>
   <string name="subscribe_item_checked">Abonniert</string>
   <string name="subscribe_item_unchecked">Nicht abonniert</string>
   <string name="summary">"Akzeptieren Sie unsere <a href='http://www.miui.com/res/doc/privacy/de.html'>Datenschutzerklärung</a>, um Online-Inhalte anzusehen. Wenn Sie nicht einverstanden sind, werden lokale Hintergrundbilder weiterhin verfügbar sein."</string>
@@ -580,8 +590,9 @@
   <string name="time_current">Gerade eben</string>
   <string name="toast_ad_down_tip">App herunterladen…</string>
   <string name="toast_ad_down_tip2">%s herunterladen</string>
-  <string name="toast_load_hd_fail">Original konnte nicht geladen werden</string>
+  <string name="toast_load_hd_fail">Original wurde nicht geladen</string>
   <string name="toast_neterror_tip">Ein Netzwerkfehler ist aufgetreten</string>
+  <string name="toast_update_no_more_newest_feeds">Zurzeit keine neuen Artikel</string>
   <string name="top_search_tip">Suche nach den gewünschten Kategorien</string>
   <string name="uninstall_introducation_text_desc">Hintergrundbildkarussell liefert Bilder in neuer Qualität direkt auf Ihren Bildschirm. Stellen Sie sicher, dass Sie auf seine Funktionen verzichten können, bevor Sie die App deinstallieren.</string>
   <string name="uninstall_introduction_text_title">Über Hintergrundbildkarussell</string>
