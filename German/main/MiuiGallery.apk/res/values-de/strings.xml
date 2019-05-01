@@ -38,6 +38,7 @@
   <string name="agreement_summary">Rechtliche Dokumente</string>
   <string name="ai_album_open_switch_button_title">Mit der Analyse von Fotos beginnen</string>
   <string name="ai_album_requesting_title">KI-Algorithmus verarbeitet noch immer Ihre Fotos. Kommen Sie in Kürze wieder.</string>
+  <string name="ai_album_setting_key_word">Nach Fotos suchen</string>
   <string name="ai_album_setting_sub_title">Ermöglichen Sie dem KI-Algorithmus, Personen, Orte und Objekte auf Ihren Fotos zu identifizieren, damit Sie sie schneller finden können.</string>
   <string name="ai_album_setting_title">Objekte auf Fotos identifizieren</string>
   <string name="album_already_exists_check">Ansehen</string>
@@ -189,6 +190,8 @@
   <string name="backuped_title">Erfolgreich gesichert</string>
   <string name="backuping_title_gprs">Über die mobile Datenverbindung sichern…</string>
   <string name="backuping_title_normal">Wird gesichert…</string>
+  <string name="base_btn_cancel">Abbrechen</string>
+  <string name="base_btn_download">Herunterladen</string>
   <string name="begin_share">Erstellen Sie ein Kinderalbum \"%s\" und teilen Sie es sofort</string>
   <string name="begin_share_toast">Vor dem Teilen ein eigenes Album für dieses Kind erstellen?</string>
   <string name="browse_category">Anzeigen</string>
@@ -551,6 +554,7 @@
   <string name="filter_category_food">Lebensmittel</string>
   <string name="filter_category_portrait">Porträt</string>
   <string name="filter_category_scene">Landschaft</string>
+  <string name="filter_category_sky">Himmel</string>
   <string name="filter_clarendon_fresh">Frisch</string>
   <string name="filter_f2_classic">Klassisch</string>
   <string name="filter_film_blackwhite">Schwarz-Weiß</string>
@@ -573,8 +577,8 @@
   <string name="filter_master_rise">Anstieg</string>
   <string name="filter_master_somber">Düster</string>
   <string name="filter_original">Nichts</string>
-  <string name="filter_people_bw">Schwarz-Weiß</string>
   <string name="filter_people_blackwhite">Schwarz-Weiß</string>
+  <string name="filter_people_bw">Schwarz-Weiß</string>
   <string name="filter_people_fairytale">Kinder</string>
   <string name="filter_people_heart">Emotionen</string>
   <string name="filter_people_japanese">Frisch</string>
@@ -591,6 +595,17 @@
   <string name="filter_scene_series">Reflexionen</string>
   <string name="filter_scene_vivid">Lebhaft</string>
   <string name="filter_scene_warm">Warm</string>
+  <string name="filter_sky_cloudy">Bewölkt</string>
+  <string name="filter_sky_detect_forbidden_tips">Himmel wurde nicht erkannt</string>
+  <string name="filter_sky_download_failed">Plug-in konnte nicht heruntergeladen werden. Überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>
+  <string name="filter_sky_download_finish">Plug-in erfolgreich heruntergeladen</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">"Wenn Sie nicht mit WLAN verbunden sind, können Sie mobile Daten verwenden, um das Plug-in (%1$dMB) herunterzuladen, mit dem Sie den Himmel auf Ihren Fotos ersetzen können."</string>
+  <string name="filter_sky_download_sdk_without_wifi_title">Plug-in herunterladen</string>
+  <string name="filter_sky_dusk">Dunkelheit</string>
+  <string name="filter_sky_glow">Leuchtend</string>
+  <string name="filter_sky_rainbow">Regenbogen</string>
+  <string name="filter_sky_sunny">Sonnig</string>
+  <string name="filter_sky_sunset">Sonnenuntergang</string>
   <string name="finish_create_baby_album_toast">Album für \"%s\" in der Mi Cloud erstellt</string>
   <string name="finish_fill_baby">Erstellen</string>
   <string name="flash_off">Blitz aus</string>
@@ -1297,6 +1312,7 @@
   <string name="today">Heute</string>
   <string name="too_many_recipients">Zu viele Empfänger (%1$s) (Max %2$s Empfänger)</string>
   <string name="trash_bin">Papierkorb</string>
+  <string name="trash_bin_key_word">Gelöschte Fotos</string>
   <string name="trash_bin_summary">Kürzlich gelöschte, gesicherte Fotos durchstöbern</string>
   <string name="try_again_later">Später erneut versuchen</string>
   <string name="try_to_send">Senden</string>

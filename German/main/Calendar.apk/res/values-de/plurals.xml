@@ -5,11 +5,11 @@
   </plurals>
   <plurals name="N_remaining_events">
     <item quantity="other">+%d Einträge</item>
-    <item quantity="one">+1 Eintrag</item>
+    <item quantity="one">+%d Eintrag</item>
   </plurals>
   <plurals name="Ndays">
-    <item quantity="other">%d Tage vorher</item>
-    <item quantity="one">1 Tag vorher</item>
+    <item quantity="other">%d Tage vor dem Ereignis</item>
+    <item quantity="one">%d Tag vor dem Ereignis</item>
   </plurals>
   <plurals name="Ndays_after">
     <item quantity="other">In %1$d Tagen</item>
@@ -24,28 +24,28 @@
     <item quantity="one">Gestern</item>
   </plurals>
   <plurals name="Ndays_ago_at">
-  <item quantity="other">Vor %1$d Tagen um %2$s</item>
-  <item quantity="one">Vor %1$d Tag um %2$s</item>
+  <item quantity="other">%d Tage vor dem Ereignis um %2$s</item>
+  <item quantity="one">%d Tag vor dem Ereignis um %2$s</item>
   </plurals>
   <plurals name="Nevents">
     <item quantity="other">%d Einträge</item>
-    <item quantity="one">1 Eintrag</item>
+    <item quantity="one">%d Eintrag</item>
   </plurals>
   <plurals name="Nhours">
-    <item quantity="other">%d Stunden vorher</item>
-    <item quantity="one">1 Stunde vorher</item>
+    <item quantity="other">%d Stunden vor dem Ereignis</item>
+    <item quantity="one">%d Stunde vor dem Ereignis</item>
   </plurals>
   <plurals name="Nmins">
     <item quantity="other">%d Min</item>
-    <item quantity="one">1 Min</item>
+    <item quantity="one">%d Min</item>
   </plurals>
   <plurals name="Nminutes">
-    <item quantity="other">%d Minuten vorher</item>
-    <item quantity="one">Eine Minute vorher</item>
+    <item quantity="other">%d Minuten vor dem Ereignis</item>
+    <item quantity="one">%d Minute vor dem Ereignis</item>
   </plurals>
   <plurals name="Nweeks">
-  <item quantity="other">%d Wochen vorher</item>
-  <item quantity="one">%d Woche vorher</item>
+  <item quantity="other">%d Wochen vor dem Ereignis</item>
+  <item quantity="one">%d Woche vor dem Ereignis</item>
   </plurals>
   <plurals name="anniversary_day">
     <item quantity="other">%1$s Tage</item>
@@ -53,7 +53,7 @@
   </plurals>
   <plurals name="anniversary_notify_before_3_day_title">
     <item quantity="other">Jahrestag: %2$d Jahre seit %1$s in 3 Tagen</item>
-    <item quantity="one">Jahrestag: 1 Jahr seit %1$s in 3 Tagen</item>
+    <item quantity="one">Jahrestag: %2$d Jahr seit %1$s in 3 Tagen</item>
   </plurals>
   <plurals name="anniversary_notify_title">
     <item quantity="other">Jahrestag: %2$d Jahre seit %1$s</item>
@@ -113,7 +113,7 @@
  </plurals>
   <plurals name="month_more_events">
     <item quantity="other">+%d</item>
-    <item quantity="one">+1</item>
+    <item quantity="one">+%d</item>
   </plurals>
   <plurals name="recurrence_end_count">
     <item quantity="other">Für %d Einträge</item>
@@ -134,6 +134,18 @@
   <plurals name="recurrence_interval_yearly">
     <item quantity="other">Alle %d Jahre</item>
     <item quantity="one">Jedes %d Jahr</item>
+  </plurals>
+  <plurals name="reminder_custom_unit_day">
+    <item quantity="other">" Tage"</item>
+    <item quantity="one">" Tag"</item>
+  </plurals>
+  <plurals name="reminder_custom_unit_hour">
+    <item quantity="other">" Stunden"</item>
+    <item quantity="one">" Stunde"</item>
+  </plurals>
+  <plurals name="reminder_custom_unit_minute">
+    <item quantity="other">" Minuten"</item>
+    <item quantity="one">" Minute"</item>
   </plurals>
   <plurals name="repeat_custom_prompt">
     <item quantity="other">Alle %1$s am %2$s</item>
