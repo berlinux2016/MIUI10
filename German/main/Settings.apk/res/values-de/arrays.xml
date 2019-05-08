@@ -113,20 +113,20 @@
     <item>Standort</item>
     <item>Nutzerstatistik lesen</item>
     <item>Mikrofon stumm-/anschalten</item>
-	<item>Meldung anzeigen</item>
+	  <item>Meldung anzeigen</item>
     <item>Medien projizieren</item>
     <item>VPN aktivieren</item>
     <item>Hintergrundbild einrichten</item>
     <item>Strukturassistent</item>
     <item>Screenshotassistent</item>
-	<item>Telefonstatus lesen</item>
+  	<item>Telefonstatus lesen</item>
     <item>Sprachnachricht hinzufügen</item>
     <item>SIP verwenden</item>
     <item>Ausgehenden Anruf tätigen</item>
     <item>Fingerabdruck</item>
     <item>Körpersensoren</item>
     <item>Notfallmeldungen lesen</item>
-	<item>Falscher Standort</item>
+	  <item>Falscher Standort</item>
     <item>Speicher lesen</item>
     <item>Speicher beschreiben</item>
     <item>Bildschirm anschalten</item>
@@ -180,20 +180,20 @@
     <item>Orte mit hohem Stromverbrauch überwachen</item>
     <item>Nutzerstatistik lesen</item>
     <item>Mikrofon stumm-/anschalten</item>
-	<item>Meldung anzeigen</item>
+	  <item>Meldung anzeigen</item>
     <item>Medien projizieren</item>
     <item>VPN aktivieren</item>
     <item>Hintergrundbild einrichten</item>
     <item>Strukturassistent</item>
     <item>Screenshotassistent</item>
-	<item>Telefonstatus lesen</item>
+	  <item>Telefonstatus lesen</item>
     <item>Sprachnachricht hinzufügen</item>
     <item>SIP verwenden</item>
     <item>Ausgehenden Anruf tätigen</item>
     <item>Fingerabdruck</item>
     <item>Körpersensoren</item>
     <item>Notfallmeldungen lesen</item>
-	<item>Falscher Standort</item>
+	  <item>Falscher Standort</item>
     <item>Speicher lesen</item>
     <item>Speicher beschreiben</item>
     <item>Bildschirm anschalten</item>
@@ -203,11 +203,11 @@
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Standardlimit</item>
-	<item>Keine Hintergrundprozesse</item>
-	<item>Maximal 1 Prozess</item>
-	<item>Maximal 2 Prozesse</item>
-	<item>Maximal 3 Prozesse</item>
-	<item>Maximal 4 Prozesse</item>
+	  <item>Keine Hintergrundprozesse</item>
+	  <item>Maximal 1 Prozess</item>
+	  <item>Maximal 2 Prozesse</item>
+	  <item>Maximal 3 Prozesse</item>
+	  <item>Maximal 4 Prozesse</item>
   </string-array>
   <string-array name="automatic_storage_management_days">
     <item>Über 30 Tage alt</item>
@@ -478,6 +478,11 @@
     <item>5 Minuten</item>
     <item>10 Minuten</item>
     <item>30 Minuten</item>
+  </string-array>
+  <string-array name="drip_battery_indicator_style_entries">
+    <item>Grafisch</item>
+    <item>Prozent (im Symbol)</item>
+    <item>Prozent (neben dem Symbol)</item>
   </string-array>
   <string-array name="edge_touch_volume_action">
     <item>Tippen anpassen - Doppelklick-Steuerung</item>
