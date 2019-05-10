@@ -782,7 +782,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_sugg_apps_info">App anhalten oder entfernen</string>
   <string name="battery_sugg_apps_settings">App bietet unter Umständen Einstellungen für einen geringeren Akkuverbrauch</string>
   <string name="battery_sugg_bluetooth_basic">Bluetooth bei Nichtverwendung ausschalten</string>
-  <string name="battery_sugg_bluetooth_headset">Mit einem anderen Bluetoothgerät verbinden</string>
+  <string name="battery_sugg_bluetooth_headset">Mit einem anderen Bluetooth-Gerät verbinden</string>
   <string name="battery_sugg_display">Bildschirmhelligkeit und/oder Bildschirmtimeout verringern</string>
   <string name="battery_sugg_radio">Flugmodus zum Stromsparen in Gebieten ohne Mobilfunkabdeckung</string>
   <string name="battery_sugg_wifi">WLAN bei Nichtverwendung oder Nichtverfügbarkeit ausschalten</string>
@@ -833,7 +833,7 @@ Apps:
   <string name="biometric_weak_improve_matching_title">Gesichtserkennung verbessern</string>
   <string name="biometric_weak_liveliness_summary">Augenzwinkern beim Entsperren erforderlich</string>
   <string name="biometric_weak_liveliness_title">Personenechtheitsprüfung</string>
-  <string name="ble_scan_notify_text">Um die Standortgenauigkeit zu erhöhen, können System-Apps und -dienste nach wie vor Bluetoothgeräte in der Nähe erkennen. Sie können dies in den LINK_BEGINScaneinstellungenLINK_END ändern.</string>
+  <string name="ble_scan_notify_text">Um die Standortgenauigkeit zu erhöhen, können System-Apps und -dienste nach wie vor Bluetooth-Geräte in der Nähe erkennen. Sie können dies in den LINK_BEGINScaneinstellungenLINK_END ändern.</string>
   <string name="block_list_connected_devices">Verbundene Geräte</string>
   <string name="block_list_diaglog_cancle">Abbrechen</string>
   <string name="block_list_dialog_content">Diese Aktion wird \"%s\" von diesem Gerät trennen und zur Sperrliste hinzufügen</string>
@@ -853,7 +853,7 @@ Apps:
   <string name="bluetooth_advanced_titlebar">Erweitertes Bluetooth</string>
   <string name="bluetooth_ask_disablement">%1$s will Bluetooth ausschalten</string>
   <string name="bluetooth_ask_disablement_no_name">Eine App will Bluetooth ausschalten</string>
-  <string name="bluetooth_ask_discovery">%1$s versucht, Ihr Telefon für %2$d Sek. für andere Bluetoothgeräte sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_discovery">%1$s versucht, Ihr Telefon für %2$d Sek. für andere Bluetooth-Geräte sichtbar zu machen. Erlauben?</string>
   <string name="bluetooth_ask_discovery_no_name">Eine App möchte Ihr Telefon für %1$d Sekunden für andere Bluetooth-Geräte sichtbar machen</string>
   <string name="bluetooth_ask_enablement">%1$s versucht, Bluetooth zu aktivieren</string>
   <string name="bluetooth_ask_enablement_and_discovery">%1$s versucht, Bluetooth zu aktivieren und Ihr Telefon für %2$d Sek. für andere Telefone sichtbar zu machen. Erlauben?</string>
@@ -865,12 +865,12 @@ Apps:
   <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s möchte Bluetooth und Bluetoothbroadcasting aktivieren, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_ask_enablement_detected">" möchte Bluetooth aktivieren"</string>
   <string name="bluetooth_ask_enablement_no_name">Eine App möchte Bluetooth einschalten</string>
-  <string name="bluetooth_ask_lasting_discovery">%1$s versucht Ihr Gerät für andere Bluetoothgeräte sichtbar zu machen. Dies kann in den Bluetooth-Einstellungen geändert werden.</string>
+  <string name="bluetooth_ask_lasting_discovery">%1$s versucht Ihr Gerät für andere Bluetooth-Geräte sichtbar zu machen. Dies kann in den Bluetooth-Einstellungen geändert werden.</string>
   <string name="bluetooth_ask_lasting_discovery_no_name">Eine App möchte Ihr Telefon für andere Bluetooth-Geräte sichtbar machen. Sie können dies später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_ask_start_broadcast">%1$s möchte Bluetoothbroadcasting aktivieren, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_auto_connect">Automatisch verbinden</string>
   <string name="bluetooth_battery_level">Akku %1$s</string>
-  <string name="bluetooth_broadcasting_explaination">Wenn diese Funktion eingestellt ist, kann Ihr Telefon mit anderen Geräten in der Umgebung kommunizieren. Broadcasting nutzt Niedrigstrom-Bluetoothsignale.</string>
+  <string name="bluetooth_broadcasting_explaination">Wenn diese Funktion eingestellt ist, kann Ihr Telefon mit anderen Geräten in der Umgebung kommunizieren. Broadcasting nutzt Niedrigstrom Bluetooth-Signale.</string>
   <string name="bluetooth_confirm_passkey_msg">Zum Koppeln mit <b>%1$s</b> stellen Sie sicher, dass dieser Hauptschlüssel angezeigt wird: <b>%2$s</b></string>
   <string name="bluetooth_connect_failed">Verbinden nicht möglich, erneut versuchen</string>
   <string name="bluetooth_connect_specific_profiles_title">Verbinden…</string>
@@ -889,15 +889,15 @@ Apps:
   <string name="bluetooth_connecting_error_message">Verbindung mit %1$s nicht möglich</string>
   <string name="bluetooth_connection_dialog_text">Möchten Sie eine Verbindung mit \"%1$s\" herstellen?</string>
   <string name="bluetooth_connection_notif_message">Zum Herstellen einer Verbindung mit \"%1$s\" antippen</string>
-  <string name="bluetooth_connection_permission_request">Bluetoothverbindungsanfrage</string>
-  <string name="bluetooth_device">Unbenanntes Bluetoothgerät</string>
+  <string name="bluetooth_connection_permission_request">Bluetooth-Verbindungsanfrage</string>
+  <string name="bluetooth_device">Unbenanntes Bluetooth-Gerät</string>
   <string name="bluetooth_device_address">Adresse:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Eingehende Dateiübertragung zulassen</string>
-  <string name="bluetooth_device_advanced_online_mode_summary">Mit Bluetoothgerät verbinden</string>
+  <string name="bluetooth_device_advanced_online_mode_summary">Mit Bluetooth-Gerät verbinden</string>
   <string name="bluetooth_device_advanced_online_mode_title">Verbinden</string>
   <string name="bluetooth_device_advanced_profile_header_title">Profile</string>
   <string name="bluetooth_device_advanced_rename_device">Umbenennen</string>
-  <string name="bluetooth_device_advanced_title">Gekoppelte Bluetoothgeräte</string>
+  <string name="bluetooth_device_advanced_title">Gekoppelte Bluetooth-Geräte</string>
   <string name="bluetooth_device_context_connect">Verbinden</string>
   <string name="bluetooth_device_context_connect_advanced">Optionen…</string>
   <string name="bluetooth_device_context_disconnect">Trennen</string>
@@ -906,10 +906,10 @@ Apps:
   <string name="bluetooth_device_context_unpair">Koppeln aufheben</string>
   <string name="bluetooth_device_details">Geräteeinstellungen</string>
   <string name="bluetooth_device_mac_address">Bluetooth-Geräteaddresse: %1$s</string>
-  <string name="bluetooth_device_misc_title">Selten verwendete Bluetoothgeräte</string>
+  <string name="bluetooth_device_misc_title">Selten verwendete Bluetooth-Geräte</string>
   <string name="bluetooth_device_name_summary">Sichtbar als “^1” für andere Geräte</string>
   <string name="bluetooth_device_searchable">Sichtbarkeit</string>
-  <string name="bluetooth_devices">Bluetoothgeräte</string>
+  <string name="bluetooth_devices">Bluetooth-Geräte</string>
   <string name="bluetooth_disable_a2dp_hw_offload">Bluetooth A2DP Hardware Offload deaktivieren</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Abbrechen</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Neu starten</string>
@@ -961,8 +961,8 @@ Apps:
   <string name="bluetooth_hid_profile_summary_use_for">Für Eingabe verwenden</string>
   <string name="bluetooth_incoming_pairing_msg">Von: %1$s. Koppeln mit diesem Gerät durchführen?</string>
   <string name="bluetooth_is_disconnect_question">Trenne %1$s?</string>
-  <string name="bluetooth_is_discoverable">Sichtbar für alle Bluetoothgeräte in der Nähe (%1$s)</string>
-  <string name="bluetooth_is_discoverable_always">Dieses Gerät für Bluetoothgeräte in der Nähe sichtbar machen</string>
+  <string name="bluetooth_is_discoverable">Sichtbar für alle Bluetooth-Geräte in der Nähe (%1$s)</string>
+  <string name="bluetooth_is_discoverable_always">Dieses Gerät für Bluetooth-Geräte in der Nähe sichtbar machen</string>
   <string name="bluetooth_is_visible_message">%1$s ist für Geräte in der Umgebung sichtbar, wenn die Bluetooth-Einstellungen geöffnet sind</string>
   <string name="bluetooth_lock_voice_dialing">Sprachwahl sperren</string>
   <string name="bluetooth_lock_voice_dialing_summary">Verwendung der Sprachwahl über Bluetooth bei gesperrtem Bildschirm verhindern</string>
@@ -974,8 +974,8 @@ Apps:
   <string name="bluetooth_max_connected_audio_devices_string">Max. verbundene Bluetooth-Audiogeräte</string>
   <string name="bluetooth_menu_advanced">Erweiterte Einstellungen</string>
   <string name="bluetooth_name_not_set">Kein Name festgelegt, Kontoname wird verwendet</string>
-  <string name="bluetooth_no_devices_found">Kein Bluetoothgerät in der Nähe gefunden</string>
-  <string name="bluetooth_not_visible_to_other_devices">Nicht sichtbar für andere Bluetoothgeräte</string>
+  <string name="bluetooth_no_devices_found">Kein Bluetooth-Gerät in der Nähe gefunden</string>
+  <string name="bluetooth_not_visible_to_other_devices">Nicht sichtbar für andere Bluetooth-Geräte</string>
   <string name="bluetooth_notif_message">Tippen, um mit %1$s zu koppeln</string>
   <string name="bluetooth_notif_ticker">Bluetoothpairing-Anfrage</string>
   <string name="bluetooth_notif_title">Pairing-Anfrage</string>
@@ -1109,7 +1109,7 @@ Abtastrate"</string>
   <string name="bluetooth_unlock_state_key_error">Schlüsselfehler</string>
   <string name="bluetooth_unlock_state_ok">Entsperrt</string>
   <string name="bluetooth_unlock_state_too_far">Nicht nah genug</string>
-  <string name="bluetooth_unlock_title">Entsperren per Bluetoothgerät</string>
+  <string name="bluetooth_unlock_title">Entsperren per Bluetooth-Gerät</string>
   <string name="bluetooth_unlock_turned_off">Ausgeschaltet</string>
   <string name="bluetooth_unlock_turned_on">Eingeschaltet</string>
   <string name="bluetooth_unpair_dialog_body">Ihr Telefon bleibt nicht länger mit %1$s gekoppelt</string>
@@ -1870,14 +1870,14 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_name_input_error">Gerätename konnte nicht gespeichert werden</string>
   <string name="device_name_input_hint">Name eingeben</string>
   <string name="device_name_input_overlength">Wortgrenze überschritten</string>
-  <string name="device_name_usage_point">Dieser Name wird bei Bluetoothverbindungen, Tethering, usw. angezeigt</string>
-  <string name="device_picker">Bluetoothgeräteauswahl</string>
+  <string name="device_name_usage_point">Dieser Name wird bei Bluetooth-Verbindungen, Tethering, usw. angezeigt</string>
+  <string name="device_picker">Bluetooth-Geräteauswahl</string>
   <string name="device_rear_camera">Hintere Kamera</string>
   <string name="device_reset_title">Gerät zurücksetzen</string>
   <string name="device_screen_consumption">Bildschirmverbrauch</string>
   <string name="device_screen_resolution">Bildschirmauflösung</string>
   <string name="device_screen_size">Bildschirmgröße</string>
-  <string name="device_screen_usage">Bildschirmaktivität seit Vollladung</string>
+  <string name="device_screen_usage">Bildschirmzeit seit Vollladung</string>
   <string name="device_sd_memory">Externer Speicher:</string>
   <string name="device_share_loading">Image erstellen</string>
   <string name="device_status_summary">Telefonnummer, Signal, Akkustatus, Netzwerkstatus etc.</string>
@@ -2537,7 +2537,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gadget_state_turning_on">Wird eingeschaltet…</string>
   <string name="gadget_sync">Synchronisieren</string>
   <string name="gadget_title">Energiesteuerung</string>
-  <string name="gadget_toggle_bluetooth">Bluetootheinstellung aktualisieren</string>
+  <string name="gadget_toggle_bluetooth">Bluetooth-Einstellung aktualisieren</string>
   <string name="gadget_toggle_wifi">WLAN-Einstellungen aktualisieren</string>
   <string name="gallery_privacy_password_role_instruction">Ihre privaten Fotos werden hier gespeichert</string>
   <string name="game_booster">Spiel;Spiele;Turbo;Spielen;Spielemodus</string>
@@ -3036,7 +3036,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="location_on_summary">An</string>
   <string name="location_recent_location_requests_see_all">Alles anzeigen</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Standortgenauigkeit verbessern, indem System-Apps jederzeit nach Bluetoothgeräten suchen</string>
-  <string name="location_scanning_bluetooth_always_scanning_title">Bluetoothsuche</string>
+  <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth-Suche</string>
   <string name="location_scanning_screen_title">Wird gesucht</string>
   <string name="location_scanning_wifi_always_scanning_description">Standortgenauigkeit verbessern, indem Apps jederzeit nach WLAN suchen</string>
   <string name="location_scanning_wifi_always_scanning_title">WLAN wird gesucht</string>
@@ -5532,7 +5532,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_bar_settings_user_fold_summary">Alle unwichtigen Benachrichtigungen werden in einem separaten Ordner angezeigt</string>
   <string name="status_bar_style_list">Kombiniert</string>
   <string name="status_bar_style_page">Getrennt</string>
-  <string name="status_bt_address">Bluetoothadresse</string>
+  <string name="status_bt_address">Bluetooth-Adresse</string>
   <string name="status_data_network_type">Mobiler Datennetztyp</string>
   <string name="status_data_state">Mobilfunkstatus</string>
   <string name="status_failed_to_write">Nicht möglich, Daten auf den NFC-Tag zu schreiben. Falls das Problem weiterhin auftritt, verwenden Sie einen anderen Tag</string>
@@ -6343,12 +6343,12 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usage_access_description">Datenzugriff erlaubt einer App zu ermitteln, welche anderen Apps Sie benutzen und wie oft, außerdem Ihren Netzbetreiber, Ihre Sprache und andere Einstellungen</string>
   <string name="usage_access_title">Apps mit Datenzugriff</string>
   <string name="usage_log">App-Nutzungsstatistiken</string>
-  <string name="usage_state_app_timer">Bildschirmaktivität</string>
+  <string name="usage_state_app_timer">Bildschirmzeit</string>
   <string name="usage_state_app_usage_detail_title">App-Nutzungdetails</string>
-  <string name="usage_state_app_usage_list_title">Bildschirmaktivität von Apps</string>
-  <string name="usage_state_app_usage_list_week_title">Bildschirmaktivität von Apps</string>
-  <string name="usage_state_app_usage_tip_title" formatted="false">Bildschirmaktivität zwischen %d:00 und %d:00 Uhr</string>
-  <string name="usage_state_app_use_time">Bildschirmaktivität weiterer Apps</string>
+  <string name="usage_state_app_usage_list_title">Bildschirmzeit von Apps</string>
+  <string name="usage_state_app_usage_list_week_title">Bildschirmzeit von Apps</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">Bildschirmzeit zwischen %d:00 und %d:00 Uhr</string>
+  <string name="usage_state_app_use_time">Bildschirmzeit weiterer Apps</string>
   <string name="usage_state_channel_mouth">Letzte 30 Tage</string>
   <string name="usage_state_channel_week">Letzte 7 Tage</string>
   <string name="usage_state_date">d. MMM</string>
@@ -6359,11 +6359,11 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usage_state_hour_minute" formatted="false">%d Std %d Min</string>
   <string name="usage_state_less_one_minute">Weniger als 1 Minute</string>
   <string name="usage_state_monday">Mo</string>
-  <string name="usage_state_mourth_day">Bildschirmaktivität am %s</string>
+  <string name="usage_state_mourth_day">Bildschirmzeit am %s</string>
   <string name="usage_state_noti_mourth_day">Benachrichtigungen am %s</string>
   <string name="usage_state_notification">Appbenachrichtigungen verwalten</string>
   <string name="usage_state_notification_manager">Appbenachrichtigungen verwalten</string>
-  <string name="usage_state_remind_summary">Einschalten, um Bildschirmaktivität-Alarme zu erhalten. Sie können verschiedene Zeitlimits für Wochentage und Wochenenden festlegen.</string>
+  <string name="usage_state_remind_summary">Einschalten, um Bildschirmzeit-Alarme zu erhalten. Sie können verschiedene Zeitlimits für Wochentage und Wochenenden festlegen.</string>
   <string name="usage_state_remind_title">Nutzungslimit einschalten</string>
   <string name="usage_state_rest_day">Wochenende</string>
   <string name="usage_state_saturday">Sa</string>
@@ -6375,11 +6375,11 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usage_state_tuesday">Di</string>
   <string name="usage_state_unlock_mourth_day">Entsperrt am %s</string>
   <string name="usage_state_usage_time">Nutzungslimit festlegen</string>
-  <string name="usage_state_usage_time_remind">Bildschirmaktivität-Alarm</string>
-  <string name="usage_state_use_time_remind_title">Bildschirmaktivität-Alarm</string>
+  <string name="usage_state_usage_time_remind">Bildschirmzeit-Alarm</string>
+  <string name="usage_state_use_time_remind_title">Bildschirmzeit-Alarm</string>
   <string name="usage_state_wednesday">Mi</string>
   <string name="usage_state_week_day_hour_minute" formatted="false">Wochenende: %d Std %d Min</string>
-  <string name="usage_state_week_total_text">Bildschirmaktivität (letzte 7 Tage)</string>
+  <string name="usage_state_week_total_text">Bildschirmzeit (letzte 7 Tage)</string>
   <string name="usage_state_work_day">Wochentags</string>
   <string name="usage_state_work_day_hour_minute" formatted="false">Wochentags: %d Std %d Min</string>
   <string name="usage_stats_label">Nutzungsstatistik</string>
@@ -6413,14 +6413,14 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="usagestats_app_category_miui_system">System-Apps</string>
   <string name="usagestats_app_category_miui_undefined">Andere</string>
   <string name="usagestats_app_category_miui_video_etc">Musik und Video</string>
-  <string name="usagestats_device_notification_des">Bildschirmaktivität-Limit heute: %s</string>
-  <string name="usagestats_device_notification_des_over">Sie haben heute bereits Ihr Bildschirmaktivität-Limit erreicht.</string>
+  <string name="usagestats_device_notification_des">Bildschirmzeit-Limit heute: %s</string>
+  <string name="usagestats_device_notification_des_over">Sie haben heute bereits Ihr Bildschirmzeit-Limit erreicht.</string>
   <string name="usagestats_device_notification_des_reset" formatted="false">Limit heute: %s | %s übrig</string>
-  <string name="usagestats_device_notification_title">Bildschirmaktivität-Alarm</string>
+  <string name="usagestats_device_notification_title">Bildschirmzeit-Alarm</string>
   <string name="usagestats_device_timeout_des" formatted="false">Sie haben Ihr Gerät heute für %d Std %d Min verwendet. Ruhen Sie Sich aus!</string>
   <string name="usagestats_device_timeout_negative">In 1 Stunde erinnern</string>
   <string name="usagestats_device_timeout_positive">Verstanden</string>
-  <string name="usagestats_device_timeout_title">Bildschirmaktivität-Alarm</string>
+  <string name="usagestats_device_timeout_title">Bildschirmzeit-Alarm</string>
   <string name="usb_adb_input">USB-Debugging (Sicherheitseinstellungen)</string>
   <string name="usb_adb_input_desc">Erlauben Sie die Berechtigungen und die Eingabesimulation über USB-Debugging</string>
   <string name="usb_audio_disable_routing">Deaktiviere USB-Audiorouting</string>
