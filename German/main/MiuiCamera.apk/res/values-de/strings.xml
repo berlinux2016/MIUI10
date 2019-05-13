@@ -210,7 +210,6 @@ und treten Sie für einen Moment aus dem Blickfeld raus."</string>
   <string name="color_effect_live_blue">Orchidee</string>
   <string name="color_effect_live_deepblack">Schwarz-Weiß</string>
   <string name="color_effect_live_fair">Blass</string>
-  <string name="color_effect_live_none">Normal</string>
   <string name="color_effect_live_solar">Himmelblau</string>
   <string name="config_name_group">Fotoauswahl</string>
   <string name="config_name_hht">Nachtverbesserung</string>
@@ -333,7 +332,6 @@ und treten Sie für einen Moment aus dem Blickfeld raus."</string>
   <string name="exposure_time">Belichtungszeit</string>
   <string name="eye_light">Augen funkeln</string>
   <string name="eye_light_angel">Engel</string>
-  <string name="eye_light_comic">Manga</string>
   <string name="eye_light_crescent">Sichelförmig</string>
   <string name="eye_light_nature">Natürlich</string>
   <string name="eye_light_rainbow">Regenbogen</string>
@@ -493,9 +491,10 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="live_speed_extreme_fast">Super schnell</string>
   <string name="live_speed_extreme_slow">Super langsam</string>
   <string name="live_speed_fast">Schnell</string>
-  <string name="live_speed_fragment_tab_name">Aufnahmegeschwindigkeit</string>
+  <string name="live_speed_fragment_tab_name">Geschwindigkeit</string>
   <string name="live_speed_normal">Normal</string>
   <string name="live_speed_slow">Langsam</string>
+  <string name="live_sticker_fragment_tab_name">TikTok-Effekte</string>
   <string name="live_sticker_network_error_hint">Netzwerkfehler</string>
   <string name="live_sticker_updating">Aktualisieren…</string>
   <string name="loading">Laden…</string>
@@ -632,19 +631,18 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_advanced_settings">Erweitert</string>
   <string name="pref_ai_detect">AI-Erkennung</string>
   <string name="pref_audio_focus_entry_front">Vorne</string>
-  <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Hinten</string>
   <string name="pref_audio_focus_title">Audiofokus</string>
   <string name="pref_audio_indicator_entry_off">Audio aus</string>
   <string name="pref_audio_indicator_entry_on">Audio an</string>
-  <string name="pref_burst_shoot_title">Serienbilder schießen</string>
+  <string name="pref_burst_shoot_title">Serienbilder</string>
   <string name="pref_camcorder_settings">Videoeinstellungen</string>
   <string name="pref_camcorder_settings_category">Kameraeinstellungen</string>
   <string name="pref_camera_ai_scene_title">AI-Kamera</string>
   <string name="pref_camera_antibanding_entry_0">Aus</string>
   <string name="pref_camera_antibanding_title">Antistreifenbildung</string>
   <string name="pref_camera_asd_night_title">Autom. Nachtaufnahmen verbessern</string>
-  <string name="pref_camera_asd_popup_title">Popup-Benachrichtigung, wenn Blitz erforderlich ist</string>
+  <string name="pref_camera_asd_popup_title">Benachrichtigen, wenn Blitz erforderlich</string>
   <string name="pref_camera_audio_capture_title">Ton</string>
   <string name="pref_camera_auto_capture_when_stable_summary">Um ein Motiv auszuwählen, markieren Sie zwei gegenüberliegende Eckpunkte. Wenn das Motiv stillsteht, löst die Kamera automatisch aus.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Bewegliches Motiv aufnehmen, sobald es stillsteht</string>
@@ -676,7 +674,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_coloreffect_entry_long_face">Dehnen</string>
   <string name="pref_camera_coloreffect_entry_mirror">Spiegel</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaik</string>
-  <string name="pref_camera_coloreffect_entry_none">Normal</string>
   <string name="pref_camera_coloreffect_entry_planet">Kleine Welt</string>
   <string name="pref_camera_coloreffect_entry_seventy">1970er</string>
   <string name="pref_camera_coloreffect_entry_sketch">Skizze</string>
@@ -703,7 +700,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_facedetection_entry_on">An</string>
   <string name="pref_camera_facedetection_title">Gesichtserkennung</string>
   <string name="pref_camera_fisheye_title">Fischauge</string>
-  <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Aus</string>
   <string name="pref_camera_flashmode_entry_on">An</string>
   <string name="pref_camera_flashmode_entry_torch">Lampe</string>
@@ -737,7 +733,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_live_sticker_internal_title">Interne magische Werkzeuge</string>
   <string name="pref_camera_long_press_shutter_feature_title">Auslöser lange betätigen</string>
   <string name="pref_camera_long_press_viewfinder_title">Sucher-Einstellungen</string>
-  <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
   <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Sperre</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Serienbildaufnahme</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>
@@ -745,7 +740,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Serienbild</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Auslöser lange drücken</string>
   <string name="pref_camera_long_pressing_shutter_title">Auslöser drücken &amp; halten für AF/AE/AWB</string>
-  <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF-Sperre</string>
   <string name="pref_camera_magic_mirror_title">Magischer Spiegel</string>
   <string name="pref_camera_manual_mode_title">Manuell</string>
@@ -760,7 +754,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_multilevel_entry_lower">Niedriger</string>
   <string name="pref_camera_multilevel_entry_lowest">Niedrigste</string>
   <string name="pref_camera_multilevel_entry_middle">Mittel (Standard)</string>
-  <string name="pref_camera_multilevel_entry_normal">Normal</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">1 Person</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">2 Personen</string>
   <string name="pref_camera_multiple_face_beauty_title">Hautfarbe hervorheben</string>
@@ -775,7 +768,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_photostyle_title">Fotostil</string>
   <string name="pref_camera_picture_format_title">Bildformat auswählen</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Vollbild</string>
-  <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title">Bildgröße</string>
   <string name="pref_camera_picturesize_title_simple_mode">Bildformat</string>
   <string name="pref_camera_portrait_mode_entry_off">Porträtmodus aus</string>
@@ -884,7 +876,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_front_mirror_entry_auto">Wenn Gesicht erkannt wird</string>
   <string name="pref_front_mirror_entry_off">Aus</string>
   <string name="pref_front_mirror_entry_on">An</string>
-  <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Frontkamera spiegeln</string>
   <string name="pref_google_lens">Google Lens</string>
   <string name="pref_google_lens_summary">Automatische Identifizierung von QR-Codes, E-Mails, Nummern und mehr</string>
@@ -898,7 +889,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_hdr_indicator_entry_on">An</string>
   <string name="pref_manual_exposure_title">Belichtung</string>
   <string name="pref_menu_ultra_pixel_photography">%d  MP</string>
-  <string name="pref_menu_ultra_pixel_photography_48mp">48 MP</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Sie können nur 720p-Videos mit 240fps aufnehmen.</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Sie können nur 720p-Videos mit 960fps aufnehmen.</string>
   <string name="pref_priority_storage_title">Vorrangig auf externer SD-Karte speichern</string>
@@ -929,7 +919,6 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_video_quality_title">Videoauflösung</string>
   <string name="pref_video_slow_speed_title_simple_mode">Zeitraffer</string>
   <string name="pref_video_speed_entry_fast">Schnell</string>
-  <string name="pref_video_speed_entry_normal">Standard</string>
   <string name="pref_video_speed_entry_slow">Langsam</string>
   <string name="pref_video_speed_fast_title">Zeitraffer</string>
   <string name="pref_video_speed_slow_title">Zeitlupe</string>
