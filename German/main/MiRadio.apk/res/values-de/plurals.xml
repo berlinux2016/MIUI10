@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="Nalbum_total_Titel">
+    <item quantity="other">%d Titel insgesamt</item>
+    <item quantity="zero">%d Titel insgesamt</item>
+    <item quantity="one">%d Titel insgesamt</item>
+  </plurals>
+  <plurals name="Nbackup_Titel">
+    <item quantity="other">Titel sichern, %1$d verbleibende Titel (%2$.1fMB)</item>
+    <item quantity="one">Titel sichern, %1$d verbleibender Titel (%2$.1fMB)</item>
+  </plurals>
+  <plurals name="Ndownload_fee_alert_message">
+    <item quantity="other">Auf Wunsch des Rechteinhabers können %d ausgewählte Titel nicht kostenlos heruntergeladen werden. Diese Titel wurden zu den Downloads hinzugefügt.</item>
+    <item quantity="one">Auf Wunsch des Rechteinhabers kann %d ausgewählter Titel nicht kostenlos heruntergeladen werden. Dieser Titel wurde zu den Downloads hinzugefügt.</item>
+  </plurals>
+  <plurals name="Nnowplaying_Titel">
+    <item quantity="other">(%d Titel)</item>
+    <item quantity="one">(%d Titel)</item>
+  </plurals>
+  <plurals name="Nquit_warning">
+    <item quantity="other">Player wird in %d Minuten anhalten</item>
+    <item quantity="one">Player wird in %d Minute anhalten</item>
+  </plurals>
+  <plurals name="Nsleep_quit_warning">
+    <item quantity="other">%d Minuten übrig</item>
+    <item quantity="one">%d Minute übrig</item>
+  </plurals>
+  <plurals name="Nsleep_quit_warning_custom">
+    <item quantity="other">Benutzerdefiniert: %d Minuten übrig</item>
+    <item quantity="one">Benutzerdefiniert: %d Minute übrig</item>
+  </plurals>
+  <plurals name="NTitel_group_detail_subtitle">
+    <item quantity="other">Erstellt am %1$s | insgesamt %2$d Titel</item>
+    <item quantity="zero">Erstellt am %1$s | insgesamt %2$d Titel</item>
+    <item quantity="one">Erstellt am %1$s | insgesamt %2$d Titel</item>
+  </plurals>
+  <plurals name="Nstop_backup_Titel_message">
+    <item quantity="other">%d Titel wurden noch nicht in Mi Cloud gesichert. Jetzt anhalten?</item>
+    <item quantity="one">%d Titel wurde noch nicht in Mi Cloud gesichert. Jetzt anhalten?</item>
+  </plurals>
+  <plurals name="Ntracks_count">
+    <item quantity="other">%d Titel</item>
+    <item quantity="one">%d Titel</item>
+  </plurals>
+  <plurals name="Ntracks_similar_count">
+    <item quantity="other">%d ähnliche Titel</item>
+    <item quantity="one">%d ähnlicher Titel</item>
+  </plurals>
+  <plurals name="Nunbackup_audios">
+    <item quantity="other">%1$d Titel wurden nicht gesichert (%2$.1fMB)</item>
+    <item quantity="one">%1$d Titel wurde nicht gesichert (%2$.1fMB)</item>
+  </plurals>
+  <plurals name="Nupload_Titel_button">
+    <item quantity="other">%1$d Titel sichern (%2$.1fMB)</item>
+    <item quantity="one">%1$d Titel sichern (%2$.1fMB)</item>
+  </plurals>
+  <plurals name="check_in_day_label">
+    <item quantity="other">%1$d Tage</item>
+    <item quantity="one">%1$d Tag</item>
+  </plurals>
+  <plurals name="comment_count">
+    <item quantity="other">%d Kommentare</item>
+    <item quantity="one">%d kommentar</item>
+  </plurals>
+  <plurals name="comment_input_length_invalid">
+    <item quantity="other">Sie können bis zu %1$d Zeichen eingeben.</item>
+    <item quantity="one">Sie können bis zu %1$d Zeichen eingeben.</item>
+  </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message">
+    <item quantity="other">%d Elemente löschen?</item>
+    <item quantity="one">%d Element löschen?</item>
+  </plurals>
+  <plurals name="download_finished">
+    <item quantity="other">&lt;font color=\"red\">%d Titel&lt;/font> heruntergeladen</item>
+    <item quantity="one">&lt;font color==\"red\">%d Titel&lt;/font> heruntergeladen</item>
+  </plurals>
+  <plurals name="download_info_count_deleted_tasks">
+    <item quantity="other">%d Downloads entfernt</item>
+    <item quantity="one">%d Download entfernt</item>
+  </plurals>
+  <plurals name="download_running">
+    <item quantity="other">&lt;font color=\"red\">%d Titel&lt;/font> herunterladen</item>
+    <item quantity="one">&lt;font color==\"red\">%d Titel&lt;/font> herunterladen</item>
+  </plurals>
+  <plurals name="multichoice_title">
+    <item quantity="other">%d Elemente ausgewählt</item>
+    <item quantity="one">%d Element ausgewählt</item>
+  </plurals>
+  <plurals name="notif_title_multiple_downloading">
+    <item quantity="other">%1$d Titel herunterladen</item>
+    <item quantity="one">%1$d Titel herunterladen</item>
+  </plurals>
+  <plurals name="notification_download_failed_more">
+    <item quantity="other">%1$d Titel herunterladen fehlgeschlagen</item>
+    <item quantity="one">%1$d Titel herunterladen fehlgeschlagen</item>
+  </plurals>
+  <plurals name="notification_download_success_more">
+    <item quantity="other">%1$d Titel</item>
+    <item quantity="one">%1$d Titel</item>
+  </plurals>
+  <plurals name="notification_rec_content">
+    <item quantity="other">%d FM-Aufnahmen</item>
+    <item quantity="one">%d FM-Aufnahme</item>
+  </plurals>
+  <plurals name="reader_count">
+    <item quantity="other">%d Anhänger</item>
+    <item quantity="one">%d Anhänger</item>
+  </plurals>
+  <plurals name="skipped_online_Titel_tips">
+    <item quantity="other">%d Titel übersprungen. Online-Dienste in den Einstellungen einschalten, um sie anzuhören.</item>
+    <item quantity="one">%d Titel übersprungen. Online-Dienste in den Einstellungen einschalten, um sie anzuhören.</item>
+  </plurals>
+  <plurals name="Titel_count">
+    <item quantity="other">%d Titel</item>
+    <item quantity="one">%d Titel</item>
+  </plurals>
+  <plurals name="swipe_to_load_head_complete_success">
+    <item quantity="other">Hier sind %1$d Aktualisierungen für Sie:</item>
+    <item quantity="one">Hier ist %1$d Aktualisierung für Sie:</item>
+  </plurals>
+  <plurals name="toast_channel_searched">
+    <item quantity="other">%1$d Sender gefunden</item>
+    <item quantity="zero">%1$d Sender gefunden</item>
+    <item quantity="one">%1$d Sender gefunden</item>
+    <item quantity="two">%1$d Sender gefunden</item>
+    <item quantity="few">%1$d Sender gefunden</item>
+    <item quantity="many">%1$d Sender gefunden</item>
+  </plurals>
+  <plurals name="Nassociate_Titel">
+    <item quantity="other">Nach Albumcovern und Texten suchen (%1$d/%2$d)</item>
+    <item quantity="one">Nach Albumcovern und Texten suchen (%1$d/%2$d)</item>
+  </plurals>
+  <plurals name="Ntracks_add_to_playlist">
+    <item quantity="other">%d Titel zur Wiedergabeliste hinzugefügt</item>
+    <item quantity="one">%d Titel zur Wiedergabeliste hinzugefügt</item>
+  </plurals>
+  <plurals name="Ntracks_remove_from_playlist">
+    <item quantity="other">%d Titel von der Wiedergabeliste entfernt</item>
+    <item quantity="one">%d Titel von der Wiedergabeliste entfernt</item>
+  </plurals>
+  <plurals name="dialog_delete_descript">
+    <item quantity="other">%d Titel löschen?</item>
+    <item quantity="one">%d Titel löschen?</item>
+  </plurals>
+  <plurals name="dialog_remove_descript">
+    <item quantity="other">%d Titel entfernen?</item>
+    <item quantity="one">%d Titel entfernen?</item>
+  </plurals>
+  <plurals name="dialog_remove_from_cloud_descript">
+    <item quantity="other">%d Titel aus Mi Cloud löschen? Sie werden auch aus den lokalen Wiedergabelisten gelöscht.</item>
+    <item quantity="one">%d Titel aus Mi Cloud löschen? Er wird auch aus den lokalen Wiedergabelisten gelöscht.</item>
+  </plurals>
+  <plurals name="send_Titel_toast">
+    <item quantity="other">%d Titel werden gesendet</item>
+    <item quantity="one">%d Titel wird gesendet</item>
+  </plurals>
+  <plurals name="Titel_already_favorite">
+    <item quantity="other">Titel sind sehr beliebt.</item>
+    <item quantity="one">Titel ist sehr beliebt.</item>
+  </plurals>
+</resources>
