@@ -2,6 +2,9 @@
 <resources>
   <string name="action_settings">Einstellungen</string>
   <string name="activity_title_fakecell">Schutz vor gefälschten Basisstationen</string>
+  <string name="booster_config_version">Aktuelle CC-Version:</string>
+  <string name="cc_version">Aktuelle Cloud-Konfigurationsversion:</string>
+  <string name="connect_wifi">Keine WLAN-Verbindung verfügbar</string>
   <string name="detect_fakecell">SMS von gefälschten Basisstationen erkennen</string>
   <string name="forbidden_fakecell">Keine Verbindung zu gefälschten Basisstationen herstellen</string>
   <string name="forbidden_fakecell_summary">Verhindern Sie, dass sich Ihr Telefon mit gefälschten Basisstationen verbindet</string>
@@ -10,13 +13,17 @@
   <string name="hello_world">Hallo Welt!</string>
   <string name="lab_switch_server">Server wechseln</string>
   <string name="not_support_forbidden_fakecell">Ihr Gerät unterstützt keinen Chip-Level-Schutz vor gefälschten Basisstationen</string>
+  <string name="open_cta">Bitte Sicherheits-App öffnen und \"Internetverbindung zulassen\" in Einstellungen wählen</string>
   <string name="permstep_description">App erlauben, die Schrittinformationen Ihres Telefons zu lesen</string>
   <string name="permstep_label">Schritte lesen</string>
   <string name="restart_details">Ein- und Ausschalten dieser Funktion erfordert den Neustart des Geräts. Jetzt neu starten?</string>
   <string name="restart_later">Später</string>
   <string name="restart_now">Jetzt neu starten</string>
+  <string name="stop_sync">NICHT auto-synchronisieren</string>
   <string name="support_forbidden_fakecell">Hinweis: Beschränkung der Verbindung auf gefälschte Basisstationen kann das Signal in Bereichen mit schlechter Abdeckung verringern.</string>
   <string name="switch_international">Auf Überseeserver wechseln</string>
   <string name="switch_to_official">Auf offiziellen Server wechseln</string>
   <string name="switch_to_staging">Auf Staging-Server wechseln</string>
+  <string name="unknown_error">Unbekannter Fehler</string>
+  <string name="update_success">Update erfolgreich</string>
 </resources>
