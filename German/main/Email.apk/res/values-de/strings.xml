@@ -76,6 +76,7 @@
   <string name="account_setup_basics_manual_setup_action">Manuell einrichten</string>
   <string name="account_setup_basics_mi_mail_login_help">Eventuell müssen Sie Ihr Konto per SMS bestätigen, um E-Mails zu erhalten</string>
   <string name="account_setup_basics_password_label">Passwort</string>
+  <string name="account_setup_basics_password_label_authcode">Passwort oder Verifizierungscode eingeben</string>
   <string name="account_setup_basics_title">Konto hinzufügen</string>
   <string name="account_setup_check_settings_check_incoming_msg">Servereinstellungen werden geprüft…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">SMTP-Einstellungen werden geprüft…</string>
@@ -156,6 +157,7 @@
   <string name="ad_merge">Werbung &amp; Benachrichtigungen</string>
   <string name="add_account">Konto hinzufügen</string>
   <string name="add_account_keywords">Konto hinzufügen;E-Mailkonto hinzufügen</string>
+  <string name="add_account_search">Konto hinzufügen</string>
   <string name="add_attachment">Anhang hinzufügen</string>
   <string name="add_calendar">Erinnern</string>
   <string name="add_file_exception">Ausnahme hinzufügen. Bitte versuchen Sie, aus anderen Pfaden hinzuzufügen.</string>
@@ -196,6 +198,7 @@
   <string name="attachment_not_exists">Anhang ist nicht verfügbar!</string>
   <string name="attachment_open_SecurityException_hint">Sie haben eventuell keine Berechtigung, die Datei zu öffnen oder diese ist beschädigt</string>
   <string name="attachment_open_SecurityException_title">Datei konnte nicht geöffnet werden</string>
+  <string name="attachment_opening_mode">Apps für Anhänge</string>
   <string name="attachment_size_exceed_limit">Größe überschreitet anscheinend das Serverlimit</string>
   <string name="attachment_stop_all">Abbrechen</string>
   <string name="attachment_type_blocked">Sie können diesen Anhangstyp weder öffnen noch speichern</string>
@@ -344,11 +347,13 @@
   <string name="debug_mode_preferencecategory">Protokollausgabe einrichten</string>
   <string name="debug_mode_settings">DEBUG-Moduseinstellungen</string>
   <string name="default_">STANDARD</string>
+  <string name="default_opening_attchemnt_mode">Anhänge mit Standard-Apps öffnen</string>
   <string name="default_setup">STANDARDEINSTELLUNGEN</string>
   <string name="default_signature">Gesendet von meinem Mi Telefon</string>
   <string name="default_signature_2">Gesendet von meinem %s</string>
   <string name="del_account_questionnair_hint">Können Sie uns sagen, warum Sie dieses Konto entfernen möchten?</string>
   <string name="delete">Löschen</string>
+  <string name="delete_contact_content">Diesen Kontakt jetzt löschen?</string>
   <string name="delete_message_flow">Nachrichtenfluss löschen</string>
   <string name="delete_message_flow_keywords">Nachrichten löschen</string>
   <string name="deleted">Gelöscht</string>
@@ -546,6 +551,7 @@
   <string name="log_save_path">Log-Pfad</string>
   <string name="login">Anmelden</string>
   <string name="login139">Anmelden mit China Mobile</string>
+  <string name="login_err_message">Das von Ihnen eingegebene Passwort ist falsch. Eventuell benötigen Sie auch einen Verifizierungscode zum Anmelden. Wenn Sie Ihr Passwort zurücksetzen müssen, besuchen Sie https://email.163.com/, um die verfügbaren Optionen zu sehen.</string>
   <string name="login_failed_ticker">Anmeldung an %s erfolglos</string>
   <string name="login_failed_title">Anmeldung nicht möglich</string>
   <string name="login_mail">E-Mail anmelden</string>
@@ -805,6 +811,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="preview_attachment">Vorschau</string>
   <string name="previous_action">Zurück</string>
   <string name="print">Drucken</string>
+  <string name="print_scheduler_title">Alle Planer drucken</string>
   <string name="privacy_des">"Die Protokollinformationen enthalten von der E-Mail-App übermittelte Debugging-Informationen sowie Informationen zu Ihrem Gerät, um das von Ihnen gemeldete Problem zu finden. Wählen Sie unten \"%1$s\" aus, um zu bestätigen, dass Sie Xiaomi's «%2$s» gelesen und akzeptiert haben."</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="prompt_title">Nachfragen</string>
@@ -904,6 +911,8 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="recognize_ticket_train_return">Rückkehr</string>
   <string name="recognize_ticket_train_user_name">Passagier: %1$s</string>
   <string name="recognize_title">Reiseinformationen</string>
+  <string name="recommend_protocal">Empfehlungsprotokoll</string>
+  <string name="remote_no_mail">Es sind keine E-Mails mehr auf dem Server.</string>
   <string name="reduce_the_receiving_frequencye_summary">E-Mails werden bei eingeschaltetem \"Nicht stören\"-Modus seltener synchronisiert</string>
   <string name="reduce_the_receiving_frequencye_title">Seltener synchronisieren</string>
   <string name="refresh">Aktualisieren</string>
@@ -1058,6 +1067,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="topic_merge_summary">Nach Betreff gruppieren</string>
   <string name="translation_loading">Einen Moment…</string>
   <string name="translation_no_result">Keine Ergebnisse</string>
+  <string name="translation_pronunciation_other">Modul</string>
   <string name="translation_query_failure">Keine Ergebnisse gefunden</string>
   <string name="translation_technology_support">Technischer Support durch iciba.comd</string>
   <string name="trash_folder_selection_title">Server-Papierkorb für %s auswählen</string>
@@ -1074,6 +1084,8 @@ Konto entfernen?"</string>
   <string name="unsent_messages_in_outbox">%1$s nicht gesendete Nachricht(en) in %2$s</string>
   <string name="unzip_file_failed">Datei konnte nicht entpackt werden</string>
   <string name="update_date_format_templete">HH:mm dd.MM.yyyy</string>
+  <string name="update_domain_summary">Aktualisieren der Domainliste und Konfiguration</string>
+  <string name="update_domain_title">Domain aktualisieren</string>
   <string name="update_to_wps_mail">Mehr Funktionen mit WPS genießen</string>
   <string name="updated_at">Letzte Aktualisierung: %1$s</string>
   <string name="upload_log">Senden</string>
@@ -1094,6 +1106,7 @@ Konto entfernen?"</string>
 Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchronisieren oder <b>Synchronisationseinstellungen ändern</b>, um dieses Konto automatisch zu synchronisieren."</string>
   <string name="wait_for_sync_title">Auf Synchronisation warten</string>
   <string name="wait_help_context">Warten</string>
+  <string name="wait_while_update_db">Bitte warten Sie einen Moment während des Datenbank-Upgrades!</string>
   <string name="webview_logout">Sie können versuchen, sich erneut anzumelden</string>
   <string name="webview_logout_cancel">Jetzt nicht</string>
   <string name="webview_logout_sure">Erneut versuchen</string>

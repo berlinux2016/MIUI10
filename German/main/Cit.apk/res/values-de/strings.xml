@@ -466,6 +466,7 @@ Nachdem Sie \"music.mp3\" in das Verzeichnis der SD-Karte gelegt haben, tippen S
   <string name="cit_tof_sensor_check_summary">Werte für TOF sollten wie folgt aussehen</string>
   <string name="cit_tof_sensor_check_title">TOF-Sensor</string>
   <string name="cit_tool">Weitere Tools</string>
+  <string name="cit_tool_active_mbn_notify">Einen Moment warten, um mbn festzulegen</string>
   <string name="cit_tool_asdiv_ant_pos_setting">ANT Position festlegen</string>
   <string name="cit_tool_asdiv_get_result_band_title">Aktuelles ANT Band</string>
   <string name="cit_tool_asdiv_get_result_carrier_title">Aktuelle ANT Netzbetreiberzelle</string>
@@ -488,6 +489,7 @@ Nachdem Sie \"music.mp3\" in das Verzeichnis der SD-Karte gelegt haben, tippen S
   <string name="cit_tool_cal_accelerometer">Beschleunigungssensor-Kalibrierungstool</string>
   <string name="cit_tool_cal_camera">Kamera-Kalibrierungstool</string>
   <string name="cit_tool_cal_gyroscope">Gyro-Kalibrierungstool</string>
+  <string name="cit_tool_check_cal">Abbrechen</string>
   <string name="cit_tool_enable_3A_log">3A log Switch aktivieren</string>
   <string name="cit_tool_enable_display_3A_log">Display 3A log aktivieren</string>
   <string name="cit_tool_exit_modem_mbn">Wiederherstellen auf Auto-MBN</string>
@@ -509,6 +511,12 @@ Die erste Zeile zeigt an, ob der vom aktuellen Modem geladene MBN der Standard-M
 Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des Träger-MBN, die derzeit im Modem geladen sind. Unsere benutzerdefinierte MBN ist Carrier MBN, SUB0 ist Karte 1, SUB1 ist Karte 2."</string>
   <string name="cit_tool_modem">MODEM Testtools</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump erzwingen</string>
+  <string name="cit_tool_modem_deactive_mbn">Deaktiviert</string>
+  <string name="cit_tool_modem_feature_config_cust">Aktuelle Funktion wie folgt konfigurieren</string>
+  <string name="cit_tool_modem_feature_config_default">Aktuelle Funktion als Standard konfigurieren</string>
+  <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt fehlgeschlagen, bitte Telefon neu starten, um erneut zu versuchen</string>
+  <string name="cit_tool_modem_test_device_value_set">Gerätestatus modifizieren</string>
+  <string name="cit_tool_modem_test_will_set">Wird den Testmodus öffnen und den DUT neu starten</string>
   <string name="cit_tool_modem_cu_volte_no">CU VoLTE deaktivieren</string>
   <string name="cit_tool_modem_cu_volte_no_confirm">CU VoLTE deaktivieren, Neustart zum Wirksamwerden</string>
   <string name="cit_tool_modem_cu_volte_yes">CU VoLTE akivieren</string>
@@ -842,6 +850,7 @@ Nach erfolgreicher Kalibrierung prüfen Sie die Halterung in der Nähe des Telef
   <string name="test_receiver_summary">"Sie hören zwei Zufallszahlen.
 Bitte klicken Sie auf die jeweilige Taste entsprechend der gehörten Zahl."</string>
   <string name="test_result">TESTERGEBNIS</string>
+  <string name="test_speaker">Lautsprecher</string>
   <string name="test_speaker_summary">"Sie hören zwei Zufallszahlen.
 Bitte klicken Sie auf die jeweilige Taste entsprechend der gehörten Zahl."</string>
   <string name="test_top_mic">Oberes MIKRO</string>
@@ -855,6 +864,7 @@ Bitte klicken Sie auf die jeweilige Taste entsprechend der gehörten Zahl."</str
   <string name="title_algo_performance">Algo Leistung</string>
   <string name="title_bad_point">Negativer Punkt</string>
   <string name="title_extract_data">Daten extrahieren</string>
+  <string name="title_open_short_pixel">ShortPixel öffnen</string>
   <string name="top_mic_check_record_tip">Aufnahme, bitte sagen Sie etwas ins MIKRO oben im Telefon.</string>
   <string name="touch_auto">Touchpanel-Selbsttest läuft, bitte warten…</string>
   <string name="touch_sefl_fail">Test fehlgeschlagen</string>
