@@ -1,120 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="security_level_array">
-        <item>Niedrig</item>
-        <item>Mittel</item>
-        <item>Hoch</item>
-    </string-array>
-    <string-array name="progress_style_array">
-        <item>Prozentsatz</item>
-        <item>Ergebnis</item>
-    </string-array>
-    <string-array name="progress_sample_data_type_array">
-        <item>Rohdaten</item>
-        <item>Bilddaten</item>
-    </string-array>
-    <string-array name="support_nav_mode_entries">
-        <item>Aus</item>
-        <item>Ebene</item>
-        <item>Vertikal</item>
-        <item>Alle</item>
-    </string-array>
-    <string-array name="support_nav_mode_entries_milan_f_series">
-        <item>Aus</item>
-        <item>Ebene</item>
-        <item>Vertikal</item>
-        <item>Horizontal und vertikal</item>
-        <item>Druck</item>
-        <item>Niveau und Druck</item>
-        <item>Vertikal und Druck</item>
-        <item>Alle</item>
-    </string-array>
-    <string-array name="nav_double_click_time_entries">
-        <item>Aus</item>
-        <item>80</item>
-        <item>100</item>
-        <item>120</item>
-        <item>140</item>
-        <item>160</item>
-        <item>180</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
-        <item>450</item>
-        <item>500</item>
-        <item>600</item>
-        <item>700</item>
-        <item>800</item>
-        <item>900</item>
-        <item>1000</item>
-    </string-array>
-    <string-array name="nav_long_press_time_entries">
-        <item>Aus</item>
-        <item>600</item>
-        <item>650</item>
-        <item>700</item>
-        <item>750</item>
-        <item>800</item>
-        <item>850</item>
-        <item>900</item>
-        <item>950</item>
-        <item>1000</item>
-        <item>1100</item>
-        <item>1200</item>
-        <item>1300</item>
-        <item>1400</item>
-        <item>1500</item>
-        <item>1600</item>
-        <item>1700</item>
-        <item>1800</item>
-        <item>1900</item>
-        <item>2000</item>
-    </string-array>
-    <string-array name="authenticate_order_summary">
-        <item>Prioritätsabgleich nach Fingerabstand</item>
-        <item>Drücken Sie den Finger, um sich zuerst zu registrieren</item>
-        <item>Drücken Sie den Finger, um sich zu registrieren</item>
-    </string-array>
-    <string-array name="authenticate_order_entries">
-        <item>Prioritätsabgleich nach Fingerabstand</item>
-        <item>Drücken Sie den Finger, um sich zuerst zu registrieren</item>
-        <item>Drücken Sie den Finger, um sich zu registrieren</item>
-    </string-array>
-    <string-array name="safe_class_summary">
-        <item>Maximum</item>
-        <item>Höher</item>
-        <item>Normal</item>
-        <item>Niedriger</item>
-        <item>Minimum</item>
-    </string-array>
-    <string-array name="safe_class_entries_for_milan_series">
-        <item>Maximum</item>
-        <item>Höher</item>
-        <item>Normal</item>
-        <item>Niedriger</item>
-        <item>Minimum</item>
-    </string-array>
-    <string-array name="safe_class_entries_for_oswego_m">
-        <item>Maximum</item>
-        <item>Normal</item>
-        <item>Minimum</item>
-    </string-array>
-    <string-array name="memmgr_nodes_status">
-        <item>free_and_used</item>
-        <item>used</item>
-        <item>free</item>
-    </string-array>
-    <string-array name="memmgr_nodes_sort">
-        <item>Nach Adresse sortieren</item>
-        <item>Nach Größe sortieren</item>
-        <item>Nach Zeit sortieren</item>
-        <item>Nach Aufruf sortieren</item>
-    </string-array>
-    <string-array name="memmgr_nodes_call_stack">
-        <item>TA Quellcode- und Algorithmusbibliothek</item>
-        <item>TA Quellcode</item>
-        <item>Algorithmusbibliothek</item>
-    </string-array>
+  <string-array name="security_level_array">
+    <item>Niedrig</item>
+    <item>Mittel</item>
+    <item>Hoch</item>
+  </string-array>
+  <string-array name="progress_style_array">
+    <item>Prozentsatz</item>
+    <item>Ergebnis</item>
+  </string-array>
+  <string-array name="progress_sample_data_type_array">
+    <item>Rohdaten</item>
+    <item>Bilddaten</item>
+  </string-array>
+  <string-array name="support_nav_mode_entries">
+    <item>Aus</item>
+    <item>Ebene</item>
+    <item>Vertikal</item>
+    <item>Alle</item>
+  </string-array>
+  <string-array name="support_nav_mode_entries_milan_f_series">
+    <item>Aus</item>
+    <item>Ebene</item>
+    <item>Vertikal</item>
+    <item>Horizontal und vertikal</item>
+    <item>Druck</item>
+    <item>Niveau und Druck</item>
+    <item>Vertikal und Druck</item>
+    <item>Alle</item>
+  </string-array>
+  <string-array name="nav_double_click_time_entries">
+    <item>Aus</item>
+    <item>80</item>
+    <item>100</item>
+    <item>120</item>
+    <item>140</item>
+    <item>160</item>
+    <item>180</item>
+    <item>200</item>
+    <item>250</item>
+    <item>300</item>
+    <item>350</item>
+    <item>400</item>
+    <item>450</item>
+    <item>500</item>
+    <item>600</item>
+    <item>700</item>
+    <item>800</item>
+    <item>900</item>
+    <item>1000</item>
+  </string-array>
+  <string-array name="nav_long_press_time_entries">
+    <item>Aus</item>
+    <item>600</item>
+    <item>650</item>
+    <item>700</item>
+    <item>750</item>
+    <item>800</item>
+    <item>850</item>
+    <item>900</item>
+    <item>950</item>
+    <item>1000</item>
+    <item>1100</item>
+    <item>1200</item>
+    <item>1300</item>
+    <item>1400</item>
+    <item>1500</item>
+    <item>1600</item>
+    <item>1700</item>
+    <item>1800</item>
+    <item>1900</item>
+    <item>2000</item>
+  </string-array>
+  <string-array name="authenticate_order_summary">
+    <item>Prioritätsabgleich nach Fingerabstand</item>
+    <item>Drücken Sie den Finger, um sich zuerst zu registrieren</item>
+    <item>Drücken Sie den Finger, um sich zu registrieren</item>
+  </string-array>
+  <string-array name="authenticate_order_entries">
+    <item>Prioritätsabgleich nach Fingerabstand</item>
+    <item>Drücken Sie den Finger, um sich zuerst zu registrieren</item>
+    <item>Drücken Sie den Finger, um sich zu registrieren</item>
+  </string-array>
+  <string-array name="safe_class_summary">
+    <item>Maximum</item>
+    <item>Höher</item>
+    <item>Normal</item>
+    <item>Niedriger</item>
+    <item>Minimum</item>
+  </string-array>
+  <string-array name="safe_class_entries_for_milan_series">
+    <item>Maximum</item>
+    <item>Höher</item>
+    <item>Normal</item>
+    <item>Niedriger</item>
+    <item>Minimum</item>
+  </string-array>
+  <string-array name="safe_class_entries_for_oswego_m">
+    <item>Maximum</item>
+    <item>Normal</item>
+    <item>Minimum</item>
+  </string-array>
+  <string-array name="memmgr_nodes_status">
+    <item>free_and_used</item>
+    <item>used</item>
+    <item>free</item>
+  </string-array>
+  <string-array name="memmgr_nodes_sort">
+    <item>Nach Adresse sortieren</item>
+    <item>Nach Größe sortieren</item>
+    <item>Nach Zeit sortieren</item>
+    <item>Nach Aufruf sortieren</item>
+  </string-array>
+  <string-array name="memmgr_nodes_call_stack">
+    <item>TA Quellcode- und Algorithmusbibliothek</item>
+    <item>TA Quellcode</item>
+    <item>Algorithmusbibliothek</item>
+  </string-array>
 </resources>

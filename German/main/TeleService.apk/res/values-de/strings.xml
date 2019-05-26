@@ -61,9 +61,9 @@
   <string name="PERSOSUBSTATE_SIM_ICCID_IN_PROGRESS">ICCID Entsperrung anfordern…</string>
   <string name="PERSOSUBSTATE_SIM_ICCID_SUCCESS">ICCID Entsperrung erfolgreich</string>
   <string name="PERSOSUBSTATE_SIM_IMPI_ENTRY">IMPI PIN entsperren</string>
-  <string name="PERSOSUBSTATE_SIM_IMPI_ERROR">IMPI  Entsperrung nicht erfolgreich</string>
+  <string name="PERSOSUBSTATE_SIM_IMPI_ERROR">IMPI Entsperrung nicht erfolgreich</string>
   <string name="PERSOSUBSTATE_SIM_IMPI_IN_PROGRESS">IMPI Entsperrung anfordern…</string>
-  <string name="PERSOSUBSTATE_SIM_IMPI_SUCCESS">IMPI  Entsperrung erfolgreich</string>
+  <string name="PERSOSUBSTATE_SIM_IMPI_SUCCESS">IMPI Entsperrung erfolgreich</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_ENTRY">SIM Netzwerk PIN entsperren</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_ERROR">SIM Netzwerk Entsperrungsanfrage fehlgeschlagen</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_IN_PROGRESS">SIM Netzwerkentsperrung anfragen…</string>
@@ -560,7 +560,7 @@ Abtastrate"</string>
   <string name="cdma_alert_title">UIM-Karte muss Standard sein</string>
   <string name="cdma_cnir_turnoff">Ignorieren der Rufnummernunterdrückung deaktivieren</string>
   <string name="cdma_cnir_turnon">Ignorieren der Rufnummernunterdrückung aktivieren</string>
-  <string name="cdma_display_precise_call_state_message">Wenn Ihr Netzbetreiber diese Funktion nicht unterstützt, kann  der Anrufstatus ungenau sein</string>
+  <string name="cdma_display_precise_call_state_message">Wenn Ihr Netzbetreiber diese Funktion nicht unterstützt, kann der Anrufstatus ungenau sein</string>
   <string name="cdma_display_precise_call_state_summary">Bestätigen Sie, dass Ihr Netzbetreiber diese Funktion unterstützt</string>
   <string name="cdma_display_precise_call_state_title">Anrufstatus anzeigen</string>
   <string name="cdma_labelCFB">Umleiten falls besetzt</string>
@@ -932,7 +932,7 @@ Tippen Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="fdn_enabled">Rufnummernbeschränkung eingeschaltet</string>
   <string name="fdn_failed">Rufnummernbeschränkung fehlgeschlagen</string>
   <string name="fdn_full">Rufnummernbeschränkung wurde nicht aktualisiert, da Liste voll</string>
-  <string name="fdn_invalid_number">Rufnummernbeschränkung wurde nicht aktualisiert, da Nummer  länger als 20 Zeichen</string>
+  <string name="fdn_invalid_number">Rufnummernbeschränkung wurde nicht aktualisiert, da Nummer länger als 20 Zeichen</string>
   <string name="fdn_list_with_label">Beschränkungsliste (%s)</string>
   <string name="fdn_service_unavailable">Rufnummernbeschränkungsdienst nicht verfügbar</string>
   <string name="fdn_summary">Ausgehende Anrufe auf Beschränkungsliste oder auf bestimmte Vorwahlen beschränken</string>
@@ -1727,8 +1727,8 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="speed_label_very_fast">Sehr schnell</string>
   <string name="speed_label_very_slow">Sehr langsam</string>
   <string name="sports_news_settings">Sportnachrichten</string>
-  <string name="srvcc_message">4G-Anruf wurde auf 2G/3G-Anruf runtergestellt, weil  4G Netzwerk nicht verfügbar</string>
-  <string name="srvcc_video_message">Videoanruf wurde auf 2G/3G-Anruf runtergestellt, weil  4G Netzwerk nicht verfügbar</string>
+  <string name="srvcc_message">4G-Anruf wurde auf 2G/3G-Anruf runtergestellt, weil 4G Netzwerk nicht verfügbar</string>
+  <string name="srvcc_video_message">Videoanruf wurde auf 2G/3G-Anruf runtergestellt, weil 4G Netzwerk nicht verfügbar</string>
   <string name="standby_bucket_summary">Status App-Standby: %s</string>
   <string name="status_hint_label_incoming_wifi_call">Eingehender WLAN-Anruf</string>
   <string name="status_hint_label_wifi_call">WLAN-Anruf</string>
@@ -2036,7 +2036,7 @@ Wollen Sie sich wieder verbinden, um den Anruf fortzusetzen?"</string>
   <string name="wfcmode_wifi_only">Nur WLAN</string>
   <string name="wfcmode_wifi_preferred">WLAN bevorzugt</string>
   <string name="wifi_aggressive_handover">Aggressives Umschalten von WLAN auf mobile Daten</string>
-  <string name="wifi_aggressive_handover_summary">Wenn aktiviert, wird WLAN aggressiver bei der Übergabe der Datenverbindung an Mobilfunk sein,  wenn das WLAN-Signal schwach ist.</string>
+  <string name="wifi_aggressive_handover_summary">Wenn aktiviert, wird WLAN aggressiver bei der Übergabe der Datenverbindung an Mobilfunk sein, wenn das WLAN-Signal schwach ist.</string>
   <string name="wifi_allow_scan_with_traffic">WLAN Roamscans immer erlauben</string>
   <string name="wifi_allow_scan_with_traffic_summary">WLAN Roamscans erlauben/verbieten, basierend auf der Menge des an der Schnittstelle vorhandenen Datenverkehrs</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Zugangspunkt temporär voll</string>

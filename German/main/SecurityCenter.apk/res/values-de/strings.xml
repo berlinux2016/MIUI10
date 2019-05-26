@@ -186,7 +186,7 @@
   <string name="app_manager_full_screen_summary">Vollbildmodus für ausgewählte Apps erlauben</string>
   <string name="app_manager_full_screen_title">Vollbildmodus</string>
   <string name="app_manager_globel_other_perm_title">Sonstige Berechtigungen</string>
-  <string name="app_manager_globel_perm_summary">Verwaltung von Berechtigungen  bezüglich Standort, Speicher, Telefon, Nachrichten und Kontakte</string>
+  <string name="app_manager_globel_perm_summary">Verwaltung von Berechtigungen bezüglich Standort, Speicher, Telefon, Nachrichten und Kontakte</string>
   <string name="app_manager_globel_perm_title">App-Berechtigungen</string>
   <string name="app_manager_has_not_data">Keine Daten</string>
   <string name="app_manager_have_not_consume">Keine</string>
@@ -1808,7 +1808,7 @@ Diese Funktion wird bei System-Apps nicht unterstützt."</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
   <string name="privacy_prompt_tc_sms_report_message">Ihre Telefonnummer und Anbieterdetails werden verschlüsselt und auf den Mi Server hochgeladen, um Ihren Datenverbrauchsdetails zu aktualisieren.</string>
   <string name="privacy_prompt_traffic_adjust_message">Wenn Sie mit der Kalibrierung beginnen, verbindet sich MIUI mit dem Netzwerk, kodiert die Daten Ihres Netzbetreibers, die Telefonnummer, IMEI und Mi Konto und lädt diese Elemente auf die Mi Server hoch. Dies geschieht, um die Kalibriervorlage des Trägers zu erhalten und zu erfahren, ob es möglich ist, Daten an Ihrem Standort zu erwerben.
-Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber, um die Kalibriervorlage zu erhalten.  </string>
+Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber, um die Kalibriervorlage zu erhalten.</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="promotion">Werbung</string>
   <string name="prompt_all">Für alles nachfragen</string>
@@ -2058,7 +2058,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="st_confirm_dialog_summary_contact_call">Alle Anrufe von Kontakten werden blockiert</string>
   <string name="st_confirm_dialog_summary_oversea_call">Einschalten, um alle eingehenden Anrufe von ausländischen Telefonnummern zu blockieren.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Alle Anrufe von Unbekannten werden blockiert</string>
-  <string name="st_filter_keywords_setting_summary1">Nachrichten von unbekannten Nummern, die  Wörter aus dieser Liste enthalten, werden blockiert</string>
+  <string name="st_filter_keywords_setting_summary1">Nachrichten von unbekannten Nummern, die Wörter aus dieser Liste enthalten, werden blockiert</string>
   <string name="st_filter_keywords_setting_summary2">(Verwenden Sie ein Komma, um mehrere Schlüsselwörter zu trennen)</string>
   <string name="st_filter_keywords_setting_summary3">Nachrichten von unbekannten Nummern, die Wörter aus dieser Liste enthalten, werden erlaubt</string>
   <string name="st_group_list_management">Sperrliste verwalten</string>
@@ -2215,7 +2215,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Ergebnis: Falscher Netzbetreiber&lt;br/&gt;&lt;br/&gt;Setze Anbieter: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktueller Betreiber: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Beheben und fortfahren</string>
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnose abgeschlossen, Standortprobleme behoben.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnose abgeschlossen,  Standort- und Betreiberprobleme behoben.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnose abgeschlossen, Standort- und Betreiberprobleme behoben.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">Erfolgreich geändert</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Ergebnis: Diagnose konnte nicht abgeschlossen werden&lt;br/&gt;&lt;br/&gt;Diesen Fehler melden, um MIUI Diagnosetools zu verbessern&lt;/font&gt;"</string>
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Ergebnis: Falscher Standort&lt;br/&gt;&lt;br/&gt;Set location: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktueller Standort: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
