@@ -56,6 +56,10 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
     <item quantity="other">In %1$d Minuten</item>
     <item quantity="one">In %1$d Minute</item>
   </plurals>
+  <plurals name="find_applications">
+    <item quantity="other">%d Apps durchsuchen</item>
+    <item quantity="one">%d App durchsuchen</item>
+  </plurals>
   <plurals name="first_aid_card_float_window_summary">
     <item quantity="other">%d Apps werden möglicherweise falsch angezeigt. Popup-Benachrichtigungen einschränken.</item>
     <item quantity="one">%d App wird möglicherweise falsch angezeigt. Popup-Benachrichtigung einschränken.</item>
@@ -63,6 +67,15 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
   <plurals name="first_aid_result_summary_exception">
     <item quantity="other">%1$d Probleme erfordern Optimierung</item>
     <item quantity="one">%1$d Problem erfordert Optimierung</item>
+  </plurals>
+  <plurals name="found_apps_title">
+    <item quantity="other">%d Apps gefunden</item>
+	<item quantity="zero">0 Apps gefunden</item>
+    <item quantity="one">%d App gefunden</item>
+  </plurals>
+  <plurals name="function_shield_num">
+    <item quantity="other">%d Funktionen</item>
+    <item quantity="one">%d Funktion</item>
   </plurals>
   <plurals name="fw_blocked_count_call">
     <item quantity="other">%1$d Anrufe von %2$s und andere</item>
@@ -75,15 +88,6 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
   <plurals name="fw_blocked_count_sms">
     <item quantity="other">%d Nachrichten</item>
     <item quantity="one">%d Nachricht</item>
-  </plurals>
-  <plurals name="find_applications">
-    <item quantity="other">%d Apps durchsuchen</item>
-    <item quantity="one">%d App durchsuchen</item>
-  </plurals>
-  <plurals name="found_apps_title">
-    <item quantity="other">%d Apps gefunden</item>
-	<item quantity="zero">0 Apps gefunden</item>
-    <item quantity="one">%d App gefunden</item>
   </plurals>
   <plurals name="gb_ad_people_play">
     <item quantity="other">%1$d Personen spielen</item>
