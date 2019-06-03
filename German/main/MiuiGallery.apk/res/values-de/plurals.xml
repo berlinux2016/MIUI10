@@ -76,6 +76,18 @@
     <item quantity="other">%1$d Fotos und Videos</item>
     <item quantity="one">%1$d Foto oder Video</item>
   </plurals>
+  <plurals name="burst_image_download_item_title_count">
+    <item quantity="other">%d Fotos</item>
+    <item quantity="one">%d Foto</item>
+  </plurals>
+  <plurals name="burst_save_confirm_dialog_message">
+    <item quantity="other">%d ausgewählte Fotos speichern und den Rest löschen?</item>
+    <item quantity="one">%d ausgewähltes Foto speichern und den Rest löschen?</item>
+  </plurals>
+  <plurals name="burst_save_selected">
+    <item quantity="other">%d ausgewählte Fotos speichern</item>
+    <item quantity="one">%d ausgewähltes Foto speichern</item>
+  </plurals>
   <plurals name="cloud_storage_photo_num">
     <item quantity="other">%d Fotos</item>
     <item quantity="one">%d Foto</item>
@@ -96,18 +108,30 @@
     <item quantity="other">%d Elemente ausgewählt</item>
     <item quantity="one">%d Element ausgewählt</item>
   </plurals>
- <plurals name="delete_media_from_all_devices_and_cloud_msg">
-     <item quantity="other">%d Elemente aus der Mi Cloud und von allen Geräten löschen?</item>
-     <item quantity="one">%d Element aus der Mi Cloud und von allen Geräten löschen?</item>
- </plurals>
-<plurals name="delete_media_from_local">
-     <item quantity="other">%d Elemente löschen?</item>
-     <item quantity="one">%d Element löschen?</item>
- </plurals>
- <plurals name="delete_media_from_this_album_and_cloud_msg">
-     <item quantity="other">%d Elemente aus der Mi Cloud und diesem Album löschen?</item>
-     <item quantity="one">%d Element aus der Mi Cloud und diesem Album löschen?</item>
-   </plurals>
+  <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+    <item quantity="other">%d Burst Shots aus Mi Cloud und von allen synchronisierten Geräten löschen?</item>
+    <item quantity="one">%d Burst Shot aus Mi Cloud und von allen synchronisierten Geräten löschen?</item>
+  </plurals>
+  <plurals name="delete_burst_photo_from_local">
+    <item quantity="other">%d Burst Shots löschen?</item>
+    <item quantity="one">%d Burst Shot löschen?</item>
+  </plurals>
+  <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+    <item quantity="other">%d Burst Shots aus Mi Cloud und von diesem Gerät löschen?</item>
+    <item quantity="one">%d Burst Shot aus Mi Cloud und von diesem Gerät löschen?</item>
+  </plurals>
+  <plurals name="delete_media_from_all_devices_and_cloud_msg">
+    <item quantity="other">%d Elemente aus der Mi Cloud und von allen Geräten löschen?</item>
+    <item quantity="one">%d Element aus der Mi Cloud und von allen Geräten löschen?</item>
+  </plurals>
+  <plurals name="delete_media_from_local">
+    <item quantity="other">%d Elemente löschen?</item>
+    <item quantity="one">%d Element löschen?</item>
+  </plurals>
+  <plurals name="delete_media_from_this_album_and_cloud_msg">
+    <item quantity="other">%d Elemente aus der Mi Cloud und diesem Album löschen?</item>
+    <item quantity="one">%d Element aus der Mi Cloud und diesem Album löschen?</item>
+  </plurals>
   <plurals name="delete_photo_from_all_devices_and_cloud_msg">
     <item quantity="other">%d Fotos aus der Mi Cloud und von allen Geräten löschen?</item>
     <item quantity="one">Dieses Foto aus der Mi Cloud und von allen Geräten löschen?</item>
@@ -120,15 +144,19 @@
     <item quantity="other">%d Fotos aus der Mi Cloud und diesem Album löschen?</item>
     <item quantity="one">Dieses Foto aus der Mi Cloud und diesem Album löschen?</item>
 </plurals>
-<plurals name="delete_video_from_all_devices_and_cloud_msg">
+  <plurals name="delete_third_party_burst_photo">
+    <item quantity="other">%d Burst Shots von diesem Gerät löschen?</item>
+    <item quantity="one">%d Burst Shot von diesem Gerät löschen?</item>
+  </plurals>
+  <plurals name="delete_video_from_all_devices_and_cloud_msg">
     <item quantity="other">%d Videos aus der Mi Cloud und von allen Geräten löschen?</item>
     <item quantity="one">Dieses Video aus der Mi Cloud und von allen Geräten löschen?</item>
 </plurals>
-<plurals name="delete_video_from_local">
+  <plurals name="delete_video_from_local">
     <item quantity="other">%d Videos löschen?</item>
     <item quantity="one">Dieses Video löschen?</item>
 </plurals>
-<plurals name="delete_video_from_this_album_and_cloud_msg">
+  <plurals name="delete_video_from_this_album_and_cloud_msg">
     <item quantity="other">%d Videos aus der Mi Cloud und von diesem Album löschen?</item>
     <item quantity="one">Dieses Video aus der Mi Cloud und von diesem Album löschen?</item>
 </plurals>
@@ -189,14 +217,14 @@
     <item quantity="one">%1$d Video wartet auf Synchronisation</item>
   </plurals>
   <plurals name="photo_count_format">
-     <item quantity="other">%1$d Elemente insgesamt</item>
-     <item quantity="one">Nur %1$d Element</item>
+    <item quantity="other">%1$d Elemente insgesamt</item>
+    <item quantity="one">Nur %1$d Element</item>
  </plurals>
- <plurals name="video_count_format">
-     <item quantity="other">%1$d Dateien</item>
-     <item quantity="one">%1$d Datei</item>
+   <plurals name="video_count_format">
+    <item quantity="other">%1$d Dateien</item>
+    <item quantity="one">%1$d Datei</item>
  </plurals>
-<plurals name="picker_all_image_need_download">
+  <plurals name="picker_all_image_need_download">
     <item quantity="other">Ausgewählte Fotos sind nicht auf diesem Gerät, über die mobile Datenverbindung herunterladen?</item>
     <item quantity="one">Ausgewähltes Foto ist nicht auf diesem Gerät, über die mobile Datenverbindung herunterladen?</item>
   </plurals>

@@ -196,6 +196,13 @@
   <string name="begin_share_toast">Vor dem Teilen ein eigenes Album für dieses Kind erstellen?</string>
   <string name="browse_category">Anzeigen</string>
   <string name="browse_category_title">Durchstöbern</string>
+  <string name="burst_image_download_item_title" formatted="false">Original herunterladen (%s|%s)</string>
+  <string name="burst_preview_title">Burst Shot</string>
+  <string name="burst_save_all">Alle speichern</string>
+  <string name="burst_save_choice_title" formatted="false">%d aus %d ausgewählt</string>
+  <string name="burst_save_confirm_dialog_title">Fotos speichern</string>
+  <string name="burst_save_error_msg">Speichern nicht möglich</string>
+  <string name="burst_save_processing">Verarbeiten…</string>
   <string name="buy_member_tip">Werden Sie Mitglied</string>
   <string name="by_email">E-Mail</string>
   <string name="by_others">Andere</string>
@@ -365,6 +372,8 @@
   <string name="custom_select_title_select_item">Elemente auswählen</string>
   <string name="debugging_info">Debug-Info wurde erfolgreich generiert. Tippen Sie auf OK, um den Ordner zu öffnen.</string>
   <string name="debugging_tip">Debuginformationen werden generiert</string>
+  <string name="decrypt_video_failed">Video wurde nicht aufbereitet</string>
+  <string name="decrypting_video">Video aufbereiten…</string>
   <string name="default_relation_name">Neue Gruppe</string>
   <string name="define_by_user">Benutzerdefiniert</string>
   <string name="delete">Löschen</string>
@@ -419,6 +428,10 @@
   <string name="downloading_dialog_message">Sie können die Qualität der heruntergeladenen Bilder auswählen oder automatische Downloads in den Einstellungen deaktivieren.</string>
   <string name="downloading_title">Herunterladen von Fotos aus Mi Cloud</string>
   <string name="edit_baby_info">Kinderinformationen bearbeiten</string>
+  <string name="editor_cancel">Abbrechen</string>
+  <string name="editor_export">Speichern</string>
+  <string name="editor_talkback_redo">Wiederholen</string>
+  <string name="editor_talkback_undo">Rückgängig</string>
   <string name="email_picker_title">Geteilte E-Mail hinzufügen</string>
   <string name="empty_description_conditions">An die wichtigen Geschichten erinnern</string>
   <string name="empty_description_no_cards">An die wichtigen Geschichten erinnern</string>
@@ -611,6 +624,7 @@
   <string name="filter_sky_sunset">Sonnenuntergang</string>
   <string name="finish_create_baby_album_toast">Album für \"%s\" in der Mi Cloud erstellt</string>
   <string name="finish_fill_baby">Erstellen</string>
+  <string name="first_time_add_video_to_secret_tips">Galerie aktualisieren, um Videos ausblenden zu können</string>
   <string name="flash_off">Blitz aus</string>
   <string name="flash_on">Blitz an</string>
   <string name="frame_not_support_image_ratio">Dieses Seitenverhältnis wird nicht unterstützt.</string>
@@ -877,14 +891,16 @@
   <string name="photo_editor_beautify">Verschönern</string>
   <string name="photo_editor_beautify_auto">Automatisch</string>
   <string name="photo_editor_compare_tip">Drücken und halten, um das Originalbild anzuzeigen</string>
-  <string name="photo_editor_remove_watermark">Wasserzeichen entfernen</string>
   <string name="photo_editor_crop_and_rotate">Zuschneiden</string>
   <string name="photo_editor_crop_auto">Automatisch</string>
   <string name="photo_editor_crop_auto_tips">Automatisches Zuschneiden</string>
   <string name="photo_editor_crop_reset">Zurücksetzen</string>
   <string name="photo_editor_doodle">Malen</string>
-  <string name="photo_editor_frame">Rahmen</string>
   <string name="photo_editor_font_default">&gt;Mi Lanting (Regulär)</string>
+  <string name="photo_editor_frame">Rahmen</string>
+  <string name="photo_editor_remove_watermark">Wasserzeichen entfernen</string>
+  <string name="photo_editor_remove_watermark_on">Wasserzeichen hinzufügen</string>
+  <string name="photo_editor_talkback_crop_2_3">Zwei bis drei</string>
   <string name="photo_font_cancel_download">Abbrechen</string>
   <string name="photo_font_download">Herunterladen</string>
   <string name="photo_font_download_failed_for_notwork">Konnte nicht heruntergeladen werden. Verbinden Sie sich mit dem Netzwerk und versuchen Sie es erneut.</string>
@@ -1204,6 +1220,7 @@
   <string name="show_hidden_album_title">Versteckte Alben anzeigen</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Erfolgreich verschoben, navigieren Sie zu anderen Alben</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Erfolgreich verschoben, navigieren Sie zu Alben</string>
+  <string name="similar_keep_clear">Beste Schnappschüsse behalten</string>
   <string name="slideshow_interval_dialog_title">Diashow-Intervall festlegen</string>
   <string name="slideshow_interval_invalid">Intervall muss zwischen 3 und 3600 Sekunden liegen</string>
   <string name="slideshow_interval_title">Jedes Foto anzeigen für</string>
@@ -1213,7 +1230,7 @@
   <string name="slim_cost_time_minute">%dm übrig</string>
   <string name="slim_cost_time_minute_and_second">%1$dm %2$ds übrig</string>
   <string name="slim_cost_time_second">%ds übrig</string>
-  <string name="slim_description_dialog_detail">Reduzieren Sie die Dateigröße von lokalen Fotos. Original Dateien werden in Mi Cloud gespeichert.</string>
+  <string name="slim_description_dialog_detail">Reduzieren Sie die Dateigröße von lokalen Fotos. Originaldateien werden in Mi Cloud gespeichert.</string>
   <string name="slim_description_dialog_ok">Fertig</string>
   <string name="slim_description_dialog_slim_after">Danach: 167KB</string>
   <string name="slim_description_dialog_slim_before">Davor: 3.07MB</string>
@@ -1222,7 +1239,11 @@
   <string name="slim_running">Optimierung…</string>
   <string name="slim_space">freigegeben</string>
   <string name="slim_stop">Optimierung anhalten</string>
-  <string name="similar_keep_clear">Beste Schnappschüsse behalten</string>
+  <string name="special_type_eye_repair">Geschlossene Augen mit KI fixiert</string>
+  <string name="special_type_night_beauty">KI Schwachlicht-Verschönerung</string>
+  <string name="special_type_night_mode">KI Nachtmodus</string>
+  <string name="special_type_portrait">KI Porträt-Lichtmalerei</string>
+  <string name="special_type_wide_angle">KI Ultra-Weitwinkel</string>
   <string name="start_debug">Galerie debuggen</string>
   <string name="start_to_use_face_albumset">Nach Personen sortieren</string>
   <string name="sticker_ad">Prospekte</string>

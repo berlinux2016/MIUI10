@@ -9,6 +9,9 @@
   <string name="btn_clear_records">Aufnahmen löschen (%d Elemente)</string>
   <string name="button_queue_for_wifi">Warteschlange</string>
   <string name="call_record">Anrufaufnahmen</string>
+  <string name="call_record_list_group_all">Alle</string>
+  <string name="call_record_list_group_connected">Verbunden</string>
+  <string name="call_record_list_group_unconnected">Nicht verbunden</string>
   <string name="choose_call_records_count">%d Elemente</string>
   <string name="clear_records">Synchronisierte Aufnahmen löschen</string>
   <string name="cloud_record">Cloudaufnahme (%d)</string>
@@ -57,10 +60,10 @@
   <string name="export_to_note">Notiz exportieren</string>
   <string name="faq">"Häufig gestellte Fragen：
 1.Welchen Status enthält die Bestellung?
-Die Bestellung umfasst drei Zustände: Übertragung, Abschluss und Übertragungsfehler. Nach dem Überschreiben der Bestellung wird der übertragene Text in der entsprechenden Aufzeichnungsdatei angezeigt und diese kann geöffnet werden.
+Die Bestellung umfasst drei Zustände: Übertragung, Abschluss und Übertragungsfehler. Nach dem Überschreiben der Bestellung wird der übertragene Text in der entsprechenden Aufnahmedatei angezeigt und diese kann geöffnet werden.
 2. Was ist wenn die Übertragung fehlschlägt?
 Wenn die Bestellung übertragen wird, wird die Rückerstattung automatisch durchgeführt. Die Rückerstattung erfolgt innerhalb von 5 Werktagen auf Ihr ursprüngliches Zahlungskonto. Bitte beachten Sie die Rechnung des Zahlungskontos, um die Rückerstattung zu überprüfen. Wenn die Zahlung überfällig ist, wenden Sie sich bitte an die Kundendienst-Hotline (400-100-5678).
-3. Wie kann ich den Text der Aufzeichnung präzisieren?
+3. Wie kann ich den Text der Aufnahme präzisieren?
 Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die Genauigkeit des Übertragungsergebnisses wird durch Entfernung, Umgebung, Stimme der Bevölkerung usw. beeinflusst. Die Genauigkeitsrate kann sehr unterschiedlich sein. Wenn Sie den Text genauer ändern möchten, können Sie das Telefon verlassen. Näher, die Art, wie man Mandarin spricht."</string>
   <string name="fm_record">Radioaufnahmen (%d)</string>
   <string name="head_set_tip_dialog_msg">Trennen Sie den Kopfhörer, um Ton mit bestimmten Voreinstellungen aufnehmen zu können (z. B. Musik, Stimme).</string>
@@ -71,7 +74,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="keywords_search_record">Neue Aufnahme;Aufnahme hinzufügen;Aufnahme;Aufnahmen;Protokoll;protokollieren;Rekorder;Sprachaufnahme;Sprachrekorder;Rekorder App;Aufnahme App;Wie nehme ich auf;Wie nehme ich Ton auf;Wo ist der Rekorder;MIUI Rekorder</string>
   <string name="keywords_search_record_list">Rekorder;Protokoll;Protokolle;Aufnehmen;Aufnahme teilen;Aufnahmen teilen;Aufnahme;Aufnahmen</string>
   <string name="korea_permission_phone">Telefon</string>
-  <string name="korea_permission_phone_resc">Für den Zugriff auf den Gerätestatus und die Handhabung von Aufzeichnungen während eines Anrufs</string>
+  <string name="korea_permission_phone_resc">Für den Zugriff auf den Gerätestatus und die Handhabung von Aufnahmen während eines Anrufs</string>
   <string name="korea_permission_record">Mikrofon</string>
   <string name="korea_permission_record_resc">Für Audioaufnahmen</string>
   <string name="korea_permission_storage">Speicher</string>
@@ -148,6 +151,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="preference_record_type_title">Aufnahmetyp</string>
   <string name="preference_scenes">Szeneneinstellungen</string>
   <string name="preference_silent_mode">Klingelton bei Aufnahme aus</string>
+  <string name="preference_status_bar_indicator_prompt">Tastenkürzel in der Statusleiste während der Aufnahme anzeigen</string>
   <string name="preference_tip_rename">Aufnahmen selbst benennen</string>
   <string name="privacy_policy_title">Datenschutzerklärung</string>
   <string name="recognition_error_cancel">Abgebrochen</string>
@@ -253,10 +257,12 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
   <string name="search_quliaty_title">Aufnahmequalität</string>
   <string name="search_scenes">Aufnahmetyp</string>
   <string name="search_silent_mode">Klingelton lautlos schalten bei der Aufnahme</string>
-  <string name="search_tip_rename">Aufnahnmedatei manuell benennen</string>
-  <string name="service_instructions">Über iflyrec.com</string>
+  <string name="search_tip_rename">Aufnahmedatei manuell benennen</string>
   <string name="share">Teilen</string>
   <string name="share_dialog_title">Teilen mit</string>
+  <string name="shortcut_records">Aufnahmen</string>
+  <string name="shortcut_start_record">Aufnahme starten</string>
+  <string name="shortcut_stop_record">Aufnahme stoppen</string>
   <string name="sound_recorder_settings">Einstellungen</string>
   <string name="speech_recognition_complete">Abgeschlossen</string>
   <string name="speech_recognition_running_tip">Wird durchgeführt</string>
