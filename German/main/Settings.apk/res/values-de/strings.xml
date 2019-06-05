@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Accounts_settings_title">Konten</string>
+  <string name="a11y_settings_label">Einstellungen Barrierefreiheit</string
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -190,6 +190,12 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="account_sync_summary_all_on">Sync an für alle Elemente</string>
   <string name="account_sync_summary_some_on">Sync an für %1$d aus %2$d Elementen</string>
   <string name="account_sync_title">Kontosync</string>
+  <string name="Accounts_settings_title">Konten</string>
+  <string name="accessibility_menu_description">"Das Menü Barrierefreiheit bietet praktische Tastenkombinationen, mit denen Sie Ihr Gerät steuern können.
+
+Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Barrierefreiheit unten auf Ihrem Bildschirm, um das Menü zu öffnen."</string>
+  <string name="accessibility_menu_service_name">Barrierefreiheitsmenü</string>
+  <string name="accessibility_menu_summary">Steuern Sie Ihr Gerät über praktische Tastenkombinationen</strin
   <string name="action_drag_label_move_bottom">Nach ganz unten</string>
   <string name="action_drag_label_move_down">Nach unten</string>
   <string name="action_drag_label_move_top">Nach ganz oben</string>
@@ -1492,12 +1498,15 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="confirm_enable_oem_unlock_text">WARNUNG: Geräteschutzfunktionen werden deaktiviert, wenn Sie diese Einstellung aktivieren.</string>
   <string name="confirm_enable_oem_unlock_title">OEM-Entsperrung erlauben?</string>
   <string name="confirm_erase">Löschen</string>
+  <string name="confirm_fingerprint">Fingerabdruck überprüfen</string>
   <string name="confirm_fingerprint_icon_content_description">Benutzen Sie Ihren Fingerabdruck, um fortzufahren</string>
   <string name="confirm_fingerprint_msg">Legen Sie Ihren Finger auf den Fingerabdruckscanner</string>
   <string name="confirm_frp_credential_message">Ihr Gerät wurde auf Werkseinstellung zurückgesetzt. Sie können es mit Ihrem bisherigen Passwort entsperren.</string>
   <string name="confirm_frp_credential_skip_txt">Benutze stattdessen ein Google-Konto</string>
   <string name="confirm_frp_credential_title">Entsperren nach Zurücksetzen auf Werkseinstellung</string>
   <string name="confirm_new_backup_pw_prompt">Passwort für vollständige Sicherung erneut eingeben</string>
+  <string name="confirm_password_with_fingerprint">Fingerabdruck verwenden</string>
+  <string name="confirm_password_with_password">Passwort eingeben</string
   <string name="confirm_privacy_password">Datenschutzpasswort eingeben</string>
   <string name="confirm_privacy_password_fingerprint">Fingerabdruck scannen oder Datenschutzpasswort eingeben</string>
   <string name="confirm_prompt_all_permission">Nach Berechtigungen für alle Apps fragen?</string>
@@ -3257,6 +3266,7 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="lockscreen_glogin_checking_password">Prüfe…</string>
   <string name="lockscreen_glogin_password_hint">Passwort</string>
   <string name="lockscreen_glogin_submit_button">Anmelden</string>
+  <string name="lockscreen_label">Sperrbildschirm</string>
   <string name="lockscreen_magazine">Hintergrundbildkarussell</string>
   <string name="lockscreen_magazine_summary">Hochwertiges Hintergrundbildkarussell</string>
   <string name="lockscreen_magazine_title">Hintergrundbildkarussell</string>
@@ -3624,7 +3634,7 @@ Betriebssystem auswählen:"</string>
   <string name="music_headset_no_contected">Keine Kopfhörer gefunden</string>
   <string name="music_headset_settings">Kopfhörer &amp; Audioeffekte</string>
   <string name="music_hifi_summary">Reduziert Rauschen und Verzerrungen und erhöht die Audioqualität</string>
-  <string name="music_hifi_title">Hi-Fi Audio</string>
+  <string name="music_hifi_title">HiFi Audio</string>
   <string name="music_mi_effect_summary">Mi Klangverbesserung bei Lautsprechern verwenden</string>
   <string name="music_mi_effect_title">Mi Klangverbesserung</string>
   <string name="music_unsupport_effect_summary">USB-Kopfhörer werden nicht unterstützt</string>
@@ -3884,6 +3894,7 @@ Betriebssystem auswählen:"</string>
   <string name="notification_importance_none">Nicht eingestellt</string>
   <string name="notification_importance_title">Wichtigkeit</string>
   <string name="notification_importance_unspecified">Ton erlauben</string>
+  <string name="notification_label">Benachrichtigungen</string>
   <string name="notification_listener_disable_warning_cancel">Abbrechen</string>
   <string name="notification_listener_disable_warning_confirm">Ausschalten</string>
   <string name="notification_listener_disable_warning_summary">Wenn Sie den Benachrichtigungszugriff für %1$s deaktivieren, könnte auch der Nicht-Stören-Zugriff ausgeschaltet werden</string>
@@ -4204,6 +4215,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="power_key_how_start_detail">Halten Sie die Power-Taste 0,5s lang gedrückt. Lassen Sie sie los, um zu sprechen.</string>
   <string name="power_key_start_enjoy">Erfahren Sie mehr über den Google Assistant</string>
   <string name="power_key_start_guide">Wecken des Google Assistant mit der Power-Taste auf Vollbildgeräten</string>
+  <string name="power_label">Leistung</string>
   <string name="power_last_full_charge_summary">Vor ^1</string>
   <string name="power_menu_under_keyguard_summary">Zugriff auf das Power-Menü erlauben, während das Gerät gesperrt ist</string>
   <string name="power_menu_under_keyguard_title">Zugriff Power-Menü</string>
@@ -4458,6 +4470,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="quiet_no_interruptions_mode">Alle Störungen unterdrücken</string>
   <string name="quiet_off_mode">Alle Störungen zulassen</string>
   <string name="quick_reply_title">Schnellantworten</string>
+  <string name="quick_settings_label">Schalter</string>
   <string name="radioInfo_data_connected">Verbunden</string>
   <string name="radioInfo_data_connecting">Verbindung wird hergestellt</string>
   <string name="radioInfo_data_disconnected">Nicht verbunden</string>
@@ -4529,6 +4542,7 @@ UT Interface: %5$s"</string>
   <string name="rebootiing_for_updates">Neustarten…</string>
   <string name="receiver_clean">Speicher freigeben</string>
   <string name="recent_app_category_title">Kürzlich geöffnete Apps</string>
+  <string name="recent_apps_label">Geöffnete</string>
   <string name="recent_location_requests_summary">Nachfolgende Apps können Ihre Standortinformationen anfordern</string>
   <string name="recent_location_requests_title">Standortzugriff</string>
   <string name="recent_notifications">Kürzlich gesendet</string>
@@ -6724,7 +6738,8 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="volume_alarm_description">Alarm</string>
   <string name="volume_alarm_mute">Alarme lautlos</string>
   <string name="volume_category_title">Lautstärke</string>
-  <string name="volume_hifi_description">Hi-Fi-Einstellungen</string>
+  <string name="volume_hifi_description">HiFi-Einstellungen</string>
+  <string name="volume_label">Laustärke</string>
   <string name="volume_media_description">Musik, Video, Spiele und andere Medien</string>
   <string name="volume_media_mute">Musik &amp; andere Medien lautlos</string>
   <string name="volume_notification_description">Benachrichtigungen</string>

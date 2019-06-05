@@ -2,15 +2,24 @@
 <resources>
   <string name="accessibility_battery_level">Akku %d Prozent</string>
   <string name="accessibility_battery_level_charging">Akku laden, %d Prozent</string>
+  <string name="always_style">Immer</string>
   <string name="aod_close_color_inversion">Diese Funktion kann nicht mit der Farbumkehr kombiniert werden. Zuerst Farbumkehr ausschalten.</string>
+  <string name="aod_mode_preview">Vorschau</string>
   <string name="aod_mode_style">Uhrstil und Hintergrund</string>
-  <string name="aod_mode_summary">Diese Funktion erhöht den Stromverbrauch des Systems. Sie wird ausgeschaltet, wenn Ihr Gerät längere Zeit dunkel bleibt oder wenn Einschränkungen für den Energiesparmodus gelten.</string>
+  <string name="aod_mode_style_title">Mehr Optionen</string>
+  <string name="aod_mode_summary">Zeigt Uhr, Datum, Benachrichtigungen und Hintergrundbilder an, wenn der Bildschirm aus ist</string>
   <string name="aod_mode_time_summary">Zeit zum Ein- und Ausschalten des Always-On-Modus planen</string>
   <string name="aod_mode_time_title">Zeitplan</string>
   <string name="aod_mode_title">Always-On-Modus</string>
+  <string name="aod_show_style_title">Elemente anzeigen</string>
   <string name="aod_to_close">Ausschalten</string>
   <string name="cancel">Abbrechen</string>
   <string name="paper_mode_end_time_title">Ausschalten</string>
   <string name="paper_mode_start_time_title">Einschalten</string>
+  <string name="scheduled_style">Geplant</string>
   <string name="search_menu_title">Suchen</string>
+  <string name="summary">"Um den Stromverbrauch zu reduzieren, werden Elemente in den folgenden Situationen nicht angezeigt:
+1. Wenn Ihr Gerät lange Zeit im Dunkeln liegt.
+2. Wenn der DND-Modus eingeschaltet ist."</string>
+<string name="temporary_style">Für 10 Sekunden nach dem Antippen</string
 </resources>
