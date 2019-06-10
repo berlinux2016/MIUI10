@@ -11,10 +11,13 @@
   <string name="back_up_task_unfinished">Sicherung nicht vollständig</string>
   <string name="backing_up_to_micloud">Sichern…</string>
   <string name="backup_fail_wifi_needed">Sicherung fehlgeschlagen, WLAN benötigt</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Nicht genug Speicherplatz in Mi Cloud. Erweitern Sie Ihren Tarif oder schaffen Sie Speicherplatz.</string>
+  <string name="backup_failed_reason_disk_space_not_enough">Nicht genügend Speicherplatz. Erst Speicherplatz freigeben.</string>
+  <string name="backup_failed_reason_network_error">Netzwerkfehler. Ein oder zwei Minuten warten und erneut versuchen.</string>
   <string name="backup_finished_notification_content">Startbildschirm, Systemeinstellungen, etc. wurden gesichert</string>
   <string name="backup_now">Jetzt sichern</string>
   <string name="backup_size">Größe: %s</string>
-  <string name="backup_stopped_msg">Die aktuelle Sicherung überschreibt die vorherige. Tippen zum Anzeigen.</string>
+  <string name="backup_stopped_msg">Aktuelle Sicherung überschreibt die vorherige. Tippen zum Anzeigen.</string>
   <string name="backup_stopped_title">Sicherung wurde gestoppt</string>
   <string name="backup_success">App-Sicherung erfolgreich</string>
   <string name="backup_successfully">Erfolgreich gesichert</string>
@@ -167,7 +170,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="restore_app_order_finish">Erledigt</string>
   <string name="restore_app_order_loading">Einen Moment…</string>
   <string name="restore_app_order_retry">Erneut versuchen</string>
-  <string name="restore_app_order_retry_desc">Verbindung zum Netzwerk wurde nicht hergestellt. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+  <string name="restore_app_order_retry_desc">Verbindung zum Netzwerk nicht hergestellt. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
   <string name="restore_app_order_search_hint">Nach Elementen zum Festlegen der Priorität suchen</string>
   <string name="restore_app_order_search_installed">Apps auf diesem Gerät</string>
   <string name="restore_app_order_search_normal">Apps mit normaler Priorität</string>
@@ -180,6 +183,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="restore_detail_category_settings">Einstellungen</string>
   <string name="restore_detail_more">Mehr</string>
   <string name="restore_detail_title">Elemente zum Wiederherstellen wählen</string>
+  <string name="restore_failed_reason_disk_space_not_enough">Nicht genügend Speicherplatz. Erst Speicherplatz freigeben.</string>
+  <string name="restore_failed_reason_network_error">Netzwerkfehler. Ein oder zwei Minuten warten und erneut versuchen.</string>
   <string name="restore_finish_description">Wiederherstellung abgeschlossen</string>
   <string name="restore_finished_notification_content">Startbildschirm-Apps, Systemeinstellungen, etc. wiederhergestellt</string>
   <string name="restore_from_cloud">Wiederherstellen mit Sicherung aus Mi Cloud</string>
@@ -191,6 +196,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Mi Cloud gesichert."</st
   <string name="restore_network_unconnect">%s (auf Verbindung warten)</string>
   <string name="restore_task_cancelling">Abbrechen…</string>
   <string name="restore_task_in_process">Wiederherstellen…</string>
+  <string name="restore_task_unfinished">Wiederherstellen nicht möglich</string>
   <string name="restore_unfinished">Wiederherstellen später erneut versuchen</string>
   <string name="restoring_file_title_no_progress">Dateien wiederherstellen…</string>
   <string name="restoring_settings">Einstellungen wiederherstellen…</string>
