@@ -114,9 +114,12 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="deselect_all">Alle abwählen</string>
   <string name="dialog_app_upgrade_exit">Beenden</string>
   <string name="dialog_app_upgrade_message">Eine neue Version von Mi Mover ist verfügbar. Mi Mover jetzt aktualisieren?</string>
+  <string name="dialog_backup_password_auto_backup_tips">Elemente können nicht automatisch gesichert werden, wenn das Sicherungspasswort aktiviert ist. Zuerst das Sicherungspasswort deaktivieren.</string>
   <string name="dialog_backup_password_backup_tips">Elemente können nicht gesichert werden, wenn das Sicherungspasswort aktiviert ist. Sicherungspasswort deaktivieren.</string>
   <string name="dialog_backup_password_cancel">Abbrechen</string>
-  <string name="dialog_backup_password_change_machine_tips">Passwortgeschützte Sicherungen können nicht übertragen werden. Schalten Sie das Sicherungspasswort aus, bevor Sie Mi Mover verwenden.</string>
+  <string name="dialog_backup_password_change_device_restore_tips">Mi Mover kann nicht verwendet werden, wenn das Sicherungspasswort aktiviert ist. Zuerst das Sicherungspasswort deaktivieren.</string>
+  <string name="dialog_backup_password_change_machine_tips">Passwortgeschützte Sicherungen können nicht übertragen werden. Sicherungspasswort ausschalten, bevor Sie Mi Mover verwenden.</string>
+  <string name="dialog_backup_password_restore_tips">Elemente können nicht wiederhergestellt werden, wenn das Sicherungspasswort aktiviert ist. Zuerst das Sicherungspasswort deaktivieren.</string>
   <string name="dialog_backup_password_to_settings">Einstellungen</string>
   <string name="disable_encrypt_description">Nicht verschlüsseln</string>
   <string name="disable_encrypt_title">Verschlüsselung ausschalten</string>
@@ -190,6 +193,7 @@ Stellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie begi
   <string name="hsa_verify_failed_message">Zwei-Faktor-Authentifizierung fehlgeschlagen. Sie können wiederholen oder die Zwei-Faktor-Authentifizierung deaktivieren.</string>
   <string name="hsa_verify_retry">Erneut versuchen</string>
   <string name="hsa_verify_shutdown">Deaktivieren</string>
+  <string name="iCloud_ID_verification_tip">Geben Sie den SMS-Bestätigungscode ein, der an die mit Ihrer Apple ID verknüpfte Telefonnummer gesendet wurde. Ignorieren Sie den Popup-Code, der auf dem Bildschirm Ihres iPhones angezeigt wird.</string>
   <string name="icloud_backup_tip">Melden Sie sich beim iCloud-Account Ihres alten iOS-Geräts an</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Wählen Sie in den Einstellungen in Ihrem iOS-Gerät die Option iCloud aus.
 2. Schalter für Kontakte betätigen und andere Element.
@@ -405,6 +409,7 @@ Mindestens %s freigeben."</string>
   <string name="trans_cancel_selection_message">Wenn Sie Mi Mover verlassen, wird der laufende Transfer unterbrochen. Warten Sie, bis die Übertragung abgeschlossen ist.</string>
   <string name="trans_cancel_selection_title">In Mi Mover bleiben</string>
   <string name="trans_cancelling">Abbrechen…</string>
+  <string name="trans_complete_restoring">Erfolgreich übertragen. App-Daten wiederherstellen…</string>
   <string name="trans_connect_failed_device_incompatible">Gerät ist inkompatibel. Brechen Sie die Übertragung ab und versuchen Sie es erneut.</string>
   <string name="trans_connect_failed_message">Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu Einstellungen &gt; Weitere Einstellungen &gt; Mi Mover. Tippen Sie \"Ich bin der Sender\", oder versuchen Sie es nach einem Neustart erneut.</string>
   <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
