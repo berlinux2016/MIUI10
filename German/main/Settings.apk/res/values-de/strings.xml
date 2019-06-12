@@ -758,7 +758,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_overall_usage">%1$s des Gesamtakkus</string>
   <string name="battery_percentage">Akku-Prozentsatz</string>
   <string name="battery_percentage_description">Akku-Prozentsatz in Statuszeile anzeigen</string>
-  <string name="battery_power_management">Energieverwaltung</string>
+  <string name="battery_power_management">Stromverwaltung</string>
   <string name="battery_saver">Stromsparen</string>
   <string name="battery_saver_auto_title">Automatisch einschalten</string>
   <string name="battery_saver_button_turn_off">Jetzt ausschalten</string>
@@ -1542,7 +1542,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="content_description_menu_button">Menü</string>
   <string name="contributors_title">Mitwirkende</string>
   <string name="controls_label">Steuerung</string>
-  <string name="controls_subtitle">Energieverbrauch anpassen</string>
+  <string name="controls_subtitle">Stromverbrauch anpassen</string>
   <string name="convenience_key_category_title">Systemsteuerung</string>
   <string name="convert_to_fbe_warning">"Konvertieren der Datenpartition in dateibasierte Verschlüsselung.
 Warnung: Dies löscht alle Ihre Daten.
@@ -2572,7 +2572,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gadget_state_turning_off">Wird ausgeschaltet…</string>
   <string name="gadget_state_turning_on">Wird eingeschaltet…</string>
   <string name="gadget_sync">Synchronisieren</string>
-  <string name="gadget_title">Energiesteuerung</string>
+  <string name="gadget_title">Stromsteuerung</string>
   <string name="gadget_toggle_bluetooth">Bluetooth-Einstellung aktualisieren</string>
   <string name="gadget_toggle_wifi">WLAN-Einstellungen aktualisieren</string>
   <string name="gallery_privacy_password_role_instruction">Ihre privaten Fotos werden hier gespeichert</string>
@@ -2680,7 +2680,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="hide_system_app">System-Apps verbergen</string>
   <string name="high_performance_notif_summary">Leistungsmodus eingeschaltet</string>
   <string name="high_performance_notif_title">Akkuverbrauchswarnung</string>
-  <string name="high_performance_title">Wenn Sie einen Benchmark laufen lassen, stellen Sie die Energieverwaltung auf \"Leistung\" für bestmögliche Resultate.</string>
+  <string name="high_performance_title">Wenn Sie einen Benchmark laufen lassen, stellen Sie die Stromverwaltung auf \"Leistung\" für bestmögliche Resultate.</string>
   <string name="high_power_apps">Akkuoptimierung</string>
   <string name="high_power_desc">Akkuoptimierung nicht anwenden. Ihr Akku wird eventuell schneller leer.</string>
   <string name="high_power_filter_on">Nicht optimiert</string>
@@ -3056,7 +3056,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="location_low_battery_use">Niedriger Akkuverbrauch</string>
   <string name="location_menu_scanning">Wird gescannt</string>
   <string name="location_mode_battery_saving_description">WLAN und Mobilfunknetz zur Standortbestimmung verwenden</string>
-  <string name="location_mode_battery_saving_title">Energie sparen</string>
+  <string name="location_mode_battery_saving_title">Strom sparen</string>
   <string name="location_mode_high_accuracy_description">GPS, WLAN und Mobilfunknetz zur Standortbestimmung verwenden</string>
   <string name="location_mode_high_accuracy_title">Hohe Genauigkeit</string>
   <string name="location_mode_location_off_title">Standort aus</string>
@@ -4222,9 +4222,9 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="power_menu_under_keyguard_summary">Zugriff auf das Power-Menü erlauben, während das Gerät gesperrt ist</string>
   <string name="power_menu_under_keyguard_title">Zugriff Power-Menü</string>
   <string name="power_mgr">Akku-Optimierung</string>
-  <string name="power_mode">Energieeinstellungen</string>
+  <string name="power_mode">Stromeinstellungen</string>
   <string name="power_mode_balanced_title">Ausgeglichen</string>
-  <string name="power_optimize">Energie sparen</string>
+  <string name="power_optimize">Strom sparen</string>
   <string name="power_overcounted">Überzählt</string>
   <string name="power_phone">Anrufe</string>
   <string name="power_remaining_charging_duration_only">%1$s übrig bis voll geladen</string>
@@ -4277,7 +4277,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="preferred_app_settings_reset_button">Zurücksetzen</string>
   <string name="preferred_app_settings_reset_message">Alle Standard-Apps werden auf die MIUI-Voreinstellungen zurückgesetzt</string>
   <string name="preferred_application_title">Bevorzugt %s</string>
-  <string name="preferred_application_warning_message">Ersetzen des Standard %1$s kann den Energieverbrauch erhöhen, die Geschwindigkeit reduzieren und Ihre Daten gefährden. Benutzung des Standard %2$s wird empfohlen.</string>
+  <string name="preferred_application_warning_message">Ersetzen des Standard %1$s kann den Stromverbrauch erhöhen, die Geschwindigkeit reduzieren und Ihre Daten gefährden. Benutzung des Standard %2$s wird empfohlen.</string>
   <string name="preferred_application_warning_replace">Ersetzen</string>
   <string name="preferred_application_warning_title">Standard %s ersetzen</string>
   <string name="preferred_application_warning_use_system">%s benutzen</string>
@@ -4984,8 +4984,8 @@ Mindestens %s freigeben."</string>
   <string name="search_power_checker">Akkuprüfer;Akku prüfen</string>
   <string name="search_power_hide_mode_title">Akkuverbrauch von Apps verwalten;Akkuverbrauch von Apps;Akkuverbrauch;Akkustatistik</string>
   <string name="search_power_mode">Leistungseinstellungen;Leistung</string>
-  <string name="search_power_optimize">Stromsparen;Strom sparen;Energie sparen</string>
-  <string name="search_power_usage_summary_title">Akku &amp; Leistung;Akku und Leistung;Akku;Leistung;Stromsparen;Strom sparen;Energie sparen</string>
+  <string name="search_power_optimize">Stromsparen;Strom sparen;Strom sparen</string>
+  <string name="search_power_usage_summary_title">Akku &amp; Leistung;Akku und Leistung;Akku;Leistung;Stromsparen;Strom sparen;Strom sparen</string>
   <string name="search_pref_edge_handgrip">Kantensteuerung</string>
   <string name="search_pref_volume_wake_title">Mit Lautstärketasten aufwecken;Lautstärketasten</string>
   <string name="search_preferred_network_type_title">Bevorzugter Netzwerktyp;Bevorzugtes Netzwerk;Netzwerktyp</string>
