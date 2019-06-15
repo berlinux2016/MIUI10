@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Accounts_settings_title">Konten</string>
   <string name="a11y_settings_label">Einstellungen Barrierefreiheit</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
@@ -53,7 +54,7 @@
   <string name="access_control_app_entry_single">App starten</string>
   <string name="access_control_need_password">%s wurde gesperrt</string>
   <string name="access_control_need_to_unlock">Passwort erforderlich:</string>
-  <string name="access_control_no_back_footer">Zum Beenden das [Symbol] drücken</string>
+  <string name="access_control_no_back_footer">Zum Beenden [Symbol] drücken</string>
   <string name="access_control_password_title">Passwort</string>
   <string name="access_control_recording_intro_header">Zeichnen Sie ein Entsperrmuster:</string>
   <string name="access_control_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich mit Ihrem Mi Konto an</string>
@@ -75,7 +76,7 @@
   <string name="accessibility_display_inversion_preference_title">Farbumkehrung</string>
   <string name="accessibility_display_title">Bildschirm</string>
   <string name="accessibility_enable">Bedienungshilfen</string>
-  <string name="accessibility_feature_or_input_method_not_allowed">Von Ihrer Organisation nicht erlaubt</string>
+  <string name="accessibility_feature_or_input_method_not_allowed">Von Ihrer Firma nicht erlaubt</string>
   <string name="accessibility_feature_state_off">Aus</string>
   <string name="accessibility_feature_state_on">An</string>
   <string name="accessibility_global_gesture_preference_description">"Wenn diese Funktion aktiviert ist, können Sie Bedienungshilfen schnell in zwei Schritten aktivieren:
@@ -173,6 +174,11 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="accessibility_wifi_three_bars">WLAN 3 Balken</string>
   <string name="accessibility_wifi_two_bars">WLAN 2 Balken</string>
   <string name="accessibility_work_account_title">Arbeitskonto - %s</string>
+  <string name="accessibility_menu_description">"Das Menü Bedienungshilfen bietet praktische Tastenkombinationen, mit denen Sie Ihr Gerät steuern können.
+
+Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Bedienungshilfen unten auf Ihrem Bildschirm, um das Menü zu öffnen."</string>
+  <string name="accessibility_menu_service_name">Menü Bedienungshilfen</string>
+  <string name="accessibility_menu_summary">Steuern Sie Ihr Gerät über praktische Tastenkombinationen</string>
   <string name="account_add">Hinzufügen</string>
   <string name="account_dashboard_default_summary">Keine Konten hinzugefügt</string>
   <string name="account_dashboard_title">Benutzer &amp; Konten</string>
@@ -190,12 +196,6 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="account_sync_summary_all_on">Sync an für alle Elemente</string>
   <string name="account_sync_summary_some_on">Sync an für %1$d aus %2$d Elementen</string>
   <string name="account_sync_title">Kontosync</string>
-  <string name="Accounts_settings_title">Konten</string>
-  <string name="accessibility_menu_description">"Das Menü Barrierefreiheit bietet praktische Tastenkombinationen, mit denen Sie Ihr Gerät steuern können.
-
-Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Barrierefreiheit unten auf Ihrem Bildschirm, um das Menü zu öffnen."</string>
-  <string name="accessibility_menu_service_name">Barrierefreiheitsmenü</string>
-  <string name="accessibility_menu_summary">Steuern Sie Ihr Gerät über praktische Tastenkombinationen</string>
   <string name="action_drag_label_move_bottom">Nach ganz unten</string>
   <string name="action_drag_label_move_down">Nach unten</string>
   <string name="action_drag_label_move_top">Nach ganz oben</string>
@@ -222,25 +222,25 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Barrierefre
   <string name="add_device_admin_msg">Geräteadministrator aktivieren?</string>
   <string name="add_facerecoginition_text">Gesicht hinzufügen</string>
   <string name="add_fingerprint_cancel_button_text">Zurück</string>
-  <string name="add_fingerprint_dirty_fingerprint">Stellen Sie sicher, dass die Oberfläche des Bildschirms sauber ist. Versuchen Sie noch einmal, Ihren Fingerabdruck aufzunehmen.</string>
+  <string name="add_fingerprint_dirty_fingerprint">Stellen Sie sicher, dass die Oberfläche des Bildschirms sauber ist. Versuchen Sie nochmal, Ihren Fingerabdruck aufzunehmen.</string>
   <string name="add_fingerprint_done_msg">Sie können Ihr Gerät nun mit Ihrem Fingerabdruck entsperren</string>
   <string name="add_fingerprint_done_title">Fertig</string>
   <string name="add_fingerprint_edge_instruction_msg">Bewegen Sie den Finger, damit der Sensor die Kanten des Fingerabdrucks aufnehmen kann</string>
   <string name="add_fingerprint_edge_instruction_title">Bewegen Sie Ihren Finger ein wenig</string>
-  <string name="add_fingerprint_failed_retry_text">Fingerabdruck konnte nicht hinzugefügt werden, versuchen Sie es noch einmal</string>
+  <string name="add_fingerprint_failed_retry_text">Fingerabdruck konnte nicht hinzugefügt werden, versuchen Sie es nochmal</string>
   <string name="add_fingerprint_finished_button_text">Fertig</string>
   <string name="add_fingerprint_instruction_msg">Fingerabdrucksensor ist in der Hometaste Ihres Geräts eingebaut</string>
   <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf den Scanner</string>
   <string name="add_fingerprint_move_fast">Halten Sie Ihren Finger etwas länger auf dem Bildschirm.</string>
   <string name="add_fingerprint_name_suggest_text">Fingerabdruckbezeichnung</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Nach dem Drücken des Sensors entfernen Sie den Finger und versuchen es erneut</string>
-  <string name="add_fingerprint_put_finger_msg">Nach dem Drücken des Sensors entfernen Sie den Finger und versuchen es erneut</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Nach Drücken des Sensors entfernen Sie den Finger und versuchen es erneut</string>
+  <string name="add_fingerprint_put_finger_msg">Nach Drücken des Sensors entfernen Sie den Finger und versuchen es erneut</string>
   <string name="add_fingerprint_put_finger_title">Finger platzieren und entfernen</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Bewegen Sie leicht Ihren Finger und setzen ihn wieder auf den Sensor, um die verschiedenen Teile Ihres Fingerabdrucks hinzuzufügen</string>
   <string name="add_fingerprint_success_msg">Erfolgreich hinzugefügt</string>
   <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
   <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Scanner</string>
-  <string name="add_front_fingerprint_instruction_msg">Fingerabdrucksensor befindet sich in der Hometaste Ihres Gerätes</string>
+  <string name="add_front_fingerprint_instruction_msg">Fingerabdrucksensor ist in der Hometaste Ihres Geräts</string>
   <string name="add_new">Hinzufügen</string>
   <string name="add_rule">Regeln hinzufügen</string>
   <string name="add_virtual_keyboard">Tastaturen verwalten</string>
@@ -292,8 +292,8 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Barrierefre
   <string name="alert_button_deny">Ablehnen</string>
   <string name="alert_message_backup_to_miasist">Mi PC Suite bittet um Erlaubnis, eine Sicherung auf einem Computer zu erstellen. Erlauben?</string>
   <string name="alert_message_restore_from_miasist">Mi PC Suite bittet um Erlaubnis, Elemente auf Ihrem Telefon wiederherzustellen. Erlauben?</string>
-  <string name="alert_miasist_occupy_backup">Elemente sichern mit Mi PC Suite…. Warten Sie, bis die Sicherung abgeschlossen ist, und versuchen Sie es erneut.</string>
-  <string name="alert_miasist_occupy_restore">Elemente wiederherstellen mit Mi PC Suite…. Warten Sie, bis die Elemente wiederhergestellt sind, und versuchen Sie es erneut.</string>
+  <string name="alert_miasist_occupy_backup">Elemente sichern mit Mi PC Suite… Warten Sie, bis die Sicherung abgeschlossen ist, und versuchen Sie es erneut.</string>
+  <string name="alert_miasist_occupy_restore">Elemente wiederherstellen mit Mi PC Suite… Warten Sie, bis die Elemente wiederhergestellt sind, und versuchen Sie es erneut.</string>
   <string name="alert_phone_occupy_backup">Mi PC Suite kann jetzt nicht verwendet werden. Schließen Sie die Sicherung oder Wiederherstellung von Elementen auf Ihrem Telefon ab und versuchen Sie es erneut.</string>
   <string name="alert_second_space_not_support_miasist">Mi PC Suite kann nicht im Zweitprofil verwendet werden. Wechseln Sie ins Hauptprofil.</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Bildschirmschoner verursacht einen erhöhten Stromverbrauch</string>
@@ -310,7 +310,7 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Barrierefre
   <string name="allow_float_summary">Popup-Benachrichtigungen zulassen</string>
   <string name="allow_float_title">Popup-Benachrichtigungen</string>
   <string name="allow_interruption">Unterbrechungen erlauben</string>
-  <string name="allow_interruption_summary"> App darf Töne machen, vibrieren und /oder Benachrichtungen auf dem Bildschirm einblenden</string>
+  <string name="allow_interruption_summary"> App darf Töne machen, vibrieren und/oder Benachrichtungen auf dem Bildschirm einblenden</string>
   <string name="allow_keyguard_summary">Benachrichtigungen am Sperrbildschirm anzeigen</string>
   <string name="allow_keyguard_title">Sperrbildschirmbenachrichtigungen</string>
   <string name="allow_lights_title">LED-Licht zulassen</string>
@@ -352,7 +352,7 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Barrierefre
   <string name="aod_got_it">Verstanden</string>
   <string name="aod_mode_clock">Uhr</string>
   <string name="aod_mode_style">Uhrstil und Hintergrund</string>
-  <string name="aod_mode_summary">Diese Funktion erhöht den Stromverbrauch des Systems. Sie wird ausgeschaltet, wenn Ihr Gerät längere Zeit dunkel bleibt oder wenn Einschränkungen für den Akkusparmodus gelten.</string>
+  <string name="aod_mode_summary">Diese Funktion erhöht den Stromverbrauch des Systems. Sie wird ausgeschaltet, wenn Ihr Gerät längere Zeit dunkel bleibt oder wenn Einschränkungen für den Stromsparmodus gelten.</string>
   <string name="aod_mode_time_summary">Planen Sie die Zeit ein, zu der Ihr Gerät in den Immer-An-Modus wechseln soll</string>
   <string name="aod_mode_time_title">Zeitplan</string>
   <string name="aod_mode_title">Immer-An-Modus</string>
@@ -434,7 +434,7 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Barrierefre
   <string name="app_notification_row_banned">Blockiert</string>
   <string name="app_notification_row_priority">Dringend</string>
   <string name="app_notification_row_sensitive">Sensibel</string>
-  <string name="app_notification_sensitive_summary">Wenn Gerät gesperrt, Benachrichtigungsinhalte dieser App verstecken, die private Informationen enthalten könnten</string>
+  <string name="app_notification_sensitive_summary">Bei gesperrtem Gerät Benachrichtigungsinhalte dieser App verstecken, die private Informationen enthalten könnten</string>
   <string name="app_notification_sensitive_title">Sensiblen Inhalt verstecken</string>
   <string name="app_notification_visibility_override_title">Auf dem Sperrbildschirm</string>
   <string name="app_notifications_dialog_done">Fertig</string>
@@ -574,7 +574,7 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Barrierefre
   <string name="auto_sync_personal_account_title">Private Daten automatisch synchronisieren</string>
   <string name="auto_sync_work_account_title">Arbeitsdaten automatisch synchronisieren</string>
   <string name="autofill_app">Automat. Ausfüllen</string>
-  <string name="autofill_confirmation_message">&lt;b&gt;Vergewissern Sie sich, dass dieser App vertrauen&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; verwendet alles auf Ihrem Bildschirm, um festzustellen, was automatisch ausgefüllt werden kann.</string>
+  <string name="autofill_confirmation_message">&lt;b&gt;Stellen Sie sicher, dass Sie dieser App vertrauen.&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; verwendet alles auf Ihrem Bildschirm, um festzustellen, was automatisch ausgefüllt werden kann.</string>
   <string name="autofill_keywords">automatisch, ausfüllen, automatisch ausfüllen</string>
   <string name="automatic_brightness">Automatische Helligkeit</string>
   <string name="automatic_storage_manager_activation_warning">Ihr Speicher wird nun vom Speichermanager verwaltet.</string>
@@ -602,9 +602,9 @@ Zuletzt am %2$s ausgeführt"</string>
 Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</string>
   <string name="background_activity_summary">App im Hintergrund laufen lassen</string>
   <string name="background_activity_summary_disabled">App darf nicht im Hintergrund laufen</string>
-  <string name="background_activity_summary_off">Hintergrundaktivität der App ist begrenzt, wenn sie nicht benutzt wird</string>
-  <string name="background_activity_summary_on">App kann im Hintergrund laufen, wenn sie nicht verwendet wird</string>
-  <string name="background_activity_summary_whitelisted">Hintergrundnutzung kann nicht eingeschränkt werden</string>
+  <string name="background_activity_summary_off">Hintergrundaktivität der App ist begrenzt, wenn sie nicht genutzt wird</string>
+  <string name="background_activity_summary_on">App kann im Hintergrund laufen, wenn sie nicht genutzt wird</string>
+  <string name="background_activity_summary_whitelisted">Hintergrundaktivität kann nicht eingeschränkt werden</string>
   <string name="background_activity_title">Hintergrundaktivität</string>
   <string name="background_activity_warning_dialog_text">Bei Einschränkung der Hintergrundaktivität für eine App kann es zu Fehlverhalten kommen</string>
   <string name="background_activity_warning_dialog_title">Hintergrundaktivität einschränken?</string>
@@ -615,7 +615,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="background_data_dialog_title">Hintergrunddaten ausschalten?</string>
   <string name="background_data_summary">Apps können jederzeit Daten synchronisieren, senden und empfangen</string>
   <string name="background_process_stop_description">Dies ist ein alter App-Prozess, der noch läuft, falls er wieder benötigt wird. In der Regel gibt es keinen Grund, ihn zu stoppen.</string>
-  <string name="background_restrict_app_dialog_message">Einschränkung des Hintergrund-Netzwerkzugriffs für diese App kann dazu führen, dass die App nicht mehr normal arbeitet, Nachrichten empfängt, Inhalte herunterlädt, etc. Trotzdem einschränken?</string>
+  <string name="background_restrict_app_dialog_message">Einschränkung des Hintergrund-Netzwerkzugriffs für diese App kann dazu führen, dass die App nicht mehr normal arbeitet, Nachrichten empfängt, Inhalte herunterlädt etc. Trotzdem einschränken?</string>
   <string name="background_traffic">Hintergrund-%s</string>
   <string name="backtouch_enable_title">Lautstärke auf der Rückseite anpassen</string>
   <string name="backup_configure_account_default_summary">Gesicherte Daten werden zurzeit in keinem Konto gespeichert</string>
@@ -1803,7 +1803,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="debug_input_category">Eingabe</string>
   <string name="debug_intent_sender_label">Debugansicht Sender</string>
   <string name="debug_layout">Layoutgrenzen einblenden</string>
-  <string name="debug_layout_summary">Clip-Grenzen, Ränder, etc. anzeigen</string>
+  <string name="debug_layout_summary">Clip-Grenzen, Ränder etc. anzeigen</string>
   <string name="debug_monitoring_category">Überwachung</string>
   <string name="debug_networking_category">Netzwerk</string>
   <string name="debug_view_attributes">Attributprüfungsansicht aktivieren</string>
@@ -2099,7 +2099,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="double_twist_for_camera_suggestion_title">Selfies schneller schießen</string>
   <string name="download_current_rom">Aktuellste Version von MIUI erhalten</string>
   <string name="downloading_description">Lädt herunter…</string>
-  <string name="doze_always_on_summary">Diese Funktion erhöht den Stromverbrauch des Systems. Sie wird ausgeschaltet, wenn Ihr Gerät längere Zeit dunkel bleibt oder wenn Einschränkungen für den Akkusparmodus gelten.</string>
+  <string name="doze_always_on_summary">Diese Funktion erhöht den Stromverbrauch des Systems. Sie wird ausgeschaltet, wenn Ihr Gerät längere Zeit dunkel bleibt oder wenn Einschränkungen für den Stromsparmodus gelten.</string>
   <string name="doze_always_on_title">Immer an</string>
   <string name="doze_summary">Bildschirm anschalten, wenn das Gerät hochgehoben wird oder Benachrichtigungen eingehen</string>
   <string name="doze_title">Umgebungsbildschirm</string>
@@ -3997,7 +3997,7 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="oldman_mode_entry_name">Vereinfachter Desktop</string>
   <string name="oldman_uninstalled_btn">Installieren</string>
   <string name="off">Aus</string>
-  <string name="oldman_uninstalled_des">Angeboten von der minimalen Ära, entwickelt für Desktops, die wie einfache aussehen.</string>
+  <string name="oldman_uninstalled_des">Der Lite-Modus befreit Sie von Unübersichtlichkeit  und hält Ihren Startbildschirm einfach und minimalistisch.</string>
   <string name="on">An</string>
   <string name="one_cacrt">Ein CA-Zertifikat</string>
   <string name="one_usercrt">Ein Benutzerzertifikat</string>
@@ -4015,7 +4015,7 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="open_optimization_option">Einschalten</string>
   <string name="open_privacy_thumbnail_blur_title">Vorschau wird bei ausgewählten Apps verwischt</string>
   <string name="open_sdcard_optimization_title">Pseudo-SD-Kartenoptimierung öffnen</string>
-  <string name="open_sdcard_optimization_warning_message">Ihr Gerät wird neu gestartet zur App dieser Änderung</string>
+  <string name="open_sdcard_optimization_warning_message">Ihr Gerät wird neu gestartet zur Anwendung dieser Änderung</string>
   <string name="open_wifi_connect_summary">Tippen zum Anzeigen von Details</string>
   <string name="open_wifi_connect_title">Verbinden mit %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Dieses Arbeitsprofil wird verwaltet von:</string>
@@ -5616,7 +5616,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="stop_upload_gps_log">GPS-Protokollierung beenden</string>
   <string name="stop_upload_modem_log">Modem-Protokollierung beenden</string>
   <string name="storage_detail_cached">Daten im Cache</string>
-  <string name="storage_detail_dialog_other">"Andere beinhaltet von Apps gespeicherte Dateien, Downloads, Androiddateien, etc.
+  <string name="storage_detail_dialog_other">"Andere beinhaltet von Apps gespeicherte Dateien, Downloads, Androiddateien etc.
 Um den gesamten Inhalt von ^1 anzuzeigen, tippen Sie auf Erkunden."</string>
 <string name="storage_detail_dialog_system">System enthält Dateien, die zur Ausführung der Android-Version %s verwendet werden</string>
   <string name="storage_detail_dialog_user">"^1 hat eventuell Musik, Videos, Apps oder andere Dateien gespeichert, die ^2 an Speicher belegen.
@@ -6098,15 +6098,15 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
   <string name="trans_intro_desc_4">Mi Mover verwendet WLAN, um Dateien zu übertragen. Daher können Sie sich während einer Übertragung auf keinem Gerät über WLAN mit dem Internet verbinden. Sie können jedoch weiterhin mobile Daten verwenden. Allerdings können sich einige neuere Geräte (z. B. Mi 6) während der Übertragung noch über WLAN mit dem Internet verbinden.</string>
   <string name="trans_intro_desc_4_market">Mi Mover verwendet WLAN, um Dateien zu übertragen. Daher können Sie sich während einer Übertragung auf keinem Gerät über WLAN mit dem Internet verbinden. Sie können jedoch weiterhin mobile Daten verwenden.</string>
   <string name="trans_intro_desc_5">Speicher auf alten Geräten wird für die Erstellung von Transferpaketen genutzt. Stellen Sie sicher, dass Sie mindestens 500 MB - 1 GB freier Speicher auf Ihrem alten Telefon haben, bevor Sie mit einer Übertragung beginnen.</string>
-  <string name="trans_intro_desc_6">Es gibt mehrere Gründe, warum das passieren kann: Kompatibilitätsprobleme mit System- und App-Versionen, Netzwerkprobleme, Kompatibilitätsprobleme speziell für ein bestimmtes Gerät, etc.</string>
-  <string name="trans_intro_desc_7">Einige App-Profile (E-Banking, Finanzen, etc.) sind aus Sicherheitsgründen mit einem bestimmten Gerät verbunden. Versuchen Sie, die App-Daten zu löschen oder die App auf einem neuen Gerät neu zu installieren.</string>
+  <string name="trans_intro_desc_6">Es gibt mehrere Gründe, warum das passieren kann: Kompatibilitätsprobleme mit System- und App-Versionen, Netzwerkprobleme, Kompatibilitätsprobleme speziell für ein bestimmtes Gerät etc.</string>
+  <string name="trans_intro_desc_7">Einige App-Profile (E-Banking, Finanzen etc.) sind aus Sicherheitsgründen mit einem bestimmten Gerät verbunden. Versuchen Sie, die App-Daten zu löschen oder die App auf einem neuen Gerät neu zu installieren.</string>
   <string name="trans_intro_desc_8">WeChat-App-Daten und Chatverlauf werden eventuell nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den WeChat-Einstellungen und melden Sie sich von Ihrem Konto ab, um mehr Chancen für eine erfolgreiche Übertragung zu erhalten.</string>
   <string name="trans_intro_desc_9_method_1_dec">Gehen Sie zur Startseite &gt; Tools &gt; Feedback</string>
   <string name="trans_intro_desc_9_method_1_title">1. Teilen Sie Ihr Feedback mit der \"Feedback\"-App.</string>
   <string name="trans_intro_desc_9_method_2_dec">Senden Sie Ihr Feedback an miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_2_title">2. Senden Sie uns eine E-Mail.</string>
   <string name="trans_intro_desc_9_method_3_title">3. Melden Sie Probleme in QQ.</string>
-  <string name="trans_intro_desc_account">Aus Sicherheitsgründen müssen Sie sich auf einem neuen Gerät erneut bei Ihren Konten (z. B. Mi Konto, Exchange, Google, etc.) anmelden.</string>
+  <string name="trans_intro_desc_account">Aus Sicherheitsgründen müssen Sie sich auf einem neuen Gerät erneut bei Ihren Konten (z. B. Mi Konto, Exchange, Google etc.) anmelden.</string>
   <string name="trans_intro_desc_multiapp">Mi Mover überträgt keine Dual App-Daten, um Konflikte zwischen Dateien zu vermeiden.</string>
   <string name="trans_intro_desc_multiuser">Mi Mover kann nicht auf Elemente im Zweitprofil zugreifen. Verschieben Sie Elemente ins Hauptprofil und starten Sie dort Mi Mover.</string>
   <string name="trans_intro_desc_new">Tippen Sie \"Ich bin der Empfänger\". Ein QR-Code wird generiert.</string>
