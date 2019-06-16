@@ -1140,7 +1140,7 @@ Abtastrate"</string>
   <string name="bootloader_apply_title">Wichtige Warnung</string>
   <string name="bootloader_device_bind_already">Erfolgreich hinzugefügt. Ihr Mi Konto ist jetzt mit diesem Gerät verknüpft.</string>
   <string name="bootloader_device_bind_exceed_sim_limit">Zu dieser SIM-Karte können keine weiteren Konten hinzugefügt werden</string>
-  <string name="bootloader_device_bind_fail">Überprüfung fehlgeschlagen, warten Sie einen Moment und versuchen Sie es noch einmal</string>
+  <string name="bootloader_device_bind_fail">Überprüfung fehlgeschlagen, warten Sie einen Moment und versuchen Sie es nochmal</string>
   <string name="bootloader_device_bind_msg">Gerät und Konto hinzufügen wird vorbereitet…</string>
   <string name="bootloader_device_bind_no_account">Melden Sie sich zuerst an Ihrem Mi Konto an</string>
   <string name="bootloader_device_bind_no_data_network">Schalten Sie WLAN aus und fügen Sie Ihr Konto und Gerät mit Hilfe mobiler Daten hinzu.</string>
@@ -1163,18 +1163,18 @@ Abtastrate"</string>
   <string name="bootloader_status">Mi Unlock Status</string>
   <string name="bootloader_status_locked">Gesperrt</string>
   <string name="bootloader_status_locked_info">Dieses Gerät ist gesperrt.</string>
-  <string name="bootloader_status_locked_summary">Das Telefon ist sicher.</string>
+  <string name="bootloader_status_locked_summary">Telefon ist sicher.</string>
   <string name="bootloader_status_privacy_dialog_message">Mi Unlock benötigt Zugang zu Ihrem Mi Konto, CPU ID, IMEI, IMSI, um normal zu arbeiten. Wir erheben, nutzen und verarbeiten Ihre Daten gemäß unseren %s. Einverstanden?</string>
   <string name="bootloader_status_privacy_dialog_no">Abbrechen</string>
   <string name="bootloader_status_privacy_dialog_title">Erforderliche Berechtigungen</string>
-  <string name="bootloader_status_privacy_dialog_url_text">《Datenschutzerklärung》</string>
+  <string name="bootloader_status_privacy_dialog_url_text">Datenschutzerklärung</string>
   <string name="bootloader_status_privacy_dialog_yes">Einverstanden</string>
   <string name="bootloader_status_summary">Prüfen, ob das Gerät gesperrt ist</string>
   <string name="bootloader_status_unlocked">Entsperrt</string>
   <string name="bootloader_status_unlocked_info">Dieses Gerät ist entsperrt</string>
   <string name="bootloader_summary">Flashen Sie Ihr Gerät über USB</string>
   <string name="bootloader_tips">Nachdem Sie Ihr Mi Konto hinzugefügt haben, melden Sie sich nicht ab, führen Sie einen Werksreset durch oder löschen Sie die Daten der System-Apps. Wenn Sie eine der oben genannten Maßnahmen ergreifen, fügen Sie Ihr Konto erneut hinzu, oder Sie können Ihr Gerät nicht entsperren.</string>
-  <string name="bootloader_tips_ok">Habe verstanden</string>
+  <string name="bootloader_tips_ok">Verstanden</string>
   <string name="breathing_light_color_menu_title">LED-Farbe</string>
   <string name="breathing_light_color_summary">LED-Farbe bei Eingang einer Benachrichtigung</string>
   <string name="breathing_light_freq_summary">Zeit zwischen dem Blinken der LED</string>
@@ -1184,7 +1184,7 @@ Abtastrate"</string>
   <string name="brightness_auto_adjust_on">Bildschirmhelligkeit wird an die Lichtverhältnisse angepasst</string>
   <string name="brightness_summary">Bildschirmhelligkeit anpassen</string>
   <string name="brightness_title">Helligkeit</string>
-  <string name="bt_aac_dialog_summary">"Das aktuelle Gerät unterstützt den AAC-Codec. AAC kann jedoch aufgrund von Kompatibilitätsproblemen den Sound nicht wiedergeben. Ihr Gerät hat automatisch auf SBC-Codec umgeschaltet.
+  <string name="bt_aac_dialog_summary">"Aktuelles Gerät unterstützt den AAC-Codec. AAC kann jedoch aufgrund von Kompatibilitätsproblemen den Sound nicht wiedergeben. Ihr Gerät hat automatisch auf SBC-Codec umgeschaltet.
 Sie können dies in den Einstellungen ändern."</string>
   <string name="bt_aac_dialog_title">Bluetooth-Verbindung</string>
   <string name="bt_aac_open_dialog_summary">"AAC kann aufgrund von Kompatibilitätsproblemen den Sound möglicherweise nicht wiedergeben.
@@ -1198,7 +1198,7 @@ Sie können diese Funktion unter Einstellungen/Bluetooth/Gekoppelte Geräte auss
   <string name="bt_ldac_declaration">Wenn ein Bluetooth-Gerät LDAC unterstützt, wird es standardmäßig verbunden. LDAC bietet ein hochwertiges Audioerlebnis, erhöht aber auch den Stromverbrauch. Während der Wiedergabe kann es aufgrund von Einschränkungen der Bluetooth-Hardware zu Problemen kommen.</string>
   <string name="bt_ldac_dialog_summary">"LDAC sorgt für ein hochwertiges Klangerlebnis und einen höheren Stromverbrauch.
 Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
-  <string name="bt_ldac_dialog_title">Das aktuelle Gerät unterstützt LDAC, das standardmäßig angeschlossen ist:</string>
+  <string name="bt_ldac_dialog_title">Aktuelles Gerät unterstützt LDAC, das standardmäßig angeschlossen ist:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC bietet ein hochwertiges Audioerlebnis, erhöht aber auch den Stromverbrauch. Während der Wiedergabe kann es aufgrund von Einschränkungen der Bluetooth-Hardware zu Problemen kommen.</string>
   <string name="bt_ldac_open_dialog_title">LDAC wirklich einschalten?</string>
   <string name="bt_ldac_pre_summary">Sorgen Sie für ein hochwertiges Klangerlebnis</string>
@@ -1256,7 +1256,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="call_volume_option_title">Anruflautstärke</string>
   <string name="calls_title">Anrufe</string>
   <string name="camera_double_tap_power_gesture_desc">Kamera schnell öffnen, ohne Bildschirm zu entsperren</string>
-  <string name="camera_double_tap_power_gesture_title">Einschalttaste zweimal betätigen, um die Kamera zu starten</string>
+  <string name="camera_double_tap_power_gesture_title">Power-Taste zweimal betätigen, um die Kamera zu starten</string>
   <string name="camera_front">Vorn %s</string>
   <string name="camera_gesture_desc">Kamera durch zweifaches Drehen des Handgelenkes öffnen</string>
   <string name="camera_gesture_title">Doppeldrehung, um Kamera zu starten</string>
@@ -1271,7 +1271,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="camera_key_action_shortcut_wake">Sperren/Entsperren</string>
   <string name="camera_key_action_title">Mi Taste</string>
   <string name="camera_key_action_toggle_title">Auslöser</string>
-  <string name="camera_laser_sensor_switch">Kameralasersensor</string>
+  <string name="camera_laser_sensor_switch">Kamera-Lasersensor</string>
   <string name="camera_rear">Hinten %s</string>
   <string name="camera_summary">Kameraeinstellungen (ohne Fotos)</string>
   <string name="cancel">Abbrechen</string>
@@ -1345,8 +1345,8 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="check_update">Updates suchen</string>
   <string name="checkbox_notification_same_as_incoming_call">Lautstärke von eingehenden Anrufen für Benachrichtigungen verwenden</string>
   <string name="checking_decryption">Wird überprüft</string>
-  <string name="checking_find_device_status">Gerätelokalisierungsstatus wird überprüft…</string>
-  <string name="checking_for_updates">Prüfe auf Updates…</string>
+  <string name="checking_find_device_status">Gerätelokalisierungsstatus prüfen…</string>
+  <string name="checking_for_updates">Auf Updates prüfen…</string>
   <string name="child_mode_settings">Kindersicherung</string>
   <string name="choose_a_card_to_reset">SIM-Karte zum Zurücksetzen auswählen</string>
   <string name="choose_assist_title">Assistent auswählen</string>
@@ -1377,7 +1377,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="close_aod">"Diese Funktion kann nicht mit \"Immer an-Modus\" kombiniert werden. Schalten Sie zuerst \"Immer an-Modus\" aus."</string>
   <string name="close_app">Aktuelle App schließen</string>
   <string name="close_demo_mode">Beenden</string>
-  <string name="close_fod">"Sie können Ihr Gerät nicht mit Ihrem Fingerabdruck entsperren, wenn der Bildschirm ausgeschaltet ist. Entsperrung mitFingerabdruck funktioniert nur, wenn der Bildschirm eingeschaltet ist."</string>
+  <string name="close_fod">"Sie können Ihr Gerät nicht mit Ihrem Fingerabdruck entsperren, wenn der Bildschirm ausgeschaltet ist. Entsperrung mit Fingerabdruck funktioniert nur, wenn der Bildschirm eingeschaltet ist."</string>
   <string name="close_fod_aod">"Sie können Ihr Gerät nicht mit Ihrem Fingerabdruck entsperren, wenn der Bildschirm ausgeschaltet ist. \"Immer an-Modus\" wird auch nicht verfügbar sein. Entsperrung mit Fingerabdruck funktioniert nur, wenn der Bildschirm eingeschaltet ist."</string>
   <string name="close_gesture">Mit Geste schließen</string>
   <string name="close_miui_optimization_title">MIUI Optimierung abschalten</string>
@@ -1479,7 +1479,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="condition_turn_off">Einschalten</string>
   <string name="condition_turn_on">Ausschalten</string>
   <string name="condition_work_summary">Apps, Hintergrundsynchronisation und andere Funktionen, die sich auf Ihr Arbeitsprofil beziehen, werden deaktiviert</string>
-  <string name="condition_work_title">Das Arbeitsprofil ist ausgeschaltet</string>
+  <string name="condition_work_title">Arbeitsprofil ist ausgeschaltet</string>
   <string name="condition_zen_title">Nicht-stören-Modus ist an</string>
   <string name="config_charging_function_name">Lädt</string>
   <string name="config_list_label">Netzwerk konfigurieren</string>
@@ -1503,7 +1503,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="confirm_fingerprint_icon_content_description">Benutzen Sie Ihren Fingerabdruck, um fortzufahren</string>
   <string name="confirm_fingerprint_msg">Legen Sie Ihren Finger auf den Fingerabdruckscanner</string>
   <string name="confirm_frp_credential_message">Ihr Gerät wurde auf Werkseinstellung zurückgesetzt. Sie können es mit Ihrem bisherigen Passwort entsperren.</string>
-  <string name="confirm_frp_credential_skip_txt">Benutze stattdessen ein Google-Konto</string>
+  <string name="confirm_frp_credential_skip_txt">Stattdessen Google Konto nutzen</string>
   <string name="confirm_frp_credential_title">Entsperren nach Zurücksetzen auf Werkseinstellung</string>
   <string name="confirm_new_backup_pw_prompt">Passwort für vollständige Sicherung erneut eingeben</string>
   <string name="confirm_password_with_fingerprint">Fingerabdruck verwenden</string>
@@ -1519,7 +1519,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="connect_wifi">Mit WLAN verbinden</string>
   <string name="connect_wifi_tip">Keine Netzwerkverbindung. Mit Netzwerk verbinden, um Elemente aus iCloud zu importieren.</string>
   <string name="connected">Verbunden</string>
-  <string name="connected_device_add_device_summary">Bluetooth wird eingeschaltet zum Koppeln</string>
+  <string name="connected_device_add_device_summary">Bluetooth wird zum Koppeln eingeschaltet</string>
   <string name="connected_device_add_device_title">Gerät hinzufügen</string>
   <string name="connected_device_available_call_title">Verfügbare Anrufgeräte</string>
   <string name="connected_device_available_media_title">Verfügbare Mediengeräte</string>
@@ -1586,7 +1586,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="crypt_keeper_confirm_title">Verschlüsseln?</string>
   <string name="crypt_keeper_content">Sie können Konten, Einstellungen, Apps und deren Daten, Medien und andere Dateien verschlüsseln</string>
   <string name="crypt_keeper_content_title">Gerät verschlüsseln</string>
-  <string name="crypt_keeper_data_corrupt_summary">Eingegebenes Passwort ist korrekt, aber leider sind Ihre Daten beschädigt. Um Ihr Telefon wieder nutzen zu können, müssen Sie es auf Werkszustand zurücksetzen. Wenn Sie Ihr Telefon nach dem Reset eingestellt haben, können Sie alle auf Ihr Google-Konto gesicherten Daten wiederherstellen.</string>
+  <string name="crypt_keeper_data_corrupt_summary">Eingegebenes Passwort ist korrekt, aber leider sind Ihre Daten beschädigt. Um Ihr Telefon wieder nutzen zu können, müssen Sie es auf Werkszustand zurücksetzen. Wenn Sie Ihr Telefon nach dem Reset eingestellt haben, können Sie alle auf Ihr Google Konto gesicherten Daten wiederherstellen.</string>
   <string name="crypt_keeper_data_corrupt_title">Entschlüsselung fehlgeschlagen</string>
   <string name="crypt_keeper_decrypt_methods">Nachdem Sie Ihr Telefon verschlüsselt haben, vorausgesetzt Sie haben eine Bildschirmsperre eingerichtet (Muster, numerische PIN oder Passwort), müssen Sie nach jedem Einschalten den Bildschirm entsperren, um das Telefon zu entschlüsseln. Die einzige andere Möglichkeit zu entschlüsseln ist, das Gerät auf Werkseinstellungen zurückzusetzen und dabei alle Ihre Daten zu löschen.</string>
   <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Wenn Sie Ihr Telefon verschlüsseln, müssen Sie Ihr Passwort, PIN oder Muster nach dem Neustart des Gerätes jedes Mal eingeben, um es zu entschlüsseln.</string>
@@ -1595,12 +1595,12 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
 Die Verschlüsselung dauert mindestens eine Stunde. Vergewissern Sie sich zu Beginn, dass Ihr Akku vollständig geladen ist, und lassen Sie Ihr Gerät angeschlossen, bis die Verschlüsselung abgeschlossen ist. Eine Unterbrechung des Vorgangs kann zu teilweisem oder vollständigem Datenverlust führen."</string>
   <string name="crypt_keeper_dialog_need_password_message">Sie müssen eine PIN oder ein Passwort für die Bildschirmsperre festlegen, bevor Sie die Verschlüsselung starten können.</string>
   <string name="crypt_keeper_dialog_need_password_title">Keine PIN oder kein Passwort für Bildschirmsperre</string>
-  <string name="crypt_keeper_encrypt_summary">Sie müssen ein numerisches oder ein gemischtes Kennwort eingeben, um Ihr Mobiltelefon jedes Mal beim Start zu entsperren</string>
+  <string name="crypt_keeper_encrypt_summary">Sie müssen ein numerisches oder ein gemischtes Kennwort eingeben, um Ihr Mobiltelefon jedes Mal beim Start zu entsperren.</string>
   <string name="crypt_keeper_encrypt_title">Gerät verschlüsseln</string>
   <string name="crypt_keeper_encrypted_summary">Verschlüsselt</string>
   <string name="crypt_keeper_enter_password">Passwort eingeben</string>
-  <string name="crypt_keeper_failed_summary">"Die Verschlüsselung wurde unterbrochen und kann nicht abgeschlossen werden. Daher ist der Zugriff auf die Daten des Geräts nicht mehr möglich.
-Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellungen zurücksetzen. Wenn Sie Ihr Gerät nach dem Zurücksetzen wieder einrichten, können Sie gegebenenfalls gesicherte Daten von Ihrem Google-Konto wiederherstellen."</string>
+  <string name="crypt_keeper_failed_summary">"Verschlüsselung wurde unterbrochen und wird nicht abgeschlossen. Daher ist der Zugriff auf die Daten des Geräts nicht mehr möglich.
+Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellungen zurücksetzen. Wenn Sie Ihr Gerät nach dem Zurücksetzen wieder einrichten, können Sie ggf. gesicherte Daten von Ihrem Google Konto wiederherstellen."</string>
   <string name="crypt_keeper_failed_title">Verschlüsselung fehlgeschlagen</string>
   <string name="crypt_keeper_final_desc">Dieser Vorgang ist nicht umkehrbar und jede Unterbrechung ist mit einem Datenverlust verbunden. Die Verschlüsselung dauert mindestens eine Stunde. In dieser Zeit wird das Telefon mehrfach neu gestartet.</string>
   <string name="crypt_keeper_force_power_cycle">Um Ihr Gerät zu entsperren, schalten Sie es aus und wieder ein</string>
@@ -2093,7 +2093,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="done_button">Fertig</string>
   <string name="double_click_power_key">Power-Taste zweimal drücken</string>
   <string name="double_tap_power_for_camera_suggestion_title">Kamera schnell öffnen</string>
-  <string name="double_tap_power_for_camera_summary">Drücken Sie zweimal auf Einschalttaste, um Kamera schnell zu öffnen. Funktioniert von jedem Bildschirm aus.</string>
+  <string name="double_tap_power_for_camera_summary">Drücken Sie zweimal auf Power-Taste, um Kamera schnell zu öffnen. Funktioniert von jedem Bildschirm aus.</string>
   <string name="double_tap_power_for_camera_title">Zur Kamera springen</string>
   <string name="double_twist_for_camera_mode_title">Kamera wechseln</string>
   <string name="double_twist_for_camera_suggestion_title">Selfies schneller schießen</string>
