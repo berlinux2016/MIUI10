@@ -1622,6 +1622,15 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="pc_activity_title">Akku optimieren</string>
   <string name="pc_install_manager">Installation via USB</string>
   <string name="pc_main_activity_back">Zurück</string>
+  <string name="pc_main_battery_text_day">%1$s Min hinzugefügt, ca.  %2$s Tg verbleibend</string>
+  <string name="pc_main_battery_text_day_hour">%1$s Min hinzugefügt, ca. %2$s Tg %3$s Std verbleibend</string>
+  <string name="pc_main_battery_text_hour">%1$s Min hinzugefügt, ca. %2$s Std verbleibend</string>
+  <string name="pc_main_battery_text_hour_minute">%1$s Min hinzugefügt, ca. %2$s Std %3$s Min verbleibend</string>
+  <string name="pc_main_battery_text_minute">%1$s Min hinzugefügt, ca. %2$s Min verbleibend</string>
+  <string name="pc_main_power_manager_day_hour">%1$s Tg %2$s Std bis voll geladen</string>
+  <string name="pc_main_power_manager_hour_minute">%1$s Std %2$s Min bis voll geladen</string>
+  <string name="pc_main_sub_battery_text_day_hour">%1$s Tg %2$s Std verbleibend</string>
+  <string name="pc_main_sub_battery_text_hour_minute">%1$s Std %2$s Min verbleibend</string>
   <string name="pc_settings_title">Einstellungen Akku-Optimierung</string>
   <string name="pc_to_phone_install">Installation von %s via USB blockiert</string>
   <string name="per_month_pkg_traffic_settings">Datenlimit festlegen</string>
@@ -1663,6 +1672,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="power_center_dialog_msg_top">Wenn der Stromsparmodus eingeschaltet ist, führt MIUI die folgenden Optimierungen durch:</string>
   <string name="power_center_hints_scan_danger_result">Akkuprobleme jetzt beheben</string>
   <string name="power_center_list_item_auto_brightness">Bildschirmhelligkeit autom. anpassen</string>
+  <string name="power_center_list_item_battery_status_time">Std</string>
   <string name="power_center_list_item_close_bluetooth">Bluetooth ausschalten</string>
   <string name="power_center_list_item_deep_save_title">Erweiterte Einstellungen</string>
   <string name="power_center_list_item_set_lockscreen_time">Bildschirm nach 30 Sekunden Inaktivität in den Ruhezustand versetzen</string>
@@ -1698,6 +1708,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="power_dialog_super_save_msg">"Ultra-Stromsparen schränkt die meisten Strom verbrauchenden Funktionen ein und verringert die Leistung Ihres Geräts, um die Grundfunktionen (z.B. Anrufe, SMS und Verbindungen zum Netzwerk) so lange wie möglich verfügbar zu halten. Ultra-Stromsparen einschalten?"</string>
   <string name="power_dialog_super_save_title">Ultra-Stromsparen</string>
   <string name="power_idle">Ruhezustand</string>
+  <string name="power_main_battery_last_day_hour">%1$s Tg %2$s Std verbleibend</string>
+  <string name="power_main_battery_last_hour_minute">%1$s Std %2$s Min verbleibend</string>
   <string name="power_optimize_auto_catagory_title">Akkuprobleme</string>
   <string name="power_optimize_battery_save_idea">Akku optimieren</string>
   <string name="power_optimize_battery_save_more">Mehr</string>
@@ -2188,6 +2200,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="summary_cloud_space_full">Holen Sie sich mehr Speicherplatz und Zugang zu weiteren Funktionen</string>
   <string name="summary_cmcc_app_check">Einige Apps konnten nicht geprüft werden</string>
   <string name="summary_consume_power">Erhitzungsprobleme gefunden, sie können die Lebensdauer des Akkus beeinflussen</string>
+  <string name="summary_dark_mode">Einige Seiten werden wegen der Dienste Dritter schwarz dargestellt</string>
   <string name="summary_data_flow">Kontrolle der mobilen Datennutzung zur Vermeidung zusätzlicher Gebühren</string>
   <string name="summary_default_app">%s ist nicht als Standardsystemapp gesetzt</string>
   <string name="summary_dev">Malware vermeiden und personenbezogene Daten schützen</string>
@@ -2344,6 +2357,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="title_cmcc_app_check">Verifizierung unvollständig</string>
   <string name="title_consume_power">Akkuprobleme gefunden</string>
   <string name="title_consume_power_rank">App-Stromverbrauch</string>
+  <string name="title_dark_mode">Einige Elemente werden nicht korrekt angezeigt</string>
   <string name="title_data_flow">Datenverbrauchskontrolle</string>
   <string name="title_data_flow_monitor">Datenverbrauchsüberwachung ist aktiviert</string>
   <string name="title_dev_model_off">Entwickleroptionen sind ausgeschaltet</string>
@@ -2364,6 +2378,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="title_garbage_lib">Mülldefinitionen aktualisieren</string>
   <string name="title_install_virus_no">Installationsmonitor aus</string>
   <string name="title_install_virus_yes">Installationsmonitor an</string>
+  <string name="title_like">Gefällt mir</string>
   <string name="title_limit_traffic_per_day">Tägliches Datenlimit</string>
   <string name="title_mifi_insurance">Erweiterte Garantie</string>
   <string name="title_miui_update">Update vorhanden</string>
@@ -2395,6 +2410,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="toast_add_virus_white_list_no_need_repeat">Diese Ausnahme existiert bereits</string>
   <string name="toast_auto_traffic_correct">Datenverbrauch wird automatisch angepasst</string>
   <string name="toast_cleaner_cloudscan">Cleaner nutzt Onlinedefinitionen</string>
+  <string name="toast_dark_mode_fixed">Erfolgreich behoben. Diese Seite verlassen, um Änderungen zu übernehmen.</string>
   <string name="toast_flow_notification">Datenverbrauchsbenachrichtigung aktiviert</string>
   <string name="toast_garbage_lib">Automatische Updates für Cleaner aktiviert</string>
   <string name="toast_keyword_blank">Geben Sie ein Stichwort ein</string>
@@ -2421,7 +2437,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="traffic_alert_auto_modify_package_summary">Datenpakete automatisch anpassen, je nach Anbieterinfo</string>
   <string name="traffic_config_alert_auto_modify">Datentarif automatisch aktualisieren</string>
   <string name="traffic_config_alert_body">"Ihr Datentarif zeigt dies: %s.
-Wollen Sie das übernehmen?"</string>
+Wollen Sie es übernehmen?"</string>
   <string name="traffic_config_alert_body_extra">Sie kauften diesen Monat %1$s zusätzliches Datenvolumen. Dies unterscheidet sich vom %2$s, was Sie manuell eingerichtet haben.</string>
   <string name="traffic_config_alert_body_extra_notset">Sie kauften diesen Monat %s zusätzliches Datenvolumen. Dieses ist nicht im monatlichen Limit enthalten, welches Sie manuell eingerichtet haben.</string>
   <string name="traffic_config_alert_body_leisure">Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom manuell eingestellten %2$s.</string>
