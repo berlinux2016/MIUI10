@@ -289,6 +289,9 @@
   <string name="confirm_send_message_with_no_body">Diese Nachricht ist leer</string>
   <string name="confirm_send_message_with_no_subject">Diese Nachricht hat keinen Betreff</string>
   <string name="confirm_send_title">Nachricht senden?</string>
+  <string name="contact_add_options">Zu Kontakten hinzufügen</string>
+  <string name="contact_add_options_details1">Alle</string>
+  <string name="contact_add_options_details2">Nur Empfänger</string>
   <string name="contact_edit_set_black_list_filtering">Filtern…</string>
   <string name="contact_edit_set_black_list_from">Alle E-Mails von diesem Absender in den Junkordner verschieben</string>
   <string name="contact_edit_set_black_list_receive">Alle E-Mails mit diesem Empfänger in den Junkordner verschieben (nur neue E-Mails)</string>
@@ -428,8 +431,8 @@
   <string name="failed">Bild kann nicht geladen werden</string>
   <string name="failed_parse_eml_file">EML-Datei konnte nicht geöffnet werden, erneut versuchen.</string>
   <string name="failed_read_phone_state_permission">Zugriff auf Gerätestatus erlauben</string>
-  <string name="failed_read_write_calendar_permission">Zugriff zum Kalender erlauben</string>
-  <string name="failed_read_write_contacts_permission">Zugriff auf Kontakte erlauben</string>
+  <string name="failed_read_write_calendar_permission">Zugriff auf Kalender ist eingeschränkt</string>
+  <string name="failed_read_write_contacts_permission">Zugriff auf Kontakte ist eingeschränkt</string>
   <string name="feedback">Feedback senden</string>
   <string name="feedback_body">Nachricht</string>
   <string name="feedback_sent">Danke für Ihr Feedback</string>
@@ -492,6 +495,7 @@
   <string name="forward_download_failed_title">Anhang nicht weitergeleitet</string>
   <string name="free_period_text">Zinsfreie Laufzeit</string>
   <string name="from_heading">"Von: "</string>
+  <string name="get_oauth_code">Code abrufen</string>
   <string name="general_preference_confirm_delete_label">Vor dem Löschen bestätigen</string>
   <string name="general_preference_confirm_send_label">Vor dem Senden bestätigen</string>
   <string name="general_preference_str_auto_translation">Schnelle Übersetzung</string>
@@ -516,6 +520,7 @@
   <string name="help_and_info">Hilfe</string>
   <string name="help_config">Selbstkonfiguration</string>
   <string name="help_me_get_qq_auth">Helfen Sie mir, den QQ-Autorisierungscode zu erhalten.</string>
+  <string name="help_weixin_title">"Wenn Sie Fragen haben, können Sie uns gerne eine Nachricht in unserem offiziellen WeChat-Konto hinterlassen: "</string>
   <string name="hide_atts_remaining">%1$d Anhänge ausblenden</string>
   <string name="hide_elided">▼ Zitierten Text ausblenden</string>
   <string name="hide_password">Passwort verbergen</string>
@@ -554,7 +559,7 @@
   <string name="login_err_message">Das von Ihnen eingegebene Passwort ist falsch. Eventuell benötigen Sie auch einen Verifizierungscode zum Anmelden. Wenn Sie Ihr Passwort zurücksetzen müssen, besuchen Sie https://email.163.com/, um die verfügbaren Optionen zu sehen.</string>
   <string name="login_failed_ticker">Anmeldung an %s erfolglos</string>
   <string name="login_failed_title">Anmeldung nicht möglich</string>
-  <string name="login_mail">E-Mail anmelden</string>
+  <string name="login_mail">E-Mit QQ-Passwort/Authentifikator/Verifizierungscode anmelden</string>
   <string name="login_support_tip_text">Unterstützt alle gängigen E-Mailanbieter</string>
   <string name="long_press_to_select_tip">Berühren &amp; halten, um eine Unterhaltung zu wählen und dann tippen, um weitere auszuwählen</string>
   <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaang</string>
@@ -631,6 +636,8 @@
   <string name="message_invite_title">Kalendereinladung</string>
   <string name="message_saved">Nachricht als Entwurf gespeichert</string>
   <string name="message_view_attachment_background_load">Anhänge in Ihrer weitergeleiteten Nachricht werden vor dem Versand heruntergeladen</string>
+  <string name="mi_sync_erroe_toast">"Netzwerkfehler aufgetreten: "</string>
+  <string name="mi_sync_erroe_toast_other">"Serverfehler aufgetreten: "</string>
   <string name="mibill_privacy_policy_button1">Später</string>
   <string name="mibill_privacy_policy_button2">Einverstanden</string>
   <string name="mibill_privacy_policy_description">Erlauben Sie Mi Wallet die automatische Analyse und Verwaltung Ihrer Rechnungen. Diese Funktion ist standardmäßig für arbeitsbezogene E-Mailadressen ausgeschaltet.</string>
@@ -665,9 +672,11 @@
   <string name="no_filtrable_email_account">Keine Konten zum Filtern</string>
   <string name="no_mails">Keine E-Mail</string>
   <string name="no_matched_attachment">Keine Ergebnisse</string>
+  <string name="no_more_mail">Keine Nachrichten mehr</string>
   <string name="no_recognize_describe">"E-Mails mit Tickets oder Buchungen nicht gefunden.
 Versuchen Sie es einen anderen Posteingang."</string>
   <string name="no_remind">Keine Erinnerungen</string>
+  <string name="no_search_results">Keine Ergebnisse gefunden</string>
   <string name="not_subject">(Kein Betreff)</string>
   <string name="not_synced_title">Konto nicht synchronisiert</string>
   <string name="note_text">Möglicherweise können durch das Netzwerk von China Mobile oder durch SMS-Überprüfungen zusätzliche Kosten entstehen</string>
@@ -816,6 +825,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="prompt_title">Nachfragen</string>
   <string name="protocol_setting_toast">Nach der Zustimmung tippen Sie in die obere rechte Ecke, um zu den Einstellungen zu gelangen</string>
+  <string name="pull_load_more">Hochziehen, um mehr zu laden</string>
   <string name="pull_to_refresh">Zum Aktualisieren nach unten ziehen</string>
   <string name="pull_up_to_load_more">Hochziehen, um weitere zu laden</string>
   <string name="push_wps_better_confirm_exit">Nicht jetzt</string>
@@ -911,7 +921,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="recognize_ticket_train_return">Rückkehr</string>
   <string name="recognize_ticket_train_user_name">Passagier: %1$s</string>
   <string name="recognize_title">Reiseinformationen</string>
-  <string name="recommend_protocal">Empfehlungsprotokoll</string>
+  <string name="recommend_protocal">Empfehlungen zum Nutzungsprotokoll</string>
   <string name="reduce_the_receiving_frequencye_summary">E-Mails werden bei eingeschaltetem \"Nicht stören\"-Modus seltener synchronisiert</string>
   <string name="reduce_the_receiving_frequencye_title">Seltener synchronisieren</string>
   <string name="refresh">Aktualisieren</string>
@@ -920,6 +930,8 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="release_to_refresh">Zum Aktualisieren loslassen</string>
   <string name="remind_attachment_size_limit">E-Mails sollten kleiner als %s MB sein</string>
   <string name="remote_search_result">%s E-Mails auf dem Server gefunden</string>
+  <string name="remote_search_body_too_large_prompt">"Diese E-Mail ist zu lang. Warten Sie, bis sie vollständig synchronisiert ist,
+oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
   <string name="remove_account">Konto entfernen</string>
   <string name="remove_account_confirm">Konto \"%1$s\" wird aus E-Mail entfernt</string>
   <string name="remove_account_confirm_title">Konto entfernen</string>
@@ -951,6 +963,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="sdcard_cannot_use">SD-Karte kann nicht verwendet werden</string>
   <string name="search_bar_text">Absender oder Kontakte suchen</string>
   <string name="search_hint">In E-Mails suchen</string>
+  <string name="search_remote_again">Netzwerk nicht verfügbar, auf Wiederholen klicken</string>
   <string name="search_result">"Ergebnis "</string>
   <string name="search_tabs_name_all">Alle</string>
   <string name="search_tabs_name_recipient">Empfänger</string>
@@ -1024,6 +1037,7 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="sync_contacts_req_per_ignored">E-Mail den Zugriff auf Ihre Kontakte zum Synchronisieren erlauben</string>
   <string name="sync_error">Synchronisation nicht möglich</string>
   <string name="sync_error_message">Ihr Telefon verfügt nicht über genügend Speicherplatz für die Synchronisation</string>
+  <string name="sync_failed_mi_authority_view_detail">Details anzeigen</string>
   <string name="syncing_wait_restart">Erneut versuchen</string>
   <string name="syncing_wait_restart_title">Servertimeout</string>
   <string name="system_account_create_failed">Konto konnte nicht erstellt werden. Bitte erneut versuchen.</string>
@@ -1051,7 +1065,8 @@ Versuchen Sie es einen anderen Posteingang."</string>
   <string name="toast_bar_no_connection_network">Keine Internetverbindung</string>
   <string name="toast_bar_open_gmail_synchronization">Keine Verbindung zu Google Mail. Gmail-Proxy einschalten</string>
   <string name="toast_bar_send_fail_remind">E-Mailsenden fehlgeschlagen. E-Mail wurde im Ordner \"Postausgang\" gespeichert</string>
-  <string name="toast_bar_sync_failed_mi_authority">Synchronisation ist fehlgeschlagen, bitte versuchen Sie es später. Um sich bei dem neuen Gerät anzumelden, autorisieren Sie das Gerät bitte über das Kontozentrum oder die SMS-Eingabeaufforderung.</string>
+  <string name="toast_bar_sync_failed_mi_authority">Synchronisation fehlgeschlagen. Ein bis zwei Minuten warten und erneut versuchen. Details anzeigen.
+(Wenn Sie ein nicht autorisiertes Gerät verwenden, verbinden Sie sich mit dem Intranet oder verwenden Sie einen Verifizierungscode.)"</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Um Kalenderinfos und Kontakte zu synchronisieren, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
   <string name="toastbar_calendar_permission_switch_close">Um Kalendererinnerungen zu erhalten, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
   <string name="toastbar_contacts_permission_switch_close">Um Kontakte hinzuzufügen, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
@@ -1083,8 +1098,8 @@ Konto entfernen?"</string>
   <string name="unsent_messages_in_outbox">%1$s nicht gesendete Nachricht(en) in %2$s</string>
   <string name="unzip_file_failed">Datei konnte nicht entpackt werden</string>
   <string name="update_date_format_templete">HH:mm dd.MM.yyyy</string>
-  <string name="update_domain_summary">Aktualisieren der Domainliste und Konfiguration</string>
-  <string name="update_domain_title">Domain aktualisieren</string>
+  <string name="update_domain_summary">Liste der verfügbaren Domänen und Konfigurationen aktualisieren</string>
+  <string name="update_domain_title">Domäneneinstellungen aktualisieren</string>
   <string name="update_to_wps_mail">Mehr Funktionen mit WPS genießen</string>
   <string name="updated_at">Letzte Aktualisierung: %1$s</string>
   <string name="upload_log">Senden</string>
