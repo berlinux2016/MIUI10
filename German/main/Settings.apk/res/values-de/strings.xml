@@ -1175,8 +1175,11 @@ Abtastrate"</string>
   <string name="bootloader_status_unlocked">Entsperrt</string>
   <string name="bootloader_status_unlocked_info">Dieses Gerät ist entsperrt</string>
   <string name="bootloader_summary">Flashen Sie Ihr Gerät über USB</string>
-  <string name="bootloader_tips">Nachdem Sie Ihr Mi Konto hinzugefügt haben, melden Sie sich nicht ab, führen Sie einen Werksreset durch oder löschen Sie die Daten der System-Apps. Wenn Sie eine der oben genannten Maßnahmen ergreifen, fügen Sie Ihr Konto erneut hinzu, oder Sie können Ihr Gerät nicht entsperren.</string>
+  <string name="bootloader_tips">%s
+
+Wenn Sie bereits eines der oben genannten Dinge getan haben, fügen Sie Ihr Mi-Konto erneut hinzu; andernfalls können Sie Ihr Gerät nicht entsperren.</string>
   <string name="bootloader_tips_ok">Verstanden</string>
+  <string name="bootloader_tips_warning">Netzwerkverbindung nicht trennen, von Ihrem Mi-Konto nicht abmelden, kein Werksreset durchführen oder Systemdaten löschen.</string>
   <string name="breathing_light_color_menu_title">LED-Farbe</string>
   <string name="breathing_light_color_summary">LED-Farbe bei Eingang einer Benachrichtigung</string>
   <string name="breathing_light_freq_summary">Zeit zwischen dem Blinken der LED</string>
@@ -1992,6 +1995,7 @@ Wenn es so bleibt, muss die App evtl. deinstalliert werden, um die Akkuleistung 
   <string name="disabled_dependent_setting_summary">Abhängig von anderer Einstellung</string>
   <string name="disabled_for_user_setting_summary">Einstellung kann vom aktuellen Benutzer nicht geändert werden</string>
   <string name="disabled_low_ram_device">Diese Funktion ist auf diesem Gerät nicht verfügbar</string>
+  <string name="disallow_lock_screen_summary">Benachrichtigungen in \"App-Benachrichtigungen\" zuerst erlauben</string>
   <string name="disconnect">Trennen</string>
   <string name="disconnected">Getrennt</string>
   <string name="display_auto_rotate_rotate">An</string>
