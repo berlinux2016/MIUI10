@@ -346,19 +346,22 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Bedienungsh
   <string name="animator_duration_scale_title">Animationsdauerskala</string>
   <string name="another_migration_already_in_progress">Eine andere Migration wird bereits ausgeführt</string>
   <string name="anti_spam">Sperrliste</string>
-  <string name="aod_mode_bg">Hintergrund</string>
+  <string name="aod_and_lock_screen_settings_title">Umgebungsanzeige &amp; Sperrbildschirm</string>
   <string name="aod_clock_style_title">Uhren-Stil</string>
   <string name="aod_close_color_inversion">Diese Funktion kann nicht mit der Farbumkehrung kombiniert werden. Deaktivieren Sie diese zuerst.</string>
   <string name="aod_got_it">Verstanden</string>
+  <string name="aod_mode_bg">Hintergrund</string>
   <string name="aod_mode_clock">Uhr</string>
   <string name="aod_mode_style">Uhrstil und Hintergrund</string>
   <string name="aod_mode_summary">Diese Funktion erhöht den Stromverbrauch des Systems. Sie wird ausgeschaltet, wenn Ihr Gerät längere Zeit dunkel bleibt oder wenn Einschränkungen für den Stromsparmodus gelten.</string>
   <string name="aod_mode_time_summary">Planen Sie die Zeit ein, zu der Ihr Gerät in den Immer-An-Modus wechseln soll</string>
   <string name="aod_mode_time_title">Zeitplan</string>
   <string name="aod_mode_title">Immer-An-Modus</string>
-  <string name="aod_sample_date">Dienstag, 10. Mai</string>
   <string name="aod_mode_turn_off">Aus</string>
   <string name="aod_mode_turn_on">Ein</string>
+  <string name="aod_sample_date">Dienstag, 10. Mai</string>
+  <string name="aod_settings_category_name">Umgebungsanzeige</string>
+  <string name="aod_settings_title">Umgebungsanzeige</string>
   <string name="aod_to_close">Ausschalten</string>
   <string name="apn_auth_type">Authentifizierungstyp</string>
   <string name="apn_auth_type_none">Keine</string>
@@ -2713,6 +2716,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="home_app_uninstall_button">Diese App entfernen</string>
   <string name="home_key">Startbildschirm</string>
   <string name="home_settings">Startbildschirm</string>
+  <string name="home_title">Startbildschirm</string>
   <string name="home_work_profile_not_supported">Unterstützt keine Arbeitsprofile</string>
   <string name="hsa_code_null">Bestätigungscode darf nicht leer sein</string>
   <string name="hsa_input_hint">Bestätigungscode eingeben</string>
@@ -2857,6 +2861,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="key_position_cat">Tastenpositionen</string>
   <string name="key_settings">Tasten &amp; Gesten</string>
   <string name="key_settings_title">Tasten &amp; Gesten</string>
+  <string name="key_shortcut_settings_title">Tastenkürzel</string>
   <string name="key_system_control">Systemsteuerung</string>
   <string name="keyboard_and_input_methods_category">Tastatur</string>
   <string name="keyboard_assistance_category">Tastaturhilfe</string>
@@ -3126,6 +3131,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="lock_profile_wipe_warning_content_pattern">Wenn Sie bei diesem Versuch ein falsches Muster eingeben, werden Ihr Profil und zugehörige Daten auf diesem Gerät gelöscht</string>
   <string name="lock_profile_wipe_warning_content_pin">Wenn Sie bei diesem Versuch eine falsche PIN eingeben, werden Ihr Profil und zugehörige Daten auf diesem Gerät gelöscht</string>
   <string name="lock_profile_wipe_warning_title">Letzter Versuch</string>
+  <string name="lock_screen_display_category_name">Sperrbildschirm</string>
   <string name="lock_screen_intro_skip_dialog_text">Gerätschutzfunktionen wurden nicht aktiviert. Sie können andere nicht daran hindern, Ihr Telefon zu verwenden, wenn es verloren geht oder gestohlen wird.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Gerätschutzfunktionen wurden nicht aktiviert. Sie können andere nicht daran hindern, Ihr Telefon zu verwenden, wenn es verloren geht, gestohlen oder zurückgesetzt wird.</string>
   <string name="lock_screen_intro_skip_title">Bildschirmsperre überspringen?</string>
@@ -3529,6 +3535,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="miui_sos_contacts_category">Notfallkontakte</string>
   <string name="miui_sos_emergency_contacts">Notfallkontakte</string>
   <string name="miui_sos_emergency_contacts_quantity">%d hinzugefügt</string>
+  <string name="miui_sos_emergency_delete">Löschen</string>
   <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) hat bereits akzeptiert</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1s hat bereits akzeptiert</string>
   <string name="miui_sos_emergency_failed_sms" formatted="false">%1s (%2s) SOS-Nachricht senden fehlgeschlagen</string>
@@ -3584,6 +3591,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="model_summary">Modell: %1$s</string>
   <string name="modify_instruction_password_settings">Passwort festlegen</string>
   <string name="modify_privacy_password">Passwort ändern</string>
+  <string name="more_account_settings_title">Andere Konten</string>
   <string name="more_dangerous_option_hint">Hochrisikofunktionen wie \"%1$s\" sind aktiviert. Tippen Sie hier, um die Einstellungen zu ändern.</string>
   <string name="more_installed_services_title">Weitere heruntergeladene Dienste</string>
   <string name="move_app">Verschieben</string>
@@ -3840,6 +3848,7 @@ Betriebssystem auswählen:"</string>
   <string name="normal_smartcover_title">Blickdichte Frontabdeckung</string>
   <string name="not_battery_optimizing">Nicht mit Akku-Optimierung</string>
   <string name="not_installed">Nicht installiert</string>
+  <string name="notch_and_status_bar_settings">Notch &amp; Statusleiste</string>
   <string name="notch_force_black_desc">Einschalten, um den Bereich um die Notch abzudunkeln</string>
   <string name="notch_force_black_title">Notch verbergen</string>
   <string name="note_title">Notizen</string>
@@ -3888,6 +3897,7 @@ Betriebssystem auswählen:"</string>
   <string name="notification_badging_title">Benachrichtigungs-Dots zulassen</string>
   <string name="notification_breathing_light_color_title">LED-Anzeige bei Benachrichtigung</string>
   <string name="notification_breathing_light_freq_title">Frequenz pulsierende Benachrichtigung</string>
+  <string name="notification_center">Benachrichtigungen</string>
   <string name="notification_channel_badge_title">Benachrichtigungs-Dot anzeigen</string>
   <string name="notification_channel_sound_title">Ton</string>
   <string name="notification_channel_summary_default">Hohe Wichtigkeit</string>
@@ -4059,6 +4069,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="other_settings_sync_settings">Synchronisieren</string>
   <string name="other_sound_category_preference_title">Andere Töne und Vibrationen</string>
   <string name="other_sound_settings">Andere Töne</string>
+  <string name="other_sound_settings_title">Weitere Einstellungen</string>
   <string name="others">Andere</string>
   <string name="overlay_display_devices_title">Sekundäre Displays simulieren</string>
   <string name="overlay_settings">Überlagerung von Apps</string>
@@ -4119,6 +4130,8 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="passpoint_content">%1$s Zugangsdaten</string>
   <string name="passpoint_label">Gespeichert via</string>
   <string name="password">Passwort</string>
+  <string name="password_security_settings_title">Passwörter &amp; Sicherheit</string>
+  <string name="password_unlock_title">Passwort</string>
   <string name="passwordIncorrect">Eingegebenes Passwort ist falsch</string>
   <string name="password_entrance_title">Bildschirmsperre festlegen</string>
   <string name="password_guard">Passwort</string>
@@ -4432,6 +4445,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="privacy_password_use_finger_success">Eingeschaltet</string>
   <string name="privacy_password_visible_pattern">Muster anzeigen</string>
   <string name="privacy_protect_title">Datenschutz</string>
+  <string name="privacy_protection_title">Datenschutz</string>
   <string name="privacy_relative">Datenschutzrelevant</string>
   <string name="privacy_settings">Sichern &amp; Wiederherstellen</string>
   <string name="privacy_settings_title">Sichern &amp; Wiederherstellen</string>
@@ -4496,6 +4510,8 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="qtifeedback_settings_title">Hardware-Feedback</string>
   <string name="query_hint_text">Sucheinstellungen</string>
   <string name="quick_settings_developer_tiles">Kacheln für Entwickler in den Schnelleinstellungen</string>
+  <string name="quick_settings_under_keyguard_summary">Zugriff auf Schnelleinstellungen ermöglichen, während das Gerät gesperrt ist</string>
+  <string name="quick_settings_under_keyguard_title">Zugriff auf Schnelleinstellungen</string>
   <string name="quiet">Nicht stören</string>
   <string name="quiet_group">Nicht stören</string>
   <string name="quiet_important_interruptions_mode">Nur Ausnahmen zulassen</string>
@@ -4583,6 +4599,7 @@ UT Interface: %5$s"</string>
   <string name="recommend_item_3">Powerbank</string>
   <string name="recommend_item_4">Kopfhörer</string>
   <string name="recommend_item_title">Empfehlungen</string>
+  <string name="recommend_tip">Brauchen Sie weitere Einstellungen?</string>
   <string name="recompute_size">Größe wird neuberechnet…</string>
   <string name="reconnect">Erneut verbinden</string>
   <string name="refresh">Aktualisieren</string>
@@ -4832,6 +4849,7 @@ Mindestens %s freigeben."</string>
   <string name="screen_resolution_title">Bildschirmauflösung</string>
   <string name="screen_resolution_ultrahigh_format">Sehr hoch (%1$s)</string>
   <string name="screen_saturation">Sättigung</string>
+  <string name="screen_settings">Sperrbildschirm</string>
   <string name="screen_shot">Screenshot aufnehmen</string>
   <string name="screen_timeout">Ruhezustand</string>
   <string name="screen_timeout_summary">Nach %1$s ohne Aktivität</string>
@@ -6378,6 +6396,7 @@ Ihre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Si
   <string name="unlock_disable_frp_warning_title_profile">Profilschutz entfernen?</string>
   <string name="unlock_disable_lock_pin_summary">PIN entfernen</string>
   <string name="unlock_disable_lock_title">Bildschirmsperre ausschalten</string>
+  <string name="unlock_mode_title">Bildschirmsperre</string>
   <string name="unlock_set_do_later_title">Nicht jetzt</string>
   <string name="unlock_set_enter_system">Bildschirmsperre überspringen</string>
   <string name="unlock_set_enter_system_summary">Direkt zum Desktop gehen</string>
@@ -6788,6 +6807,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="volume_category_title">Lautstärke</string>
   <string name="volume_hifi_description">HiFi-Einstellungen</string>
   <string name="volume_label">Laustärke</string>
+  <string name="volume_launch_camera_summary">Kamera durch 2-faches Drücken der Lautstärketaste öffnen, wenn Bildschirm gesperrt ist</string>
   <string name="volume_media_description">Musik, Video, Spiele und andere Medien</string>
   <string name="volume_media_mute">Musik &amp; andere Medien lautlos</string>
   <string name="volume_notification_description">Benachrichtigungen</string>
@@ -6878,9 +6898,10 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="vr_listener_security_warning_title">VR-Dienstzugriff für %1$s erlauben?</string>
   <string name="vr_listeners_title">VR-Hilfsdienste</string>
   <string name="vt_provisioned_switch_string">Videoanrufe bereitgestellt</string>
-  <string name="wait_for_debugger">Warte auf Debugger</string>
+  <string name="wait_for_debugger">Auf Debugger warten</string>
   <string name="wait_for_debugger_summary">App wartet vor Ausführung auf den Start des Debuggers</string>
   <string name="wakeup_for_keyguard_notification_title">Bei Benachrichtigungen Bildschirmbeleuchtung einschalten</string>
+  <string name="wakeup_and_sleep_settings_category_name">Einstellungen Sperrbildschirm</string>
   <string name="wallpaper_attributions">Hintergründe</string>
   <string name="wallpaper_attributions_values">"Satellitenbildanbieter:
  ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
