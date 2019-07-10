@@ -190,7 +190,7 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Bedienungsh
   <string name="account_settings_menu_auto_sync">Auto-Sync Daten</string>
   <string name="account_settings_menu_auto_sync_personal">Auto-Sync persönl. Daten</string>
   <string name="account_settings_menu_auto_sync_work">Auto-Sync Arbeitsdaten</string>
-  <string name="account_settings_title">Konten</string>
+  <string name="account_settings_title">Google &amp; Konten</string>
   <string name="account_sync_settings_title">Synchronisation</string>
   <string name="account_sync_summary_all_off">Sync aus für alle Elemente</string>
   <string name="account_sync_summary_all_on">Sync an für alle Elemente</string>
@@ -2569,6 +2569,7 @@ Die böse Hexe des Westens sendet Wölfe, Krähen, Bienen, ihre Winkie-Soldaten 
   <string name="frequently_fragment_tempty">Oft genutzte Inhalte werden hier aufgelistet</string>
   <string name="fsg_mistake_touch_summary">In einigen Szenen, wie z. B. bei Vollbild-Spielen und -Videos, müssen Gesten doppelt gewischt werden, um wirksam zu werden.</string>
   <string name="fsg_mistake_touch_title">Doppelkontrolle der Gesten</string>
+  <string name="full_screen_display">Vollbildmodus</string>
   <string name="full_transparent_smarrcover_title">Transparente Frontabdeckung</string>
   <string name="fullbackup_data_summary">"Gerätedaten (wie WLAN Passwörter und Anrufliste) und App-Daten (wie Einstellungen und von Apps gespeicherte Dateien) automatisch sichern.
 Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten periodisch in der Cloud gespeichert. App-Daten können alle Daten sein, die eine App gespeichert hat (basierend auf den Entwicklereinstellungen), einschl. potenziell sensibler Daten wie Kontakte, Nachrichten und Fotos."</string>
@@ -2613,7 +2614,8 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gesture_setting_off">Aus</string>
   <string name="gesture_setting_on">An</string>
   <string name="gesture_w">W-Muster</string>
-  <string name="gesture_wakeup_summary">Diese Funktion funktioniert, wenn entweder das Standard- oder das Classic-Thema angewendet wird</string>
+  <string name="gesture_wakeup_summary">Durch Doppeltippen den Bildschirm ausschalten, wenn Standard- oder Classic-Thema angewendet wird</string>
+  <string name="gesture_wakeup_title">Doppeltippen zum Aufwecken/Ausschalten des Bildschirms</string>
   <string name="gesture_z">Z-Muster</string>
   <string name="getConfiguredNetworks">Konfiguriertes Netzwerk beziehen</string>
   <string name="getConnectionInfo">Verbindungsinfo bekommen</string>
@@ -3146,7 +3148,8 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="lock_screen_notifications_summary_hide_profile">Vertrauliche Benachrichtigungsinhalte ausblenden</string>
   <string name="lock_screen_notifications_summary_show">Alle Benachrichtigungen und deren Inhalt anzeigen</string>
   <string name="lock_screen_notifications_summary_show_profile">Alle Benachrichtigungsinhalte anzeigen</string>
-  <string name="lock_screen_notifications_title">Wenn das Gerät gesperrt ist</string>
+  <string name="lock_screen_notifications_title">Am Sperrbildschirm</string>
+  <string name="lock_screen_settings_title">Sperrbildschirm</string>
   <string name="lock_screen_signature_summary">Signatur wird am Sperrbildschirm angezeigt</string>
   <string name="lock_screen_signature_title">Sperrbildschirmsignatur</string>
   <string name="lock_screen_unlock_show">Ziehen ausschalten</string>
@@ -3851,7 +3854,12 @@ Betriebssystem auswählen:"</string>
   <string name="not_installed">Nicht installiert</string>
   <string name="notch_and_status_bar_settings">Notch &amp; Statusleiste</string>
   <string name="notch_force_black_desc">Einschalten, um den Bereich um die Notch abzudunkeln</string>
-  <string name="notch_force_black_title">Notch verbergen</string>
+  <string name="notch_force_black_title">Notch ausblenden</string>
+  <string name="notch_style_mod_description">Anzeigeoptionen für Notch und Statusleiste</string>
+  <string name="notch_style_mod_title">Notch ausblenden</string>
+  <string name="notch_style_show">Nicht ausblenden</string>
+  <string name="notch_style_status_bar_inside">Ausblenden ohne Verschieben der Statusleiste</string>
+  <string name="notch_style_status_bar_outside">Ausblenden und Statusleiste verschieben</string>
   <string name="note_title">Notizen</string>
   <string name="notes_privacy_password_role_instruction">Ihre privaten Notizen werden hier gespeichert</string>
   <string name="nothing_searched">Keine Treffer</string>
@@ -4213,7 +4221,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="pointer_location_summary">Bildschirm-Overlay mit aktuellen Touch-Daten</string>
   <string name="pointer_settings_category">Maus/Touchpad</string>
   <string name="pointer_speed">Zeigergeschwindigkeit</string>
-  <string name="popup_gesture_summary">Telefon anheben und auf den Bildschirm schauen, um die Frontkamera automatisch zu öffnen</string>
+  <string name="popup_gesture_summary">Zum Startbildschirm zurückkehren, Telefon anheben und auf den Bildschirm schauen, um die Frontkamera automatisch zu öffnen</string>
   <string name="popup_gesture_title">Anheben zum Öffnen der Frontkamera</string>
   <string name="popup_led_summary">Beim Aus- und Einfahren der Frontkamera Animation anzeigen</string>
   <string name="popup_led_title">Visueller Effekt</string>
@@ -5631,6 +5639,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_bar_settings_user_fold_summary">Alle unwichtigen Benachrichtigungen werden in einem separaten Ordner angezeigt</string>
   <string name="status_bar_style_list">Kombiniert</string>
   <string name="status_bar_style_page">Getrennt</string>
+  <string name="status_bar_title">Statusleiste</string>
   <string name="status_bt_address">Bluetooth-Adresse</string>
   <string name="status_data_network_type">Mobiler Datennetztyp</string>
   <string name="status_data_state">Mobilfunkstatus</string>
@@ -5922,7 +5931,7 @@ Auf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertra
   <string name="sync_one_time_sync">Tippen, um %1$s sofort zu synchronisieren</string>
   <string name="sync_plug">"&lt;font fgcolor="#ffffffff"&gt;Willkommen bei Google Sync!&lt;/font&gt;
 Ein Google-Ansatz zur Synchronisation von Daten, um den Zugriff auf Ihre Kontakte, Termine und mehr von überall her zu ermöglichen."</string>
-  <string name="sync_settings">Synchronisation</string>
+  <string name="sync_settings">Konten &amp; Synchronisation</string>
   <string name="sync_wifi_only">Nur WLAN</string>
   <string name="system_alert_window_access_title">Apps überlagern</string>
   <string name="system_alert_window_off">Nein</string>
@@ -7513,7 +7522,9 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="write_tag">Schreiben</string>
   <string name="wrong_pin_code_pukked">Falscher SIM-PIN-Code. Sie müssen jetzt Ihren Telefonanbieter kontaktieren, um Ihr Gerät zu entsperren.</string>
   <string name="xiaomi_account">Mi Konto</string>
-  <string name="xiaomi_cloud_service_description">Mi Cloud synchronisiert Ihre Kontakte und Fotos, sichert Ihre Apps und Einstellungen und hilft Ihnen, Ihr Telefon zu finden mit \"Gerät finden\".</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud synchronisiert Ihre Kontakte und Fotos, sichert Ihre Apps und Einstellungen und hilft Ihnen, Ihr Telefon mit \"Gerät finden\" zu finden.</string>
+  <string name="xiaomi_cloud_service_description_contact">Kontakte und</string>
+  <string name="xiaomi_cloud_service_description_format">Mi Cloud synchronisiert Ihre %s-Fotos, sichert Ihre Apps und Einstellungen und hilft Ihnen, Ihr Telefon mit \"Gerät finden\" zu finden.</string>
   <string name="xiaomi_cloud_service_disabled">Aus</string>
   <string name="xiaomi_cloud_service_unknown">Unbekannt</string>
   <string name="xiaomi_connect_download_manager_fail">Download wurde nicht gestartet. Stellen Sie sicher, dass der Downloadmanager normal funktioniert.</string>

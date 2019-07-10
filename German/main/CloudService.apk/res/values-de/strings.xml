@@ -233,14 +233,17 @@ Verwenden Sie ein anderes Konto."</string>
   <string name="micloud_main_wait_wlan_charge_sleep">Mit WLAN verbinden, Bildschirm ausschalten und Gerät vollständig laden, um die Synchronisation fortzusetzen</string>
   <string name="micloud_manage_space_data">Verwaltung von Mi Cloud-Daten</string>
   <string name="micloud_manaul_sync_success_button_text">Details anzeigen</string>
+  <string name="micloud_manaul_sync_success_time_prefix">Letzte Synchronisation: %s</string>
   <string name="micloud_manaul_sync_success_title">Erfolgreich synchronisiert</string>
   <string name="micloud_manual_activating">Aktivieren…</string>
   <string name="micloud_manual_all_sync_off_button_text">Einschalten</string>
   <string name="micloud_manual_all_sync_off_summary">Wiederherstellen synchronisierter Daten auf neuen Geräten mit Mi Cloud</string>
   <string name="micloud_manual_all_sync_off_title">Synchronisation mit Mi Cloud ist aus</string>
   <string name="micloud_manual_buy_vip">Mi Cloud-Tarif upgraden</string>
+  <string name="micloud_manual_cloud_storage_full_button_text">Mehr Speicherplatz erhalten</string>
   <string name="micloud_manual_cloud_storage_full_summary">Upgraden Sie Ihren Mi Cloud-Tarif, um Fotos, Kontakte und mehr zu synchronisieren</string>
   <string name="micloud_manual_cloud_storage_full_title">Mi Cloud-Speicher ist voll. Synchronisation wurde gestoppt.</string>
+  <string name="micloud_manual_cloud_storage_low_button_text">Mehr Speicherplatz erhalten</string>
   <string name="micloud_manual_cloud_storage_low_summary">Upgraden Sie Ihren Mi Cloud-Tarif, um mehr Speicher zu erhalten</string>
   <string name="micloud_manual_cloud_storage_low_title">Mi Cloud-Speicher wird knapp. Ihre Fotos werden evtl. nicht synchronisiert.</string>
   <string name="micloud_manual_grant_permission">Berechtigungen vergeben</string>
@@ -255,6 +258,7 @@ Verwenden Sie ein anderes Konto."</string>
   <string name="micloud_manual_reactivate">Reaktivieren</string>
   <string name="micloud_manual_sync_all">Alle Elemente synchronisieren</string>
   <string name="micloud_manual_sync_now">Synchronisieren</string>
+  <string name="micloud_manual_sync_now_retry">Erneut versuchen</string>
   <string name="micloud_manual_sync_pause">Synchronisieren anhalten</string>
   <string name="micloud_manual_sync_resume">Synchronisation fortsetzen</string>
   <string name="micloud_manual_syncing">Synchronisieren…</string>
@@ -321,6 +325,7 @@ Verwenden Sie ein anderes Konto."</string>
   <string name="micloud_sync_result_cloud_storage_full">Mi Cloud-Speicher ist voll</string>
   <string name="micloud_sync_result_common_message">Synchronisation nicht möglich. Einen Moment warten und erneut versuchen.</string>
   <string name="micloud_sync_result_cta_permission_error">Erst mit Netzwerk verbinden</string>
+  <string name="micloud_sync_result_get_sim_info_error">Keine SIM-Karten-Info erhalten. Ein oder zwei Minuten warten und erneut versuchen.</string>
   <string name="micloud_sync_result_internal_error">Interner Fehler</string>
   <string name="micloud_sync_result_io_exception">I/O Fehler</string>
   <string name="micloud_sync_result_parse_exception">Daten analysieren fehlgeschlagen</string>
