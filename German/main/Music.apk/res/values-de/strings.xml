@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="December">Dezember</string>
+  <string name="February">Februar</string>
+  <string name="January">Januar</string>
+  <string name="July">Juli</string>
+  <string name="June">Juni</string>
+  <string name="March">März</string>
+  <string name="May">Mai</string>
+  <string name="October">Oktober</string>
+  <string name="Updated_at">"Aktualisiert: "</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
@@ -44,6 +53,7 @@
   <string name="added_next_play">Hinzugefügt, um als nächstes abgespielt zu werden</string>
   <string name="agreement_desc">Nutzervereinbarung (obligatorisch)</string>
   <string name="alaka_required">Sie sollten für diesen Song bezahlen, um ihn zu hören</string>
+  <string name="alarm_clock_ringtones_successful">Wecker erfolgreich gestellt</string>
   <string name="album_label">Albumcover</string>
   <string name="all_album_count">Alle Alben (%d)</string>
   <string name="all_albums">Alle Alben</string>
@@ -95,6 +105,7 @@
   <string name="available_playlist_name_format">Neue Wiedergabeliste %d</string>
   <string name="avoid_to_use_traffic_summary">Mobile Datenverbindung zum Streamen nicht verwenden</string>
   <string name="avoid_to_use_traffic_title">Warnen, bevor Sie Titel mit mobilen Daten abspielen</string>
+  <string name="back">Zurück</string>
   <string name="back_confirm">Nochmal tippen, um die App in den Hintergrund zu verschieben</string>
   <string name="backup_complete">Alle Titel in der Mi Cloud gesichert</string>
   <string name="backup_empty_button">Keine Titel ausgewählt</string>
@@ -118,6 +129,7 @@
   <string name="cancel">Abbrechen</string>
   <string name="cancel_running_download">Abbrechen</string>
   <string name="change_download_quality">Downloadqualität ändern</string>
+  <string name="character_counter_content_description">Zeichenlimit hat %1$d von %2$d überschritten</string>
   <string name="checking_new_version">Nach Updates suchen…</string>
   <string name="choose_download_quality">Downloadqualität einstellen</string>
   <string name="choose_language">Sprache auswählen</string>
@@ -402,6 +414,8 @@
   <string name="global_search_title_prenatal">Pränatale Musik</string>
   <string name="global_search_title_radar">Musikerkennung</string>
   <string name="go_to_settings">Zu den Einstellungen</string>
+  <string name="goto_local_search">Auf dem Gerät suchen</string>
+  <string name="goto_online_search">Online suchen</string>
   <string name="handle_later">Jetzt nicht</string>
   <string name="hd_quality_audio">HD-Audioqualität</string>
   <string name="headset_and_audio_effect_category">Kopfhörer &amp; Audioeffekte</string>
@@ -416,9 +430,13 @@
   <string name="hungama_batch_download_alert_summary">Nur PRO-Mitglieder können mehrere Titel herunterladen. Jetzt PRO-Mitglied werden?</string>
   <string name="hungama_category_playlist">Wiedergabeliste</string>
   <string name="hungama_free_download_out_summary">Sie können keine kostenlosen Titel mehr herunterladen. PRO-Mitgliedschaft kaufen, um unbegrenzt Titel herunterzuladen?</string>
-  <string name="hungama_subscribe_message">PRO Mitgliedschaft kaufen, um Musik in hoher Qualität herunterzuladen</string>
-  <string name="hungama_subscribe_positive_button">PRO Mitgliedschaft kaufen</string>
-  <string name="hungama_subscribe_title">PRO Mitgliedschaft</string>
+  <string name="hungama_playlist_category">Kategorie Wiedergabeliste</string>
+  <string name="hungama_privacy_desc">Hungama Datenschutzerklärung (optional)</string>
+  <string name="hungama_privacy_tips_content">Um Zugang zu Online-Inhalten zu erhalten, müssen Sie die &lt;a href="/link/click"&gt;Hungama Datenschutzerklärung&lt;/a&gt; akzeptieren.</string>
+  <string name="hungama_privacy_tips_title">Hungama Datenschutzerklärung</string>
+  <string name="hungama_subscribe_message">PRO-Mitgliedschaft kaufen, um Musik in hoher Qualität herunterzuladen</string>
+  <string name="hungama_subscribe_positive_button">PRO-Mitgliedschaft kaufen</string>
+  <string name="hungama_subscribe_title">PRO-Mitgliedschaft</string>
   <string name="impunity_declaration_content">Sie müssen unsere &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=de_DE\"&gt;Nutzervereinbarung&lt;/a&gt; und &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=de_DE\"&gt;Datenschutzerklärung&lt;/a&gt; lesen und diesen zustimmen, bevor Sie das Produkt verwenden.</string>
   <string name="impunity_declaration_ignore">Nicht mehr anzeigen</string>
   <string name="impunity_declaration_negative_text">Verlassen</string>
@@ -456,7 +474,8 @@
   <string name="list_item_play_all_tracks">Alle abspielen</string>
   <string name="load_shuffle">Laden…</string>
   <string name="loadercontainer_loading">Einen Moment…</string>
-  <string name="loading_hint">Lade…</string>
+  <string name="loading_hint">Laden…</string>
+  <string name="loading_reached_the_bottom">"Das war's vorerst."</string>
   <string name="local_header_title">Lokale Musik</string>
   <string name="local_music">Lokale Titel</string>
   <string name="local_music_is_not_available">Lokale Titel sind nicht verfügbar</string>
@@ -514,6 +533,8 @@
   <string name="more_settings">Erweiterte Einstellungen</string>
   <string name="more_settings_summary">Sleep-Timer, Dateifilter etc.</string>
   <string name="more_share">Teilen</string>
+  <string name="mtrl_chip_close_icon_content_description">%1$s löschen</string>
+  <string name="mulit_choice_management">Mehrere Elemente verwalten</string>
   <string name="music_browser_label">Musik</string>
   <string name="music_filter">Audiodateien filtern</string>
   <string name="music_service">Musikdienste</string>
@@ -568,13 +589,26 @@
   <string name="nowplaying_circle_style_wave">Welle</string>
   <string name="nowplaying_dialog_title_delete_tracks">Aus der Wiedergabeliste entfernen?</string>
   <string name="nowplaying_menu_item_delete">Löschen</string>
+  <string name="online_apk_acquired">%d%% geladen</string>
+  <string name="online_apk_acquiring">Laden… %d%%</string>
   <string name="online_apk_download_error_no_enough_space">Download wegen zu wenig Speicher nicht möglich</string>
   <string name="online_apk_downloading">Herunterladen…%d%%</string>
+  <string name="online_apk_install_alert_continue">Fortsetzen</string>
+  <string name="online_apk_install_alert_failed_text">Download nicht möglich. Erneut versuchen.</string>
   <string name="online_apk_install_alert_message">Sie müssen Yandex.Music Plugin herunterladen. Jetzt herunterladen?</string>
+  <string name="online_apk_install_alert_mobile_net_text">Sie verwenden jetzt mobile Daten. Verwenden mobiler Daten zum Herunterladen von Inhalten kann zusätzliche Kosten verursachen.</string>
   <string name="online_apk_install_alert_note">Dieser Service wird von Yandex.Music angeboten.</string>
+  <string name="online_apk_install_alert_note_new">Online-Inhalte werden von %s bereitgestellt</string>
+  <string name="online_apk_install_alert_retry">Erneut versuchen</string>
+  <string name="online_apk_install_completed">Online-Inhalte erfolgreich geladen. Auf %s tippen zum Anzeigen.</string>
   <string name="online_apk_install_error_no_enough_space">Wegen zu wenig Speicher konnte die Installation nicht durchgeführt werden.</string>
   <string name="online_apk_install_error_with_reason">Installation nicht möglich (Fehler %d)</string>
+  <string name="online_apk_install_failed_with_reason" formatted="false">Online-Inhalte wurden nicht geladen. Auf %s tippen, um erneut zu versuchen. Fehlercode: %d.</string>
+  <string name="online_apk_install_in_background">Online-Inhalte im Hintergrund laden…</string>
+  <string name="online_apk_install_network_change_paused">Sie verwenden mobile Daten. Laden von Elementen wurde vorerst angehalten. Auf %s tippen zum Anzeigen.</string>
+  <string name="online_apk_install_network_error">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
   <string name="online_list_delete_message">Alle heruntergeladenen Titel in dieser Wiedergabeliste werden vom internen Speicher gelöscht.</string>
+  <string name="online_playlist_category">Wiedergabelisten</string>
   <string name="online_recommend">Wiedergabeliste</string>
   <string name="online_service_open_tip">Online-Musikdienste sind eingeschaltet</string>
   <string name="online_service_title">Onlinedienste</string>
@@ -583,6 +617,7 @@
   <string name="online_switch_setting">Einstellungen für Onlineinhalte</string>
   <string name="open_online_service">Für diese Funktion müssen Sie die Onlinedienste einschalten. Jetzt einschalten?</string>
   <string name="open_service">Einschalten</string>
+  <string name="operation_done_close">Schließen</string>
   <string name="optimize_all_until_optimized">Neues Cover und neue Texte anwenden…</string>
   <string name="optimize_all_until_scanned">Warten Sie, bis Musik den Speicher auf Titel durchsucht hat.</string>
   <string name="other_song_in_album">Andere Titel vom selben Album</string>
@@ -616,6 +651,7 @@
   <string name="play_video_with_traffic">FORTFAHREN</string>
   <string name="play_video_with_traffic_toast">Sie nutzen jetzt mobile Daten</string>
   <string name="playlist_empty">Keine Wiedergabelisten vorhanden</string>
+  <string name="playlist_recommend_title">Empfehlen</string>
   <string name="playlist_title">Name Wiedergabeliste</string>
   <string name="playlist_title_is_empty">Name Wiedergabeliste kann nicht leer sein</string>
   <string name="playlist_title_is_invalid">Wiedergabeliste existiert bereits</string>
@@ -668,7 +704,7 @@
   <string name="recommended_no_file_size_download_in_mobile">Mobile Datenverbindung verwenden, um diese Datei herunterzuladen?</string>
   <string name="remove">Entfernen</string>
   <string name="remove_download">Entfernen</string>
-  <string name="renew_dialog_title">"Zu Pro gehen.
+  <string name="renew_dialog_title">"Zu PRO gehen.
 Glücklich sein."</string>
   <string name="repeat_all_notif">Alle Titel wiederholen</string>
   <string name="repeat_current_notif">Aktuellen Titel wiederholen</string>
@@ -678,7 +714,11 @@ Glücklich sein."</string>
   <string name="retry">Wiederholen</string>
   <string name="retry_after_network_available">Keine Netzwerkverbindung. Überprüfen Sie Ihre Datenverbindung und versuchen Sie es erneut.</string>
   <string name="retry_download">Wiederholen</string>
+  <string name="ringtone_editing">Klingeltoneditor</string>
   <string name="ringtone_not_support">Audioformat wird nicht unterstützt</string>
+  <string name="ringtone_selected">Ausgewählt</string>
+  <string name="ringtones_play">Abspielen</string>
+  <string name="ringtones_successful">Klingelton erfolgreich gesetzt</string>
   <string name="s1">Bild speichern</string>
   <string name="s2">Werbung erlauben, Bilder in der Bildergalerie zu speichern?</string>
   <string name="s3">Zustimmen</string>
@@ -689,15 +729,21 @@ Glücklich sein."</string>
   <string name="save_changes">Änderungen speichern</string>
   <string name="search_album_and_lyric">Suche Alben und Songtexte</string>
   <string name="search_empty">Keine Ergebnisse gefunden</string>
+  <string name="search_empty_subtitle_online_music">Taste unten antippen, um %s zu öffnen</string>
+  <string name="search_empty_title_online_music">Noch keine Elemente hier.</string>
   <string name="search_for_artist">Interpret</string>
   <string name="search_hint">Nach Interpreten, Titeln, Alben und Empfehlungen suchen</string>
   <string name="search_hint_local">Auf dem Gerät nach Songs suchen</string>
   <string name="search_hint_online">Suchen Sie online nach Künstlern, Alben, Songs, Wiedergabelisten und Videos.</string>
   <string name="search_history_clear_all">Löschen</string>
+  <string name="search_history_delete_all_dialog_titile">Suchverlauf jetzt löschen?</string>
   <string name="search_menu_title">Suchen</string>
+  <string name="search_result_local_songs">Lokal</string>
+  <string name="search_songs">Nach Songs suchen</string>
   <string name="search_title">Suchen</string>
   <string name="select">Wählen</string>
   <string name="select_all">Alle auswählen</string>
+  <string name="select_clip_desc">Einen Clip aus dem Song auswählen</string>
   <string name="select_desc_sub">Sie können bis zu 3 Sprachen wählen</string>
   <string name="select_device">Gerät auswählen</string>
   <string name="select_displayed_folders">Ordner zum Anzeigen auswählen</string>
@@ -761,6 +807,7 @@ Glücklich sein."</string>
   <string name="song_name">Titel</string>
   <string name="song_not_find">Titel ist nicht verfügbar</string>
   <string name="song_offline">Dieser Titel nicht mehr verfügbar</string>
+  <string name="song_picker_complete">Erledigt</string>
   <string name="songgroup_pick_album">Alben</string>
   <string name="songgroup_pick_playlist">Wiedergabeliste</string>
   <string name="sort_by_time">Datum</string>
@@ -797,6 +844,7 @@ Glücklich sein."</string>
   <string name="talkback_next">Nächster Titel</string>
   <string name="talkback_nowplaying_bar">Wiedergabeknopf</string>
   <string name="talkback_nowplaying_circle">Schleifenwiedergabe</string>
+  <string name="talkback_play">Play / Pause</string>
   <string name="talkback_pre">Vorheriger Titel</string>
   <string name="talkback_search">Suchen</string>
   <string name="talkback_show_navigation_draw">Navigationsleiste anzeigen</string>
@@ -808,6 +856,7 @@ Glücklich sein."</string>
   <string name="title_online_fm_recommend">Empfohlenes FM</string>
   <string name="title_online_recommend">Empfohlene Wiedergabelisten</string>
   <string name="title_search_history">Verlauf durchsuchen</string>
+  <string name="title_search_hot">Beliebt</string>
   <string name="toast_download_error_by_count_limit">Sie haben Ihr Downloadlimit für diesen Monat verbraucht.</string>
   <string name="toast_download_error_by_not_login">Mit Mi Konto anmelden und erneut versuchen.</string>
   <string name="toast_download_error_by_vip_required">Holen Sie sich ein Premiumpaket, um diesen Titel herunterladen zu können.</string>
@@ -820,6 +869,7 @@ Glücklich sein."</string>
   <string name="toast_not_pro">Diese Funktion ist nur für PRO-Mitglieder verfügbar.</string>
   <string name="toast_uhd_songs_for_download">Downloadqualität auf hoch eingestellt</string>
   <string name="toast_uhd_songs_for_stream">Streamingqualität auf hoch eingestellt</string>
+  <string name="today">Heute</string>
   <string name="ultra_high_quality">Höchste</string>
   <string name="unknown_album_name">Unbekanntes Album</string>
   <string name="unknown_artist_name">Unbekannter Interpret</string>

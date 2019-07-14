@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">Updater</string>
   <string name="battery_islow">&lt;font color=#f37981&gt;Ladegerät anschließen&lt;/font&gt;</string>
-  <string name="battery_islow_desc">Akkustand zu niedrig, um die zip-Datei sicher zu installieren, Ladegerät anschließen und später erneut versuchen!</string>
+  <string name="battery_islow_desc">Akkustand zu niedrig, um die zip-Datei sicher zu installieren. Ladegerät anschließen und später erneut versuchen!</string>
   <string name="btn_changelog">Änderungsprotokoll</string>
   <string name="btn_download">Herunterladen (%1$s)</string>
   <string name="btn_error">Ein Fehler ist aufgetreten, erneut versuchen?</string>
@@ -14,6 +14,7 @@
   <string name="channel_downloading">Downloadfortschritt</string>
   <string name="channel_update">Neue Version verfügbar</string>
   <string name="check_new_version">Prüfen</string>
+  <string name="default_filedownloader_notification_content">FileDownloader läuft.</string>
   <string name="dialog_3g_desc">Beachten Sie, dass die Verwendung mobiler Daten zum Herunterladen von ROMs erhebliche Mengen Ihres Volumens beanspruchen kann.</string>
   <string name="dialog_3g_title">Warnung!</string>
   <string name="dialog_btn_3g">Trotzdem fortfahren</string>
@@ -38,8 +39,8 @@
   <string name="no_info">Keine Informationen verfügbar</string>
   <string name="no_network">Kein Netzwerkzugriff</string>
   <string name="no_update">Sie haben bereits die aktuellste Version!</string>
-  <string name="no_wifi_msg">Sie benutzen jetzt das Mobilfunknetz. Herunterladen von Updates kann zusätzliche Datengebühren verursachen. Sie können jetzt Updates herunterladen oder warten, bis sich Ihr Gerät mit WLAN verbindet.</string>
-  <string name="no_wifi_no_auto_msg">Sie benutzen jetzt das Mobilfunknetz. Herunterladen von Updates kann zusätzliche Datengebühren verursachen. Sie können jetzt Updates herunterladen oder warten, bis sich Ihr Gerät mit WLAN verbindet und Updates automatisch installiert.</string>
+  <string name="no_wifi_msg">Sie nutzen jetzt das Mobilfunknetz. Herunterladen von Updates kann zusätzliche Datengebühren verursachen. Sie können jetzt Updates herunterladen oder warten, bis sich Ihr Gerät mit WLAN verbindet.</string>
+  <string name="no_wifi_no_auto_msg">Sie nutzen jetzt das Mobilfunknetz. Herunterladen von Updates kann zusätzliche Datengebühren verursachen. Sie können jetzt Updates herunterladen oder warten, bis sich Ihr Gerät mit WLAN verbindet und Updates automatisch installiert.</string>
   <string name="no_xioamieu">Sie nutzen keine MIUI-ROM vom Xiaomi.eu-Team! Keine Updates für Sie verfügbar!</string>
   <string name="notif_cancel">Abbrechen</string>
   <string name="notif_install">Installieren</string>
