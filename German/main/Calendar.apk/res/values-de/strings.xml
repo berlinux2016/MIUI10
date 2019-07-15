@@ -510,6 +510,7 @@
   <string name="preferences_import_travel">Fahrkarten</string>
   <string name="preferences_notification_ringtone_title">Ton</string>
   <string name="preferences_popup_alert_smart_summary">MIUI identifiziert automatisch, welche Termine am relevantesten sind</string>
+  <string name="preferences_popup_alert_smart_summary_new">Zeitkritische Termine sind Termine mit einer genauen Uhrzeit</string>
   <string name="preferences_popup_alert_smart_tips">Ersetzen Sie herkömmliche Benachrichtigungen durch Popup-Warnungen, um wichtige Termine nicht zu verpassen. Popup-Warnungen werden nicht angezeigt, wenn Sie spielen, Vollbildvideos ansehen oder den Automodus verwenden.</string>
   <string name="preferences_popup_alert_title">Popup-Warnungen</string>
   <string name="preferences_title">Kalender</string>
@@ -577,6 +578,7 @@
   <string name="select_synced_calendars_title">Zu synchronisierender Kalender</string>
   <string name="setting">Einstellungen</string>
   <string name="setting_about_calendar_version">"Kalenderversion: "</string>
+  <string name="setting_about_miui_version">MIUI-Version:</string>
   <string name="setting_accounts">Kalenderkonten</string>
   <string name="setting_chinese_calendar">Chinesischer Kalender</string>
   <string name="setting_content_promotion">Inhaltsvermarktung</string>
@@ -586,6 +588,7 @@
   <string name="setting_daysoff_update_net_err">Updates suchen fehlgeschlagen. Ein oder zwei Minuten warten und erneut versuchen.</string>
   <string name="setting_daysoff_update_schedule">Aktualisieren…</string>
   <string name="setting_daysoff_update_success">Erfolgreich aktualisiert</string>
+  <string name="setting_desc_import_todo">Geplante Aufgaben aus Notizen importieren</string>
   <string name="setting_features_title">Eigenschaften</string>
   <string name="setting_holiday_display_desc">Feiertagskarten auf der Startseite anzeigen</string>
   <string name="setting_holiday_reminder">Feiertagserinnerung</string>
@@ -598,6 +601,7 @@
   <string name="setting_title_about">Über</string>
   <string name="setting_title_debug">Log-Export</string>
   <string name="setting_title_holiday_display">Feiertage anzeigen</string>
+  <string name="setting_title_import_todo">Geplante Aufgaben</string>
   <string name="setting_title_limit_card_desc">Als Limitkarte auf der Startseite des Kalenders benötigt der Dienst eine Internetverbindung</string>
 
 <!-- noch bearbeiten anfang -->
@@ -673,6 +677,8 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="today_flight_event">Flug</string>
   <string name="today_icon_voice_contentdescription">Zum heutigen Tag</string>
   <string name="today_no_events">Keine Termine</string>
+  <string name="todo_audio_event">"[Sprachaufgabe] "</string>
+  <string name="todo_event">Zukünftige Aufgaben</string>
   <string name="tomorrow">Morgen</string>
   <string name="tomorrow_at_time_fmt">Morgen um %s</string>
   <string name="too_long_content">Inhalt ist zu lang</string>
