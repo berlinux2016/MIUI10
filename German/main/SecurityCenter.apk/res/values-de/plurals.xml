@@ -217,10 +217,6 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
     <item quantity="other">%2$d Apps, einschließlich %1$s, entleeren den Akku</item>
     <item quantity="one">%2$d App, einschließlich %1$s, entleert den Akku</item>
   </plurals>
-  <plurals name="pc_abnormal_scan_result_model_result_title">
-    <item quantity="other">%d Apps entleeren den Akku</item>
-    <item quantity="one">%d App entleert den Akku</item>
-  </plurals>
   <plurals name="notification_title_cmcc_app_check">
     <item quantity="other">%d Tage seit letzter Prüfung</item>
     <item quantity="one">%d Tag seit letzter Prüfung</item>
@@ -261,6 +257,10 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
     <item quantity="other">" +%d P."</item>
     <item quantity="one">" +%d P."</item>
   </plurals>
+  <plurals name="pc_abnormal_scan_result_model_result_title">
+    <item quantity="other">%d Apps entleeren den Akku</item>
+    <item quantity="one">%d App entleert den Akku</item>
+  </plurals>
   <plurals name="pc_main_power_center_battery_day">
     <item quantity="other">"%s Tage "</item>
     <item quantity="one">"%s Tag "</item>
@@ -299,9 +299,11 @@ Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Da
   </plurals>
   <plurals name="people">
     <item quantity="other">Von %1$d Leuten heruntergeladen</item>
+    <item quantity="one">Von %1$d Person heruntergeladen</item>
   </plurals>
   <plurals name="people_million">
     <item quantity="other">Von %1$d Leuten heruntergeladen</item>
+    <item quantity="one">Von %1$d Leuten heruntergeladen</item>
   </plurals>
   <plurals name="power_center_battery_day">
     <item quantity="other">"%d Tage "</item>
