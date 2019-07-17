@@ -832,6 +832,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="input_password_after_boot_msg">Passwort eingeben zum Entsperren des Geräts</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Profilwechsel während eines Gesprächs nicht möglich</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Profilwechsel nicht möglich, wenn Kindersicherung aktiv</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Bei aktiviertem Ultra-Stromsparen ist der Wechsel zwischen den Profilen nicht möglich</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Nach Neustart des Telefons müssen Sie das Hauptprofil aufrufen</string>
   <string name="input_password_handle_sdcard_fs">Zweitprofil kann nicht vom Sperrbildschirm gestartet werden. Vom Hauptprofil starten.</string>
   <string name="input_password_hint_text">Passwort eingeben</string>
@@ -1210,10 +1211,10 @@ Screenshot zu erstellen"</string>
   <string name="oem_unlock_enable_summary">Entsperrung des Bootloaders erlauben</string>
   <string name="oldman_airplane_mode_text">Flugmodus</string>
   <string name="oldman_incall_text">Anruf</string>
+  <string name="open_camera_hint_text">Symbol ziehen, um Kamera zu öffnen</string>
   <string name="open_extreme_power_save_mode_title">Extremes Stromsparen einschalten</string>
-  <string name="open_lock_screen_magazine_hint_text">Für mehr Optionen nach rechts wischen</string>
-  <string name="open_camera_hint_text">Zur Kamera nach links wischen</string>
-  <string name="open_remote_center_hint_text">Für weitere Verknüpfungen nach rechts wischen</string>
+  <string name="open_lock_screen_magazine_hint_text">Symbol ziehen, um Hintergrundkarussell zu öffnen</string>
+  <string name="open_remote_center_hint_text">Symbol ziehen, um Steuerelemente anzuzeigen</string>
   <string name="other">Andere</string>
   <string name="overlay_display_devices_title">Sekundärdsplay simulieren</string>
   <string name="overview">Übersicht</string>
