@@ -181,6 +181,14 @@
     <item quantity="other">Passwort muss mindestens %d Großbuchstaben enthalten</item>
     <item quantity="one">Passwort muss mindestens %d Großbuchstaben enthalten</item>
   </plurals>
+  <plurals name="lockpassword_password_too_long">
+    <item quantity="other">Sie können bis zu %d Zeichen eingeben</item>
+    <item quantity="one">Sie können bis zu %d Zeichen eingeben</item>
+  </plurals>
+  <plurals name="lockpassword_password_too_short">
+    <item quantity="other">Geben Sie mindestens %d Zeichen ein</item>
+    <item quantity="one">Geben Sie mindestens %d Zeichen ein</item>
+  </plurals>
   <plurals name="lockpassword_pin_fixed_length">
     <item quantity="other">PIN muss %d Ziffern lang sein</item>
     <item quantity="one">PIN muss %d Ziffer lang sein</item>
