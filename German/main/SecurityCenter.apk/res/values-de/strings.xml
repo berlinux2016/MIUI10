@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Phonepass">Anrufe zulassen</string>
-  <string name="SMS_and_MMS">SMS und MMS</string>
-  <string name="SMSpass">SMS zulassen</string>
-  <string name="Setting_lock">Einstellungen</string>
-  <string name="Settings_title_anti_spam">Sperrlisteneinstellungen</string>
-  <string name="Settings_title_anti_virus">Einstellungen Sicherheitsscan</string>
-  <string name="Settings_title_garbage_cleanup">Bereinigungseinstellungen</string>
-  <string name="Settings_title_network_assistants">Einstellungen Datennutzung</string>
-  <string name="Settings_title_power_center">Einstellungen Akku-Optimierung</string>
   <string name="about_autostart">Über Autostart</string>
   <string name="ac_enter_applock">App-Sperre eingeben</string>
   <string name="ac_firstUseApplock_subTitle">Bessere Sicherheitstools auf Systemebene verwenden</string>
@@ -86,6 +77,7 @@
   <string name="alarm_setting_title">Einstellungen</string>
   <string name="alert_back_diving_mode_summary">Immersive Mode jetzt ausschalten?</string>
   <string name="alert_back_diving_mode_title">Immersive Mode</string>
+  <string name="alert_back_milink_hangup_tips_content">Das Übertragen wird nicht unterbrochen, während Sie einen Anruf beenden. Sie können die Ein-/Aus-Taste drücken, um den Bildschirm aufzuwecken.</string>
   <string name="all_address_choose_hint">Alle Nummern an diesem Ort</string>
   <string name="already_close_gamebooster">Game Speed Booster ist deaktiviert</string>
   <string name="anti_disturb_msg_detail">Schalten Sie alle Benachrichtigungen außer für eingehende Anrufe aus</string>
@@ -112,7 +104,7 @@
   <string name="antivirus_privacy_dialog_cloudscan">App-Namen und Details hochladen</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">App-Namen und Details hochladen und mit Online-Virusdefinitionen prüfen</string>
   <string name="antivirus_privacy_dialog_summary">Diese Funktion verschlüsselt Ihre Geräte-ID und lädt diese auf die Server von Avast, AVL und Tencent (%s)</string>
-  <string name="antivirus_privacy_dialog_summary_link">«Datenschutzerklärung anzeigen»</string>
+  <string name="antivirus_privacy_dialog_summary_link">Datenschutzerklärung</string>
   <string name="antivirus_privacy_dialog_title">Datenschutzerklärung</string>
   <string name="antivirus_sec_network_unavailable">Sicherheits-App kann nicht aktualisiert werden, da Sie die Internetverbindung eingeschränkt haben. Erlauben Sie Sicherheit die Internetverbindung?</string>
   <string name="antivirus_toast_already_update">Auf dem neuesten Stand</string>
@@ -969,6 +961,7 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="gamebox_immersion_tips_content">Immersive Mode schränkt die Funktionalität der SIM-Karte bis auf die mobile Datenverbindung ein. Sie werden weder durch Anrufe unterbrochen noch erhalten Sie Benachrichtigungen über verpasste Anrufe. Alle Funktionen der SIM-Karte werden wiederhergestellt, wenn der Immersive Mode ausgeschaltet ist. Immersive Mode einschalten?</string>
   <string name="gamebox_immersion_tips_title">Achtung</string>
   <string name="gamebox_immerson_open">Immersive Mode einschalten, Netzwerke nicht wechseln…</string>
+  <string name="gamebox_milink">Übertragen</string>
   <string name="gamebox_qq_not_find">Installieren Sie QQ und versuchen Sie es erneut</string>
   <string name="gamebox_recent_task_expand_fail">Apps, die mit Verknüpfungen arbeiten, werden nicht installiert</string>
   <string name="gamebox_simcard">SIM-Karten wechseln</string>
@@ -1589,6 +1582,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="other">Andere Einstellungen</string>
   <string name="other_exception_summary">Sie haben keine Internetverbindung</string>
   <string name="other_exception_title">Auf weitere Fehler prüfen</string>
+  <string name="other_milink_connect">Übertragen fehlgeschlagen. Ein weiteres Feature wird gerade übertragen.</string>
   <string name="package_change_notification_summary">Tippen, um mehr zu erfahren</string>
   <string name="package_change_notification_title">Datenlimit automatisch anpassen</string>
   <string name="package_setted_error_notification_summary">Tippen, um Datenverbrauch im Detail anzuzeigen</string>
@@ -1653,11 +1647,12 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="permission_exception_title">Eingeschränkte Verbindung für Apps</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Apps werden nicht um Erlaubnis fragen vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufliste, Ändern von Systemeinstellungen oder dem Zugriff auf Kamera und andere Gerätequellen. Sie können diese Funktion in den Rechteeinstellungen einschalten.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Rechteverwaltung</string>
-  <string name="permission_with_SMS_and_MMS">SMS- und MMS-Berechtigungen</string>
   <string name="permission_with_call_and_contact">Anruf-, Kontaktinfo- und Anruflistenberechtigungen</string>
+  <string name="permission_with_SMS_and_MMS">SMS- und MMS-Berechtigungen</string>
   <string name="permit_running_network">Hintergrunddaten erlauben</string>
   <string name="person_hotpot">Mobile Hotspots</string>
   <string name="phone">Telefon</string>
+  <string name="Phonepass">Anrufe zulassen</string>
   <string name="pkg_traffic">Datenlimit einstellen</string>
   <string name="pm_auto_start_by_other">Getriggerter Start</string>
   <string name="pm_auto_start_by_other_app">Anderen Apps erlauben, diese App zu starten</string>
@@ -1997,6 +1992,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="set_numeric_password_name">PIN setzen</string>
   <string name="set_pattern_password_name">Muster setzen</string>
   <string name="setting">Einstellungen</string>
+  <string name="Setting_lock">Einstellungen</string>
   <string name="setting_privacy_password">Muster hinzufügen</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
@@ -2006,6 +2002,11 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="settings_category_overheat">Überhitzung</string>
   <string name="settings_choice_no_notification">Aus</string>
   <string name="settings_power_save_ontime_title">Zeitplan</string>
+  <string name="Settings_title_anti_spam">Sperrlisteneinstellungen</string>
+  <string name="Settings_title_anti_virus">Einstellungen Sicherheitsscan</string>
+  <string name="Settings_title_garbage_cleanup">Bereinigungseinstellungen</string>
+  <string name="Settings_title_network_assistants">Einstellungen Datennutzung</string>
+  <string name="Settings_title_power_center">Einstellungen Akku-Optimierung</string>
   <string name="shield_keyboard_detail">Tasten zweimal antippen, um diese wieder zu aktivieren</string>
   <string name="shield_keyboard_summary">Tasten und Vollbildgesten während des Spiels einschränken</string>
   <string name="shield_keyboard_title">Tasten und Gesten einschränken</string>
@@ -2031,6 +2032,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="sip_phone">SIP-Telefon</string>
   <string name="skin_change_close_toast">Änderungen werden beim nächsten Start von Sicherheit angewendet</string>
   <string name="sms_address">Gebietssperrliste</string>
+  <string name="SMS_and_MMS">SMS und MMS</string>
   <string name="sms_blacklist">SMS-Sperrliste</string>
   <string name="sms_cloud_block">Cloudsperrliste</string>
   <string name="sms_contact_block">SMS von Kontakten blockieren</string>
@@ -2048,6 +2050,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="sms_smart_engine_update">SMS-Filter automatisch aktualisieren</string>
   <string name="sms_smart_engine_update_now">Aktualisieren</string>
   <string name="sms_stranger_block">SMS von Unbekannten blockieren</string>
+  <string name="SMSpass">SMS zulassen</string>
   <string name="sorted_dialog_title">Sortieren nach</string>
   <string name="sp_background_risk_dialog_summary">, bitte beachten Sie die Warnungen für eventuell unsichere Zahlungen</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Sie sind mit einem öffentlichen WLAN verbunden, das unsicher sein kann. Vergewissern Sie sich, dass Ihre Zahlung geschützt ist, bevor Sie sie abschließen.</string>
@@ -2195,6 +2198,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="status_bar_network_flow_setup_data_plan">"   Datentarif einrichten &gt;"</string>
   <string name="status_bar_network_flow_today">Heute: %1$s</string>
   <string name="still_retain_btn">Beibehalten</string>
+  <string name="stop_milink_connect">Übertragen anhalten</string>
   <string name="suggest_app_tolock">Vorschläge</string>
   <string name="suggest_app_tolock_masked">Versteckt</string>
   <string name="suggest_app_tolock_unmasked">Sichtbare Benachrichtigungen</string>
@@ -2276,13 +2280,20 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="system_app">System-Apps</string>
   <string name="system_application">System-Apps</string>
   <string name="system_permission_declare_agree">Zustimmen</string>
+  <string name="system_permission_declare_disagree">Nicht zustimmen</string>
   <string name="system_permission_declare_double_link">&lt;Data&gt;Lesen und akzeptieren Sie unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt;, bevor Sie diese Funktion nutzen.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Willkommen bei %1s! Mit dieser App können Sie die folgende Funktion nutzen: %2s.</string>
   <string name="system_permission_declare_no_say_no">Wenn Sie sich entscheiden, die erforderlichen Berechtigungen nicht zu erteilen oder uns nicht erlauben, Ihre Daten zu erfassen und zu verwenden, wird diese App nicht normal funktionieren.</string>
-  <string name="system_permission_declare_privacy_declare">"Wir respektieren und schützen Ihre Privatsphäre.
+  <string name="system_permission_declare_privacy_declare">"Wir respektieren und schützen Ihre Privatsphäre. 
 Beachten Sie, dass %1s Ihre Daten erfassen muss und die folgenden Berechtigungen benötigt, um normal zu funktionieren:"</string>
+  <string name="system_permission_declare_privacy_no_permission">"Beachten Sie, dass %1s Ihre Daten sammeln muss, um normal zu funktionieren. Wir respektieren und schützen Ihre Privatsphäre."</string>
+  <string name="system_permission_declare_privacy_policy"><Data>Lesen und stimmen Sie unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> zu, bevor Sie diese Funktion nutzen.</Data></string>
   <string name="system_permission_declare_revoke_path">Sie können diese App deinstallieren, sich von Ihrem Konto abmelden oder Ihre Berechtigungen und Autorisierungen verwalten in Sicherheit &gt; Apps verwalten &gt; Berechtigungen &gt; Andere Berechtigungen.</string>
+  <string name="system_permission_declare_revoke_system">Sie können diese App beenden.</string>
+  <string name="system_permission_declare_revoke_uninstallable">Sie können diese App deinstallieren oder Ihre Berechtigungen und Autorisierungen unter Sicherheit &gt; Apps verwalten &gt; Berechtigungen &gt; Weitere Berechtigungen ändern.</string>
   <string name="system_permission_declare_use_network">Mit Netzwerk verbinden</string>
+  <string name="system_permission_declare_use_network_no_permission">Mit dem Netzwerk verbinden</string>
+  <string name="system_permission_declare_user_agreement"><Data>Lesen und stimmen Sie unserer &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> zu, bevor Sie diese Funktion nutzen.</Data></string>
   <string name="system_permission_perm_answer_call">Anrufen</string>
   <string name="system_permission_perm_read_mms">MMS lesen</string>
   <string name="system_permission_perm_read_numbers">Telefonnummern lesen</string>

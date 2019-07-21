@@ -936,6 +936,8 @@ Apps:
   <string name="bluetooth_disabled">Deaktiviert</string>
   <string name="bluetooth_disable_inband_ringing">In-Band Klingeln deaktivieren</string>
   <string name="bluetooth_disable_inband_ringing_summary">Keine benutzerdefinierten Klingeltöne auf Bluetooth-Headsets abspielen.</string>
+  <string name="bluetooth_disable_mi_fast_connect">Mi Fast Connect deaktivieren</string>
+  <string name="bluetooth_disable_mi_fast_connect_summary">Mi Fast Connect Funktion deaktivieren</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s wird von Audiomedien getrennt.</string>
   <string name="bluetooth_disconnect_all_profiles">Ihr Telefon wird von %1$s getrennt.</string>
   <string name="bluetooth_disconnect_dialog_ok">Trennen</string>
@@ -4792,6 +4794,11 @@ Mindestens %s freigeben."</string>
   <string name="screen_compatibility_label">Bildschirmkompatibilität</string>
   <string name="screen_compatibility_text">Eventuell ist diese App nicht für Ihren Bildschirm ausgelegt. Hier können Sie festlegen, wie Sie an Ihren Bildschirm angepasst wird.</string>
   <string name="screen_confirm">Einschalten</string>
+  	<string name="screen_dark_mode_time_title">Zeitplan</string>
+	<string name="screen_dark_mode_advanced_title">Erweitert</string>
+	<string name="screen_dark_mode_smart_dark_title">Dark Mode überall</string>
+	<string name="screen_dark_mode_smart_dark_summary">Dark Mode auch auf Apps von Drittanbietern anwenden. Einige Apps werden möglicherweise falsch angezeigt.</string>
+	<string name="screen_dark_mode_select_time_error_summary">Startzeit und Endzeit dürfen nicht identisch sein</string>
   <string name="screen_effect">Kontrast &amp; Farben</string>
   <string name="screen_key_long_press">Langer Tastendruck</string>
   <string name="screen_key_long_press_action">Optionen</string>
