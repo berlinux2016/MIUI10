@@ -34,6 +34,7 @@
   <string name="cta_dialog_message">Notizen benötigen Berechtigungen, um eine Internetverbindung herzustellen, Audio aufzunehmen und auf Ihre Kontakte zuzugreifen, damit sie normal funktionieren. Erlauben?</string>
   <string name="cta_dialog_title">Erforderliche Berechtigungen</string>
   <string name="cta_reminder">Notizen benötigt Berechtigungen zum Internetzugang, für Audioaufnahmen und zum Kontaktzugriff, um normal zu funktionieren. Erlauben?</string>
+  <string name="date_calculate_today">0 Tage</string>
   <string name="date_time_picker_alarm_reminder">Alarm</string>
   <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
   <string name="date_time_picker_has_not_set_alarm">Alarm ist nicht eingestellt</string>
@@ -78,7 +79,7 @@
   <string name="error_send_empty_note_to_weibo">Leere Notiz kann nicht nach Weibo verschickt werden</string>
   <string name="error_unsupport_content">Diese Notiz enthält nicht unterstützte Inhalte</string>
   <string name="error_widget_exist_for_send_to_desktop">Diese Notiz ist bereits auf dem Desktop vorhanden</string>
-  <string name="exceed_todo_text_limitation">Aufgabenbeschreibung zu lang</string>
+  <string name="exceed_todo_text_limitation">Aufgabenbeschreibung ist zu lang</string>
   <string name="first_enter_custom_folder_hint">Hier können Sie Ordner umbenennen oder löschen.</string>
   <string name="folder_exist">Ein Ordner mit dem selben Namen ist bereits vorhanden</string>
   <string name="folder_operation_delete">Löschen</string>
@@ -210,6 +211,8 @@
   <string name="theme_title_yellow">Gelb</string>
   <string name="theme_white_description">Weiß</string>
   <string name="theme_yellow_description">Gelb</string>
+  <string name="time_picker_label_hour">h</string>
+  <string name="time_picker_label_minute">min</string>
   <string name="toast_cancel_to_insert_image">Konnte kein Bild hinzufügen</string>
   <string name="toast_message_add_image_fail">Konnte kein Bild hinzufügen</string>
   <string name="toast_notes_delete_success">Erfolgreich gelöscht</string>
@@ -235,8 +238,8 @@ Ermöglichen Sie Notizen, den Status und die Identität des Telefons zu lesen."<
 Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
   <string name="todo_alert_title_delete">Erledigte Aufgaben löschen</string>
   <string name="todo_audio_default_content">"[Sprachaufgabe] "</string>
-  <string name="todo_custom_remind_tag_pattern_with_md">dd/MM HH:mm</string>
-  <string name="todo_custom_remind_tag_pattern_with_ymd">dd/MM/yyyy HH:mm</string>
+  <string name="todo_custom_remind_tag_pattern_with_md">dd.MM. HH:mm</string>
+  <string name="todo_custom_remind_tag_pattern_with_ymd">dd.MM.yyyy HH:mm</string>
   <string name="todo_edit_audio_hint">Sagen Sie Ihre Aufgabe</string>
   <string name="todo_edit_btn_cancel_remind">Erinnerung abbrechen</string>
   <string name="todo_edit_btn_custom">Erinnerung einstellen</string>
@@ -266,12 +269,12 @@ Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
   <string name="todo_module_name">Aufgaben</string>
   <string name="todo_notify_alarm_title">Aufgabenerinnerung</string>
   <string name="todo_schedule_time_expired">" (Abgelaufen)"</string>
-  <string name="todo_schedule_time_md">dd/MM</string>
-  <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
+  <string name="todo_schedule_time_md">dd.MM.</string>
+  <string name="todo_schedule_time_mdhm">dd.MM. HH:mm</string>
   <string name="todo_schedule_time_today">Heute</string>
   <string name="todo_schedule_time_tomorrow">Morgen</string>
   <string name="todo_schedule_time_yesterday">Gestern</string>
-  <string name="todo_schedule_time_ymdhm">dd/MM/yyyy HH:mm</string>
+  <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
   <string name="todo_search_hint">Nach Aufgaben suchen</string>
   <string name="todo_time_picker_title">Erinnerung einstellen</string>
   <string name="todo_user_guide_tip1">Willkommen bei \"Aufgaben\"!</string>
