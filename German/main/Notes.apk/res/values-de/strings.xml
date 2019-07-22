@@ -78,6 +78,7 @@
   <string name="error_send_empty_note_to_weibo">Leere Notiz kann nicht nach Weibo verschickt werden</string>
   <string name="error_unsupport_content">Diese Notiz enthält nicht unterstützte Inhalte</string>
   <string name="error_widget_exist_for_send_to_desktop">Diese Notiz ist bereits auf dem Desktop vorhanden</string>
+  <string name="exceed_todo_text_limitation">Aufgabenbeschreibung zu lang</string>
   <string name="first_enter_custom_folder_hint">Hier können Sie Ordner umbenennen oder löschen.</string>
   <string name="folder_exist">Ein Ordner mit dem selben Namen ist bereits vorhanden</string>
   <string name="folder_operation_delete">Löschen</string>
@@ -115,6 +116,8 @@
   <string name="menu_source">Von %1$s</string>
   <string name="menu_stick">Anheften</string>
   <string name="menu_title_select_folder">Ordner auswählen</string>
+  <string name="menu_todo_hide_finished_todo">Erledigte Aufgaben ausblenden</string>
+  <string name="menu_todo_show_finished_todo">Erledigte Aufgaben anzeigen</string>
   <string name="menu_unhide">Sichtbar machen</string>
   <string name="menu_unmark_privacy">Nicht mehr verstecken</string>
   <string name="menu_unstick">Lösen</string>
@@ -138,12 +141,14 @@
   <string name="permission_intro_storage">Zum Speichern von Notizen und Anhängen</string>
   <string name="permlab_accessNote">Zugang zu Notizen</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Keinen Bestätigungsdialog anzeigen, wenn Notizen per Gesten gelöscht werden</string>
+  <string name="pref_desc_todo_float_mode">Vom Bildschirmrand streichen, um die Aufgaben-Toolbox zu öffnen</string>
   <string name="pref_title_cloud_trash_bin">Notizen auf Mi Cloud löschen</string>
   <string name="pref_title_common">Weitere Einstellungen</string>
   <string name="pref_title_font_size">Schriftgröße</string>
   <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_show_root_folder_in_homepage">Schnellnotizen auf dem Hauptbildschirm anzeigen</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Mit einer Geste löschen</string>
+  <string name="pref_title_todo_float_mode">Aufgaben-Toolbox verwenden</string>
   <string name="recover_notes_hint">Ein Fehler ist aufgetreten, stellen Sie Ihre Notizen von i.mi.com wieder her</string>
   <string name="redo">Wiederholen</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Warten Sie, bis die Notiz geladen ist und versuchen Sie es erneut.</string>
@@ -221,13 +226,58 @@
   <string name="toast_refuse_to_record_when_in_call">Diese Funktion kann nicht während eines Anrufs verwendet werden</string>
   <string name="toast_refuse_to_record_when_in_multi_window">Diese Funktion kann nicht mit geteiltem Bildschirm verwendet werden.</string>
   <string name="toast_refuse_to_use_contact">"Die Berechtigungen für Kontakte sind eingeschränkt.
-Ermöglichen Sie es Notizen, Ihre Kontakte zu lesen und Konten auf dem Gerät zu finden."</string>
-<string name="toast_refuse_to_use_external_storage">"Speicherrechte sind eingeschränkt.
-Erlauben Sie es Notizen, den Inhalt Ihrer SD-Karte zu lesen."</string>
-<string name="toast_refuse_to_use_phone_state">"Telefonberechtigungen sind eingeschränkt.
-Ermöglichen Sie es Notizen, den Status und die Identität des Telefons zu lesen."</string>
-<string name="toast_refuse_to_use_record_audio">"Die Mikrofonrechte sind eingeschränkt.
-Ermöglichen Sie es Notizen, Audio aufzunehmen."</string>
+Ermöglichen Sie Notizen, Ihre Kontakte zu lesen und Konten auf dem Gerät zu finden."</string>
+  <string name="toast_refuse_to_use_external_storage">"Speicherrechte sind eingeschränkt.
+Erlauben Sie Notizen, den Inhalt Ihrer SD-Karte zu lesen."</string>
+  <string name="toast_refuse_to_use_phone_state">"Telefonberechtigungen sind eingeschränkt.
+Ermöglichen Sie Notizen, den Status und die Identität des Telefons zu lesen."</string>
+  <string name="toast_refuse_to_use_record_audio">"Die Mikrofonrechte sind eingeschränkt.
+Ermöglichen Sie Notizen, Audio aufzunehmen."</string>
+  <string name="todo_alert_title_delete">Erledigte Aufgaben löschen</string>
+  <string name="todo_audio_default_content">"[Sprachaufgabe] "</string>
+  <string name="todo_custom_remind_tag_pattern_with_md">dd/MM HH:mm</string>
+  <string name="todo_custom_remind_tag_pattern_with_ymd">dd/MM/yyyy HH:mm</string>
+  <string name="todo_edit_audio_hint">Sagen Sie Ihre Aufgabe</string>
+  <string name="todo_edit_btn_cancel_remind">Erinnerung abbrechen</string>
+  <string name="todo_edit_btn_custom">Erinnerung einstellen</string>
+  <string name="todo_edit_btn_done">Erledigt</string>
+  <string name="todo_edit_btn_today">Heute</string>
+  <string name="todo_edit_btn_tomorrow">Morgen</string>
+  <string name="todo_edit_text_hint">Aufgabenbeschreibung eingeben</string>
+  <string name="todo_event_description_a_week_ago">Vor 1 Woche</string>
+  <string name="todo_event_description_a_week_later">In 1 Woche</string>
+  <string name="todo_event_description_day_after_tomorrow">In 2 Tagen</string>
+  <string name="todo_event_description_day_before_yesterday">Vor 2 Tagen</string>
+  <string name="todo_event_description_today">Heute</string>
+  <string name="todo_event_description_tomorrow">Morgen</string>
+  <string name="todo_event_description_yesterday">Gestern</string>
+  <string name="todo_item_group_expired">Abgelaufen</string>
+  <string name="todo_item_group_finished">Erledigt</string>
+  <string name="todo_item_group_further">Später</string>
+  <string name="todo_item_group_today">Heute</string>
+  <string name="todo_item_group_tomorrow">Morgen</string>
+  <string name="todo_item_group_unschedule">Nicht geplant</string>
+  <string name="todo_item_status_delete">Löschen</string>
+  <string name="todo_item_status_finished">Erledigt</string>
+  <string name="todo_item_status_unfinished">Nicht erledigt</string>
+  <string name="todo_menu_add_audio_description">Sprachaufgabe hinzufügen</string>
+  <string name="todo_menu_add_description">Aufgabe hinzufügen</string>
+  <string name="todo_menu_delete">Löschen</string>
+  <string name="todo_module_name">Aufgaben</string>
+  <string name="todo_notify_alarm_title">Aufgabenerinnerung</string>
+  <string name="todo_schedule_time_expired">" (Abgelaufen)"</string>
+  <string name="todo_schedule_time_md">dd/MM</string>
+  <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
+  <string name="todo_schedule_time_today">Heute</string>
+  <string name="todo_schedule_time_tomorrow">Morgen</string>
+  <string name="todo_schedule_time_yesterday">Gestern</string>
+  <string name="todo_schedule_time_ymdhm">dd/MM/yyyy HH:mm</string>
+  <string name="todo_search_hint">Nach Aufgaben suchen</string>
+  <string name="todo_time_picker_title">Erinnerung einstellen</string>
+  <string name="todo_user_guide_tip1">Willkommen bei \"Aufgaben\"!</string>
+  <string name="todo_user_guide_tip2">Das ist eine Aufgabe. Aktivieren Sie das Kontrollkästchen, um sie zu vervollständigen.</string>
+  <string name="todo_user_guide_tip3">Tippen Sie auf das Plus unten, um eine Aufgabe zu erstellen. Sie können auch eine Sprachaufgabe hinzufügen.</string>
+  <string name="todo_user_guide_tip4">Setzen Sie Erinnerungen für Ihre Aufgaben, damit Sie sie nicht vergessen.</string>
   <string name="toolbar_check_description">Checkbox hinzufügen</string>
   <string name="toolbar_delete_description">Diese Notiz löschen</string>
   <string name="toolbar_gallery_description">Bild hinzufügen</string>
@@ -239,9 +289,9 @@ Ermöglichen Sie es Notizen, Audio aufzunehmen."</string>
   <string name="toolbar_voice_description">Stimme</string>
   <string name="trash_folder_name">Papierkorb</string>
   <string name="trash_folder_reminder">Gelöschte Notizen werden in 30 Tagen dauerhaft gelöscht.</string>
+  <string name="unclassfied_folder_name">Nicht kategorisiert</string>
   <string name="undo">Rückgängig</string>
   <string name="unknown_source">Unbekannte Quelle</string>
-  <string name="unclassfied_folder_name">Nicht kategorisiert</string>
   <string name="widget_content_loading">Einen Moment…</string>
   <string name="widget_havenot_content">Tippen, um eine Notiz zu erstellen. Widget halten, um die Größe zu ändern.</string>
 </resources>
