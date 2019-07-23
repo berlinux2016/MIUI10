@@ -79,9 +79,9 @@
   <string name="error_send_empty_note_to_weibo">Leere Notiz kann nicht nach Weibo verschickt werden</string>
   <string name="error_unsupport_content">Diese Notiz enthält nicht unterstützte Inhalte</string>
   <string name="error_widget_exist_for_send_to_desktop">Diese Notiz ist bereits auf dem Desktop vorhanden</string>
-  <string name="exceed_todo_text_limitation">Aufgabenbeschreibung ist zu lang</string>
+  <string name="exceed_todo_text_limitation">Aufgabenbeschreibung zu lang</string>
   <string name="first_enter_custom_folder_hint">Hier können Sie Ordner umbenennen oder löschen.</string>
-  <string name="folder_exist">Ein Ordner mit dem selben Namen ist bereits vorhanden</string>
+  <string name="folder_exist">Ein Ordner mit demselben Namen ist bereits vorhanden</string>
   <string name="folder_operation_delete">Löschen</string>
   <string name="folder_operation_rename">Umbennen</string>
   <string name="force_touch_menu_add">Notiz hinzufügen</string>
@@ -211,10 +211,8 @@
   <string name="theme_title_yellow">Gelb</string>
   <string name="theme_white_description">Weiß</string>
   <string name="theme_yellow_description">Gelb</string>
-  <string name="time_picker_label_hour">h</string>
-  <string name="time_picker_label_minute">min</string>
-  <string name="toast_cancel_to_insert_image">Konnte kein Bild hinzufügen</string>
-  <string name="toast_message_add_image_fail">Konnte kein Bild hinzufügen</string>
+  <string name="toast_cancel_to_insert_image">Bild wurde nicht hinzugefügt</string>
+  <string name="toast_message_add_image_fail">Bild wurde nicht hinzugefügt</string>
   <string name="toast_notes_delete_success">Erfolgreich gelöscht</string>
   <string name="toast_notes_hidden">Erfolgreich versteckt</string>
   <string name="toast_notes_hidden_count">%1$s erfolgreich versteckt</string>
