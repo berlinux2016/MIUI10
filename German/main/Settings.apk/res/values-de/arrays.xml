@@ -280,6 +280,28 @@
     <item>Optimiert auf Verbindungsqualität (330kbps/303kbps)</item>
     <item>Beste Leistung (Adaptive Bitrate)</item>
   </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+    <item>Kurze Latenzzeit</item>
+    <item>Mittlere Latenzzeit</item>
+    <item>Lange Latenzzeit</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+    <item>Kurze Latenzzeit (50~100ms)</item>
+    <item>Mittlere Latenzzeit (150~200ms)</item>
+    <item>Lange Latenzzeit (300~500ms)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+    <item>Optimiert für Verbindungsqualität</item>
+    <item>Ausgewogene Audio- und Verbindungsqualität</item>
+    <item>Optimiert für Audioqualität</item>
+    <item>Bester Aufwand (Autom. Bitrate)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+    <item>Optimiert für Verbindungsqualität (400kbps)</item>
+    <item>Ausgewogene Audio- und Verbindungsqualität (500/560kbps)</item>
+    <item>Optimiert für Audioqualität (900kbps)</item>
+    <item>Bester Aufwand (Autom. Bitrate)</item>
+  </string-array>
   <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
     <item>Systemauswahl verwenden (Standard)</item>
     <item>44.1 kHz</item>

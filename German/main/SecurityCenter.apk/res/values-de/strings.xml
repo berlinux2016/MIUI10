@@ -21,7 +21,7 @@
   <string name="ac_pre_notification_contentText">Schützen Sie Ihre persönlichen Daten</string>
   <string name="ac_pre_notification_contentTitle">App-Sperre ausprobieren</string>
   <string name="ac_summaryOff">Ausgeschaltet, kein Entsperrmuster zum Öffnen von Apps erforderlich</string>
-  <string name="ac_summaryOn">Eingeschaltet, Entsperrmuster zum Öffnen von Apps erforderlich</string>
+  <string name="ac_summaryOn">Passwort eingeben, um geschützte Apps zu öffnen</string>
   <string name="ac_unmask_all_apps">Für alle Apps einblenden</string>
   <string name="access_control_app_is_launching">App wird gestartet</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Passwort eingeben vor dem Entsperren mit einem neuen Fingerabdruck</string>
@@ -1461,8 +1461,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="notification_exit_power_save_mode">Extrem-Stromsparmodus ist deaktiviert</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku zu %s geladen</string>
   <string name="notification_item">Ausgewählte Apps mit einer App-Sperre sichern</string>
-  <string name="notification_mask_summary">Benachrichtigungsinhalt auf dem Sperrbildschirm und in der Benachrichtigungsleiste verbergen</string>
-  <string name="notification_mask_title">Inhalt verbergen</string>
+  <string name="notification_mask_summary">Keine Benachrichtigungsinhalte für geschützte Apps anzeigen</string>
+  <string name="notification_mask_title">Benachrichtigungsinhalt ausblenden</string>
   <string name="notification_masked_item">Benachrichtigungen verbergen</string>
   <string name="notification_masked_subtitle">Benachrichtigungen von Apps, die mit App-Sperre geschützt sind, verbergen</string>
   <string name="notification_open_extreme_mode_text">Extrem-Stromsparmodus eingeschaltet</string>
@@ -1848,6 +1848,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="preferred_app_entries_messaging">Nachrichten</string>
   <string name="preferred_app_entries_music">Musik</string>
   <string name="privacy_apps">Versteckte Apps</string>
+  <string name="privacy_apps_button_know">Verstanden</string>
   <string name="privacy_apps_category_title">Versteckte Apps</string>
   <string name="privacy_apps_checkbox_remind_choice">Nicht mehr anzeigen</string>
   <string name="privacy_apps_close">Schließen</string>
@@ -1856,7 +1857,11 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="privacy_apps_manage">Versteckte Apps verwalten</string>
   <string name="privacy_apps_manage_dialog_title">Über versteckte Apps</string>
   <string name="privacy_apps_manager_dialog_message">Symbol dieser App wird nicht auf dem Startbildschirm angezeigt, wenn Sie sie verstecken. Diese App jetzt verstecken?</string>
+  <string name="privacy_apps_next_stup">Weiter</string>
+  <string name="privacy_apps_shield_message_summary">Keine Benachrichtigungen für geschützte Apps anzeigen</string>
+  <string name="privacy_apps_shield_message_title">Keine Benachrichtigungen anzeigen</string>
   <string name="privacy_apps_tutorial">Anleitung</string>
+  <string name="privacy_apps_tutorial_dlg_title">Wie man versteckte Apps findet</string>
   <string name="privacy_apps_tutorial_prompt_pageone">"Wenn Sie eine App ausblenden, wird sie in einen versteckten Ordner verschoben. Die Startbildschirmverknüpfung ist auch versteckt.
 Diese Funktion wird bei System-Apps nicht unterstützt."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Wenn Sie Ihr Passwort eingegeben haben, erscheint der Ordner mit den versteckten Apps.</string>
@@ -1867,6 +1872,7 @@ Diese Funktion wird bei System-Apps nicht unterstützt."</string>
   <string name="privacy_prompt_tc_sms_report_message">Ihre Telefonnummer und Anbieterdetails werden verschlüsselt und auf den Mi Server hochgeladen, um Ihren Datenverbrauchsdetails zu aktualisieren.</string>
   <string name="privacy_prompt_traffic_adjust_message">Wenn Sie mit der Kalibrierung beginnen, verbindet sich MIUI mit dem Netzwerk, kodiert die Daten Ihres Netzbetreibers, die Telefonnummer, IMEI und Mi Konto und lädt diese Elemente auf die Mi Server hoch. Dies geschieht, um die Kalibriervorlage des Trägers zu erhalten und zu erfahren, ob es möglich ist, Daten an Ihrem Standort zu erwerben.
 Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber, um die Kalibriervorlage zu erhalten.</string>
+  <string name="privacy_prompt_upload">Hochladen</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="promotion">Werbung</string>
   <string name="prompt_all">Für alles nachfragen</string>
