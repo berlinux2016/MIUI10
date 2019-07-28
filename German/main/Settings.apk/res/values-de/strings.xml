@@ -1086,6 +1086,11 @@ Kanalmodus"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Wiedergabequalität</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth Audio LDAC Codec wählen:
 Wiedergabequalität"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Bluetooth Audio LHDC Codec wählen:
+Latency"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth Audio LHDC Codec: Wiedergabequalität</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Bluetooth Audio LHDC Codec wählen:
+Wiedergabequalität"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Abtastrate</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth Audio Codec wählen:
 Abtastrate"</string>
@@ -1215,6 +1220,13 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden.</string>
   <string name="bt_ldac_property">Eigenschaften</string>
   <string name="bt_ldac_remember_choice">Auswahl merken</string>
   <string name="bt_ldac_settings">Einstellungen</string>
+  <string name="bt_lhdc_declaration">Wenn ein Bluetooth-Gerät LHDC unterstützt, wird es standardmäßig verbunden. LHDC bietet ein hochwertiges Audioerlebnis, erhöht aber auch den Stromverbrauch. Wegen Bluetooth-Hardwarebeschränkungen können während der Wiedergabe Probleme auftreten.</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC bietet ein hochwertiges Audioerlebnis und bringt auch einen höheren Stromverbrauch mit sich.
+Diese Funktion kann unter [Einstellungen] deaktiviert werden."</string>
+  <string name="bt_lhdc_dialog_title">Das aktuelle Gerät unterstützt LHDC und wurde standardmäßig angeschlossen:</string>
+  <string name="bt_lhdc_open_dialog_summary">LHDC bietet ein hochwertiges Audioerlebnis, erhöht aber auch den Stromverbrauch. Wegen Bluetooth-Hardwarebeschränkungen können während der Wiedergabe Probleme auftreten.</string>
+  <string name="bt_lhdc_open_dialog_title">LHDC aktivieren?</string>
+  <string name="bt_lhdc_property">Attribute</string>
   <string name="bt_pre_summary">Bietet ein hochwertiges Audioerlebnis</string>
   <string name="bt_rarely_used_device_title">Selten verwendete Geräte (%d)</string>
   <string name="bt_trace_log">Bluetooth-Tracelog einschalten</string>
@@ -2635,6 +2647,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="guarded_mode_dialog_backup_message">Sicherungen sind im Gastmodus nicht erlaubt</string>
   <string name="guarded_mode_dialog_title">Sie befinden sich im Gastmodus</string>
   <string name="guarded_mode_dialog_transfer_message">Mi Mover kann im Gastmodus nicht verwendet werden</string>
+  <string name="gxzw_add_fingerprint_area">Fingerabdruckscanner</string>
   <string name="gxzw_add_fingerprint_continue">Fortfahren</string>
   <string name="gxzw_add_fingerprint_edge_message">Bewegen Sie Ihren Finger, um die Ränder Ihres Fingerabdrucks aufzuzeichnen.</string>
   <string name="gxzw_add_fingerprint_edge_title">Bewegen Sie Ihren Finger leicht</string>
@@ -5636,6 +5649,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_bar_settings_show_lte_for_4g">LTE-Symbol für 4G anzeigen</string>
   <string name="status_bar_settings_show_network_speed">Verbindungsgeschwindigkeit anzeigen</string>
   <string name="status_bar_settings_show_notification_icon">Benachrichtigungssymbole anzeigen</string>
+  <string name="status_bar_settings_show_weather">Wetter in Benachrichtigungsleiste anzeigen</string>
   <string name="status_bar_settings_show_wifi_name">WLAN anzeigen</string>
   <string name="status_bar_settings_status_bar">Benachrichtigungsleiste</string>
   <string name="status_bar_settings_style">Benachrichtigungs- &amp; Schalterlayout</string>
