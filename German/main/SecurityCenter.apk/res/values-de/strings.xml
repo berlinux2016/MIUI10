@@ -401,6 +401,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="battery_history_hours">%1$dStd %2$dMin %3$dSek</string>
   <string name="battery_history_minutes">%1$dMin %2$dSek</string>
   <string name="battery_history_seconds">%1$dSek</string>
+  <string name="battery_statistics_activity_title">Statistiken zum Akkuverbrauch</string>
   <string name="battery_stats_charging_label">Laden</string>
   <string name="battery_stats_gps_on_label">GPS an</string>
   <string name="battery_stats_on_battery">%1$s im Akkubetrieb</string>
@@ -441,7 +442,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="btn_back">Zurück</string>
   <string name="btn_start_diagnostic">Netzwerkdiagnose</string>
   <string name="btn_text_already_opened">An</string>
-  <string name="btn_text_goto_power_rank">Akkurangliste ansehen</string>
+  <string name="btn_text_goto_power_rank">Alle Statistiken anzeigen</string>
   <string name="btn_text_goto_setup">Zu den Einstellungen</string>
   <string name="btn_text_network_speed_detail">Verbindung</string>
   <string name="btn_text_open_now">Einschalten</string>
@@ -1632,6 +1633,11 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="pc_abnormal_scan_reason_use_GPS">Verwendet zu oft Standortdienste</string>
   <string name="pc_abnormal_scan_reason_wake_system">Das System wird zu oft geweckt</string>
   <string name="pc_activity_title">Akku optimieren</string>
+  <string name="pc_battery_detail_curve_reference_now">Jetzt</string>
+  <string name="pc_battery_detail_device_item_title">Statistiken zum Akkuverbrauch</string>
+  <string name="pc_battery_history_consume_rank_menu_item">Rangliste</string>
+  <string name="pc_battery_history_rank_mha_menu_item">mAh</string>
+  <string name="pc_battery_history_rank_percent_menu_item">Prozent</string>
   <string name="pc_install_manager">Installation via USB</string>
   <string name="pc_main_activity_back">Zurück</string>
   <string name="pc_main_battery_text_day">%1$s Min hinzugefügt, ca. %2$s Tg verbleibend</string>
@@ -2290,6 +2296,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Netzbetreiber,
   <string name="system_permission_declare_double_link">&lt;Data&gt;Lesen und akzeptieren Sie unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt;, bevor Sie diese Funktion nutzen.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Willkommen bei %1s! Mit dieser App können Sie die folgende Funktion nutzen: %2s.</string>
   <string name="system_permission_declare_no_say_no">Wenn Sie sich entscheiden, die erforderlichen Berechtigungen nicht zu erteilen oder uns nicht erlauben, Ihre Daten zu erfassen und zu verwenden, wird diese App nicht normal funktionieren.</string>
+  <string name="system_permission_declare_no_say_no_non_mandatory">Wenn Sie sich entscheiden, die erforderlichen Berechtigungen nicht zu erteilen oder uns nicht erlauben, Ihre Daten zu sammeln und zu verwenden, kann diese App teilweise nicht funktionieren.</string>
   <string name="system_permission_declare_privacy_declare">"Wir respektieren und schützen Ihre Privatsphäre. 
 Beachten Sie, dass %1s Ihre Daten erfassen muss und die folgenden Berechtigungen benötigt, um normal zu funktionieren:"</string>
   <string name="system_permission_declare_privacy_no_permission">"Beachten Sie, dass %1s Ihre Daten sammeln muss, um normal zu funktionieren. Wir respektieren und schützen Ihre Privatsphäre."</string>
