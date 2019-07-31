@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">Vor 1 Stunde</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">Vor 1 Stunde</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Vor 1 halben Stunde</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">In 1 Stunde</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">In 1 halben Stunde</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Sofort</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">In %d Min</item>
+    <item quantity="one">In 1 Min</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Gerade eben</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">Vor %d Min</item>
+    <item quantity="one">Vor 1 Min</item>
+  </plurals>
   <plurals name="add_secret_ensure_message">
     <item quantity="other">Diese Dateien verstecken?</item>
     <item quantity="one">Diese Datei verstecken?</item>
@@ -81,12 +110,16 @@
     <item quantity="one">%d Foto</item>
   </plurals>
   <plurals name="burst_save_confirm_dialog_message">
-    <item quantity="other">%d ausgewählte Fotos speichern und den Rest löschen?</item>
-    <item quantity="one">%d ausgewähltes Foto speichern und den Rest löschen?</item>
+    <item quantity="other">%d Fotos löschen, die Sie nicht ausgewählt haben?</item>
+    <item quantity="one">%d Foto löschen, das Sie nicht ausgewählt haben?</item>
+  </plurals>
+  <plurals name="burst_save_confirm_dialog_title">
+    <item quantity="other">%d Fotos löschen</item>
+    <item quantity="one">%d Foro löschen</item>
   </plurals>
   <plurals name="burst_save_selected">
-    <item quantity="other">%d ausgewählte Fotos speichern</item>
-    <item quantity="one">%d ausgewähltes Foto speichern</item>
+    <item quantity="other">%d ausgewählte Fotos behalten</item>
+    <item quantity="one">%d ausgewähltes Foto behalten</item>
   </plurals>
   <plurals name="cloud_storage_photo_num">
     <item quantity="other">%d Fotos</item>
@@ -119,6 +152,10 @@
   <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
     <item quantity="other">%d Burst Shots aus Mi Cloud und von diesem Gerät löschen?</item>
     <item quantity="one">%d Burst Shot aus Mi Cloud und von diesem Gerät löschen?</item>
+  </plurals>
+  <plurals name="delete_finish_format">
+    <item quantity="other">%d Elemente gelöscht</item>
+    <item quantity="one">%d Elemente gelöscht</item>
   </plurals>
   <plurals name="delete_media_from_all_devices_and_cloud_msg">
     <item quantity="other">%d Elemente aus der Mi Cloud und von allen Geräten löschen?</item>
@@ -183,6 +220,29 @@
   <plurals name="file_count_format">
     <item quantity="other">Insgesamt %1$d</item>
     <item quantity="one">Insgesamt %1$d </item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Vor 1 halben Stunde</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">In 1 Stunde</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">In 1 halben Stunde</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Sofort</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">In %d Minuten</item>
+    <item quantity="one">In 1 Minute</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Gerade eben</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">Vor %d Minuten</item>
+    <item quantity="one">Vor 1 Minute</item>
   </plurals>
   <plurals name="number_of_images_and_videos_to_upload">
     <item quantity="other">%1$d Elemente warten auf Synchronisation</item>
