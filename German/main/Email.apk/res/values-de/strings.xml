@@ -34,7 +34,7 @@
   <string name="account_settings_enforced_summary">Keine</string>
   <string name="account_settings_incoming_summary">Benutzername, Passwort, und andere Servereinstellungen</string>
   <string name="account_settings_login_dialog_content_fmt">Benutzername oder Passwort für %s ist falsch. Jetzt aktualisieren?</string>
-  <string name="account_settings_login_dialog_reason_fmt" formatted="false">Fehler bei Anmeldung an %s, Servermeldung: %s.</string>
+  <string name="account_settings_login_dialog_reason_fmt">Fehler bei Anmeldung an %1$s. Servermeldung: %2$s.</string>
   <string name="account_settings_login_dialog_title">Anmeldung nicht möglich</string>
   <string name="account_settings_mail_check_frequency_dialog_title">E-Mail muss manuell aktualisiert werden, um E-Mails zu synchronisieren</string>
   <string name="account_settings_mail_check_frequency_dialog_title_eas">Sie müssen E-Mails manuell synchronisieren, um Nachrichten und Kalendereinträge synchronisieren zu können.</string>
@@ -537,9 +537,15 @@
   <string name="local_search_result">%s Treffer in sychronisierten Nachrichten</string>
   <string name="log_save_path">Log-Pfad</string>
   <string name="login">Anmelden</string>
-  <string name="login139">Anmelden mit China Mobile</string>
   <string name="login_err_message">%1$s. Eventuell benötigen Sie auch einen Verifizierungscode zum Anmelden. Wenn Sie Ihr Passwort zurücksetzen müssen, gehen Sie auf https://email.163.com/, um die verfügbaren Optionen zu sehen.</string>
   <string name="login_failed_ticker">Anmeldung an %s erfolglos</string>
+  <string name="login_failed_tip">Login help feedback add WeChat public number:</string>
+  <string name="login139">Anmelden mit China Mobile</string>
+  <string name="mail_login_help">Anmeldehilfe</string>
+  <string name="mail_login_help_bottom_tip">Wenn Sie Ihr Passwort zurücksetzen oder den Status der Einstellungen überprüfen müssen, besuchen Sie https://email.163.com/, um die verfügbaren Optionen zu sehen</string>
+  <string name="mail_login_help_details1">1. E-Mail-Passwort: Wenn Sie keinen Client-Verifizierungscode eingerichtet haben und bereits das POP3/IMAP/SMTP-Protokoll geöffnet haben, können Sie sich mit dem E-Mail-Passwort anmelden.</string>
+  <string name="mail_login_help_details2">2. Client-Verifizierungscode: Wenn Sie bereits einen Client-Verifizierungscode eingerichtet haben, müssen Sie sich damit anmelden und sicherstellen, dass das POP3/IMAP/SMTP-Protokoll geöffnet war.</string>
+  <string name="mail_login_help_title">E-Mail-Passwort oder Beschreibung des Kundenverifizierungscodes:</string>
   <string name="login_failed_title">Anmeldung nicht möglich</string>
   <string name="login_mail">Anmelden</string>
   <string name="login_qq_psw">Mit QQ-Passwort/Authentifikator/Verifizierungscode anmelden</string>
@@ -656,7 +662,7 @@
   <string name="no_recognize_describe">"E-Mails mit Tickets oder Buchungen nicht gefunden.
 Versuchen Sie einen anderen Posteingang."</string>
   <string name="no_remind">Keine Erinnerungen</string>
-  <string name="no_search_results">Keine Ergebnisse gefunden</string>
+  <string name="no_search_results">Auf dem Server weiter suchen</string>
   <string name="not_subject">(Kein Betreff)</string>
   <string name="not_synced_title">Konto nicht synchronisiert</string>
   <string name="note_text">Möglicherweise können durch das Netzwerk von China Mobile oder durch SMS-Überprüfungen zusätzliche Kosten entstehen</string>
@@ -691,7 +697,7 @@ Versuchen Sie einen anderen Posteingang."</string>
   <string name="open_notification_kingagent">Benachrichtigungen über Bestattungsorte aktivieren</string>
   <string name="optimization_suggestion">Optimierungsvorschlag</string>
   <string name="others_mail">Andere</string>
-  <string name="others_mail_des">(Kompatibel mit 600K E-Mail-Diensten)</string>
+  <string name="others_mail_des">Dies gilt für andere E-Mail-Dienste oder E-Mail-Dienste für Unternehmen.</string>
   <string name="outbox_alert_button_no_resend">Nicht senden</string>
   <string name="outbox_alert_button_resend">Erneut senden</string>
   <string name="outbox_alert_certificate_error">Kontaktieren Sie Ihren Mailsystemadministrator und aktualisieren Sie Ihr Zertifikat</string>
@@ -826,6 +832,11 @@ Versuchen Sie einen anderen Posteingang."</string>
   <string name="qq_bar_send_message">SMS senden</string>
   <string name="qq_login_basecode">Auf der QQ Mail-Webseite anmelden. Eigenes Passwort eingeben.</string>
   <string name="qq_login_get_auth">Aktivieren Sie Passwortschutz, wenn Sie keine SMS empfangen können</string>
+  <string name="qq_login_help_bottom_tip">Wenn Sie Ihr Passwort zurücksetzen oder den Status der Einstellungen überprüfen müssen, besuchen Sie https://mail.qq.com/, um die Ihnen zur Verfügung stehenden Optionen zu sehen:</string>
+  <string name="qq_login_help_details1">1. QQ-Passwort: Wenn Sie kein E-Mail-Passwort und keinen Client-Verifizierungscode eingerichtet haben und sicherstellen, dass das POP3/IMAP/SMTP-Protokoll geöffnet war, können Sie sich mit QQ-Passwort anmelden.</string>
+  <string name="qq_login_help_details2">2. E-Mail-Passwort: Wenn Sie bereits ein E-Mail-Passwort eingerichtet haben und keinen Client-Verifizierungscode eingerichtet haben und sicherstellen, dass das POP3/IMAP/SMTP-Protokoll geöffnet war, können Sie sich mit dem E-Mail-Passwort anmelden.</string>
+  <string name="qq_login_help_details3">3. Kunden-Verifizierungscode: Wenn Sie bereits einen QQ-Kunden-Verifizierungscode eingerichtet haben, müssen Sie sich bei uns anmelden, um Ihren Kunden-Verifizierungscode zurückzusetzen:</string>
+  <string name="qq_login_help_title">QQ-Passwort/E-Mail-Passwort/Client-Verifizierungscode-Beschreibung</string>
   <string name="qq_login_notice">Hinweis: Wenn Sie bereits ein Passwort eingerichtet haben, müssen Sie es bei der Anmeldung bestätigen.</string>
   <string name="qq_login_open_imap">\"Hilfe\" klicken, um IMAP/SMTP zu aktivieren</string>
   <string name="qq_login_origin_setting">Zur Anmeldung Benutzername und Passwort eingeben &gt;</string>
@@ -908,7 +919,7 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
   <string name="reply">Antworten</string>
   <string name="reply_add_bodycontent">Antwort zum Nachrichtentext hinzufügen?</string>
   <string name="reply_all">Allen Antworten</string>
-  <string name="reply_attribution" formatted="false">Am %s schrieb %s:</string>
+  <string name="reply_attribution">Am %1$s schrieb %2$s:</string>
   <string name="report_phishing">Phishing melden</string>
   <string name="report_rendering_improvement">Sieht gut aus</string>
   <string name="report_rendering_improvement_desc">Diese Nachricht sieht gut aus.</string>
@@ -969,7 +980,7 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
   <string name="ser_resp_err_map_max_connections">Zu viele Verbindungsversuche</string>
   <string name="ser_resp_err_map_nouser">Benutzer nicht vorhanden</string>
   <string name="ser_resp_err_map_or">%1$s oder %2$s</string>
-  <string name="ser_resp_err_map_pserr">Benutzername oder Passwort falsch</string>
+  <string name="ser_resp_err_map_pserr">Benutzername oder Passwort falsch.</string>
   <string name="ser_resp_err_map_serclosed">%s-Server ist geschlossen</string>
   <string name="ser_resp_err_map_ssl">"Wählen Sie in 'Sicherheitstyp' 'SSL/TLS (Alle Zertifikate akzeptieren)'"</string>
   <string name="service_protocol_discribe"><u>Ich habe den WPS Mail-Servicevertrag gelesen und bin damit einverstanden</u></string>
@@ -1028,6 +1039,7 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
   <string name="toast_bar_no_connection_network">Keine Internetverbindung</string>
   <string name="toast_bar_open_gmail_synchronization">Keine Verbindung zu Gmail. Gmail-Proxy einschalten</string>
   <string name="toast_bar_send_fail_remind">E-Mail senden fehlgeschlagen. E-Mail wurde im Ordner \"Postausgang\" gespeichert</string>
+  <string name="toast_bar_sync_failed_client_cert">Synchronisation fehlgeschlagen, Authentifizierungsfehler, klicken Sie hier, um das Zertifikat erneut hinzuzufügen.</string>
   <string name="toast_bar_sync_failed_mi_authority">Synchronisation fehlgeschlagen. Ein bis zwei Minuten warten und erneut versuchen. Details anzeigen.
 (Wenn Sie ein nicht autorisiertes Gerät verwenden, verbinden Sie sich mit dem Intranet oder verwenden Sie einen Verifizierungscode.)"</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Um Kalenderinfos und Kontakte zu synchronisieren, geben Sie E-Mail die erforderlichen Berechtigungen in den Einstellungen</string>
