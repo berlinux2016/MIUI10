@@ -101,8 +101,10 @@
   <string name="accessibility_ultra_pixel_photography_32mp_on">32 MP an</string>
   <string name="accessibility_ultra_pixel_photography_48mp_off">48 MP aus</string>
   <string name="accessibility_ultra_pixel_photography_48mp_on">48 MP an</string>
-  <string name="accessibility_ultra_wide_off">Im Ultarweitwinkelmodus ausgeschaltet</string>
-  <string name="accessibility_ultra_wide_on">Im Ultraweitwinkelmodus eingeschaltet</string>
+  <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD ist aus</string>
+  <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD ist an</string>
+  <string name="accessibility_ultra_wide_off">Ultraweitwinkelmodus ausgeschaltet</string>
+  <string name="accessibility_ultra_wide_on">Ultraweitwinkelmodus eingeschaltet</string>
   <string name="accessibility_video_btn_play">Video abspielen</string>
   <string name="accessibility_video_capture_button">Taste für die Aufnahme von Fotos während der Videoaufnahme</string>
   <string name="accessibility_video_module_picker">Videomodusauswahl</string>
@@ -1086,20 +1088,22 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Serienaufnahme wird bei aktivierter Verschönerung nicht unterstützt</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Serienaufnahme wird nicht unterstützt, wenn HDR aktiviert ist</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">Sie müssen ISO auf \'Auto\' einstellen</string>
-  <string name="toast_saving">Fotos werden gespeichert…</string>
-  <string name="toast_start_audio_capture">Geräusch machen beim Auslösen eines Fotos</string>
-  <string name="ubi_focus_capture_fail">Foto konnte nicht gemacht werden</string>
+  <string name="toast_saving">Fotos speichern…</string>
+  <string name="toast_start_audio_capture">Ton erzeugen beim Fotografieren</string>
+  <string name="ubi_focus_capture_fail">Foto wurde nicht gemacht</string>
   <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Motive enthalten</string>
   <string name="ultra_pixel_photography_32mp_close_tip">32 MP aus</string>
   <string name="ultra_pixel_photography_48mp_close_tip">48 MP aus</string>
-  <string name="ultra_wide_bokeh_open_tip">Ganzkörpermodus</string>
+  <string name="ultra_pixel_photography_close_tip">%s Ultra HD ist aus</string>
+  <string name="ultra_pixel_photography_open_tip">%s Ultra HD ist an</string>
   <string name="ultra_wide_bokeh_close_tip">Ganzkörpermodus ist aus</string>
+  <string name="ultra_wide_bokeh_open_tip">Ganzkörpermodus</string>
   <string name="ultra_wide_close_tip">Ultraweitwinkelmodus ist aus</string>
   <string name="ultra_wide_mode">Ultraweitwinkel</string>
   <string name="ultra_wide_mode_use_hint_text">"Verwenden Sie diesen Modus, um mehr von der Szene in Ihr Foto aufzunehmen.
 Ultraweitwinkelmodus hilft, wenn man sich nicht weiter von der Szene entfernen kann."</string>
-  <string name="ultra_wide_mode_use_hint_text_sat">"Versuchen Sie den 0,6X Ultra-Weitwinkelmodus, um mehr von der Szene in Ihr Foto aufzunehmen.
-Der Ultra-Weitwinkelmodus hilft, wenn Sie sich nicht weiter von der Szene entfernen können."</string>
+  <string name="ultra_wide_mode_use_hint_text_sat">"Versuchen Sie den 0,6X Ultraweitwinkelmodus, um mehr von der Szene in Ihr Foto aufzunehmen.
+Der Ultraweitwinkelmodus hilft, wenn Sie sich nicht weiter von der Szene entfernen können."</string>
   <string name="ultra_wide_open_tip">Ultraweitwinkelmodus</string>
   <string name="ultra_wide_open_tip_sat">0.6X Ultraweitwinkel</string>
   <string name="ultra_wide_recommend_tip_hint">Mit Ultraweitwinkelmodus versuchen</string>
