@@ -36,9 +36,13 @@
     <item quantity="other">Schlummerintervall wurde auf %d Minuten geändert</item>
     <item quantity="one">Schlummerintervall wurde auf %d Minute geändert</item>
   </plurals>
+  <plurals name="snooze_duration_desc">
+    <item quantity="other">Alle %1$s Min %2$s-mal ausschalten</item>
+    <item quantity="one">Alle %1$s Min %2$s-mal ausschalten</item>
+  </plurals>
   <plurals name="snooze_duration_summary">
-   <item quantity="other">Alarm wird %2$s-mal ausgelöst (jeweils %1$s Min.)</item>
-   <item quantity="one">Alarm wird %2$s-mal ausgelöst (%1$s Min.)</item>
+   <item quantity="other">Alarm wird %2$s-mal ausgelöst (jeweils %1$s Min)</item>
+   <item quantity="one">Alarm wird %2$s-mal ausgelöst (%1$s Min)</item>
   </plurals>
   <plurals name="snooze_message">
     <item quantity="other">%d Minuten schlummern</item>
