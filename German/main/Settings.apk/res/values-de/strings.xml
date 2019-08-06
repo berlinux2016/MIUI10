@@ -2590,6 +2590,7 @@ Die böse Hexe des Westens sendet Wölfe, Krähen, Bienen, ihre Winkie-Soldaten 
   <string name="fsg_mistake_touch_summary">In einigen Szenen, wie z. B. bei Vollbild-Spielen und -Videos, müssen Gesten doppelt gewischt werden, um wirksam zu werden.</string>
   <string name="fsg_mistake_touch_title">Doppelkontrolle der Gesten</string>
   <string name="full_screen_display">Vollbildmodus</string>
+  <string name="full_screen_keyboard_optimization">Tastatur verbessern</string>
   <string name="full_transparent_smarrcover_title">Transparente Frontabdeckung</string>
   <string name="fullbackup_data_summary">"Gerätedaten (wie WLAN Passwörter und Anrufliste) und App-Daten (wie Einstellungen und von Apps gespeicherte Dateien) automatisch sichern.
 Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten periodisch in der Cloud gespeichert. App-Daten können alle Daten sein, die eine App gespeichert hat (basierend auf den Entwicklereinstellungen), einschl. potenziell sensibler Daten wie Kontakte, Nachrichten und Fotos."</string>
@@ -2819,6 +2820,16 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="input_assistance">Eingabeassistent</string>
   <string name="input_hint_prefix">Eingabe %1$s</string>
   <string name="input_method">Tastatur</string>
+  <string name="input_method_function_clipboard">Zwischenablage und häufige Sätze</string>
+  <string name="input_method_function_clipboard_des">Tippen, um die Zwischenablage und häufige Sätze anzuzeigen</string>
+  <string name="input_method_function_no_function">Nichts</string>
+  <string name="input_method_function_no_function_des">Keine Verknüpfungen anzeigen</string>
+  <string name="input_method_function_switch">Zwischen Tastaturen umschalten</string>
+  <string name="input_method_function_switch_des">Tippen, um zu einer anderen Tastatur zu wechseln</string>
+  <string name="input_method_function_voice">Spracheingabe</string>
+  <string name="input_method_function_voice_des">Tippen, um Spracheingabe zu verwenden</string>
+  <string name="input_method_function_xiaoai">Mi AI Spracheingabe</string>
+  <string name="input_method_function_xiaoai_des">Tippen, um Mi AI Spracheingabe zu verwenden</string>
   <string name="input_method_selector">Auswahl der Eingabemethoden</string>
   <string name="input_method_selector_always_hide_title">Nie anzeigen</string>
   <string name="input_method_selector_always_show_title">Immer anzeigen</string>
@@ -3032,6 +3043,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="led_frequence_summary">Blinkintervall einstellen</string>
   <string name="led_pulse_summary">LED blinkt bei eingehenden Benachrichtigungen</string>
   <string name="led_settings">LED-Benachrichtigung</string>
+  <string name="left_function_key">Verknüpfung links</string>
   <string name="legacy_dhcp_client">Alten DHCP-Client verwenden</string>
   <string name="legacy_dhcp_client_summary">Alten DHCP-Client von Lollipop anstelle des neuen Android DHCP Client verwenden</string>
   <string name="legal_information">Rechtliche Hinweise</string>
@@ -3339,7 +3351,9 @@ Diese PIN muss so viele Ziffern enthalten wie das erste Profil."</string>
   <string name="long_press_home_key">Hometaste lange drücken</string>
   <string name="long_press_menu_key">Menütaste lange drücken</string>
   <string name="long_press_menu_key_when_lock">Menütaste auf dem Sperrbildschirm lange drücken</string>
+  <string name="long_press_power_key">Lange die Power-Taste drücken</string>
   <string name="long_press_power_key_half_of_second">Halten Sie die Power-Taste 0,5 Sekunden lang gedrückt, um den Google Assistant einzuschalten.</string>
+  <string name="long_press_power_key_tips">&lt;Data&gt;Lange die Power-Taste drücken &amp;lt;font color=#999999&amp;gt;Schneller und komfortabler&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="long_press_volume_down">Langer Druck auf Lautstärke leiser</string>
   <string name="lost_internet_access_cancel">Auf WLAN bleiben</string>
   <string name="lost_internet_access_persist">Nicht mehr anzeigen</string>
@@ -3872,6 +3886,7 @@ Betriebssystem auswählen:"</string>
   <string name="noise_suppression">Rauschunterdrückung</string>
   <string name="none">Keine</string>
   <string name="normal">Normal</string>
+  <string name="normal_bottom_height_of_keyboard">Regulär</string>
   <string name="normal_info">Alle Töne funktionieren normal</string>
   <string name="normal_smartcover_title">Blickdichte Frontabdeckung</string>
   <string name="not_battery_optimizing">Nicht mit Akku-Optimierung</string>
@@ -4323,6 +4338,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="power_usage_old_debug">%1$s übrig (alt geschätzt)</string>
   <string name="power_usage_summary">Was den Akku verbraucht</string>
   <string name="power_usage_summary_title">Akku &amp; Leistung</string>
+  <string name="power_usage_summary_title_new">Akku &amp; Leistung</string>
   <string name="power_user">Benutzer</string>
   <string name="pre_installed_application">Vorinstallierte Apps</string>
   <string name="pref_bg_network_title">Hintergrundverbindung</string>
@@ -4615,6 +4631,9 @@ UT Interface: %5$s"</string>
   <string name="radio_info_toggle_dns_check_label">DNS-Überprüfung ein-/ausschalten</string>
   <string name="radio_info_ul_kbps">UL Bandbreite (kbps):</string>
   <string name="radio_info_voice_network_type_label">Netzwerktyp für Stimme:</string>
+  <string name="raise_bottom_height_of_keyboard">Erweitert</string>
+  <string name="raise_bottom_height_of_keyboard_sub_title">Eine Leiste mit anpassbaren Verknüpfungen wird unter der Tastatur angezeigt, wenn Sie in den erweiterten Modus wechseln</string>
+  <string name="raise_bottom_height_of_keyboard_title">Tastatur an die Vollbildanzeige anpassen</string>
   <string name="rank_title">Rangliste</string>
   <string name="rarely_running">Läuft selten (%s)</string>
   <string name="read_encrypt_fail">Verschlüsselte Sicherung konnte nicht gelesen werden</string>
@@ -4738,6 +4757,7 @@ UT Interface: %5$s"</string>
   <string name="retry">Erneut versuchen</string>
   <string name="reverse_all">Alles löschen</string>
   <string name="rgb_manage_facerecoginition_text">2D-Gesichtsdaten verwalten</string>
+  <string name="right_function_key">Verknüpfung rechts</string>
   <string name="ring_volume_option_title">Ruftonlautstärke</string>
   <string name="ring_volume_title">Klingeltonlautstärke</string>
   <string name="ringtone_mute">Keinen</string>
@@ -7563,6 +7583,7 @@ Diese Funktion wird automatisch ausgeschaltet, wenn der Ladevorgang nicht innerh
   <string name="xiaomi_cloud_service_description">Mi Cloud synchronisiert Ihre Kontakte und Fotos, sichert Ihre Apps und Einstellungen und hilft Ihnen, Ihr Telefon mit \"Gerät finden\" zu finden.</string>
   <string name="xiaomi_cloud_service_description_contact">Kontakte und</string>
   <string name="xiaomi_cloud_service_description_format">Mi Cloud synchronisiert Ihre %s-Fotos, sichert Ihre Apps und Einstellungen und hilft Ihnen, Ihr Telefon mit \"Gerät finden\" zu finden.</string>
+  <string name="xiaomi_cloud_service_description_without_contacts">Cloud synchronisiert Ihre Fotos, sichert Ihre Apps und Einstellungen und hilft Ihnen, Ihr Telefon mit \"Gerät finden\" zu lokalisieren.</string>
   <string name="xiaomi_cloud_service_disabled">Aus</string>
   <string name="xiaomi_cloud_service_unknown">Unbekannt</string>
   <string name="xiaomi_connect_download_manager_fail">Download wurde nicht gestartet. Stellen Sie sicher, dass der Downloadmanager normal funktioniert.</string>
