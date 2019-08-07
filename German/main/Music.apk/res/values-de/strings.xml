@@ -212,6 +212,10 @@
   <string name="dialog_insufficient_space_on_cache">Nicht genügend Platz auf dem internen Speicher</string>
   <string name="dialog_insufficient_space_on_external">Nicht genügend Platz auf dem externen Speicher</string>
   <string name="dialog_media_not_found">Download kann nicht beendet werden, Medium nicht verfügbar.</string>
+  <string name="dialog_my_playlist_online_changed_merge">Behalten</string>
+  <string name="dialog_my_playlist_online_changed_message">Anscheinend hat sich diese Playlist geändert. Sie können sie durch die neue Version ersetzen oder die alte behalten.</string>
+  <string name="dialog_my_playlist_online_changed_replace">Ersetzen</string>
+  <string name="dialog_my_playlist_set_to_public">Diese Wiedergabeliste mit Mi Music teilen</string>
   <string name="dialog_queued_body">Diese Datei wurde in die Warteschlange eingereiht</string>
   <string name="dialog_renew_failure">Sorry, Vorgang fehlgeschlagen</string>
   <string name="dialog_renew_free_end">Ihre kostenlose Testversion ist beendet. Hungama PRO abonnieren?</string>
@@ -544,6 +548,10 @@
   <string name="my_account">Mi Konto</string>
   <string name="my_music_empty">Wiedergabeliste ist leer</string>
   <string name="my_music_empty_goto_online">Keine Titel gefunden</string>
+  <string name="my_playlist_add_song">Songs hinzufügen</string>
+  <string name="my_playlist_create_self_playlist">Erstellen Sie Wiedergabelisten mit Ihren Lieblingssongs</string>
+  <string name="my_playlist_set_to_private">Privat machen</string>
+  <string name="my_playlist_set_to_public">Öffentlich machen</string>
   <string name="nav_online_playlist">Wiedergabelisten</string>
   <string name="network_error_and_retry">Prüfen Sie Ihre Verbindung und versuchen Sie es erneut.</string>
   <string name="network_failure">Prüfen Sie Ihre Verbindung und versuchen Sie es erneut.</string>
@@ -638,6 +646,8 @@
   <string name="permission_declaration_negative_text">Später</string>
   <string name="permission_declaration_positive_text">Zu Sicherheit gehen</string>
   <string name="permission_declaration_title">Zugriff erlauben</string>
+  <string name="permission_open">Erlauben</string>
+  <string name="permission_required">Erforderliche Berechtigungen</string>
   <string name="pick_favorite_song">Favoriten</string>
   <string name="pick_local_song">Lokale Titel</string>
   <string name="pick_recent_song">Kürzlich gespielt</string>
@@ -708,6 +718,7 @@
 Glücklich sein."</string>
   <string name="repeat_all_notif">Alle Titel wiederholen</string>
   <string name="repeat_current_notif">Aktuellen Titel wiederholen</string>
+  <string name="request_overlay_permission_desc">Erlauben Sie Mi Music, Popup-Benachrichtigungen anzuzeigen, um diese Funktion nutzen zu können.</string>
   <string name="request_share_info">Nur eine Sekunde…</string>
   <string name="request_subscription_status">Nur eine Sekunde…</string>
   <string name="restart_immediate">Jetzt neustarten</string>
@@ -737,6 +748,7 @@ Glücklich sein."</string>
   <string name="search_hint_online">Suchen Sie online nach Künstlern, Alben, Songs, Wiedergabelisten und Videos.</string>
   <string name="search_history_clear_all">Löschen</string>
   <string name="search_history_delete_all_dialog_titile">Suchverlauf jetzt löschen?</string>
+  <string name="search_in_youtube">Auf YouTube suchen</string>
   <string name="search_menu_title">Suchen</string>
   <string name="search_result_local_songs">Lokal</string>
   <string name="search_songs">Nach Songs suchen</string>
@@ -786,6 +798,7 @@ Glücklich sein."</string>
   <string name="share_image_error">Bild konnte wegen Downloadfehlers nicht geteilt werden</string>
   <string name="share_text_list">"Ich habe eine Wiedergabeliste auf Mi Musik gefunden: "</string>
   <string name="share_text_song">"Ich habe einen Titel auf Mi Musik gefunden: "</string>
+  <string name="show_float_first_hint">Player minimieren</string>
   <string name="show_more">%s weitere anzeigen</string>
   <string name="shuffle_music">Zufallswiedergabe</string>
   <string name="shuffle_off_notif">Zufallswiedergabe ist aus</string>
@@ -862,6 +875,9 @@ Glücklich sein."</string>
   <string name="toast_download_error_by_vip_required">Holen Sie sich ein Premiumpaket, um diesen Titel herunterladen zu können.</string>
   <string name="toast_download_in_process">Download in Bearbeitung</string>
   <string name="toast_is_pro">Sie sind bereits PRO-Mitglied.</string>
+  <string name="toast_my_playlist_illegal_name">Name dieser Wiedergabeliste ist ungültig. Benennen Sie diese Wiedergabeliste um.</string>
+  <string name="toast_my_playlist_set_to_private">Diese Wiedergabeliste ist jetzt privat. Andere Leute können sie nicht sehen.</string>
+  <string name="toast_my_playlist_set_to_public">Diese Wiedergabeliste ist jetzt öffentlich. Andere Leute können sie sehen.</string>
   <string name="toast_new_playlist_name_no_enter">Weitere Zeile nicht verfügbar</string>
   <string name="toast_new_playlist_name_too_long">Name der Wiedergabeliste zu lang</string>
   <string name="toast_normal_songs_for_download">Downloadqualität auf Standard gesetzt</string>
