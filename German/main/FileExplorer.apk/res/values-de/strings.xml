@@ -13,6 +13,7 @@
   <string name="all_topic">Alle Themen</string>
   <string name="already_liked">Schon in den Favoriten vorhanden</string>
   <string name="apk_installing">Installieren…</string>
+  <string name="app_function">Dateien auf Ihrem Gerät verwalten</string>
   <string name="app_name">Dateimanager</string>
   <string name="app_name_camera">Kamera</string>
   <string name="app_name_downloadedrom">Pakete</string>
@@ -185,9 +186,10 @@
   <string name="error_create_dir">Ordner konnte nicht erstellt werden</string>
   <string name="error_create_file">Datei konnte nicht erstellt werden</string>
   <string name="error_delete_failed">Datei konnte nicht gelöscht werden</string>
+  <string name="error_file_already_exists">Diese Datei existiert bereits</string>
   <string name="error_filename_too_long">Dateiname zu lang</string>
   <string name="error_folder_already_exists">Datei existiert bereits</string>
-  <string name="error_info_cant_send_folder">Dateityp kann nicht gesenet werden</string>
+  <string name="error_info_cant_send_folder">Dateityp kann nicht gesendet werden</string>
   <string name="error_invalid_path">Falscher Pfad</string>
   <string name="error_not_support">Nicht unterstützt</string>
   <string name="error_open_file_failed_no_app_found">Keine App zum Öffnen dieser Datei gefunden</string>
@@ -236,11 +238,14 @@
   <string name="ftp_username_and_passworld">Anmeldung</string>
   <string name="ftp_username_hint">Benutzername</string>
   <string name="full_gems">Tauschen Sie Ihre Edelsteine</string>
+  <string name="function_file_operation">"Zum Zugriff auf und Öffnen von Dateien; "</string>
+  <string name="function_set_private">"Zum Anzeigen und Verschlüsseln von Dateien; "</string>
+  <string name="function_use_imei">"Zum Zugriff auf die IMEI und zur Verschlüsselung von Dateien; "</string>
   <string name="gbk_summary">\"Vereinfachtes Chinesisch\" Windows Standardcodierung</string>
   <string name="gender_choose_sub_tile">Erhalten Sie personalisierte Inhalte</string>
   <string name="gender_choose_sub_title">Erhalten Sie hilfreiche Empfehlungen</string>
   <string name="gender_choose_tip">Geben Sie Ihr Geschlecht an</string>
-  <string name="get_user_info_err">Konnte keine Informationen zu dieser Person erhalten</string>
+  <string name="get_user_info_err">Keine Informationen zu dieser Person erhalten</string>
   <string name="get_verification_code_fail">Keinen Verifikationscode erhalten</string>
   <string name="group_title">%2$s von %1$s</string>
   <string name="group_title_extra_backup">Sicherungen</string>
