@@ -24,6 +24,8 @@
   <string name="autofill_save_ok">Erlauben</string>
   <string name="autofill_save_sub_message">Sie können gespeicherte Passwörter verwalten unter Einstellungen &gt; Passwörter &amp; Sicherheit &gt; %s.</string>
   <string name="autofill_save_title">Passwörter automatisch speichern</string>
+  <string name="btn_cancel">Abbrechen</string>
+  <string name="btn_sure">Bestätigen</string>
   <string name="button_text_cancel">Abbrechen</string>
   <string name="button_text_delete">Deinstallieren</string>
   <string name="button_text_delete_timer">Deinstallieren (%d)</string>
@@ -34,6 +36,7 @@
   <string name="caller_info_name_delimiter">" oder "</string>
   <string name="cancel_action">Abbrechen</string>
   <string name="close">Schließen</string>
+  <string name="confirm_cancel_task">Möchten Sie das Senden von %1$s an %2$s abbrechen?</string>
   <string name="configure_input_methods">Tastatur auswählen</string>
   <string name="content_description_dial">Anrufen</string>
   <string name="content_description_search">Suchen</string>
@@ -42,13 +45,20 @@
   <string name="content_description_web_url">Surfen</string>
   <string name="copy">Kopieren</string>
   <string name="cut">Ausschneiden</string>
+  <string name="default_device_name">Unbekanntes Gerät</string>
   <string name="default_name">Standard</string>
   <string name="description_title">Lautlosmodus</string>
   <string name="eighthours">8 Std</string>
   <string name="enable_livetalk_summary">0,05 ¥ pro Minute für Inlandsgespräche</string>
   <string name="enable_livetalk_title">Schalten Sie Aufladepakete ein</string>
+  <string name="enable_midrop">Öffen</string>
   <string name="fc_dialog_body">Fehlerbericht zur Analyse an Xiaomi senden? Dieser Bericht enthält möglicherweise persönliche Informationen. Ihr Bericht wird nicht mit Dritten geteilt, sondern ausschließlich zur Behebung des Fehlers verwendet.</string>
   <string name="fc_dialog_jump_to_preview">Zusammenfassung anzeigen</string>
+  <string name="file">Datei</string>
+  <string name="file_cannot_print">Dieser Inhalt unterstützt das Drucken nicht.</string>
+  <string name="file_cannot_screen_throw">Dieser Inhalt unterstützt keine Projektionswand</string>
+  <string name="file_sending">Senden</string>
+  <string name="file_type_detail_count">%1$d Dateien</string>
   <string name="first_back_long_press_message">"Langer Druck auf die Zurücktaste beendet den aktuellen Prozess.
 Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstellungen &gt; Tasten."</string>
   <string name="fm_record_smaple_prefix_miui">FM-Aufnahme</string>
@@ -61,6 +71,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="fp_nav_center_action_choose_dlg_title">Hometaste anpassen </string>
   <string name="frequent_email">Häufige E-Mails</string>
   <string name="frequent_phrases">Häufig verwendete Sätze</string>
+  <string name="functions_are_being_developed">Die Funktionalität wird derzeit entwickelt, auf dem Laufenden bleiben.</string>
   <string name="global_actions_airplane_mode">Flugmodus</string>
   <string name="global_actions_reboot">Neustart</string>
   <string name="global_actions_shutdown">Herunterfahren</string>
@@ -75,6 +86,11 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="handy_mode_summary">Zum Schließen auf eine leere Stelle des Bildschirms tippen</string>
   <string name="handy_mode_title">Einhandmodus</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Auf Hometaste drücken</string>
+  <string name="input_method_edit_phrase_text">Häufige Sätze bearbeiten</string>
+  <string name="input_method_no_content_text">Hier noch keine Elemente</string>
+  <string name="input_method_switch_settings_text">Tastatureinstellungen</string>
+  <string name="input_method_tab_clipboard_text">Zwischenablage</string>
+  <string name="input_method_tab_phrase_text">Häufige Sätze</string>
   <string name="internal_livetalk_enable">Anrufpakete für nationale Anrufe verwenden</string>
   <string name="international_livetalk_enable">Anrufpakete für internationale Anrufe verwenden</string>
   <string name="key_btn_space">Leerzeichen</string>
@@ -105,6 +121,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="perm_send_push_lab">Pushnachrichten senden</string>
   <string name="permdesc_manageLocationPolicy">Erlaubt der App, Lokalisierungsregeln zu verwalten</string>
   <string name="permlab_manageLocationPolicy">Lokalisierungsregeln verwalten</string>
+  <string name="picture">Bilder</string>
   <string name="popup_camera_calibrate_failed">Kalibrieren fehlgeschlagen</string>
   <string name="popup_camera_calibrate_now">Kalibrieren</string>
   <string name="popup_camera_calibrate_success">Erfolgreich kalibriert. Sie können jetzt die Frontkamera öffnen.</string>
@@ -135,6 +152,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="resolver_other_method">Andere Optionen</string>
   <string name="resolver_recommend_options_tag">Empfohlene Optionen</string>
   <string name="resource_select">Auswählen</string>
+  <string name="scanning_device_tips">Entdeckt er Geräte in der Nähe, muss die Gegenpartei Xiaomi Mi Drop öffnen, um die Übertragung durchzuführen.</string>
   <string name="screen_button_disabled_message">Navigationstasten deaktiviert. Zum Reaktivieren gleichzeitig Home- und Powertaste drücken.</string>
   <string name="screen_button_enabled_message">Navigationstasten aktiviert</string>
   <string name="screen_button_notification_text">Zum Einschalten Home- und Powertaste gleichzeitig drücken</string>
@@ -158,6 +176,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="security_permission_xiaomi_account_missed_text">Mi Konto-ID eingeben</string>
   <string name="select">Auswählen</string>
   <string name="select_all">Alle auswählen</string>
+  <string name="send_files_to">Datei senden an</string>
   <string name="set_password_action">Passwort festlegen</string>
   <string name="set_password_message">Passwort festlegen zur Nutzung dieser Funktion</string>
   <string name="set_password_title">Passwort festlegen</string>
@@ -166,6 +185,9 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="silence_mode">Lautlosmodus</string>
   <string name="sim_added_reboot_confirm">Neustart</string>
   <string name="sim_added_reboot_title">SIM-Karte wird nach einem Neustart aktiviert</string>
+  <string name="slavewifi_disconnect">Trennen</string>
+  <string name="slavewifi_notification_title">Dual WLAN-Beschleunigung</string>
+  <string name="slavewifi_settings">Tippen, um die Konfiguration zu ändern</string>
   <string name="sim_lock_non_ais_msg">Ihre SIM-Karte ist mit diesem Telefon nicht voll funktionsfähig, da sie nicht den Bedingungen Ihres Abos entsprechen. Wenn Sie Fragen haben oder weitere Auskünfte zu diesem Thema benötigen, wenden Sie sich bitte an die Xiaomi-Servicezentren oder den Shop, der Ihnen Produkte verkauft hat.</string>
   <string name="softap_notifif_summary">%d verbunden</string>
   <string name="softap_notifif_title">Hotspot \"%s\" ist aktiv</string>
@@ -199,6 +221,9 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="takeback_camera_front_failed">Frontkamera schließen fehlgeschlagen. Nochmal versuchen.</string>
   <string name="talk_back_water_mark_string1">TalkBack ist eingeschaltet</string>
   <string name="talk_back_water_mark_string2">Halten Sie \"Lautstärke+\" und \"Lautstärke-\" für 3 Sekunden gedrückt, um es auszuschalten.</string>
+  <string name="throwing_print">Drucken</string>
+  <string name="throwing_screen">Übertragungsbildschirm</string>
+  <string name="tips_prompt_enable_midrop">Geräte rund um Ihr Telefon/Notebook entdecken und Dateien schnell an sie weiter geben.</string
   <string name="total">Nicht stören</string>
   <string name="total_description">Vibration und Töne aller Elemente außer des Weckers werden ausgeschaltet</string>
   <string name="total_title">Nicht stören</string>
@@ -207,6 +232,8 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="translation_query_error_network">Keine Netzwerkverbindung. Prüfen Sie die Einstellungen und versuchen Sie es erneut.</string>
   <string name="turn_off">Ausschalten</string>
   <string name="twohours">1 Std</string>
+  <string name="unrecognized_manufacture">Unbekannte Marke</string>
+  <string name="unrecognized_model">Unbekannte Marke</string>
   <string name="unknown_caller">Unbekannte Nummer</string>
   <string name="user_switching_dialog_switch_into_kid_space">Zum Kinderprofil wechseln…</string>
   <string name="user_switching_dialog_switch_out_kid_space">Kinderprofil verlassen…</string>
