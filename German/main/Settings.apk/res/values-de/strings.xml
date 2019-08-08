@@ -280,13 +280,13 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilf
   <string name="ai_settings_single_press_des">AI-Taste drücken, um mit Google Assistant zu sprechen, dann loslassen für die Antwort</string>
   <string name="airplane_mode">Flugmodus</string>
   <string name="alarm_ringtone_title">Standardweckton</string>
-  <string name="alarm_sound_dialog_title">Alarmton wählen</string>
-  <string name="alarm_sound_title">Alarmton</string>
+  <string name="alarm_sound_dialog_title">Weckton wählen</string>
+  <string name="alarm_sound_title">Weckton</string>
   <string name="alarm_stop">Lautlosmodus deaktivieren, wenn der Wecker ausgeschaltet wird</string>
   <string name="alarm_stop_info">Lautlosmodus wird deaktiviert, wenn der Wecker ausgeschaltet wird</string>
   <string name="alarm_template">bei %1$s</string>
   <string name="alarm_template_far">auf %1$s</string>
-  <string name="alarm_volume_option_title">Alarmlautstärke</string>
+  <string name="alarm_volume_option_title">Weckerlautstärke</string>
   <string name="alarm_volume_title">Wecker</string>
   <string name="alert_button_agree_and_continue">Erlauben</string>
   <string name="alert_button_deny">Ablehnen</string>
@@ -682,7 +682,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_abnormal_details_title">Akku entleerende Apps</string>
   <string name="battery_abnormal_location_summary">Häufige Standortabfrage</string>
   <string name="battery_abnormal_wakelock_summary">Halten das Gerät aktiv</string>
-  <string name="battery_abnormal_wakeup_alarm_summary">Wecken Gerät im Hintergrund auf</string>
+  <string name="battery_abnormal_wakeup_alarm_summary">Wecken das Gerät im Hintergrund auf</string>
   <string name="battery_action_app_details">App-Info</string>
   <string name="battery_action_app_settings">App-Einstellungen</string>
   <string name="battery_action_bluetooth">Bluetooth-Einstellungen</string>
@@ -2241,15 +2241,15 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="encryption_interstitial_header">Verschlüsselung</string>
   <string name="encryption_interstitial_message_password">"Sie können Ihr Gerät zusätzlich durch Abfrage eines Passworts schützen.
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_password_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts können Sie es durch Abfrage eines Passworts schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
+  <string name="encryption_interstitial_message_password_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts können Sie es durch Abfrage eines Passworts schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Wecker, entgegennehmen.
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pattern">"Sie können dieses Gerät zusätzlich durch Abfrage Ihres Entsperrmusters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
+  <string name="encryption_interstitial_message_pattern">"Sie können dieses Gerät zusätzlich durch Abfrage Ihres Entsperrmusters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Wecker, entgegennehmen.
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts, können Sie es durch Abfrage eines Musters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
+  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts, können Sie es durch Abfrage eines Musters schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Wecker, entgegennehmen.
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pin">"Sie können dieses Gerät zusätzlich durch Abfrage Ihrer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
+  <string name="encryption_interstitial_message_pin">"Sie können dieses Gerät zusätzlich durch Abfrage Ihrer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Wecker, entgegennehmen.
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="encryption_interstitial_message_pin_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts können Sie es durch Abfrage einer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Alarme, entgegennehmen.
+  <string name="encryption_interstitial_message_pin_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entsperren des Geräts können Sie es durch Abfrage einer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschl. Wecker, entgegennehmen.
 Das hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="encryption_interstitial_no">Nein</string>
   <string name="encryption_interstitial_yes">Ja</string>
@@ -3524,7 +3524,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="misc_files">Sonstige Dateien</string>
   <string name="misc_files_selected_count">%1$d von %2$d ausgewählt</string>
   <string name="misc_files_selected_count_bytes">%1$s von %2$s</string>
-  <string name="miui_allow_alarm">Alarme</string>
+  <string name="miui_allow_alarm">Wecker</string>
   <string name="miui_allow_light">LED-Benachrichtigung</string>
   <string name="miui_allow_music">Medien</string>
   <string name="miui_allow_vibrate">Vibrationen</string>
@@ -5000,7 +5000,7 @@ Mindestens %s freigeben."</string>
   <string name="search_add_facerecoginition_text">Gesichtsentsperrung;Gesichtserkennung</string>
   <string name="search_advanced_settings">Erweiterte Einstellungen;WLAN;WLAN Einstellungen</string>
   <string name="search_airplane_mode">Flugmodus;Flugzeugmodus;Flug;Flugzeug</string>
-  <string name="search_alarm_sound_title">Alarmton;Alarmklingelton;Alarm</string>
+  <string name="search_alarm_sound_title">Alarmton;Weckton;Alarmklingelton;Weckerklingelton;Alarm;Wecker</string>
   <string name="search_ambient_display_screen_title">Inaktivitätsanzeige</string>
   <string name="search_apn_settings">APN;Zugangspunktnamen</string>
   <string name="search_app_invisible">App unsichbar;unsichtbare Apps</string>
@@ -6121,8 +6121,8 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
   <string name="toggle_auto_speaker_preference_title">Automatisch auf Lautsprecher umschalten</string>
   <string name="toggle_collapse_after_clicked_title">Nach Antippen einklappen</string>
   <string name="total">Nicht stören</string>
-  <string name="total_info">Ton und Vibration ausschalten, außer für Alarme</string>
-  <string name="total_info_no_vibrator">Ton ausschalten, außer für Alarme</string>
+  <string name="total_info">Ton und Vibration ausschalten, außer für Wecker</string>
+  <string name="total_info_no_vibrator">Ton ausschalten, außer für Wecker</string>
   <string name="total_memory">Gesamter Speicher</string>
   <string name="total_size">Insgesamt: %s</string>
   <string name="total_size_label">Insgesamt</string>
@@ -6863,8 +6863,8 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="volte_provisioned_flag_off">VoLTE-Bereitstellungsflag ausschalten</string>
   <string name="volte_provisioned_flag_on">VoLTE-Bereitstellungsflag einschalten</string>
   <string name="volte_provisioned_switch_string">VoLTE-Bereitstellung</string>
-  <string name="volume_alarm_description">Alarm</string>
-  <string name="volume_alarm_mute">Alarme lautlos</string>
+  <string name="volume_alarm_description">Wecker</string>
+  <string name="volume_alarm_mute">Wecker lautlos</string>
   <string name="volume_category_title">Lautstärke</string>
   <string name="volume_hifi_description">HiFi-Einstellungen</string>
   <string name="volume_label">Laustärke</string>
@@ -7605,8 +7605,8 @@ Delta Updategröße: %2$s"</string>
   <string name="zen_access_revoke_warning_dialog_title">Nicht stören-Zugriff für %1$s aufheben?</string>
   <string name="zen_access_warning_dialog_summary">Dieser App ist es möglich, Nicht stören ein-/auszuschalten und relevante Einstellungen zu ändern.</string>
   <string name="zen_access_warning_dialog_title">Nicht stören-Zugriff für %1$s erlauben?</string>
-  <string name="zen_alarm_warning">Sie werden Ihren nächsten Alarm %1$s nicht hören</string>
-  <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Alarm %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
+  <string name="zen_alarm_warning">Sie werden Ihren nächsten Wecker %1$s nicht hören</string>
+  <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Wecker %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
   <string name="zen_calls_summary_contacts_repeat">Von Kontakten und wiederholten Anrufern</string>
   <string name="zen_calls_summary_repeat_only">Nur von wiederholten Anrufern</string>
   <string name="zen_calls_summary_starred_repeat">Von markierten Kontakten und wiederholten Anrufern</string>
@@ -7621,7 +7621,7 @@ Delta Updategröße: %2$s"</string>
   <string name="zen_mode_add_rule">Regel hinzufügen</string>
   <string name="zen_mode_add_time_rule">Zeitregel hinzufügen</string>
   <string name="zen_mode_alarm_use">Töne</string>
-  <string name="zen_mode_alarms">Alarme</string>
+  <string name="zen_mode_alarms">Wecker</string>
   <string name="zen_mode_all_callers">Jeder</string>
   <string name="zen_mode_all_messages">Nachrichten</string>
   <string name="zen_mode_all_visual_interruptions">Aus</string>
@@ -7631,7 +7631,7 @@ Delta Updategröße: %2$s"</string>
   <string name="zen_mode_automation_settings_title">Automatische Regeln</string>
   <string name="zen_mode_automation_suggestion_summary">Gerät zu best. Zeiten stummschalten</string>
   <string name="zen_mode_automation_suggestion_title">Nicht stören einrichten</string>
-  <string name="zen_mode_behavior_alarms_only">Kein Ton außer Alarme und Medien</string>
+  <string name="zen_mode_behavior_alarms_only">Kein Ton außer Wecker und Medien</string>
   <string name="zen_mode_behavior_allow_title">Ton und Vibration erlauben von</string>
   <string name="zen_mode_behavior_no_sound">Kein Ton</string>
   <string name="zen_mode_behavior_no_sound_except">Kein Ton außer %1$s</string>
@@ -7700,7 +7700,7 @@ Delta Updategröße: %2$s"</string>
   <string name="zen_mode_miui_silent_category">Erlauben</string>
   <string name="zen_mode_no_exceptions">Nichts</string>
   <string name="zen_mode_no_visual_interruptions">Wenn Bildschirm ein oder aus ist</string>
-  <string name="zen_mode_option_alarms">Nur Alarme</string>
+  <string name="zen_mode_option_alarms">Nur Wecker</string>
   <string name="zen_mode_option_important_interruptions">Nur mit Priorität</string>
   <string name="zen_mode_option_miui_silent">Lautlosmodus</string>
   <string name="zen_mode_option_miui_vibrate">Nicht stören</string>
@@ -7768,8 +7768,8 @@ Beachten Sie, dass kritische Benachrichtigungen über Telefonaktivität und -sta
   <string name="zen_mode_starred_callers">Markierte Kontakte</string>
   <string name="zen_mode_starred_contacts_title">Markierte Kontakte</string>
   <string name="zen_mode_start_time">Startzeit</string>
-  <string name="zen_mode_summary_alarms_only_by_time">Nur Alarme bis %1$s</string>
-  <string name="zen_mode_summary_alarms_only_indefinite">Nur Alarme auf unbestimmte Zeit</string>
+  <string name="zen_mode_summary_alarms_only_by_time">Nur Wecker bis %1$s</string>
+  <string name="zen_mode_summary_alarms_only_indefinite">Nur Wecker auf unbestimmte Zeit</string>
   <string name="zen_mode_summary_always">Wechseln zu immer stören</string>
   <string name="zen_mode_system">Berührungstöne</string>
   <string name="zen_mode_unknown_app_set_behavior">Diese Einstellungen können jetzt geändert werden. Nicht stören wurde von einer App automatisch mit benutzerdef. Verhalten eingeschaltet.</string>
