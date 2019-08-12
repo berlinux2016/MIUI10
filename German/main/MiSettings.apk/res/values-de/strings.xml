@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">MiSettings</string>
   <string name="screen_cancel">Abbrechen</string>
   <string name="screen_confirm">Einschalten</string>
   <string name="screen_paper_mode_apps_loading">Einen Moment…</string>
@@ -9,7 +8,7 @@
   <string name="usage_app_limit_alter_title">Bildschirmzeitlimit prüfen</string>
   <string name="usage_app_limit_prelong">Zeit verlängern</string>
   <string name="usage_app_limit_reach_summay">%s verbleiben</string>
-  <string name="usage_app_limit_reach_title">%s erreicht sein Bildschirmzeitlimit</string>
+  <string name="usage_app_limit_reach_title">%s erreicht das Bildschirmzeitlimit</string>
   <string name="usage_app_limit_summary">Ausgewählte Apps sind bei Erreichen des Limits nicht mehr verfügbar</string>
   <string name="usage_app_limit_title">Bildschirmzeit begrenzen</string>
   <string name="usage_app_other_settings">Weitere Einstellungen</string>
@@ -56,7 +55,6 @@
   <string name="usage_state_wednesday">Mi</string>
   <string name="usage_state_week_day_hour_minute" formatted="false">Wochenende: %d Std %d Min</string>
   <string name="usage_state_week_total_text">Bildschirmzeit (letzte 7 Tage)</string>
-  <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">Wochentags</string>
   <string name="usage_state_work_day_hour_minute" formatted="false">Wochentags: %d Std %d Min</string>
   <string name="usage_stats_normal_day">Wochentags</string>
@@ -69,7 +67,6 @@
   <string name="usagestats_app_category_miui_shopping">Einkaufen</string>
   <string name="usagestats_app_category_miui_social">Soziale Netzwerke</string>
   <string name="usagestats_app_category_miui_system">System-Apps</string>
-  <string name="usagestats_app_category_miui_tools">Tools</string>
   <string name="usagestats_app_category_miui_undefined">Andere</string>
   <string name="usagestats_app_category_miui_video_etc">Musik und Video</string>
   <string name="usagestats_device_notification_des">Bildschirmzeit-Limit heute: %s</string>
