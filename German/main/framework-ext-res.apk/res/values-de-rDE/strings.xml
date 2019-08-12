@@ -37,8 +37,9 @@
   <string name="caller_info_name_delimiter">" oder "</string>
   <string name="cancel_action">Abbrechen</string>
   <string name="close">Schließen</string>
-  <string name="confirm_cancel_task">Möchten Sie das Senden von %1$s an %2$s abbrechen?</string>
   <string name="configure_input_methods">Tastatur auswählen</string>
+  <string name="confirm_cancel_task_files">Dateien senden an %1$s abbrechen?</string>
+  <string name="confirm_cancel_task_images">Bilder senden an %1$s abbrechen?</string>
   <string name="content_description_dial">Anrufen</string>
   <string name="content_description_search">Suchen</string>
   <string name="content_description_share">Teilen</string>
@@ -247,6 +248,10 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; Weitere Einstell
   <string name="voice_input_error_other">Ein Fehler ist aufgetreten. Warten Sie ein oder zwei Minuten und versuchen Sie es erneut.</string>
   <string name="wifi_assistant_wifi_no_internet">Dieses WLAN hat keinen Zugang zum Internet.</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Tippen, um Details anzuzeigen.</string>
+  <string name="wireless_charging_notification_message1">Keine drahtlosen Geräte zum Aufladen gefunden. Umgekehrtes drahtloses Laden ist nun deaktiviert.</string>
+  <string name="wireless_charging_notification_message2">Akku ist weniger als 30 % geladen. Umgekehrtes drahtloses Laden ist nun deaktiviert.</string>
+  <string name="wireless_charging_notification_message3">Beim Laden ist ein Fehler aufgetreten. Umgekehrtes drahtloses Laden ist nun deaktiviert.</string>
+  <string name="wireless_charging_notification_titile">Umgekehrtes drahtloses Laden ausgeschaltet</string>
   <string name="xspace_head">Dual App</string>
   <string name="xspace_resolver_activity_title">App wählen</string>
 </resources>
