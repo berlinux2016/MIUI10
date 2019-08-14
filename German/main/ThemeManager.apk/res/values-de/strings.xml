@@ -63,6 +63,10 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergrundbild
   <string name="audio_duration_minutes_format">%1$d Minuten</string>
   <string name="audio_duration_seconds_format">%1$d Sekunden</string>
   <string name="audition_ringtone">Abspielen</string>
+  <string name="author_attention">Folgen</string>
+  <string name="author_attention_success">Folgen erfolgreich</string>
+  <string name="author_dialog_message">Diesem Konto nicht mehr folgen?</string>
+  <string name="author_dynamic_no_resource">Keine Ergebnisse gefunden</string>
   <string name="automatically_update_using_theme_tips">Nächstes Mal automatisch aktualisieren</string>
   <string name="backup_preference_title">Thema sichern</string>
   <string name="backup_theme_dialog_message">Aktuelles Thema sichern?</string>
@@ -88,6 +92,7 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergrundbild
   <string name="close">Schließen</string>
   <string name="common_applying">Anwenden…</string>
   <string name="common_downloading">Herunterladen…</string>
+  <string name="common_format_date_no_year">dd.MM.</string>
   <string name="common_google_play_services_enable_button">Aktivieren</string>
   <string name="common_google_play_services_enable_text">%1$s wird nicht funktionieren, wenn Sie die Google Play-Dienste nicht aktivieren.</string>
   <string name="common_google_play_services_enable_title">Google Play-Dienste aktivieren</string>
@@ -127,6 +132,9 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergrundbild
   <string name="description_version_szie">Version: %1$s Größe: %2$s</string>
   <string name="desktop_effects">Startbildschirmeffekte</string>
   <string name="desktop_wallpaper">Startbildschirm</string>
+  <string name="detail_author_attention_head">Folgen Sie einigen unserer herausragendsten Designer</string>
+  <string name="detail_author_fans">"Anhänger: "</string>
+  <string name="detail_author_works">"Elemente: "</string>
   <string name="detail_recommend_title">Empfohlen</string>
   <string name="dev_options">Entwickleroptionen</string>
   <string name="dev_options_summary">Webressourcen</string>
@@ -365,7 +373,7 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="resource_alarm_default">Wecker</string>
   <string name="resource_app_name">Ressourcen anzeigen</string>
   <string name="resource_apply">Anwenden</string>
-  <string name="resource_apply_trial">Testen</string>
+  <string name="resource_apply_trial">Anwenden</string>
   <string name="resource_back">Zurück</string>
   <string name="resource_buy">Kaufen</string>
   <string name="resource_can_not_selected">%1$s kann nicht ausgewählt werden</string>
@@ -430,10 +438,9 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="resource_detail_recommend_desiner_themes">%1$s Themen</string>
   <string name="resource_detail_recommend_other_themes">Benutzer mochten auch</string>
   <string name="resource_detail_window_title">%1$s Details</string>
-  <string name="resource_download">Download</string>
   <string name="resource_download_notification_title_many">%1$s Themen runtergeladen</string>
   <string name="resource_download_notification_title_one">Thema runtergeladen</string>
-  <string name="resource_download_trial">Kostenlose Testversion</string>
+  <string name="resource_download_trial">Testen</string>
   <string name="resource_downloaded_title">Runtergeladene Quellen</string>
   <string name="resource_downloading">Wird geladen…</string>
   <string name="resource_exchange">Einlösen</string>
@@ -797,6 +804,8 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
   <string name="wallpaper_loop_title">Hintergrund-Diashow</string>
   <string name="wallpaper_loop_title_desk_wallpaper">Hintergrund-Diashow Startbildschirm</string>
   <string name="wallpaper_loop_title_lock_walpaper">Hintergrund-Diashow Sperrbildschirm</string>
+  <string name="wallpaper_no_favorite">Noch keine Elemente hier.</string>
+  <string name="wallpaper_no_record">Noch keine Elemente hier.</string>
   <string name="wallpaper_online">Online-Hintergründe</string>
   <string name="wallpaper_online_no_more">Das ist alles für den Moment</string>
   <string name="wallpaper_online_tip">Mit dem Netzwerk verbinden, um weitere Elemente anzuzeigen</string>
