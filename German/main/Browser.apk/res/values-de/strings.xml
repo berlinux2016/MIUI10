@@ -31,6 +31,7 @@
   <string name="action_menu_request_desktop_site_off">Webseiten-Zugriff ist aus</string>
   <string name="action_menu_request_desktop_site_on">Webseiten-Zugriff ist an</string>
   <string name="action_menu_text_add_bookmark">Lesezeichen hinzufügen</string>
+  <string name="action_menu_text_add_shortcut">Verknüpfung hinzufügen</string>
   <string name="action_menu_text_bandwidth">Datensparen</string>
   <string name="action_menu_text_bandwidth_off">Datensparen</string>
   <string name="action_menu_text_bandwidth_on">Datensparen</string>
@@ -87,6 +88,11 @@
   <string name="ad_exit_dialog_message">Installation ist abgeschlossen! Wollen Sie sie jetzt öffnen?</string>
   <string name="ad_exit_dialog_open_btn_name">Öffnen</string>
   <string name="ad_exit_dialog_title_name">Neue App, Bestätigung öffnen</string>
+  <string name="ad_download_continue">Fortfahren</string>
+  <string name="ad_download_downloading">Herunterladen</string>
+  <string name="ad_download_error">Fehler</string>
+  <string name="ad_download_immediately">Herunterladen</string>
+  <string name="ad_download_open">Öffnen</string>
   <string name="add_bookmark_group">Gruppe hinzufügen</string>
   <string name="add_bookshelf_popup_text">Dieses Buch befindet sich bereits in Ihrer Sammlung</string>
   <string name="add_favorites_to">Favoriten hinzufügen</string>
@@ -204,7 +210,7 @@
   <string name="close_cloud_tab_tip">Cloud Tabs auf %s schließen?</string>
   <string name="cloud_loading_tips">Zum Synchronisieren runterziehen</string>
   <string name="cloud_no_new_data_toast">Alle Daten sind aktuell</string>
-  <string name="cloud_sync_closed_toast">Aktualisierung nicht möglich, da die Synchronisation deaktiviert ist</string>
+  <string name="cloud_sync_closed_toast">Aktualisierung nicht möglich, da Synchronisation deaktiviert</string>
   <string name="cloud_sync_failed_toast">Aktualisierung fehlgeschlagen</string>
   <string name="cloud_tab">Cloud Tabs</string>
   <string name="cloud_tabs_sync_off">Synchronisation aus</string>
@@ -1166,11 +1172,14 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="security_warnings_confirm_message">Deaktivieren dieser Funktion kann zu Sicherheitsrisiken führen</string>
   <string name="select_dot">Text auswählen</string>
   <string name="select_download_device">Gerät auswählen</string>
+  <string name="send_bookmark">Lesezeichen</string>
   <string name="send_comment_button">Senden</string>
   <string name="send_comment_title">Kommentieren</string>
+  <string name="send_desktop">Startbildschirm</string>
   <string name="send_diagnosis_log">Diagnoseprotokoll senden</string>
-  <string name="sending">Senden…</string>
+  <string name="send_startpage">Startseite</string>
   <string name="senddesktop">Startbildschirm</string>
+  <string name="sending">Senden…</string>
   <string name="sendstartpage">Startseite</string>
   <string name="sequence_bookmark_description">Drücken und Halten, um Lesezeichen neu anzuordnen</string>
   <string name="share_image_text">Schauen Sie, was ich geteilt habe! @MIUI</string>
@@ -1288,6 +1297,7 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="temporary_not_available">temporär nicht verfügbar</string>
   <string name="title_bar_loading">Lade…</string>
   <string name="title_notice_push">Hinweis einschalten</string>
+  <string name="toast_feedback">Diese Art von Inhalt wird für Sie reduziert</string>
   <string name="too_many_windows_dialog_message">Browser kann keinen neuen Tab öffnen, solange kein anderer geschlossen wird</string>
   <string name="too_many_windows_dialog_title">Kann keine weiteren Tabs öffnen</string>
   <string name="topic_content_default">Thema</string>
