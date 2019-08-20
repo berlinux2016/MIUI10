@@ -627,7 +627,7 @@ Ihr Anbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie mobile Daten wie
   <string name="deep_clean_never_memory_clean">Nie</string>
   <string name="deep_power_save_item_summary_auto_brightness">Automatische Anpassung der Bildschirmhelligkeit zur Schonung des Akkus</string>
   <string name="deep_power_save_item_summary_bluetooth">Bluetooth ausschalten, um den Akku zu schonen</string>
-  <string name="deep_power_save_item_summary_lock_screen_time">Bildschirm nach 30 Sekunden Inaktivität in den Ruhezustand versetzen, um den Akku zu schonen</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Bildschirm nach 15 Sekunden Inaktivität in den Ruhezustand versetzen, um den Akku zu schonen</string>
   <string name="deep_power_save_item_title_auto_brightness">Automatische Helligkeit einschalten</string>
   <string name="deep_power_save_item_title_bluetooth">Bluetooth ausschalten</string>
   <string name="deep_power_save_item_title_lock_screen_time">Bildschirm in den Ruhezustand versetzen</string>
@@ -995,6 +995,12 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="free_time_traffic_title">Datennutzungslimit einstellen</string>
   <string name="free_traffic_settings">Datennutzungslimit eingeben</string>
   <string name="function_close">Aus</string>
+  <string name="function_gwsd_detail">"Über diese Funktion:
+ 1. Eingehende Anrufe auf Ihre Daten-SIM unterbrechen die mobile Datenverbindung nicht. Die Verbindung wird nur dann unterbrochen, wenn Sie einen Anruf annehmen.
+ 2. Wenn diese Funktion eingeschaltet ist, hört der Anrufer keine Anklopftöne. Eingehende Anrufe werden beendet, wenn Sie nicht innerhalb von 6 Sekunden antworten.
+ 3. Diese Funktion funktioniert nur bei Daten-SIM-Karten. Anrufe zu Ihrer primären SIM-Karte unterbrechen die mobile Datenverbindung.
+ 4. Diese Funktion wird nur von China Mobile und China Unicom unterstützt."</string>
+  <string name="function_gwsd_title">Eingehende Anrufe dürfen die Daten-SIM-Verbindung nicht unterbrechen</string>
   <string name="function_shield_auto_bright">Auto-Helligkeit ausschalten</string>
   <string name="function_shield_eye_shield">Lesemodus ausschalten</string>
   <string name="function_shield_pull_notification_bar">Benachrichtigungsleiste nicht öffnen</string>
@@ -1743,6 +1749,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="perfermance_optimization_summary">Vermeiden Sie Überhitzung und Hardware-Probleme</string>
   <string name="perfermance_optimization_title">Leistungsoptimierung</string>
   <string name="permission_action_accept">Akzeptieren</string>
+  <string name="permission_action_always">Immer erlauben</string>
+  <string name="permission_action_foreground">Bei Nutzung der App</string>
   <string name="permission_action_prompt">Fragen</string>
   <string name="permission_action_reject">Verweigern</string>
   <string name="permission_close_permission_control_dialog_msg">Wenn die Rechteverwaltung ausgeschaltet ist, werden Apps nicht um Erlaubnis fragen vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufliste, Ändern von Systemeinstellungen oder dem Zugriff auf Kamera und andere Gerätequellen.</string>

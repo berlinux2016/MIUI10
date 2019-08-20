@@ -1566,6 +1566,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="connected_via_wfa">Verbunden via WLAN-Assistent</string>
   <string name="connected_wifi">Verbunden</string>
   <string name="connecting_to_vpn">Verbindung zum VPN</string>
+  <string name="connection_and_sharing">Verbinden &amp; teilen</string>
   <string name="contact_title">Kontakte</string>
   <string name="content_description_menu_button">Menü</string>
   <string name="contributors_title">Mitwirkende</string>
@@ -2205,6 +2206,7 @@ Sie können die generierten Protokolle im Datei-Manager ansehen."</string>
   <string name="enable_multi_window_summary">Mehrere Aktivitäten gleichzeitig am Bildschirm anzeigen</string>
   <string name="enable_opengl_traces_title">OpenGL-Traces einschalten</string>
   <string name="enable_quick_setting">Schnelleinstellungen anzeigen lassen</string>
+  <string name="enable_screen_projection_summary">Bildschirminhalt auf einen externen Monitor übertragen</string>
   <string name="enable_service_encryption_warning">Falls Sie %1$s aktivieren, wird Ihr Gerät nicht die Bildschirmsperre nutzen, um die Datenverschlüsselung zu verbessern</string>
   <string name="enable_service_password_reason">Da sich das Aktivieren von %1$s auf die Datenverschlüsselung auswirkt, müssen Sie Ihr Passwort bestätigen</string>
   <string name="enable_service_pattern_reason">Da sich das Aktivieren von %1$s auf die Datenverschlüsselung auswirkt, müssen Sie Ihr Entsperrmuster bestätigen</string>
@@ -4092,6 +4094,7 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="open_dark_mode_dialog_title">Dark Mode einschalten</string>
   <string name="open_demo_mode">Starten</string>
   <string name="open_demo_mode_warning_message">Nach dem Einschalten zeigt die Statusleiste immer eine feste Zeit, ein vollständiges Signal- und Batteriesymbol an. Sie können diesen Modus verlassen, indem Sie ihn ausschalten oder das Telefon neu starten</string>
+  <string name="open_game_accelerate">Game Turbo einschalten</string>
   <string name="open_miui_optimization_title">MIUI-Optimierung einschalten</string>
   <string name="open_optimization_message">Aktivieren Sie die Optimierung, um eine reibungslosere, schnellere Benutzeroberfläche zu erhalten.</string>
   <string name="open_optimization_option">Einschalten</string>
@@ -4110,6 +4113,7 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="otg_tip">"USB On-The-Go ermöglicht USB-Laufwerken und tragbaren Tastaturen, sich mit Ihrem Mobilgerät zu verbinden und Daten auszutauschen.
 
 OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
+  <string name="other">Andere</string>
   <string name="other_advanced_settings">Weitere Einstellungen</string>
   <string name="other_device_info">Andere</string>
   <string name="other_personal_settings">Persönliche Einstellungen</string>
@@ -4899,6 +4903,23 @@ Mindestens %s freigeben."</string>
   <string name="screen_pinning_unlock_password">Beim Unpinning nach dem Passwort fragen</string>
   <string name="screen_pinning_unlock_pattern">Beim Unpinning nach dem Entsperrmuster fragen</string>
   <string name="screen_pinning_unlock_pin">Beim Unpinning nach der PIN fragen</string>
+  <string name="screen_projection">Übertragen</string>
+  <string name="screen_projection_characteristics">Besondere Merkmale</string>
+  <string name="screen_projection_characteristics_off_screen_summary">Sie können das Übertragen fortsetzen, wenn der Bildschirm Ihres Geräts ausgeschaltet ist. Diese Funktion reduziert den Stromverbrauch.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Übertragen bei ausgeschaltetem Bildschirm</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">Keine Popup-Benachrichtigungen, eingehende Anrufe und andere private Elemente auf externen Monitoren anzeigen.</string>
+  <string name="screen_projection_characteristics_privacy_protect_title">Private Elemente verstecken</string>
+  <string name="screen_projection_characteristics_small_window_summary">Das übertragene Fenster minimieren, um andere Funktionen Ihres Telefons nutzen zu können.</string>
+  <string name="screen_projection_characteristics_small_window_title">Fenster minimieren</string>
+  <string name="screen_projection_example_document_summary">Zeigen Sie Präsentationen auf einem externen Monitor an, während Sie mit Ihrem Telefon zwischen Folien und Notizen wechseln. Gehen Sie zu Dateimanager &gt; Dokumente, um diese Funktion auszuprobieren.</string>
+  <string name="screen_projection_example_document_title">Dokumente</string>
+  <string name="screen_projection_example_gallery_summary">Tippen Sie auf Teilen unter einem Element in der Galerie-App, um es auf einem externen Monitor anzuzeigen.</string>
+  <string name="screen_projection_example_gallery_title">Fotos &amp; Videos</string>
+  <string name="screen_projection_example_game_summary">Game Turbo ermöglicht Ihnen, Spiele auf einen externen Monitor zu übertragen. Verwenden Sie die Verknüpfung in der Toolbox von Game Turbo, um diese Funktion einzuschalten.</string>
+  <string name="screen_projection_example_game_title">Spiele</string>
+  <string name="screen_projection_help">Hilfe</string>
+  <string name="screen_projection_sample_summary">Dokumente, Spiele, Fotos und Videos übertragen</string>
+  <string name="screen_projection_title">Übertragen</string>
   <string name="screen_reader_category_title">Bildschirmlesegeräte</string>
   <string name="screen_resolution_confirm">Neustart</string>
   <string name="screen_resolution_dialog_title">Auflösung ändern</string>
@@ -5022,6 +5043,7 @@ Mindestens %s freigeben."</string>
   <string name="search_choose_timezone">Zeitzone wählen;Zeitzone;Zeitzonen</string>
   <string name="search_cloud_backup_settings_section_title">Einstellungen sichern;Sicherung;sichern;Sicherungen</string>
   <string name="search_cloud_restore_section_title">Wiederherstellung aus Xiaomi Cloud;Xiaomi Cloud;Cloudsicherungen</string>
+  <string name="search_connection_and_sharing">Mehr;Drahtlos</string>
   <string name="search_credentials_install">Vom Speicher installieren;direkt installieren;APK installieren</string>
   <string name="search_date_and_time_settings_title">Datum &amp; Uhrzeit;Datum und Uhrzeit;Datum &amp; Zeit;Datum und Zeit;Datum;Zeit;Uhrzeit</string>
   <string name="search_description">Sucheinstellungen</string>
@@ -5999,6 +6021,7 @@ Ein Google-Ansatz zur Synchronisation von Daten, um den Zugriff auf Ihre Kontakt
   <string name="system_dashboard_summary">Sprachen, Zeit, Sicherung, Updates</string>
   <string name="system_default_app">(Systemstandard)</string>
   <string name="system_package">Systemupdates können nicht auf externen Datenträgern installiert werden</string>
+  <string name="system_print_service_help">Über Drucken</string>
   <string name="system_shortcut_wake">Aufwecken mit Tastenkombinationen</string>
   <string name="system_storage">Systemspeicher</string>
   <string name="system_ui_settings">SystemUI Tuner anzeigen</string>
