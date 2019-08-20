@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+   <string name="lv_use_notch">Notch anzeigen</string>
   <string name="Subscribe">Abonnieren</string>
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>
@@ -44,9 +45,11 @@
   <string name="audio_changed">Neuer Audiotitel</string>
   <string name="audio_title">Audiotitel</string>
   <string name="audio_track">Audiotitel</string>
+  <string name="before_yestoday">Vor 2 Tagen</string>
   <string name="bind_sign_in_title">Bindung an Mi Konto</string>
   <string name="browser_error">Zurzeit nicht verfügbar, bitte später wieder versuchen</string>
   <string name="cancel">Abbrechen</string>
+  <string name="cancel_choose">Abwählen</string>
   <string name="canceled">Abgebrochen</string>
   <string name="cast_ad_label">Werbung</string>
   <string name="cast_casting_to_device">Auf %1$s spiegeln</string>
@@ -83,6 +86,8 @@
   <string name="cast_tracks_chooser_dialog_none">Nichts</string>
   <string name="cast_tracks_chooser_dialog_subtitles">Untertitel</string>
   <string name="cast_unmute">Stummschaltung aufheben</string>
+  <string name="check_nothing">Sie haben noch keine Elemente gewählt</string>
+  <string name="choose">Wählen</string>
   <string name="choose_to_signin">Ja</string>
   <string name="choose_to_signup">Nein, ich erstelle einen</string>
   <string name="click_to_reload_more">Tippen, um mehr zu zeigen</string>
@@ -116,6 +121,7 @@
   <string name="com_mixpanel_android_notification_image">Bild wird nicht angezeigt</string>
   <string name="com_permission_desc">Mi Video kann nicht auf Videos auf Ihrem Gerät zugreifen. Erlauben Sie den Zugriff in den Einstellungen.</string>
   <string name="com_permission_title">Berechtigungen erforderlich</string>
+  <string name="common_cancel">Abbrechen</string>
   <string name="common_google_play_services_enable_button">Aktivieren</string>
   <string name="common_google_play_services_enable_text">%1$s wird nicht laufen, bis Sie Google Play-Dienste aktivieren</string>
   <string name="common_google_play_services_enable_title">Google Play-Dienste aktivieren</string>
@@ -134,11 +140,13 @@
   <string name="common_signin_button_text">Anmelden</string>
   <string name="common_signin_button_text_long">Mit Google anmelden</string>
   <string name="data_empty">Keine Elemente hier</string>
+  <string name="day">Tag</string>
   <string name="dialog_privacy_info_new2">"Um die Dienste nutzen zu können, müssen Sie zustimmen, dass %1$s Ihre personenbezogenen Daten erfasst, verarbeitet und nutzt. Unsere &lt;a href=%2$s&gt;Datenschutzerklärung&lt;/a&gt; gilt als gelesen und akzeptiert, wenn Sie unten auf \"Zustimmen\" tippen."</string>
   <string name="dialog_privacy_title">Genehmigung</string>
   <string name="dialog_revoke_privacy_info_new2">Wenn Sie die Genehmigung widerrufen, stoppt die App die Datenerfassung, und alle damit verbundenen Daten werden von unseren Servern gelöscht. Dies könnte die App praktisch unbrauchbar machen. Genehmigung trotzdem widerrufen?</string>
   <string name="dialog_revoke_privacy_title">Genehmigung widerrufen</string>
   <string name="diy_channels_tips">Sie können die Liste Ihrer Kanäle jetzt anpassen.</string>
+  <string name="do_not_show_again">Nicht mehr anzeigen</string>
   <string name="do_not_show_this_again">Nicht wieder anzeigen</string>
   <string name="empty_channels">Kanäle verwalten</string>
   <string name="empty_subscribe">Sie haben noch nichts abonniert.</string>
@@ -181,15 +189,29 @@
   <string name="explore_On">Mehr über Mi Video erfahren</string>
   <string name="explore_on_mi_video">Mehr auf Mi Video</string>
   <string name="failed_to_fetch_data">Info nicht geladen</string>
+  <string name="feedback_contact_empty">Geben Sie Ihre Kontaktdaten ein</string>
+  <string name="feedback_contact_title">Kontaktdaten</string>
+  <string name="feedback_hint_contact">Telefon/QQ/E-Mail</string>
+  <string name="feedback_hint_text">Beschreiben Sie das aufgetretene Problem.</string>
+  <string name="feedback_net_error">Senden nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+  <string name="feedback_sent">Senden</string>
+  <string name="feedback_success_toast">Erfolgrech gesendet. Danke für Ihr Feedback!</string>
+  <string name="feedback_tag_title">Kategorie</string>
+  <string name="feedback_text_empty_toast">Zuerst Feedback eingeben.</string>
   <string name="find_psw">Passwort vergessen</string>
   <string name="finish">Erledigt</string>
   <string name="for_you">Für Sie</string>
+  <string name="friday">Freitag</string>
   <string name="fw_loading">Einen Moment…</string>
   <string name="fw_reload_sub_title">Auf den Bildschirm tippen und erneut versuchen</string>
   <string name="fw_reload_title">Netzwerkverbindung nicht möglich</string>
+  <string name="gallery_folder_alias_screen_recorder">Bildschirmaufnahmen</string>
+  <string name="gallery_player">Galerie-Player</string>
+  <string name="gallery_tab_all">Alle</string>
   <string name="get_ph_ticket">Code erhalten</string>
   <string name="goto_sign_up">Konto erstellen</string>
   <string name="grant_write_settings_permission">Bitte erlauben, um die Helligkeit des Players zu steuern</string>
+  <string name="have_learned">Verstanden</string>
   <string name="hidden_channels">Folgende Kanäle werden auf der Startseite nicht angezeigt.</string>
   <string name="history">Verlauf</string>
   <string name="init_channels">Standardwerte wiederherstellen</string>
@@ -202,6 +224,7 @@
   <string name="lbl_player_local_video_deleted_alert_dialog_text">Dieses Video kann nicht abgespielt werden.</string>
   <string name="lbl_player_no_network">Keine Netzwerkverbindung erkannt. Achten Sie darauf, dass Sie mit einer Netzwerkquelle verbunden sind und versuchen Sie es erneut.</string>
   <string name="lbl_player_response_failed_alert_dialog_text">Ihre Anfrage kann im Moment leider nicht bearbeitet werden. Bitte versuchen Sie es später erneut.</string>
+  <string name="local_player">Lokaler Player</string>
   <string name="logging_verbose">Ausführlich</string>
   <string name="login">Anmelden</string>
   <string name="logout">Abmelden</string>
@@ -316,6 +339,13 @@
   <string name="lv_videoView_error_title">Video kann nicht abgespielt werden</string>
   <string name="lv_video_null">Keine Videos</string>
   <string name="lv_volume">Lautstärke</string>
+  <string name="moment_guide_desc">Mit Gesten rein und raus zoomen</string>
+  <string name="moment_tab_all">Alle</string>
+  <string name="moment_tab_image">Bilder</string>
+  <string name="moment_tab_video">Aufgenommen</string>
+  <string name="moment_title_my_videos">Meine Videos</string>
+  <string name="monday">Montag</string>
+  <string name="month">Monat</string>
   <string name="more">Mehr</string>
   <string name="mr_button_content_description">Cast-Taste</string>
   <string name="mr_cast_button_connected">Cast-Taste, verbunden</string>
@@ -339,10 +369,12 @@
   <string name="network_connect_info">Die Verbindung zum Netzwerk wurde nicht hergestellt. Überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>
   <string name="network_failed">Netzwerkverbindung nicht möglich</string>
   <string name="next">Nächste</string>
+  <string name="no_network_tips">Diese Funktion kann jetzt nicht verwendet werden. Netzwerkzugriff ist eingeschränkt.</string>
   <string name="no_recommend_data">Aktuell kein Video empfohlen</string>
   <string name="not_show">Nicht wieder anzeigen</string>
   <string name="notify_apk_installed">Erfolgreich heruntergeladen</string>
   <string name="off">[aus]</string>
+  <string name="offline_player">Offline-Player</string>
   <string name="ovp_alert_dialog_download_install_task">HD-Plugin herunterladen…</string>
   <string name="ovp_buffering_video_netplay_label_v5">Zwischenspeichern…</string>
   <string name="ovp_category">Kategorien</string>
@@ -446,6 +478,11 @@ Aktualisieren Sie Mi Video erst auf die neueste Version."</string>
   <string name="passport_v_code_error">Verifizierungscode ist falsch</string>
   <string name="passport_wechat_not_install">WeChat ist nicht installiert</string>
   <string name="password_toggle_content_description">Passwortsichtbarkeit umschalten</string>
+  <string name="permission_content">Mi Video die erforderlichen Berechtigungen erteilen, damit es normal arbeiten kann.</string>
+  <string name="permission_content2">"Gehen Sie zu Einstellungen &gt; Apps &gt; Mi Video &gt; Rechte, und geben Sie Mi Video die folgenden Berechtigungen:
+
+1. Speicherzugriff
+2. Zugriff auf Geräteinfos"</string>
   <string name="permission_continue">Fortfahren</string>
   <string name="permission_info">"Mi Video muss auf die IMEI-Nummer Ihres Geräts zugreifen, um Folgendes zu tun:
 
@@ -454,7 +491,9 @@ Sicherheit Ihres Kontos erhöhen."</string>
   <string name="permission_info1">Mi Video muss auf die IMEI-Nummer Ihres Geräts zugreifen, um Folgendes zu tun:</string>
   <string name="permission_info2">Dienste für Ihr Gerät besser anpassen;</string>
   <string name="permission_info3">Sicherheit Ihres Kontos erhöhen.</string>
+  <string name="permission_open_settings">Einstellungen</string>
   <string name="permission_phone">Telefon</string>
+  <string name="permission_refuse">Nein danke</string>
   <string name="permission_phone_desc">Für den Zugriff auf Gerätestatus und die Unterbrechung der Wiedergabe während eines Anrufs</string>
   <string name="permission_storage">Speicher</string>
   <string name="permission_storage_desc">Für den Zugriff auf Elemente, das Speichern von Dateien, das Anzeigen und Abspielen lokaler Videos</string>
@@ -464,6 +503,83 @@ Sicherheit Ihres Kontos erhöhen."</string>
   <string name="phone_number">Telefonnummer</string>
   <string name="ping_property">Film</string>
   <string name="player_replay_btn_text">Wiederholen</string>
+  <string name="plus_add_shortcut">Startbildschirmverknüpfung erstellen</string>
+  <string name="plus_change_poster">Albumcover ändern</string>
+  <string name="plus_deleting_wait">Löschen</string>
+  <string name="plus_gallery_allvideos">Alle Videos</string>
+  <string name="plus_gallery_folder_switch_guid">Tippen, um zur Listenansicht zu wechseln</string>
+  <string name="plus_gallery_mediatype_changtu">Lange Bilder</string>
+  <string name="plus_gallery_mediatype_fangtu">Quadratische Bilder</string>
+  <string name="plus_gallery_mediatype_fastslowvideo">Zeitraffer &amp; Zeitlupe</string>
+  <string name="plus_gallery_mediatype_hidded">Versteckte Elemente</string>
+  <string name="plus_gallery_mediatype_longvideo">Lange Videos</string>
+  <string name="plus_gallery_mediatype_quanjing">Panoramen</string>
+  <string name="plus_gallery_nocontents">Hier noch keine Elemente</string>
+  <string name="plus_gallery_title_mediatype">Dateityp</string>
+  <string name="plus_gallery_title_othergallery">Andere Alben</string>
+  <string name="plus_gallery_video_title_mediatype">Videokategorien</string>
+  <string name="plus_gallery_video_title_othergallery">Andere Videos</string>
+  <string name="plus_loading_text">Elemente laden…</string>
+  <string name="plus_mine_gallery">Meine Alben</string>
+  <string name="plus_mine_videos">Meine Videos</string>
+  <string name="plus_player_8k_video_not_support">Auf diesem Gerät können keine 8K-Videos abgespielt werden</string>
+  <string name="plus_player_audio_track">Audiotrack</string>
+  <string name="plus_player_detail_file_location">"Ort: "</string>
+  <string name="plus_player_detail_file_name">"Dateiname: "</string>
+  <string name="plus_player_detail_file_param">"Parameter: "</string>
+  <string name="plus_player_detail_file_path">"Pfad: "</string>
+  <string name="plus_player_detail_file_time">"Zeitstempel: "</string>
+  <string name="plus_player_hide">Vertstecken</string>
+  <string name="plus_player_pip_unsupport">PiP wird in dieser Systemversion nicht unterstützt.</string>
+  <string name="plus_player_play_mode_list">Alle wiederholen</string>
+  <string name="plus_player_play_mode_single_circle">1 wiederholen</string>
+  <string name="plus_player_play_mode_stop">Abspielen</string>
+  <string name="plus_player_share_empty_toast">Elemente zum Teilen wählen</string>
+  <string name="plus_player_share_screen">Übertragen</string>
+  <string name="plus_player_share_screen_connect_fail">Verbinden nicht möglich. Erneut versuchen.</string>
+  <string name="plus_player_share_screen_connect_success">Erfolgreich verbunden</string>
+  <string name="plus_player_share_screen_device">Verfügbare Geräte</string>
+  <string name="plus_player_share_screen_in_device">Auf %s abspielen…</string>
+  <string name="plus_player_share_screen_no_device">Keine Geräte in der Nähe gefunden.</string>
+  <string name="plus_player_share_screen_play">Video übertragen…</string>
+  <string name="plus_player_share_screen_searching_device">Nach Geräten in der Nähe suchen…</string>
+  <string name="plus_player_share_screen_starting_service">Vorbereiten zum Übertragen…</string>
+  <string name="plus_player_share_screen_stop">Übertragen stoppen</string>
+  <string name="plus_player_share_screen_video_not_support">Vorschau wird für dieses Videoformat nicht unterstützt.</string>
+  <string name="plus_player_speed">Geschwindigkeit</string>
+  <string name="plus_player_speed_toast">Erfolgreich auf Geschwindigkeit %s umgestellt</string>
+  <string name="plus_player_speed_toast_error">Wiedergabegeschwindigkeit jetzt instabil. Zurück zur Standardgeschwindigkeit.</string>
+  <string name="plus_player_subtitle">Untertitel</string>
+  <string name="plus_player_subtitle_dir_back">Nach oben</string>
+  <string name="plus_player_subtitle_local">Lokale Untertitel</string>
+  <string name="plus_player_subtitle_local_add_fail">Untertitel hizufügen nicht möglich. Stellen Sie sicher, dass die Datei nicht beschädigt ist.</string>
+  <string name="plus_player_subtitle_local_add_success">Untertitel erfolgreich</string>
+  <string name="plus_player_subtitle_no_file">Hier keine Untertitel</string>
+  <string name="plus_player_subtitle_online">Online-Untertitel</string>
+  <string name="plus_player_subtitle_online_declare_content">"Sie sind im Begriff, nach &lt;br/&gt;Untertiteln in der &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;-Datenbank zu suchen. &lt;br/&gt;Alle Untertitel werden zur Verfügung gestellt von &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;."</string>
+  <string name="plus_player_subtitle_online_declare_title">Haftungsausschluss</string>
+  <string name="plus_player_subtitle_online_download_fail">Untertitel herunterladen nicht möglich</string>
+  <string name="plus_player_subtitle_online_download_start">Untertitel herunterladen…</string>
+  <string name="plus_player_subtitle_online_download_success">Untertitel erfolgreich heruntergeladen</string>
+  <string name="plus_player_subtitle_online_language">Sprache: %s</string>
+  <string name="plus_player_subtitle_online_search_empty">Untertitel online nicht gefunden</string>
+  <string name="plus_player_subtitle_online_search_hint">Suchbegriffe eingeben</string>
+  <string name="plus_player_subtitle_online_search_no_network">Ein Netzwerkfehler ist aufgetreten</string>
+  <string name="plus_player_unhide">Einblenden</string>
+  <string name="plus_player_video_not_support">Dieses Videoformat wird nicht unterstützt.</string>
+  <string name="plus_poster_reset_default">Standard-Cover wiederherstellen</string>
+  <string name="plus_search_barhint">Nach lokalen Videos suchen</string>
+  <string name="plus_search_guide">Nach Videos suchen</string>
+  <string name="plus_search_result_empty">Keine Ergebnisse gefunden</string>
+  <string name="plus_shortcut">Lokale Videos</string>
+  <string name="plus_shortcut_created_succ">Startbildschirmverknüpfung erfolgreich erstellt</string>
+  <string name="plus_shortcut_existed">Diese Verknüpfung existiert bereits</string>
+  <string name="plus_sort_title">Sortieren</string>
+  <string name="plus_sort_type_default">Standard</string>
+  <string name="plus_sort_type_size">Größe</string>
+  <string name="plus_sort_type_time">Zeit</string>
+  <string name="plus_tab_gallery">Ordner</string>
+  <string name="plus_tab_time">Zeitleiste</string>
   <string name="psw_hint">Passwort</string>
   <string name="psw_sign_in">Mit Passwort anmelden</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Zum Aktualisieren nach unten ziehen…</string>
@@ -529,6 +645,7 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="s5">Kalendereintrag erstellen</string>
   <string name="s6">Erlauben Sie der Werbung, einen Kalendereintrag zu erstellen?</string>
   <string name="s7">Testwerbung</string>
+  <string name="saturday">Samstag</string>
   <string name="save">Speichern</string>
   <string name="save_cancel_toast">Erneut tippen, um Speichern abzubrechen</string>
   <string name="screen_shot_failure">Screenshot nicht möglich</string>
@@ -542,6 +659,9 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="screenrecord_slience">Aufgezeichnetes Video ist stumm, da die aktuelle Version von MIUI die Aufnahme von Audiotracks nicht unterstützt.</string>
   <string name="screenrecord_success">Erfolgreich aufgenommen. Sie können das Video jetzt teilen.</string>
   <string name="search">Suchen</string>
+  <string name="search_choose_language">Sprache wählen</string>
+  <string name="search_choose_voice_language">Sprache für die Sprachsuche auswählen</string>
+  <string name="search_hot_words">Beliebt</string>
   <string name="search_menu_title">Suchen</string>
   <string name="selectall">Alle wählen</string>
   <string name="selectnull">Alle abwählen</string>
@@ -557,6 +677,7 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="slid_fail_message">Speichern nicht möglich</string>
   <string name="slide_save_message">Video erstellen…</string>
   <string name="sns_sign_in">Andere Art der Anmeldung</string>
+  <string name="source">"Quelle: "</string>
   <string name="storage_external_sdcard">Externer Speicher</string>
   <string name="storage_internal_sdcard">Interner Speicher</string>
   <string name="storage_permission_denied">Berechtigung zum Zugriff auf den Speicher wurde verweigert</string>
@@ -589,12 +710,14 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="subtitle_synchronization_title">Sync</string>
   <string name="subtitle_title">Untertitel</string>
   <string name="subtitle_track">Untertitel</string>
+  <string name="sunday">Sonntag</string>
   <string name="sure_to_logout">Jetzt abmelden?</string>
   <string name="switch_ratio_pause">Wiedergabegeschwindigkeit ist instabil. Zurückschalten auf Standardgeschwindigkeit…</string>
   <string name="t_check_delete_file">Zu löschende Elemente auswählen</string>
   <string name="t_check_delete_history">Zu löschende Aufnahmen auswählen</string>
   <string name="t_check_hide_file">Zu versteckende Videos auswählen</string>
   <string name="t_check_send_file">Zu sendendes Elemet auswählen</string>
+  <string name="t_check_unhide_file">Elemente zum Einblenden wählen</string>
   <string name="t_deleting">Löschen…</string>
   <string name="t_downloading">Herunterladen:</string>
   <string name="t_downloading_new_version">Update wird heruntergeladen…</string>
@@ -617,17 +740,21 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="t_password_wrong">Passwort falsch, erneut versuchen</string>
   <string name="t_search_null">Suchbegriffe eingeben</string>
   <string name="t_start_download">Beginn des Downloads:</string>
+  <string name="thursday">Donnerstag</string>
   <string name="ticket_hint">Verifizierungscode</string>
   <string name="ticket_invalid">Eingegebener Code ist falsch</string>
   <string name="ticket_sign_in">Mit SMS anmelden</string>
   <string name="title_publisher">Ersteller</string>
   <string name="title_subscribe">Abonnements</string>
   <string name="toast_share_failed">Teilen nicht möglich. Einen Moment warten und es erneut versuchen.</string>
+  <string name="today">Heute</string>
+  <string name="tuesday">Dienstag</string>
   <string name="txt_cancel_download">TRANSFER ABBRECHEN</string>
   <string name="txt_download_complete">Download abgeschlossen</string>
   <string name="txt_watch_now">JETZT ANSEHEN</string>
   <string name="ugc_confirm_unsubscribe">Jetzt abbestellen?</string>
   <string name="ui_log_tip">Tippen Sie auf diesen Bereich, um alte Logs auszublenden, drücken und halten Sie ihn gedrückt, um sie zu löschen. Logs manuell ziehen.</string>
+  <string name="unknow">Unbekannt</string>
   <string name="user_id_hint">E-Mail/Telefon</string>
   <string name="v_agree">Zustimmen</string>
   <string name="v_app_check_failed">App wurde nicht verifiziert</string>
@@ -644,6 +771,7 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="v_confirm_delete_history">Verlauf löschen?</string>
   <string name="v_confirm_delete_videos">Elemente löschen?</string>
   <string name="v_confirm_hide_videos">Videos verstecken?</string>
+  <string name="v_confirm_unhide_videos">Gewählte Elemente jetzt einblenden?</string>
   <string name="v_data_empty">Keine Daten</string>
   <string name="v_exit">Ende</string>
   <string name="v_find_new_version">Update ist verfügbar</string>
@@ -680,9 +808,13 @@ Schauen Sie sich andere Videos an!"</string>
   <string name="v_update">Aktualisieren</string>
   <string name="v_updating">Wird aktualisiert…</string>
   <string name="v_video_null">Keine Videos</string>
+  <string name="vp_VideoView_error_text_unknown">Ein Fehler ist aufgetreten</string>
+  <string name="vp_VideoView_error_title">Unbekannter Fehler</string>
   <string name="vp_app_name">Videoplayer</string>
   <string name="vp_device_list">Geräte</string>
   <string name="vp_device_list_seaching">&lt;Kein Gerät für Streaming verfügbar&gt;</string>
+  <string name="vp_upcoming_title">Nächster</string>
+  <string name="wednesday">Mittwoch</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbindung Downloadmanager fehlgeschlagen, bitte prüfen Sie den Status des Downloadmanagers in der App-Verwaltung.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Vorstellung der Version %1$s
 Größe: %2$s"</string>
@@ -690,4 +822,6 @@ Größe: %2$s"</string>
 Delta-Update-Größe: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s Update!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Speicher nicht verfügbar, bitte prüfen Sie die SD-Karte.</string>
+  <string name="year">Jahr</string>
+  <string name="yesterday">Gestern</string>
 </resources>
