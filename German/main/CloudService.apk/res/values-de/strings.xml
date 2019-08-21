@@ -18,6 +18,7 @@
   <string name="cloud_find_device">Gerät finden</string>
   <string name="cloud_find_device_off">Aus</string>
   <string name="cloud_find_device_on">An</string>
+  <string name="cloud_storage_info_type_pdc">Systemeinstellungen</string>
   <string name="cloud_storage_already_used">Belegt: %1$s/%2$s</string>
   <string name="cloud_storage_full">Cloud-Speicher</string>
   <string name="cloud_storage_info_type_others">Andere</string>
@@ -307,9 +308,15 @@ Verwenden Sie ein anderes Konto."</string>
   <string name="micloud_sec_dspt">" und teile Dinge mit Freunden"</string>
   <string name="micloud_setting_antispam_summary">Ausnahmen und geblockte Telefonnummern</string>
   <string name="micloud_setting_browser_summary">Lesezeichen, Verlauf und Registerkarten</string>
+  <string name="micloud_setting_calendar_summary">Termine</string>
+  <string name="micloud_setting_calllog_summary">Anrufliste</string>
   <string name="micloud_setting_contact_summary">Kontaktinfos und Profilfotos</string>
   <string name="micloud_setting_gallery_summary">Fotos und Videos</string>
   <string name="micloud_setting_music_summary">Abspiellisten und Favoriten</string>
+  <string name="micloud_setting_notes_summary">Notizen</string>
+  <string name="micloud_setting_personal_assistant_summary">App-Infoassistent und Funktionen</string>
+  <string name="micloud_setting_phrase_summary">Häufige Sätze</string>
+  <string name="micloud_setting_recorder_summary">Audio- und Gesprächsaufzeichnungen</string>
   <string name="micloud_setting_sms_summary">SMS- und MMS-Nachrichten</string>
   <string name="micloud_setting_wifi_summary">WLAN Einstellungen</string>
   <string name="micloud_space_applist_detail">Verwalte Apps auf dem Startbildschirm</string>
@@ -407,6 +414,11 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
   <string name="soundrecorder_sync_only_in_wifi">Nur WLAN zum Synchronisieren verwenden</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Rekorder wird nicht die mobile Datenverbindung verwenden, um Aufnahmen hochzuladen</string>
   <string name="soundrecorder_sync_records">Mit Xiaomi Cloud synchronisieren</string>
+  <string name="storage_manage_upgrade">Aktualisierung</string>
+  <string name="storage_manage_expansion">Mehr erfahren</string>
+  <string name="storage_manage_renewal">Erneuern</string>
+  <string name="storage_manage_list_title">Cloud-Daten</string>
+  <string name="storage_manage_list_title_action">Mehr anzeigen</string>
   <string name="sub_alert_notif_content">Synchronisation mit Xiaomi Cloud einschalten, um Ihre Daten zu sichern.</string>
   <string name="sub_alert_notif_title">Keine Synchronisation</string>
   <string name="sub_sync_item_sms_summary">Nachrichten, welche Fotos, Videos oder andere Medien beinhalten, nur bei einer WLAN Verbindung synchronisieren</string>
@@ -457,7 +469,7 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
   <string name="warning_bar_action_upgrade_vip">Xiaomi Cloud-Tarif upgraden</string>
   <string name="warning_bar_add_short_cut_success">Erfolgreich hinzugefügt</string>
   <string name="warning_bar_title_cloud_space_already_full">Xiaomi Cloud-Speicher wird knapp. Ihre Fotos werden evtl. nicht synchronisiert.</string>
-  <string name="warning_bar_title_cloud_space_full">Xiaomi Cloud-Speicher ist voll. Synchronisation wurde gestoppt.</string>
+  <string name="warning_bar_title_cloud_space_full">Xiaomi Cloud-Speicher ist voll. Fotos, Anrufprotokolle und andere Elemente können nicht synchronisiert werden.</string>
   <string name="warning_bar_title_master_sync_off">Auto-Synchronisation ist aus</string>
   <string name="warning_bar_title_network_unconnected">Netzwerkverbindung nicht möglich</string>
   <string name="warning_bar_title_short_cut">Verknüpfung für Xiaomi Cloud auf dem Startbildschirm hinzufügen?</string>
