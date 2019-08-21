@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="app_name">Einstellungen</string>
+  <string name="application_sound">App-Benachrichtigungen</string>
+  <string name="calendar_sound">Terminerinnerungen</string>
+  <string name="calendar_tip">Terminerinnerungstöne funktionieren bei Kalendererinnerungen, Notizen und Aufgaben</string>
+  <string name="follow_sim1">SIM1-Einstellungen übernehmen</string>
+  <string name="intelligent_recognition_item_summary">Eingehende Anrufe von Dienstleistern (z.B. Lebensmittelzustellung) identifizieren und für diese separate Klingeltöne verwenden.</string>
+  <string name="intelligent_recognition_item_title">Dienste identifizieren</string>
+  <string name="mms">Nachrichten</string>
+  <string name="more_ringtone">Alle Klingeltöne</string>
+  <string name="notification_sound">Benachrichtigungstöne</string>
+  <string name="ringtone_slot_setting_title">Dual SIM-Klingeltöne</string>
+  <string name="ringtone_sound">Klingeltöne</string>
+  <string name="ringtone_title">Klingeltöne</string>
   <string name="screen_cancel">Abbrechen</string>
   <string name="screen_confirm">Einschalten</string>
   <string name="screen_paper_mode_apps_loading">Einen Moment…</string>
+  <string name="sim_slot_1">" (SIM1)"</string>
+  <string name="sim_slot_2">" (SIM2)"</string>
+  <string name="sms_delivered_sound_title">Nachricht empfangen</string>
+  <string name="sms_received_sound_title">Eingehende Nachricht</string>
+  <string name="thememanager_not_found">Konnte keine Themen öffnen. Stellen Sie sicher, dass diese App auf Ihrem Gerät installiert ist.</string>
   <string name="usage_app_get_it">Verstanden</string>
   <string name="usage_app_limit_alter_summary">Sieht aus, als wäre dieses Zeitlimit kürzer als die Zeit, die Sie heute diese App benutzt haben. Trotzdem Limit setzen?</string>
   <string name="usage_app_limit_alter_title">Bildschirmzeitlimit prüfen</string>
@@ -18,15 +36,24 @@
   <string name="usage_app_system_app_summary">Bildschirmzeit für System-Apps kann nicht begrenzt werden</string>
   <string name="usage_app_weekday_limit">Wochentags</string>
   <string name="usage_app_weekend_limit">An Wochenenden</string>
+  <string name="usage_state_app_remain_time">Verbleibende Zeit: %s</string>
   <string name="usage_state_app_timer">Bildschirmzeit</string>
   <string name="usage_state_app_usage_detail_title">App-Nutzungdetails</string>
+  <string name="usage_state_app_usage_limit">App-Bildschirmzeitlimit</string>
+  <string name="usage_state_app_usage_limit_summary">Tägliche Bildschirmzeitlimits für Apps festlegen</string>
   <string name="usage_state_app_usage_list_title">Bildschirmzeit von Apps</string>
   <string name="usage_state_app_usage_list_week_title">Bildschirmzeit von Apps</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Bildschirmzeit zwischen %d:00 und %d:00 Uhr</string>
   <string name="usage_state_app_use_time">Bildschirmzeit weiterer Apps</string>
+  <string name="usage_state_card_add">Hinzufügen</string>
+  <string name="usage_state_card_cancel">Abbrechen</string>
+  <string name="usage_state_card_summary">\"Bildschirmzeit\"-Karte zum App-Infoassistent hinzufügen, um Ihre Zeit effizienter zu verwalten.</string>
+  <string name="usage_state_category">Kategorien</string>
   <string name="usage_state_channel_mouth">Letzte 30 Tage</string>
   <string name="usage_state_channel_week">Letzte 7 Tage</string>
   <string name="usage_state_date">d. MMM</string>
+  <string name="usage_state_device_limit_summary">Tägliche Bildschirmzeitlimits für Ihr Gerät festlegen.</string>
+  <string name="usage_state_device_limit_title">Zeitlimits für den Gerätebildschirm</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">Benachrichtigungen zwischen %d:00 und %d:00 Uhr</string>
   <string name="usage_state_device_unlock_today_tip_title" formatted="false">Gerät zwischen %d:00 und %d:00 Uhr entsperrt</string>
   <string name="usage_state_friday">Fr</string>
@@ -38,19 +65,27 @@
   <string name="usage_state_noti_mourth_day">Benachrichtigungen am %s</string>
   <string name="usage_state_notification">App-Benachrichtigungen</string>
   <string name="usage_state_notification_manager">App-Benachrichtigungen verwalten</string>
+  <string name="usage_state_remind_new_summary">Eine Benachrichtigung erhalten, wenn die Bildschirmzeit das eingestellte Limit erreicht.</string>
   <string name="usage_state_remind_summary">Einschalten, um Bildschirmzeit-Alarme zu erhalten. Sie können verschiedene Zeitlimits für Wochentage und Wochenenden festlegen.</string>
   <string name="usage_state_remind_title">Nutzungslimit einschalten</string>
   <string name="usage_state_rest_day">Wochenende</string>
   <string name="usage_state_saturday">Sa</string>
   <string name="usage_state_set_invalid_time_toast">Limits von weniger als 1 Minute können nicht festgelegt werden</string>
+  <string name="usage_state_show_category">Kategorien</string>
+  <string name="usage_state_show_detail">Detaillierte Statistiken anzeigen</string>
+  <string name="usage_state_show_more">Mehr</string>
   <string name="usage_state_sunday">So</string>
   <string name="usage_state_thursday">Do</string>
+  <string name="usage_state_time_end">Erreichtes Bildschirmzeitlimit für heute</string>
   <string name="usage_state_today">Heute</string>
   <string name="usage_state_today_total_text">Heute</string>
   <string name="usage_state_tuesday">Di</string>
   <string name="usage_state_unlock_mourth_day">Entsperrt am %s</string>
+  <string name="usage_state_unusage">Wurde heute nicht verwendet</string>
   <string name="usage_state_usage_time">Nutzungslimit festlegen</string>
   <string name="usage_state_usage_time_remind">Bildschirmzeit-Alarm</string>
+  <string name="usage_state_usage_time_weekday_title">Wochentage</string>
+  <string name="usage_state_usage_time_weekend_title">Wochenende</string>
   <string name="usage_state_use_time_remind_title">Bildschirmzeit-Alarm</string>
   <string name="usage_state_wednesday">Mi</string>
   <string name="usage_state_week_day_hour_minute" formatted="false">Wochenende: %d Std %d Min</string>
@@ -59,14 +94,21 @@
   <string name="usage_state_work_day_hour_minute" formatted="false">Wochentags: %d Std %d Min</string>
   <string name="usage_stats_normal_day">Wochentags</string>
   <string name="usage_stats_week_day">Wochenende</string>
+  <string name="usagestats_app_category_miui_education">Bildung</string>
+  <string name="usagestats_app_category_miui_entainment">Unterhaltung</string>
   <string name="usagestats_app_category_miui_financial">Finanzen</string>
   <string name="usagestats_app_category_miui_game">Spiele</string>
   <string name="usagestats_app_category_miui_life">Lebensweise</string>
+  <string name="usagestats_app_category_miui_medicine">Gesundheit</string>
+  <string name="usagestats_app_category_miui_news">Neues</string>
+  <string name="usagestats_app_category_miui_photo">Fotografie &amp; Video</string>
   <string name="usagestats_app_category_miui_productivity">Produktivität</string>
   <string name="usagestats_app_category_miui_reading">Lesen</string>
   <string name="usagestats_app_category_miui_shopping">Einkaufen</string>
   <string name="usagestats_app_category_miui_social">Soziale Netzwerke</string>
+  <string name="usagestats_app_category_miui_sport">Sport &amp; Fitness</string>
   <string name="usagestats_app_category_miui_system">System-Apps</string>
+  <string name="usagestats_app_category_miui_travel">Reisen</string>
   <string name="usagestats_app_category_miui_undefined">Andere</string>
   <string name="usagestats_app_category_miui_video_etc">Musik und Video</string>
   <string name="usagestats_device_notification_des">Bildschirmzeit-Limit heute: %s</string>
