@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_weather_setting">Über Wetter</string>
+  <string name="abrupt_weather_settings_summary_type">Warnmeldungen über erwartete Niederschläge, Änderungen der Luftqualität und andere wichtige Änderungen erhalten</string>
   <string name="abrupt_weather_settings_summary_type_a">Schalter ungewöhnliche Wetterwarnung</string>
   <string name="abrupt_weather_settings_summary_type_b">Schalter ungewöhnliche Wetterwarnung</string>
   <string name="abrupt_weather_settings_title">Ungewöhnliche Wetterwarnung</string>
@@ -34,6 +36,8 @@
   <string name="add_city">Hinzufügen</string>
   <string name="alert_detail_title">Warnungsdetails</string>
   <string name="alert_warning">Wetterwarnung</string>
+  <string name="alert_weather_enable_settings_summary">Offizielle Wetterwarnungen erhalten</string>
+  <string name="alert_weather_enable_settings_title">Wetterwarnungen</string>
   <string name="already_voted">Bereits abgestimmt</string>
   <string name="already_voted_toast">Sie haben heute bereits abgestimmt</string>
   <string name="app_name">Wetter</string>
@@ -113,6 +117,7 @@ Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellung
   <string name="empty_view_net_unavailable">Netzwerkverbindung nicht möglich</string>
   <string name="empty_view_refresh">Erneut versuchen</string>
   <string name="eu_region_version_first_start_network_msg">Durch die Nutzung dieses Produkts erklären Sie sich damit einverstanden, dass Xiaomi Ihre persönlichen Daten, einschl. der Koordinaten der von Ihnen gesuchten Städte und anderer in unserer Datenschutzerklärung angegebener Daten, erfasst, verarbeitet und nutzt. In unserer Datenschutzerklärung erfahren Sie, wie wir Informationen sammeln und verarbeiten. Indem Sie auf \"Erlauben\" tippen, stimmen Sie Xiaomi\'s %1$s und %2$s zu.</string>
+  <string name="feedback">Falsche Wetterinformationen melden</string>
   <string name="feedback_cloudy">Wolkig</string>
   <string name="feedback_foggy">Neblig</string>
   <string name="feedback_haze">Dunst</string>
@@ -201,7 +206,7 @@ Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellung
   <string name="more_details">Mehr Details</string>
   <string name="network_not_available">Netzwerkverbindung nicht möglich</string>
   <string name="network_unavailable">Netzwerkverbindung nicht möglich</string>
-  <string name="night_not_disturb_settings_summary">Warnungen ab 23:00 bis 7:00 stumm geschaltet</string>
+  <string name="night_not_disturb_settings_summary">Warnungen zwischen 23:00 und 7:00 Uhr blockieren</string>
   <string name="night_not_disturb_settings_title">Nachts nicht stören</string>
   <string name="no_data">Keine Daten</string>
   <string name="no_network_btn">Wiederholen</string>
@@ -294,6 +299,8 @@ Nach unten ziehen, um zu aktualisieren, oder prüfen Sie die Netzwerkeinstellung
   <string name="view_indexes_item_today">Heute</string>
   <string name="view_indexes_item_tommorrow">Morgen</string>
   <string name="view_indexes_wind_unit">km/h</string>
+  <string name="warning_weather_day_and_night_settings_summary">Tägliche Zusammenfassungen mit Wetterinformationen um 7:00 und 19:00 Uhr erhalten</string>
+  <string name="warning_weather_day_and_night_settings_title">Tägliche Zusammenfassungen</string>
   <string name="weather_alert">Wetterwarnungen</string>
   <string name="weather_alert_channel_name">Warnmeldungen</string>
   <string name="weather_introduce">Immer dabei, bei Regen oder Sonnenschein.</string>
