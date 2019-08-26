@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Phonepass">Anrufe zulassen</string>
-  <string name="SMS_and_MMS">SMS und MMS</string>
-  <string name="SMSpass">SMS zulassen</string>
-  <string name="Setting_lock">Einstellungen</string>
-  <string name="Settings_title_anti_spam">Sperrlisteneinstellungen</string>
-  <string name="Settings_title_anti_virus">Einstellungen Sicherheitsscan</string>
-  <string name="Settings_title_garbage_cleanup">Bereinigungseinstellungen</string>
-  <string name="Settings_title_network_assistants">Einstellungen Datennutzung</string>
-  <string name="Settings_title_power_center">Einstellungen Akku-Optimierung</string>
   <string name="about_autostart">Über Autostart</string>
   <string name="ac_enter_applock">App-Sperre eingeben</string>
   <string name="ac_firstUseApplock_subTitle">Bessere Sicherheitstools auf Systemebene verwenden</string>
@@ -302,6 +293,7 @@ Sie verlieren keine App-Daten."</string>
   <string name="apps_item_virus_summary_installed">Installierte App</string>
   <string name="apps_list_header_title_sms">Nachrichten-App prüfen</string>
   <string name="apps_list_header_title_sms_access">Zugang zu Verifikationscodes einschränken</string>
+  <string name="app_name_securitycenter">Sicherheit</string>
   <string name="ask_create_shortcut">Verknüpfung auf dem Startbildschirm erstellen?</string>
   <string name="audio_optimization_summary">Klang verbessern und Umgebungsgeräusche in Gesprächen reduzieren</string>
   <string name="audio_optimization_title">Besserer Klang</string>
@@ -374,6 +366,9 @@ Sie verlieren keine App-Daten."</string>
   <string name="background_restrict_app_dialog_message">Einschränkung des Hintergrundnetzwerkzugriffs kann die richtige Funktion der App, den Nachrichtenempfang, das Herunterladen etc. beeinträchtigen. Trotzdem einschränken?</string>
   <string name="background_traffic">Hintergrund %s</string>
   <string name="backsound_set_hint">Abwesenheitsnachricht in %s ändern?</string>
+  <string name="banner_optimizemanage_summary">Speicher freigeben</string>
+  <string name="banner_red_money_assist_button">Einschalten</string>
+  <string name="banner_red_money_assist_summary">Rote Umschläge schneller öffnen</string>
   <string name="battery_and_property">Akku &amp; Leistung</string>
   <string name="battery_capacity_title">Akkukapazität</string>
   <string name="battery_charge_estimating">Berechnen</string>
@@ -731,6 +726,8 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
   <string name="downloading">Herunterladen</string>
   <string name="doze_optimization_summary">Berührungsreaktion und Empfindlichkeit erhöhen</string>
   <string name="doze_optimization_title">Optimierte Berührungssteuerung</string>
+  <string name="dual_setting_simcard1">SIM1</string>
+  <string name="dual_setting_simcard2">SIM2</string>
   <string name="email">E-Mail</string>
   <string name="empty_app">Keine Apps</string>
   <string name="empty_title_auto_start_list">Keine Autostart-Apps</string>
@@ -1429,11 +1426,12 @@ Ihr Anbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie die mobile Daten
   <string name="menu_summary_antivirus">Auf dem Gerät nach Viren suchen</string>
   <string name="menu_summary_antivirus_2">Mögliche Risiken gefunden</string>
   <string name="menu_summary_antivirus_3">Gerät wurde nicht gescannt</string>
-  <string name="menu_summary_app_manager">Apps aktualisieren &amp; deinstallieren</string>
+  <string name="menu_summary_app_manager">Aktualisieren &amp; Deinstallieren</string>
   <string name="menu_summary_app_manager_2">Updates sind verfügbar</string>
   <string name="menu_summary_garbage_cleanup">Kein Müll gefunden</string>
   <string name="menu_summary_garbage_cleanup_2">Papierkorbgröße</string>
   <string name="menu_summary_garbage_cleanup_3">Papierkorb löschen</string>
+  <string name="menu_summary_garbage_cleanup_ex">%s Müll löschen</string>
   <string name="menu_summary_networkassistants">Datentarif verwalten</string>
   <string name="menu_summary_networkassistants_2">Limit überschritten</string>
   <string name="menu_summary_networkassistants_3">Ausreichend Daten vorhanden</string>
@@ -1764,6 +1762,15 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="permit_running_network">Hintergrunddaten erlauben</string>
   <string name="person_hotpot">Mobile Hotspots</string>
   <string name="phone">Telefon</string>
+  <string name="phone_manage">Dienst- programme</string>
+  <string name="phone_manage_app_manager_summary">Apps auf Ihrem Gerät verwalten</string>
+  <string name="phone_manage_clean_summary">Freier Speicherplatz</string>
+  <string name="phone_manage_electric_summary">Ihr Gerät optimieren, um den Akku zu schonen</string>
+  <string name="phone_manage_electric_title">Akku</string>
+  <string name="phone_manage_special_summary">Unsere zusätzlichen Funktionen entdecken</string>
+  <string name="phone_manage_special_title">Spezielle Funktionen</string>
+  <string name="phone_manage_system_tool_summary">Nützliche Tools auf Systemebene</string>
+  <string name="Phonepass">Anrufe zulassen</string>
   <string name="pkg_traffic">Datenlimit einstellen</string>
   <string name="pm_auto_start_by_other">Getriggerter Start</string>
   <string name="pm_auto_start_by_other_app">Anderen Apps erlauben, diese App zu starten</string>
@@ -1856,6 +1863,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
   <string name="power_save_ps_close_setting">Hintergrunddienste ausschalten (Synchronisation, GPS), um den Akku zu schonen.</string>
   <string name="power_save_ps_freeze">Apps im Hintergrund einfrieren</string>
   <string name="power_save_ps_limit">Aktivität von System-Apps einschränken</string>
+  <string name="power_save_settings">Akkueinstellungen</string>
   <string name="power_save_started_summary_text">Stromsparen ist eingeschaltet. Es reduziert die Hintergrundaktivität von Apps, stoppt die Synchronisation und minimiert Systemanimationen.</string>
   <string name="power_save_summary_text">Stromsparen einschalten, um die Hintergrundaktivitäten von Apps einzuschränken, die Synchronisation anzuhalten und Systemanimationen zu minimieren</string>
   <string name="power_save_title_text">Stromsparen</string>
@@ -2109,6 +2117,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Anbieter, um d
   <string name="securityadd_update_tips_message">Aktualisieren Sie das Sicerheitsdienst-Plugin, um Zugriff auf die neuesten Gaming-Funktionen zu erhalten. %1$d MB werden heruntergeladen.</string>
   <string name="securityadd_update_tips_now">Aktualisierung</string>
   <string name="securityadd_update_tips_title">Aktualisierung</string>
+  <string name="securitycenter_tab_title">Sicherheit</string>
   <string name="see_more_content">Games für weitere Highlights aktualisieren</string>
   <string name="set_applock_password">Passwort setzen</string>
   <string name="set_immediately">Einstellen</string>
@@ -2116,6 +2125,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Anbieter, um d
   <string name="set_numeric_password_name">PIN setzen</string>
   <string name="set_pattern_password_name">Muster setzen</string>
   <string name="setting">Einstellungen</string>
+  <string name="Setting_lock">Einstellungen</string>
   <string name="setting_privacy_password">Muster hinzufügen</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
@@ -2125,6 +2135,11 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Anbieter, um d
   <string name="settings_category_overheat">Überhitzung</string>
   <string name="settings_choice_no_notification">Aus</string>
   <string name="settings_power_save_ontime_title">Zeitplan</string>
+  <string name="Settings_title_anti_spam">Sperrlisteneinstellungen</string>
+  <string name="Settings_title_anti_virus">Einstellungen Sicherheitsscan</string>
+  <string name="Settings_title_garbage_cleanup">Bereinigungseinstellungen</string>
+  <string name="Settings_title_network_assistants">Einstellungen Datennutzung</string>
+  <string name="Settings_title_power_center">Einstellungen Akku-Optimierung</string>
   <string name="shield_keyboard_detail">Tasten zweimal antippen, um diese wieder zu aktivieren</string>
   <string name="shield_keyboard_summary">Tasten und Vollbildgesten während des Spiels einschränken</string>
   <string name="shield_keyboard_title">Tasten und Gesten einschränken</string>
@@ -2150,6 +2165,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Anbieter, um d
   <string name="sip_phone">SIP-Telefon</string>
   <string name="skin_change_close_toast">Änderungen werden beim nächsten Start von Sicherheit angewendet</string>
   <string name="sms_address">Gebietssperrliste</string>
+  <string name="SMS_and_MMS">SMS und MMS</string>
   <string name="sms_blacklist">SMS-Sperrliste</string>
   <string name="sms_cloud_block">Cloud-Sperrliste</string>
   <string name="sms_contact_block">SMS von Kontakten blockieren</string>
@@ -2167,6 +2183,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Anbieter, um d
   <string name="sms_smart_engine_update">SMS-Filter automatisch aktualisieren</string>
   <string name="sms_smart_engine_update_now">Aktualisieren</string>
   <string name="sms_stranger_block">SMS von Unbekannten blockieren</string>
+  <string name="SMSpass">SMS zulassen</string>
   <string name="sorted_dialog_title">Sortieren nach</string>
   <string name="sp_background_risk_dialog_summary">, bitte beachten Sie die Warnungen für eventuell unsichere Zahlungen</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Sie sind mit einem öffentlichen WLAN verbunden, das unsicher sein kann. Vergewissern Sie sich, dass Ihre Zahlung geschützt ist, bevor Sie sie abschließen.</string>
@@ -2198,6 +2215,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Anbieter, um d
   <string name="sp_toast_removed_from_sign_white_list">Aus den Ausnahmen entfernt. Element wird beim nächsten Mal gescannt.</string>
   <string name="special_number_group">Gemeldete Nummern blockieren</string>
   <string name="sponsored_sec_fb">Gesponsert</string>
+  <string name="ss_activity_main_support_text">Unterstützt durch %s</string>
   <string name="st_antispam_black_adress_add">Gebiet hinzufügen</string>
   <string name="st_antispam_bw_adress_add">Gebiet hinzufügen</string>
   <string name="st_antispam_bw_choose_modes">Zu Liste hinzufügen</string>
@@ -2303,6 +2321,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Anbieter, um d
   <string name="st_title_settings_other_group">Zusätzliche Einstellungen</string>
   <string name="st_title_show_antispam_notification">Sperrlistenbenachrichtigungen</string>
   <string name="st_title_show_antispamnotification">Sperrbenachrichtigungen</string>
+  <string name="st_title_sim_card">%1$s - SIM%2$s</string>
   <string name="st_title_whitelist_numbers">Ausnahmen</string>
   <string name="start_downloading_app">Download starten: %1$s</string>
   <string name="status_bar_network_flow_content">Heute: %1$s | Verbleibend: %2$s</string>
@@ -2418,6 +2437,8 @@ Beachten Sie, dass %1s Ihre Daten erfassen muss und die folgenden Berechtigungen
   <string name="system_permission_perm_read_mms">MMS lesen</string>
   <string name="system_permission_perm_read_numbers">Telefonnummern lesen</string>
   <string name="system_permission_perm_send_mms">MMS senden</string>
+  <string name="system_tool_sos">SOS-Notfall</string>
+  <string name="system_tool_green_guard">Familienschutz</string>
   <string name="tab_blacklist">Sperrliste</string>
   <string name="tab_block_log_unKnowNumber">Private Nummer</string>
   <string name="tab_call">Anrufe</string>
@@ -2455,6 +2476,7 @@ Beachten Sie, dass %1s Ihre Daten erfassen muss und die folgenden Berechtigungen
   <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Info nicht erhalten&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Korrekt&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Anbieter antwortet&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Zeitüberschreitung&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_updating">Testen…</string>
   <string name="tc_diagnostic_success_notification_summary">Dieses Problem melden, um MIUI Diagnosetools zu verbessern</string>
   <string name="tc_diagnostic_success_notification_title">Anbieter korrekt</string>
