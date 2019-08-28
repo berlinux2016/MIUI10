@@ -176,7 +176,7 @@ Bitte senden Sie diesen Code an den Supervisor."</string>
   <string name="error_invalid_bind_address">Eingegebene E-Mailadresse ist ungültig</string>
   <string name="exceed_binded_phone_times_notice">Diese Telefonnummer wurde bereits mit einem anderen Mi Konto verbunden</string>
   <string name="failed_dup_secure_phone_number">Diese Telefonnummer ist bereits mit einem anderen Mi Konto verknüpft</string>
-  <string name="ep_unsupported">Auf Ihrem Gerät im Mi-Konto anmelden nicht möglich</string>
+  <string name="ep_unsupported">Ihr Gerät unterstützt keine Xiaomi-Kontoanmeldung</string>
   <string name="exit">Beenden</string>
   <string name="find_device_access_denied">Status kann nicht überprüft werden, Zugriff verweigert</string>
   <string name="find_device_account_error">Status kann wegen eines Kontofehlers nicht überprüft werden</string>
@@ -459,6 +459,7 @@ Bitte senden Sie diesen Code an den Supervisor."</string>
   <string name="passport_use_generated_pwd_message">Vergessen Sie nicht, sich Ihr Passwort zu merken. Sie können es verwenden, um sich bei anderen Mi Diensten anzumelden.</string>
   <string name="passport_use_generated_pwd_title">Passwort merken</string>
   <string name="passport_user_agreement">Nutzervereinbarung</string>
+  <string name="passport_user_agreement_link"><Data>"Ich habe Xiaomi's &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a> gelesen und akzeptiert."</Data></string>
   <string name="passport_user_agreement_required">Nutzervereinbarung (obligatorisch)</string>
   <string name="passport_user_agreement_p1">"Zustimmen zur "</string>
   <string name="passport_user_agreement_p2">Nutzervereinbarung</string>
@@ -536,6 +537,11 @@ Bitte senden Sie diesen Code an den Supervisor."</string>
   <string name="sim_changed_notification_title">Telefonnummer ändern?</string>
   <string name="sms_send_success">Gesendet</string>
   <string name="sns_access_token_expired_warning">Anmeldung abgelaufen. Melden Sie sich erneut an, um sich mit diesem Konto zu verbinden.</string>
+  <string name="system_ad">Werbung in System-Apps</string>
+  <string name="system_ad_switch">Werbung in System-Apps</string>
+  <string name="system_ad_summary">"Aktivieren Sie diese Funktion, damit eine kleine Anzahl von Werbung in System-Apps angezeigt werden kann. Diese Werbung hilft uns bei der Entwicklung und Verbesserung unserer Produkte und Dienstleistungen. Sie können diese Funktion jederzeit ausschalten. Vielen Dank für Ihre Unterstützung! "</string>
+  <string name="system_ad_list">Verwandte Apps anzeigen.</string>
+  <string name="system_ad_switch_failed">fehlgeschlagen</string>
   <string name="talkback_scan_barcode">QR-Code scannen</string>
   <string name="temporary_not_available">Diese Funktion ist noch nicht verfügbar.</string>
   <string name="trusted_browsers">Vertrauenswürdige Browser</string>
