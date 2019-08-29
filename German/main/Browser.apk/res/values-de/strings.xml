@@ -24,7 +24,7 @@
   <string name="action">Anmelden</string>
   <string name="action_imme_open">Sofort öffnen</string>
   <string name="action_menu_account_not_login">Nicht angemeldet</string>
-  <string name="action_menu_account_not_login_hint">Cloudeinstellungen zum Anmelden verwenden</string>
+  <string name="action_menu_account_not_login_hint">Anmelden, um mit der Cloud zu synchronisieren</string>
   <string name="action_menu_bookshelf">Bücherregal</string>
   <string name="action_menu_current_version">Aktuelle Version</string>
   <string name="action_menu_request_desktop_site">Webseiten-Zugriff</string>
@@ -263,8 +263,9 @@
   <string name="data_traffic_continue">Weiter</string>
   <string name="data_traffic_download_cancel">Abbrechen</string>
   <string name="data_traffic_download_confirm">Nutzung der mobilen Datenverbindung</string>
-  <string name="data_traffic_download_prompt">Aktuelles Video kann nur mit WLAN heruntergeladen werden</string>
+  <string name="data_traffic_download_prompt">Derzeit wird Datenverkehr genutzt, möchten Sie das Video weiterhin zwischenspeichern?</string>
   <string name="data_traffic_download_setting">Einstellungen</string>
+  <string name="data_traffic_download_toast_msg">Derzeit wird Datenverkehr zum Zwischenspeichern von Videos verwendet</string>
   <string name="data_traffic_goto">Kostenloser Datenverkehr</string>
   <string name="data_traffic_prompt_free_data">Nutzung der mobilen Datenverbindung zum Durchsuchen von Videos erhöht Ihren Datenverbrauch. Bestellen Sie kostenlosen Datenverkehr.</string>
   <string name="data_traffic_prompt_message">Nutzung der mobilen Datenverbindung zum Durchsuchen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
@@ -933,8 +934,8 @@ Denken Sie daran, dass heruntergeladene Dateien und hinzugefügte Lesezeichen we
   <string name="notif_install_successful">Download abgeschlossen</string>
   <string name="novel_toast_hint">Diese Website wurde dem Bücherregal hinzugefügt.</string>
   <string name="open_app_confirm_message">Dieser Seite erlauben, %s zu öffnen?</string>
-  <string name="open_cloud_sync">Öffne Cloud-Synchronisation</string>
-  <string name="open_cloud_sync_desc">Lesezeichen erfolgreich hinzugefügt. Synchronisation mit Xiaomi Cloud aktivieren, um auf anderen Geräten hinzugefügte Lesezeichen zu synchronisieren. Anmelden und einschalten?</string>
+  <string name="open_cloud_sync">Cloud-Synchronisation einschalten</string>
+  <string name="open_cloud_sync_desc">Lesezeichen erfolgreich hinzugefügt. Synchronisation mit der Cloud einschalten, um auf anderen Geräten hinzugefügte Lesezeichen zu synchronisieren. Anmelden und einschalten?</string>
   <string name="open_file_explorer_failed">Dateimanager konnte nicht geöffnet werden</string>
   <string name="open_voice_permission">Internetzugriff für Mikrofon erlauben</string>
   <string name="page_hang_message">Aktuelle Seite hängt, Sie müssen Ihren Browser neu starten.</string>
@@ -1365,6 +1366,8 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="video_download_unknown_name">Unbekannter Name</string>
   <string name="video_download_unknown_size">Unbekannte Größe</string>
   <string name="video_download_unsupport">Nicht unsterstützt</string>
+  <string name="video_download_wait_for_caching">Auf zwischenspeichern warten</string>
+  <string name="video_download_wait_for_network">Auf Netzwerk warten</string>
   <string name="video_download_wait_for_wifi">Auf WLAN warten</string>
   <string name="video_downloaded_group">Heruntergeladen</string>
   <string name="video_downloading_group">Herunterladen</string>
