@@ -323,6 +323,7 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilf
   <string name="allow_vibrate_title">Vibration erlauben</string>
   <string name="already_enable_encrypt">Verschlüsselung bereits aktiviert</string>
   <string name="always">Immer</string>
+  <string name="always_style">Immer</string>
   <string name="always_allow_bind_appwidgets_text">Sie haben dieser App das Erstellen von Widgets und den Zugriff auf deren Daten erlaubt</string>
   <string name="always_running">Immer in Betrieb (%s)</string>
   <string name="amber_alerts_summary">Erhalten Sie Meldungen über Kindesentführungen</string>
@@ -348,7 +349,7 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilf
   <string name="anti_spam">Sperrliste</string>
   <string name="aod_and_lock_screen_settings_title">Inaktivitätsanzeige &amp; Sperrbildschirm</string>
   <string name="aod_clock_style_title">Uhren-Stil</string>
-  <string name="aod_close_color_inversion">Diese Funktion kann nicht mit der Farbumkehrung kombiniert werden. Deaktivieren Sie diese zuerst.</string>
+  <string name="aod_close_color_inversion">Diese Funktion kann nicht mit der Farbumkehrung kombiniert werden. Zuerst die Farbumkehrung ausschalten.</</string>
   <string name="aod_got_it">Verstanden</string>
   <string name="aod_mode_bg">Hintergrund</string>
   <string name="aod_mode_clock">Uhr</string>
@@ -359,9 +360,15 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilf
   <string name="aod_mode_title">Immer-An-Modus</string>
   <string name="aod_mode_turn_off">Aus</string>
   <string name="aod_mode_turn_on">Ein</string>
+  <string name="aod_notification_style_animation">Animation anzeigen</string>
+  <string name="aod_notification_style_none">Nichts tun</string>
+  <string name="aod_notification_style_screen_on">Beleuchteter Bildschirm</string>
   <string name="aod_sample_date">Dienstag, 10. Mai</string>
   <string name="aod_settings_category_name">Inaktivitätsanzeige</string>
   <string name="aod_settings_title">Inaktivitätsanzeige</string>
+  <string name="aod_show_mode_title">Elemente anzeigen</string>
+  <string name="aod_style_description">Zeigt Uhr, Datum, Zeiteit, Benachrichtigungen und andere Elemente an, wenn der Bildschirm ausgeschaltet ist</string>
+  <string name="aod_style_title">Stil</string>
   <string name="aod_to_close">Ausschalten</string>
   <string name="apn_auth_type">Authentifizierungstyp</string>
   <string name="apn_auth_type_none">Keine</string>
@@ -3962,6 +3969,7 @@ Betriebssystem auswählen:"</string>
   <string name="notifi_importance_none">Aus</string>
   <string name="notifi_importance_unspecified">Die App entscheiden lassen</string>
   <string name="notifi_no_channels">Diese App hat keine Benachrichtigungen veröffentlicht</string>
+  <string name="notification_animation_style">Spezialeffekte</string>
   <string name="notification_app_settings_button">Benachrichtigungseinstellungen</string>
   <string name="notification_badge_title">Benachrichtigungs-Dot zulassen</string>
   <string name="notification_badging_title">Benachrichtigungs-Dots zulassen</string>
@@ -4847,8 +4855,9 @@ Mindestens %s freigeben."</string>
   <string name="sc_service_unavailable">Xiaomi Cloud nicht verfügbar</string>
   <string name="sc_unaccess_password_file">WLAN-Passwörter nicht speichern</string>
   <string name="sc_unauthorized">Bitte erneut anmelden</string>
-  <string name="sccret_code_error">Der eingegebene Code ist falsch.</string>
   <string name="scan_list_label">Ergebnisse:</string>
+  <string name="sccret_code_error">Der eingegebene Code ist falsch.</string>
+  <string name="scheduled_style">Geplant</string>
   <string name="screen">Bildschirm</string>
   <string name="screen_button">Bildschirmtasten</string>
   <string name="screen_button_tips">Nach unten ziehen, um die Bildschirmtasten zu verbergen</string>
@@ -6087,6 +6096,7 @@ Ein Google-Ansatz zur Synchronisation von Daten, um den Zugriff auf Ihre Kontakt
   <string name="telephony_monitor_switch">Telefoniemonitor</string>
   <string name="telephony_monitor_switch_summary">Telefoniemonitor sammelt Protokolle, wenn es ein Problem mit der Telefonie-/Modemfunktionalität entdeckt, und fordert den Benutzer auf, einen Bug zu melden</string>
   <string name="telephony_monitor_toast">Um die Änderung des Telefoniemonitors anzuwenden, starten Sie das Gerät neu</string>
+  <string name="temporary_style">10 Sekunden nach dem Tippen auf den Bildschirm</string>
   <string name="terms_title">AGB</string>
   <string name="testing">Test</string>
   <string name="testing_phone_info">Telefoninformation</string>
