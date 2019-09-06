@@ -549,6 +549,9 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilf
   <string name="auto_brightness_very_low_title">Sehr niedrig</string>
   <string name="auto_caps">Autom. Groß-/Kleinschr.</string>
   <string name="auto_caps_summary">Jeden Satz mit einem Großbuchstaben beginnen</string>
+  <string name="auto_clean_description">Über dieses Funktion\n1. Diese Funktion ein- oder zweimal ausführen, wenn Sie feststellen, dass Ihr Lautsprecher leicht durch Staub blockiert ist. Wenn der Lautsprecher stark blockiert ist, führen Sie diese Funktion 2-5 Mal aus, während Sie Ihr Gerät mit dem Lautsprecher nach unten schütteln.</string>
+  <string name="auto_clean_summary">Ein 30-Sekunden-Audio abspielen, um den Lautsprecher zu reinigen</string>
+  <string name="auto_clean_title">Lautsprecher reinigen</string>
   <string name="auto_disable_screenbuttons_ask">Nachfragen</string>
   <string name="auto_disable_screenbuttons_auto">Immer deaktivieren</string>
   <string name="auto_disable_screenbuttons_cancel">Abbrechen</string>
@@ -1262,6 +1265,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden."</string>
   <string name="button_text_reboot_now">Neustarten</string>
   <string name="button_text_reject">Ablehnen</string>
   <string name="cached">Hintergrundprozess im Cache</string>
+  <string name="calendar_remind">Termine</string>
   <string name="calendar_sound_dialog_title">Kalenderton wählen</string>
   <string name="calendar_sound_title">Kalendereintrag</string>
   <string name="call_and_contact">Anrufe &amp; Kontakte</string>
@@ -1973,6 +1977,9 @@ Um dieses Problem zu beheben, deaktivieren Sie den Standort für diese App."</st
   <string name="dialog_restrict_all_wlan_title">WLAN-Verbindung einschränken</string>
   <string name="dialog_restrict_negative">Einschränken…</string>
   <string name="dialog_restrict_positive">Abbrechen</string>
+  <string name="dialog_speaker_auto_clean_button">Verstanden</string>
+  <string name="dialog_speaker_auto_clean_content">Die Reinigen dauert 30 Sekunden. Diese Seite nicht verlassen. Klanglautstärke für den besten Effekt maximieren.</string>
+  <string name="dialog_speaker_auto_clean_title">Achtung</string>
   <string name="dialog_stop_message">"Ihr Telefon kann den Akku nicht normal verwalten, da %1$s Ihr Telefon aktiv hält.
 
 Um dieses Problem zu beheben, stoppen Sie die App.
@@ -3466,7 +3473,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="media_output_summary">Telefon</string>
   <string name="media_output_summary_unavailable">Nicht verfügbar</string>
   <string name="media_output_title">Medien abspielen auf</string>
-  <string name="media_volume_option_title">Medienlautstärke</string>
+  <string name="media_volume_option_title">Musik, Spiele, Medien</string>
   <string name="media_volume_summary">Lautstärke für Musik und Videos festlegen</string>
   <string name="media_volume_title">Medien</string>
   <string name="medium_font">Mittel</string>
@@ -3483,7 +3490,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="memory_available_read_only">Verfügbar (schreibgeschützt)</string>
   <string name="memory_avg_desc">Durchschnittlich %1$s</string>
   <string name="memory_avg_use">Durchschnitt</string>
-  <string name="memory_calculating_size">Berechne…</string>
+  <string name="memory_calculating_size">Berechnen…</string>
   <string name="memory_clear_cache_message">Daten im Cache werden für alle Apps gelöscht</string>
   <string name="memory_clear_cache_title">Daten im Cache löschen?</string>
   <string name="memory_dcim_usage">Bilder, Videos</string>
@@ -4033,6 +4040,7 @@ Dies ermöglicht der App auch, Nicht stören ein-/auszuschalten und entsprechend
   <string name="notification_reboot_summary_hm">Tippen zum Neustart des Geräts</string>
   <string name="notification_reboot_title">Neustarten, um das Update anzuwenden</string>
   <string name="notification_reboot_title_hm">Neustarten, um das Update anzuwenden</string>
+  <string name="notification_remind">Benachrichtigungen</string>
   <string name="notification_ringtone_title">Standardbenachrichtigungston</string>
   <string name="notification_section_header">Benachrichtigung</string>
   <string name="notification_settings">Ton &amp; Benachrichtigung</string>
@@ -4278,7 +4286,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="pointer_location_summary">Bildschirm-Overlay mit aktuellen Touch-Daten</string>
   <string name="pointer_settings_category">Maus/Touchpad</string>
   <string name="pointer_speed">Zeigergeschwindigkeit</string>
-  <string name="popup_gesture_summary">Zum Startbildschirm zurückkehren, Telefon anheben und auf den Bildschirm schauen, um die Frontkamera automatisch zu öffnen</string>
+  <string name="popup_gesture_summary">Halten Sie Ihr Telefon vor sich und heben Sie es schnell um 20 cm an, um die Frontkamera zu öffnen</string>
   <string name="popup_gesture_title">Anheben zum Öffnen der Frontkamera</string>
   <string name="popup_led_summary">Beim Aus- und Einfahren der Frontkamera Animation anzeigen</string>
   <string name="popup_led_title">Visueller Effekt</string>
@@ -4776,7 +4784,7 @@ UT Interface: %5$s"</string>
   <string name="reverse_all">Alles löschen</string>
   <string name="rgb_manage_facerecoginition_text">2D-Gesichtsdaten verwalten</string>
   <string name="right_function_key">Verknüpfung rechts</string>
-  <string name="ring_volume_option_title">Ruftonlautstärke</string>
+  <string name="ring_volume_option_title">Anrufe, Erinnerungen, Benachrichtigungen</string>
   <string name="ring_volume_title">Klingeltonlautstärke</string>
   <string name="ringtone_mute">Keinen</string>
   <string name="ringtone_slot_setting_title">Einzel-SIM-Einstellungen</string>
@@ -6034,6 +6042,7 @@ Ein Google-Ansatz zur Synchronisation von Daten, um den Zugriff auf Ihre Kontakt
   <string name="system_backup_section_title">Sicherung</string>
   <string name="system_dashboard_summary">Sprachen, Zeit, Sicherung, Updates</string>
   <string name="system_default_app">(Systemstandard)</string>
+  <string name="system_haptic_feedback">Haptik Feedback</string>
   <string name="system_package">Systemupdates können nicht auf externen Datenträgern installiert werden</string>
   <string name="system_print_service_help">Über Drucken</string>
   <string name="system_shortcut_wake">Aufwecken mit Tastenkombinationen</string>
@@ -6148,7 +6157,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
   <string name="title_jeejen">Jeejen Startbildschirm</string>
   <string name="title_layout_current">Textgröße</string>
   <string name="title_layout_current2">Textgröße</string>
-  <string name="title_layout_v2">Textgröße &amp; Skalierung</string>
+  <string name="title_layout_v2">Textgröße &amp; Schriftstärke</string>
   <string name="title_local_resource">Lokale Quellen</string>
   <string name="title_system_resource">Systemquellen</string>
   <string name="to_close">Ausschalten</string>
@@ -7044,6 +7053,9 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="webview_disabled_for_user">(deaktiviert für Benutzer %s)</string>
   <string name="webview_license_title">System WebView Lizenz</string>
   <string name="webview_uninstalled_for_user">(deinstalliert für Benutzer %s)</string>
+  <string name="weight_heavy">Fett</string>
+  <string name="weight_light">Lig</string>
+  <string name="weight_setting_toast">Sie können die Schriftstärke nur für die Standardschriftart des Systems ändern</string>
   <string name="welcome">Willkommen</string>
   <string name="wfc_provisioned_switch_string">WLAN-Telefonie bereitgestellt</string>
   <string name="wfd_available_devices">Verfügbare Geräte</string>
