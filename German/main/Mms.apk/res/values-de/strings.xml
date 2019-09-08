@@ -6,7 +6,6 @@
   <string name="action_sign_in_short">Anmelden</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
   <string name="activity_not_found_uri">Keine App zum Öffnen der Datei gefunden</string>
-  <string name="addBlackList">Blockieren</string>
   <string name="add_attachment">Anhänge hinzufügen</string>
   <string name="add_festival">Vorlagen</string>
   <string name="add_miui_contact">Kontakt</string>
@@ -24,6 +23,7 @@
   <string name="add_to_browser_favorite_failed">fehlgeschlagen</string>
   <string name="add_to_browser_favorite_success">Erfolgreich hinzugefügt</string>
   <string name="add_video">Video hinzufügen</string>
+  <string name="addBlackList">Blockieren</string>
   <string name="adding_attachments">Bitte warten, während die Elemente zur Diashow hinzugefügt werden</string>
   <string name="adding_attachments_title">Anhänge werden hinzugefügt</string>
   <string name="adding_recipients">Empfänger hinzugefügen…</string>
@@ -105,7 +105,6 @@
   <string name="cm_privacy_dialog_tips">"Smart Messaging Services werden von Ihrem Netzbetreiber bereitgestellt. Messaging muss eine Internetverbindung herstellen und auf Ihren Standort zugreifen, um diese Dienste anbieten zu können. Sie müssen den %1s Ihres Betreibers zustimmen, bevor Sie diese Dienste nutzen können. Einverstanden?"</string>
   <string name="cm_privacy_dialog_title">Achtung</string>
   <string name="cmcc_privacy">China Mobilfunkanbieter Datenschutzerklärung</string>
-  <string name="compressing">Bild zu groß. Wird komprimiert…</string>
   <string name="complain_input_number">Geben Sie Ihre Telefonnummer ein</string>
   <string name="complain_jump">Überspringen</string>
   <string name="complain_message_title">Bericht</string>
@@ -114,14 +113,15 @@
   <string name="complain_success">Vielen Dank für Ihr Feedback. Es hilfen Sie uns, Messaging besser zu machen!</string>
   <string name="complain_tips">Der Inhalt der letzten Nachricht, die Sie melden, wird zusammen mit der von Ihnen angegebenen Telefonnummer auf unsere Server hochgeladen. Unsere Dienstanbieter werden die gemeldete Nachricht überprüfen.</string>
   <string name="complain_upload">Beschwerde wurde eingereicht.</string>
+  <string name="compressing">Bild zu groß. Wird komprimiert…</string>
   <string name="confirm_add_blacklist_dialog_dspt">Nummer zur Sperrliste hinzufügen?</string>
-  <string name="confirm_delete_SIM_message">SIM-Nachricht löschen?</string>
-  <string name="confirm_delete_all_SIM_messages">Alle SIM-Nachrichten löschen?</string>
   <string name="confirm_delete_all_conversations">Alle Unterhaltungen löschen?</string>
+  <string name="confirm_delete_all_SIM_messages">Alle SIM-Nachrichten löschen?</string>
   <string name="confirm_delete_conversation">Gesamte Unterhaltung löschen?</string>
   <string name="confirm_delete_group_message">Gruppennachrichten löschen?</string>
   <string name="confirm_delete_locked_message">Gesperrte Nachricht löschen?</string>
   <string name="confirm_delete_message">Nachricht löschen?</string>
+  <string name="confirm_delete_SIM_message">SIM-Nachricht löschen?</string>
   <string name="confirm_dialog_locked_title">Gesperrte Nachricht löschen?</string>
   <string name="confirm_dialog_title">Löschen?</string>
   <string name="confirm_dlg__msg">CMCC Hinweis: CMCC Free Post-Service wird nicht unterstützt, wenn Sie diesen Dienst abbrechen. Möchten Sie wirklich abbrechen?</string>
@@ -185,7 +185,6 @@
   <string name="dialog_message_networking_mx_rcs">Mit Mi Message können Sie Nachrichten an andere MIUI-Geräte und China Mobile-Benutzer senden, ohne dass dafür Gebühren anfallen. Eine ausgehende SMS-Nachricht ist erforderlich, um Mi Message zu aktivieren. Ihr Netzbetreiber wird Ihnen diese Nachricht in Rechnung stellen. Sie müssen unserer %1$s und %2$s zustimmen, bevor Sie Mi Message verwenden können. Messaging muss sich mit dem Internet verbinden und auf Ihren Standort zugreifen, um Smart Messaging, Sender-ID-Erkennung und andere Dienste bereitzustellen. Zustimmen?</string>
   <string name="dialog_message_networking_rcs">Mi Message ermöglicht Ihnen, Nachrichten an andere China Mobile-Nutzer zu senden, ohne dass dafür Gebühren anfallen. Sie müssen unserer %1$s und %2$s zustimmen, bevor Sie Mi Message nutzen können. Messaging muss sich mit dem Internet verbinden und auf Ihren Standort zugreifen, um Smart Messaging, Sender-ID-Erkennung und andere Dienste bereitzustellen. Zustimmen?</string>
   <string name="dialog_message_rcs">Mit China Mobile Messaging können Sie Nachrichten an andere China Mobile-Nutzer auf dem chinesischen Festland senden, ohne dass Ihnen Kosten entstehen. Sie müssen \"%1$s\" zustimmen, bevor Sie China Mobile Messaging nutzen können.</string>
-  <string name="dialog_sim_locked_message">Ihre SIM-Karte ist mit diesem Telefon nicht voll funktionsfähig, da sie nicht den Bedingungen Ihres Abonnements entspricht. Wenn Sie Fragen haben oder weitere Informationen zu diesem Thema benötigen, wenden Sie sich bitte an die Xiaomi-Servicezentren oder den Shop, der Ihnen Produkte verkauft hat.</string>
   <string name="dialog_message_sms_report">Spam-Nachrichten und Absenderinformationen werden nach der Meldung an MIUI gesendet. Sie werden nur zur Verbesserung der MIUI-Spamfilter verwendet.</string>
   <string name="dialog_sim_locked_message">Ihre SIM-Karte ist mit diesem Telefon nicht voll funktionsfähig, da sie nicht den Bedingungen Ihres Abonnements entspricht. Wenn Sie Fragen haben oder weitere Informationen zu diesem Thema benötigen, wenden Sie sich bitte an die Xiaomi-Servicezentren oder den Shop, der Ihnen Produkte verkauft hat.</string>
   <string name="dialog_title_fake_cell_detect_error">Korrektur</string>
@@ -260,7 +259,6 @@
   <string name="found_wild_messages_title">Synchronisation mit Xiaomi Cloud</string>
   <string name="from_label">"Von: "</string>
   <string name="from_pkg_name">"Von der App: "</string>
-  <string name="group_already_kicked_hint">Ich kann keine Nachrichten senden. Sie sind kein Mitglied dieses Gruppenchats.</string>
   <string name="ft_cfs_dialog_title">Alternative Dateiübertragung</string>
   <string name="group_already_kicked_hint">Nachrichten senden nicht möglich. Sie sind kein Mitglied dieses Gruppenchats.</string>
   <string name="group_member_is_composing">Schreiben…</string>
@@ -328,8 +326,8 @@
   <string name="menu_sms_block">Blockierliste</string>
   <string name="menu_traffic_destination">Zielort</string>
   <string name="menu_unlock">Entsperren</string>
-  <string name="menu_view_group_info">Gruppeninfo</string>
   <string name="menu_view_contact">Kontakt anzeigen</string>
+  <string name="menu_view_group_info">Gruppeninfo</string>
   <string name="message_class_label">"Nachrichtenklasse: "</string>
   <string name="message_contact">Kontakt:</string>
   <string name="message_details_title">Nachrichtendetails</string>
@@ -424,15 +422,13 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="mx_stranger_recommend_msg">Antippen, um Mi Message von unbekannten Nummern zu blockieren</string>
   <string name="mx_type_guide">Senden Sie Nachrichten an andere MIUI Benutzer ohne zusätzliche Kosten</string>
   <string name="need_download">Wird synchronisiert</string>
-  <string name="net_sms_subscribed">Erfolgreich angemeldet</string>
+  <string name="net_sms_subscribed">Erfolgreich abonniert</string>
   <string name="net_sms_unsubscribe">Erfolgreich abgemeldet</string>
   <string name="network_error_description">Ein Netzwerkfehler ist aufgetreten. Warten Sie ein oder zwei Minuten und versuchen Sie es erneut.</string>
   <string name="networking_allow_continue">Zustimmen</string>
   <string name="networking_allow_desc">Mi Message muss sich mit dem Internet verbinden, um normal zu arbeiten. Um freie Text- und Sprachdienste zur Verfügung zu stellen, unbekannte Nummern zu erkennen, Spam zu filtern und andere Funktionen zu aktivieren, muss Mi Message \"Gelbe Seiten\“ verwenden. Erlauben Sie \"Gelbe Seiten\", sich mit dem Internet zu verbinden, Ihren Standort zu erhalten und Ihre Kontakte zu lesen?</string>
   <string name="networking_allow_desc_without_mx">Mi Message muss sich mit dem Internet verbinden, um normal zu arbeiten. Um unbekannte Nummern zu erkennen, Spam zu filtern und andere Funktionen zu aktivieren, muss Mi Message \"Gelbe Seiten\“ verwenden. Erlauben Sie \"Gelbe Seiten\", sich mit dem Internet zu verbinden, Ihren Standort zu erhalten und Ihe Kontakte zu lesen</string>
   <string name="networking_allow_title">Hinweis</string>
-  <string name="net_sms_subscribed">Erfolgreich abonniert</string>
-  <string name="net_sms_unsubscribe">Erfolgreich abgemeldet</string>
   <string name="new_message">Neue Nachricht</string>
   <string name="new_message_arrived">Zum Ansehen klicken</string>
   <string name="new_phrase">Neue Antwort eingeben</string>
@@ -588,7 +584,6 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="rcs_create_new_group">Gruppenchat erstellen</string>
   <string name="rcs_dspt">Nach dem Einschalten von China Mobile senden Sie Nachrichten standardmäßig über WLAN oder das Mobilfunknetz.</string>
   <string name="rcs_dspt_unavailable">Diese Funktion kann jetzt nicht verwendet werden. Die China Mobile SIM-Karte ist nicht Ihre Standard-Datenkarte.</string>
-  <string name="rcs_forward_faild">Konnte nicht weiterleiten</string>
   <string name="rcs_forward_faild">Weiterleiten fehlgeschlagen</string>
   <string name="rcs_forward_successful">Erfolgreich weitergeleitet</string>
   <string name="rcs_group_chat_closed">(Geschlossen)</string>
@@ -703,9 +698,9 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="search_setting_description">Text in Ihren Nachrichten</string>
   <string name="search_show_more_results">Mehr anzeigen</string>
   <string name="search_title_mms">Nachrichten</string>
-  <string name="second_mms_introduction">Wechseln Sie zum Second Space</string>
-   <string name="second_mms_switch">Benutzer wechseln</string>
-  <string name="secs">sek.</string>
+  <string name="second_mms_introduction">Wechseln Sie zum Zweitprofil</string>
+  <string name="second_mms_switch">Benutzer wechseln</string>
+  <string name="secs">Sek</string>
   <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Absender ist nicht in Ihren Kontakten. 
 "&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">Diese Nummer melden</string>
@@ -714,9 +709,9 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="select_audio">Audio auswählen</string>
   <string name="select_bottom_text">Text unten</string>
   <string name="select_copy_text">Text auswählen und kopieren</string>
-  <string name="select_different_media">Anderes Element als %1$s auswählen</string>
   <string name="select_different_attachment">Wählen Sie einen anderen Anhang.</string>
   <string name="select_different_audio">Wählen Sie ein anderes Audio.</string>
+  <string name="select_different_media">Anderes Element als %1$s auswählen</string>
   <string name="select_different_picture">Wählen Sie ein anderes Bild.</string>
   <string name="select_different_video">Wählen Sie ein anderes Video.</string>
   <string name="select_link_title">Aktion auswählen</string>
@@ -749,16 +744,13 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="service_not_activated">Dienst nicht verfügbar</string>
   <string name="set">Festlegen</string>
   <string name="share_img">Teilen</string>
-  <string name="show_all_messages">Alle Nachrichten anzeigen</string>
   <string name="shortcut_setting">Einstellungen</string>
   <string name="show_all_messages">Alle Nachrichten anzeigen</string>
   <string name="show_delivery_status">Zustellstatus anzeigen</string>
   <string name="show_sender">Absender Infos anzeigen</string>
-  <string name="sim1">Sim1</string>
-  <string name="sim2">Sim2</string>
+  <string name="sim_card_cloud">%s (Mi Nachricht)</string>
   <string name="sim_card1">SIM-Karte 1</string>
   <string name="sim_card2">SIM-Karte 2</string>
-  <string name="sim_card_cloud">%s (Mi Nachricht)</string>
   <string name="sim_copy_to_phone_memory">In Telefonspeicher kopieren</string>
   <string name="sim_delete">Löschen</string>
   <string name="sim_empty">Keine Nachrichten auf der SIM-Karte</string>
@@ -766,6 +758,8 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="sim_full_title">SIM-Karte ist voll</string>
   <string name="sim_manage_messages_title">Nachrichten auf SIM-Karte</string>
   <string name="sim_view">Anzeigen</string>
+  <string name="sim1">Sim1</string>
+  <string name="sim2">Sim2</string>
   <string name="slide_number">Folie %d</string>
   <string name="slide_show_part">Teil %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Zum Abbrechen nach oben wischen</string>
@@ -826,8 +820,8 @@ Diese Nachricht kann unerwünscht sein."</string>
   <string name="text_message">SMS</string>
   <string name="timed_message_expired_title_2">Erneut Senden?</string>
   <string name="timed_message_in_total">… (%d Nachrichten)</string>
-  <string name="title_activity_rcs_login">Anmelden</string>
   <string name="timed_message_to">an</string>
+  <string name="title_activity_rcs_login">Anmelden</string>
   <string name="title_allow_network_access">Automatisch aktualisieren</string>
   <string name="title_collapse_sp_messages">Anbieternachrichten zusammenführen</string>
   <string name="title_hide_verification_code">OTP automatisch verbergen</string>
