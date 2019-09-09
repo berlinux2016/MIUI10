@@ -101,6 +101,10 @@ Zum Ausschalten https://appleid.apple.com/#!&amp;page=signin besuchen"</string>
     <string name="dialog_backup_password_change_machine_tips">Es ist nicht möglich, passwortgeschützte Sicherungen zu übertragen. Sicherungspasswort ausschalten, bevor Sie Mi Mover verwenden.</string>
     <string name="dialog_backup_password_verify">überprüfen</string>
     <string name="dialog_forbidden_use_tips">Mi Mover unterstützt derzeit nicht die Übertragung von Daten auf oder von Tablets.</string>
+    <string name="dialog_rating_desc_ask">Was halten Sie von Mi Mover?</string>
+    <string name="dialog_rating_desc_less">Geben Sie uns ein paar Vorschläge, damit wir unsere App verbessern können?</string>
+    <string name="dialog_rating_desc_perfect">Danke! Mi Mover auch in GetApps bewerten?</string>
+    <string name="dialog_rating_title">Mi Mover bewerten</string>
     <string name="dialog_request_network_btn_negative">Beenden</string>
     <string name="dialog_request_network_btn_positive">Zustimmen</string>
     <string name="dialog_request_network_message">Willkommen bei Mi Mover! Mit dieser App können Sie Elemente von Ihrem alten Gerät auf ein neues übertragen. Mi Mover muss eine Verbindung zum Internet herstellen, um normal zu arbeiten.</string>
@@ -297,7 +301,7 @@ Zum Ausschalten https://appleid.apple.com/#!&amp;page=signin besuchen"</string>
     <string name="need_location_permission_summary">Mi Mover den Zugriff auf Ihren Standort erlauben, um Geräte in der Nähe zu finden.</string>
     <string name="need_more_memory_cacel">Abbrechen</string>
     <string name="need_more_memory_confirm">Cleaner</string>
-    <string name="need_more_memory_summary">"App-Daten von Drittanbietern müssen vor der Übertragung komprimiert werden. Es gibt nicht genügend Speicherplatz, um komprimierte Pakete zu erstellen.
+    <string name="need_more_memory_summary">"App-Daten von Drittanbietern müssen vor der Übertragung komprimiert werden. Mi Mover benötigt %1$s zusätzlichen Speicherplatz, um komprimierte Pakete zu erstellen.
 1. Versuchen Sie, nur wichtige Elemente zu übertragen.
 2. Deinstallieren Sie die Apps, die Sie nicht benötigen.
 3. Verwenden Sie Cleaner, um Speicherplatz freizugeben."</string>
@@ -510,11 +514,12 @@ Mindestens %s freigeben."</string>
     <string name="time_picker_dialog_title">Set time</string>
     <string name="time_picker_label_hour"></string>
     <string name="time_picker_label_minute"></string>
-    <string name="time_spent">Time: <g id="time">%1$s</g></string>
-    <string name="title_request_package_stats_perm">Permissions required</string>
-    <string name="today">Today</string>
-    <string name="tomorrow">Tomorrow</string>
+    <string name="time_spent">Zeit: <g id="time">%1$s</g></string>
+    <string name="title_request_package_stats_perm">Berechtigungen erforderlich</string>
+    <string name="today">Heute</string>
+    <string name="tomorrow">Morgen</string>
     <string name="trans_detail_item_app_data_skip_data">"Can't transfer app data"</string>
+    <string name="trans_detail_item_app_skip_data">"Can't move this app"</string>
     <string name="trans_detail_qq_data">QQ data (including chat history)</string>
     <string name="trans_detail_wechat_data">WeChat data (including chat history)</string>
     <string name="trans_install_guide_new_content_first">"Scan this QR code using your new device.
