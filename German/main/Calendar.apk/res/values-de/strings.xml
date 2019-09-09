@@ -82,7 +82,7 @@
   <string name="birthday_term">Geburtstag</string>
   <string name="birthday_term_chinese_calendar">"%1$s's Geburtstag (traditioneller chinesischer Kalender)"</string>
   <string name="book_card_free">Kostenlos</string>
-  <string name="book_card_rating_text">|   %1$s Bewertungen</string>
+  <string name="book_card_rating_text">%1$s Kommentar</string>
   <string name="button_day">Tag</string>
   <string name="button_month">Monat</string>
   <string name="button_week">Woche</string>
@@ -94,6 +94,8 @@
   <string name="can_not_modify_event">Eintrag kann nicht verändert werden</string>
   <string name="can_not_modify_repeating_acrossing_days_event">Wiederkehrende Einträge können nicht verändert werden</string>
   <string name="cancel_reminder_later">Erinnerung abbrechen</string>
+  <string name="card_credit_repayment">Rückzahlungsdatum</string>
+  <string name="card_credit_today">Heute</string>
   <string name="card_detail_dialog_message">%1$s wird täglich aktualisiert. Abonnieren, um tägliche Updates zu erhalten.</string>
   <string name="card_detail_dialog_negative">Später abonnieren</string>
   <string name="card_detail_dialog_positive">Jetzt abonnieren</string>
@@ -130,7 +132,6 @@
   <string name="credit_card_date_label">Ablaufdatum:</string>
   <string name="credit_card_number_label">Nummer:</string>
   <string name="credit_currency">Yuan</string>
-  <string name="credit_detail_amount_label">Betrag</string>
   <string name="credit_detail_sms_content">SMS-Inhalte</string>
   <string name="credit_detail_today">Heute:</string>
   <string name="credit_event_delete_successfully">Einträge gelöscht</string>
@@ -211,8 +212,8 @@
   <string name="edit_event_to_label">bis</string>
   <string name="electricity_amount_label">Stromverbrauch</string>
   <string name="electricity_bill_event_title">Stromrechnung:</string>
-  <string name="electricity_detail_title">Stomrechnung</string>
-  <string name="electricity_event_delete_successfully">Stromrechnung gelöscht</string>
+  <string name="electricity_detail_title">Zahlungsinformationen</string>
+  <string name="electricity_event_delete_successfully">Stromrechnung erfolgreich gelöscht</string>
   <string name="email_guests_label">E-Mail an Gäste</string>
   <string name="email_install_hint">Die E-Mail-App wurde deinstalliert. Durch erneutes Installieren können Sie die Daten des Kalenderkontos wiederherstellen oder ein neues Konto hinzufügen.</string>
   <string name="email_picker_label">E-Mail mit</string>
@@ -327,6 +328,9 @@
   <string name="gas_amount_label">Gasverbrauch</string>
   <string name="gas_bill_event_title">Gasrechnung:</string>
   <string name="gas_cost_label">Offene Rechnung</string>
+  <string name="gas_detail_account_name">Kontonummer</string>
+  <string name="gas_detail_deadline">Rechnungsschluss: %1$s</string>
+  <string name="gas_detail_header_title">Stromkostenerinnerung</string>
   <string name="gas_detail_name">Kontonummer: %1$s</string>
   <string name="gas_detail_title">Gaszahlung</string>
   <string name="gas_event_delete_successfully">Gasrechnung erfolgreich gelöscht</string>
@@ -392,8 +396,10 @@
   <string name="life_card_loan_primary">Darlehensrückzahlung (%1$s)</string>
   <string name="life_card_loan_primary_no_bank">Darlehensrückzahlung</string>
   <string name="life_card_title">Erinnerungen</string>
-  <string name="live_text">Live</string>
-  <string name="living_text">On Air</string>
+  <string name="limit">Zeilenanzahl begrenzen</string>
+  <string name="limit_detail_title">City limit</string>
+  <string name="live_text">Live-Übertragung</string>
+  <string name="living_text">Live-Übertragung</string>
   <string name="load_more_hint">Einträge für %1$d aktualisieren</string>
   <string name="loading">Einen Moment…</string>
   <string name="loan">Darlehensrückzahlung</string>
