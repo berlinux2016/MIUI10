@@ -549,6 +549,9 @@
   <string name="mail_login_help_details1">1. E-Mail-Passwort: Wenn Sie keinen Client-Verifizierungscode eingerichtet haben und bereits das POP3/IMAP/SMTP-Protokoll geöffnet haben, können Sie sich mit dem E-Mail-Passwort anmelden.</string>
   <string name="mail_login_help_details2">2. Client-Verifizierungscode: Wenn Sie bereits einen Client-Verifizierungscode eingerichtet haben, müssen Sie sich damit anmelden und sicherstellen, dass das POP3/IMAP/SMTP-Protokoll geöffnet war.</string>
   <string name="mail_login_help_title">E-Mail-Passwort oder Beschreibung des Kundenverifizierungscodes:</string>
+  <string name="mail_outlook_login_tips">Gemäß den Anforderungen von Microsoft müssen Sie das Passwort auf der Microsoft-Autorisierungsseite eingeben.</string>
+  <string name="mail_outlook_oauth_login">Mit OAuth anmelden</string>
+  <string name="mail_outlook_psw_login">Mit Passwort anmelden</string>
   <string name="login_failed_title">Anmeldung nicht möglich</string>
   <string name="login_mail">Anmelden</string>
   <string name="login_qq_psw">Mit QQ-Passwort/Authentifikator/Verifizierungscode anmelden</string>
@@ -723,6 +726,7 @@ Versuchen Sie einen anderen Posteingang."</string>
   <string name="outbox_alert_select_operation">Aktion wählen</string>
   <string name="outbox_alert_title_sent_failed">E-Mail wurde nicht gesendet</string>
   <string name="outbox_no_mails">Leer</string>
+  <string name="outlook_login_failed_non_proxy_title">OutLook-Server wurde nicht erreicht</string>
   <string name="output_all_log">Alle Protokolle ausgeben</string>
   <string name="output_db_summary">Dies wird Ihre Datenbank ausgeben</string>
   <string name="output_db_title">Ausgabe Datenbank</string>

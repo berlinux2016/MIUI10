@@ -72,6 +72,17 @@
   <string name="delete_selected_timer_item">Ausgewählten Timer löschen?</string>
   <string name="delete_timer_item_title">Timer löschen</string>
   <string name="delete_timezone_title">Zeitzone löschen</string>
+  
+  
+  <string name="dialog_legal_off_day"><Data>"Looks like you're using holiday alarms.This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?"</Data></string>
+  <string name="dialog_legal_off_day_desc">"Clock isn't allowed to connect to the internet to update the info about holidays. Holiday alarms will go off on Saturday and Sunday."</string>
+  <string name="dialog_legal_workday"><Data>"Looks like you're using weekday alarms. This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?"</Data></string>
+  <string name="dialog_legal_workday_and_off_day"><Data>"Looks like you're using weekday and holiday alarms. This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?"</Data></string>
+  <string name="dialog_legal_workday_and_off_day_desc">"Clock isn't allowed to connect to the internet to update the info about holidays. Weekday alarms will go off from Monday to Friday. Holiday alarms will go off on Saturday and Sunday."</string>
+  <string name="dialog_legal_workday_desc">"Clock isn't allowed to connect to the internet to update the info about working days. Weekday alarms will go off from Monday to Friday."</string>
+  <string name="dialog_net_permission_in_repeat_type"><Data>This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
+ 
+   
   <string name="dialog_confirm_abort">Änderungen verwerfen?</string>
   <string name="dialog_message_agree">Zustimmen</string>
   <string name="dialog_message_for_contact_permission">Um Geburtstagswecker verfügbar zu machen, muss die Uhr auf Ihre Kontakte zugreifen. Zustimmen?</string>
@@ -255,7 +266,7 @@
   <string name="stopwatch_lap_empty_text">Keine Rundenzeit</string>
   <string name="stopwatch_title">Stoppuhr</string>
   <string name="system_permission_phone_desc">Zur Identifizierung verschiedener Geräte</string>
-  <string name="system_permission_purpose">Wecker, Stoppuhr, Timer, Weltzeituhr</string>
+  <string name="system_permission_purpose">Wochentagsalarme und benutzerdefinierte Klingeltöne erstellen</string>
   <string name="system_permission_storage_desc">Für den Zugriff auf Wecker-Klingeltöne</string>
   <string name="system_time_setting">Einstellungen</string>
   <string name="system_time_settings_category_title">Uhrzeiteinstellungen</string>
