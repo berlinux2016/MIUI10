@@ -1,36 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accept">Akzeptieren</string>
   <string name="add">Hinzufügen</string>
   <string name="add_manual_printer">Drucker manuell hinzufügen</string>
   <string name="add_named">%1$s hinzufügen</string>
   <string name="add_printer_by_ip">Drucker über IP-Adresse hinzufügen</string>
   <string name="app_name">Systemdruckdienst</string>
+  <string name="certificate_update_request">Dieser Drucker hat ein neues Sicherheitszertifikat bereitgestellt oder ein anderes Gerät gibt sich als solches aus. Das neue Zertifikat akzeptieren?</string>
   <string name="connect_hint_text">Eventuell müssen Sie diese Verbindung über die Druckertastatur genehmigen.</string>
   <string name="connecting_to">Mit %1$s verbinden</string>
+  <string name="connections">Verbindungen</string>
   <string name="connects_via_network">Verbindung über das aktuelle Netzwerk bei %1$s</string>
   <string name="connects_via_wifi_direct">Verbindung über WLAN Direct</string>
   <string name="failed_connection">Verbindung mit %1$s nicht möglich</string>
   <string name="failed_printer_connection">Druckerverbindung nicht möglich</string>
   <string name="find_wifi_direct">WLAN Direct-Drucker suchen</string>
+  <string name="fix">Berechtigung prüfen</string>
   <string name="forget">Vergessen</string>
   <string name="forget_printer">Drucker vergessen</string>
   <string name="hostname_or_ip">Hostname oder IP Addresse</string>
   <string name="no_printer_found">Keinen Drucker mit dieser Adresse gefunden</string>
+  <string name="not_encrypted_request">Dieser Drucker akzeptiert keine verschlüsselten Aufträge mehr. Drucken fortsetzen?</string>
+  <string name="printer_bad_certificate">Fehlerhaftes Zertifikat</string>
   <string name="printer_busy">Beschäftigt</string>
   <string name="printer_check">Drucker prüfen</string>
   <string name="printer_door_open">Drucker offen</string>
   <string name="printer_jammed">Verklemmt</string>
   <string name="printer_low_on_ink">Wenig Tinte</string>
   <string name="printer_low_on_toner">Wenig Toner</string>
+  <string name="printer_not_encrypted">Nicht verschlüsselt</string>
   <string name="printer_not_supported">Drucker wird nicht unterstützt</string>
   <string name="printer_out_of_ink">Keine Tinte</string>
   <string name="printer_out_of_paper">Kein Papier</string>
   <string name="printer_out_of_toner">Kein Toner</string>
+  <string name="reject">Verwerfen</string>
   <string name="saved_printers">Gespeicherte Drucker</string>
   <string name="searching">Suchen…</string>
+  <string name="security">Sicherheit</string>
   <string name="title_activity_add_printer">Manuell hinzugefügte Drucker</string>
   <string name="unreadable_input">Dokument konnte nicht gelesen werden</string>
   <string name="waiting_to_send">Warten auf Senden</string>
+  <string name="wifi_direct_permission_rationale">Standard-Druckservice benötigt Standortzugriff, um Geräte in der Nähe zu finden.</string>
   <string name="wifi_direct_printers">WLAN Direct-Drucker</string>
+  <string name="wifi_direct_printing">WLAN Direct-Drucken</string>
   <string name="wifi_not_connected">WLAN nicht verbunden</string>
 </resources>

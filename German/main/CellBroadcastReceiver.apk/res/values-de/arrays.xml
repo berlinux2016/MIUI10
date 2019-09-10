@@ -14,4 +14,260 @@
     <item>8 Sekunden</item>
     <item>10 Sekunden</item>
   </string-array>
+  <string-array name="animator_duration_scale_entries">
+    <item>Animation aus</item>
+    <item>Animationsskala .5x</item>
+    <item>Animationsskala 1x</item>
+    <item>Animationsskala 1.5x</item>
+    <item>Animationsskala 2x</item>
+    <item>Animationsskala 5x</item>
+    <item>Animationsskala 10x</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item>Standardlimit</item>
+    <item>Keine Hintergrundprozesse</item>
+    <item>Maximal 1 Prozess</item>
+    <item>Maximal 2 Prozesse</item>
+    <item>Maximal 3 Prozesse</item>
+    <item>Maximal 4 Prozesse</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>16 bits/sample</item>
+    <item>24 bits/sample</item>
+    <item>32 bits/sample</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>16 bits/sample</item>
+    <item>24 bits/sample</item>
+    <item>32 bits/sample</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>Mono</item>
+    <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    <item>Optimiert für Audioqualität</item>
+    <item>Ausgewogene Audio- und Verbindungsqualität</item>
+    <item>Optimiert für Verbindungsqualität</item>
+    <item>Bester Effekt (Adaptive Bit Rate)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    <item>Optimiert für Audioqualität (990kbps/909kbps)</item>
+    <item>Ausgewogene Audio- und Verbindungsqualität (660kbps/606kbps)</item>
+    <item>Optimiert für Verbindungsqualität (330kbps/303kbps)</item>
+    <item>Bester Effekt (Adaptive Bitrate)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX™ audio</item>
+    <item>Qualcomm® aptX™ HD audio</item>
+    <item>LDAC</item>
+    <item>Optionale Codecs aktivieren</item>
+    <item>Optionalw Codecs deaktivieren</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>Systemauswahl verwenden (Standard)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>Qualcomm® aptX™ audio</item>
+    <item>Qualcomm® aptX™ HD audio</item>
+    <item>LDAC</item>
+    <item>Optionale Codecs aktivieren</item>
+    <item>Optionalw Codecs deaktivieren</item>
+  </string-array>
+  <string-array name="bluetooth_audio_active_device_summaries">
+    <item></item>
+    <item>, aktiv</item>
+    <item>, aktiv (Medien)</item>
+    <item>, aktiv (Telefon)</item>
+  </string-array>
+  <string-array name="bluetooth_avrcp_versions">
+    <item>AVRCP 1.4 (Standard)</item>
+    <item>AVRCP 1.3</item>
+    <item>AVRCP 1.5</item>
+    <item>AVRCP 1.6</item>
+  </string-array>
+  <string-array name="bt_hci_snoop_log_entries">
+    <item>Deaktiviert</item>
+    <item>Gefiltert aktiviert</item>
+    <item>Aktiviert</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item>Verbesserte Farben</item>
+    <item>Natürliche Farben aus Augensicht</item>
+    <item>Optimierte Farben für digitale Inhalte</item>
+  </string-array>
+  <string-array name="color_mode_names">
+    <item>Lebendig (Standard)</item>
+    <item>Natürlich</item>
+    <item>Standard</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item>Aus</item>
+    <item>Überzeichnungsbereiche anzeigen</item>
+    <item>Bereiche für Deuteranomalie anzeigen</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item>Keine</item>
+    <item>Logcat</item>
+    <item>Systrace (Graphik)</item>
+    <item>Call stack on glGetError</item>
+  </string-array>
+  <string-array name="hdcp_checking_summaries">
+    <item>Niemals HDCP-Prüfung verwenden</item>
+    <item>HDCP-Prüfung nur für DRM-Inhalte verwenden</item>
+    <item>Immer HDCP-Prüfung verwenden</item>
+  </string-array>
+  <string-array name="hdcp_checking_titles">
+    <item>Niemals prüfen</item>
+    <item>Nur auf DRM-Inhalte prüfen</item>
+    <item>Immer prüfen</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item>Nichts</item>
+    <item>480p</item>
+    <item>480p (sicher)</item>
+    <item>720p</item>
+    <item>720p (sicher)</item>
+    <item>1080p</item>
+    <item>1080p (sicher)</item>
+    <item>4K</item>
+    <item>4K (sicher)</item>
+    <item>4K (hochskaliert)</item>
+    <item>4K (hochskaliert, sicher)</item>
+    <item>720p, 1080p (Dual-Bildschirm)</item>
+  </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item>Aus</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+  </string-array>
+  <string-array name="select_logd_size_summaries">
+    <item>Aus</item>
+    <item>64K pro Log-Puffer</item>
+    <item>256K pro Log-Puffer</item>
+    <item>1M pro Log-Puffer</item>
+    <item>4M pro Log-Puffer</item>
+    <item>16M pro Log-Puffer</item>
+  </string-array>
+  <string-array name="select_logd_size_titles">
+    <item>Aus</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+    <item>4M</item>
+    <item>16M</item>
+  </string-array>
+  <string-array name="select_logpersist_summaries">
+    <item>Aus</item>
+    <item>Alle Log-Puffer</item>
+    <item>Alle außer Funk-Log-Puffer</item>
+    <item>Nur Kernel-Log-Puffer</item>
+  </string-array>
+  <string-array name="select_logpersist_titles">
+    <item>Aus</item>
+    <item>Alle</item>
+    <item>Alle außer Funk</item>
+    <item>Nur Kernel</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item>Aus</item>
+    <item>Nicht rechteckigen Clip-Bereich in blau zeichnen</item>
+    <item>Getestete Zeichenbefehle grün markieren</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item>Aus</item>
+    <item>Als Balken auf dem Bildschirm</item>
+    <item>In adb shell dumpsys gfxinfo</item>
+  </string-array>
+  <string-array name="transition_animation_scale_entries">
+    <item>Animation aus</item>
+    <item>Animationsskala .5x</item>
+    <item>Animationsskala 1x</item>
+    <item>Animationsskala 1.5x</item>
+    <item>Animationsskala 2x</item>
+    <item>Animationsskala 5x</item>
+    <item>Animationsskala 10x</item>
+  </string-array>
+  <string-array name="tts_rate_entries">
+    <item>Sehr langsam</item>
+    <item>Langsam</item>
+    <item>Normal</item>
+    <item>Schnell</item>
+    <item>Schneller</item>
+    <item>Sehr schnell</item>
+    <item>Rasant</item>
+    <item>Sehr rasant</item>
+    <item>Am schnellsten</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>Laden</item>
+    <item>MTP (Media Transfer Protocol)</item>
+    <item>PTP (Picture Transfer Protocol)</item>
+    <item>RNDIS (USB Ethernet)</item>
+    <item>Audioquelle</item>
+    <item>MIDI</item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item></item>
+    <item>Scannen…</item>
+    <item>Verbinden…</item>
+    <item>Authentifizieren…</item>
+    <item>IP-Adresse erhalten…</item>
+    <item>Verbunden</item>
+    <item>Ausgesetzt </item>
+    <item>Trennen…</item>
+    <item>Getrennt</item>
+    <item>Nicht erfolgreich</item>
+    <item>Blockiert</item>
+    <item>Zeitweilig schlechte Verbindung vermeiden</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item></item>
+    <item>Scannen…</item>
+    <item>Verbinden mit %1$s…</item>
+    <item>Authentifizieren mit %1$s…</item>
+    <item>IP-Adresse erhalten von %1$s…</item>
+    <item>Verbunden mit %1$s</item>
+    <item>Ausgesetzt</item>
+    <item>Trennen von %1$s…</item>
+    <item>Getrennt</item>
+    <item>Nicht erfolgreich</item>
+    <item>Blockiert</item>
+    <item>Zeitweilig schlechte Verbindung vermeiden</item>
+  </string-array>
+  <string-array name="window_animation_scale_entries">
+    <item>Animation aus</item>
+    <item>Animationsskala .5x</item>
+    <item>Animationsskala 1x</item>
+    <item>Animationsskala 1.5x</item>
+    <item>Animationsskala 2x</item>
+    <item>Animationsskala 5x</item>
+    <item>Animationsskala 10x</item>
+  </string-array>
 </resources>
