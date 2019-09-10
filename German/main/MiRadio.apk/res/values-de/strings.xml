@@ -98,7 +98,8 @@
   <string name="being_disable_auto_payment">Ausschalten…</string>
   <string name="being_enable_auto_payment">Einschalten…</string>
   <string name="bluetooth_device">Bluetooth-Audiogerät</string>
-  <string name="buffering">Pufferung…</string>
+  <string name="broadcast_list">Sender</string>
+  <string name="buffering">Puffern…</string>
   <string name="button_cancel_download">Abbrechen</string>
   <string name="button_download_now">Jetzt herunterladen</string>
   <string name="button_queue_for_wifi">Warteschlange</string>
@@ -107,6 +108,7 @@
   <string name="button_wait_for_wifi">Warten</string>
   <string name="can_heard_not_download">Titel kann nur gehört und nicht heruntergeladen werden…</string>
   <string name="cancel">Abbrechen</string>
+  <string name="cancel_delay_stop">Timer ausschalten</string>
   <string name="cancel_running_download">Abbrechen</string>
   <string name="cannot_comment_try_scroll">Dieser Titel kann nicht kommentiert werden, versuchen Sie zu scrollen</string>
   <string name="cannot_reply">Auf diesen Kommentar kann jetzt nicht geantwortet werden.</string>
@@ -301,6 +303,7 @@
   <string name="expired">Abgelaufen</string>
   <string name="fail_to_play">Titel kann nicht abgespielt werden</string>
   <string name="failure_no_network">Verbindung überprüfen und erneut versuchen.</string>
+  <string name="favor_list">Favoriten</string>
   <string name="favorite_canceled">Aus Favoriten entfernt</string>
   <string name="favorite_playlist">Favoriten</string>
   <string name="favorite_songgroup">Beliebteste Titelgruppe (%d)</string>
@@ -403,7 +406,9 @@
   <string name="latest_song">Abspielverlauf (%d)</string>
   <string name="like_comment_failed">Kommentar nicht möglich</string>
   <string name="like_comment_success">Gefällt mir</string>
+  <string name="list">Sender</string>
   <string name="list_item_play_all_tracks">Alles abspielen</string>
+  <string name="local_channel">Lokale Sender</string>
   <string name="load_shuffle">Laden…</string>
   <string name="loadercontainer_loading">Einen Moment…</string>
   <string name="loading_hint">Einen Moment…</string>
@@ -492,6 +497,7 @@
   <string name="next_time">Jetzt nicht</string>
   <string name="no_album_info">Keine Albuminformation</string>
   <string name="no_artist_info">Keine Künstlerinformation</string>
+  <string name="no_broadcast">Keine Sendung</string>
   <string name="no_comment">Kein Kommentar</string>
   <string name="no_copyright_song_hint_text">Dieser Titel ist aufgrund von Urheberrechtsproblemen nicht verfügbar.</string>
   <string name="no_copyright_song_recommend_hint_text">Es ist besser, diesen hier auszuprobieren</string>
@@ -631,6 +637,7 @@
   <string name="ringtone_not_support">Titelformat wird nicht unterstützt</string>
   <string name="root_downloads">Downloads</string>
   <string name="runtime_permission_ungranted">Aufnahme kann wegen fehlender Berechtigungen nicht gestartet werden</string>
+  <string name="scanned_list">Verfügbare Sender</string>
   <string name="save">Speichern</string>
   <string name="save_to_playlist">Als Wiedergabeliste speichern</string>
   <string name="search_dialog_title">Sender suchen</string>
@@ -740,6 +747,7 @@
   <string name="talkback_cloud_setting">Einstellungen</string>
   <string name="talkback_comment">Kommentare</string>
   <string name="talkback_comment_like">Gefällt</string>
+  <string name="talkback_create_channel">Sender hinzufügen</string>
   <string name="talkback_disabled">deaktivieren</string>
   <string name="talkback_download">Download</string>
   <string name="talkback_enabled">aktivieren</string>
@@ -747,31 +755,43 @@
   <string name="talkback_follow">Folgen</string>
   <string name="talkback_followed">Nicht mehr folgen</string>
   <string name="talkback_frame_list">Wiedergabeliste</string>
+  <string name="talkback_freq_more_function">Weitere Optionen für den %1$s-Sender</string>
+  <string name="talkback_freq_picker">Wischen, um zwischen den Sendern zu wechseln</string>
   <string name="talkback_header_search">"Suchen "</string>
   <string name="talkback_like">Gefällt</string>
+  <string name="talkback_listen_more">Weitere Online-Radiosender</string>
+  <string name="talkback_local_radio">Radio hören, wenn Sie offline sind</string>
   <string name="talkback_login">Anmelden</string>
   <string name="talkback_mode_repeat_all">Loop-Modus</string>
   <string name="talkback_mode_repeat_current">Wiederholmodus</string>
   <string name="talkback_mode_repeat_shuffle">Zufallsmodus</string>
   <string name="talkback_more">Mehr</string>
+  <string name="talkback_more_function">Weitere Funktionen</string>
   <string name="talkback_new_playlist">Wiedergabeliste erstellen</string>
   <string name="talkback_next">Next Titel</string>
+  <string name="talkback_next_broadcast">Vorheriger Sender</string>
   <string name="talkback_next_play">Nächstes abspielen</string>
   <string name="talkback_nowplaying_bar">Wiedergabeleiste</string>
-  <!--   -->
+  <!-- ? -->
   <string name="talkback_nowplaying_circle">Play circle</string>
-  <!--   -->
+  <!-- ? -->
   <string name="talkback_pause">Pause</string>
   <string name="talkback_play">Abspielen</string>
   <string name="talkback_pre">Vorheriger Titel</string>
+  <string name="talkback_pre_broadcast">Nächster Sender</string>
   <string name="talkback_radar">Musikerkennung</string>
+  <string name="talkback_record_stop">Aufnahme anhalten</string>
+  <string name="talkback_recording">Aufnahmen</string>
   <string name="talkback_remove_list">Von Wiedergabeliste entfernen</string>
+  <string name="talkback_scan_channel">Sender suchen</string>
   <string name="talkback_search">Suchen</string>
   <string name="talkback_search_delete">löschen</string>
   <string name="talkback_search_radar_and_voice">Sprachassistent und Spracherkennung</string>
   <string name="talkback_share">Teilen</string>
   <string name="talkback_sidemenu">Seitenmenü</string>
   <string name="talkback_sort_type">Titel sortieren nach</string>
+  <string name="talkback_switch_headset">Kopfhörer verbinden</string>
+  <string name="talkback_switch_speaker">Lautsprecher verwenden</string>
   <string name="talkback_unlike">Gefällt nicht</string>
   <string name="talkback_view_type">Titel anzeigen nach</string>
   <string name="task_already_exist">Aufgabe existiert bereits</string>
