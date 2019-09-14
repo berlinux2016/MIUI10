@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="accessibility_usage_summary">
+    <item quantity="other">%1$d Apps haben uneingeschränkten Zugriff auf Ihr Gerät</item>
+    <item quantity="one">1 App hat uneingeschränkten Zugriff auf Ihr Gerät</item>
+  </plurals>
+  <plurals name="location_app_permission_summary_location_on">
+    <item quantity="other">%1$d von %2$d Apps haben Zugriff auf den Standort</item>
+    <item quantity="one">%1$d von %2$d Apps hat Zugriff auf den Standort</item>
+  </plurals>
+  <plurals name="location_settings_summary_location_on">
+    <item quantity="other">An: %1$d Apps haben Zugriff auf den Standort</item>
+    <item quantity="one">An: %1$d App hat Zugriff auf den Standort</item>
+  </plurals>
+  <plurals name="mobile_network_summary_count">
+    <item quantity="other">%1$d SIM-Karten</item>
+    <item quantity="one">%1$d SIM-Karte</item>
+  </plurals>
+  <plurals name="notification_few_channel_count_summary">
+    <item quantity="other">%1$d Benachrichtigungskanäle</item>
+    <item quantity="one">%1$d Benachrichtigungskanal</item>
+  </plurals>
+  <plurals name="notifications_sent_daily">
+    <item quantity="other">Ungefähr %d Benachrichtigungen pro Tag</item>
+    <item quantity="one">Ungefähr %d Benachrichtigung pro Tag</item>
+  </plurals>
+  <plurals name="notifications_sent_weekly">
+    <item quantity="other">Ungefähr %d Benachrichtigungen pro Woche</item>
+    <item quantity="one">Ungefähr %d Benachrichtigung pro Woche</item>
+  </plurals>
+  <plurals name="permission_bar_chart_label">
+    <item quantity="other">%s Apps</item>
+    <item quantity="one">1 App</item>
+  </plurals>
+  <plurals name="show_bluetooth_devices">
+    <item quantity="other">%1$d Geräte verbunden</item>
+    <item quantity="one">%1$d Gerät verbunden</item>
+  </plurals>
+  <plurals name="wifi_saved_all_access_points_summary">
+    <item quantity="other">%d Netzwerke und Abos</item>
+    <item quantity="one">1 Netzwerk und Abo</item>
+  </plurals>
+  <plurals name="wifi_saved_passpoint_access_points_summary">
+    <item quantity="other">%d Abos</item>
+    <item quantity="one">1 Abo</item>
+  </plurals>
+  <plurals name="zen_mode_bypassing_apps_subtext">
+    <item quantity="other">Benachrichtigungen von %1$d Apps können \"Bitte nicht stören\" überschreiben</item>
+    <item quantity="one">Benachrichtigungen von 1 App können \"Bitte nicht stören\" überschreiben</item>
+  </plurals>
+  <plurals name="zen_mode_duration_summary_time_hours">
+    <item quantity="other">%d Stunden</item>
+    <item quantity="one">1 Stunde</item>
+  </plurals>
+</resources>
