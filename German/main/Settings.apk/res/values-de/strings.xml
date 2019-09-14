@@ -121,9 +121,9 @@ Falls das Gerät mehrere Benutzer hat, werden die Eingabehilfen durch Verwendung
 
 Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
   <string name="accessibility_screen_magnification_navbar_title">Mit Taste vergrößern</string>
-  <string name="accessibility_screen_magnification_short_summary">3 mal tippen, um zu vergrößern</string>
+  <string name="accessibility_screen_magnification_short_summary">3-mal tippen, um zu vergrößern</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Vergrößern mit Taste &amp; 3-fach Tippen</string>
-  <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein-/rauszoomen, indem Sie 3 mal auf den Bildschirm tippen. Wenn Sie reingezoomt haben, können Sie:
+  <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein-/rauszoomen, indem Sie 3-mal auf den Bildschirm tippen. Wenn Sie reingezoomt haben, können Sie:
 <li><ul>Verschieben: Ziehen Sie zwei oder mehr Finger über den Bildschirm.
 <li>Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.</li></ul></li>
 Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifaches Antippen und Halten vergrößern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren.
@@ -222,12 +222,12 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilf
   <string name="add_device_admin_msg">Geräteadministrator aktivieren?</string>
   <string name="add_facerecoginition_text">Gesicht hinzufügen</string>
   <string name="add_fingerprint_cancel_button_text">Zurück</string>
-  <string name="add_fingerprint_dirty_fingerprint">Stellen Sie sicher, dass die Oberfläche des Bildschirms sauber ist. Versuchen Sie nochmal, Ihren Fingerabdruck aufzunehmen.</string>
+  <string name="add_fingerprint_dirty_fingerprint">Stellen Sie sicher, dass die Oberfläche des Bildschirms sauber ist. Versuchen Sie noch mal, Ihren Fingerabdruck aufzunehmen.</string>
   <string name="add_fingerprint_done_msg">Sie können Ihr Gerät nun mit Ihrem Fingerabdruck entsperren</string>
   <string name="add_fingerprint_done_title">Fertig</string>
   <string name="add_fingerprint_edge_instruction_msg">Bewegen Sie den Finger, damit der Sensor die Kanten des Fingerabdrucks aufnehmen kann</string>
   <string name="add_fingerprint_edge_instruction_title">Bewegen Sie Ihren Finger ein wenig</string>
-  <string name="add_fingerprint_failed_retry_text">Fingerabdruck konnte nicht hinzugefügt werden, versuchen Sie es nochmal</string>
+  <string name="add_fingerprint_failed_retry_text">Fingerabdruck konnte nicht hinzugefügt werden, versuchen Sie es noch mal</string>
   <string name="add_fingerprint_finished_button_text">Fertig</string>
   <string name="add_fingerprint_instruction_msg">Fingerabdrucksensor ist in der Hometaste Ihres Geräts eingebaut</string>
   <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf den Scanner</string>
@@ -556,7 +556,7 @@ Schalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilf
   <string name="auto_brightness_very_low_title">Sehr niedrig</string>
   <string name="auto_caps">Autom. Groß-/Kleinschr.</string>
   <string name="auto_caps_summary">Jeden Satz mit einem Großbuchstaben beginnen</string>
-  <string name="auto_clean_description">Über dieses Funktion\n1. Diese Funktion ein- oder zweimal ausführen, wenn Sie feststellen, dass Ihr Lautsprecher leicht durch Staub blockiert ist. Wenn der Lautsprecher stark blockiert ist, führen Sie diese Funktion 2-5 Mal aus, während Sie Ihr Gerät mit dem Lautsprecher nach unten schütteln.</string>
+  <string name="auto_clean_description">Über dieses Funktion\n1. Diese Funktion ein- oder zweimal ausführen, wenn Sie feststellen, dass Ihr Lautsprecher leicht durch Staub blockiert ist. Wenn der Lautsprecher stark blockiert ist, führen Sie diese Funktion 2-5-mal aus, während Sie Ihr Gerät mit dem Lautsprecher nach unten schütteln.</string>
   <string name="auto_clean_summary">Ein 30-Sekunden-Audio abspielen, um den Lautsprecher zu reinigen</string>
   <string name="auto_clean_title">Lautsprecher reinigen</string>
   <string name="auto_disable_screenbuttons_ask">Nachfragen</string>
@@ -1162,7 +1162,7 @@ Abtastrate"</string>
   <string name="bootloader_apply_title">Wichtige Warnung</string>
   <string name="bootloader_device_bind_already">Erfolgreich hinzugefügt. Ihr Mi Konto ist jetzt mit diesem Gerät verknüpft.</string>
   <string name="bootloader_device_bind_exceed_sim_limit">Zu dieser SIM-Karte können keine weiteren Konten hinzugefügt werden</string>
-  <string name="bootloader_device_bind_fail">Überprüfung fehlgeschlagen, warten Sie einen Moment und versuchen Sie es nochmal</string>
+  <string name="bootloader_device_bind_fail">Überprüfung fehlgeschlagen, warten Sie einen Moment und versuchen Sie es noch mal</string>
   <string name="bootloader_device_bind_msg">Gerät und Konto hinzufügen wird vorbereitet…</string>
   <string name="bootloader_device_bind_no_account">Melden Sie sich zuerst an Ihrem Mi Konto an</string>
   <string name="bootloader_device_bind_no_data_network">Schalten Sie WLAN aus und fügen Sie Ihr Konto und Gerät mit Hilfe mobiler Daten hinzu.</string>
@@ -3612,7 +3612,7 @@ Um auch Musik, Bilder und sonstige Benutzerdaten zu löschen, muss der <b>USB-Sp
   <string name="miui_sos_emergency_delivered_sms_noname">%1s hat bereits akzeptiert</string>
   <string name="miui_sos_emergency_failed_sms" formatted="false">%1s (%2s) SOS-Nachricht senden fehlgeschlagen</string>
   <string name="miui_sos_emergency_failed_sms_noname">%1s SOS-Nachricht senden fehlgeschlagen</string>
-  <string name="miui_sos_enable_switch_summary">Drücken Sie schnell die Power-Taste 5 mal, um eine SOS-SMS mit Ihrem Standort an Ihre Notfallkontakte zu senden.</string>
+  <string name="miui_sos_enable_switch_summary">Drücken Sie schnell die Power-Taste 5-mal, um eine SOS-SMS mit Ihrem Standort an Ihre Notfallkontakte zu senden.</string>
   <string name="miui_sos_enable_switch_title">SOS-Notfallhilfe</string>
   <string name="miui_sos_exit_dialog_cancel">Abbrechen</string>
   <string name="miui_sos_exit_dialog_message">Sie haben SOS-Notfallhilfe aktiviert. Ihre Standortinformationen werden an Ihre Notfallkontakte gesendet. Trotzdem ausschalten?</string>
@@ -3795,7 +3795,7 @@ Betriebssystem auswählen:"</string>
   <string name="network_detail">%s Netzwerkdetails</string>
   <string name="network_error">Netzwerkfehler</string>
   <string name="network_name_displayed_summary">Netzwerkname in der Statusleiste anzeigen</string>
-  <string name="network_name_input_error">SSID konnte nicht gespeichert werden. Nochmal versuchen.</string>
+  <string name="network_name_input_error">SSID konnte nicht gespeichert werden. Noch mal versuchen.</string>
   <string name="network_operator_display_title">Netzbetreiber anzeigen</string>
   <string name="network_operators_settings">Netzbetreiber</string>
   <string name="network_reset_not_available">Netzwerkreset ist für diesen Benutzer nicht verfügbar</string>
@@ -5751,7 +5751,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_data_network_type">Mobiler Datennetztyp</string>
   <string name="status_data_state">Mobilfunkstatus</string>
   <string name="status_failed_to_write">Nicht möglich, Daten auf den NFC-Tag zu schreiben. Falls das Problem weiterhin auftritt, verwenden Sie einen anderen Tag</string>
-  <string name="status_invalid_password">Ungültiges Passwort, nochmal versuchen</string>
+  <string name="status_invalid_password">Ungültiges Passwort, noch mal versuchen</string>
   <string name="status_latest_area_info">Betreiberinfo</string>
   <string name="status_network_type">Mobilfunktyp</string>
   <string name="status_number">Meine Telefonnummer</string>
@@ -7183,7 +7183,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="wifi_connect">Verbinden</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Abbrechen</string>
   <string name="wifi_connect_cmcc_dialog_content">Mit dem mobilen Datennetz verbunden. Wenn Sie das Datenlimit Ihres Tarifs überschreiten, könnte Ihr Netzbetreiber Ihnen zusätzliche Gebühren berechnen.</string>
-  <string name="wifi_connect_cmcc_dialog_not_remind">Nicht nochmal anzeigen</string>
+  <string name="wifi_connect_cmcc_dialog_not_remind">Nicht noch mal anzeigen</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC verbunden</string>
   <string name="wifi_connect_failed_message">Telefon konnte sich nicht mit diesem WLAN verbinden</string>
   <string name="wifi_connected_mac_randomization">MAC-Randomisierung verbunden</string>
@@ -7198,7 +7198,7 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
   <string name="wifi_coverage_extend_summary">WLAN-Abdeckung mit Hotspot erweitern</string>
   <string name="wifi_data_template">^1 WLAN-Daten</string>
   <string name="wifi_data_usage">WLAN-Datennutzung</string>
-  <string name="wifi_datanetwork_switch_not_remind">Nicht nochmal anzeigen</string>
+  <string name="wifi_datanetwork_switch_not_remind">Nicht noch mal anzeigen</string>
   <string name="wifi_details_ipv6_address_header">IPv6-Addressen</string>
   <string name="wifi_details_subnet_mask">Subnetzmaske</string>
   <string name="wifi_details_title">Netzwerkdetails</string>
@@ -7340,7 +7340,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
   <string name="wifi_notify_open_networks_summary">Benachrichtigen, wenn offenes Netzwerk verfügbar</string>
   <string name="wifi_off_airplane_on_cancel">Abbrechen</string>
   <string name="wifi_off_airplane_on_content">Sie können WLAN manuell aktivieren, wenn Sie sich im Flugmodus befinden</string>
-  <string name="wifi_off_airplane_on_not_remind">Nicht nochmal anzeigen</string>
+  <string name="wifi_off_airplane_on_not_remind">Nicht noch mal anzeigen</string>
   <string name="wifi_off_airplane_on_title">WLAN im Flugmodus</string>
   <string name="wifi_on_time">WLAN-Aktivzeit</string>
   <string name="wifi_other_connection_mode">Weitere Anschlussmöglichkeiten</string>

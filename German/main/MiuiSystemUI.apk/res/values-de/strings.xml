@@ -963,12 +963,12 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="keyguard_torch_cover_text">Halten Sie die Power-Taste gedrückt, um die Lampe dauerhaft einzuschalten</string>
   <string name="keyguard_unlock">Zum Entsperren hochwischen</string>
   <string name="kg_enter_confirm_pin_hint">Gewünschten PIN-Code bestätigen</string>
-  <string name="kg_failed_attempts_almost_at_erase_profile">Sie haben %1$d mal nicht korrekt versucht, das Telefon zu entsperren. Nach %2$d weiteren erfolglosen Versuchen wird das Arbeitsprofil entfernt, wodurch alle Profildaten gelöscht werden.</string>
-  <string name="kg_failed_attempts_almost_at_erase_user">Sie haben %1$d mal nicht korrekt versucht, das Telefon zu entsperren. Nach %2$d weiteren erfolglosen Versuchen wird dieser Benutzer entfernt, wodurch alle Benutzerdaten gelöscht werden.</string>
+  <string name="kg_failed_attempts_almost_at_erase_profile">Sie haben %1$d-mal nicht korrekt versucht, das Telefon zu entsperren. Nach %2$d weiteren erfolglosen Versuchen wird das Arbeitsprofil entfernt, wodurch alle Profildaten gelöscht werden.</string>
+  <string name="kg_failed_attempts_almost_at_erase_user">Sie haben %1$d-mal nicht korrekt versucht, das Telefon zu entsperren. Nach %2$d weiteren erfolglosen Versuchen wird dieser Benutzer entfernt, wodurch alle Benutzerdaten gelöscht werden.</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">Sie haben Ihr Entsperrmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mit Hilfe eines E-Mail-Kontos zu entsperren. Versuchen Sie es in %d Sekunden erneut.</string>
   <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf Werkseinstellungen zurückgesetzt und alle Benutzerdaten gehen verloren.</string>
-  <string name="kg_failed_attempts_now_erasing_profile">Sie haben %d mal nicht korrekt versucht, das Telefon zu entsperren. Das Arbeitsprofil wird entfernt, wodurch alle Profildaten gelöscht werden.</string>
-  <string name="kg_failed_attempts_now_erasing_user">Sie haben %d mal nicht korrekt versucht, das Telefon zu entsperren. Dieser Benutzer wird entfernt, wodurch alle Benutzerdaten gelöscht werden.</string>
+  <string name="kg_failed_attempts_now_erasing_profile">Sie haben %d-mal nicht korrekt versucht, das Telefon zu entsperren. Das Arbeitsprofil wird entfernt, wodurch alle Profildaten gelöscht werden.</string>
+  <string name="kg_failed_attempts_now_erasing_user">Sie haben %d-mal nicht korrekt versucht, das Telefon zu entsperren. Dieser Benutzer wird entfernt, wodurch alle Benutzerdaten gelöscht werden.</string>
   <string name="kg_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Telefon wird nun auf Werkseinstellungen zurückgesetzt.</string>
   <string name="kg_forgot_pattern_button_text">Muster vergessen</string>
   <string name="kg_invalid_confirm_pin_hint">PIN-Codes stimmen nicht überein</string>
@@ -1050,7 +1050,7 @@ d. MMMM"</string>
   <string name="lockscreen_carrier_default">Kein Dienst</string>
   <string name="lockscreen_charging_msg">Akku wir geladen, tippen für Details</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie hatten %d Fehlversuche beim Entsperren des Telefons. Nach %d weiteren Fehlversuchen wird das Telefon auf Werkseinstellungen zurückgesetzt. Dabei gehen alle Daten verloren.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Sie haben das Passwort %d mal falsch eingegeben. Nach %d weiteren Fehlversuchen werden Sie aufgefordert, das Telefon mit Ihrem Mi Konto zu entsperren. In %d Sekunden erneut versuchen.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Sie haben das Passwort %d-mal falsch eingegeben. Nach %d weiteren Fehlversuchen werden Sie aufgefordert, das Telefon mit Ihrem Mi Konto zu entsperren. In %d Sekunden erneut versuchen.</string>
   <string name="lockscreen_failed_attempts_now_wiping">Sie hatten %d Fehlversuche beim Entsperren des Telefons. Telefon wird auf Werkseinstellungen zurückgesetzt.</string>
   <string name="lockscreen_none">Nichts</string>
   <string name="lockscreen_shortcut_left">Linke Verknüpfung</string>
@@ -1082,7 +1082,7 @@ Screenshot zu erstellen"</string>
   <string name="media_category">Medien</string>
   <string name="media_projection_action_text">Jetzt beginnen</string>
   <string name="media_projection_dialog_text">%s wird alles aufnehmen, was auf Ihrem Bildschirm zusehen ist.</string>
-  <string name="media_projection_remember_text">Nicht nochmal anzeigen</string>
+  <string name="media_projection_remember_text">Nicht noch mal anzeigen</string>
   <string name="memory_clear_result_giga">%1$sGB gelöscht</string>
   <string name="memory_clear_result_mega">%1$sMB gelöscht</string>
   <string name="menu_ime">Tastaturumschalter</string>
@@ -1631,7 +1631,7 @@ Screenshot zu erstellen"</string>
   <string name="stream_voice_call">Anruf</string>
   <string name="strict_mode">Strict-Modus aktiv</string>
   <string name="strict_mode_summary">Bildschirm blinkt, wenn Apps lange Operationen ausführen</string>
-  <string name="structure_face_data_delete_fail">3D-Gesichtsdaten konnten nicht gelöscht werden, nochmal versuchen</string>
+  <string name="structure_face_data_delete_fail">3D-Gesichtsdaten konnten nicht gelöscht werden, noch mal versuchen</string>
   <string name="structure_face_data_input_down">Kopf senken</string>
   <string name="structure_face_data_input_error_away_screen">Telefon etwas weiter weg vom Gesicht halten</string>
   <string name="structure_face_data_input_error_expose_eye">Augen werden nicht mehr gesehen</string>
@@ -1645,8 +1645,8 @@ Screenshot zu erstellen"</string>
   <string name="structure_face_data_input_ok">Erledigt</string>
   <string name="structure_face_data_input_right">Kopf nach rechts drehen</string>
   <string name="structure_face_data_input_success">Erledigt!</string>
-  <string name="structure_face_data_input_timeout_msg">Konnte nicht aufnehmen, nochmal versuchen.</string>
-  <string name="structure_face_data_input_timeout_title">Nochmal versuchen</string>
+  <string name="structure_face_data_input_timeout_msg">Konnte nicht aufnehmen, noch mal versuchen.</string>
+  <string name="structure_face_data_input_timeout_title">Noch mal versuchen</string>
   <string name="structure_face_data_manage_delete_msg">3D-Gesichtsdaten löschen</string>
   <string name="structure_face_data_input_up">Nach oben schauen</string>
   <string name="structure_face_data_introduction_back">Zurück</string>
@@ -1659,14 +1659,14 @@ Screenshot zu erstellen"</string>
   <string name="structure_face_data_rgb_input_face">Gesicht in den Rahmen legen</string>
   <string name="structure_face_data_suggestion_text">Stellen Sie sicher, dass alle Teile Ihres Gesichts gut sichtbar sind. Tragen Sie keine Hüte, Sonnenbrillen oder andere Accessoires, die Ihr Gesicht während der Aufnahme von 3D-Gesichtsdaten bedecken könnten. Stellen Sie sicher, dass auch Ihr Gesicht gleichmäßig beleuchtet ist.</string>
   <string name="structure_face_data_suggestion_warning_text">Hinweis: Die Verwendung von 3D-Gesichtsdaten ist etwas weniger sicher als die Verwendung eines Passworts. Personen oder Objekte, die Ihnen sehr ähnlich sehen, können Ihr Gerät möglicherweise entsperren.</string>
-  <string name="structure_face_delete_data_dialog_msg">Kamera wurde nicht gestartet und Vorschau nicht angezeigt, nochmal versuchen.</string>
-  <string name="structure_face_delete_data_dialog_msg_retry">Nochmal versuchen</string>
+  <string name="structure_face_delete_data_dialog_msg">Kamera wurde nicht gestartet und Vorschau nicht angezeigt, noch mal versuchen.</string>
+  <string name="structure_face_delete_data_dialog_msg_retry">Noch mal versuchen</string>
   <string name="structure_face_delete_data_dialog_title">Kamera konnte nicht gestartet werden</string>
   <string name="structure_face_hardware_abnormal_btn">Verstanden</string>
   <string name="structure_face_hardware_abnormal_msg">Es ist ein Hardwarefehler aufgetreten. Starten Sie Ihr Gerät neu. Wenn das nicht hilft, rufen Sie 400-100-5678 an, um Hilfe zu erhalten.</string>
   <string name="structure_face_hardware_abnormal_title">Hardwarefehler</string>
   <string name="structure_face_modules_abnormal_btn">Neustart</string>
-  <string name="structure_face_modules_abnormal_msg">Aufgrund eines optischen Modulfehlers können keine Gesichtsdaten aufgezeichnet werden. Gerät neu starten und nochmal versuchen.</string>
+  <string name="structure_face_modules_abnormal_msg">Aufgrund eines optischen Modulfehlers können keine Gesichtsdaten aufgezeichnet werden. Gerät neu starten und noch mal versuchen.</string>
   <string name="structure_face_modules_abnormal_title">Fehler optisches Modul</string>
   <string name="structure_face_unlock_model2d_dialog_msg">Die 3D-Erkennung wird ausgeschaltet. Ihre 3D-Gesichtsdaten werden gelöscht. Sie müssen auch Ihre 2D-Gesichtsdaten hinzufügen. 2D-Erkennung einschalten?</string>
   <string name="structure_face_unlock_model2d_dialog_title">2D-Erkennung einschalten</string>
