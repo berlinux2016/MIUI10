@@ -29,19 +29,19 @@
   <string name="action_example">Beispielaktion</string>
   <string name="action_nothing">Test abwarten</string>
   <string name="add">Hinzufügen</string>
+  <string name="allow_gpu_maxfreq_summary">Der experimentelle GPU-Overfreq-Modus könnte zu Leistungsproblemen oder noch schwerwiegenderen Problemen führen. Sie werden jedoch wiederabgestellt, wenn Sie diesen Modus ausschalten. GPU-Maxfreq-Modus einschalten?</string>
   <string name="audio_spk_cal_wait">Bitte kalibrieren…</string>
   <string name="audio_spk_def">Bitte Lautsprecher kalibrieren</string>
-  <string name="allow_gpu_maxfreq_summary">Der experimentelle GPU-Overfreq-Modus könnte zu Leistungsproblemen oder noch schwerwiegenderen Problemen führen. Sie werden jedoch wiederabgestellt, wenn Sie diesen Modus ausschalten. GPU-Maxfreq-Modus einschalten?</string>
   <string name="back_mic_check_record_tip">Aufnahme, bitte sprechen Sie ins Mikrofon auf der Rückseite des Telefons.</string>
-  <string name="battery_id">Akku-ID:</string>
-  <string name="battery_value">Strom</string>
   <string name="baterry_percent">"Höhe der Akkuladung: "</string>
   <string name="baterry_temperature">"Akkutemperatur: "</string>
+  <string name="battery_id">Akku-ID:</string>
   <string name="battery_info">Information zum Laden des Akkus</string>
   <string name="battery_plug_wirelee_summary">Kabelloses Laden bei jeder Verbindung, einmaliges Trennen der Verbindung</string>
   <string name="battery_plug_wirelee_title">Test kabelloses Laden</string>
   <string name="battery_plugin_wirelee">Kabelloses Laden ist verbunden</string>
   <string name="battery_plugout_wirelee">Bitte verbinden Sie kabelloses Laden</string>
+  <string name="battery_value">Strom</string>
   <string name="begin_to_save_finger_data">Beginn der Speicherung der Fingerdaten</string>
   <string name="bt_address">Adresse:</string>
   <string name="button_cancel">Abbrechen</string>
@@ -60,17 +60,6 @@
   <string name="charger_test_end">"
 Ende Ladegerättest, bitte das Ladegerät herausziehen"</string>
   <string name="checkerboard_test">SCHACHBRETT-TEST</string>
-  <string name="cit_f2_cali">Kalibrierung</string>
-  <string name="cit_f2_cali_done">Kalibrierung fertig!</string>
-  <string name="cit_f2_cali_failed">Kalibrierung fehlgeschlagen, bitte wiederholen!</string>
-  <string name="cit_f2_cali_title">Kamerakalibrierung</string>
-  <string name="cit_f2_calibrating">Kalibrierung läuft…</string>
-  <string name="cit_f2_camera_check_summary">"Testanweisungen:
-
-1. Auf Schaltfläche Kalibrierung tippen.
-2. Es wird ein Etikett mit einem Kalibrierungspass geben, das anzeigt, dass die Kamera kalibriert wurde."</string>
-  <string name="cit_f2_capture_fail">Aufnahme fehlgeschlagen, bitte wiederholen!</string>
-  <string name="cit_f2_capture_success">Schaltfläche Kalibrierung antippen!</string>
   <string name="cit_OTG_plug_check_summary">Während des Tests stecken Sie bitte den Stecker ins USB OTG-Gerät ein und stecken ihn dann umgedreht wieder ein.</string>
   <string name="cit_OTG_plugin_check_summary">Wenn das OTG-Gerät angeschlossen ist, sollte der Text \"USB OTG-Gerät erkannt\" unten angezeigt werden.</string>
   <string name="cit_OTG_plugin_check_title">OTG (erkannt)</string>
@@ -89,6 +78,7 @@ Ende Ladegerättest, bitte das Ladegerät herausziehen"</string>
   <string name="cit_accelermeter_sensor_check_summary">"Bewegen Sie das Telefon schnell in eine Richtung. X/Y/Z-Koordinatenwerte werden unten angezeigt (wenn das Telefon in Bewegung ist: X steht für links/rechts, Y für vorne/hinten, Z für oben/unten).
 Bevor Sie das Telefon kalibrieren, legen Sie es auf eine ebene Fläche."</string>
   <string name="cit_accelermeter_sensor_check_title">Beschleunigungsmesser</string>
+  <string name="cit_analog_headset_plug_hint">Analoge Kopfhörer jetzt anschließen</string>
   <string name="cit_apk_signature_failed">apk-Signatur FEHLGESCHLAGEN</string>
   <string name="cit_apk_signature_passed">apk-Signatur BESTANDEN</string>
   <string name="cit_aud_current_state">"Aktueller Zustand: "</string>
@@ -112,17 +102,28 @@ Bevor Sie das Telefon kalibrieren, legen Sie es auf eine ebene Fläche."</string
   <string name="cit_audio_lb_frontmic_to_speaker_title">Frontmikrofon-Rückkopplungstest</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Hauptmikrofon-Rückkopplungstest</string>
   <string name="cit_audio_lb_phonecall_title">Ruftestsimulation</string>
-  <string name="cit_no_sim_check_summary">Vergewissern Sie sich, dass das Telefon keine Sim-Karte hat!</string>
+  <string name="cit_f2_cali">Kalibrierung</string>
+  <string name="cit_f2_cali_done">Kalibrierung fertig!</string>
+  <string name="cit_f2_cali_failed">Kalibrierung fehlgeschlagen, bitte wiederholen!</string>
+  <string name="cit_f2_cali_title">Kamerakalibrierung</string>
+  <string name="cit_f2_calibrating">Kalibrierung läuft…</string>
+  <string name="cit_f2_capture_fail">Aufnahme fehlgeschlagen, bitte wiederholen!</string>
+  <string name="cit_f2_capture_success">Schaltfläche Kalibrierung antippen!</string>
+  <string name="cit_f2_camera_check_summary">"Testanweisungen:
+
+1. Auf Schaltfläche Kalibrierung tippen.
+2. Es wird ein Etikett mit einem Kalibrierungspass geben, das anzeigt, dass die Kamera kalibriert wurde."</string>
+  <string name="cit_no_sim_check_summary">Vergewissern Sie sich, dass das Telefon keine SIM-Karte hat!</string>
   <string name="cit_no_sim_check_title">Keine SIM-Karte</string>
   <string name="cit_splash_check_summary">Stellen Sie sicher, dass das Phänomen des schwarzen Bildschirms mehr als 5 Sekunden andauert.</string>
   <string name="cit_tool_active_mbn">Aktiv</string>
+  <string name="cit_tool_check_opt">Sicher?</string>
+  <string name="cit_tool_check_opt_with_reboot">Wird neu starten, sicher?</string>
+  <string name="cit_tool_current_modem_test_mode">Aktueller Testmodus:</string>
   <string name="cit_tool_dc_backlight_toast_off">DC-Hintergrundbeleuchtung Aus</string>
   <string name="cit_tool_dc_backlight_toast_on">DC-Hintergrundbeleuchtung An</string>
   <string name="cit_tool_getting_expired">Ablaufdatum!</string>
   <string name="cit_tool_getting_wait">"Auf geht's! Bitte warten…"</string>
-  <string name="cit_tool_check_opt">Sicher?</string>
-  <string name="cit_tool_check_opt_with_reboot">Wird neu starten, sicher?</string>
-  <string name="cit_tool_current_modem_test_mode">Aktueller Testmodus:</string>
   <string name="cit_tool_mbn_default_notfiy">Standard-MBN</string>
   <string name="cit_tool_mbn_no_default_notfiy">Kein Standard-MBN</string>
   <string name="cit_tool_mbn_path_select_hit">Wählen Sie den gesamten Pfad von mbn:</string>
@@ -515,19 +516,19 @@ Die erste Zeile zeigt an, ob der vom aktuellen Modem geladene MBN der Standard-M
 Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des Träger-MBN, die derzeit im Modem geladen sind. Unsere benutzerdefinierte MBN ist Carrier MBN, SUB0 ist Karte 1, SUB1 ist Karte 2."</string>
   <string name="cit_tool_modem">MODEM Testtools</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump erzwingen</string>
-  <string name="cit_tool_modem_deactive_mbn">Deaktiviert</string>
-  <string name="cit_tool_modem_feature_config_cust">Aktuelle Funktion wie folgt konfigurieren</string>
-  <string name="cit_tool_modem_feature_config_default">Aktuelle Funktion als Standard konfigurieren</string>
-  <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt fehlgeschlagen, bitte Telefon neu starten, um erneut zu versuchen</string>
-  <string name="cit_tool_modem_test_device_value_set">Gerätestatus modifizieren</string>
-  <string name="cit_tool_modem_test_will_set">Wird den Testmodus öffnen und den DUT neu starten</string>
   <string name="cit_tool_modem_cu_volte_no">CU VoLTE deaktivieren</string>
   <string name="cit_tool_modem_cu_volte_no_confirm">CU VoLTE deaktivieren, Neustart zum Wirksamwerden</string>
   <string name="cit_tool_modem_cu_volte_yes">CU VoLTE akivieren</string>
   <string name="cit_tool_modem_cu_volte_yes_confirm">CU VoLTE aktivieren, Neustart zum Wirksamwerden</string>
+  <string name="cit_tool_modem_deactive_mbn">Deaktiviert</string>
   <string name="cit_tool_modem_exit_ftm">FTM Modus beenden</string>
+  <string name="cit_tool_modem_feature_config_cust">Aktuelle Funktion wie folgt konfigurieren</string>
+  <string name="cit_tool_modem_feature_config_default">Aktuelle Funktion als Standard konfigurieren</string>
   <string name="cit_tool_modem_mbn">Modemkonfiguration ändern</string>
+  <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt fehlgeschlagen, bitte Telefon neu starten, um erneut zu versuchen</string>
   <string name="cit_tool_modem_offline_log">Offline Protokoll öffnen/schließen</string>
+  <string name="cit_tool_modem_test_device_value_set">Gerätestatus modifizieren</string>
+  <string name="cit_tool_modem_test_will_set">Wird den Testmodus öffnen und den DUT neu starten</string>
   <string name="cit_tool_nfc">NFC Testtools</string>
   <string name="cit_tool_nfc_ce_disable">Ce deaktivieren</string>
   <string name="cit_tool_nfc_ce_enable">Ce aktivieren</string>
@@ -646,8 +647,8 @@ Test fehlgeschlagen, bitte tippen Sie auf die Taste Fehlgeschlagen."</string>
   <string name="fod_pressure_sensor_test_success">"Sensordurchschnittsdruck: %1$d
 Test erfolgreich, bitte tippen Sie auf die Taste Bestanden."</string>
   <string name="fod_pressure_sensor_test_summary">Legen Sie das Gewicht in die angegebene Position</string>
-  <string name="fp_fod_calibration">FOD Fingerabdruckkalibrierung</string>
   <string name="fod_pressure_sensor_test_title">FOD-Drucksensortest</string>
+  <string name="fp_fod_calibration">FOD Fingerabdruckkalibrierung</string>
   <string name="fpc_app_name">Sensortesttool</string>
   <string name="fpc_pn_calibration">PN-Bild erfassen und speichern</string>
   <string name="front_mic_check_record_tip">Aufnahme, bitte sprechen Sie ins Mikrofon auf der Vorderseite des Telefons.</string>

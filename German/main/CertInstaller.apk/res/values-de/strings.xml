@@ -1,19 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Zertifikatinstaller</string>
+  <string name="action_missing_private_key">Privater Schlüssel für die Installation eines Zertifikats erforderlich</string>
+  <string name="action_missing_user_cert">Zertifikat für die Installation eines privaten Schlüssels erforderlich</string>
+  <string name="app_name">Zertifikatinstallation</string>
   <string name="cert_is_added">%s ist installiert</string>
   <string name="cert_missing_error">Installation nicht möglich, weil die Zertifikatdatei nicht gefunden wurde</string>
-  <string name="cert_not_saved">Zertifikat ist nicht installiert.</string>
+  <string name="cert_not_saved">Zertifikat ist nicht installiert</string>
   <string name="cert_read_error">Installation nicht möglich, weil die Zertifikatdatei nicht gelesen werden konnte</string>
   <string name="cert_too_large_error">Installation nicht möglich, weil das Zertifikat zu groß ist</string>
   <string name="certificate_capabilities_warning">Hinweis: Der Zertifikatsaussteller kann den gesamten Datenverkehr zum und vom Gerät überwachen.</string>
-  <string name="credential_info">Das Paket enthält Folgendes:</string>
+  <string name="credential_info">Paket enthält Folgendes:</string>
   <string name="credential_name">Zertifikatname:</string>
   <string name="credential_password">Geben Sie das Passwort zum Extrahieren der Zertifikate ein</string>
   <string name="credential_usage_label">Verwendung der Anmeldedaten:</string>
   <string name="done_label">FERTIG</string>
   <string name="extracting_pkcs12">Zertifikate werden extrahiert…</string>
-  <string name="install_done">Die Anmeldedaten für %1$s wurden zu den gespeicherten WLANs hinzugefügt</string>
+  <string name="install_done">Anmeldedaten für %1$s wurden zu den gespeicherten WLANs hinzugefügt</string>
   <string name="install_done_title">Anmeldedaten installiert</string>
   <string name="invalid_cert">Zertifikat ist ungültig</string>
   <string name="n_cacrts">%d CA-Zertifikate</string>
@@ -35,8 +37,9 @@
   <string name="pkcs12_file_password_dialog_title">Zertifikate aus %s extrahieren</string>
   <string name="pkcs12_password_dialog_title">Zertifikat extrahieren</string>
   <string name="sdcard_not_present">Ext. Speicher ist nicht vorhanden</string>
-  <string name="storage_error">Konnte das Zertifikat nicht speichern. OK, um es erneut zu versuchen.</string>
-  <string name="unable_to_save_cert">Zertifikat konnte nicht gespeichert werden. Speicher für die Anmeldeinformationen wurde nicht aktiviert oder falsch initialisiert.</string>
+  <string name="storage_error">Zertifikat wurde nicht gespeichert. OK, um es erneut zu versuchen.</string>
+  <string name="unable_to_save_cert">Zertifikat wurde nicht gespeichert. Speicher für die Anmeldeinformationen wurde nicht aktiviert oder falsch initialisiert.</string>
+  <string name="userkey_type">Algorithmus:</string>
   <string name="wifi_cancel_label">Abbrechen</string>
   <string name="wifi_config_text">
     "Name: %1$s
