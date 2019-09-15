@@ -161,10 +161,10 @@
   <string name="checkhint">Anderes Telefon überprüfen</string>
   <string name="clearCallLogConfirmation">Alle Anruflisten werden gelöscht</string>
   <string name="clearCallLogConfirmation_title">Alle Anruflisten löschen?</string>
-  <string name="clearCallLogProgress_title">Anrufliste wird gelöscht…</string>
+  <string name="clearCallLogProgress_title">Anrufliste löschen…</string>
   <string name="clearFrequentsConfirmation">Wenn Sie die Liste der häufig kontaktierten Personen in den Kontakten und auf dem Telefon löschen, müssen Ihre E-Mail-Apps Ihre bevorzugten Adressen von Grund auf neu erlernen</string>
   <string name="clearFrequentsConfirmation_title">Häufig kontaktierte Personen löschen?</string>
-  <string name="clearFrequentsProgress_title">Liste der häufig kontaktierten Personen wird gelöscht…</string>
+  <string name="clearFrequentsProgress_title">Liste der häufig kontaktierten Personen löschen…</string>
   <string name="clear_copy_number_description">Kopierte Nummer löschen</string>
   <string name="clear_default">Standard löschen</string>
   <string name="clear_digits">Telefonnummer löschen</string>
@@ -190,7 +190,7 @@
   <string name="confirm_delete_selected_all_call_logs">Anruflisten löschen?</string>
   <string name="confirm_delete_sim_entry_miui">%d Kontakte von der SIM-Karte löschen?</string>
   <string name="confirm_delete_sim_entry_miui_title">SIM-Karte löschen</string>
-  <string name="confirm_export_message">Ihre Kontaktliste wird in die Datei \"%s\" exportiert</string>
+  <string name="confirm_export_message">Ihre Kontaktliste in die Datei \"%s\" exportieren</string>
   <string name="confirm_export_title">Kontakte exportieren?</string>
   <string name="connections">Verbindungen</string>
   <string name="contactDetailAbout">Über</string>
@@ -244,7 +244,7 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="contact_edit_title_insert">Speichern unter %s</string>
   <string name="contact_edit_title_readonly">Kontakt schreibgeschützt</string>
   <string name="contact_editor_prompt_multiple_accounts">Kontakt speichern unter</string>
-  <string name="contact_editor_prompt_one_account">Neuer Kontakt wird mit %1$s synchronisiert</string>
+  <string name="contact_editor_prompt_one_account">Neuen Kontakt mit %1$s synchronisieren</string>
   <string name="contact_editor_prompt_zero_accounts">Im Telefon speichern oder ein neues Konto anlegen</string>
   <string name="contact_import_methods_dialog_title">Importmethode auswählen</string>
   <string name="contact_is_deleted">Dieser Kontakt wurde gelöscht</string>
@@ -285,7 +285,7 @@ Kontaktkarten sind ausgeschaltet."</string>
   <string name="date_time_set">Speichern</string>
   <string name="date_year_toggle">Jahr angeben</string>
   <string name="default_ringtone">Standardklingelton</string>
-  <string name="deleteConfirmation">Dieser Kontakt wird gelöscht</string>
+  <string name="deleteConfirmation">Diesen Kontakt löschen</string>
   <string name="deleteConfirmationDetail">\"%s\" löschen?</string>
   <string name="deleteConfirmation_title">Diesen Kontakt löschen?</string>
   <string name="delete_call_log_message">Anrufliste löschen?</string>
@@ -457,8 +457,8 @@ Guthabeninformationen werden einmal täglich aktualisiert, um die Anzahl der Abf
   <string name="export_to_sim">Auf SIM-Karte exportieren</string>
   <string name="export_to_sim1">Auf SIM-Karte 1 exportieren</string>
   <string name="export_to_sim2">Auf SIM-Karte 2 exportieren</string>
-  <string name="export_to_sim_prepare_title">Wird vorbereitet…</string>
-  <string name="export_to_sim_title">Exportiere…</string>
+  <string name="export_to_sim_prepare_title">Vorbereiten…</string>
+  <string name="export_to_sim_title">Exportieren…</string>
   <string name="export_vcard_description">"vCard in USB-Speicher exportieren"</string>
   <string name="exporting_contact_failed_message">"Kontaktdaten wurden nicht exportiert.
 Grund: \"%s\""</string>
@@ -582,12 +582,12 @@ Grund: \"%s\""</string>
   <string name="list_filter_customize">Anpassen</string>
   <string name="list_filter_phones">Alle Kontakte mit Telefonnummern</string>
   <string name="list_filter_single">Kontakt</string>
-  <string name="loading_accounts">Wird geladen…</string>
-  <string name="loading_group_members">Lade Gruppenmitglieder…</string>
-  <string name="loading_groups">Lade Gruppen…</string>
-  <string name="loading_recent">Lade neue Kontakte…</string>
+  <string name="loading_accounts">Einen Moment…</string>
+  <string name="loading_group_members">Einen Moment…</string>
+  <string name="loading_groups">Einen Moment…</string>
+  <string name="loading_recent">Einen Moment…</string>
   <string name="local_invisible_directory">Sonstige</string>
-  <string name="local_profile_title">Mein lokales Profil</string>
+  <string name="local_profile_title">Mein Profil</string>
   <string name="local_search_label">Alle Kontakte</string>
   <string name="locale_change_in_progress">Kontaktliste wird an die geänderte Sprache angepasst</string>
   <string name="login_ok">Anmelden</string>
@@ -670,7 +670,7 @@ Grund: \"%s\""</string>
   <string name="miprofile_contact_added">Hinzugefügt</string>
   <string name="miprofile_contact_header">Kontakte mit Kontaktkarten</string>
   <string name="miprofile_contact_meaasge">Lokale Kontakte</string>
-  <string name="miprofile_contact_verifying">Wird überprüft</string>
+  <string name="miprofile_contact_verifying">Überprüfen</string>
   <string name="miprofile_edit_title">Profil bearbeiten</string>
   <string name="miprofile_error_accept_self">Sie können Ihre eigene Kontaktkarte nicht austauschen</string>
   <string name="miprofile_error_no_miaccount">Bei Ihrem Mi Konto anmelden</string>
@@ -1023,9 +1023,9 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
     "</string>
   <string name="returnCall">Rückruf</string>
   <string name="ringLabelsGroup">Klingelton</string>
-  <string name="save_photo_progress">Bild wird gespeichert…</string>
-  <string name="savingContact">Kontakt wird gespeichert…</string>
-  <string name="savingDisplayGroups">Anzeigeoptionen werden gespeichert…</string>
+  <string name="save_photo_progress">Bild speichern…</string>
+  <string name="savingContact">Kontakt speichern…</string>
+  <string name="savingDisplayGroups">Anzeigeoptionen speichern…</string>
   <string name="scan">Gerät durchsuchen</string>
   <string name="scan_business_card">Visitenkarte scannen</string>
   <string name="scan_bussiness_card_merge_tip">Widersprüchliche Daten wurden ersetzt</string>
@@ -1161,7 +1161,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
   <string name="sms_work_mobile">SMS an Telefon (geschäftlich)</string>
   <string name="sms_work_pager">SMS an Pager (geschäftlich)</string>
   <string name="social_widget_label">Kontakt</string>
-  <string name="social_widget_loading">Wird geladen…</string>
+  <string name="social_widget_loading">Laden…</string>
   <string name="solar_calendar">Gregorianischer Kalender</string>
   <string name="special_code_security_exception">Vorgang abgelehnt: Keine Standardverbindung</string>
   <string name="splitConfirmation">Kontakt wird in mehrere Kontakte aufgeteilt</string>
@@ -1200,7 +1200,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
   <string name="toast_for_failed_saving_nickname">Speichern des Spitznamens fehlgeschlagen</string>
   <string name="toast_for_saving_nickname">Spitzname gespeichert</string>
   <string name="toast_join_with_empty_contact">Namen für den Kontakt eingeben, bevor Sie ihn mit einem anderen Kontakt zusammenführen</string>
-  <string name="toast_making_personal_copy">Persönliche Kopie wird erstellt…</string>
+  <string name="toast_making_personal_copy">Persönliche Kopie erstellen…</string>
   <string name="toast_start_intent_failed">Keine App zum Ausführen gefunden</string>
   <string name="toast_text_copied">Text kopiert</string>
   <string name="today">Heute</string>
@@ -1221,7 +1221,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
   <string name="unknown_details_add_to_contact">Existierend</string>
   <string name="unknown_details_new_contact">Neu</string>
   <string name="update_sim_contact_photo_toast">Kann für SIM-Kontakte keine Profilfotos einfügen</string>
-  <string name="upgrade_in_progress">Kontaktliste wird aktualisiert</string>
+  <string name="upgrade_in_progress">Kontaktliste wird gerade aktualisiert</string>
   <string name="upgrade_out_of_memory">Ihre Kontakte werden momentan aktualisiert. Für den Aktualisierungsvorgang sind ca. %s MB interner Speicher erforderlich. Wählen Sie eine der folgenden Optionen:</string>
   <string name="upgrade_out_of_memory_retry">Aktualisierung wiederholen</string>
   <string name="upgrade_out_of_memory_uninstall">Deinstallieren Sie einige Apps</string>
@@ -1243,7 +1243,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
   <string name="view_updates_from_group">Updates anzeigen</string>
   <string name="voicemail">Mailbox</string>
   <string name="voicemail_buffering">Pufferung…</string>
-  <string name="voicemail_fetching_content">Sprachnachricht wird abgerufen…</string>
+  <string name="voicemail_fetching_content">Sprachnachricht abrufen…</string>
   <string name="voicemail_fetching_timout">Abrufen der Sprachnachricht nicht möglich</string>
   <string name="voicemail_playback_error">Abhören der Mailbox nicht möglich</string>
   <string name="voicemail_speed_faster">Hohe Geschwindigkeit</string>
@@ -1281,7 +1281,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
   <string name="yellowpage_navigation_search_result_service_error">Dienst nicht verfügbar</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Unbekannter Fehler</string>
   <string name="yellowpage_navigation_search_select_city">Bitte Stadt auswählen</string>
-  <string name="yellowpage_navigation_send_to_desktop_downloading">Wird geladen…</string>
+  <string name="yellowpage_navigation_send_to_desktop_downloading">Herunterladen…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Keine Netzwerkverbindung</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Auf dem Startbildschirm hinzugefügt</string>
   <string name="yellowpage_search_the_yellowpage">Gelbe Seiten durchsuchen</string>
