@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Active">Aktiv</string>
+  <string name="PassWordGuard">Zweitprofilpasswort</string>
+  <string name="PrivacyContactDes1">"Kontakte werden privat.
+Nachrichten erscheinen nur im Zweitprofil."</string>
+  <string name="PrivacyContactDes2">Wenn Sie private Nachrichten im Hauptprofil verwendet haben, wird diese Funktion automatisch im Zweitprofil aktiviert</string>
   <string name="about_ent_mode">Über den Enterprise-Modus</string>
   <string name="activate_ent_mode">Enterprise-Modus aktivieren</string>
   <string name="add_finger_print">Fingerabdruck hinzufügen</string>
@@ -9,15 +13,15 @@
   <string name="air_space_deleted">Arbeitsbereich erfolgreich gelöscht</string>
   <string name="air_space_exit">Arbeitsbereich verlassen</string>
   <string name="air_space_setting">Einstellungen Arbeitsbereich</string>
-  <string name="airspace_users_full">Konnte nicht mehr Speicher schaffen</string>
+  <string name="airspace_users_full">Mehr Speicherplatz schaffen nicht möglich</string>
   <string name="appData">Installierte Apps</string>
   <string name="app_name">Sicherheitskernkomponenten</string>
   <string name="back">Zurück</string>
   <string name="bind_device">Geräte hinzufügen</string>
   <string name="button_input_password">Passwort eingeben</string>
-  <string name="button_touch">Legen Sie Ihren Finger auf den Sensor</string>
   <string name="button_text_next_step">Nächster</string>
   <string name="button_text_next_step_timer">Nächster Schritt (%d)</string>
+  <string name="button_touch">Legen Sie Ihren Finger auf den Sensor</string>
   <string name="can_not_delete_when_calling">Profil kann während des Gesprächs nicht gelöscht werden</string>
   <string name="can_not_switch_when_calling">Während des Gesprächs kann nicht zwischen den Profilen gewechselt werden</string>
   <string name="can_not_switch_when_green_kid_active">Umschalten auf Zweitprofil wird durch Kindersicherung eingeschränkt</string>
@@ -46,7 +50,7 @@
   <string name="confirmDelete">Löschen</string>
   <string name="confirmSecondSpacePassword">Zweitprofilpasswort bestätigen</string>
   <string name="confirm_airspace_password">Passwort %s bestätigen</string>
-  <string name="confirm_close_password_desc">Sie können das zweite Profil auf dem Sperrbildschirm nicht mehr betreten, nachdem Sie das Passwort deaktiviert haben. Trotzdem ausschalten?</string>
+  <string name="confirm_close_password_desc">Sie können das Zweitprofil auf dem Sperrbildschirm nicht mehr verwenden, nachdem Sie das Passwort deaktiviert haben. Trotzdem ausschalten?</string>
   <string name="confirm_close_password_title">Passwort ausschalten</string>
   <string name="confirm_main_space_password">Hauptprofilpasswort bestätigen</string>
   <string name="confirm_restore">Nicht anzeigen</string>
@@ -100,24 +104,24 @@
   <string name="encrypt_space_delete_dialog_title">Achtung!</string>
   <string name="encrypt_space_delete_notification_message">Löschen Sie Ihr Zweitprofil und erstellen Sie einen neues, um Ihr Gerät erfolgreich zu aktualisieren.</string>
   <string name="encrypt_space_delete_notification_title">Zweitprofil</string>
-  <string name="enter_air_space">Zum Arbeitsbereich gehen</string>
-  <string name="entrance_reopen_toast_msg">Anzeige der Zweitprofilverknüpfung wegen unterschiedlicher Passworttypen</string>
   <string name="ent_activating">Aktivieren…</string>
   <string name="ent_activation">Aktivieren</string>
   <string name="ent_activation_hint">Geben Sie Ihren Firmencode zusammen mit dem Lizenzcode ein, um den Enterprise-Modus zu aktivieren. Danach werden benutzerdefinierte Unternehmensdienste aktiviert.</string>
+  <string name="enter_air_space">Zum Arbeitsbereich gehen</string>
+  <string name="entrance_reopen_toast_msg">Anzeige der Zweitprofilverknüpfung wegen unterschiedlicher Passworttypen</string>
   <string name="ent_activation_hint_whit_licence">"Aktivieren Sie den Enterprise-Modus, um benutzerdefinierte Unternehmensdienste zu aktivieren.
 Stellen Sie sicher, dass der Name Ihres Unternehmens korrekt ist. Lesen und akzeptieren Sie die entsprechenden Datenschutzerklärung, bevor Sie diese aktivieren."</string>
   <string name="ent_agency_code">Unternehmenscode</string>
   <string name="ent_agency_code_hint">Unternehmenscode eingeben</string>
-  <string name="ent_agency_code_invalid">Der eingegebene Unternehmenscode ist ungültig.</string>
+  <string name="ent_agency_code_invalid">Eingegebener Unternehmenscode ist ungültig.</string>
   <string name="ent_agree_privacy_policy">Ich habe die Datenschutzerklärung gelesen und bin damit einverstanden.</string>
   <string name="ent_app_verified">Sieht so aus, als ob auf Ihrem Gerät Unternehmen-Apps installiert sind. Enterprise-Modus aktivieren?</string>
   <string name="ent_confirm_dialog_content">Nach dem Aktivieren des Enterprise-Modus können Sie nicht mehr in den aktuellen Zustand Ihres Systems zurückkehren. Alle Ihre Daten werden jedoch weiterhin auf diesem Gerät gespeichert. Sie müssen Ihr Gerät neu starten, um den Enterprise-Modus zu aktivieren. Jetzt aktivieren?</string>
-  <string name="ent_disallow_running">Das Ausführen der App ist verboten</string>
-  <string name="ent_error_dialog_content">Mindestens einer der von Ihnen eingegebenen Codes war falsch. Überprüfen Sie Ihre Unternehmen- und Lizenzcodes und geben Sie sie erneut ein.</string>
+  <string name="ent_disallow_running">Ausführen der App ist verboten</string>
   <string name="ent_download_install_dialog_content">Sie müssen Unternehmen-Apps installieren, um den Enterprise-Modus zu aktivieren. Jetzt installieren?</string>
   <string name="ent_download_install_dialog_title">Unternehmen-Apps herunterladen</string>
   <string name="ent_downloading_message">Herunterladen %d%%</string>
+  <string name="ent_error_dialog_content">Mindestens einer der von Ihnen eingegebenen Codes war falsch. Überprüfen Sie Ihre Unternehmen- und Lizenzcodes und geben Sie sie erneut ein.</string>
   <string name="ent_get_code_hint">Unternehmen- und Lizenzcodes erhalten Sie von Ihrem Vorgesetzten</string>
   <string name="ent_install_dialog_content">Apps installieren und Gerät neu starten?</string>
   <string name="ent_installing">Installieren…</string>
@@ -125,9 +129,9 @@ Stellen Sie sicher, dass der Name Ihres Unternehmens korrekt ist. Lesen und akze
   <string name="ent_invalid_qr">QR-Code ist ungültig.</string>
   <string name="ent_licence_code">Lizenzcode</string>
   <string name="ent_licence_code_hint">Lizenzcode eingeben</string>
-  <string name="ent_licence_code_invalid">Der eingegebene Lizenzcode ist ungültig.</string>
+  <string name="ent_licence_code_invalid">Eingegebener Lizenzcode ist ungültig.</string>
   <string name="ent_mode_activated">Enterprise-Modus ist aktiviert</string>
-  <string name="ent_network_error">Konnte keine Verbindung zum Netzwerk herstellen. Überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es mit Gain.</string>
+  <string name="ent_network_error">Netzwerkverbindung nicht möglich. Überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es mit Gain.</string>
   <string name="ent_next_step">Weiter</string>
   <string name="ent_privacy_policy_notice">* Personenbezogene Daten werden in diesem Modus gemäß den von Ihrem Unternehmen festgelegten Richtlinien erhoben. Xiaomi sammelt in diesem Modus keine personenbezogenen Daten.</string>
   <string name="enterprise_mode">Enterprise-Modus</string>
@@ -145,13 +149,13 @@ Stellen Sie sicher, dass der Name Ihres Unternehmens korrekt ist. Lesen und akze
   <string name="err_volume_not_enough">Nicht genug freier Speicherplatz</string>
   <string name="exit_private_space">Wechseln</string>
   <string name="experience_more_features">Hinzufügen eines Geräts zur Anzeige aller Funktionen</string>
-  <string name="facebook_send">An Facebook senden</string>
   <string name="facebook_login">Bei Facebook anmelden</string>
+  <string name="facebook_send">An Facebook senden</string>
   <string name="finger_print_num">Fingerabdruck %d</string>
   <string name="finger_print_of_use">Fingerabdruck verwenden</string>
   <string name="fingerprint_number_upper_limit">Zu viele falsche Entsperrversuche</string>
   <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht gelöscht werden</string>
-  <string name="function_not_support">Au desem Telefon nicht unterstützt</string>
+  <string name="function_not_support">Auf diesem Telefon nicht unterstützt</string>
   <string name="gms_message">App muss auf Google Play Dienste zugreifen</string>
   <string name="gms_open_button">Öffnen</string>
   <string name="gms_title">Duale App für Google-Dienste</string>
@@ -163,14 +167,14 @@ Stellen Sie sicher, dass der Name Ihres Unternehmens korrekt ist. Lesen und akze
   <string name="green_guard_des1">Geräte zur Fernverwaltung hinzufügen</string>
   <string name="green_guard_des2">Wissen, wo genau sich alle verwalteten Geräte befinden</string>
   <string name="green_guard_des3">Kontrolle der installierten Apps und Einschränkung der Nutzung</string>
+  <string name="green_guard_title2">Standortinformationen anzeigen</string>
+  <string name="green_guard_title3">Apps verwalten</string>
   <string name="greenguard_child_des">Nutzen Sie unsere App, um in Verbindung zu bleiben</string>
   <string name="greenguard_child_des_title">Ich brauche Hilfe von meinen Freunden und meiner Familie</string>
   <string name="greenguard_functional_description">Geräte aus der Ferne verwalten, Standortinformationen anzeigen,
 installierte Apps kontrollieren und die Nutzung einschränken</string>
   <string name="greenguard_parent_des">Unsere App herunterladen und Geräte anderer Personen hinzufügen</string>
   <string name="greenguard_parent_des_title">Ich muss meinen Freunden und meiner Familie helfen</string>
-  <string name="green_guard_title2">Standortinformationen anzeigen</string>
-  <string name="green_guard_title3">Apps verwalten</string>
   <string name="guide_contact_sub_title_desc">"Kontakte, die im Zweitprofil angelegt werden, sind privat.
 Nachrichten erhalten Sie nur im Zweitprofil."</string>
   <string name="guide_contact_suc_sub_title_desc">Nur private Kontakte und Nachrichten werden im Zweitprofil angezeigt</string>
@@ -200,7 +204,7 @@ Sie können Sie auch separat installieren."</string>
   <string name="input_space_password">Festlegen</string>
   <string name="instagram_send">An Instagram senden</string>
   <string name="install">Installieren</string>
-  <string name="install_error">Konnte nicht installiert werden. Noch mal versuchen.</string>
+  <string name="install_error">Installieren nicht möglich. Noch mal versuchen.</string>
   <string name="invalid_qr_code">Ungültiger QR-Code</string>
   <string name="keywords_sspace">Second space;Two spaces;2 spaces;Zweitprofil;Apps verstecken;Dateien verstecken;Fotos verstecken;Sperrbildschirm;Sperrbildschirmpasswort;Privatsphäre;Privatmodus;Privater Modus;Privat;Gastmodus;Gastsitzung;Gastzugang;Gastkonto;Gast</string>
   <string name="keywords_xspace">Dual App;Dual apps;Double app;Double Apps;Geklonte App;Apps klonen;App klonen;Appklons;Zwei Konten;2 Konten</string>
@@ -214,7 +218,7 @@ Sie können Sie auch separat installieren."</string>
   <string name="lock_screen_open_second_space">Zweitprofil vom Sperrbildschirm aus erreichen</string>
   <string name="master_clear_apply_step_1">Widerruf der Berechtigung erfordert einen Werksreset auf Ihrem Gerät. Alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, werden dauerhaft gelöscht. Sichern Sie alle wichtigen Elemente auf Ihrem Computer, bevor Sie die Berechtigung widerrufen.</string>
   <string name="master_clear_apply_step_2">Stellen Sie sicher, dass alle wichtigen Elemente auf Ihrem Computer gesichert sind. Nach dem Tippen auf \"OK\" wird ein Werksreset auf Ihrem Gerät durchgeführt, wobei alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, dauerhaft gelöscht werden.</string>
-  <string name="master_clear_apply_title">Attention</string>
+  <string name="master_clear_apply_title">Vorsicht</string>
   <string name="master_clear_not_available">Werksreset ist von Ihrem Unternehmen eingeschränkt.</string>
   <string name="menu_item_about_privacy_title">Datenschutzerklärung</string>
   <string name="messageData">Nachrichten</string>
@@ -229,7 +233,7 @@ Sie können Sie auch separat installieren."</string>
   <string name="need_reset_passwd">Passwort zurücksetzen, um zum Arbeitsbereich zu wechseln</string>
   <string name="need_set_second_space_desc">Legen Sie ein Passwort für das Hauptprofil fest, bevor Sie einen Fingerabdruck für das Zweitprofil festlegen</string>
   <string name="need_set_second_space_pwd_first">Legen Sie zuerst ein Passwort für das Hauptprofil fest</string>
-  <string name="net_work_notice">Die Kindersicherung muss sich mit dem Internet verbinden und Zugang zu Ihrem Standort erhalten, um normal arbeiten zu können. Diese Berechtigungen sind erforderlich, um die Informationen über den Akkustand, die Schrittzahl und Ihren Standort an die kontrollierten Geräte zu senden. Erlauben?</string>
+  <string name="net_work_notice">Die Kindersicherung muss sich mit dem Internet verbinden und Zugang zu Ihrem Standort erhalten, um normal arbeiten zu können. Diese Berechtigungen sind erforderlich, um Informationen über den Akkustand, die Schrittzahl und Ihren Standort an die kontrollierten Geräte zu senden. Erlauben?</string>
   <string name="newSecondSpace">Zweitprofil aktivieren</string>
   <string name="next_setp">Weiter</string>
   <string name="no_match_repate_scanner">Keine Übereinstimmung gefunden, noch mal scannen</string>
@@ -251,16 +255,12 @@ Sie können Sie auch separat installieren."</string>
   <string name="optimize_now">Optimieren</string>
   <string name="other">Anderer</string>
   <string name="otherSettings">Andere Einstellungen</string>
-  <string name="PassWordGuard">Zweitprofilpasswort</string>
-  <string name="passWordGuardSummary">Erreichen Sie das Zweitprofil vom Sperrbildschirm mittels Passwort</string>
+  <string name="passWordGuardSummary">Greifen Sie auf das Zweitprofil vom Sperrbildschirm mittels Passwort zu</string>
   <string name="passwordProtect">Passwort</string>
   <string name="path_sspace">Einstellungen/Zeitprofil</string>
   <string name="path_xspace">Einstellungen/Dual Apps</string>
   <string name="please_diff_finger_print">"Verwenden Sie unterschiedliche Fingerabdrücke für Haupt- und Zweitprofil.
 Andernfalls können Sie das Zweitprofil nicht vom Sperrbildschirm aus erreichen."</string>
-  <string name="PrivacyContactDes1">"Kontakte werden privat.
-Nachrichten erscheinen nur im Zweitprofil."</string>
-  <string name="PrivacyContactDes2">Wenn Sie private Nachrichten im Hauptprofil verwendet haben, wird diese Funktion automatisch im Zweitprofil aktiviert</string>
   <string name="privacyContactsSummary">Private Elemente im Zweitprofil anzeigen</string>
   <string name="privacyContactsTitle">Private Kontakte und Nachrichten</string>
   <string name="privacy_password_fingerprint_dialog_message">Platzieren Sie Ihren Finger auf dem Sensor</string>
@@ -271,18 +271,18 @@ Nachrichten erscheinen nur im Zweitprofil."</string>
   <string name="public_app">Beide Profile</string>
   <string name="qq_login">Bei QQ anmelden</string>
   <string name="qq_send">An QQ Freunde/Geräte senden</string>
-  <string name="remove_button">Löschen</string>
-  <string name="remove_button_time">Löschen (%ds)</string>
   <string name="radio_button_icon_switch_title">Verknüpfung verwenden</string>
   <string name="radio_button_password_switch_title">Passwort verwenden</string>
   <string name="removeSuccess">Erfolgreich gelöscht</string>
-  <string name="remove_second_space_msg">Wenn Sie das Zweitprofil löschen, gehen da alle App-Daten verloren. Zweitprofil jetzt löschen?</string>
+  <string name="remove_button">Löschen</string>
+  <string name="remove_button_time">Löschen (%ds)</string>
+  <string name="remove_second_space_msg">Wenn Sie das Zweitprofil löschen, gehen dort alle App-Daten verloren. Zweitprofil jetzt löschen?</string>
   <string name="remove_user_click_message">"*Wenn Sie keine wichtigen Daten im Zweitprofil mehr haben, %s"</string>
   <string name="remove_user_click_message_action">können Sie dieses löschen und Ihr Gerät neu starten.</string>
   <string name="removingSpace">Wird gelöscht</string>
   <string name="repeat_scanner_fingerprint">Noch mal hinzufügen</string>
   <string name="reset_passwd_success">Passwort wurde erfolgreich zurückgesetzt</string>
-  <string name="reset_password_dialog_message">Sie verwenden verschiedene Passworttypen für das Hauptprofil und Zweitprofil. Das Zweitprofil sollte den gleichen Kennworttyp wie das Hauptprofil verwenden, damit die Verknüpfung ausgeblendet wird.</string>
+  <string name="reset_password_dialog_message">Sie verwenden verschiedene Passworttypen für das Haupt- und Zweitprofil. Das Zweitprofil sollte den gleichen Kennworttyp wie das Hauptprofil verwenden, damit die Verknüpfung ausgeblendet wird.</string>
   <string name="reset_password_dialog_positve_btn_title">Änderung</string>
   <string name="reset_password_dialog_title">Zweitprofil kann nicht versteckt werden</string>
   <string name="resource_sspace">Zweitprofil</string>
@@ -292,9 +292,9 @@ Nachrichten erscheinen nur im Zweitprofil."</string>
   <string name="restore_show_toast">Persönliche Nachrichten werden nicht angezeigt</string>
   <string name="retain_src_file">Dateien behalten</string>
   <string name="retain_src_photo">Fotos behalten</string>
-  <string name="same_qr_code_create_space">Erstelle einen weiteren</string>
+  <string name="same_qr_code_create_space">Ein weiteres erstellen</string>
   <string name="same_qr_code_des">Arbeitsbereich existiert bereits. Sie können über die Benachrichtigungsleiste dorthin gelangen. Jetzt dorthin wechseln?</string>
-  <string name="same_qr_code_enter_space">Gehe zu Arbeitsbereich</string>
+  <string name="same_qr_code_enter_space">Zum Arbeitsbereich gehen</string>
   <string name="same_qr_code_title">%s existieren bereits</string>
   <string name="scanner_fingerprint">Fingerabdruck scannen…</string>
   <string name="scanner_fingerprint_enter_second">"Zweitprofilfingerabdruck scannen,
@@ -307,8 +307,8 @@ um das Zweitprofil vom Sperrbildschirm aus zu erreichen"</string>
   <string name="sdcardfs_dialog_message">"In diesem Update wird ein neues Dateisystem eingeführt. Alte Daten können damit inkompatibel sein. Um dieses Problem zu beheben,
 folgen Sie den Schritten zur Installation eines Updates. Ihr Gerät wird während dieses Updates zweimal neu gestartet."</string>
   <string name="sdcardfs_dialog_title">Wichtiges Update</string>
-  <string name="sdcradfs_dialog_in_owner_message">"In diesem Update wird ein neues Dateisystem eingeführt. Alte Daten können damit inkompatibel sein. Zum Aktualisieren verschieben Sie Elemente aus dem zweiten Profil,
-starten Sie Ihr Gerät neu und erstellen Sie das zweite Profil erneut. Wenn Sie nicht aktualisieren, funktionieren Dual Apps möglicherweise auch nicht richtig."</string>
+  <string name="sdcradfs_dialog_in_owner_message">"In diesem Update wird ein neues Dateisystem eingeführt. Alte Daten können damit inkompatibel sein. Zum Aktualisieren verschieben Sie Elemente aus dem Zweitprofil,
+starten Sie Ihr Gerät neu und erstellen Sie das Zweitprofil erneut. Wenn Sie nicht aktualisieren, funktionieren Dual Apps möglicherweise auch nicht richtig."</string>
   <string name="sdcradfs_dialog_in_owner_title">Zweitprofil</string>
   <string name="sdcradfs_dialog_in_sec_message">"Zum Aktualisieren sollten Sie Ihr Zweitprofil löschen und es dann neu erstellen. Verschieben Sie die Daten vom Zweitprofil ins Hauptprofil. Starten Sie dann Ihr Gerät neu, um das Update abzuschließen.
 Wenn Sie das Update nicht durchführen, funktionieren Dual Apps möglicherweise nicht richtig."</string>
@@ -316,7 +316,9 @@ Wenn Sie das Update nicht durchführen, funktionieren Dual Apps möglicherweise 
   <string name="search_result_text">Keine App gefunden</string>
   <string name="secondSpace">Zweitprofil</string>
   <string name="second_owner_finger_print">Zweitprofilfingerabdruck</string>
+  <string name="second_space_desktop_tips_dialog_message">Nach diesem Update werden die Symbole für das Verschieben von Daten und die Verwaltung des Zweitprofils nicht mehr auf dem Startbildschirm angezeigt. Auf die entsprechenden Funktionen können Sie in den Einstellungen zugreifen.</string>
   <string name="second_space_desktop_tips_dialog_positive_text">Fertig</string>
+  <string name="second_space_desktop_tips_dialog_title">Wichtiges Update</string>
   <string name="second_space_finger_printf_desc">Fingerabdruck speziell für das Zweitprofil hinzufügen</string>
   <string name="second_space_finger_printf_title">Zweitprofilfingerabdruck</string>
   <string name="select_existed_fingerprint">Fingerabdruck wählen</string>
@@ -371,8 +373,7 @@ Wenn Sie das Update nicht durchführen, funktionieren Dual Apps möglicherweise 
   <string name="show_private_msg">Persönliche Nachrichten anzeigen</string>
   <string name="show_private_msg_summary">Persönliche Nachrichten im Zweitprofil anzeigen</string>
   <string name="skip">Überspringen</string>
-  <string name="second_space_desktop_tips_dialog_message">Nach diesem Update werden die Symbole für das Verschieben von Daten und die Verwaltung des Zweitprofils nicht mehr auf dem Startbildschirm angezeigt. Auf die entsprechenden Funktionen können Sie in den Einstellungen zugreifen.</string>
-  <string name="second_space_desktop_tips_dialog_title">Wichtiges Update</string>
+  <string name="spaceSetting">Einstellungen</string>
   <string name="space_create_guide_desc_1">Apps und Fotos sicher speichern</string>
   <string name="space_create_guide_desc_2">Komplett einsatzbereites separates Profil</string>
   <string name="space_create_guide_desc_3">Zweitprofil wirkt sich nicht auf andere Elemente auf dem Gerät aus</string>
@@ -385,14 +386,13 @@ Wenn Sie das Update nicht durchführen, funktionieren Dual Apps möglicherweise 
   <string name="space_des_default">Isolierter Bereich mit verschlüsselten Daten</string>
   <string name="space_finger_sub_text">Fingerabdruck festlegen, um schneller zwischen den Profilen zu wechseln</string>
   <string name="space_name_default">Arbeitsbereich</string>
-  <string name="spaceSetting">Einstellungen</string>
   <string name="startSet">Festlegen</string>
   <string name="startTransfer">Verschieben</string>
   <string name="start_input_finger_print">Fingerabdruck hinzufügen</string>
   <string name="start_new_fingerprint">Neuen Fingerabdruck hinzufügen</string>
-  <string name="start_new_fingerprint_tips">"Zweitprofilfingerabdruck verwenden, um das Zweitprofil vom Sperrbildschirm aus zu erreichen"</string>
+  <string name="start_new_fingerprint_tips">Zweitprofilfingerabdruck verwenden, um das Zweitprofil vom Sperrbildschirm aus zu erreichen</string>
   <string name="start_setting_guide_desc_title">Einige Dinge müssen eingerichtet werden</string>
-  <string name="stop_xspace_alert_content">Alle Dual-Apps zusammen mit ihren Konten und App-Daten löschen? Ihr Gerät wird neu gestartet, um diese Änderung zu übernehmen.</string>
+  <string name="stop_xspace_alert_content">Alle Dual-Apps zusammen mit Ihren Konten und App-Daten löschen? Ihr Gerät wird neu gestartet, um diese Änderung zu übernehmen.</string>
   <string name="stop_xspace_alert_title">Dual App-Konten löschen</string>
   <string name="summary_switch_apps_settings">Apps für das Zweitprofil auswählen</string>
   <string name="support_desc">Sicherheitsdienste zur Verfügung gestellt von Spaces Mobile</string>
@@ -423,6 +423,7 @@ Wenn Sie das Update nicht durchführen, funktionieren Dual Apps möglicherweise 
   <string name="switching_files">Dateien werden verschoben…</string>
   <string name="switching_photos">Fotos werden verschoben…</string>
   <string name="temporary_no_set">Nicht jetzt</string>
+  <string name="this_function_can_not_use_in_second_space">Diese Funktion kann nur im Hauptprofil verwendet werden</string>
   <string name="title_choose_app_status">App-Typ wählen</string>
   <string name="title_switch_file">Diese Dateien löschen?</string>
   <string name="title_switch_photo">Diese Fotos löschen?</string>
@@ -434,7 +435,6 @@ Wenn Sie das Update nicht durchführen, funktionieren Dual Apps möglicherweise 
   <string name="transferFile">Andere Dateien manuell auswählen</string>
   <string name="transferImage">Fotos aus dem Zweitprofil werden in das Album \"Zweitprofil\" im Hauptprofil verschoben</string>
   <string name="transferMessage">Nachrichten werden vom Zweitprofil ins Hauptprofil verschoben</string>
-  <string name="this_function_can_not_use_in_second_space">Diese Funktion kann nur im Hauptprofil verwendet werden</string>
   <string name="tryNow">Jetzt ausprobieren</string>
   <string name="undo_activated_dialog_message">Widerruf der Berechtigung wird den Enterprise-Modus deaktivieren und ein Werksreset auf Ihrem Gerät durchführen. Alle damit verbundenen Funktionen sind nicht mehr verfügbar. Außerdem wird Xiaomi keine für den Enterprise-Modus erforderlichen Informationen mehr sammeln (IMEI, Geräte-ID, Systemversion, Region etc.). Wir möchten Sie daran erinnern, dass Xiaomi die gesammelten Daten nicht für den Enterprise-Modus verwaltet. Wir werden unser Bestes tun, alle beteiligten Parteien zu informieren, empfehlen Ihnen aber, sich an die Vorgesetzten Ihres Unternehmens zu wenden, um diesen Widerruf zu genehmigen. Berechtigung widerrufen und einen Werksreset durchführen?</string>
   <string name="undo_activated_dialog_ok">Widerrufen</string>
@@ -455,18 +455,18 @@ Wenn Sie das Update nicht durchführen, funktionieren Dual Apps möglicherweise 
   <string name="xspace_creating">Dual App erstellen…</string>
   <string name="xspace_default_app_summary">Standard-Apps auswählen, die für die Anmeldung, die Freigabe und den Sprachassistenten verwendet werden.</string>
   <string name="xspace_default_app_title">Personalisierung</string>
-  <string name="xspace_default_guide_notification_content">Tippen Sie zum Ändern</string>
+  <string name="xspace_default_guide_notification_content">Tippen zum Ändern</string>
   <string name="xspace_default_guide_notification_main_title">Standard-App verwenden</string>
   <string name="xspace_default_guide_notification_xspace_title">Dual App verwenden</string>
   <string name="xspace_default_setting_dialog_title">Standard</string>
   <string name="xspace_default_setting_label">Personalisierung</string>
   <string name="xspace_description">Klonen Sie Apps, um diese separat zu nutzen. Dual Apps erhalten ein spezielles Symbol.</string>
-  <string name="xspace_guide_des">Verwende 2 Konten ohne umzuschalten</string>
+  <string name="xspace_guide_des">2 Konten verwenden ohne umzuschalten</string>
   <string name="xspace_guide_title">Dual App erstellen</string>
   <string name="xspace_header">Dual Apps</string>
   <string name="xspace_install_completed">Verknüpfung auf dem Startbildschirm hinzugefügt</string>
   <string name="xspace_install_completed_global">Symbol zur Übersicht hinzugefügt</string>
-  <string name="xspace_install_failed">Konnte nicht erstellt werden</string>
+  <string name="xspace_install_failed">Erstellen nicht möglich</string>
   <string name="xspace_installing">Installieren…</string>
   <string name="xspace_introduce">Empfohlen</string>
   <string name="xspace_label">Dual Apps</string>
