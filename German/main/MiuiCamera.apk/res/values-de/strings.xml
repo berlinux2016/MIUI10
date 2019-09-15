@@ -305,7 +305,7 @@ und treten Sie für einen Moment aus dem Blickfeld raus."</string>
   <string name="error_app_unsupported">Nicht unterstützte Videoauflösung für diesen Encodertyp</string>
   <string name="error_app_unsupported_hfr_720p">720P kann bis zu 90FPS unterstützen.</string>
   <string name="error_app_unsupported_hfr_codec">Nur H264-Videocodierung wird nicht unterstützt, wenn HFR an ist</string>
-  <string name="error_app_unsupported_raw_wavelet">Wavelet Denoise wird bei der Aufnahme von RAW-Bildern nicht wirksam</string>
+  <string name="error_app_unsupported_raw_wavelet">Bildrauschen reduzieren wird bei der Aufnahme von RAW-Bildern nicht wirksam</string>
   <string name="error_action_not_found">Diese App wurde auf Ihrem Gerät nicht gefunden.</string>
   <string name="error_barcode_lookup">Die Barcodeabfrage ist fehlgeschlagen.</string>
   <string name="error_barcode_no_results">Keine passenden Produkte gefunden.</string>
@@ -605,7 +605,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="object_track_enable_toast">Um ein Motiv auszuwählen, tippen Sie gleichzeitig zwei diagonale Punkte um seine Grenze</string>
   <string name="orientation">Drehung</string>
   <string name="pano_dialog_panorama_failed">Panorama kann nicht gespeichert werden</string>
-  <string name="pano_dialog_prepare_preview">Wird vorbereitet…</string>
+  <string name="pano_dialog_prepare_preview">Vorbereiten…</string>
   <string name="pano_dialog_waiting_previous">Warten auf Abschluss des vorherigen Panoramas</string>
   <string name="pano_how_to_use_prompt">"Berühren Sie den Auslöser, um ein Panoramafoto aufzunehmen"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Richten Sie den Pfeil an der Referenzlinie aus</string>
@@ -613,7 +613,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="pano_how_to_use_prompt_slow_down">Bitte langsamer</string>
   <string name="pano_how_to_use_prompt_start">Klicken Sie auf den Pfeil, um die Aufnahmerichtung zu wechseln und gleichmäßig das Mobiltelefon zu drehen</string>
   <string name="pano_how_to_use_prompt_to_move">Langsam anfangen zu schwenken</string>
-  <string name="pano_review_saving_indication_str">Wird gespeichert</string>
+  <string name="pano_review_saving_indication_str">Speichern…</string>
   <string name="pano_too_fast_prompt">Zu schnell</string>
   <string name="path">Pfad</string>
   <string name="path_settings">Einstellungen/System-Apps/Kamera</string>
@@ -647,7 +647,7 @@ Für ein besseres Bild, Kameraobjektiv bitte reinigen."</string>
   <string name="portrait_mode_lowlight_hint">Mehr Licht erforderlich</string>
   <string name="portrait_mode_too_close_hint">Motiv weiter weg platzieren</string>
   <string name="portrait_mode_too_far_hint">Motiv innerhalb von 2 Metern platzieren</string>
-  <string name="portrait_mode_use_hint">"Im Porträtmodus wird Hintergrund unscharf dargestellt, sodass die Personen in den Vordergrund rücken"</string>
+  <string name="portrait_mode_use_hint">Im Porträtmodus wird der Hintergrund unscharf dargestellt, sodass die Personen in den Vordergrund rücken</string>
   <string name="portrait_mode_use_hint_for_bokeh">Versuchen Sie es mit Hochformat.
 Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="portrait_with_facebeauty_hint">Verschönern ist jetzt im Hochformat verfügbar</string>
@@ -800,7 +800,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_camera_portrait_mode_entry_on">Porträtmodus an</string>
   <string name="pref_camera_portrait_mode_title">Porträt</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Verschönern im Porträtmodus</string>
-  <string name="pref_camera_proximity_lock_summary">Sperren Sie Gesten, wenn das Telefon in eine Tasche gesteckt wird</string>
+  <string name="pref_camera_proximity_lock_summary">Berührungsgesten sperren, wenn es in die Tasche gesteckt wird</string>
   <string name="pref_camera_proximity_lock_title">Taschenmodus</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Schnellschuss-Animation einschalten</string>
   <string name="pref_camera_quick_shot_enable_title">Schnellschuss einschalten</string>
@@ -968,7 +968,7 @@ Halten Sie das Motiv scharf, während Sie den Hintergrund verwischen.</string>
   <string name="pref_watermark_style_entry_off">Aus</string>
   <string name="pref_watermark_style_entry_timestamp">Zeitstempel</string>
   <string name="pref_watermark_style_title">Zeitstempelart</string>
-  <string name="preparing_sd">Interner Speicher wird vorbereitet…</string>
+  <string name="preparing_sd">Speicher überprüfen…</string>
   <string name="qr_code_details">QR-Code Details:</string>
   <string name="qr_of_unsupported_text">Inhalt: \"%s\"</string>
   <string name="qr_of_unsupported_type">QR-Code</string>
@@ -1153,7 +1153,7 @@ Der Ultraweitwinkelmodus hilft, wenn Sie sich nicht weiter von der Szene entfern
   <string name="wifi_connect_fail">Zeitüberschreitung beim Verbinden</string>
   <string name="wifi_connect_not_found">WLAN-Verbindung fehlgeschlagen</string>
   <string name="wifi_connect_success">Verbunden</string>
-  <string name="wifi_connecting">Wird verbunden…</string>
+  <string name="wifi_connecting">Verbinden…</string>
   <string name="wifi_details">WLAN Details:</string>
   <string name="wifi_open_fail">WLAN-Aktivierung fehlgeschlagen</string>
   <string name="wifi_pwd">Passwort:</string>
