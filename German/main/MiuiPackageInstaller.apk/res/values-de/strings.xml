@@ -34,7 +34,7 @@
   <string name="ads_install_button">Installieren</string>
   <string name="ads_install_button_installed">Öffnen</string>
   <string name="ads_install_button_isDownloading">Herunterladen</string>
-  <string name="ads_install_button_isInstalling">Wird installiert</string>
+  <string name="ads_install_button_isInstalling">Installieren</string>
   <string name="ads_install_button_waiting">Warten</string>
   <string name="ads_summary">Benutzer, die %1$s installieren, mögen auch</string>
   <string name="alarm_template">Zeit: %1$s</string>
@@ -91,7 +91,7 @@ Sind Sie sicher, dass Sie ihm erlauben wollen, selbstständig zu beginnen?</stri
   <string name="bluetooth_disable_absolute_volume">Absolute Lautstärke deaktivieren</string>
   <string name="bluetooth_disable_absolute_volume_summary">Deaktiviert die Bluetooth-Lautstärkefunktion bei Problemen mit der Lautstärke von entfernten Geräten, z. B. bei unzulässig lauter Lautstärke oder mangelnder Kontrolle</string>
   <string name="bluetooth_disconnected">Getrennt</string>
-  <string name="bluetooth_disconnecting">Wird getrennt…</string>
+  <string name="bluetooth_disconnecting">Trennen…</string>
   <string name="bluetooth_dun_profile_summary_connected">Mit DFÜ-Server verbunden</string>
   <string name="bluetooth_dun_profile_summary_use_for">Für DFÜ-Verbindung verwenden</string>
   <string name="bluetooth_headset_profile_summary_connected">Verbunden mit Sprachtelefonie</string>
@@ -109,7 +109,7 @@ Sind Sie sicher, dass Sie ihm erlauben wollen, selbstständig zu beginnen?</stri
   <string name="bluetooth_opp_profile_summary_connected">Mit Datentransferserver verbunden</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Nicht mit Datentransferserver verbunden</string>
   <string name="bluetooth_opp_profile_summary_use_for">Für Datenübertragung verwenden</string>
-  <string name="bluetooth_pairing">Wird verbunden…</string>
+  <string name="bluetooth_pairing">Verbinden…</string>
   <string name="bluetooth_pairing_accept">Verbinden</string>
   <string name="bluetooth_pairing_accept_all_caps">VERBINDEN</string>
   <string name="bluetooth_pairing_decline">Abbrechen</string>
@@ -286,7 +286,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="install_failed_verify_failed">Paket hat die Prüfung nicht bestanden und kann daher nicht installiert werden</string>
   <string name="install_failed_verify_timeout">Zeitüberschreitung bei der Paketüberprüfung, wiederholen Sie die Installation</string>
   <string name="install_from_appstore_hint">Wir empfehlen Ihnen, die App aus dem App Store zu installieren</string>
-  <string name="installing">Wird installiert…</string>
+  <string name="installing">Installieren…</string>
   <string name="keep_screen_on">Wach bleiben</string>
   <string name="keep_screen_on_summary">Bildschirm wird während des Ladens nicht abgeschaltet</string>
   <string name="launch">Öffnen</string>
@@ -386,8 +386,8 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="miui_install_source_unkown">Unbekannt</string>
   <string name="miui_install_success">Installation erfolgreich</string>
   <string name="miui_install_version">Version: %1$s | Größe: %2$s</string>
-  <string name="miui_installing">Wird installiert…</string>
-  <string name="miui_installing2">Installiere…</string>
+  <string name="miui_installing">Installieren…</string>
+  <string name="miui_installing2">Installieren…</string>
   <string name="miui_message_staging_0">"Richte App aus   "</string>
   <string name="miui_message_staging_1">"Richte App aus.  "</string>
   <string name="miui_message_staging_2">"Richte App aus.. "</string>
@@ -405,14 +405,14 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="miui_solution_clean">Datenmüll bereinigen</string>
   <string name="miui_solution_msg">Lösung</string>
   <string name="miui_uninstall_success">Deinstallation erfolgreich</string>
-  <string name="miui_uninstalling">Wird deinstalliert…</string>
+  <string name="miui_uninstalling">Deinstallieren…</string>
   <string name="miui_virus_deleted">Viren erfolgreich gelöscht</string>
   <string name="miui_virus_install"><u>Trotzdem installieren</u></string>
-  <string name="miui_virus_scanning">Wird gescannt…</string>
-  <string name="miui_virus_scanning_0">"Scanne   "</string>
-  <string name="miui_virus_scanning_1">"Scanne.  "</string>
-  <string name="miui_virus_scanning_2">"Scanne.. "</string>
-  <string name="miui_virus_scanning_3">Scanne...</string>
+  <string name="miui_virus_scanning">Scannen…</string>
+  <string name="miui_virus_scanning_0">"Scannen   "</string>
+  <string name="miui_virus_scanning_1">"Scannen.  "</string>
+  <string name="miui_virus_scanning_2">"Scannen.. "</string>
+  <string name="miui_virus_scanning_3">Scannen...</string>
   <string name="miui_virus_title">Hohes Risiko</string>
   <string name="mobile_data_always_on">Mobile Daten immer aktiv</string>
   <string name="mobile_data_always_on_summary">Halten Sie mobile Daten immer aktiv, auch wenn WiFi aktiv ist (für schnelle Netzwerkumschaltung)</string>
@@ -493,7 +493,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="privacyPerms">Datenschutz</string>
   <string name="privacy_relative">Datenschutz</string>
   <string name="process_kernel_label">Android OS</string>
-  <string name="reboot_time">Wird für das Neustarten vorbereitet… (%1$s)</string>
+  <string name="reboot_time">Für Neustarten vorbereiten… (%1$s)</string>
   <string name="remaining_length_format">%1$s übrig</string>
   <string name="retail_demo_reset_message">Passwort eingeben, um im Demomodus auf Werkseinstellungen zurückzusetzen</string>
   <string name="retail_demo_reset_next">Weiter</string>
@@ -603,7 +603,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="uninstall_update_text">Möchten Sie diese App durch die Werksversion ersetzen?</string>
   <string name="uninstall_update_text_multiuser">Diese App durch die Werksversion ersetzen? Alle Daten werden gelöscht. Dies betrifft alle Benutzer dieses Telefons, auch die mit Arbeitsprofilen.</string>
   <string name="uninstall_update_title">Update deinstallieren</string>
-  <string name="uninstalling">Wird deinstalliert…</string>
+  <string name="uninstalling">Deinstallieren…</string>
   <string name="unknown">Unbekannt</string>
   <string name="unknown_apps_admin_dlg_text">Ihr Administrator erlaubt die Installation von Apps aus unbekannten Quellen nicht</string>
   <string name="unknown_apps_dlg_text">Aus Sicherheitsgründen können Sie auf Ihrem Telefon keine Apps von unbekannten Quellen installieren</string>

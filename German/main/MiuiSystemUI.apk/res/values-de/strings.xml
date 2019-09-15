@@ -508,7 +508,7 @@ Diese Funktion wird gerade entwickelt und arbeitet eventuell nicht richtig.
 Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="convert_to_file_encryption">In Dateiverschlüsselung konvertieren</string>
   <string name="convert_to_file_encryption_done">Dateiverschlüsselung bereits erledigt</string>
-  <string name="convert_to_file_encryption_enabled">Wird konvertiert…</string>
+  <string name="convert_to_file_encryption_enabled">Konvertieren…</string>
   <string name="custom_lock_wallpaper_enter">Eintreten</string>
   <string name="daltonizer_mode_deuteranomaly">Rot-Grün-Sehschwäche</string>
   <string name="daltonizer_mode_disabled">Deaktiviert</string>
@@ -1000,7 +1000,7 @@ Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" ist jetzt deaktiviert. PUK-Code eingeben zum Fortfahren. Kontaktieren Sie den Netzbetreiber für Details.</string>
   <string name="kg_sim_pin_instructions">SIM-PIN eingeben</string>
   <string name="kg_sim_pin_instructions_multi">SIM PIN für \"%1$s\" eingeben</string>
-  <string name="kg_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt…</string>
+  <string name="kg_sim_unlock_progress_dialog_message">SIM-Karte entsperren…</string>
   <string name="kg_too_many_failed_attempts_countdown">Versuchen Sie es in %1$d Sekunden erneut.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">Sie haben Ihr Passwort %d-mal falsch eingegeben. Versuchen Sie es in %d Sekunden erneut.</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">Sie haben Ihr Entsperrmuster %d-mal falsch gezeichnet. Versuchen Sie es in %d Sekunden erneut.</string>
@@ -1063,16 +1063,16 @@ d. MMMM"</string>
 Screenshot zu erstellen"</string>
   <string name="long_screenshot_not_support_msg">Aktuelle App unterstützt keinen gescrollten Screenshot</string>
   <string name="long_screenshot_out_of_memory_error">Bild ist zu groß</string>
-  <string name="long_screenshot_processing">Wird verarbeitet…</string>
+  <string name="long_screenshot_processing">Verarbeiten…</string>
   <string name="long_screenshot_stop">Fertig</string>
-  <string name="long_screenshot_top_msg">Screenshot wird erstellt…</string>
+  <string name="long_screenshot_top_msg">Screenshot erstellen…</string>
   <string name="long_screenshot_top_msg_manual">Screenshot zuschneiden und zum Abschließen die Schaltfläche antippen</string>
   <string name="low_temperature_button_ok">Verstanden</string>
   <string name="low_temperature_warning_message">Temperatur ist zu niedrig. Ihr Telefon kann jederzeit heruntergefahren werden. Sichern Sie alle wichtigen Änderungen.</string>
   <string name="low_temperature_warning_title">Warnung bei niedriger Temperatur</string>
   <string name="managed_profile_foreground_toast">Sie verwenden Ihr Arbeitsprofil</string>
   <string name="managed_user_title">Alle funktionierende Apps</string>
-  <string name="mdb_entering">Wird gestartet…</string>
+  <string name="mdb_entering">Starten…</string>
   <string name="mdb_restore_cancel">Abbrechen</string>
   <string name="mdb_restore_info1">Daten Ihres Telefons wiederherstellen</string>
   <string name="mdb_restore_info2">USB-Verbindung nicht trennen</string>
@@ -1427,7 +1427,7 @@ Screenshot zu erstellen"</string>
   <string name="recent_menu_item_lock">Sperren</string>
   <string name="recent_menu_item_multi_window">Teilen</string>
   <string name="recent_menu_item_unlock">Entsperren</string>
-  <string name="recent_task_cleaning">App wird gelöscht…</string>
+  <string name="recent_task_cleaning">Apps löschen…</string>
   <string name="recent_task_lock_text">Sperren</string>
   <string name="recent_task_unlock_text">Entsperren</string>
   <string name="recents_accessibility_split_screen_left">Bildschirm nach links teilen</string>
@@ -1510,8 +1510,8 @@ Screenshot zu erstellen"</string>
   <string name="screenshot_saved_text">Zum Anzeigen antippen</string>
   <string name="screenshot_saved_title">Screenshot erstellt</string>
   <string name="screenshot_saving_text">Screenshot wurde gespeichert</string>
-  <string name="screenshot_saving_ticker">Screenshot wird gespeichert…</string>
-  <string name="screenshot_saving_title">Screenshot wird gespeichert…</string>
+  <string name="screenshot_saving_ticker">Screenshot speichern…</string>
+  <string name="screenshot_saving_title">Screenshot speichern…</string>
   <string name="screenshot_send">Senden</string>
   <string name="screenshot_toalbum_txt">Vorschau</string>
   <string name="search_hint">Suche nach Webseiten, Apps, Kontakten und Videos</string>
@@ -1604,9 +1604,9 @@ Screenshot zu erstellen"</string>
   <string name="status_bar_recent_remove_item_title">Aus Liste entfernen</string>
   <string name="status_bar_recording_back">Zum Recorder zurückkehren</string>
   <string name="status_bar_recording_pause">Recorder pausiert</string>
-  <string name="status_bar_safepay_risk">Zahlungsumfeld ist riskant!</string>
-  <string name="status_bar_safepay_safe">Zahlungsumfeld ist sicher</string>
-  <string name="status_bar_safepay_scanning">Zahlungsumfeld wird gescannt…</string>
+  <string name="status_bar_safepay_risk">Zahlungsumgebung ist riskant!</string>
+  <string name="status_bar_safepay_safe">Zahlungsumgebung ist sicher</string>
+  <string name="status_bar_safepay_scanning">Zahlungsumgebung überprüfen…</string>
   <string name="status_bar_safepay_unknown">Zahlungssicherheit ist unbekannt</string>
   <string name="status_bar_settings_airplane">Flugmodus</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
@@ -1769,7 +1769,7 @@ Screenshot zu erstellen"</string>
   <string name="unlock_failed_face_not_found">Erkennung</string>
   <string name="unlock_label">Entsperren</string>
   <string name="unlock_string">Entsperren</string>
-  <string name="unlocking_sim_card">SIM-Karte wird entsperrt</string>
+  <string name="unlocking_sim_card">SIM-Karte entsperren</string>
   <string name="unlockscreen_low_battery">Ladegerät anschließen</string>
   <string name="unlockscreen_recharge_completed">Akku geladen</string>
   <string name="unlockscreen_recharging_message">Wird geladen %d%%</string>
