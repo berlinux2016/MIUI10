@@ -680,7 +680,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="backup_update">Aktualisieren</string>
   <string name="badge_title">App-Symbolplaketten anzeigen</string>
   <string name="band_mode_failed">Fehlgeschlagen</string>
-  <string name="band_mode_loading">Frequenzliste wird geladen…</string>
+  <string name="band_mode_loading">Frequenzliste laden…</string>
   <string name="band_mode_set">Festlegen</string>
   <string name="band_mode_succeeded">Erfolgreich</string>
   <string name="band_mode_title">GSM-/UMTS-Band festlegen</string>
@@ -779,7 +779,7 @@ Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</strin
   <string name="battery_saver_desc_turn_on_auto_never">Nie automatisch einschalten</string>
   <string name="battery_saver_desc_turn_on_auto_pct">Automatisch bei %1$s Akku einschalten</string>
   <string name="battery_saver_master_switch_title">Stromsparen verwenden</string>
-  <string name="battery_saver_off_scheduled_summary">Wird eingeschaltet bei %1$s</string>
+  <string name="battery_saver_off_scheduled_summary">Wird bei %1$s eingeschaltet</string>
   <string name="battery_saver_off_summary">Aus</string>
   <string name="battery_saver_on_summary">An</string>
   <string name="battery_saver_seekbar_title">Bei %1$s</string>
@@ -1123,7 +1123,7 @@ Abtastrate"</string>
   <string name="bluetooth_tethering_off_subtext_config">Internetverbindung von %1$d freigeben</string>
   <string name="bluetooth_tethering_overflow_error">Tethering nur für maximal %1$d Geräte möglich</string>
   <string name="bluetooth_tethering_subtext">Telefon-Internetverbindung via Bluetooth teilen</string>
-  <string name="bluetooth_turning_off">Bluetooth wird deaktiviert…</string>
+  <string name="bluetooth_turning_off">Bluetooth deaktivieren…</string>
   <string name="bluetooth_turning_on">Bluetooth aktivieren?</string>
   <string name="bluetooth_unlock_add_device">Gerät hinzufügen</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">Altes Gerät wird durch neues ersetzt</string>
@@ -1377,7 +1377,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden."</string>
   <string name="check_importance_dialog_cancel">Abbrechen</string>
   <string name="check_update">Updates suchen</string>
   <string name="checkbox_notification_same_as_incoming_call">Lautstärke von eingehenden Anrufen für Benachrichtigungen verwenden</string>
-  <string name="checking_decryption">Wird überprüft</string>
+  <string name="checking_decryption">Überprüfen…</string>
   <string name="checking_find_device_status">Gerätelokalisierungsstatus prüfen…</string>
   <string name="checking_for_updates">Auf Updates prüfen…</string>
   <string name="child_mode_settings">Kindersicherung</string>
@@ -1508,7 +1508,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="condition_device_muted_summary">Anrufe und Benachrichtigungen werden stummgeschaltet</string>
   <string name="condition_device_muted_title">Telefon ist stummgeschaltet</string>
   <string name="condition_device_vibrate_summary">Anrufe und Benachrichtigungen lassen das Telefon vibrieren</string>
-  <string name="condition_device_vibrate_title">Telefon wird vibrieren</string>
+  <string name="condition_device_vibrate_title">Telefon ist auf Vibration eingestellt</string>
   <string name="condition_expand_hide">Verbergen</string>
   <string name="condition_expand_show">Anzeigen</string>
   <string name="condition_hotspot_summary">Mobiler WLAN-Hotspot %1$s ist aktiv, WLAN des Gerätes ist ausgeschaltet.</string>
@@ -1590,7 +1590,7 @@ Diese Funktion wird gerade entwickelt und arbeitet eventuell nicht richtig.
 Drücken Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="convert_to_file_encryption">In Dateiverschlüsselung konvertieren</string>
   <string name="convert_to_file_encryption_done">Dateiverschlüsselung bereits erledigt</string>
-  <string name="convert_to_file_encryption_enabled">Wird konvertiert…</string>
+  <string name="convert_to_file_encryption_enabled">Konvertieren…</string>
   <string name="cool_color">Kühl</string>
   <string name="copyright_title">Urheberrecht</string>
   <string name="customize_function">Verfügbare Muster</string>
@@ -2455,7 +2455,7 @@ Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens
   <string name="fingerprint_for_keyguard_disabled">Fingerabdruck wurde in den Sicherheitseinstellungen deaktiviert</string>
   <string name="fingerprint_gesture_screen_title">Fingerabdruck wischen</string>
   <string name="fingerprint_identify_input_password_msg">Passwort eingeben</string>
-  <string name="fingerprint_identify_msg">Fingerabdruck wird gescannt…</string>
+  <string name="fingerprint_identify_msg">Fingerabdruck lesen…</string>
   <string name="fingerprint_identify_try_again_msg">Scan fehlgeschlagen, versuchen Sie es erneut</string>
   <string name="fingerprint_intro_error_max">Sie haben die maximale Anzahl an Fingerabdrücken hinzugefügt</string>
   <string name="fingerprint_intro_error_unknown">Mehr Fingerabdrücke nicht möglich</string>
@@ -2593,7 +2593,7 @@ Die böse Hexe des Westens sendet Wölfe, Krähen, Bienen, ihre Winkie-Soldaten 
   <string name="free_wifi_connected">Verbunden mit kostenlosem WLAN</string>
   <string name="free_wifi_connected_count">%1$d Benutzer verbunden</string>
   <string name="free_wifi_connected_time">Dauer:%1$s</string>
-  <string name="free_wifi_connecting">Wird verbunden…</string>
+  <string name="free_wifi_connecting">Verbinden…</string>
   <string name="free_wifi_login_again">Erneut anmelden</string>
   <string name="free_wifi_manage_summary">Tippen, um %1$s anzuzeigen</string>
   <string name="free_wifi_speed_title">Langsame Verbindung?</string>
@@ -2623,8 +2623,8 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="gadget_picker_title">Gadget auswählen</string>
   <string name="gadget_state_off">Aus</string>
   <string name="gadget_state_on">An</string>
-  <string name="gadget_state_turning_off">Wird ausgeschaltet…</string>
-  <string name="gadget_state_turning_on">Wird eingeschaltet…</string>
+  <string name="gadget_state_turning_off">Ausschalten…</string>
+  <string name="gadget_state_turning_on">Einschalten…</string>
   <string name="gadget_sync">Synchronisieren</string>
   <string name="gadget_title">Stromsteuerung</string>
   <string name="gadget_toggle_bluetooth">Bluetooth-Einstellung aktualisieren</string>
@@ -3147,7 +3147,7 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="location_gps">GPS-Satelliten</string>
   <string name="location_high_battery_use">Hoher Akkuverbrauch</string>
   <string name="location_low_battery_use">Niedriger Akkuverbrauch</string>
-  <string name="location_menu_scanning">Wird gescannt</string>
+  <string name="location_menu_scanning">Scannen</string>
   <string name="location_mode_battery_saving_description">WLAN und Mobilfunknetz zur Standortbestimmung verwenden</string>
   <string name="location_mode_battery_saving_title">Strom sparen</string>
   <string name="location_mode_high_accuracy_description">GPS, WLAN und Mobilfunknetz zur Standortbestimmung verwenden</string>
@@ -3166,9 +3166,9 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
   <string name="location_recent_location_requests_see_all">Alles anzeigen</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Standortgenauigkeit verbessern, indem System-Apps jederzeit nach Bluetoothgeräten suchen</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth-Suche</string>
-  <string name="location_scanning_screen_title">Wird gesucht</string>
+  <string name="location_scanning_screen_title">Suchen</string>
   <string name="location_scanning_wifi_always_scanning_description">Standortgenauigkeit verbessern, indem Apps jederzeit nach WLAN suchen</string>
-  <string name="location_scanning_wifi_always_scanning_title">WLAN wird gesucht</string>
+  <string name="location_scanning_wifi_always_scanning_title">WLAN suchen</string>
   <string name="location_settings_master_switch_title">Standort verwenden</string>
   <string name="location_settings_title">Standortzugriff</string>
   <string name="location_sources_heading">Standortquellen</string>
@@ -4431,7 +4431,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="preview_pager_content_description">Vorschau</string>
   <string name="print_blocked_state_title_template">Drucker hat %1$s blockiert</string>
   <string name="print_cancel">Abbrechen</string>
-  <string name="print_cancelling_state_title_template">%1$s wird abgebrochen…</string>
+  <string name="print_cancelling_state_title_template">%1$s abbrechen…</string>
   <string name="print_configuring_state_title_template">%1$s konfigurieren</string>
   <string name="print_failed_state_title_template">Druckerfehler %1$s</string>
   <string name="print_feature_state_off">Aus</string>
@@ -4445,7 +4445,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="print_no_services_installed">Keine Dienste installiert</string>
   <string name="print_print_job">Druckauftrag</string>
   <string name="print_print_jobs">Druckaufträge</string>
-  <string name="print_printing_state_title_template">%1$s wird gedruckt</string>
+  <string name="print_printing_state_title_template">%1$s drucken</string>
   <string name="print_restart">Neu starten</string>
   <string name="print_search_box_hidden_utterance">Suchfeld ausgeblendet</string>
   <string name="print_search_box_shown_utterance">Suchfeld angezeigt</string>
@@ -4606,9 +4606,9 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="quick_reply_title">Schnellantworten</string>
   <string name="quick_settings_label">Schalter</string>
   <string name="radioInfo_data_connected">Verbunden</string>
-  <string name="radioInfo_data_connecting">Verbindung wird hergestellt</string>
+  <string name="radioInfo_data_connecting">Verbinden</string>
   <string name="radioInfo_data_disconnected">Nicht verbunden</string>
-  <string name="radioInfo_data_suspended">Angehalten</string>
+  <string name="radioInfo_data_suspended">Aufgehoben</string>
   <string name="radioInfo_menu_getPDP">PDP-Liste abrufen</string>
   <string name="radioInfo_menu_viewADN">SIM-Adressbuch anzeigen</string>
   <string name="radioInfo_menu_viewFDN">Zugelassene Rufnummern anzeigen</string>
@@ -4673,7 +4673,7 @@ UT Interface: %5$s"</string>
   <string name="rank_title">Rangliste</string>
   <string name="rarely_running">Läuft selten (%s)</string>
   <string name="read_encrypt_fail">Verschlüsselte Sicherung konnte nicht gelesen werden</string>
-  <string name="reading_data">Info wird gelesen…</string>
+  <string name="reading_data">Info lesen…</string>
   <string name="really_remove_account_message">Durch das Entfernen dieses Kontos werden alle Nachrichten, Kontakte und andere Daten vom Telefon gelöscht!</string>
   <string name="really_remove_account_title">Konto entfernen?</string>
   <string name="rebootiing_for_updates">Neustarten…</string>
@@ -4689,7 +4689,7 @@ UT Interface: %5$s"</string>
   <string name="recommend_item_4">Kopfhörer</string>
   <string name="recommend_item_title">Empfehlungen</string>
   <string name="recommend_tip">Benötigen Sie weitere Einstellungen?</string>
-  <string name="recompute_size">Größe wird neuberechnet…</string>
+  <string name="recompute_size">Größe neurechnen…</string>
   <string name="reconnect">Erneut verbinden</string>
   <string name="refresh">Aktualisieren</string>
   <string name="regulatory_information">Regulierungsinformationen</string>
@@ -5006,8 +5006,8 @@ Mindestens %s freigeben."</string>
   <string name="sd_card_storage">USB-Speicher/SD-Karte</string>
   <string name="sd_eject">Gemeinsamen Speicher trennen</string>
   <string name="sd_eject_summary">Internen USB-Speicher/SD-Karte auswerfen</string>
-  <string name="sd_ejecting_summary">Wird getrennt…</string>
-  <string name="sd_ejecting_title">Trennen…</string>
+  <string name="sd_ejecting_summary">Auswerfen läuft…</string>
+  <string name="sd_ejecting_title">Auswerfen</string>
   <string name="sd_format">USB-Speicher/SD-Karte löschen</string>
   <string name="sd_format_summary">Löscht alle Daten, z. B. Musik und Fotos, vom internen USB-Speicher/von SD-Karte</string>
   <string name="sd_insert_summary">USB-Speicher/SD-Karte bereitstellen</string>
@@ -5254,8 +5254,8 @@ Mindestens %s freigeben."</string>
   <string name="security_encryption_close_dialog_title">Zurück zur standardmäßigen Passwortsicherung</string>
   <string name="security_encryption_diaglog_continue">Weiter</string>
   <string name="security_encryption_is_used">An</string>
-  <string name="security_encryption_progress_dialog_close">Wird entschlüsselt…</string>
-  <string name="security_encryption_progress_dialog_open">Wird verschlüsselt…</string>
+  <string name="security_encryption_progress_dialog_close">Entschlüsseln…</string>
+  <string name="security_encryption_progress_dialog_open">Verschlüsseln…</string>
   <string name="security_encryption_rejected_via_home_manager">Diese Funktion wird in der Demo-Version nicht unterstützt</string>
   <string name="security_encryption_title">Gerät mit Sperrbildschirmpasswort verschlüsseln</string>
   <string name="security_input">Sichere Tastatur</string>
@@ -5372,7 +5372,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="set_jeejen_prompt_message">Jeejen wird als Standard-Launcher festgelegt. Sie können den Standard-Launcher unter Einstellungen &gt; Systemeinstellungen &gt; Startbildschirm &amp; Schnellzugriff &gt; Standard-Launcher ändern.</string>
   <string name="set_jeejen_prompt_title">Änderungen bestätigen</string>
   <string name="setting_privacy_password">Datenschutzpasswort festlegen</string>
-  <string name="settings_ad_loading">Wird geladen…</string>
+  <string name="settings_ad_loading">Laden…</string>
   <string name="settings_ad_loading_unavailable">Beim Laden ist ein Problem aufgetreten</string>
   <string name="settings_backup">Einstellungen sichern</string>
   <string name="settings_backup_summary">Meine Einstellungen sichern</string>
@@ -5380,7 +5380,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="settings_forbidden_message">Diese Einstellung ist eingeschränkt</string>
   <string name="settings_label">Einstellungen</string>
   <string name="settings_label_launcher">Einstellungen</string>
-  <string name="settings_license_activity_loading">Wird geladen…</string>
+  <string name="settings_license_activity_loading">Laden…</string>
   <string name="settings_license_activity_title">Open Source Lizenzen</string>
   <string name="settings_license_activity_unavailable">Beim Laden der Lizenzen ist ein Problem aufgetreten</string>
   <string name="settings_manual_activity_title">Handbuch</string>
@@ -5388,7 +5388,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="settings_notify_need_backup">Sichern Sie Ihre Einstellungen in Xiaomi Cloud, um nach dem Telefonwechsel auf sie zugreifen zu können.</string>
   <string name="settings_notify_new_version">Ein Update ist verfügbar. Tippen Sie hier, um Details anzuzeigen.</string>
   <string name="settings_notify_phone_recycled">Ihre Telefonnummer wurde bereits wiederverwendet. Tippen Sie, um eine weitere Telefonnummer hinzuzufügen.</string>
-  <string name="settings_safetylegal_activity_loading">Wird geladen…</string>
+  <string name="settings_safetylegal_activity_loading">Laden…</string>
   <string name="settings_safetylegal_activity_title">Sicherheitsinformationen</string>
   <string name="settings_safetylegal_activity_unreachable">Keine Datenverbindung vorhanden. Um diese Informationen jetzt anzuzeigen, rufen Sie von einem mit dem Internet verbundenen Computer %s auf.</string>
   <string name="settings_safetylegal_title">Sicherheitsinformationen</string>
@@ -5427,7 +5427,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
   <string name="share_remote_bugreport_dialog_message_finished">Ihr IT-Administrator hat einen Fehlerbericht angefordert, um die Problembehandlung bei diesem Gerät zu unterstützen. Apps und Daten können geteilt werden.</string>
   <string name="share_remote_bugreport_dialog_title">Fehlerbericht freigeben?</string>
   <string name="share_this_wifi">WLAN-Abdeckung erweitern</string>
-  <string name="sharing_remote_bugreport_dialog_message">Dieser Bugreport wird mit Ihrem IT-Admin geteilt. Kontaktieren Sie Ihn für weitere Informationen.</string>
+  <string name="sharing_remote_bugreport_dialog_message">Dieser Fehlerbericht wird mit Ihrem IT-Admin geteilt. Kontaktieren Sie Ihn für weitere Informationen.</string>
   <string name="short_summary_font_size">Text vergrößern oder verkleinern</string>
   <string name="show_all_anrs">Alle ANRs anzeigen</string>
   <string name="show_all_anrs_summary">Dialogfeld \"App antwortet nicht\" für Hintergrund-Apps anzeigen</string>
@@ -5671,8 +5671,8 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="start_backup">Sichern</string>
   <string name="start_restore">Wiederherstellen</string>
   <string name="start_silent_mode">Lautlosmodus aktivieren</string>
-  <string name="starting_android">Android wird gestartet</string>
-  <string name="state_mounting">Zugriff auf Ihren Routerspeicher…</string>
+  <string name="starting_android">Android starten…</string>
+  <string name="state_mounting">Auf Ihren Routerspeicher zugreifen…</string>
   <string name="state_waiting">Einen Moment…</string>
   <string name="status_awaiting_tap">TAG antippen, um zu schreiben…</string>
   <string name="status_awake_time">Aktivzeit</string>
@@ -5875,7 +5875,7 @@ Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren.
 Formatieren löscht vorhandene Inhalte auf ^2. Um den Inhalt zu behalten, sichern Sie ihn auf ^3 oder einem anderen Gerät."</string>
   <string name="storage_wizard_format_confirm_v2_title">^1 formatieren?</string>
   <string name="storage_wizard_format_progress_body">Entfernen Sie ^1 nicht, während die Formatierung läuft</string>
-  <string name="storage_wizard_format_progress_title">^1 wird formatiert…</string>
+  <string name="storage_wizard_format_progress_title">^1 formatieren…</string>
   <string name="storage_wizard_init_external_summary">Zum Verschieben von Fotos und anderen Medien zwischen den Geräten</string>
   <string name="storage_wizard_init_external_title">Als tragbaren Speicher verwenden</string>
   <string name="storage_wizard_init_internal_summary">Zur Speicherung all Ihrer Daten wie Apps und Fotos nur auf diesem. Erfordert Formatierung, damit das Speichermedium nicht mit anderen Geräten verwendet werden kann.</string>
@@ -5920,7 +5920,7 @@ Entfernen Sie ^2 während des Vorgangs nicht."</string>
   <string name="storage_wizard_move_progress_body">"Entfernen Sie ^1 während des Vorgangs nicht.
 ^2 wird auf diesem Gerät nicht verfügbar sein, bis der Vorgang abgeschlossen ist."</string>
   <string name="storage_wizard_move_progress_cancel">Verschieben abbrechen</string>
-  <string name="storage_wizard_move_progress_title">^1 wird verschoben…</string>
+  <string name="storage_wizard_move_progress_title">^1 verschieben…</string>
   <string name="storage_wizard_move_unlock">Um Daten zu verschieben, müssen Sie Benutzer ^1 entsperren.</string>
   <string name="storage_wizard_ready_external_body">Ihr ^1 ist bereit zur Nutzung für Fotos und andere Medien</string>
   <string name="storage_wizard_ready_internal_body">"^1 ist funktionsbereit.
@@ -6204,7 +6204,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
   <string name="trans_button_cancel">Abbrechen</string>
   <string name="trans_button_exit">Beenden</string>
   <string name="trans_button_stay">Bleiben</string>
-  <string name="trans_calculating">Wird berechnet…</string>
+  <string name="trans_calculating">Berechnen…</string>
   <string name="trans_calculating_app_sd_description">Daten auf SD-Karte</string>
   <string name="trans_calculating_app_sd_size">Datengröße wird berechnet, %s gescannt</string>
   <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
@@ -7434,7 +7434,7 @@ Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN herzustell
   <string name="wifi_setup_refresh_list">Liste aktualisieren</string>
   <string name="wifi_setup_save">Speichern</string>
   <string name="wifi_setup_skip">Überspringen</string>
-  <string name="wifi_setup_status_connecting">Verbindung wird hergestellt…</string>
+  <string name="wifi_setup_status_connecting">Verbindung herstellen…</string>
   <string name="wifi_setup_status_eap_not_supported">EAP wird nicht unterstützt</string>
   <string name="wifi_setup_status_edit_network">Netzwerkkonfiguration eingeben</string>
   <string name="wifi_setup_status_existing_network">Mit vorhandenem Netzwerk verbinden</string>
@@ -7491,7 +7491,7 @@ Drücken Sie <b>Zurück</b>, um eine Verbindung zu einem anderen WLAN herzustell
   <string name="wifi_ssid_is_empty">SSID darf nicht leer sein</string>
   <string name="wifi_ssid_length_is_max">SSID darf max. 32 Zeichen lang sein</string>
   <string name="wifi_ssid_too_long">Netzwerkname zu lang</string>
-  <string name="wifi_starting">WLAN wird eingeschaltet…</string>
+  <string name="wifi_starting">WLAN einschalten…</string>
   <string name="wifi_state_disabled">Deaktiviert</string>
   <string name="wifi_state_disabling">Deaktivieren</string>
   <string name="wifi_state_enabled">Aktiviert</string>
@@ -7589,7 +7589,7 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
   <string name="wifi_wps_onstart_pbc">Drücken Sie die WPS-Taste an Ihrem Router. Die Taste heißt \"WPS\" oder enthält dieses Symbol:</string>
   <string name="wifi_wps_onstart_pin">PIN %1$s an Ihrem WLAN-Router eingeben. Setup kann bis zu zwei Minuten dauern.</string>
   <string name="wifi_wps_overlap_error">Andere WLAN-Sitzung gefunden. Versuchen Sie es in einigen Minuten erneut.</string>
-  <string name="wifi_wps_setup_msg">WPS wird gestartet…</string>
+  <string name="wifi_wps_setup_msg">WPS starten…</string>
   <string name="wifi_wps_setup_title">Geschützte WLAN-Einrichtung</string>
   <string name="wifiap_configure_ap_text">WLAN wifiap einrichten</string>
   <string name="wifiap_configure_subtext">%1$s%2$s mobiler WLAN wifiap</string>
