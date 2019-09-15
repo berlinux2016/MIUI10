@@ -70,11 +70,11 @@
   <string name="bluetooth_connected_no_headset_no_a2dp">Mit %1$s verbunden (weder Telefon- noch Medien-Audio)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Mit %2$s verbunden (weder Telefon- noch Medien-Audio), Akku bei %1$s</string>
   <string name="bluetooth_connected_no_map">Mit %1$s verbunden (kein Nachrichtenzugriff)</string>
-  <string name="bluetooth_connecting">Verbindung wird hergestellt…</string>
+  <string name="bluetooth_connecting">Verbindung herstellen…</string>
   <string name="bluetooth_disable_absolute_volume">Maximallautstärke deaktivieren</string>
   <string name="bluetooth_disable_absolute_volume_summary">Deaktiviert die Bluetooth-Maximallautstärkefunktion, falls auf Remote-Geräten Probleme mit der Lautstärke auftreten, wie z. B. übermäßig laute Wiedergabe oder fehlende Kontrolle bei der Steuerung.</string>
   <string name="bluetooth_disconnected">Nicht verbunden</string>
-  <string name="bluetooth_disconnecting">Verbindung wird getrennt…</string>
+  <string name="bluetooth_disconnecting">Verbindung trennen…</string>
   <string name="bluetooth_dun_profile_summary_connected">Mit DFÜ-Server verbunden</string>
   <string name="bluetooth_dun_profile_summary_use_for">Für DFÜ-Verbindung verwenden</string>
   <string name="bluetooth_headset_profile_summary_connected">Verbunden mit Telefon-Audio</string>
@@ -82,9 +82,9 @@
   <string name="bluetooth_hearing_aid_profile_summary_connected">Mit Hörhilfe verbunden</string>
   <string name="bluetooth_hearing_aid_profile_summary_use_for">Für Hörhilfe verwenden</string>
   <string name="bluetooth_hearingaid_left_battery_level">Links, Akku: %1$s</string>
-  <string name="bluetooth_hearingaid_left_pairing_message">Linke Hörhilfe wird gekoppelt…</string>
+  <string name="bluetooth_hearingaid_left_pairing_message">Linke Hörhilfe koppeln…</string>
   <string name="bluetooth_hearingaid_right_battery_level">Rechts, Akku: %1$s</string>
-  <string name="bluetooth_hearingaid_right_pairing_message">Rechte Hörhilfe wird gekoppelt…</string>
+  <string name="bluetooth_hearingaid_right_pairing_message">Rechte Hörhilfe koppeln…</string>
   <string name="bluetooth_hid_profile_summary_connected">Mit einem Eingabegerät verbunden</string>
   <string name="bluetooth_hid_profile_summary_use_for">Für Eingabe verwenden</string>
   <string name="bluetooth_map_profile_summary_connected">Mit Karte verbunden</string>
@@ -92,7 +92,7 @@
   <string name="bluetooth_opp_profile_summary_connected">Mit Dateiübertragungsserver verbunden</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Nicht mit Dateiübertragungsserver verbunden</string>
   <string name="bluetooth_opp_profile_summary_use_for">Für Dateiübertragung verwenden</string>
-  <string name="bluetooth_pairing">Verbindung wird hergestellt…</string>
+  <string name="bluetooth_pairing">Verbindung herstellen…</string>
   <string name="bluetooth_pairing_accept">Koppeln</string>
   <string name="bluetooth_pairing_accept_all_caps">KOPPELN</string>
   <string name="bluetooth_pairing_decline">Abbrechen</string>
@@ -309,7 +309,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="oem_unlock_enable">OEM-Entsperrung</string>
   <string name="oem_unlock_enable_summary">Bootloader-Entsperrung zulassen</string>
   <string name="orb_search_action">Suchvorgang</string>
-  <string name="overlay_display_devices_title">Sekundäre Displays simulieren</string>
+  <string name="overlay_display_devices_title">Sekundäre Bildschirme simulieren</string>
   <string name="picture_color_mode">Farbmodus für Bilder</string>
   <string name="picture_color_mode_desc">sRGB verwenden</string>
   <string name="pointer_location">Zeigerposition</string>
@@ -325,8 +325,8 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="power_remaining_duration_only">Noch etwa %1$s</string>
   <string name="power_remaining_duration_only_enhanced">Noch etwa %1$s, basierend auf Ihrer Nutzung</string>
   <string name="power_remaining_duration_only_short">Noch %1$s</string>
-  <string name="power_remaining_duration_only_shutdown_imminent">Smartphone wird möglicherweise bald ausgeschaltet</string>
-  <string name="power_remaining_duration_shutdown_imminent">Smartphone wird möglicherweise bald ausgeschaltet (%1$s)</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">Telefon wird möglicherweise bald ausgeschaltet</string>
+  <string name="power_remaining_duration_shutdown_imminent">Telefon wird möglicherweise bald ausgeschaltet (%1$s)</string>
   <string name="power_remaining_less_than_duration">Weniger als %1$s verbleibend (%2$s)</string>
   <string name="power_remaining_less_than_duration_only">Weniger als %1$s verbleibend</string>
   <string name="power_remaining_more_than_subtext">Mehr als %1$s verbleibend (%2$s)</string>
@@ -347,7 +347,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="runningservices_settings_summary">Momentan ausgeführte Dienste anzeigen und steuern</string>
   <string name="runningservices_settings_title">Aktive Dienste</string>
   <string name="saved_network">Gespeichert von %1$s</string>
-  <string name="saving_trace">Trace wird gespeichert</string>
+  <string name="saving_trace">Trace speichern</string>
   <string name="screen_zoom_summary_custom">Benutzerdefiniert (%d)</string>
   <string name="screen_zoom_summary_default">Standard</string>
   <string name="screen_zoom_summary_extremely_large">Am größten</string>
@@ -374,7 +374,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="show_hw_screen_updates_summary">Flash-Ansicht im Fenster, wenn mit GPU dargestellt</string>
   <string name="show_non_rect_clip">Nicht rechteckige Clip-Operationen debuggen</string>
   <string name="show_notification_channel_warnings">Warnungen für Benachrichtigungskanäle einblenden</string>
-  <string name="show_notification_channel_warnings_summary">Blendet Warnungen auf dem Display ein, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
+  <string name="show_notification_channel_warnings_summary">Blendet Warnungen auf dem Bildschirm ein, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
   <string name="show_quick_settings_tile">Kachel in \"Schnelleinstellungen\" anzeigen</string>
   <string name="show_screen_updates">Oberflächenaktualisierungen</string>
   <string name="show_screen_updates_summary">Flash für gesamte Fensteroberfläche bei Aktualisierung</string>
@@ -403,7 +403,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
   <string name="time_unit_just_now">Gerade eben</string>
   <string name="title_convert_fbe">Umwandlung in dateibasierte Verschlüsselung</string>
   <string name="trace_debuggable_applications">Debug-fähige Anwendungen in Trace aufnehmen</string>
-  <string name="trace_is_being_recorded">Trace wird aufgezeichnet</string>
+  <string name="trace_is_being_recorded">Trace aufzeichnen</string>
   <string name="trace_saved">Trace wurde gespeichert</string>
   <string name="tracing_categories_unavailable">Einige Tracing-Kategorien sind nicht verfügbar:</string>
   <string name="track_frame_time">GPU-Rendering für Profil</string>

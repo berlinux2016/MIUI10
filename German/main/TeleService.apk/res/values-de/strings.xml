@@ -545,7 +545,7 @@ Abtastrate"</string>
   <string name="card_title_incoming_call">Eingehender Anruf</string>
   <string name="card_title_incoming_vt_call">Eingehender Videoanruf</string>
   <string name="card_title_multipartycall">Konferenzschaltung</string>
-  <string name="card_title_on_hold">"Wird gehalten "</string>
+  <string name="card_title_on_hold">"Halten "</string>
   <string name="card_title_outgoing_barred">Ausgehende Anrufe gesperrt</string>
   <string name="card_title_redialing">Wahlwiederholung</string>
   <string name="card_title_unconditionalCF">Sofortige Rufumleitung ist eingeschaltet</string>
@@ -1292,7 +1292,7 @@ Kontaktieren Sie Ihren Anbieter."</string>
   <string name="old_password_label">Altes Passwort (4 Ziffern)</string>
   <string name="old_pin2_label">Alte PIN2</string>
   <string name="old_pin_label">Alte PIN</string>
-  <string name="onHold">Wird gehalten</string>
+  <string name="onHold">Halten</string>
   <string name="one_retry_left">1 Versuch übrig</string>
   <string name="only_use_LTE_data">Nur LTE-Daten verwenden</string>
   <string name="only_use_LTE_data_summary">Wenn Sie den reinen 4G-Datenmodus verwenden, können Sie keine Anrufe tätigen oder SMS versenden</string>
@@ -1415,11 +1415,11 @@ Noch mal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</s
   <string name="pin_changed">SIM-PIN erfolgreich geändert</string>
   <string name="pin_failed">Eingegebene PIN ist falsch</string>
   <string name="pin_lock_warning">Ihr Telefon wird nach einem weiteren gescheiterten Versuch automatisch gesperrt</string>
-  <string name="pin_progress_change_pin">PIN wird geändert…</string>
-  <string name="pin_progress_change_pin2">PIN2 wird geändert…</string>
+  <string name="pin_progress_change_pin">PIN ändern…</string>
+  <string name="pin_progress_change_pin2">PIN2 ändern…</string>
   <string name="pin_progress_set_fdn_lock">Rufnummernbeschränkungssperre einstellen…</string>
   <string name="pin_progress_set_icc_lock">ICC-Sperre einstellen…</string>
-  <string name="pin_progress_unlock_icc">Entsperre SIM-Karte…</string>
+  <string name="pin_progress_unlock_icc">SIM-Karte entsperren…</string>
   <string name="pointer_location">Zeigerposition</string>
   <string name="pointer_location_summary">Bildschirmüberlagerung mit Anzeige aktueller Berührungsdaten</string>
   <string name="port_title">Portnummer</string>
@@ -1527,7 +1527,7 @@ Noch mal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</s
   <string name="private_dns_mode_provider_hostname_hint">Hostname des DNS Providers eingeben</string>
   <string name="private_num">Unterdrückte Nummer</string>
   <string name="proceed">Weiter</string>
-  <string name="progress_dialog_exiting_ecm">Notfallrückrufmodus wird beendet…</string>
+  <string name="progress_dialog_exiting_ecm">Notfallrückrufmodus beenden…</string>
   <string name="prompt_to_suggest_to_open_volte_from_operator">Keine Anrufe möglich. An China Telecom wenden, um den VoLTE-Dienst einzuschalten.</string>
   <string name="prompt_to_turnoff_volte_when_failed">VoLTE-Dienste sind nicht verfügbar. Schalten Sie VoLTE aus, um einen Anruf zu tätigen.</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">Service ist nicht verfügbar. Deaktivieren Sie VoLTE in den Einstellungen.</string>
@@ -1565,7 +1565,7 @@ Noch mal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</s
   <string name="register_automatically">Automatische Registrierung…</string>
   <string name="register_on_network">Registrierung an %s läuft…</string>
   <string name="registration_done">Am Netzwerk registriert</string>
-  <string name="registration_status_checking_status">Status wird geprüft…</string>
+  <string name="registration_status_checking_status">Status prüfen…</string>
   <string name="registration_status_done">Eingehende Anrufe aktiviert</string>
   <string name="registration_status_failed_try_later">Kontoregistrierung fehlgeschlagen: %s. Erneuter Versuch zu einem späteren Zeitpunkt.</string>
   <string name="registration_status_invalid_credentials">Kontoregistrierung fehlgeschlagen: Benutzername oder Passwort falsch</string>
@@ -1583,7 +1583,7 @@ Noch mal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</s
   <string name="reminder">Erinnerung</string>
   <string name="remove">Löschen</string>
   <string name="remove_sip_account">Konto entfernen</string>
-  <string name="removing_account">Konto wird entfernt…</string>
+  <string name="removing_account">Konto entfernen…</string>
   <string name="requesting_corporate_unlock">Erbitte SIM-Firmenentsperrung…</string>
   <string name="requesting_nw_subset_unlock">Erbitte SIM-Netzbereichentsperrung…</string>
   <string name="requesting_puk_unlock">Erbitte PUK Entsperrung…</string>
@@ -1649,7 +1649,7 @@ Noch mal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</s
   <string name="runningservices_settings_title">Laufende Dienste</string>
   <string name="save">Speichern</string>
   <string name="saved_network">Von %1$s gesichert</string>
-  <string name="saving_account">Konto wird gespeichert…</string>
+  <string name="saving_account">Konto speichern…</string>
   <string name="screen_zoom_summary_custom">Benutzerdefiniert (%d)</string>
   <string name="screen_zoom_summary_default">Standard</string>
   <string name="screen_zoom_summary_extremely_large">Größte</string>
@@ -1702,7 +1702,7 @@ Noch mal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</s
   <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
   <string name="simContacts_airplaneMode">Deaktivieren Sie zum Importieren der Kontakte von der SIM-Karte zunächst den Flugmodus</string>
   <string name="simContacts_empty">Keine Kontakte auf Ihrer SIM-Karte</string>
-  <string name="simContacts_emptyLoading">SIM-Karte wird gelesen…</string>
+  <string name="simContacts_emptyLoading">SIM-Karte lesen…</string>
   <string name="simContacts_title">SIM-Kartenkontakte verwalten</string>
   <string name="simFdnContacts_empty">Keine festen Wählkontakte</string>
   <string name="sim_accounts">SIM-Konten</string>
@@ -1947,7 +1947,7 @@ Nächster Datenzeitraum startet in %2$d Tagen (%3$s)"</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systemsprachen verwenden</string>
   <string name="user_guest">Gast</string>
   <string name="username_title">Benutzername</string>
-  <string name="ussdRunning">USSD-Code wird ausgeführt…</string>
+  <string name="ussdRunning">USSD-Code ausführen…</string>
   <string name="ut_not_support">UT ist nicht verfügbar</string>
   <string name="v7_preference_off">AUS</string>
   <string name="v7_preference_on">AN</string>
@@ -2008,7 +2008,7 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="voip_setting">VoIP-Einstellungen</string>
   <string name="volte_conf_member_reach_max">Maximale Anzahl an Konferenzteilnehmern wurde erreicht</string>
   <string name="volte_fail_to_invit_participants">Teilnehmer hinzufügen fehlgeschlagen</string>
-  <string name="volte_is_adding_participants">Teilnehmer wird/werden hinzugefügt, bitte warten…</string>
+  <string name="volte_is_adding_participants">Teilnehmer hinzugefügen, bitte warten…</string>
   <string name="volte_provision_notification_activate">Aktivieren</string>
   <string name="volte_provision_text">VoLTE-Anrufe bieten eine bessere Qualität als normale Anrufe. SMS zum Aktivieren senden?</string>
   <string name="volte_provision_title">VoLTE-Anrufe</string>

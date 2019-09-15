@@ -292,7 +292,7 @@
   <string name="location_no_recent_accesses">Kürzlich hat keine App auf den Standort zugegriffen</string>
   <string name="location_recent_location_access_view_details">Details ansehen</string>
   <string name="location_recent_location_requests_see_all">Alle anzeigen</string>
-  <string name="location_settings_loading_app_permission_stats">Wird geladen…</string>
+  <string name="location_settings_loading_app_permission_stats">Laden…</string>
   <string name="location_settings_summary_location_off">Aus</string>
   <string name="lock_screen_notifications_interstitial_message">Wie soll der Sperrbildschirm angezeigt werden?</string>
   <string name="lock_screen_notifications_interstitial_title">Sperrbildschirm</string>
@@ -341,7 +341,7 @@
   <string name="mobile_network_erase_sim">SIM löschen</string>
   <string name="mobile_network_erase_sim_dialog_body">Wenn Sie diese SIM löschen, wird der %1$s-Dienst von diesem Gerät entfernt.\n\nDer Dienst für %2$s wird nicht storniert.</string>
   <string name="mobile_network_erase_sim_dialog_ok">Löschen</string>
-  <string name="mobile_network_erase_sim_dialog_progress">SIM wird gelöscht…</string>
+  <string name="mobile_network_erase_sim_dialog_progress">SIM löschen…</string>
   <string name="mobile_network_erase_sim_dialog_title">Diese heruntergeladene SIM löschen?</string>
   <string name="mobile_network_erase_sim_error_dialog_body">Diese SIM kann aufgrund eines Fehlers nicht gelöscht werden.\n\nStarten Sie Ihr Gerät neu und versuchen Sie es noch einmal.</string>
   <string name="mobile_network_erase_sim_error_dialog_title">SIM kann nicht gelöscht werden</string>
@@ -367,13 +367,13 @@
   <string name="module_version">Google Play-Systemupdate</string>
   <string name="mr_button_content_description">Cast-Symbol</string>
   <string name="mr_cast_button_connected">Übertragungssymbol. Verbunden.</string>
-  <string name="mr_cast_button_connecting">Übertragungssymbol. Verbindung wird hergestellt.</string>
+  <string name="mr_cast_button_connecting">Übertragungssymbol. Verbinden.</string>
   <string name="mr_cast_button_disconnected">Übertragungssymbol. Nicht verbunden.</string>
   <string name="mr_cast_dialog_title_view_placeholder">Keine Informationen verfügbar</string>
   <string name="mr_chooser_searching">Geräte werden gesucht</string>
   <string name="mr_chooser_title">Streamen auf</string>
   <string name="mr_controller_album_art">Album-Cover</string>
-  <string name="mr_controller_casting_screen">Bildschirm wird übertragen</string>
+  <string name="mr_controller_casting_screen">Bildschirm übertragen</string>
   <string name="mr_controller_close_description">Schließen</string>
   <string name="mr_controller_collapse_group">Minimieren</string>
   <string name="mr_controller_disconnect">Trennen</string>
@@ -397,7 +397,7 @@
   <string name="mtrl_picker_range_header_prompt">Datumsbereich auswählen</string>
   <string name="network_4G">4G (empfohlen)</string>
   <string name="network_connected">Verbunden</string>
-  <string name="network_connecting">Verbindung wird hergestellt…</string>
+  <string name="network_connecting">Verbindung herstellen…</string>
   <string name="network_connection_connect_successful">Verbindung hergestellt</string>
   <string name="network_connection_errorstate_dialog_message">Ein Fehler ist aufgetreten. Die Anwendung hat die Anfrage zur Auswahl eines Geräts abgebrochen.</string>
   <string name="network_connection_request_dialog_showall">Alle anzeigen</string>
@@ -436,10 +436,10 @@
   <string name="notification_many_channel_count_summary">%1$d Benachrichtigungskanäle. Tippen, um alle zu verwalten.</string>
   <string name="notification_settings_work_profile">Für Apps im Arbeitsprofil ist der Benachrichtigungszugriff nicht verfügbar.</string>
   <string name="notification_silence_title">Lautlos</string>
-  <string name="osu_completing_sign_up">Anmeldung wird abgeschlossen…</string>
+  <string name="osu_completing_sign_up">Anmeldung abschließen…</string>
   <string name="osu_connect_failed">Verbindung nicht möglich</string>
   <string name="osu_opening_provider">%1$s wird geöffnet</string>
-  <string name="osu_sign_up_complete">Anmeldung abgeschlossen. Verbindung wird hergestellt…</string>
+  <string name="osu_sign_up_complete">Anmeldung abgeschlossen. Verbindung herstellen…</string>
   <string name="osu_sign_up_failed">Anmeldung konnte nicht abgeschlossen werden. Tippen, um es noch einmal zu versuchen.</string>
   <string name="overlay_option_device_default">Gemäß Standard fürs Gerät</string>
   <string name="overlay_toast_failed_to_apply">Überlagerung konnte nicht angewendet werden</string>
@@ -631,7 +631,7 @@
   <string name="wifi_dpp_choose_network">Mobilfunknetz auswählen</string>
   <string name="wifi_dpp_choose_network_to_connect_device">Wenn Sie Ihr Gerät verbinden möchten, wählen Sie ein Netzwerk</string>
   <string name="wifi_dpp_connect_network_using_qr_code">QR-Code verwenden, um diesem Netzwerk ein Gerät hinzuzufügen</string>
-  <string name="wifi_dpp_connecting">Verbindung wird hergestellt…</string>
+  <string name="wifi_dpp_connecting">Verbindung hergestellen…</string>
   <string name="wifi_dpp_could_not_add_device">Gerät konnte nicht hinzugefügt werden</string>
   <string name="wifi_dpp_could_not_detect_valid_qr_code">QR-Codes lesen nicht möglich. Halten Sie die Kamera so, dass der Code in der Mitte des Felds zu sehen ist, und versuchen Sie es noch einmal</string>
   <string name="wifi_dpp_device_found">Gerät gefunden</string>
@@ -649,7 +649,7 @@
   <string name="wifi_dpp_scan_qr_code_with_another_device">Diesen QR-Code scannen, um eine Verbindung mit \"%1$s\" herzustellen und das Passwort zu teilen</string>
   <string name="wifi_dpp_share_hotspot">Hotspot teilen</string>
   <string name="wifi_dpp_share_wifi">WLAN teilen</string>
-  <string name="wifi_dpp_sharing_wifi_with_this_device">WLAN wird für dieses Gerät freigegeben…</string>
+  <string name="wifi_dpp_sharing_wifi_with_this_device">WLAN für dieses Gerät freigeben…</string>
   <string name="wifi_dpp_wifi_password">WLAN-Passwort: %1$s</string>
   <string name="wifi_dpp_wifi_shared_with_device">WLAN mit Gerät geteilt</string>
   <string name="wifi_limited_connection">Eingeschränkte Verbindung</string>

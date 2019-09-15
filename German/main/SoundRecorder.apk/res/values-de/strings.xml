@@ -44,12 +44,12 @@
   <string name="err_msg_expired">Bestellung abgelaufen</string>
   <string name="err_msg_pending_value">Ausstehende Bewertung</string>
   <string name="err_msg_pengding_pay">Austehende Zahlung</string>
-  <string name="err_msg_processing">Verarbeitung</string>
-  <string name="err_msg_refuse">fehlgeschlagen</string>
-  <string name="err_msg_transcript_fail">Übertragen fehlgeschlagen</string>
-  <string name="err_msg_transcript_processing">Übertragung</string>
+  <string name="err_msg_processing">Verarbeitung…</string>
+  <string name="err_msg_refuse">Übertragung fehlgeschlagen</string>
+  <string name="err_msg_transcript_fail">Übertragung fehlgeschlagen</string>
+  <string name="err_msg_transcript_processing">Übertragung…</string>
   <string name="err_msg_transcript_queue">Übertragungswarteschlange</string>
-  <string name="err_msg_transcript_success">Übertragen erfolgt</string>
+  <string name="err_msg_transcript_success">Übertragung erfolgt</string>
   <string name="error_app_internal">Möglicherweise wird die Aufnahmesoftware von einer anderen App benutzt. Prüfen und erneut versuchen.</string>
   <string name="error_app_internal_title">Soundrekorderfehler</string>
   <string name="error_file_access">Datei existiert nicht oder ist beschädigt</string>
@@ -101,7 +101,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="no_downloading_file">Momentan werden keine Dateien heruntergeladen</string>
   <string name="no_file">Leer</string>
   <string name="notification_message_all_paused">Kann den mobilen Datenverbrauch erhöhen</string>
-  <string name="notification_playback">Wird abgespielt…</string>
+  <string name="notification_playback">Abspielen…</string>
   <string name="notification_recording">Aufnahme läuft…</string>
   <string name="notification_recording_ticker">Telefon stumm. Aufnahme…</string>
   <string name="notification_stopped">Aufnahme wurde beendet</string>
@@ -128,7 +128,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="online_recognize_order_unit_price_value">RMB %s pro Stunde</string>
   <string name="online_recognize_order_upload">Hochladen</string>
   <string name="online_recognize_order_uploading">%s hochladen…</string>
-  <string name="online_recognize_other_order_upload">Audio wird hochgeladen</string>
+  <string name="online_recognize_other_order_upload">Warten, bis die aktuellen Uploads abgeschlossen sind, und erneut versuchen.</string>
   <string name="online_recognize_running">Übertragung…</string>
   <string name="online_recognize_service_unavailable">Service ist derzeit nicht verfügbar. Bitte später versuchen.</string>
   <string name="order_item_duration">Dauer: %s</string>
@@ -162,7 +162,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="recognition_error_download_msg">Laden Sie die Spracherkennungssoftware herunter, um diesen Dienst zu verwenden.</string>
   <string name="recognition_error_download_ok">Herunterladen</string>
   <string name="recognition_error_download_title">Spracherkennungs-SW fehlt</string>
-  <string name="recognition_error_downloading">>Wird heruntergeladen</string>
+  <string name="recognition_error_downloading">>"Herunterladen "</string>
   <string name="recognition_error_engine">Spracherkennungs-SW außer Betrieb</string>
   <string name="recognition_error_engine_singleton">Spracherkennungs-SW ist beschäftigt</string>
   <string name="recognition_error_format">Illegales Audioformat</string>
@@ -173,8 +173,8 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
   <string name="recognition_process_dialog_cancel">Warteschlange</string>
   <string name="recognition_process_dialog_confirm">Start erzwingen</string>
   <string name="recognition_process_dialog_title">Anerkennungstipp</string>
-  <string name="recognition_status_downloaded">Erkennugsprogramm herunterladen</string>
-  <string name="recognition_status_downloading">Wird heruntergeladen</string>
+  <string name="recognition_status_downloaded">Erkennugsprogramm erfolgreich heruntergeladen</string>
+  <string name="recognition_status_downloading">"Herunterladen "</string>
   <string name="recognition_status_init">vorbereiten</string>
   <string name="recognition_terms">"Hallo, sehr geehrte Nutzer!
 Willkommen bei der Nutzung des Sprache-zu-Text-Dienstes in Xiaomi Rekorder. Dieser Service wird von Anhui Hearing Technology Co. Ltd. angeboten, die in der Lage ist, die Aufnahme schnell in Text zu sortieren, das Problem von Sprache-zu-Text in verschiedenen Szenen wie täglichen Meetings, Bildung und Ausbildung, Medienkommunikation zu lösen und die Arbeit zu verbessern. Effektivität.
@@ -226,7 +226,7 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
   <string name="record_picker_title">Aufnahme auswählen</string>
   <string name="record_quliaty_preference_title">Aufnahmequalität</string>
   <string name="record_resotre">Datensätze wiederherstellen</string>
-  <string name="record_saving">Aufnahme wird gespeichert…</string>
+  <string name="record_saving">Aufnahme speichern…</string>
   <string name="recording">Aufnahme</string>
   <string name="recording_quality_high">Hohe Qualität</string>
   <string name="recording_quality_low">Niedrige Qualität</string>
@@ -265,7 +265,7 @@ Um den Sprache-zu-Text-Dienst besser nutzen zu können, müssen Sie auch Folgend
   <string name="shortcut_stop_record">Aufnahme stoppen</string>
   <string name="sound_recorder_settings">Einstellungen</string>
   <string name="speech_recognition_complete">Abgeschlossen</string>
-  <string name="speech_recognition_running_tip">Wird durchgeführt</string>
+  <string name="speech_recognition_running_tip">"Durchführen "</string>
   <string name="start">Fortsetzen</string>
   <string name="start_recording">Aufnahme starten</string>
   <string name="status_bar_back">Zurück mit Antippen</string>
