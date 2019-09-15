@@ -624,8 +624,9 @@ Bitte senden Sie diesen Code an den Techniker."</string>
   <string name="mw_find_previous">Vorherige suchen</string>
   <string name="mw_http_post_warning">Gesuchte Seite hat Informationen verwendet, die Sie eingegeben haben. Wenn Sie zu dieser Seite zurückkehren, kann es vorkommen, dass eine Aktion, die Sie durchgeführt haben, wiederholt wird. Wollen Sie weitermachen?</string>
   <string name="mw_http_post_warning_resend">Weiter</string>
-  <string name="mw_js_dialog_before_unload">%s
-  Sind Sie sicher, dass Sie diese Seite verlassen wollen?</string>
+  <string name="mw_js_dialog_before_unload">"%s
+
+Sind Sie sicher, dass Sie diese Seite verlassen wollen?"</string>
   <string name="mw_js_dialog_before_unload_negative_button">Auf dieser Seite bleiben</string>
   <string name="mw_js_dialog_before_unload_positive_button">Diese Seite verlassen</string>
   <string name="mw_js_dialog_before_unload_title">Navigation bestätigen</string>
@@ -1287,9 +1288,14 @@ Browser muss mit dem Internet verbunden sein, um richtig zu funktionieren. Sie m
   <string name="suggestion_sliding_item_more_text">MEHR SEHEN</string>
   <string name="suggestion_topic_subtitle_hyphen">Fokus</string>
   <string name="suggestion_translation_more">MEHR ANZEIGEN</string>
-  <string name="switchText">JA</string>
   <string name="switch_proxy_dialog_msg">Netzwerk-Hijacking erkannt. Verwenden Sie die integrierte MIUI Sicherheits-App oder melden Sie diesen Vorfall Ihrem Netzbetreiber.</string>
   <string name="switch_proxy_dialog_title">Netzwerk-Hijacking</string>
+  <string name="switchText">JA</string>
+  <string name="system_permission_accounts_purpose">Wird für die Anmeldung und Verwaltung des Systemkontos verwendet.</string>
+  <string name="system_permission_main_purpose">Im Internet surfen, nach Informationen suchen, Nachrichten lesen, Videos ansehen etc.</string>
+  <string name="system_permission_phone_state_purpose">Wird verwendet, um die IMEI-Kennung des Geräts abzurufen und den entsprechenden Dienst bereitzustellen</string>
+  <string name="system_permission_storage_purpose">Wird verwendet, um Dateien wie gespeicherte Bilder zu lesen und zu schreiben und um Funktionen zum Hoch- und Herunterladen von Dateien zu aktivieren</string>
+  <string name="system_permission_user_agreement_url">http://www.miui.com/res/doc/eula/de.html</string>
   <string name="sync_and_backup_bookmark">Synchronisieren und Lesezeichen sichern</string>
   <string name="sync_and_backup_history">Synchronisieren und Sichern von Ereignissen</string>
   <string name="sync_cloud_tabs">Synchronisation</string>
