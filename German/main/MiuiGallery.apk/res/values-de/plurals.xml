@@ -40,8 +40,8 @@
   <plurals name="add_to_album_failed_with_reason_and_count">
     <item quantity="other">%2$d Elemente können nicht zum Album hinzugefügt werden. %1$s.</item>
     <item quantity="one">%2$d Element kann nicht zum Album hinzugefügt werden. %1$s.</item>
-   </plurals>
-   <plurals name="add_to_secret_failed_with_reason_and_count">
+  </plurals>
+  <plurals name="add_to_secret_failed_with_reason_and_count">
     <item quantity="other">%2$d Elemente können nicht zu einem versteckten Album hinzugefügt werden. %1$s.</item>
     <item quantity="one">%2$d Element kann nicht zu einem versteckten Album hinzugefügt werden. %1$s.</item>
   </plurals>
@@ -90,10 +90,6 @@
     <item quantity="one">Wiederaufnahme der Sicherung in %d Stunde</item>
   </plurals>
     <plurals name="backup_file_over_size_title">
-    <item quantity="other">%d Elemente sind zu groß, um sie zu sichern</item>
-    <item quantity="one">%d Element ist zu groß, um es zu sichern</item>
-  </plurals>
-  <plurals name="sync_oversized_count">
     <item quantity="other">%d Elemente sind zu groß, um sie zu sichern</item>
     <item quantity="one">%d Element ist zu groß, um es zu sichern</item>
   </plurals>
@@ -225,6 +221,10 @@
     <item quantity="other">Insgesamt %1$d</item>
     <item quantity="one">Insgesamt %1$d </item>
   </plurals>
+  <plurals name="file_type_detail_count">
+    <item quantity="other">%1$d Dateien</item>
+    <item quantity="one">%1$d Datei</item>
+  </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Vor 1 halben Stunde</item>
   </plurals>
@@ -283,10 +283,6 @@
   <plurals name="photo_count_format">
     <item quantity="other">%1$d Elemente insgesamt</item>
     <item quantity="one">Nur %1$d Element</item>
- </plurals>
-   <plurals name="video_count_format">
-    <item quantity="other">%1$d Dateien</item>
-    <item quantity="one">%1$d Datei</item>
  </plurals>
   <plurals name="picker_all_image_need_download">
     <item quantity="other">Ausgewählte Fotos sind nicht auf diesem Gerät, über die mobile Datenverbindung herunterladen?</item>
@@ -376,8 +372,16 @@
     <item quantity="other">%d Fotos und Videos wurden nicht gesichert</item>
     <item quantity="one">%d Foto oder Video wurde nicht gesichert</item>
   </plurals>
+  <plurals name="sync_oversized_count">
+    <item quantity="other">%d Elemente sind zu groß, um sie zu sichern</item>
+    <item quantity="one">%d Element ist zu groß, um es zu sichern</item>
+  </plurals>
   <plurals name="sync_total_count">
     <item quantity="other">%d Elemente</item>
     <item quantity="one">%d Element</item>
+  </plurals>
+  <plurals name="video_count_format">
+    <item quantity="other">%1$d Dateien</item>
+    <item quantity="one">%1$d Datei</item>
   </plurals>
 </resources>
