@@ -1385,6 +1385,7 @@ Diese Funktion kann unter [Einstellungen] deaktiviert werden."</string>
   <string name="choose_assist_title">Assistent auswählen</string>
   <string name="choose_keyguard_clock_style">Uhrenstil auf Sperrbildschirm</string>
   <string name="choose_keyguard_clock_summary">Diese Einstellung funktioniert nicht mit Themen von Drittanbietern</string>
+  <string name="choose_lock_pattern_header_text">Muster festlegen</string>
   <string name="choose_unlock_face_msg">Bildschirmsperre festlegen, bevor Sie Ihre Gesichtsdaten aufnehmen.</string>
   <string name="choose_unlock_fingerprint_msg">Bildschirmsperre festlegen, bevor Sie Ihren Fingerabdruck hinzufügen.</string>
   <string name="choose_profile">Profil wählen</string>
@@ -1553,6 +1554,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
   <string name="confirm_reject_all_permission">Alle Apps daran hindern, diese Funktion zu nutzen?</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Drosselungsszähler des ShortcutManager zurücksetzen?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Drosselung für ShortcutManager zurücksetzen?</string>
+  <string name="confirm_lock_pattern_header_text">Ihr Muster zeichnen</string>
   <string name="connect_mode">Verbindungstyp</string>
   <string name="connect_to_internet">Verbindung zum Netzwerk</string>
   <string name="connect_wifi">Mit WLAN verbinden</string>
@@ -2568,11 +2570,11 @@ Die böse Hexe des Westens sendet Wölfe, Krähen, Bienen, ihre Winkie-Soldaten 
   <string name="forget">Vergessen</string>
   <string name="forget_password_button_text"><u>Passwort vergessen</u></string>
   <string name="forget_password_dialog_button_text">Zurück</string>
-  <string name="forget_password_dialog_content_four"><Data>2. Wählen Sie &lt;font color=#e6e6e6>[Daten löschen]&lt;/font> und warten Sie, bis Ihr Gerät neu startet.</Data></string>
+  <string name="forget_password_dialog_content_four"><Data>2. [Daten löschen] wählen und warten, bis Ihr Gerät neu startet.</Data></string>
   <string name="forget_password_dialog_content_one"><Data>"Wenn Sie Ihr Passwort vergessen, können Sie es nicht wiederherstellen. Sie können Ihr Passwort jedoch zurücksetzen, nachdem Sie &lt;font color=#ec2700>alle Daten auf Ihrem Gerät gelöscht haben&lt;/font> (einschließlich Fotos, Kontakte usw.). Sichern Sie vorher alle wichtigen Daten."</Data></string>
-  <string name="forget_password_dialog_content_three"><Data>"1. Schalten Sie Ihr Gerät aus. Drücken Sie die Tasten &lt;font color=#e6e6e6e6>[Power]&lt;/font> und &lt;font color=#e6e6e6e6>[Volume+]&lt;/font> gleichzeitig und halten Sie sie gedrückt, bis Sie das Symbol &lt;img src=''> sehen."</Data></string>
+  <string name="forget_password_dialog_content_three"><Data>"1. Schalten Sie Ihr Gerät aus. Drücken Sie die Tasten [Power] und [Volume+] gleichzeitig und halten Sie sie gedrückt, bis Sie das * Symbol sehen."</Data></string>
   <string name="forget_password_dialog_content_two">Folgen Sie diesen Schritten, um Daten zu löschen:</string>
-  <string name="forget_password_dialog_title">Passwort zurücksetzen</string>
+  <string name="forget_password_dialog_title">Daten löschen</string>
   <string name="forget_pattern"><u>Muster vergessen?</u></string>
   <string name="forget_privacy_password_setting">Mi Konto hinzufügen</string>
   <string name="forget_privacy_password_summary">Mi Konto verwenden, um das Passwort zurückzusetzen</string>
@@ -4391,7 +4393,7 @@ OTG schaltet sich nach 10 Minuten Inaktivität automatisch aus."</string>
   <string name="pref_title_lang_selection">Spracheinstellungen</string>
   <string name="pref_title_network_details">Netzwerkdetails</string>
   <string name="pref_title_update_notification">Benachrichtigungen zur Datennutzung</string>
-  <string name="pref_volume_launch_camera_summary">Leiser Taste zweimal drücken, um die Kamera zu öffnen</string>
+  <string name="pref_volume_launch_camera_summary">\"Leiser Taste\" zweimal drücken, um die Kamera zu öffnen wenn der Bildschirm gesperrt ist</string>
   <string name="pref_volume_launch_camera_title">Kamera öffnen</string>
   <string name="pref_volume_wake_summary">Lautstärketasten drücken, um Telefon aufzuwecken</string>
   <string name="pref_volume_wake_title">Lautstärketasten</string>
