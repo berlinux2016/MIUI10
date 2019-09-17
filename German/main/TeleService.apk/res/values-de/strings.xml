@@ -71,9 +71,9 @@
   <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_ERROR">PUK Entsperrung fehlgeschlagen</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_IN_PROGRESS">PUK Entsperrung anfordern…</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_SUCCESS">PUK Entsperrung erfolgreich</string>
-  <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ENTRY">SIM Netzwerk subset PIN entpserren</string>
+  <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ENTRY">SIM Netzwerk Subset PIN entpserren</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ERROR">SIM Netzwerk Subset Entsperrungsanfrage fehlgeschlagen</string>
-  <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_IN_PROGRESS">SIM Netzwerk subset Entsperrung anfragen…</string>
+  <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_IN_PROGRESS">SIM Netzwerk Subset Entsperrung anfragen…</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_PUK_ENTRY">PUK eingeben</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_PUK_ERROR">PUK Entsperrung fehlgeschlagen</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_PUK_IN_PROGRESS">PUK Entsperrung anfordern…</string>
@@ -295,9 +295,9 @@
   <string name="bluetooth_hearing_aid_profile_summary_connected">Mit Hörgerät verbunden</string>
   <string name="bluetooth_hearing_aid_profile_summary_use_for">Als Hörgerät verwenden</string>
   <string name="bluetooth_hearingaid_left_battery_level">Links - %1$s Akku</string>
-  <string name="bluetooth_hearingaid_left_pairing_message">Koppeln linkes Hörgerät…</string>
+  <string name="bluetooth_hearingaid_left_pairing_message">Linkes Hörgerät koppeln…</string>
   <string name="bluetooth_hearingaid_right_battery_level">Rechts - %1$s Akku</string>
-  <string name="bluetooth_hearingaid_right_pairing_message">Koppeln rechtes Hörgerät…</string>
+  <string name="bluetooth_hearingaid_right_pairing_message">Rechtes Hörgerät koppeln…</string>
   <string name="bluetooth_hid_profile_summary_connected">Mit Eingabegerät verbunden</string>
   <string name="bluetooth_hid_profile_summary_use_for">Für Eingabe verwenden</string>
   <string name="bluetooth_map_profile_summary_connected">Mit Karte verbunden</string>
@@ -923,7 +923,7 @@ Tippen Sie 'Löschen und konvertieren…', um fortzufahren."</string>
   <string name="exportAllcontatsNoContacts">Keine Kontakte gefunden</string>
   <string name="exportAllcontatsSuccess">Alle Kontakte auf die SIM-Karte exportiert</string>
   <string name="exportContactScreen">Telefonkontakte auf die SIM-Karte exportieren</string>
-  <string name="exportContacts">Exportiere…</string>
+  <string name="exportContacts">Exportieren…</string>
   <string name="external_source_trusted">Erlaubt</string>
   <string name="external_source_untrusted">Nicht erlaubt</string>
   <string name="failedToImportSingleContactMsg">Kontaktimport fehlgeschlagen</string>
@@ -1319,7 +1319,7 @@ Kontaktieren Sie Ihren Anbieter."</string>
   <string name="ota_hfa_activation_title">Aktivieren…</string>
   <string name="ota_listen">Folgen Sie den gesprochenen Anweisungen, bis Sie hören, dass die Aktivierung abgeschlossen ist.</string>
   <string name="ota_next">Weiter</string>
-  <string name="ota_progress">Programmieren Ihres Telefons…</string>
+  <string name="ota_progress">Ihr Telefons programmieren…</string>
   <string name="ota_skip_activation_dialog_message">Wenn Sie die Aktivierung überspringen, können Sie keine Anrufe tätigen oder sich mit mobilen Datennetzen verbinden (WLAN-Netzverbindung funtioniert weiterhin). Bis Sie Ihr Telefon aktivieren, werden Sie jedes Mal beim Einschalten zur Aktivierung gefragt.</string>
   <string name="ota_skip_activation_dialog_skip_label">Überspringen</string>
   <string name="ota_skip_activation_dialog_title">Aktivierung überspringen?</string>
@@ -1559,7 +1559,7 @@ Erneut versuchen oder den Kundendienst für weitere Optionen anrufen."</string>
   <string name="radio_off_error">Aktivieren Sie Ihre Mobilfunkverbindung, bevor Sie diese Einstellungen anzeigen</string>
   <string name="rc_unlock_failed">Firmen-RUIM-Entsperrung fehlgeschlagen</string>
   <string name="rc_unlock_success">Entsperren der Firmen-RUIM erfolgreich</string>
-  <string name="reading_settings">Einstellungen werden gelesen…</string>
+  <string name="reading_settings">Einstellungen lesen…</string>
   <string name="regional_disable">Regionalnachrichten deaktiviert</string>
   <string name="regional_enable">Regionalnachrichten aktiviert</string>
   <string name="register_automatically">Automatische Registrierung…</string>
@@ -1797,7 +1797,7 @@ Erneut versuchen oder den Kundendienst für weitere Optionen anrufen."</string>
   <string name="sum_fdn_manage_list">Beschränkungsliste verwalten</string>
   <string name="sum_gsm_call_settings">Zusätzliche Anrufeinstellungen nur für GSM</string>
   <string name="sum_hide_caller_id">Nummer bei ausgehenden Anrufen verstecken</string>
-  <string name="sum_loading_settings">Lade Einstellungen…</string>
+  <string name="sum_loading_settings">Einstellungen laden…</string>
   <string name="sum_search_networks">Nach verfügbaren Netzwerken suchen</string>
   <string name="sum_select_automatically">Bevorzugtes Netzwerk automatisch auswählen</string>
   <string name="sum_show_caller_id">Nummer bei ausgehenden Anrufen anzeigen</string>
@@ -1936,8 +1936,8 @@ Nächster Datenzeitraum startet in %2$d Tagen (%3$s)"</string>
   <string name="unlock_chances_left">Verbleibende Versuche:</string>
   <string name="unlock_failed">Anfrage Netzwerkentsperrung nicht erfolgreich</string>
   <string name="unlock_success">SIM-Netzwerkentsperrung erfolgreich</string>
-  <string name="updating_fdn_contact">Zugelassene Rufnummer wird aktualisiert…</string>
-  <string name="updating_settings">Einstellungen werden aktualisiert…</string>
+  <string name="updating_fdn_contact">Zugelassene Rufnummer aktualisieren…</string>
+  <string name="updating_settings">Einstellungen aktualisieren…</string>
   <string name="updating_title">Anrufeinstellungen</string>
   <string name="uplmn_list_setting_add_plmn">Neuer PLMN</string>
   <string name="uplmn_list_setting_title">Bevorzugte Netzwerke</string>
@@ -2044,7 +2044,7 @@ Notrufe sind nur in Gebieten mit Mobilfunkabdeckung möglich."</string>
   <string name="wapi_cert_manage_error">Fehler beim Setzen des WAPI-Zertifikats</string>
   <string name="wapi_cert_manage_summary">Hinzufügen oder Löschen des WAPI-Zertifikats</string>
   <string name="wapi_cert_manage_title">WAPI-Zertifikatsverwaltung</string>
-  <string name="wapi_cert_roaming">Vebinden…</string>
+  <string name="wapi_cert_roaming">Verbinden…</string>
   <string name="wapi_no">Nein</string>
   <string name="wapi_no_vaild_cert">Keine Zertifikate vorhanden, jetzt installieren?</string>
   <string name="wapi_password_hex_format_add">Anzahl der hexadezimalen Zeichen darf nicht ungerade sein</string>
